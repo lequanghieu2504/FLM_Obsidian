@@ -1,0 +1,14 @@
+---
+id: subject:CEA201b
+type: Subject
+code: CEA201b
+name: COMPUTER ORGANIZATION AND ARCHITECTURE
+---
+
+# CEA201b
+
+COMPUTER ORGANIZATION AND ARCHITECTURE
+
+## Syllabus Versions
+
+- [[SYL-850]]
