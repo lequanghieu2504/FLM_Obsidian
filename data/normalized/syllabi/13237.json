@@ -1,0 +1,915 @@
+{
+  "syllabus_id": 13237,
+  "subject_code": "TAB201",
+  "subject_name": "Travel Agency Business_Kinh doanh đại lý du lịch",
+  "syllabus_name": "Travel Agency Business_Kinh doanh đại lý du lịch",
+  "credits": 3,
+  "degree_level": "Bachelor",
+  "time_allocation": "Study hour (150h) = 45h (60 sessions) contact hours + 1h final exam + 104h self-study",
+  "prerequisite": "HMO102",
+  "general_information": {
+    "Syllabus ID": "13237",
+    "Syllabus Name": "Travel Agency Business_Kinh doanh đại lý du lịch",
+    "Course Name English": "Travel Agency Business",
+    "Subject Code": "TAB201",
+    "Learning-Teaching Method": "Lecture,Presenting,Problem based learning,Social Constructivism",
+    "NoCredit": "3",
+    "Degree Level": "Bachelor",
+    "Time Allocation": "Study hour (150h) = 45h (60 sessions) contact hours + 1h final exam + 104h self-study",
+    "Pre-Requisite": "HMO102",
+    "Description": "Objectives: After completing the course, students will understand the background, operations, and structure of travel agency and tour operation. Students will understand the differences between tour operator and travel agency, and will be able to examine and evaluate how these two types of businesses operate as a foundation for future professional growth. Description: This subject covers Travel Agency philosophy, ideas, and prerequisites for running a travel agency firm. Practical case studies from travel agencies worldwide and in Vietnam will be interspersed with these principles. In these case studies, students must discuss and work in groups so that teachers can assess their knowledge and expertise through presentations and tests.",
+    "StudentTasks": "- Class attendance is strongly encouraged. Attend at least 80% of class hours in order to be accepted to the final examination - Actively participate in class activities - Fulfill tasks given by instructor after class - Use their own laptop in class only for learning purposes - Read the textbook in advance - Access the course website (http://flm.fpt.edu.vn) for up-to-date information and material of the course, for online support from teachers and other students, and for practicing and assessment.",
+    "Tools": "Internet",
+    "Scoring Scale": "10",
+    "DecisionNo MM/dd/yyyy": "932/QĐ-ĐHFPT dated 08/22/2025",
+    "IsApproved": "True",
+    "Note": "",
+    "Is Scored": "True",
+    "MinAvgMarkToPass": "5",
+    "IsActive": "True",
+    "ApprovedDate": "8/22/2025"
+  },
+  "active": true,
+  "approved": true,
+  "decision": "932/QĐ-ĐHFPT dated 08/22/2025",
+  "description": "Objectives: After completing the course, students will understand the background, operations, and structure of travel agency and tour operation. Students will understand the differences between tour operator and travel agency, and will be able to examine and evaluate how these two types of businesses operate as a foundation for future professional growth. Description: This subject covers Travel Agency philosophy, ideas, and prerequisites for running a travel agency firm. Practical case studies from travel agencies worldwide and in Vietnam will be interspersed with these principles. In these case studies, students must discuss and work in groups so that teachers can assess their knowledge and expertise through presentations and tests.",
+  "learning_outcomes": [
+    {
+      "No.": "1",
+      "CLO Name": "CLO1",
+      "CLO Details": "Understand the basic operations, organizational structure, historical evolution, main characteristics and quality standards of a travel agency\""
+    },
+    {
+      "No.": "2",
+      "CLO Name": "CLO2",
+      "CLO Details": "Describe the primary functions of a travel agency and clarify how these functions seamlessly integrate with the operations of other service businesses throughout a tour."
+    },
+    {
+      "No.": "3",
+      "CLO Name": "CLO3",
+      "CLO Details": "Examine the similarities and contrasts between a travel agency and a tour operation to better understand the distinctions between these two types."
+    },
+    {
+      "No.": "4",
+      "CLO Name": "CLO4",
+      "CLO Details": "Maintain ethical and professional conduct standards is of the utmost importance in the tourism industry"
+    },
+    {
+      "No.": "5",
+      "CLO Name": "CLO5",
+      "CLO Details": "Determine the structure of the travel agency, and list of businesses along with their respective functions in the tourism industry is provided."
+    },
+    {
+      "No.": "6",
+      "CLO Name": "CLO6",
+      "CLO Details": "Identify the environmental repercussions, the social, cultural and economic effects that travel agencies have on the countries that they serve as destinations."
+    },
+    {
+      "No.": "7",
+      "CLO Name": "CLO7",
+      "CLO Details": "Desmontrate good skills, tactics, and attitudes to carry out the basic duties of a travel agency executive."
+    },
+    {
+      "No.": "8",
+      "CLO Name": "CLO8",
+      "CLO Details": "Discuss the relationship between the transportation industry, tour operators, and travel agencies."
+    },
+    {
+      "No.": "9",
+      "CLO Name": "CLO9",
+      "CLO Details": "Apply learned knowledge to analyze travel agency strategies through case studies"
+    }
+  ],
+  "assessments": [
+    {
+      "No.": "1",
+      "Category": "Case study analysis",
+      "Type": "on-going",
+      "Part": "4",
+      "Weight": "40.0%",
+      "Completion Criteria": ">0",
+      "Duration": "Block/ Part 1: session 10, session 11, session 12 Block/ Part 2: session 25, session 26, session 27 Block/ Part 3: session 38, session 39, session 40 Block/ Part 4: session 53, session 54, session 55",
+      "CLO": "CLO1, CLO2, CLO3, CLO4, CLO6, CLO7, CLO8, CLO9",
+      "Question Type": "Discussion and Presentation",
+      "No Question": "Discussion and Presentation: 20-25 mins/group",
+      "Knowledge and Skill": "All knowledge which belong to every single block.",
+      "Grading Guide": "Students will work in groups of 4-5 students and will be assigned to be in charge of a case study stated in the syllabus (assigned by the instructor) related to the topics in each block learned in the lessons. last week. They must analyze the case study by answering the questions raised in the case.",
+      "Note": ""
+    },
+    {
+      "No.": "2",
+      "Category": "Class participation and preparation",
+      "Type": "on-going",
+      "Part": "1",
+      "Weight": "10.0%",
+      "Completion Criteria": ">0",
+      "Duration": "During all courses",
+      "CLO": "CLO7",
+      "Question Type": "",
+      "No Question": "",
+      "Knowledge and Skill": "",
+      "Grading Guide": "Participation grade will be given based on students' preparation, and quantity as well as quality of participation in classroom; quality of participation is demonstrated through asking relevant questions, making statements that add to and facilitate class discussion, and builds upon others’ comments. Class preparation and pre-reading before lecture will be assessed upon individuals' understanding and ability to answer questions in the class. Individuals will be called up randomly to be assessed.",
+      "Note": ""
+    },
+    {
+      "No.": "3",
+      "Category": "Group assignment",
+      "Type": "on-going",
+      "Part": "1",
+      "Weight": "25.0%",
+      "Completion Criteria": ">0",
+      "Duration": "Slot 9, 24, 53, 54, 55, 56, 57, 58, 59",
+      "CLO": "All CLOs",
+      "Question Type": "Written report and presentation",
+      "No Question": "Written report: limitation of 4000 words Presentation: 30 mins/group",
+      "Knowledge and Skill": "All Topics",
+      "Grading Guide": "Each group prepares and presents to the class a plan/idea for operating/business development for their travel agency: Objective: what needs to be achieved (in-depth analysis) Requirements in the plan: clearly present elements that cover the necessary characteristics of a travel agency mentioned in the learning blocks, travel companies/agencies depending on the student's ideas. It can be a start-up or a company with many years of experience in the industry. Students need to note that each different nature of tourism business will have different requirements and knowledge. Students must submit reports in both written and oral form",
+      "Note": ""
+    },
+    {
+      "No.": "4",
+      "Category": "Quiz",
+      "Type": "on-going",
+      "Part": "1",
+      "Weight": "5.0%",
+      "Completion Criteria": ">0",
+      "Duration": "45 minutes in class",
+      "CLO": "CLO1, CLO2, CLO3, CLO4, CLO6,CLO7, CLO8,",
+      "Question Type": "MCQs",
+      "No Question": "30 MCQs / 45 minutes",
+      "Knowledge and Skill": "All knowledge which belong to every single block.",
+      "Grading Guide": "in class, by instructor",
+      "Note": "Instruction and shedules for Quiz must be presented in the Course Implementation Plan approved by director of the campus.Quiz must be taken right after the last lecture of required material."
+    },
+    {
+      "No.": "5",
+      "Category": "Final Exam",
+      "Type": "Final exam",
+      "Part": "1",
+      "Weight": "20.0%",
+      "Completion Criteria": "4",
+      "Duration": "60'",
+      "CLO": "All CLOs",
+      "Question Type": "MCQs",
+      "No Question": "50 MCQs",
+      "Knowledge and Skill": "All Topics",
+      "Grading Guide": "Not allow to use any document/information in any form in exam room Organized by Exam Board",
+      "Note": ""
+    }
+  ],
+  "schedule": [
+    {
+      "Session": "1",
+      "Topic": "-Course Overview -Introduction to AI Integration in the course -BLOCK 1: INTRODUCTION TO TRAVEL & TOURISM TRADE Unit 1: HISTORICAL BACKGROUND OF TRAVEL TRADE 1.1 Evolution of Travel Business 1.2 History of Travel Trade 1.3 Timeline in the Development of Tourism Worldwide",
+      "Learning-Teaching Type": "Offline",
+      "LO": "CLO1",
+      "ITU": "I",
+      "Student Materials": "- Review TAB201 - Read textbook UNIT 1/ BLOCK 1 - Read slides",
+      "S-Download": "",
+      "Student's Tasks": "Download learning materials, prepare lessons before class, and ask relevant questions.",
+      "URLs": "link"
+    },
+    {
+      "Session": "2",
+      "Topic": "BLOCK 1: INTRODUCTION TO TRAVEL & TOURISM TRADE Unit 1: HISTORICAL BACKGROUND OF TRAVEL TRADE (Con't) 1.4 Discussion - History of Travel Agency Business in Vietnam",
+      "Learning-Teaching Type": "Offline",
+      "LO": "CLO1",
+      "ITU": "I",
+      "Student Materials": "- Review TAB201 - Read textbook UNIT 1/ BLOCK 1 - Read slides",
+      "S-Download": "",
+      "Student's Tasks": "Review Chapter Discussion Divide into groups of 4 - 5 students. Investigate about TA Vietnam",
+      "URLs": ""
+    },
+    {
+      "Session": "3",
+      "Topic": "BLOCK 1: INTRODUCTION TO TRAVEL & TOURISM TRADE Unit 1: HISTORICAL BACKGROUND OF TRAVEL TRADE (Con't) 1.5 Presentation - History of Travel Agency Business in Vietnam",
+      "Learning-Teaching Type": "Offline",
+      "LO": "CLO1",
+      "ITU": "I",
+      "Student Materials": "- Review TAB201 - Read textbook UNIT 1/ BLOCK 1 - Read slides",
+      "S-Download": "",
+      "Student's Tasks": "Present",
+      "URLs": ""
+    },
+    {
+      "Session": "4",
+      "Topic": "BLOCK 1: INTRODUCTION TO TRAVEL & TOURISM TRADE Unit 2: Classification of Travel Agents & Tour Operators 2.1 Introduction 2.2 Meaning of Travel Agency 2.3 Types of Travel Agency 2.4 Other Types of Travel Agencies",
+      "Learning-Teaching Type": "Offline",
+      "LO": "CLO1",
+      "ITU": "I",
+      "Student Materials": "- Review TAB201 - Read textbook UNIT 2/ BLOCK 1 - Read slides",
+      "S-Download": "",
+      "Student's Tasks": "Review Chapter Discussion",
+      "URLs": ""
+    },
+    {
+      "Session": "5",
+      "Topic": "BLOCK 1: INTRODUCTION TO TRAVEL & TOURISM TRADE Unit 2: Classification of Travel Agents & Tour Operators (CON'T) 2.5 Meaning of Tour Operator 2.6 Types of Tour Operator 2.7 Other Significant Tour Operators 2.8 Difference between Travel Agent and Tour Operator",
+      "Learning-Teaching Type": "Offline",
+      "LO": "CLO1",
+      "ITU": "I",
+      "Student Materials": "- Review TAB201 - Read textbook UNIT 2/ BLOCK 1 - Read slides",
+      "S-Download": "",
+      "Student's Tasks": "Review Chapter Discussion",
+      "URLs": ""
+    },
+    {
+      "Session": "6",
+      "Topic": "BLOCK 1: INTRODUCTION TO TRAVEL & TOURISM TRADE Unit 2: Classification of Travel Agents & Tour Operators (cont') 2.9 Discussion of Travel Agencies and Tour Operators in Vietnam",
+      "Learning-Teaching Type": "Offline",
+      "LO": "CLO1",
+      "ITU": "I",
+      "Student Materials": "- Review TAB201 - Read textbook UNIT 2/ BLOCK 1 - Read slides",
+      "S-Download": "",
+      "Student's Tasks": "Review Chapter Discussion",
+      "URLs": ""
+    },
+    {
+      "Session": "7",
+      "Topic": "BLOCK 1: INTRODUCTION TO TRAVEL & TOURISM TRADE Unit 3: Trave l Agency & Tour Operators Roles & Responsibilities 3.1 Introduction 3.2 Role of Tour Operators in Tourism Business 3.3 Travel Agencies Roles and Responsibilities",
+      "Learning-Teaching Type": "Offline",
+      "LO": "CLO1, CLO2, CLO3",
+      "ITU": "I",
+      "Student Materials": "- Review TAB201 - Read textbook UNIT 1/ BLOCK 1 - Read slides",
+      "S-Download": "",
+      "Student's Tasks": "Review Chapter Discussion",
+      "URLs": ""
+    },
+    {
+      "Session": "8",
+      "Topic": "BLOCK 1: INTRODUCTION TO TRAVEL & TOURISM TRADE Unit 3: Trave l Agency & Tour Operators Roles & Responsibilities (CON'T) 3.4 Services Offered by Tour Operators & Travel Agents 3.5 Relationship with Airlines 3.6 Relationship with Tourist Transport Providers 3.7 Relationship with Accommodation Providers 3.8 Relationship between Travel Agents and Tour Operators",
+      "Learning-Teaching Type": "Offline",
+      "LO": "CLO1, CLO2, CLO3",
+      "ITU": "I",
+      "Student Materials": "- Review TAB201 - Read textbook UNIT 3/ BLOCK 1 - Read slides",
+      "S-Download": "",
+      "Student's Tasks": "Review Chapter Discussion",
+      "URLs": ""
+    },
+    {
+      "Session": "9",
+      "Topic": "BLOCK 1: INTRODUCTION TO TRAVEL & TOURISM TRADE Unit 3: Trave l Agency & Tour Operators Roles & Responsibilities (Con't 3.9 Services Offered by Tour Operators & Travel Agents 3.10 Relationship with Airlines 3.11 Relationship with Tourist Transport Providers 3.12 Relationship with Accommodation Providers 3.13 Relationship between Travel Agents and Tour Operators GROUP ASSIGNMENT INTRODUCTION",
+      "Learning-Teaching Type": "Offline",
+      "LO": "CLO1, CLO2, CLO3, CLO8",
+      "ITU": "I",
+      "Student Materials": "- Review TAB201 - Read textbook UNIT 3/ BLOCK 1 - Read slides",
+      "S-Download": "",
+      "Student's Tasks": "Review Chapter Discussion",
+      "URLs": ""
+    },
+    {
+      "Session": "10",
+      "Topic": "BLOCK 1 ASSIGNMENT: CASE STUDY ANALYSIS",
+      "Learning-Teaching Type": "Offline",
+      "LO": "CLO1, CLO2, CLO3, CLO9",
+      "ITU": "I",
+      "Student Materials": "- Review TAB201 - Read textbook UNIT 1,2,3/ BLOCK 1 - Read slides",
+      "S-Download": "",
+      "Student's Tasks": "Review Chapter Discussion",
+      "URLs": ""
+    },
+    {
+      "Session": "11",
+      "Topic": "BLOCK 1 ASSIGNMENT: CASE STUDY ANALYSIS",
+      "Learning-Teaching Type": "Offline",
+      "LO": "CLO1, CLO2, CLO3, CLO9",
+      "ITU": "I",
+      "Student Materials": "- Review TAB201 - Read textbook UNIT 1,2,3/ BLOCK 1 - Read slides",
+      "S-Download": "",
+      "Student's Tasks": "Review Chapter Discussion",
+      "URLs": ""
+    },
+    {
+      "Session": "12",
+      "Topic": "BLOCK 1 ASSIGNMENT: CASE STUDY ANALYSIS",
+      "Learning-Teaching Type": "Offline",
+      "LO": "CLO1, CLO2, CLO3, CLO9",
+      "ITU": "I",
+      "Student Materials": "- Review TAB201 - Read textbook UNIT 1,2,3/ BLOCK 1 - Read slides",
+      "S-Download": "",
+      "Student's Tasks": "Review Chapter Discussion",
+      "URLs": ""
+    },
+    {
+      "Session": "13",
+      "Topic": "BLOCK 2: TRAVEL AGENCY MANAGEMENT Unit 4: Attributes of Travel Agency 4.1 Introduction 4.2 Link between Customers and Travel Agency 4.3 Functions of Travel Agents",
+      "Learning-Teaching Type": "Offline",
+      "LO": "CLO1, CLO2, CLO4, CLO5",
+      "ITU": "I",
+      "Student Materials": "- Review TAB201 - Read textbook UNIT 1/ BLOCK 2 - Read slides",
+      "S-Download": "",
+      "Student's Tasks": "Review Chapter Discussion",
+      "URLs": ""
+    },
+    {
+      "Session": "14",
+      "Topic": "BLOCK 2: TRAVEL AGENCY MANAGEMENT Unit 4: Attributes of Travel Agency (CON'T) 4.4 Highly Organised & Well Communicated Team",
+      "Learning-Teaching Type": "Offline",
+      "LO": "CLO1, CLO2, CLO4, CLO5",
+      "ITU": "I",
+      "Student Materials": "- Review TAB201 - Read textbook UNIT 1/ BLOCK 2 - Read slides",
+      "S-Download": "",
+      "Student's Tasks": "Review Chapter Discussion",
+      "URLs": ""
+    },
+    {
+      "Session": "15",
+      "Topic": "BLOCK 2: TRAVEL AGENCY MANAGEMENT Unit 4: Attributes of Travel Agency (CON'T) 4.5 Affordable Services 4.6 Use of Technology for Better Experience",
+      "Learning-Teaching Type": "Offline",
+      "LO": "CLO1, CLO2, CLO4, CLO5",
+      "ITU": "I",
+      "Student Materials": "- Review TAB201 - Read textbook UNIT 1/ BLOCK 2 - Read slides",
+      "S-Download": "",
+      "Student's Tasks": "Review Chapter Discussion",
+      "URLs": ""
+    },
+    {
+      "Session": "16",
+      "Topic": "BLOCK 2: TRAVEL AGENCY MANAGEMENT Unit 5: Services Provided by Travel Agency 5.1 Introduction 5.2 Hotel Booking in VietNam & Worldwide 5.3 Important Consideration before Processing Hotel Bookings in VietNam & Worldwide 5.4 Air Ticketing in VietNam & Worldwide",
+      "Learning-Teaching Type": "Offline",
+      "LO": "CLO2, CLO5, CLO7",
+      "ITU": "I",
+      "Student Materials": "- Review TAB201 - Read textbook UNIT 2/ BLOCK 2 - Read slides",
+      "S-Download": "",
+      "Student's Tasks": "Review Chapter Discussion",
+      "URLs": ""
+    },
+    {
+      "Session": "17",
+      "Topic": "BLOCK 2: TRAVEL AGENCY MANAGEMENT Unit 5: Services Provided by Travel Agency (CON'T) 5.5 Passport & VISA in Viet Nam & Worldwide 5.6 Currency Exchange in VietNam & Worldwide 5.7 Travel Insurance in VietNam & Worldwide",
+      "Learning-Teaching Type": "Offline",
+      "LO": "CLO2, CLO5, CLO7",
+      "ITU": "I",
+      "Student Materials": "- Review TAB201 - Read textbook UNIT 2/ BLOCK 2 - Read slides",
+      "S-Download": "",
+      "Student's Tasks": "Review Chapter Discussion",
+      "URLs": ""
+    },
+    {
+      "Session": "18",
+      "Topic": "BLOCK 2: TRAVEL AGENCY MANAGEMENT Unit 5: Services Provided by Travel Agency (CON'T) 5.8 Ground Handling in VietNam & Worldwide 5.9 Advantages of Travel Insurance in VietNam & Worldwide",
+      "Learning-Teaching Type": "Offline",
+      "LO": "CLO2, CLO5, CLO7",
+      "ITU": "I",
+      "Student Materials": "- Review TAB201 - Read textbook UNIT 2/ BLOCK 2 - Read slides",
+      "S-Download": "",
+      "Student's Tasks": "Review Chapter Discussion",
+      "URLs": ""
+    },
+    {
+      "Session": "19",
+      "Topic": "BLOCK 2: TRAVEL AGENCY MANAGEMENT Unit 6: Professional in Travel Agency 6.1 Introduction 6.2 Travel Consultant, Responsibilities, Requirements, 6.3 Types of Tour Guides, Tour Escorts or tour Manager",
+      "Learning-Teaching Type": "Offline",
+      "LO": "CLO1, CLO2, CLO4, CLO5, CLO7",
+      "ITU": "I",
+      "Student Materials": "- Review TAB201 - Read textbook UNIT 3/ BLOCK 2 - Read slides",
+      "S-Download": "",
+      "Student's Tasks": "Review Chapter Discussion",
+      "URLs": ""
+    },
+    {
+      "Session": "20",
+      "Topic": "BLOCK 2: TRAVEL AGENCY MANAGEMENT Unit 6: Professional in Travel Agency (CON'T) 6.4 Responsibilities, Requirements for Sales and Marketing Executives 6.5 Responsibilities, Requirements for Airport Representatives",
+      "Learning-Teaching Type": "Offline",
+      "LO": "CLO1, CLO2, CLO4, CLO5, CLO7",
+      "ITU": "I",
+      "Student Materials": "- Review TAB201 - Read textbook UNIT 3/ BLOCK 2 - Read slides",
+      "S-Download": "",
+      "Student's Tasks": "Review Chapter Discussion",
+      "URLs": ""
+    },
+    {
+      "Session": "21",
+      "Topic": "BLOCK 2: TRAVEL AGENCY MANAGEMENT Unit 6: Professional in Travel Agency (CON'T) 6.6 Responsibilities, Requirements for Drivers",
+      "Learning-Teaching Type": "Offline",
+      "LO": "CLO1, CLO2, CLO4, CLO5, CLO7",
+      "ITU": "I",
+      "Student Materials": "- Review TAB201 - Read textbook UNIT 3/ BLOCK 2 - Read slides",
+      "S-Download": "",
+      "Student's Tasks": "Review Chapter Discussion",
+      "URLs": ""
+    },
+    {
+      "Session": "22",
+      "Topic": "BLOCK 2: TRAVEL AGENCY MANAGEMENT Unit 7: Significant Travel Associations & Organisations 7.1 Introduction 7.2 Regional Travel Associations 7.3 Pacific Asia Travel Association (PATA) 7.4 European Civil Aviation Conference (ECAC) 7.5 European Travel Commission (ETC)",
+      "Learning-Teaching Type": "Offline",
+      "LO": "CLO3, CLO4, CLO5, CLO6",
+      "ITU": "I",
+      "Student Materials": "- Review TAB201 - Read textbook UNIT 4/ BLOCK 2 - Read slides",
+      "S-Download": "",
+      "Student's Tasks": "Review Chapter Discussion",
+      "URLs": ""
+    },
+    {
+      "Session": "23",
+      "Topic": "BLOCK 2: TRAVEL AGENCY MANAGEMENT Unit 7: Significant Travel Associations & Organisations (CON'T) 7.6 International Travel Association 7.7 UNWTO 7.8 International Air Transport Association (IATA) 7.9 World Travel & Tourism Council (WTTC)",
+      "Learning-Teaching Type": "Offline",
+      "LO": "CLO3, CLO4, CLO5, CLO6",
+      "ITU": "I",
+      "Student Materials": "- Review TAB201 - Read textbook UNIT 4/ BLOCK 2 - Read slides",
+      "S-Download": "",
+      "Student's Tasks": "Review Chapter Discussion",
+      "URLs": ""
+    },
+    {
+      "Session": "24",
+      "Topic": "BLOCK 2: TRAVEL AGENCY MANAGEMENT Unit 7: Significant Travel Associations & Organisations (CONT) 7.10 Vietnam National Administration of Tourism (VNAT) 7.11 Vietnam Tourism Association (VITA) GROUP ASSIGNMENT GUIDELINE",
+      "Learning-Teaching Type": "Offline",
+      "LO": "CLO3, CLO4, CLO5, CLO6",
+      "ITU": "I",
+      "Student Materials": "- Review TAB201 - Read textbook UNIT 4/ BLOCK 2 - Read slides",
+      "S-Download": "",
+      "Student's Tasks": "Review Chapter Discussion",
+      "URLs": ""
+    },
+    {
+      "Session": "25",
+      "Topic": "BLOCK 2 ASSIGNMENT: CASE STUDY ANALYSIS",
+      "Learning-Teaching Type": "Offline",
+      "LO": "CLO2, CLO3, CLO4, CLO5, CLO6, CLO9",
+      "ITU": "I",
+      "Student Materials": "- Review TAB201 - Read textbook UNIT 1,2,3,4/ BLOCK 2 - Read slides",
+      "S-Download": "",
+      "Student's Tasks": "Review Chapter Discussion",
+      "URLs": ""
+    },
+    {
+      "Session": "26",
+      "Topic": "BLOCK 2 ASSIGNMENT: CASE STUDY ANALYSIS",
+      "Learning-Teaching Type": "Offline",
+      "LO": "CLO2, CLO3, CLO4, CLO5, CLO6, CLO9",
+      "ITU": "I",
+      "Student Materials": "- Review TAB201 - Read textbook UNIT 1,2,3,4/ BLOCK 2 - Read slides",
+      "S-Download": "",
+      "Student's Tasks": "Review Chapter Discussion",
+      "URLs": ""
+    },
+    {
+      "Session": "27",
+      "Topic": "BLOCK 2 ASSIGNMENT: CASE STUDY ANALYSIS",
+      "Learning-Teaching Type": "Offline",
+      "LO": "CLO2, CLO3, CLO4, CLO5, CLO6, CLO9",
+      "ITU": "I",
+      "Student Materials": "- Review TAB201 - Read textbook UNIT 1,2,3,4/ BLOCK 2 - Read slides",
+      "S-Download": "",
+      "Student's Tasks": "Review Chapter Discussion",
+      "URLs": ""
+    },
+    {
+      "Session": "28",
+      "Topic": "BLOCK 3: TOUR OPERATION MANAGEMENT Unit 8: Fundamentals of Tour Operation 8.1 Introduction 8.2 Independent and Escorted Tours 8.3 FIT and GIT 8.4 Hosted Tours",
+      "Learning-Teaching Type": "Offline",
+      "LO": "CLO3, CLO4, CLO5, CLO6, CLO7, CLO8",
+      "ITU": "I",
+      "Student Materials": "- Review TAB201 - Read textbook UNIT 1/ BLOCK 3 - Read slides",
+      "S-Download": "",
+      "Student's Tasks": "Review Chapter Discussion",
+      "URLs": ""
+    },
+    {
+      "Session": "29",
+      "Topic": "BLOCK 3: TOUR OPERATION MANAGEMENT Unit 8: Fundamentals of Tour Operation (Con't) 8.5 Incentive Tours 8.6 FAM Tours 8.7 Travel Agents, Tour Operators, Media, Tourism Industry 8.8 Customised Tour 8.9 Special Services by Tour Operators",
+      "Learning-Teaching Type": "Offline",
+      "LO": "CLO3, CLO4, CLO5, CLO6, CLO7, CLO8",
+      "ITU": "I",
+      "Student Materials": "- Review TAB201 - Read textbook UNIT 1/ BLOCK 3 - Read slides",
+      "S-Download": "",
+      "Student's Tasks": "Review Chapter Discussion",
+      "URLs": ""
+    },
+    {
+      "Session": "30",
+      "Topic": "BLOCK 3: TOUR OPERATION MANAGEMENT Unit 8: Fundamentals of Tour Operation (Con't) 8.10 Planning a Tour 8.11 Making Tour Package 8.12 Arranging a Tour 8.13 Flight and Accomodation Reservation 8.14 Travel Information& Taking Care of Glitch",
+      "Learning-Teaching Type": "Offline",
+      "LO": "CLO3, CLO4, CLO5, CLO6, CLO7, CLO8",
+      "ITU": "I",
+      "Student Materials": "- Review TAB201 - Read textbook UNIT 1/ BLOCK 3 - Read slides",
+      "S-Download": "",
+      "Student's Tasks": "Review Chapter Discussion",
+      "URLs": ""
+    },
+    {
+      "Session": "31",
+      "Topic": "BLOCK 3: TOUR OPERATION MANAGEMENT Unit 9: Itinerary Planning by Tour Operators 9.1 Introduction 9.2 Importance of Itinerary 9.3 Types of Itinerary",
+      "Learning-Teaching Type": "Offline",
+      "LO": "CLO3, CLO4, CLO5, CLO6, CLO7, CLO8",
+      "ITU": "I",
+      "Student Materials": "- Review TAB201 - Read textbook UNIT 2/ BLOCK 3 - Read slides",
+      "S-Download": "",
+      "Student's Tasks": "Review Chapter Discussion",
+      "URLs": ""
+    },
+    {
+      "Session": "32",
+      "Topic": "BLOCK 3: TOUR OPERATION MANAGEMENT Unit 9: Itinerary Planning by Tour Operators (con't) 9.4 Resources and Steps for Itinerary Planning 9.5 Do's and Don'ts of Itinerary Preparation",
+      "Learning-Teaching Type": "Offline",
+      "LO": "CLO3, CLO4, CLO5, CLO6, CLO7, CLO8",
+      "ITU": "I",
+      "Student Materials": "- Review TAB201 - Read textbook UNIT 2/ BLOCK 3 - Read slides",
+      "S-Download": "",
+      "Student's Tasks": "Review Chapter Discussion",
+      "URLs": ""
+    },
+    {
+      "Session": "33",
+      "Topic": "BLOCK 3: TOUR OPERATION MANAGEMENT Unit 10: Cost & Revenue in Tour Operation 10.1 Introduction 10.2 Factors Influencing in the Design of Tour Packages 10.3 Tour Costing",
+      "Learning-Teaching Type": "Offline",
+      "LO": "CLO3, CLO4, CLO5, CLO6, CLO7, CLO8",
+      "ITU": "I",
+      "Student Materials": "- Review TAB201 - Read textbook UNIT 3/ BLOCK 3 - Read slides",
+      "S-Download": "",
+      "Student's Tasks": "Review Chapter Discussion",
+      "URLs": ""
+    },
+    {
+      "Session": "34",
+      "Topic": "BLOCK 3: TOUR OPERATION MANAGEMENT Unit 10: Cost & Revenue in Tour Operation (Con't) 10.4 Types of Costs in Tour Packages 10.5 Worksheet for Pricing of Package Tour",
+      "Learning-Teaching Type": "Offline",
+      "LO": "CLO3, CLO4, CLO5, CLO6, CLO7, CLO8",
+      "ITU": "I",
+      "Student Materials": "- Review TAB201 - Read textbook UNIT 3/ BLOCK 3 - Read slides",
+      "S-Download": "",
+      "Student's Tasks": "Review Chapter Discussion",
+      "URLs": ""
+    },
+    {
+      "Session": "35",
+      "Topic": "BLOCK 3: TOUR OPERATION MANAGEMENT Unit 10: Cost & Revenue in Tour Operation (Con't) 10.6 Source of Revenue for Tour Operator 10.7 Strategies to Increasing Revenue 10.8 Tips to Increase Revenues",
+      "Learning-Teaching Type": "Offline",
+      "LO": "CLO1, CLO2, CLO3",
+      "ITU": "I",
+      "Student Materials": "- Review TAB201 - Read textbook UNIT 3/ BLOCK 3 - Read slides",
+      "S-Download": "",
+      "Student's Tasks": "Review Chapter Discussion",
+      "URLs": ""
+    },
+    {
+      "Session": "36",
+      "Topic": "BLOCK 3: TOUR OPERATION MANAGEMENT Unit 11: Distribution Network in Tour Operations 11.1 Introduction 11.2 Associates Sales Agents 11.3 General Sales Agent 11.4 Online Travel Agency",
+      "Learning-Teaching Type": "Offline",
+      "LO": "CLO3, CLO4, CLO5, CLO6, CLO7, CLO8",
+      "ITU": "I",
+      "Student Materials": "- Review TAB201 - Read textbook UNIT 4/ BLOCK 3 - Read slides",
+      "S-Download": "",
+      "Student's Tasks": "Review Chapter Discussion",
+      "URLs": ""
+    },
+    {
+      "Session": "37",
+      "Topic": "BLOCK 3: TOUR OPERATION MANAGEMENT Unit 11: Distribution Network in Tour Operations (Con't) 11.5 Travel Agency 11.6 Customer Relationship Management 11.7 Destination Management Companies 11.8 Visitor Information Centre",
+      "Learning-Teaching Type": "Offline",
+      "LO": "CLO3, CLO4, CLO5, CLO6, CLO7, CLO8",
+      "ITU": "I",
+      "Student Materials": "- Review TAB201 - Read textbook UNIT 4/ BLOCK 3 - Read slides",
+      "S-Download": "",
+      "Student's Tasks": "Review Chapter Discussion",
+      "URLs": ""
+    },
+    {
+      "Session": "38",
+      "Topic": "BLOCK 3 ASSIGNMENT: CASE STUDY ANALYSIS",
+      "Learning-Teaching Type": "Offline",
+      "LO": "CLO3, CLO4, CLO5, CLO6, CLO7, CLO8, CLO9",
+      "ITU": "I",
+      "Student Materials": "- Review TAB201 - Read textbook UNIT 1,2,3,4/ BLOCK 3 - Read slides",
+      "S-Download": "",
+      "Student's Tasks": "Review Chapter Discussion",
+      "URLs": ""
+    },
+    {
+      "Session": "39",
+      "Topic": "BLOCK 3 ASSIGNMENT: CASE STUDY ANALYSIS",
+      "Learning-Teaching Type": "Offline",
+      "LO": "CLO3, CLO4, CLO5, CLO6, CLO7, CLO8, CLO9",
+      "ITU": "I",
+      "Student Materials": "- Review TAB201 - Read textbook UNIT 1,2,3,4/ BLOCK 3 - Read slides",
+      "S-Download": "",
+      "Student's Tasks": "Review Chapter Discussion",
+      "URLs": ""
+    },
+    {
+      "Session": "40",
+      "Topic": "BLOCK 3 ASSIGNMENT: CASE STUDY ANALYSIS",
+      "Learning-Teaching Type": "Offline",
+      "LO": "CLO3, CLO4, CLO5, CLO6, CLO7, CLO8, CLO9",
+      "ITU": "I",
+      "Student Materials": "- Review TAB201 - Read textbook UNIT 1,2,3,4/ BLOCK 3 - Read slides",
+      "S-Download": "",
+      "Student's Tasks": "Review Chapter Discussion",
+      "URLs": ""
+    },
+    {
+      "Session": "41",
+      "Topic": "Fieldtrip: Visit a local travel agency",
+      "Learning-Teaching Type": "Offline",
+      "LO": "CLO3, CLO4, CLO5, CLO6, CLO7, CLO8, CLO9",
+      "ITU": "I",
+      "Student Materials": "",
+      "S-Download": "",
+      "Student's Tasks": "",
+      "URLs": ""
+    },
+    {
+      "Session": "42",
+      "Topic": "Fieldtrip: Visit a local travel agency",
+      "Learning-Teaching Type": "Offline",
+      "LO": "CLO3, CLO4, CLO5, CLO6, CLO7, CLO8, CLO9",
+      "ITU": "I",
+      "Student Materials": "",
+      "S-Download": "",
+      "Student's Tasks": "",
+      "URLs": ""
+    },
+    {
+      "Session": "43",
+      "Topic": "Fieldtrip: Visit a local travel agency",
+      "Learning-Teaching Type": "Offline",
+      "LO": "CLO3, CLO4, CLO5, CLO6, CLO7, CLO8, CLO9",
+      "ITU": "I",
+      "Student Materials": "",
+      "S-Download": "",
+      "Student's Tasks": "",
+      "URLs": ""
+    },
+    {
+      "Session": "44",
+      "Topic": "BLOCK 4: SETTING-UP OF TRAVEL AGENCY AND MICE MANAGEMENT Unit 12: Requirements & Procedure of Setting Travel Agency 12.1 Introduction 12.2 Basic Requirements for Starting Travel Agency in Viet Nam & Worldwide",
+      "Learning-Teaching Type": "Offline",
+      "LO": "CLO2, CLO5, CLO7, CLO8",
+      "ITU": "I",
+      "Student Materials": "- Review TAB201 - Read textbook UNIT 1/ BLOCK 4 - Read slides",
+      "S-Download": "",
+      "Student's Tasks": "Review Chapter Discussion",
+      "URLs": ""
+    },
+    {
+      "Session": "45",
+      "Topic": "BLOCK 4: SETTING-UP OF TRAVEL AGENCY AND MICE MANAGEMENT Unit 12: Requirements & Procedure of Setting Travel Agency (Con't) 12.3 Guidelines for Recognition as a Travel Agent from the Ministry of Tourism (VietNam) 12.4 Basic Required for Recognition from Ministry of Tourism (VietNam)",
+      "Learning-Teaching Type": "Offline",
+      "LO": "CLO2, CLO5, CLO7, CLO8",
+      "ITU": "I",
+      "Student Materials": "- Review TAB201 - Read textbook UNIT 1/ BLOCK 4 - Read slides",
+      "S-Download": "",
+      "Student's Tasks": "Review Chapter Discussion",
+      "URLs": ""
+    },
+    {
+      "Session": "46",
+      "Topic": "BLOCK 4: SETTING-UP OF TRAVEL AGENCY AND MICE MANAGEMENT Unit 12: Requirements & Procedure of Setting Travel Agency (Con't) 12.5 Approval of Recognition by Ministry of Tourism (VietNam)",
+      "Learning-Teaching Type": "Offline",
+      "LO": "CLO2, CLO5, CLO7, CLO8",
+      "ITU": "I",
+      "Student Materials": "- Review TAB201 - Read textbook UNIT 1/ BLOCK 4 - Read slides",
+      "S-Download": "",
+      "Student's Tasks": "Review Chapter Discussion",
+      "URLs": ""
+    },
+    {
+      "Session": "47",
+      "Topic": "BLOCK 4: SETTING-UP OF TRAVEL AGENCY AND MICE MANAGEMENT Unit 13: MICE Management 13.1 Introduction 13.2 Meetings 13.2.1 Roles and Responsibilities of Meeting Planners 13.3 Incentive",
+      "Learning-Teaching Type": "Offline",
+      "LO": "CLO2, CLO5, CLO7, CLO8",
+      "ITU": "I",
+      "Student Materials": "- Review TAB201 - Read textbook UNIT 2/ BLOCK 4 - Read slides",
+      "S-Download": "",
+      "Student's Tasks": "Review Chapter Discussion",
+      "URLs": ""
+    },
+    {
+      "Session": "48",
+      "Topic": "BLOCK 4: SETTING-UP OF TRAVEL AGENCY AND MICE MANAGEMENT Unit 13: MICE Management (CONT) 13.4 Conference/Conventions 13.5 Events",
+      "Learning-Teaching Type": "Offline",
+      "LO": "CLO2, CLO5, CLO7, CLO8",
+      "ITU": "I",
+      "Student Materials": "- Review TAB201 - Read textbook UNIT 2/ BLOCK 4 - Read slides",
+      "S-Download": "",
+      "Student's Tasks": "Review Chapter Discussion",
+      "URLs": ""
+    },
+    {
+      "Session": "49",
+      "Topic": "BLOCK 4: SETTING-UP OF TRAVEL AGENCY AND MICE MANAGEMENT Unit 13: MICE Management (CONT) 13.6 Planning and Requirement for MICE 13.6.1 Venues 13.6.2 Transport Transportation 13.6.3 Accommodation",
+      "Learning-Teaching Type": "Offline",
+      "LO": "CLO2, CLO5, CLO7, CLO8",
+      "ITU": "I",
+      "Student Materials": "- Review TAB201 - Read textbook UNIT 2/ BLOCK 4 - Read slides",
+      "S-Download": "",
+      "Student's Tasks": "Review Chapter Discussion",
+      "URLs": ""
+    },
+    {
+      "Session": "50",
+      "Topic": "BLOCK 4: SETTING-UP OF TRAVEL AGENCY AND MICE MANAGEMENT Unit 14: Organisation Structure in Travel Agency and Tour Operators 14.1 Introduction 14.2 Human Resource in Travel Agency and Tour Operators",
+      "Learning-Teaching Type": "Offline",
+      "LO": "CLO2, CLO5, CLO7, CLO8",
+      "ITU": "I",
+      "Student Materials": "- Review TAB201 - Read textbook UNIT 3/ BLOCK 4 - Read slides",
+      "S-Download": "",
+      "Student's Tasks": "Review Chapter Discussion",
+      "URLs": ""
+    },
+    {
+      "Session": "51",
+      "Topic": "BLOCK 4: SETTING-UP OF TRAVEL AGENCY AND MICE MANAGEMENT Unit 14: Organisation Structure in Travel Agency and Tour Operators (Con't) 14.3 Hierarchy in Travel Agency and Tour Operators 14.4 Departments in Travel Agency and Tour Operators",
+      "Learning-Teaching Type": "Offline",
+      "LO": "CLO2, CLO5, CLO7, CLO8",
+      "ITU": "I",
+      "Student Materials": "- Review TAB201 - Read textbook UNIT 3/ BLOCK 4 - Read slides",
+      "S-Download": "",
+      "Student's Tasks": "Review Chapter Discussion",
+      "URLs": ""
+    },
+    {
+      "Session": "52",
+      "Topic": "BLOCK 4: SETTING-UP OF TRAVEL AGENCY AND MICE MANAGEMENT Unit 14: Organisation Structure in Travel Agency and Tour Operators (Con't) Quiz",
+      "Learning-Teaching Type": "Offline",
+      "LO": "CLO2, CLO5, CLO7, CLO8",
+      "ITU": "I",
+      "Student Materials": "- Review TAB201 - Read textbook UNIT 3/ BLOCK 4 - Read slides",
+      "S-Download": "",
+      "Student's Tasks": "Quiz",
+      "URLs": ""
+    },
+    {
+      "Session": "53",
+      "Topic": "BLOCK 4 ASSIGNMENT: CASE STUDY ANALYSIS Group Assignment Submission",
+      "Learning-Teaching Type": "Offline",
+      "LO": "CLO2, CLO5, CLO7, CLO8, CLO9",
+      "ITU": "I",
+      "Student Materials": "- Review TAB201 - Read textbook UNIT 1,2,3/ BLOCK 4 - Read slides",
+      "S-Download": "",
+      "Student's Tasks": "Review Chapter Discussion",
+      "URLs": ""
+    },
+    {
+      "Session": "54",
+      "Topic": "BLOCK 4 ASSIGNMENT: CASE STUDY ANALYSIS Group Assignment Submission",
+      "Learning-Teaching Type": "Offline",
+      "LO": "CLO2, CLO5, CLO7, CLO8, CLO9",
+      "ITU": "I",
+      "Student Materials": "- Review TAB201 - Read textbook UNIT 1,2,3/ BLOCK 4 - Read slides",
+      "S-Download": "",
+      "Student's Tasks": "Review Chapter Discussion",
+      "URLs": ""
+    },
+    {
+      "Session": "55",
+      "Topic": "BLOCK 4 ASSIGNMENT: CASE STUDY ANALYSIS Group Assignment Submission",
+      "Learning-Teaching Type": "Offline",
+      "LO": "CLO2, CLO5, CLO7, CLO8, CLO9",
+      "ITU": "I",
+      "Student Materials": "- Review TAB201 - Read textbook UNIT 1,2,3/ BLOCK 4 - Read slides",
+      "S-Download": "",
+      "Student's Tasks": "Review Chapter Discussion",
+      "URLs": ""
+    },
+    {
+      "Session": "56",
+      "Topic": "Group Assignment Presentation",
+      "Learning-Teaching Type": "Offline",
+      "LO": "All CLOs",
+      "ITU": "",
+      "Student Materials": "Implement plan",
+      "S-Download": "",
+      "Student's Tasks": "Review all topic Discussion Presentation",
+      "URLs": ""
+    },
+    {
+      "Session": "57",
+      "Topic": "Group Assignment Presentation",
+      "Learning-Teaching Type": "Offline",
+      "LO": "All CLOs",
+      "ITU": "",
+      "Student Materials": "Implement plan",
+      "S-Download": "",
+      "Student's Tasks": "Review all topic Discussion Presentation",
+      "URLs": ""
+    },
+    {
+      "Session": "58",
+      "Topic": "Group Assignment Presentation",
+      "Learning-Teaching Type": "Offline",
+      "LO": "All CLOs",
+      "ITU": "I,T,U",
+      "Student Materials": "Implement plan",
+      "S-Download": "",
+      "Student's Tasks": "Review all topic Discussion Presentation",
+      "URLs": ""
+    },
+    {
+      "Session": "59",
+      "Topic": "Group Assignment Presentation",
+      "Learning-Teaching Type": "Offline",
+      "LO": "All CLOs",
+      "ITU": "I,T,U",
+      "Student Materials": "Implement plan",
+      "S-Download": "",
+      "Student's Tasks": "Review all topic Discussion Presentation",
+      "URLs": ""
+    },
+    {
+      "Session": "60",
+      "Topic": "REVIEW ALL THE KNOWLEDGE TO PREPARE FOR THE FINAL EXAM",
+      "Learning-Teaching Type": "Offline",
+      "LO": "All CLOs",
+      "ITU": "I,T",
+      "Student Materials": "",
+      "S-Download": "",
+      "Student's Tasks": "Review all topic",
+      "URLs": ""
+    }
+  ],
+  "constructive_questions": [
+    {
+      "No.": "1",
+      "Session No": "1",
+      "Name": "CQ1",
+      "Details": "Manipulate logical expressions and use logic for inference"
+    },
+    {
+      "No.": "2",
+      "Session No": "1",
+      "Name": "CQ2",
+      "Details": "Perform basic operations on sets, functions and sequences"
+    },
+    {
+      "No.": "3",
+      "Session No": "2",
+      "Name": "CQ1",
+      "Details": "Analyze basic algorithms written in pseudo codes and determine theirs complexities"
+    },
+    {
+      "No.": "4",
+      "Session No": "3",
+      "Name": "CQ1",
+      "Details": "Discuss applications of modular arithmetic and analyze algorithms on integers"
+    },
+    {
+      "No.": "5",
+      "Session No": "4",
+      "Name": "CQ1",
+      "Details": "Use induction and recursive definition to prove a statement or to describe an object, and write recursive algorithms"
+    },
+    {
+      "No.": "6",
+      "Session No": "4",
+      "Name": "CQ2",
+      "Details": "Solve counting problems"
+    },
+    {
+      "No.": "7",
+      "Session No": "4",
+      "Name": "CQ3",
+      "Details": "Analyze the structure of a graph and find shortest paths in a weighted graph"
+    },
+    {
+      "No.": "8",
+      "Session No": "4",
+      "Name": "CQ4",
+      "Details": "Analyze the structure of a tree and describe algorithms using trees"
+    }
+  ],
+  "materials": [
+    {
+      "No.": "1",
+      "Material Description": "Travel Agency and Tour Operation",
+      "Author": "Dr. Rahul Singh Shekhawat",
+      "Publisher": "BAOU",
+      "Published Date": "2020",
+      "Edition": "",
+      "ISBN": "",
+      "Is Main Material": "True",
+      "Is Hard Copy": "False",
+      "Is Online": "True",
+      "Note": "https://baou.edu.in/assets/pdf/BBAATR_201_slm.pdf"
+    },
+    {
+      "No.": "2",
+      "Material Description": "The Principles of Travel Agency and Tour Operation Management",
+      "Author": "Dr. A. Apsara Saleth Mary",
+      "Publisher": "White Falcon",
+      "Published Date": "2021",
+      "Edition": "",
+      "ISBN": "",
+      "Is Main Material": "False",
+      "Is Hard Copy": "True",
+      "Is Online": "False",
+      "Note": ""
+    },
+    {
+      "No.": "3",
+      "Material Description": "Số liệu thống kê - Website Cục du lịch Việt Nam",
+      "Author": "",
+      "Publisher": "",
+      "Published Date": "",
+      "Edition": "",
+      "ISBN": "",
+      "Is Main Material": "False",
+      "Is Hard Copy": "False",
+      "Is Online": "True",
+      "Note": "https://vietnamtourism.gov.vn/"
+    }
+  ],
+  "source_path": "data/raw/syllabi/13237.html",
+  "id": "syllabus:13237"
+}

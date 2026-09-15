@@ -1,0 +1,1178 @@
+{
+  "syllabus_id": 10230,
+  "subject_code": "DPL301m",
+  "subject_name": "Deep Learning_Học sâu",
+  "syllabus_name": "Deep Learning_Học sâu",
+  "credits": 3,
+  "degree_level": "Bachelor",
+  "time_allocation": "Study hour (150h) = 45h contact hours + 1h final exam + 104h self-study",
+  "prerequisite": "AIL302m, PRP201c, MAI391",
+  "general_information": {
+    "Syllabus ID": "10230",
+    "Syllabus Name": "Deep Learning_Học sâu",
+    "Course Name English": "",
+    "Subject Code": "DPL301m",
+    "Learning-Teaching Method": "Blended,In-class lecture,Inquiry-based Teaching",
+    "NoCredit": "3",
+    "Degree Level": "Bachelor",
+    "Time Allocation": "Study hour (150h) = 45h contact hours + 1h final exam + 104h self-study",
+    "Pre-Requisite": "AIL302m, PRP201c, MAI391",
+    "Description": "This course based on the Deep Learning Specialization at https://www.coursera.org/specializations/deep-learning. This break into AI by Deeplearning. Deep Learning is a superpower. With it you can make a computer see, synthesize novel art, translate languages, render a medical diagnosis, or build pieces of a car that can drive itself. If that isn’t a superpower, I don’t know what is. — Andrew Ng, Founder of deeplearning.ai and Coursera",
+    "StudentTasks": "- Students must attend more than 80% of contact slots in order to be accepted to the final examination. - Student is responsible to do all exercises, assignments and labs given by instructor in class or at home and submit on time - Use laptop in class only for learning purpose - Promptly access to the FU LMS at https://flm.fpt.edu.vn/ for up-to-date course information",
+    "Tools": "- Internet - Python",
+    "Scoring Scale": "10",
+    "DecisionNo MM/dd/yyyy": "808/QĐ-ĐHFPT dated 08/03/2023",
+    "IsApproved": "True",
+    "Note": "",
+    "Is Scored": "True",
+    "MinAvgMarkToPass": "5",
+    "IsActive": "True",
+    "ApprovedDate": "8/3/2023"
+  },
+  "active": true,
+  "approved": true,
+  "decision": "808/QĐ-ĐHFPT dated 08/03/2023",
+  "description": "This course based on the Deep Learning Specialization at https://www.coursera.org/specializations/deep-learning. This break into AI by Deeplearning. Deep Learning is a superpower. With it you can make a computer see, synthesize novel art, translate languages, render a medical diagnosis, or build pieces of a car that can drive itself. If that isn’t a superpower, I don’t know what is. — Andrew Ng, Founder of deeplearning.ai and Coursera",
+  "learning_outcomes": [
+    {
+      "No.": "1",
+      "CLO Name": "CLO1",
+      "CLO Details": "Describe main concepts of AI, ML, DL"
+    },
+    {
+      "No.": "2",
+      "CLO Name": "CLO2",
+      "CLO Details": "Know the ML algorithm and application"
+    },
+    {
+      "No.": "3",
+      "CLO Name": "CLO3",
+      "CLO Details": "Describe the Foundations of Convolutional Neural Networks"
+    },
+    {
+      "No.": "4",
+      "CLO Name": "CLO4",
+      "CLO Details": "Apply the Deep convolutional models: case studies"
+    },
+    {
+      "No.": "5",
+      "CLO Name": "CLO5",
+      "CLO Details": "Descibe the Object detection"
+    },
+    {
+      "No.": "6",
+      "CLO Name": "CLO6",
+      "CLO Details": "Apply the Special applications: Face recognition & Neural style transfer"
+    },
+    {
+      "No.": "7",
+      "CLO Name": "CLO7",
+      "CLO Details": "Apply the Practical aspects of Deep Learning"
+    },
+    {
+      "No.": "8",
+      "CLO Name": "CLO8",
+      "CLO Details": "Describe Optimization algorithms"
+    },
+    {
+      "No.": "9",
+      "CLO Name": "CLO9",
+      "CLO Details": "Describe Recurrent Neural Networks"
+    },
+    {
+      "No.": "10",
+      "CLO Name": "CLO10",
+      "CLO Details": "Describe the Natural Language Processing & Word Embeddings"
+    },
+    {
+      "No.": "11",
+      "CLO Name": "CLO11",
+      "CLO Details": "Describe Sequence models & Attention mechanism"
+    }
+  ],
+  "assessments": [
+    {
+      "No.": "1",
+      "Category": "Assignment",
+      "Type": "on-going",
+      "Part": "2",
+      "Weight": "60.0%",
+      "Completion Criteria": ">0",
+      "Duration": "Option 1: 90' in class; Option 2 (For Constructivism Approach only): Follow lecturer's proposal",
+      "CLO": "",
+      "Question Type": "Option 1: theory present or project; Option 2 (For Constructivism Approach only): Follow lecturer's proposal",
+      "No Question": "Option 1: N/A; Option 2 (For Constructivism Approach only): Follow lecturer's proposal",
+      "Knowledge and Skill": "technical aspect of studied topics",
+      "Grading Guide": "- Guided by instructor - Application or Theory - Work in group",
+      "Note": ""
+    },
+    {
+      "No.": "2",
+      "Category": "Final exam",
+      "Type": "Final exam",
+      "Part": "1",
+      "Weight": "40.0%",
+      "Completion Criteria": "4",
+      "Duration": "30",
+      "CLO": "",
+      "Question Type": "Multiple choicesMarked by Computer",
+      "No Question": "30",
+      "Knowledge and Skill": "concepts, algorithms; all studied chapters",
+      "Grading Guide": "by exam board, using computer",
+      "Note": "The exam questions must be updated or different at least 70% to the previous ones."
+    }
+  ],
+  "schedule": [
+    {
+      "Session": "1",
+      "Topic": "Course Introduction Introduction to AI, ML, DL",
+      "Learning-Teaching Type": "Offline",
+      "LO": "",
+      "ITU": "TU",
+      "Student Materials": "Slide, Video",
+      "S-Download": "",
+      "Student's Tasks": "Read Slide and Watch Video",
+      "URLs": ""
+    },
+    {
+      "Session": "2",
+      "Topic": "Course Introduction Introduction to AI, ML, DL",
+      "Learning-Teaching Type": "Offline",
+      "LO": "",
+      "ITU": "TU",
+      "Student Materials": "Slide, Video",
+      "S-Download": "",
+      "Student's Tasks": "Read Slide and Watch Video",
+      "URLs": ""
+    },
+    {
+      "Session": "3",
+      "Topic": "Review ML",
+      "Learning-Teaching Type": "Offline",
+      "LO": "",
+      "ITU": "TU",
+      "Student Materials": "Slide, Video",
+      "S-Download": "",
+      "Student's Tasks": "Read Slide and Watch Video",
+      "URLs": ""
+    },
+    {
+      "Session": "4",
+      "Topic": "Review ML",
+      "Learning-Teaching Type": "Offline",
+      "LO": "",
+      "ITU": "TU",
+      "Student Materials": "Slide, Video",
+      "S-Download": "",
+      "Student's Tasks": "Read Slide and Watch Video",
+      "URLs": ""
+    },
+    {
+      "Session": "5",
+      "Topic": "Review ML",
+      "Learning-Teaching Type": "Offline",
+      "LO": "",
+      "ITU": "TU",
+      "Student Materials": "Slide, Video",
+      "S-Download": "",
+      "Student's Tasks": "Read Slide and Watch Video",
+      "URLs": ""
+    },
+    {
+      "Session": "6",
+      "Topic": "Review ML",
+      "Learning-Teaching Type": "Offline",
+      "LO": "",
+      "ITU": "TU",
+      "Student Materials": "Slide, Video",
+      "S-Download": "",
+      "Student's Tasks": "Read Slide and Watch Video",
+      "URLs": ""
+    },
+    {
+      "Session": "7",
+      "Topic": "Review ML",
+      "Learning-Teaching Type": "Offline",
+      "LO": "",
+      "ITU": "TU",
+      "Student Materials": "Slide, Video",
+      "S-Download": "",
+      "Student's Tasks": "Read Slide and Watch Video",
+      "URLs": ""
+    },
+    {
+      "Session": "8",
+      "Topic": "Review ML",
+      "Learning-Teaching Type": "Offline",
+      "LO": "",
+      "ITU": "TU",
+      "Student Materials": "Slide, Video",
+      "S-Download": "",
+      "Student's Tasks": "Read Slide and Watch Video",
+      "URLs": ""
+    },
+    {
+      "Session": "9",
+      "Topic": "Foundations of Convolutional Neural Networks",
+      "Learning-Teaching Type": "Offline",
+      "LO": "",
+      "ITU": "TU",
+      "Student Materials": "Slide, Video",
+      "S-Download": "",
+      "Student's Tasks": "Read Slide and Watch Video",
+      "URLs": ""
+    },
+    {
+      "Session": "10",
+      "Topic": "Foundations of Convolutional Neural Networks",
+      "Learning-Teaching Type": "Offline",
+      "LO": "",
+      "ITU": "TU",
+      "Student Materials": "Slide, Video",
+      "S-Download": "",
+      "Student's Tasks": "Read Slide and Watch Video",
+      "URLs": ""
+    },
+    {
+      "Session": "11",
+      "Topic": "Foundations of Convolutional Neural Networks",
+      "Learning-Teaching Type": "Offline",
+      "LO": "",
+      "ITU": "TU",
+      "Student Materials": "Slide, Video",
+      "S-Download": "",
+      "Student's Tasks": "Read Slide and Watch Video",
+      "URLs": ""
+    },
+    {
+      "Session": "12",
+      "Topic": "Foundations of Convolutional Neural Networks",
+      "Learning-Teaching Type": "Offline",
+      "LO": "",
+      "ITU": "TU",
+      "Student Materials": "Slide, Video",
+      "S-Download": "",
+      "Student's Tasks": "Read Slide and Watch Video",
+      "URLs": ""
+    },
+    {
+      "Session": "13",
+      "Topic": "Foundations of Convolutional Neural Networks",
+      "Learning-Teaching Type": "Offline",
+      "LO": "",
+      "ITU": "TU",
+      "Student Materials": "Slide, Video",
+      "S-Download": "",
+      "Student's Tasks": "Read Slide and Watch Video",
+      "URLs": ""
+    },
+    {
+      "Session": "14",
+      "Topic": "Foundations of Convolutional Neural Networks",
+      "Learning-Teaching Type": "Offline",
+      "LO": "",
+      "ITU": "TU",
+      "Student Materials": "Slide, Video",
+      "S-Download": "",
+      "Student's Tasks": "Read Slide and Watch Video",
+      "URLs": ""
+    },
+    {
+      "Session": "15",
+      "Topic": "Deep convolutional models: case studies",
+      "Learning-Teaching Type": "Offline",
+      "LO": "",
+      "ITU": "TU",
+      "Student Materials": "Slide, Video",
+      "S-Download": "",
+      "Student's Tasks": "Read Slide and Watch Video",
+      "URLs": ""
+    },
+    {
+      "Session": "16",
+      "Topic": "Deep convolutional models: case studies",
+      "Learning-Teaching Type": "Offline",
+      "LO": "",
+      "ITU": "TU",
+      "Student Materials": "Slide, Video",
+      "S-Download": "",
+      "Student's Tasks": "Read Slide and Watch Video",
+      "URLs": ""
+    },
+    {
+      "Session": "17",
+      "Topic": "Deep convolutional models: case studies",
+      "Learning-Teaching Type": "Offline",
+      "LO": "",
+      "ITU": "TU",
+      "Student Materials": "Slide, Video",
+      "S-Download": "",
+      "Student's Tasks": "Read Slide and Watch Video",
+      "URLs": ""
+    },
+    {
+      "Session": "18",
+      "Topic": "Deep convolutional models: case studies",
+      "Learning-Teaching Type": "Offline",
+      "LO": "",
+      "ITU": "TU",
+      "Student Materials": "Slide, Video",
+      "S-Download": "",
+      "Student's Tasks": "Read Slide and Watch Video",
+      "URLs": ""
+    },
+    {
+      "Session": "19",
+      "Topic": "Deep convolutional models: case studies",
+      "Learning-Teaching Type": "Offline",
+      "LO": "",
+      "ITU": "TU",
+      "Student Materials": "Slide, Video",
+      "S-Download": "",
+      "Student's Tasks": "Read Slide and Watch Video",
+      "URLs": ""
+    },
+    {
+      "Session": "20",
+      "Topic": "Deep convolutional models: case studies",
+      "Learning-Teaching Type": "Offline",
+      "LO": "",
+      "ITU": "TU",
+      "Student Materials": "Slide, Video",
+      "S-Download": "",
+      "Student's Tasks": "Read Slide and Watch Video",
+      "URLs": ""
+    },
+    {
+      "Session": "21",
+      "Topic": "Check Assignment 1",
+      "Learning-Teaching Type": "Offline",
+      "LO": "",
+      "ITU": "",
+      "Student Materials": "",
+      "S-Download": "",
+      "Student's Tasks": "Presentation",
+      "URLs": ""
+    },
+    {
+      "Session": "22",
+      "Topic": "Check Assignment 1",
+      "Learning-Teaching Type": "Offline",
+      "LO": "",
+      "ITU": "",
+      "Student Materials": "",
+      "S-Download": "",
+      "Student's Tasks": "Presentation",
+      "URLs": ""
+    },
+    {
+      "Session": "23",
+      "Topic": "Check Assignment 1",
+      "Learning-Teaching Type": "Offline",
+      "LO": "",
+      "ITU": "",
+      "Student Materials": "",
+      "S-Download": "",
+      "Student's Tasks": "Presentation",
+      "URLs": ""
+    },
+    {
+      "Session": "24",
+      "Topic": "Check Assignment 1",
+      "Learning-Teaching Type": "Offline",
+      "LO": "",
+      "ITU": "",
+      "Student Materials": "",
+      "S-Download": "",
+      "Student's Tasks": "Presentation",
+      "URLs": ""
+    },
+    {
+      "Session": "25",
+      "Topic": "Object detection",
+      "Learning-Teaching Type": "Offline",
+      "LO": "",
+      "ITU": "TU",
+      "Student Materials": "Slide, Video",
+      "S-Download": "",
+      "Student's Tasks": "Read Slide and Watch Video",
+      "URLs": ""
+    },
+    {
+      "Session": "26",
+      "Topic": "Object detection",
+      "Learning-Teaching Type": "Offline",
+      "LO": "",
+      "ITU": "TU",
+      "Student Materials": "Slide, Video",
+      "S-Download": "",
+      "Student's Tasks": "Read Slide and Watch Video",
+      "URLs": ""
+    },
+    {
+      "Session": "27",
+      "Topic": "Object detection",
+      "Learning-Teaching Type": "Offline",
+      "LO": "",
+      "ITU": "TU",
+      "Student Materials": "Slide, Video",
+      "S-Download": "",
+      "Student's Tasks": "Read Slide and Watch Video",
+      "URLs": ""
+    },
+    {
+      "Session": "28",
+      "Topic": "Object detection",
+      "Learning-Teaching Type": "Offline",
+      "LO": "",
+      "ITU": "TU",
+      "Student Materials": "Slide, Video",
+      "S-Download": "",
+      "Student's Tasks": "Read Slide and Watch Video",
+      "URLs": ""
+    },
+    {
+      "Session": "29",
+      "Topic": "Object detection",
+      "Learning-Teaching Type": "Offline",
+      "LO": "",
+      "ITU": "TU",
+      "Student Materials": "Slide, Video",
+      "S-Download": "",
+      "Student's Tasks": "Read Slide and Watch Video",
+      "URLs": ""
+    },
+    {
+      "Session": "30",
+      "Topic": "Object detection",
+      "Learning-Teaching Type": "Offline",
+      "LO": "",
+      "ITU": "TU",
+      "Student Materials": "Slide, Video",
+      "S-Download": "",
+      "Student's Tasks": "Read Slide and Watch Video",
+      "URLs": ""
+    },
+    {
+      "Session": "31",
+      "Topic": "Special applications: Face recognition & Neural style transfer",
+      "Learning-Teaching Type": "Offline",
+      "LO": "",
+      "ITU": "TU",
+      "Student Materials": "Slide, Video",
+      "S-Download": "",
+      "Student's Tasks": "Read Slide and Watch Video",
+      "URLs": ""
+    },
+    {
+      "Session": "32",
+      "Topic": "Special applications: Face recognition & Neural style transfer",
+      "Learning-Teaching Type": "Offline",
+      "LO": "",
+      "ITU": "TU",
+      "Student Materials": "Slide, Video",
+      "S-Download": "",
+      "Student's Tasks": "Read Slide and Watch Video",
+      "URLs": ""
+    },
+    {
+      "Session": "33",
+      "Topic": "Special applications: Face recognition & Neural style transfer",
+      "Learning-Teaching Type": "Offline",
+      "LO": "",
+      "ITU": "TU",
+      "Student Materials": "Slide, Video",
+      "S-Download": "",
+      "Student's Tasks": "Read Slide and Watch Video",
+      "URLs": ""
+    },
+    {
+      "Session": "34",
+      "Topic": "Special applications: Face recognition & Neural style transfer",
+      "Learning-Teaching Type": "Offline",
+      "LO": "",
+      "ITU": "TU",
+      "Student Materials": "Slide, Video",
+      "S-Download": "",
+      "Student's Tasks": "Read Slide and Watch Video",
+      "URLs": ""
+    },
+    {
+      "Session": "35",
+      "Topic": "Special applications: Face recognition & Neural style transfer",
+      "Learning-Teaching Type": "Offline",
+      "LO": "",
+      "ITU": "TU",
+      "Student Materials": "Slide, Video",
+      "S-Download": "",
+      "Student's Tasks": "Read Slide and Watch Video",
+      "URLs": ""
+    },
+    {
+      "Session": "36",
+      "Topic": "Special applications: Face recognition & Neural style transfer",
+      "Learning-Teaching Type": "Offline",
+      "LO": "",
+      "ITU": "TU",
+      "Student Materials": "Slide, Video",
+      "S-Download": "",
+      "Student's Tasks": "Read Slide and Watch Video",
+      "URLs": ""
+    },
+    {
+      "Session": "37",
+      "Topic": "Practical aspects of Deep Learning",
+      "Learning-Teaching Type": "Offline",
+      "LO": "",
+      "ITU": "TU",
+      "Student Materials": "Slide, Video",
+      "S-Download": "",
+      "Student's Tasks": "Read Slide and Watch Video",
+      "URLs": ""
+    },
+    {
+      "Session": "38",
+      "Topic": "Practical aspects of Deep Learning",
+      "Learning-Teaching Type": "Offline",
+      "LO": "",
+      "ITU": "TU",
+      "Student Materials": "Slide, Video",
+      "S-Download": "",
+      "Student's Tasks": "Read Slide and Watch Video",
+      "URLs": ""
+    },
+    {
+      "Session": "39",
+      "Topic": "Practical aspects of Deep Learning",
+      "Learning-Teaching Type": "Offline",
+      "LO": "",
+      "ITU": "TU",
+      "Student Materials": "Slide, Video",
+      "S-Download": "",
+      "Student's Tasks": "Read Slide and Watch Video",
+      "URLs": ""
+    },
+    {
+      "Session": "40",
+      "Topic": "Practical aspects of Deep Learning",
+      "Learning-Teaching Type": "Offline",
+      "LO": "",
+      "ITU": "TU",
+      "Student Materials": "Slide, Video",
+      "S-Download": "",
+      "Student's Tasks": "Read Slide and Watch Video",
+      "URLs": ""
+    },
+    {
+      "Session": "41",
+      "Topic": "Optimization algorithms",
+      "Learning-Teaching Type": "Offline",
+      "LO": "",
+      "ITU": "TU",
+      "Student Materials": "Slide, Video",
+      "S-Download": "",
+      "Student's Tasks": "Read Slide and Watch Video",
+      "URLs": ""
+    },
+    {
+      "Session": "42",
+      "Topic": "Optimization algorithms",
+      "Learning-Teaching Type": "Offline",
+      "LO": "",
+      "ITU": "TU",
+      "Student Materials": "Slide, Video",
+      "S-Download": "",
+      "Student's Tasks": "Read Slide and Watch Video",
+      "URLs": ""
+    },
+    {
+      "Session": "43",
+      "Topic": "Optimization algorithms",
+      "Learning-Teaching Type": "Offline",
+      "LO": "",
+      "ITU": "TU",
+      "Student Materials": "Slide, Video",
+      "S-Download": "",
+      "Student's Tasks": "Read Slide and Watch Video",
+      "URLs": ""
+    },
+    {
+      "Session": "44",
+      "Topic": "Optimization algorithms",
+      "Learning-Teaching Type": "Offline",
+      "LO": "",
+      "ITU": "TU",
+      "Student Materials": "Slide, Video",
+      "S-Download": "",
+      "Student's Tasks": "Read Slide and Watch Video",
+      "URLs": ""
+    },
+    {
+      "Session": "45",
+      "Topic": "Recurrent Neural Networks",
+      "Learning-Teaching Type": "Offline",
+      "LO": "",
+      "ITU": "TU",
+      "Student Materials": "Slide, Video",
+      "S-Download": "",
+      "Student's Tasks": "Read Slide and Watch Video",
+      "URLs": ""
+    },
+    {
+      "Session": "46",
+      "Topic": "Recurrent Neural Networks",
+      "Learning-Teaching Type": "Offline",
+      "LO": "",
+      "ITU": "TU",
+      "Student Materials": "Slide, Video",
+      "S-Download": "",
+      "Student's Tasks": "Read Slide and Watch Video",
+      "URLs": ""
+    },
+    {
+      "Session": "47",
+      "Topic": "Recurrent Neural Networks",
+      "Learning-Teaching Type": "Offline",
+      "LO": "",
+      "ITU": "TU",
+      "Student Materials": "Slide, Video",
+      "S-Download": "",
+      "Student's Tasks": "Read Slide and Watch Video",
+      "URLs": ""
+    },
+    {
+      "Session": "48",
+      "Topic": "Recurrent Neural Networks",
+      "Learning-Teaching Type": "Offline",
+      "LO": "",
+      "ITU": "TU",
+      "Student Materials": "Slide, Video",
+      "S-Download": "",
+      "Student's Tasks": "Read Slide and Watch Video",
+      "URLs": ""
+    },
+    {
+      "Session": "49",
+      "Topic": "Natural Language Processing & Word Embeddings",
+      "Learning-Teaching Type": "Offline",
+      "LO": "",
+      "ITU": "TU",
+      "Student Materials": "Slide, Video",
+      "S-Download": "",
+      "Student's Tasks": "Read Slide and Watch Video",
+      "URLs": ""
+    },
+    {
+      "Session": "50",
+      "Topic": "Natural Language Processing & Word Embeddings",
+      "Learning-Teaching Type": "Offline",
+      "LO": "",
+      "ITU": "TU",
+      "Student Materials": "Slide, Video",
+      "S-Download": "",
+      "Student's Tasks": "Read Slide and Watch Video",
+      "URLs": ""
+    },
+    {
+      "Session": "51",
+      "Topic": "Natural Language Processing & Word Embeddings",
+      "Learning-Teaching Type": "Offline",
+      "LO": "",
+      "ITU": "TU",
+      "Student Materials": "Slide, Video",
+      "S-Download": "",
+      "Student's Tasks": "Read Slide and Watch Video",
+      "URLs": ""
+    },
+    {
+      "Session": "52",
+      "Topic": "Natural Language Processing & Word Embeddings",
+      "Learning-Teaching Type": "Offline",
+      "LO": "",
+      "ITU": "TU",
+      "Student Materials": "Slide, Video",
+      "S-Download": "",
+      "Student's Tasks": "Read Slide and Watch Video",
+      "URLs": ""
+    },
+    {
+      "Session": "53",
+      "Topic": "Sequence models & Attention mechanism",
+      "Learning-Teaching Type": "Offline",
+      "LO": "",
+      "ITU": "TU",
+      "Student Materials": "Slide, Video",
+      "S-Download": "",
+      "Student's Tasks": "Read Slide and Watch Video",
+      "URLs": ""
+    },
+    {
+      "Session": "54",
+      "Topic": "Sequence models & Attention mechanism",
+      "Learning-Teaching Type": "Offline",
+      "LO": "",
+      "ITU": "TU",
+      "Student Materials": "Slide, Video",
+      "S-Download": "",
+      "Student's Tasks": "Read Slide and Watch Video",
+      "URLs": ""
+    },
+    {
+      "Session": "55",
+      "Topic": "Sequence models & Attention mechanism",
+      "Learning-Teaching Type": "Offline",
+      "LO": "",
+      "ITU": "TU",
+      "Student Materials": "Slide, Video",
+      "S-Download": "",
+      "Student's Tasks": "Read Slide and Watch Video",
+      "URLs": ""
+    },
+    {
+      "Session": "56",
+      "Topic": "Sequence models & Attention mechanism",
+      "Learning-Teaching Type": "Offline",
+      "LO": "",
+      "ITU": "TU",
+      "Student Materials": "Slide, Video",
+      "S-Download": "",
+      "Student's Tasks": "Read Slide and Watch Video",
+      "URLs": ""
+    },
+    {
+      "Session": "57",
+      "Topic": "Check Assignment 2",
+      "Learning-Teaching Type": "Offline",
+      "LO": "",
+      "ITU": "",
+      "Student Materials": "",
+      "S-Download": "",
+      "Student's Tasks": "Presentation",
+      "URLs": ""
+    },
+    {
+      "Session": "58",
+      "Topic": "Check Assignment 2",
+      "Learning-Teaching Type": "Offline",
+      "LO": "",
+      "ITU": "",
+      "Student Materials": "",
+      "S-Download": "",
+      "Student's Tasks": "Presentation",
+      "URLs": ""
+    },
+    {
+      "Session": "59",
+      "Topic": "Check Assignment 2",
+      "Learning-Teaching Type": "Offline",
+      "LO": "",
+      "ITU": "",
+      "Student Materials": "",
+      "S-Download": "",
+      "Student's Tasks": "Presentation",
+      "URLs": ""
+    },
+    {
+      "Session": "60",
+      "Topic": "Check Assignment 2",
+      "Learning-Teaching Type": "Offline",
+      "LO": "",
+      "ITU": "",
+      "Student Materials": "",
+      "S-Download": "",
+      "Student's Tasks": "Presentation",
+      "URLs": ""
+    }
+  ],
+  "constructive_questions": [
+    {
+      "No.": "1",
+      "Session No": "1",
+      "Name": "CQ1.1",
+      "Details": "What is Machine Learning, Deep Learning and Artificial Intelligence?"
+    },
+    {
+      "No.": "2",
+      "Session No": "1",
+      "Name": "CQ1.2",
+      "Details": "What are the applications of Machine Learning? When it is used?"
+    },
+    {
+      "No.": "3",
+      "Session No": "2",
+      "Name": "CQ1.3",
+      "Details": "What is the difference between Machine Learning, Deep Learning and AI?"
+    },
+    {
+      "No.": "4",
+      "Session No": "2",
+      "Name": "CQ1.4",
+      "Details": "What is Machine Learning, Deep Learning and Artificial Intelligence?"
+    },
+    {
+      "No.": "5",
+      "Session No": "3",
+      "Name": "CQ1.5",
+      "Details": "What are the applications of Machine Learning? When it is used?"
+    },
+    {
+      "No.": "6",
+      "Session No": "4",
+      "Name": "CQ2.1",
+      "Details": "What is the difference between Machine Learning, Deep Learning and AI?"
+    },
+    {
+      "No.": "7",
+      "Session No": "5",
+      "Name": "CQ2.2",
+      "Details": "What is the difference between supervised and unsupervised deep learning?"
+    },
+    {
+      "No.": "8",
+      "Session No": "6",
+      "Name": "CQ2.3",
+      "Details": "What are data visualisation libraries? Please make an example code and submit."
+    },
+    {
+      "No.": "9",
+      "Session No": "7",
+      "Name": "CQ3.1",
+      "Details": "What is overfitting? How to prevent overfitting? Do report and submit."
+    },
+    {
+      "No.": "10",
+      "Session No": "8",
+      "Name": "CQ3.2",
+      "Details": "What is the difference between supervised and unsupervised deep learning?"
+    },
+    {
+      "No.": "11",
+      "Session No": "9",
+      "Name": "CQ3.3",
+      "Details": "What are data visualisation libraries? Please make an example code and submit."
+    },
+    {
+      "No.": "12",
+      "Session No": "10",
+      "Name": "CQ4.1",
+      "Details": "What is overfitting? How to prevent overfitting? Do report and submit."
+    },
+    {
+      "No.": "13",
+      "Session No": "11",
+      "Name": "CQ4.2",
+      "Details": "What is a Neural Network?What is Perceptron? And how does it work?"
+    },
+    {
+      "No.": "14",
+      "Session No": "12",
+      "Name": "CQ4.3",
+      "Details": "What is Multilayer Perceptron and Boltzmann Machine?"
+    },
+    {
+      "No.": "15",
+      "Session No": "13",
+      "Name": "CQ5.1",
+      "Details": "What are activation functions and its types?What Is the Role of Activation Functions in a Neural Network?"
+    },
+    {
+      "No.": "16",
+      "Session No": "14",
+      "Name": "CQ5.2",
+      "Details": "What is a Neural Network?What is Perceptron? And how does it work?"
+    },
+    {
+      "No.": "17",
+      "Session No": "15",
+      "Name": "CQ5.3",
+      "Details": "What is Multilayer Perceptron and Boltzmann Machine?"
+    },
+    {
+      "No.": "18",
+      "Session No": "16",
+      "Name": "CQ6.1",
+      "Details": "What are activation functions and its types?What Is the Role of Activation Functions in a Neural Network?"
+    },
+    {
+      "No.": "19",
+      "Session No": "17",
+      "Name": "CQ6.2",
+      "Details": "What is gradient descent? What are the steps for using a gradient descent algorithm?"
+    },
+    {
+      "No.": "20",
+      "Session No": "18",
+      "Name": "CQ6.3",
+      "Details": "What are the benefits of mini-batch gradient descent? What are Vanishing and Exploding gradients? Which one would you use and why?"
+    },
+    {
+      "No.": "21",
+      "Session No": "19",
+      "Name": "CQ7.1",
+      "Details": "What is the difference between Epoch, Batch, and Iteration?"
+    },
+    {
+      "No.": "22",
+      "Session No": "20",
+      "Name": "CQ7.2",
+      "Details": "What is gradient descent? What are the steps for using a gradient descent algorithm?"
+    },
+    {
+      "No.": "23",
+      "Session No": "21",
+      "Name": "CQ7.3",
+      "Details": "What are the benefits of mini-batch gradient descent? What are Vanishing and Exploding gradients? Which one would you use and why?"
+    },
+    {
+      "No.": "24",
+      "Session No": "22",
+      "Name": "CQ8.1",
+      "Details": "What is the difference between Epoch, Batch, and Iteration?"
+    },
+    {
+      "No.": "25",
+      "Session No": "23",
+      "Name": "CQ8.2",
+      "Details": "What are hyperparameters?"
+    },
+    {
+      "No.": "26",
+      "Session No": "24",
+      "Name": "CQ8.3",
+      "Details": "What is forward and backward propagation?"
+    },
+    {
+      "No.": "27",
+      "Session No": "25",
+      "Name": "CQ9.1",
+      "Details": "What are the components of the neural network?"
+    },
+    {
+      "No.": "28",
+      "Session No": "26",
+      "Name": "CQ9.2",
+      "Details": "What are hyperparameters?"
+    },
+    {
+      "No.": "29",
+      "Session No": "27",
+      "Name": "CQ9.3",
+      "Details": "What is forward and backward propagation?"
+    },
+    {
+      "No.": "30",
+      "Session No": "28",
+      "Name": "CQ10.1",
+      "Details": "What are the components of the neural network?"
+    },
+    {
+      "No.": "31",
+      "Session No": "29",
+      "Name": "CQ10.2",
+      "Details": "What do you mean by Convolutional Neural Network?"
+    },
+    {
+      "No.": "32",
+      "Session No": "30",
+      "Name": "CQ10.3",
+      "Details": "Why do we prefer Convolutional Neural networks (CNN) over Artificial Neural networks (ANN) for image data as input?"
+    },
+    {
+      "No.": "33",
+      "Session No": "31",
+      "Name": "CQ11.1",
+      "Details": "What is the role of the Convolution Layer in CNN?"
+    },
+    {
+      "No.": "34",
+      "Session No": "32",
+      "Name": "CQ11.2",
+      "Details": "What do you mean by Convolutional Neural Network?"
+    },
+    {
+      "No.": "35",
+      "Session No": "33",
+      "Name": "CQ11.3",
+      "Details": "Why do we prefer Convolutional Neural networks (CNN) over Artificial Neural networks (ANN) for image data as input?"
+    },
+    {
+      "No.": "36",
+      "Session No": "34",
+      "Name": "CQ12.1",
+      "Details": "What is the role of the Convolution Layer in CNN?"
+    },
+    {
+      "No.": "37",
+      "Session No": "35",
+      "Name": "CQ12.2",
+      "Details": "How are the different layers in CNN?"
+    },
+    {
+      "No.": "38",
+      "Session No": "36",
+      "Name": "CQ12.3",
+      "Details": "What is the significance of the RELU Activation function in Convolution Neural Network."
+    },
+    {
+      "No.": "39",
+      "Session No": "37",
+      "Name": "CQ13.1",
+      "Details": "Why do we use a Pooling Layer in a CNN?"
+    },
+    {
+      "No.": "40",
+      "Session No": "38",
+      "Name": "CQ13.2",
+      "Details": "How are the different layers in CNN?"
+    },
+    {
+      "No.": "41",
+      "Session No": "39",
+      "Name": "CQ13.3",
+      "Details": "What is the significance of the RELU Activation function in Convolution Neural Network."
+    },
+    {
+      "No.": "42",
+      "Session No": "40",
+      "Name": "CQ14.1",
+      "Details": "Why do we use a Pooling Layer in a CNN?"
+    },
+    {
+      "No.": "43",
+      "Session No": "41",
+      "Name": "CQ14.2",
+      "Details": "What is the size of the feature map for a given input size image, Filter Size, Stride, and Padding amount?"
+    },
+    {
+      "No.": "44",
+      "Session No": "42",
+      "Name": "CQ14.3",
+      "Details": "What is the terms “Valid Padding” and “Same Padding” in CNN?"
+    },
+    {
+      "No.": "45",
+      "Session No": "43",
+      "Name": "CQ15.1",
+      "Details": "What are the different types of Pooling? Explain their characteristics."
+    },
+    {
+      "No.": "46",
+      "Session No": "44",
+      "Name": "CQ15.2",
+      "Details": "What is the size of the feature map for a given input size image, Filter Size, Stride, and Padding amount?"
+    },
+    {
+      "No.": "47",
+      "Session No": "45",
+      "Name": "CQ15.3",
+      "Details": "What is the terms “Valid Padding” and “Same Padding” in CNN?"
+    },
+    {
+      "No.": "48",
+      "Session No": "46",
+      "Name": "CQ16.1",
+      "Details": "What are the different types of Pooling? Explain their characteristics."
+    },
+    {
+      "No.": "49",
+      "Session No": "47",
+      "Name": "CQ16.2",
+      "Details": "What is Stride? What is the effect of high Stride on the feature map?"
+    },
+    {
+      "No.": "50",
+      "Session No": "48",
+      "Name": "CQ16.3",
+      "Details": "What is the role of the flattening layer in CNN?"
+    },
+    {
+      "No.": "51",
+      "Session No": "49",
+      "Name": "CQ17.1",
+      "Details": "What is the role of the Fully Connected (FC) Layer in CNN?"
+    },
+    {
+      "No.": "52",
+      "Session No": "50",
+      "Name": "CQ17.2",
+      "Details": "What is Stride? What is the effect of high Stride on the feature map?"
+    },
+    {
+      "No.": "53",
+      "Session No": "51",
+      "Name": "CQ17.3",
+      "Details": "What is the role of the flattening layer in CNN?"
+    },
+    {
+      "No.": "54",
+      "Session No": "52",
+      "Name": "CQ18.1",
+      "Details": "What is the role of the Fully Connected (FC) Layer in CNN?"
+    },
+    {
+      "No.": "55",
+      "Session No": "53",
+      "Name": "CQ18.2",
+      "Details": "What are the problems associated with the Convolution operation and how can one resolve them?"
+    },
+    {
+      "No.": "56",
+      "Session No": "54",
+      "Name": "CQ18.3",
+      "Details": "What is the role of the Convolution Layer in CNN?"
+    },
+    {
+      "No.": "57",
+      "Session No": "55",
+      "Name": "CQ19.1",
+      "Details": "Why does a Convolutional Neural Network (CNN) work better with image data?"
+    },
+    {
+      "No.": "58",
+      "Session No": "56",
+      "Name": "CQ19.2",
+      "Details": "What are the problems associated with the Convolution operation and how can one resolve them?"
+    },
+    {
+      "No.": "59",
+      "Session No": "57",
+      "Name": "CQ19.3",
+      "Details": "What is the role of the Convolution Layer in CNN?"
+    },
+    {
+      "No.": "60",
+      "Session No": "58",
+      "Name": "CQ20.1",
+      "Details": "Why does a Convolutional Neural Network (CNN) work better with image data?"
+    },
+    {
+      "No.": "61",
+      "Session No": "59",
+      "Name": "CQ20.2",
+      "Details": "How would you visualise features of CNN in an image classification task?"
+    },
+    {
+      "No.": "62",
+      "Session No": "60",
+      "Name": "CQ20.3",
+      "Details": "Can CNN be used to perform Dimensionality Reduction? If yes, how?"
+    }
+  ],
+  "materials": [
+    {
+      "No.": "1",
+      "Material Description": "- https://www.coursera.org/learn/convolutional-neural-networks?specialization=deep-learning - https://www.coursera.org/learn/nlp-sequence-models",
+      "Author": "",
+      "Publisher": "Coursera",
+      "Published Date": "",
+      "Edition": "",
+      "ISBN": "",
+      "Is Main Material": "True",
+      "Is Hard Copy": "False",
+      "Is Online": "True",
+      "Note": ""
+    }
+  ],
+  "source_path": "data/raw/syllabi/10230.html",
+  "id": "syllabus:10230"
+}

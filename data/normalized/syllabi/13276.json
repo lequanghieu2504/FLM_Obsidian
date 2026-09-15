@@ -1,0 +1,1804 @@
+{
+  "syllabus_id": 13276,
+  "subject_code": "IAA202",
+  "subject_name": "Risk Management in Information Systems_Quản trị rủi ro trong hệ thống thông tin",
+  "syllabus_name": "Risk Management in Information Systems_Quản trị rủi ro trong hệ thống thông tin",
+  "credits": 3,
+  "degree_level": "Bachelor",
+  "time_allocation": "45h (60 sessions) contact hours + 105h self-study",
+  "prerequisite": "IAO101 or IAO201c or IAO202",
+  "general_information": {
+    "Syllabus ID": "13276",
+    "Syllabus Name": "Risk Management in Information Systems_Quản trị rủi ro trong hệ thống thông tin",
+    "Course Name English": "Risk Management in Information Systems",
+    "Subject Code": "IAA202",
+    "Learning-Teaching Method": "Online, Lecture,Active learning,Social Constructivism, Discussion",
+    "NoCredit": "3",
+    "Degree Level": "Bachelor",
+    "Time Allocation": "45h (60 sessions) contact hours + 105h self-study",
+    "Pre-Requisite": "IAO101 or IAO201c or IAO202",
+    "Description": "The course provides a comprehensive view of managing risk in information systems. It covers the fundamentals of risk and risk management and also includes in-depth details on more comprehensive risk management topics. Areas of instruction include how to assess and manage risk based on defining an acceptable level of risk for information systems. Elements of a business impact analysis (BIA), business continuity plan (BCP), disaster recovery plan (DRP) and computer incident response team (CIRT) plan are also discussed.",
+    "StudentTasks": "- Students must attend at least 80% of contact sessions in order to be accepted to the final examination. - Students are responsible to do all exercises, assignments and labs given by instructor in class or at home and submit in time - Use laptop in class only for learning purpose - Promptly access at https://flm.fpt.edu.vn/ for up-to-date course information",
+    "Tools": "Internet, Student VM workstation with Microsoft Office 2007 or higher, Zenmap, Nessus, AI Tools: ChatGPT, Gemini, Copilot,…",
+    "Scoring Scale": "10",
+    "DecisionNo MM/dd/yyyy": "932/QĐ-ĐHFPT dated 08/22/2025",
+    "IsApproved": "True",
+    "Note": "",
+    "Is Scored": "True",
+    "MinAvgMarkToPass": "5",
+    "IsActive": "True",
+    "ApprovedDate": "8/22/2025"
+  },
+  "active": true,
+  "approved": true,
+  "decision": "932/QĐ-ĐHFPT dated 08/22/2025",
+  "description": "The course provides a comprehensive view of managing risk in information systems. It covers the fundamentals of risk and risk management and also includes in-depth details on more comprehensive risk management topics. Areas of instruction include how to assess and manage risk based on defining an acceptable level of risk for information systems. Elements of a business impact analysis (BIA), business continuity plan (BCP), disaster recovery plan (DRP) and computer incident response team (CIRT) plan are also discussed.",
+  "learning_outcomes": [
+    {
+      "No.": "1",
+      "CLO Name": "CLO1",
+      "CLO Details": "Understand the fundamental concepts of risk management and its importance."
+    },
+    {
+      "No.": "2",
+      "CLO Name": "CLO2",
+      "CLO Details": "Understand methods of mitigating risk by managing threats, vulnerabilities, and exploits."
+    },
+    {
+      "No.": "3",
+      "CLO Name": "CLO3",
+      "CLO Details": "Identify compliance laws, standards, best practices, and policies of risk management."
+    },
+    {
+      "No.": "4",
+      "CLO Name": "CLO4",
+      "CLO Details": "Describe the components of an effective risk management plan."
+    },
+    {
+      "No.": "5",
+      "CLO Name": "CLO5",
+      "CLO Details": "Describe approaches for identifying and analyzing relevant threats, vulnerabilities, and exploits."
+    },
+    {
+      "No.": "6",
+      "CLO Name": "CLO6",
+      "CLO Details": "Describe the process of performing risk assessments."
+    },
+    {
+      "No.": "7",
+      "CLO Name": "CLO7",
+      "CLO Details": "Identify assets and activities to be protected within an organization."
+    },
+    {
+      "No.": "8",
+      "CLO Name": "CLO8",
+      "CLO Details": "Identify and analyze threats, vulnerabilities, and exploits."
+    },
+    {
+      "No.": "9",
+      "CLO Name": "CLO9",
+      "CLO Details": "Identify and analyze risk mitigation security controls."
+    },
+    {
+      "No.": "10",
+      "CLO Name": "CLO10",
+      "CLO Details": "Describe the process of planning risk mitigation throughout an organization."
+    },
+    {
+      "No.": "11",
+      "CLO Name": "CLO11",
+      "CLO Details": "Describe the process of implementing a risk mitigation plan."
+    },
+    {
+      "No.": "12",
+      "CLO Name": "CLO12",
+      "CLO Details": "Perform a business impact analysis."
+    },
+    {
+      "No.": "13",
+      "CLO Name": "CLO13",
+      "CLO Details": "Review a business continuity plan (BCP) based on the findings of a given risk assessment for an organization."
+    },
+    {
+      "No.": "14",
+      "CLO Name": "CLO14",
+      "CLO Details": "Review a disaster recovery plan (DRP) based on the findings of a given risk assessment for an organization."
+    },
+    {
+      "No.": "15",
+      "CLO Name": "CLO15",
+      "CLO Details": "Review a computer incident response team (CIRT) plan for an organization."
+    }
+  ],
+  "assessments": [
+    {
+      "No.": "1",
+      "Category": "Assessment 1",
+      "Type": "on-going",
+      "Part": "1",
+      "Weight": "10.0%",
+      "Completion Criteria": ">0",
+      "Duration": "Option 1: 45'/team; Option 2 (For Constructivism Approach only): Follow lecturer's proposal",
+      "CLO": "CLO1, CLO2, CLO3, CLO4, CLO5",
+      "Question Type": "Option 1: Project Presentation And Preview Assessment_part_1; Option 2 (For Constructivism Approach only): Follow lecturer's proposal",
+      "No Question": "Option 1: Project Presentation; Option 2 (For Constructivism Approach only): Follow lecturer's proposal",
+      "Knowledge and Skill": "Cover Lectures 1- 5",
+      "Grading Guide": "Phase 1: Risk Identification & Assessment: Define the enterprise, its critical assets, and conduct a qualitative risk assessment.",
+      "Note": ""
+    },
+    {
+      "No.": "2",
+      "Category": "Assessment 2",
+      "Type": "on-going",
+      "Part": "1",
+      "Weight": "15.0%",
+      "Completion Criteria": ">0",
+      "Duration": "Option 1: 45'/team; Option 2 (For Constructivism Approach only): Follow lecturer's proposal",
+      "CLO": "CLO6, CLO7, CLO8, CLO9, CLO10",
+      "Question Type": "Option 1: Project Presentation And Preview Assessment_part_2; Option 2 (For Constructivism Approach only): Follow lecturer's proposal",
+      "No Question": "Option 1: Project Presentation; Option 2 (For Constructivism Approach only): Follow lecturer's proposal",
+      "Knowledge and Skill": "Cover Lectures 6- 10",
+      "Grading Guide": "Phase 2: Mitigation Planning: Develop policies and select security controls to treat identified risks, including a cost-benefit analysis.",
+      "Note": ""
+    },
+    {
+      "No.": "3",
+      "Category": "Assessment 3",
+      "Type": "on-going",
+      "Part": "1",
+      "Weight": "15.0%",
+      "Completion Criteria": ">0",
+      "Duration": "Option 1: 45'/team; Option 2 (For Constructivism Approach only): Follow lecturer's proposal",
+      "CLO": "CLO11, CLO12, CLO13, CLO14, CLO15",
+      "Question Type": "Option 1: Project Presentation And Preview Assessment_part_3; Option 2 (For Constructivism Approach only): Follow lecturer's proposal",
+      "No Question": "Option 1: Project Presentation; Option 2 (For Constructivism Approach only): Follow lecturer's proposal",
+      "Knowledge and Skill": "Cover Lectures 11- 15",
+      "Grading Guide": "Phase 3: Response & Recovery: Create core components of a resilient framework: a Business Impact Analysis (BIA), Business Continuity Plan (BCP), Disaster Recovery Plan (DRP), and a Computer Incident Response Team (CIRT) plan.",
+      "Note": ""
+    },
+    {
+      "No.": "4",
+      "Category": "Final Project Presentation",
+      "Type": "on-going",
+      "Part": "1",
+      "Weight": "20.0%",
+      "Completion Criteria": ">0",
+      "Duration": "45'/each",
+      "CLO": "CLO1, CLO2, CLO3, CLO4, CLO5,CLO6, CLO7, CLO8, CLO9, CLO10,CLO11, CLO12, CLO13, CLO14, CLO15",
+      "Question Type": "Project Presentation",
+      "No Question": "Project Presentation",
+      "Knowledge and Skill": "",
+      "Grading Guide": "Each team have 45 minutes for presentation. Evaluate the final presentation, based on what the teams introduce, share, and demonstrate their final report, mainly focus on: - Phase 1: Risk Identification & Assessment 20% - Phase 2: Mitigation Planning 25% - Phase 3: Response & Recovery 30% - Presentation: 10% - Team working: 15%",
+      "Note": "1. Project Implementation: - Mode: Students work in assigned teams (3-5 members) to develop a comprehensive Risk Management Framework for a simulated enterprise of their choice (e.g., FinTech startup, healthcare provider, e-commerce platform). - Project Scope: The project is scaffolded throughout the semester, with deliverables aligning with lecture topics: + Phase 1: Risk Identification & Assessment: Define the enterprise, its critical assets, and conduct a qualitative risk assessment. + Phase 2: Mitigation Planning: Develop policies and select security controls to treat identified risks, including a cost-benefit analysis. + Phase 3: Response & Recovery: Create core components of a resilient framework: a Business Impact Analysis (BIA), Business Continuity Plan (BCP), Disaster Recovery Plan (DRP), and a Computer Incident Response Team (CIRT) plan. - AI Integration: Students are required to use AI tools (e.g., ChatGPT, Gemini) for specific, defined tasks such as brainstorming threat scenarios, critiquing their plan's alignment with standards like NIST or ISO 27001, and simulating attacker/auditor perspectives. All AI-generated content must be critically evaluated and integrated with proper justification. 2. Final Project Portfolio A consolidated written report (20-30 pages) that serves as the complete Risk Management Framework, including: - Executive Summary & Problem Context: A clear description of the simulated enterprise and the business environment it operates in. - Comprehensive Risk Analysis: Detailed identification of assets, threats, vulnerabilities, and the assessed impact/likelihood of risks. - Proposed Mitigation Strategy: A detailed plan outlining selected technical and managerial controls, prioritized based on a cost-benefit analysis and mapped to relevant compliance standards (e.g., COBIT P09, NIST CSF, ISO 27001). - Response & Recovery Annexes: Summaries of the BIA, BCP, DRP, and CIRT strategies tailored to the enterprise. - AI Usage Reflection (2-3 pages): A dedicated appendix explaining \"how\" and \"why\" AI was used at various stages (e.g., \"We used AI to generate potential attack vectors for our web application, which we then validated against the OWASP Top 10\"). It must critically discuss the reliability of the outputs and the team's process for verification."
+    },
+    {
+      "No.": "5",
+      "Category": "Midterm Test",
+      "Type": "on-going",
+      "Part": "1",
+      "Weight": "20.0%",
+      "Completion Criteria": ">0",
+      "Duration": "Option 1: 30'- 40’ Option 2 (For Constructivism Approach only): Follow lecturer's proposal",
+      "CLO": "",
+      "Question Type": "Option 1: Multiple choices Marked by Computer or a suitable format Option 2 (For Constructivism Approach only): Questions or Activities proposed by lecturer",
+      "No Question": "Option 1: 20-25 Option 2 (For Constructivism Approach only): Follow lecturer's proposal",
+      "Knowledge and Skill": "Cover Lectures 1- 8",
+      "Grading Guide": "in class, by instructor",
+      "Note": ""
+    },
+    {
+      "No.": "6",
+      "Category": "Final Exam",
+      "Type": "Final exam",
+      "Part": "1",
+      "Weight": "20.0%",
+      "Completion Criteria": "4",
+      "Duration": "60'",
+      "CLO": "",
+      "Question Type": "Multiple choices Marked by Computer",
+      "No Question": "50",
+      "Knowledge and Skill": "concepts, algorithms; all studied Chapters",
+      "Grading Guide": "by exam board, using computer",
+      "Note": "The exam questions must be updated or different at least 70% to the previous ones."
+    }
+  ],
+  "schedule": [
+    {
+      "Session": "1",
+      "Topic": "Lecture 1. Risk Management Fundamentals 1.1 The Major Components of Risk to an IT Infrastructure 1.2 Risk Management and Its Importance to the Organization",
+      "Learning-Teaching Type": "Offline",
+      "LO": "CLO1",
+      "ITU": "T",
+      "Student Materials": "Read Chapter 1",
+      "S-Download": "",
+      "Student's Tasks": "Study and Review Lecture 1",
+      "URLs": ""
+    },
+    {
+      "Session": "2",
+      "Topic": "Lecture 1. Risk Management Fundamentals 1.3 Risk Identification Techniques 1.4 Risk Management Techniques",
+      "Learning-Teaching Type": "Offline",
+      "LO": "CLO1",
+      "ITU": "T",
+      "Student Materials": "Read Chapter 2",
+      "S-Download": "",
+      "Student's Tasks": "Study and Review Lecture 1",
+      "URLs": ""
+    },
+    {
+      "Session": "3",
+      "Topic": "Project Kick-off & Team Formation: Introduce project requirements, deliverables, and grading rubric. Form student teams (3–5 members). Brainstorm possible project topics (e.g., risk analysis for a healthcare IT system, vulnerability assessment in cloud environments). Use AI brainstorming: students ask AI to suggest 5–10 possible topics → select one with instructor approval.",
+      "Learning-Teaching Type": "Offline",
+      "LO": "CLO1",
+      "ITU": "U",
+      "Student Materials": "Lecture Slides",
+      "S-Download": "",
+      "Student's Tasks": "Support/guide students",
+      "URLs": ""
+    },
+    {
+      "Session": "4",
+      "Topic": "Guide: How to Identify Threats and Vulnerabilities in an IT Infrastructure",
+      "Learning-Teaching Type": "Offline",
+      "LO": "CLO1",
+      "ITU": "U",
+      "Student Materials": "Lecture Slides",
+      "S-Download": "",
+      "Student's Tasks": "Support/guide students",
+      "URLs": ""
+    },
+    {
+      "Session": "5",
+      "Topic": "Lecture 2. Managing Risk: Threats, Vulnerabilities, and Exploits 2.1 Understanding and Managing Threats 2.2 Understanding and Managing Vulnerabilities",
+      "Learning-Teaching Type": "Offline",
+      "LO": "CLO2",
+      "ITU": "T",
+      "Student Materials": "Read Chapter 2",
+      "S-Download": "",
+      "Student's Tasks": "Study and Review Lecture 2",
+      "URLs": ""
+    },
+    {
+      "Session": "6",
+      "Topic": "Lecture 2. Managing Risk (cont): Threats, Vulnerabilities, and Exploits 2.1 Understanding and Managing Threats 2.2 Understanding and Managing Vulnerabilities",
+      "Learning-Teaching Type": "Offline",
+      "LO": "CLO2",
+      "ITU": "T",
+      "Student Materials": "Read Chapter 2",
+      "S-Download": "",
+      "Student's Tasks": "Study and Review Lecture 2",
+      "URLs": ""
+    },
+    {
+      "Session": "7",
+      "Topic": "Lecture 3. Maintaining Compliance 3.1 Regulations Related to Compliance 3.2 Organizational Policies for Compliance",
+      "Learning-Teaching Type": "Offline",
+      "LO": "CLO3",
+      "ITU": "T",
+      "Student Materials": "Read Chapter 3",
+      "S-Download": "",
+      "Student's Tasks": "Study and Review Lecture 3",
+      "URLs": ""
+    },
+    {
+      "Session": "8",
+      "Topic": "Lecture 3. Maintaining Compliance 3.3 Standards and Guidelines for Compliance",
+      "Learning-Teaching Type": "Offline",
+      "LO": "CLO3",
+      "ITU": "T",
+      "Student Materials": "Read Chapter 3",
+      "S-Download": "",
+      "Student's Tasks": "Study and Review Lecture 3",
+      "URLs": ""
+    },
+    {
+      "Session": "9",
+      "Topic": "Project Proposal Submission: Teams submit a 1-2 page proposal outlining their chosen enterprise, scope, and initial risk hypotheses. AI can assist in structuring the proposal, but students must critically refine it. Instructor + peers provide feedback",
+      "Learning-Teaching Type": "Offline",
+      "LO": "CLO3",
+      "ITU": "U",
+      "Student Materials": "Lecture Slides",
+      "S-Download": "",
+      "Student's Tasks": "Support/guide students",
+      "URLs": ""
+    },
+    {
+      "Session": "10",
+      "Topic": "Guide: Align Risks, Threats and Vulnerabilities to COBIT P09 Risk Management Controls",
+      "Learning-Teaching Type": "Offline",
+      "LO": "CLO3",
+      "ITU": "U",
+      "Student Materials": "Lecture Slides",
+      "S-Download": "",
+      "Student's Tasks": "Support/guide students",
+      "URLs": ""
+    },
+    {
+      "Session": "11",
+      "Topic": "Lecture 4. Developing a Risk Management Plan 4.1 Objectives and Scope of a Risk Management Plan 4.2 Assigning Responsibilities, Procedures and Schedules for Accomplishment",
+      "Learning-Teaching Type": "Offline",
+      "LO": "CLO4",
+      "ITU": "T",
+      "Student Materials": "Read Chapter 4",
+      "S-Download": "",
+      "Student's Tasks": "Study and Review Lecture 4",
+      "URLs": ""
+    },
+    {
+      "Session": "12",
+      "Topic": "Lecture 4. Developing a Risk Management Plan 4.3 Reporting Requirements, Plan of Action and Milestones 4.4 Charting the Progress of a Risk Management Plan",
+      "Learning-Teaching Type": "Offline",
+      "LO": "CLO4",
+      "ITU": "T",
+      "Student Materials": "Read Chapter 4",
+      "S-Download": "",
+      "Student's Tasks": "Study and Review Lecture 4",
+      "URLs": ""
+    },
+    {
+      "Session": "13",
+      "Topic": "The AI Auditor: Teams present their top 5 identified risks. Another team or an AI prompt (e.g., \"Act as a skeptical internal auditor\") challenges the analysis for completeness and relevance to COBIT.",
+      "Learning-Teaching Type": "Offline",
+      "LO": "CLO4",
+      "ITU": "U",
+      "Student Materials": "Lecture Slides",
+      "S-Download": "",
+      "Student's Tasks": "Support/guide students",
+      "URLs": ""
+    },
+    {
+      "Session": "14",
+      "Topic": "Guide: Define the Scope and Structure for an IT Risk Management Plan",
+      "Learning-Teaching Type": "Offline",
+      "LO": "CLO4",
+      "ITU": "U",
+      "Student Materials": "Lecture Slides",
+      "S-Download": "",
+      "Student's Tasks": "Support/guide students",
+      "URLs": ""
+    },
+    {
+      "Session": "15",
+      "Topic": "Lecture 5. Defining Risk Assessment Approaches 5.1 Understanding Critical Components of a Risk Assessment",
+      "Learning-Teaching Type": "Offline",
+      "LO": "CLO5",
+      "ITU": "T",
+      "Student Materials": "Read Chapter 5",
+      "S-Download": "",
+      "Student's Tasks": "Study and Review Lecture 5",
+      "URLs": ""
+    },
+    {
+      "Session": "16",
+      "Topic": "Lecture 5. Defining Risk Assessment Approaches 5.2 Types of Risk Assessments and Challenges 5.3 Best Practices for Risk Assessment",
+      "Learning-Teaching Type": "Offline",
+      "LO": "CLO5",
+      "ITU": "T",
+      "Student Materials": "Read Chapter 5",
+      "S-Download": "",
+      "Student's Tasks": "Study and Review Lecture 5",
+      "URLs": ""
+    },
+    {
+      "Session": "17",
+      "Topic": "Lecture 6. Performing a Risk Assessment 6.1 Selecting a Risk Assessment Methodology 6.2 Identifying the Management Structure, Assets and Activities Within Risk Assessment Boundaries Solution Design: Propose mitigation solutions for identified risks. Deliverable: Draft solution framework (diagram, flowchart, or risk management plan outline). Mid-point check-in presentation (15 minutes/team) for instructor feedback.",
+      "Learning-Teaching Type": "Offline",
+      "LO": "CLO6",
+      "ITU": "T",
+      "Student Materials": "Read Chapter 6",
+      "S-Download": "",
+      "Student's Tasks": "Support/guide students",
+      "URLs": ""
+    },
+    {
+      "Session": "18",
+      "Topic": "Lecture 6. Performing a Risk Assessment 6.3 Identifying and Evaluating Relevant Threats, Vulnerabilities and Countermeasures 6.4 Selecting a Methodology Based on Assessment Needs",
+      "Learning-Teaching Type": "Offline",
+      "LO": "CLO6",
+      "ITU": "T",
+      "Student Materials": "Read Chapter 6",
+      "S-Download": "",
+      "Student's Tasks": "Study and Review Lecture 6",
+      "URLs": ""
+    },
+    {
+      "Session": "19",
+      "Topic": "Lecture 6. Performing a Risk Assessment 6.5 Developing Mitigating Recommendations and Presenting Risk Assessment Results",
+      "Learning-Teaching Type": "Offline",
+      "LO": "CLO6",
+      "ITU": "T",
+      "Student Materials": "Read Chapter 6",
+      "S-Download": "",
+      "Student's Tasks": "Study and Review Lecture 6",
+      "URLs": ""
+    },
+    {
+      "Session": "20",
+      "Topic": "Lecture 6. Performing a Risk Assessment 6.6 Best Practices for Performing Risk Assessments",
+      "Learning-Teaching Type": "Offline",
+      "LO": "CLO6",
+      "ITU": "T",
+      "Student Materials": "Read Chapter 6",
+      "S-Download": "",
+      "Student's Tasks": "Study and Review Lecture 6",
+      "URLs": ""
+    },
+    {
+      "Session": "21",
+      "Topic": "Review Assessment 1",
+      "Learning-Teaching Type": "Offline",
+      "LO": "CLO1, CLO2, CLO3, CLO4, CLO5",
+      "ITU": "U",
+      "Student Materials": "Present/demo Part1",
+      "S-Download": "",
+      "Student's Tasks": "Support/guide students",
+      "URLs": ""
+    },
+    {
+      "Session": "22",
+      "Topic": "Review Assessment 1",
+      "Learning-Teaching Type": "Offline",
+      "LO": "CLO1, CLO2, CLO3, CLO4, CLO5",
+      "ITU": "U",
+      "Student Materials": "Present/demo Part1",
+      "S-Download": "",
+      "Student's Tasks": "Support/guide students",
+      "URLs": ""
+    },
+    {
+      "Session": "23",
+      "Topic": "Review Assessment 1",
+      "Learning-Teaching Type": "Offline",
+      "LO": "CLO1, CLO2, CLO3, CLO4, CLO5",
+      "ITU": "U",
+      "Student Materials": "Present/demo Part1",
+      "S-Download": "",
+      "Student's Tasks": "Support/guide students",
+      "URLs": ""
+    },
+    {
+      "Session": "24",
+      "Topic": "Lecture 7. Identifying Assets and Activities to Be Protected 7.1 System Access and Availability 7.2 System Functions: Manual and Automated",
+      "Learning-Teaching Type": "Offline",
+      "LO": "CLO7",
+      "ITU": "T",
+      "Student Materials": "Read Chapter 7",
+      "S-Download": "",
+      "Student's Tasks": "Study and Review Lecture 7",
+      "URLs": ""
+    },
+    {
+      "Session": "25",
+      "Topic": "Lecture 7. Identifying Assets and Activities to Be Protected 7.3 Hardware, Software and Personnel Assets 7.4 Data and Information Assets",
+      "Learning-Teaching Type": "Offline",
+      "LO": "CLO7",
+      "ITU": "T",
+      "Student Materials": "Read Chapter 7",
+      "S-Download": "",
+      "Student's Tasks": "Study and Review Lecture 7",
+      "URLs": ""
+    },
+    {
+      "Session": "26",
+      "Topic": "Lecture 7. Identifying Assets and Activities to Be Protected 7.5 Asset and Inventory Management Within the Seven Domains of a Typical IT Infrastructure",
+      "Learning-Teaching Type": "Offline",
+      "LO": "CLO7",
+      "ITU": "T",
+      "Student Materials": "Read Chapter 7",
+      "S-Download": "",
+      "Student's Tasks": "Study and Review Lecture 7",
+      "URLs": ""
+    },
+    {
+      "Session": "27",
+      "Topic": "Lecture 7. Identifying Assets and Activities to Be Protected 7.6 Identifying Facilities and Supplies Needed to Maintain Business Operations",
+      "Learning-Teaching Type": "Offline",
+      "LO": "CLO7",
+      "ITU": "T",
+      "Student Materials": "Read Chapter 7",
+      "S-Download": "",
+      "Student's Tasks": "Study and Review Lecture 7",
+      "URLs": ""
+    },
+    {
+      "Session": "28",
+      "Topic": "Lectures 8. Identifying and Analyzing Threats, Vulnerabilities, and Exploits 8.1 Threat Assessments 8.2 Vulnerability Assessments",
+      "Learning-Teaching Type": "Offline",
+      "LO": "CLO8",
+      "ITU": "T",
+      "Student Materials": "Read Chapter 8",
+      "S-Download": "",
+      "Student's Tasks": "Study and Review Lecture 8",
+      "URLs": ""
+    },
+    {
+      "Session": "29",
+      "Topic": "Lectures 8. Identifying and Analyzing Threats, Vulnerabilities, and Exploits 8.3 Exploit Assessments",
+      "Learning-Teaching Type": "Offline",
+      "LO": "CLO8",
+      "ITU": "T",
+      "Student Materials": "Read Chapter 8",
+      "S-Download": "",
+      "Student's Tasks": "Study and Review Lecture 8",
+      "URLs": ""
+    },
+    {
+      "Session": "30",
+      "Topic": "AI-Supported Evaluation: Teams use AI to test and critique proposed risk assessments (e.g., ask AI to act as an auditor). Deliverable: AI Evaluation Log – 1–2 pages explaining suggestions and team refinements.",
+      "Learning-Teaching Type": "Offline",
+      "LO": "CLO8",
+      "ITU": "U",
+      "Student Materials": "Lecture Slides",
+      "S-Download": "",
+      "Student's Tasks": "Support/guide students",
+      "URLs": ""
+    },
+    {
+      "Session": "31",
+      "Topic": "Structured Peer Review: Teams swap reports and provide feedback using a provided rubric. Subsequently, use AI to summarize the peer feedback and identify common strengths/weaknesses across all reviews",
+      "Learning-Teaching Type": "Offline",
+      "LO": "CLO8",
+      "ITU": "U",
+      "Student Materials": "Lecture Slides",
+      "S-Download": "",
+      "Student's Tasks": "Support/guide students",
+      "URLs": ""
+    },
+    {
+      "Session": "32",
+      "Topic": "Implementation / Case Study Detailing: Develop detailed risk mitigation plans or case studies. Deliverable: Progress Report (4–5 pages) with initial results.",
+      "Learning-Teaching Type": "Offline",
+      "LO": "CLO8",
+      "ITU": "U",
+      "Student Materials": "Lecture Slides",
+      "S-Download": "",
+      "Student's Tasks": "Support/guide students",
+      "URLs": ""
+    },
+    {
+      "Session": "33",
+      "Topic": "Lectures 9. Identifying and Analyzing Risk Mitigation Security Controls 9.1 In-Place Controls, Planned Controls and Control Categories 9.2 Procedural Control Examples",
+      "Learning-Teaching Type": "Offline",
+      "LO": "CLO9",
+      "ITU": "T",
+      "Student Materials": "Read Chapter 9",
+      "S-Download": "",
+      "Student's Tasks": "Study and Review Lecture 9",
+      "URLs": ""
+    },
+    {
+      "Session": "34",
+      "Topic": "Lectures 9. Identifying and Analyzing Risk Mitigation Security Controls 9.3 Technical Control Examples 9.4 Physical Control Examples 9.5 Best Practices for Risk Mitigation Security Controls",
+      "Learning-Teaching Type": "Offline",
+      "LO": "CLO9",
+      "ITU": "T",
+      "Student Materials": "Read Chapter 9",
+      "S-Download": "",
+      "Student's Tasks": "Study and Review Lecture 9",
+      "URLs": ""
+    },
+    {
+      "Session": "35",
+      "Topic": "Lectures 10. Planning Risk Mitigation Throughout Your Organization 10.1 The Scope of Risk Management for Your Organization 10.2 Understanding and Assessing the Impact of Legal and Compliance Issues on Your Organization",
+      "Learning-Teaching Type": "Offline",
+      "LO": "CLO10",
+      "ITU": "T",
+      "Student Materials": "Read Chapter 10",
+      "S-Download": "",
+      "Student's Tasks": "Study and Review Lecture 10",
+      "URLs": ""
+    },
+    {
+      "Session": "36",
+      "Topic": "Lectures 10. Planning Risk Mitigation Throughout Your Organization 10.3 Translating Legal and Compliance Implications 10.4 Assessing the Impact of Legal and Compliance Implications on the Seven Domains of a Typical IT Infrastructure",
+      "Learning-Teaching Type": "Offline",
+      "LO": "CLO10",
+      "ITU": "T",
+      "Student Materials": "Read Chapter 10",
+      "S-Download": "",
+      "Student's Tasks": "Study and Review Lecture 10",
+      "URLs": ""
+    },
+    {
+      "Session": "37",
+      "Topic": "Lectures 10. Planning Risk Mitigation Throughout Your Organization 10.5 Assessing How Security Countermeasures and Safeguards Can Assist with Risk Mitigation 10.6 Understanding the Operational Implications of Legal and Compliance Requirements",
+      "Learning-Teaching Type": "Offline",
+      "LO": "CLO10",
+      "ITU": "T",
+      "Student Materials": "Read Chapter 10",
+      "S-Download": "",
+      "Student's Tasks": "Study and Review Lecture 10",
+      "URLs": ""
+    },
+    {
+      "Session": "38",
+      "Topic": "Lectures 10. Planning Risk Mitigation Throughout Your Organization 10.7 Identifying Risk Mitigation and Risk Reduction Elements for the Entire Organization 10.8 Performing a Cost-Benefit Analysis 10.9 Best Practices for Planning Risk Mitigation Throughout Your organization",
+      "Learning-Teaching Type": "Offline",
+      "LO": "CLO10",
+      "ITU": "T",
+      "Student Materials": "Read Chapter 10",
+      "S-Download": "",
+      "Student's Tasks": "Study and Review Lecture 10",
+      "URLs": ""
+    },
+    {
+      "Session": "39",
+      "Topic": "The Cost-Benefit Challenge: Teams propose their chosen mitigation controls. Other teams/AI (prompt: \"Act as a CFO focused on ROI\") challenge the cost-benefit analysis and operational feasibility.",
+      "Learning-Teaching Type": "Offline",
+      "LO": "CLO10",
+      "ITU": "U",
+      "Student Materials": "Lecture Slides",
+      "S-Download": "",
+      "Student's Tasks": "Support/guide students",
+      "URLs": ""
+    },
+    {
+      "Session": "40",
+      "Topic": "Review Assessment 2",
+      "Learning-Teaching Type": "Offline",
+      "LO": "CLO6, CLO7, CLO8, CLO9, CLO10",
+      "ITU": "U",
+      "Student Materials": "Present/demo Part2",
+      "S-Download": "",
+      "Student's Tasks": "Support/guide students",
+      "URLs": ""
+    },
+    {
+      "Session": "41",
+      "Topic": "Review Assessment 2",
+      "Learning-Teaching Type": "Offline",
+      "LO": "CLO6, CLO7, CLO8, CLO9, CLO10",
+      "ITU": "U",
+      "Student Materials": "Present/demo Part2",
+      "S-Download": "",
+      "Student's Tasks": "Support/guide students",
+      "URLs": ""
+    },
+    {
+      "Session": "42",
+      "Topic": "Lectures 11. Turning Your Risk Assessment into a Risk Mitigation Plan 11.1 Translating Your Risk Assessment into a Risk Mitigation Plan 11.2 Prioritizing and Verifying Risk Elements and How These Risks Can Be Mitigated 11.3 Performing a CBA on the Identified Risk Elements",
+      "Learning-Teaching Type": "Offline",
+      "LO": "CLO11",
+      "ITU": "T",
+      "Student Materials": "Read Chapter 11",
+      "S-Download": "",
+      "Student's Tasks": "Study and Review Lecture 11",
+      "URLs": ""
+    },
+    {
+      "Session": "43",
+      "Topic": "Lectures 11. Turning Your Risk Assessment into a Risk Mitigation Plan 11.4 Implementing and Following Up on the Risk Mitigation Plan 11.5 Best Practices for Enabling a Risk Mitigation Plan from Your Risk Assessment",
+      "Learning-Teaching Type": "Offline",
+      "LO": "CLO11",
+      "ITU": "T",
+      "Student Materials": "Read Chapter 11",
+      "S-Download": "",
+      "Student's Tasks": "Study and Review Lecture 11",
+      "URLs": ""
+    },
+    {
+      "Session": "44",
+      "Topic": "Lectures 12. Mitigating Risk with a Business Impact Analysis 12.1 The Scope and Objectives of a BIA 12.2 The Steps of a BIA Process 12.3 Identifying Mission-Critical Business Functions and Processes",
+      "Learning-Teaching Type": "Offline",
+      "LO": "CLO12",
+      "ITU": "T",
+      "Student Materials": "Read Chapter 12",
+      "S-Download": "",
+      "Student's Tasks": "Study and Review Lecture 12",
+      "URLs": ""
+    },
+    {
+      "Session": "45",
+      "Topic": "Lectures 12. Mitigating Risk with a Business Impact Analysis 12.4 Mapping Business Functions and Processes to IT Systems 12.5 Best Practices for Performing a BIA for Your Organization",
+      "Learning-Teaching Type": "Offline",
+      "LO": "CLO12",
+      "ITU": "T",
+      "Student Materials": "Read Chapter 12",
+      "S-Download": "",
+      "Student's Tasks": "Study and Review Lecture 12",
+      "URLs": ""
+    },
+    {
+      "Session": "46",
+      "Topic": "Plan Consolidation: Integrate all components (BIA, BCP, DRP, CIRT) into a unified Risk Management Framework document.",
+      "Learning-Teaching Type": "Offline",
+      "LO": "CLO12",
+      "ITU": "U",
+      "Student Materials": "Lecture Slides",
+      "S-Download": "",
+      "Student's Tasks": "Support/guide students",
+      "URLs": ""
+    },
+    {
+      "Session": "47",
+      "Topic": "Lectures 13. Mitigating Risk with a Business Continuity Plan 13.1 Elements of a BCP 13.2 How Does a BCP Mitigate an Organization's Risk?",
+      "Learning-Teaching Type": "Offline",
+      "LO": "CLO13",
+      "ITU": "T",
+      "Student Materials": "Read Chapter 13",
+      "S-Download": "",
+      "Student's Tasks": "Study and Review Lecture 13",
+      "URLs": ""
+    },
+    {
+      "Session": "48",
+      "Topic": "Lectures 13. Mitigating Risk with a Business Continuity Plan 13.3 Best Practices for Implementing a BCP for Your Organization",
+      "Learning-Teaching Type": "Offline",
+      "LO": "CLO13",
+      "ITU": "T",
+      "Student Materials": "Read Chapter 13",
+      "S-Download": "",
+      "Student's Tasks": "Study and Review Lecture 13",
+      "URLs": ""
+    },
+    {
+      "Session": "49",
+      "Topic": "Lectures 14. Mitigating Risk with a Disaster Recovery Plan 14.1 Critical Success Factors of a DRP 14.2 Elements of a DRP",
+      "Learning-Teaching Type": "Offline",
+      "LO": "CLO14",
+      "ITU": "T",
+      "Student Materials": "Read Chapter 14",
+      "S-Download": "",
+      "Student's Tasks": "Study and Review Lecture 14",
+      "URLs": ""
+    },
+    {
+      "Session": "50",
+      "Topic": "Lectures 14. Mitigating Risk with a Disaster Recovery Plan 14.3 How Does a DRP Mitigate an Organization's Risk? 14.4 Best Practices for Implementing a DRP for Your Organization",
+      "Learning-Teaching Type": "Offline",
+      "LO": "CLO14",
+      "ITU": "T",
+      "Student Materials": "Read Chapter 14",
+      "S-Download": "",
+      "Student's Tasks": "Study and Review Lecture 14",
+      "URLs": ""
+    },
+    {
+      "Session": "51",
+      "Topic": "Lectures 15. Mitigating Risk with a Computer Incident Response Team Plan 15.1 Purpose and Elements of a CIRT Plan 15.2 How Does a CIRT Plan Mitigate an Organization's Risk?",
+      "Learning-Teaching Type": "Offline",
+      "LO": "CLO15",
+      "ITU": "T",
+      "Student Materials": "Read Chapter 15",
+      "S-Download": "",
+      "Student's Tasks": "Study and Review Lecture 15",
+      "URLs": ""
+    },
+    {
+      "Session": "52",
+      "Topic": "Lectures 15. Mitigating Risk with a Computer Incident Response Team Plan 15.3 Best Practices for Implementing a CI RT Plan for Your Organization",
+      "Learning-Teaching Type": "Offline",
+      "LO": "CLO15",
+      "ITU": "T",
+      "Student Materials": "Read Chapter 15",
+      "S-Download": "",
+      "Student's Tasks": "Study and Review Lecture 15",
+      "URLs": ""
+    },
+    {
+      "Session": "53",
+      "Topic": "Review Assessment 3",
+      "Learning-Teaching Type": "Offline",
+      "LO": "CLO11, CLO12, CLO13, CLO14, CLO15",
+      "ITU": "U",
+      "Student Materials": "Present/demo Part3",
+      "S-Download": "",
+      "Student's Tasks": "Support/guide students",
+      "URLs": ""
+    },
+    {
+      "Session": "54",
+      "Topic": "Review Assessment 3",
+      "Learning-Teaching Type": "Offline",
+      "LO": "CLO11, CLO12, CLO13, CLO14, CLO15",
+      "ITU": "U",
+      "Student Materials": "Present/demo Part3",
+      "S-Download": "",
+      "Student's Tasks": "Support/guide students",
+      "URLs": ""
+    },
+    {
+      "Session": "55",
+      "Topic": "Final Project Preparation",
+      "Learning-Teaching Type": "Offline",
+      "LO": "CLO1, CLO2, CLO3, CLO4, CLO5,CLO6, CLO7, CLO8, CLO9, CLO10,CLO11, CLO12, CLO13, CLO14, CLO15",
+      "ITU": "U",
+      "Student Materials": "Lecture Slides",
+      "S-Download": "",
+      "Student's Tasks": "Support/guide students",
+      "URLs": ""
+    },
+    {
+      "Session": "56",
+      "Topic": "Final Project Preparation",
+      "Learning-Teaching Type": "Offline",
+      "LO": "CLO1, CLO2, CLO3, CLO4, CLO5,CLO6, CLO7, CLO8, CLO9, CLO10,CLO11, CLO12, CLO13, CLO14, CLO15",
+      "ITU": "U",
+      "Student Materials": "Lecture Slides",
+      "S-Download": "",
+      "Student's Tasks": "Support/guide students",
+      "URLs": ""
+    },
+    {
+      "Session": "57",
+      "Topic": "Final Project Preparation",
+      "Learning-Teaching Type": "Offline",
+      "LO": "CLO1, CLO2, CLO3, CLO4, CLO5,CLO6, CLO7, CLO8, CLO9, CLO10,CLO11, CLO12, CLO13, CLO14, CLO15",
+      "ITU": "U",
+      "Student Materials": "Lecture Slides",
+      "S-Download": "",
+      "Student's Tasks": "Support/guide students",
+      "URLs": ""
+    },
+    {
+      "Session": "58",
+      "Topic": "Final Project Preparation",
+      "Learning-Teaching Type": "Offline",
+      "LO": "CLO1, CLO2, CLO3, CLO4, CLO5,CLO6, CLO7, CLO8, CLO9, CLO10,CLO11, CLO12, CLO13, CLO14, CLO15",
+      "ITU": "U",
+      "Student Materials": "Lecture Slides",
+      "S-Download": "",
+      "Student's Tasks": "Support/guide students",
+      "URLs": ""
+    },
+    {
+      "Session": "59",
+      "Topic": "Final Project Presentation",
+      "Learning-Teaching Type": "Offline",
+      "LO": "CLO1, CLO2, CLO3, CLO4, CLO5,CLO6, CLO7, CLO8, CLO9, CLO10,CLO11, CLO12, CLO13, CLO14, CLO15",
+      "ITU": "U",
+      "Student Materials": "Present/demo last work results",
+      "S-Download": "",
+      "Student's Tasks": "Evaluate students",
+      "URLs": ""
+    },
+    {
+      "Session": "60",
+      "Topic": "Final Project Presentation",
+      "Learning-Teaching Type": "Offline",
+      "LO": "CLO1, CLO2, CLO3, CLO4, CLO5,CLO6, CLO7, CLO8, CLO9, CLO10,CLO11, CLO12, CLO13, CLO14, CLO15",
+      "ITU": "U",
+      "Student Materials": "Present/demo last work results",
+      "S-Download": "",
+      "Student's Tasks": "Evaluate students",
+      "URLs": ""
+    }
+  ],
+  "constructive_questions": [
+    {
+      "No.": "1",
+      "Session No": "1",
+      "Name": "CQ1",
+      "Details": "What risk is and what its relationship to threat, vulnerability, and loss is?"
+    },
+    {
+      "No.": "2",
+      "Session No": "1",
+      "Name": "CQ2",
+      "Details": "What the major components of risk to an IT infrastructure are?"
+    },
+    {
+      "No.": "3",
+      "Session No": "1",
+      "Name": "CQ3",
+      "Details": "What risk management is and how it is important to the organization?"
+    },
+    {
+      "No.": "4",
+      "Session No": "2",
+      "Name": "CQ1",
+      "Details": "What risk is and what its relationship to threat, vulnerability, and loss is? (cont.)"
+    },
+    {
+      "No.": "5",
+      "Session No": "2",
+      "Name": "CQ2",
+      "Details": "What the major components of risk to an IT infrastructure are? (cont.)"
+    },
+    {
+      "No.": "6",
+      "Session No": "2",
+      "Name": "CQ3",
+      "Details": "What risk management is and how it is important to the organization? (cont.)"
+    },
+    {
+      "No.": "7",
+      "Session No": "3",
+      "Name": "CQ1",
+      "Details": "What some risk identification techniques are?"
+    },
+    {
+      "No.": "8",
+      "Session No": "3",
+      "Name": "CQ2",
+      "Details": "What some risk management techniques are?"
+    },
+    {
+      "No.": "9",
+      "Session No": "3",
+      "Name": "CQ3",
+      "Details": "What threats are and how can they be managed ?"
+    },
+    {
+      "No.": "10",
+      "Session No": "4",
+      "Name": "CQ1",
+      "Details": "What some risk identification techniques are? (cont.)"
+    },
+    {
+      "No.": "11",
+      "Session No": "4",
+      "Name": "CQ2",
+      "Details": "What some risk management techniques are? (cont.)"
+    },
+    {
+      "No.": "12",
+      "Session No": "4",
+      "Name": "CQ3",
+      "Details": "What threats are and how can they be managed ? (cont.)"
+    },
+    {
+      "No.": "13",
+      "Session No": "5",
+      "Name": "CQ1",
+      "Details": "What vulnerabilities are and how can they be managed ?"
+    },
+    {
+      "No.": "14",
+      "Session No": "5",
+      "Name": "CQ2",
+      "Details": "What exploits are and how can they be managed?"
+    },
+    {
+      "No.": "15",
+      "Session No": "5",
+      "Name": "CQ3",
+      "Details": "Which risk management initiatives the U.S. federal government sponsors?"
+    },
+    {
+      "No.": "16",
+      "Session No": "6",
+      "Name": "CQ1",
+      "Details": "What vulnerabilities are and how can they be managed ? (cont.)"
+    },
+    {
+      "No.": "17",
+      "Session No": "6",
+      "Name": "CQ2",
+      "Details": "What exploits are and how can they be managed? (cont.)"
+    },
+    {
+      "No.": "18",
+      "Session No": "6",
+      "Name": "CQ3",
+      "Details": "Which risk management initiatives the U.S. federal government sponsors? (cont.)"
+    },
+    {
+      "No.": "19",
+      "Session No": "7",
+      "Name": "CQ1",
+      "Details": "What organizational policies for compliance should be considered?"
+    },
+    {
+      "No.": "20",
+      "Session No": "7",
+      "Name": "CQ2",
+      "Details": "What US-based laws related to compliance exist?"
+    },
+    {
+      "No.": "21",
+      "Session No": "7",
+      "Name": "CQ3",
+      "Details": "What some relevant regulations related to compliance are?"
+    },
+    {
+      "No.": "22",
+      "Session No": "8",
+      "Name": "CQ1",
+      "Details": "What organizational policies for compliance should be considered? (cont.)"
+    },
+    {
+      "No.": "23",
+      "Session No": "8",
+      "Name": "CQ2",
+      "Details": "What US-based laws related to compliance exist? (cont.)"
+    },
+    {
+      "No.": "24",
+      "Session No": "8",
+      "Name": "CQ3",
+      "Details": "What some relevant regulations related to compliance are? (cont.)"
+    },
+    {
+      "No.": "25",
+      "Session No": "9",
+      "Name": "CQ1",
+      "Details": "A risk management plan includes steps to mitigate risks. Who is responsible for choosing what steps to implement?"
+    },
+    {
+      "No.": "26",
+      "Session No": "9",
+      "Name": "CQ2",
+      "Details": "What elements should be included in the findings of the risk management report?"
+    },
+    {
+      "No.": "27",
+      "Session No": "9",
+      "Name": "CQ3",
+      "Details": "What is a primary tool used to identify the financial significance of a mitigation tool?"
+    },
+    {
+      "No.": "28",
+      "Session No": "9",
+      "Name": "CQ4",
+      "Details": "What standards and guidelines for compliance exist?"
+    },
+    {
+      "No.": "29",
+      "Session No": "10",
+      "Name": "CQ1",
+      "Details": "A risk management plan includes steps to mitigate risks. Who is responsible for choosing what steps to implement? (cont.)"
+    },
+    {
+      "No.": "30",
+      "Session No": "10",
+      "Name": "CQ2",
+      "Details": "What elements should be included in the findings of the risk management report? (cont.)"
+    },
+    {
+      "No.": "31",
+      "Session No": "10",
+      "Name": "CQ3",
+      "Details": "What is a primary tool used to identify the financial significance of a mitigation tool? (cont.)"
+    },
+    {
+      "No.": "32",
+      "Session No": "10",
+      "Name": "CQ4",
+      "Details": "What standards and guidelines for compliance exist? (cont.)"
+    },
+    {
+      "No.": "33",
+      "Session No": "11",
+      "Name": "CQ1",
+      "Details": "What risk assessment is?"
+    },
+    {
+      "No.": "34",
+      "Session No": "11",
+      "Name": "CQ2",
+      "Details": "What the critical components of a risk assessment are?"
+    },
+    {
+      "No.": "35",
+      "Session No": "11",
+      "Name": "CQ3",
+      "Details": "What types of risk assessments are available?"
+    },
+    {
+      "No.": "36",
+      "Session No": "11",
+      "Name": "CQ4",
+      "Details": "What can you use to help quantify risk?"
+    },
+    {
+      "No.": "37",
+      "Session No": "12",
+      "Name": "CQ1",
+      "Details": "What risk assessment is? (cont.)"
+    },
+    {
+      "No.": "38",
+      "Session No": "12",
+      "Name": "CQ2",
+      "Details": "What the critical components of a risk assessment are? (cont.)"
+    },
+    {
+      "No.": "39",
+      "Session No": "12",
+      "Name": "CQ3",
+      "Details": "What types of risk assessments are available? (cont.)"
+    },
+    {
+      "No.": "40",
+      "Session No": "12",
+      "Name": "CQ4",
+      "Details": "What can you use to help quantify risk? (cont.)"
+    },
+    {
+      "No.": "41",
+      "Session No": "13",
+      "Name": "CQ1",
+      "Details": "What best practices for risk assessment are?"
+    },
+    {
+      "No.": "42",
+      "Session No": "13",
+      "Name": "CQ2",
+      "Details": "What to consider when selecting a risk assessment methodology?"
+    },
+    {
+      "No.": "43",
+      "Session No": "13",
+      "Name": "CQ3",
+      "Details": "How to identify the management structure?"
+    },
+    {
+      "No.": "44",
+      "Session No": "13",
+      "Name": "CQ4",
+      "Details": "How to identify assets and activities?"
+    },
+    {
+      "No.": "45",
+      "Session No": "14",
+      "Name": "CQ1",
+      "Details": "What best practices for risk assessment are? (cont.)"
+    },
+    {
+      "No.": "46",
+      "Session No": "14",
+      "Name": "CQ2",
+      "Details": "What to consider when selecting a risk assessment methodology? (cont.)"
+    },
+    {
+      "No.": "47",
+      "Session No": "14",
+      "Name": "CQ3",
+      "Details": "How to identify the management structure? (cont.)"
+    },
+    {
+      "No.": "48",
+      "Session No": "14",
+      "Name": "CQ4",
+      "Details": "How to identify assets and activities? (cont.)"
+    },
+    {
+      "No.": "49",
+      "Session No": "15",
+      "Name": "CQ1",
+      "Details": "How asset and inventory management are related to the seven domains of a typical IT infrastructure?"
+    },
+    {
+      "No.": "50",
+      "Session No": "15",
+      "Name": "CQ2",
+      "Details": "How to identify facilities and supplies needed to maintain business operations?"
+    },
+    {
+      "No.": "51",
+      "Session No": "15",
+      "Name": "CQ3",
+      "Details": "What manual and automated system functions are?"
+    },
+    {
+      "No.": "52",
+      "Session No": "15",
+      "Name": "CQ4",
+      "Details": "What hardware, software, and personnel assets are?"
+    },
+    {
+      "No.": "53",
+      "Session No": "16",
+      "Name": "CQ1",
+      "Details": "How asset and inventory management are related to the seven domains of a typical IT infrastructure? (cont.)"
+    },
+    {
+      "No.": "54",
+      "Session No": "16",
+      "Name": "CQ2",
+      "Details": "How to identify facilities and supplies needed to maintain business operations? (cont.)"
+    },
+    {
+      "No.": "55",
+      "Session No": "16",
+      "Name": "CQ3",
+      "Details": "What manual and automated system functions are? (cont.)"
+    },
+    {
+      "No.": "56",
+      "Session No": "16",
+      "Name": "CQ4",
+      "Details": "What hardware, software, and personnel assets are? (cont.)"
+    },
+    {
+      "No.": "57",
+      "Session No": "17",
+      "Name": "CQ1",
+      "Details": "What is the name of a common tool used to perform an automated vulnerability assessment scan?"
+    },
+    {
+      "No.": "58",
+      "Session No": "17",
+      "Name": "CQ2",
+      "Details": "What is a common drawback or weakness of a vulnerability scanner?"
+    },
+    {
+      "No.": "59",
+      "Session No": "17",
+      "Name": "CQ3",
+      "Details": "Your organization wants to check compliance with internal rules and guidelines. The organization wants to ensure that existing policies are being followed. What should be performed?"
+    },
+    {
+      "No.": "60",
+      "Session No": "18",
+      "Name": "CQ1",
+      "Details": "What is the name of a common tool used to perform an automated vulnerability assessment scan? (cont.)"
+    },
+    {
+      "No.": "61",
+      "Session No": "18",
+      "Name": "CQ2",
+      "Details": "What is a common drawback or weakness of a vulnerability scanner? (cont.)"
+    },
+    {
+      "No.": "62",
+      "Session No": "18",
+      "Name": "CQ3",
+      "Details": "Your organization wants to check compliance with internal rules and guidelines. The organization wants to ensure that existing policies are being followed. What should be performed? (cont.)"
+    },
+    {
+      "No.": "63",
+      "Session No": "19",
+      "Name": "CQ1",
+      "Details": "What administrative controls are?"
+    },
+    {
+      "No.": "64",
+      "Session No": "19",
+      "Name": "CQ2",
+      "Details": "What technical controls are?"
+    },
+    {
+      "No.": "65",
+      "Session No": "19",
+      "Name": "CQ3",
+      "Details": "What physical controls are?"
+    },
+    {
+      "No.": "66",
+      "Session No": "19",
+      "Name": "CQ4",
+      "Details": "What best practices for risk mitigation security controls are?"
+    },
+    {
+      "No.": "67",
+      "Session No": "19",
+      "Name": "CQ5",
+      "Details": "What in-place and planned controls are?"
+    },
+    {
+      "No.": "68",
+      "Session No": "19",
+      "Name": "CQ6",
+      "Details": "What the different categories of controls defined by NIST are?"
+    },
+    {
+      "No.": "69",
+      "Session No": "20",
+      "Name": "CQ1",
+      "Details": "What administrative controls are? (cont.)"
+    },
+    {
+      "No.": "70",
+      "Session No": "20",
+      "Name": "CQ2",
+      "Details": "What technical controls are? (cont.)"
+    },
+    {
+      "No.": "71",
+      "Session No": "20",
+      "Name": "CQ3",
+      "Details": "What physical controls are? (cont.)"
+    },
+    {
+      "No.": "72",
+      "Session No": "20",
+      "Name": "CQ4",
+      "Details": "What best practices for risk mitigation security controls are? (cont.)"
+    },
+    {
+      "No.": "73",
+      "Session No": "20",
+      "Name": "CQ5",
+      "Details": "What in-place and planned controls are? (cont.)"
+    },
+    {
+      "No.": "74",
+      "Session No": "20",
+      "Name": "CQ6",
+      "Details": "What the different categories of controls defined by NIST are? (cont.)"
+    },
+    {
+      "No.": "75",
+      "Session No": "21",
+      "Name": "CQ1",
+      "Details": "What would you use to identify mission-critical systems?"
+    },
+    {
+      "No.": "76",
+      "Session No": "21",
+      "Name": "CQ2",
+      "Details": "What determines if an organization is governed by FISMA?"
+    },
+    {
+      "No.": "77",
+      "Session No": "21",
+      "Name": "CQ3",
+      "Details": "What determines if an organization is governed by HIPAA?"
+    },
+    {
+      "No.": "78",
+      "Session No": "21",
+      "Name": "CQ4",
+      "Details": "What determines if an organization is governed by SOX?"
+    },
+    {
+      "No.": "79",
+      "Session No": "21",
+      "Name": "CQ5",
+      "Details": "What can an organization use to remind users of AUP contents?"
+    },
+    {
+      "No.": "80",
+      "Session No": "22",
+      "Name": "CQ1",
+      "Details": "What would you use to identify mission-critical systems? (cont.)"
+    },
+    {
+      "No.": "81",
+      "Session No": "22",
+      "Name": "CQ2",
+      "Details": "What determines if an organization is governed by FISMA? (cont.)"
+    },
+    {
+      "No.": "82",
+      "Session No": "22",
+      "Name": "CQ3",
+      "Details": "What determines if an organization is governed by HIPAA? (cont.)"
+    },
+    {
+      "No.": "83",
+      "Session No": "22",
+      "Name": "CQ4",
+      "Details": "What determines if an organization is governed by SOX? (cont.)"
+    },
+    {
+      "No.": "84",
+      "Session No": "22",
+      "Name": "CQ5",
+      "Details": "What can an organization use to remind users of AUP contents? (cont.)"
+    },
+    {
+      "No.": "85",
+      "Session No": "23",
+      "Name": "CQ1",
+      "Details": "Where your organization should start with risk mitigation?"
+    },
+    {
+      "No.": "86",
+      "Session No": "23",
+      "Name": "CQ2",
+      "Details": "What the scope of risk management for your organization is?"
+    },
+    {
+      "No.": "87",
+      "Session No": "23",
+      "Name": "CQ3",
+      "Details": "How to understand and assess the impact of legal and compliance issues on your organization?"
+    },
+    {
+      "No.": "88",
+      "Session No": "23",
+      "Name": "CQ4",
+      "Details": "How to assess the impact of legal and compliance implications on the seven domains of a typical IT infrastructure?"
+    },
+    {
+      "No.": "89",
+      "Session No": "24",
+      "Name": "CQ1",
+      "Details": "Where your organization should start with risk mitigation? (cont.)"
+    },
+    {
+      "No.": "90",
+      "Session No": "24",
+      "Name": "CQ2",
+      "Details": "What the scope of risk management for your organization is? (cont.)"
+    },
+    {
+      "No.": "91",
+      "Session No": "24",
+      "Name": "CQ3",
+      "Details": "How to understand and assess the impact of legal and compliance issues on your organization? (cont.)"
+    },
+    {
+      "No.": "92",
+      "Session No": "24",
+      "Name": "CQ4",
+      "Details": "How to assess the impact of legal and compliance implications on the seven domains of a typical IT infrastructure? (cont.)"
+    },
+    {
+      "No.": "93",
+      "Session No": "25",
+      "Name": "CQ1",
+      "Details": "How to assess how security countermeasures and safeguards can assist with risk mitigation?"
+    },
+    {
+      "No.": "94",
+      "Session No": "25",
+      "Name": "CQ2",
+      "Details": "What the operational impacts of legal and compliance requirements are?"
+    },
+    {
+      "No.": "95",
+      "Session No": "25",
+      "Name": "CQ3",
+      "Details": "How to identify risk mitigation and risk reduction elements for an entire organization?"
+    },
+    {
+      "No.": "96",
+      "Session No": "25",
+      "Name": "CQ4",
+      "Details": "What a cost-benefit analysis is?"
+    },
+    {
+      "No.": "97",
+      "Session No": "26",
+      "Name": "CQ1",
+      "Details": "How to assess how security countermeasures and safeguards can assist with risk mitigation? (cont.)"
+    },
+    {
+      "No.": "98",
+      "Session No": "26",
+      "Name": "CQ2",
+      "Details": "What the operational impacts of legal and compliance requirements are? (cont.)"
+    },
+    {
+      "No.": "99",
+      "Session No": "26",
+      "Name": "CQ3",
+      "Details": "How to identify risk mitigation and risk reduction elements for an entire organization? (cont.)"
+    },
+    {
+      "No.": "100",
+      "Session No": "26",
+      "Name": "CQ4",
+      "Details": "What a cost-benefit analysis is? (cont.)"
+    },
+    {
+      "No.": "101",
+      "Session No": "27",
+      "Name": "CQ1",
+      "Details": "What a review of a risk assessment is?"
+    },
+    {
+      "No.": "102",
+      "Session No": "27",
+      "Name": "CQ2",
+      "Details": "What translating a risk assessment into a risk mitigation plan entails?"
+    },
+    {
+      "No.": "103",
+      "Session No": "27",
+      "Name": "CQ3",
+      "Details": "How to prioritize risk elements?"
+    },
+    {
+      "No.": "104",
+      "Session No": "28",
+      "Name": "CQ1",
+      "Details": "What a review of a risk assessment is? (cont.)"
+    },
+    {
+      "No.": "105",
+      "Session No": "28",
+      "Name": "CQ2",
+      "Details": "What translating a risk assessment into a risk mitigation plan entails? (cont.)"
+    },
+    {
+      "No.": "106",
+      "Session No": "28",
+      "Name": "CQ3",
+      "Details": "How to prioritize risk elements? (cont.)"
+    },
+    {
+      "No.": "107",
+      "Session No": "29",
+      "Name": "CQ1",
+      "Details": "What the verification of risk elements entails?"
+    },
+    {
+      "No.": "108",
+      "Session No": "29",
+      "Name": "CQ2",
+      "Details": "What a cost-benefit analysis for risk elements includes?"
+    },
+    {
+      "No.": "109",
+      "Session No": "29",
+      "Name": "CQ3",
+      "Details": "What implementing a risk mitigation plan includes?"
+    },
+    {
+      "No.": "110",
+      "Session No": "29",
+      "Name": "CQ4",
+      "Details": "How to follow up on a risk mitigation plan?"
+    },
+    {
+      "No.": "111",
+      "Session No": "29",
+      "Name": "CQ5",
+      "Details": "What best practices for enabling a risk mitigation plan are?"
+    },
+    {
+      "No.": "112",
+      "Session No": "29",
+      "Name": "CQ6",
+      "Details": "What administrative controls are?"
+    },
+    {
+      "No.": "113",
+      "Session No": "30",
+      "Name": "CQ1",
+      "Details": "What the verification of risk elements entails? (cont.)"
+    },
+    {
+      "No.": "114",
+      "Session No": "30",
+      "Name": "CQ2",
+      "Details": "What a cost-benefit analysis for risk elements includes? (cont.)"
+    },
+    {
+      "No.": "115",
+      "Session No": "30",
+      "Name": "CQ3",
+      "Details": "What implementing a risk mitigation plan includes? (cont.)"
+    },
+    {
+      "No.": "116",
+      "Session No": "30",
+      "Name": "CQ4",
+      "Details": "How to follow up on a risk mitigation plan? (cont.)"
+    },
+    {
+      "No.": "117",
+      "Session No": "30",
+      "Name": "CQ5",
+      "Details": "What best practices for enabling a risk mitigation plan are? (cont.)"
+    },
+    {
+      "No.": "118",
+      "Session No": "30",
+      "Name": "CQ6",
+      "Details": "What administrative controls are? (cont.)"
+    },
+    {
+      "No.": "119",
+      "Session No": "31",
+      "Name": "CQ1",
+      "Details": "What is the order of steps that define the incident response lifecycle?"
+    },
+    {
+      "No.": "120",
+      "Session No": "31",
+      "Name": "CQ2",
+      "Details": "After an incident has been verified, you need to ensure that it doesn't spread to other systems. What is this called?"
+    },
+    {
+      "No.": "121",
+      "Session No": "31",
+      "Name": "CQ3",
+      "Details": "What can be included in a CIRT plan?"
+    },
+    {
+      "No.": "122",
+      "Session No": "32",
+      "Name": "CQ1",
+      "Details": "What is the order of steps that define the incident response lifecycle? (cont.)"
+    },
+    {
+      "No.": "123",
+      "Session No": "32",
+      "Name": "CQ2",
+      "Details": "After an incident has been verified, you need to ensure that it doesn't spread to other systems. What is this called? (cont.)"
+    },
+    {
+      "No.": "124",
+      "Session No": "32",
+      "Name": "CQ3",
+      "Details": "What can be included in a CIRT plan? (cont.)"
+    },
+    {
+      "No.": "125",
+      "Session No": "33",
+      "Name": "CQ1",
+      "Details": "A malicious virus is replicating and causingdamage to computers. How do security professionals refer to the virus?"
+    },
+    {
+      "No.": "126",
+      "Session No": "33",
+      "Name": "CQ2",
+      "Details": "What is the greatest risk to an organization when peer-to-peer software is installed on a user's system?"
+    },
+    {
+      "No.": "127",
+      "Session No": "33",
+      "Name": "CQ3",
+      "Details": "A log has shown that a user has copied proprietary data to his computer. The orgranization wants to take legel action against the user. You are tasked with seizing the computer as evidence. What should you establish as soon as you seize the computer?"
+    },
+    {
+      "No.": "128",
+      "Session No": "34",
+      "Name": "CQ1",
+      "Details": "A malicious virus is replicating and causingdamage to computers. How do security professionals refer to the virus? (cont.)"
+    },
+    {
+      "No.": "129",
+      "Session No": "34",
+      "Name": "CQ2",
+      "Details": "What is the greatest risk to an organization when peer-to-peer software is installed on a user's system? (cont.)"
+    },
+    {
+      "No.": "130",
+      "Session No": "34",
+      "Name": "CQ3",
+      "Details": "A log has shown that a user has copied proprietary data to his computer. The orgranization wants to take legel action against the user. You are tasked with seizing the computer as evidence. What should you establish as soon as you seize the computer? (cont.)"
+    },
+    {
+      "No.": "131",
+      "Session No": "35",
+      "Name": "CQ1",
+      "Details": "After a BCP has been activated, who will assess the damages?"
+    },
+    {
+      "No.": "132",
+      "Session No": "35",
+      "Name": "CQ2",
+      "Details": "What are the three phases of a BCP?"
+    },
+    {
+      "No.": "133",
+      "Session No": "35",
+      "Name": "CQ3",
+      "Details": "What types of exercises can demonstrate a BCP in action?"
+    },
+    {
+      "No.": "134",
+      "Session No": "36",
+      "Name": "CQ1",
+      "Details": "After a BCP has been activated, who will assess the damages? (cont.)"
+    },
+    {
+      "No.": "135",
+      "Session No": "36",
+      "Name": "CQ2",
+      "Details": "What are the three phases of a BCP? (cont.)"
+    },
+    {
+      "No.": "136",
+      "Session No": "36",
+      "Name": "CQ3",
+      "Details": "What types of exercises can demonstrate a BCP in action? (cont.)"
+    },
+    {
+      "No.": "137",
+      "Session No": "37",
+      "Name": "CQ1",
+      "Details": "You are considering an alternate location for a DRP. You want to minimize costs for the site. What type of site would you choose?"
+    },
+    {
+      "No.": "138",
+      "Session No": "37",
+      "Name": "CQ2",
+      "Details": "You are considering using a host site as an alternate location. You want to consider different technologies to keep the data updated and decrease the time it will take for the hot site to become operational. What are some technologies that may help?"
+    },
+    {
+      "No.": "139",
+      "Session No": "38",
+      "Name": "CQ1",
+      "Details": "You are considering an alternate location for a DRP. You want to minimize costs for the site. What type of site would you choose? (cont.)"
+    },
+    {
+      "No.": "140",
+      "Session No": "38",
+      "Name": "CQ2",
+      "Details": "You are considering using a host site as an alternate location. You want to consider different technologies to keep the data updated and decrease the time it will take for the hot site to become operational. What are some technologies that may help? (cont.)"
+    }
+  ],
+  "materials": [
+    {
+      "No.": "1",
+      "Material Description": "Computer Security Handbook",
+      "Author": "Seymour Bosworth, M.E. Kabay, Eric Whyne",
+      "Publisher": "John Wiley & Sons",
+      "Published Date": "2014",
+      "Edition": "6th",
+      "ISBN": "",
+      "Is Main Material": "False",
+      "Is Hard Copy": "True",
+      "Is Online": "False",
+      "Note": ""
+    },
+    {
+      "No.": "2",
+      "Material Description": "Information Security Management Metrics: A Definitive Guide to Effective Security Monitoring and Measurement",
+      "Author": "W. Krag Brotby",
+      "Publisher": "CRC Press",
+      "Published Date": "2009",
+      "Edition": "",
+      "ISBN": "",
+      "Is Main Material": "False",
+      "Is Hard Copy": "True",
+      "Is Online": "False",
+      "Note": ""
+    },
+    {
+      "No.": "3",
+      "Material Description": "Information Security Risk Analysis",
+      "Author": "Thomas R. Peltier",
+      "Publisher": "CRC Press",
+      "Published Date": "2010",
+      "Edition": "3rd",
+      "ISBN": "",
+      "Is Main Material": "False",
+      "Is Hard Copy": "True",
+      "Is Online": "False",
+      "Note": ""
+    },
+    {
+      "No.": "4",
+      "Material Description": "Lecture slides, Lab manual, supplementary material",
+      "Author": "",
+      "Publisher": "",
+      "Published Date": "",
+      "Edition": "",
+      "ISBN": "",
+      "Is Main Material": "False",
+      "Is Hard Copy": "False",
+      "Is Online": "False",
+      "Note": ""
+    },
+    {
+      "No.": "5",
+      "Material Description": "Managing Risk In Information Systems",
+      "Author": "Darril Gibson",
+      "Publisher": "Jones & Bartlett Learning",
+      "Published Date": "2015",
+      "Edition": "2nd",
+      "ISBN": "978-1284055955",
+      "Is Main Material": "True",
+      "Is Hard Copy": "False",
+      "Is Online": "True",
+      "Note": "Books24x7, https://library.books24x7.com/toc.aspx?bookid=69822"
+    },
+    {
+      "No.": "6",
+      "Material Description": "Measuring and Managing Information Risk: A FAIR Approach",
+      "Author": "Jack Freund, Jack Jones",
+      "Publisher": "Butterworth-Heinemann, Elsevier",
+      "Published Date": "2015",
+      "Edition": "",
+      "ISBN": "",
+      "Is Main Material": "False",
+      "Is Hard Copy": "True",
+      "Is Online": "False",
+      "Note": ""
+    },
+    {
+      "No.": "7",
+      "Material Description": "Security Controls Evaluation, Testing, and Assessment Handbook",
+      "Author": "Leighton R. Johnson",
+      "Publisher": "Syngress",
+      "Published Date": "2016",
+      "Edition": "",
+      "ISBN": "",
+      "Is Main Material": "False",
+      "Is Hard Copy": "True",
+      "Is Online": "False",
+      "Note": ""
+    }
+  ],
+  "source_path": "data/raw/syllabi/13276.html",
+  "id": "syllabus:13276"
+}

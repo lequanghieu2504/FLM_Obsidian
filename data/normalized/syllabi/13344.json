@@ -1,0 +1,996 @@
+{
+  "syllabus_id": 13344,
+  "subject_code": "DRP101",
+  "subject_name": "Drawing plaster stature - portrait_Hình họa - Vẽ đầu tượng, chân dung",
+  "syllabus_name": "Drawing plaster stature - portrait_Hình họa - Vẽ đầu tượng, chân dung",
+  "credits": 3,
+  "degree_level": "Bachelor",
+  "time_allocation": "Study hour (150h) = 45h contact hours + 105h self-study",
+  "prerequisite": "DRS10x",
+  "general_information": {
+    "Syllabus ID": "13344",
+    "Syllabus Name": "Drawing plaster stature - portrait_Hình họa - Vẽ đầu tượng, chân dung",
+    "Course Name English": "Drawing plaster stature - portrait",
+    "Subject Code": "DRP101",
+    "Learning-Teaching Method": "Lecture,Practice,discussion",
+    "NoCredit": "3",
+    "Degree Level": "Bachelor",
+    "Time Allocation": "Study hour (150h) = 45h contact hours + 105h self-study",
+    "Pre-Requisite": "DRS10x",
+    "Description": "- The subject will be carried out in the Drawing studio with specific requirements on learning materials. - .The subject helps students to analyze, drawing, and study the plaster cast head. Students enjoy the skills of building up, hatch and gain basic knowledge of portrait drawing. - The subject helps students understand the basic proportion of the portrait, the proportion of eyes, nose, mouth and ears. - The subject helps students distinguish between plaster cast and live model. Prepare basic knowledges for Anatomy and Quick-drawing subject. - Each drawing lasts for six slots and is performed in the classroom, under the guidance of the lecturer. The final class of the sixth slot will be scored. Lecturers and students make a mutual assessment, lecturer gives final score and will be counted as the credit mark.",
+    "StudentTasks": "- Attend at least 80% of contact hours in order to be accepted to the final examination - Actively participate in class activities - Fulfil tasks given by intructor after class - Use their own laptop in class only for learning purpose - Read the textbook and references in advance - Access the course website (https://flm.fpt.edu.vn/) for up-to-date information and material of the course. - Complete course's Portfolio with full contents of exercises and submit to the teacher 1 day after the course.",
+    "Tools": "1. School: a) For students: - Easel. - 40 x 60 (cm) size board. - 60 x 90 (cm) size board. b) For drawing studio: - 02 pedestal, podium: 120L x 70W x 100H (cm) - 05 drapery samples, size 150x150 (cm), five colors: black, white, grey , blue and brown. - Plaster cast male head (quantity: 02), plaster cast female head (quantity: 01). - Model: Recommend maximum 25 students/model. The type of model might be a live model or a composite full body statue with muscle and bone separation or other types that appropriate to the implementation condition at each campus. - 01 shelves. - 01 projector. 2. Student: - Graphite pencil or Charcoal pencil. - Drawing tube. - Eraser - Gauges, wires, clamps, pins... - A2 size drawing paper - Knife.",
+    "Scoring Scale": "10",
+    "DecisionNo MM/dd/yyyy": "932/QĐ-ĐHFPT dated 08/22/2025",
+    "IsApproved": "True",
+    "Note": "",
+    "Is Scored": "True",
+    "MinAvgMarkToPass": "5",
+    "IsActive": "True",
+    "ApprovedDate": "8/22/2025"
+  },
+  "active": true,
+  "approved": true,
+  "decision": "932/QĐ-ĐHFPT dated 08/22/2025",
+  "description": "- The subject will be carried out in the Drawing studio with specific requirements on learning materials. - .The subject helps students to analyze, drawing, and study the plaster cast head. Students enjoy the skills of building up, hatch and gain basic knowledge of portrait drawing. - The subject helps students understand the basic proportion of the portrait, the proportion of eyes, nose, mouth and ears. - The subject helps students distinguish between plaster cast and live model. Prepare basic knowledges for Anatomy and Quick-drawing subject. - Each drawing lasts for six slots and is performed in the classroom, under the guidance of the lecturer. The final class of the sixth slot will be scored. Lecturers and students make a mutual assessment, lecturer gives final score and will be counted as the credit mark.",
+  "learning_outcomes": [
+    {
+      "No.": "1",
+      "CLO Name": "CLO1",
+      "CLO Details": "Understand what the portrait is."
+    },
+    {
+      "No.": "2",
+      "CLO Name": "CLO2",
+      "CLO Details": "Memorize the facial proportion."
+    },
+    {
+      "No.": "3",
+      "CLO Name": "CLO3",
+      "CLO Details": "Understand the form and texture of eyes, nose, mouth…"
+    },
+    {
+      "No.": "4",
+      "CLO Name": "CLO4",
+      "CLO Details": "Understand the importance of horizontal line and vertical line."
+    },
+    {
+      "No.": "5",
+      "CLO Name": "CLO5",
+      "CLO Details": "Distinguish the differences between male face and female face. Analize the unique characteristics of model."
+    },
+    {
+      "No.": "6",
+      "CLO Name": "CLO6",
+      "CLO Details": "Compare the differences between plaster cast head and portrait from live model."
+    },
+    {
+      "No.": "7",
+      "CLO Name": "CLO7",
+      "CLO Details": "Built up the facial basic line and horizontal line: hair line, eyebrows line, nose line and chin line."
+    },
+    {
+      "No.": "8",
+      "CLO Name": "CLO8",
+      "CLO Details": "Determine facial proportions: eyes line, line between two lips, bottom of the mouth..."
+    },
+    {
+      "No.": "9",
+      "CLO Name": "CLO9",
+      "CLO Details": "Demonstrate the unique properties of objects: hair, skin, clothes..."
+    },
+    {
+      "No.": "10",
+      "CLO Name": "CLO10",
+      "CLO Details": "Know the ways to emphasis outlines."
+    }
+  ],
+  "assessments": [
+    {
+      "No.": "1",
+      "Category": "Participation",
+      "Type": "on-going",
+      "Part": "1",
+      "Weight": "10.0%",
+      "Completion Criteria": ">0",
+      "Duration": "",
+      "CLO": "",
+      "Question Type": "",
+      "No Question": "",
+      "Knowledge and Skill": "",
+      "Grading Guide": "- Participation grade will be given based on students' attendance, preparation, and quantity as well as quality of participation in classroom; quality of participation is demonstrated through asking relevant questions, making statements that add to and facilitate class discussion, and builds upon others’ comments. - Teacher gives marks on student's Class participation and preparation only after the Portfolio submission.",
+      "Note": ""
+    },
+    {
+      "No.": "2",
+      "Category": "practice 1",
+      "Type": "on-going",
+      "Part": "1",
+      "Weight": "15.0%",
+      "Completion Criteria": ">0",
+      "Duration": "12 sessions, in class",
+      "CLO": "CLO1, CLO2, CLO3, CLO4, CLO7, CLO8",
+      "Question Type": "Practice;",
+      "No Question": "1",
+      "Knowledge and Skill": "Master pencil/charcoal techniques to express form and black–white space. Understand basic head proportions. Divide large–small planes to show structure. Identify main facial masses (forehead, cheekbones, nose, eye sockets, jaw). Simplify light–shadow in planes, avoid early details. Grasp the relation of structure–form–light–shadow to create a generalized portrait.",
+      "Grading Guide": "PRACTICE 1: DRAWING A MALE STATUE IN PLASTER 1 Follow lecturer’s guidance and submit on time. Image draw put weigh opposite to above paper , no deviate , no close edge rate image with suffering paper fit reason . Ratio rule , structure bamboo head People : Build correct frame head , shaft and billion rate muscle version. set parts ( eyes , nose , mouth , ears) are dad mind main body head Okay concept shout wall the area array clear clear Light division dark according to area array clear clear . article draw body presently Okay special point private belong to sample statue , Way use stroke to perform describe shape draw sure sure check control . Lesson draw clean will . Full details need design to complete adjust statue",
+      "Note": ""
+    },
+    {
+      "No.": "3",
+      "Category": "practice 2",
+      "Type": "on-going",
+      "Part": "1",
+      "Weight": "15.0%",
+      "Completion Criteria": ">0",
+      "Duration": "12 sessions, in class",
+      "CLO": "CLO7, CLO8",
+      "Question Type": "Practice",
+      "No Question": "1",
+      "Knowledge and Skill": "Understand the standard proportions of the male head. Master standard male head proportions: height–width ratio, placement and spacing of facial features. Understand structural forms: box form, sphere form, and main–secondary planes.Sketch accurately: construct from large to small shapes, keeping anatomical correctness. Identify male features: cheekbones, jawline, brow ridge, nose shape, and strong angularity. Apply light–shadow principles: major contrasts, mid-tones, and reflected light. Depict tonal values clearly, with logical transitions, to express space and 3D volume.",
+      "Grading Guide": "PRACTICE 2: DRAWING A MALE STATUE IN PLASTER 2 Follow lecturer’s guidance and submit on time. Drawing placed balanced on paper, not tilted or near edges. Proper proportion to paper size, correct head axis. Rhythm with good balance of empty and filled space. Accurate male head proportions (width–height). Key anatomy points precise. Solid box and sphere forms. Clear light–dark division, smooth gradation. Strong 3D form and space. Moderate contrast, not flat or messy. Correct male characteristics . Maintain spirit of the bust, avoid generic faces. Clear male–female distinction. Lines clear, firm, neat. Proper accents and releases. Avoid messy or over-erased strokes. Unified work from overall to details. Balanced in composition, proportion, form, light–shadow, and line. Clean, convincing in form and artistry.",
+      "Note": ""
+    },
+    {
+      "No.": "4",
+      "Category": "practice 3",
+      "Type": "on-going",
+      "Part": "1",
+      "Weight": "15.0%",
+      "Completion Criteria": ">0",
+      "Duration": "12 sessions, in class",
+      "CLO": "CLO5, CLO7, CLO8",
+      "Question Type": "Practice",
+      "No Question": "1",
+      "Knowledge and Skill": "Master standard female head proportions: height–width ratio, placement and spacing of facial features. Understand anatomical structure: softer facial bones with more curves than male. Sketch accurately: build forms from large to small, keeping correct structure. Identify gender traits: cheekbones, jawline, brow ridge, nose shape, and the smooth transitions of forehead–nose–lips. Apply light–shadow principles: major contrasts, mid-tones, and reflected light. Render tonal values clearly, with smooth transitions, to express space and 3D form.",
+      "Grading Guide": "PRACTICE 3: FEMALE HEAD IN PLASTER Follow lecturer’s guidance and submit on time. Place drawing balanced on paper; avoid edges or tilting. Build correct head proportions (eyes–nose–mouth placement). Emphasize softer, curved lines for female features. Divide light and shadow clearly; keep main volumes consistent. Render tonal transitions smoothly (3D form, not flat). Observe and highlight female characteristics (cheekbones, arch of eyebrows, nose, chin). Keep lines clear, confident, and flexible; use pressure/release effectively. Avoid excessive erasing or messy strokes. Ensure final drawing shows solid structure, proper values, and feminine expression.",
+      "Note": ""
+    },
+    {
+      "No.": "5",
+      "Category": "practice 4",
+      "Type": "on-going",
+      "Part": "1",
+      "Weight": "15.0%",
+      "Completion Criteria": ">0",
+      "Duration": "12 sessions, in class",
+      "CLO": "LO6, LO7, LO8, LO9, LO10",
+      "Question Type": "Practice",
+      "No Question": "1",
+      "Knowledge and Skill": "Observe and analyze facial structure: proportions, forms, and spatial depth. Understand bones, muscles, and anatomical features for accuracy and vitality. Identify male characteristics: strong lines, angular shapes, and expression. Sketch with lines and forms to build the overall head shape. Use tonal values to create 3D volume, depth, and liveliness.Convey expression and emotion through line work, giving life to the portrait. Maintain focus and patience in observation, analysis, and refinement of the drawing.",
+      "Grading Guide": "PRACTICE 4: DRAWING A PORTRAIT OF A MALE MODEL. Follow lecturer’s guidance and submit on time. Place drawing balanced on paper, not tilted, too large, or too small. Clear focus, no improper cropping, showing overall space. Accurate head and facial proportions (eyes, nose, mouth, ears, neck, shoulders). Solid forms, clear anatomy, with 3D effect. Clear separation of light and dark, logical value range. Emphasize main light source. Cast and core shadows natural and realistic. Capture male characteristics (bone, muscles, expression). Avoid generic forms; observe and personalize. Clear, confident lines. Use straight/curved, thick/thin effectively. Avoid messy or over-erased lines. Finished work from sketch to shading. Harmonious overall result, showing effort and seriousness.",
+      "Note": ""
+    },
+    {
+      "No.": "6",
+      "Category": "practice 5",
+      "Type": "on-going",
+      "Part": "1",
+      "Weight": "15.0%",
+      "Completion Criteria": ">0",
+      "Duration": "12 sessions, in class",
+      "CLO": "CLO7, CLO8, CLO9, CLO10",
+      "Question Type": "Practice",
+      "No Question": "1",
+      "Knowledge and Skill": "Observe light–shadow to create depth and form. Draw female portraits with accurate proportions and details. Arrange features to build 3D space. Convey mood and expression. Apply line, shading, and tonal techniques. Create portraits with personal style.",
+      "Grading Guide": "PRACTICE 5: DRAWING PORTRAIT OF FEMALE MODEL Follow lecturer’s guidance and submit on time. Balanced placement, proper position, harmony between figure and empty space; conveys overall space. Accurate head and facial proportions; clear forms with anatomical structure; 3D sense of weight and depth. Clear light source; large light–dark areas defined; smooth tonal transitions; creates volume and depth. Shows individuality and softness of female face; preserves specific facial traits (shape, eyes, nose, mouth); clear male–female distinction. Confident, clear, flexible, and soft lines; avoids stiffness, clutter, or excessive erasing. Finished from composition to detail; conveys character and emotion; extra credit for beauty and creativity. → After finishing, students may use AI to add simple motion effects for presentation support.",
+      "Note": ""
+    },
+    {
+      "No.": "7",
+      "Category": "Progress Test",
+      "Type": "on-going",
+      "Part": "1",
+      "Weight": "15.0%",
+      "Completion Criteria": ">0",
+      "Duration": "30 minute, in class",
+      "CLO": "CLO1, CLO2, CLO3, CLO4, CLO5, CLO6, CLO7, CLO8, CLO9, CLO10.",
+      "Question Type": "multiple-choice;",
+      "No Question": "25;",
+      "Knowledge and Skill": "Knowledges on main-text,",
+      "Grading Guide": "The computer-based multiple choice test will be carried out at the end of the course with the support of the examination department in setting testing system.",
+      "Note": ""
+    }
+  ],
+  "schedule": [
+    {
+      "Session": "1",
+      "Topic": "Unit 1: Plaster cast male head 1",
+      "Learning-Teaching Type": "Offline",
+      "LO": "CLO1, CLO2, CLO3, CLO4",
+      "ITU": "IT",
+      "Student Materials": "Syllabus, slide, textbook",
+      "S-Download": "DRP101",
+      "Student's Tasks": "The students observe, measure, construct, and identify plaster statue - Sketch and draw observed objects. - Develop the ability to transfer observed objects to the paper. Tools: - Graphite pencil or charcoal pencil. - Eraser. - A2 paper size.",
+      "URLs": ""
+    },
+    {
+      "Session": "2",
+      "Topic": "Practice",
+      "Learning-Teaching Type": "Offline",
+      "LO": "CLO7, CLO8",
+      "ITU": "TU",
+      "Student Materials": "Syllabus, slide, textbook",
+      "S-Download": "DRP101",
+      "Student's Tasks": "The students observe, measure, construct, and identify plaster statue - Sketch and draw observed objects. - Develop the ability to transfer observed objects to the paper. Tools: - Graphite pencil or charcoal pencil. - Eraser. - A2 paper size.",
+      "URLs": ""
+    },
+    {
+      "Session": "3",
+      "Topic": "Practice",
+      "Learning-Teaching Type": "Offline",
+      "LO": "CLO7, CLO8",
+      "ITU": "TU",
+      "Student Materials": "Syllabus, slide, textbook",
+      "S-Download": "",
+      "Student's Tasks": "The students observe, measure, construct, and identify plaster statue - Sketch and draw observed objects. - Develop the ability to transfer observed objects to the paper. Tools: - Graphite pencil or charcoal pencil. - Eraser. - A2 paper size.",
+      "URLs": ""
+    },
+    {
+      "Session": "4",
+      "Topic": "Practice",
+      "Learning-Teaching Type": "Offline",
+      "LO": "CLO7, CLO8",
+      "ITU": "TU",
+      "Student Materials": "Syllabus, slide, textbook",
+      "S-Download": "",
+      "Student's Tasks": "The students observe, measure, construct, and identify plaster statue - Sketch and draw observed objects. - Develop the ability to transfer observed objects to the paper. Tools: - Graphite pencil or charcoal pencil. - Eraser. - A2 paper size.",
+      "URLs": ""
+    },
+    {
+      "Session": "5",
+      "Topic": "Practice",
+      "Learning-Teaching Type": "Offline",
+      "LO": "CLO7, CLO8",
+      "ITU": "TU",
+      "Student Materials": "Syllabus, slide, textbook",
+      "S-Download": "",
+      "Student's Tasks": "The students observe, measure, construct, and identify plaster statue - Sketch and draw observed objects. - Develop the ability to transfer observed objects to the paper. Tools: - Graphite pencil or charcoal pencil. - Eraser. - A2 paper size.",
+      "URLs": ""
+    },
+    {
+      "Session": "6",
+      "Topic": "Practice",
+      "Learning-Teaching Type": "Offline",
+      "LO": "CLO7, CLO8",
+      "ITU": "TU",
+      "Student Materials": "Syllabus, slide, textbook",
+      "S-Download": "",
+      "Student's Tasks": "The students observe, measure, construct, and identify plaster statue - Sketch and draw observed objects. - Develop the ability to transfer observed objects to the paper. Tools: - Graphite pencil or charcoal pencil. - Eraser. - A2 paper size.",
+      "URLs": ""
+    },
+    {
+      "Session": "7",
+      "Topic": "Practice",
+      "Learning-Teaching Type": "Offline",
+      "LO": "CLO7, CLO8",
+      "ITU": "TU",
+      "Student Materials": "Syllabus, slide, textbook",
+      "S-Download": "",
+      "Student's Tasks": "Sketch and draw observed objects. - Develop the ability to transfer observed objects to the paper. Tools: - Graphite pencil or charcoal pencil. - Eraser. - A2 paper size. Students polish, describe materials, and depict the spatial aspects of plaster statue.",
+      "URLs": ""
+    },
+    {
+      "Session": "8",
+      "Topic": "Practice",
+      "Learning-Teaching Type": "Offline",
+      "LO": "CLO7, CLO8",
+      "ITU": "TU",
+      "Student Materials": "Syllabus, slide, textbook",
+      "S-Download": "",
+      "Student's Tasks": "Sketch and draw observed objects. - Develop the ability to transfer observed objects to the paper. Tools: - Graphite pencil or charcoal pencil. - Eraser. - A2 paper size. students polish, describe materials, and depict the spatial aspects of plaster statue.",
+      "URLs": ""
+    },
+    {
+      "Session": "9",
+      "Topic": "Practice",
+      "Learning-Teaching Type": "Offline",
+      "LO": "CLO7, CLO8",
+      "ITU": "TU",
+      "Student Materials": "Syllabus, slide, textbook",
+      "S-Download": "",
+      "Student's Tasks": "Sketch and draw observed objects. - Develop the ability to transfer observed objects to the paper. Tools: - Graphite pencil or charcoal pencil. - Eraser. - A2 paper size. Students polish, describe materials, and depict the spatial aspects of plaster statue.",
+      "URLs": ""
+    },
+    {
+      "Session": "10",
+      "Topic": "Practice",
+      "Learning-Teaching Type": "Offline",
+      "LO": "CLO7, CLO8",
+      "ITU": "TU",
+      "Student Materials": "Syllabus, slide, textbook",
+      "S-Download": "",
+      "Student's Tasks": "Sketch and draw observed objects. - Develop the ability to transfer observed objects to the paper. Tools: - Graphite pencil or charcoal pencil. - Eraser. - A2 paper size. students polish, describe materials, and depict the spatial aspects of plaster statue.",
+      "URLs": ""
+    },
+    {
+      "Session": "11",
+      "Topic": "Evaluation and grading",
+      "Learning-Teaching Type": "Offline",
+      "LO": "CLO7, CLO8",
+      "ITU": "TU",
+      "Student Materials": "Syllabus, slide, textbook",
+      "S-Download": "",
+      "Student's Tasks": "Sketch and draw observed objects. - Develop the ability to transfer observed objects to the paper. Tools: - Graphite pencil or charcoal pencil. - Eraser. - A2 paper size. Students polish, describe materials, and depict the spatial aspects of plaster statue.",
+      "URLs": ""
+    },
+    {
+      "Session": "12",
+      "Topic": "Evaluation and grading",
+      "Learning-Teaching Type": "Offline",
+      "LO": "CLO7, CLO8",
+      "ITU": "TU",
+      "Student Materials": "Syllabus, slide, textbook",
+      "S-Download": "",
+      "Student's Tasks": "Sketch and draw observed objects. - Develop the ability to transfer observed objects to the paper. Tools: - Graphite pencil or charcoal pencil. - Eraser. - A2 paper size. Students polish, describe materials, and depict the spatial aspects of plaster statue.",
+      "URLs": ""
+    },
+    {
+      "Session": "13",
+      "Topic": "Unit 2: Plaster cast male head 2 Practice",
+      "Learning-Teaching Type": "Offline",
+      "LO": "CLO7, CLO8",
+      "ITU": "TU",
+      "Student Materials": "Syllabus, slide, textbook",
+      "S-Download": "",
+      "Student's Tasks": "The students observe, measure, construct, and identify male plaster statue. - Sketch and draw observed objects. - Develop the ability to transfer observed objects to the paper. Tools: - Graphite pencil or charcoal pencil. - Eraser. - A2 paper size.",
+      "URLs": ""
+    },
+    {
+      "Session": "14",
+      "Topic": "Practice",
+      "Learning-Teaching Type": "Offline",
+      "LO": "CLO7, CLO8",
+      "ITU": "TU",
+      "Student Materials": "Syllabus, slide, textbook",
+      "S-Download": "",
+      "Student's Tasks": "The students observe, measure, construct, and identify male plaster statue. - Sketch and draw observed objects. - Develop the ability to transfer observed objects to the paper. Tools: - Graphite pencil or charcoal pencil. - Eraser. - A2 paper size.",
+      "URLs": ""
+    },
+    {
+      "Session": "15",
+      "Topic": "Practice",
+      "Learning-Teaching Type": "Offline",
+      "LO": "CLO7, CLO8",
+      "ITU": "TU",
+      "Student Materials": "Syllabus, slide, textbook",
+      "S-Download": "",
+      "Student's Tasks": "The students observe, measure, construct, and identify male plaster statue. - Sketch and draw observed objects. - Develop the ability to transfer observed objects to the paper. Tools: - Graphite pencil or charcoal pencil. - Eraser. - A2 paper size.",
+      "URLs": ""
+    },
+    {
+      "Session": "16",
+      "Topic": "Practice",
+      "Learning-Teaching Type": "Offline",
+      "LO": "",
+      "ITU": "TU",
+      "Student Materials": "Syllabus, slide, textbook",
+      "S-Download": "",
+      "Student's Tasks": "The students observe, measure, construct, and identify male plaster statue. - Sketch and draw observed objects. - Develop the ability to transfer observed objects to the paper. Tools: - Graphite pencil or charcoal pencil. - Eraser. - A2 paper size.",
+      "URLs": ""
+    },
+    {
+      "Session": "17",
+      "Topic": "Practice",
+      "Learning-Teaching Type": "Offline",
+      "LO": "CLO7, CLO8",
+      "ITU": "TU",
+      "Student Materials": "Syllabus, slide, textbook",
+      "S-Download": "",
+      "Student's Tasks": "The students observe, measure, construct, and identify male plaster statue. - Sketch and draw observed objects. - Develop the ability to transfer observed objects to the paper. Tools: - Graphite pencil or charcoal pencil. - Eraser. - A2 paper size.",
+      "URLs": ""
+    },
+    {
+      "Session": "18",
+      "Topic": "Practice",
+      "Learning-Teaching Type": "Offline",
+      "LO": "CLO7, CLO8",
+      "ITU": "TU",
+      "Student Materials": "Syllabus, slide, textbook",
+      "S-Download": "",
+      "Student's Tasks": "The students observe, measure, construct, and identify male plaster statue. - Sketch and draw observed objects. - Develop the ability to transfer observed objects to the paper. Tools: - Graphite pencil or charcoal pencil. - Eraser. - A2 paper size.",
+      "URLs": ""
+    },
+    {
+      "Session": "19",
+      "Topic": "Practice",
+      "Learning-Teaching Type": "Offline",
+      "LO": "CLO7, CLO8",
+      "ITU": "TU",
+      "Student Materials": "Syllabus, slide, textbook",
+      "S-Download": "",
+      "Student's Tasks": "Sketch and draw observed objects. - Develop the ability to transfer observed objects to the paper. Tools: - Graphite pencil or charcoal pencil. - Eraser. - A2 paper size. - Students polish, describe materials, and depict the spatial aspects of man plaster statue.",
+      "URLs": ""
+    },
+    {
+      "Session": "20",
+      "Topic": "Practice",
+      "Learning-Teaching Type": "Offline",
+      "LO": "CLO7, CLO8",
+      "ITU": "TU",
+      "Student Materials": "Syllabus, slide, textbook",
+      "S-Download": "",
+      "Student's Tasks": "Sketch and draw observed objects. - Develop the ability to transfer observed objects to the paper. Tools: - Graphite pencil or charcoal pencil. - Eraser. - A2 paper size. - Students polish, describe materials, and depict the spatial aspects of man plaster statue.",
+      "URLs": ""
+    },
+    {
+      "Session": "21",
+      "Topic": "Practice",
+      "Learning-Teaching Type": "Offline",
+      "LO": "CLO7, CLO8",
+      "ITU": "TU",
+      "Student Materials": "Syllabus, slide, textbook",
+      "S-Download": "",
+      "Student's Tasks": "Sketch and draw observed objects. - Develop the ability to transfer observed objects to the paper. Tools: - Graphite pencil or charcoal pencil. - Eraser. - A2 paper size. - Students polish, describe materials, and depict the spatial aspects of man plaster statue.",
+      "URLs": ""
+    },
+    {
+      "Session": "22",
+      "Topic": "Practice",
+      "Learning-Teaching Type": "Offline",
+      "LO": "CLO7, CLO8",
+      "ITU": "TU",
+      "Student Materials": "Syllabus, slide, textbook",
+      "S-Download": "",
+      "Student's Tasks": "Sketch and draw observed objects. - Develop the ability to transfer observed objects to the paper. Tools: - Graphite pencil or charcoal pencil. - Eraser. - A2 paper size. - Students polish, describe materials, and depict the spatial aspects of man plaster statue.",
+      "URLs": ""
+    },
+    {
+      "Session": "23",
+      "Topic": "Practice",
+      "Learning-Teaching Type": "Offline",
+      "LO": "CLO7, CLO8",
+      "ITU": "TU",
+      "Student Materials": "Syllabus, slide, textbook",
+      "S-Download": "",
+      "Student's Tasks": "Sketch and draw observed objects. - Develop the ability to transfer observed objects to the paper. Tools: - Graphite pencil or charcoal pencil. - Eraser. - A2 paper size. - Students polish, describe materials, and depict the spatial aspects of man plaster statue.",
+      "URLs": ""
+    },
+    {
+      "Session": "24",
+      "Topic": "Evaluation and grading",
+      "Learning-Teaching Type": "Offline",
+      "LO": "CLO7, CLO8",
+      "ITU": "TU",
+      "Student Materials": "Syllabus, slide, textbook",
+      "S-Download": "",
+      "Student's Tasks": "Sketch and draw observed objects. - Develop the ability to transfer observed objects to the paper. Tools: - Graphite pencil or charcoal pencil. - Eraser. - A2 paper size. - Students polish, describe materials, and depict the spatial aspects of man plaster statue.",
+      "URLs": ""
+    },
+    {
+      "Session": "25",
+      "Topic": "Unit 3: Plaster cast female head",
+      "Learning-Teaching Type": "Offline",
+      "LO": "CLO5",
+      "ITU": "IT",
+      "Student Materials": "Syllabus, slide, textbook",
+      "S-Download": "",
+      "Student's Tasks": "The students observe, measure, construct, and identify woman plaster statue - Sketch and draw observed objects. - Develop the ability to transfer observed objects to the paper. Tools: - Graphite pencil or charcoal pencil. - Eraser. - A2 paper size.",
+      "URLs": ""
+    },
+    {
+      "Session": "26",
+      "Topic": "Practice",
+      "Learning-Teaching Type": "Offline",
+      "LO": "CLO5",
+      "ITU": "TU",
+      "Student Materials": "Syllabus, slide, textbook",
+      "S-Download": "",
+      "Student's Tasks": "The students observe, measure, construct, and identify woman plaster statue - Sketch and draw observed objects. - Develop the ability to transfer observed objects to the paper. Tools: - Graphite pencil or charcoal pencil. - Eraser. - A2 paper size.",
+      "URLs": ""
+    },
+    {
+      "Session": "27",
+      "Topic": "Practice",
+      "Learning-Teaching Type": "Offline",
+      "LO": "CLO7, CLO8",
+      "ITU": "TU",
+      "Student Materials": "Syllabus, slide, textbook",
+      "S-Download": "",
+      "Student's Tasks": "The students observe, measure, construct, and identify woman plaster statue - Sketch and draw observed objects. - Develop the ability to transfer observed objects to the paper. Tools: - Graphite pencil or charcoal pencil. - Eraser. - A2 paper size.",
+      "URLs": ""
+    },
+    {
+      "Session": "28",
+      "Topic": "Practice",
+      "Learning-Teaching Type": "Offline",
+      "LO": "CLO7, CLO8",
+      "ITU": "TU",
+      "Student Materials": "Syllabus, slide, textbook",
+      "S-Download": "",
+      "Student's Tasks": "The students observe, measure, construct, and identify woman plaster statue - Sketch and draw observed objects. - Develop the ability to transfer observed objects to the paper. Tools: - Graphite pencil or charcoal pencil. - Eraser. - A2 paper size.",
+      "URLs": ""
+    },
+    {
+      "Session": "29",
+      "Topic": "Practice",
+      "Learning-Teaching Type": "Offline",
+      "LO": "CLO7, CLO8",
+      "ITU": "TU",
+      "Student Materials": "Syllabus, slide, textbook",
+      "S-Download": "",
+      "Student's Tasks": "The students observe, measure, construct, and identify woman plaster statue - Sketch and draw observed objects. - Develop the ability to transfer observed objects to the paper. Tools: - Graphite pencil or charcoal pencil. - Eraser. - A2 paper size.",
+      "URLs": ""
+    },
+    {
+      "Session": "30",
+      "Topic": "Practice",
+      "Learning-Teaching Type": "Offline",
+      "LO": "CLO7, CLO8",
+      "ITU": "",
+      "Student Materials": "Syllabus, slide, textbook",
+      "S-Download": "",
+      "Student's Tasks": "The students observe, measure, construct, and identify woman plaster statue - Sketch and draw observed objects. - Develop the ability to transfer observed objects to the paper. Tools: - Graphite pencil or charcoal pencil. - Eraser. - A2 paper size.",
+      "URLs": ""
+    },
+    {
+      "Session": "31",
+      "Topic": "Practice",
+      "Learning-Teaching Type": "Offline",
+      "LO": "CLO7, CLO8",
+      "ITU": "TU",
+      "Student Materials": "Syllabus, slide, textbook",
+      "S-Download": "",
+      "Student's Tasks": "Sketch and draw observed objects. - Develop the ability to transfer observed objects to the paper. Tools: - Graphite pencil or charcoal pencil. - Eraser. - A2 paper size. Students polish, describe materials, and depict the spatial aspects of woman plaster statue.",
+      "URLs": ""
+    },
+    {
+      "Session": "32",
+      "Topic": "Practice",
+      "Learning-Teaching Type": "Offline",
+      "LO": "CLO7, CLO8",
+      "ITU": "TU",
+      "Student Materials": "Syllabus, slide, textbook",
+      "S-Download": "",
+      "Student's Tasks": "Sketch and draw observed objects. - Develop the ability to transfer observed objects to the paper. Tools: - Graphite pencil or charcoal pencil. - Eraser. - A2 paper size. Students polish, describe materials, and depict the spatial aspects of woman plaster statue.",
+      "URLs": ""
+    },
+    {
+      "Session": "33",
+      "Topic": "Practice",
+      "Learning-Teaching Type": "Offline",
+      "LO": "CLO7, CLO8",
+      "ITU": "TU",
+      "Student Materials": "Syllabus, slide, textbook",
+      "S-Download": "",
+      "Student's Tasks": "Sketch and draw observed objects. - Develop the ability to transfer observed objects to the paper. Tools: - Graphite pencil or charcoal pencil. - Eraser. - A2 paper size. Students polish, describe materials, and depict the spatial aspects of woman plaster statue.",
+      "URLs": ""
+    },
+    {
+      "Session": "34",
+      "Topic": "Practice",
+      "Learning-Teaching Type": "Offline",
+      "LO": "CLO7, CLO8",
+      "ITU": "TU",
+      "Student Materials": "Syllabus, slide, textbook",
+      "S-Download": "",
+      "Student's Tasks": "Sketch and draw observed objects. - Develop the ability to transfer observed objects to the paper. Tools: - Graphite pencil or charcoal pencil. - Eraser. - A2 paper size. Students polish, describe materials, and depict the spatial aspects of woman plaster statue.",
+      "URLs": ""
+    },
+    {
+      "Session": "35",
+      "Topic": "Evaluation and grading",
+      "Learning-Teaching Type": "Offline",
+      "LO": "CLO7, CLO8",
+      "ITU": "TU",
+      "Student Materials": "Syllabus, slide, textbook",
+      "S-Download": "",
+      "Student's Tasks": "Sketch and draw observed objects. - Develop the ability to transfer observed objects to the paper. Tools: - Graphite pencil or charcoal pencil. - Eraser. - A2 paper size. Students polish, describe materials, and depict the spatial aspects of woman plaster statue.",
+      "URLs": ""
+    },
+    {
+      "Session": "36",
+      "Topic": "Evaluation and grading",
+      "Learning-Teaching Type": "Offline",
+      "LO": "CLO7, CLO8",
+      "ITU": "TU",
+      "Student Materials": "Syllabus, slide, textbook",
+      "S-Download": "",
+      "Student's Tasks": "Sketch and draw observed objects. - Develop the ability to transfer observed objects to the paper. Tools: - Graphite pencil or charcoal pencil. - Eraser. - A2 paper size. Students polish, describe materials, and depict the spatial aspects of woman plaster statue.",
+      "URLs": ""
+    },
+    {
+      "Session": "37",
+      "Topic": "Unit 4: Live model male portrait.",
+      "Learning-Teaching Type": "Offline",
+      "LO": "CLO6",
+      "ITU": "IT",
+      "Student Materials": "Syllabus, slide, textbook",
+      "S-Download": "",
+      "Student's Tasks": "The students observe, measure, construct, and identify man potrait - Sketch and draw observed objects. - Transfering the color of objects to monochrome drawing. - Develop the ability to transfer observed objects to the paper. Tools: - Graphite pencil or charcoal pencil. - Eraser. - A2 paper size.",
+      "URLs": ""
+    },
+    {
+      "Session": "38",
+      "Topic": "Practice",
+      "Learning-Teaching Type": "Offline",
+      "LO": "CLO6",
+      "ITU": "TU",
+      "Student Materials": "Syllabus, slide, textbook",
+      "S-Download": "",
+      "Student's Tasks": "The students observe, measure, construct, and identify man potrait - Sketch and draw observed objects. - Transfering the color of objects to monochrome drawing. - Develop the ability to transfer observed objects to the paper. Tools: - Graphite pencil or charcoal pencil. - Eraser. - A2 paper size.",
+      "URLs": ""
+    },
+    {
+      "Session": "39",
+      "Topic": "Practice",
+      "Learning-Teaching Type": "Offline",
+      "LO": "CLO7, CLO8, CLO9, CLO10",
+      "ITU": "TU",
+      "Student Materials": "Syllabus, slide, textbook",
+      "S-Download": "",
+      "Student's Tasks": "The students observe, measure, construct, and identify man potrait - Sketch and draw observed objects. - Transfering the color of objects to monochrome drawing. - Develop the ability to transfer observed objects to the paper. Tools: - Graphite pencil or charcoal pencil. - Eraser. - A2 paper size.",
+      "URLs": ""
+    },
+    {
+      "Session": "40",
+      "Topic": "Practice",
+      "Learning-Teaching Type": "Offline",
+      "LO": "CLO7, CLO8, CLO9, CLO10",
+      "ITU": "TU",
+      "Student Materials": "Syllabus, slide, textbook",
+      "S-Download": "",
+      "Student's Tasks": "The students observe, measure, construct, and identify man potrait - Sketch and draw observed objects. - Transfering the color of objects to monochrome drawing. - Develop the ability to transfer observed objects to the paper. Tools: - Graphite pencil or charcoal pencil. - Eraser. - A2 paper size.",
+      "URLs": ""
+    },
+    {
+      "Session": "41",
+      "Topic": "Practice",
+      "Learning-Teaching Type": "Offline",
+      "LO": "CLO7, CLO8, CLO9, CLO10",
+      "ITU": "TU",
+      "Student Materials": "Syllabus, slide, textbook",
+      "S-Download": "",
+      "Student's Tasks": "The students observe, measure, construct, and identify man potrait - Sketch and draw observed objects. - Transfering the color of objects to monochrome drawing. - Develop the ability to transfer observed objects to the paper. Tools: - Graphite pencil or charcoal pencil. - Eraser. - A2 paper size.",
+      "URLs": ""
+    },
+    {
+      "Session": "42",
+      "Topic": "Practice",
+      "Learning-Teaching Type": "Offline",
+      "LO": "CLO7, CLO8, CLO9, CLO10",
+      "ITU": "TU",
+      "Student Materials": "Syllabus, slide, textbook",
+      "S-Download": "",
+      "Student's Tasks": "The students observe, measure, construct, and identify man potrait - Sketch and draw observed objects. - Transfering the color of objects to monochrome drawing. - Develop the ability to transfer observed objects to the paper. Tools: - Graphite pencil or charcoal pencil. - Eraser. - A2 paper size.",
+      "URLs": ""
+    },
+    {
+      "Session": "43",
+      "Topic": "Practice",
+      "Learning-Teaching Type": "Offline",
+      "LO": "CLO7, CLO8, CLO9, CLO10",
+      "ITU": "TU",
+      "Student Materials": "Syllabus, slide, textbook",
+      "S-Download": "",
+      "Student's Tasks": "Sketch and draw observed objects. - Transfering the color of objects to monochrome drawing. - Develop the ability to transfer observed objects to the paper. Tools: - Graphite pencil or charcoal pencil. - Eraser. - A2 paper size. - students polish, describe materials, and depict the spatial aspects of man potrait",
+      "URLs": ""
+    },
+    {
+      "Session": "44",
+      "Topic": "Practice",
+      "Learning-Teaching Type": "Offline",
+      "LO": "CLO7, CLO8, CLO9, CLO10",
+      "ITU": "TU",
+      "Student Materials": "Syllabus, slide, textbook",
+      "S-Download": "",
+      "Student's Tasks": "Sketch and draw observed objects. - Transfering the color of objects to monochrome drawing. - Develop the ability to transfer observed objects to the paper. Tools: - Graphite pencil or charcoal pencil. - Eraser. - A2 paper size. - students polish, describe materials, and depict the spatial aspects of man potrait",
+      "URLs": ""
+    },
+    {
+      "Session": "45",
+      "Topic": "Practice",
+      "Learning-Teaching Type": "Offline",
+      "LO": "CLO7, CLO8, CLO9, CLO10",
+      "ITU": "TU",
+      "Student Materials": "Syllabus, slide, textbook",
+      "S-Download": "",
+      "Student's Tasks": "Sketch and draw observed objects. - Transfering the color of objects to monochrome drawing. - Develop the ability to transfer observed objects to the paper. Tools: - Graphite pencil or charcoal pencil. - Eraser. - A2 paper size. - students polish, describe materials, and depict the spatial aspects of man potrait",
+      "URLs": ""
+    },
+    {
+      "Session": "46",
+      "Topic": "Practice",
+      "Learning-Teaching Type": "Offline",
+      "LO": "CLO7, CLO8, CLO9, CLO10",
+      "ITU": "TU",
+      "Student Materials": "Syllabus, slide, textbook",
+      "S-Download": "",
+      "Student's Tasks": "Sketch and draw observed objects. - Transfering the color of objects to monochrome drawing. - Develop the ability to transfer observed objects to the paper. Tools: - Graphite pencil or charcoal pencil. - Eraser. - A2 paper size. - students polish, describe materials, and depict the spatial aspects of man potrait",
+      "URLs": ""
+    },
+    {
+      "Session": "47",
+      "Topic": "Practice",
+      "Learning-Teaching Type": "Offline",
+      "LO": "CLO7, CLO8, CLO9, CLO10",
+      "ITU": "TU",
+      "Student Materials": "Syllabus, slide, textbook",
+      "S-Download": "",
+      "Student's Tasks": "Sketch and draw observed objects. - Transfering the color of objects to monochrome drawing. - Develop the ability to transfer observed objects to the paper. Tools: - Graphite pencil or charcoal pencil. - Eraser. - A2 paper size. - students polish, describe materials, and depict the spatial aspects of man potrait",
+      "URLs": ""
+    },
+    {
+      "Session": "48",
+      "Topic": "Evaluation and grading",
+      "Learning-Teaching Type": "Offline",
+      "LO": "CLO7, CLO8, CLO9, CLO10",
+      "ITU": "TU",
+      "Student Materials": "Syllabus, slide, textbook",
+      "S-Download": "",
+      "Student's Tasks": "Sketch and draw observed objects. - Transfering the color of objects to monochrome drawing. - Develop the ability to transfer observed objects to the paper. Tools: - Graphite pencil or charcoal pencil. - Eraser. - A2 paper size. - students polish, describe materials, and depict the spatial aspects of man potrait",
+      "URLs": ""
+    },
+    {
+      "Session": "49",
+      "Topic": "Unit 5: Live model female portrait. Practice",
+      "Learning-Teaching Type": "Offline",
+      "LO": "CLO7, CLO8, CLO9, CLO10",
+      "ITU": "TU",
+      "Student Materials": "Syllabus, slide, textbook",
+      "S-Download": "",
+      "Student's Tasks": "The students observe, measure, construct, and identify woman potrait - Sketch and draw observed objects. - Transfering the color of objects to monochrome drawing. - Develop the ability to transfer observed objects to the paper. Tools: - Graphite pencil or charcoal pencil. - Eraser. - A2 paper size.",
+      "URLs": ""
+    },
+    {
+      "Session": "50",
+      "Topic": "Practice",
+      "Learning-Teaching Type": "Offline",
+      "LO": "CLO7, CLO8, CLO9, CLO10",
+      "ITU": "TU",
+      "Student Materials": "Syllabus, slide, textbook",
+      "S-Download": "",
+      "Student's Tasks": "The students observe, measure, construct, and identify woman potrait - Sketch and draw observed objects. - Transfering the color of objects to monochrome drawing. - Develop the ability to transfer observed objects to the paper. Tools: - Graphite pencil or charcoal pencil. - Eraser. - A2 paper size.",
+      "URLs": ""
+    },
+    {
+      "Session": "51",
+      "Topic": "Practice",
+      "Learning-Teaching Type": "Offline",
+      "LO": "CLO7, CLO8, CLO9, CLO10",
+      "ITU": "TU",
+      "Student Materials": "Syllabus, slide, textbook",
+      "S-Download": "",
+      "Student's Tasks": "The students observe, measure, construct, and identify woman potrait - Sketch and draw observed objects. - Transfering the color of objects to monochrome drawing. - Develop the ability to transfer observed objects to the paper. Tools: - Graphite pencil or charcoal pencil. - Eraser. - A2 paper size.",
+      "URLs": ""
+    },
+    {
+      "Session": "52",
+      "Topic": "Practice",
+      "Learning-Teaching Type": "Offline",
+      "LO": "CLO7, CLO8, CLO9, CLO10",
+      "ITU": "TU",
+      "Student Materials": "Syllabus, slide, textbook",
+      "S-Download": "",
+      "Student's Tasks": "The students observe, measure, construct, and identify woman potrait - Sketch and draw observed objects. - Transfering the color of objects to monochrome drawing. - Develop the ability to transfer observed objects to the paper. Tools: - Graphite pencil or charcoal pencil. - Eraser. - A2 paper size.",
+      "URLs": ""
+    },
+    {
+      "Session": "53",
+      "Topic": "Practice",
+      "Learning-Teaching Type": "Offline",
+      "LO": "CLO7, CLO8, CLO9, CLO10",
+      "ITU": "TU",
+      "Student Materials": "Syllabus, slide, textbook",
+      "S-Download": "",
+      "Student's Tasks": "The students observe, measure, construct, and identify woman potrait - Sketch and draw observed objects. - Transfering the color of objects to monochrome drawing. - Develop the ability to transfer observed objects to the paper. Tools: - Graphite pencil or charcoal pencil. - Eraser. - A2 paper size.",
+      "URLs": ""
+    },
+    {
+      "Session": "54",
+      "Topic": "Practice",
+      "Learning-Teaching Type": "Offline",
+      "LO": "CLO7, CLO8, CLO9, CLO10",
+      "ITU": "TU",
+      "Student Materials": "Syllabus, slide, textbook",
+      "S-Download": "",
+      "Student's Tasks": "The students observe, measure, construct, and identify woman potrait - Sketch and draw observed objects. - Transfering the color of objects to monochrome drawing. - Develop the ability to transfer observed objects to the paper. Tools: - Graphite pencil or charcoal pencil. - Eraser. - A2 paper size.",
+      "URLs": ""
+    },
+    {
+      "Session": "55",
+      "Topic": "Practice",
+      "Learning-Teaching Type": "Offline",
+      "LO": "CLO7, CLO8, CLO9, CLO10",
+      "ITU": "TU",
+      "Student Materials": "Syllabus, slide, textbook",
+      "S-Download": "",
+      "Student's Tasks": "- Sketch and draw observed objects. - Transfering the color of objects to monochrome drawing. - Develop the ability to transfer observed objects to the paper. Tools: - Graphite pencil or charcoal pencil. - Eraser. - A2 paper size. - Sinh viên đánh bóng, tả chất liệu, tả không gian chân dung người nữ.",
+      "URLs": ""
+    },
+    {
+      "Session": "56",
+      "Topic": "Practice",
+      "Learning-Teaching Type": "Offline",
+      "LO": "CLO7, CLO8, CLO9, CLO10",
+      "ITU": "TU",
+      "Student Materials": "Syllabus, slide, textbook",
+      "S-Download": "",
+      "Student's Tasks": "Sketch and draw observed objects. - Transfering the color of objects to monochrome drawing. - Develop the ability to transfer observed objects to the paper. Tools: - Graphite pencil or charcoal pencil. - Eraser. - A2 paper size. -Students polish, describe materials, and depict the spatial aspects of woman potrait",
+      "URLs": ""
+    },
+    {
+      "Session": "57",
+      "Topic": "Practice",
+      "Learning-Teaching Type": "Offline",
+      "LO": "CLO7, CLO8, CLO9, CLO10",
+      "ITU": "TU",
+      "Student Materials": "Syllabus, slide, textbook",
+      "S-Download": "",
+      "Student's Tasks": "Sketch and draw observed objects. - Transfering the color of objects to monochrome drawing. - Develop the ability to transfer observed objects to the paper. Tools: - Graphite pencil or charcoal pencil. - Eraser. - A2 paper size. -Students polish, describe materials, and depict the spatial aspects of woman potrait",
+      "URLs": ""
+    },
+    {
+      "Session": "58",
+      "Topic": "Practice",
+      "Learning-Teaching Type": "Offline",
+      "LO": "CCLO7, CCLO8, CCLO9, CCLO10",
+      "ITU": "TU",
+      "Student Materials": "Syllabus, slide, textbook",
+      "S-Download": "",
+      "Student's Tasks": "Sketch and draw observed objects. - Transfering the color of objects to monochrome drawing. - Develop the ability to transfer observed objects to the paper. Tools: - Graphite pencil or charcoal pencil. - Eraser. - A2 paper size. -Students polish, describe materials, and depict the spatial aspects of woman potrait",
+      "URLs": ""
+    },
+    {
+      "Session": "59",
+      "Topic": "Evaluation and grading",
+      "Learning-Teaching Type": "Offline",
+      "LO": "CCLO7, CCLO8, CCLO9, CCLO10",
+      "ITU": "TU",
+      "Student Materials": "Syllabus, slide, textbook",
+      "S-Download": "",
+      "Student's Tasks": "Sketch and draw observed objects. - Transfering the color of objects to monochrome drawing. - Develop the ability to transfer observed objects to the paper. Tools: - Graphite pencil or charcoal pencil. - Eraser. - A2 paper size. -Students polish, describe materials, and depict the spatial aspects of woman potrait",
+      "URLs": ""
+    },
+    {
+      "Session": "60",
+      "Topic": "Progress Test",
+      "Learning-Teaching Type": "Offline",
+      "LO": "CLO1, CLO2, CLO3, CLO4, CLO5, CLO6, CLO7, CLO8, CLO9, CLO10",
+      "ITU": "TU",
+      "Student Materials": "Syllabus, slide, textbook",
+      "S-Download": "",
+      "Student's Tasks": "\"Sketch and draw observed objects. - Transfering the color of objects to monochrome drawing. - Develop the ability to transfer observed objects to the paper. Tools: - Graphite pencil or charcoal pencil. - Eraser. - A2 paper size. -Students polish, describe materials, and depict the spatial aspects of woman potrait\" The students take a Progress Test for 10 minutes.",
+      "URLs": ""
+    }
+  ],
+  "constructive_questions": [
+    {
+      "No.": "1",
+      "Session No": "2",
+      "Name": "QN1",
+      "Details": "When drawing a portrait or any part of the portrait, initially, should we draw details or focus on the whole? Why?"
+    },
+    {
+      "No.": "2",
+      "Session No": "2",
+      "Name": "QN2",
+      "Details": "Do designers who draw great start off drawing by copying? Why?"
+    },
+    {
+      "No.": "3",
+      "Session No": "3",
+      "Name": "QN1",
+      "Details": "How do designers know what to draw?"
+    },
+    {
+      "No.": "4",
+      "Session No": "4",
+      "Name": "QN1",
+      "Details": "What technical requirements are needed to learn more effectively in drawing portrait?"
+    },
+    {
+      "No.": "5",
+      "Session No": "5",
+      "Name": "QN1",
+      "Details": "Is there anything you don't like to draw? Why?"
+    },
+    {
+      "No.": "6",
+      "Session No": "6",
+      "Name": "QN1",
+      "Details": "Why do we have to memorize the ideal proportion of human head?"
+    },
+    {
+      "No.": "7",
+      "Session No": "7",
+      "Name": "QN1",
+      "Details": "Presenting the proportional measurement of details: hairline, eyebrow bone, eye socket, tip of nose, lips, chin, ears ?"
+    },
+    {
+      "No.": "8",
+      "Session No": "8",
+      "Name": "QN1",
+      "Details": "How do you decide what would be best to draw portraits?"
+    },
+    {
+      "No.": "9",
+      "Session No": "9",
+      "Name": "QN1",
+      "Details": "What do artists think about while they're drawing a portrait?"
+    },
+    {
+      "No.": "10",
+      "Session No": "10",
+      "Name": "QN1",
+      "Details": "Why do we should draw organic shapes before drawing object's details?"
+    },
+    {
+      "No.": "11",
+      "Session No": "11",
+      "Name": "QN1",
+      "Details": "Should we draw what we see or how we see it?"
+    },
+    {
+      "No.": "12",
+      "Session No": "12",
+      "Name": "QN1",
+      "Details": "Should we experience with different drawing tools in drawing portraits?"
+    },
+    {
+      "No.": "13",
+      "Session No": "13",
+      "Name": "QN1",
+      "Details": "What are the differences between male face and female face?"
+    },
+    {
+      "No.": "14",
+      "Session No": "14",
+      "Name": "QN1",
+      "Details": "What do you draw first when drawing a face?"
+    },
+    {
+      "No.": "15",
+      "Session No": "15",
+      "Name": "QN1",
+      "Details": "When drawing portraits, should we start with the face first before the head or the opposite?"
+    },
+    {
+      "No.": "16",
+      "Session No": "16",
+      "Name": "QN1",
+      "Details": "What are the differences between plaster cast head and portrait from live model?"
+    },
+    {
+      "No.": "17",
+      "Session No": "17",
+      "Name": "QN1",
+      "Details": "How to built up the facial basic line and horizontal line: hair line, eyebrows line, nose line and chin line?"
+    },
+    {
+      "No.": "18",
+      "Session No": "18",
+      "Name": "QN1",
+      "Details": "Does studying well portraits create long-term benefits for you to study graphic design?"
+    },
+    {
+      "No.": "19",
+      "Session No": "19",
+      "Name": "QN1",
+      "Details": "When we want to build a design, is understanding human structure in general really necessary?"
+    },
+    {
+      "No.": "20",
+      "Session No": "20",
+      "Name": "QN1",
+      "Details": "From your perspective, what is the most effective way to learn how to draw the portraits?"
+    }
+  ],
+  "materials": [
+    {
+      "No.": "1",
+      "Material Description": "Drawing the Head and Hands,",
+      "Author": "Andrew Loomis",
+      "Publisher": "Titan Books",
+      "Published Date": "2011",
+      "Edition": "",
+      "ISBN": "ISBN 10: 0857680978, ISBN 13:9780857680976",
+      "Is Main Material": "True",
+      "Is Hard Copy": "True",
+      "Is Online": "False",
+      "Note": ""
+    }
+  ],
+  "source_path": "data/raw/syllabi/13344.html",
+  "id": "syllabus:13344"
+}

@@ -1,0 +1,1416 @@
+{
+  "syllabus_id": 11845,
+  "subject_code": "SSG104",
+  "subject_name": "Communication and In-Group Working Skills_Kỹ năng giao tiếp và cộng tác",
+  "syllabus_name": "Communication and In-Group Working Skills_Kỹ năng giao tiếp và cộng tác",
+  "credits": 3,
+  "degree_level": "Bachelor",
+  "time_allocation": "Study hour (150h) = 45 contact hours (60 sessions) + 0.5 hour final exam + 104.5 hours self-study",
+  "prerequisite": "None",
+  "general_information": {
+    "Syllabus ID": "11845",
+    "Syllabus Name": "Communication and In-Group Working Skills_Kỹ năng giao tiếp và cộng tác",
+    "Course Name English": "",
+    "Subject Code": "SSG104",
+    "Learning-Teaching Method": "Presenting,Project based learning,Social Constructivism,Student-centered theory",
+    "NoCredit": "3",
+    "Degree Level": "Bachelor",
+    "Time Allocation": "Study hour (150h) = 45 contact hours (60 sessions) + 0.5 hour final exam + 104.5 hours self-study",
+    "Pre-Requisite": "None",
+    "Description": "This course covers both working in groups and communication skills. The course covers theories of communication, working in group, and activities for students to practice applying the theories in academic and working contexts.",
+    "StudentTasks": "- Students must attend at least 80% of contact slots in order to be accepted to the final examination. - Student is responsible to do all exercises and assignments given by the instructor in class or at home and submit on time - Use laptops in class only for learning purposes",
+    "Tools": "- Internet",
+    "Scoring Scale": "10",
+    "DecisionNo MM/dd/yyyy": "862/QĐ-ĐHFPT dated 08/16/2024",
+    "IsApproved": "True",
+    "Note": "Progress marks: - 03 Activity: 15% (5% each activity) - 02 Group Assignment: 20% (10% each assignment) - 01 Participation: 10% - 01 Quiz: 5% - 01 Group Project: 30% (part 1: proposal, part 2: product, part 3: presentation/report; 10% each) - 01 Final exam: 20% Conditions to pass: Final exam >= 4 Grade Average >= 5/10",
+    "Is Scored": "True",
+    "MinAvgMarkToPass": "5",
+    "IsActive": "True",
+    "ApprovedDate": "8/16/2024"
+  },
+  "active": true,
+  "approved": true,
+  "decision": "862/QĐ-ĐHFPT dated 08/16/2024",
+  "description": "This course covers both working in groups and communication skills. The course covers theories of communication, working in group, and activities for students to practice applying the theories in academic and working contexts.",
+  "learning_outcomes": [
+    {
+      "No.": "1",
+      "CLO Name": "CLO1",
+      "CLO Details": "Understand concepts of team work & communication skills"
+    },
+    {
+      "No.": "2",
+      "CLO Name": "CLO2",
+      "CLO Details": "Understand the Psychology of Groups"
+    },
+    {
+      "No.": "3",
+      "CLO Name": "CLO3",
+      "CLO Details": "Explain and apply thinking and Analysis in Critical & Creative Thinking"
+    },
+    {
+      "No.": "4",
+      "CLO Name": "CLO4",
+      "CLO Details": "Apply business writing like email, letter, proposal, report…"
+    },
+    {
+      "No.": "5",
+      "CLO Name": "CLO5",
+      "CLO Details": "Analyse ways to become effective and powerful leaders."
+    },
+    {
+      "No.": "6",
+      "CLO Name": "CLO6",
+      "CLO Details": "Understand leadership theories and model of leadership effectiveness."
+    },
+    {
+      "No.": "7",
+      "CLO Name": "CLO7",
+      "CLO Details": "Understand how conflicts appear in groups and how to manage them in cohesion."
+    },
+    {
+      "No.": "8",
+      "CLO Name": "CLO8",
+      "CLO Details": "Apply successful verbal and nonverbal in teamwork"
+    },
+    {
+      "No.": "9",
+      "CLO Name": "CLO9",
+      "CLO Details": "Be able to present persuasive message professionally and effectively in learning and working environment"
+    },
+    {
+      "No.": "10",
+      "CLO Name": "CLO10",
+      "CLO Details": "Organizing a business meeting"
+    },
+    {
+      "No.": "11",
+      "CLO Name": "CLO11",
+      "CLO Details": "Develop career skills"
+    },
+    {
+      "No.": "12",
+      "CLO Name": "CLO12",
+      "CLO Details": "Apply team work & communication skills"
+    }
+  ],
+  "assessments": [
+    {
+      "No.": "1",
+      "Category": "Activity",
+      "Type": "on-going",
+      "Part": "3",
+      "Weight": "15.0%",
+      "Completion Criteria": ">0",
+      "Duration": "40-60'",
+      "CLO": "CLO1, CLO2, CLO3, CLO5, CLO6, CLO7, CLO4, CLO8",
+      "Question Type": "OP1: Lecturers to choose a apporopriate course content to design activity for students to review the theory or apply theory in practice // OP2: (For Constructivism Approach only): Follow lecturer's proposal",
+      "No Question": "1",
+      "Knowledge and Skill": "ASM the acquainted knowledge which student obtained in the delivered chapters",
+      "Grading Guide": "in class, by instructor",
+      "Note": "Activity 1: LO1,2 Activity 2: LO3 5, 6, 7 Activity 3: LO4, 8 Instruction and shedules for Progress tests must be presented in the Course Implementation Plan approved by director of the campus. Progress test must be taken right after the last lectures of required material. Instructor has resposibility to review the test for students after graded."
+    },
+    {
+      "No.": "2",
+      "Category": "Group asm",
+      "Type": "on-going",
+      "Part": "2",
+      "Weight": "20.0%",
+      "Completion Criteria": ">0",
+      "Duration": "60-90'",
+      "CLO": "CLO8, CLO9, CLO10, CLO11, CLO12",
+      "Question Type": "OP1: Guided by instructor in appropriate slots // OP2: (For Constructivism Approach only): Follow lecturer's proposal",
+      "No Question": "1",
+      "Knowledge and Skill": "ASM the acquainted knowledge which student obtained in the delivered chapters",
+      "Grading Guide": "guided by instructor",
+      "Note": "Group asm 1: LO8,9,10, 12 Group asm 2: LO 8,11,12 Instruction and shedules for Progress tests must be presented in the Course Implementation Plan approved by director of the campus. Progress test must be taken right after the last lectures of required material. Instructor has resposibility to review the test for students after graded."
+    },
+    {
+      "No.": "3",
+      "Category": "Group Project",
+      "Type": "on-going",
+      "Part": "3",
+      "Weight": "30.0%",
+      "Completion Criteria": ">0",
+      "Duration": "Week 1-Week 10",
+      "CLO": "CLO3, CLO4, CLO5, CLO7, CLO8, CLO9, CLO10, CLO12",
+      "Question Type": "OP1: See sheet: Group project // OP2: (For Constructivism Approach only): Follow lecturer's proposal",
+      "No Question": "1",
+      "Knowledge and Skill": "",
+      "Grading Guide": "In or outside",
+      "Note": "Instruction and shedules for Progress tests must be presented in the Course Implementation Plan approved by director of the campus. Progress test must be taken right after the last lectures of required material. Instructor has resposibility to review the test for students after graded."
+    },
+    {
+      "No.": "4",
+      "Category": "Participation",
+      "Type": "on-going",
+      "Part": "1",
+      "Weight": "10.0%",
+      "Completion Criteria": ">0",
+      "Duration": "",
+      "CLO": "CLO12",
+      "Question Type": "OP1: based on schedule's course // OP2: (For Constructivism Approach only): Follow lecturer's proposal",
+      "No Question": "1",
+      "Knowledge and Skill": "",
+      "Grading Guide": "in class, by instructor",
+      "Note": ""
+    },
+    {
+      "No.": "5",
+      "Category": "Quiz",
+      "Type": "on-going",
+      "Part": "1",
+      "Weight": "5.0%",
+      "Completion Criteria": ">0",
+      "Duration": "30'",
+      "CLO": "CLO1, CLO2, CLO3, CLO6, CLO7",
+      "Question Type": "OP1: Multiple choice or Essay // OP2: (For Constructivism Approach only): Follow lecturer's proposal",
+      "No Question": "N/A",
+      "Knowledge and Skill": "Test the acquainted knowledge which student obtained in the delivered chapters",
+      "Grading Guide": "in class, by instructor. Should use EOS",
+      "Note": "Instruction and shedules for Progress tests must be presented in the Course Implementation Plan approved by director of the campus. Progress test must be taken right after the last lectures of required material. Instructor has resposibility to review the test for students after graded."
+    },
+    {
+      "No.": "6",
+      "Category": "Final exam",
+      "Type": "Final exam",
+      "Part": "1",
+      "Weight": "20.0%",
+      "Completion Criteria": "4",
+      "Duration": "30'",
+      "CLO": "All LOs",
+      "Question Type": "Multiple choicesMarked by Computer",
+      "No Question": "25",
+      "Knowledge and Skill": "concepts, algorithms; all studied chapters",
+      "Grading Guide": "by exam board, using computer",
+      "Note": "LO1,2,3,6,7"
+    }
+  ],
+  "schedule": [
+    {
+      "Session": "1",
+      "Topic": "Session I. Working in Group Overview Course introduction",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO1",
+      "ITU": "IT",
+      "Student Materials": "- Problem Solving in Teams and Groups, session I.1, page 13 - Business communication for success, chapter 1",
+      "S-Download": "SSG104",
+      "Student's Tasks": "Read Session I: 1 Forming group for Group project",
+      "URLs": ""
+    },
+    {
+      "Session": "2",
+      "Topic": "Course introduction (cont)",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO1",
+      "ITU": "IT",
+      "Student Materials": "- Problem Solving in Teams and Groups, session I.1, page 13 - Business communication for success, chapter 1",
+      "S-Download": "SSG104",
+      "Student's Tasks": "Read Session I: 1 Forming group for Group project",
+      "URLs": ""
+    },
+    {
+      "Session": "3",
+      "Topic": "1. Defining Teams and Groups",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO1",
+      "ITU": "IT",
+      "Student Materials": "- Problem Solving in Teams and Groups, session I.1, page 13 - Business communication for success, chapter 1",
+      "S-Download": "SSG104",
+      "Student's Tasks": "Read Session I: 1",
+      "URLs": ""
+    },
+    {
+      "Session": "4",
+      "Topic": "2. Cooperation",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO2",
+      "ITU": "IT",
+      "Student Materials": "- Problem Solving in Teams and Groups, session I.2, page 24",
+      "S-Download": "SSG104",
+      "Student's Tasks": "Read Session I: 2",
+      "URLs": ""
+    },
+    {
+      "Session": "5",
+      "Topic": "3. The Psychology of Groups",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO2",
+      "ITU": "ITU",
+      "Student Materials": "Problem Solving in Teams and Groups, session I.4, page 55",
+      "S-Download": "SSG104",
+      "Student's Tasks": "Read Session I: 3",
+      "URLs": ""
+    },
+    {
+      "Session": "6",
+      "Topic": "3. The Psychology of Groups (cont)",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO2",
+      "ITU": "ITU",
+      "Student Materials": "Problem Solving in Teams and Groups, session I.4, page 55",
+      "S-Download": "",
+      "Student's Tasks": "Read Session I: 3",
+      "URLs": ""
+    },
+    {
+      "Session": "7",
+      "Topic": "4. Social Comparison",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO2",
+      "ITU": "ITU",
+      "Student Materials": "Problem Solving in Teams and Groups, session I.3, page 42",
+      "S-Download": "",
+      "Student's Tasks": "Read Session I: 4",
+      "URLs": ""
+    },
+    {
+      "Session": "8",
+      "Topic": "4. Social Comparison (cont)",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO2",
+      "ITU": "ITU",
+      "Student Materials": "Problem Solving in Teams and Groups, session I.3, page 42",
+      "S-Download": "",
+      "Student's Tasks": "Read Session I: 4",
+      "URLs": ""
+    },
+    {
+      "Session": "9",
+      "Topic": "Activity 1: Review Session I",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO 1, 2",
+      "ITU": "U",
+      "Student Materials": "",
+      "S-Download": "",
+      "Student's Tasks": "Review session I",
+      "URLs": ""
+    },
+    {
+      "Session": "10",
+      "Topic": "Session II. Thinking and Analysis 5. Patterns of Thought",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO3",
+      "ITU": "ITU",
+      "Student Materials": "College Success, module 5",
+      "S-Download": "",
+      "Student's Tasks": "Read Session II: 5",
+      "URLs": ""
+    },
+    {
+      "Session": "11",
+      "Topic": "6. Creative Thinking Skills",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO3",
+      "ITU": "ITU",
+      "Student Materials": "College Success, module 5",
+      "S-Download": "",
+      "Student's Tasks": "Read Session II: 6",
+      "URLs": ""
+    },
+    {
+      "Session": "12",
+      "Topic": "6. Creative Thinking Skills (cont)",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO3",
+      "ITU": "ITU",
+      "Student Materials": "College Success, module 5",
+      "S-Download": "",
+      "Student's Tasks": "Read Session II: 6",
+      "URLs": ""
+    },
+    {
+      "Session": "13",
+      "Topic": "7. Proposal",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO4",
+      "ITU": "IU",
+      "Student Materials": "Business Commucation For Success, chapter 9.3, page 269",
+      "S-Download": "",
+      "Student's Tasks": "Read Session II: 7",
+      "URLs": ""
+    },
+    {
+      "Session": "14",
+      "Topic": "7. Proposal (cont)",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO4",
+      "ITU": "IU",
+      "Student Materials": "Business Commucation For Success, chapter 9.3, page 269",
+      "S-Download": "",
+      "Student's Tasks": "Read Session II: 7",
+      "URLs": ""
+    },
+    {
+      "Session": "15",
+      "Topic": "Group Project Part 1: Instruct group project proposal",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO4",
+      "ITU": "IU",
+      "Student Materials": "Business Commucation For Success, chapter 9.3, page 269",
+      "S-Download": "",
+      "Student's Tasks": "Review Session II: 7",
+      "URLs": ""
+    },
+    {
+      "Session": "16",
+      "Topic": "8. Critical Thinking Skills",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO3",
+      "ITU": "IU",
+      "Student Materials": "College Success, module 5",
+      "S-Download": "",
+      "Student's Tasks": "Read Session II: 8",
+      "URLs": ""
+    },
+    {
+      "Session": "17",
+      "Topic": "8. Critical Thinking Skills (cont)",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO3",
+      "ITU": "IU",
+      "Student Materials": "College Success, module 5",
+      "S-Download": "",
+      "Student's Tasks": "Read Session II: 8",
+      "URLs": ""
+    },
+    {
+      "Session": "18",
+      "Topic": "Group Project Part 1: Instruct group project proposal (cont)",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO4",
+      "ITU": "IU",
+      "Student Materials": "Business Commucation For Success, chapter 9.3, page 269",
+      "S-Download": "",
+      "Student's Tasks": "Review Session II: 7",
+      "URLs": ""
+    },
+    {
+      "Session": "19",
+      "Topic": "Group Project Part 2: Present group project proposal",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO4",
+      "ITU": "U",
+      "Student Materials": "Business Commucation For Success, chapter 9.3, page 269",
+      "S-Download": "",
+      "Student's Tasks": "Present group project proposal",
+      "URLs": ""
+    },
+    {
+      "Session": "20",
+      "Topic": "Group Project Part 2: Present group proposal (cont)",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO4",
+      "ITU": "U",
+      "Student Materials": "Business Commucation For Success, chapter 9.3, page 269",
+      "S-Download": "",
+      "Student's Tasks": "Present group project proposal",
+      "URLs": ""
+    },
+    {
+      "Session": "21",
+      "Topic": "Group Project Part 2: Present group proposal (cont)",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO4",
+      "ITU": "U",
+      "Student Materials": "Business Commucation For Success, chapter 9.3, page 269",
+      "S-Download": "",
+      "Student's Tasks": "Present group project proposal",
+      "URLs": ""
+    },
+    {
+      "Session": "22",
+      "Topic": "Session III. Group & Team Theory 9. Power in Teams and Groups",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO5, LO6",
+      "ITU": "ITU",
+      "Student Materials": "Problem Solving in Teams and Groups, session III.14, page 219",
+      "S-Download": "",
+      "Student's Tasks": "Read Session III: 9",
+      "URLs": ""
+    },
+    {
+      "Session": "23",
+      "Topic": "10. Leadership",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO5; LO7",
+      "ITU": "ITU",
+      "Student Materials": "Problem Solving in Teams and Groups, session III.18, page 258",
+      "S-Download": "",
+      "Student's Tasks": "Read Session III: 10",
+      "URLs": ""
+    },
+    {
+      "Session": "24",
+      "Topic": "10. Leadership (cont)",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO5; LO7",
+      "ITU": "ITU",
+      "Student Materials": "Problem Solving in Teams and Groups, session III.18, page 258",
+      "S-Download": "",
+      "Student's Tasks": "Read Session III: 10",
+      "URLs": ""
+    },
+    {
+      "Session": "25",
+      "Topic": "11. Working in Diverse Teams",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO5; LO7",
+      "ITU": "ITU",
+      "Student Materials": "Problem Solving in Teams and Groups, session III.18, page 302",
+      "S-Download": "",
+      "Student's Tasks": "Read Session III: 11",
+      "URLs": ""
+    },
+    {
+      "Session": "26",
+      "Topic": "12. Conflict and Negotiation",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO7",
+      "ITU": "ITU",
+      "Student Materials": "Problem Solving in Teams and Groups, session III.22, page 317",
+      "S-Download": "",
+      "Student's Tasks": "Read Session III: 12",
+      "URLs": ""
+    },
+    {
+      "Session": "27",
+      "Topic": "12. Conflict and Negotiation (cont)",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO7",
+      "ITU": "ITU",
+      "Student Materials": "Problem Solving in Teams and Groups, session III.22, page 317",
+      "S-Download": "",
+      "Student's Tasks": "Read Session III: 12",
+      "URLs": ""
+    },
+    {
+      "Session": "28",
+      "Topic": "13. Handling stress in groups",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO7",
+      "ITU": "ITU",
+      "Student Materials": "College Success, module 9",
+      "S-Download": "",
+      "Student's Tasks": "Read Session III: 13",
+      "URLs": ""
+    },
+    {
+      "Session": "29",
+      "Topic": "Activity 2: Review session II & III",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO 3,5,6,7",
+      "ITU": "U",
+      "Student Materials": "",
+      "S-Download": "",
+      "Student's Tasks": "Review session II & III",
+      "URLs": ""
+    },
+    {
+      "Session": "30",
+      "Topic": "Activity 2: Review session II & III (cont)",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO 3,5,6,7",
+      "ITU": "U",
+      "Student Materials": "",
+      "S-Download": "",
+      "Student's Tasks": "Review session II & III",
+      "URLs": ""
+    },
+    {
+      "Session": "31",
+      "Topic": "Session IV: Groups & Teams (In) Action 14. Nonverbal communication in presentation",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO8, LO9, LO11",
+      "ITU": "ITU",
+      "Student Materials": "Business Communication for Success, chapter 11, page 330",
+      "S-Download": "",
+      "Student's Tasks": "Read Session IV: 14",
+      "URLs": ""
+    },
+    {
+      "Session": "32",
+      "Topic": "14. Nonverbal communication in presentation (cont)",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO8, LO9, LO11",
+      "ITU": "ITU",
+      "Student Materials": "Business Communication for Success, chapter 11, page 330",
+      "S-Download": "",
+      "Student's Tasks": "Read Session IV: 14",
+      "URLs": ""
+    },
+    {
+      "Session": "33",
+      "Topic": "15. Persuasive Presentation: Presentation to persuade",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO8, LO9, LO10",
+      "ITU": "ITU",
+      "Student Materials": "Business Communication for Success, chapter 14, page 428",
+      "S-Download": "",
+      "Student's Tasks": "Read Session IV: 15",
+      "URLs": ""
+    },
+    {
+      "Session": "34",
+      "Topic": "15. Persuasive Presentation (cont): Presentation to persuade",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO8, LO9, LO11",
+      "ITU": "ITU",
+      "Student Materials": "Business Communication for Success, chapter 14, page 428",
+      "S-Download": "",
+      "Student's Tasks": "Read Session IV: 15",
+      "URLs": ""
+    },
+    {
+      "Session": "35",
+      "Topic": "Group Assignment 1: Practice persuasive presentation",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO 8,9,10,12",
+      "ITU": "U",
+      "Student Materials": "Business Communication for Success, chapter 14, page 428",
+      "S-Download": "",
+      "Student's Tasks": "Practice persuasive presentation",
+      "URLs": ""
+    },
+    {
+      "Session": "36",
+      "Topic": "Group Assignment 1: Practice persuasive presentation (cont)",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO 8,9,10,12",
+      "ITU": "U",
+      "Student Materials": "Business Communication for Success, chapter 14, page 428",
+      "S-Download": "",
+      "Student's Tasks": "Practice persuasive presentation",
+      "URLs": ""
+    },
+    {
+      "Session": "37",
+      "Topic": "16. Meetings",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO8, LO9, LO10",
+      "ITU": "ITU",
+      "Student Materials": "Problem Solving in Teams and Groups, session II.8, page 138",
+      "S-Download": "",
+      "Student's Tasks": "Read Session IV: 16",
+      "URLs": ""
+    },
+    {
+      "Session": "38",
+      "Topic": "16. Meetings Activity 3: update project's progress",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO8, LO9, LO10",
+      "ITU": "ITU",
+      "Student Materials": "Problem Solving in Teams and Groups, session II.8, page 138",
+      "S-Download": "",
+      "Student's Tasks": "Read Session IV: 16",
+      "URLs": ""
+    },
+    {
+      "Session": "39",
+      "Topic": "17. Professional Writing",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO4",
+      "ITU": "ITU",
+      "Student Materials": "-Business Communication for Success, chapter 5, page 125 Business Communication for Success, chapter 7.1 and 7.2, page 201",
+      "S-Download": "",
+      "Student's Tasks": "Read Session IV: 17",
+      "URLs": ""
+    },
+    {
+      "Session": "40",
+      "Topic": "18. Business writing in action: Business email & letter",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO4",
+      "ITU": "U",
+      "Student Materials": "-Business Communication for Success, chapter 9.1 and 9.2, page 255",
+      "S-Download": "",
+      "Student's Tasks": "Read Session IV: 18",
+      "URLs": ""
+    },
+    {
+      "Session": "41",
+      "Topic": "18. Business writing in action: Business email & letter (cont)",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO4",
+      "ITU": "U",
+      "Student Materials": "-Business Communication for Success, chapter 9.1 and 9.2, page 255",
+      "S-Download": "",
+      "Student's Tasks": "Read Session IV: 18",
+      "URLs": ""
+    },
+    {
+      "Session": "42",
+      "Topic": "19. Business writing in action: Report",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO4",
+      "ITU": "ITU",
+      "Student Materials": "- Business communication For Success, chapter 9.4, page 274",
+      "S-Download": "",
+      "Student's Tasks": "Read Review Session IV: 19",
+      "URLs": ""
+    },
+    {
+      "Session": "43",
+      "Topic": "Group Project Part 3: Write report for Group project",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO4",
+      "ITU": "ITU",
+      "Student Materials": "- Business communication For Success, chapter 9.4, page 274",
+      "S-Download": "",
+      "Student's Tasks": "Write report for Group project",
+      "URLs": ""
+    },
+    {
+      "Session": "44",
+      "Topic": "Group Project Part 3: Instruct evaluation survey for group project",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO4",
+      "ITU": "ITU",
+      "Student Materials": "Business Communication, chapter 10, page 260 Business Communication, appendix B, page 631",
+      "S-Download": "",
+      "Student's Tasks": "Draft evaluation survey for group project",
+      "URLs": ""
+    },
+    {
+      "Session": "45",
+      "Topic": "Session V: Career Exploration 20. Career development & career skills",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO11",
+      "ITU": "ITU",
+      "Student Materials": "College success, module 3",
+      "S-Download": "",
+      "Student's Tasks": "Read Session VI: 20",
+      "URLs": ""
+    },
+    {
+      "Session": "46",
+      "Topic": "21. Career Development & Résumés",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO11",
+      "ITU": "ITU",
+      "Student Materials": "College success, module 3",
+      "S-Download": "",
+      "Student's Tasks": "Read Session V: 21",
+      "URLs": ""
+    },
+    {
+      "Session": "47",
+      "Topic": "22. Cover letter",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO11",
+      "ITU": "ITU",
+      "Student Materials": "College success, module 3",
+      "S-Download": "",
+      "Student's Tasks": "Read Session V: 22",
+      "URLs": ""
+    },
+    {
+      "Session": "48",
+      "Topic": "Practice: Write Résumé & cover letter",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO11",
+      "ITU": "ITU",
+      "Student Materials": "College success, module 3",
+      "S-Download": "",
+      "Student's Tasks": "Write Résumé & cover letter",
+      "URLs": ""
+    },
+    {
+      "Session": "49",
+      "Topic": "23. Job interview preparation",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO11",
+      "ITU": "ITU",
+      "Student Materials": "College success, module 3",
+      "S-Download": "",
+      "Student's Tasks": "Read Session V: 26",
+      "URLs": ""
+    },
+    {
+      "Session": "50",
+      "Topic": "Group Assignment 2: Practice job interview",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO11",
+      "ITU": "ITU",
+      "Student Materials": "College success, module 3",
+      "S-Download": "",
+      "Student's Tasks": "Practice job interview",
+      "URLs": ""
+    },
+    {
+      "Session": "51",
+      "Topic": "Group Assignment 2: Practice job interview (cont)",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO11",
+      "ITU": "ITU",
+      "Student Materials": "College success, module 3",
+      "S-Download": "",
+      "Student's Tasks": "Practice job interview",
+      "URLs": ""
+    },
+    {
+      "Session": "52",
+      "Topic": "Quiz",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO1,2,3,6,7",
+      "ITU": "U",
+      "Student Materials": "",
+      "S-Download": "",
+      "Student's Tasks": "",
+      "URLs": ""
+    },
+    {
+      "Session": "53",
+      "Topic": "Quiz (cont)",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO1,2,3,6,7",
+      "ITU": "U",
+      "Student Materials": "",
+      "S-Download": "",
+      "Student's Tasks": "",
+      "URLs": ""
+    },
+    {
+      "Session": "54",
+      "Topic": "Group Project Part 3: Write report for Group project (cont)",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO4",
+      "ITU": "ITU",
+      "Student Materials": "- Business communication For Success, chapter 9.4, page 274",
+      "S-Download": "",
+      "Student's Tasks": "Write report for Group project",
+      "URLs": ""
+    },
+    {
+      "Session": "55",
+      "Topic": "Group Project Part 2 & 3: Presentation & Final report of group project",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO12",
+      "ITU": "ITU",
+      "Student Materials": "Course materials",
+      "S-Download": "",
+      "Student's Tasks": "Review session I-V",
+      "URLs": ""
+    },
+    {
+      "Session": "56",
+      "Topic": "Group Project Part 2 & 3: Presentation & Final report of group project (cont)",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO12",
+      "ITU": "ITU",
+      "Student Materials": "Course materials",
+      "S-Download": "",
+      "Student's Tasks": "Review session I-V",
+      "URLs": ""
+    },
+    {
+      "Session": "57",
+      "Topic": "Group Project Part 2 & 3: Presentation & Final report of group project (cont)",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO12",
+      "ITU": "ITU",
+      "Student Materials": "Course materials",
+      "S-Download": "",
+      "Student's Tasks": "Review session I-V",
+      "URLs": ""
+    },
+    {
+      "Session": "58",
+      "Topic": "Group Project Part 2 & 3: Presentation & Final report of group project (cont)",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO12",
+      "ITU": "ITU",
+      "Student Materials": "Course materials",
+      "S-Download": "",
+      "Student's Tasks": "Review session I-V",
+      "URLs": ""
+    },
+    {
+      "Session": "59",
+      "Topic": "Group Project Part 2 & 3: Presentation & Final report of group project (cont)",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO12",
+      "ITU": "ITU",
+      "Student Materials": "Course materials",
+      "S-Download": "",
+      "Student's Tasks": "Review session I-V",
+      "URLs": ""
+    },
+    {
+      "Session": "60",
+      "Topic": "Group Project Part 2 & 3: Presentation & Final report of group project (cont)",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO12",
+      "ITU": "ITU",
+      "Student Materials": "Course materials",
+      "S-Download": "",
+      "Student's Tasks": "Review session I-V",
+      "URLs": ""
+    }
+  ],
+  "constructive_questions": [
+    {
+      "No.": "1",
+      "Session No": "1",
+      "Name": "CQ1.1",
+      "Details": "Why should we study \"Communication and In-Group Working Skills\" subject ?"
+    },
+    {
+      "No.": "2",
+      "Session No": "3",
+      "Name": "CQ1.2",
+      "Details": "In your opinion, what is the most important team characteristic? Why ?"
+    },
+    {
+      "No.": "3",
+      "Session No": "3",
+      "Name": "CQ1.3",
+      "Details": "Group Vs Team: What’s the difference?"
+    },
+    {
+      "No.": "4",
+      "Session No": "4",
+      "Name": "CQ2.1",
+      "Details": "Prisoner's Dilemma: Is Cooperation Always the Right Answer?"
+    },
+    {
+      "No.": "5",
+      "Session No": "4",
+      "Name": "CQ2.2",
+      "Details": "Which is stronger, Individual Differences in Cooperation or Situational Influences of Cooperation?"
+    },
+    {
+      "No.": "6",
+      "Session No": "5",
+      "Name": "CQ2.3",
+      "Details": "What is the psychological significance of groups?"
+    },
+    {
+      "No.": "7",
+      "Session No": "5",
+      "Name": "CQ2.4",
+      "Details": "How do groups form and develop? What kinds of stages do they go through?"
+    },
+    {
+      "No.": "8",
+      "Session No": "6",
+      "Name": "CQ2.5",
+      "Details": "Have you ever been part of a group that made a poor decision and, if so, were any of the symptoms of groupthink present in your group?"
+    },
+    {
+      "No.": "9",
+      "Session No": "6",
+      "Name": "CQ2.6",
+      "Details": "Group debate: Does an individual or a group make better decisions?"
+    },
+    {
+      "No.": "10",
+      "Session No": "7",
+      "Name": "CQ3.1",
+      "Details": "What are the meaning of social comparison theory? How can social comparison affect a person?"
+    },
+    {
+      "No.": "11",
+      "Session No": "7",
+      "Name": "CQ3.2",
+      "Details": "What is the effects of social comparison? Can you give the example in a real life situation illustrating each type of social comparison and analyze the possible effects of social comparison in this situation?"
+    },
+    {
+      "No.": "12",
+      "Session No": "8",
+      "Name": "CQ3.3",
+      "Details": "What are situational factors that can affect social comparison?"
+    },
+    {
+      "No.": "13",
+      "Session No": "8",
+      "Name": "CQ3.4",
+      "Details": "What is an example of social comparison? (in their daily lives, folk and proverbs, song lyrics, literature, movies…)."
+    },
+    {
+      "No.": "14",
+      "Session No": "9",
+      "Name": "CQ3.5",
+      "Details": "Among all concepts about groups that you learn via this session, which one do you think you can apply to your university studies?"
+    },
+    {
+      "No.": "15",
+      "Session No": "9",
+      "Name": "CQ3.6",
+      "Details": "How do you feel about the teamwork in your project team so far? What do you like, what do you not like? Share a lesson learned you find most outstanding from the beginning of the this subject"
+    },
+    {
+      "No.": "16",
+      "Session No": "9",
+      "Name": "CQ3.7",
+      "Details": "List all the things you've contributed for your team from the begining of this subject . And what do you need to improve in teamwork?"
+    },
+    {
+      "No.": "17",
+      "Session No": "10",
+      "Name": "CQ4.1",
+      "Details": "What are the diferences between thought and thinking?"
+    },
+    {
+      "No.": "18",
+      "Session No": "10",
+      "Name": "CQ4.2",
+      "Details": "What is a partiular learning objective that you want to achieve within this year?"
+    },
+    {
+      "No.": "19",
+      "Session No": "10",
+      "Name": "CQ4.3",
+      "Details": "How did you apply different levels of Bloom's Taxonomy to your learning in college? Share at least one example for each level."
+    },
+    {
+      "No.": "20",
+      "Session No": "11",
+      "Name": "CQ4.4",
+      "Details": "Watch a video of a brainstorming session: https://youtu.be/VvdJzeO9yN8 Which rules of brainstorming could be drawn from this observation?"
+    },
+    {
+      "No.": "21",
+      "Session No": "11",
+      "Name": "CQ4.5",
+      "Details": "Project application: Which creative solutions or marketing strategies can you suggest to your group's \"Social initiative\" Project? How did you stimulate them?"
+    },
+    {
+      "No.": "22",
+      "Session No": "12",
+      "Name": "CQ4.6",
+      "Details": "How could you tell a creative story based on spontaneous pictures? Work in groups to produce 10-15 photos around your campus, and arrange them to create a story for presentation."
+    },
+    {
+      "No.": "23",
+      "Session No": "13",
+      "Name": "CQ5.1",
+      "Details": "What are the components of a project proposal? Strategies to write an effective proposal?"
+    },
+    {
+      "No.": "24",
+      "Session No": "14",
+      "Name": "CQ5.2",
+      "Details": "What is the most challenging part to compose in a busisness proposal? Why?"
+    },
+    {
+      "No.": "25",
+      "Session No": "15",
+      "Name": "CQ5.3",
+      "Details": "Have you ever been impressed by a business proposal? Which point do you like best? Why?"
+    },
+    {
+      "No.": "26",
+      "Session No": "16",
+      "Name": "CQ6.1",
+      "Details": "How can you define the concept of critical thinking? Explain by giving example(s)"
+    },
+    {
+      "No.": "27",
+      "Session No": "16",
+      "Name": "CQ6.2",
+      "Details": "What strategies may help you solve problems using critical thinking skills? How can you develop yourself as a critical thinker?"
+    },
+    {
+      "No.": "28",
+      "Session No": "17",
+      "Name": "CQ6.3",
+      "Details": "How do you use logic in critical thinking? Analyse a case-study in newspapers or social media to emphasize"
+    },
+    {
+      "No.": "29",
+      "Session No": "17",
+      "Name": "CQ6.4",
+      "Details": "The following people are on the waiting list for heart surgery. There is only one heart that has recently been donated, and this surgery is the only chance for all of them. To whom would you choose to give the heart? Explain your decision. Case 1: A 69-year-old renowned professor at Havard university who won a Nobel prize for his outstanding contribution to medicine. Case 2: A 32-year-old woman living in a slum, mother of 7 children whose father(s) is(are) unknown, unemployed, and alcoholic. Case 3: A 20-year-old girl, is HIV positive. She dropped out of high school but just managed to get back to study and got into a university this year."
+    },
+    {
+      "No.": "30",
+      "Session No": "18",
+      "Name": "CQ6.5",
+      "Details": "How can you make a draft of the Executive Summary (for your project proposal) ?"
+    },
+    {
+      "No.": "31",
+      "Session No": "19",
+      "Name": "CQ7.1",
+      "Details": "What are your critical feedback for the project proposal of other teams?"
+    },
+    {
+      "No.": "32",
+      "Session No": "20",
+      "Name": "CQ7.2",
+      "Details": "Considering the project proposal's presentations of other teams, what do you like, what's not? What should they improve?"
+    },
+    {
+      "No.": "33",
+      "Session No": "21",
+      "Name": "CQ7.3",
+      "Details": "If you were in that presentation, what would you do differently?"
+    },
+    {
+      "No.": "34",
+      "Session No": "22",
+      "Name": "CQ8.1",
+      "Details": "Where does the power come from? Are there different kinds of power? Take group pictures that simulate all different kinds of power you know. Share and explain about each picture."
+    },
+    {
+      "No.": "35",
+      "Session No": "22",
+      "Name": "CQ8.2",
+      "Details": "Can a group function without power? What causes some people to be vulnerable to power attempts?"
+    },
+    {
+      "No.": "36",
+      "Session No": "22",
+      "Name": "CQ8.3",
+      "Details": "What have you done (or will you do) to \"develop\" the following forms of power? -Expert power -Referent power"
+    },
+    {
+      "No.": "37",
+      "Session No": "23",
+      "Name": "CQ8.4",
+      "Details": "What is the nature of leadership and the leadership process? Describe your favourite leader/influencer. What elements that make him or her a good leader?"
+    },
+    {
+      "No.": "38",
+      "Session No": "24",
+      "Name": "CQ8.5",
+      "Details": "Case Study: DESERT ISLE https://docs.google.com/document/d/1y2652TsXCKCRhP3x97w7f_nNSqHjLeLE2NCgBSUUIlM/edit Discussion Questions: - If you need to choose one person to become a leader guiding these group of people to survive on the island and find way(s) home, who would it be? - Were there certain individuals who were immediately eliminated from consideration? Why? - Did your selected leader possess all of the traits you would have liked to see in a leader in this situation? What are those traits? - What additional traits would make that individual a better leader? - Did that person have any traits you would not have liked to see in this situation? Why did you select the person anyway? - Did age, culture, or gender influence the group’s decisions?"
+    },
+    {
+      "No.": "39",
+      "Session No": "25",
+      "Name": "CQ9.1",
+      "Details": "How to work in a diverse team effectively? Use the Divergent Cuttural Dimensions to analyze the culture of a given country (Vietnam/US/Korea…)"
+    },
+    {
+      "No.": "40",
+      "Session No": "26",
+      "Name": "CQ9.2",
+      "Details": "In this video, why does conflict happen? How did it develop? If you were one of the sisters, what would you do to help resolve the conflict? Link: https://www.youtube.com/watch?v=W6buF8URGLU"
+    },
+    {
+      "No.": "41",
+      "Session No": "27",
+      "Name": "CQ9.3",
+      "Details": "What modes of conflict resolution do you find yourself usually using when faced with a conflict in your SSG104 group? Why? What did you do to prevent or reduce conflict in your group?"
+    },
+    {
+      "No.": "42",
+      "Session No": "28",
+      "Name": "CQ10.1",
+      "Details": "How can you identify the difference between occasional negative emotions and more serious mental health issues, such as anxiety disoder or depression?"
+    },
+    {
+      "No.": "43",
+      "Session No": "28",
+      "Name": "CQ10.2",
+      "Details": "How can a person realize they have stress? How does stress affect your mind and body?"
+    },
+    {
+      "No.": "44",
+      "Session No": "28",
+      "Name": "CQ10.3",
+      "Details": "Is stress always harmful? What solutions can be used to overcome stress?"
+    },
+    {
+      "No.": "45",
+      "Session No": "29",
+      "Name": "CQ10.4",
+      "Details": "What part of this session impressed you the most? Why?"
+    },
+    {
+      "No.": "46",
+      "Session No": "30",
+      "Name": "CQ10.5",
+      "Details": "What part of the session was the hardest for you? What do you need prepare to practice this content in life in the best way?"
+    },
+    {
+      "No.": "47",
+      "Session No": "31",
+      "Name": "CQ11.1",
+      "Details": "In which ways does nonverbal communication express? How many types of nonverbal communication can you identify?"
+    },
+    {
+      "No.": "48",
+      "Session No": "31",
+      "Name": "CQ11.2",
+      "Details": "How would you rate your non-verbal competencies in communication? (Do you feel confident or not, what are your strengths/weaknesses, what can you do to improve?)"
+    },
+    {
+      "No.": "49",
+      "Session No": "32",
+      "Name": "CQ11.3",
+      "Details": "What are tips to perfect your nonverbal communication? What are Do's and Don'ts of listening in communication?"
+    },
+    {
+      "No.": "50",
+      "Session No": "33",
+      "Name": "CQ11.4",
+      "Details": "What is persuasion? Find an example that demonstrates persuasiveness in communication (text, video, etc.)"
+    },
+    {
+      "No.": "51",
+      "Session No": "33",
+      "Name": "CQ11.5",
+      "Details": "What factors make a highly persuasive presentation?"
+    },
+    {
+      "No.": "52",
+      "Session No": "34",
+      "Name": "CQ12.1",
+      "Details": "What should be included in an elevator speech? Create an elevator speech and share it with your classmates (topic given by lecturer)."
+    },
+    {
+      "No.": "53",
+      "Session No": "35",
+      "Name": "CQ12.2",
+      "Details": "What is your feedback for the persuasive presentation of other group? What did they do well? What should they improve? What do you like, what's not?"
+    },
+    {
+      "No.": "54",
+      "Session No": "36",
+      "Name": "CQ12.3",
+      "Details": "What is your feedback for the persuasive presentation of other group? What did they do well? What should they improve? What do you like, what's not?"
+    },
+    {
+      "No.": "55",
+      "Session No": "37",
+      "Name": "CQ13.1",
+      "Details": "How to conduct an effective meeting?"
+    },
+    {
+      "No.": "56",
+      "Session No": "37",
+      "Name": "CQ13.2",
+      "Details": "What are disruptive behaviors that could happen in group meetings? If you are the chairperson, how would you accommodate and coordinate such disruptive behaviors?"
+    },
+    {
+      "No.": "57",
+      "Session No": "39",
+      "Name": "CQ13.3",
+      "Details": "What should be considered in process of revision?"
+    },
+    {
+      "No.": "58",
+      "Session No": "40",
+      "Name": "CQ14.1",
+      "Details": "How to write an effective email? Find an example of an e-mail that you wish you had never sent or received. Rewrite it to eliminate the characteristics that you find problematic. Share it with your classmates."
+    },
+    {
+      "No.": "59",
+      "Session No": "40",
+      "Name": "CQ14.2",
+      "Details": "What are the differences between memos and letters? In which situations they should be used?"
+    },
+    {
+      "No.": "60",
+      "Session No": "41",
+      "Name": "CQ14.3",
+      "Details": "How does an effective memo look like? Give an example."
+    },
+    {
+      "No.": "61",
+      "Session No": "41",
+      "Name": "CQ14.4",
+      "Details": "What are the fifteen parts of a standard business letter? Create a draft letter introducing a product or service to a new client. Post and share with classmates."
+    },
+    {
+      "No.": "62",
+      "Session No": "42",
+      "Name": "CQ14.5",
+      "Details": "What are the main parts of a report? What are the different types of reports?"
+    },
+    {
+      "No.": "63",
+      "Session No": "43",
+      "Name": "CQ15.1",
+      "Details": "How do you plan for your report writing? Make an outline for your report and write the abstract/summary/introduction."
+    },
+    {
+      "No.": "64",
+      "Session No": "45",
+      "Name": "CQ15.3",
+      "Details": "How many stages are there in a person's career development? Which stage of career development do you feel you are in currently?"
+    },
+    {
+      "No.": "65",
+      "Session No": "45",
+      "Name": "CQ15.4",
+      "Details": "Have you ever experienced any kind of work (part-time, full-time, internship, volunteer,...)? What did you gain from such experiences? In case you have not experienced any kind of work, which kind of job would you like to take while you are in college? Why?"
+    },
+    {
+      "No.": "66",
+      "Session No": "45",
+      "Name": "CQ15.5",
+      "Details": "In your opinion, how do you prepare yourself for a career while you are in college?"
+    },
+    {
+      "No.": "67",
+      "Session No": "45",
+      "Name": "CQ15.6",
+      "Details": "How could you evaluate where you are and where you want to be in your career/careers? Describe 4 cyclical steps of Career Roadmap identified from DePaul University."
+    },
+    {
+      "No.": "68",
+      "Session No": "45",
+      "Name": "CQ15.7",
+      "Details": "What PDCA (plan–do–check–act) strategy for carrying out change is? How to apply it to evaluate where you are in the career-development process?"
+    },
+    {
+      "No.": "69",
+      "Session No": "46",
+      "Name": "CQ16.1",
+      "Details": "What is your ideal job? What makes you a great fit for this ideal job? Identify the top three reasons why you are a great fit for that job."
+    },
+    {
+      "No.": "70",
+      "Session No": "46",
+      "Name": "CQ16.2",
+      "Details": "Find a successful résumés in your major. What could you learn and appy from that sample?"
+    },
+    {
+      "No.": "71",
+      "Session No": "46",
+      "Name": "CQ16.3",
+      "Details": "What are the elements of a successful résumé? What should we avoid when creating a résumé?"
+    },
+    {
+      "No.": "72",
+      "Session No": "47",
+      "Name": "CQ16.4",
+      "Details": "What are the purpose and contents of a cover letter? What should a cover letter achieve?"
+    },
+    {
+      "No.": "73",
+      "Session No": "48",
+      "Name": "CQ16.5",
+      "Details": "What are some résumé writing and cover letter resources that students can refer to? Give description for each resource."
+    },
+    {
+      "No.": "74",
+      "Session No": "49",
+      "Name": "CQ17.1",
+      "Details": "What are the common job interview types? Which appropriate interview techniques can you apply for each?"
+    },
+    {
+      "No.": "75",
+      "Session No": "49",
+      "Name": "CQ17.2",
+      "Details": "Find 3 favorite companies that are recruiting your ideal job. What are the common points of recruitment process from these companies? How is importance of the job interview in this process?"
+    },
+    {
+      "No.": "76",
+      "Session No": "49",
+      "Name": "CQ17.3",
+      "Details": "How many steps of job interview process can you identify?"
+    },
+    {
+      "No.": "77",
+      "Session No": "50",
+      "Name": "CQ17.4",
+      "Details": "How many types of job interview questions can you identify? How to answer them?"
+    },
+    {
+      "No.": "78",
+      "Session No": "50",
+      "Name": "CQ17.5",
+      "Details": "In your opinion, how could you prepare yourself effectively for a job interview?"
+    },
+    {
+      "No.": "79",
+      "Session No": "50",
+      "Name": "CQ17.6",
+      "Details": "In your opinion, how to be successful in job interview? Find some tips for succeeding in job interview from your senior in your field, prefered alumni of FPTU and share it with your classmates."
+    },
+    {
+      "No.": "80",
+      "Session No": "51",
+      "Name": "CQ17.7",
+      "Details": "What is your feedback for the job interview of other group? What did they do well? What should they improve? What do you like, what's not?"
+    }
+  ],
+  "materials": [
+    {
+      "No.": "1",
+      "Material Description": "Problem Solving in Teams and Groups",
+      "Author": "Cameron W. Piercy",
+      "Publisher": "University of Kansas Libraries",
+      "Published Date": "2019",
+      "Edition": "",
+      "ISBN": "",
+      "Is Main Material": "True",
+      "Is Hard Copy": "False",
+      "Is Online": "True",
+      "Note": "https://open.umn.edu/opentextbooks/textbooks/problem-solving-in-teams-and-groups"
+    },
+    {
+      "No.": "2",
+      "Material Description": "College Success",
+      "Author": "N/A",
+      "Publisher": "Lumen Learning courseware",
+      "Published Date": "",
+      "Edition": "",
+      "ISBN": "",
+      "Is Main Material": "True",
+      "Is Hard Copy": "False",
+      "Is Online": "True",
+      "Note": "https://courses.lumenlearning.com/lumencollegesuccessxtraining2/ or https://courses.lumenlearning.com/lumencollegesuccessxtraining/"
+    },
+    {
+      "No.": "3",
+      "Material Description": "Business communication for success",
+      "Author": "N/A",
+      "Publisher": "University of Minnesota i",
+      "Published Date": "2015",
+      "Edition": "2th",
+      "ISBN": "",
+      "Is Main Material": "True",
+      "Is Hard Copy": "False",
+      "Is Online": "True",
+      "Note": "https://www.oercommons.org/courses/basics-of-written-business-communication/view"
+    },
+    {
+      "No.": "4",
+      "Material Description": "Working in group 7th ed.",
+      "Author": "",
+      "Publisher": "Pearson",
+      "Published Date": "2017",
+      "Edition": "",
+      "ISBN": "",
+      "Is Main Material": "False",
+      "Is Hard Copy": "True",
+      "Is Online": "False",
+      "Note": ""
+    },
+    {
+      "No.": "5",
+      "Material Description": "Business communication 7th ed.",
+      "Author": "",
+      "Publisher": "Thomson-South Western",
+      "Published Date": "2008",
+      "Edition": "",
+      "ISBN": "",
+      "Is Main Material": "False",
+      "Is Hard Copy": "True",
+      "Is Online": "False",
+      "Note": ""
+    },
+    {
+      "No.": "6",
+      "Material Description": "PowerPoint Slides",
+      "Author": "",
+      "Publisher": "",
+      "Published Date": "",
+      "Edition": "",
+      "ISBN": "",
+      "Is Main Material": "False",
+      "Is Hard Copy": "False",
+      "Is Online": "False",
+      "Note": ""
+    }
+  ],
+  "source_path": "data/raw/syllabi/11845.html",
+  "id": "syllabus:11845"
+}

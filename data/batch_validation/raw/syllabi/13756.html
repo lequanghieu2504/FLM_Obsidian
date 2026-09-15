@@ -1,0 +1,2717 @@
+<!DOCTYPE html><html lang="en"><head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin="">
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700&amp;family=Source+Sans+Pro:wght@300;400;600;700&amp;display=swap" rel="stylesheet">
+    <link href="/Content/bootstrap.min.css" rel="stylesheet">
+    <link href="/fonts/css/Bootstrap-select-v1.13.14.css" rel="stylesheet">
+    <link href="/Content/common.css" rel="stylesheet">
+    <link href="/fonts/css/font-awesome.min.css" rel="stylesheet">
+    <link href="/Content/toastr.min.css" rel="stylesheet">
+    <script src="/Scripts/jquery-1.10.2.min.js"></script>
+    <script src="/Scripts/popper.js"></script>
+    <script src="/Scripts/bootstrap.min.js"></script>
+    <script src="/Scripts/Bootstrap-select-v1.13.14.js"></script>
+    <script src="/Scripts/jquery.validate.min.js"></script>
+    <script src="/Scripts/toastr.min.js"></script>
+    <link href="/fonts/css/font-awesome.min.css" rel="stylesheet">
+    <script src="/Scripts/jquery-ui.min.js"></script>
+    <link href="/Content/jquery-ui.css" rel="stylesheet">
+    <script>
+        var a = 'Student';
+        if (!a) {
+            window.location.replace('/Login');
+        }
+    </script>
+    <title id="pageTitle">T University Learning Materials •</title>
+    <style>
+        h1 {
+            font-size: 2em;
+        }
+
+        h2 {
+            font-size: 1.5em;
+        }
+
+        .btn-light {
+            border: 1px solid #d9cfcf;
+        }
+
+        /*.btn{
+            color:white;
+            font-weight:bold;
+        }*/
+
+
+        * {
+            font-family: 'Inter', 'Source Sans Pro', 'Segoe UI', 'Tahoma', 'Arial', 'Helvetica', sans-serif;
+            font-size: 16px;
+            font-weight: 400;
+            line-height: 1.5em;
+        }
+
+        body {
+            background: #fafafa;
+            padding: 0;
+        }
+
+
+
+        #sidebar a,
+        #sidebar a:hover,
+        #sidebar a:focus {
+            color: inherit;
+            text-decoration: none;
+            transition: all 0.3s;
+        }
+
+
+        #sidebar.sb-active {
+            margin-left: -300px;
+        }
+
+        .wrapper {
+            display: flex;
+            text-decoration: none;
+            transition: all 0.3s;
+            margin-top: -75px;
+            width: 100%;
+        }
+
+        /* Mobile wrapper fix */
+        @media (max-width: 768px) {
+            .wrapper {
+                margin-top: 0;
+            }
+        }
+
+        .btn-default {
+            background-color: #F2994A;
+            color: white;
+            font-weight: bold;
+        }
+
+        .btn-default:hover {
+            background-color: #fd7e14;
+        }
+
+        input,
+        select {
+            font-size: inherit !important;
+            /*height: 33.5px !important;*/
+        }
+
+
+        .tbl-data {
+            border: 1px solid rgba(0, 0, 0, .05);
+        }
+
+        .tbl-data th {
+            font-weight: bold;
+            background-color: #F2994A !important;
+            color: white;
+        }
+
+        .tbl-data input[type=checkbox] {
+            width: 20px;
+        }
+
+        .tbl-detail tr td {
+            padding: 4px 5px 4px 5px;
+            border: 1px solid rgba(0, 0, 0, .05);
+        }
+
+        .tbl-checkbox label {
+            position: relative;
+            top: -11px;
+            left: 2px;
+        }
+
+        .max-with-fit {
+            max-width: fit-content;
+        }
+
+        textarea {
+            font-size: inherit !important;
+        }
+
+        #sidebar {
+            min-width: 300px;
+            max-width: 300px;
+            margin-top: 85px;
+            margin-left: 10px;
+            color: #fff;
+            transition: all 0.3s;
+            overflow-y: scroll;
+            height: 800px;
+            border-radius: 5px;
+            background-color: #F2994A;
+        }
+
+        /* Mobile Responsive Styles */
+        @media (max-width: 1200px) {
+            #sidebar {
+                min-width: 260px;
+                max-width: 260px;
+            }
+        }
+
+        @media (max-width: 992px) {
+            h1 {
+                font-size: 1.6em;
+            }
+
+            .page-title {
+                position: static !important;
+                width: 100%;
+                text-align: center;
+                margin: 8px 0 0 0;
+                left: 0 !important;
+                transform: none !important;
+            }
+
+            #btn-home {
+                height: 36px;
+                min-width: 70px;
+                max-width: 100px;
+                padding: 6px 10px;
+                gap: 5px;
+            }
+
+            #btn-home span {
+                font-size: 13px;
+                line-height: 1;
+            }
+
+            #btn-home i {
+                font-size: 14px;
+                line-height: 1;
+            }
+
+            #language {
+                width: 110px !important;
+                height: 32px !important;
+            }
+
+            #ProfileImage {
+                width: 40px !important;
+                height: 40px !important;
+            }
+
+            #sidebar {
+                position: fixed;
+                top: 97px;
+                left: 0;
+                height: calc(100vh - 97px);
+                z-index: 1030;
+                margin-left: 0;
+                margin-top: 0;
+            }
+
+            #content {
+                height: auto;
+                margin-top: 97px;
+                padding: 10px;
+            }
+
+            .wrapper {
+                margin-top: 0;
+            }
+        }
+
+        @media (max-width: 768px) {
+            h1 {
+                font-size: 1.3em;
+            }
+
+            .page-title {
+                position: static !important;
+                width: 100%;
+                text-align: center;
+                margin: 6px 0 0 0;
+                left: 0 !important;
+                transform: none !important;
+            }
+
+            .navbar .container-fluid {
+                flex-direction: row !important;
+                justify-content: space-between !important;
+                align-items: center !important;
+            }
+
+            #language {
+                width: 100px !important;
+                height: 30px !important;
+                font-size: 12px !important;
+            }
+
+            #ProfileImage {
+                width: 35px !important;
+                height: 35px !important;
+            }
+
+            .dropdown-arrow {
+                right: -12px !important;
+                font-size: 10px !important;
+            }
+
+            #btn-home {
+                height: 34px;
+                min-width: 60px;
+                max-width: 90px;
+                padding: 5px 8px;
+                gap: 4px;
+            }
+
+            #btn-home span {
+                font-size: 12px;
+                line-height: 1;
+            }
+
+            #btn-home i {
+                font-size: 13px;
+                line-height: 1;
+            }
+
+            /* Make long tables scrollable on small screens */
+            #content table {
+                display: block;
+                width: 100%;
+                overflow-x: auto;
+                -webkit-overflow-scrolling: touch;
+                white-space: nowrap;
+            }
+
+            #sidebar {
+                display: none !important;
+            }
+
+            #btn-home {
+                height: 35px;
+                width: 70px;
+                padding: 5px;
+            }
+
+            #btn-home span {
+                font-size: 12px;
+            }
+
+            #btn-home i {
+                font-size: 14px;
+            }
+
+            .navbar-toggler {
+                display: block;
+            }
+
+            .navbar-nav {
+                flex-direction: column;
+            }
+        }
+
+        @media (max-width: 576px) {
+            h1 {
+                font-size: 1.1em;
+            }
+
+            .page-title {
+                font-size: 1.1em !important;
+                margin: 4px 0 0 0;
+            }
+
+            .navbar .container-fluid {
+                flex-direction: row !important;
+                justify-content: space-between !important;
+                align-items: center !important;
+            }
+
+            #language {
+                width: 90px !important;
+                height: 28px !important;
+                font-size: 11px !important;
+            }
+
+            #ProfileImage {
+                width: 30px !important;
+                height: 30px !important;
+            }
+
+            .dropdown-arrow {
+                right: -10px !important;
+                font-size: 9px !important;
+            }
+
+            #btn-home {
+                height: 30px;
+                min-width: 50px;
+                max-width: 80px;
+                padding: 4px 6px;
+                gap: 3px;
+            }
+
+            #btn-home span {
+                font-size: 11px;
+                line-height: 1;
+            }
+
+            #btn-home i {
+                font-size: 12px;
+                line-height: 1;
+            }
+
+            .navbar {
+                padding: 0.25rem 0.5rem;
+                height: 85px !important;
+            }
+
+            /* Ensure navbar elements are always visible */
+            .navbar .container-fluid {
+                display: flex;
+                justify-content: space-between;
+                align-items: center;
+                flex-wrap: nowrap;
+            }
+
+            .navbar .d-flex {
+                flex-shrink: 0;
+            }
+
+            #content {
+                padding: 5px;
+                margin-top: 85px !important;
+            }
+
+            #sidebar {
+                top: 85px !important;
+                height: calc(100vh - 85px) !important;
+            }
+        }
+
+        #sidebar::-webkit-scrollbar {
+            width: 0;
+        }
+
+        #sidebar p {
+            padding: 15px;
+            background: #F2994A;
+            font-weight: bold;
+            font-size: 20px;
+        }
+
+        #sidebar ul.components {
+            padding: 20px 0;
+        }
+
+
+        #sidebar ul li a {
+            padding: 10px;
+            font-size: 1em;
+            display: block;
+            background-color: #f4a158;
+        }
+
+        #sidebar ul li a:hover {
+            background: #d06e17;
+        }
+
+        #sidebar ul li.sb-active>a,
+        a[aria-expanded="true"] {
+            color: #fff;
+        }
+
+        a[data-toggle="collapse"] {
+            position: relative;
+        }
+
+        #navbarSupportedContent .dropdown-toggle::after {
+            display: block;
+            position: absolute;
+            top: 50%;
+            right: -15%;
+            transform: translateY(-50%);
+        }
+
+        .dropdown-toggle::after {
+            display: none !important;
+        }
+
+        /* Custom dropdown arrow */
+        .dropdown-toggle .dropdown-arrow {
+            position: absolute;
+            right: -15px;
+            top: 50%;
+            transform: translateY(-50%);
+            color: white;
+            font-size: 12px;
+        }
+
+        #sidebar ul ul a {
+            font-size: 0.9em !important;
+            padding-left: 30px !important;
+            background: #d29a68;
+        }
+
+        #content {
+            width: 100%;
+            padding: 20px;
+            transition: all 0.3s;
+            margin-top: 90px;
+        }
+
+        #ui-datepicker-div {
+            width: fit-content;
+        }
+
+        .mat-2 {
+            position: relative;
+            left: -30px;
+        }
+
+        table {
+            /* Set "my-sec-counter" to 0 */
+            counter-reset: my-sec-counter;
+        }
+
+        .counter::before {
+            /* Increment "my-sec-counter" by 1 */
+            counter-increment: my-sec-counter;
+            content: counter(my-sec-counter);
+        }
+
+        .menu-btn:focus {
+            outline: none;
+            box-shadow: none;
+        }
+
+        .required-field:after {
+            content: "    *";
+            color: red;
+            font-size: 20px;
+        }
+
+        .table .thead-dark th {
+            color: #fff;
+            background-color: #F2994A;
+            border-color: #fff;
+        }
+
+        .dropdown-toggle::after {
+            right: 20px;
+        }
+
+        #btn-home {
+            padding: 8px 12px;
+            background-color: #28a745;
+            color: white;
+            font-weight: bold;
+            min-width: 80px;
+            max-width: 120px;
+            height: 40px;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            white-space: nowrap;
+            transition: all 0.3s ease;
+            gap: 6px;
+        }
+
+        #btn-home:hover {
+            background-color: #218838;
+            transform: translateY(-1px);
+        }
+
+        #btn-home span {
+            font-size: 15px;
+            line-height: 1;
+        }
+
+        #btn-home i {
+            font-size: 16px;
+            line-height: 1;
+        }
+
+        label[class=error] {
+            color: red
+        }
+
+        #lbtnSignOut {
+            color: #08c
+        }
+
+        #lbtnSignOut:hover {
+            text-decoration: underline;
+            cursor: pointer;
+        }
+
+        /* Navbar responsive improvements */
+        .navbar .container-fluid {
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+            flex-wrap: nowrap;
+        }
+
+        .navbar .d-flex {
+            flex-shrink: 0;
+        }
+
+        /* Mobile navbar improvements */
+        @media (max-width: 768px) {
+            .navbar .container-fluid {
+                padding: 0.5rem;
+            }
+
+            .navbar .d-flex:first-child {
+                flex: 0 0 auto;
+            }
+
+            .navbar .d-flex:last-child {
+                flex: 0 0 auto;
+            }
+
+            /* Dropdown menu mobile positioning */
+            .dropdown-menu {
+                right: 0 !important;
+                left: auto !important;
+                max-width: 90vw !important;
+                min-width: 200px !important;
+            }
+        }
+    </style>
+
+</head>
+
+<body style="">
+
+    <nav class="navbar navbar-expand-lg px-0 pb-2 m-0 nav-fix" style="background-color: #F2994A ; color: white; height:97px;" aria-label="Main navigation">
+        <div class="container-fluid p-0">
+            <!-- Left side: Menu button and Home button -->
+            <div class="d-flex align-items-center">
+                <button type="button" id="sidebarCollapse" class="menu-btn btn " style="background-color: rgb(242, 153, 74); display: none;">
+                    <img class="img-home" src="/Images/menu1.png" alt="Alternate Text" style="width:35px">
+                </button>
+
+                <a id="btn-home" class="btn btn-success btn-lg ml-2" href="/Home">
+                    <i class="fa fa-home fa-lg" aria-hidden="true"></i>
+                    <span style="font-weight:bold;">Home</span>
+                </a>
+            </div>
+
+            <!-- Center: Title -->
+            <h1 class="text-center page-title mx-auto" style="position: absolute; left: 50%; transform: translateX(-50%);" aria-label="Page title">
+                FPT University Learning Materials</h1>
+
+            <!-- Right side: Language and Profile -->
+            <div class="d-flex align-items-center">
+                <!-- Language Selector -->
+                <div class="mr-3">
+                    <select id="language" style="z-index: 1; width: 130px;height:34.5px" class="form-control" aria-label="Select language">
+                        <option value="en">English</option>
+                        <option value="vi">Vietnamese</option>
+                    </select>
+                </div>
+
+                <!-- User Profile Dropdown -->
+                <div class="dropdown">
+                    <button class="btn btn-link nav-link dropdown-toggle p-0 position-relative" id="navbarDropdown" type="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false" aria-label="User profile menu">
+                        <img id="ProfileImage" class="rounded-circle" width="50" height="50" alt="User profile" src="/Images/avatar_reviewer.jpg">
+                        <i class="fa fa-chevron-down dropdown-arrow"></i>
+                    </button>
+                    <div class="dropdown-menu dropdown-menu-right" aria-labelledby="navbarDropdown" style="right: 0; left: auto; max-width: 90vw;">
+                        <div id="pnlProfile">
+                            <span class="dropdown-item">
+                                Name:
+                                <span id="lblName" style="font-weight: bold">lequanghieu2504@gmail.com</span>
+                            </span>
+                            <span class="dropdown-item">
+                                <span id="pnlEmail">
+                                    Email:
+                                    <span id="lblEmail" style="font-weight: bold">lequanghieu2504@gmail.com</span>
+                                </span>
+                            </span>
+                            <span class="dropdown-item">
+                                User's role:
+                                <span id="lblRole" style="font-weight: bold">Student</span>
+                            </span>
+                            <span class="dropdown-item">
+                                Education level:
+                                <span id="lblEduLevel" style="font-weight: bold">FPTU</span>
+                            </span>
+                            <div class="dropdown-item ">
+                                <button id="lbtnSignOut" class="btn btn-link p-0 text-left" style="color: #08c; text-decoration: none;" onclick="lbtnSignOut_Click">
+                                    Sign out
+                                    FLM
+                                </button>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </nav>
+
+    <div class="wrapper">
+        <nav id="sidebar" class="sb-active" style="padding-bottom: 60px;" aria-label="Main navigation">
+            <ul class="lisst-unstyled components p-0" id="panelHeadFeatures" style="display: none;">
+                <li>
+                    <a href="#pageSubmenu2" data-toggle="collapse" aria-expanded="false" class="dropdown-toggle">
+                        -
+                        Curriculum
+                    </a>
+                    <ul class="collapse list-unstyled" id="pageSubmenu2">
+                        <li>
+                            <a href="/gui/curriculum/CurHomepage.aspx">+ Search</a>
+                        </li>
+                        <li>
+                            <a href="/gui/curriculum/AddCurri.aspx">+ Add New Curriculum</a>
+                        </li>
+                        <li>
+                            <a href="/gui/PLO/AddPLO.aspx">+ Add New PLO</a>
+                        </li>
+                        
+                        <li>
+                            <a href="/gui/curriculum/CurSubHomepage.aspx">+ Curriculum Subjects Management</a>
+                            
+                            
+                        </li><li>
+                            <a href="/gui/assignedCurriculum/AssignCurriculumManagement.aspx">
+                                + Assign Curriculum
+                                Management
+                            </a>
+                        </li>
+                    </ul>
+                </li>
+                <li>
+                    <a href="#pageSubmenu3" data-toggle="collapse" aria-expanded="false" class="dropdown-toggle">
+                        -
+                        Curriculum Subject
+                    </a>
+                    <ul class="collapse list-unstyled" id="pageSubmenu3">
+                        <li>
+                            <a href="/gui/curriculum/CurSubHomepage.aspx">+ Manage</a>
+                        </li>
+                        <li>
+                            <a href="/gui/curriculum/AddCurri.aspx">+ Add Curriculum</a>
+                        </li>
+                    </ul>
+                </li>
+                <li>
+                    <a href="#pageSubmenu4" data-toggle="collapse" aria-expanded="false" class="dropdown-toggle">
+                        -
+                        Syllabus
+                    </a>
+                    <ul class="collapse list-unstyled" id="pageSubmenu4">
+                        <li>
+                            <a href="/gui/syllabus/SyllabusManagement.aspx">+ Search</a>
+                        </li>
+                        <li>
+                            <a href="/gui/assignedSyllabus/AssignedSyllabusManagement">
+                                + Assigned Syllabus
+                                Management
+                            </a>
+                        </li>
+                        <li>
+                            <a id="hpImportSyl" href="/gui/syllabus/ImportSyllabus.aspx">
+                                + Import syllabus from Excel
+                                file
+                            </a>
+                        </li>
+                    </ul>
+                </li>
+                <li>
+                    <a href="#pageSubmenu5" data-toggle="collapse" aria-expanded="false" class="dropdown-toggle">
+                        -
+                        Required Knowledge and Skills
+                    </a>
+                    <ul class="collapse list-unstyled" id="pageSubmenu5">
+                        <li>
+                            <a href="/gui/subjectGroup/SubCurGroupManagement.aspx">+ Curriculum Subject Grouping</a>
+                        </li>
+                        <li>
+                            <a id="HyperLink2" href="/gui/subjectGroup/SubjectGroupManagent.aspx">
+                                + Subject Group
+                                Management
+                            </a>
+                        </li>
+                    </ul>
+                </li>
+                <li>
+                    <a href="#pageSubmenu6" data-toggle="collapse" aria-expanded="false" class="dropdown-toggle">
+                        -
+                        Assessment Type
+                    </a>
+                    <ul class="collapse list-unstyled" id="pageSubmenu6">
+                        <li>
+                            <a href="/gui/assessmentType/AssessmentTypeHomepage.aspx">+ Manage</a>
+                        </li>
+                        <li>
+                            <a id="hpLinkAddAst" href="/gui/assessmentType/AddAst.aspx">+ Add New Assessment Type</a>
+                        </li>
+                    </ul>
+                </li>
+                <li>
+                    <a href="#pageSubmenu7" data-toggle="collapse" aria-expanded="false" class="dropdown-toggle">
+                        -
+                        Subject
+                    </a>
+                    <ul class="collapse list-unstyled" id="pageSubmenu7">
+                        <li>
+                            <a href="/gui/subject/SubjectHomepage.aspx">+ Manage</a>
+                        </li>
+                        <li>
+                            <a id="hpLinkAddSub" href="/gui/subject/AddSub.aspx">+ Add New Subject</a>
+                        </li>
+                        <li>
+                            <a id="hpLinkImportSub" href="/gui/subject/ImportSubject.aspx">+ Import Subjects</a>
+                        </li>
+                    </ul>
+                </li>
+                <li>
+                    <a href="#pageSubmenu8" data-toggle="collapse" aria-expanded="false" class="dropdown-toggle">
+                        -
+                        User
+                    </a>
+                    <ul class="collapse list-unstyled" id="pageSubmenu8">
+                        <li>
+                            <a href="/gui/user/UserManagement.aspx">+ Search</a>
+                        </li>
+                        <li>
+                            <a id="hpLinkAddUser" href="/gui/user/AddUser.aspx">+ Add New User</a>
+                        </li>
+                    </ul>
+                </li>
+                <li>
+                    <a href="#pageSubmenu9" data-toggle="collapse" aria-expanded="false" class="dropdown-toggle">
+                        -
+                        Tools
+                    </a>
+                    <ul class="collapse list-unstyled" id="pageSubmenu9">
+                        <li>
+                            <a id="HyperLink3" href="/gui/tool/UpdateCurWithNewSyl.aspx">
+                                + Update curriculums with new
+                                syllabus version
+                            </a>
+                        </li>
+                        <li>
+                            <a id="HyperLink4" href="/gui/tool/SubjectReporting.aspx">+ Subject Reporting</a>
+                        </li>
+                        <li>
+                            <a id="hpExportTextBookToOrder" href="/gui/tool/ExportTextbookToOrder.aspx">
+                                + Export
+                                Textbook to Order
+                            </a>
+                        </li>
+                        <li>
+                            <a id="HyperLink6" href="/gui/tool/ExportGradingStructure.aspx">
+                                + Export Grading
+                                Structure
+                            </a>
+                        </li>
+                        <li>
+                            <a id="HyperLink7" href="/gui/tool/ExportMaterialsOfCur.aspx">
+                                + Export Materials of
+                                Curriculum
+                            </a>
+                        </li>
+                        <li>
+                            <a id="hpSyllabusReporting" href="/gui/tool/SyllabusReporting.aspx">
+                                + Syllabus
+                                Reporting
+                            </a>
+                        </li>
+                        <li>
+                            <a id="hpCurriculumReporting" href="/gui/tool/CurriculumReporting.aspx">
+                                + Curriculum
+                                Reporting
+                            </a>
+                        </li>
+                        <li>
+                            <a id="hpMaterialReporting" href="/gui/tool/MaterialReporting.aspx">
+                                + Material
+                                Reporting
+                            </a>
+                        </li>
+                        <li>
+                            <a id="hpLOReporting" href="/gui/tool/LOReporting.aspx">+ CLO Reporting</a>
+                        </li>
+                        <li>
+                            <a id="hpScheduleReporting" href="/gui/tool/ScheduleReporting.aspx">
+                                + Schedule
+                                Reporting
+                            </a>
+                        </li>
+                        <li>
+                            <a id="hpFinalCheck" href="/gui/tool/FinalCheck.aspx">+ Final Check</a>
+                        </li>
+                    </ul>
+                </li>
+                <li>
+                    <a href="#pageSubmenu10" data-toggle="collapse" aria-expanded="false" class="dropdown-toggle">
+                        -
+                        Campus
+                    </a>
+                    <ul class="collapse list-unstyled" id="pageSubmenu10">
+                        <li>
+                            <a href="/gui/campus/CampusManagement.aspx">+ Manage</a>
+                        </li>
+                        <li>
+                            <a id="hpLinkAddCampus" cssclass="auto-style-1" href="/gui/campus/AddCampus.aspx">
+                                + Add New
+                                Campus
+                            </a>
+                        </li>
+                    </ul>
+                </li>
+                <li>
+                    <a href="/gui/reportSemester/DownloadReportFile.aspx">- Download report file</a>
+                </li>
+                <li>
+                    <a href="/gui/tool/CurriculumOfSubject.aspx">- Show Curriculum of a Subject</a>
+                </li>
+                <li>
+                    <a href="/gui/tool/AllPrequisiteSubject.aspx">- Show Learning Path of a Subject</a>
+                </li>
+                <li>
+                    <a href="/gui/tool/AllCorollarySubject.aspx">- A subject is the pre-requisite of</a>
+                </li>
+                <li>
+                    <a href="#pageSubmenu11" data-toggle="collapse" aria-expanded="false" class="dropdown-toggle">
+                        -
+                        Decision
+                    </a>
+                    <ul class="collapse list-unstyled" id="pageSubmenu11">
+                        <li>
+                            <a href="/decision">+ Manage</a>
+                        </li>
+                        <li>
+                            <a href="/decision/Create">+ Add New Campus</a>
+                        </li>
+                        <li>
+                            <a href="/decision/ImportDecision">+ Import Decision from Excel file</a>
+
+                        </li>
+                        
+                        
+                        
+                    </ul>
+                </li>
+                <li>
+                    <a href="#pageSubmenu12" data-toggle="collapse" aria-expanded="false" class="dropdown-toggle">
+                        -
+                        Learning &amp; Teaching method
+                    </a>
+                    <ul class="collapse list-unstyled" id="pageSubmenu12">
+                        <li>
+                            <a href="/LTMethod">+ Manage</a>
+                        </li>
+                        <li>
+                            <a href="/LTMethod/Create">+ Add New Learnig &amp; Teaching method</a>
+                        </li>
+
+
+                    </ul>
+                </li>
+                <li>
+                    <a href="#pageSubmenu13" data-toggle="collapse" aria-expanded="false" class="dropdown-toggle">
+                        -
+                        SemesterPlan
+                    </a>
+                    <ul class="collapse list-unstyled" id="pageSubmenu13">
+                        <li>
+                            <a href="/SemesterPlans">+ Manage</a>
+                        </li>
+                        <li>
+                            <a href="/SemesterPlans/Create">+ Add new SemesterPlans</a>
+                        </li>
+
+                    </ul>
+                </li>
+                <li>
+                    <a href="/syllabusPlan">- Syllabus Plans Management</a>
+                </li>
+                <li>
+                    <a href="/CurriculumPlan">- Curriculum Plans Management</a>
+                </li>
+
+
+            </ul>
+            <ul class="lisst-unstyled components p-0" id="panelStaffFeatures" style="display: none;">
+                <li>
+                    <a href="#pageSubmenu14" data-toggle="collapse" aria-expanded="false" class="dropdown-toggle">
+                        -
+                        Curriculum
+                    </a>
+                    <ul class="collapse list-unstyled" id="pageSubmenu14">
+                        <li>
+                            <a href="/gui/curriculum/CurHomepage.aspx">+ Search</a>
+                        </li>
+                        <li>
+                            <a href="/gui/curriculum/AddCurri.aspx">+ Add New Curriculum</a>
+                        </li>
+                        <li>
+                            <a href="/gui/PLO/AddPLO.aspx">+ Add New PLO</a>
+                        </li>
+                        
+                        <li visible="False" runat="server">
+                            <a href="/gui/assignedCurriculum/MyCurriculums.aspx">+ My Curriculums</a>
+                        </li>
+                        <li>
+                            <a href="/gui/curriculum/CurSubHomepage.aspx">+ Curriculum Subjects Management</a>
+                        </li>
+                        <li>
+                            <a href="/gui/assignedCurriculum/AssignCurriculumManagement.aspx">
+                                + Assign Curriculum
+                                Management
+                            </a>
+                        </li>
+                    </ul>
+                </li>
+                <li>
+                    <a href="#pageSubmenu15" data-toggle="collapse" aria-expanded="false" class="dropdown-toggle">
+                        -
+                        Curriculum Subject
+                    </a>
+                    <ul class="collapse list-unstyled" id="pageSubmenu15">
+                        <li>
+                            <a href="/gui/curriculum/CurSubHomepage.aspx">+ Manage</a>
+                        </li>
+                        <li>
+                            <a href="/gui/curriculum/AddCurri.aspx">+ Add Curriculum</a>
+                        </li>
+                    </ul>
+                </li>
+                <li>
+                    <a href="#pageSubmenu16" data-toggle="collapse" aria-expanded="false" class="dropdown-toggle">
+                        -
+                        Syllabus
+                    </a>
+                    <ul class="collapse list-unstyled" id="pageSubmenu16">
+                        <li>
+                            <a href="/gui/syllabus/SyllabusManagement.aspx">+ Search</a>
+                        </li>
+                        <li>
+                            <a href="/gui/assignedSyllabus/AssignedSyllabusManagement">
+                                + Assigned Syllabus
+                                Management
+                            </a>
+                        </li>
+                        <li>
+                            <a id="HyperLink1" href="/gui/syllabus/ImportSyllabus.aspx">
+                                + Import syllabus from Excel
+                                file
+                            </a>
+                        </li>
+                    </ul>
+                </li>
+                <li>
+                    <a href="#pageSubmenu17" data-toggle="collapse" aria-expanded="false" class="dropdown-toggle">
+                        -
+                        Required Knowledge and Skills
+                    </a>
+                    <ul class="collapse list-unstyled" id="pageSubmenu17">
+                        <li>
+                            <a href="/gui/subjectGroup/SubCurGroupManagement.aspx">+ Curriculum Subject Grouping</a>
+                        </li>
+                        <li>
+                            <a id="HyperLink5" href="/gui/subjectGroup/SubjectGroupManagent.aspx">
+                                + Subject Group
+                                Management
+                            </a>
+                        </li>
+                    </ul>
+                </li>
+                <li>
+                    <a href="#pageSubmenu18" data-toggle="collapse" aria-expanded="false" class="dropdown-toggle">
+                        -
+                        Assessment Type
+                    </a>
+                    <ul class="collapse list-unstyled" id="pageSubmenu18">
+                        <li>
+                            <a href="/gui/assessmentType/AssessmentTypeHomepage.aspx">+ Manage</a>
+                        </li>
+                        <li>
+                            <a id="HyperLink8" href="/gui/assessmentType/AddAst.aspx">+ Add New Assessment Type</a>
+                        </li>
+                    </ul>
+                </li>
+                <li>
+                    <a href="#pageSubmenu19" data-toggle="collapse" aria-expanded="false" class="dropdown-toggle">
+                        -
+                        Subject
+                    </a>
+                    <ul class="collapse list-unstyled" id="pageSubmenu19">
+                        <li>
+                            <a href="/gui/subject/SubjectHomepage.aspx">+ Manage</a>
+                        </li>
+                        <li>
+                            <a id="HyperLink9" href="/gui/subject/AddSub.aspx">+ Add New Subject</a>
+                        </li>
+                        <li>
+                            <a id="HyperLink10" href="/gui/subject/ImportSubject.aspx">+ Import Subjects</a>
+                        </li>
+                    </ul>
+                </li>
+
+                <li>
+                    <a href="#pageSubmenu20" data-toggle="collapse" aria-expanded="false" class="dropdown-toggle">
+                        -
+                        Tools
+                    </a>
+                    <ul class="collapse list-unstyled" id="pageSubmenu20">
+                        <li>
+                            <a href="/gui/tool/AllTools.aspx">+ Manage</a>
+                        </li>
+                        <li>
+                            <a id="HyperLink12" href="/gui/tool/UpdateCurWithNewSyl.aspx">
+                                + Update curriculums with new
+                                syllabus version
+                            </a>
+                        </li>
+                        <li>
+                            <a id="HyperLink13" href="/gui/tool/SubjectReporting.aspx">+ Subject Reporting</a>
+                        </li>
+                        <li>
+                            <a id="HyperLink14" href="/gui/tool/ExportTextbookToOrder.aspx">
+                                + Export Textbook to
+                                Order
+                            </a>
+                        </li>
+                        <li>
+                            <a id="HyperLink15" href="/gui/tool/ExportGradingStructure.aspx">
+                                + Export Grading
+                                Structure
+                            </a>
+                        </li>
+                        <li>
+                            <a id="HyperLink16" href="/gui/tool/ExportMaterialsOfCur.aspx">
+                                + Export Materials of
+                                Curriculum
+                            </a>
+                        </li>
+                        <li>
+                            <a id="HyperLink17" href="/gui/tool/SyllabusReporting.aspx">+ Syllabus Reporting</a>
+                        </li>
+                        <li>
+                            <a id="HyperLink18" href="/gui/tool/CurriculumReporting.aspx">+ Curriculum Reporting</a>
+                        </li>
+                        <li>
+                            <a id="HyperLink19" href="/gui/tool/MaterialReporting.aspx">+ Material Reporting</a>
+                        </li>
+                        <li>
+                            <a id="HyperLink20" href="/gui/tool/LOReporting.aspx">+ CLO Reporting</a>
+                        </li>
+                        <li>
+                            <a id="HyperLink21" href="/gui/tool/ScheduleReporting.aspx">+ Schedule Reporting</a>
+                        </li>
+                        <li>
+                            <a id="HyperLink22" href="/gui/tool/FinalCheck.aspx">+ Final Check</a>
+                        </li>
+                    </ul>
+                </li>
+
+                <li>
+                    <a href="/gui/reportSemester/DownloadReportFile.aspx">- Download report file</a>
+                </li>
+                <li>
+                    <a href="/gui/tool/CurriculumOfSubject.aspx">- Show Curriculum of a Subject</a>
+                </li>
+                <li>
+                    <a href="/gui/tool/AllPrequisiteSubject.aspx">- Show Learning Path of a Subject</a>
+                </li>
+                <li>
+                    <a href="/gui/tool/AllCorollarySubject.aspx">- A subject is the pre-requisite of</a>
+                </li>
+                <li>
+                    <a href="#pageSubmenu21" data-toggle="collapse" aria-expanded="false" class="dropdown-toggle">
+                        -
+                        Decision
+                    </a>
+                    <ul class="collapse list-unstyled" id="pageSubmenu21">
+                        <li>
+                            <a href="/decision">+ Manage</a>
+                        </li>
+                        <li>
+                            <a href="/decision/Create">+ Add New Campus</a>
+                        </li>
+                        <li>
+                            <a href="/decision/ImportDecision">+ Import Decision from Excel file</a>
+
+                        </li>
+                        
+                        
+                        
+                    </ul>
+                </li>
+                <li>
+                    <a href="#pageSubmenu22" data-toggle="collapse" aria-expanded="false" class="dropdown-toggle">
+                        -
+                        Learning &amp; Teaching method
+                    </a>
+                    <ul class="collapse list-unstyled" id="pageSubmenu22">
+                        <li>
+                            <a href="/LTMethod">+ Manage</a>
+                        </li>
+                        <li>
+                            <a href="/LTMethod/Create">+ Add New Learnig &amp; Teaching Method</a>
+                        </li>
+
+
+                    </ul>
+                </li>
+                <li>
+                    <a href="#pageSubmenu23" data-toggle="collapse" aria-expanded="false" class="dropdown-toggle">
+                        -
+                        SemesterPlan
+                    </a>
+                    <ul class="collapse list-unstyled" id="pageSubmenu23">
+                        <li>
+                            <a href="/SemesterPlans">+ Manage</a>
+                        </li>
+                        <li>
+                            <a href="/SemesterPlans/Create">+ Add new SemesterPlans</a>
+                        </li>
+
+                    </ul>
+                </li>
+                <li>
+                    <a href="/Template/Guideline_Using_FLM_ver2.0.pdf" target="_blank">- View FLM guideline</a>
+                </li>
+            </ul>
+        </nav>
+        <div id="content" class="p-2">
+
+            <div class="mx-3">
+                
+
+<style type="text/css">
+    .auto-style2 {
+        width: 155px;
+    }
+
+    .auto-style3 {
+        width: 155px;
+        height: 24px;
+    }
+
+    #gvSubs,
+    #table-detail,
+    #gvMaterial,
+    #gvLO,
+    #gvSchedule,
+    #gvAssessment,
+    #gvCQ {
+        border: 1px solid rgba(0, 0, 0, .05);
+    }
+
+    #gvSubs th,
+    #gvMaterial th,
+    #gvLO th,
+    #gvSchedule th,
+    #gvAssessment th,
+    #gvCQ th {
+        font-weight: bold;
+        background-color: #F2994A;
+        color: white;
+    }
+
+    .table-detail tr td {
+        padding: 6px 10px 6px 10px;
+    }
+</style>
+
+<div>
+    <h1 class="mb-4">Syllabus Details</h1>
+
+
+        <table id="table-detail" class="tbl-detail" cellspacing="0" rules="all" border="1" style="border-collapse: collapse; width: 100%;">
+            <tbody><tr>
+                <td class="auto-style2" align="right" style="text-align: right;">Syllabus ID:</td>
+                <td>13756</td>
+            </tr>
+            <tr>
+                <td class="auto-style3" align="right" style="text-align: right;">Syllabus Name:</td>
+                <td><b>Advanced English Grammar_Ngữ pháp tiếng Anh nâng cao</b></td>
+            </tr>
+            <tr>
+                <td class="auto-style3 text-right">Course Name English:</td>
+                <td><b>Advanced English Grammar</b></td>
+            </tr>
+            <tr>
+                <td class="auto-style2" align="right" style="text-align: right;">Subject Code:</td>
+                <td><b>ENG303</b></td>
+            </tr>
+            <tr>
+                <td class="auto-style2" align="right" style="text-align: right;">Learning-Teaching Method:</td>
+                <td>Offline</td>
+            </tr>
+            <tr>
+                <td class="auto-style2" align="right" style="text-align: right;">NoCredit:</td>
+                <td>3</td>
+            </tr>
+            <tr>
+                <td class="auto-style2" align="right" style="text-align: right;">Degree Level:</td>
+                <td>Bachelor</td>
+            </tr>
+            <tr>
+                <td class="auto-style2" align="right" style="text-align: right;">Time Allocation:</td>
+                <td>Study hour (150h) = 45 contact hours (60 sessions) + 104 hours of self-study + 1 hour for the final exam <br>1 session = 45 minutes</td>
+            </tr>
+            <tr>
+                <td class="auto-style2" align="right" style="text-align: right;">Pre-Requisite:</td>
+                <td>None</td>
+            </tr>
+            <tr>
+                <td class="auto-style2" align="right" style="text-align: right;">Description:</td>
+                <td>The course is designed to consolidate and enhance students' grammatical knowledge. It aims to achieve this by giving learners exposure to grammar as it is used in real life situations, offering them comprehensive explanations for grammatical forms and meanings, providing contextualized practice of various structures, and developing their use of such structures as well as their critical thinking skills through communicative activities. Students will also be informed of how to recognize common grammatical errors in their written work and encouraged to apply learned grammar in writing. Utilizing a flipped classroom approach, they will engage with core grammar concepts and materials independently before class sessions. They are also encouraged to leverage AI tools as resources to support their grammar learning, practice, and writing processes.</td>
+            </tr>
+            <tr>
+                <td class="auto-style2" align="right" style="text-align: right;">StudentTasks:</td>
+                <td>- Students must attend more than 80% of contact slots in order to be accepted to the final examination.<br>- Students are responsible to do all exercises and assignments given by instructor in class or at home and submit on time<br>- Use laptops in class only for learning purposes</td>
+            </tr>
+            <tr>
+                <td class="auto-style2" align="right" style="text-align: right;">Tools:</td>
+                <td>- Internet<br>- Coursebook<br>- AI tools</td>
+            </tr>
+                <tr>
+                    <td class="auto-style2" align="right" style="text-align: right;">Scoring Scale:</td>
+                    <td>10</td>
+        </tr>
+            <tr>
+                <td class="auto-style2" align="right" style="text-align: right;">DecisionNo MM/dd/yyyy:</td>
+                <td>1318/QĐ-ĐHFPT dated 11/27/2025</td>
+            </tr>
+            <tr>
+                <td class="auto-style2" align="right" style="text-align: right;">IsApproved:</td>
+                <td><b>True</b></td>
+            </tr>
+            <tr>
+                <td class="auto-style2" align="right" style="text-align: right;">Note:</td>
+                <td>Progress marks:<br>- 02 Mini Projects: 30%  <br>- 03 Progress tests: 30%<br>Final exam: 40%<br>Conditions to pass: <br>Each on-going assessment's component's mark: &gt;=3/10<br>Each progress tests' components' mark &gt;0<br>Each final exam's components' mark &gt;0<br>Final exam's mark: &gt;=4/10<br>Grade average &gt;=5/10</td>
+            </tr>
+            <tr>
+                <td class="auto-style2" align="right" style="text-align: right;">Is Scored:</td>
+                <td><b>True</b></td>
+            </tr>
+                <tr>
+                    <td class="auto-style3" align="right" style="text-align: right;">MinAvgMarkToPass:
+                    </td>
+                    <td>
+                        5
+            </td>
+        </tr>
+            <tr>
+                <td class="auto-style3" align="right" style="text-align: right;">IsActive:</td>
+                <td>True</td>
+            </tr>
+            <tr>
+                <td class="auto-style2" align="right" style="text-align: right;">ApprovedDate:</td>
+                <td>11/27/2025</td>
+            </tr>
+        </tbody></table>
+        <br>
+        <!-- Materials Section -->
+        <label style="color: #23ac68;">4 material(s)</label>
+        <br>
+            <table id="gvMaterial" class="table table-striped tbl-data">
+                <thead>
+                    <tr>
+                        <th style="width: 3%; text-align: center;">No.</th>
+                        <th>Material Description</th>
+                        <th>Author</th>
+                        <th>Publisher</th>
+                        <th>Published Date</th>
+                        <th>Edition</th>
+                        <th>ISBN</th>
+                        <th>Is Main Material</th>
+                        <th>Is Hard Copy</th>
+                        <th>Is Online</th>
+                        <th>Note</th>
+                    </tr>
+                </thead>
+                <tbody>
+                        <tr>
+                            <td style="text-align: center;">1</td>
+                            <td>Focus on Grammar 5</td>
+                            <td>Jay Maurer</td>
+                            <td>Pearson</td>
+                            <td>2016</td>
+                            <td>5th</td>
+                            <td>9780134583310                                                                                       </td>
+                            <td>True</td>
+                            <td>True</td>
+                            <td>False</td>
+                            <td></td>
+                        </tr>
+                        <tr>
+                            <td style="text-align: center;">2</td>
+                            <td>Grammar and Vocabulary for Advanced</td>
+                            <td>Martin Hewings, Simon Haines</td>
+                            <td>Cambridge University Press</td>
+                            <td>2015</td>
+                            <td>1st</td>
+                            <td>                                                                                                    </td>
+                            <td>False</td>
+                            <td>True</td>
+                            <td>False</td>
+                            <td></td>
+                        </tr>
+                        <tr>
+                            <td style="text-align: center;">3</td>
+                            <td>Longman Academic Writing Series 4: Essays</td>
+                            <td>Alice Oshima, Ann Hogue</td>
+                            <td>Pearson</td>
+                            <td>2014</td>
+                            <td>5th</td>
+                            <td>                                                                                                    </td>
+                            <td>False</td>
+                            <td>True</td>
+                            <td>False</td>
+                            <td></td>
+                        </tr>
+                        <tr>
+                            <td style="text-align: center;">4</td>
+                            <td>MyGrammarLab Advanced C1-C2</td>
+                            <td>Mark Foley, Diane Hall</td>
+                            <td>Pearson</td>
+                            <td>2012</td>
+                            <td>1st</td>
+                            <td>                                                                                                    </td>
+                            <td>False</td>
+                            <td>True</td>
+                            <td>False</td>
+                            <td></td>
+                        </tr>
+                </tbody>
+            </table>
+        <br>
+        <!-- LOs Section -->
+        <label style="color: #23ac68;">5 LO(s)</label>
+            <table id="gvLO" class="table table-striped tbl-data">
+                <thead>
+                    <tr>
+                        <th style="width: 3%; text-align: center;">No.</th>
+                        <th style="width: 5%;">CLO Name</th>
+                        <th>CLO Details</th>
+                    </tr>
+                </thead>
+                <tbody>
+                        <tr>
+                            <td style="text-align: center;">1</td>
+                            <td>CLO1</td>
+                            <td>Analyze how grammar is used in many contexts from a variety of reading and listening texts</td>
+                        </tr>
+                        <tr>
+                            <td style="text-align: center;">2</td>
+                            <td>CLO2</td>
+                            <td>Assess whether structures being used are appropriate for written and spoken communication</td>
+                        </tr>
+                        <tr>
+                            <td style="text-align: center;">3</td>
+                            <td>CLO3</td>
+                            <td>Compose grammatically accurate spoken and written texts of different topics
+
+CLO3.1: Recall basic and advanced structures of English and their meanings
+CLO3.2: Identify and correct common grammatical errors in both written and spoken English
+CLO3.3: Explain how and why basic and advanced structures of English are used in different contexts</td>
+                        </tr>
+                        <tr>
+                            <td style="text-align: center;">4</td>
+                            <td>CLO4</td>
+                            <td>Proactively collaborate with peers for group work and problem-solving</td>
+                        </tr>
+                        <tr>
+                            <td style="text-align: center;">5</td>
+                            <td>CLO5</td>
+                            <td>Critically and ethically use AI tools to support grammar learning.</td>
+                        </tr>
+                </tbody>
+            </table>
+        <a href="/CLOMapping/View?syllabusID=13756" target="_blank">View mapping of CLOs to PLOs</a>
+        <br>
+        <br>
+        <!-- Download Buttons & Schedule Section (student: no teacher materials / T-download) -->
+        <button class="margin-bot-10 btn btn-primary btn-blue ml-1 fs-inherit" id="btnDownloadAllStudentMaterial">
+            Download All Student Material
+        </button>
+        <label style="color: #23ac68;">
+        </label>
+            <table id="gvSchedule" class="auto-style2 table table-striped tbl-data" style="width: 100%;">
+                <thead>
+                    <tr>
+                        <th>Session</th>
+                        <th>Topic</th>
+                        <th>Learning-Teaching Type</th>
+                        <th>LO</th>
+                        <th>ITU</th>
+                        <th>Student Materials</th>
+                        <th>S-Download</th>
+                        <th>Student's Tasks</th>
+                        <th>URLs</th>
+                    </tr>
+                </thead>
+                <tbody>
+                        <tr>
+                            <td>1</td>
+                            <td>Course Introduction<br>Introduction to Projects<br>Unit 10: Count and Non-Count Nouns - Health<br>Step 1: Grammar in Context<br>Step 2: Grammar Presentation<br>Step 3: Focused Practice</td>
+                            <td>Offline</td>
+                            <td>CLO1, CLO3</td>
+                            <td>ITU</td>
+                            <td class="product">Further reading/exercises:<br>Focus on Grammar 5 (5th Ed.): Unit 10 Review<br>Grammar and Vocabulary for Advanced (1st Ed.): Unit 5: Nouns, Agreement, and Articles<br>MyGrammarLab Advanced C1-C2 (1st Ed.): Module 1: Nouns, Possessives, and Pronouns</td>
+                            <td>
+                                        <a href="https://drive.google.com/drive/folders/1yRghGhKYhj6uzZqj8cSHBwDo9GHAuNQy?usp=sharing" class="ContainSLink" target="_blank" rel="noopener" noreferrer="">link1-1</a>
+
+                            </td>
+                            <td>Borrow the textbook from the library<br>Form groups for the projects<br>Read Step 2: Grammar Presentation before attending the lesson<br>Actively participate in pair/group work, class discussions, and any other classroom activities<br>Do any exercises given by the lecturer before attending the session</td>
+                            <td>
+                            </td>
+                        </tr>
+                        <tr>
+                            <td>2</td>
+                            <td>Unit 10: Count and Non-Count Nouns - Health<br>Step 4: Communication Practice</td>
+                            <td>Offline</td>
+                            <td>CLO1, CLO2, CLO3</td>
+                            <td>TU</td>
+                            <td class="product">Further reading/exercises:<br>Focus on Grammar 5 (5th Ed.): Unit 10 Review<br>Grammar and Vocabulary for Advanced (1st Ed.): Unit 5: Nouns, Agreement, and Articles<br>MyGrammarLab Advanced C1-C2 (1st Ed.): Module 1: Nouns, Possessives, and Pronouns</td>
+                            <td>
+
+                            </td>
+                            <td>Actively participate in pair/group work, class discussions, and any other classroom activities</td>
+                            <td>
+                            </td>
+                        </tr>
+                        <tr>
+                            <td>3</td>
+                            <td>Unit 10: Count and Non-Count Nouns - Health<br>From Grammar to Writing</td>
+                            <td>Offline</td>
+                            <td>CLO2, CLO3</td>
+                            <td>TU</td>
+                            <td class="product">Further reading/exercises:<br>Focus on Grammar 5 (5th Ed.): Unit 10 Review<br>Grammar and Vocabulary for Advanced (1st Ed.): Unit 5: Nouns, Agreement, and Articles<br>MyGrammarLab Advanced C1-C2 (1st Ed.): Module 1: Nouns, Possessives, and Pronouns</td>
+                            <td>
+
+                            </td>
+                            <td>Actively participate in pair/group work, class discussions, and any other classroom activities</td>
+                            <td>
+                            </td>
+                        </tr>
+                        <tr>
+                            <td>4</td>
+                            <td>Unit 11: Definite and Indefinite Articles - Disappearing Species<br>Step 1: Grammar in Context<br>Step 2: Grammar Presentation<br>Step 3: Focused Practice</td>
+                            <td>Offline</td>
+                            <td>CLO1, CLO3, CLO5</td>
+                            <td>TU</td>
+                            <td class="product">Further reading/exercises:<br>Focus on Grammar 5 (5th Ed.): Unit 11 Review<br>Grammar and Vocabulary for Advanced (1st Ed.): Unit 5: Nouns, Agreement, and Articles; Unit 6: Determiners and Quatifiers<br>MyGrammarLab Advanced C1-C2 (1st Ed.): Unit 6: Articles</td>
+                            <td>
+
+                            </td>
+                            <td>Read Step 2: Grammar Presentation before attending the lesson<br>Review previous lessons <br>Actively participate in pair/group work, class discussions, and any other classroom activities<br>Do any exercises given by the lecturer before attending the session</td>
+                            <td>
+                            </td>
+                        </tr>
+                        <tr>
+                            <td>5</td>
+                            <td>Unit 11: Definite and Indefinite Articles - Disappearing Species<br>Step 4: Communication Practice</td>
+                            <td>Offline</td>
+                            <td>CLO1, CLO2, CLO3</td>
+                            <td>TU</td>
+                            <td class="product">Further reading/exercises:<br>Focus on Grammar 5 (5th Ed.): Unit 11 Review<br>Grammar and Vocabulary for Advanced (1st Ed.): Unit 5: Nouns, Agreement, and Articles<br>MyGrammarLab Advanced C1-C2 (1st Ed.): Unit 6: Articles</td>
+                            <td>
+
+                            </td>
+                            <td>Actively participate in pair/group work, class discussions, and any other classroom activities</td>
+                            <td>
+                            </td>
+                        </tr>
+                        <tr>
+                            <td>6</td>
+                            <td>Unit 11: Definite and Indefinite Articles - Disappearing Species<br>From Grammar to Writing</td>
+                            <td>Offline</td>
+                            <td>CLO2, CLO3</td>
+                            <td>TU</td>
+                            <td class="product">Further reading/exercises:<br>Focus on Grammar 5 (5th Ed.): Unit 11 Review<br>Grammar and Vocabulary for Advanced (1st Ed.): Unit 5: Nouns, Agreement, and Articles<br>MyGrammarLab Advanced C1-C2 (1st Ed.): Unit 6: Articles</td>
+                            <td>
+
+                            </td>
+                            <td>Actively participate in pair/group work, class discussions, and any other classroom activities</td>
+                            <td>
+                            </td>
+                        </tr>
+                        <tr>
+                            <td>7</td>
+                            <td>Unit 12: Quantifiers - Study Skills<br>Step 1: Grammar in Context<br>Step 2: Grammar Presentation<br>Step 3: Focused Practice</td>
+                            <td>Offline</td>
+                            <td>CLO1, CLO3, CLO5</td>
+                            <td>TU</td>
+                            <td class="product">Further reading/exercises:<br>Focus on Grammar 5 (5th Ed.): Unit 12 Review<br>Grammar and Vocabulary for Advanced (1st Ed.): Unit 6: Determiners and Quantifiers<br>MyGrammarLab Advanced C1-C2 (1st Ed.): Unit 8: Quantifiers and Demonstratives</td>
+                            <td>
+
+                            </td>
+                            <td>Read Step 2: Grammar Presentation before attending the lesson<br>Review previous lessons <br>Actively participate in pair/group work, class discussions, and any other classroom activities<br>Do any exercises given by the lecturer before attending the session</td>
+                            <td>
+                            </td>
+                        </tr>
+                        <tr>
+                            <td>8</td>
+                            <td>Unit 12: Quantifiers - Study Skills<br>Step 4: Communication Practice</td>
+                            <td>Offline</td>
+                            <td>CLO1, CLO2, CLO3</td>
+                            <td>TU</td>
+                            <td class="product">Further reading/exercises:<br>Focus on Grammar 5 (5th Ed.): Unit 12 Review<br>Grammar and Vocabulary for Advanced (1st Ed.): Unit 6: Determiners and Quantifiers<br>MyGrammarLab Advanced C1-C2 (1st Ed.): Unit 8: Quantifiers and Demonstratives</td>
+                            <td>
+
+                            </td>
+                            <td>Actively participate in pair/group work, class discussions, and any other classroom activities</td>
+                            <td>
+                            </td>
+                        </tr>
+                        <tr>
+                            <td>9</td>
+                            <td>Unit 12: Quantifiers - Study Skills<br>From Grammar to Writing</td>
+                            <td>Offline</td>
+                            <td>CLO2, CLO3</td>
+                            <td>TU</td>
+                            <td class="product">Further reading/exercises:<br>Focus on Grammar 5 (5th Ed.): Unit 12 Review<br>Grammar and Vocabulary for Advanced (1st Ed.): Unit 6: Determiners and Quantifiers<br>MyGrammarLab Advanced C1-C2 (1st Ed.): Unit 8: Quantifiers and Demonstratives</td>
+                            <td>
+
+                            </td>
+                            <td>Actively participate in pair/group work, class discussions, and any other classroom activities</td>
+                            <td>
+                            </td>
+                        </tr>
+                        <tr>
+                            <td>10</td>
+                            <td>Unit 13: Modification of Nouns - Expectations<br>Step 1: Grammar in Context<br>Step 2: Grammar Presentation<br>Step 3: Focused Practice</td>
+                            <td>Offline</td>
+                            <td>CLO1, CLO3, CLO5</td>
+                            <td>TU</td>
+                            <td class="product">Further reading/exercises:<br>Focus on Grammar 5 (5th Ed.): Unit 13 Review<br>MyGrammarLab Advanced C1-C2 (1st Ed.): Unit 12: Adjective Patterns, Unit 13: Groups of Adjectives</td>
+                            <td>
+
+                            </td>
+                            <td>Read Step 2: Grammar Presentation before attending the lesson<br>Review previous lessons <br>Actively participate in pair/group work, class discussions, and any other classroom activities<br>Do any exercises given by the lecturer before attending the session</td>
+                            <td>
+                            </td>
+                        </tr>
+                        <tr>
+                            <td>11</td>
+                            <td>Unit 13: Modification of Nouns - Expectations<br>Step 4: Communication Practice</td>
+                            <td>Offline</td>
+                            <td>CLO1, CLO2, CLO3</td>
+                            <td>TU</td>
+                            <td class="product">Further reading/exercises:<br>Focus on Grammar 5 (5th Ed.): Unit 13 Review<br>MyGrammarLab Advanced C1-C2 (1st Ed.): Unit 12: Adjective Patterns, Unit 13: Groups of Adjectives</td>
+                            <td>
+
+                            </td>
+                            <td>Actively participate in pair/group work, class discussions, and any other classroom activities</td>
+                            <td>
+                            </td>
+                        </tr>
+                        <tr>
+                            <td>12</td>
+                            <td>MILESTONE 1:<br><br>AI-INTEGRATION LEARNING OUTCOME:<br>COMPARE AND CONTRAST AI’S EXPLANATIONS TO ADVANCED GRAMMATICAL STRUCTURES AND EXAMPLES WHEN USING DIFFERENT PROMPTING TECHNIQUES<br><br>Unit 13: Modification of Nouns - Expectations<br>From Grammar to Writing</td>
+                            <td>Offline</td>
+                            <td>CLO2, CLO3</td>
+                            <td>TU</td>
+                            <td class="product">Further reading/exercises:<br>Focus on Grammar 5 (5th Ed.): Unit 13 Review<br>MyGrammarLab Advanced C1-C2 (1st Ed.): Unit 12: Adjective Patterns, Unit 13: Groups of Adjectives</td>
+                            <td>
+
+                            </td>
+                            <td>These activities can be performed throughout Weeks 1–2 so that students can achieve the AI-integration learning outcome by Session 12:<br>- Compare and contrast AI’s explanations to advanced grammatical structures when using different prompting techniques<br>- Compare and contrast AI’s examples when using different prompting techniques<br><br>Suggested prompting techniques for the activities:<br>+ Zero-shot prompting: Give AI a direct, no-example request. <br>+ Few-shot prompting: Provide a few examples within the prompt to guide AI on the desired format or style. <br>+ One-shot prompting: A specific type of few-shot prompting where only one example is given. <br>+ Chain-of-Thought (CoT) prompting: Break down complex problems into smaller, sequential steps to guide the model through a logical process. <br>+ Contextual prompting: Provide extra background information and details to improve AI's understanding.<br><br>Actively participate in pair/group work, class discussions, and any other classroom activities</td>
+                            <td>
+                            </td>
+                        </tr>
+                        <tr>
+                            <td>13</td>
+                            <td>Unit 1 - Present Time - The Digital World<br>Step 1: Grammar in Context<br>Step 2: Grammar Presentation<br>Step 3: Focused Practice</td>
+                            <td>Offline</td>
+                            <td>CLO1, CLO3, CLO4, CLO5</td>
+                            <td>TU</td>
+                            <td class="product">Further reading/exercises:<br>Focus on Grammar 5 (5th Ed.): Unit 1 Review<br>Grammar and Vocabulary for Advanced (1st Ed.): Unit 1: Tenses<br>MyGrammarLab Advanced C1-C2 (1st Ed.): Unit 20: Present Simple or Continuous?, Unit 23: Present Perfect Simple, Unit 24: Present Perfect Continuous</td>
+                            <td>
+
+                            </td>
+                            <td>Read Step 2: Grammar Presentation before attending the lesson<br>Review previous lessons <br>Conduct a peer-teaching session using interactive activities.<br>Actively participate in pair/group work, class discussions, and any other classroom activities<br>Do any exercises given by the lecturer before attending the session</td>
+                            <td>
+                            </td>
+                        </tr>
+                        <tr>
+                            <td>14</td>
+                            <td>Unit 1 - Present Time - The Digital World<br>Step 4: Communication Practice</td>
+                            <td>Offline</td>
+                            <td>CLO1, CLO2, CLO3</td>
+                            <td>TU</td>
+                            <td class="product">Further reading/exercises:<br>Focus on Grammar 5 (5th Ed.): Unit 1 Review<br>Grammar and Vocabulary for Advanced (1st Ed.): Unit 1: Tenses<br>MyGrammarLab Advanced C1-C2 (1st Ed.): Unit 20: Present Simple or Continuous?, Unit 23: Present Perfect Simple, Unit 24: Present Perfect Continuous</td>
+                            <td>
+
+                            </td>
+                            <td>Actively participate in pair/group work, class discussions, and any other classroom activities</td>
+                            <td>
+                            </td>
+                        </tr>
+                        <tr>
+                            <td>15</td>
+                            <td>Unit 1 - Present Time - The Digital World<br>From Grammar to Writing</td>
+                            <td>Offline</td>
+                            <td>CLO2, CLO3</td>
+                            <td>TU</td>
+                            <td class="product">Further reading/exercises:<br>Focus on Grammar 5 (5th Ed.): Unit 1 Review<br>Grammar and Vocabulary for Advanced (1st Ed.): Unit 1: Tenses<br>MyGrammarLab Advanced C1-C2 (1st Ed.): Unit 20: Present Simple or Continuous?, Unit 23: Present Perfect Simple, Unit 24: Present Perfect Continuous</td>
+                            <td>
+
+                            </td>
+                            <td>Actively participate in pair/group work, class discussions, and any other classroom activities</td>
+                            <td>
+                            </td>
+                        </tr>
+                        <tr>
+                            <td>16</td>
+                            <td>Unit 2 - Past Time - Intercultural Marriage<br>Step 1: Grammar in Context<br>Step 2: Grammar Presentation<br>Step 3: Focused Practice</td>
+                            <td>Offline</td>
+                            <td>CLO1, CLO3, CLO4, CLO5</td>
+                            <td>TU</td>
+                            <td class="product">Further reading/exercises:<br>Focus on Grammar 5 (5th Ed.): Unit 2 Review<br>Grammar and Vocabulary for Advanced (1st Ed.): Unit 1: Tenses<br>MyGrammarLab Advanced C1-C2 (1st Ed.): Unit 21: Past Simple and Continuous - Used to and Would; Unit 22: Past Perfect Simple and Continuous</td>
+                            <td>
+
+                            </td>
+                            <td>Read Step 2: Grammar Presentation before attending the lesson<br>Review previous lessons <br>Conduct a peer-teaching session using interactive activities.<br>Actively participate in pair/group work, class discussions, and any other classroom activities<br>Do any exercises given by the lecturer before attending the session</td>
+                            <td>
+                            </td>
+                        </tr>
+                        <tr>
+                            <td>17</td>
+                            <td>Unit 2 - Past Time - Intercultural Marriage<br>Step 4: Communication Practice</td>
+                            <td>Offline</td>
+                            <td>CLO1, CLO2, CLO3</td>
+                            <td>TU</td>
+                            <td class="product">Further reading/exercises:<br>Focus on Grammar 5 (5th Ed.): Unit 2 Review<br>Grammar and Vocabulary for Advanced (1st Ed.): Unit 1: Tenses<br>MyGrammarLab Advanced C1-C2 (1st Ed.): Unit 21: Past Simple and Continuous - Used to and Would; Unit 22: Past Perfect Simple and Continuous</td>
+                            <td>
+
+                            </td>
+                            <td>Actively participate in pair/group work, class discussions, and any other classroom activities</td>
+                            <td>
+                            </td>
+                        </tr>
+                        <tr>
+                            <td>18</td>
+                            <td>Unit 2 - Past Time - Intercultural Marriage<br>From Grammar to Writing</td>
+                            <td>Offline</td>
+                            <td>CLO2, CLO3</td>
+                            <td>TU</td>
+                            <td class="product">Further reading/exercises:<br>Focus on Grammar 5 (5th Ed.): Unit 2 Review<br>Grammar and Vocabulary for Advanced (1st Ed.): Unit 1: Tenses<br>MyGrammarLab Advanced C1-C2 (1st Ed.): Unit 21: Past Simple and Continuous - Used to and Would; Unit 22: Past Perfect Simple and Continuous</td>
+                            <td>
+
+                            </td>
+                            <td>Actively participate in pair/group work, class discussions, and any other classroom activities</td>
+                            <td>
+                            </td>
+                        </tr>
+                        <tr>
+                            <td>19</td>
+                            <td>Unit 3 - Future Time - Travel<br>Step 1: Grammar in Context<br>Step 2: Grammar Presentation<br>Step 3: Focused Practice</td>
+                            <td>Offline</td>
+                            <td>CLO1, CLO3, CLO4, CLO5</td>
+                            <td>TU</td>
+                            <td class="product">Further reading/exercises:<br>Focus on Grammar 5 (5th Ed.): Unit 3 Review<br>Grammar and Vocabulary for Advanced (1st Ed.): Unit 2: The Future<br>MyGrammarLab Advanced C1-C2 (1st Ed.): Module 6: Future Forms</td>
+                            <td>
+
+                            </td>
+                            <td>Read Step 2: Grammar Presentation before attending the lesson<br>Review previous lessons <br>Conduct a peer-teaching session using interactive activities.<br>Actively participate in pair/group work, class discussions, and any other classroom activities<br>Do any exercises given by the lecturer before attending the session</td>
+                            <td>
+                            </td>
+                        </tr>
+                        <tr>
+                            <td>20</td>
+                            <td>Unit 3 - Future Time - Travel<br>Step 4: Communication Practice</td>
+                            <td>Offline</td>
+                            <td>CLO1, CLO2, CLO3</td>
+                            <td>TU</td>
+                            <td class="product">Further reading/exercises:<br>Focus on Grammar 5 (5th Ed.): Unit 3 Review<br>Grammar and Vocabulary for Advanced (1st Ed.): Unit 2: The Future<br>MyGrammarLab Advanced C1-C2 (1st Ed.): Module 6: Future Forms</td>
+                            <td>
+
+                            </td>
+                            <td>Actively participate in pair/group work, class discussions, and any other classroom activities</td>
+                            <td>
+                            </td>
+                        </tr>
+                        <tr>
+                            <td>21</td>
+                            <td>Unit 3 - Future Time - Travel<br>From Grammar to Writing</td>
+                            <td>Offline</td>
+                            <td>CLO2, CLO3</td>
+                            <td>TU</td>
+                            <td class="product">Further reading/exercises:<br>Focus on Grammar 5 (5th Ed.): Unit 3 Review<br>Grammar and Vocabulary for Advanced (1st Ed.): Unit 2: The Future<br>MyGrammarLab Advanced C1-C2 (1st Ed.): Module 6: Future Forms</td>
+                            <td>
+
+                            </td>
+                            <td>Actively participate in pair/group work, class discussions, and any other classroom activities</td>
+                            <td>
+                            </td>
+                        </tr>
+                        <tr>
+                            <td>22</td>
+                            <td>Progress Test 1<br>Unit 4: Modals to Express Degrees of Necessity - Cultural Differences<br>Step 1: Grammar in Context<br>Step 2: Grammar Presentation<br>Step 3: Focused Practice</td>
+                            <td>Offline</td>
+                            <td>CLO1, CLO3, CLO4, CLO5</td>
+                            <td>TU</td>
+                            <td class="product">Further reading/exercises:<br>Focus on Grammar 5 (5th Ed.): Unit 4 Review<br>Grammar and Vocabulary for Advanced (1st Ed.): Unit 3: Modals (1), Unit 4: Modals (2)<br>MyGrammarLab Advanced C1-C2 (1st Ed.): Module 7: Modal Verbs</td>
+                            <td>
+
+                            </td>
+                            <td>Take the progress test<br>Read Step 2: Grammar Presentation before attending the lesson<br>Review previous lessons <br>Conduct a peer-teaching session using interactive activities.<br>Actively participate in pair/group work, class discussions, and any other classroom activities<br>Do any exercises given by the lecturer before attending the session</td>
+                            <td>
+                            </td>
+                        </tr>
+                        <tr>
+                            <td>23</td>
+                            <td>Unit 4: Modals to Express Degrees of Necessity - Cultural Differences<br>Step 4: Communication Practice</td>
+                            <td>Offline</td>
+                            <td>CLO1, CLO2, CLO3</td>
+                            <td>TU</td>
+                            <td class="product">Further reading/exercises:<br>Focus on Grammar 5 (5th Ed.): Unit 4 Review<br>Grammar and Vocabulary for Advanced (1st Ed.): Unit 3: Modals (1), Unit 4: Modals (2)<br>MyGrammarLab Advanced C1-C2 (1st Ed.): Module 7: Modal Verbs</td>
+                            <td>
+
+                            </td>
+                            <td>Actively participate in pair/group work, class discussions, and any other classroom activities</td>
+                            <td>
+                            </td>
+                        </tr>
+                        <tr>
+                            <td>24</td>
+                            <td>Unit 4: Modals to Express Degrees of Necessity - Cultural Differences<br>From Grammar to Writing</td>
+                            <td>Offline</td>
+                            <td>CLO2, CLO3</td>
+                            <td>TU</td>
+                            <td class="product">Further reading/exercises:<br>Focus on Grammar 5 (5th Ed.): Unit 4 Review<br>Grammar and Vocabulary for Advanced (1st Ed.): Unit 3: Modals (1), Unit 4: Modals (2)<br>MyGrammarLab Advanced C1-C2 (1st Ed.): Module 7: Modal Verbs</td>
+                            <td>
+
+                            </td>
+                            <td>Actively participate in pair/group work, class discussions, and any other classroom activities</td>
+                            <td>
+                            </td>
+                        </tr>
+                        <tr>
+                            <td>25</td>
+                            <td>Unit 5: Modals to Express Degrees of Certainty - Mysteries<br>Step 1: Grammar in Context<br>Step 2: Grammar Presentation<br>Step 3: Focused Practice</td>
+                            <td>Offline</td>
+                            <td>CLO1, CLO3, CLO4, CLO5</td>
+                            <td>TU</td>
+                            <td class="product">Further reading/exercises:<br>Focus on Grammar 5 (5th Ed.): Unit 5 Review<br>Grammar and Vocabulary for Advanced (1st Ed.): Unit 3: Modals (1), Unit 4: Modals (2)<br>MyGrammarLab Advanced C1-C2 (1st Ed.): Module 7: Modal Verbs</td>
+                            <td>
+
+                            </td>
+                            <td>Read Step 2: Grammar Presentation before attending the lesson<br>Review previous lessons <br>Conduct a peer-teaching session using interactive activities.<br>Actively participate in pair/group work, class discussions, and any other classroom activities<br>Do any exercises given by the lecturer before attending the session</td>
+                            <td>
+                            </td>
+                        </tr>
+                        <tr>
+                            <td>26</td>
+                            <td>Unit 5: Modals to Express Degrees of Certainty - Mysteries<br>Step 4: Communication Practice</td>
+                            <td>Offline</td>
+                            <td>CLO1, CLO2, CLO3</td>
+                            <td>TU</td>
+                            <td class="product">Further reading/exercises:<br>Focus on Grammar 5 (5th Ed.): Unit 5 Review<br>Grammar and Vocabulary for Advanced (1st Ed.): Unit 3: Modals (1), Unit 4: Modals (2)<br>MyGrammarLab Advanced C1-C2 (1st Ed.): Module 7: Modal Verbs</td>
+                            <td>
+
+                            </td>
+                            <td>Actively participate in pair/group work, class discussions, and any other classroom activities</td>
+                            <td>
+                            </td>
+                        </tr>
+                        <tr>
+                            <td>27</td>
+                            <td>Unit 5: Modals to Express Degrees of Certainty - Mysteries<br>From Grammar to Writing</td>
+                            <td>Offline</td>
+                            <td>CLO2, CLO3</td>
+                            <td>TU</td>
+                            <td class="product">Further reading/exercises:<br>Focus on Grammar 5 (5th Ed.): Unit 5 Review<br>Grammar and Vocabulary for Advanced (1st Ed.): Unit 3: Modals (1), Unit 4: Modals (2)<br>MyGrammarLab Advanced C1-C2 (1st Ed.): Module 7: Modal Verbs</td>
+                            <td>
+
+                            </td>
+                            <td>Actively participate in pair/group work, class discussions, and any other classroom activities</td>
+                            <td>
+                            </td>
+                        </tr>
+                        <tr>
+                            <td>28</td>
+                            <td>Unit 6: Passives: Part 1 - Crime<br>Step 1: Grammar in Context<br>Step 2: Grammar Presentation<br>Step 3: Focused Practice</td>
+                            <td>Offline</td>
+                            <td>CLO1, CLO3, CLO4, CLO5</td>
+                            <td>TU</td>
+                            <td class="product">Further reading/exercises:<br>Focus on Grammar 5 (5th Ed.): Unit 6 Review<br>Grammar and Vocabulary for Advanced (1st Ed.): Unit 18: The Passive<br>MyGrammarLab Advanced C1-C2 (1st Ed.): Modules 14: The Passive</td>
+                            <td>
+
+                            </td>
+                            <td>Read Step 2: Grammar Presentation before attending the lesson<br>Review previous lessons <br>Conduct a peer-teaching session using interactive activities.<br>Actively participate in pair/group work, class discussions, and any other classroom activities<br>Do any exercises given by the lecturer before attending the session</td>
+                            <td>
+                            </td>
+                        </tr>
+                        <tr>
+                            <td>29</td>
+                            <td>Unit 6: Passives: Part 1 - Crime<br>Step 4: Communication Practice</td>
+                            <td>Offline</td>
+                            <td>CLO1, CLO2, CLO3</td>
+                            <td>TU</td>
+                            <td class="product">Further reading/exercises:<br>Focus on Grammar 5 (5th Ed.): Unit 6 Review<br>Grammar and Vocabulary for Advanced (1st Ed.): Unit 18: The Passive<br>MyGrammarLab Advanced C1-C2 (1st Ed.): Modules 14: The Passive</td>
+                            <td>
+
+                            </td>
+                            <td>Actively participate in pair/group work, class discussions, and any other classroom activities</td>
+                            <td>
+                            </td>
+                        </tr>
+                        <tr>
+                            <td>30</td>
+                            <td>Unit 6: Passives: Part 1 - Crime<br>From Grammar to Writing</td>
+                            <td>Offline</td>
+                            <td>CLO2, CLO3</td>
+                            <td>TU</td>
+                            <td class="product">Further reading/exercises:<br>Focus on Grammar 5 (5th Ed.): Unit 6 Review<br>Grammar and Vocabulary for Advanced (1st Ed.): Unit 18: The Passive<br>MyGrammarLab Advanced C1-C2 (1st Ed.): Modules 14: The Passive</td>
+                            <td>
+
+                            </td>
+                            <td>Actively participate in pair/group work, class discussions, and any other classroom activities</td>
+                            <td>
+                            </td>
+                        </tr>
+                        <tr>
+                            <td>31</td>
+                            <td>Unit 7: Passives: Part 2 - Legends and Myths<br>Step 1: Grammar in Context<br>Step 2: Grammar Presentation<br>Step 3: Focused Practice</td>
+                            <td>Offline</td>
+                            <td>CLO1, CLO3, CLO4, CLO5</td>
+                            <td>TU</td>
+                            <td class="product">Further reading/exercises:<br>Focus on Grammar 5 (5th Ed.): Unit 7 Review, Unit 8: Gerunds, Unit 9: Infinitives<br>Grammar and Vocabulary for Advanced (1st Ed.): Unit 18: The Passive<br>MyGrammarLab Advanced C1-C2 (1st Ed.): Modules 14: The Passive</td>
+                            <td>
+
+                            </td>
+                            <td>Read Step 2: Grammar Presentation before attending the lesson<br>Review previous lessons <br>Conduct a peer-teaching session using interactive activities.<br>Actively participate in pair/group work, class discussions, and any other classroom activities<br>Do any exercises given by the lecturer before attending the session</td>
+                            <td>
+                            </td>
+                        </tr>
+                        <tr>
+                            <td>32</td>
+                            <td>Unit 7: Passives: Part 2 - Legends and Myths<br>Step 4: Communication Practice</td>
+                            <td>Offline</td>
+                            <td>CLO1, CLO2, CLO3</td>
+                            <td>TU</td>
+                            <td class="product">Further reading/exercises:<br>Focus on Grammar 5 (5th Ed.): Unit 7 Review, Unit 8: Gerunds, Unit 9: Infinitives<br>Grammar and Vocabulary for Advanced (1st Ed.): Unit 18: The Passive<br>MyGrammarLab Advanced C1-C2 (1st Ed.): Modules 14: The Passive</td>
+                            <td>
+
+                            </td>
+                            <td>Actively participate in pair/group work, class discussions, and any other classroom activities</td>
+                            <td>
+                            </td>
+                        </tr>
+                        <tr>
+                            <td>33</td>
+                            <td>Unit 7: Passives: Part 2 - Legends and Myths<br>From Grammar to Writing</td>
+                            <td>Offline</td>
+                            <td>CLO2, CLO3</td>
+                            <td>TU</td>
+                            <td class="product">Further reading/exercises:<br>Focus on Grammar 5 (5th Ed.): Unit 7 Review, Unit 8: Gerunds, Unit 9: Infinitives<br>Grammar and Vocabulary for Advanced (1st Ed.): Unit 18: The Passive<br>MyGrammarLab Advanced C1-C2 (1st Ed.): Modules 14: The Passive</td>
+                            <td>
+
+                            </td>
+                            <td>Actively participate in pair/group work, class discussions, and any other classroom activities</td>
+                            <td>
+                            </td>
+                        </tr>
+                        <tr>
+                            <td>34</td>
+                            <td>Unit 14: Adjective Clauses - Introduction - Personality<br>Step 1: Grammar in Context<br>Step 2: Grammar Presentation<br>Step 3: Focused Practice</td>
+                            <td>Offline</td>
+                            <td>CLO1, CLO3, CLO4, CLO5</td>
+                            <td>TU</td>
+                            <td class="product">Further reading/exercises:<br>Focus on Grammar 5 (5th Ed.): Unit 14 Review<br>Longman Academic Writing Series 4: Essays (5th Ed.): Chapter 13: Adjective Clauses<br>Grammar and Vocabulary for Advanced (1st Ed.): Unit 11: Relative Clauses (1), Unit 12: Relative Clauses (2)<br>MyGrammarLab Advanced C1-C2 (1st Ed.): Unit 53: Relative Clauses; Unit 54: Pronouns, Adverbs, and Prepositions in Relative Clauses</td>
+                            <td>
+
+                            </td>
+                            <td>Read Step 2: Grammar Presentation before attending the lesson<br>Review previous lessons <br>Conduct a peer-teaching session using interactive activities.<br>Actively participate in pair/group work, class discussions, and any other classroom activities<br>Do any exercises given by the lecturer before attending the session</td>
+                            <td>
+                            </td>
+                        </tr>
+                        <tr>
+                            <td>35</td>
+                            <td>Unit 14: Adjective Clauses - Introduction - Personality<br>Step 4: Communication Practice</td>
+                            <td>Offline</td>
+                            <td>CLO1, CLO2, CLO3</td>
+                            <td>TU</td>
+                            <td class="product">Further reading/exercises:<br>Focus on Grammar 5 (5th Ed.): Unit 14 Review<br>Longman Academic Writing Series 4: Essays (5th Ed.): Chapter 13: Adjective Clauses<br>Grammar and Vocabulary for Advanced (1st Ed.): Unit 11: Relative Clauses (1), Unit 12: Relative Clauses (2)<br>MyGrammarLab Advanced C1-C2 (1st Ed.): Unit 53: Relative Clauses; Unit 54: Pronouns, Adverbs, and Prepositions in Relative Clauses</td>
+                            <td>
+
+                            </td>
+                            <td>Actively participate in pair/group work, class discussions, and any other classroom activities</td>
+                            <td>
+                            </td>
+                        </tr>
+                        <tr>
+                            <td>36</td>
+                            <td>MILESTONE 2: <br>AI-INTEGRATION LEARNING OUTCOME: <br>GENERATE EFFECTIVE AND CREATIVE GRAMMAR PEER-TEACHING SESSIONS USING HUMAN-AI COLLABORATION STRATEGIES<br><br>Unit 14: Adjective Clauses - Introduction - Personality<br>From Grammar to Writing</td>
+                            <td>Offline</td>
+                            <td>CLO2, CLO3</td>
+                            <td>TU</td>
+                            <td class="product">Further reading/exercises:<br>Focus on Grammar 5 (5th Ed.): Unit 14 Review<br>Longman Academic Writing Series 4: Essays (5th Ed.): Chapter 13: Adjective Clauses<br>Grammar and Vocabulary for Advanced (1st Ed.): Unit 11: Relative Clauses (1), Unit 12: Relative Clauses (2)<br>MyGrammarLab Advanced C1-C2 (1st Ed.): Unit 53: Relative Clauses; Unit 54: Pronouns, Adverbs, and Prepositions in Relative Clauses</td>
+                            <td>
+
+                            </td>
+                            <td>Actively participate in pair/group work, class discussions, and any other classroom activities</td>
+                            <td>
+                            </td>
+                        </tr>
+                        <tr>
+                            <td>37</td>
+                            <td>Unit 15: Adjective Clauses &amp; Phrases - Culture Shock<br>Step 1: Grammar in Context<br>Step 2: Grammar Presentation<br>Step 3: Focused Practice</td>
+                            <td>Offline</td>
+                            <td>CLO1, CLO3, CLO4, CLO5</td>
+                            <td>TU</td>
+                            <td class="product">Further reading/exercises:<br>Focus on Grammar 5 (5th Ed.): Unit 15 Review<br>Longman Academic Writing Series 4: Essays (5th Ed.): Chapter 13: Adjective Clauses, Chapter 14: Participles and Participial Phrases<br>Grammar and Vocabulary for Advanced (1st Ed.): Unit 11: Relative Clauses (1), Unit 12: Relative Clauses (2), Unit 15: Participle, To-Infinitive, and Reduced Clauses<br>MyGrammarLab Advanced C1-C2 (1st Ed.): Unit 53: Relative Clauses; Unit 54: Pronouns, Adverbs, and Prepositions in Relative Clauses; Unit 55: Participle Clauses</td>
+                            <td>
+
+                            </td>
+                            <td>Read Step 2: Grammar Presentation before attending the lesson<br>Review previous lessons <br>Conduct a peer-teaching session using interactive activities.<br>Actively participate in pair/group work, class discussions, and any other classroom activities<br>Do any exercises given by the lecturer before attending the session</td>
+                            <td>
+                            </td>
+                        </tr>
+                        <tr>
+                            <td>38</td>
+                            <td>Unit 15: Adjective Clauses &amp; Phrases - Culture Shock<br>Step 4: Communication Practice</td>
+                            <td>Offline</td>
+                            <td>CLO1, CLO2, CLO3</td>
+                            <td>TU</td>
+                            <td class="product">Further reading/exercises:<br>Focus on Grammar 5 (5th Ed.): Unit 15 Review<br>Longman Academic Writing Series 4: Essays (5th Ed.): Chapter 13: Adjective Clauses, Chapter 14: Participles and Participial Phrases<br>Grammar and Vocabulary for Advanced (1st Ed.): Unit 11: Relative Clauses (1), Unit 12: Relative Clauses (2), Unit 15: Participle, To-Infinitive, and Reduced Clauses<br>MyGrammarLab Advanced C1-C2 (1st Ed.): Unit 53: Relative Clauses; Unit 54: Pronouns, Adverbs, and Prepositions in Relative Clauses; Unit 55: Participle Clauses</td>
+                            <td>
+
+                            </td>
+                            <td>Actively participate in pair/group work, class discussions, and any other classroom activities</td>
+                            <td>
+                            </td>
+                        </tr>
+                        <tr>
+                            <td>39</td>
+                            <td>Unit 15: Adjective Clauses &amp; Phrases - Culture Shock<br>From Grammar to Writing</td>
+                            <td>Offline</td>
+                            <td>CLO2, CLO3, CLO5</td>
+                            <td>TU</td>
+                            <td class="product">Further reading/exercises:<br>Focus on Grammar 5 (5th Ed.): Unit 15 Review<br>Longman Academic Writing Series 4: Essays (5th Ed.): Chapter 13: Adjective Clauses, Chapter 14: Participles and Participial Phrases<br>Grammar and Vocabulary for Advanced (1st Ed.): Unit 11: Relative Clauses (1), Unit 12: Relative Clauses (2), Unit 15: Participle, To-Infinitive, and Reduced Clauses<br>MyGrammarLab Advanced C1-C2 (1st Ed.): Unit 53: Relative Clauses; Unit 54: Pronouns, Adverbs, and Prepositions in Relative Clauses; Unit 55: Participle Clauses</td>
+                            <td>
+
+                            </td>
+                            <td>Actively participate in pair/group work, class discussions, and any other classroom activities</td>
+                            <td>
+                            </td>
+                        </tr>
+                        <tr>
+                            <td>40</td>
+                            <td>Progress Test 2<br>Unit 17: Adverb Clauses - Sports<br>Step 1: Grammar in Context<br>Step 2: Grammar Presentation<br>Step 3: Focused Practice"</td>
+                            <td>Offline</td>
+                            <td>CLO1, CLO3, CLO4, CLO5</td>
+                            <td>TU</td>
+                            <td class="product">Further reading/exercises:<br>Focus on Grammar 5 (5th Ed.): Unit 16: Adverbs: Sentence, Focus and Negative, Unit 17 Review<br>Longman Academic Writing Series 4: Essays (5th Ed.): Chapter 12: Adverb Clauses<br>Grammar and Vocabulary for Advanced (1st Ed.): Unit 13: Adverbial Clauses</td>
+                            <td>
+
+                            </td>
+                            <td>Take the progress Test<br>Read Step 2: Grammar Presentation before attending the lesson<br>Review previous lessons <br>Conduct a peer-teaching session using interactive activities.<br>Actively participate in pair/group work, class discussions, and any other classroom activities<br>Do any exercises given by the lecturer before attending the session</td>
+                            <td>
+                            </td>
+                        </tr>
+                        <tr>
+                            <td>41</td>
+                            <td>Unit 17: Adverb Clauses - Sports<br>Step 4: Communication Practice</td>
+                            <td>Offline</td>
+                            <td>CLO1, CLO2, CLO3</td>
+                            <td>TU</td>
+                            <td class="product">Further reading/exercises:<br>Focus on Grammar 5 (5th Ed.): Unit 16: Adverbs: Sentence, Focus and Negative, Unit 17 Review<br>Longman Academic Writing Series 4: Essays (5th Ed.): Chapter 12: Adverb Clauses<br>Grammar and Vocabulary for Advanced (1st Ed.): Unit 13: Adverbial Clauses</td>
+                            <td>
+
+                            </td>
+                            <td>Actively participate in pair/group work, class discussions, and any other classroom activities</td>
+                            <td>
+                            </td>
+                        </tr>
+                        <tr>
+                            <td>42</td>
+                            <td>Unit 17: Adverb Clauses - Sports<br>From Grammar to Writing</td>
+                            <td>Offline</td>
+                            <td>CLO2, CLO3, CLO5</td>
+                            <td>TU</td>
+                            <td class="product">Further reading/exercises:<br>Focus on Grammar 5 (5th Ed.): Unit 16: Adverbs: Sentence, Focus and Negative, Unit 17 Review<br>Longman Academic Writing Series 4: Essays (5th Ed.): Chapter 12: Adverb Clauses<br>Grammar and Vocabulary for Advanced (1st Ed.): Unit 13: Adverbial Clauses</td>
+                            <td>
+
+                            </td>
+                            <td>Actively participate in pair/group work, class discussions, and any other classroom activities</td>
+                            <td>
+                            </td>
+                        </tr>
+                        <tr>
+                            <td>43</td>
+                            <td>Unit 18: Adverb and Adverbial Phrases - Compassion<br>Step 1: Grammar in Context<br>Step 2: Grammar Presentation<br>Step 3: Focused Practice</td>
+                            <td>Offline</td>
+                            <td>CLO1, CLO3, CLO4, CLO5</td>
+                            <td>TU</td>
+                            <td class="product">Further reading/exercises:<br>Focus on Grammar 5 (5th Ed.): Unit 18 Review; Unit 19: Connectors<br>Longman Academic Writing Series 4: Essays (5th Ed.): Chapter 14: Participles and Participial Phrases<br>Grammar and Vocabulary for Advanced (1st Ed.): Unit 15: Participle, To-Infinitive, and Reduced Clauses</td>
+                            <td>
+
+                            </td>
+                            <td>Read Step 2: Grammar Presentation before attending the lesson<br>Review previous lessons <br>Conduct a peer-teaching session using interactive activities.<br>Actively participate in pair/group work, class discussions, and any other classroom activities<br>Do any exercises given by the lecturer before attending the session</td>
+                            <td>
+                            </td>
+                        </tr>
+                        <tr>
+                            <td>44</td>
+                            <td>Unit 18: Adverb and Adverbial Phrases - Compassion<br>Step 4: Communication Practice</td>
+                            <td>Offline</td>
+                            <td>CLO1, CLO2, CLO3</td>
+                            <td>TU</td>
+                            <td class="product">Further reading/exercises:<br>Focus on Grammar 5 (5th Ed.): Unit 18 Review; Unit 19: Connectors<br>Longman Academic Writing Series 4: Essays (5th Ed.): Chapter 14: Participles and Participial Phrases<br>Grammar and Vocabulary for Advanced (1st Ed.): Unit 15: Participle, To-Infinitive, and Reduced Clauses</td>
+                            <td>
+
+                            </td>
+                            <td>Actively participate in pair/group work, class discussions, and any other classroom activities</td>
+                            <td>
+                            </td>
+                        </tr>
+                        <tr>
+                            <td>45</td>
+                            <td>Unit 18: Adverb and Adverbial Phrases - Compassion<br>From Grammar to Writing</td>
+                            <td>Offline</td>
+                            <td>CLO2, CLO3, CLO5</td>
+                            <td>TU</td>
+                            <td class="product">Further reading/exercises:<br>Focus on Grammar 5 (5th Ed.): Unit 18 Review; Unit 19: Connectors<br>Longman Academic Writing Series 4: Essays (5th Ed.): Chapter 14: Participles and Participial Phrases<br>Grammar and Vocabulary for Advanced (1st Ed.): Unit 15: Participle, To-Infinitive, and Reduced Clauses</td>
+                            <td>
+
+                            </td>
+                            <td>Actively participate in pair/group work, class discussions, and any other classroom activities</td>
+                            <td>
+                            </td>
+                        </tr>
+                        <tr>
+                            <td>46</td>
+                            <td>Unit 22: Conditionals; Other Ways to Express Unreality - Achievements and Inventions<br>Step 1: Grammar in Context<br>Step 2: Grammar Presentation<br>Step 3: Focused Practice</td>
+                            <td>Offline</td>
+                            <td>CLO1, CLO3, CLO4, CLO5</td>
+                            <td>TU</td>
+                            <td class="product">Further reading/exercises:<br>Focus on Grammar 5 (5th Ed.): Unit 22 Review<br>Grammar and Vocabulary for Advanced (1st Ed.): Unit 14: Conditionals<br>MyGrammarLab Advanced C1-C2 (1st Ed.): Unit 37: if and alternatives; present and future conditions; Unit 38: unlikely, unreal and past conditions; Unit 39: I Wish and If Only</td>
+                            <td>
+
+                            </td>
+                            <td>Read Step 2: Grammar Presentation before attending the lesson<br>Review previous lessons <br>Conduct a peer-teaching session using interactive activities.<br>Actively participate in pair/group work, class discussions, and any other classroom activities<br>Do any exercises given by the lecturer before attending the session</td>
+                            <td>
+                            </td>
+                        </tr>
+                        <tr>
+                            <td>47</td>
+                            <td>Unit 22: Conditionals; Other Ways to Express Unreality - Achievements and Inventions<br>Step 4: Communication Practice</td>
+                            <td>Offline</td>
+                            <td>CLO1, CLO2, CLO3</td>
+                            <td>TU</td>
+                            <td class="product">Further reading/exercises:<br>Focus on Grammar 5 (5th Ed.): Unit 22 Review<br>Grammar and Vocabulary for Advanced (1st Ed.): Unit 14: Conditionals<br>MyGrammarLab Advanced C1-C2 (1st Ed.): Unit 37: if and alternatives; present and future conditions; Unit 38: unlikely, unreal and past conditions; Unit 39: I Wish and If Only</td>
+                            <td>
+
+                            </td>
+                            <td>Actively participate in pair/group work, class discussions, and any other classroom activities</td>
+                            <td>
+                            </td>
+                        </tr>
+                        <tr>
+                            <td>48</td>
+                            <td>Unit 22: Conditionals; Other Ways to Express Unreality - Achievements and Inventions<br>From Grammar to Writing</td>
+                            <td>Offline</td>
+                            <td>CLO2, CLO3, CLO5</td>
+                            <td>TU</td>
+                            <td class="product">Further reading/exercises:<br>Focus on Grammar 5 (5th Ed.): Unit 22 Review<br>Grammar and Vocabulary for Advanced (1st Ed.): Unit 14: Conditionals<br>MyGrammarLab Advanced C1-C2 (1st Ed.): Unit 37: if and alternatives; present and future conditions; Unit 38: unlikely, unreal and past conditions; Unit 39: I Wish and If Only</td>
+                            <td>
+
+                            </td>
+                            <td>Actively participate in pair/group work, class discussions, and any other classroom activities</td>
+                            <td>
+                            </td>
+                        </tr>
+                        <tr>
+                            <td>49</td>
+                            <td>Project - Presentation &amp; Feedback</td>
+                            <td>Offline</td>
+                            <td>CLO3, CLO4, CLO5</td>
+                            <td>U</td>
+                            <td class="product"></td>
+                            <td>
+
+                            </td>
+                            <td>Give presentations<br>Receive feedback from the lecturer<br>Answer questions from classmates and the lecturer<br>Make revisions at home if it is required</td>
+                            <td>
+                            </td>
+                        </tr>
+                        <tr>
+                            <td>50</td>
+                            <td>Project - Presentation &amp; Feedback</td>
+                            <td>Offline</td>
+                            <td>CLO3, CLO4, CLO5</td>
+                            <td>U</td>
+                            <td class="product"></td>
+                            <td>
+
+                            </td>
+                            <td>Give presentations<br>Receive feedback from the lecturer<br>Answer questions from classmates and the lecturer<br>Make revisions at home if it is required</td>
+                            <td>
+                            </td>
+                        </tr>
+                        <tr>
+                            <td>51</td>
+                            <td>Project - Presentation &amp; Feedback</td>
+                            <td>Offline</td>
+                            <td>CLO3, CLO4, CLO5</td>
+                            <td>U</td>
+                            <td class="product"></td>
+                            <td>
+
+                            </td>
+                            <td>Give presentations<br>Receive feedback from the lecturer<br>Answer questions from classmates and the lecturer<br>Make revisions at home if it is required</td>
+                            <td>
+                            </td>
+                        </tr>
+                        <tr>
+                            <td>52</td>
+                            <td>Unit 23: More Conditions; The Subjunctive - Advice<br>Step 1: Grammar in Context<br>Step 2: Grammar Presentation<br>Step 3: Focused Practice</td>
+                            <td>Offline</td>
+                            <td>CLO1, CLO3, CLO4, CLO5</td>
+                            <td>TU</td>
+                            <td class="product">Further reading/exercises:<br>Focus on Grammar 5 (5th Ed.): Unit 23 Review<br>Grammar and Vocabulary for Advanced (1st Ed.): Unit 14: Conditionals<br>MyGrammarLab Advanced C1-C2 (1st Ed.): Unit 37: if and alternatives; present and future conditions; Unit 38: unlikely, unreal and past conditions; Unit 39: I Wish and If Only; Unit 40: Subjunctives and the 'unreal' past</td>
+                            <td>
+
+                            </td>
+                            <td>Read Step 2: Grammar Presentation before attending the lesson<br>Review previous lessons <br>Conduct a peer-teaching session using interactive activities.<br>Actively participate in pair/group work, class discussions, and any other classroom activities<br>Do any exercises given by the lecturer before attending the session</td>
+                            <td>
+                            </td>
+                        </tr>
+                        <tr>
+                            <td>53</td>
+                            <td>Unit 23: More Conditions; The Subjunctive - Advice<br>Step 4: Communication Practice</td>
+                            <td>Offline</td>
+                            <td>CLO1, CLO2, CLO3</td>
+                            <td>TU</td>
+                            <td class="product">Further reading/exercises:<br>Focus on Grammar 5 (5th Ed.): Unit 23 Review<br>Grammar and Vocabulary for Advanced (1st Ed.): Unit 14: Conditionals<br>MyGrammarLab Advanced C1-C2 (1st Ed.): Unit 37: if and alternatives; present and future conditions; Unit 38: unlikely, unreal and past conditions; Unit 39: I Wish and If Only; Unit 40: Subjunctives and the 'unreal' past</td>
+                            <td>
+
+                            </td>
+                            <td>Actively participate in pair/group work, class discussions, and any other classroom activities</td>
+                            <td>
+                            </td>
+                        </tr>
+                        <tr>
+                            <td>54</td>
+                            <td>MILESTONE 3: <br>AI-INTEGRATION LEARNING OUTCOME:<br>REFLECT ON THE MERITS AND CAUTION OF AI USE IN GRAMMAR  <br><br>Unit 23: More Conditions; The Subjunctive - Advice<br>From Grammar to Writing</td>
+                            <td>Offline</td>
+                            <td>CLO2, CLO3, CLO5</td>
+                            <td>TU</td>
+                            <td class="product">Further reading/exercises:<br>Focus on Grammar 5 (5th Ed.): Unit 23 Review<br>Grammar and Vocabulary for Advanced (1st Ed.): Unit 14: Conditionals<br>MyGrammarLab Advanced C1-C2 (1st Ed.): Unit 37: if and alternatives; present and future conditions; Unit 38: unlikely, unreal and past conditions; Unit 39: I Wish and If Only; Unit 40: Subjunctives and the 'unreal' past</td>
+                            <td>
+
+                            </td>
+                            <td>Actively participate in pair/group work, class discussions, and any other classroom activities</td>
+                            <td>
+                            </td>
+                        </tr>
+                        <tr>
+                            <td>55</td>
+                            <td>Progress Test 3<br>Unit 20: Noun Clauses: Subjects, Objects, and Complements  - Birth Order<br>Step 1: Grammar in Context<br>Step 2: Grammar Presentation<br>Step 3: Focused Practice</td>
+                            <td>Offline</td>
+                            <td>CLO1, CLO3, CLO4, CLO5</td>
+                            <td>TU</td>
+                            <td class="product">Further reading/exercises:<br>Focus on Grammar 5 (5th Ed.): Unit 20 Review<br>Longman Academic Writing Series 4: Essays (5th Ed.): Chapter 11: Noun Clauses<br>Grammar and Vocabulary for Advanced (1st Ed.): Unit 16: Noun Clauses<br>MyGrammarLab Advanced C1-C2 (1st Ed.): Unit 57: Noun Clauses and Other Noun Structures</td>
+                            <td>
+
+                            </td>
+                            <td>Take the progress Test<br>Read Step 2: Grammar Presentation before attending the lesson<br>Review previous lessons <br>Conduct a peer-teaching session using interactive activities.<br>Actively participate in pair/group work, class discussions, and any other classroom activities<br>Do any exercises given by the lecturer before attending the session</td>
+                            <td>
+                            </td>
+                        </tr>
+                        <tr>
+                            <td>56</td>
+                            <td>Unit 20: Noun Clauses: Subjects, Objects, and Complements  - Birth Order<br>Step 4: Communication Practice</td>
+                            <td>Offline</td>
+                            <td>CLO1, CLO2, CLO3</td>
+                            <td>TU</td>
+                            <td class="product">Further reading/exercises:<br>Focus on Grammar 5 (5th Ed.): Unit 20 Review<br>Longman Academic Writing Series 4: Essays (5th Ed.): Chapter 11: Noun Clauses<br>Grammar and Vocabulary for Advanced (1st Ed.): Unit 16: Noun Clauses<br>MyGrammarLab Advanced C1-C2 (1st Ed.): Unit 57: Noun Clauses and Other Noun Structures</td>
+                            <td>
+
+                            </td>
+                            <td>Actively participate in pair/group work, class discussions, and any other classroom activities</td>
+                            <td>
+                            </td>
+                        </tr>
+                        <tr>
+                            <td>57</td>
+                            <td>Unit 20: Noun Clauses: Subjects, Objects, and Complements  - Birth Order<br>From Grammar to Writing<br>Revision</td>
+                            <td>Offline</td>
+                            <td>CLO2, CLO3, CLO5</td>
+                            <td>TU</td>
+                            <td class="product">Further reading/exercises:<br>Focus on Grammar 5 (5th Ed.): Unit 20 Review<br>Longman Academic Writing Series 4: Essays (5th Ed.): Chapter 11: Noun Clauses<br>Grammar and Vocabulary for Advanced (1st Ed.): Unit 16: Noun Clauses<br>MyGrammarLab Advanced C1-C2 (1st Ed.): Unit 57: Noun Clauses and Other Noun Structures</td>
+                            <td>
+
+                            </td>
+                            <td>Actively participate in pair/group work, class discussions, and any other classroom activities</td>
+                            <td>
+                            </td>
+                        </tr>
+                        <tr>
+                            <td>58</td>
+                            <td>Unit 21: Direct and Indirect Speech - Communication and Misunderstanding<br>Step 1: Grammar in Context<br>Step 2: Grammar Presentation<br>Step 3: Focused Practice</td>
+                            <td>Offline</td>
+                            <td>CLO1, CLO3</td>
+                            <td>TU</td>
+                            <td class="product">Further reading/exercises:<br>Focus on Grammar 5 (5th Ed.): Unit 21 Review<br>Longman Academic Writing Series 4: Chapter 3: Using Outside Sources<br>Grammar and Vocabulary for Advanced (1st Ed.): Unit 19: Reporting<br>MyGrammarLab Advanced C1-C2 (1st Ed.): Module 11: Reported Speech</td>
+                            <td>
+
+                            </td>
+                            <td>Read Step 2: Grammar Presentation before attending the lesson<br>Review previous lessons <br>Actively participate in pair/group work, class discussions, and any other classroom activities<br>Do any exercises given by the lecturer before attending the session</td>
+                            <td>
+                            </td>
+                        </tr>
+                        <tr>
+                            <td>59</td>
+                            <td>Unit 21: Direct and Indirect Speech - Communication and Misunderstanding<br>Step 4: Communication Practice</td>
+                            <td>Offline</td>
+                            <td>CLO1, CLO2, CLO3</td>
+                            <td>TU</td>
+                            <td class="product">Further reading/exercises:<br>Focus on Grammar 5 (5th Ed.): Unit 21 Review<br>Longman Academic Writing Series 4: Chapter 3: Using Outside Sources<br>Grammar and Vocabulary for Advanced (1st Ed.): Unit 19: Reporting<br>MyGrammarLab Advanced C1-C2 (1st Ed.): Module 11: Reported Speech</td>
+                            <td>
+
+                            </td>
+                            <td>Actively participate in pair/group work, class discussions, and any other classroom activities</td>
+                            <td>
+                            </td>
+                        </tr>
+                        <tr>
+                            <td>60</td>
+                            <td>Unit 21: Direct and Indirect Speech - Communication and Misunderstanding<br>From Grammar to Writing<br>Revision</td>
+                            <td>Offline</td>
+                            <td>CLO2, CLO3, CLO5</td>
+                            <td>TU</td>
+                            <td class="product">Further reading/exercises:<br>Focus on Grammar 5 (5th Ed.): Unit 21 Review<br>Longman Academic Writing Series 4: Chapter 3: Using Outside Sources<br>Grammar and Vocabulary for Advanced (1st Ed.): Unit 19: Reporting<br>MyGrammarLab Advanced C1-C2 (1st Ed.): Module 11: Reported Speech</td>
+                            <td>
+
+                            </td>
+                            <td>Actively participate in pair/group work, class discussions, and any other classroom activities</td>
+                            <td>
+                            </td>
+                        </tr>
+                </tbody>
+            </table>
+        <br>
+        <!-- Constructivist Questions Section -->
+        <label style="color: #23ac68;">0 Constructive question(s)</label>
+        <br>
+        <!-- Assessments Section -->
+        <label style="color: #23ac68;">8 assessment(s)</label>
+            <table id="gvAssessment" class="table table-striped tbl-data">
+                <thead>
+                    <tr>
+                        <th style="width: 3%; text-align: center;">No.</th>
+                        <th>Category</th>
+                        <th>Type</th>
+                        <th>Part</th>
+                        <th>Weight</th>
+                        <th>Completion Criteria</th>
+                        <th>Duration</th>
+                        <th>CLO</th>
+                        <th>Question Type</th>
+                        <th>No Question</th>
+                        <th>Knowledge and Skill</th>
+                        <th>Grading Guide</th>
+                        <th>Note</th>
+                    </tr>
+                </thead>
+                <tbody>
+                        <tr>
+                            <td style="text-align: center;">1</td>
+                            <td>Mini Project 1</td>
+                            <td>
+
+                                on-going
+                            </td>
+                            <td>1</td>
+                            <td>
+15.0%                            </td>
+                            <td>
+3                            </td>
+                            <td>N/A</td>
+                            <td>CLO1, CLO2, CLO3, CLO4, CLO5</td>
+                            <td>- From week 3, students work in groups of 5 to:<br>+ Choose 2 units from the units taught in the course.<br>+ Conduct peer-teaching sessions. For these sessions, they prepare interactive activities to help their classmates review and practice the grammatical structures from the Grammar Notes section of these units .<br><br>Suggested Peer-Teaching Activities:<br>+ Grammar quizzes or “Find the error” challenges<br>+ Role-plays or dialogues using the target structure<br>+ Mini grammar games (e.g., Kahoot, Jeopardy, sentence race)<br>+ Sentence-combining or transformation tasks<br>+ Short group writing or storytelling using the grammar point<br>+ Peer-correction or editing activities<br><br>*Students are encouraged to use AI tools to assist with this project. Any use of AI tools must be clearly documented in the project report submitted to the lecturer. Potential uses include:<br>+ Generate examples for the target grammar point<br>+ Create quiz items, dialogues, or game questions<br>+ Get feedback on lesson plans or activity instructions<br>+ Other purposes</td>
+                            <td>written report + presentation</td>
+                            <td>Demonstrates the knowledge which students have obtained from the delivered chapters</td>
+                            <td>Submitted in class or through Google Drive</td>
+                            <td>Instructions and schedules for the mini project must be presented in the course implementation plan approved by the head of the department. <br><br>Instructors are responsible for informing students about the project at the beginning of the course and reviewing them after grading.</td>
+                        </tr>
+                        <tr>
+                            <td style="text-align: center;">2</td>
+                            <td>Mini project 2</td>
+                            <td>
+
+                                on-going
+                            </td>
+                            <td>1</td>
+                            <td>
+15.0%                            </td>
+                            <td>
+3                            </td>
+                            <td>N/A</td>
+                            <td>CLO1, CLO2, CLO3, CLO4, CLO5</td>
+                            <td>*Option 1:<br>Students work in a group of 5:<br>- Each group contacts lecturers of ENT/TRS classes, BEN's writing classes (EAW, ERW, ENB) or ENM classes to ask for 3 pieces of writing (paragraphs, essays or emails) in which grammatical errors are largely present. <br>- Each member in a group is in charge of identifying any grammatical errors in the 3 pieces of writing obtained.<br>- Each group writes a booklet for EFL learners. In the booklet, they select the most common grammatical errors (at least 5) from the pieces of writing, put forward suggestions on how to avoid them, and design some exercises to help the readers practice writing sentences/paragraphs with the relevant grammatical structures.<br>- The groups send their booklets to the lecturer in charge for marking and give a presentation on how they have worked on the booklet in class for feedback.<br>- The lecturer in charge can invite other lecturers to come to the class, and the groups can pitch the booklet to them. <br><br>*Students are encouraged to use AI tools to assist with this project. Any use of AI tools must be clearly documented in the project report submitted to the lecturer. Potential uses include:<br>+ Error Identification: Students can first identify grammatical errors manually and then use AI tools to perform the same task. This allows them to compare their own findings with the AI's suggestions.<br>+ Researching Explanations: They can use AI tools to find reliable materials that come with grammatical explanations, which will help them write the section on how to avoid common errors.<br>+ Designing Exercises: They can use AI tools to generate draft exercises for the booklet, which they must then review and adjust for suitability and accuracy.<br>+ Other Purposes.<br><br>*Option 2: Lecturer’s choice</td>
+                            <td>written report + presentation</td>
+                            <td>Demonstrates the knowledge which students have obtained from the delivered chapters</td>
+                            <td>Submitted in class or through Google Drive</td>
+                            <td>Instructions and schedules for the mini project must be presented in the course implementation plan approved by the head of the department. <br><br>Instructors are responsible for informing students about the project at the beginning of the course and reviewing them after grading.</td>
+                        </tr>
+                        <tr>
+                            <td style="text-align: center;">3</td>
+                            <td>Progress test 1</td>
+                            <td>
+
+                                on-going
+                            </td>
+                            <td>2</td>
+                            <td>
+10.0%                            </td>
+                            <td>
+3                            </td>
+                            <td>40' - 55' (objective test: 15' - 30' + subjective test: 25')</td>
+                            <td>CLO1, CLO2, CLO3</td>
+                            <td>2 parts:<br>+ Objective Test - 50%: multiple choice questions or other suitable task types<br>+ Subjective Test - 50%: free writing (1 writing question that requires the students to use different structures from the units; the scoring rubric focuses on grammar in context only)</td>
+                            <td>objective test: 15 - 30 questions + subjective test: 1 writing question</td>
+                            <td>Covers units: 1, 2, 3, 10, 11, 12, 13</td>
+                            <td>In class, by instructor</td>
+                            <td>Instructions and schedules for the progress tests must be presented in the Course Implementation Plan. <br><br>Instructors are responsible for informing students about the progress tests and reviewing them after grading.<br><br>Minimum value to meet Completion Criteria: 3, Objective Test &gt;0 and Subjective Test &gt;0.</td>
+                        </tr>
+                        <tr>
+                            <td style="text-align: center;">4</td>
+                            <td>Progress test 2</td>
+                            <td>
+
+                                on-going
+                            </td>
+                            <td>2</td>
+                            <td>
+10.0%                            </td>
+                            <td>
+3                            </td>
+                            <td>40' - 55' (objective test: 15' - 30' + subjective test: 25')</td>
+                            <td>CLO1, CLO2, CLO3</td>
+                            <td>2 parts:<br>+ Objective Test - 50%: multiple choice questions or other suitable task types<br>+ Subjective Test - 50%: free writing (1 writing question that requires the students to use different structures from the units; the scoring rubric focuses on grammar in context only)</td>
+                            <td>objective test: 15 - 30 questions + subjective test: 1 writing question</td>
+                            <td>Covers units: 1, 2, 3, 4, 5, 6, 7, 10, 11, 12, 13, 14, 15</td>
+                            <td>In class, by instructor</td>
+                            <td>Instructions and schedules for the progress tests must be presented in the Course Implementation Plan. <br><br>Instructors are responsible for informing students about the progress tests and reviewing them after grading.<br><br>Minimum value to meet Completion Criteria: 3, Objective Test &gt;0 and Subjective Test &gt;0.</td>
+                        </tr>
+                        <tr>
+                            <td style="text-align: center;">5</td>
+                            <td>Progress test 3</td>
+                            <td>
+
+                                on-going
+                            </td>
+                            <td>2</td>
+                            <td>
+10.0%                            </td>
+                            <td>
+3                            </td>
+                            <td>40' - 55' (objective test: 15' - 30' + subjective test: 45')</td>
+                            <td>CLO1, CLO2, CLO3, CLO5</td>
+                            <td>2 parts:<br>+ Objective Test - 50%: multiple choice questions or other suitable task types<br>+ Subjective Test - 50%: <br><br>a. Free writing (25%): 1 writing question that requires the students to use different structures from the units; the scoring rubric focuses on grammar in context only)<br>*The requirements for the writing task must include using different structures from the units and writing complex sentences with a variety of clauses.<br><br>b. AI revision analysis (25%): 2 items: Students will analyze pairs of sentences (an original containing grammatical errors and its AI-revised version). For each pair, students must write a short commentary (50-70 words) identifying the original errors, explaining the AI corrections using grammar concepts learned in the course, and evaluating how the revision improves sentence quality (e.g., clarity, structure, conciseness).</td>
+                            <td>objective test: 15 - 30 questions + subjective test: 1 writing question + 2 AI revision analysis question</td>
+                            <td>Covers units: 1, 2, 3, 4, 5, 6, 7, 10, 11, 12, 13, 14, 15, 17, 18, 22, 23</td>
+                            <td>In class, by instructor</td>
+                            <td>Instructions and schedules for the progress tests must be presented in the Course Implementation Plan. <br><br>Instructors are responsible for informing students about the progress tests and reviewing them after grading.<br><br>Minimum value to meet Completion Criteria: 3, Objective Test &gt;0 and Subjective Test &gt;0.</td>
+                        </tr>
+                        <tr>
+                            <td style="text-align: center;">6</td>
+                            <td>Final exam</td>
+                            <td>
+
+                                Final exam
+                            </td>
+                            <td>2</td>
+                            <td>
+40.0%                            </td>
+                            <td>
+4                            </td>
+                            <td>70'</td>
+                            <td>CLO1, CLO2, CLO3, CLO5</td>
+                            <td>2 parts:<br>+ Objective Test - 50%: Multiple choice questions: 9 sentence completion questions, 1 sentence combination questions, 1 closest-in-meaning questions, 4 error identification questions, 5 cloze test questions<br>+ Subjective Test - 50%: <br><br>a. Free writing - 25%: 1 writing question that requires the students to use different structures from the units; the scoring rubric focuses on grammar in context only)<br>*The requirements for the writing task must include using different structures from the units and writing complex sentences with a variety of clauses.<br><br>b. AI revision analysis - 25%: 2 items: Students will analyze pairs of sentences (an original containing grammatical errors and its AI-revised version). For each pair, students must write a short commentary (50-70 words) identifying the original errors, explaining the AI corrections using grammar concepts learned in the course, and evaluating how the revision improves sentence quality (e.g., clarity, structure, conciseness).</td>
+                            <td>objective test: 20 multiple choice questions + subjective test: 1 writing question + 2 AI revision analysis items</td>
+                            <td>All units (except for Unit 8, 9, 16, 19)</td>
+                            <td>By exam board,<br>Using computer</td>
+                            <td></td>
+                        </tr>
+                        <tr>
+                            <td style="text-align: center;">7</td>
+                            <td>Objective Test</td>
+                            <td>
+
+                                Final exam
+                            </td>
+                            <td>1</td>
+                            <td>
+20.0%                            </td>
+                            <td>
+&gt;0                            </td>
+                            <td>25'</td>
+                            <td>CLO1, CLO2, CLO3</td>
+                            <td>Objective Test: Multiple choice questions: 9 sentence completion questions, 1 sentence combination questions, 1 closest-in-meaning questions, 4 error identification questions, 5 cloze test questions</td>
+                            <td>20 multiple choice questions</td>
+                            <td>All units (except for Unit 8, 9, 16, 19)</td>
+                            <td>By exam board,<br>Using computer</td>
+                            <td></td>
+                        </tr>
+                        <tr>
+                            <td style="text-align: center;">8</td>
+                            <td>Subjective Test</td>
+                            <td>
+
+                                Final exam
+                            </td>
+                            <td>1</td>
+                            <td>
+20.0%                            </td>
+                            <td>
+&gt;0                            </td>
+                            <td>45'</td>
+                            <td>CLO1, CLO2, CLO3, CLO5</td>
+                            <td>Subjective Test: <br><br>a. Free writing: 1 writing question that requires the students to use different structures from the units; the scoring rubric focuses on grammar in context only)<br>*The requirements for the writing task must include using different structures from the units and writing complex sentences with a variety of clauses.<br><br>b. AI revision analysis: 2 items: Students will analyze pairs of sentences (an original containing grammatical errors and its AI-revised version). For each pair, students must write a short commentary (50-70 words) identifying the original errors, explaining the AI corrections using grammar concepts learned in the course, and evaluating how the revision improves sentence quality (e.g., clarity, structure, conciseness).</td>
+                            <td>1 writing question + 2 AI revision analysis items</td>
+                            <td>All units (except for Unit 8, 9, 16, 19)</td>
+                            <td>By exam board,<br>Using computer</td>
+                            <td></td>
+                        </tr>
+                </tbody>
+            </table>
+        <br>
+</div>
+
+<script src="/bundles/customjs"></script>
+<script>
+    $(document).ready(() => {
+        if ($("tbody tr a.ContainSLink").toArray().length == 0) {
+            $("#btnDownloadAllStudentMaterial").prop("disabled", true);
+        } else {
+            $("#btnDownloadAllStudentMaterial").prop("disabled", false);
+        }
+    });
+
+    function downloadLoop(i, urls) {
+        setTimeout(() => {
+            urls[i].click();
+            i++;
+            if (i < urls.length) {
+                downloadLoop(i, urls);
+            }
+        }, 10456);
+    }
+
+    $('#btnDownloadAllStudentMaterial').on('click', function (e) {
+        e.preventDefault();
+        var downloadLinks = $("tbody tr a.ContainSLink").toArray();
+        var result = confirm("Do you want to download all materials??");
+        if (result) {
+            downloadLoop(0, downloadLinks);
+        }
+    });
+
+    if (window.history.replaceState) {
+        window.history.replaceState(null, null, window.location.href);
+    }
+</script>
+
+            </div>
+        </div>
+    </div>
+
+    <script>
+        $('#language').change(function () {
+            $.ajax({
+                url: '/Language', // comma here instead of semicolon
+                data: { language: $(this).val() },
+                success: function () {
+                    window.location.reload();
+                }
+
+            });
+        });
+        (function loadLanguage() {
+            let dt = JSON.stringify({
+                'ssName': 'language'
+            });
+            $.ajax({
+                contentType: 'application/json; charset=utf-8',
+                dataType: 'json',
+                type: 'POST',
+                url: '/ajax/getCookie/',
+                data: dt
+            }).done(function (data) {
+                $('#language').val(data);
+            })
+        })();
+
+        function showToastRedirectPage(type, mess) {
+            window.localStorage.setItem('typeToast', type);
+            window.localStorage.setItem('messToast', mess);
+        }
+
+        $(document).ready(function () {
+            // Animated title effect - Marquee style
+            function animateTitle() {
+                const title = document.getElementById('pageTitle');
+                const originalText = 'FPT University Learning Materials';
+                const separator = ' • ';
+                const fullText = originalText + separator + originalText + separator;
+
+                let position = 0;
+                let animationId;
+                const speed = 300; // milliseconds between each character shift
+                const maxPosition = originalText.length + separator.length;
+
+                function updateTitle() {
+                    const displayText = fullText.substring(position, position + originalText.length);
+                    title.textContent = displayText;
+
+                    position++;
+                    if (position >= maxPosition) {
+                        position = 0;
+                    }
+
+                    // Continue animation
+                    animationId = setTimeout(updateTitle, speed);
+                }
+
+                // Check if user prefers reduced motion
+                if (window.matchMedia && window.matchMedia('(prefers-reduced-motion: reduce)').matches) {
+                    // Don't animate if user prefers reduced motion
+                    title.textContent = originalText;
+                    return;
+                }
+
+                // Start the animation
+                updateTitle();
+
+                // Pause animation when tab is not visible (performance optimization)
+                document.addEventListener('visibilitychange', function () {
+                    if (document.hidden) {
+                        clearTimeout(animationId);
+                    } else {
+                        updateTitle();
+                    }
+                });
+            }
+
+            // Start title animation
+            animateTitle();
+
+            toastr.options = {
+                "closeButton": true,
+                "newestOnTop": false,
+                "progressBar": true,
+                "positionClass": "toast-top-right",
+                "preventDuplicates": false,
+                "onclick": null,
+                "showDuration": "300",
+                "hideDuration": "1000",
+                "timeOut": "5000",
+                "extendedTimeOut": "1000",
+                "showEasing": "swing",
+                "hideEasing": "linear",
+                "showMethod": "fadeIn",
+                "hideMethod": "fadeOut"
+            }
+
+
+            if (window.localStorage.getItem('typeToast') == 1) {
+                toastr.success(window.localStorage.getItem('messToast'));
+                window.localStorage.setItem('typeToast', 0);
+            }
+            if (window.localStorage.getItem('typeToast') == 2) {
+                toastr.error(window.localStorage.getItem('messToast'));
+                window.localStorage.setItem('typeToast', 0);
+            }
+
+            $(".preventDefault").click(function (event) {
+                event.preventDefault();
+            });
+            $.get("/ajax/permission", function (data) {
+                loadData(data)
+            })
+
+            $('#sidebarCollapse').on('click', function () {
+                $('#sidebar').toggleClass('sb-active');
+            });
+
+        });
+        function loadData(data) {
+            if (typeof (data) != 'string') {
+                $("#lblRole").html(data[0]);
+                $("#lblName").html(data[1]);
+                $("#lblEmail").html(data[2]);
+                $("#lblEduLevel").html(data[4]);
+                if (data[0] == 'Syl Reviewer' || data[0] == 'Syl Designer') {
+                    data[3] = data[3].replace('~', '..');
+                    $("#pnlEmail").css({ display: 'none' });
+                } else {
+                    $("#pnlEmail").css({ display: '' });
+                }
+                $("#ProfileImage").attr({ src: data[3] });
+                //Why index is 4???
+                //if (data[4]) {
+                //    $("#pnlEmail").css({ display: 'none' });
+                //} else {
+                //    $("#lblEmail").html(data[2]);
+                //}
+                if (data[0] === "Head") {
+                    $("#panelStaffFeatures").css({ display: 'none' });
+                } else if (data[0] === "Staff") {
+                    $("#panelHeadFeatures").css({ display: 'none' });
+                } else {
+                    $("#panelStaffFeatures").css({ display: 'none' });
+                    $("#panelHeadFeatures").css({ display: 'none' });
+                    $("#sidebarCollapse").css({ display: 'none' });
+                }
+            } else {
+                window.location.replace(data);
+            }
+        }
+        $('#lbtnSignOut').click(() => {
+            // Check if user is logged in with FEID
+            var isLoginWithFEID = true;
+
+            if (isLoginWithFEID) {
+                // For FEID users, redirect to proper logout endpoint
+                // This will clear all authentication and redirect to regular login
+                window.location.href = '/Home/LogoutWithFEId';
+            } else {
+                // For regular users, use AJAX signout
+                $.get("/ajax/signOut", function (data) {
+                    window.location.replace('/Home/Login');
+                })
+            }
+        })
+        $('#lbtnAlumni').click(() => {
+            $.get("/UserAlumni/StudentAlumni", function (data) {
+
+            })
+        })
+
+        // Handle button clicks for accessibility
+        $('#lbtnSignOut').on('keydown', function (e) {
+            if (e.key === 'Enter' || e.key === ' ') {
+                e.preventDefault();
+                $(this).click();
+            }
+        });
+
+        $('#lbtnAlumni').on('keydown', function (e) {
+            if (e.key === 'Enter' || e.key === ' ') {
+                e.preventDefault();
+                $(this).click();
+            }
+        });
+
+    </script>
+<script type="module" src="https://static.cloudflareinsights.com/beacon.min.js/v31edd6df95cf4e85bb4c19e7a9bdbcba1788362987495" integrity="sha512-iIg7k2xntmwu6/uSb5tpc/hySgZc4eoL31yB29W6tJFo2akwjPWcEqnCEdJvGexCL0KEQwVYv5BlowfhVz26hg==" data-cf-beacon="{&quot;version&quot;:&quot;2024.11.0&quot;,&quot;token&quot;:&quot;56c6dd7e4ecf4947aa540f48289e45af&quot;,&quot;spa&quot;:2}" crossorigin="anonymous"></script>
+
+
+
+</body></html>

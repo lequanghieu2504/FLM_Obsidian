@@ -1,0 +1,915 @@
+{
+  "syllabus_id": 13621,
+  "subject_code": "TTD301",
+  "subject_name": "Tour design and development_Phát triển sản phẩm du lịch",
+  "syllabus_name": "Tour Design and Development_Phát triển sản phẩm du lịch",
+  "credits": 3,
+  "degree_level": "Bachelor",
+  "time_allocation": "Study hour (150h) = 45h (60 sessions) contact hours + 1h final exam + 104h self-study",
+  "prerequisite": "TTM202",
+  "general_information": {
+    "Syllabus ID": "13621",
+    "Syllabus Name": "Tour Design and Development_Phát triển sản phẩm du lịch",
+    "Course Name English": "Tour Design and Development",
+    "Subject Code": "TTD301",
+    "Learning-Teaching Method": "Lecture,Presenting,Field trip,Problem based learning,Social Constructivism",
+    "NoCredit": "3",
+    "Degree Level": "Bachelor",
+    "Time Allocation": "Study hour (150h) = 45h (60 sessions) contact hours + 1h final exam + 104h self-study",
+    "Pre-Requisite": "TTM202",
+    "Description": "Objective: Students understand the various components that contribute to the design of a tourism product, such as local culture, important holidays, nearby resorts, modes of transportation, the availability of intermediary service providers, and the development prospects of that tourism product in the country's tourism industry's future. Students must generate an idea, create a product, and persuade the class that it is effective, viable, sustainable, and has the potential for development, in which students must present analysis of the strategic products of various organizations using case studies. Description: This course teaches the structure, functions, operations, strategies, and other aspects of tourism goods, as well as how to build and implement one or more comprehensive tourism products. The course also analyzes and provides information on specific tourism items such as specific fascination, cultural, religious, and so forth. The course also includes real-life case studies on tourism product design.",
+    "StudentTasks": "- Class attendance is strongly encouraged. Attend at least 80% of class hours in order to be accepted to the final examination - Actively participate in class activities - Fulfill tasks given by instructor after class - Use their own laptop in class only for learning purposes - Read the textbook in advance - Access the course website (http://flm.fpt.edu.vn) for up-to-date information and material of the course, for online support from teachers and other students, and for practicing and assessment.",
+    "Tools": "Internet",
+    "Scoring Scale": "10",
+    "DecisionNo MM/dd/yyyy": "1318/QĐ-ĐHFPT dated 11/27/2025",
+    "IsApproved": "True",
+    "Note": "",
+    "Is Scored": "True",
+    "MinAvgMarkToPass": "5",
+    "IsActive": "True",
+    "ApprovedDate": "11/27/2025"
+  },
+  "active": true,
+  "approved": true,
+  "decision": "1318/QĐ-ĐHFPT dated 11/27/2025",
+  "description": "Objective: Students understand the various components that contribute to the design of a tourism product, such as local culture, important holidays, nearby resorts, modes of transportation, the availability of intermediary service providers, and the development prospects of that tourism product in the country's tourism industry's future. Students must generate an idea, create a product, and persuade the class that it is effective, viable, sustainable, and has the potential for development, in which students must present analysis of the strategic products of various organizations using case studies. Description: This course teaches the structure, functions, operations, strategies, and other aspects of tourism goods, as well as how to build and implement one or more comprehensive tourism products. The course also analyzes and provides information on specific tourism items such as specific fascination, cultural, religious, and so forth. The course also includes real-life case studies on tourism product design.",
+  "learning_outcomes": [
+    {
+      "No.": "1",
+      "CLO Name": "CLO1",
+      "CLO Details": "Define and analyze the extent of services, evaluate the relevance of services in the economy as a whole, and tourism services in particular."
+    },
+    {
+      "No.": "2",
+      "CLO Name": "CLO2",
+      "CLO Details": "Distinguish between the marketing mix for tangible products and the marketing mix for intangible services, and investigate the use of service in tourism."
+    },
+    {
+      "No.": "3",
+      "CLO Name": "CLO3",
+      "CLO Details": "Understand all of the aspects that drive tourism product ideation, design, and implementation, such as destination selection, culture, entertainment, and so on."
+    },
+    {
+      "No.": "4",
+      "CLO Name": "CLO4",
+      "CLO Details": "Investigate the processes of tourism product development, from concept design to actual execution, as well as the method of tourism product operation."
+    },
+    {
+      "No.": "5",
+      "CLO Name": "CLO5",
+      "CLO Details": "Understand several fundamental and unique forms of tourist products, such as cultural, religious, resort, beach, and event types, among others."
+    },
+    {
+      "No.": "6",
+      "CLO Name": "CLO6",
+      "CLO Details": "Define a communication and promotion strategy to extensively spread typical tourism products and stress the sustainability of tourism products using communication methods."
+    },
+    {
+      "No.": "7",
+      "CLO Name": "CLO7",
+      "CLO Details": "Analyze and evaluate several organizations' tourism product strategies using common case studies."
+    },
+    {
+      "No.": "8",
+      "CLO Name": "CLO8",
+      "CLO Details": "Develop products that address contemporary issues in the development of tourist products for events, resorts, cruises, and other tourism products."
+    },
+    {
+      "No.": "9",
+      "CLO Name": "CLO9",
+      "CLO Details": "Acquire professional attitudes and abilities to obtain an understanding of designing tourism products for a wide range of customers."
+    }
+  ],
+  "assessments": [
+    {
+      "No.": "1",
+      "Category": "Class participation and preparation",
+      "Type": "on-going",
+      "Part": "1",
+      "Weight": "10.0%",
+      "Completion Criteria": ">0",
+      "Duration": "During all courses",
+      "CLO": "CLO7",
+      "Question Type": "",
+      "No Question": "",
+      "Knowledge and Skill": "",
+      "Grading Guide": "Participation grade will be given based on students' preparation, and quantity as well as quality of participation in classroom; quality of participation is demonstrated through asking relevant questions, making statements that add to and facilitate class discussion, and builds upon others’ comments. Class preparation and pre-reading before lecture will be assessed upon individuals' understanding and ability to answer questions in the class. Individuals will be called up randomly to be assessed.",
+      "Note": ""
+    },
+    {
+      "No.": "2",
+      "Category": "Group assignment",
+      "Type": "on-going",
+      "Part": "1",
+      "Weight": "25.0%",
+      "Completion Criteria": ">0",
+      "Duration": "session 9, 24, 53, 54, 55, 56, 57, 58, 59",
+      "CLO": "All CLOs",
+      "Question Type": "Written report and presentation",
+      "No Question": "Written report: limitation of 4000 words Presentation: 30 mins/group",
+      "Knowledge and Skill": "All Topics",
+      "Grading Guide": "Each group comprises of four to five students who prepare and present to the class a creative and one-of-a-kind tourist product for their travel company. The report must be a synthesis of a creative idea, an academic strategic analysis and a realisticl business plan. Students are encouraged to apply all the knowledge and skills gained from the course to design a tourism product. If the submission product is found to be a product produced/designed by another party, the student will fail this assignment. Students are required to provide written and oral reports.",
+      "Note": ""
+    },
+    {
+      "No.": "3",
+      "Category": "Individual essay",
+      "Type": "on-going",
+      "Part": "1",
+      "Weight": "15.0%",
+      "Completion Criteria": ">0",
+      "Duration": "session 43",
+      "CLO": "CLO1, CLO2, CLO3, CLO4, CLO6, CLO7, CLO8, CLO9",
+      "Question Type": "Written report",
+      "No Question": "Written report: limitation of 1000 words",
+      "Knowledge and Skill": "Unit 1 -> Unit 10",
+      "Grading Guide": "Students will be requested to submit an essay after participating in the Fieldtrip at any local tourist agency to share the knowledge they have acquired, the content of the essay needs to be based on the knowledge students have learned such as concepts, target customer, market analysis, diversity of tourism products, sustainability factors, to conduct an analysis of the tourism products that a company is developing, and comment on the feasibility implementation as well as the likelihood of success of that product. In addition, teachers might ask for extra questions that are relevant to the Fieldtrip.",
+      "Note": ""
+    },
+    {
+      "No.": "4",
+      "Category": "Quizzes",
+      "Type": "on-going",
+      "Part": "3",
+      "Weight": "30.0%",
+      "Completion Criteria": ">0",
+      "Duration": "Quiz 1: session 10, session 11, session 12 Quiz 2: session 25, session 26, session 27 Quiz 3: session 37, session 38, session 39",
+      "CLO": "CLO1, CLO2, CLO3, CLO4, CLO6, CLO7, CLO8, CLO9",
+      "Question Type": "MCQs",
+      "No Question": "30 mcqs/45 mins.",
+      "Knowledge and Skill": "All knowledge which belong to every single unit.",
+      "Grading Guide": "in class, by instructor",
+      "Note": "Instruction and shedules for Quiz must be presented in the Course Implementation Plan approved by director of the campus.Quiz must be taken right after the last lecture of required material."
+    },
+    {
+      "No.": "5",
+      "Category": "Final Exam",
+      "Type": "Final exam",
+      "Part": "1",
+      "Weight": "20.0%",
+      "Completion Criteria": "4",
+      "Duration": "60'",
+      "CLO": "All CLOs",
+      "Question Type": "MCQs",
+      "No Question": "50 MCQs",
+      "Knowledge and Skill": "All Topics",
+      "Grading Guide": "Not allowed to use any document/information in any form in the exam room Organized by Exam Board",
+      "Note": ""
+    }
+  ],
+  "schedule": [
+    {
+      "Session": "1",
+      "Topic": "-Course Overview -Introduction to AI Integration in the course -Unit 1: SERVICE INDUSTRY: CONCEPTS, CHARACTERISTICS AND ISSUES Introduction 1.0 Objectives 1.1 Introduction 1.2 Services: Concepts and Characteristics",
+      "Learning-Teaching Type": "Offline",
+      "LO": "CLO1, CLO2, CLO3, CLO4",
+      "ITU": "I",
+      "Student Materials": "- Review TTD301 - Read textbook UNIT 1 - Read slides",
+      "S-Download": "",
+      "Student's Tasks": "Review Chapter Discussion",
+      "URLs": "link"
+    },
+    {
+      "Session": "2",
+      "Topic": "Unit 1: SERVICE INDUSTRY: CONCEPTS, CHARACTERISTICS AND ISSUES 1.3 Factors Fostering the Growth of Services 1.4 Characteristics of Services 1.5 Services and Their Classification",
+      "Learning-Teaching Type": "Offline",
+      "LO": "CLO1, CLO2, CLO3, CLO4",
+      "ITU": "I",
+      "Student Materials": "- Review TTD301 - Read textbook UNIT 1 - Read slides",
+      "S-Download": "",
+      "Student's Tasks": "Review Chapter Discussion",
+      "URLs": ""
+    },
+    {
+      "Session": "3",
+      "Topic": "Unit 1: SERVICE INDUSTRY: CONCEPTS, CHARACTERISTICS AND ISSUES 1.6 Conceptualisation of the Service Product 1.7 Services Mix 1.8 Services in Tourism",
+      "Learning-Teaching Type": "Offline",
+      "LO": "CLO1, CLO2, CLO3, CLO4",
+      "ITU": "I",
+      "Student Materials": "- Review TTD301 - Read textbook UNIT 1 - Read slides",
+      "S-Download": "",
+      "Student's Tasks": "Review Chapter Discussion",
+      "URLs": ""
+    },
+    {
+      "Session": "4",
+      "Topic": "Unit 2: PRODUCT DESIGNING 2.0 Objectives 2.1 Introduction 2.2 Tourism Product Development: Conceptual Background",
+      "Learning-Teaching Type": "Offline",
+      "LO": "CLO1, CLO2, CLO3, CLO4",
+      "ITU": "I",
+      "Student Materials": "- Review TTD301 - Read textbook UNIT 2 - Read slides",
+      "S-Download": "",
+      "Student's Tasks": "Review Chapter Discussion",
+      "URLs": ""
+    },
+    {
+      "Session": "5",
+      "Topic": "Unit 2: PRODUCT DESIGNING 2.3 Tourism Product Designing Development Issues and Considerations 2.4 Marketing Considerations for Sustainability of Tourism Products 2.4.1 Market Research",
+      "Learning-Teaching Type": "Offline",
+      "LO": "CLO1, CLO2, CLO3, CLO4",
+      "ITU": "I",
+      "Student Materials": "- Review TTD301 - Read textbook UNIT 2 - Read slides",
+      "S-Download": "",
+      "Student's Tasks": "Review Chapter Discussion",
+      "URLs": ""
+    },
+    {
+      "Session": "6",
+      "Topic": "Unit 2: PRODUCT DESIGNING 2.4.2 Development of a Marketing Strategy 2.4.3 Monitoring, Evaluation and Revisions of Marketing Strategies 2.4.4 Development of a Promotion Strategy 2.5 Interpretation: A Vital Component of Tourism Product",
+      "Learning-Teaching Type": "Offline",
+      "LO": "CLO1, CLO2, CLO3, CLO4",
+      "ITU": "I",
+      "Student Materials": "- Review TTD301 - Read textbook UNIT 2 - Read slides",
+      "S-Download": "",
+      "Student's Tasks": "Review Chapter Discussion",
+      "URLs": ""
+    },
+    {
+      "Session": "7",
+      "Topic": "Unit 3: DESTINATION DESIGNING: ISSUES, PRIORITIES AND CONCERNS 3.0 Objectives 3.1 Introduction 3.2 Development of a Destination 3.3 Principles of Destination Development",
+      "Learning-Teaching Type": "Offline",
+      "LO": "CLO2, CLO3, CLO4, CLO6",
+      "ITU": "I",
+      "Student Materials": "- Review TTD301 - Read textbook UNIT 3 - Read slides",
+      "S-Download": "",
+      "Student's Tasks": "Review Chapter Discussion",
+      "URLs": ""
+    },
+    {
+      "Session": "8",
+      "Topic": "Unit 3: DESTINATION DESIGNING: ISSUES, PRIORITIES AND CONCERNS 3.4 Managing Tourist Destinations 3.5 Concerns for Destination Planning",
+      "Learning-Teaching Type": "Offline",
+      "LO": "CLO2, CLO3, CLO4, CLO6",
+      "ITU": "I",
+      "Student Materials": "- Review TTD301 - Read textbook UNIT 3 - Read slides",
+      "S-Download": "",
+      "Student's Tasks": "Review Chapter Discussion",
+      "URLs": ""
+    },
+    {
+      "Session": "9",
+      "Topic": "Unit 3: DESTINATION DESIGNING: ISSUES, PRIORITIES AND CONCERNS 3.6 Stages in Destination Designing and Management 3.6.1 Other Aspects 3.7 Operation of Destination or Site as a Product GROUP ASSIGNMENT INTRODUCTION GROUP ASSIGNMENT GUIDELINE PART 1",
+      "Learning-Teaching Type": "Offline",
+      "LO": "CLO2, CLO3, CLO4, CLO6",
+      "ITU": "I",
+      "Student Materials": "- Review TTD301 - Read textbook UNIT 3 - Read slides",
+      "S-Download": "",
+      "Student's Tasks": "Review Chapter Discussion",
+      "URLs": ""
+    },
+    {
+      "Session": "10",
+      "Topic": "QUIZ 1",
+      "Learning-Teaching Type": "Offline",
+      "LO": "CLO1, CLO2, CLO3,CLO4, CLO6",
+      "ITU": "I",
+      "Student Materials": "- Review TTD301 - Read textbook UNIT 1,2,3 - Read slides",
+      "S-Download": "",
+      "Student's Tasks": "Review Chapter Discussion Quiz 1",
+      "URLs": ""
+    },
+    {
+      "Session": "11",
+      "Topic": "REVIEW QUIZ 1",
+      "Learning-Teaching Type": "Offline",
+      "LO": "CLO1, CLO2, CLO3,CLO4, CLO6",
+      "ITU": "I",
+      "Student Materials": "- Review TTD301 - Read textbook UNIT 1,2,3 - Read slides",
+      "S-Download": "",
+      "Student's Tasks": "Review Chapter Discussion",
+      "URLs": ""
+    },
+    {
+      "Session": "12",
+      "Topic": "REVIEW QUIZ 1",
+      "Learning-Teaching Type": "Offline",
+      "LO": "CLO1, CLO2, CLO3,CLO4, CLO6",
+      "ITU": "I",
+      "Student Materials": "- Review TTD301 - Read textbook UNIT 1,2,3 - Read slides",
+      "S-Download": "",
+      "Student's Tasks": "Review Chapter Discussion",
+      "URLs": ""
+    },
+    {
+      "Session": "13",
+      "Topic": "Unit 4: SPECIAL INTEREST TOURISM 4.0 Objectives 4.1 Introduction 4.2 Special Interest tourism (SIT) 4.2.1 Defining SIT 4.2.2 The Scope of SIT",
+      "Learning-Teaching Type": "Offline",
+      "LO": "CLO2, CLO7",
+      "ITU": "I",
+      "Student Materials": "- Review TTD301 - Read textbook UNIT 4 - Read slides",
+      "S-Download": "",
+      "Student's Tasks": "Review Chapter Discussion",
+      "URLs": ""
+    },
+    {
+      "Session": "14",
+      "Topic": "Unit 4: SPECIAL INTEREST TOURISM 4.3 Developing SIT 4.3.1 Understanding Market 4.3.2 Analysing Potential",
+      "Learning-Teaching Type": "Offline",
+      "LO": "CLO2, CLO7",
+      "ITU": "I",
+      "Student Materials": "- Review TTD301 - Read textbook UNIT 4 - Read slides",
+      "S-Download": "",
+      "Student's Tasks": "Review Chapter Discussion",
+      "URLs": ""
+    },
+    {
+      "Session": "15",
+      "Topic": "Unit 4: SPECIAL INTEREST TOURISM 4.4 Designing SIT 4.4.1 Product Attractions 4.4.2 Accessibility: A Key Factor 4.4.3 Attitudes: Characteristic Features",
+      "Learning-Teaching Type": "Offline",
+      "LO": "CLO2, CLO7",
+      "ITU": "I",
+      "Student Materials": "- Review TTD301 - Read textbook UNIT 4 - Read slides",
+      "S-Download": "",
+      "Student's Tasks": "Review Chapter Discussion",
+      "URLs": ""
+    },
+    {
+      "Session": "16",
+      "Topic": "Unit 5: CULTURE 5.0 Objectives 5.1 Introduction 5.2 Culture as a Tourism Product: Possibilities",
+      "Learning-Teaching Type": "Offline",
+      "LO": "CLO2, CLO7, CLO8",
+      "ITU": "I",
+      "Student Materials": "- Review TTD301 - Read textbook UNIT 5 - Read slides",
+      "S-Download": "",
+      "Student's Tasks": "Review Chapter Discussion",
+      "URLs": ""
+    },
+    {
+      "Session": "17",
+      "Topic": "Unit 5: CULTURE 5.3 Developing Culture as a Tourism Product 5.3.1 Life Style 5.3.2 Sites and Objects 5.3.3 Beliefs and Customs",
+      "Learning-Teaching Type": "Offline",
+      "LO": "CLO2, CLO7, CLO8",
+      "ITU": "I",
+      "Student Materials": "- Review TTD301 - Read textbook UNIT 5 - Read slides",
+      "S-Download": "",
+      "Student's Tasks": "Review Chapter Discussion",
+      "URLs": ""
+    },
+    {
+      "Session": "18",
+      "Topic": "Unit 5: CULTURE 5.4 Designing Culture as a Tourism Product 5.5 Culture and Mass Media",
+      "Learning-Teaching Type": "Offline",
+      "LO": "CLO2, CLO7, CLO8",
+      "ITU": "I",
+      "Student Materials": "- Review TTD301 - Read textbook UNIT 5 - Read slides",
+      "S-Download": "",
+      "Student's Tasks": "Review Chapter Discussion",
+      "URLs": ""
+    },
+    {
+      "Session": "19",
+      "Topic": "Unit 6: RELIGIOUS TOURISM (PILGRIMAGE) 6.0 Objectives 6.1 Introduction 6.2 Historical Perspective of Religious Tourism",
+      "Learning-Teaching Type": "Offline",
+      "LO": "CLO3, CLO4, CLO5, CLO9",
+      "ITU": "I",
+      "Student Materials": "- Review TTD301 - Read textbook UNIT 6 - Read slides",
+      "S-Download": "",
+      "Student's Tasks": "Review Chapter Discussion",
+      "URLs": ""
+    },
+    {
+      "Session": "20",
+      "Topic": "Unit 6: RELIGIOUS TOURISM (PILGRIMAGE) 6.3 Designing of Religious Tourism Product 6.4 Issues and Considerations for Designing Religious Tourism Products 6.5 Characteristics of Religious Tourism",
+      "Learning-Teaching Type": "Offline",
+      "LO": "CLO3, CLO4, CLO5, CLO9",
+      "ITU": "I",
+      "Student Materials": "- Review TTD301 - Read textbook UNIT 6 - Read slides",
+      "S-Download": "",
+      "Student's Tasks": "Review Chapter Discussion",
+      "URLs": ""
+    },
+    {
+      "Session": "21",
+      "Topic": "Unit 6: RELIGIOUS TOURISM (PILGRIMAGE) (Con't) 6.3 Designing of Religious Tourism Product 6.4 Issues and Considerations for Designing Religious Tourism Products 6.5 Characteristics of Religious Tourism",
+      "Learning-Teaching Type": "Offline",
+      "LO": "CLO3, CLO4, CLO5, CLO9",
+      "ITU": "I",
+      "Student Materials": "- Review TTD301 - Read textbook UNIT 6 - Read slides",
+      "S-Download": "",
+      "Student's Tasks": "Review Chapter Discussion",
+      "URLs": ""
+    },
+    {
+      "Session": "22",
+      "Topic": "Unit 7: ECOLOGY AND WILDLIFE 7.0 Objectives 7.1 Introduction 7.2 Potential Resources of Ecology and Wildlife for Designing and Developing Tourism Products 7.3 Research and Analysis of Eco-tourism Market",
+      "Learning-Teaching Type": "Offline",
+      "LO": "CLO2, CLO9",
+      "ITU": "I",
+      "Student Materials": "- Review TTD301 - Read textbook UNIT 7 - Read slides",
+      "S-Download": "",
+      "Student's Tasks": "Review Chapter Discussion",
+      "URLs": ""
+    },
+    {
+      "Session": "23",
+      "Topic": "Unit 7: ECOLOGY AND WILDLIFE 7.4 Potential Buyers for the Product 7.5 Legislations Related to Ecology and Wildlife 7.6 Designing the Productt",
+      "Learning-Teaching Type": "Offline",
+      "LO": "CLO2, CLO9",
+      "ITU": "I",
+      "Student Materials": "- Review TTD301 - Read textbook UNIT 7 - Read slides",
+      "S-Download": "",
+      "Student's Tasks": "Review Chapter Discussion",
+      "URLs": ""
+    },
+    {
+      "Session": "24",
+      "Topic": "Unit 7: ECOLOGY AND WILDLIFE 7.7 Developing and Positioning of the Product 7.8 Tourist Behaviour 7.9 Future Trends and Scope of Eco and Wildlife Tourism GROUP ASSIGNMENT GUIDELINE PART 2",
+      "Learning-Teaching Type": "Offline",
+      "LO": "CLO2, CLO9",
+      "ITU": "I",
+      "Student Materials": "- Review TTD301 - Read textbook UNIT 7 - Read slides",
+      "S-Download": "",
+      "Student's Tasks": "Review Chapter Discussion",
+      "URLs": ""
+    },
+    {
+      "Session": "25",
+      "Topic": "QUIZ 2",
+      "Learning-Teaching Type": "Offline",
+      "LO": "CLO2, CLO3, CLO4, CLO5, CLO7, CLO8, CLO9",
+      "ITU": "I",
+      "Student Materials": "- Review TTD301 - Read textbook UNIT 4,5,6,7 - Read slides",
+      "S-Download": "",
+      "Student's Tasks": "Review Chapter Discussion Quiz 2",
+      "URLs": ""
+    },
+    {
+      "Session": "26",
+      "Topic": "REVIEW QUIZ 2",
+      "Learning-Teaching Type": "Offline",
+      "LO": "CLO2, CLO3, CLO4, CLO5, CLO7, CLO8, CLO9",
+      "ITU": "I",
+      "Student Materials": "- Review TTD301 - Read textbook UNIT 4,5,6,7 - Read slides",
+      "S-Download": "",
+      "Student's Tasks": "Review Chapter Discussion",
+      "URLs": ""
+    },
+    {
+      "Session": "27",
+      "Topic": "REVIEW QUIZ 2",
+      "Learning-Teaching Type": "Offline",
+      "LO": "CLO2, CLO3, CLO4, CLO5, CLO7, CLO8, CLO9",
+      "ITU": "I",
+      "Student Materials": "- Review TTD301 - Read textbook UNIT 4,5,6,7 - Read slides",
+      "S-Download": "",
+      "Student's Tasks": "Review Chapter Discussion",
+      "URLs": ""
+    },
+    {
+      "Session": "28",
+      "Topic": "Unit 8: ADVENTURE TOURISM 8.0 Objectives 8.1 Introduction 8.2 Adventure Activities and Sports 8.2.1 Aerial Adventure 8.2.2 Water Adventure 8.2.3 Land Adventure",
+      "Learning-Teaching Type": "Offline",
+      "LO": "CLO8, CLO9",
+      "ITU": "I",
+      "Student Materials": "- Review TTD301 - Read textbook UNIT 8 - Read slides",
+      "S-Download": "",
+      "Student's Tasks": "Review Chapter Discussion",
+      "URLs": ""
+    },
+    {
+      "Session": "29",
+      "Topic": "Unit 8: ADVENTURE TOURISM 8.3 Market Research and Analysis 8.4 Designing A Product 8.5 Developing the Adventur e Product",
+      "Learning-Teaching Type": "Offline",
+      "LO": "CLO8, CLO9",
+      "ITU": "I",
+      "Student Materials": "- Review TTD301 - Read textbook UNIT 8 - Read slides",
+      "S-Download": "",
+      "Student's Tasks": "Review Chapter Discussion",
+      "URLs": ""
+    },
+    {
+      "Session": "30",
+      "Topic": "Unit 8: ADVENTURE TOURISM 8.6 Devising and Positioning the Adventure Product 8.7 Tourist Behaviour 8.8 Future Trends and Scope of Adventure Tourism",
+      "Learning-Teaching Type": "Offline",
+      "LO": "CLO8, CLO9",
+      "ITU": "I",
+      "Student Materials": "- Review TTD301 - Read textbook UNIT 8 - Read slides",
+      "S-Download": "",
+      "Student's Tasks": "Review Chapter Discussion",
+      "URLs": ""
+    },
+    {
+      "Session": "31",
+      "Topic": "Unit 9: HEALTH TOURISM 9.0 Objectives 9.1 Introduction 9.2 What is Health Tourism?",
+      "Learning-Teaching Type": "Offline",
+      "LO": "CLO5, CLO6,CLO7",
+      "ITU": "I",
+      "Student Materials": "- Review TTD301 - Read textbook UNIT 9 - Read slides",
+      "S-Download": "",
+      "Student's Tasks": "Review Chapter Discussion",
+      "URLs": ""
+    },
+    {
+      "Session": "32",
+      "Topic": "Unit 9: HEALTH TOURISM 9.3 Market Research and Analysis 9.4 Designing the Health Product",
+      "Learning-Teaching Type": "Offline",
+      "LO": "CLO5, CLO6,CLO7",
+      "ITU": "I",
+      "Student Materials": "- Review TTD301 - Read textbook UNIT 9 - Read slides",
+      "S-Download": "",
+      "Student's Tasks": "Review Chapter Discussion",
+      "URLs": ""
+    },
+    {
+      "Session": "33",
+      "Topic": "Unit 9: HEALTH TOURISM 9.5 Development and Positioning the Health Tourism Product 9.6 Future Trends and Scope of Health Tourism",
+      "Learning-Teaching Type": "Offline",
+      "LO": "CLO5, CLO6,CLO7",
+      "ITU": "I",
+      "Student Materials": "- Review TTD301 - Read textbook UNIT 9 - Read slides",
+      "S-Download": "",
+      "Student's Tasks": "Review Chapter Discussion",
+      "URLs": ""
+    },
+    {
+      "Session": "34",
+      "Topic": "Unit 10: ISLAND AND BEACH TOURISM PRODUCT 10.0 Objectives 10.1 Introduction 10.2 Emergence of Beach and Island Tourism 10.3 Features of Beach and Island Tourism 10.3.1 A Nature based Tourism 10.3.2 Peripheral Attractions",
+      "Learning-Teaching Type": "Offline",
+      "LO": "CLO7, CLO8, CLO9",
+      "ITU": "I",
+      "Student Materials": "- Review TTD301 - Read textbook UNIT 10 - Read slides",
+      "S-Download": "",
+      "Student's Tasks": "Review Chapter Discussion",
+      "URLs": ""
+    },
+    {
+      "Session": "35",
+      "Topic": "Unit 10: ISLAND AND BEACH TOURISM PRODUCT 10.4 Beach and Island As Tourist product 10.4.1 Concept of a tourist product 10.4.2 Design of tourist product 10.4.3 Infra-structural Facilities 10.4.4 Marketing 10.4.5 Environmental constraints",
+      "Learning-Teaching Type": "Offline",
+      "LO": "CLO7, CLO8, CLO9",
+      "ITU": "I",
+      "Student Materials": "- Review TTD301 - Read textbook UNIT 10 - Read slides",
+      "S-Download": "",
+      "Student's Tasks": "Review Chapter Discussion",
+      "URLs": ""
+    },
+    {
+      "Session": "36",
+      "Topic": "Unit 10: ISLAND AND BEACH TOURISM PRODUCT 10.5 Kovalam: A Case of Beach Product 10.5.1 Characteristics 10.5.2 Attractions 10.6 Lakshdweep: An Ideal Island Product 10.6.1 Fragile Ecology; Core Attraction 10.6.2 Secondary Attractions 10.6.3 Marketing",
+      "Learning-Teaching Type": "Offline",
+      "LO": "CLO7, CLO8, CLO9",
+      "ITU": "I",
+      "Student Materials": "- Review TTD301 - Read textbook UNIT 10 - Read slides",
+      "S-Download": "",
+      "Student's Tasks": "Review Chapter Discussion",
+      "URLs": ""
+    },
+    {
+      "Session": "37",
+      "Topic": "Quiz 3",
+      "Learning-Teaching Type": "Offline",
+      "LO": "CLO5, CLO6, CLO7, CLO8, CLO9",
+      "ITU": "I",
+      "Student Materials": "- Review TTD301 - Read textbook UNIT 8,9,10 - Read slides",
+      "S-Download": "",
+      "Student's Tasks": "Review Chapter Discussion Quiz 3",
+      "URLs": ""
+    },
+    {
+      "Session": "38",
+      "Topic": "REVIEW QUIZ 3",
+      "Learning-Teaching Type": "Offline",
+      "LO": "CLO5, CLO6, CLO7, CLO8, CLO9",
+      "ITU": "I",
+      "Student Materials": "- Review TTD301 - Read textbook UNIT 8,9,10 - Read slides",
+      "S-Download": "",
+      "Student's Tasks": "Review Chapter Discussion",
+      "URLs": ""
+    },
+    {
+      "Session": "39",
+      "Topic": "REVIEW QUIZ 3",
+      "Learning-Teaching Type": "Offline",
+      "LO": "CLO5, CLO6, CLO7, CLO8, CLO9",
+      "ITU": "I",
+      "Student Materials": "- Review TTD301 - Read textbook UNIT 8,9,10 - Read slides",
+      "S-Download": "",
+      "Student's Tasks": "Review Chapter Discussion",
+      "URLs": ""
+    },
+    {
+      "Session": "40",
+      "Topic": "Fieldtrip: Visit the product development department of a travel company. Through the meeting with the managers and employees, learn about a product they are building or about their product development process.",
+      "Learning-Teaching Type": "Offline",
+      "LO": "CLO3, CLO4, CLO5, CLO6, CLO7, CLO8",
+      "ITU": "I",
+      "Student Materials": "",
+      "S-Download": "",
+      "Student's Tasks": "",
+      "URLs": ""
+    },
+    {
+      "Session": "41",
+      "Topic": "Fieldtrip: Visit the product development department of a travel company. Through the meeting with the managers and employees, learn about a product they are building or about their product development process.",
+      "Learning-Teaching Type": "Offline",
+      "LO": "CLO3, CLO4, CLO5, CLO6, CLO7, CLO8",
+      "ITU": "I",
+      "Student Materials": "",
+      "S-Download": "",
+      "Student's Tasks": "",
+      "URLs": ""
+    },
+    {
+      "Session": "42",
+      "Topic": "Fieldtrip: Visit the product development department of a travel company. Through the meeting with the managers and employees, learn about a product they are building or about their product development process.",
+      "Learning-Teaching Type": "Offline",
+      "LO": "CLO3, CLO4, CLO5, CLO6, CLO7, CLO8",
+      "ITU": "I",
+      "Student Materials": "",
+      "S-Download": "",
+      "Student's Tasks": "",
+      "URLs": ""
+    },
+    {
+      "Session": "43",
+      "Topic": "Individual essay for Fieldtrip",
+      "Learning-Teaching Type": "Offline",
+      "LO": "CLO3, CLO4, CLO5, CLO6, CLO7, CLO8",
+      "ITU": "I",
+      "Student Materials": "- Review TTD301 - Read textbook UNIT 1 -> 10 - Read slides",
+      "S-Download": "",
+      "Student's Tasks": "Review Chapter Discussion",
+      "URLs": ""
+    },
+    {
+      "Session": "44",
+      "Topic": "Unit 11: ETHNIC AND RURAL TOURISM 11.0 Objectives 11.1 Introduction 11.2 Defining Ethnic and Rural Tourism 11.2.1 An Overlapping Form of Tourism 11.2.2 Significance",
+      "Learning-Teaching Type": "Offline",
+      "LO": "CL1, CLO5, CLO7, CLO8",
+      "ITU": "I",
+      "Student Materials": "- Review TTD301 - Read textbook UNIT 11 - Read slides",
+      "S-Download": "",
+      "Student's Tasks": "Review Chapter Discussion",
+      "URLs": ""
+    },
+    {
+      "Session": "45",
+      "Topic": "Unit 11: ETHNIC AND RURAL TOURISM 11.3 Ethnic and Rural Tourism: As Tourist Product 11.3.1 Designing of a Tourism Product 11.3.2 Cultural Variations 11.3.3 Marketing",
+      "Learning-Teaching Type": "Offline",
+      "LO": "CL1, CLO5, CLO7, CLO8",
+      "ITU": "I",
+      "Student Materials": "- Review TTD301 - Read textbook UNIT 11 - Read slides",
+      "S-Download": "",
+      "Student's Tasks": "Review Chapter Discussion",
+      "URLs": ""
+    },
+    {
+      "Session": "46",
+      "Topic": "Unit 11: ETHNIC AND RURAL TOURISM 11.4 Issues and Considerations 11.5 Potential of Ethnic 11.5.1 Festivals 11.5.2 Fairs",
+      "Learning-Teaching Type": "Offline",
+      "LO": "CL1, CLO5, CLO7, CLO8",
+      "ITU": "I",
+      "Student Materials": "- Review TTD301 - Read textbook UNIT 11 - Read slides",
+      "S-Download": "",
+      "Student's Tasks": "Review Chapter Discussion",
+      "URLs": ""
+    },
+    {
+      "Session": "47",
+      "Topic": "Unit 12: CRUISES 12.0 Objectives 12.1 Introduction 12.2 Origin of Cruise Industry 12.3 Present Cruise Industry",
+      "Learning-Teaching Type": "Offline",
+      "LO": "CL1, CLO5, CLO7, CLO8",
+      "ITU": "I",
+      "Student Materials": "- Review TTD301 - Read textbook UNIT 12 - Read slides",
+      "S-Download": "",
+      "Student's Tasks": "Review Chapter Discussion",
+      "URLs": ""
+    },
+    {
+      "Session": "48",
+      "Topic": "Unit 12: CRUISES 12.4 Typology of Cruises Products 12.4.1 Resort/Contemporary Cruise Product 12.4.2 Premium Cruise Product 12.4.3 Luxury Cruise Product 12.4.4 Niche/Speciality Cruise Product 12.4.5 Value/Traditional Cruise Product",
+      "Learning-Teaching Type": "Offline",
+      "LO": "CL1, CLO5, CLO7, CLO8",
+      "ITU": "I",
+      "Student Materials": "- Review TTD301 - Read textbook UNIT 12 - Read slides",
+      "S-Download": "",
+      "Student's Tasks": "Review Chapter Discussion",
+      "URLs": ""
+    },
+    {
+      "Session": "49",
+      "Topic": "Unit 12: CRUISES 12.5 Queen Elizabeth 2 Cruise: A Case for Developing Cruise Products 12.6 Key Marketing Techniques for Cruise Designers and Developers 12.7 Pricing of Cruise Products",
+      "Learning-Teaching Type": "Offline",
+      "LO": "CL1, CLO5, CLO7, CLO8",
+      "ITU": "I",
+      "Student Materials": "- Review TTD301 - Read textbook UNIT 12 - Read slides",
+      "S-Download": "",
+      "Student's Tasks": "Review Chapter Discussion",
+      "URLs": ""
+    },
+    {
+      "Session": "50",
+      "Topic": "Unit 12: CRUISES 12.8 Physical Layout of a Cruise 12.9 Cruise Along Ganges; A Model Case of Indian Cruise Product 12.10 Travel Tips for Cruisers 12.10.1 Getting To Your Cruise Ship - What to Expect? 12.10.2 Travel Tips 12.10.3 Cruise Line Security",
+      "Learning-Teaching Type": "Offline",
+      "LO": "CL1, CLO5, CLO7, CLO8",
+      "ITU": "I",
+      "Student Materials": "- Review TTD301 - Read textbook UNIT 12 - Read slides",
+      "S-Download": "",
+      "Student's Tasks": "Review Chapter Discussion",
+      "URLs": ""
+    },
+    {
+      "Session": "51",
+      "Topic": "Unit 13: EVENTS 13.0 Objectives 13.1 Introduction 13.2 Types of Events 13.3 Market Research and Analysis",
+      "Learning-Teaching Type": "Offline",
+      "LO": "CLO6, CLO8",
+      "ITU": "I",
+      "Student Materials": "- Review TTD301 - Read textbook UNIT 13 - Read slides",
+      "S-Download": "",
+      "Student's Tasks": "Review Chapter Discussion",
+      "URLs": ""
+    },
+    {
+      "Session": "52",
+      "Topic": "Unit 13: EVENTS 13.4 Designing the Product 13.5 Challenges and Issues Related to Developing the Products for Events",
+      "Learning-Teaching Type": "Offline",
+      "LO": "CLO6, CLO8",
+      "ITU": "I",
+      "Student Materials": "- Review TTD301 - Read textbook UNIT 13 - Read slides",
+      "S-Download": "",
+      "Student's Tasks": "Review Chapter Discussion",
+      "URLs": ""
+    },
+    {
+      "Session": "53",
+      "Topic": "Unit 13: EVENTS 13.6 Positioning the Product: A Case Study of Mareech Event Management Company 13.7 Future Trends and Scope of Tourism Related to Events GROUP ASSIGNMENT SUBMISSION",
+      "Learning-Teaching Type": "Offline",
+      "LO": "CLO6, CLO8",
+      "ITU": "I",
+      "Student Materials": "- Review TTD301 - Read textbook UNIT 13 - Read slides",
+      "S-Download": "",
+      "Student's Tasks": "Review Chapter Discussion",
+      "URLs": ""
+    },
+    {
+      "Session": "54",
+      "Topic": "Unit 14: RESORTS: DESIGNING AND MANAGEMENT 14.0 Objectives 14.1 Introduction 14.2 Types of Resorts 14.3 Growth Trends of Resort Market",
+      "Learning-Teaching Type": "Offline",
+      "LO": "CLO6, CLO8",
+      "ITU": "I",
+      "Student Materials": "- Review TTD301 - Read textbook UNIT 14 - Read slides",
+      "S-Download": "",
+      "Student's Tasks": "Review Chapter Discussion",
+      "URLs": ""
+    },
+    {
+      "Session": "55",
+      "Topic": "Unit 14: RESORTS: DESIGNING AND MANAGEMENT 14.4 Potential Supply Resources for Tourist Resorts 14.5 Resort Designing and Planning Process",
+      "Learning-Teaching Type": "Offline",
+      "LO": "CLO6, CLO8",
+      "ITU": "I",
+      "Student Materials": "- Review TTD301 - Read textbook UNIT 14 - Read slides",
+      "S-Download": "",
+      "Student's Tasks": "Review Chapter Discussion",
+      "URLs": ""
+    },
+    {
+      "Session": "56",
+      "Topic": "Unit 14: RESORTS: DESIGNING AND MANAGEMENT 14.6 Tourist Resorts – Homogenous Product 14.7 Problems and Challenges 14.8 Suggested Recommendations for Presentation and Improving of Surrounding",
+      "Learning-Teaching Type": "Offline",
+      "LO": "CLO6, CLO8",
+      "ITU": "I",
+      "Student Materials": "- Review TTD301 - Read textbook UNIT 14 - Read slides",
+      "S-Download": "",
+      "Student's Tasks": "Review all topic Discussion Presentation",
+      "URLs": ""
+    },
+    {
+      "Session": "57",
+      "Topic": "Group Assignment Presentation",
+      "Learning-Teaching Type": "Offline",
+      "LO": "All CLOs",
+      "ITU": "I,T,U",
+      "Student Materials": "Implement plan",
+      "S-Download": "",
+      "Student's Tasks": "Review all topic Discussion Presentation",
+      "URLs": ""
+    },
+    {
+      "Session": "58",
+      "Topic": "Group Assignment Presentation",
+      "Learning-Teaching Type": "Offline",
+      "LO": "All CLOs",
+      "ITU": "I,T,U",
+      "Student Materials": "Implement plan",
+      "S-Download": "",
+      "Student's Tasks": "Review all topic Discussion Presentation",
+      "URLs": ""
+    },
+    {
+      "Session": "59",
+      "Topic": "Group Assignment Presentation",
+      "Learning-Teaching Type": "Offline",
+      "LO": "All CLOs",
+      "ITU": "I,T,U",
+      "Student Materials": "Implement plan",
+      "S-Download": "",
+      "Student's Tasks": "Review all topic Discussion Presentation",
+      "URLs": ""
+    },
+    {
+      "Session": "60",
+      "Topic": "REVIEW ALL THE KNOWLEDGE TO PREPARE FOR THE FINAL EXAM",
+      "Learning-Teaching Type": "Offline",
+      "LO": "All CLOs",
+      "ITU": "I,T",
+      "Student Materials": "",
+      "S-Download": "",
+      "Student's Tasks": "Review all topic",
+      "URLs": ""
+    }
+  ],
+  "constructive_questions": [
+    {
+      "No.": "1",
+      "Session No": "1",
+      "Name": "CQ1",
+      "Details": "Manipulate logical expressions and use logic for inference"
+    },
+    {
+      "No.": "2",
+      "Session No": "1",
+      "Name": "CQ2",
+      "Details": "Perform basic operations on sets, functions and sequences"
+    },
+    {
+      "No.": "3",
+      "Session No": "2",
+      "Name": "CQ1",
+      "Details": "Analyze basic algorithms written in pseudo codes and determine theirs complexities"
+    },
+    {
+      "No.": "4",
+      "Session No": "3",
+      "Name": "CQ1",
+      "Details": "Discuss applications of modular arithmetic and analyze algorithms on integers"
+    },
+    {
+      "No.": "5",
+      "Session No": "4",
+      "Name": "CQ1",
+      "Details": "Use induction and recursive definition to prove a statement or to describe an object, and write recursive algorithms"
+    },
+    {
+      "No.": "6",
+      "Session No": "4",
+      "Name": "CQ2",
+      "Details": "Solve counting problems"
+    },
+    {
+      "No.": "7",
+      "Session No": "4",
+      "Name": "CQ3",
+      "Details": "Analyze the structure of a graph and find shortest paths in a weighted graph"
+    },
+    {
+      "No.": "8",
+      "Session No": "4",
+      "Name": "CQ4",
+      "Details": "Analyze the structure of a tree and describe algorithms using trees"
+    }
+  ],
+  "materials": [
+    {
+      "No.": "1",
+      "Material Description": "Tourism Products: Design and Development",
+      "Author": "INDIRA GANDHI NATIONAL OPEN UNIVERSITY",
+      "Publisher": "",
+      "Published Date": "2017",
+      "Edition": "",
+      "ISBN": "",
+      "Is Main Material": "True",
+      "Is Hard Copy": "False",
+      "Is Online": "True",
+      "Note": "https://egyankosh.ac.in/handle/123456789/3294"
+    },
+    {
+      "No.": "2",
+      "Material Description": "Chapter 8,9 - Tourism, Transport and Travel Management",
+      "Author": "M. R. Dileep",
+      "Publisher": "Routledge",
+      "Published Date": "2019",
+      "Edition": "",
+      "ISBN": "9781138557444",
+      "Is Main Material": "False",
+      "Is Hard Copy": "True",
+      "Is Online": "False",
+      "Note": "Textbook TTM201"
+    },
+    {
+      "No.": "3",
+      "Material Description": "Marketing for Tourism, Hospitality & Events: A Global & Digital Approach",
+      "Author": "Simon Hudson & Louise Hudson",
+      "Publisher": "Sage Publications",
+      "Published Date": "2017",
+      "Edition": "1st edition",
+      "ISBN": "",
+      "Is Main Material": "False",
+      "Is Hard Copy": "True",
+      "Is Online": "False",
+      "Note": ""
+    }
+  ],
+  "source_path": "data/raw/syllabi/13621.html",
+  "id": "syllabus:13621"
+}

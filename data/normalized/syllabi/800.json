@@ -1,0 +1,500 @@
+{
+  "syllabus_id": 800,
+  "subject_code": "CCC101",
+  "subject_name": "Cross Culture Communications",
+  "syllabus_name": "Cross Culture Communication",
+  "credits": 3,
+  "degree_level": "Bachelor in English Language",
+  "time_allocation": "1 course = 30 sessions 1 session= 90 minutes",
+  "prerequisite": "",
+  "general_information": {
+    "Syllabus ID": "800",
+    "Syllabus Name": "Cross Culture Communication",
+    "Course Name English": "",
+    "Subject Code": "CCC101",
+    "Learning-Teaching Method": "",
+    "NoCredit": "3",
+    "Degree Level": "Bachelor in English Language",
+    "Time Allocation": "1 course = 30 sessions 1 session= 90 minutes",
+    "Pre-Requisite": "",
+    "Description": "This course focuses on fundamental conceptual and practical dimensions of intercultural communication in everyday life in social interactions in multicultural environments. It aims at developing an individual’s intellectual appreciation for cultural differences and sensitivity regarding intercultural interactions. Course objectives: 1. Discuss basic concepts, conceptual frameworks, and some broader contexts of cross culture communication; 2. Analyze and discuss examples of cross-cultural conflicts in a variety of situations; 3. Develop an understanding of barriers to effective intercultural communication; 4. Develop intercultural sensitivity in terms of beliefs, values, and norms; 5. Develop an understanding of intercultural competence.",
+    "StudentTasks": "",
+    "Tools": "",
+    "Scoring Scale": "10",
+    "DecisionNo MM/dd/yyyy": "1252/QĐ-ĐHFPT dated 11/17/2017",
+    "IsApproved": "True",
+    "Note": "",
+    "Is Scored": "True",
+    "MinAvgMarkToPass": "5",
+    "IsActive": "True",
+    "ApprovedDate": "11/17/2017"
+  },
+  "active": true,
+  "approved": true,
+  "decision": "1252/QĐ-ĐHFPT dated 11/17/2017",
+  "description": "This course focuses on fundamental conceptual and practical dimensions of intercultural communication in everyday life in social interactions in multicultural environments. It aims at developing an individual’s intellectual appreciation for cultural differences and sensitivity regarding intercultural interactions. Course objectives: 1. Discuss basic concepts, conceptual frameworks, and some broader contexts of cross culture communication; 2. Analyze and discuss examples of cross-cultural conflicts in a variety of situations; 3. Develop an understanding of barriers to effective intercultural communication; 4. Develop intercultural sensitivity in terms of beliefs, values, and norms; 5. Develop an understanding of intercultural competence.",
+  "learning_outcomes": [
+    {
+      "No.": "1",
+      "CLO Name": "CLO1",
+      "CLO Details": "Define and identify basic concepts"
+    },
+    {
+      "No.": "2",
+      "CLO Name": "CLO2",
+      "CLO Details": "Understand the relationship between Communication and Culture and their elements;"
+    },
+    {
+      "No.": "3",
+      "CLO Name": "CLO3",
+      "CLO Details": "Recognize the Deep Structure of Culture: Lessons from the Family;"
+    },
+    {
+      "No.": "4",
+      "CLO Name": "CLO4",
+      "CLO Details": "Understand Cultural History of different countries/ religions;"
+    },
+    {
+      "No.": "5",
+      "CLO Name": "CLO5",
+      "CLO Details": "Understand the Cultural Explanations of Life and Death; concepts related religions and some popular religions in the world;"
+    },
+    {
+      "No.": "6",
+      "CLO Name": "CLO6",
+      "CLO Details": "Identify Cultural Values and apply some Guidelines for Behavior"
+    },
+    {
+      "No.": "7",
+      "CLO Name": "CLO7",
+      "CLO Details": "Understand the concepts and relationship between culture and identity;"
+    },
+    {
+      "No.": "8",
+      "CLO Name": "CLO8",
+      "CLO Details": "Deepy understand and apply verbal language in communication;"
+    },
+    {
+      "No.": "9",
+      "CLO Name": "CLO9",
+      "CLO Details": "Deepy understand and apply non-verbal language in communication;"
+    },
+    {
+      "No.": "10",
+      "CLO Name": "CLO10",
+      "CLO Details": "Understand Cultural Influences on different Communication Contexts including business, education and health care context; the challenges of intercultural comminucation."
+    }
+  ],
+  "assessments": [
+    {
+      "No.": "1",
+      "Category": "Assignment",
+      "Type": "on-going",
+      "Part": "1",
+      "Weight": "30.0%",
+      "Completion Criteria": ">0",
+      "Duration": "",
+      "CLO": "",
+      "Question Type": "Each student chooses one sub-topic related to the contents covered in the course and write about it. The assignment is supposed to be 1000-1500 words long.",
+      "No Question": "",
+      "Knowledge and Skill": "",
+      "Grading Guide": "",
+      "Note": ""
+    },
+    {
+      "No.": "2",
+      "Category": "Class participation and preparation",
+      "Type": "on-going",
+      "Part": "1",
+      "Weight": "10.0%",
+      "Completion Criteria": ">0",
+      "Duration": "",
+      "CLO": "",
+      "Question Type": "",
+      "No Question": "",
+      "Knowledge and Skill": "",
+      "Grading Guide": "",
+      "Note": "Participation grade will be given based on students' preparation, quantity as well as quality of participation in classroom; quality of participation is demonstrated through asking relevant questions, making statements that add to and facilitate class discussion, and builds upon others’ comments."
+    },
+    {
+      "No.": "3",
+      "Category": "Group Presentation",
+      "Type": "on-going",
+      "Part": "1",
+      "Weight": "20.0%",
+      "Completion Criteria": ">0",
+      "Duration": "30' (20 mins to present and 10 mins for Q & A)",
+      "CLO": "",
+      "Question Type": "The whole class is divided into groups. Each group is assigned to choose one topic related to the contents covered in the textbook and present about it in 20 minutes, 10 mins for Q & A.",
+      "No Question": "",
+      "Knowledge and Skill": "Based on topics of studied units (Suggestions: greeting custom, wedding customs, social etiquete, Issues of Belonging, guesture interpretation, etc)",
+      "Grading Guide": "",
+      "Note": "The mark will be given based on each student's performance, not on the whole group's. It means each student will get his own mark."
+    },
+    {
+      "No.": "4",
+      "Category": "Final exam",
+      "Type": "Final exam",
+      "Part": "1",
+      "Weight": "40.0%",
+      "Completion Criteria": "4",
+      "Duration": "40'",
+      "CLO": "LO1, LO2, LO3, LO4, LO5, LO6, LO7, LO8, LO9, LO10",
+      "Question Type": "50 questions (from testbank in Powerlecture package) (can be a project or an assignemnt)",
+      "No Question": "",
+      "Knowledge and Skill": "The question will cover the lectures, class discussions, activities, exercises, and textbook.",
+      "Grading Guide": "Exam room",
+      "Note": "Not allow to use any document/information in any form in exam room"
+    }
+  ],
+  "schedule": [
+    {
+      "Session": "1",
+      "Topic": "Course introduction, group presentation arrangement and assignment details Chapter 1 Intercultural Communication: A requirement for the Interdependent Global Society The Interdependent Global Society The Requirement for Intercultural Côperation - Social Changes - Ecological Concerns - Humanitanian and Legal Cooperation - Political Issues - Security Concerns",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO1",
+      "ITU": "I, T, U",
+      "Student Materials": "Textbooks, workbooks, PPT presentation, suplementary materials on Azar and other resources",
+      "S-Download": "",
+      "Student's Tasks": "Teacher's Presentation, Discussion, Exercises, Games",
+      "URLs": ""
+    },
+    {
+      "Session": "2",
+      "Topic": "Chapter 1 (Cont.) Technology Developing Intercultural Awareness - Individual Uniqueness - Generalizing - Compromise in Intercltural Communication - Communication Is Not the Universal Solution - Activities",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO1",
+      "ITU": "I, T, U",
+      "Student Materials": "Textbooks, workbooks, PPT presentation, suplementary materials on Azar and other resources",
+      "S-Download": "",
+      "Student's Tasks": "Group Presentation, Discussion, Exercises, Games",
+      "URLs": ""
+    },
+    {
+      "Session": "3",
+      "Topic": "Chapter 2 Communication and Culture: The Voice and the Echo HUMAN COMMUNICATION THE USES OF COMMUNICATION - Communication Helps Fulfill Interpersonal Needs - Communication Assists with Person Perception - Communication Establishes Cultural and Person Identities - Communication Has Persuasive Quanlities DEFINING HUNAM COMMUNICATION",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO2",
+      "ITU": "I, T, U",
+      "Student Materials": "Textbooks, workbooks, PPT presentation, suplementary materials on Azar and other resources",
+      "S-Download": "",
+      "Student's Tasks": "Group Presentation, Discussion, Exercises, Games",
+      "URLs": ""
+    },
+    {
+      "Session": "4",
+      "Topic": "Chapter 2 (Cont.) THE INGREDIENT OF HUMAN COMMUNICATION COMPONENTS OF HUMAN COMMUNICATION",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO2",
+      "ITU": "I, T, U",
+      "Student Materials": "",
+      "S-Download": "",
+      "Student's Tasks": "",
+      "URLs": ""
+    },
+    {
+      "Session": "5",
+      "Topic": "Chapter 2 (Cont.) CULTURE - Culture Defined - Characteristics of Culture - The Elements of Culture DEVELOPING INTERCULTURAL COMPETENCE Activities, Concepts and Questions",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO2",
+      "ITU": "I, T, U",
+      "Student Materials": "Textbooks, workbooks, PPT presentation, suplementary materials on Azar and other resources",
+      "S-Download": "",
+      "Student's Tasks": "Group Presentation, Discussion, Exercises, Games",
+      "URLs": ""
+    },
+    {
+      "Session": "6",
+      "Topic": "Chapter 3 The Deep Structure of Culture: Lessons from the Family THE DEEP STRUCTURE OF CULTURE - Deep Structure Institutions Transmit Culture’s Most Important Messages - Deep Structure Institutions and Their Messages Endure - Deep Structure Institutions and Their Messages are Deeply Felt - Deep Structure Institutions Supply Much of a Person's Identity",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO3",
+      "ITU": "I, T, U",
+      "Student Materials": "Textbooks, workbooks, PPT presentation, suplementary materials on Azar and other resources",
+      "S-Download": "",
+      "Student's Tasks": "Group Presentation, Discussion, Exercises, Games",
+      "URLs": ""
+    },
+    {
+      "Session": "7",
+      "Topic": "Chapter 3 (Cont.) FAMILY - Definition of Family - Forms of Family - Globalization and Families - Functions of the Family - Cultural Variants in Family Interaction",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO3",
+      "ITU": "I, T, U",
+      "Student Materials": "Textbooks, workbooks, PPT presentation, suplementary materials on Azar and other resources",
+      "S-Download": "",
+      "Student's Tasks": "Group Presentation, Discussion, Exercises, Games",
+      "URLs": ""
+    },
+    {
+      "Session": "8",
+      "Topic": "Chapter 3 (Cont.) - The Elderly - Social Skills - Developing Cimmunication Competence Through The Family Activities, Concepts and Questions",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO3",
+      "ITU": "I, T, U",
+      "Student Materials": "Textbooks, workbooks, PPT presentation, suplementary materials on Azar and other resources",
+      "S-Download": "",
+      "Student's Tasks": "Group Presentation, Discussion, Exercises, Games",
+      "URLs": ""
+    },
+    {
+      "Session": "9",
+      "Topic": "Review 1 Group presentation 1",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO1, LO2, LO3",
+      "ITU": "U",
+      "Student Materials": "",
+      "S-Download": "",
+      "Student's Tasks": "",
+      "URLs": ""
+    },
+    {
+      "Session": "10",
+      "Topic": "Chapter 4 Worldview: Cultural Explanations of Life and Death WORLDVIEW - Worldview and Culture - Manifestations of Worldview - Constructs of Worldviews",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO1",
+      "ITU": "I, T, U",
+      "Student Materials": "Textbooks, workbooks, PPT presentation, suplementary materials on Azar and other resources",
+      "S-Download": "",
+      "Student's Tasks": "Group Presentation, Discussion, Exercises, Games",
+      "URLs": ""
+    },
+    {
+      "Session": "11",
+      "Topic": "Chapter 4 (Cont.) RELIGION - Religion and Human Behavior - Selecting Religious Traditions for Study - Common Elements of Religion",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO5",
+      "ITU": "",
+      "Student Materials": "Textbooks, workbooks, PPT presentation, suplementary materials on Azar and other resources",
+      "S-Download": "",
+      "Student's Tasks": "Group Presentation, Discussion, Exercises, Games",
+      "URLs": ""
+    },
+    {
+      "Session": "12",
+      "Topic": "Chapter 4 (Cont.) RELIGION (cont.) - Christianity - Judaism - Islam - Hinduism - Buddhism - Confucianism DEVELOPING RELIGIOUS TOLERANCE Activities, Concepts and Questions",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO5",
+      "ITU": "I, T, U",
+      "Student Materials": "Textbooks, workbooks, PPT presentation, suplementary materials on Azar and other resources",
+      "S-Download": "",
+      "Student's Tasks": "Group Presentation, Discussion, Exercises, Games",
+      "URLs": ""
+    },
+    {
+      "Session": "13",
+      "Topic": "Chapter 5: Cultural History: Precursor to the Present and Future - United States History - Russian History - Chinese History - Japanese History",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO4",
+      "ITU": "I, T, U",
+      "Student Materials": "Textbooks, workbooks, PPT presentation, suplementary materials on Azar and other resources",
+      "S-Download": "",
+      "Student's Tasks": "Group Presentation, Discussion, Exercises, Games",
+      "URLs": ""
+    },
+    {
+      "Session": "14",
+      "Topic": "Chapter 5 (Cont.) - Indian History - Mexican History - Historical Overview of Islamic Civilization - Developing Historical Memory Compentence for Intercultural Commication Interactions Activities, Concepts and Questions",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO4",
+      "ITU": "I, T, U",
+      "Student Materials": "Textbooks, workbooks, PPT presentation, suplementary materials on Azar and other resources",
+      "S-Download": "",
+      "Student's Tasks": "Group Presentation, Discussion, Exercises, Games",
+      "URLs": ""
+    },
+    {
+      "Session": "15",
+      "Topic": "Chapter 6 Cultural Values: Road Maps for Behavior PERCEPTION'S INFLUENCE BELIEFS, VALUES, AND BEHAVIORS - Beliefs - Values - Behaviors UNDERSTANDING CULTURAL PATTERNS CHOOSING CULTURAL PATTERNS APPLYING CULTURAL PATTERNS Activities, Concepts and Questions",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO6",
+      "ITU": "I, T, U",
+      "Student Materials": "Textbooks, workbooks, PPT presentation, suplementary materials on Azar and other resources Textbooks, workbooks, PPT presentation, suplementary materials on Azar and other resources",
+      "S-Download": "",
+      "Student's Tasks": "Teacher's Presentation, Discussion, Exercises, Games Group Presentation, Discussion, Exercises, Games",
+      "URLs": ""
+    },
+    {
+      "Session": "16",
+      "Topic": "Chapter 6 (Cont.) OTHER CULTURAL PATTEN TYPOLOGIES PACE AND FACEBOOK CULTURAL PATTERNS AND COMMUICATION DEVELOPING CULTURAL VALUE AWARENESS",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO6",
+      "ITU": "I, T, U",
+      "Student Materials": "Textbooks, workbooks, PPT presentation, suplementary materials on Azar and other resources",
+      "S-Download": "",
+      "Student's Tasks": "Group Presentation, Discussion, Exercises, Games",
+      "URLs": ""
+    },
+    {
+      "Session": "17",
+      "Topic": "Chapter 7 Culture and Identity: Situating the Individual IDENTITY: DEFINING THE CONCEPT THE INFLUENCE OF IDENTITY EXAMINING SOCIAL IDENTITIES",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO7",
+      "ITU": "I, T, U",
+      "Student Materials": "Textbooks, workbooks, PPT presentation, suplementary materials on Azar and other resources",
+      "S-Download": "",
+      "Student's Tasks": "Group Presentation, Discussion, Exercises, Games",
+      "URLs": ""
+    },
+    {
+      "Session": "18",
+      "Topic": "Chapter 7 (Cont.) IDENTITY ACQUISITION AND DEVELOPMENT ESTABLISHING AND ENACTING CULTURAL IDENTITY GLOBALIZATION AND CULTURAL IDETITY COMPETECY AND IDENTITY IN INTERCLTURAL INTERACTIONS Activities, Concepts and Questions",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO7",
+      "ITU": "I, T, U",
+      "Student Materials": "Textbooks, workbooks, PPT presentation, suplementary materials on Azar and other resources",
+      "S-Download": "",
+      "Student's Tasks": "Group Presentation, Discussion, Exercises, Games",
+      "URLs": ""
+    },
+    {
+      "Session": "19",
+      "Topic": "Review 2 + Assignment submission Group presentation 2",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO4, LO5, LO6, LO7",
+      "ITU": "U",
+      "Student Materials": "",
+      "S-Download": "",
+      "Student's Tasks": "",
+      "URLs": ""
+    },
+    {
+      "Session": "20",
+      "Topic": "Chapter 8 Verbal Messages: Exchanging Ideas Through Language FUNCTIONS OF LANGUAGE WHAT IS LANGUAGE LANGUAGE AND CULTURE",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO8",
+      "ITU": "I, T, U",
+      "Student Materials": "Textbooks, workbooks, PPT presentation, suplementary materials on Azar and other resources",
+      "S-Download": "",
+      "Student's Tasks": "Group Presentation, Discussion, Exercises, Games",
+      "URLs": ""
+    },
+    {
+      "Session": "21",
+      "Topic": "Chapter 8 (Cont.) INTERPRETING Activities, Concepts and Questions",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO8",
+      "ITU": "T, U",
+      "Student Materials": "Textbooks, workbooks, PPT presentation, suplementary materials on Azar and other resources",
+      "S-Download": "",
+      "Student's Tasks": "Group Presentation, Discussion, Exercises, Games",
+      "URLs": ""
+    },
+    {
+      "Session": "22",
+      "Topic": "Chapter 9 Nonverbal Communication: The Messages of Action, Space, Time, and Silence DEFINING NONVERBAL COMMUNICATION INTENTIONAL AND UNINTENTIONAL MASSAGES VEBAL AND NONVERBAL MASSAGES THE FUNCTIONS OF NONVERBAL COMMUNICATION STUDYING NONVERBAL COMMUNICATION NONVERBAL COMMUNICATION AND CULTURE",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO9",
+      "ITU": "I, T, U",
+      "Student Materials": "Textbooks, workbooks, PPT presentation, suplementary materials on Azar and other resources",
+      "S-Download": "",
+      "Student's Tasks": "Group Presentation, Discussion, Exercises, Games",
+      "URLs": ""
+    },
+    {
+      "Session": "23",
+      "Topic": "Chapter 9 (Cont.) CLASSIFICATIONS OF NONVERBAL COMMUNICATION Messages of the Body Appearance Body Movement SPACE AND DISTANCE Time SILENCE",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO9",
+      "ITU": "I, T, U",
+      "Student Materials": "Textbooks, workbooks, PPT presentation, suplementary materials on Azar and other resources",
+      "S-Download": "",
+      "Student's Tasks": "Group Presentation, Discussion, Exercises, Games",
+      "URLs": ""
+    },
+    {
+      "Session": "24",
+      "Topic": "Chapter 9 (Cont.) DEVELOPING NONVERBAL COMMUNICATION CONPETENCY Your Interpretations Should be Tentative Be Consciuos of the Context Ultilize Facebook Know Your Culture Monitor Your Nonverbal Actions Activities, Concepts and Questions",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO9",
+      "ITU": "I, T, U",
+      "Student Materials": "Textbooks, workbooks, PPT presentation, suplementary materials on Azar and other resources",
+      "S-Download": "",
+      "Student's Tasks": "Group Presentation, Discussion, Exercises, Games",
+      "URLs": ""
+    },
+    {
+      "Session": "25",
+      "Topic": "Chapter 10 Intercultural Communication in Contexts: Applicatuos I Bussiness , Educatuon, and Healthcare CULTURE AND CONTEXT ASSUMPTIONS GOUNDING COMMUNICATION CONTEXT INTERNATIONAL COMMUNICATION IN CONTEXTS",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO9",
+      "ITU": "I, T, U",
+      "Student Materials": "Textbooks, workbooks, PPT presentation, suplementary materials on Azar and other resources",
+      "S-Download": "",
+      "Student's Tasks": "Group Presentation, Discussion, Exercises, Games",
+      "URLs": ""
+    },
+    {
+      "Session": "26",
+      "Topic": "Chapter 10 (Cont.) EDUCATION IN THE GLOBALIZED SOCIETY",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO10",
+      "ITU": "I, T, U",
+      "Student Materials": "Textbooks, workbooks, PPT presentation, suplementary materials on Azar and other resources",
+      "S-Download": "",
+      "Student's Tasks": "Group Presentation, Discussion, Exercises, Games",
+      "URLs": ""
+    },
+    {
+      "Session": "27",
+      "Topic": "Chapter 10 (Cont.) HEALTHCARE IN A MULTICULTURAL CONTEXT DEVELOPING INTERCULTURAL COOMUNICATION COMPETENCE IN CONTEXTS Activities, Concepts and Questions",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO10",
+      "ITU": "I, T, U",
+      "Student Materials": "Textbooks, workbooks, PPT presentation, suplementary materials on Azar and other resources",
+      "S-Download": "",
+      "Student's Tasks": "Group Presentation, Discussion, Exercises, Games",
+      "URLs": ""
+    },
+    {
+      "Session": "28",
+      "Topic": "Chapter 11 The Challenges of Intercultural Communication: Managing Differences INTERCULTURAL COMMUNICATION IN A DYNAMIC WORLD ENTERING ANOTHER CULTURE",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO10",
+      "ITU": "I, T, U",
+      "Student Materials": "Textbooks, workbooks, PPT presentation, suplementary materials on Azar and other resources",
+      "S-Download": "",
+      "Student's Tasks": "Group Presentation, Discussion, Exercises, Games",
+      "URLs": ""
+    },
+    {
+      "Session": "29",
+      "Topic": "Chapter 11 (Cont.) ENTERING ANOTHER CULTURE (CONT.) ETHICAL CONSIDERATIONS A FINAL APEAL Activities, Concepts and Questions",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO10",
+      "ITU": "I, T, U",
+      "Student Materials": "Textbooks, workbooks, PPT presentation, suplementary materials on Azar and other resources",
+      "S-Download": "",
+      "Student's Tasks": "Group Presentation, Discussion, Exercises, Games",
+      "URLs": ""
+    },
+    {
+      "Session": "30",
+      "Topic": "Final review Group presentation 3",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO8, LO9, LO10",
+      "ITU": "U",
+      "Student Materials": "",
+      "S-Download": "",
+      "Student's Tasks": "",
+      "URLs": ""
+    }
+  ],
+  "constructive_questions": [],
+  "materials": [
+    {
+      "No.": "1",
+      "Material Description": "Communication Between Cultures",
+      "Author": "Larry A. Samovar & Richard E. Porter",
+      "Publisher": "Wadsworth Publishing",
+      "Published Date": "2016",
+      "Edition": "9th",
+      "ISBN": "978-1-28544-462-8",
+      "Is Main Material": "True",
+      "Is Hard Copy": "True",
+      "Is Online": "False",
+      "Note": ""
+    }
+  ],
+  "source_path": "data/raw/syllabi/800.html",
+  "id": "syllabus:800"
+}

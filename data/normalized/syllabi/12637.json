@@ -1,0 +1,331 @@
+{
+  "syllabus_id": 12637,
+  "subject_code": "ITE302c",
+  "subject_name": "Ethics in IT_Đạo đức trong CNTT",
+  "syllabus_name": "Ethics in IT_Đạo đức trong CNTT",
+  "credits": 3,
+  "degree_level": "Bachelor",
+  "time_allocation": "Study hour (150h) = 128h online + 3h offline + 1h TE + 18h self-study",
+  "prerequisite": "None",
+  "general_information": {
+    "Syllabus ID": "12637",
+    "Syllabus Name": "Ethics in IT_Đạo đức trong CNTT",
+    "Course Name English": "",
+    "Subject Code": "ITE302c",
+    "Learning-Teaching Method": "Blended,Online,Active learning,Inquiry-based Teaching",
+    "NoCredit": "3",
+    "Degree Level": "Bachelor",
+    "Time Allocation": "Study hour (150h) = 128h online + 3h offline + 1h TE + 18h self-study",
+    "Pre-Requisite": "None",
+    "Description": "Organizations and governments are seeking out ethics professionals to minimize risk and guide their decision-making about the design of inclusive, responsible, and trusted technology. An algorithm not designed and assessed in alignment with ethical standards can create further inequity across race, gender and marginalized populations. The reputational and financial impact of an ethics violation can devastate a company. Knowledgeable ethics leaders are needed who can navigate through the more than 160 frameworks and guidelines to select and implement the best strategy to promote fairness and minimize risk for their organization. This specialization is designed for learners who want to create and lead initiatives that prioritize ethical integrity within emerging data-driven technology fields such as artificial intelligence and data science and will be prepared to bridge the gap between theory and practice.",
+    "StudentTasks": "Student must get the following certificatations to be accepted to the final examination: - Certification of CertNexus Certified Ethical Emerging Technologist Professional Certificate (CertNexus) specialization - Certification of Ethics of Artificial Intelligence course",
+    "Tools": "- Internet",
+    "Scoring Scale": "10",
+    "DecisionNo MM/dd/yyyy": "359/QĐ-ĐHFPT dated 04/09/2025",
+    "IsApproved": "True",
+    "Note": "1. Complete the online courses and get all certifications to be allowed to take Final Exam 2. Final Exam included Final Theory Exam (TE): 100% 3. Students who complete all MOOCs before the course deadline will receive 1 bonus point; otherwise, no bonus point will be awarded. 4. Completion Criteria: Final TE Score >=4 & (Final TE Score + bonus) >= 5",
+    "Is Scored": "True",
+    "MinAvgMarkToPass": "5",
+    "IsActive": "True",
+    "ApprovedDate": "4/9/2025"
+  },
+  "active": true,
+  "approved": true,
+  "decision": "359/QĐ-ĐHFPT dated 04/09/2025",
+  "description": "Organizations and governments are seeking out ethics professionals to minimize risk and guide their decision-making about the design of inclusive, responsible, and trusted technology. An algorithm not designed and assessed in alignment with ethical standards can create further inequity across race, gender and marginalized populations. The reputational and financial impact of an ethics violation can devastate a company. Knowledgeable ethics leaders are needed who can navigate through the more than 160 frameworks and guidelines to select and implement the best strategy to promote fairness and minimize risk for their organization. This specialization is designed for learners who want to create and lead initiatives that prioritize ethical integrity within emerging data-driven technology fields such as artificial intelligence and data science and will be prepared to bridge the gap between theory and practice.",
+  "learning_outcomes": [
+    {
+      "No.": "1",
+      "CLO Name": "CLO1",
+      "CLO Details": "Apply ethical principles, frameworks, regulations, and standards utilized in data-driven technologies and analyze the challenges that may compromise their implementation."
+    },
+    {
+      "No.": "2",
+      "CLO Name": "CLO2",
+      "CLO Details": "Detect and mitigate ethical risks in the design, development, and deployment of data-driven technologies."
+    },
+    {
+      "No.": "3",
+      "CLO Name": "CLO3",
+      "CLO Details": "Communicate effectively with diverse stakeholders about ethical safeguards, ethical risks, and mitigation strategies"
+    },
+    {
+      "No.": "4",
+      "CLO Name": "CLO4",
+      "CLO Details": "Create, implement, and evaluate the organizational policies and governance structure required for ethical data-driven technologies."
+    }
+  ],
+  "assessments": [
+    {
+      "No.": "1",
+      "Category": "TE",
+      "Type": "Final exam",
+      "Part": "1",
+      "Weight": "100.0%",
+      "Completion Criteria": "4",
+      "Duration": "60'",
+      "CLO": "",
+      "Question Type": "Computer gradable",
+      "No Question": "60",
+      "Knowledge and Skill": "All studied courses. Each module of course contributes 2-3 questions.",
+      "Grading Guide": "by Exam Board",
+      "Note": "Customized from the quizzes of this specialization."
+    }
+  ],
+  "schedule": [
+    {
+      "Session": "1",
+      "Topic": "Specialization Introduction Promote the Ethical Use of Data-Driven Technologies - Identify Data-Driven Emerging Technologies - Examine Legal and Ethical Privacy Concepts as they Relate to Data-Driven Technology Offline 1: Introduction to the online course ITE302c",
+      "Learning-Teaching Type": "Offline,Online",
+      "LO": "LO1",
+      "ITU": "",
+      "Student Materials": "MOOC 1",
+      "S-Download": "",
+      "Student's Tasks": "- Watch all videos, read all materials in the MOOC - Finish quizzes, self-assessment, assignments and take part in discussion boards (if needed) All students should participate in offline slot (if any question)",
+      "URLs": ""
+    },
+    {
+      "Session": "2",
+      "Topic": "- Examine Types of Bias - Examine Common Ethical Theories - Examine Ethical Principles that Apply to Data-Driven Technology",
+      "Learning-Teaching Type": "Online",
+      "LO": "LO1",
+      "ITU": "",
+      "Student Materials": "MOOC 1",
+      "S-Download": "",
+      "Student's Tasks": "- Watch all videos, read all materials in the MOOC - Finish quizzes, self-assessment, assignments and take part in discussion boards (if needed)",
+      "URLs": ""
+    },
+    {
+      "Session": "3",
+      "Topic": "- Apply What You've Learned",
+      "Learning-Teaching Type": "Online",
+      "LO": "LO1",
+      "ITU": "",
+      "Student Materials": "MOOC 1",
+      "S-Download": "",
+      "Student's Tasks": "- Watch all videos, read all materials in the MOOC - Finish quizzes, self-assessment, assignments and take part in discussion boards (if needed)",
+      "URLs": ""
+    },
+    {
+      "Session": "4",
+      "Topic": "Turn Ethical Frameworks into Actionable Steps - Apply Frameworks to Your Ethical Responsibilities for Data-Driven Technologies - Apply an Ethical Frameork to Navigate an Ethically Challenging Dilemma - Follow Regulations and Standards That Have an Impact on Business Strategy - Reconcile Conflicts Between Ethics, Regulations, Societal Needs, and Business Demands",
+      "Learning-Teaching Type": "Online",
+      "LO": "LO1",
+      "ITU": "",
+      "Student Materials": "MOOC 2",
+      "S-Download": "",
+      "Student's Tasks": "- Watch all videos, read all materials in the MOOC - Finish quizzes, self-assessment, assignments and take part in discussion boards (if needed)",
+      "URLs": ""
+    },
+    {
+      "Session": "5",
+      "Topic": "- Apply What You've Learned",
+      "Learning-Teaching Type": "Online",
+      "LO": "LO1",
+      "ITU": "",
+      "Student Materials": "MOOC 2",
+      "S-Download": "",
+      "Student's Tasks": "- Watch all videos, read all materials in the MOOC - Finish quizzes, self-assessment, assignments and take part in discussion boards (if needed)",
+      "URLs": ""
+    },
+    {
+      "Session": "6",
+      "Topic": "Detect and Mitigate Ethical Risks - Ethical Risk Analysis Fundamentals - Manage Privacy Risks - Manage Accountability Risks",
+      "Learning-Teaching Type": "Online",
+      "LO": "LO2",
+      "ITU": "",
+      "Student Materials": "MOOC 3",
+      "S-Download": "",
+      "Student's Tasks": "- Watch all videos, read all materials in the MOOC - Finish quizzes, self-assessment, assignments and take part in discussion boards (if needed)",
+      "URLs": ""
+    },
+    {
+      "Session": "7",
+      "Topic": "- Manage Transparency and Explainability Risks - Manage Fairness and Non-Discrimination Risks - Manage Safety and Security Risks",
+      "Learning-Teaching Type": "Online",
+      "LO": "LO2",
+      "ITU": "",
+      "Student Materials": "MOOC 3",
+      "S-Download": "",
+      "Student's Tasks": "- Watch all videos, read all materials in the MOOC - Finish quizzes, self-assessment, assignments and take part in discussion boards (if needed)",
+      "URLs": ""
+    },
+    {
+      "Session": "8",
+      "Topic": "- Apply What You've Learned",
+      "Learning-Teaching Type": "Online",
+      "LO": "LO2",
+      "ITU": "",
+      "Student Materials": "MOOC 3",
+      "S-Download": "",
+      "Student's Tasks": "- Watch all videos, read all materials in the MOOC - Finish quizzes, self-assessment, assignments and take part in discussion boards (if needed)",
+      "URLs": ""
+    },
+    {
+      "Session": "9",
+      "Topic": "Communicate Effectively about Ethical Challenges in Data-Driven Technologies - Communicate the Business Impacts of Ethical Risks to Diverse Stakeholders - Design Diverse, Equitable, and Inclusive External Communication Strategies - Manage a Crisis, Communicate Critical Messages, and Ensure Business Continuity - Manage the Media During an Ethical Crisis",
+      "Learning-Teaching Type": "Online",
+      "LO": "LO3",
+      "ITU": "",
+      "Student Materials": "MOOC 4",
+      "S-Download": "",
+      "Student's Tasks": "- Watch all videos, read all materials in the MOOC - Finish quizzes, self-assessment, assignments and take part in discussion boards (if needed)",
+      "URLs": ""
+    },
+    {
+      "Session": "10",
+      "Topic": "- Apply What You’ve Learned Create and Lead an Ethical Data-Driven Organization - Promote an Ethical Organizational Culture - Maintain Ethical Considerations in Governance and Policy Making",
+      "Learning-Teaching Type": "Online",
+      "LO": "LO3",
+      "ITU": "",
+      "Student Materials": "MOOC 4, MOOC 5",
+      "S-Download": "",
+      "Student's Tasks": "- Watch all videos, read all materials in the MOOC - Finish quizzes, self-assessment, assignments and take part in discussion boards (if needed)",
+      "URLs": ""
+    },
+    {
+      "Session": "11",
+      "Topic": "- Develop and Deploy a Code of Ethics - Develop and Deploy Ethical Organizational Policies - Apply What You've Learned",
+      "Learning-Teaching Type": "Online",
+      "LO": "LO4",
+      "ITU": "",
+      "Student Materials": "MOOC 5",
+      "S-Download": "",
+      "Student's Tasks": "- Watch all videos, read all materials in the MOOC - Finish quizzes, self-assessment, assignments and take part in discussion boards (if needed)",
+      "URLs": ""
+    },
+    {
+      "Session": "12",
+      "Topic": "Preparing for Your CertNexus Certification Exam Additional Learning: Ethics of Artificial Intelligence - Ethics, AI and Fesponsibility - Case studies, Examples and Ethical Frameworks - Issues and challenges - Goverance and policies Offline 2: Review CertNexus Certified Ethical Emerging Technologist Professional Certificate",
+      "Learning-Teaching Type": "Offline,Online",
+      "LO": "LO1-LO4",
+      "ITU": "",
+      "Student Materials": "MOOC 6, MOOC 7",
+      "S-Download": "",
+      "Student's Tasks": "- Watch all videos, read all materials in the MOOC - Finish quizzes, self-assessment, assignments and take part in discussion boards (if needed) Deadline of Coursera completion: End of Friday of the week. All students should participate in review slot (if any question)",
+      "URLs": ""
+    }
+  ],
+  "constructive_questions": [],
+  "materials": [
+    {
+      "No.": "1",
+      "Material Description": "https://learner.coursera.help/hc/en-us/articles/208280036-Coursera-Code-of-Conduct",
+      "Author": "",
+      "Publisher": "Coursera",
+      "Published Date": "",
+      "Edition": "",
+      "ISBN": "",
+      "Is Main Material": "False",
+      "Is Hard Copy": "False",
+      "Is Online": "True",
+      "Note": ""
+    },
+    {
+      "No.": "2",
+      "Material Description": "https://www.coursera.org/learn/promote-ethical-data-driven-technologies",
+      "Author": "",
+      "Publisher": "Coursera",
+      "Published Date": "",
+      "Edition": "",
+      "ISBN": "",
+      "Is Main Material": "True",
+      "Is Hard Copy": "False",
+      "Is Online": "True",
+      "Note": "MOOC 1: Promote the Ethical Use of Data-Driven Technologies"
+    },
+    {
+      "No.": "3",
+      "Material Description": "https://www.coursera.org/learn/ethical-frameworks-action",
+      "Author": "",
+      "Publisher": "Coursera",
+      "Published Date": "",
+      "Edition": "",
+      "ISBN": "",
+      "Is Main Material": "True",
+      "Is Hard Copy": "False",
+      "Is Online": "True",
+      "Note": "MOOC 2: Turn Ethical Frameworks into Actionable Steps"
+    },
+    {
+      "No.": "4",
+      "Material Description": "https://www.coursera.org/learn/detect-mitigate-ethical-risks",
+      "Author": "",
+      "Publisher": "Coursera",
+      "Published Date": "",
+      "Edition": "",
+      "ISBN": "",
+      "Is Main Material": "True",
+      "Is Hard Copy": "False",
+      "Is Online": "True",
+      "Note": "MOOC 3: Detect and Mitigate Ethical Risks"
+    },
+    {
+      "No.": "5",
+      "Material Description": "https://www.coursera.org/learn/ethical-communication-data-driven-technologies",
+      "Author": "",
+      "Publisher": "Coursera",
+      "Published Date": "",
+      "Edition": "",
+      "ISBN": "",
+      "Is Main Material": "True",
+      "Is Hard Copy": "False",
+      "Is Online": "True",
+      "Note": "MOOC 4: Communicate Effectively about Ethical Challenges in Data-Driven Technologies"
+    },
+    {
+      "No.": "6",
+      "Material Description": "https://www.coursera.org/learn/ethical-data-driven-technology-leader",
+      "Author": "",
+      "Publisher": "Coursera",
+      "Published Date": "",
+      "Edition": "",
+      "ISBN": "",
+      "Is Main Material": "True",
+      "Is Hard Copy": "False",
+      "Is Online": "True",
+      "Note": "MOOC 5: Create and Lead an Ethical Data-Driven Organization"
+    },
+    {
+      "No.": "7",
+      "Material Description": "https://www.coursera.org/learn/preparing-for-your-certnexus-certification-exam",
+      "Author": "",
+      "Publisher": "Coursera",
+      "Published Date": "",
+      "Edition": "",
+      "ISBN": "",
+      "Is Main Material": "True",
+      "Is Hard Copy": "False",
+      "Is Online": "True",
+      "Note": "MOOC 6: Preparing for Your CertNexus Certification Exam"
+    },
+    {
+      "No.": "8",
+      "Material Description": "https://www.coursera.org/specializations/certified-ethical-emerging-technologist",
+      "Author": "",
+      "Publisher": "Coursera",
+      "Published Date": "",
+      "Edition": "",
+      "ISBN": "",
+      "Is Main Material": "True",
+      "Is Hard Copy": "False",
+      "Is Online": "True",
+      "Note": "SPEC: CertNexus Certified Ethical Emerging Technologist Professional Certificate"
+    },
+    {
+      "No.": "9",
+      "Material Description": "Additional Learning: https://www.coursera.org/learn/ethics-of-artificial-intelligence",
+      "Author": "",
+      "Publisher": "Coursera",
+      "Published Date": "",
+      "Edition": "",
+      "ISBN": "",
+      "Is Main Material": "True",
+      "Is Hard Copy": "False",
+      "Is Online": "True",
+      "Note": "MOOC 7: Ethics of Artificial Intelligence"
+    }
+  ],
+  "source_path": "data/raw/syllabi/12637.html",
+  "id": "syllabus:12637"
+}

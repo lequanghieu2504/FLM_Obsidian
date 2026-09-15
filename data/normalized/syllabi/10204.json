@@ -1,0 +1,1214 @@
+{
+  "syllabus_id": 10204,
+  "subject_code": "AIL302m",
+  "subject_name": "Machine Learning_Học máy",
+  "syllabus_name": "Machine Learning_Học máy",
+  "credits": 3,
+  "degree_level": "Bachelor",
+  "time_allocation": "Study hour (150h) = 45h contact hours + 1h final exam + 104h self-study",
+  "prerequisite": "MAS291",
+  "general_information": {
+    "Syllabus ID": "10204",
+    "Syllabus Name": "Machine Learning_Học máy",
+    "Course Name English": "Machine Learning",
+    "Subject Code": "AIL302m",
+    "Learning-Teaching Method": "Social Constructivism,In-class lecture,Inquiry-based Teaching",
+    "NoCredit": "3",
+    "Degree Level": "Bachelor",
+    "Time Allocation": "Study hour (150h) = 45h contact hours + 1h final exam + 104h self-study",
+    "Pre-Requisite": "MAS291",
+    "Description": "Machine learning is the science of getting computers to act without being explicitly programmed. In the past decade, machine learning has given us self-driving cars, practical speech recognition, effective web search, and a vastly improved understanding of the human genome. Machine learning is so pervasive today that you probably use it dozens of times a day without knowing it. Many researchers also think it is the best way to make progress towards human-level AI. This course provides a broad introduction to machine learning, datamining, and statistical pattern recognition. Topics include: (i) Supervised learning (parametric/non-parametric algorithms, support vector machines, kernels, neural networks). (ii) Unsupervised learning (clustering, dimensionality reduction, recommender systems, deep learning). (iii) Best practices in machine learning (bias/variance theory; innovation process in machine learning and AI). The course will also draw from numerous case studies and applications, so that you'll also learn how to apply learning algorithms to building smart robots (perception, control), text understanding (web search, anti-spam), computer vision, medical informatics, audio, database mining, and other areas. This course will be implemented through online mode. Students will learn officially the online course \"Machine Learning\" on Coursera. During the online learning process, students will be guided by teachers-tutors through some offline sessions on the campus, and through emails",
+    "StudentTasks": "- Students must learn officially an online course on Coursera - Take part in at least 4/5 offline classes - Submit assignments according to the schedule",
+    "Tools": "",
+    "Scoring Scale": "10",
+    "DecisionNo MM/dd/yyyy": "808/QĐ-ĐHFPT dated 08/03/2023",
+    "IsApproved": "True",
+    "Note": "",
+    "Is Scored": "True",
+    "MinAvgMarkToPass": "5",
+    "IsActive": "True",
+    "ApprovedDate": "8/3/2023"
+  },
+  "active": true,
+  "approved": true,
+  "decision": "808/QĐ-ĐHFPT dated 08/03/2023",
+  "description": "Machine learning is the science of getting computers to act without being explicitly programmed. In the past decade, machine learning has given us self-driving cars, practical speech recognition, effective web search, and a vastly improved understanding of the human genome. Machine learning is so pervasive today that you probably use it dozens of times a day without knowing it. Many researchers also think it is the best way to make progress towards human-level AI. This course provides a broad introduction to machine learning, datamining, and statistical pattern recognition. Topics include: (i) Supervised learning (parametric/non-parametric algorithms, support vector machines, kernels, neural networks). (ii) Unsupervised learning (clustering, dimensionality reduction, recommender systems, deep learning). (iii) Best practices in machine learning (bias/variance theory; innovation process in machine learning and AI). The course will also draw from numerous case studies and applications, so that you'll also learn how to apply learning algorithms to building smart robots (perception, control), text understanding (web search, anti-spam), computer vision, medical informatics, audio, database mining, and other areas. This course will be implemented through online mode. Students will learn officially the online course \"Machine Learning\" on Coursera. During the online learning process, students will be guided by teachers-tutors through some offline sessions on the campus, and through emails",
+  "learning_outcomes": [
+    {
+      "No.": "1",
+      "CLO Name": "CLO1",
+      "CLO Details": "Obtain a deep knowledge about linear regression with one variable: LO1.1. Demonstrate a deep understanding about linear regression model with one variable. LO1.2. Understand and calculate the cost function and gradient descent method for Linear regression with one variable."
+    },
+    {
+      "No.": "2",
+      "CLO Name": "CLO2",
+      "CLO Details": "Be able to implement the learning algorithms in practice using Octave or MATLAB"
+    },
+    {
+      "No.": "3",
+      "CLO Name": "CLO3",
+      "CLO Details": "Obtain a deep knowledge about linear regression model with multiple variables: LO3.1. Demonstrate a deep understanding about linear regression model with multiple variables. LO3.2. Understand and calculate the cost function and gradient descent method for Linear regression with multiple variables."
+    },
+    {
+      "No.": "4",
+      "CLO Name": "CLO4",
+      "CLO Details": "Being able to classify data into discrete outcomes using logistic regression method. Apply cost function for Logistic regression"
+    },
+    {
+      "No.": "5",
+      "CLO Name": "CLO5",
+      "CLO Details": "Being able to prevent models from overfitting the training data by using regularization."
+    },
+    {
+      "No.": "6",
+      "CLO Name": "CLO6",
+      "CLO Details": "Demonstrate an understanding about neural networks: what neural networks are, what representations of neural network models."
+    },
+    {
+      "No.": "7",
+      "CLO Name": "CLO7",
+      "CLO Details": "Demonstrate an understanding about the backpropagation algorithm for training neural networks."
+    },
+    {
+      "No.": "8",
+      "CLO Name": "CLO8",
+      "CLO Details": "Being able to evaluate performance of the learned models"
+    },
+    {
+      "No.": "9",
+      "CLO Name": "CLO9",
+      "CLO Details": "Demonstrate a understanding about the performance of a machine learning system with multiple parts, and being able to deal with skewed data."
+    },
+    {
+      "No.": "10",
+      "CLO Name": "CLO10",
+      "CLO Details": "Demonstrate an understanding about the idea and intuitions behind Support Vector Machines (SVM), for classification and being able to use it in practice."
+    },
+    {
+      "No.": "11",
+      "CLO Name": "CLO11",
+      "CLO Details": "Demonstrate a understanding about the k-Means algorithm for clustering unlabeled data points."
+    },
+    {
+      "No.": "12",
+      "CLO Name": "CLO12",
+      "CLO Details": "Demonstrate a deep understanding about Principal Components Analysis, and use it for data compression to speed up learning algorithms as well as for visualizations of complex datasets."
+    },
+    {
+      "No.": "13",
+      "CLO Name": "CLO13",
+      "CLO Details": "Be able to model a dataset using a Gaussian distribution, and use this model for anomaly detection."
+    },
+    {
+      "No.": "14",
+      "CLO Name": "CLO14",
+      "CLO Details": "Be able to perfom the recommender algorithms such as the collaborative filtering algorithm and low-rank matrix factorization."
+    },
+    {
+      "No.": "15",
+      "CLO Name": "CLO15",
+      "CLO Details": "Apply the machine learning algorithms with large datasets."
+    },
+    {
+      "No.": "16",
+      "CLO Name": "CLO16",
+      "CLO Details": "Master online studying skill and be ready for life long learning."
+    }
+  ],
+  "assessments": [
+    {
+      "No.": "1",
+      "Category": "Final exam",
+      "Type": "on-going",
+      "Part": "1",
+      "Weight": "40.0%",
+      "Completion Criteria": "4",
+      "Duration": "60 minutes",
+      "CLO": "",
+      "Question Type": "Theory",
+      "No Question": "50",
+      "Knowledge and Skill": "The whole course content",
+      "Grading Guide": "",
+      "Note": "In campus"
+    },
+    {
+      "No.": "2",
+      "Category": "Individual assignment",
+      "Type": "on-going",
+      "Part": "2",
+      "Weight": "40.0%",
+      "Completion Criteria": ">0",
+      "Duration": "Option 1: 15 sessions/ assignment; Option 2 (For Constructivism Approach only): Follow lecturer's proposal",
+      "CLO": "",
+      "Question Type": "Option 1: Practical; Option 2 (For Constructivism Approach only): Follow lecturer's proposal",
+      "No Question": "Option 1: N/A; Option 2 (For Constructivism Approach only): Follow lecturer's proposal",
+      "Knowledge and Skill": "Using the Machine Learning methods learned, code a program that can solve Machine Learning problems (e.g. Classification, Clustering, …) possibly using language like Python, C, C++, Java",
+      "Grading Guide": "Teacher will give the problem, students submit their code individually, the code and its output will be graded by teacher",
+      "Note": ""
+    },
+    {
+      "No.": "3",
+      "Category": "Quiz",
+      "Type": "on-going",
+      "Part": "2",
+      "Weight": "20.0%",
+      "Completion Criteria": ">0",
+      "Duration": "Option 1: 30-45'; Option 2 (For Constructivism Approach only): Follow lecturer's proposal",
+      "CLO": "",
+      "Question Type": "Option 1: MC; Option 2 (For Constructivism Approach only): Follow lecturer's proposal",
+      "No Question": "Option 1: 20-40; Option 2 (For Constructivism Approach only): Follow lecturer's proposal",
+      "Knowledge and Skill": "Learn contents",
+      "Grading Guide": "In class by lecturer",
+      "Note": ""
+    }
+  ],
+  "schedule": [
+    {
+      "Session": "1",
+      "Topic": "Introduction - What is Machine Learning? - Supervised Learning - Unsupervised Learning",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO1.1, LO1.2, LO2",
+      "ITU": "",
+      "Student Materials": "",
+      "S-Download": "AIL302m",
+      "Student's Tasks": "",
+      "URLs": ""
+    },
+    {
+      "Session": "2",
+      "Topic": "Linear Regression with One Variable - Model Representation - Cost Function - Cost Function - Intuition I - Cost Function - Intuition II",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO1.1, LO1.2, LO2",
+      "ITU": "",
+      "Student Materials": "",
+      "S-Download": "AIL302m",
+      "Student's Tasks": "",
+      "URLs": ""
+    },
+    {
+      "Session": "3",
+      "Topic": "- Gradient Descent - Gradient Descent Intuition - Gradient Descent For Linear Regression",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO1.1, LO1.2, LO2",
+      "ITU": "",
+      "Student Materials": "",
+      "S-Download": "",
+      "Student's Tasks": "",
+      "URLs": ""
+    },
+    {
+      "Session": "4",
+      "Topic": "Environment Setup Instructions - Setting Up Your Programming Assignment Environment - Access MATLAB Online and Upload the Exercise Files - Installing Octave on Windows - Installing Octave on Mac OS X (10.10 Yosemite and 10.9 Mavericks and Later) - Installing Octave on Mac OS X (10.8 Mountain Lion and Earlier) - Installing Octave on GNU/Linux - More Octave/MATLAB resources",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO1.1, LO1.2, LO2",
+      "ITU": "",
+      "Student Materials": "",
+      "S-Download": "",
+      "Student's Tasks": "",
+      "URLs": ""
+    },
+    {
+      "Session": "5",
+      "Topic": "Octave/Matlab Tutorial- Basic Operations - Moving Data Around - Computing on Data - Plotting Data - Control Statements: for, while, if statement - Vectorization",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO1.1, LO1.2, LO2",
+      "ITU": "",
+      "Student Materials": "",
+      "S-Download": "",
+      "Student's Tasks": "",
+      "URLs": ""
+    },
+    {
+      "Session": "6",
+      "Topic": "- Programming Assignment 1: Introduction",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO1.1, LO1.2, LO2",
+      "ITU": "",
+      "Student Materials": "",
+      "S-Download": "",
+      "Student's Tasks": "",
+      "URLs": ""
+    },
+    {
+      "Session": "7",
+      "Topic": "Linear Regression with Multiple Variables - Multiple Features - Gradient Descent for Multiple Variables",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO3.1, LO3.2, LO4",
+      "ITU": "",
+      "Student Materials": "",
+      "S-Download": "",
+      "Student's Tasks": "",
+      "URLs": ""
+    },
+    {
+      "Session": "8",
+      "Topic": "Linear Regression with Multiple Variables - Gradient Descent in Practice I - Feature Scaling - Gradient Descent in Practice II - Learning Rate",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO3.1, LO3.2, LO4",
+      "ITU": "",
+      "Student Materials": "",
+      "S-Download": "",
+      "Student's Tasks": "",
+      "URLs": ""
+    },
+    {
+      "Session": "9",
+      "Topic": "Linear Regression with Multiple Variables - Features and Polynomial Regression - Normal Equation - Normal Equation Noninvertibility",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO3.1, LO3.2, LO4",
+      "ITU": "",
+      "Student Materials": "",
+      "S-Download": "",
+      "Student's Tasks": "",
+      "URLs": ""
+    },
+    {
+      "Session": "10",
+      "Topic": "Linear Regression with Multiple Variables - LectureWorking on and Submitting Programming Assignments - Programming tips from Mentors - Programming Assignment submission",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO3.1, LO3.2, LO4",
+      "ITU": "",
+      "Student Materials": "",
+      "S-Download": "",
+      "Student's Tasks": "",
+      "URLs": ""
+    },
+    {
+      "Session": "11",
+      "Topic": "Logistic Regression - Classification - Hypothesis Representation - Decision Boundary - Cost Function - Simplified Cost Function and Gradient Descent",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO3.1, LO3.2, LO4",
+      "ITU": "",
+      "Student Materials": "",
+      "S-Download": "",
+      "Student's Tasks": "",
+      "URLs": ""
+    },
+    {
+      "Session": "12",
+      "Topic": "Logistic Regression - Advanced Optimization - Multiclass Classification: One-vs-all",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO3.1, LO3.2, LO4",
+      "ITU": "",
+      "Student Materials": "",
+      "S-Download": "",
+      "Student's Tasks": "",
+      "URLs": ""
+    },
+    {
+      "Session": "13",
+      "Topic": "Solving the Problem of Overfitting - The Problem of Overfitting - Cost Function",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO5, LO6",
+      "ITU": "",
+      "Student Materials": "",
+      "S-Download": "",
+      "Student's Tasks": "",
+      "URLs": ""
+    },
+    {
+      "Session": "14",
+      "Topic": "Solving the Problem of Overfitting - Regularized Linear Regression - Regularized Logistic Regression",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO5, LO6",
+      "ITU": "",
+      "Student Materials": "",
+      "S-Download": "",
+      "Student's Tasks": "",
+      "URLs": ""
+    },
+    {
+      "Session": "15",
+      "Topic": "Solving the Problem of Overfitting - Programming Assignment submission",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO5, LO6",
+      "ITU": "",
+      "Student Materials": "",
+      "S-Download": "",
+      "Student's Tasks": "",
+      "URLs": ""
+    },
+    {
+      "Session": "16",
+      "Topic": "Neural Networks: Representation - Non-linear Hypotheses - Neurons and the Brain - Neural Networks: Model Representation I - Neural Networks: Model Representation II",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO5, LO6",
+      "ITU": "",
+      "Student Materials": "",
+      "S-Download": "",
+      "Student's Tasks": "",
+      "URLs": ""
+    },
+    {
+      "Session": "17",
+      "Topic": "Neural Networks: Representation - Applications: Examples and Intuitions I - Applications: Examples and Intuitions II - Applications: Multiclass Classification",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO5, LO6",
+      "ITU": "",
+      "Student Materials": "",
+      "S-Download": "",
+      "Student's Tasks": "",
+      "URLs": ""
+    },
+    {
+      "Session": "18",
+      "Topic": "Neural Networks: Representation - Programming Assignment submission",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO5, LO6",
+      "ITU": "",
+      "Student Materials": "",
+      "S-Download": "",
+      "Student's Tasks": "",
+      "URLs": ""
+    },
+    {
+      "Session": "19",
+      "Topic": "Neural Networks: Learning - Cost Function",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO7",
+      "ITU": "",
+      "Student Materials": "",
+      "S-Download": "",
+      "Student's Tasks": "",
+      "URLs": ""
+    },
+    {
+      "Session": "20",
+      "Topic": "Neural Networks: Learning - Backpropagation Algorithm - Backpropagation Intuition",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO7",
+      "ITU": "",
+      "Student Materials": "",
+      "S-Download": "",
+      "Student's Tasks": "",
+      "URLs": ""
+    },
+    {
+      "Session": "21",
+      "Topic": "Neural Networks: Learning - Implementation Note: Unrolling Parameters - Gradient Checking - Random Initialization",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO7",
+      "ITU": "",
+      "Student Materials": "",
+      "S-Download": "",
+      "Student's Tasks": "",
+      "URLs": ""
+    },
+    {
+      "Session": "22",
+      "Topic": "Neural Networks: Learning - Putting It Together - Application of Neural Networks: Autonomous Driving",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO7",
+      "ITU": "",
+      "Student Materials": "",
+      "S-Download": "",
+      "Student's Tasks": "",
+      "URLs": ""
+    },
+    {
+      "Session": "23",
+      "Topic": "Neural Networks: Learning - Quiz 1",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO7",
+      "ITU": "",
+      "Student Materials": "",
+      "S-Download": "",
+      "Student's Tasks": "",
+      "URLs": ""
+    },
+    {
+      "Session": "24",
+      "Topic": "Neural Networks: Learning - Programming Assignment submission 1 (Final)",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO7",
+      "ITU": "",
+      "Student Materials": "",
+      "S-Download": "",
+      "Student's Tasks": "",
+      "URLs": ""
+    },
+    {
+      "Session": "25",
+      "Topic": "Advice for Applying Machine Learning - Deciding What to Try Next - Evaluating a Hypothesis - Model Selection and Train/Validation/Test Sets",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO8, LO9",
+      "ITU": "",
+      "Student Materials": "",
+      "S-Download": "",
+      "Student's Tasks": "",
+      "URLs": ""
+    },
+    {
+      "Session": "26",
+      "Topic": "Advice for Applying Machine Learning - Diagnosing Bias vs. Variance - Regularization and Bias/Variance - Learning Curves - Deciding What to Do Next Revisited",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO8, LO9",
+      "ITU": "",
+      "Student Materials": "",
+      "S-Download": "",
+      "Student's Tasks": "",
+      "URLs": ""
+    },
+    {
+      "Session": "27",
+      "Topic": "Machine Learning System Design - Building a Spam Classifier: Prioritizing What to Work On - Building a Spam Classifier: Error Analysis",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO8, LO9",
+      "ITU": "",
+      "Student Materials": "",
+      "S-Download": "",
+      "Student's Tasks": "",
+      "URLs": ""
+    },
+    {
+      "Session": "28",
+      "Topic": "Machine Learning System Design - Error Metrics for Skewed Classes - Trading Off Precision and Recall",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO8, LO9",
+      "ITU": "",
+      "Student Materials": "",
+      "S-Download": "",
+      "Student's Tasks": "",
+      "URLs": ""
+    },
+    {
+      "Session": "29",
+      "Topic": "Machine Learning System Design - Data For Machine Learning",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO8, LO9",
+      "ITU": "",
+      "Student Materials": "",
+      "S-Download": "",
+      "Student's Tasks": "",
+      "URLs": ""
+    },
+    {
+      "Session": "30",
+      "Topic": "Machine Learning System Design - Quiz",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO8, LO9",
+      "ITU": "",
+      "Student Materials": "",
+      "S-Download": "",
+      "Student's Tasks": "",
+      "URLs": ""
+    },
+    {
+      "Session": "31",
+      "Topic": "Support Vector Machines - Optimization Objective",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO10",
+      "ITU": "",
+      "Student Materials": "",
+      "S-Download": "",
+      "Student's Tasks": "",
+      "URLs": ""
+    },
+    {
+      "Session": "32",
+      "Topic": "Support Vector Machines - Large Margin Intuition",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO10",
+      "ITU": "",
+      "Student Materials": "",
+      "S-Download": "",
+      "Student's Tasks": "",
+      "URLs": ""
+    },
+    {
+      "Session": "33",
+      "Topic": "Support Vector Machines - Mathematics Behind Large Margin Classification",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO10",
+      "ITU": "",
+      "Student Materials": "",
+      "S-Download": "",
+      "Student's Tasks": "",
+      "URLs": ""
+    },
+    {
+      "Session": "34",
+      "Topic": "Support Vector Machines - Kernels I - Kernels II",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO10",
+      "ITU": "",
+      "Student Materials": "",
+      "S-Download": "",
+      "Student's Tasks": "",
+      "URLs": ""
+    },
+    {
+      "Session": "35",
+      "Topic": "Support Vector Machines - Using An SVM",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO10",
+      "ITU": "",
+      "Student Materials": "",
+      "S-Download": "",
+      "Student's Tasks": "",
+      "URLs": ""
+    },
+    {
+      "Session": "36",
+      "Topic": "Support Vector Machines - Programming Assignment submission",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO10",
+      "ITU": "",
+      "Student Materials": "",
+      "S-Download": "",
+      "Student's Tasks": "",
+      "URLs": ""
+    },
+    {
+      "Session": "37",
+      "Topic": "Unsupervised Learning - Unsupervised Learning: Introduction - K-Means Algorithm",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO11, LO12",
+      "ITU": "",
+      "Student Materials": "",
+      "S-Download": "",
+      "Student's Tasks": "",
+      "URLs": ""
+    },
+    {
+      "Session": "38",
+      "Topic": "Unsupervised Learning - Optimization Objective - Random Initialization - Choosing the Number of Clusters",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO11, LO12",
+      "ITU": "",
+      "Student Materials": "",
+      "S-Download": "",
+      "Student's Tasks": "",
+      "URLs": ""
+    },
+    {
+      "Session": "39",
+      "Topic": "Unsupervised Learning - Quiz",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO11, LO12",
+      "ITU": "",
+      "Student Materials": "",
+      "S-Download": "",
+      "Student's Tasks": "",
+      "URLs": ""
+    },
+    {
+      "Session": "40",
+      "Topic": "Dimensionality Reduction - Motivation I: Data Compression - Motivation II: Visualization - Principal Component Analysis Problem Formulation - Principal Component Analysis Algorithm",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO11, LO12",
+      "ITU": "",
+      "Student Materials": "",
+      "S-Download": "",
+      "Student's Tasks": "",
+      "URLs": ""
+    },
+    {
+      "Session": "41",
+      "Topic": "Dimensionality Reduction - Reconstruction from Compressed Representation - Choosing the Number of Principal Components - Advice for Applying PCA",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO11, LO12",
+      "ITU": "",
+      "Student Materials": "",
+      "S-Download": "",
+      "Student's Tasks": "",
+      "URLs": ""
+    },
+    {
+      "Session": "42",
+      "Topic": "Dimensionality Reduction - Programming Assignment submission",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO11, LO12",
+      "ITU": "",
+      "Student Materials": "",
+      "S-Download": "",
+      "Student's Tasks": "",
+      "URLs": ""
+    },
+    {
+      "Session": "43",
+      "Topic": "Anomaly Detection - Problem Motivation - Gaussian Distribution",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO13, LO14",
+      "ITU": "",
+      "Student Materials": "",
+      "S-Download": "",
+      "Student's Tasks": "",
+      "URLs": ""
+    },
+    {
+      "Session": "44",
+      "Topic": "Anomaly Detection - Algorithm - Developing and Evaluating an Anomaly Detection System",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO13, LO14",
+      "ITU": "",
+      "Student Materials": "",
+      "S-Download": "",
+      "Student's Tasks": "",
+      "URLs": ""
+    },
+    {
+      "Session": "45",
+      "Topic": "Anomaly Detection - Anomaly Detection vs. Supervised Learning - Choosing What Features to Use",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO13, LO14",
+      "ITU": "",
+      "Student Materials": "",
+      "S-Download": "",
+      "Student's Tasks": "",
+      "URLs": ""
+    },
+    {
+      "Session": "46",
+      "Topic": "Recommender Systems - Predicting Movie Ratings: Problem Formulation - Content Based Recommendations - Collaborative Filtering - Collaborative Filtering Algorithm - Vectorization: Low Rank Matrix Factorization - Implementational Detail: Mean Normalization",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO13, LO14",
+      "ITU": "",
+      "Student Materials": "",
+      "S-Download": "",
+      "Student's Tasks": "",
+      "URLs": ""
+    },
+    {
+      "Session": "47",
+      "Topic": "Recommender Systems - Quiz 2",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO13, LO14",
+      "ITU": "",
+      "Student Materials": "",
+      "S-Download": "",
+      "Student's Tasks": "",
+      "URLs": ""
+    },
+    {
+      "Session": "48",
+      "Topic": "Recommender Systems - Programming Assignment 2: submission (Final)",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO13, LO14",
+      "ITU": "",
+      "Student Materials": "",
+      "S-Download": "",
+      "Student's Tasks": "",
+      "URLs": ""
+    },
+    {
+      "Session": "49",
+      "Topic": "Large Scale Machine Learning - Learning With Large Datasets",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO15",
+      "ITU": "",
+      "Student Materials": "",
+      "S-Download": "",
+      "Student's Tasks": "",
+      "URLs": ""
+    },
+    {
+      "Session": "50",
+      "Topic": "Large Scale Machine Learning - Stochastic Gradient Descent",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO15",
+      "ITU": "",
+      "Student Materials": "",
+      "S-Download": "",
+      "Student's Tasks": "",
+      "URLs": ""
+    },
+    {
+      "Session": "51",
+      "Topic": "Large Scale Machine Learning - Mini-Batch Gradient Descent",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO15",
+      "ITU": "",
+      "Student Materials": "",
+      "S-Download": "",
+      "Student's Tasks": "",
+      "URLs": ""
+    },
+    {
+      "Session": "52",
+      "Topic": "Large Scale Machine Learning - Stochastic Gradient Descent Convergence",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO15",
+      "ITU": "",
+      "Student Materials": "",
+      "S-Download": "",
+      "Student's Tasks": "",
+      "URLs": ""
+    },
+    {
+      "Session": "53",
+      "Topic": "Large Scale Machine Learning - Online Learning",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO15",
+      "ITU": "",
+      "Student Materials": "",
+      "S-Download": "",
+      "Student's Tasks": "",
+      "URLs": ""
+    },
+    {
+      "Session": "54",
+      "Topic": "Large Scale Machine Learning - Map Reduce and Data Parallelism",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO15",
+      "ITU": "",
+      "Student Materials": "",
+      "S-Download": "",
+      "Student's Tasks": "",
+      "URLs": ""
+    },
+    {
+      "Session": "55",
+      "Topic": "Assignment review and revision",
+      "Learning-Teaching Type": "Offline",
+      "LO": "",
+      "ITU": "",
+      "Student Materials": "",
+      "S-Download": "",
+      "Student's Tasks": "",
+      "URLs": ""
+    },
+    {
+      "Session": "56",
+      "Topic": "Assignment review and revision - Cont.",
+      "Learning-Teaching Type": "Offline",
+      "LO": "",
+      "ITU": "",
+      "Student Materials": "",
+      "S-Download": "",
+      "Student's Tasks": "",
+      "URLs": ""
+    },
+    {
+      "Session": "57",
+      "Topic": "Assignment review and revision - Cont.",
+      "Learning-Teaching Type": "Offline",
+      "LO": "",
+      "ITU": "",
+      "Student Materials": "",
+      "S-Download": "",
+      "Student's Tasks": "",
+      "URLs": ""
+    },
+    {
+      "Session": "58",
+      "Topic": "Assignment review and revision - Cont.",
+      "Learning-Teaching Type": "Offline",
+      "LO": "",
+      "ITU": "",
+      "Student Materials": "",
+      "S-Download": "",
+      "Student's Tasks": "",
+      "URLs": ""
+    },
+    {
+      "Session": "59",
+      "Topic": "Assignment review and revision - Cont.",
+      "Learning-Teaching Type": "Offline",
+      "LO": "",
+      "ITU": "",
+      "Student Materials": "",
+      "S-Download": "",
+      "Student's Tasks": "",
+      "URLs": ""
+    },
+    {
+      "Session": "60",
+      "Topic": "Assignment review and revision - Cont.",
+      "Learning-Teaching Type": "Offline",
+      "LO": "",
+      "ITU": "",
+      "Student Materials": "",
+      "S-Download": "",
+      "Student's Tasks": "",
+      "URLs": ""
+    }
+  ],
+  "constructive_questions": [
+    {
+      "No.": "1",
+      "Session No": "1",
+      "Name": "CQ1.1",
+      "Details": "What is Machine Learning?"
+    },
+    {
+      "No.": "2",
+      "Session No": "1",
+      "Name": "CQ1.2",
+      "Details": "What are categories of Machine Learning?"
+    },
+    {
+      "No.": "3",
+      "Session No": "2",
+      "Name": "CQ1.3",
+      "Details": "What is Supervised Learning? List algorithms of Supervised Learning"
+    },
+    {
+      "No.": "4",
+      "Session No": "2",
+      "Name": "CQ1.4",
+      "Details": "What is Unsupervised Learning? List algorithms of Unsupervised Learning."
+    },
+    {
+      "No.": "5",
+      "Session No": "4",
+      "Name": "CQ2.1",
+      "Details": "What problems is Linear Regression with one variable applied for?"
+    },
+    {
+      "No.": "6",
+      "Session No": "4",
+      "Name": "CQ2.2",
+      "Details": "How to represent a model (Hypothesis)?"
+    },
+    {
+      "No.": "7",
+      "Session No": "5",
+      "Name": "CQ2.3",
+      "Details": "How to represent a Cost Function?"
+    },
+    {
+      "No.": "8",
+      "Session No": "5",
+      "Name": "CQ2.4",
+      "Details": "How to represent a Gradient Descent?"
+    },
+    {
+      "No.": "9",
+      "Session No": "6",
+      "Name": "CQ2.5",
+      "Details": "Why use Gradient Descent?"
+    },
+    {
+      "No.": "10",
+      "Session No": "6",
+      "Name": "CQ2.6",
+      "Details": "How to choose learning rate?"
+    },
+    {
+      "No.": "11",
+      "Session No": "7",
+      "Name": "CQ3.1",
+      "Details": "What problem is Linear Regression for multiple variables used for?"
+    },
+    {
+      "No.": "12",
+      "Session No": "7",
+      "Name": "CQ3.2",
+      "Details": "How is the Hypothesis function represented?"
+    },
+    {
+      "No.": "13",
+      "Session No": "8",
+      "Name": "CQ3.3",
+      "Details": "How is Cost Function represented?"
+    },
+    {
+      "No.": "14",
+      "Session No": "8",
+      "Name": "CQ3.4",
+      "Details": "How is Gradient Descent represented?"
+    },
+    {
+      "No.": "15",
+      "Session No": "9",
+      "Name": "CQ3.5",
+      "Details": "What is the difference between Gradient Descent 1-variable and multi-variable?"
+    },
+    {
+      "No.": "16",
+      "Session No": "9",
+      "Name": "CQ3.6",
+      "Details": "What is Feature Scaling? why use it? Techniques to perform Feature Scaling?"
+    },
+    {
+      "No.": "17",
+      "Session No": "9",
+      "Name": "CQ3.7",
+      "Details": "What is Normal Equation? Compare it to Gradient Descent."
+    },
+    {
+      "No.": "18",
+      "Session No": "10",
+      "Name": "CQ4.1",
+      "Details": "What problem is Logistic Regression used for?"
+    },
+    {
+      "No.": "19",
+      "Session No": "10",
+      "Name": "CQ4.2",
+      "Details": "How is the Hypothesis function represented?"
+    },
+    {
+      "No.": "20",
+      "Session No": "11",
+      "Name": "CQ4.3",
+      "Details": "What is Decision Boundary?"
+    },
+    {
+      "No.": "21",
+      "Session No": "11",
+      "Name": "CQ4.4",
+      "Details": "How is Cost Function represented?"
+    },
+    {
+      "No.": "22",
+      "Session No": "12",
+      "Name": "CQ4.5",
+      "Details": "How is Gradient Descent represented?"
+    },
+    {
+      "No.": "23",
+      "Session No": "12",
+      "Name": "CQ4.6",
+      "Details": "How to classify multiple classes with Logistic Regression ?"
+    },
+    {
+      "No.": "24",
+      "Session No": "13",
+      "Name": "CQ5.1",
+      "Details": "Why does Over Fitting occur?"
+    },
+    {
+      "No.": "25",
+      "Session No": "13",
+      "Name": "CQ5.2",
+      "Details": "How is the Cost Function to avoid Over Fitting represented?"
+    },
+    {
+      "No.": "26",
+      "Session No": "14",
+      "Name": "CQ5.3",
+      "Details": "What is Regularized Linear Regression ?"
+    },
+    {
+      "No.": "27",
+      "Session No": "15",
+      "Name": "CQ5.4",
+      "Details": "Regularized Linear Regression Gradient Descent"
+    },
+    {
+      "No.": "28",
+      "Session No": "15",
+      "Name": "CQ5.5",
+      "Details": "What is Regularized Logistic Regression?"
+    },
+    {
+      "No.": "29",
+      "Session No": "15",
+      "Name": "CQ5.6",
+      "Details": "How is the Gradient Descent of Regularized Logistic Regression represented?"
+    },
+    {
+      "No.": "30",
+      "Session No": "16",
+      "Name": "CQ6.1",
+      "Details": "Why use Neural Network and what problem is model n used for?"
+    },
+    {
+      "No.": "31",
+      "Session No": "16",
+      "Name": "CQ6.2",
+      "Details": "What are the main components in a Neural Network?"
+    },
+    {
+      "No.": "32",
+      "Session No": "17",
+      "Name": "CQ6.3",
+      "Details": "How to apply Neural Network to XOR problem?"
+    },
+    {
+      "No.": "33",
+      "Session No": "17",
+      "Name": "CQ6.4",
+      "Details": "How is Cost Function for Neural Network represented?"
+    },
+    {
+      "No.": "34",
+      "Session No": "18",
+      "Name": "CQ6.5",
+      "Details": "What is the Feed Forward process?"
+    },
+    {
+      "No.": "35",
+      "Session No": "18",
+      "Name": "CQ6.6",
+      "Details": "What is Back Propagation?"
+    },
+    {
+      "No.": "36",
+      "Session No": "19",
+      "Name": "CQ7.1",
+      "Details": "Why split into 3 sets of train/validation/test sets?"
+    },
+    {
+      "No.": "37",
+      "Session No": "19",
+      "Name": "CQ7.2",
+      "Details": "How is the Cost Function for 3 these sets represented?"
+    },
+    {
+      "No.": "38",
+      "Session No": "20",
+      "Name": "CQ7.3",
+      "Details": "When does Bias happen?"
+    },
+    {
+      "No.": "39",
+      "Session No": "20",
+      "Name": "CQ7.4",
+      "Details": "How to fix the Bias case?"
+    },
+    {
+      "No.": "40",
+      "Session No": "21",
+      "Name": "CQ7.5",
+      "Details": "When does Variance happen?"
+    },
+    {
+      "No.": "41",
+      "Session No": "21",
+      "Name": "CQ7.6",
+      "Details": "How to fix Variance case?"
+    },
+    {
+      "No.": "42",
+      "Session No": "22",
+      "Name": "CQ8.1",
+      "Details": "How is SVM represented and what problem is it used for?"
+    },
+    {
+      "No.": "43",
+      "Session No": "22",
+      "Name": "CQ8.2",
+      "Details": "Compare SVM vs Logistic Regression ?"
+    },
+    {
+      "No.": "44",
+      "Session No": "23",
+      "Name": "CQ8.3",
+      "Details": "What is SVM Decision Boundary?"
+    },
+    {
+      "No.": "45",
+      "Session No": "23",
+      "Name": "CQ8.4",
+      "Details": "How to choose the largest margin?"
+    },
+    {
+      "No.": "46",
+      "Session No": "24",
+      "Name": "CQ8.5",
+      "Details": "What is Kernel?"
+    },
+    {
+      "No.": "47",
+      "Session No": "24",
+      "Name": "CQ8.6",
+      "Details": "How to choose the Kernel?"
+    },
+    {
+      "No.": "48",
+      "Session No": "25",
+      "Name": "CQ9.1",
+      "Details": "What problem is K-MEANS used for?"
+    },
+    {
+      "No.": "49",
+      "Session No": "25",
+      "Name": "CQ9.2",
+      "Details": "Explain the K-means algorithm?"
+    },
+    {
+      "No.": "50",
+      "Session No": "26",
+      "Name": "CQ9.3",
+      "Details": "What is Optimization Objective?"
+    },
+    {
+      "No.": "51",
+      "Session No": "26",
+      "Name": "CQ9.4",
+      "Details": "How to choose the number of Clusters?"
+    },
+    {
+      "No.": "52",
+      "Session No": "27",
+      "Name": "CQ9.5",
+      "Details": "How to choose the K value?"
+    },
+    {
+      "No.": "53",
+      "Session No": "28",
+      "Name": "CQ10.1",
+      "Details": "Why is it necessary to reduce the number of data dimensions?"
+    },
+    {
+      "No.": "54",
+      "Session No": "28",
+      "Name": "CQ10.2",
+      "Details": "How to represent data points from 3D -> 2D, and 2D -> 1D?"
+    },
+    {
+      "No.": "55",
+      "Session No": "29",
+      "Name": "CQ10.3",
+      "Details": "What is the PCA algorithm?"
+    },
+    {
+      "No.": "56",
+      "Session No": "29",
+      "Name": "CQ10.4",
+      "Details": "How to choose the number of principal components to be retained?"
+    },
+    {
+      "No.": "57",
+      "Session No": "30",
+      "Name": "CQ10.5",
+      "Details": "What are advantages and disadvantages of using PCA?"
+    }
+  ],
+  "materials": [
+    {
+      "No.": "1",
+      "Material Description": "online course on Coursera.Org at: https://www.coursera.org/learn/machine-learning",
+      "Author": "",
+      "Publisher": "",
+      "Published Date": "",
+      "Edition": "",
+      "ISBN": "",
+      "Is Main Material": "True",
+      "Is Hard Copy": "False",
+      "Is Online": "True",
+      "Note": ""
+    },
+    {
+      "No.": "2",
+      "Material Description": "https://learner.coursera.help/hc/en-us/articles/208280036-Coursera-Code-of-Conduct",
+      "Author": "",
+      "Publisher": "",
+      "Published Date": "",
+      "Edition": "",
+      "ISBN": "",
+      "Is Main Material": "False",
+      "Is Hard Copy": "False",
+      "Is Online": "True",
+      "Note": ""
+    },
+    {
+      "No.": "3",
+      "Material Description": "All materials uploaded on CMS.",
+      "Author": "",
+      "Publisher": "",
+      "Published Date": "",
+      "Edition": "",
+      "ISBN": "",
+      "Is Main Material": "False",
+      "Is Hard Copy": "False",
+      "Is Online": "True",
+      "Note": ""
+    }
+  ],
+  "source_path": "data/raw/syllabi/10204.html",
+  "id": "syllabus:10204"
+}

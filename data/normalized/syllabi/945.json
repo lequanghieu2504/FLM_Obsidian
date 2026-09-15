@@ -1,0 +1,536 @@
+{
+  "syllabus_id": 945,
+  "subject_code": "FMM101",
+  "subject_name": "Fundamentals of Multimedia",
+  "syllabus_name": "FUNDALMENTALS OF MULTIMEDIA",
+  "credits": 3,
+  "degree_level": "Bachelor in Business Administration",
+  "time_allocation": "30 sessions; 1 session= 90 minutes",
+  "prerequisite": "",
+  "general_information": {
+    "Syllabus ID": "945",
+    "Syllabus Name": "FUNDALMENTALS OF MULTIMEDIA",
+    "Course Name English": "",
+    "Subject Code": "FMM101",
+    "Learning-Teaching Method": "",
+    "NoCredit": "3",
+    "Degree Level": "Bachelor in Business Administration",
+    "Time Allocation": "30 sessions; 1 session= 90 minutes",
+    "Pre-Requisite": "",
+    "Description": "This course introduces multimedia elements, theories, and hardware/software components of multimedia including image, graphics, sound, and video components. In related with the multimedia elements, students learn the fundamental of multimedia processing, multimedia design, including principles of graphic design;introduction to authoring; on-screen layout; and introduction to authoring tools. This class will also include a brief introduction to authoring software. By teaching not only fundamental technologies but also emerging technologies, the course provides the most essential skills in handling multimedia tools and designing multimedia content in a evelopment environment.",
+    "StudentTasks": "- Attend more than 80% of contact hours in order to be accepted to the final examination - Actively participate in class activities - Fulfill tasks given by instructor after class - Use their own laptop in class only for learning purpose - Read the textbook in advance - Access the course website (www.cms.fpt.edu.vn) for up-to-date information and material of the course, for online supports from teachers and other students and for practicing and assessment.",
+    "Tools": "",
+    "Scoring Scale": "10",
+    "DecisionNo MM/dd/yyyy": "1465/QĐ-ĐHFPT dated 12/26/2017",
+    "IsApproved": "True",
+    "Note": "",
+    "Is Scored": "True",
+    "MinAvgMarkToPass": "5",
+    "IsActive": "True",
+    "ApprovedDate": "12/26/2017"
+  },
+  "active": true,
+  "approved": true,
+  "decision": "1465/QĐ-ĐHFPT dated 12/26/2017",
+  "description": "This course introduces multimedia elements, theories, and hardware/software components of multimedia including image, graphics, sound, and video components. In related with the multimedia elements, students learn the fundamental of multimedia processing, multimedia design, including principles of graphic design;introduction to authoring; on-screen layout; and introduction to authoring tools. This class will also include a brief introduction to authoring software. By teaching not only fundamental technologies but also emerging technologies, the course provides the most essential skills in handling multimedia tools and designing multimedia content in a evelopment environment.",
+  "learning_outcomes": [
+    {
+      "No.": "1",
+      "CLO Name": "CLO1",
+      "CLO Details": "Define common multimedia terms such as multimedia, integration, interactive, HTML, and authoring and qualify various characteristics of multimedia: nonlinear versus linear content"
+    },
+    {
+      "No.": "2",
+      "CLO Name": "CLO2",
+      "CLO Details": "Describe several different environments, several different aspects of multimedia as well as the primary multimedia delivery methods"
+    },
+    {
+      "No.": "3",
+      "CLO Name": "CLO3",
+      "CLO Details": "Master the essential elements of multimedia, including text, images, sound, animation, and video"
+    },
+    {
+      "No.": "4",
+      "CLO Name": "CLO4",
+      "CLO Details": "Differentiate among bitmap, vector, and 3-D images and describe the capabilities and limitations of all three"
+    },
+    {
+      "No.": "5",
+      "CLO Name": "CLO5",
+      "CLO Details": "Use digital audio to record, process, and edit sound as well as use MIDI and understand its attributes, especially relative to digitized audio"
+    },
+    {
+      "No.": "6",
+      "CLO Name": "CLO6",
+      "CLO Details": "Create computer-generated animations from multiple still images"
+    },
+    {
+      "No.": "7",
+      "CLO Name": "CLO7",
+      "CLO Details": "Work with digital video containers, codecs to select the best video recording formats for multimedia projects as well as shoot and edit video for use in multimedia"
+    },
+    {
+      "No.": "8",
+      "CLO Name": "CLO8",
+      "CLO Details": "Select the best hardware, software, and authoring tools for your project"
+    },
+    {
+      "No.": "9",
+      "CLO Name": "CLO9",
+      "CLO Details": "Determine the scope, cost, timeline, and tasks required to complete a multimedia project"
+    },
+    {
+      "No.": "10",
+      "CLO Name": "CLO10",
+      "CLO Details": "Design, produce, and test the project"
+    },
+    {
+      "No.": "11",
+      "CLO Name": "CLO11",
+      "CLO Details": "Acquire the best content and talent for your budget"
+    },
+    {
+      "No.": "12",
+      "CLO Name": "CLO12",
+      "CLO Details": "Discuss the current state of multimedia on the Internet and tools for the World Wide Web"
+    },
+    {
+      "No.": "13",
+      "CLO Name": "CLO13",
+      "CLO Details": "Create apps for mobile devices, including tablets, readers, and smartphone"
+    },
+    {
+      "No.": "14",
+      "CLO Name": "CLO14",
+      "CLO Details": "Deliver multimedia over the Internet, in an app store, and on CD-ROM and DVD"
+    }
+  ],
+  "assessments": [
+    {
+      "No.": "1",
+      "Category": "Class participation and preparation",
+      "Type": "on-going",
+      "Part": "1",
+      "Weight": "10.0%",
+      "Completion Criteria": ">0",
+      "Duration": "",
+      "CLO": "",
+      "Question Type": "",
+      "No Question": "",
+      "Knowledge and Skill": "",
+      "Grading Guide": "",
+      "Note": "Participation grade will be given based on students' preparation, quantity as well as group performance"
+    },
+    {
+      "No.": "2",
+      "Category": "Group Presentation",
+      "Type": "on-going",
+      "Part": "1",
+      "Weight": "15.0%",
+      "Completion Criteria": ">0",
+      "Duration": "90'",
+      "CLO": "LO2, LO3, LO4, LO5, LO6, LO7, LO8, LO9, LO10, LO11",
+      "Question Type": "",
+      "No Question": "",
+      "Knowledge and Skill": "Based on the first twelve chapters of this course (cover both classical and modern theories of international trade as well as examine the efficient of trade policies)",
+      "Grading Guide": "",
+      "Note": "The mark will be given based on each student's performance, not on the whole group's. It means each student will get their own mark."
+    },
+    {
+      "No.": "3",
+      "Category": "Progress Test 1",
+      "Type": "on-going",
+      "Part": "1",
+      "Weight": "15.0%",
+      "Completion Criteria": ">0",
+      "Duration": "40'",
+      "CLO": "LO2, LO3, LO4, LO5, LO6, LO7",
+      "Question Type": "Multiple choice",
+      "No Question": "50 questions",
+      "Knowledge and Skill": "Test the acquainted knowledge which student obtained in the delivered chapters (1-6).",
+      "Grading Guide": "IOS",
+      "Note": "Teacher is allowed to select which unit content (topic or learning outcome) to focus on each examination session."
+    },
+    {
+      "No.": "4",
+      "Category": "Progress Test 2",
+      "Type": "on-going",
+      "Part": "1",
+      "Weight": "15.0%",
+      "Completion Criteria": ">0",
+      "Duration": "40'",
+      "CLO": "LO8, LO9, LO10, LO11",
+      "Question Type": "Multiple choice",
+      "No Question": "50 questions",
+      "Knowledge and Skill": "Test the acquainted knowledge which student obtained in the delivered chapters (7-10).",
+      "Grading Guide": "IOS",
+      "Note": "Teacher is allowed to select which unit content (topic or learning outcome) to focus on each examination session."
+    },
+    {
+      "No.": "5",
+      "Category": "Progress Test 3",
+      "Type": "on-going",
+      "Part": "1",
+      "Weight": "15.0%",
+      "Completion Criteria": ">0",
+      "Duration": "40'",
+      "CLO": "LO12, LO13, LO14",
+      "Question Type": "Multiple choice",
+      "No Question": "50 questions",
+      "Knowledge and Skill": "Test the acquainted knowledge which student obtained in the delivered chapters (11-13).",
+      "Grading Guide": "IOS",
+      "Note": "Teacher is allowed to select which unit content (topic or learning outcome) to focus on each examination session."
+    },
+    {
+      "No.": "6",
+      "Category": "Final exam",
+      "Type": "Final exam",
+      "Part": "1",
+      "Weight": "30.0%",
+      "Completion Criteria": "4",
+      "Duration": "60'",
+      "CLO": "LO1, LO2, LO3, LO4, LO5, LO6, LO7, LO8, LO9, LO10, LO11, LO12, LO13",
+      "Question Type": "Multiple choice 50 questions.",
+      "No Question": "",
+      "Knowledge and Skill": "The question will cover the lectures, class discussions, activities, exercises, and textbook.",
+      "Grading Guide": "Exam room",
+      "Note": "Not allow to use any document/information in any form in exam room"
+    }
+  ],
+  "schedule": [
+    {
+      "Session": "1",
+      "Topic": "Chapter 1. What is Multimedia",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO1, LO2",
+      "ITU": "I,T",
+      "Student Materials": "Textbooks, workbooks, PPT presentation, and other resources",
+      "S-Download": "FMM",
+      "Student's Tasks": "Teacher's Presentation, Discussion, Exercises.",
+      "URLs": ""
+    },
+    {
+      "Session": "2",
+      "Topic": "Chapter 1. What is Multimedia (cont)",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO1, LO2",
+      "ITU": "I,T",
+      "Student Materials": "Textbooks, workbooks, PPT presentation, and other resources",
+      "S-Download": "FMM",
+      "Student's Tasks": "Teacher's Presentation, Discussion, Exercises.",
+      "URLs": ""
+    },
+    {
+      "Session": "3",
+      "Topic": "Chapter 2. Text",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO3",
+      "ITU": "T,U",
+      "Student Materials": "Textbooks, workbooks, PPT presentation, and other resources",
+      "S-Download": "",
+      "Student's Tasks": "Teacher's Presentation, Discussion, Exercises.",
+      "URLs": ""
+    },
+    {
+      "Session": "4",
+      "Topic": "Chapter 2. Text (cont)",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO3",
+      "ITU": "T,U",
+      "Student Materials": "Textbooks, workbooks, PPT presentation, and other resources",
+      "S-Download": "",
+      "Student's Tasks": "Teacher's Presentation, Discussion, Exercises.",
+      "URLs": ""
+    },
+    {
+      "Session": "5",
+      "Topic": "Chapter 3. Images",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO3, LO4",
+      "ITU": "T,U",
+      "Student Materials": "Textbooks, workbooks, PPT presentation, and other resources",
+      "S-Download": "",
+      "Student's Tasks": "Teacher's Presentation, Discussion, Exercises.",
+      "URLs": ""
+    },
+    {
+      "Session": "6",
+      "Topic": "Chapter 3. Images (cont)",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO3, LO4",
+      "ITU": "T,U",
+      "Student Materials": "Textbooks, workbooks, PPT presentation, and other resources",
+      "S-Download": "",
+      "Student's Tasks": "Teacher's Presentation, Discussion, Exercises.",
+      "URLs": ""
+    },
+    {
+      "Session": "7",
+      "Topic": "Chapter 4. Sound",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO3, LO5",
+      "ITU": "T,U",
+      "Student Materials": "Textbooks, workbooks, PPT presentation, and other resources",
+      "S-Download": "",
+      "Student's Tasks": "Teacher's Presentation, Discussion, Exercises.",
+      "URLs": ""
+    },
+    {
+      "Session": "8",
+      "Topic": "Chapter 4. Sound (cont)",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO3, LO5",
+      "ITU": "T,U",
+      "Student Materials": "Textbooks, workbooks, PPT presentation, and other resources",
+      "S-Download": "",
+      "Student's Tasks": "Teacher's Presentation, Discussion, Exercises.",
+      "URLs": ""
+    },
+    {
+      "Session": "9",
+      "Topic": "Chapter 5. Animation",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO3, LO6",
+      "ITU": "T,U",
+      "Student Materials": "Textbooks, workbooks, PPT presentation, and other resources",
+      "S-Download": "",
+      "Student's Tasks": "Teacher's Presentation, Discussion, Exercises.",
+      "URLs": ""
+    },
+    {
+      "Session": "10",
+      "Topic": "Chapter 5. Animation (cont)",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO3, LO6",
+      "ITU": "T,U",
+      "Student Materials": "Textbooks, workbooks, PPT presentation, and other resources",
+      "S-Download": "",
+      "Student's Tasks": "Teacher's Presentation, Discussion, Exercises.",
+      "URLs": ""
+    },
+    {
+      "Session": "11",
+      "Topic": "Chapter 6. Video",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO3, LO7",
+      "ITU": "T,U",
+      "Student Materials": "Textbooks, workbooks, PPT presentation, and other resources",
+      "S-Download": "",
+      "Student's Tasks": "Teacher's Presentation, Discussion, Exercises.",
+      "URLs": ""
+    },
+    {
+      "Session": "12",
+      "Topic": "Chapter 6. Video (cont)",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO3, LO7",
+      "ITU": "T,U",
+      "Student Materials": "Textbooks, workbooks, PPT presentation, and other resources",
+      "S-Download": "",
+      "Student's Tasks": "Teacher's Presentation, Discussion, Exercises.",
+      "URLs": ""
+    },
+    {
+      "Session": "13",
+      "Topic": "Review and Progress Test 1",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO2, LO3, LO4, LO5, LO6, LO7",
+      "ITU": "U",
+      "Student Materials": "Textbooks, workbooks, PPT presentation, and other resources",
+      "S-Download": "",
+      "Student's Tasks": "Teacher's Presentation, Discussion, Exercises.",
+      "URLs": ""
+    },
+    {
+      "Session": "14",
+      "Topic": "Chapter 7. Making Multimedia",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO8",
+      "ITU": "T,U",
+      "Student Materials": "Textbooks, workbooks, PPT presentation, and other resources",
+      "S-Download": "",
+      "Student's Tasks": "Teacher's Presentation, Discussion, Exercises.",
+      "URLs": ""
+    },
+    {
+      "Session": "15",
+      "Topic": "Chapter 7. Making Multimedia (cont)",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO8",
+      "ITU": "T,U",
+      "Student Materials": "Textbooks, workbooks, PPT presentation, and other resources",
+      "S-Download": "",
+      "Student's Tasks": "Teacher's Presentation, Discussion, Exercises.",
+      "URLs": ""
+    },
+    {
+      "Session": "16",
+      "Topic": "Chapter 8. Planning and Costing",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO9",
+      "ITU": "T,U",
+      "Student Materials": "Textbooks, workbooks, PPT presentation, and other resources",
+      "S-Download": "",
+      "Student's Tasks": "Teacher's Presentation, Discussion, Exercises.",
+      "URLs": ""
+    },
+    {
+      "Session": "17",
+      "Topic": "Chapter 8. Planning and Costing (cont)",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO9",
+      "ITU": "T,U",
+      "Student Materials": "Textbooks, workbooks, PPT presentation, and other resources",
+      "S-Download": "",
+      "Student's Tasks": "Teacher's Presentation, Discussion, Exercises.",
+      "URLs": ""
+    },
+    {
+      "Session": "18",
+      "Topic": "Chapter 9. Designing and Producing",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO10",
+      "ITU": "T,U",
+      "Student Materials": "Textbooks, workbooks, PPT presentation, and other resources",
+      "S-Download": "",
+      "Student's Tasks": "Teacher's Presentation, Discussion, Exercises.",
+      "URLs": ""
+    },
+    {
+      "Session": "19",
+      "Topic": "Chapter 9. Designing and Producing (cont)",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO10",
+      "ITU": "T,U",
+      "Student Materials": "Textbooks, workbooks, PPT presentation, and other resources",
+      "S-Download": "",
+      "Student's Tasks": "Teacher's Presentation, Discussion, Exercises.",
+      "URLs": ""
+    },
+    {
+      "Session": "20",
+      "Topic": "Chapter 10. Content and Talent",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO11",
+      "ITU": "T,U",
+      "Student Materials": "Textbooks, workbooks, PPT presentation, and other resources",
+      "S-Download": "",
+      "Student's Tasks": "Teacher's Presentation, Discussion, Exercises.",
+      "URLs": ""
+    },
+    {
+      "Session": "21",
+      "Topic": "Chapter 10. Content and Talent (cont)",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO11",
+      "ITU": "T,U",
+      "Student Materials": "Textbooks, workbooks, PPT presentation, and other resources",
+      "S-Download": "",
+      "Student's Tasks": "Teacher's Presentation, Discussion, Exercises.",
+      "URLs": ""
+    },
+    {
+      "Session": "22",
+      "Topic": "Review and Progress Test 2",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO8, LO9, LO10, LO11",
+      "ITU": "U",
+      "Student Materials": "",
+      "S-Download": "",
+      "Student's Tasks": "",
+      "URLs": ""
+    },
+    {
+      "Session": "23",
+      "Topic": "Group presentation",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO2, LO3, LO4, LO5, LO6, LO7, LO8, LO9, LO10, LO11",
+      "ITU": "U",
+      "Student Materials": "",
+      "S-Download": "",
+      "Student's Tasks": "Group Presentation, Discussion.",
+      "URLs": ""
+    },
+    {
+      "Session": "24",
+      "Topic": "Group presentation",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO2, LO3, LO4, LO5, LO6, LO7, LO8, LO9, LO10, LO11",
+      "ITU": "U",
+      "Student Materials": "",
+      "S-Download": "",
+      "Student's Tasks": "Group Presentation, Discussion.",
+      "URLs": ""
+    },
+    {
+      "Session": "25",
+      "Topic": "Chapter 11. The Internet and Multimedia",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO12",
+      "ITU": "T,U",
+      "Student Materials": "Textbooks, workbooks, PPT presentation, and other resources",
+      "S-Download": "",
+      "Student's Tasks": "Teacher's Presentation, Discussion, Exercises.",
+      "URLs": ""
+    },
+    {
+      "Session": "26",
+      "Topic": "Chapter 11. The Internet and Multimedia (cont)",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO12",
+      "ITU": "T,U",
+      "Student Materials": "Textbooks, workbooks, PPT presentation, and other resources",
+      "S-Download": "",
+      "Student's Tasks": "Teacher's Presentation, Discussion, Exercises.",
+      "URLs": ""
+    },
+    {
+      "Session": "27",
+      "Topic": "Chapter 12. Mobile Multimedia",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO13",
+      "ITU": "T,U",
+      "Student Materials": "Textbooks, workbooks, PPT presentation, and other resources",
+      "S-Download": "",
+      "Student's Tasks": "Teacher's Presentation, Discussion, Exercises.",
+      "URLs": ""
+    },
+    {
+      "Session": "28",
+      "Topic": "Chapter 12. Mobile Multimedia (cont)",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO13",
+      "ITU": "T,U",
+      "Student Materials": "Textbooks, workbooks, PPT presentation, and other resources",
+      "S-Download": "",
+      "Student's Tasks": "Teacher's Presentation, Discussion, Exercises.",
+      "URLs": ""
+    },
+    {
+      "Session": "29",
+      "Topic": "Chapter 13. Delivering",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO14",
+      "ITU": "T,U",
+      "Student Materials": "Textbooks, workbooks, PPT presentation, and other resources",
+      "S-Download": "",
+      "Student's Tasks": "Teacher's Presentation, Discussion, Exercises.",
+      "URLs": ""
+    },
+    {
+      "Session": "30",
+      "Topic": "Chapter 13. Delivering (cont)",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO14",
+      "ITU": "T,U",
+      "Student Materials": "Textbooks, workbooks, PPT presentation, and other resources",
+      "S-Download": "",
+      "Student's Tasks": "Teacher's Presentation, Discussion, Exercises.",
+      "URLs": ""
+    }
+  ],
+  "constructive_questions": [],
+  "materials": [],
+  "source_path": "data/raw/syllabi/945.html",
+  "id": "syllabus:945"
+}

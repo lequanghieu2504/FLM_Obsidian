@@ -1,0 +1,549 @@
+{
+  "syllabus_id": 1066,
+  "subject_code": "PRJ311",
+  "subject_name": "Desktop Java Applications",
+  "syllabus_name": "Desktop Java Applications",
+  "credits": 3,
+  "degree_level": "Bachelor",
+  "time_allocation": "Contact time: 30 sessions Lectures: 15 Lab/Tutorials: 15 1 session = 90'",
+  "prerequisite": "PRO192",
+  "general_information": {
+    "Syllabus ID": "1066",
+    "Syllabus Name": "Desktop Java Applications",
+    "Course Name English": "",
+    "Subject Code": "PRJ311",
+    "Learning-Teaching Method": "",
+    "NoCredit": "3",
+    "Degree Level": "Bachelor",
+    "Time Allocation": "Contact time: 30 sessions Lectures: 15 Lab/Tutorials: 15 1 session = 90'",
+    "Pre-Requisite": "PRO192",
+    "Description": "The course is composed of 3 parts: Part 1 is for overview of JAVA technology and strengthening the basic knowledge and skills in java programming language such as using multi- threading programming, GUI programming, processing graphics, Java internationalization utilities Part 2 is for developing Java distributed applications Part 3 is for developing Java database applications",
+    "StudentTasks": "- Students must attend more than 80% of contact sessions in order to be accepted to the final examination. - Student is responsible to do all exercises given by instructor in class or at home and submit on time - Promptly access to the FU CMS at http://cms.fpt.edu.vn for up-to-date course information",
+    "Tools": "• Internet access • JDK 1.8 or higher • JDK 1.8 or higher Documentation • NetBeans 7.x or higher • MS SQL Server 2008 or higher",
+    "Scoring Scale": "10",
+    "DecisionNo MM/dd/yyyy": "1040/QĐ-ĐHFPT dated 08/10/2018",
+    "IsApproved": "True",
+    "Note": "",
+    "Is Scored": "True",
+    "MinAvgMarkToPass": "5",
+    "IsActive": "True",
+    "ApprovedDate": "8/10/2018"
+  },
+  "active": true,
+  "approved": true,
+  "decision": "1040/QĐ-ĐHFPT dated 08/10/2018",
+  "description": "The course is composed of 3 parts: Part 1 is for overview of JAVA technology and strengthening the basic knowledge and skills in java programming language such as using multi- threading programming, GUI programming, processing graphics, Java internationalization utilities Part 2 is for developing Java distributed applications Part 3 is for developing Java database applications",
+  "learning_outcomes": [
+    {
+      "No.": "1",
+      "CLO Name": "CLO1",
+      "CLO Details": "Discuss the concept of concurrency programming and muti-threading application"
+    },
+    {
+      "No.": "2",
+      "CLO Name": "CLO2",
+      "CLO Details": "Explain the issue of concurrency programming, thread Synchronization and Wait/Notify mechanism"
+    },
+    {
+      "No.": "3",
+      "CLO Name": "CLO3",
+      "CLO Details": "Discuss the role of JFC and Swing and applies the use of swing components to create a GUI application"
+    },
+    {
+      "No.": "4",
+      "CLO Name": "CLO4",
+      "CLO Details": "Applies the use of swing layout for designing a window application"
+    },
+    {
+      "No.": "5",
+      "CLO Name": "CLO5",
+      "CLO Details": "Applies the event handling for writing event listeners for swing components"
+    },
+    {
+      "No.": "6",
+      "CLO Name": "CLO6",
+      "CLO Details": "Explain how to program network application using Socket API and RMI"
+    },
+    {
+      "No.": "7",
+      "CLO Name": "CLO7",
+      "CLO Details": "Demonstrates how to display and print 2D graphics in your Java programs"
+    },
+    {
+      "No.": "8",
+      "CLO Name": "CLO8",
+      "CLO Details": "Demonstrates the use of JDBC to execute common SQL statements, and perform other objectives common to database applications."
+    },
+    {
+      "No.": "9",
+      "CLO Name": "CLO9",
+      "CLO Details": "Demonstrates how to internationalize Java applications"
+    }
+  ],
+  "assessments": [
+    {
+      "No.": "1",
+      "Category": "Progress test 1",
+      "Type": "quiz",
+      "Part": "1",
+      "Weight": "5.0%",
+      "Completion Criteria": ">0",
+      "Duration": "20'",
+      "CLO": "LO1.1, LO1.2, LO1.4, LO2.1, LO2.2, LO2.3, LO3.1, LO3.3, LO3.4, LO4.1, LO4.3, LO5.1",
+      "Question Type": "Computer gradable (including workthrough) or a suitable format",
+      "No Question": "20 questions",
+      "Knowledge and Skill": "concepts, algorithms in a introduced chapters",
+      "Grading Guide": "by instructor using computer",
+      "Note": ""
+    },
+    {
+      "No.": "2",
+      "Category": "Progress test 2",
+      "Type": "quiz",
+      "Part": "2",
+      "Weight": "5.0%",
+      "Completion Criteria": ">0",
+      "Duration": "20'",
+      "CLO": "LO6.1, LO6.2, LO6.3, LO6.5, LO7, LO8.1, LO9",
+      "Question Type": "Computer gradable (including workthrough) or a suitable format",
+      "No Question": "20 questions",
+      "Knowledge and Skill": "concepts, algorithms in a introduced chapters",
+      "Grading Guide": "by instructor using computer",
+      "Note": ""
+    },
+    {
+      "No.": "3",
+      "Category": "Workshop",
+      "Type": "on-going",
+      "Part": "9",
+      "Weight": "30.0%",
+      "Completion Criteria": ">0",
+      "Duration": "at home",
+      "CLO": "checkout on Appendix 1",
+      "Question Type": "Problems related to the lecture",
+      "No Question": "",
+      "Knowledge and Skill": "concepts, algorithms in a given chapter",
+      "Grading Guide": "by instructor",
+      "Note": "Can be done in class"
+    },
+    {
+      "No.": "4",
+      "Category": "Practical Exam",
+      "Type": "practical exam",
+      "Part": "1",
+      "Weight": "30.0%",
+      "Completion Criteria": ">0",
+      "Duration": "85'",
+      "CLO": "LO1.3, LO1.4, LO2.3, LO3.2, LO3.4, LO4.2, LO5.2, LO8.2",
+      "Question Type": "Preferable to be Marked by Scripts",
+      "No Question": "1-2 small problems",
+      "Knowledge and Skill": "problem(s) to solve by programming",
+      "Grading Guide": "code and run; organized by exam board,",
+      "Note": "preferable to be supervised both by exam board member as well as instructor"
+    },
+    {
+      "No.": "5",
+      "Category": "Final exam",
+      "Type": "Final exam",
+      "Part": "1",
+      "Weight": "30.0%",
+      "Completion Criteria": "4",
+      "Duration": "60'",
+      "CLO": "LO1.1, LO1.2, LO1.4, LO2.1, LO2.2, LO2.3, LO3.1, LO3.3, LO3.4, LO4.1, LO4.3, LO5.1, LO6.1, LO6.2, LO6.3, LO6.5, LO7, LO8.1, LO9",
+      "Question Type": "Computer gradable",
+      "No Question": "50",
+      "Knowledge and Skill": "concepts, algorithms; all 6 studied chapters (5-6 questions/chapter) and 15 walkthroughts",
+      "Grading Guide": "by exam board,",
+      "Note": ""
+    }
+  ],
+  "schedule": [
+    {
+      "Session": "1",
+      "Topic": "Course introduction OOP-Java Review Installing tools",
+      "Learning-Teaching Type": "Offline",
+      "LO": "N/A",
+      "ITU": "",
+      "Student Materials": "Read textbook, Java Tutorial",
+      "S-Download": "",
+      "Student's Tasks": "",
+      "URLs": ""
+    },
+    {
+      "Session": "2",
+      "Topic": "1- Concurrency (book 7) Processes and Threads Thread Objects Runnable Interface Workshop 1",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO1",
+      "ITU": "I,T",
+      "Student Materials": "Book: Chapter 7 http://docs.oracle.com/javase/tutorial/essential/concurrency/index.html",
+      "S-Download": "",
+      "Student's Tasks": "Do worshop 1",
+      "URLs": ""
+    },
+    {
+      "Session": "3",
+      "Topic": "Concurrency (contd) Synchronization Deadlock",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO2",
+      "ITU": "T,U",
+      "Student Materials": "",
+      "S-Download": "",
+      "Student's Tasks": "Do worshop 2",
+      "URLs": ""
+    },
+    {
+      "Session": "4",
+      "Topic": "Workshop 1 Evaluation 2- Creating a GUI with Swing 2.1-About JFC and Swing 2.2-Using Swing Components: Top-level container, common components (label, textfields, textarea, radiobutton, checkbox, combobox, button, scrollbar, OptionPane)",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO3",
+      "ITU": "I,T",
+      "Student Materials": "Book: Chapter 10,11 http://docs.oracle.com/javase/tutorial/uiswing/index.html",
+      "S-Download": "",
+      "Student's Tasks": "Do demonstrations",
+      "URLs": ""
+    },
+    {
+      "Session": "5",
+      "Topic": "2.3- Events and Listeners 2.4- How to Use Menu",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO3, LO5",
+      "ITU": "T,U",
+      "Student Materials": "http://docs.oracle.com/javase/tutorial/uiswing/events/intro.html",
+      "S-Download": "",
+      "Student's Tasks": "",
+      "URLs": ""
+    },
+    {
+      "Session": "6",
+      "Topic": "2.5-How to use Tables Workshop 2",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO1, LO2",
+      "ITU": "U",
+      "Student Materials": "",
+      "S-Download": "",
+      "Student's Tasks": "Do worshop 2",
+      "URLs": ""
+    },
+    {
+      "Session": "7",
+      "Topic": "How to use Tables (contd) Workshop 3",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO3.2",
+      "ITU": "U",
+      "Student Materials": "http://docs.oracle.com/javase/tutorial/uiswing/components/table.html",
+      "S-Download": "",
+      "Student's Tasks": "Do worshop 3",
+      "URLs": ""
+    },
+    {
+      "Session": "8",
+      "Topic": "Workshop 2, 3 Evaluation 2.6- How to use Trees Workshop 4",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO3.2",
+      "ITU": "U",
+      "Student Materials": "",
+      "S-Download": "",
+      "Student's Tasks": "Do worshop 4",
+      "URLs": ""
+    },
+    {
+      "Session": "9",
+      "Topic": "2.7- Layouts (tutorial, step-by-step)",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO4",
+      "ITU": "T,U",
+      "Student Materials": "http://docs.oracle.com/javase/tutorial/uiswing/components/tree.html",
+      "S-Download": "",
+      "Student's Tasks": "",
+      "URLs": ""
+    },
+    {
+      "Session": "10",
+      "Topic": "2.8- Panes:SplitPane, Option Pane, 2.9- File Chooser, Color Chooser",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO3.3, LO3.4",
+      "ITU": "",
+      "Student Materials": "",
+      "S-Download": "",
+      "Student's Tasks": "",
+      "URLs": ""
+    },
+    {
+      "Session": "11",
+      "Topic": "Progress test 1 Workshop 4 Evaluation Review",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO3, LO4",
+      "ITU": "T,U",
+      "Student Materials": "",
+      "S-Download": "",
+      "Student's Tasks": "",
+      "URLs": ""
+    },
+    {
+      "Session": "12",
+      "Topic": "3-Custom Networking 3.1- Overview Networking 3.2- Woking with URLs",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO6.1, LO6.2",
+      "ITU": "I,T",
+      "Student Materials": "Book: Chapter 12 http://docs.oracle.com/javase/tutorial/networking/index.html",
+      "S-Download": "",
+      "Student's Tasks": "",
+      "URLs": ""
+    },
+    {
+      "Session": "13",
+      "Topic": "3.3-Socket and Streams Workshop 5",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO6.3, LO6.4",
+      "ITU": "T,U",
+      "Student Materials": "",
+      "S-Download": "",
+      "Student's Tasks": "Do worshop 5",
+      "URLs": ""
+    },
+    {
+      "Session": "14",
+      "Topic": "3.4- Remote Method Invocation Workshop 6",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO6.5",
+      "ITU": "T,U",
+      "Student Materials": "",
+      "S-Download": "",
+      "Student's Tasks": "Do worshop 6",
+      "URLs": ""
+    },
+    {
+      "Session": "15",
+      "Topic": "Workshop 5,6 Evaluation 4- Two Dimensional Graphics 4.1- Overview 4.2- Working with Geometry",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO7.1, LO7.2",
+      "ITU": "I,T",
+      "Student Materials": "http://docs.oracle.com/javase/tutorial/2d/index.html",
+      "S-Download": "",
+      "Student's Tasks": "",
+      "URLs": ""
+    },
+    {
+      "Session": "16",
+      "Topic": "4-3- Working with Text APIs",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO7.3",
+      "ITU": "T,U",
+      "Student Materials": "",
+      "S-Download": "",
+      "Student's Tasks": "",
+      "URLs": ""
+    },
+    {
+      "Session": "17",
+      "Topic": "4.4- Working with Images Workshop 7",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO7.4",
+      "ITU": "T,U",
+      "Student Materials": "",
+      "S-Download": "",
+      "Student's Tasks": "Do worshop 7",
+      "URLs": ""
+    },
+    {
+      "Session": "18",
+      "Topic": "4.5- Visualzing real data Workshop 7 Evaluation",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO7.4",
+      "ITU": "T,U",
+      "Student Materials": "",
+      "S-Download": "",
+      "Student's Tasks": "",
+      "URLs": ""
+    },
+    {
+      "Session": "19",
+      "Topic": "5- JDBC Database Access 5.1- JDBC Introduction 5.2- Types of JDBC Drivers",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO8.1",
+      "ITU": "I,T",
+      "Student Materials": "http://docs.oracle.com/javase/tutorial/jdbc/index.html",
+      "S-Download": "",
+      "Student's Tasks": "",
+      "URLs": ""
+    },
+    {
+      "Session": "20",
+      "Topic": "5.2- JDBC Basics (Processing SQL Statements with JDBC) Workshop 8",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO8.2",
+      "ITU": "T,U",
+      "Student Materials": "",
+      "S-Download": "",
+      "Student's Tasks": "Do worshop 8",
+      "URLs": ""
+    },
+    {
+      "Session": "21",
+      "Topic": "JDBC Demo",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO8.2",
+      "ITU": "T,U",
+      "Student Materials": "",
+      "S-Download": "",
+      "Student's Tasks": "",
+      "URLs": ""
+    },
+    {
+      "Session": "22",
+      "Topic": "JDBC Demo",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO8.2",
+      "ITU": "T,U",
+      "Student Materials": "",
+      "S-Download": "",
+      "Student's Tasks": "",
+      "URLs": ""
+    },
+    {
+      "Session": "23",
+      "Topic": "JDBC Demo",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO8.2",
+      "ITU": "T,U",
+      "Student Materials": "",
+      "S-Download": "",
+      "Student's Tasks": "",
+      "URLs": ""
+    },
+    {
+      "Session": "24",
+      "Topic": "Review",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO7, LO8",
+      "ITU": "T,U",
+      "Student Materials": "",
+      "S-Download": "",
+      "Student's Tasks": "",
+      "URLs": ""
+    },
+    {
+      "Session": "25",
+      "Topic": "Practical Exam",
+      "Learning-Teaching Type": "Offline",
+      "LO": "",
+      "ITU": "",
+      "Student Materials": "",
+      "S-Download": "",
+      "Student's Tasks": "",
+      "URLs": ""
+    },
+    {
+      "Session": "26",
+      "Topic": "Practical Exam Evaluation",
+      "Learning-Teaching Type": "Offline",
+      "LO": "",
+      "ITU": "",
+      "Student Materials": "",
+      "S-Download": "",
+      "Student's Tasks": "",
+      "URLs": ""
+    },
+    {
+      "Session": "27",
+      "Topic": "Workshop 8 Evaluation 6: Internationalization 6.1- Introduction 6.2-Setting the locale",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO9.1, LO9.2",
+      "ITU": "I,T",
+      "Student Materials": "file:///J:/Softs/JavaSofts/Java-Tutorials/tutorial-2015/i18n/network/index.html",
+      "S-Download": "",
+      "Student's Tasks": "Do worshop 9",
+      "URLs": ""
+    },
+    {
+      "Session": "28",
+      "Topic": "",
+      "Learning-Teaching Type": "Offline",
+      "LO": "",
+      "ITU": "",
+      "Student Materials": "",
+      "S-Download": "",
+      "Student's Tasks": "",
+      "URLs": ""
+    },
+    {
+      "Session": "29",
+      "Topic": "6.3- Isolating Locale-Specific Data 6.4- Isolating Locale-Specific Data Workshop 9",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO9.2, LO9.3",
+      "ITU": "T,U",
+      "Student Materials": "",
+      "S-Download": "",
+      "Student's Tasks": "",
+      "URLs": ""
+    },
+    {
+      "Session": "30",
+      "Topic": "Progess Test 2 Workshop 9 Evaluation Review",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO7, LO8, LO9",
+      "ITU": "U",
+      "Student Materials": "",
+      "S-Download": "",
+      "Student's Tasks": "",
+      "URLs": ""
+    }
+  ],
+  "constructive_questions": [],
+  "materials": [
+    {
+      "No.": "1",
+      "Material Description": "Complete Java 2 Certification Study Guide",
+      "Author": "Phillip Heller, Simon Roberts",
+      "Publisher": "",
+      "Published Date": "",
+      "Edition": "5th",
+      "ISBN": "978-0-7821-4419-2",
+      "Is Main Material": "True",
+      "Is Hard Copy": "True",
+      "Is Online": "False",
+      "Note": ""
+    },
+    {
+      "No.": "2",
+      "Material Description": "e-Book: http://docs.oracle.com/javase/tutorial/JDBC",
+      "Author": "",
+      "Publisher": "",
+      "Published Date": "",
+      "Edition": "",
+      "ISBN": "",
+      "Is Main Material": "False",
+      "Is Hard Copy": "False",
+      "Is Online": "True",
+      "Note": ""
+    },
+    {
+      "No.": "3",
+      "Material Description": "FU slides",
+      "Author": "",
+      "Publisher": "",
+      "Published Date": "",
+      "Edition": "",
+      "ISBN": "",
+      "Is Main Material": "False",
+      "Is Hard Copy": "False",
+      "Is Online": "True",
+      "Note": ""
+    },
+    {
+      "No.": "4",
+      "Material Description": "Comprehensive",
+      "Author": "Y. Daniel Liang",
+      "Publisher": "",
+      "Published Date": "",
+      "Edition": "6th",
+      "ISBN": "",
+      "Is Main Material": "False",
+      "Is Hard Copy": "True",
+      "Is Online": "False",
+      "Note": ""
+    }
+  ],
+  "source_path": "data/raw/syllabi/1066.html",
+  "id": "syllabus:1066"
+}

@@ -1,0 +1,230 @@
+{
+  "syllabus_id": 828,
+  "subject_code": "AIL302",
+  "subject_name": "MACHINE LEARNING",
+  "syllabus_name": "MACHINE LEARNING",
+  "credits": 3,
+  "degree_level": "Bachelor",
+  "time_allocation": "Contact time: 30 sessions Home study: 30 sessions 1 session = 90 minutes",
+  "prerequisite": "MAS291",
+  "general_information": {
+    "Syllabus ID": "828",
+    "Syllabus Name": "MACHINE LEARNING",
+    "Course Name English": "",
+    "Subject Code": "AIL302",
+    "Learning-Teaching Method": "",
+    "NoCredit": "3",
+    "Degree Level": "Bachelor",
+    "Time Allocation": "Contact time: 30 sessions Home study: 30 sessions 1 session = 90 minutes",
+    "Pre-Requisite": "MAS291",
+    "Description": "Machine learning is the science of getting computers to act without being explicitly programmed. In the past decade, machine learning has given us self-driving cars, practical speech recognition, effective web search, and a vastly improved understanding of the human genome. Machine learning is so pervasive today that you probably use it dozens of times a day without knowing it. Many researchers also think it is the best way to make progress towards human-level AI. This course provides a broad introduction to machine learning, datamining, and statistical pattern recognition. Topics include: (i) Supervised learning (parametric/non-parametric algorithms, support vector machines, kernels, neural networks). (ii) Unsupervised learning (clustering, dimensionality reduction, recommender systems, deep learning). (iii) Best practices in machine learning (bias/variance theory; innovation process in machine learning and AI). The course will also draw from numerous case studies and applications, so that you'll also learn how to apply learning algorithms to building smart robots (perception, control), text understanding (web search, anti-spam), computer vision, medical informatics, audio, database mining, and other areas. This course will be implemented through online mode. Students will learn officially the online course \"Machine Learning\" on Coursera. During the online learning process, students will be guided by teachers-tutors through some offline sessions on the campus, and through emails",
+    "StudentTasks": "- Students must learn officially an online course on Coursera - Take part in at least 4/5 offline classes - Submit assignments according to the schedule",
+    "Tools": "",
+    "Scoring Scale": "10",
+    "DecisionNo MM/dd/yyyy": "486/QĐ-ĐHFPT dated 08/27/2013",
+    "IsApproved": "True",
+    "Note": "",
+    "Is Scored": "True",
+    "MinAvgMarkToPass": "5",
+    "IsActive": "True",
+    "ApprovedDate": "8/27/2013"
+  },
+  "active": true,
+  "approved": true,
+  "decision": "486/QĐ-ĐHFPT dated 08/27/2013",
+  "description": "Machine learning is the science of getting computers to act without being explicitly programmed. In the past decade, machine learning has given us self-driving cars, practical speech recognition, effective web search, and a vastly improved understanding of the human genome. Machine learning is so pervasive today that you probably use it dozens of times a day without knowing it. Many researchers also think it is the best way to make progress towards human-level AI. This course provides a broad introduction to machine learning, datamining, and statistical pattern recognition. Topics include: (i) Supervised learning (parametric/non-parametric algorithms, support vector machines, kernels, neural networks). (ii) Unsupervised learning (clustering, dimensionality reduction, recommender systems, deep learning). (iii) Best practices in machine learning (bias/variance theory; innovation process in machine learning and AI). The course will also draw from numerous case studies and applications, so that you'll also learn how to apply learning algorithms to building smart robots (perception, control), text understanding (web search, anti-spam), computer vision, medical informatics, audio, database mining, and other areas. This course will be implemented through online mode. Students will learn officially the online course \"Machine Learning\" on Coursera. During the online learning process, students will be guided by teachers-tutors through some offline sessions on the campus, and through emails",
+  "learning_outcomes": [
+    {
+      "No.": "1",
+      "CLO Name": "CLO1",
+      "CLO Details": "Obtain a deep knowledge about linear regression with one variable:"
+    },
+    {
+      "No.": "2",
+      "CLO Name": "CLO1.1",
+      "CLO Details": "Demonstrate a deep understanding about linear regression model with one variable."
+    },
+    {
+      "No.": "3",
+      "CLO Name": "CLO1.2",
+      "CLO Details": "Understand and calculate the cost function and gradient descent method for Linear regression with one variable."
+    },
+    {
+      "No.": "4",
+      "CLO Name": "CLO2",
+      "CLO Details": "Be able to implement the learning algorithms in practice using Octave or MATLAB"
+    },
+    {
+      "No.": "5",
+      "CLO Name": "CLO3",
+      "CLO Details": "Obtain a deep knowledge about linear regression model with multiple variables"
+    },
+    {
+      "No.": "6",
+      "CLO Name": "CLO3.1",
+      "CLO Details": "Demonstrate a deep understanding about linear regression model with multiple variables"
+    },
+    {
+      "No.": "7",
+      "CLO Name": "CLO3.2",
+      "CLO Details": "Understand and calculate the cost function and gradient descent method for Linear regression with multiple variables"
+    },
+    {
+      "No.": "8",
+      "CLO Name": "CLO4",
+      "CLO Details": "Being able to classify data into discrete outcomes using logistic regression method. Apply cost function for Logistic regression"
+    },
+    {
+      "No.": "9",
+      "CLO Name": "CLO5",
+      "CLO Details": "Being able to prevent models from overfitting the training data by using regularization."
+    },
+    {
+      "No.": "10",
+      "CLO Name": "CLO6",
+      "CLO Details": "Demonstrate an understanding about neural networks: what neural networks are, what representations of neural network models."
+    },
+    {
+      "No.": "11",
+      "CLO Name": "CLO7",
+      "CLO Details": "Demonstrate an understanding about the backpropagation algorithm for training neural networks."
+    },
+    {
+      "No.": "12",
+      "CLO Name": "CLO8",
+      "CLO Details": "Being able to evaluate performance of the learned models"
+    },
+    {
+      "No.": "13",
+      "CLO Name": "CLO9",
+      "CLO Details": "Demonstrate a understanding about the performance of a machine learning system with multiple parts, and being able to deal with skewed data."
+    },
+    {
+      "No.": "14",
+      "CLO Name": "CLO10",
+      "CLO Details": "Demonstrate an understanding about the idea and intuitions behind Support Vector Machines (SVM), for classification and being able to use it in practice."
+    },
+    {
+      "No.": "15",
+      "CLO Name": "CLO11",
+      "CLO Details": "Demonstrate a understanding about the k-Means algorithm for clustering unlabeled data points."
+    },
+    {
+      "No.": "16",
+      "CLO Name": "CLO12",
+      "CLO Details": "Demonstrate a deep understanding about Principal Components Analysis, and use it for data compression to speed up learning algorithms as well as for visualizations of complex datasets."
+    },
+    {
+      "No.": "17",
+      "CLO Name": "CLO13",
+      "CLO Details": "Be able to model a dataset using a Gaussian distribution, and use this model for anomaly detection."
+    },
+    {
+      "No.": "18",
+      "CLO Name": "CLO14",
+      "CLO Details": "Be able to perfom the recommender algorithms such as the collaborative filtering algorithm and low-rank matrix factorization."
+    },
+    {
+      "No.": "19",
+      "CLO Name": "CLO15",
+      "CLO Details": "Apply the machine learning algorithms with large datasets."
+    },
+    {
+      "No.": "20",
+      "CLO Name": "CLO16",
+      "CLO Details": "Master online studying skill and be ready for life long learning."
+    }
+  ],
+  "assessments": [
+    {
+      "No.": "1",
+      "Category": "Final exam",
+      "Type": "on-going",
+      "Part": "1",
+      "Weight": "50.0%",
+      "Completion Criteria": "4",
+      "Duration": "60 minutes",
+      "CLO": "x`",
+      "Question Type": "Theory",
+      "No Question": "50",
+      "Knowledge and Skill": "The whole course content",
+      "Grading Guide": "",
+      "Note": "In campus"
+    },
+    {
+      "No.": "2",
+      "Category": "Individual assignment",
+      "Type": "on-going",
+      "Part": "1",
+      "Weight": "30.0%",
+      "Completion Criteria": ">0",
+      "Duration": "15 sessions/ assignment",
+      "CLO": "",
+      "Question Type": "Practical",
+      "No Question": "",
+      "Knowledge and Skill": "Using the Machine Learning methods learned, code a program that can solve Machine Learning problems (e.g. Classification, Clustering, …) possibly using language like Python, C, C++, Java",
+      "Grading Guide": "Teacher will give the problem, students submit their code individually, the code and its output will be graded by teacher",
+      "Note": ""
+    },
+    {
+      "No.": "3",
+      "Category": "Quiz",
+      "Type": "on-going",
+      "Part": "1",
+      "Weight": "20.0%",
+      "Completion Criteria": ">0",
+      "Duration": "30-45'",
+      "CLO": "",
+      "Question Type": "MC",
+      "No Question": "20-40",
+      "Knowledge and Skill": "Learn contents",
+      "Grading Guide": "In class by lecturer",
+      "Note": ""
+    }
+  ],
+  "schedule": [],
+  "constructive_questions": [],
+  "materials": [
+    {
+      "No.": "1",
+      "Material Description": "online course on Coursera.Org at: https://www.coursera.org/learn/machine-learning",
+      "Author": "",
+      "Publisher": "",
+      "Published Date": "",
+      "Edition": "",
+      "ISBN": "",
+      "Is Main Material": "True",
+      "Is Hard Copy": "False",
+      "Is Online": "False",
+      "Note": ""
+    },
+    {
+      "No.": "2",
+      "Material Description": "Learning guidance for online course on Coursera (atached with this syllabus)",
+      "Author": "",
+      "Publisher": "",
+      "Published Date": "",
+      "Edition": "",
+      "ISBN": "",
+      "Is Main Material": "False",
+      "Is Hard Copy": "False",
+      "Is Online": "False",
+      "Note": ""
+    },
+    {
+      "No.": "3",
+      "Material Description": "All materials are uploaded in CMS.",
+      "Author": "",
+      "Publisher": "",
+      "Published Date": "",
+      "Edition": "",
+      "ISBN": "",
+      "Is Main Material": "False",
+      "Is Hard Copy": "False",
+      "Is Online": "False",
+      "Note": ""
+    }
+  ],
+  "source_path": "data/raw/syllabi/828.html",
+  "id": "syllabus:828"
+}

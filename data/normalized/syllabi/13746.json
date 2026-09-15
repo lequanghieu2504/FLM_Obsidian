@@ -1,0 +1,1248 @@
+{
+  "syllabus_id": 13746,
+  "subject_code": "ELI402",
+  "subject_name": "Phiên dịch tiếng Anh 2\nEnglish Interpretation 2",
+  "syllabus_name": "Phiên dịch tiếng Anh 2",
+  "credits": 3,
+  "degree_level": "Bachelor",
+  "time_allocation": "Study hour (150h) = 45 contact hours (60 sessions) + 0.5 hour final exam + 104.5 hours self-study",
+  "prerequisite": "Passed ELI301 or ELI302",
+  "general_information": {
+    "Syllabus ID": "13746",
+    "Syllabus Name": "Phiên dịch tiếng Anh 2",
+    "Course Name English": "English Interpretation 2",
+    "Subject Code": "ELI402",
+    "Learning-Teaching Method": "Lecture,Field trip,Active learning,Cooperative Learning,Discovery Learning,Experiential learning methods,Project Based Training,Presentation,Practice",
+    "NoCredit": "3",
+    "Degree Level": "Bachelor",
+    "Time Allocation": "Study hour (150h) = 45 contact hours (60 sessions) + 0.5 hour final exam + 104.5 hours self-study",
+    "Pre-Requisite": "Passed ELI301 or ELI302",
+    "Description": "This course develops English–Vietnamese and Vietnamese–English interpreting competence through authentic tasks situated in academic, public-sector, and workplace contexts. Learners analyze sources of meaning loss and apply equivalence strategies; manage register and shades of meaning to produce concise, accurate formal outputs; evaluate argumentative discourse and make justified ethical decisions; and interpret policy, political, and domain-specific discourse with verified terminology. Culture-bound references, implicature, humor, Latinisms, and loan expressions are treated with appropriate transfer strategies. Teamwork, turn-taking, co-interpreter support, and professional conduct are embedded throughout. AI is used as a probe with human verification and ethical safeguards. All activities and assessments align with the course CLOs and contribute to relevant PLOs. By the end of the course, students will be able to: - Apply advanced interpreting principles to produce context-appropriate renditions across academic, public, and workplace settings. - Analyze and select target-language expressions to control register and shades of meaning. - Evaluate argumentative discourse and uphold professional ethics while collaborating effectively in co-interpreting roles. - Integrate domain knowledge (policy, socio-economics) into interpreting decisions to ensure accuracy and appropriateness.",
+    "StudentTasks": "- Attend at least 80% of contact hours in order to be accepted to the final examination - Actively participate in class activities - Fulfill tasks given by the teacher after class - Use their own laptops in class only for learning purposes - Read the textbook in advance",
+    "Tools": "1. Ted-Ed: (choose clips with no Vietsub provided) 2. Viet Nam News: (choose articles related to politics, science, nature, lifestyle, healthcare) 3. CNN: (choose clips and articles related to science, nature, lifestyle, healthcare) 4. ABC: (choose clips and articles related to science, nature, lifestyle, healthcare) 5. ChatGPT/Gemini/Grok: (create leveled summaries, comprehension questions, glossaries, role-play/debate prompts, quick rubrics; remind students to verify sources) 6. NaturalReader: (convert texts to audio, adjust speed/voice/accent, export MP3 for shadowing/dictation and listening practice)",
+    "Scoring Scale": "10",
+    "DecisionNo MM/dd/yyyy": "1318/QĐ-ĐHFPT dated 11/27/2025",
+    "IsApproved": "True",
+    "Note": "",
+    "Is Scored": "True",
+    "MinAvgMarkToPass": "5",
+    "IsActive": "True",
+    "ApprovedDate": "11/27/2025"
+  },
+  "active": true,
+  "approved": true,
+  "decision": "1318/QĐ-ĐHFPT dated 11/27/2025",
+  "description": "This course develops English–Vietnamese and Vietnamese–English interpreting competence through authentic tasks situated in academic, public-sector, and workplace contexts. Learners analyze sources of meaning loss and apply equivalence strategies; manage register and shades of meaning to produce concise, accurate formal outputs; evaluate argumentative discourse and make justified ethical decisions; and interpret policy, political, and domain-specific discourse with verified terminology. Culture-bound references, implicature, humor, Latinisms, and loan expressions are treated with appropriate transfer strategies. Teamwork, turn-taking, co-interpreter support, and professional conduct are embedded throughout. AI is used as a probe with human verification and ethical safeguards. All activities and assessments align with the course CLOs and contribute to relevant PLOs. By the end of the course, students will be able to: - Apply advanced interpreting principles to produce context-appropriate renditions across academic, public, and workplace settings. - Analyze and select target-language expressions to control register and shades of meaning. - Evaluate argumentative discourse and uphold professional ethics while collaborating effectively in co-interpreting roles. - Integrate domain knowledge (policy, socio-economics) into interpreting decisions to ensure accuracy and appropriateness.",
+  "learning_outcomes": [
+    {
+      "No.": "1",
+      "CLO Name": "CLO1",
+      "CLO Details": "Analyze sources of meaning loss and apply equivalence strategies to preserve propositional and pragmatic meaning."
+    },
+    {
+      "No.": "2",
+      "CLO Name": "CLO2",
+      "CLO Details": "Apply advanced interpreting principles across academic, public, and workplace settings to deliver context-appropriate renditions."
+    },
+    {
+      "No.": "3",
+      "CLO Name": "CLO3",
+      "CLO Details": "Evaluate argumentative discourse and justify ethical decisions in interpreting, including AI ethics (privacy, bias, attribution, confidentiality)."
+    },
+    {
+      "No.": "4",
+      "CLO Name": "CLO4",
+      "CLO Details": "Analyze register levels and shades of meaning and determine appropriate target-language choices, using AI suggestions as probes with human verification."
+    },
+    {
+      "No.": "5",
+      "CLO Name": "CLO5",
+      "CLO Details": "Produce formal-register interpretations that are concise, accurate, and stylistically balanced."
+    },
+    {
+      "No.": "6",
+      "CLO Name": "CLO6",
+      "CLO Details": "Analyze policy speeches and render coherent interpretations of key claims and supporting evidence."
+    },
+    {
+      "No.": "7",
+      "CLO Name": "CLO7",
+      "CLO Details": "Apply core political/economic concepts to ensure domain accuracy in interpreting, and verify terminology with trusted resources and AI quality-checks."
+    },
+    {
+      "No.": "8",
+      "CLO Name": "CLO8",
+      "CLO Details": "Analyze culturally bound references, implicatures, and humor and choose appropriate transfer strategies."
+    },
+    {
+      "No.": "9",
+      "CLO Name": "CLO9",
+      "CLO Details": "Apply accurate equivalents or illustrate effective paraphrases for Latinisms and loan expressions, noting usage constraints."
+    },
+    {
+      "No.": "10",
+      "CLO Name": "CLO10",
+      "CLO Details": "Demonstrate teamwork (turn-taking, co-interpreter support) and professional conduct (punctuality, confidentiality)."
+    }
+  ],
+  "assessments": [
+    {
+      "No.": "1",
+      "Category": "(Field Trip) Project",
+      "Type": "on-going",
+      "Part": "1",
+      "Weight": "10.0%",
+      "Completion Criteria": ">0",
+      "Duration": "flexible",
+      "CLO": "All LOs",
+      "Question Type": "",
+      "No Question": "",
+      "Knowledge and Skill": "Test student's ability to apply knowledge and techniques obtained in all 9 units of the course to interpreting in a business setting.",
+      "Grading Guide": "Location/Procedure of teacher's choice",
+      "Note": "Teacher is asked to write a field trip proposal with specific details and send it to the person in charge; or organize a project that facilitates the subject."
+    },
+    {
+      "No.": "2",
+      "Category": "Progress Test 1",
+      "Type": "on-going",
+      "Part": "1",
+      "Weight": "20.0%",
+      "Completion Criteria": ">0",
+      "Duration": "6 minutes/pair",
+      "CLO": "LO1, LO2, LO3, LO4",
+      "Question Type": "Pair work",
+      "No Question": "2",
+      "Knowledge and Skill": "Test student's ability to apply knowledge and techniques obtained in the delivered units (Units 1-3) to consecutive interpreting.",
+      "Grading Guide": "In-class test",
+      "Note": "The teacher will prepare a text for each student (≈100words/text), and inform students the topics of those texts in advance. The student shall prepare materials related to the topics to facilitate interpreting performance. On the test day, each pair of students will randomly pick 2 texts and take turns to read and interpret."
+    },
+    {
+      "No.": "3",
+      "Category": "Progress Test 2",
+      "Type": "on-going",
+      "Part": "1",
+      "Weight": "20.0%",
+      "Completion Criteria": ">0",
+      "Duration": "6 minutes/pair",
+      "CLO": "LO4, LO5, LO6, LO7",
+      "Question Type": "pair work",
+      "No Question": "2",
+      "Knowledge and Skill": "Test student's ability to apply knowledge and techniques obtained in the delivered units (Units 4-6) to consecutive interpreting.",
+      "Grading Guide": "",
+      "Note": "The teacher will prepare a text for each student (≈100words/text), and inform students the topics of those texts in advance. The student shall prepare materials related to the topics to facilitate interpreting performance. On the test day, each pair of students will randomly pick 2 texts and take turns to read and interpret."
+    },
+    {
+      "No.": "4",
+      "Category": "Progress Test 3",
+      "Type": "on-going",
+      "Part": "1",
+      "Weight": "10.0%",
+      "Completion Criteria": ">0",
+      "Duration": "15 minutes",
+      "CLO": "LO6, LO7, LO8, LO9",
+      "Question Type": "",
+      "No Question": "1",
+      "Knowledge and Skill": "Test the student's ability to apply knowledge and techniques obtained in the delivered units (Units 7-9) to simultaneous interpreting.",
+      "Grading Guide": "",
+      "Note": "The teacher shall prepare 5-6 audio files (≈2minutes/file) relating to several specific topics, of which the students will be informed in advance. On the test day, students will be divided into groups of 4 or 5. All members will be standing at different positions in class, simultaneously listening to the same audio and recording their interpretation using a smartphone. Upon completion, students are asked to send the record to the teacher immediately."
+    },
+    {
+      "No.": "5",
+      "Category": "Final Exam",
+      "Type": "Final exam",
+      "Part": "1",
+      "Weight": "40.0%",
+      "Completion Criteria": "4",
+      "Duration": "20 minutes/student",
+      "CLO": "All LOs",
+      "Question Type": "",
+      "No Question": "N/A",
+      "Knowledge and Skill": "Test student's ability to apply knowledge and techniques obtained in all 9 units of the course to consecutive interpreting (both ENG-VIE and VIE-ENG processes). Topics: 1. Education 2. Entertainment 3. Technology 4. Environment/Nature 5. Business, Economics and Finance 6. Tourism 7. Family and Friends 8. Health 9. Culture 10. Arts",
+      "Grading Guide": "Exam room",
+      "Note": "The length of one audio is 220-250 words. Students take the exam individually. Students will randomly pick 2 topics to interpret. Students will listen to one audio in English for E-V interpretation, and listen to audio or the examiners reading a text in Vietnamese for the V-E process. Students are allowed to take notes in the exam room."
+    }
+  ],
+  "schedule": [
+    {
+      "Session": "1",
+      "Topic": "Course Introduction Unit 1. UNTRANSLATABILITY - Cultural differences lead to the possibility of having nuances that could not be conveyed perfectly.",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO3, LO7, LO10",
+      "ITU": "IT",
+      "Student Materials": "Coursebook [1] (Interpretation Techniques and Exercises) Coursebook [2] (Introduction to Translation and Interpreting Studies) Coursebook [1], Chapter 6, PPT presentation, other teaching resources provided",
+      "S-Download": "link1-1",
+      "Student's Tasks": "Lecture, Exercises, group/pair work, Class discussion",
+      "URLs": ""
+    },
+    {
+      "Session": "2",
+      "Topic": "Unit 1 (Cont. ) - The solution: using equivalents.",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO1, LO2, LO4",
+      "ITU": "I, T",
+      "Student Materials": "Coursebook [1], Chapter 6, PPT presentation, other teaching resources provided",
+      "S-Download": "",
+      "Student's Tasks": "Lecture, Exercises, group/pair work, Class discussion",
+      "URLs": ""
+    },
+    {
+      "Session": "3",
+      "Topic": "Unit 1 (Cont. ) - Review the previous lesson - AI-ethics briefing + attribution rule for the course.",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO1, LO2, LO4",
+      "ITU": "TU",
+      "Student Materials": "Coursebook [1], Chapter 6; Coursebook [2], pages 177, PPT presentation, other teaching resources provided",
+      "S-Download": "",
+      "Student's Tasks": "Lecture, Exercises, group/pair work, Class discussion",
+      "URLs": ""
+    },
+    {
+      "Session": "4",
+      "Topic": "Unit 1 (Cont. ) - AI-probe then human verify” mini-task on tricky nuances. - Practice Military & Conflict Interpreting",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO1, LO2, LO4",
+      "ITU": "TU",
+      "Student Materials": "Coursebook [1], Chapter 6; Coursebook [2], pages 177, PPT presentation, other teaching resources provided",
+      "S-Download": "",
+      "Student's Tasks": "Lecture, Exercises, group/pair work, Class discussion",
+      "URLs": ""
+    },
+    {
+      "Session": "5",
+      "Topic": "Unit 1 (Cont. ) - Review the previous lesson - Practice Military & Conflict Interpreting",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO1, LO2, LO4",
+      "ITU": "T, U",
+      "Student Materials": "Coursebook [1], Chapter 6; Coursebook [2], pages 177, PPT presentation, other teaching resources provided",
+      "S-Download": "",
+      "Student's Tasks": "Lecture, Exercises, group/pair work, Class discussion",
+      "URLs": ""
+    },
+    {
+      "Session": "6",
+      "Topic": "Unit 1 (Cont. ) - Review the previous lesson - Practice Military & Conflict Interpreting",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO1, LO2, LO4",
+      "ITU": "TU",
+      "Student Materials": "Coursebook [1], Chapter 6; Coursebook [2], pages 177, PPT presentation, other teaching resources provided",
+      "S-Download": "",
+      "Student's Tasks": "Lecture, Exercises, group/pair work, Class discussion",
+      "URLs": ""
+    },
+    {
+      "Session": "7",
+      "Topic": "Unit 2. ARGUMENTATION - Review the role of logic and emotion in speaker's arguments.",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO2, LO3, LO6",
+      "ITU": "I, T",
+      "Student Materials": "Coursebook [1], Chapter 8; Coursebook [2], pages 175-177, PPT presentation, other teaching resources provided",
+      "S-Download": "",
+      "Student's Tasks": "Lecture, Exercises, group/pair work, Class discussion",
+      "URLs": ""
+    },
+    {
+      "Session": "8",
+      "Topic": "Unit 2 (Cont.) - Review the professionalism of the interpreter when dealing with argumentation.",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO2, LO3, LO6",
+      "ITU": "I, T",
+      "Student Materials": "Coursebook [1], Chapter 8; Coursebook [2], pages 175-177, PPT presentation, other teaching resources provided",
+      "S-Download": "",
+      "Student's Tasks": "Lecture, Exercises, group/pair work, Class discussion",
+      "URLs": ""
+    },
+    {
+      "Session": "9",
+      "Topic": "Unit 2 (Cont.) - Review the previous lesson - Practice Diplomatic Interpreting",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO2, LO3, LO6",
+      "ITU": "T, U",
+      "Student Materials": "Coursebook [1], Chapter 8; Coursebook [2], pages 175-177, PPT presentation, other teaching resources provided",
+      "S-Download": "",
+      "Student's Tasks": "Lecture, Exercises, group/pair work, Class discussion",
+      "URLs": ""
+    },
+    {
+      "Session": "10",
+      "Topic": "Unit 2 (Cont.) - Review the previous lesson - Practice Diplomatic Interpreting",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO2, LO3, LO6",
+      "ITU": "T, U",
+      "Student Materials": "Coursebook [1], Chapter 8; Coursebook [2], pages 175-177, PPT presentation, other teaching resources provided",
+      "S-Download": "",
+      "Student's Tasks": "Lecture, Exercises, group/pair work, Class discussion",
+      "URLs": ""
+    },
+    {
+      "Session": "11",
+      "Topic": "Unit 2 (Cont.) - Review the previous lesson - Practice Diplomatic Interpreting",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO2, LO3, LO6",
+      "ITU": "T, U",
+      "Student Materials": "Coursebook [1], Chapter 8; Coursebook [2], pages 175-177, PPT presentation, other teaching resources provided",
+      "S-Download": "",
+      "Student's Tasks": "Lecture, Exercises, group/pair work, Class discussion",
+      "URLs": ""
+    },
+    {
+      "Session": "12",
+      "Topic": "Unit 2 (Cont.) - Review the previous lesson - Practice Diplomatic Interpreting",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO2, LO3, LO6",
+      "ITU": "T, U",
+      "Student Materials": "Coursebook [1], Chapter 8; Coursebook [2], pages 175-177, PPT presentation, other teaching resources provided",
+      "S-Download": "",
+      "Student's Tasks": "Lecture, Exercises, group/pair work, Class discussion",
+      "URLs": ""
+    },
+    {
+      "Session": "13",
+      "Topic": "Unit 3. DICTION/REGISTER - Identify the excesses of language.",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO2, LO4",
+      "ITU": "I, T",
+      "Student Materials": "Coursebook [1], Chapter 9, PPT presentation, other teaching resources provided",
+      "S-Download": "",
+      "Student's Tasks": "Lecture, Exercises, group/pair work, Class discussion",
+      "URLs": ""
+    },
+    {
+      "Session": "14",
+      "Topic": "Unit 3 (Cont.) - Review the importance of word choice.",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO2, LO4",
+      "ITU": "I, T",
+      "Student Materials": "Coursebook [1], PPT presentation, other teaching resources provided",
+      "S-Download": "",
+      "Student's Tasks": "Lecture, Exercises, group/pair work, Class discussion",
+      "URLs": ""
+    },
+    {
+      "Session": "15",
+      "Topic": "Unit 3 (Cont.) - critique AI-suggested wordings for tone/shades of meaning. - Pratice Public Service Interpreting (Health care)",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO2, LO4",
+      "ITU": "T, U",
+      "Student Materials": "Coursebook [1], Chapter 9; Coursebook [2], pages 180-189; PPT presentation, other teaching resources provided",
+      "S-Download": "",
+      "Student's Tasks": "Exercises, group/pair work",
+      "URLs": ""
+    },
+    {
+      "Session": "16",
+      "Topic": "Unit 3 (Cont.) - Review the previous lesson - Pratice Public Service Interpreting (Health care)",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO2, LO4",
+      "ITU": "T, U",
+      "Student Materials": "Coursebook [1], Chapter 9; Coursebook [2], pages 180-189; PPT presentation, other teaching resources provided",
+      "S-Download": "",
+      "Student's Tasks": "Lecture, Exercises, group/pair work, Class discussion",
+      "URLs": ""
+    },
+    {
+      "Session": "17",
+      "Topic": "Unit 3 (Cont.) - Review the previous lesson - Pratice Public Service Interpreting (Health care)",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO2, LO4",
+      "ITU": "T, U",
+      "Student Materials": "Coursebook [1], Chapter 9; Coursebook [2], pages 180-189; PPT presentation, other teaching resources provided",
+      "S-Download": "",
+      "Student's Tasks": "Exercises, group/pair work",
+      "URLs": ""
+    },
+    {
+      "Session": "18",
+      "Topic": "Unit 3 (Cont.) - Review the previous lesson - Pratice Public Service Interpreting (Health care)",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO2, LO4",
+      "ITU": "T, U",
+      "Student Materials": "Coursebook [1], Chapter 9; Coursebook [2], pages 180-189; PPT presentation, other teaching resources provided",
+      "S-Download": "",
+      "Student's Tasks": "Lecture, Exercises, group/pair work, Class discussion",
+      "URLs": ""
+    },
+    {
+      "Session": "19",
+      "Topic": "PROGRESS TEST 1 Consecutive Interpreting (ENG-VIE)",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO1, LO2, LO3, LO4",
+      "ITU": "U",
+      "Student Materials": "Topics prepared by the teacher",
+      "S-Download": "",
+      "Student's Tasks": "Pairwork",
+      "URLs": ""
+    },
+    {
+      "Session": "20",
+      "Topic": "PROGRESS TEST 1 Consecutive Interpreting (ENG-VIE)",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO1, LO2, LO3, LO4",
+      "ITU": "U",
+      "Student Materials": "Topics prepared by the teacher",
+      "S-Download": "",
+      "Student's Tasks": "Pairwork",
+      "URLs": ""
+    },
+    {
+      "Session": "21",
+      "Topic": "Unit 4. FORMAL STYLE - Review the importance of the sense of occasion.",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO2, LO5, LO10",
+      "ITU": "I, T",
+      "Student Materials": "Coursebook [1], Chapter 10, PPT presentation, other teaching resources provided",
+      "S-Download": "",
+      "Student's Tasks": "Lecture, Exercises, group/pair work, Class discussion",
+      "URLs": ""
+    },
+    {
+      "Session": "22",
+      "Topic": "Unit 4 (Cont.) - Review the role of balancing the language richness.",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO2, LO5, LO10",
+      "ITU": "I, T",
+      "Student Materials": "Coursebook [1], Chapter 10, PPT presentation, other teaching resources provided",
+      "S-Download": "",
+      "Student's Tasks": "Lecture, Exercises, group/pair work, Class discussion",
+      "URLs": ""
+    },
+    {
+      "Session": "23",
+      "Topic": "Unit 4 (Cont.) - Review the previous lesson - Practice Public Service Interpreting (Judicial, Courtroom, Legal)",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO2, LO5, LO10",
+      "ITU": "T, U",
+      "Student Materials": "Coursebook [1], Chapter 10; Coursebook [2], pages 188-194 PPT presentation, other teaching resources provided",
+      "S-Download": "",
+      "Student's Tasks": "Lecture, Exercises, group/pair work, Class discussion",
+      "URLs": ""
+    },
+    {
+      "Session": "24",
+      "Topic": "Unit 4 (Cont.) - Review the previous lesson - Practice Public Service Interpreting (Judicial, Courtroom, Legal)",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO2, LO5, LO10",
+      "ITU": "T, U",
+      "Student Materials": "Coursebook [1], Chapter 10; Coursebook [2], pages 188-194 PPT presentation, other teaching resources provided",
+      "S-Download": "",
+      "Student's Tasks": "Lecture, Exercises, group/pair work, Class discussion",
+      "URLs": ""
+    },
+    {
+      "Session": "25",
+      "Topic": "Unit 4 (Cont.) - Review the previous lesson - Practice Public Service Interpreting (Judicial, Courtroom, Legal)",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO2, LO5, LO10",
+      "ITU": "T, U",
+      "Student Materials": "Coursebook [1], Chapter 10; Coursebook [2], pages 188-194 PPT presentation, other teaching resources provided",
+      "S-Download": "",
+      "Student's Tasks": "Lecture, Exercises, group/pair work, Class discussion",
+      "URLs": ""
+    },
+    {
+      "Session": "26",
+      "Topic": "Unit 4 (Cont.) - Review the previous lesson - Practice Public Service Interpreting (Judicial, Courtroom, Legal)",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO2, LO5, LO10",
+      "ITU": "T, U",
+      "Student Materials": "Coursebook [1], Chapter 10; Coursebook [2], pages 188-194 PPT presentation, other teaching resources provided",
+      "S-Download": "",
+      "Student's Tasks": "Lecture, Exercises, group/pair work, Class discussion",
+      "URLs": ""
+    },
+    {
+      "Session": "27",
+      "Topic": "Unit 5. A POLICY ADDRESS - Review the definition of a policy address.",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO2, LO6, LO7",
+      "ITU": "I, T",
+      "Student Materials": "Coursebook [1], Chapter 11, PPT presentation, other teaching resources provided",
+      "S-Download": "",
+      "Student's Tasks": "Lecture, Exercises, group/pair work, Class discussion",
+      "URLs": ""
+    },
+    {
+      "Session": "28",
+      "Topic": "Unit 5 (Cont.) - Review challenges when interpreting a policy address.",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO2, LO6, LO7",
+      "ITU": "I, T",
+      "Student Materials": "Coursebook [1], Chapter 11, PPT presentation, other teaching resources provided",
+      "S-Download": "",
+      "Student's Tasks": "Lecture, Exercises, group/pair work, Class discussion",
+      "URLs": ""
+    },
+    {
+      "Session": "29",
+      "Topic": "Unit 5 (Cont.) - Review the previous lesson - Practice Police Interpreting",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO2, LO6, LO7",
+      "ITU": "T, U",
+      "Student Materials": "Coursebook [1], Chapter 11; Coursebook [2], pages 193-199; PPT presentation, other teaching resources provided",
+      "S-Download": "",
+      "Student's Tasks": "Lecture, Exercises, group/pair work, Class discussion",
+      "URLs": ""
+    },
+    {
+      "Session": "30",
+      "Topic": "Unit 5 (Cont.) - Review the previous lesson - Practice Police Interpreting",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO2, LO6, LO7",
+      "ITU": "T, U",
+      "Student Materials": "Coursebook [1], Chapter 11; Coursebook [2], pages 193-199; PPT presentation, other teaching resources provided",
+      "S-Download": "",
+      "Student's Tasks": "Lecture, Exercises, group/pair work, Class discussion",
+      "URLs": ""
+    },
+    {
+      "Session": "31",
+      "Topic": "Unit 5 (Cont.) - Review the previous lesson - Practice Police Interpreting",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO2, LO6, LO7",
+      "ITU": "T, U",
+      "Student Materials": "Coursebook [1], Chapter 11; Coursebook [2], pages 193-199; PPT presentation, other teaching resources provided",
+      "S-Download": "",
+      "Student's Tasks": "Lecture, Exercises, group/pair work, Class discussion",
+      "URLs": ""
+    },
+    {
+      "Session": "32",
+      "Topic": "Unit 5 (Cont.) - Review the previous lesson - Practice Police Interpreting",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO2, LO6, LO7",
+      "ITU": "T, U",
+      "Student Materials": "Coursebook [1], Chapter 11; Coursebook [2], pages 193-199; PPT presentation, other teaching resources provided",
+      "S-Download": "",
+      "Student's Tasks": "Lecture, Exercises, group/pair work, Class discussion",
+      "URLs": ""
+    },
+    {
+      "Session": "33",
+      "Topic": "Unit 6. POLITICAL DISCOUSE - Review the definition of a political discourse.",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO2, LO7, LO10",
+      "ITU": "I, T",
+      "Student Materials": "Coursebook [1], Chapter 13, PPT presentation, other teaching resources provided",
+      "S-Download": "",
+      "Student's Tasks": "Lecture, Exercises, group/pair work, Class discussion",
+      "URLs": ""
+    },
+    {
+      "Session": "34",
+      "Topic": "Unit 6 (Cont.) - Review the importance of equipping political knowledge.",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO2, LO7, LO10",
+      "ITU": "I, T",
+      "Student Materials": "Coursebook [1], Chapter 13, PPT presentation, other teaching resources provided",
+      "S-Download": "",
+      "Student's Tasks": "Lecture, Exercises, group/pair work, Class discussion",
+      "URLs": ""
+    },
+    {
+      "Session": "35",
+      "Topic": "Unit 6 (Cont.) - Terminology QA (domain source + AI cross-check + final justification). - Practice Interpreting in Immigration Setting",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO2, LO7, LO10",
+      "ITU": "T, U",
+      "Student Materials": "Coursebook [1], Chapter 13; Coursebook [2], pages 199-201; PPT presentation, other teaching resources provided",
+      "S-Download": "",
+      "Student's Tasks": "Lecture, Exercises, group/pair work, Class discussion",
+      "URLs": ""
+    },
+    {
+      "Session": "36",
+      "Topic": "Unit 6 (Cont.) - Review the previous lesson - Practice Interpreting in Immigration Setting",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO2, LO7, LO10",
+      "ITU": "T, U",
+      "Student Materials": "Coursebook [1], Chapter 13; Coursebook [2], pages 199-201; PPT presentation, other teaching resources provided",
+      "S-Download": "",
+      "Student's Tasks": "Lecture, Exercises, group/pair work, Class discussion",
+      "URLs": ""
+    },
+    {
+      "Session": "37",
+      "Topic": "Unit 6 (Cont.) - Review the previous lesson - Practice Interpreting in Immigration Setting",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO2, LO7, LO10",
+      "ITU": "T, U",
+      "Student Materials": "Coursebook [1], Chapter 13; Coursebook [2], pages 199-201; PPT presentation, other teaching resources provided",
+      "S-Download": "",
+      "Student's Tasks": "Lecture, Exercises, group/pair work, Class discussion",
+      "URLs": ""
+    },
+    {
+      "Session": "38",
+      "Topic": "Unit 6 (Cont.) - Review the previous lesson - Practice Interpreting in Immigration Setting",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO2, LO7, LO10",
+      "ITU": "T, U",
+      "Student Materials": "Coursebook [1], Chapter 13; Coursebook [2], pages 199-201; PPT presentation, other teaching resources provided",
+      "S-Download": "",
+      "Student's Tasks": "Lecture, Exercises, group/pair work, Class discussion",
+      "URLs": ""
+    },
+    {
+      "Session": "39",
+      "Topic": "PROGRESS TEST 2 Consecutive Interpreting (VIE-ENG)",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO4, LO5, LO6, LO7",
+      "ITU": "U",
+      "Student Materials": "Topics prepared by the teacher",
+      "S-Download": "",
+      "Student's Tasks": "Pairwork",
+      "URLs": ""
+    },
+    {
+      "Session": "40",
+      "Topic": "PROGRESS TEST 2 Consecutive Interpreting (VIE-ENG)",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO4, LO5, LO6, LO7",
+      "ITU": "U",
+      "Student Materials": "Topics prepared by the teacher",
+      "S-Download": "",
+      "Student's Tasks": "Pairwork",
+      "URLs": ""
+    },
+    {
+      "Session": "41",
+      "Topic": "Unit 7. ECONOMIC DISCOURSE - Review challenges posed by the translation of economics-related problems",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO2, LO7",
+      "ITU": "IT",
+      "Student Materials": "Coursebook [1], Chapter 14; Coursebook [2], pages 201-203 PPT presentation, other teaching resources provided",
+      "S-Download": "",
+      "Student's Tasks": "Exercises, group/pair work, Class discussion and Individual Work",
+      "URLs": ""
+    },
+    {
+      "Session": "42",
+      "Topic": "Unit 7 (Cont.) - Review the importance of mastering economics-related terms and jargons.",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO2, LO7",
+      "ITU": "IT",
+      "Student Materials": "Coursebook [1], Chapter 14; Coursebook [2], pages 201-203 PPT presentation, other teaching resources provided",
+      "S-Download": "",
+      "Student's Tasks": "Exercises, group/pair work, Class discussion and Individual Work",
+      "URLs": ""
+    },
+    {
+      "Session": "43",
+      "Topic": "Unit 7 (Cont.) - Terminology QA (domain source + AI cross-check + final justification). - Practice Interpreting in Customs Settings",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO2, LO7",
+      "ITU": "TU",
+      "Student Materials": "Coursebook [1], Chapter 14; Coursebook [2], pages 201-203 PPT presentation, other teaching resources provided",
+      "S-Download": "",
+      "Student's Tasks": "Exercises, group/pair work, Class discussion and Individual Work",
+      "URLs": ""
+    },
+    {
+      "Session": "44",
+      "Topic": "Unit 7 (Cont.) - Review the previous lesson - Practice Interpreting in Customs Settings",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO2, LO7",
+      "ITU": "TU",
+      "Student Materials": "Coursebook [1], Chapter 14; Coursebook [2], pages 201-203 PPT presentation, other teaching resources provided",
+      "S-Download": "",
+      "Student's Tasks": "Exercises, group/pair work, Class discussion and Individual Work",
+      "URLs": ""
+    },
+    {
+      "Session": "45",
+      "Topic": "Unit 8. HUMOR - Review the difficulties when conveying the sense of humor.",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO2, LO8",
+      "ITU": "I, T",
+      "Student Materials": "Coursebook [1], PPT presentation, other teaching resources provided",
+      "S-Download": "",
+      "Student's Tasks": "Exercises, group/pair work, Class discussion and Individual Work",
+      "URLs": ""
+    },
+    {
+      "Session": "46",
+      "Topic": "Unit 8 (Cont.) - Review the difficulties when conveying the sense of humor.",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO2, LO8",
+      "ITU": "I, T",
+      "Student Materials": "Coursebook [1], PPT presentation, other teaching resources provided",
+      "S-Download": "",
+      "Student's Tasks": "Exercises, group/pair work, Class discussion and Individual Work",
+      "URLs": ""
+    },
+    {
+      "Session": "47",
+      "Topic": "Unit 8 (Cont.) - Review the previous lesson - Practice simultaneous interpreting by using exercises from textbook or other sources",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO2, LO8",
+      "ITU": "TU",
+      "Student Materials": "Coursebook [1], PPT presentation, other teaching resources provided",
+      "S-Download": "",
+      "Student's Tasks": "Lecture, Exercises, group/pair work, Class discussion",
+      "URLs": ""
+    },
+    {
+      "Session": "48",
+      "Topic": "Unit 8 (Cont.) - Practice simultaneous interpreting by using exercises from textbook or other sources",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO2, LO8",
+      "ITU": "TU",
+      "Student Materials": "Coursebook [1], PPT presentation, other teaching resources provided",
+      "S-Download": "",
+      "Student's Tasks": "Exercises, group/pair work, Class discussion and Individual Work",
+      "URLs": ""
+    },
+    {
+      "Session": "49",
+      "Topic": "Unit 9. LATINISM - Review three main kinds of Latinism: the assimilated Latinism, the literary Latinism, and the technical Latinism.",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO2, LO9",
+      "ITU": "IT",
+      "Student Materials": "Coursebook [1], Chapter 16; Coursebook [2], pages 205-207; PPT presentation, other teaching resources provided",
+      "S-Download": "",
+      "Student's Tasks": "Lecture, Exercises, group/pair work, Class discussion",
+      "URLs": ""
+    },
+    {
+      "Session": "50",
+      "Topic": "Unit 9 (Cont. ) - Review ways to cope with Latin expressions.",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO2, LO9",
+      "ITU": "TU",
+      "Student Materials": "Coursebook [1], Chapter 16; Coursebook [2], pages 205-207; PPT presentation, other teaching resources provided",
+      "S-Download": "",
+      "Student's Tasks": "Exercises, group/pair work, Class discussion and Individual Work",
+      "URLs": ""
+    },
+    {
+      "Session": "51",
+      "Topic": "Unit 9 (Cont. ) - Review the previous lesson - Practice Interpreting in Mental Health Settings",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO2, LO9",
+      "ITU": "TU",
+      "Student Materials": "Coursebook [1], Chapter 16; Coursebook [2], pages 205-207; PPT presentation, other teaching resources provided",
+      "S-Download": "",
+      "Student's Tasks": "Lecture, Exercises, group/pair work, Class discussion",
+      "URLs": ""
+    },
+    {
+      "Session": "52",
+      "Topic": "Unit 9 (Cont. ) - Review the previous lesson - Practice Interpreting in Mental Health Settings",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO2, LO9",
+      "ITU": "TU",
+      "Student Materials": "Coursebook [1], Chapter 16; Coursebook [2], pages 205-207; PPT presentation, other teaching resources provided",
+      "S-Download": "",
+      "Student's Tasks": "Exercises, group/pair work, Class discussion and Individual Work",
+      "URLs": ""
+    },
+    {
+      "Session": "53",
+      "Topic": "PROGRESS TEST 3 Simultaneous Interpreting (ENG-VIE)",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO6, LO7, LO8, LO9",
+      "ITU": "U",
+      "Student Materials": "Audio files prepared by the teacher",
+      "S-Download": "",
+      "Student's Tasks": "Pairwork",
+      "URLs": ""
+    },
+    {
+      "Session": "54",
+      "Topic": "PROGRESS TEST 3 Simultaneous Interpreting (ENG-VIE)",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO6, LO7, LO8, LO9",
+      "ITU": "U",
+      "Student Materials": "Audio files prepared by the teacher",
+      "S-Download": "",
+      "Student's Tasks": "Pairwork",
+      "URLs": ""
+    },
+    {
+      "Session": "55",
+      "Topic": "(FIELD TRIP) PROJECT",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO10",
+      "ITU": "ITU",
+      "Student Materials": "Recording device",
+      "S-Download": "",
+      "Student's Tasks": "Class discussion, individual practice",
+      "URLs": ""
+    },
+    {
+      "Session": "56",
+      "Topic": "(FIELD TRIP) PROJECT",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO10",
+      "ITU": "ITU",
+      "Student Materials": "Recording device",
+      "S-Download": "",
+      "Student's Tasks": "Class discussion, individual practice",
+      "URLs": ""
+    },
+    {
+      "Session": "57",
+      "Topic": "(FIELD TRIP) PROJECT",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO10",
+      "ITU": "ITU",
+      "Student Materials": "Recording device",
+      "S-Download": "",
+      "Student's Tasks": "Class discussion, individual practice",
+      "URLs": ""
+    },
+    {
+      "Session": "58",
+      "Topic": "(FIELD TRIP) PROJECT",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO10",
+      "ITU": "ITU",
+      "Student Materials": "Recording device",
+      "S-Download": "",
+      "Student's Tasks": "Class discussion, individual practice",
+      "URLs": ""
+    },
+    {
+      "Session": "59",
+      "Topic": "(FIELD TRIP) PROJECT",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO10",
+      "ITU": "ITU",
+      "Student Materials": "Recording device",
+      "S-Download": "",
+      "Student's Tasks": "Class discussion, individual practice",
+      "URLs": ""
+    },
+    {
+      "Session": "60",
+      "Topic": "(FIELD TRIP) PROJECT",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO10",
+      "ITU": "ITU",
+      "Student Materials": "Recording device",
+      "S-Download": "",
+      "Student's Tasks": "Class discussion, individual practice",
+      "URLs": ""
+    }
+  ],
+  "constructive_questions": [
+    {
+      "No.": "1",
+      "Session No": "1",
+      "Name": "HN_CQ1",
+      "Details": "What do you consider Untranslatability in interpretation? What factors leading to this?"
+    },
+    {
+      "No.": "2",
+      "Session No": "2",
+      "Name": "HN_CQ2",
+      "Details": "What are some possible solutions to deal with the untranslatability? How do you use equivalents in dealing with the untranslatability?"
+    },
+    {
+      "No.": "3",
+      "Session No": "3",
+      "Name": "HN_CQ3",
+      "Details": "What will be considered the Untranslatability in your speech about customs and habit of English-speaking countries? Deliver your full speech (in Eng) about some customs and habits of one English-speaking country you like. Your speech will be interpret by other groups."
+    },
+    {
+      "No.": "4",
+      "Session No": "4",
+      "Name": "HN_CQ4",
+      "Details": "Anticipate some untranslatability in the interpretation of talk shows regarding the similarities and differences between Vietnamese culture and American culture (in some specific aspects). As presenters, present your research findings in the form of a talk show (Eng or Vie). As interpreters, interpret the talk show into Vie or Eng."
+    },
+    {
+      "No.": "5",
+      "Session No": "5",
+      "Name": "HN_CQ5",
+      "Details": "Based on a translated document about cultural value preservation (Vie-Eng), what are some untranslatable contents in the source text? How are these dealt with in the translated document? Do you agree or disagree with the solutions?"
+    },
+    {
+      "No.": "6",
+      "Session No": "6",
+      "Name": "HN_CQ6",
+      "Details": "What are some untranslatable contents in a movie? Analyze how a movie clip (10 minute clip) has been interpreted? How does the interpreter deal with the untranslatability? Choose another 10 minute clip to interpret."
+    },
+    {
+      "No.": "7",
+      "Session No": "7",
+      "Name": "HN_CQ7",
+      "Details": "What factors make an argument? Consider an argument made by a politician and identify how are the logic and emotion expressed in the argument?"
+    },
+    {
+      "No.": "8",
+      "Session No": "8",
+      "Name": "HN_CQ8",
+      "Details": "How should professionalism be achieved in the interpretation of an argument?"
+    },
+    {
+      "No.": "9",
+      "Session No": "9",
+      "Name": "HN_CQ9",
+      "Details": "Imagine you are delivering a speech in order to advocate a change in a law which you consider foolish. What arguments would you use? In what order? From the simplest to the most complex, or vice-versa? What evidence could you offer in support of your proposal? How would you refute any counter-arguments you might anticipate? As speakers, deliver your speech. Your speech will be interpreted by interpreters."
+    },
+    {
+      "No.": "10",
+      "Session No": "10",
+      "Name": "HN_CQ10",
+      "Details": "Based on an argument on immigration (in English) made by a politician, analyze how the argument has been made? What problems you may face in the interpretation of this? How will the argument be interpreted?"
+    },
+    {
+      "No.": "11",
+      "Session No": "11",
+      "Name": "HN_CQ11",
+      "Details": "In the interpretation of an argument, it is critical for an interpreter to carefully follow every step in the speaker's train of thought. Do you agree or disagree? Take an argument on poverty topic made by a politician and interpret it."
+    },
+    {
+      "No.": "12",
+      "Session No": "12",
+      "Name": "HN_CQ12",
+      "Details": "What are some lessons in the interpretation of arguments? Consider an argument on housing problem made by a Vietnamese politician, how should it be interpreted into English?"
+    },
+    {
+      "No.": "13",
+      "Session No": "13",
+      "Name": "HN_CQ13",
+      "Details": "How should diction and register be dealt with in interpretation?"
+    },
+    {
+      "No.": "14",
+      "Session No": "14",
+      "Name": "HN_CQ14",
+      "Details": "What problems do diction and register may generate for interpreters?"
+    },
+    {
+      "No.": "15",
+      "Session No": "15",
+      "Name": "HN_CQ15",
+      "Details": "Based on a given text about Tourism, analyze the register used, and identify how you interpret it."
+    },
+    {
+      "No.": "16",
+      "Session No": "16",
+      "Name": "HN_CQ16",
+      "Details": "Are different types of register interpreted differently? Analyze 3 audios or clips about negotiation in business, expressed in different types (at least 3) of register and choose suitable ways of interpretation for each."
+    },
+    {
+      "No.": "17",
+      "Session No": "17",
+      "Name": "HN_CQ17",
+      "Details": "Based on a translated document about protectionist measures (Eng-Vie), identify what types of register are used in the original text? How has the text been interpreted?"
+    },
+    {
+      "No.": "18",
+      "Session No": "18",
+      "Name": "HN_CQ18",
+      "Details": "You are going to make a speech to persuade audience to buy your business's products. What types of register are you using? How are they used? Your speech will be interpreted into Vie or Eng."
+    },
+    {
+      "No.": "19",
+      "Session No": "19",
+      "Name": "HN_CQ19",
+      "Details": "Review the interpretation of Untranslatability, Argumentation, and Diction/Register. What impacts do these have on interpretation. Make a presentation (in Vietnamese) one of the topics related to business, tourism... in which there are features of untranslatability, argumentation, diction/register. Your presentation will be interpreted."
+    },
+    {
+      "No.": "20",
+      "Session No": "20",
+      "Name": "HN_CQ20",
+      "Details": "What are differences in dealing with Untranslatability, Argumentation, and Diction/Register. Make an argument for or against a controversial issue related to business or tourism which includes some features of untranslatability, some types of register."
+    },
+    {
+      "No.": "21",
+      "Session No": "21",
+      "Name": "HN_CQ21",
+      "Details": "What are some differences between formal and informal styles?"
+    },
+    {
+      "No.": "22",
+      "Session No": "22",
+      "Name": "HN_CQ22",
+      "Details": "What are some factors generating formal style?"
+    },
+    {
+      "No.": "23",
+      "Session No": "23",
+      "Name": "HN_CQ23",
+      "Details": "What are some requirements for the interpretation of formal style speech?"
+    },
+    {
+      "No.": "24",
+      "Session No": "24",
+      "Name": "HN_CQ24",
+      "Details": "Based on a given English speech, identify factors generating the formality of the speech? How are these interpreted?"
+    },
+    {
+      "No.": "25",
+      "Session No": "25",
+      "Name": "HN_CQ25",
+      "Details": "Based on a given Vietnamese speech, identify factors generating the formality of the speech? How are these interpreted?"
+    },
+    {
+      "No.": "26",
+      "Session No": "26",
+      "Name": "HN_CQ26",
+      "Details": "Analyze a speech given by a politician. What makes it a formal oratory? How should it be interpreted?"
+    },
+    {
+      "No.": "27",
+      "Session No": "27",
+      "Name": "HN_CQ27",
+      "Details": "What possible problems may policy address cause to interpreters?"
+    },
+    {
+      "No.": "28",
+      "Session No": "28",
+      "Name": "HN_CQ28",
+      "Details": "How are challenges caused by policy address dealt with in interpretation?"
+    },
+    {
+      "No.": "29",
+      "Session No": "29",
+      "Name": "HN_CQ29",
+      "Details": "Study a given speech made by a politician about international relations. How are the words and structures highlighted in bold type going to be treated? Find the equivalents for these words and structures."
+    },
+    {
+      "No.": "30",
+      "Session No": "30",
+      "Name": "HN_CQ30",
+      "Details": "You are given a speech made by a Vietnamese Public Health Ministry. Consider specific challenges related to words, phrases, structures you may face in the interpretation. How are you going to treat these? interpret the speech into English."
+    },
+    {
+      "No.": "31",
+      "Session No": "31",
+      "Name": "HN_CQ31",
+      "Details": "Consecutive Interpreting Practice: Health Care Imagine you are delivering a speech (In Eng.) to persuade parents to get their children vaccinated. What tone will your speech carry? What words, phrases, structures may cause problems for interpreters? Your speech is interpreted by other groups."
+    },
+    {
+      "No.": "32",
+      "Session No": "32",
+      "Name": "HN_CQ32",
+      "Details": "What words, phrases, structures are common in speeches related to diplomacy and health care? What are their equivalents in Vietnamese? Organize a meeting discussing solutions to prevent the infection of viruses. Your meeting will be interpreted into Vietnamese or English."
+    },
+    {
+      "No.": "33",
+      "Session No": "33",
+      "Name": "HN_CQ33",
+      "Details": "What challenges does a political discourse posed to interpreters? Analyze a discourse to clarify those problems."
+    },
+    {
+      "No.": "34",
+      "Session No": "34",
+      "Name": "HN_CQ34",
+      "Details": "What are some requirements for the interpretation of a political discourse? It is argued that \"translators act as mediators in situations of political conflicts\". Do you agree or disagree?"
+    },
+    {
+      "No.": "35",
+      "Session No": "35",
+      "Name": "HN_CQ35",
+      "Details": "Based on a given political discourse (English version). Topic: International conflict. Identify possible problems interpreters face in the interpretation of the discourse. How do you interpret discourse?"
+    },
+    {
+      "No.": "36",
+      "Session No": "36",
+      "Name": "HN_CQ36",
+      "Details": "What are common terms frequently used in English political discourses related to labor force? How are they translated into Vietnamese? Make a political discourse using those terms. Your speech is interpreted by other groups."
+    },
+    {
+      "No.": "37",
+      "Session No": "37",
+      "Name": "HN_CQ37",
+      "Details": "What are similarities and differences between a Vietnamese political discourse and an English political discourse? Do they cause similar or different problems in interpretation? Analyze a Vietnamese political discourse, topic: solutions to unemployment, and interpret it into English."
+    },
+    {
+      "No.": "38",
+      "Session No": "38",
+      "Name": "HN_CQ38",
+      "Details": "What are main parts of a political speech? What purpose does each part perform? How should each part be dealt with in interpretation? Analyze and interpret a political discourse (English version). Topic: Solutions to unemployment."
+    },
+    {
+      "No.": "39",
+      "Session No": "39",
+      "Name": "HN_CQ39",
+      "Details": "Review political discourse: Which part of a political discourse is more difficult to be interpreted? What are the reasons for this? How is the given political discourse interpreted? (Eng-Vie, Topic:politics)"
+    },
+    {
+      "No.": "40",
+      "Session No": "40",
+      "Name": "HN_CQ40",
+      "Details": "Review political discourse: What are common words, phrase, structures used in political speeches? Which translation method is used more frequently in the interpretation of this? Make a political speech in Vietnamese with full of 5 parts for the other group to interpret into English. Topic: Politics"
+    },
+    {
+      "No.": "41",
+      "Session No": "41",
+      "Name": "HN_CQ41",
+      "Details": "\"Writings and oral presentations on economics can be highly technical\", what features of an economic discourse make it difficult for interpretation?"
+    },
+    {
+      "No.": "42",
+      "Session No": "42",
+      "Name": "HN_CQ42",
+      "Details": "How important is it to master economics-related terms and jargons in interpretation?"
+    },
+    {
+      "No.": "43",
+      "Session No": "43",
+      "Name": "HN_CQ43",
+      "Details": "You are going to interpret an audio/clip on \" Tariffs\". What terms and jargons are needed to study in advance? Interpret the clip/audio into Vietnamese."
+    },
+    {
+      "No.": "44",
+      "Session No": "44",
+      "Name": "HN_CQ44",
+      "Details": "You are going to interpret an audio/clip on \" Business Risks\". What terms and jargons are needed to study in advance? Interpret the clip/audio into English."
+    },
+    {
+      "No.": "45",
+      "Session No": "45",
+      "Name": "HN_CQ45",
+      "Details": "Why is it difficult to convey sense of humor in interpretation?"
+    },
+    {
+      "No.": "46",
+      "Session No": "46",
+      "Name": "HN_CQ46",
+      "Details": "What problems interpreters may face in the interpretation of humor?"
+    },
+    {
+      "No.": "47",
+      "Session No": "47",
+      "Name": "HN_CQ47",
+      "Details": "Are there some universal humors all over the world? Analyze such a story and demonstrate how you interpret it."
+    },
+    {
+      "No.": "48",
+      "Session No": "48",
+      "Name": "HN_CQ48",
+      "Details": "What are common topics for humorous stories? What are typical words, phrases, and structurers for the interpretation of these? What are their equivalents? Illustrate these by interpreting a humorous story."
+    },
+    {
+      "No.": "49",
+      "Session No": "49",
+      "Name": "HN_CQ49",
+      "Details": "What types of texts often use Latin expressions? What are the differences among 3 types of Latinism?"
+    },
+    {
+      "No.": "50",
+      "Session No": "50",
+      "Name": "HN_CQ50",
+      "Details": "What problems does Latin expressions cause for interpreters? How is each type of Latinism coped with in interpretation?"
+    },
+    {
+      "No.": "51",
+      "Session No": "51",
+      "Name": "HN_CQ51",
+      "Details": "What Latin expressions are common in technical texts? What are their equivalents in Vietnamese? Analyze a technical speech and demonstrate how you interpret it into Vietnamese?"
+    },
+    {
+      "No.": "52",
+      "Session No": "52",
+      "Name": "HN_CQ52",
+      "Details": "How are prefixes and suffixes important in identifying the meaning of technical terms? What are typical prefixes and suffixes in technical English? What are their equivalents? Analyze a technical speech and interpret it into Vietnamese."
+    },
+    {
+      "No.": "53",
+      "Session No": "53",
+      "Name": "HN_CQ53",
+      "Details": "Review: What different approaches are used to deal with the interpretation of different source texts including humorous stories, technical issues, economic discourses. Make a speech in Vietnamese. Topic: humor stories, technical issues, or economic discourse. Your speech will be interpreted into English."
+    },
+    {
+      "No.": "54",
+      "Session No": "54",
+      "Name": "HN_CQ54",
+      "Details": "Review: What are you going to do with technical terms whose equivalents can't be found in Vietnamese? What are typical technical terms whose equivalents can't be found in Vietnamese? Make a speech in English. Topic: Technical issue. Your speech will be interpreted into Vietnamese."
+    }
+  ],
+  "materials": [
+    {
+      "No.": "1",
+      "Material Description": "Viet Nam News: (choose articles related to politics, science, nature, lifestyle, healthcare)",
+      "Author": "",
+      "Publisher": "",
+      "Published Date": "",
+      "Edition": "",
+      "ISBN": "",
+      "Is Main Material": "False",
+      "Is Hard Copy": "False",
+      "Is Online": "True",
+      "Note": ""
+    },
+    {
+      "No.": "2",
+      "Material Description": "ABC: (choose clips and articles related to science, nature, lifestyle, healthcare)",
+      "Author": "",
+      "Publisher": "",
+      "Published Date": "",
+      "Edition": "",
+      "ISBN": "",
+      "Is Main Material": "False",
+      "Is Hard Copy": "False",
+      "Is Online": "True",
+      "Note": ""
+    },
+    {
+      "No.": "3",
+      "Material Description": "CNN: (choose clips and articles related to science, nature, lifestyle, healthcare)",
+      "Author": "",
+      "Publisher": "",
+      "Published Date": "",
+      "Edition": "",
+      "ISBN": "",
+      "Is Main Material": "False",
+      "Is Hard Copy": "False",
+      "Is Online": "True",
+      "Note": ""
+    },
+    {
+      "No.": "4",
+      "Material Description": "Hướng dẫn kỹ thuật phiên dịch tiếng Anh (Anh-Việt, Việt-Anh)",
+      "Author": "Nguyễn Quốc Hùng (MA)",
+      "Publisher": "NXB Tổng hợp Hồ Chí Minh",
+      "Published Date": "2012",
+      "Edition": "",
+      "ISBN": "0000000002450",
+      "Is Main Material": "False",
+      "Is Hard Copy": "True",
+      "Is Online": "False",
+      "Note": ""
+    },
+    {
+      "No.": "5",
+      "Material Description": "Interpretation - Techniques and Exercises, Multilingual Matters",
+      "Author": "",
+      "Publisher": "",
+      "Published Date": "",
+      "Edition": "",
+      "ISBN": "978-1-85359-790-9",
+      "Is Main Material": "False",
+      "Is Hard Copy": "True",
+      "Is Online": "False",
+      "Note": ""
+    },
+    {
+      "No.": "6",
+      "Material Description": "Introduction to Translation and Interpreting Studies",
+      "Author": "Aline Ferreira (Editor) & John W. Schwieter (Editor)",
+      "Publisher": "Wiley-Blackwell",
+      "Published Date": "2022",
+      "Edition": "",
+      "ISBN": "9781119685326",
+      "Is Main Material": "True",
+      "Is Hard Copy": "False",
+      "Is Online": "True",
+      "Note": ""
+    },
+    {
+      "No.": "7",
+      "Material Description": "Ted-Ed: (choose clips with no Vietsub provided)",
+      "Author": "",
+      "Publisher": "",
+      "Published Date": "",
+      "Edition": "",
+      "ISBN": "",
+      "Is Main Material": "False",
+      "Is Hard Copy": "False",
+      "Is Online": "True",
+      "Note": ""
+    }
+  ],
+  "source_path": "data/raw/syllabi/13746.html",
+  "id": "syllabus:13746"
+}

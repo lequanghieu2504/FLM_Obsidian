@@ -1,0 +1,1076 @@
+{
+  "syllabus_id": 11820,
+  "subject_code": "ICT301",
+  "subject_name": "Kỹ năng sư phạm",
+  "syllabus_name": "Kỹ năng Sư phạm",
+  "credits": 3,
+  "degree_level": "Bachelor",
+  "time_allocation": "Study hour (150h) = 45h contact hours + 5/6 h final exam + 625/6 h self-study",
+  "prerequisite": "None",
+  "general_information": {
+    "Syllabus ID": "11820",
+    "Syllabus Name": "Kỹ năng Sư phạm",
+    "Course Name English": "Instructor Compentencies Training",
+    "Subject Code": "ICT301",
+    "Learning-Teaching Method": "Social Constructivism",
+    "NoCredit": "3",
+    "Degree Level": "Bachelor",
+    "Time Allocation": "Study hour (150h) = 45h contact hours + 5/6 h final exam + 625/6 h self-study",
+    "Pre-Requisite": "None",
+    "Description": "The course focuses on the mission, vision and educational philosophy of FFPT Education and stresses 14 standards of IBSTPI (International Board of Standards for Training, Performance and Instruction). These 14 standards help you understand how to effectively organize, manage and teach a course. Mastery of these standards together with expertise in the course subject area will ensure a high quality of training. Upon the completion of this course, the learners will be able to: (1) Understand the mission, vision and philosophy of FPT Education. (2) Understand the core cultural values of FPT and FE. (3) Understand 14 standards of IBSTPI and apply them effectively in the course of teaching the subject.",
+    "StudentTasks": "- Students must attend at least 80% of lectures in class in order to take the final exam. - Students are responsible for completing all assignments given by the lecturers in class or at home and submitting them on time. - Students quickly access FLM page at http://flm.fpt.edu.vn to update course information. - Use laptop in class for learning/exam purposes only.",
+    "Tools": "- Internet - Computer, laptop, headphone",
+    "Scoring Scale": "10",
+    "DecisionNo MM/dd/yyyy": "862/QĐ-ĐHFPT dated 08/16/2024",
+    "IsApproved": "True",
+    "Note": "",
+    "Is Scored": "True",
+    "MinAvgMarkToPass": "5",
+    "IsActive": "True",
+    "ApprovedDate": "8/16/2024"
+  },
+  "active": true,
+  "approved": true,
+  "decision": "862/QĐ-ĐHFPT dated 08/16/2024",
+  "description": "The course focuses on the mission, vision and educational philosophy of FFPT Education and stresses 14 standards of IBSTPI (International Board of Standards for Training, Performance and Instruction). These 14 standards help you understand how to effectively organize, manage and teach a course. Mastery of these standards together with expertise in the course subject area will ensure a high quality of training. Upon the completion of this course, the learners will be able to: (1) Understand the mission, vision and philosophy of FPT Education. (2) Understand the core cultural values of FPT and FE. (3) Understand 14 standards of IBSTPI and apply them effectively in the course of teaching the subject.",
+  "learning_outcomes": [
+    {
+      "No.": "1",
+      "CLO Name": "CLO1",
+      "CLO Details": "Understand mission, vision, and educational philosophy of FPT Education and apply them effectively in the course of teaching."
+    },
+    {
+      "No.": "2",
+      "CLO Name": "CLO2",
+      "CLO Details": "Understand the core values of FPT and FE, and apply them effectively in the real life of teaching."
+    },
+    {
+      "No.": "3",
+      "CLO Name": "CLO3",
+      "CLO Details": "Understand the chalenges of higher education in the 4.0 era."
+    },
+    {
+      "No.": "4",
+      "CLO Name": "CLO4",
+      "CLO Details": "Master the concepts, standards and training methods according to IBSTPI (Interational Board of Standards for Training, Performance and Instruction)."
+    },
+    {
+      "No.": "5",
+      "CLO Name": "CLO5",
+      "CLO Details": "Improve skills in classroom organization, classroom management, and use effectively all devices to support teaching activities."
+    },
+    {
+      "No.": "6",
+      "CLO Name": "CLO6",
+      "CLO Details": "Master all teaching methods and apply them effectively to the teaching process."
+    },
+    {
+      "No.": "7",
+      "CLO Name": "CLO7",
+      "CLO Details": "Improve skills to handle pedagogical situations arising in the teaching process."
+    },
+    {
+      "No.": "8",
+      "CLO Name": "CLO8",
+      "CLO Details": "Understand and apply effectively pedagogical ethical values in teaching process."
+    }
+  ],
+  "assessments": [
+    {
+      "No.": "1",
+      "Category": "Group Project",
+      "Type": "on-going",
+      "Part": "1",
+      "Weight": "20.0%",
+      "Completion Criteria": ">0",
+      "Duration": "40'",
+      "CLO": "CLO4, CLO5, CLO6, CLO7",
+      "Question Type": "Product of groups designed in ppt file",
+      "No Question": "N/A",
+      "Knowledge and Skill": "All course.",
+      "Grading Guide": "Presenting their project. Every group has 30' to present, and 10' to answer the questions of lecturer and other groups.",
+      "Note": ""
+    },
+    {
+      "No.": "2",
+      "Category": "Individual essay",
+      "Type": "on-going",
+      "Part": "2",
+      "Weight": "20.0%",
+      "Completion Criteria": ">0",
+      "Duration": "45'",
+      "CLO": "CLO4, CLO5, CLO6, CLO7",
+      "Question Type": "Opened questions",
+      "No Question": "1-2 questions",
+      "Knowledge and Skill": "In 14 standards of IBSTPI",
+      "Grading Guide": "Students do individual essay in classroom or in online with tight time control.",
+      "Note": ""
+    },
+    {
+      "No.": "3",
+      "Category": "Participation",
+      "Type": "on-going",
+      "Part": "1",
+      "Weight": "15.0%",
+      "Completion Criteria": ">0",
+      "Duration": "all sessions in class",
+      "CLO": "",
+      "Question Type": "Ask and answer questions",
+      "No Question": "N/A",
+      "Knowledge and Skill": "Every chapter",
+      "Grading Guide": "Students answer the questions of lecturer and other stuents. Students ask questions to clarify any problem.",
+      "Note": ""
+    },
+    {
+      "No.": "4",
+      "Category": "Small Test",
+      "Type": "on-going",
+      "Part": "3",
+      "Weight": "15.0%",
+      "Completion Criteria": ">0",
+      "Duration": "15'",
+      "CLO": "CLO4, CLO5, CLO6, CLO7",
+      "Question Type": "Multiple choices",
+      "No Question": "15 questions",
+      "Knowledge and Skill": "In 14 standards of IBSTPI",
+      "Grading Guide": "- By teacher, in classroom.",
+      "Note": ""
+    },
+    {
+      "No.": "5",
+      "Category": "Final Exam",
+      "Type": "Final exam",
+      "Part": "1",
+      "Weight": "30.0%",
+      "Completion Criteria": "4",
+      "Duration": "50'",
+      "CLO": "CLO4, CLO5, CLO6, CLO8",
+      "Question Type": "Multiple choices",
+      "No Question": "45",
+      "Knowledge and Skill": "In 14 standards of IBSTPI",
+      "Grading Guide": "- By Exam Board - In the exam room - On computer - Do not use any documents or dictionaries",
+      "Note": ""
+    }
+  ],
+  "schedule": [
+    {
+      "Session": "1",
+      "Topic": "Course Introduction",
+      "Learning-Teaching Type": "Offline/Online",
+      "LO": "CLO1, CLO2, CLO3, CLO4",
+      "ITU": "I",
+      "Student Materials": "Textbook Student's slide",
+      "S-Download": "ICT301_S_download",
+      "Student's Tasks": "Student's book, CMS/LMS",
+      "URLs": ""
+    },
+    {
+      "Session": "2",
+      "Topic": "Chapter A: Challenges of higher education in the 4.0 era.",
+      "Learning-Teaching Type": "Offline/Online",
+      "LO": "CLO3",
+      "ITU": "I",
+      "Student Materials": "Textbook Student's slide",
+      "S-Download": "",
+      "Student's Tasks": "Student's book, CMS/LMS",
+      "URLs": ""
+    },
+    {
+      "Session": "3",
+      "Topic": "Chapter B: The core values of FPT corporation.",
+      "Learning-Teaching Type": "Offline/Online",
+      "LO": "CLO2",
+      "ITU": "I",
+      "Student Materials": "Textbook Student's slide",
+      "S-Download": "",
+      "Student's Tasks": "Student's book, CMS/LMS",
+      "URLs": ""
+    },
+    {
+      "Session": "4",
+      "Topic": "Chapter C: The vision, mission, educational philosophy of FE, and the teaching methods that are using at FPTU.",
+      "Learning-Teaching Type": "Offline/Online",
+      "LO": "CLO2",
+      "ITU": "I",
+      "Student Materials": "Textbook Student's slide",
+      "S-Download": "",
+      "Student's Tasks": "Student's book, CMS/LMS",
+      "URLs": ""
+    },
+    {
+      "Session": "5",
+      "Topic": "Chapter C: The vision, mission, educational philosophy of FE, and the teaching methods that are using at FPTU (continued)",
+      "Learning-Teaching Type": "Offline/Online",
+      "LO": "CLO2",
+      "ITU": "I",
+      "Student Materials": "Textbook Student's slide",
+      "S-Download": "",
+      "Student's Tasks": "Student's book, CMS/LMS",
+      "URLs": ""
+    },
+    {
+      "Session": "6",
+      "Topic": "Chapter 1: Analyze course materials and learner information.",
+      "Learning-Teaching Type": "Offline/Online",
+      "LO": "CLO4, CLO7, CLO8",
+      "ITU": "TU",
+      "Student Materials": "Textbook Student's slide",
+      "S-Download": "",
+      "Student's Tasks": "Student's book, CMS/LMS",
+      "URLs": ""
+    },
+    {
+      "Session": "7",
+      "Topic": "Chapter 1: Analyze course materials and learner information.",
+      "Learning-Teaching Type": "Offline/Online",
+      "LO": "CLO4, CLO7, CLO8",
+      "ITU": "TU",
+      "Student Materials": "Textbook Student's slide",
+      "S-Download": "",
+      "Student's Tasks": "Student's book, CMS/LMS",
+      "URLs": ""
+    },
+    {
+      "Session": "8",
+      "Topic": "Guide Group Project: How to teach effectively?",
+      "Learning-Teaching Type": "Online/Offline",
+      "LO": "CLO1, CLO2, CLO3, CLO4",
+      "ITU": "T",
+      "Student Materials": "Textbook Student's slide",
+      "S-Download": "",
+      "Student's Tasks": "Student's book, CMS/LMS",
+      "URLs": ""
+    },
+    {
+      "Session": "9",
+      "Topic": "Chapter 2: Assure preparation of the instructional site.",
+      "Learning-Teaching Type": "Offline/Online",
+      "LO": "CLO4, CLO7, CLO8",
+      "ITU": "IT",
+      "Student Materials": "Textbook Student's slide",
+      "S-Download": "",
+      "Student's Tasks": "Student's book, CMS/LMS",
+      "URLs": ""
+    },
+    {
+      "Session": "10",
+      "Topic": "Chapter 2: Assure preparation of the instructional site. (Contunued)",
+      "Learning-Teaching Type": "Offline/Online",
+      "LO": "CLO4, CLO7, CLO8",
+      "ITU": "ITU",
+      "Student Materials": "Textbook Student's slide",
+      "S-Download": "",
+      "Student's Tasks": "Student's book, CMS/LMS",
+      "URLs": ""
+    },
+    {
+      "Session": "11",
+      "Topic": "Chapter 3: Establish and maintain instructor credibility.",
+      "Learning-Teaching Type": "Offline/Online",
+      "LO": "CLO4, CLO7, CLO8",
+      "ITU": "IT",
+      "Student Materials": "Textbook Student's slide",
+      "S-Download": "",
+      "Student's Tasks": "Student's book, CMS/LMS",
+      "URLs": ""
+    },
+    {
+      "Session": "12",
+      "Topic": "Chapter 3: Establish and maintain instructor credibility. (Continued)",
+      "Learning-Teaching Type": "Offline/Online",
+      "LO": "CLO4, CLO7, CLO8",
+      "ITU": "ITU",
+      "Student Materials": "Textbook Student's slide",
+      "S-Download": "",
+      "Student's Tasks": "Student's book, CMS/LMS",
+      "URLs": ""
+    },
+    {
+      "Session": "13",
+      "Topic": "Chapter 3: Establish and maintain instructor credibility. (Continued)",
+      "Learning-Teaching Type": "Offline/Online",
+      "LO": "CLO4, CLO7, CLO8",
+      "ITU": "ITU",
+      "Student Materials": "Textbook Student's slide",
+      "S-Download": "",
+      "Student's Tasks": "Student's book, CMS/LMS",
+      "URLs": ""
+    },
+    {
+      "Session": "14",
+      "Topic": "Chapter 3: Establish and maintain instructor credibility. (Continued)",
+      "Learning-Teaching Type": "Offline/Online",
+      "LO": "CLO4, CLO7, CLO8",
+      "ITU": "ITU",
+      "Student Materials": "Textbook Student's slide",
+      "S-Download": "",
+      "Student's Tasks": "Student's book, CMS/LMS",
+      "URLs": ""
+    },
+    {
+      "Session": "15",
+      "Topic": "Chapter 4: Manage the learning environment.",
+      "Learning-Teaching Type": "Offline/Online",
+      "LO": "CLO4, CLO5, CLO7, CLO8",
+      "ITU": "IT",
+      "Student Materials": "Textbook Student's slide",
+      "S-Download": "",
+      "Student's Tasks": "Student's book, CMS/LMS",
+      "URLs": ""
+    },
+    {
+      "Session": "16",
+      "Topic": "Chapter 4: Manage the learning environment. (Continued)",
+      "Learning-Teaching Type": "Offline/Online",
+      "LO": "CLO4, CLO5, CLO7, CLO8",
+      "ITU": "ITU",
+      "Student Materials": "Textbook Student's slide",
+      "S-Download": "",
+      "Student's Tasks": "Student's book, CMS/LMS",
+      "URLs": ""
+    },
+    {
+      "Session": "17",
+      "Topic": "Chapter 4: Manage the learning environment. (Continued)",
+      "Learning-Teaching Type": "Offline/Online",
+      "LO": "CLO4, CLO5, CLO7, CLO8",
+      "ITU": "ITU",
+      "Student Materials": "Textbook Student's slide",
+      "S-Download": "",
+      "Student's Tasks": "Student's book, CMS/LMS",
+      "URLs": ""
+    },
+    {
+      "Session": "18",
+      "Topic": "Chapter 4: Manage the learning environment. (Continued)",
+      "Learning-Teaching Type": "Offline/Online",
+      "LO": "CLO4, CLO5, CLO7, CLO8",
+      "ITU": "ITU",
+      "Student Materials": "Textbook Student's slide",
+      "S-Download": "",
+      "Student's Tasks": "Student's book, CMS/LMS",
+      "URLs": ""
+    },
+    {
+      "Session": "19",
+      "Topic": "Chapter 5: Demonstrate effective communication skills. (Continued)",
+      "Learning-Teaching Type": "Offline/Online",
+      "LO": "CLO4, CLO5, CLO7, CLO8",
+      "ITU": "IT",
+      "Student Materials": "Textbook Student's slide",
+      "S-Download": "",
+      "Student's Tasks": "Student's book, CMS/LMS",
+      "URLs": ""
+    },
+    {
+      "Session": "20",
+      "Topic": "Chapter 5: Demonstrate effective communication skills. (Continued)",
+      "Learning-Teaching Type": "Offline/Online",
+      "LO": "CLO4, CLO5, CLO7, CLO8",
+      "ITU": "ITU",
+      "Student Materials": "Textbook Student's slide",
+      "S-Download": "",
+      "Student's Tasks": "Student's book, CMS/LMS",
+      "URLs": ""
+    },
+    {
+      "Session": "21",
+      "Topic": "Small test 1: From chapter 1 to 5.",
+      "Learning-Teaching Type": "Offline/Online test",
+      "LO": "CLO4, CLO5, CLO7, CLO8",
+      "ITU": "U",
+      "Student Materials": "Textbook Student's slide",
+      "S-Download": "",
+      "Student's Tasks": "Do the test in class",
+      "URLs": ""
+    },
+    {
+      "Session": "22",
+      "Topic": "Review Group Project: 1st stage",
+      "Learning-Teaching Type": "Offline/Online",
+      "LO": "CLO4, CLO5, CLO7, CLO8",
+      "ITU": "U",
+      "Student Materials": "Textbook Student's slide",
+      "S-Download": "",
+      "Student's Tasks": "Groups present their work to lecturer",
+      "URLs": ""
+    },
+    {
+      "Session": "23",
+      "Topic": "Chapter 6: Demonstrate effective presentation skills.",
+      "Learning-Teaching Type": "Offline/Online",
+      "LO": "CLO4, CLO5, CLO7, CLO8",
+      "ITU": "IT",
+      "Student Materials": "Textbook Student's slide",
+      "S-Download": "",
+      "Student's Tasks": "Student's book, CMS/LMS",
+      "URLs": ""
+    },
+    {
+      "Session": "24",
+      "Topic": "Chapter 6: Demonstrate effective presentation skills.(Continued)",
+      "Learning-Teaching Type": "Offline/Online",
+      "LO": "CLO4, CLO5, CLO7, CLO8",
+      "ITU": "ITU",
+      "Student Materials": "Textbook Student's slide",
+      "S-Download": "",
+      "Student's Tasks": "Student's book, CMS/LMS",
+      "URLs": ""
+    },
+    {
+      "Session": "25",
+      "Topic": "Chapter 7: Demonstrate questioning skills and techniques.",
+      "Learning-Teaching Type": "Offline/Online",
+      "LO": "CLO4, CLO5, CLO7, CLO8",
+      "ITU": "IT",
+      "Student Materials": "Textbook Student's slide",
+      "S-Download": "",
+      "Student's Tasks": "Student's book, CMS/LMS",
+      "URLs": ""
+    },
+    {
+      "Session": "26",
+      "Topic": "Chapter 7: Demonstrate questioning skills and techniques. (Continued)",
+      "Learning-Teaching Type": "Offline/Online",
+      "LO": "CLO4, CLO5, CLO7, CLO8",
+      "ITU": "ITU",
+      "Student Materials": "Textbook Student's slide",
+      "S-Download": "",
+      "Student's Tasks": "Student's book, CMS/LMS",
+      "URLs": ""
+    },
+    {
+      "Session": "27",
+      "Topic": "Individual essay 1: From chapter 1 to 7.",
+      "Learning-Teaching Type": "Offline/Online test",
+      "LO": "CLO4, CLO5, CLO7, CLO8",
+      "ITU": "U",
+      "Student Materials": "Textbook Student's slide",
+      "S-Download": "",
+      "Student's Tasks": "Do the test in class (online/offline) with tight time control.",
+      "URLs": ""
+    },
+    {
+      "Session": "28",
+      "Topic": "Chapter 8: Respond appropriately to learners’ needs for clarification or feedback.",
+      "Learning-Teaching Type": "Offline/Online",
+      "LO": "CLO4, CLO5, CLO7, CLO8",
+      "ITU": "IT",
+      "Student Materials": "Textbook Student's slide",
+      "S-Download": "",
+      "Student's Tasks": "Student's book, CMS/LMS",
+      "URLs": ""
+    },
+    {
+      "Session": "29",
+      "Topic": "Chapter 8: Respond appropriately to learners’ needs for clarification or feedback.(Continued)",
+      "Learning-Teaching Type": "Offline/Online",
+      "LO": "CLO4, CLO5, CLO7, CLO8",
+      "ITU": "ITU",
+      "Student Materials": "Textbook Student's slide",
+      "S-Download": "",
+      "Student's Tasks": "Student's book, CMS/LMS",
+      "URLs": ""
+    },
+    {
+      "Session": "30",
+      "Topic": "Chapter 9: Provide positive reinforcement and motivational incentives.",
+      "Learning-Teaching Type": "Offline/Online",
+      "LO": "CLO4, CLO5, CLO7, CLO8",
+      "ITU": "IT",
+      "Student Materials": "Textbook Student's slide",
+      "S-Download": "",
+      "Student's Tasks": "Student's book, CMS/LMS",
+      "URLs": ""
+    },
+    {
+      "Session": "31",
+      "Topic": "Chapter 9: Provide positive reinforcement and motivational incentives.",
+      "Learning-Teaching Type": "Offline/Online",
+      "LO": "CLO4, CLO5, CLO7, CLO8",
+      "ITU": "IT",
+      "Student Materials": "Textbook Student's slide",
+      "S-Download": "",
+      "Student's Tasks": "Student's book, CMS/LMS",
+      "URLs": ""
+    },
+    {
+      "Session": "32",
+      "Topic": "Review Group Project: 2rd stage",
+      "Learning-Teaching Type": "Offline/Online",
+      "LO": "CLO4, CLO5, CLO7, CLO8",
+      "ITU": "U",
+      "Student Materials": "Textbook Student's slide",
+      "S-Download": "",
+      "Student's Tasks": "Groups present their work to lecturer",
+      "URLs": ""
+    },
+    {
+      "Session": "33",
+      "Topic": "Chapter 10: Use instructional methods appropriately.",
+      "Learning-Teaching Type": "Offline/Online",
+      "LO": "CLO4, CLO5, CLO6, CLO7, CLO8",
+      "ITU": "IT",
+      "Student Materials": "Textbook Student's slide",
+      "S-Download": "",
+      "Student's Tasks": "Student's book, CMS/LMS",
+      "URLs": ""
+    },
+    {
+      "Session": "34",
+      "Topic": "Chapter 10: Use instructional methods appropriately.(Continued)",
+      "Learning-Teaching Type": "Offline/Online",
+      "LO": "CLO4, CLO5, CLO6, CLO7, CLO8",
+      "ITU": "ITU",
+      "Student Materials": "Textbook Student's slide",
+      "S-Download": "",
+      "Student's Tasks": "Student's book, CMS/LMS",
+      "URLs": ""
+    },
+    {
+      "Session": "35",
+      "Topic": "Chapter 10: Use instructional methods appropriately.(Continued)",
+      "Learning-Teaching Type": "Offline/Online",
+      "LO": "CLO4, CLO5, CLO6, CLO7, CLO8",
+      "ITU": "ITU",
+      "Student Materials": "Textbook Student's slide",
+      "S-Download": "",
+      "Student's Tasks": "Student's book, CMS/LMS",
+      "URLs": ""
+    },
+    {
+      "Session": "36",
+      "Topic": "Chapter 10: Use instructional methods appropriately.(Continued)",
+      "Learning-Teaching Type": "Offline/Online",
+      "LO": "CLO4, CLO5, CLO6, CLO7, CLO8",
+      "ITU": "ITU",
+      "Student Materials": "Textbook Student's slide",
+      "S-Download": "",
+      "Student's Tasks": "Student's book, CMS/LMS",
+      "URLs": ""
+    },
+    {
+      "Session": "37",
+      "Topic": "Chapter 10: Use instructional methods appropriately.(Continued)",
+      "Learning-Teaching Type": "Offline/Online",
+      "LO": "CLO4, CLO5, CLO6, CLO7, CLO8",
+      "ITU": "ITU",
+      "Student Materials": "Textbook Student's slide",
+      "S-Download": "",
+      "Student's Tasks": "Student's book, CMS/LMS",
+      "URLs": ""
+    },
+    {
+      "Session": "38",
+      "Topic": "Small test 2: From chapter 6 to 10.",
+      "Learning-Teaching Type": "Offline/Online test",
+      "LO": "CLO4, CLO5, CLO7, CLO8",
+      "ITU": "U",
+      "Student Materials": "Textbook Student's slide",
+      "S-Download": "",
+      "Student's Tasks": "Do the test in class",
+      "URLs": ""
+    },
+    {
+      "Session": "39",
+      "Topic": "Chapter 10bis: Social Constructivism Method",
+      "Learning-Teaching Type": "Offline/Online",
+      "LO": "CLO6, CLO8",
+      "ITU": "IT",
+      "Student Materials": "Textbook Student's slide",
+      "S-Download": "",
+      "Student's Tasks": "Student's book, CMS/LMS",
+      "URLs": ""
+    },
+    {
+      "Session": "40",
+      "Topic": "Chapter 10bis: Social Constructivism Method. (Continued)",
+      "Learning-Teaching Type": "Offline/Online",
+      "LO": "CLO6, CLO8",
+      "ITU": "ITU",
+      "Student Materials": "Textbook Student's slide",
+      "S-Download": "",
+      "Student's Tasks": "Student's book, CMS/LMS",
+      "URLs": ""
+    },
+    {
+      "Session": "41",
+      "Topic": "Chapter 10bis: Social Constructivism Method. (Continued)",
+      "Learning-Teaching Type": "Offline/Online",
+      "LO": "CLO6, CLO8",
+      "ITU": "ITU",
+      "Student Materials": "Textbook Student's slide",
+      "S-Download": "",
+      "Student's Tasks": "Student's book, CMS/LMS",
+      "URLs": ""
+    },
+    {
+      "Session": "42",
+      "Topic": "Chapter 10bis: Social Constructivism Method. (Continued)",
+      "Learning-Teaching Type": "Offline/Online",
+      "LO": "CLO6, CLO8",
+      "ITU": "ITU",
+      "Student Materials": "Textbook Student's slide",
+      "S-Download": "",
+      "Student's Tasks": "Student's book, CMS/LMS",
+      "URLs": ""
+    },
+    {
+      "Session": "43",
+      "Topic": "Chapter 11: Use media effectively.",
+      "Learning-Teaching Type": "Offline/Online",
+      "LO": "CLO4, CLO5, CLO6, CLO7, CLO8",
+      "ITU": "IT",
+      "Student Materials": "Textbook Student's slide",
+      "S-Download": "",
+      "Student's Tasks": "Student's book, CMS/LMS",
+      "URLs": ""
+    },
+    {
+      "Session": "44",
+      "Topic": "Chapter 11: Use media effectively.(Continued)",
+      "Learning-Teaching Type": "Offline/Online",
+      "LO": "CLO4, CLO5, CLO6, CLO7, CLO8",
+      "ITU": "ITU",
+      "Student Materials": "Textbook Student's slide",
+      "S-Download": "",
+      "Student's Tasks": "Student's book, CMS/LMS",
+      "URLs": ""
+    },
+    {
+      "Session": "45",
+      "Topic": "Individual essay 2: From chapter 8 to 10.",
+      "Learning-Teaching Type": "Offline/Online test",
+      "LO": "CLO4, CLO5, CLO7, CLO8",
+      "ITU": "U",
+      "Student Materials": "Textbook Student's slide",
+      "S-Download": "",
+      "Student's Tasks": "Do the test in class (online/offline) with tight time control.",
+      "URLs": ""
+    },
+    {
+      "Session": "46",
+      "Topic": "Chapter 12: Evaluate learner performance.",
+      "Learning-Teaching Type": "Offline/Online",
+      "LO": "CLO4, CLO5, CLO6, CLO7, CLO8",
+      "ITU": "IT",
+      "Student Materials": "Textbook Student's slide",
+      "S-Download": "",
+      "Student's Tasks": "Student's book, CMS/LMS",
+      "URLs": ""
+    },
+    {
+      "Session": "47",
+      "Topic": "Chapter 12: Evaluate learner performance.(Continued)",
+      "Learning-Teaching Type": "Offline/Online",
+      "LO": "CLO4, CLO5, CLO6, CLO7, CLO8",
+      "ITU": "ITU",
+      "Student Materials": "Textbook Student's slide",
+      "S-Download": "",
+      "Student's Tasks": "Student's book, CMS/LMS",
+      "URLs": ""
+    },
+    {
+      "Session": "48",
+      "Topic": "Chapter 12: Evaluate learner performance.(Continued)",
+      "Learning-Teaching Type": "Offline/Online",
+      "LO": "CLO4, CLO5, CLO6, CLO7, CLO8",
+      "ITU": "ITU",
+      "Student Materials": "Textbook Student's slide",
+      "S-Download": "",
+      "Student's Tasks": "Student's book, CMS/LMS",
+      "URLs": ""
+    },
+    {
+      "Session": "49",
+      "Topic": "Review Group Project: 3rd stage",
+      "Learning-Teaching Type": "Offline/Online",
+      "LO": "CLO4, CLO5, CLO7, CLO8",
+      "ITU": "U",
+      "Student Materials": "Textbook Student's slide",
+      "S-Download": "",
+      "Student's Tasks": "Groups present their work to lecturer",
+      "URLs": ""
+    },
+    {
+      "Session": "50",
+      "Topic": "Chapter 13: Evaluate delivery of instruction.",
+      "Learning-Teaching Type": "Offline/Online",
+      "LO": "CLO4, CLO5, CLO6, CLO7, CLO8",
+      "ITU": "IT",
+      "Student Materials": "Textbook Student's slide",
+      "S-Download": "",
+      "Student's Tasks": "Student's book, CMS/LMS",
+      "URLs": ""
+    },
+    {
+      "Session": "51",
+      "Topic": "Chapter 13: Evaluate delivery of instruction.(Continued)",
+      "Learning-Teaching Type": "Offline/Online",
+      "LO": "CLO4, CLO5, CLO6, CLO7, CLO8",
+      "ITU": "ITU",
+      "Student Materials": "Textbook Student's slide",
+      "S-Download": "",
+      "Student's Tasks": "Student's book, CMS/LMS",
+      "URLs": ""
+    },
+    {
+      "Session": "52",
+      "Topic": "Small test 3: From chapter 11 to 13.",
+      "Learning-Teaching Type": "Offline/Online test",
+      "LO": "CLO4, CLO5, CLO7, CLO8",
+      "ITU": "U",
+      "Student Materials": "Textbook Student's slide",
+      "S-Download": "",
+      "Student's Tasks": "Do the test in class",
+      "URLs": ""
+    },
+    {
+      "Session": "53",
+      "Topic": "Chapter 14: Report evaluation information.",
+      "Learning-Teaching Type": "Offline/Online",
+      "LO": "CLO4, CLO5, CLO6, CLO7, CLO8",
+      "ITU": "IT",
+      "Student Materials": "Textbook Student's slide",
+      "S-Download": "",
+      "Student's Tasks": "Student's book, CMS/LMS",
+      "URLs": ""
+    },
+    {
+      "Session": "54",
+      "Topic": "Review all chapters",
+      "Learning-Teaching Type": "Offline/Online",
+      "LO": "All CLO",
+      "ITU": "TU",
+      "Student Materials": "Textbook Student's slide",
+      "S-Download": "",
+      "Student's Tasks": "Student's book, CMS/LMS",
+      "URLs": ""
+    },
+    {
+      "Session": "55",
+      "Topic": "Defending group projects.",
+      "Learning-Teaching Type": "Offline/Online",
+      "LO": "CLO4, CLO5, CLO6, CLO7, CLO8",
+      "ITU": "",
+      "Student Materials": "Textbook Student's slide",
+      "S-Download": "",
+      "Student's Tasks": "Groups present their work to lecturer and other groups",
+      "URLs": ""
+    },
+    {
+      "Session": "56",
+      "Topic": "Defending group projects.",
+      "Learning-Teaching Type": "Offline/Online",
+      "LO": "CLO4, CLO5, CLO6, CLO7, CLO8",
+      "ITU": "",
+      "Student Materials": "Textbook Student's slide",
+      "S-Download": "",
+      "Student's Tasks": "Groups present their work to lecturer and other groups",
+      "URLs": ""
+    },
+    {
+      "Session": "57",
+      "Topic": "Defending group projects.",
+      "Learning-Teaching Type": "Offline/Online",
+      "LO": "CLO4, CLO5, CLO6, CLO7, CLO8",
+      "ITU": "",
+      "Student Materials": "Textbook Student's slide",
+      "S-Download": "",
+      "Student's Tasks": "Groups present their work to lecturer and other groups",
+      "URLs": ""
+    },
+    {
+      "Session": "58",
+      "Topic": "Defending group projects.",
+      "Learning-Teaching Type": "Offline/Online",
+      "LO": "CLO4, CLO5, CLO6, CLO7, CLO8",
+      "ITU": "",
+      "Student Materials": "Textbook Student's slide",
+      "S-Download": "",
+      "Student's Tasks": "Groups present their work to lecturer and other groups",
+      "URLs": ""
+    },
+    {
+      "Session": "59",
+      "Topic": "Defending group projects.",
+      "Learning-Teaching Type": "Offline/Online",
+      "LO": "CLO4, CLO5, CLO6, CLO7, CLO8",
+      "ITU": "",
+      "Student Materials": "Textbook Student's slide",
+      "S-Download": "",
+      "Student's Tasks": "Groups present their work to lecturer and other groups",
+      "URLs": ""
+    },
+    {
+      "Session": "60",
+      "Topic": "Defending group projects.",
+      "Learning-Teaching Type": "Offline/Online",
+      "LO": "CLO4, CLO5, CLO6, CLO7, CLO8",
+      "ITU": "",
+      "Student Materials": "Textbook Student's slide",
+      "S-Download": "",
+      "Student's Tasks": "Groups present their work to lecturer and other groups",
+      "URLs": ""
+    }
+  ],
+  "constructive_questions": [
+    {
+      "No.": "1",
+      "Session No": "2",
+      "Name": "CQ1.1",
+      "Details": "What are the challenges of higher education in the industrial revolution 4.0?"
+    },
+    {
+      "No.": "2",
+      "Session No": "3",
+      "Name": "CQ1.2",
+      "Details": "What is corporate culture? What are the core values of FPT culture? Which value do you like best? Why?"
+    },
+    {
+      "No.": "3",
+      "Session No": "4",
+      "Name": "CQ2.1",
+      "Details": "What are the vision, mission and educational philosophy of FE? What is a particularly important point in FE's educational philosophy as a guideline for all educational activities at FE? Please present your opinion!"
+    },
+    {
+      "No.": "4",
+      "Session No": "5",
+      "Name": "CQ2.2",
+      "Details": "How many teaching methods are used at FPTU? Describe each method and skills that students are improved?"
+    },
+    {
+      "No.": "5",
+      "Session No": "6",
+      "Name": "CQ2.3",
+      "Details": "Why do you study the course objectives before going to teach? Are course objectives changed during the teaching process? Why or why not?"
+    },
+    {
+      "No.": "6",
+      "Session No": "7",
+      "Name": "CQ3.1",
+      "Details": "Why do you study the leaners before going to teach? What learner information do you need to gather? How to get this information?"
+    },
+    {
+      "No.": "7",
+      "Session No": "9",
+      "Name": "CQ3.2",
+      "Details": "What do lecturers do for preparing the instructional site?"
+    },
+    {
+      "No.": "8",
+      "Session No": "10",
+      "Name": "CQ4.1",
+      "Details": "What are distractions? What do you do to eliminate distractions in the instructional site?"
+    },
+    {
+      "No.": "9",
+      "Session No": "11",
+      "Name": "CQ4.2",
+      "Details": "What factors help lecturers build their credibility for students?"
+    },
+    {
+      "No.": "10",
+      "Session No": "12",
+      "Name": "CQ4.3",
+      "Details": "What do you do to build your credibility when introducing the course you are going to teach?"
+    },
+    {
+      "No.": "11",
+      "Session No": "13",
+      "Name": "CQ5.1",
+      "Details": "In your opinion, how should teachers prepare their appearance to build credibility when teaching?"
+    },
+    {
+      "No.": "12",
+      "Session No": "14",
+      "Name": "CQ5.2",
+      "Details": "How to maintain the credibility?"
+    },
+    {
+      "No.": "13",
+      "Session No": "15",
+      "Name": "CQ5.3",
+      "Details": "What information would you need to include in your 10-minute course introduction that would create credibility?"
+    },
+    {
+      "No.": "14",
+      "Session No": "16",
+      "Name": "CQ6.1",
+      "Details": "What do you think about “the classroom is the place to make mistakes and determine how to correct it, and students need to understand this fact”? Do you explain something about it?"
+    },
+    {
+      "No.": "15",
+      "Session No": "17",
+      "Name": "CQ6.2",
+      "Details": "What do you do to manage interactions well when teaching?"
+    },
+    {
+      "No.": "16",
+      "Session No": "18",
+      "Name": "CQ6.3",
+      "Details": "What are problem students? Please point out the identifying signs of \"The Know-It-All\", \"The Challenges\", \"The Overwelmed Student\", \"The Class Clown\", and \"The Introvert\", ..., and point out the solutions to manage these problem students?"
+    },
+    {
+      "No.": "17",
+      "Session No": "19",
+      "Name": "CQ7.1",
+      "Details": "How to use verbal communication effectively?"
+    },
+    {
+      "No.": "18",
+      "Session No": "20",
+      "Name": "CQ7.2",
+      "Details": "How to use non-verbal communication effectively?"
+    },
+    {
+      "No.": "19",
+      "Session No": "23",
+      "Name": "CQ8.1",
+      "Details": "How to plan a presentation session effectively? Can you specify the process of preparation for a succesful presentation?"
+    },
+    {
+      "No.": "20",
+      "Session No": "24",
+      "Name": "CQ8.2",
+      "Details": "How to deliver a presentation session effectively? Practice sell the session!"
+    },
+    {
+      "No.": "21",
+      "Session No": "25",
+      "Name": "CQ9.1",
+      "Details": "Whe and why do you ask questions? What is the Bloom's Cognitive Scale?"
+    },
+    {
+      "No.": "22",
+      "Session No": "26",
+      "Name": "CQ9.2",
+      "Details": "How many types of questions are there? Specify them! What are the techniques to answer questions' students?"
+    },
+    {
+      "No.": "23",
+      "Session No": "28",
+      "Name": "CQ10.1",
+      "Details": "How many types of feedbacks from students are there when teaching? Give examples!"
+    },
+    {
+      "No.": "24",
+      "Session No": "29",
+      "Name": "CQ10.2",
+      "Details": "What do you think about \"Focus on the issue, not in the person\" when teaching? Why you need to point out strengths and weaknesses of students?"
+    },
+    {
+      "No.": "25",
+      "Session No": "30",
+      "Name": "CQ10.3",
+      "Details": "What do you do to provide reinforcement and motivational incentives?"
+    },
+    {
+      "No.": "26",
+      "Session No": "31",
+      "Name": "CQ11.1",
+      "Details": "What is the selling concept? Give an example and present it to your lecturer and classmates!"
+    },
+    {
+      "No.": "27",
+      "Session No": "33",
+      "Name": "CQ11.2",
+      "Details": "What are the Lectures, Demonstration, and Guide Learning methods? What are the strengths and weaknesses of every method?"
+    },
+    {
+      "No.": "28",
+      "Session No": "34",
+      "Name": "CQ12.1",
+      "Details": "What are the Students Teaching, Group Work, and Role Play methods? What are the strengths and weaknesses of every method?"
+    },
+    {
+      "No.": "29",
+      "Session No": "35",
+      "Name": "CQ12.2",
+      "Details": "What are the Simulations, Case Studies, and Games methods? What are the strengths and weaknesses of every method?"
+    },
+    {
+      "No.": "30",
+      "Session No": "36",
+      "Name": "CQ12.3",
+      "Details": "What are the Independent Practice and Reflection methods? What are the strengths and weaknesses of every method?"
+    },
+    {
+      "No.": "31",
+      "Session No": "37",
+      "Name": "CQ13.1",
+      "Details": "In your opinion, what is the sequence of teaching methods in a typical class?"
+    },
+    {
+      "No.": "32",
+      "Session No": "39",
+      "Name": "CQ13.2",
+      "Details": "What is the Social Constructivism Method? What skills does this method give students?"
+    },
+    {
+      "No.": "33",
+      "Session No": "43",
+      "Name": "CQ15.1",
+      "Details": "What are the instructional media? List all instructional media that you will use for teaching in the future."
+    },
+    {
+      "No.": "34",
+      "Session No": "44",
+      "Name": "CQ15.2",
+      "Details": "In the digital age, learners can learn anywhere, anytime. What instructional media will you use to meet the needs of your learners?"
+    },
+    {
+      "No.": "35",
+      "Session No": "46",
+      "Name": "CQ16.1",
+      "Details": "How many types of evaluation are there? What is the informal evaluation? What is the formal of evaluation?"
+    },
+    {
+      "No.": "36",
+      "Session No": "47",
+      "Name": "CQ16.2",
+      "Details": "How many types of questions used in the evaluation are there? What are strengths and weaknesses of any type of question? (True/false question, Matching, Multiple choice, Short answer, Essay, Scenerios, and Simulation)"
+    },
+    {
+      "No.": "37",
+      "Session No": "48",
+      "Name": "CQ16.3",
+      "Details": "What is the plagiarism? Why do you need to teach your students about plagiarism?"
+    },
+    {
+      "No.": "38",
+      "Session No": "50",
+      "Name": "CQ17.1",
+      "Details": "What criteria do you use to evaluate the delivery of instruction to determine the success of your course? Why we need to evaluate the delivery of instruction?"
+    },
+    {
+      "No.": "39",
+      "Session No": "51",
+      "Name": "CQ17.2",
+      "Details": "What items will you evaluate after teaching a course? And what methods do you use to evaluate the delivery of instruction?"
+    },
+    {
+      "No.": "40",
+      "Session No": "53",
+      "Name": "CQ18.1",
+      "Details": "What items do you include in your report after the course?"
+    }
+  ],
+  "materials": [
+    {
+      "No.": "1",
+      "Material Description": "IBSTPI Instructor Handbook",
+      "Author": "IBSTPI",
+      "Publisher": "McGraw-Hill",
+      "Published Date": "",
+      "Edition": "",
+      "ISBN": "0-07-213033-4",
+      "Is Main Material": "False",
+      "Is Hard Copy": "False",
+      "Is Online": "True",
+      "Note": "File PDF"
+    }
+  ],
+  "source_path": "data/raw/syllabi/11820.html",
+  "id": "syllabus:11820"
+}

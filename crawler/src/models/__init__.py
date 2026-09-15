@@ -1,0 +1,2 @@
+"""Typed data models."""
+

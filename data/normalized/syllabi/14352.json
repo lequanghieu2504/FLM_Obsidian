@@ -1,0 +1,357 @@
+{
+  "syllabus_id": 14352,
+  "subject_code": "AIS301c",
+  "subject_name": "AI for Cybersecurity_TTNT cho an ninh mạng",
+  "syllabus_name": "AI for Cybersecurity_ Trí tuệ nhân tạo cho an toàn thông tin",
+  "credits": 3,
+  "degree_level": "Bachelor",
+  "time_allocation": "Study hour (150h) = 54.5h online + 3h offline + 1h final exam + 91.5h self-study",
+  "prerequisite": "AIL303m",
+  "general_information": {
+    "Syllabus ID": "14352",
+    "Syllabus Name": "AI for Cybersecurity_ Trí tuệ nhân tạo cho an toàn thông tin",
+    "Course Name English": "AI for Cybersecurity",
+    "Subject Code": "AIS301c",
+    "Learning-Teaching Method": "In-class lecture, Social Constructivism, Active Learning",
+    "NoCredit": "3",
+    "Degree Level": "Bachelor",
+    "Time Allocation": "Study hour (150h) = 54.5h online + 3h offline + 1h final exam + 91.5h self-study",
+    "Pre-Requisite": "AIL303m",
+    "Description": "This course is designed based on the Coursera AI for Cybersecurity Specialization by Johns Hopkins University. The course introduces how artificial intelligence and machine learning techniques are applied to cybersecurity problems, including email threat detection, spam and phishing classification, authentication security, malware detection, network anomaly detection, fraud prevention, adversarial machine learning, Generative Adversarial Networks, reinforcement learning, and AI model evaluation. Students learn to frame cybersecurity problems as data-driven AI tasks, engineer security-relevant features, train and evaluate supervised and unsupervised models, analyze anomalies in network traffic, and assess the robustness of AI systems against adversarial conditions. The course emphasizes defensive, ethical, and responsible applications of AI in cybersecurity through Coursera-based videos, readings, quizzes, hands-on notebooks, and review sessions.",
+    "StudentTasks": "Student must complete the online learning activities and get the certificate of AI for Cybersecurity Specialization from Coursera to be accepted to the final examination.",
+    "Tools": "Coursera, Jupyter Notebook, Python, common machine learning libraries, course datasets and online quizzes/labs.",
+    "Scoring Scale": "10",
+    "DecisionNo MM/dd/yyyy": "968/QĐ-ĐHFPT dated 08/07/2026",
+    "IsApproved": "True",
+    "Note": "1. Final Exam included Final Theory Exam (TE): 100% 2. Student gets 0.3 bonus points for each course completed on time. The total bonus point is not greater than 1. 3. Completion Criteria: Final TE Score >=4 & (Final TE Score + bonus) >= 5 4. Complete the online courses and get all specialization certifications to be allowed to take Final Exam",
+    "Is Scored": "True",
+    "MinAvgMarkToPass": "5",
+    "IsActive": "True",
+    "ApprovedDate": "8/7/2026"
+  },
+  "active": true,
+  "approved": true,
+  "decision": "968/QĐ-ĐHFPT dated 08/07/2026",
+  "description": "This course is designed based on the Coursera AI for Cybersecurity Specialization by Johns Hopkins University. The course introduces how artificial intelligence and machine learning techniques are applied to cybersecurity problems, including email threat detection, spam and phishing classification, authentication security, malware detection, network anomaly detection, fraud prevention, adversarial machine learning, Generative Adversarial Networks, reinforcement learning, and AI model evaluation. Students learn to frame cybersecurity problems as data-driven AI tasks, engineer security-relevant features, train and evaluate supervised and unsupervised models, analyze anomalies in network traffic, and assess the robustness of AI systems against adversarial conditions. The course emphasizes defensive, ethical, and responsible applications of AI in cybersecurity through Coursera-based videos, readings, quizzes, hands-on notebooks, and review sessions.",
+  "learning_outcomes": [
+    {
+      "No.": "1",
+      "CLO Name": "CLO1",
+      "CLO Details": "Learners should be able to explain AI-driven cybersecurity use cases, security threat detection workflows, and the machine learning development process for cybersecurity applications."
+    },
+    {
+      "No.": "2",
+      "CLO Name": "CLO2",
+      "CLO Details": "Learners should be able to develop and evaluate machine learning models for email security, spam/phishing detection, and AI-supported authentication security."
+    },
+    {
+      "No.": "3",
+      "CLO Name": "CLO3",
+      "CLO Details": "Learners should be able to analyze malware and network traffic features and apply supervised or unsupervised learning algorithms for malware and anomaly detection."
+    },
+    {
+      "No.": "4",
+      "CLO Name": "CLO4",
+      "CLO Details": "Learners should be able to implement network anomaly detection experiments using botnet or traffic data and interpret model evaluation results for cybersecurity decision-making."
+    },
+    {
+      "No.": "5",
+      "CLO Name": "CLO5",
+      "CLO Details": "Learners should be able to apply advanced AI security concepts, including fraud detection, GANs, adversarial machine learning, model resilience, and reinforcement learning for adaptive cybersecurity."
+    }
+  ],
+  "assessments": [
+    {
+      "No.": "1",
+      "Category": "Final exam",
+      "Type": "Final exam",
+      "Part": "1",
+      "Weight": "100.0%",
+      "Completion Criteria": "4",
+      "Duration": "60'",
+      "CLO": "CLO1, CLO2, CLO3, CLO4, CLO5",
+      "Question Type": "Multiple choices Marked by Computer",
+      "No Question": "50",
+      "Knowledge and Skill": "All studied courses in AI for Cybersecurity Specialization. Each major topic contributes 4-5 questions: AI for cybersecurity fundamentals, email threat detection, authentication security, malware detection, network anomaly detection, fraud detection, GANs, adversarial ML, reinforcement learning, and model evaluation.",
+      "Grading Guide": "by exam board, using computer",
+      "Note": "Customized from the quizzes of this specialization. 1st Evaluation (exam): For students who completed & got Coursera's specialization certificates (Option at week 7); 2nd Evaluation (exam): For students who completed & got Coursera's specialization certificates) at week 13; 3rd Evaluation (re-exam): For students who completed & got Coursera's specialization certificates) at week 14."
+    }
+  ],
+  "schedule": [
+    {
+      "Session": "1",
+      "Topic": "Specialization Introduction Introduction to AI for Cybersecurity - AI for Cybersecurity Specialization overview - AI for cybersecurity professionals",
+      "Learning-Teaching Type": "Online",
+      "LO": "CLO1",
+      "ITU": "I",
+      "Student Materials": "Associated Coursera links",
+      "S-Download": "link1-1",
+      "Student's Tasks": "Complete Course 1 - Module 1: Course Introduction and overview of AI for Cybersecurity",
+      "URLs": ""
+    },
+    {
+      "Session": "2",
+      "Topic": "Introduction to AI for Cybersecurity (cont.) - Machine learning development process - AI role in cyber threat detection - Spam filtering and email threat detection Offline 1: Course 1 orientation and learning review",
+      "Learning-Teaching Type": "Offline, online",
+      "LO": "CLO1",
+      "ITU": "I, T",
+      "Student Materials": "Associated Coursera links",
+      "S-Download": "link2-1",
+      "Student's Tasks": "- Complete Course 1 learning items related to AI for cybersecurity professionals and ML development process All Students should participate in review slot (if any question)",
+      "URLs": ""
+    },
+    {
+      "Session": "3",
+      "Topic": "Email Threat Detection - Spam and phishing email classification - Decision trees and Naïve Bayes for email security",
+      "Learning-Teaching Type": "Online",
+      "LO": "CLO2",
+      "ITU": "I, T",
+      "Student Materials": "Associated Coursera links",
+      "S-Download": "link3-1",
+      "Student's Tasks": "- Complete Course 1 email security activities and quizzes - Deadline of Course 1 Completion: End of Friday of the week.",
+      "URLs": ""
+    },
+    {
+      "Session": "4",
+      "Topic": "Authentication Security with AI - Keystroke dynamics - Facial recognition and fake login detection - Model evaluation for authentication tasks",
+      "Learning-Teaching Type": "Online",
+      "LO": "CLO2",
+      "ITU": "",
+      "Student Materials": "Associated Coursera links",
+      "S-Download": "link4-1",
+      "Student's Tasks": "Complete Course 1 activities on AI-supported authentication security",
+      "URLs": ""
+    },
+    {
+      "Session": "5",
+      "Topic": "Advanced Malware and Network Anomaly Detection - Malware types and malware analysis fundamentals - Feature extraction for malware detection - Supervised learning for malware classification",
+      "Learning-Teaching Type": "Online",
+      "LO": "CLO3",
+      "ITU": "",
+      "Student Materials": "Associated Coursera links",
+      "S-Download": "link5-1",
+      "Student's Tasks": "Complete Course 2 - Malware Threats Detection Part 1",
+      "URLs": ""
+    },
+    {
+      "Session": "6",
+      "Topic": "Malware Threats Detection Part 2 - Advanced detection techniques - Clustering and decision trees for malware detection - Malware model evaluation",
+      "Learning-Teaching Type": "Online",
+      "LO": "CLO3",
+      "ITU": "",
+      "Student Materials": "Associated Coursera links",
+      "S-Download": "link6-1",
+      "Student's Tasks": "Complete Course 2 - Malware Threats Detection Part 2",
+      "URLs": ""
+    },
+    {
+      "Session": "7",
+      "Topic": "Network Anomaly Detection with AI - Network threats and anomaly detection background - Botnet data case study",
+      "Learning-Teaching Type": "Online",
+      "LO": "CLO4",
+      "ITU": "I, T",
+      "Student Materials": "Associated Coursera links",
+      "S-Download": "link7-1",
+      "Student's Tasks": "- Complete Course 2 network anomaly detection activities - Deadline of Course 2 Completion: End of Friday of the week.",
+      "URLs": ""
+    },
+    {
+      "Session": "8",
+      "Topic": "Network Traffic Analysis and Research Presentation - Anomaly detection algorithms - Model interpretation and performance analysis - Present current trends in network anomaly detection",
+      "Learning-Teaching Type": "Online",
+      "LO": "CLO4",
+      "ITU": "",
+      "Student Materials": "Associated Coursera links",
+      "S-Download": "link8-1",
+      "Student's Tasks": "Complete Course 2 assignments/lab on network anomaly detection and prepare a short research presentation",
+      "URLs": ""
+    },
+    {
+      "Session": "9",
+      "Topic": "Securing AI and Advanced Topics - Fraud prevention with cloud AI solutions - Credit card fraud detection - Feature engineering and performance metrics",
+      "Learning-Teaching Type": "Online",
+      "LO": "CLO5",
+      "ITU": "",
+      "Student Materials": "Associated Coursera links",
+      "S-Download": "link9-1",
+      "Student's Tasks": "Complete Course 3 - Fraud Prevention with Cloud AI Solutions",
+      "URLs": ""
+    },
+    {
+      "Session": "10",
+      "Topic": "Generative AI and Adversarial Machine Learning - Fundamentals of Generative Adversarial Networks (GANs) - Synthetic data for cybersecurity - Black-box and white-box adversarial attacks Offline 2: Course 3 review",
+      "Learning-Teaching Type": "Offline, online",
+      "LO": "CLO5",
+      "ITU": "I, T",
+      "Student Materials": "Associated Coursera links",
+      "S-Download": "link10-1",
+      "Student's Tasks": "- Complete Course 3 activities on GANs and adversarial attacks - Deadline of Course 3 main modules: End of Friday of the week. All Students should participate in review slot (if any question)",
+      "URLs": ""
+    },
+    {
+      "Session": "11",
+      "Topic": "Model Resilience and Adaptive Cybersecurity - Model robustness evaluation - Reinforcement learning for adaptive cybersecurity measures - Model optimization and security strategy",
+      "Learning-Teaching Type": "Online",
+      "LO": "CLO5",
+      "ITU": "",
+      "Student Materials": "Associated Coursera links",
+      "S-Download": "link11-1",
+      "Student's Tasks": "Complete Course 3 activities on model evaluation, reinforcement learning and adaptive cybersecurity",
+      "URLs": ""
+    },
+    {
+      "Session": "12",
+      "Topic": "Course Integration and Final Review - AI model evaluation for cybersecurity applications - Defensive and responsible use of AI in cybersecurity - Final specialization review",
+      "Learning-Teaching Type": "Online",
+      "LO": "CLO5",
+      "ITU": "I, T",
+      "Student Materials": "Associated Coursera links",
+      "S-Download": "link12-1",
+      "Student's Tasks": "- Complete all remaining Course 3 activities - Complete AI for Cybersecurity Specialization certificate - Deadline of Course 1, 2, 3 Completion: End of Friday of the week.",
+      "URLs": ""
+    }
+  ],
+  "constructive_questions": [
+    {
+      "No.": "1",
+      "Session No": "1",
+      "Name": "AI for cyber threat detection",
+      "Details": "How can AI improve threat detection without replacing the need for human cybersecurity judgment?"
+    },
+    {
+      "No.": "2",
+      "Session No": "2",
+      "Name": "Security data and ML workflow",
+      "Details": "What cybersecurity data characteristics make a machine learning model reliable or unreliable?"
+    },
+    {
+      "No.": "3",
+      "Session No": "3",
+      "Name": "Email security classification",
+      "Details": "How should a team evaluate whether a spam/phishing classifier is safe enough for deployment?"
+    },
+    {
+      "No.": "4",
+      "Session No": "4",
+      "Name": "AI-supported authentication",
+      "Details": "What are the benefits and risks of biometric AI for authentication security?"
+    },
+    {
+      "No.": "5",
+      "Session No": "5",
+      "Name": "Malware feature engineering",
+      "Details": "Which malware features are most useful for detection, and how can feature choices introduce bias?"
+    },
+    {
+      "No.": "6",
+      "Session No": "6",
+      "Name": "Malware detection models",
+      "Details": "Why might supervised and unsupervised methods produce different malware detection outcomes?"
+    },
+    {
+      "No.": "7",
+      "Session No": "7",
+      "Name": "Network anomaly detection",
+      "Details": "What makes an anomaly meaningful in network traffic, and how can false positives be managed?"
+    },
+    {
+      "No.": "8",
+      "Session No": "8",
+      "Name": "Botnet traffic analysis",
+      "Details": "How should model results be communicated to support cybersecurity decision-making?"
+    },
+    {
+      "No.": "9",
+      "Session No": "9",
+      "Name": "Fraud detection",
+      "Details": "Why is model evaluation especially important when detecting rare fraud events?"
+    },
+    {
+      "No.": "10",
+      "Session No": "10",
+      "Name": "GANs and adversarial AI",
+      "Details": "How can synthetic data and adversarial attacks both help and challenge cybersecurity defense?"
+    },
+    {
+      "No.": "11",
+      "Session No": "11",
+      "Name": "Model resilience",
+      "Details": "What evidence is needed to claim that an AI security model is robust?"
+    },
+    {
+      "No.": "12",
+      "Session No": "12",
+      "Name": "Responsible AI for cybersecurity",
+      "Details": "How can AI cybersecurity systems be designed to be effective, explainable, and ethically defensible?"
+    }
+  ],
+  "materials": [
+    {
+      "No.": "1",
+      "Material Description": "MOOC 1: AI for Cybersecurity Specialization",
+      "Author": "Johns Hopkins University",
+      "Publisher": "Coursera",
+      "Published Date": "",
+      "Edition": "",
+      "ISBN": "",
+      "Is Main Material": "True",
+      "Is Hard Copy": "False",
+      "Is Online": "True",
+      "Note": "https://www.coursera.org/specializations/ai-for-cybersecurity"
+    },
+    {
+      "No.": "2",
+      "Material Description": "MOOC 2: Introduction to AI for Cybersecurity",
+      "Author": "Johns Hopkins University",
+      "Publisher": "Coursera",
+      "Published Date": "",
+      "Edition": "",
+      "ISBN": "",
+      "Is Main Material": "True",
+      "Is Hard Copy": "False",
+      "Is Online": "True",
+      "Note": "https://www.coursera.org/learn/introduction-to-ai-for-cybersecurity"
+    },
+    {
+      "No.": "3",
+      "Material Description": "MOOC 3: Advanced Malware and Network Anomaly Detection",
+      "Author": "Johns Hopkins University",
+      "Publisher": "Coursera",
+      "Published Date": "",
+      "Edition": "",
+      "ISBN": "",
+      "Is Main Material": "True",
+      "Is Hard Copy": "False",
+      "Is Online": "True",
+      "Note": "https://www.coursera.org/learn/advanced-malware-and-network-anomaly-detection"
+    },
+    {
+      "No.": "4",
+      "Material Description": "MOOC 4: Securing AI and Advanced Topics",
+      "Author": "Johns Hopkins University",
+      "Publisher": "Coursera",
+      "Published Date": "",
+      "Edition": "",
+      "ISBN": "",
+      "Is Main Material": "True",
+      "Is Hard Copy": "False",
+      "Is Online": "True",
+      "Note": "https://www.coursera.org/learn/securing-ai-and-advanced-topics"
+    },
+    {
+      "No.": "5",
+      "Material Description": "Coursera Code of Conduct",
+      "Author": "",
+      "Publisher": "Coursera",
+      "Published Date": "",
+      "Edition": "",
+      "ISBN": "",
+      "Is Main Material": "False",
+      "Is Hard Copy": "False",
+      "Is Online": "True",
+      "Note": "https://www.coursera.support/s/article/208280036-Coursera-Code-of-Conduct?language=en_US"
+    }
+  ],
+  "source_path": "data/raw/syllabi/14352.html",
+  "id": "syllabus:14352"
+}

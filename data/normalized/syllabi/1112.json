@@ -1,0 +1,566 @@
+{
+  "syllabus_id": 1112,
+  "subject_code": "WMT201",
+  "subject_name": "Web and Mobility Technology",
+  "syllabus_name": "Web and Mobility Technology",
+  "credits": 3,
+  "degree_level": "Bachelor",
+  "time_allocation": "Duration: 30 slots (1 slot = 90 minutes)",
+  "prerequisite": "Have basic knowledge of using Microsoft Office and Internet.",
+  "general_information": {
+    "Syllabus ID": "1112",
+    "Syllabus Name": "Web and Mobility Technology",
+    "Course Name English": "",
+    "Subject Code": "WMT201",
+    "Learning-Teaching Method": "",
+    "NoCredit": "3",
+    "Degree Level": "Bachelor",
+    "Time Allocation": "Duration: 30 slots (1 slot = 90 minutes)",
+    "Pre-Requisite": "Have basic knowledge of using Microsoft Office and Internet.",
+    "Description": "- The course helps students grasp the basic knowledge to build up UI screen of Web and Mobile application. Beside understanding the historical, context, requirements, the evolution, trending and challenges of graphical UI design; throughout the systematic theories and practical exercises in class will help students understand and applied the techniques and supporting tools to solve the problem of interface design websites and mobile apps. - The result of pratical exercises will be analyzed, commented, and evaluated on class by lecturer and feedback from these other students. - During the course, students are guided to collect and arrange the result step-by-step into Portfolio. - The mobile UI design will be demontrated on the Android platform.",
+    "StudentTasks": "- Read the hardcopy, online book at books24x7, website w3schools and other given resources before class. - Do and complete exercises, pratices at home and on class - Access http://cms.fpt.edu.vn website to get, update learning resources, and submit as require. - Proactive on class activities: exchange idea, comments, working in group, and do the pratices,... - Complete all homework and other given missions from lecturer. - Use personal laptop for learning - Do not do private works, talks, Facebook, using mobilephone, SMS which are not relate to studying environment. - Join class at least 80% of total duration.",
+    "Tools": "- Internet - Balsamiq, Moqups, LucidChart, Mindmeister, Axure - Android Studio, JDK, Genymotion",
+    "Scoring Scale": "10",
+    "DecisionNo MM/dd/yyyy": "329/QĐ-ĐHFPT dated 04/12/2017",
+    "IsApproved": "True",
+    "Note": "",
+    "Is Scored": "True",
+    "MinAvgMarkToPass": "5",
+    "IsActive": "True",
+    "ApprovedDate": "4/12/2017"
+  },
+  "active": true,
+  "approved": true,
+  "decision": "329/QĐ-ĐHFPT dated 04/12/2017",
+  "description": "- The course helps students grasp the basic knowledge to build up UI screen of Web and Mobile application. Beside understanding the historical, context, requirements, the evolution, trending and challenges of graphical UI design; throughout the systematic theories and practical exercises in class will help students understand and applied the techniques and supporting tools to solve the problem of interface design websites and mobile apps. - The result of pratical exercises will be analyzed, commented, and evaluated on class by lecturer and feedback from these other students. - During the course, students are guided to collect and arrange the result step-by-step into Portfolio. - The mobile UI design will be demontrated on the Android platform.",
+  "learning_outcomes": [
+    {
+      "No.": "1",
+      "CLO Name": "CLO1",
+      "CLO Details": "Preliminary analysis and establish the idea."
+    },
+    {
+      "No.": "2",
+      "CLO Name": "CLO2",
+      "CLO Details": "Collect information and facts"
+    },
+    {
+      "No.": "3",
+      "CLO Name": "CLO3",
+      "CLO Details": "Analyze, classify, arrange and summary information."
+    },
+    {
+      "No.": "4",
+      "CLO Name": "CLO4",
+      "CLO Details": "Overview of DataBase (DB) design for information storage"
+    },
+    {
+      "No.": "5",
+      "CLO Name": "CLO5",
+      "CLO Details": "Determine user types, functionalities, Roles & Responsibilities in system."
+    },
+    {
+      "No.": "6",
+      "CLO Name": "CLO6",
+      "CLO Details": "Establish the screen layout prototypes"
+    },
+    {
+      "No.": "7",
+      "CLO Name": "CLO7",
+      "CLO Details": "Build-up Sitemap"
+    },
+    {
+      "No.": "8",
+      "CLO Name": "CLO8",
+      "CLO Details": "UI prototype design for screen layouts based on software tools (Balsamiq, Axure, Moqups)"
+    },
+    {
+      "No.": "9",
+      "CLO Name": "CLO9",
+      "CLO Details": "Understand the principle and how to implement UX design"
+    },
+    {
+      "No.": "10",
+      "CLO Name": "CLO10",
+      "CLO Details": "Overview of programming language to create UI of Web and Mobile applications: HTML, CSS, Javascript, and XML."
+    },
+    {
+      "No.": "11",
+      "CLO Name": "CLO11",
+      "CLO Details": "Implement UI designs based on online design tools"
+    },
+    {
+      "No.": "12",
+      "CLO Name": "CLO12",
+      "CLO Details": "Understand about challenges in Web & Mobile UI design"
+    },
+    {
+      "No.": "13",
+      "CLO Name": "CLO13",
+      "CLO Details": "Familiar with UI prototype design tools like Balsamiq, Moqups, and database design based on LucidChart."
+    },
+    {
+      "No.": "14",
+      "CLO Name": "CLO14",
+      "CLO Details": "Collaborative working to resolve a big assignment."
+    },
+    {
+      "No.": "15",
+      "CLO Name": "CLO15",
+      "CLO Details": "Realize a design idea from begin to end to understand a full UI development life cycle"
+    }
+  ],
+  "assessments": [
+    {
+      "No.": "1",
+      "Category": "Activity in class",
+      "Type": "on-going",
+      "Part": "1",
+      "Weight": "10.0%",
+      "Completion Criteria": ">0",
+      "Duration": "",
+      "CLO": "",
+      "Question Type": "",
+      "No Question": "",
+      "Knowledge and Skill": "",
+      "Grading Guide": "Tracking of lecturer about student's activities on class (teamwork, Q&A, creating Portfolio).",
+      "Note": ""
+    },
+    {
+      "No.": "2",
+      "Category": "Project phase 1",
+      "Type": "on-going",
+      "Part": "1",
+      "Weight": "10.0%",
+      "Completion Criteria": "",
+      "Duration": "",
+      "CLO": "",
+      "Question Type": "",
+      "No Question": "",
+      "Knowledge and Skill": "- Project assignment help students applied knowledge and training total skill to produce a UI design project from begin to end. - Each team has 3-4 students/group - Project assignment mark has to greater or equal 4.0",
+      "Grading Guide": "- It will be conducted on A0 paper size - After evaluation, students capture and digitalize their result, printout and keep it in Portfolio, A4 paper size. - These best designs will be collected and submit to Group Leader as references for these next classes or used to hang in the classroom, exhibition.",
+      "Note": "The product will be evaluated based on five factors included: - Good analysis and design 3 points - Layout and schematic 2 points - Coloring 1 point - Ease of use, convenience 2 points - Creative, innovations, and stylish 2 points"
+    },
+    {
+      "No.": "3",
+      "Category": "Project phase 2",
+      "Type": "on-going",
+      "Part": "2",
+      "Weight": "20.0%",
+      "Completion Criteria": "",
+      "Duration": "",
+      "CLO": "",
+      "Question Type": "",
+      "No Question": "",
+      "Knowledge and Skill": "- Project assignment help students applied knowledge and training total skill to produce a UI design project from begin to end. - Each team has 3-4 students/group - Project assignment mark has to greater or equal 4.0",
+      "Grading Guide": "- It will be conducted on A0 paper size - After evaluation, students capture and digitalize their result, printout and keep it in Portfolio, A4 paper size. - These best designs will be collected and submit to Group Leader as references for these next classes or used to hang in the classroom, exhibition.",
+      "Note": "The product will be evaluated based on five factors included: - Good analysis and design 3 points - Layout and schematic 2 points - Coloring 1 point - Ease of use, convenience 2 points - Creative, innovations, and stylish 2 points"
+    },
+    {
+      "No.": "4",
+      "Category": "Project phase 3",
+      "Type": "on-going",
+      "Part": "3",
+      "Weight": "20.0%",
+      "Completion Criteria": "",
+      "Duration": "",
+      "CLO": "",
+      "Question Type": "",
+      "No Question": "",
+      "Knowledge and Skill": "- Project assignment help students applied knowledge and training total skill to produce a UI design project from begin to end. - Each team has 3-4 students/group - Project assignment mark has to greater or equal 4.0",
+      "Grading Guide": "- It will be conducted on A0 paper size - After evaluation, students capture and digitalize their result, printout and keep it in Portfolio, A4 paper size. - These best designs will be collected and submit to Group Leader as references for these next classes or used to hang in the classroom, exhibition.",
+      "Note": "The product will be evaluated based on five factors included: - Good analysis and design 3 points - Layout and schematic 2 points - Coloring 1 point - Ease of use, convenience 2 points - Creative, innovations, and stylish 2 points"
+    },
+    {
+      "No.": "5",
+      "Category": "Final exam",
+      "Type": "Final exam",
+      "Part": "1",
+      "Weight": "40.0%",
+      "Completion Criteria": "4",
+      "Duration": "60'",
+      "CLO": "",
+      "Question Type": "",
+      "No Question": "",
+      "Knowledge and Skill": "",
+      "Grading Guide": "",
+      "Note": ""
+    }
+  ],
+  "schedule": [
+    {
+      "Session": "1",
+      "Topic": "Introduction about course Chapter 1. Overview of User Interface (UI) computer design - History of the Internet - Introduction about client - server architecture - How webserver works - The need of UI computer design",
+      "Learning-Teaching Type": "Offline",
+      "LO": "",
+      "ITU": "",
+      "Student Materials": "Internet http://www.computerhistory.org/internet_history/ http://www.w3schools.com/tags/ref_httpmethods.asp http://www.w3schools.com/website/web_tcpip.asp",
+      "S-Download": "",
+      "Student's Tasks": "",
+      "URLs": ""
+    },
+    {
+      "Session": "2",
+      "Topic": "Learning environment: - Register, download and setup working tools & environments (Balsamiq, LucidChart, Moqups, Mindmeister) - Setup project teams - Register for project theme Terminology - Color - Resolution - Screen resolution - Axis in computer - Unit in web and mobile design Introduction to the first phase of project assignment",
+      "Learning-Teaching Type": "Offline",
+      "LO": "",
+      "ITU": "",
+      "Student Materials": "https://balsamiq.com/products/mockups/ https://www.lucidchart.com/pages/examples/flowchart_software http://www.edtechroundup.org/reviews/lucidchart-diagrams-done-right https://www.mindmeister.com/mind-map-examples http://www.w3schools.com/html/html_colorvalues.asp http://www.w3schools.com/tags/ref_colorpicker.asp http://www.w3schools.com/browsers/browsers_display.asp http://www.w3schools.com/browsers/browsers_mobile.asp http://www.w3schools.com/css/css_positioning.asp",
+      "S-Download": "",
+      "Student's Tasks": "",
+      "URLs": ""
+    },
+    {
+      "Session": "3",
+      "Topic": "Chapter 2. Web & Mobile Development Life Cycle - Introduction to Software Development Life Cycle - Roles & responsibilities of Your Clients/ Customers; Your Company; PM; User Experience (UX) Designer; Developer; Tester - Preliminary analysis - Ideas and find out the organization's objectives and the nature and scope of the problem under study - How the problem being studied fits in",
+      "Learning-Teaching Type": "Offline",
+      "LO": "",
+      "ITU": "",
+      "Student Materials": "Software Engineering\\ Part 1 - Introduction to Software Engineering\\ 2 - Software processes http://mashable.com/2013/11/25/mindmeister-brainstorming/",
+      "S-Download": "",
+      "Student's Tasks": "",
+      "URLs": ""
+    },
+    {
+      "Session": "4",
+      "Topic": "Chapter 2. Web & Mobile Development Life Cycle - Introduction to Software Development Life Cycle - Roles & responsibilities of Your Clients/ Customers; Your Company; PM; User Experience (UX) Designer; Developer; Tester - Preliminary analysis - Ideas and find out the organization's objectives and the nature and scope of the problem under study - How the problem being studied fits in",
+      "Learning-Teaching Type": "Offline",
+      "LO": "",
+      "ITU": "",
+      "Student Materials": "Software Engineering\\ Part 1 - Introduction to Software Engineering\\ 2.2 Process activities",
+      "S-Download": "",
+      "Student's Tasks": "",
+      "URLs": ""
+    },
+    {
+      "Session": "5",
+      "Topic": "Requirements definition - Collection of Facts - Scrutiny of the existing system - Analyzing the proposed system Review for project theme - Refine for proposed group's idea - Prepare for the first phase of project assignment evaluation",
+      "Learning-Teaching Type": "Offline",
+      "LO": "",
+      "ITU": "",
+      "Student Materials": "Software Engineering\\ Part 1 - Introduction to Software Engineering\\ 4 - Requirements engineering + Functional and non-functional requirements + Requirements specification + Requirements engineering processes + Requirements management",
+      "S-Download": "",
+      "Student's Tasks": "",
+      "URLs": ""
+    },
+    {
+      "Session": "6",
+      "Topic": "Requirements definition - Collection of Facts - Scrutiny of the existing system - Analyzing the proposed system Review for project theme - Refine for proposed group's idea - Prepare for the first phase of project assignment evaluation",
+      "Learning-Teaching Type": "Offline",
+      "LO": "",
+      "ITU": "",
+      "Student Materials": "",
+      "S-Download": "",
+      "Student's Tasks": "",
+      "URLs": ""
+    },
+    {
+      "Session": "7",
+      "Topic": "Evaluation1 for the first phase of project assignment",
+      "Learning-Teaching Type": "Offline",
+      "LO": "",
+      "ITU": "",
+      "Student Materials": "",
+      "S-Download": "",
+      "Student's Tasks": "",
+      "URLs": ""
+    },
+    {
+      "Session": "8",
+      "Topic": "Chapter 3. Web & Mobile UI design - Introduction to UI components: label, textbox, password, textarea, dropdown box, checkbox, button, radio button, datetime picker, file browser - User Interface and User Experience - Why need UX design? - Using Balsamiq, Moqups, Axure in design UI Introduction to the second phase of project assignment",
+      "Learning-Teaching Type": "Offline",
+      "LO": "",
+      "ITU": "",
+      "Student Materials": "http://www.w3schools.com/html/html_form_elements.asp http://www.w3schools.com/html/html_form_input_types.asp Professional Android™ 4 Application Development \\ Chapter 10: Expanding the User Experience Professional Android™ 4 Application Development \\ Chapter 11: Advanced User Experience",
+      "S-Download": "",
+      "Student's Tasks": "",
+      "URLs": ""
+    },
+    {
+      "Session": "9",
+      "Topic": "Analyze common UI screens. - Collect common UI screen designs. - Analyzing, classifying, grouping information - Mapping type of information with corresponding UI components - Introduction about standard database diagram",
+      "Learning-Teaching Type": "Offline",
+      "LO": "",
+      "ITU": "",
+      "Student Materials": "Software Engineering\\ Part 1 - Introduction to Software Engineering\\ 5.3 Structural models",
+      "S-Download": "",
+      "Student's Tasks": "",
+      "URLs": ""
+    },
+    {
+      "Session": "10",
+      "Topic": "Analyze common UI screens. - Collect common UI screen designs. - Analyzing, classifying, grouping information - Mapping type of information with corresponding UI components - Introduction about standard database diagram",
+      "Learning-Teaching Type": "Offline",
+      "LO": "",
+      "ITU": "",
+      "Student Materials": "",
+      "S-Download": "",
+      "Student's Tasks": "",
+      "URLs": ""
+    },
+    {
+      "Session": "11",
+      "Topic": "Using mockup tools to draft-out the idea of design and mapping with collected information",
+      "Learning-Teaching Type": "Offline",
+      "LO": "",
+      "ITU": "",
+      "Student Materials": "https://www.lucidchart.com/pages/how-to-draw-ERD",
+      "S-Download": "",
+      "Student's Tasks": "",
+      "URLs": ""
+    },
+    {
+      "Session": "12",
+      "Topic": "Using mockup tools to draft-out the idea of design and mapping with collected information",
+      "Learning-Teaching Type": "Offline",
+      "LO": "",
+      "ITU": "",
+      "Student Materials": "Software Engineering\\ Part 1 - Introduction to Software Engineering\\ 5.4 Behavioral models",
+      "S-Download": "",
+      "Student's Tasks": "",
+      "URLs": ""
+    },
+    {
+      "Session": "13",
+      "Topic": "- Screen layout1: form, label, textbox, password - Screen layout2: textarea, dropdown box, checkbox",
+      "Learning-Teaching Type": "Offline",
+      "LO": "",
+      "ITU": "",
+      "Student Materials": "http://webdemo.balsamiq.com/ https://www.lucidchart.com/pages/examples/iphone_mockup_tool Professional Android™ 4 Application Development\\ Chapter 4: Building User Interfaces",
+      "S-Download": "",
+      "Student's Tasks": "",
+      "URLs": ""
+    },
+    {
+      "Session": "14",
+      "Topic": "- Screen layout3: button, radio button - Screen layout4: datetime picker, file browser",
+      "Learning-Teaching Type": "Offline",
+      "LO": "",
+      "ITU": "",
+      "Student Materials": "http://webdemo.balsamiq.com/ https://www.lucidchart.com/pages/examples/iphone_mockup_tool Professional Android™ 4 Application Development\\ Chapter 4: Building User Interfaces",
+      "S-Download": "",
+      "Student's Tasks": "",
+      "URLs": ""
+    },
+    {
+      "Session": "15",
+      "Topic": "- Business rule & Flowchart - Draw flowchart using online drawing tools",
+      "Learning-Teaching Type": "Offline",
+      "LO": "",
+      "ITU": "",
+      "Student Materials": "https://www.lucidchart.com/pages/video-resources/lucidchart-wireframing-tool https://www.lucidchart.com/pages/examples/wireframe_software",
+      "S-Download": "",
+      "Student's Tasks": "",
+      "URLs": ""
+    },
+    {
+      "Session": "16",
+      "Topic": "- Screen flow - Draw screenflow using LucidChart",
+      "Learning-Teaching Type": "Offline",
+      "LO": "",
+      "ITU": "",
+      "Student Materials": "https://www.lucidchart.com/pages/video-resources/lucidchart-wireframing-tool https://www.lucidchart.com/pages/examples/wireframe_software",
+      "S-Download": "",
+      "Student's Tasks": "",
+      "URLs": ""
+    },
+    {
+      "Session": "17",
+      "Topic": "Brainstorming, mindmap, and build-up sitemap Using tools and collaborative environment to design UI for web & mobile project assignments",
+      "Learning-Teaching Type": "Offline",
+      "LO": "",
+      "ITU": "",
+      "Student Materials": "https://www.mindmeister.com/help/map/brainstorming",
+      "S-Download": "",
+      "Student's Tasks": "",
+      "URLs": ""
+    },
+    {
+      "Session": "18",
+      "Topic": "Brainstorming, mindmap, and build-up sitemap Using tools and collaborative environment to design UI for web & mobile project assignments",
+      "Learning-Teaching Type": "Offline",
+      "LO": "",
+      "ITU": "",
+      "Student Materials": "https://moqups.com/home/",
+      "S-Download": "",
+      "Student's Tasks": "",
+      "URLs": ""
+    },
+    {
+      "Session": "19",
+      "Topic": "Review for project themes - Refine for proposed project schedule - Prepare for the second phase of project assignment evaluation",
+      "Learning-Teaching Type": "Offline",
+      "LO": "",
+      "ITU": "",
+      "Student Materials": "",
+      "S-Download": "",
+      "Student's Tasks": "",
+      "URLs": ""
+    },
+    {
+      "Session": "20",
+      "Topic": "Evaluation2 for the second phase of project assignment",
+      "Learning-Teaching Type": "Offline",
+      "LO": "",
+      "ITU": "",
+      "Student Materials": "",
+      "S-Download": "",
+      "Student's Tasks": "",
+      "URLs": ""
+    },
+    {
+      "Session": "21",
+      "Topic": "Chapter 4. HTML, CSS, Javascript, and XML - Introduction to the final phase of project assignment - HyperText Markup Language (HTML)",
+      "Learning-Teaching Type": "Offline",
+      "LO": "",
+      "ITU": "",
+      "Student Materials": "http://www.w3schools.com/html/default.asp",
+      "S-Download": "",
+      "Student's Tasks": "",
+      "URLs": ""
+    },
+    {
+      "Session": "22",
+      "Topic": "- Create form, label, textbox, password - Create textarea, dropdown box, checkbox",
+      "Learning-Teaching Type": "Offline",
+      "LO": "",
+      "ITU": "",
+      "Student Materials": "http://www.w3schools.com/css/css_rwd_intro.asp http://www.w3schools.com/html/html_forms.asp http://www.w3schools.com/html/html_form_input_types.asp",
+      "S-Download": "",
+      "Student's Tasks": "",
+      "URLs": ""
+    },
+    {
+      "Session": "23",
+      "Topic": "- Create button, radio button - Create datetime picker, file browser",
+      "Learning-Teaching Type": "Offline",
+      "LO": "",
+      "ITU": "",
+      "Student Materials": "",
+      "S-Download": "",
+      "Student's Tasks": "",
+      "URLs": ""
+    },
+    {
+      "Session": "24",
+      "Topic": "Cascading Style Sheets (CSS) - Introduction to CSS - Syntax and samples",
+      "Learning-Teaching Type": "Offline",
+      "LO": "",
+      "ITU": "",
+      "Student Materials": "http://www.w3schools.com/css/default.asp http://www.w3schools.com/css/css_intro.asp http://www.w3schools.com/css/css_syntax.asp",
+      "S-Download": "",
+      "Student's Tasks": "",
+      "URLs": ""
+    },
+    {
+      "Session": "25",
+      "Topic": "Javascript - Introduction to Javascript - Syntax and samples",
+      "Learning-Teaching Type": "Offline",
+      "LO": "",
+      "ITU": "",
+      "Student Materials": "http://www.w3schools.com/js/default.asp http://www.w3schools.com/js/js_intro.asp http://www.w3schools.com/js/js_examples.asp",
+      "S-Download": "",
+      "Student's Tasks": "",
+      "URLs": ""
+    },
+    {
+      "Session": "26",
+      "Topic": "Extensible Markup Language (XML) and Mobile UI - Introduction to XML - The usage of XML in Mobile UI - Demo create an Android UI Review for project assignment - Prepare for the final phase of project assignment evaluation",
+      "Learning-Teaching Type": "Offline",
+      "LO": "",
+      "ITU": "",
+      "Student Materials": "http://www.w3schools.com/xml/default.asp http://www.w3schools.com/xml/xml_whatis.asp http://www.w3schools.com/xml/xml_syntax.asp Professional Android™ 4 Application Development\\ Chapter 4: Building User Interfaces",
+      "S-Download": "",
+      "Student's Tasks": "",
+      "URLs": ""
+    },
+    {
+      "Session": "27",
+      "Topic": "Extensible Markup Language (XML) and Mobile UI - Introduction to XML - The usage of XML in Mobile UI - Demo create an Android UI Review for project assignment - Prepare for the final phase of project assignment evaluation",
+      "Learning-Teaching Type": "Offline",
+      "LO": "",
+      "ITU": "",
+      "Student Materials": "",
+      "S-Download": "",
+      "Student's Tasks": "",
+      "URLs": ""
+    },
+    {
+      "Session": "28",
+      "Topic": "Evaluation3 for the final phase of project assignment",
+      "Learning-Teaching Type": "Offline",
+      "LO": "",
+      "ITU": "",
+      "Student Materials": "",
+      "S-Download": "",
+      "Student's Tasks": "",
+      "URLs": ""
+    },
+    {
+      "Session": "29",
+      "Topic": "Evaluation3 for the final phase of project assignment",
+      "Learning-Teaching Type": "Offline",
+      "LO": "",
+      "ITU": "",
+      "Student Materials": "",
+      "S-Download": "",
+      "Student's Tasks": "",
+      "URLs": ""
+    },
+    {
+      "Session": "30",
+      "Topic": "Evaluation3 for the final phase of project assignment",
+      "Learning-Teaching Type": "Offline",
+      "LO": "",
+      "ITU": "",
+      "Student Materials": "",
+      "S-Download": "",
+      "Student's Tasks": "",
+      "URLs": ""
+    }
+  ],
+  "constructive_questions": [],
+  "materials": [
+    {
+      "No.": "1",
+      "Material Description": "Software Engineering",
+      "Author": "Ian Sommerville",
+      "Publisher": "Addison Wesley",
+      "Published Date": "2011",
+      "Edition": "9th",
+      "ISBN": "",
+      "Is Main Material": "True",
+      "Is Hard Copy": "True",
+      "Is Online": "False",
+      "Note": ""
+    },
+    {
+      "No.": "2",
+      "Material Description": "http://www.w3schools.com/html/default.asp",
+      "Author": "",
+      "Publisher": "",
+      "Published Date": "",
+      "Edition": "",
+      "ISBN": "",
+      "Is Main Material": "False",
+      "Is Hard Copy": "False",
+      "Is Online": "True",
+      "Note": ""
+    },
+    {
+      "No.": "3",
+      "Material Description": "Professional Android 4 Application Development",
+      "Author": "Reto Meier",
+      "Publisher": "Wrox (Wiley)",
+      "Published Date": "2012",
+      "Edition": "3rd",
+      "ISBN": "9781118102275",
+      "Is Main Material": "False",
+      "Is Hard Copy": "True",
+      "Is Online": "False",
+      "Note": ""
+    }
+  ],
+  "source_path": "data/raw/syllabi/1112.html",
+  "id": "syllabus:1112"
+}

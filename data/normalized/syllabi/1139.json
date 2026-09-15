@@ -1,0 +1,553 @@
+{
+  "syllabus_id": 1139,
+  "subject_code": "ADP201",
+  "subject_name": "Audio Production",
+  "syllabus_name": "Audio Production",
+  "credits": 3,
+  "degree_level": "Bachelor",
+  "time_allocation": "Class hours: 30 slots - 1slot =90' Lectures: 15 slots Tutorials: 15 slots Home study: 60 slots",
+  "prerequisite": "",
+  "general_information": {
+    "Syllabus ID": "1139",
+    "Syllabus Name": "Audio Production",
+    "Course Name English": "",
+    "Subject Code": "ADP201",
+    "Learning-Teaching Method": "",
+    "NoCredit": "3",
+    "Degree Level": "Bachelor",
+    "Time Allocation": "Class hours: 30 slots - 1slot =90' Lectures: 15 slots Tutorials: 15 slots Home study: 60 slots",
+    "Pre-Requisite": "",
+    "Description": "This course is designed as an introduction to the basic techniques and principles necessary for audio production in today's media. The course develops principles for creative music making and production techniques using studio music technologies and digital audio workstations. As a Multimedia course, the student will understand the aesthetics of sound, musically, voice, and as a result, develop critical listening and analysis skills for music production through the completion of regular listening exercises. Class critiques will be part of the projects produced.",
+    "StudentTasks": "<- Attend more than 80% of contact hours in order to be accepted to the final examination < - Actively participate in class activities > < - Fulfill tasks given by instructor after class > < - Use their own laptop in class only for learning purpose > < - Read the textbook in advance > < - Access the course website (www.cms.fpt.edu.vn) for up-to-date information and material of the course, for online supports from teachers and other students and for practicing and assessment. >",
+    "Tools": "- 5 Desktop Computers - 2 Wireless Microphone - 2 Cameras",
+    "DecisionNo MM/dd/yyyy": "488/QĐ-ĐHFPT dated 04/12/2019",
+    "IsApproved": "True",
+    "Note": "",
+    "Is Scored": "False",
+    "IsActive": "True",
+    "ApprovedDate": "4/12/2019"
+  },
+  "active": true,
+  "approved": true,
+  "decision": "488/QĐ-ĐHFPT dated 04/12/2019",
+  "description": "This course is designed as an introduction to the basic techniques and principles necessary for audio production in today's media. The course develops principles for creative music making and production techniques using studio music technologies and digital audio workstations. As a Multimedia course, the student will understand the aesthetics of sound, musically, voice, and as a result, develop critical listening and analysis skills for music production through the completion of regular listening exercises. Class critiques will be part of the projects produced.",
+  "learning_outcomes": [
+    {
+      "No.": "1",
+      "CLO Name": "CLO1",
+      "CLO Details": "To obtain an understanding of audio production and be able to use the basic vocabulary related to the term \"audio\""
+    },
+    {
+      "No.": "2",
+      "CLO Name": "CLO2",
+      "CLO Details": "Explain and interpret technical principles underpinning audio production workflows and equipment, relating them to use of digital audio production tools."
+    },
+    {
+      "No.": "3",
+      "CLO Name": "CLO3",
+      "CLO Details": "Relate aesthetic, design and psychoacoustics principles to the production of audio"
+    },
+    {
+      "No.": "4",
+      "CLO Name": "CLO4",
+      "CLO Details": "Relate management, organisational and business theories to the process of producing audio and wider career development"
+    },
+    {
+      "No.": "5",
+      "CLO Name": "CLO5",
+      "CLO Details": "Utilise testing methodologies to objectively measure, compare and calibrate audio production equipment."
+    },
+    {
+      "No.": "6",
+      "CLO Name": "CLO6",
+      "CLO Details": "Effectively and safely use of a variety of hardware and software tools with a basic working understanding of audio production equipment."
+    },
+    {
+      "No.": "7",
+      "CLO Name": "CLO7",
+      "CLO Details": "Demonstrate proficiency of the skills basic to audio production, including recording, mixing and interconnecting various pieces of equipment."
+    },
+    {
+      "No.": "8",
+      "CLO Name": "CLO8",
+      "CLO Details": "Use industry standard approaches to planning and organising productions such as: group/collaborative work; implementing and working within production workflows or pipelines and taking iterative or progressive approaches to production development"
+    },
+    {
+      "No.": "9",
+      "CLO Name": "CLO9",
+      "CLO Details": "Collaborate in production teams and critique your peers work in a constructive manner"
+    },
+    {
+      "No.": "10",
+      "CLO Name": "CLO10",
+      "CLO Details": "Be able to critically evaluate and reflect on own work and the methods used, then independently develop knowledge and skills in response."
+    },
+    {
+      "No.": "11",
+      "CLO Name": "CLO11",
+      "CLO Details": "Gain an understanding of how the skills of audio production relate to other forms of media productions."
+    }
+  ],
+  "assessments": [
+    {
+      "No.": "1",
+      "Category": "Group Project",
+      "Type": "on-going",
+      "Part": "1",
+      "Weight": "35.0%",
+      "Completion Criteria": ">0",
+      "Duration": "30'",
+      "CLO": "LO1, LO2, LO3, LO4, LO5, LO6, LO7, LO8, LO9, LO10, LO11",
+      "Question Type": "Presentation",
+      "No Question": "1",
+      "Knowledge and Skill": "",
+      "Grading Guide": "",
+      "Note": ""
+    },
+    {
+      "No.": "2",
+      "Category": "Individual Project",
+      "Type": "on-going",
+      "Part": "1",
+      "Weight": "45.0%",
+      "Completion Criteria": ">0",
+      "Duration": "15'",
+      "CLO": "LO1, LO2, LO3, LO4, LO5, LO6, LO7, LO8, LO9, LO10, LO11",
+      "Question Type": "Presentation",
+      "No Question": "1",
+      "Knowledge and Skill": "",
+      "Grading Guide": "",
+      "Note": ""
+    },
+    {
+      "No.": "3",
+      "Category": "Progress Test",
+      "Type": "on-going",
+      "Part": "2",
+      "Weight": "20.0%",
+      "Completion Criteria": ">0",
+      "Duration": "15'",
+      "CLO": "LO1, LO2, LO3",
+      "Question Type": "Multiple choice",
+      "No Question": "30",
+      "Knowledge and Skill": "",
+      "Grading Guide": "",
+      "Note": ""
+    }
+  ],
+  "schedule": [
+    {
+      "Session": "1",
+      "Topic": "- Introduction to the Course and Overview of Course and Requirements PART I: PRINCIPLES Chapter 1: Sound and hearing - The Importance of Sound in Production",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO1, LO2, LO4",
+      "ITU": "I, T",
+      "Student Materials": "",
+      "S-Download": "ADP201",
+      "Student's Tasks": "- Participate in activities: ask and answer the questions",
+      "URLs": ""
+    },
+    {
+      "Session": "2",
+      "Topic": "Chapter 1: Sound and hearing - The Sound Wave - Frequency and Pitch - Amplitude and Loudness - Frequency and Loudness - Velocity - Wavelength - Acoustical Phase - Timbre - Sound Envelope - The Healthy Ear - Hearing Loss",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO1, LO2",
+      "ITU": "I, T",
+      "Student Materials": "",
+      "S-Download": "ADP201",
+      "Student's Tasks": "- Participate in activities: ask and answer the questions",
+      "URLs": ""
+    },
+    {
+      "Session": "3",
+      "Topic": "Chapter 2: Acoustics and Psychoacoustics - Direct, Early, and Reverberant Sound - Matching Acoustics to Program Material - Studio Design - Control Room Design - Ergonomics",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO1, LO2, LO3",
+      "ITU": "I, T",
+      "Student Materials": "",
+      "S-Download": "",
+      "Student's Tasks": "- Participate in activities: ask and answer the questions",
+      "URLs": ""
+    },
+    {
+      "Session": "4",
+      "Topic": "PART II: TECHNOLOGY Chapter 3: Loudspeakers and Monitoring - Types of Loudspeakers - Loudspeaker Powering Systems - Selecting a Monitor Loudspeaker - Monitor Placement - Calibrating a Loudspeaker System - Evaluating the Monitor Loudspeaker - Headphones",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO1, LO2",
+      "ITU": "I, T",
+      "Student Materials": "",
+      "S-Download": "",
+      "Student's Tasks": "- Participate in activities: ask and answer the questions - Remind students of the upcoming test - Progress Test 1",
+      "URLs": ""
+    },
+    {
+      "Session": "5",
+      "Topic": "Chapter 4: Microphones - Operating Principles - General Transducer Performance Characteristics - Directional Characteristics - Sound Response - Microphone Modeler - Special-Purpose Microphones - Wireless Microphone System - Microphone Accessories - Microphone Care",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO1, LO2",
+      "ITU": "I, T",
+      "Student Materials": "",
+      "S-Download": "",
+      "Student's Tasks": "- Participate in activities: ask and answer the questions - Remind students of the upcoming test - Progress Test 1",
+      "URLs": ""
+    },
+    {
+      "Session": "6",
+      "Topic": "Progress Test 1 Chapter 5: Consoles and Control Surfaces - Analog and Digital Consoles - On-Air Broadcast Consoles - Production Consoles - Channel Strips - Patching - Console Automation - Digital Consoles - Control Surfaces",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO1, LO2",
+      "ITU": "I, T",
+      "Student Materials": "",
+      "S-Download": "",
+      "Student's Tasks": "- Participate in activities: ask and answer the questions",
+      "URLs": ""
+    },
+    {
+      "Session": "7",
+      "Topic": "Chapter 6: Recording - Skip Navigation Links. - Expand - Digital Audio - Technologies and Formats - Tapeless Recording Systems - Removable-Media Recording Systems - Digital Audio Workstations - Digital Audio Networking - Digital Audio on Digital Videotape - Audio on Film",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO2, LO3",
+      "ITU": "I, T",
+      "Student Materials": "",
+      "S-Download": "",
+      "Student's Tasks": "- Participate in activities: ask and answer the questions - Remind students of the upcoming test - Progress Test 2",
+      "URLs": ""
+    },
+    {
+      "Session": "8",
+      "Topic": "Chapter 7: Synchronization and Transfers - Time Codes - Synchronizing Digital Equipment - Frame Rates - Synchronizing Sound and Picture in Film - Transfers",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO2, LO3",
+      "ITU": "I, T",
+      "Student Materials": "",
+      "S-Download": "",
+      "Student's Tasks": "- Participate in activities: ask and answer the questions",
+      "URLs": ""
+    },
+    {
+      "Session": "9",
+      "Topic": "Chapter 8: Signal Processors - Plug-Ins - Stand-Alone Signal Processors Versus Plug-Ins - Spectrum Processors - Time Processors - Amplitude Processors - Noise Processors - Multieffects Signal Processors - Other Types of Plug-Ins - Format Compatibility of Plug-Ins",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO2, LO3",
+      "ITU": "I, T",
+      "Student Materials": "",
+      "S-Download": "",
+      "Student's Tasks": "- Participate in activities: ask and answer the questions - Remind students of the upcoming test - Progress Test 2",
+      "URLs": ""
+    },
+    {
+      "Session": "10",
+      "Topic": "Progress Test 2 PART 3: PRODUCTION Chapter 9: Sound and the Speaking Voice - Frequency Range - Sound Level - Distribution of Spectral Content - Influences of Nonverbal Speech on Meaning - Basic Considerations in Miking Speech",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO5, LO6",
+      "ITU": "I, T, U",
+      "Student Materials": "",
+      "S-Download": "",
+      "Student's Tasks": "- Participate in activities: ask, answer the questions and work in groups",
+      "URLs": ""
+    },
+    {
+      "Session": "11",
+      "Topic": "Chapter 10: Voice-Overs and Narration - Voice Acting - Recording Voice-Overs - Narration",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO5, LO6",
+      "ITU": "I, T, U",
+      "Student Materials": "",
+      "S-Download": "",
+      "Student's Tasks": "- Participate in activities: ask, answer the questions and work in groups",
+      "URLs": ""
+    },
+    {
+      "Session": "12",
+      "Topic": "Chapter 11: Dialogue - Recording Dialogue in Multi- and Single-Camera Production - Recording Dialogue in the Field - How Directors Can Help the Audio Crew - Production Recording and the Sound Editor - Automated Dialogue Replacement",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO5, LO6",
+      "ITU": "I, T, U",
+      "Student Materials": "",
+      "S-Download": "",
+      "Student's Tasks": "- Participate in activities: ask and answer the questions - Group Project Preparation: Form groups and work in groups",
+      "URLs": ""
+    },
+    {
+      "Session": "13",
+      "Topic": "Chapter 12: Studio Production: Radio and Television - Miking the Single Speaker in Radio - Radio Interview and Panel Setups - Radio Dramatizations - Miking Speech for Multicamera Television - News and Interview Programs - Panel and Talk Programs",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO5, LO6, LO9, LO11",
+      "ITU": "I, T, U",
+      "Student Materials": "",
+      "S-Download": "",
+      "Student's Tasks": "- Participate in activities: ask, answer the questions and work in groups",
+      "URLs": ""
+    },
+    {
+      "Session": "14",
+      "Topic": "Chapter 13: Field Production: News and Sports - Electronic News Gathering - Electronic Field Production - Multicamera EFP - Production of Sports Programs",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO5, LO6, LO9, LO11",
+      "ITU": "I, T, U",
+      "Student Materials": "",
+      "S-Download": "",
+      "Student's Tasks": "- Participate in activities: ask, answer the questions and work in groups",
+      "URLs": ""
+    },
+    {
+      "Session": "15",
+      "Topic": "Chapter 14: Sound Design - Sound Design and the Sound Designer - “Ears” - Elements of Sound Structure and Their Effects on Perception - The Visual Ear - Functions of Sound in Relation to Picture - Strategies in Designing Sound - Designing Sound for Mobile Media",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO1, LO2, LO3",
+      "ITU": "I, T, U",
+      "Student Materials": "",
+      "S-Download": "",
+      "Student's Tasks": "- Participate in activities: ask, answer the questions and work in groups - Group Project Preparation: Group Discussion",
+      "URLs": ""
+    },
+    {
+      "Session": "16",
+      "Topic": "Chapter 15: Sound Effects - Contextual Sound - Narrative Sound - Functions of Sound Effects - Producing Sound Effects - Live Sound Effects - Electronically Generated Sound Effects - Organizing a Sound-Effect Library - Spotting",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO1, LO2, LO3",
+      "ITU": "I, T, U",
+      "Student Materials": "",
+      "S-Download": "",
+      "Student's Tasks": "- Participate in activities: ask, answer the questions and work in groups",
+      "URLs": ""
+    },
+    {
+      "Session": "17",
+      "Topic": "Chapter 16: Music Underscoring - Uses of Music in a Production - Music Characteristics - Functions of Music Underscoring - Music in Spot Announcements - Creative Considerations in Underscoring - Approaches to Underscoring - Prerecorded Music Libraries - Customized Music Programs - Customized Musical Instrument Programs - Copyright and Licenses - Using Music from Commercial Recordings - Using Music from Sample CDs and the Internet - Organizing a Music Library",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO1, LO2, LO3",
+      "ITU": "I, T, U",
+      "Student Materials": "",
+      "S-Download": "",
+      "Student's Tasks": "- Learn and practice",
+      "URLs": ""
+    },
+    {
+      "Session": "18",
+      "Topic": "Chapter 17: Audio for Interactive Media: Game Sound - Interactive Media - Designing Audio for Interactivity - System Resources - The Production Process - Example of a Video Game Sequence - Debugging - User Playback",
+      "Learning-Teaching Type": "Offline",
+      "LO": "",
+      "ITU": "I, T, U",
+      "Student Materials": "",
+      "S-Download": "",
+      "Student's Tasks": "- Learn and practice",
+      "URLs": ""
+    },
+    {
+      "Session": "19",
+      "Topic": "Chapter 18: Internet Production - Audio Fidelity - Online Collaborative Recording - Podcasting - Audio Production for Mobile Media",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO2, LO3",
+      "ITU": "I, T, U",
+      "Student Materials": "",
+      "S-Download": "",
+      "Student's Tasks": "- Learn and practice",
+      "URLs": ""
+    },
+    {
+      "Session": "20",
+      "Topic": "Chapter 19: Music Recording - Close Miking - Distant Miking - Accent Miking - Ambience Miking - Six Principles of Miking - Drums - Acoustic String Instruments - Woodwinds - Brass - Electric Instruments - Virtual Instruments - Vocals - Miking Studio Ensembles Miking Music for Digital Recording Recording for Surround Sound",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO2, LO3",
+      "ITU": "I, T, U",
+      "Student Materials": "",
+      "S-Download": "",
+      "Student's Tasks": "- Learn and practice - Group Project Preparation: Group Discussion",
+      "URLs": ""
+    },
+    {
+      "Session": "21",
+      "Topic": "Group presentation",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO6, LO7, LO8, LO9, LO10, LO11",
+      "ITU": "U",
+      "Student Materials": "",
+      "S-Download": "",
+      "Student's Tasks": "- Do the presentation",
+      "URLs": ""
+    },
+    {
+      "Session": "22",
+      "Topic": "Group presentation",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO6, LO7, LO8, LO9, LO10, LO11",
+      "ITU": "U",
+      "Student Materials": "",
+      "S-Download": "",
+      "Student's Tasks": "- Do the presentation",
+      "URLs": ""
+    },
+    {
+      "Session": "23",
+      "Topic": "Chapter 20: Editing - Digital Editing - Basic Functions in Digital Editing - General Editing Guidelines - Organizing the Edit Tracks - File Naming - Drive Management - Differences Between Editing Sound and Editing Picture - Editing Speech - Editing Dialogue - Editing Sound Effects - Editing Music - Transitions - Listening Fatigue",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO4, LO5, LO6, LO7",
+      "ITU": "I, T, U",
+      "Student Materials": "",
+      "S-Download": "",
+      "Student's Tasks": "-Learn and practice - Introduction to the Individual Project",
+      "URLs": ""
+    },
+    {
+      "Session": "24",
+      "Topic": "Chapter 21: Mixing: An Overview - Maintaining Aesthetic Perspective - Mixing for Various Media - Mixing Versus Layering - Metering - Mixing and Editing",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO4, LO5, LO6, LO7",
+      "ITU": "I, T, U",
+      "Student Materials": "",
+      "S-Download": "",
+      "Student's Tasks": "- Learn and practice",
+      "URLs": ""
+    },
+    {
+      "Session": "25",
+      "Topic": "Chapter 22: Music Mixdown - Preparing for the Mixdown - Signal Processing - Spatial Imaging of Music in Stereo and Surround Sound - Basic Equipment for Mixing Surround Sound - Mixing for Surround Sound - Aesthetic Considerations in Surround-Sound Mixing",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO2, LO3",
+      "ITU": "I, T, U",
+      "Student Materials": "",
+      "S-Download": "",
+      "Student's Tasks": "- Learn and practice",
+      "URLs": ""
+    },
+    {
+      "Session": "26",
+      "Topic": "Chapter 23: Premixing and Rerecording for Television and Film - Premixing for Television and Film - The Rerecording Mix - Spatial Imaging of Stereo and Surround Sound in Television and Film - Mixing for Mobile-Media Receivers - Cue Sheets - Compatibility: Stereo-to-Mono and Surround-to-Stereo",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO2, LO3",
+      "ITU": "I, T, U",
+      "Student Materials": "",
+      "S-Download": "",
+      "Student's Tasks": "- Learn and practice",
+      "URLs": ""
+    },
+    {
+      "Session": "27",
+      "Topic": "Chapter 24: Evaluating the Finished Product - Intelligibility - Tonal Balance - Spatial Balance and Perspective - Definition - Dynamic Range - Clarity - Airiness - Acoustical Appropriateness - Source Quality - Production Values",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO1, LO2, LO3, LO4, LO5, LO6, LO7, LO8, LO11",
+      "ITU": "I, T, U",
+      "Student Materials": "",
+      "S-Download": "",
+      "Student's Tasks": "- Learn and practice - A quick reminder of Individual Project",
+      "URLs": ""
+    },
+    {
+      "Session": "28",
+      "Topic": "Individual presentation",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO1, LO2, LO3, LO4, LO5, LO6, LO7, LO8, LO9, LO10, LO11",
+      "ITU": "U",
+      "Student Materials": "",
+      "S-Download": "",
+      "Student's Tasks": "- Do the presentation",
+      "URLs": ""
+    },
+    {
+      "Session": "29",
+      "Topic": "Individual presentation",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO1, LO2, LO3, LO4, LO5, LO6, LO7, LO8, LO9, LO10, LO11",
+      "ITU": "U",
+      "Student Materials": "",
+      "S-Download": "",
+      "Student's Tasks": "- Do the presentation",
+      "URLs": ""
+    },
+    {
+      "Session": "30",
+      "Topic": "Individual presentation",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO1, LO2, LO3, LO4, LO5, LO6, LO7, LO8, LO9, LO10, LO11",
+      "ITU": "U",
+      "Student Materials": "",
+      "S-Download": "",
+      "Student's Tasks": "- Do the presentation",
+      "URLs": ""
+    }
+  ],
+  "constructive_questions": [],
+  "materials": [
+    {
+      "No.": "1",
+      "Material Description": "Recording and Producing Audio for Media",
+      "Author": "Stanley R. Alten",
+      "Publisher": "Cengage Learning",
+      "Published Date": "2012",
+      "Edition": "",
+      "ISBN": "9781435460652",
+      "Is Main Material": "True",
+      "Is Hard Copy": "True",
+      "Is Online": "False",
+      "Note": "https://library.books24x7.com/toc.aspx?bookid=42741"
+    },
+    {
+      "No.": "2",
+      "Material Description": "https://www.youtube.com/watch?v=s8uIFlfo4rc&list=PLF323DDC21E6DC960",
+      "Author": "",
+      "Publisher": "",
+      "Published Date": "",
+      "Edition": "",
+      "ISBN": "",
+      "Is Main Material": "False",
+      "Is Hard Copy": "False",
+      "Is Online": "False",
+      "Note": ""
+    },
+    {
+      "No.": "3",
+      "Material Description": "https://www.lynda.com/learning-paths/Audio-Music/produce-audio-for-film-and-video-projects",
+      "Author": "",
+      "Publisher": "",
+      "Published Date": "",
+      "Edition": "",
+      "ISBN": "",
+      "Is Main Material": "False",
+      "Is Hard Copy": "False",
+      "Is Online": "False",
+      "Note": ""
+    },
+    {
+      "No.": "4",
+      "Material Description": "https://www.lynda.com/learning-paths/Video/become-a-video-production-crewmember",
+      "Author": "",
+      "Publisher": "",
+      "Published Date": "",
+      "Edition": "",
+      "ISBN": "",
+      "Is Main Material": "False",
+      "Is Hard Copy": "False",
+      "Is Online": "False",
+      "Note": ""
+    },
+    {
+      "No.": "5",
+      "Material Description": "https://www.udemy.com/adobe-audition-cc-audio-production-course-basics-to-expert/",
+      "Author": "",
+      "Publisher": "",
+      "Published Date": "",
+      "Edition": "",
+      "ISBN": "",
+      "Is Main Material": "False",
+      "Is Hard Copy": "False",
+      "Is Online": "False",
+      "Note": ""
+    },
+    {
+      "No.": "6",
+      "Material Description": "https://www.amazon.com/Book-Audacity-Record-Master-Editor/dp/1593272707/ref=zg_bs_10806589011_5?_encoding=UTF8&psc=1&refRID=5A39M96EC337Y1NNWG7X",
+      "Author": "",
+      "Publisher": "",
+      "Published Date": "",
+      "Edition": "",
+      "ISBN": "",
+      "Is Main Material": "False",
+      "Is Hard Copy": "False",
+      "Is Online": "False",
+      "Note": ""
+    }
+  ],
+  "source_path": "data/raw/syllabi/1139.html",
+  "id": "syllabus:1139"
+}

@@ -1,0 +1,1030 @@
+{
+  "syllabus_id": 13620,
+  "subject_code": "EVN201",
+  "subject_name": "Event Planning_Tổ chức sự kiện",
+  "syllabus_name": "Event Planning_Tổ chức sự kiện",
+  "credits": 3,
+  "degree_level": "Bachelor",
+  "time_allocation": "Study hour (150h) = 45h (60 sessions) contact hours + 1h final exam + 104h self-study",
+  "prerequisite": "None",
+  "general_information": {
+    "Syllabus ID": "13620",
+    "Syllabus Name": "Event Planning_Tổ chức sự kiện",
+    "Course Name English": "Event Planning",
+    "Subject Code": "EVN201",
+    "Learning-Teaching Method": "Lecture,Presentation",
+    "NoCredit": "3",
+    "Degree Level": "Bachelor",
+    "Time Allocation": "Study hour (150h) = 45h (60 sessions) contact hours + 1h final exam + 104h self-study",
+    "Pre-Requisite": "None",
+    "Description": "Overview of the event industry including conventions, expositions, and major national and international events and their operational requirements.",
+    "StudentTasks": "- Class attendance is strongly encouraged. Attend at least 80% of class hours in order to be accepted to the final examination - Actively participate in class activities - Fulfill tasks given by instructor after class - Use their own laptop in class only for learning purpose - Read the textbook in advance - Access the course website (http://flm.fpt.edu.vn) for up-to-date information and material of the course, for online supports from teachers and other students and for practicing and assessment.",
+    "Tools": "- Internet",
+    "Scoring Scale": "10",
+    "DecisionNo MM/dd/yyyy": "1318/QĐ-ĐHFPT dated 11/27/2025",
+    "IsApproved": "True",
+    "Note": "",
+    "Is Scored": "True",
+    "MinAvgMarkToPass": "5",
+    "IsActive": "True",
+    "ApprovedDate": "11/27/2025"
+  },
+  "active": true,
+  "approved": true,
+  "decision": "1318/QĐ-ĐHFPT dated 11/27/2025",
+  "description": "Overview of the event industry including conventions, expositions, and major national and international events and their operational requirements.",
+  "learning_outcomes": [
+    {
+      "No.": "1",
+      "CLO Name": "CLO1",
+      "CLO Details": "Identify the key characteristics of events, events industry bodies, in order to understand the business of events management as a service activity"
+    },
+    {
+      "No.": "2",
+      "CLO Name": "CLO2",
+      "CLO Details": "Understand the scope and scale of the events business and the determinants of demand for events"
+    },
+    {
+      "No.": "3",
+      "CLO Name": "CLO3",
+      "CLO Details": "Identify the social, economic, political impact and developmental implications of running events"
+    },
+    {
+      "No.": "4",
+      "CLO Name": "CLO4",
+      "CLO Details": "Understand the planning process for events, including the budgetary organization of events, marketing, catering and technical provisions."
+    },
+    {
+      "No.": "5",
+      "CLO Name": "CLO5",
+      "CLO Details": "Identify issues of risk management in terms of event planning, operations and the issues involved in closing down an event"
+    },
+    {
+      "No.": "6",
+      "CLO Name": "CLO6",
+      "CLO Details": "Intergrate a theoratical framework in to an event project"
+    }
+  ],
+  "assessments": [
+    {
+      "No.": "1",
+      "Category": "Class participation and preparation",
+      "Type": "on-going",
+      "Part": "1",
+      "Weight": "10.0%",
+      "Completion Criteria": ">0",
+      "Duration": "",
+      "CLO": "",
+      "Question Type": "",
+      "No Question": "NA",
+      "Knowledge and Skill": "",
+      "Grading Guide": "",
+      "Note": "Option 1: Participation grade will be given based on students' preparation, and quantity as well as quality of participation in classroom; quality of participation is demonstrated through asking relevant questions, making statements that add to and facilitate class discussion, and builds upon others’ comments. Class preparation and pre-reading before lecture will be assessed upon individuals' understanding and ability to answer questions in the class. Individuals will be called up randomly to be assessed. Option 2 (For Constructivism Approach only): Follow lecturer's proposal"
+    },
+    {
+      "No.": "2",
+      "Category": "Group Assignment",
+      "Type": "on-going",
+      "Part": "1",
+      "Weight": "30.0%",
+      "Completion Criteria": ">0",
+      "Duration": "",
+      "CLO": "CLO1, CLO2, CLO3, CLO4, CLO5, CLO6",
+      "Question Type": "Option 1: Four or five students per group. Groups and groups ideas are determined on the second session of the course. Work will be break down into stages and examined during the course. Final work to be submitted prior to the presentation of the topic. Option 2 (For Constructivism Approach only): Follow lecturer's proposal",
+      "No Question": "Option 1: Minimum length of the group assignment should be 10 pages, excluding appendices Option 2: Follow lecturer's proposal",
+      "Knowledge and Skill": "Option 1: Based on topics of studied unitsOption 2: Follow lecturer's proposal",
+      "Grading Guide": "Option 1: Group presentation in class room Option 2 (For Constructivism Approach only): Follow lecturer's proposal",
+      "Note": "Option 1: All assignments should be typed and double-spaced with 11-point font, and must be submitted in both soft and hard copy. A deduction of 10% of the assignment mark will be applied for each day of late submission Evaluation will be based on both presentation and written report (reccommded 30%, 70% accordingly)"
+    },
+    {
+      "No.": "3",
+      "Category": "Individual assignment",
+      "Type": "on-going",
+      "Part": "1",
+      "Weight": "15.0%",
+      "Completion Criteria": ">0",
+      "Duration": "90'",
+      "CLO": "LO1, LO2, LO3, LO4",
+      "Question Type": "Questions or Activities proposed by lecturer",
+      "No Question": "Follow lecturer's proposal",
+      "Knowledge and Skill": "",
+      "Grading Guide": "",
+      "Note": ""
+    },
+    {
+      "No.": "4",
+      "Category": "Quiz",
+      "Type": "on-going",
+      "Part": "3",
+      "Weight": "15.0%",
+      "Completion Criteria": ">0",
+      "Duration": "90' in class",
+      "CLO": "CLO1, CLO2, CLO3, CLO4, CLO5",
+      "Question Type": "Option 1: Multiple choice, exercises or essay questions Option 2 (For Constructivism Approach only): Follow lecturer's proposal",
+      "No Question": "Option 1: Appx. 15 Option 2 (For Constructivism Approach only): Follow lecturer's proposal",
+      "Knowledge and Skill": "Option 1: Quizzes will test for knowledge of subjects in the chapter assigned for that day.Option 2 (For Constructivism Approach only): Follow lecturer's proposal",
+      "Grading Guide": "Option 1: Class room Option 2 (For Constructivism Approach only): Follow lecturer's proposal",
+      "Note": "Option 1: These quizzes will be given at various times during class (beginning, middle or end). Total number of quizzes: 3"
+    },
+    {
+      "No.": "5",
+      "Category": "Final Exam",
+      "Type": "Final exam",
+      "Part": "1",
+      "Weight": "30.0%",
+      "Completion Criteria": "4",
+      "Duration": "60'",
+      "CLO": "CLO1, CLO2, CLO3, CLO4, CLO5",
+      "Question Type": "Multiple choice",
+      "No Question": "50",
+      "Knowledge and Skill": "The questions/ exercises will cover the lectures, class discussions, activities, exercises, and textbook.",
+      "Grading Guide": "Exam room",
+      "Note": "Not allow to use any document/information in any form in exam room"
+    }
+  ],
+  "schedule": [
+    {
+      "Session": "1",
+      "Topic": "-Course Overview -Introduction to AI Integration in the course -Chapter 1 - An introduction to events '- Introduction '- Definitions and frameworks - Categories and typologies - Historical contexts and precedents - Characteristics of events",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO1",
+      "ITU": "IT",
+      "Student Materials": "",
+      "S-Download": "EVN201",
+      "Student's Tasks": "Discussion, Exercises.",
+      "URLs": "link"
+    },
+    {
+      "Session": "2",
+      "Topic": "Chapter 1 - An introduction to events '- Introduction '- Definitions and frameworks - Categories and typologies - Historical contexts and precedents - Characteristics of events",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO1",
+      "ITU": "IT",
+      "Student Materials": "",
+      "S-Download": "EVN201",
+      "Student's Tasks": "Discussion, Exercises.",
+      "URLs": ""
+    },
+    {
+      "Session": "3",
+      "Topic": "Chapter 1 - An introduction to events '- Introduction '- Definitions and frameworks - Categories and typologies - Historical contexts and precedents - Characteristics of events",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO1",
+      "ITU": "IT",
+      "Student Materials": "",
+      "S-Download": "",
+      "Student's Tasks": "Discussion, Exercises.",
+      "URLs": ""
+    },
+    {
+      "Session": "4",
+      "Topic": "Chapter 1 - An introduction to events '- Introduction '- Definitions and frameworks - Categories and typologies - Historical contexts and precedents - Characteristics of events",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO1",
+      "ITU": "IT",
+      "Student Materials": "",
+      "S-Download": "",
+      "Student's Tasks": "Discussion, Exercises.",
+      "URLs": ""
+    },
+    {
+      "Session": "5",
+      "Topic": "Chapter 2- Market Demand for events - Size and scope of the events market - Determinants and motivations - The structure of demand for events - Summary and references",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO1, LO2",
+      "ITU": "IT",
+      "Student Materials": "",
+      "S-Download": "",
+      "Student's Tasks": "Discussion, Exercises.",
+      "URLs": ""
+    },
+    {
+      "Session": "6",
+      "Topic": "Chapter 2- Market Demand for events - Size and scope of the events market - Determinants and motivations - The structure of demand for events - Summary and references",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO1, LO2",
+      "ITU": "IT",
+      "Student Materials": "",
+      "S-Download": "",
+      "Student's Tasks": "Discussion, Exercises.",
+      "URLs": ""
+    },
+    {
+      "Session": "7",
+      "Topic": "Chapter 3- The events buisness: supply and suppliers '- Governmental support infrastructure, industry associations and professional bodies - Commercial event and event support organizations - Voluntary bodies, committees and individuals - Summary and references",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO1, LO2",
+      "ITU": "IT",
+      "Student Materials": "",
+      "S-Download": "",
+      "Student's Tasks": "Discussion, Exercises.",
+      "URLs": ""
+    },
+    {
+      "Session": "8",
+      "Topic": "Chapter 3- The events buisness: supply and suppliers '- Governmental support infrastructure, industry associations and professional bodies - Commercial event and event support organizations - Voluntary bodies, committees and individuals - Summary and references",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO1, LO2",
+      "ITU": "IT",
+      "Student Materials": "",
+      "S-Download": "",
+      "Student's Tasks": "Discussion, Exercises.",
+      "URLs": ""
+    },
+    {
+      "Session": "9",
+      "Topic": "Chapter 3- The events buisness: supply and suppliers '- Governmental support infrastructure, industry associations and professional bodies - Commercial event and event support organizations - Voluntary bodies, committees and individuals - Summary and references",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO1, LO2",
+      "ITU": "IT",
+      "Student Materials": "",
+      "S-Download": "",
+      "Student's Tasks": "Discussion, Exercises.",
+      "URLs": ""
+    },
+    {
+      "Session": "10",
+      "Topic": "Chapter 3- The events buisness: supply and suppliers '- Governmental support infrastructure, industry associations and professional bodies - Commercial event and event support organizations - Voluntary bodies, committees and individuals - Summary and references",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO1, LO2",
+      "ITU": "IT",
+      "Student Materials": "",
+      "S-Download": "",
+      "Student's Tasks": "Discussion, Exercises.",
+      "URLs": ""
+    },
+    {
+      "Session": "11",
+      "Topic": "Chapter 4- Social, economic, political and developmental implications - Social and community implications - Economic implications - Political implications - Developmental implications - Summary and references",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO2, LO3",
+      "ITU": "IT",
+      "Student Materials": "",
+      "S-Download": "",
+      "Student's Tasks": "Discussion, Exercises.",
+      "URLs": ""
+    },
+    {
+      "Session": "12",
+      "Topic": "Chapter 4- Social, economic, political and developmental implications - Social and community implications - Economic implications - Political implications - Developmental implications - Summary and references",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO2, LO3",
+      "ITU": "IT",
+      "Student Materials": "",
+      "S-Download": "",
+      "Student's Tasks": "Discussion, Exercises.",
+      "URLs": ""
+    },
+    {
+      "Session": "13",
+      "Topic": "Quiz 1: Chapter 1,2, 3, 4",
+      "Learning-Teaching Type": "Offline",
+      "LO": "",
+      "ITU": "ITU",
+      "Student Materials": "",
+      "S-Download": "",
+      "Student's Tasks": "Implement quiz",
+      "URLs": ""
+    },
+    {
+      "Session": "14",
+      "Topic": "Quiz 1: Chapter 1,2, 3, 4",
+      "Learning-Teaching Type": "Offline",
+      "LO": "",
+      "ITU": "ITU",
+      "Student Materials": "",
+      "S-Download": "",
+      "Student's Tasks": "Implement quiz",
+      "URLs": ""
+    },
+    {
+      "Session": "15",
+      "Topic": "Group Assignment: Event proposal part 1",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO1, LO2, LO3",
+      "ITU": "TU",
+      "Student Materials": "",
+      "S-Download": "",
+      "Student's Tasks": "Implement group assignment",
+      "URLs": ""
+    },
+    {
+      "Session": "16",
+      "Topic": "Group Assignment: Event proposal part 1",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO1, LO2, LO3",
+      "ITU": "TU",
+      "Student Materials": "",
+      "S-Download": "",
+      "Student's Tasks": "Implement group assignment",
+      "URLs": ""
+    },
+    {
+      "Session": "17",
+      "Topic": "Chapter 5- Making a start and planning the event - Getting organized - Organizational issues in events of varying sizes - Event feasibility: finding and testing an idea - The screening process - Progressing the idea - The planning process - Objectives, environmental search and information-gathering - Operational planning and demand - Financial planning - Marketing planning - Getting it together",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO4",
+      "ITU": "IT",
+      "Student Materials": "",
+      "S-Download": "",
+      "Student's Tasks": "Discussion, Exercises.",
+      "URLs": ""
+    },
+    {
+      "Session": "18",
+      "Topic": "Chapter 5- Making a start and planning the event - Getting organized - Organizational issues in events of varying sizes - Event feasibility: finding and testing an idea - The screening process - Progressing the idea - The planning process - Objectives, environmental search and information-gathering - Operational planning and demand - Financial planning - Marketing planning - Getting it together",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO4",
+      "ITU": "IT",
+      "Student Materials": "",
+      "S-Download": "",
+      "Student's Tasks": "Discussion, Exercises.",
+      "URLs": ""
+    },
+    {
+      "Session": "19",
+      "Topic": "Chapter 5- Making a start and planning the event - Getting organized - Organizational issues in events of varying sizes - Event feasibility: finding and testing an idea - The screening process - Progressing the idea - The planning process - Objectives, environmental search and information-gathering - Operational planning and demand - Financial planning - Marketing planning - Getting it together",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO4",
+      "ITU": "IT",
+      "Student Materials": "",
+      "S-Download": "",
+      "Student's Tasks": "Discussion, Exercises.",
+      "URLs": ""
+    },
+    {
+      "Session": "20",
+      "Topic": "Chapter 5- Making a start and planning the event - Getting organized - Organizational issues in events of varying sizes - Event feasibility: finding and testing an idea - The screening process - Progressing the idea - The planning process - Objectives, environmental search and information-gathering - Operational planning and demand - Financial planning - Marketing planning - Getting it together",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO4",
+      "ITU": "IT",
+      "Student Materials": "",
+      "S-Download": "",
+      "Student's Tasks": "Discussion, Exercises.",
+      "URLs": ""
+    },
+    {
+      "Session": "21",
+      "Topic": "Chapter 5- Making a start and planning the event - Getting organized - Organizational issues in events of varying sizes - Event feasibility: finding and testing an idea - The screening process - Progressing the idea - The planning process - Objectives, environmental search and information-gathering - Operational planning and demand - Financial planning - Marketing planning - Getting it together",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO4",
+      "ITU": "IT",
+      "Student Materials": "",
+      "S-Download": "",
+      "Student's Tasks": "Discussion, Exercises.",
+      "URLs": ""
+    },
+    {
+      "Session": "22",
+      "Topic": "Chapter 5- Making a start and planning the event - Getting organized - Organizational issues in events of varying sizes - Event feasibility: finding and testing an idea - The screening process - Progressing the idea - The planning process - Objectives, environmental search and information-gathering - Operational planning and demand - Financial planning - Marketing planning - Getting it together",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO4",
+      "ITU": "IT",
+      "Student Materials": "",
+      "S-Download": "",
+      "Student's Tasks": "Discussion, Exercises.",
+      "URLs": ""
+    },
+    {
+      "Session": "23",
+      "Topic": "Chapter 6- Training for Service - Objectives and financial planning - Creating a budget - The detailed budget - Who spends what - Other sources of income - Sponsorship and public funding - Summary and references",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO4",
+      "ITU": "IT",
+      "Student Materials": "",
+      "S-Download": "",
+      "Student's Tasks": "Discussion, Exercises.",
+      "URLs": ""
+    },
+    {
+      "Session": "24",
+      "Topic": "Chapter 6- Training for Service - Objectives and financial planning - Creating a budget - The detailed budget - Who spends what - Other sources of income - Sponsorship and public funding - Summary and references",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO4",
+      "ITU": "IT",
+      "Student Materials": "",
+      "S-Download": "",
+      "Student's Tasks": "Discussion, Exercises.",
+      "URLs": ""
+    },
+    {
+      "Session": "25",
+      "Topic": "Individual assignment",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO4, LO6",
+      "ITU": "TU",
+      "Student Materials": "",
+      "S-Download": "",
+      "Student's Tasks": "Implement individual assignment",
+      "URLs": ""
+    },
+    {
+      "Session": "26",
+      "Topic": "Individual assignment",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO4, LO6",
+      "ITU": "TU",
+      "Student Materials": "",
+      "S-Download": "",
+      "Student's Tasks": "Implement individual assignment",
+      "URLs": ""
+    },
+    {
+      "Session": "27",
+      "Topic": "Chapter 7- Event logistics and supplies - Finding the venue - Logistics - Supplies, transport and distribution - Catering - Technical facilities",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO4",
+      "ITU": "IT",
+      "Student Materials": "",
+      "S-Download": "",
+      "Student's Tasks": "Discussion, Exercises.",
+      "URLs": ""
+    },
+    {
+      "Session": "28",
+      "Topic": "Chapter 7- Event logistics and supplies - Finding the venue - Logistics - Supplies, transport and distribution - Catering - Technical facilities",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO4",
+      "ITU": "IT",
+      "Student Materials": "",
+      "S-Download": "",
+      "Student's Tasks": "Discussion, Exercises.",
+      "URLs": ""
+    },
+    {
+      "Session": "29",
+      "Topic": "Chapter 7- Event logistics and supplies - Finding the venue - Logistics - Supplies, transport and distribution - Catering - Technical facilities",
+      "Learning-Teaching Type": "Offline",
+      "LO": "",
+      "ITU": "IT",
+      "Student Materials": "",
+      "S-Download": "",
+      "Student's Tasks": "Discussion, Exercises.",
+      "URLs": ""
+    },
+    {
+      "Session": "30",
+      "Topic": "Chapter 7- Event logistics and supplies - Finding the venue - Logistics - Supplies, transport and distribution - Catering - Technical facilities",
+      "Learning-Teaching Type": "Offline",
+      "LO": "",
+      "ITU": "IT",
+      "Student Materials": "",
+      "S-Download": "",
+      "Student's Tasks": "Discussion, Exercises.",
+      "URLs": ""
+    },
+    {
+      "Session": "31",
+      "Topic": "Quiz 2: Chapter 5-6-7",
+      "Learning-Teaching Type": "Offline",
+      "LO": "",
+      "ITU": "U",
+      "Student Materials": "",
+      "S-Download": "",
+      "Student's Tasks": "Implement quiz",
+      "URLs": ""
+    },
+    {
+      "Session": "32",
+      "Topic": "Quiz 2: Chapter 5-6-7",
+      "Learning-Teaching Type": "Offline",
+      "LO": "",
+      "ITU": "U",
+      "Student Materials": "",
+      "S-Download": "",
+      "Student's Tasks": "Implement quiz",
+      "URLs": ""
+    },
+    {
+      "Session": "33",
+      "Topic": "Group assignment: Event proposal part 2",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO1, LO2, LO3, LO4",
+      "ITU": "TU",
+      "Student Materials": "",
+      "S-Download": "",
+      "Student's Tasks": "Implement group assignment",
+      "URLs": ""
+    },
+    {
+      "Session": "34",
+      "Topic": "Group assignment: Event proposal part 2",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO1, LO2, LO3, LO4",
+      "ITU": "TU",
+      "Student Materials": "",
+      "S-Download": "",
+      "Student's Tasks": "Implement group assignment",
+      "URLs": ""
+    },
+    {
+      "Session": "35",
+      "Topic": "Chapter 8- Marketing and public relations for events - Strategies for involving the guest - Advantages and disadvantages of guest involvement are for the organization and the guest",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO4",
+      "ITU": "IT",
+      "Student Materials": "",
+      "S-Download": "",
+      "Student's Tasks": "Discussion, Exercises.",
+      "URLs": ""
+    },
+    {
+      "Session": "36",
+      "Topic": "Chapter 8- Marketing and public relations for events - Strategies for involving the guest - Advantages and disadvantages of guest involvement are for the organization and the guest",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO4",
+      "ITU": "IT",
+      "Student Materials": "",
+      "S-Download": "",
+      "Student's Tasks": "Discussion, Exercises.",
+      "URLs": ""
+    },
+    {
+      "Session": "37",
+      "Topic": "Chapter 9- Risk management and legalities - Risk management - Plans and maps - Legalities and insurance - Summary and references",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO5",
+      "ITU": "IT",
+      "Student Materials": "",
+      "S-Download": "",
+      "Student's Tasks": "Discussion, Exercises.",
+      "URLs": ""
+    },
+    {
+      "Session": "38",
+      "Topic": "Chapter 9- Risk management and legalities - Risk management - Plans and maps - Legalities and insurance - Summary and references",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO5",
+      "ITU": "IT",
+      "Student Materials": "",
+      "S-Download": "",
+      "Student's Tasks": "Discussion, Exercises.",
+      "URLs": ""
+    },
+    {
+      "Session": "39",
+      "Topic": "Chapter 10- Event project management and set up issues '- The event as a project - Ticketing and pre-booking issues - Operational activities - Security: issues, personnel and a control point - Media handling - Rehearsal and briefings - Layout of entrances and visitor reception - The event experience",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO5",
+      "ITU": "IT",
+      "Student Materials": "",
+      "S-Download": "",
+      "Student's Tasks": "Discussion, Exercises.",
+      "URLs": ""
+    },
+    {
+      "Session": "40",
+      "Topic": "Chapter 10- Event project management and set up issues '- The event as a project - Ticketing and pre-booking issues - Operational activities - Security: issues, personnel and a control point - Media handling - Rehearsal and briefings - Layout of entrances and visitor reception - The event experience",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO5",
+      "ITU": "IT",
+      "Student Materials": "",
+      "S-Download": "",
+      "Student's Tasks": "Discussion, Exercises.",
+      "URLs": ""
+    },
+    {
+      "Session": "41",
+      "Topic": "Chapter 11- The organization manager and the team: during the event - Organization - Organizational effectiveness - Staffing: professional or volunteer management? - Factors influencing the number and type of staff - Finding staff - Running the event on the day - Organization and briefing of staff, stewards and volunteers",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO5, LO6",
+      "ITU": "IT",
+      "Student Materials": "",
+      "S-Download": "",
+      "Student's Tasks": "Discussion, Exercises.",
+      "URLs": ""
+    },
+    {
+      "Session": "42",
+      "Topic": "Chapter 11- The organization manager and the team: during the event - Organization - Organizational effectiveness - Staffing: professional or volunteer management? - Factors influencing the number and type of staff - Finding staff - Running the event on the day - Organization and briefing of staff, stewards and volunteers",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO5, LO6",
+      "ITU": "IT",
+      "Student Materials": "",
+      "S-Download": "",
+      "Student's Tasks": "Discussion, Exercises.",
+      "URLs": ""
+    },
+    {
+      "Session": "43",
+      "Topic": "Chapter 11- The organization manager and the team: during the event - Organization - Organizational effectiveness - Staffing: professional or volunteer management? - Factors influencing the number and type of staff - Finding staff - Running the event on the day - Organization and briefing of staff, stewards and volunteers",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO5, LO6",
+      "ITU": "IT",
+      "Student Materials": "",
+      "S-Download": "",
+      "Student's Tasks": "Discussion, Exercises.",
+      "URLs": ""
+    },
+    {
+      "Session": "44",
+      "Topic": "Chapter 11- The organization manager and the team: during the event - Organization - Organizational effectiveness - Staffing: professional or volunteer management? - Factors influencing the number and type of staff - Finding staff - Running the event on the day - Organization and briefing of staff, stewards and volunteers",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO5, LO6",
+      "ITU": "IT",
+      "Student Materials": "",
+      "S-Download": "",
+      "Student's Tasks": "Discussion, Exercises.",
+      "URLs": ""
+    },
+    {
+      "Session": "45",
+      "Topic": "Progress Group Assignment: event proposal part 3",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO1, LO2, LO3, LO4, LO5, LO6",
+      "ITU": "TU",
+      "Student Materials": "",
+      "S-Download": "",
+      "Student's Tasks": "Implement group assignment",
+      "URLs": ""
+    },
+    {
+      "Session": "46",
+      "Topic": "Progress Group Assignment: event proposal part 3",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO1, LO2, LO3, LO4, LO5, LO6",
+      "ITU": "TU",
+      "Student Materials": "",
+      "S-Download": "",
+      "Student's Tasks": "Implement group assignment",
+      "URLs": ""
+    },
+    {
+      "Session": "47",
+      "Topic": "Chapter 12- Close-down, evaluation and legacies - Close-down - Evaluation - Divestment and legacies - The life expiry of events",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO5, LO6",
+      "ITU": "IT",
+      "Student Materials": "",
+      "S-Download": "",
+      "Student's Tasks": "Discussion, Exercises.",
+      "URLs": ""
+    },
+    {
+      "Session": "48",
+      "Topic": "Chapter 12- Close-down, evaluation and legacies - Close-down - Evaluation - Divestment and legacies - The life expiry of events",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO5, LO6",
+      "ITU": "IT",
+      "Student Materials": "",
+      "S-Download": "",
+      "Student's Tasks": "Discussion, Exercises.",
+      "URLs": ""
+    },
+    {
+      "Session": "49",
+      "Topic": "Chapter 12- Close-down, evaluation and legacies - Close-down - Evaluation - Divestment and legacies - The life expiry of events",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO5, LO6",
+      "ITU": "IT",
+      "Student Materials": "",
+      "S-Download": "",
+      "Student's Tasks": "Discussion, Exercises.",
+      "URLs": ""
+    },
+    {
+      "Session": "50",
+      "Topic": "Chapter 12- Close-down, evaluation and legacies - Close-down - Evaluation - Divestment and legacies - The life expiry of events",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO5, LO6",
+      "ITU": "IT",
+      "Student Materials": "",
+      "S-Download": "",
+      "Student's Tasks": "Discussion, Exercises.",
+      "URLs": ""
+    },
+    {
+      "Session": "51",
+      "Topic": "Field trip or guest speaker",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO10",
+      "ITU": "TU",
+      "Student Materials": "",
+      "S-Download": "",
+      "Student's Tasks": "Discussion",
+      "URLs": ""
+    },
+    {
+      "Session": "52",
+      "Topic": "Field trip or guest speaker",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO10",
+      "ITU": "TU",
+      "Student Materials": "",
+      "S-Download": "",
+      "Student's Tasks": "Discussion",
+      "URLs": ""
+    },
+    {
+      "Session": "53",
+      "Topic": "Presentation day",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO1, LO2, LO3, LO4, LO5, LO6, LO7, LO8, LO9, LO10",
+      "ITU": "",
+      "Student Materials": "",
+      "S-Download": "",
+      "Student's Tasks": "Presentation, Q&A",
+      "URLs": ""
+    },
+    {
+      "Session": "54",
+      "Topic": "Presentation day",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO1, LO2, LO3, LO4, LO5, LO6, LO7, LO8, LO9, LO10",
+      "ITU": "",
+      "Student Materials": "",
+      "S-Download": "",
+      "Student's Tasks": "Presentation, Q&A",
+      "URLs": ""
+    },
+    {
+      "Session": "55",
+      "Topic": "Presentation day",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO1, LO2, LO3, LO4, LO5, LO6, LO7, LO8, LO9, LO10, LO11",
+      "ITU": "",
+      "Student Materials": "",
+      "S-Download": "",
+      "Student's Tasks": "Presentation, Q&A",
+      "URLs": ""
+    },
+    {
+      "Session": "56",
+      "Topic": "Presentation day",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO1, LO2, LO3, LO4, LO5, LO6, LO7, LO8, LO9, LO10, LO12",
+      "ITU": "",
+      "Student Materials": "",
+      "S-Download": "",
+      "Student's Tasks": "Presentation, Q&A",
+      "URLs": ""
+    },
+    {
+      "Session": "57",
+      "Topic": "Presentation day",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO1, LO2, LO3, LO4, LO5, LO6, LO7, LO8, LO9, LO10, LO13",
+      "ITU": "",
+      "Student Materials": "",
+      "S-Download": "",
+      "Student's Tasks": "Presentation, Q&A",
+      "URLs": ""
+    },
+    {
+      "Session": "58",
+      "Topic": "Presentation day",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO1, LO2, LO3, LO4, LO5, LO6, LO7, LO8, LO9, LO10, LO14",
+      "ITU": "",
+      "Student Materials": "",
+      "S-Download": "",
+      "Student's Tasks": "Presentation, Q&A",
+      "URLs": ""
+    },
+    {
+      "Session": "59",
+      "Topic": "REVIEW AND QUIZ 3: CHAPTER 9-11",
+      "Learning-Teaching Type": "Offline",
+      "LO": "",
+      "ITU": "",
+      "Student Materials": "",
+      "S-Download": "",
+      "Student's Tasks": "Implement quiz, discussion",
+      "URLs": ""
+    },
+    {
+      "Session": "60",
+      "Topic": "REVIEW AND QUIZ 3: CHAPTER 9-11",
+      "Learning-Teaching Type": "Offline",
+      "LO": "",
+      "ITU": "",
+      "Student Materials": "",
+      "S-Download": "",
+      "Student's Tasks": "Implement quiz, discussion",
+      "URLs": ""
+    }
+  ],
+  "constructive_questions": [
+    {
+      "No.": "1",
+      "Session No": "2",
+      "Name": "CT1",
+      "Details": "List 10 special events, provide a brief introduction for each of them. How can you categorize them into different groups?"
+    },
+    {
+      "No.": "2",
+      "Session No": "3",
+      "Name": "CT1",
+      "Details": "What characteristics of events do you think are the most important and why?"
+    },
+    {
+      "No.": "3",
+      "Session No": "5",
+      "Name": "CT1",
+      "Details": "Which stakeholders need the events, and how do events benefit them?"
+    },
+    {
+      "No.": "4",
+      "Session No": "6",
+      "Name": "CT1",
+      "Details": "What motivates people to attend events?"
+    },
+    {
+      "No.": "5",
+      "Session No": "7",
+      "Name": "CT1",
+      "Details": "Your group might find one event supplies organization, introduce their services for events and explain why customers choose their service?"
+    },
+    {
+      "No.": "6",
+      "Session No": "8",
+      "Name": "CT1",
+      "Details": "How can government support the event business? (Give an example of country)"
+    },
+    {
+      "No.": "7",
+      "Session No": "9",
+      "Name": "CT1",
+      "Details": "Your group might find one event supplies organization, introduce their services for events and explain why customers choose their service?"
+    },
+    {
+      "No.": "8",
+      "Session No": "10",
+      "Name": "CT1",
+      "Details": "How can government support the event business? (Give an example of country)"
+    },
+    {
+      "No.": "9",
+      "Session No": "11",
+      "Name": "CT1",
+      "Details": "Your group might choose 01 national/ international event and analyze the impact of that event on its context (PEST)."
+    },
+    {
+      "No.": "10",
+      "Session No": "12",
+      "Name": "CT1",
+      "Details": "Is there any negative impact and how the event solve that problem?"
+    },
+    {
+      "No.": "11",
+      "Session No": "17",
+      "Name": "CT1",
+      "Details": "Your group will be assigned one topic of event. Propose 03 potential ideas and your explanations."
+    },
+    {
+      "No.": "12",
+      "Session No": "18",
+      "Name": "CT1",
+      "Details": "How will you choose the most suitable idea from them?"
+    },
+    {
+      "No.": "13",
+      "Session No": "19",
+      "Name": "CT1",
+      "Details": "Your group will be assigned one topic of event. Propose 03 potential ideas and your explanations."
+    },
+    {
+      "No.": "14",
+      "Session No": "20",
+      "Name": "CT1",
+      "Details": "How will you choose the most suitable idea from them?"
+    },
+    {
+      "No.": "15",
+      "Session No": "21",
+      "Name": "CT1",
+      "Details": "Your group will be assigned one topic of event. Propose 03 potential ideas and your explanations."
+    },
+    {
+      "No.": "16",
+      "Session No": "22",
+      "Name": "CT1",
+      "Details": "How will you choose the most suitable idea from them?"
+    },
+    {
+      "No.": "17",
+      "Session No": "23",
+      "Name": "CT1",
+      "Details": "What are the sources of revenue that event can generate from?"
+    },
+    {
+      "No.": "18",
+      "Session No": "24",
+      "Name": "CT1",
+      "Details": "How do you convince a sponsor to fund your event?"
+    },
+    {
+      "No.": "19",
+      "Session No": "27",
+      "Name": "CT1",
+      "Details": "What issues arise in terms of getting materials and equipment to an event?"
+    },
+    {
+      "No.": "20",
+      "Session No": "28",
+      "Name": "CT1",
+      "Details": "What information should suppliers know to setup at venue?"
+    },
+    {
+      "No.": "21",
+      "Session No": "29",
+      "Name": "CT1",
+      "Details": "What issues arise in terms of getting materials and equipment to an event?"
+    },
+    {
+      "No.": "22",
+      "Session No": "30",
+      "Name": "CT1",
+      "Details": "What information should suppliers know to setup at venue?"
+    },
+    {
+      "No.": "23",
+      "Session No": "35",
+      "Name": "CT1",
+      "Details": "Suggest appropriate marketing and public relations techniques which event organizers can use for one example event?"
+    },
+    {
+      "No.": "24",
+      "Session No": "36",
+      "Name": "CT1",
+      "Details": "What do you think about the differences between the marketing of new events and further editions?"
+    },
+    {
+      "No.": "25",
+      "Session No": "37",
+      "Name": "CT1",
+      "Details": "Do you think all events have a heavy burden of health & safety risks after the Covid-19 pandemic?"
+    },
+    {
+      "No.": "26",
+      "Session No": "38",
+      "Name": "CT1",
+      "Details": "What initiatives should event planner apply to solve the risks of health and safety?"
+    },
+    {
+      "No.": "27",
+      "Session No": "39",
+      "Name": "CT1",
+      "Details": "What issue may happen during setting up event, and how will you deal with it?"
+    },
+    {
+      "No.": "28",
+      "Session No": "40",
+      "Name": "CT1",
+      "Details": "What methods can be used to manage an event project?"
+    },
+    {
+      "No.": "29",
+      "Session No": "41",
+      "Name": "CT1",
+      "Details": "What do you think about the importance of volunteer staff and when should you consider hiring them?"
+    },
+    {
+      "No.": "30",
+      "Session No": "42",
+      "Name": "CT1",
+      "Details": "How might you recruit paid and voluntary staff for your event?"
+    },
+    {
+      "No.": "31",
+      "Session No": "43",
+      "Name": "CT1",
+      "Details": "What do you think about the importance of volunteer staff and when should you consider hiring them?"
+    },
+    {
+      "No.": "32",
+      "Session No": "44",
+      "Name": "CT1",
+      "Details": "How might you recruit paid and voluntary staff for your event?"
+    },
+    {
+      "No.": "33",
+      "Session No": "47",
+      "Name": "CT1",
+      "Details": "What do you think about the importance of volunteer staff and when should you consider hiring them?"
+    },
+    {
+      "No.": "34",
+      "Session No": "48",
+      "Name": "CT1",
+      "Details": "How might you recruit paid and voluntary staff for your event?"
+    }
+  ],
+  "materials": [
+    {
+      "No.": "1",
+      "Material Description": "Successful Event Management: A Practical Handbook",
+      "Author": "Anton Shone, Bryn Pary",
+      "Publisher": "Cengage Publisher",
+      "Published Date": "2019",
+      "Edition": "5th",
+      "ISBN": "9781473759114",
+      "Is Main Material": "True",
+      "Is Hard Copy": "True",
+      "Is Online": "False",
+      "Note": ""
+    }
+  ],
+  "source_path": "data/raw/syllabi/13620.html",
+  "id": "syllabus:13620"
+}

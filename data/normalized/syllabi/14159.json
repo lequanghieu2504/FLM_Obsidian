@@ -1,0 +1,1608 @@
+{
+  "syllabus_id": 14159,
+  "subject_code": "LOG321",
+  "subject_name": "Logistics and Transportation Management_Quản trị Logistics và vận tải",
+  "syllabus_name": "Logistics and Transportation Management - Quản trị Logistics và Vận tải",
+  "credits": 3,
+  "degree_level": "Bachelor",
+  "time_allocation": "Study hour (150h) = 45h (60 sessions) contact hours + 1h final exam + 104h self-study",
+  "prerequisite": "SCM301m",
+  "general_information": {
+    "Syllabus ID": "14159",
+    "Syllabus Name": "Logistics and Transportation Management - Quản trị Logistics và Vận tải",
+    "Course Name English": "Logistics and Transportation Management",
+    "Subject Code": "LOG321",
+    "Learning-Teaching Method": "Lecture,Presenting,discussion,groupwork",
+    "NoCredit": "3",
+    "Degree Level": "Bachelor",
+    "Time Allocation": "Study hour (150h) = 45h (60 sessions) contact hours + 1h final exam + 104h self-study",
+    "Pre-Requisite": "SCM301m",
+    "Description": "This course will allow you to have a big picture of the orchestration of logistics/transportation presenting the different means of transportation. A key feature of this course is the integration of artificial intelligence (AI) tools and applications. These tools will be used to support students in (1) generating ideas/structures for their speaking notes and slide structure of important topics of the course. (2) editing the slide set after students have already finished it.",
+    "StudentTasks": "'- Attend at least 80% of contact hours in order to be accepted to the final examination - Actively participate in class activities - Fulfill tasks given by instructor after class - Use their own laptop in class only for learning purpose - Read the textbook in advance - Access the course website (www.flm.fpt.edu.vn) for up-to-date information and material of the course, for online supports from teachers and other students and for practicing and assessment.",
+    "Tools": "- Laptop computer - Internet - Class room for lecture sessions",
+    "Scoring Scale": "10",
+    "DecisionNo MM/dd/yyyy": "377/QĐ-ĐHFPT dated 04/09/2026",
+    "IsApproved": "True",
+    "Note": "",
+    "Is Scored": "True",
+    "MinAvgMarkToPass": "5",
+    "IsActive": "True",
+    "ApprovedDate": "4/9/2026"
+  },
+  "active": true,
+  "approved": true,
+  "decision": "377/QĐ-ĐHFPT dated 04/09/2026",
+  "description": "This course will allow you to have a big picture of the orchestration of logistics/transportation presenting the different means of transportation. A key feature of this course is the integration of artificial intelligence (AI) tools and applications. These tools will be used to support students in (1) generating ideas/structures for their speaking notes and slide structure of important topics of the course. (2) editing the slide set after students have already finished it.",
+  "learning_outcomes": [
+    {
+      "No.": "1",
+      "CLO Name": "CLO1",
+      "CLO Details": "Explore the role of transportation from a micro perspective and focuses upon transportation"
+    },
+    {
+      "No.": "2",
+      "CLO Name": "CLO2",
+      "CLO Details": "Examine the role of transportation from a macro perspective with special emphasis upon transportation's effect upon the development of global economies."
+    },
+    {
+      "No.": "3",
+      "CLO Name": "CLO3",
+      "CLO Details": "Explain the importance and use of current technology."
+    },
+    {
+      "No.": "4",
+      "CLO Name": "CLO4",
+      "CLO Details": "Examine costing and pricing in transportation."
+    },
+    {
+      "No.": "5",
+      "CLO Name": "CLO5",
+      "CLO Details": "Focus on the motor carrier industry and differentiates between both truckload (TL) and less-than-truckload (LTL) carrier operations."
+    },
+    {
+      "No.": "6",
+      "CLO Name": "CLO6",
+      "CLO Details": "Examine the railroad industry and its current operations."
+    },
+    {
+      "No.": "7",
+      "CLO Name": "CLO7",
+      "CLO Details": "Understand the airline industry."
+    },
+    {
+      "No.": "8",
+      "CLO Name": "CLO8",
+      "CLO Details": "Discuss bulk carriers (water and pipeline)."
+    },
+    {
+      "No.": "9",
+      "CLO Name": "CLO9",
+      "CLO Details": "Explain the roles and industry composition of third party logistics (3PL) provider."
+    },
+    {
+      "No.": "10",
+      "CLO Name": "CLO10",
+      "CLO Details": "Address the ever-expanding role of global transportation in the supply chain, focusing on the extensive set of planning activities related to the timely and efficient movement of freight between countries, international freight and customs clearance."
+    },
+    {
+      "No.": "11",
+      "CLO Name": "CLO11",
+      "CLO Details": "Discus global transportation execution"
+    },
+    {
+      "No.": "12",
+      "CLO Name": "CLO12",
+      "CLO Details": "Discuss regulation and public policy as it applies to transportation."
+    },
+    {
+      "No.": "13",
+      "CLO Name": "CLO13",
+      "CLO Details": "Tackle the major issues of environmental sustainability, fuel price volatility and availability, and infrastructure inadequacy, as well as other challenges."
+    }
+  ],
+  "assessments": [
+    {
+      "No.": "1",
+      "Category": "Essay test",
+      "Type": "on-going",
+      "Part": "1",
+      "Weight": "15.0%",
+      "Completion Criteria": ">0",
+      "Duration": "45 mins - 60 mins",
+      "CLO": "All CLOs",
+      "Question Type": "Comprehensive exercises",
+      "No Question": "2",
+      "Knowledge and Skill": "Integration of studied knowledge and skills of chapters covered so far",
+      "Grading Guide": "As solution",
+      "Note": ""
+    },
+    {
+      "No.": "2",
+      "Category": "Group Assignment",
+      "Type": "on-going",
+      "Part": "1",
+      "Weight": "20.0%",
+      "Completion Criteria": ">0",
+      "Duration": "4 weeks",
+      "CLO": "All CLOs",
+      "Question Type": "Case study - Report and Presentation in class (end of the course)",
+      "No Question": "",
+      "Knowledge and Skill": "By instructor",
+      "Grading Guide": "Thinking creatively, making decisions, solving problems, Personal qualities: Individual responsibility, self-esteem, sociability, self-management, and integrity. Group's mark considered as related individual's mark",
+      "Note": ""
+    },
+    {
+      "No.": "3",
+      "Category": "Individual Assignment",
+      "Type": "on-going",
+      "Part": "1",
+      "Weight": "15.0%",
+      "Completion Criteria": ">0",
+      "Duration": "4 weeks",
+      "CLO": "All CLOs",
+      "Question Type": "1,500 word - report",
+      "No Question": "",
+      "Knowledge and Skill": "By instructor",
+      "Grading Guide": "",
+      "Note": ""
+    },
+    {
+      "No.": "4",
+      "Category": "Midterm test",
+      "Type": "on-going",
+      "Part": "1",
+      "Weight": "10.0%",
+      "Completion Criteria": ">0",
+      "Duration": "45 mins",
+      "CLO": "CLO1, CLO2, CLO3, CLO4, CLO5, CLO6, CLO7, CLO8",
+      "Question Type": "Multiple choice questions and/or comprehensive exercises",
+      "No Question": "30 MCQ or 2 exercises",
+      "Knowledge and Skill": "Integration of studied knowledge and skills of chapters covered so far",
+      "Grading Guide": "As solution",
+      "Note": "This test will be given at various times during class (beginning, middle or end)."
+    },
+    {
+      "No.": "5",
+      "Category": "Quiz 1",
+      "Type": "on-going",
+      "Part": "1",
+      "Weight": "5.0%",
+      "Completion Criteria": ">0",
+      "Duration": "30 mins - 45 mins",
+      "CLO": "CLO1, CLO2, CLO3, CLO4",
+      "Question Type": "Multiple choice questions and/or exercises",
+      "No Question": "20-30 MCQ or 1-2 exercises",
+      "Knowledge and Skill": "Integration of studied knowledge and skills of chapters covered so far",
+      "Grading Guide": "As solution",
+      "Note": "These quizzes will be given at various times during class (beginning, middle or end)."
+    },
+    {
+      "No.": "6",
+      "Category": "Quiz 2",
+      "Type": "on-going",
+      "Part": "1",
+      "Weight": "5.0%",
+      "Completion Criteria": ">0",
+      "Duration": "30 mins - 45 mins",
+      "CLO": "CLO9, CLO10, CLO11, CLO12, CLO13, CLO14",
+      "Question Type": "Multiple choice questions and/or exercises",
+      "No Question": "20-30 MCQ or 1-2 exercises",
+      "Knowledge and Skill": "Integration of studied knowledge and skills of chapters covered so far",
+      "Grading Guide": "As solution",
+      "Note": "These quizzes will be given at various times during class (beginning, middle or end)."
+    },
+    {
+      "No.": "7",
+      "Category": "Final exam",
+      "Type": "Final exam",
+      "Part": "1",
+      "Weight": "30.0%",
+      "Completion Criteria": "4",
+      "Duration": "60 minutes",
+      "CLO": "All CLOs",
+      "Question Type": "Multiple choice questions",
+      "No Question": "50",
+      "Knowledge and Skill": "By Exam board",
+      "Grading Guide": "",
+      "Note": ""
+    }
+  ],
+  "schedule": [
+    {
+      "Session": "1",
+      "Topic": "Chapter 1 The role and importance of transportation 1. Discuss the changing global landscape for businesses and other organizations and the external forces that are driving change in the global economy. 2. Understand the special nature of transportation demand and the influence of transportation on companies and their supply chains operating in a global economy. 3. Appreciate the role of transportation in the movement of people and the influence such movement has on population centers and businesses. 4. Gain insight into the challenge of developing appropriate metrics for transportation output. 5. Discuss the economic concept of price elasticity as it relates to transportation demand.",
+      "Learning-Teaching Type": "Offline",
+      "LO": "CLO1",
+      "ITU": "T",
+      "Student Materials": "Powerpoint, reference books, additional materials",
+      "S-Download": "LOG321GroupASM",
+      "Student's Tasks": "",
+      "URLs": "link"
+    },
+    {
+      "Session": "2",
+      "Topic": "Chapter 1 The role and importance of transportation 1. Discuss the changing global landscape for businesses and other organizations and the external forces that are driving change in the global economy. 2. Understand the special nature of transportation demand and the influence of transportation on companies and their supply chains operating in a global economy. 3. Appreciate the role of transportation in the movement of people and the influence such movement has on population centers and businesses. 4. Gain insight into the challenge of developing appropriate metrics for transportation output. 5. Discuss the economic concept of price elasticity as it relates to transportation demand.",
+      "Learning-Teaching Type": "Offline",
+      "LO": "CLO1",
+      "ITU": "T",
+      "Student Materials": "Powerpoint, reference books, additional materials",
+      "S-Download": "",
+      "Student's Tasks": "",
+      "URLs": ""
+    },
+    {
+      "Session": "3",
+      "Topic": "Chapter 1 The role and importance of transportation (Cont.) 6. Explain the concept of derived demand as it applies to transportation movements 7. Discuss how transportation service adds value to a product 8. Explain the importance of the components of transportation service that relate to the movement of freight and their impact upon supply chain costs 9. Appreciate how transportation affects the development of economic activity for companies and other organizations. 10. Understand the development of supply chain management and the importance of transportation to supply chains.",
+      "Learning-Teaching Type": "Offline",
+      "LO": "CLO1",
+      "ITU": "T",
+      "Student Materials": "Powerpoint, reference books, additional materials",
+      "S-Download": "LOG321ch1",
+      "Student's Tasks": "",
+      "URLs": ""
+    },
+    {
+      "Session": "4",
+      "Topic": "Chapter 1 The role and importance of transportation (Cont.) 6. Explain the concept of derived demand as it applies to transportation movements 7. Discuss how transportation service adds value to a product 8. Explain the importance of the components of transportation service that relate to the movement of freight and their impact upon supply chain costs 9. Appreciate how transportation affects the development of economic activity for companies and other organizations. 10. Understand the development of supply chain management and the importance of transportation to supply chains.",
+      "Learning-Teaching Type": "Offline",
+      "LO": "CLO1",
+      "ITU": "T",
+      "Student Materials": "Powerpoint, reference books, additional materials",
+      "S-Download": "",
+      "Student's Tasks": "",
+      "URLs": ""
+    },
+    {
+      "Session": "5",
+      "Topic": "Chapter 2. Transportation and the economy 1. Understand the importance of transportation to the economic vitality of countries or regions 2. Appreciate the role and contributions of transportation systems to the economic development of countries or regions 3. Understand how transportation impacts the social and political dimensions of an economy or region 4. Appreciate the historical role of transportation from an economic, social, and political perspective",
+      "Learning-Teaching Type": "Offline",
+      "LO": "CLO2",
+      "ITU": "T",
+      "Student Materials": "Powerpoint, reference books, additional materials",
+      "S-Download": "LOG321ch2",
+      "Student's Tasks": "",
+      "URLs": ""
+    },
+    {
+      "Session": "6",
+      "Topic": "Chapter 2. Transportation and the economy 1. Understand the importance of transportation to the economic vitality of countries or regions 2. Appreciate the role and contributions of transportation systems to the economic development of countries or regions 3. Understand how transportation impacts the social and political dimensions of an economy or region 4. Appreciate the historical role of transportation from an economic, social, and political perspective",
+      "Learning-Teaching Type": "Offline",
+      "LO": "CLO2",
+      "ITU": "T",
+      "Student Materials": "Powerpoint, reference books, additional materials",
+      "S-Download": "",
+      "Student's Tasks": "",
+      "URLs": ""
+    },
+    {
+      "Session": "7",
+      "Topic": "Chapter 2. Transportation and the economy 5. Discuss the impact that improved transportation has upon land values 6. Understand how transportation affects the price of goods and services 7. Appreciate the function and scope of transportation in advanced and developed economies",
+      "Learning-Teaching Type": "Offline",
+      "LO": "CLO2",
+      "ITU": "T",
+      "Student Materials": "Powerpoint, reference books, additional materials",
+      "S-Download": "",
+      "Student's Tasks": "",
+      "URLs": ""
+    },
+    {
+      "Session": "8",
+      "Topic": "Chapter 2. Transportation and the economy 5. Discuss the impact that improved transportation has upon land values 6. Understand how transportation affects the price of goods and services 7. Appreciate the function and scope of transportation in advanced and developed economies",
+      "Learning-Teaching Type": "Offline",
+      "LO": "CLO2",
+      "ITU": "T",
+      "Student Materials": "Powerpoint, reference books, additional materials",
+      "S-Download": "",
+      "Student's Tasks": "",
+      "URLs": ""
+    },
+    {
+      "Session": "9",
+      "Topic": "Chapter 3. Technology and system Explain the importance and use of current technology",
+      "Learning-Teaching Type": "Offline",
+      "LO": "CLO3",
+      "ITU": "T",
+      "Student Materials": "Powerpoint, reference books, additional materials",
+      "S-Download": "LOG321ch3",
+      "Student's Tasks": "",
+      "URLs": ""
+    },
+    {
+      "Session": "10",
+      "Topic": "Chapter 3. Technology and system Explain the importance and use of current technology",
+      "Learning-Teaching Type": "Offline",
+      "LO": "CLO3",
+      "ITU": "T",
+      "Student Materials": "Powerpoint, reference books, additional materials",
+      "S-Download": "",
+      "Student's Tasks": "",
+      "URLs": ""
+    },
+    {
+      "Session": "11",
+      "Topic": "Chapter 3. Technology and system Explain the importance and use of current technology",
+      "Learning-Teaching Type": "Offline",
+      "LO": "CLO3",
+      "ITU": "T",
+      "Student Materials": "Powerpoint, reference books, additional materials",
+      "S-Download": "",
+      "Student's Tasks": "",
+      "URLs": ""
+    },
+    {
+      "Session": "12",
+      "Topic": "Chapter 3. Technology and system Explain the importance and use of current technology",
+      "Learning-Teaching Type": "Offline",
+      "LO": "CLO3",
+      "ITU": "T",
+      "Student Materials": "Powerpoint, reference books, additional materials",
+      "S-Download": "",
+      "Student's Tasks": "",
+      "URLs": ""
+    },
+    {
+      "Session": "13",
+      "Topic": "Chapter 4. Costing and Pricing for Transportation 1. Understand the relationship between a rate and a price 2. Be familiar with the various types of market structures found in the transportation industry 3. Gain knowledge of the impact of transportation prices on the relevant market area for a product 4. Be able to explain the differences between cost of service and value of service pricing",
+      "Learning-Teaching Type": "Offline",
+      "LO": "CLO4",
+      "ITU": "T",
+      "Student Materials": "Powerpoint, reference books, additional materials",
+      "S-Download": "LOG321ch4",
+      "Student's Tasks": "",
+      "URLs": ""
+    },
+    {
+      "Session": "14",
+      "Topic": "Chapter 4. Costing and Pricing for Transportation 1. Understand the relationship between a rate and a price 2. Be familiar with the various types of market structures found in the transportation industry 3. Gain knowledge of the impact of transportation prices on the relevant market area for a product 4. Be able to explain the differences between cost of service and value of service pricing",
+      "Learning-Teaching Type": "Offline",
+      "LO": "CLO4",
+      "ITU": "T",
+      "Student Materials": "Powerpoint, reference books, additional materials",
+      "S-Download": "",
+      "Student's Tasks": "",
+      "URLs": ""
+    },
+    {
+      "Session": "15",
+      "Topic": "Chapter 4. Costing and Pricing for Transportation (cont.) 5. Understand the different forms of rates used in transportation 6. Appreciate how transportation rates have changed under deregulation 7. Determine the strategic role of pricing for transportation firms 8. Calculate the costs of both truckload and less-than-truckload freight moves",
+      "Learning-Teaching Type": "Offline",
+      "LO": "CLO4",
+      "ITU": "T",
+      "Student Materials": "Powerpoint, reference books, additional materials",
+      "S-Download": "",
+      "Student's Tasks": "",
+      "URLs": ""
+    },
+    {
+      "Session": "16",
+      "Topic": "Chapter 4. Costing and Pricing for Transportation (cont.) 5. Understand the different forms of rates used in transportation 6. Appreciate how transportation rates have changed under deregulation 7. Determine the strategic role of pricing for transportation firms 8. Calculate the costs of both truckload and less-than-truckload freight moves",
+      "Learning-Teaching Type": "Offline",
+      "LO": "CLO4",
+      "ITU": "T",
+      "Student Materials": "Powerpoint, reference books, additional materials",
+      "S-Download": "",
+      "Student's Tasks": "",
+      "URLs": ""
+    },
+    {
+      "Session": "17",
+      "Topic": "QUIZ 1: Cover Chap 1,2,3,4",
+      "Learning-Teaching Type": "Offline",
+      "LO": "CLO1, CLO2, CLO3, CLO4",
+      "ITU": "U",
+      "Student Materials": "Powerpoint, reference books, additional materials",
+      "S-Download": "",
+      "Student's Tasks": "",
+      "URLs": ""
+    },
+    {
+      "Session": "18",
+      "Topic": "QUIZ 1: Cover Chap 1,2,3,4",
+      "Learning-Teaching Type": "Offline",
+      "LO": "CLO1, CLO2, CLO3, CLO4",
+      "ITU": "U",
+      "Student Materials": "Powerpoint, reference books, additional materials",
+      "S-Download": "",
+      "Student's Tasks": "",
+      "URLs": ""
+    },
+    {
+      "Session": "19",
+      "Topic": "Chapter 5. Motor Carriers 1. Understand the development of motor carriers and their contributions to the economy 2. Be familiar with the different types of firms in the motor carrier industry 3. Appreciate the market forces shaping the motor carrier industry 4. Gain knowledge of the service characteristics of motor carriers 5. Identify the different types of vehicles and terminals used in the motor carrier industry 6. Understand the impact of fuel and labor on the motor carrier cost structure 7. Be aware of current issues facing the motor carrier industry",
+      "Learning-Teaching Type": "Offline",
+      "LO": "CLO5",
+      "ITU": "T",
+      "Student Materials": "Powerpoint, reference books, additional materials",
+      "S-Download": "LOG321ch5",
+      "Student's Tasks": "",
+      "URLs": ""
+    },
+    {
+      "Session": "20",
+      "Topic": "Chapter 5. Motor Carriers 1. Understand the development of motor carriers and their contributions to the economy 2. Be familiar with the different types of firms in the motor carrier industry 3. Appreciate the market forces shaping the motor carrier industry 4. Gain knowledge of the service characteristics of motor carriers 5. Identify the different types of vehicles and terminals used in the motor carrier industry 6. Understand the impact of fuel and labor on the motor carrier cost structure 7. Be aware of current issues facing the motor carrier industry",
+      "Learning-Teaching Type": "Offline",
+      "LO": "CLO5",
+      "ITU": "T",
+      "Student Materials": "Powerpoint, reference books, additional materials",
+      "S-Download": "",
+      "Student's Tasks": "",
+      "URLs": ""
+    },
+    {
+      "Session": "21",
+      "Topic": "Chapter 5. Motor Carriers 1. Understand the development of motor carriers and their contributions to the economy 2. Be familiar with the different types of firms in the motor carrier industry 3. Appreciate the market forces shaping the motor carrier industry 4. Gain knowledge of the service characteristics of motor carriers 5. Identify the different types of vehicles and terminals used in the motor carrier industry 6. Understand the impact of fuel and labor on the motor carrier cost structure 7. Be aware of current issues facing the motor carrier industry",
+      "Learning-Teaching Type": "Offline",
+      "LO": "CLO5",
+      "ITU": "T",
+      "Student Materials": "Powerpoint, reference books, additional materials",
+      "S-Download": "",
+      "Student's Tasks": "",
+      "URLs": ""
+    },
+    {
+      "Session": "22",
+      "Topic": "Chapter 5. Motor Carriers 1. Understand the development of motor carriers and their contributions to the economy 2. Be familiar with the different types of firms in the motor carrier industry 3. Appreciate the market forces shaping the motor carrier industry 4. Gain knowledge of the service characteristics of motor carriers 5. Identify the different types of vehicles and terminals used in the motor carrier industry 6. Understand the impact of fuel and labor on the motor carrier cost structure 7. Be aware of current issues facing the motor carrier industry",
+      "Learning-Teaching Type": "Offline",
+      "LO": "CLO5",
+      "ITU": "T",
+      "Student Materials": "Powerpoint, reference books, additional materials",
+      "S-Download": "",
+      "Student's Tasks": "",
+      "URLs": ""
+    },
+    {
+      "Session": "23",
+      "Topic": "Chapter 6. Railroads 1. Appreciate the contributions of the railroad industry to the development of the economy 2. Gain an understanding of the size and types of firms in the railroad industry 3. Discuss the relevance of intermodal and intramodal competition in the railroad industry 4. Know the major types of commodities hauled by the railroads 5. Recognize the different types of equipment used in the railroad industry 6. Discuss the nature of costs in the railroad industry and how they impact pricing decisions 7. Understand the importance of intermodal carloadings on the growth of the railroad industry 8. Be aware of the current issues facing the railroad industry today",
+      "Learning-Teaching Type": "Offline",
+      "LO": "CLO6",
+      "ITU": "T",
+      "Student Materials": "Powerpoint, reference books, additional materials",
+      "S-Download": "LOG321ch6",
+      "Student's Tasks": "",
+      "URLs": ""
+    },
+    {
+      "Session": "24",
+      "Topic": "Chapter 6. Railroads 1. Appreciate the contributions of the railroad industry to the development of the economy 2. Gain an understanding of the size and types of firms in the railroad industry 3. Discuss the relevance of intermodal and intramodal competition in the railroad industry 4. Know the major types of commodities hauled by the railroads 5. Recognize the different types of equipment used in the railroad industry 6. Discuss the nature of costs in the railroad industry and how they impact pricing decisions 7. Understand the importance of intermodal carloadings on the growth of the railroad industry 8. Be aware of the current issues facing the railroad industry today",
+      "Learning-Teaching Type": "Offline",
+      "LO": "CLO6",
+      "ITU": "T",
+      "Student Materials": "Powerpoint, reference books, additional materials",
+      "S-Download": "",
+      "Student's Tasks": "",
+      "URLs": ""
+    },
+    {
+      "Session": "25",
+      "Topic": "Chapter 6. Railroads 1. Appreciate the contributions of the railroad industry to the development of the economy 2. Gain an understanding of the size and types of firms in the railroad industry 3. Discuss the relevance of intermodal and intramodal competition in the railroad industry 4. Know the major types of commodities hauled by the railroads 5. Recognize the different types of equipment used in the railroad industry 6. Discuss the nature of costs in the railroad industry and how they impact pricing decisions 7. Understand the importance of intermodal carloadings on the growth of the railroad industry 8. Be aware of the current issues facing the railroad industry today",
+      "Learning-Teaching Type": "Offline",
+      "LO": "CLO6",
+      "ITU": "T",
+      "Student Materials": "Powerpoint, reference books, additional materials",
+      "S-Download": "",
+      "Student's Tasks": "",
+      "URLs": ""
+    },
+    {
+      "Session": "26",
+      "Topic": "Chapter 6. Railroads 1. Appreciate the contributions of the railroad industry to the development of the economy 2. Gain an understanding of the size and types of firms in the railroad industry 3. Discuss the relevance of intermodal and intramodal competition in the railroad industry 4. Know the major types of commodities hauled by the railroads 5. Recognize the different types of equipment used in the railroad industry 6. Discuss the nature of costs in the railroad industry and how they impact pricing decisions 7. Understand the importance of intermodal carloadings on the growth of the railroad industry 8. Be aware of the current issues facing the railroad industry today",
+      "Learning-Teaching Type": "Offline",
+      "LO": "CLO6",
+      "ITU": "T",
+      "Student Materials": "Powerpoint, reference books, additional materials",
+      "S-Download": "",
+      "Student's Tasks": "",
+      "URLs": ""
+    },
+    {
+      "Session": "27",
+      "Topic": "Chapter 7. Airlines Release and Guidelines on Individual assignment 1. Appreciate the importance of air transportation in the economy 2. Gain knowledge of the types and number of carriers in the airline industy 3. Understand the level of competition in the airline industry 4. Become aware of the operating and service characteristics of airline transportation 5. Be familiar with the different types of equipment used by airlines 6. Appreciate the impacts of fuel and labor costs on airlines cost structures 7. Understand the concepts of economies of scale and density in the airline industry 8. Be aware of current issues facing airlines today",
+      "Learning-Teaching Type": "Offline",
+      "LO": "CLO7",
+      "ITU": "T",
+      "Student Materials": "Powerpoint, reference books, additional materials",
+      "S-Download": "LOG321ch7",
+      "Student's Tasks": "",
+      "URLs": ""
+    },
+    {
+      "Session": "28",
+      "Topic": "Chapter 7. Airlines 1. Appreciate the importance of air transportation in the economy 2. Gain knowledge of the types and number of carriers in the airline industy 3. Understand the level of competition in the airline industry 4. Become aware of the operating and service characteristics of airline transportation 5. Be familiar with the different types of equipment used by airlines 6. Appreciate the impacts of fuel and labor costs on airlines' cost structures 7. Understand the concepts of economies of scale and density in the airline industry 8. Be aware of current issues facing airlines today",
+      "Learning-Teaching Type": "Offline",
+      "LO": "CLO7",
+      "ITU": "T",
+      "Student Materials": "Powerpoint, reference books, additional materials",
+      "S-Download": "",
+      "Student's Tasks": "",
+      "URLs": ""
+    },
+    {
+      "Session": "29",
+      "Topic": "Chapter 7. Airlines 1. Appreciate the importance of air transportation in the economy 2. Gain knowledge of the types and number of carriers in the airline industry 3. Understand the level of competition in the airline industry 4. Become aware of the operating and service characteristics of airline transportation 5. Be familiar with the different types of equipment used by airlines 6. Appreciate the impacts of fuel and labor costs on airlines' cost structures 7. Understand the concepts of economies of scale and density in the airline industry 8. Be aware of current issues facing airlines today",
+      "Learning-Teaching Type": "Offline",
+      "LO": "CLO7",
+      "ITU": "T",
+      "Student Materials": "Powerpoint, reference books, additional materials",
+      "S-Download": "",
+      "Student's Tasks": "",
+      "URLs": ""
+    },
+    {
+      "Session": "30",
+      "Topic": "Chapter 7. Airlines 1. Appreciate the importance of air transportation in the economy 2. Gain knowledge of the types and number of carriers in the airline industy 3. Understand the level of competition in the airline industry 4. Become aware of the operating and service characteristics of airline transportation 5. Be familiar with the different types of equipment used by airlines 6. Appreciate the impacts of fuel and labor costs on airlines' cost structures 7. Understand the concepts of economies of scale and density in the airline industry 8. Be aware of current issues facing airlines today",
+      "Learning-Teaching Type": "Offline",
+      "LO": "CLO7",
+      "ITU": "T",
+      "Student Materials": "Powerpoint, reference books, additional materials",
+      "S-Download": "",
+      "Student's Tasks": "",
+      "URLs": ""
+    },
+    {
+      "Session": "31",
+      "Topic": "Chapter 8. Water Carriers and Pipelines 1. Understand the importance of domestic waterways in the development of the economy of the United States and particularly of cities located contiguous to the waterways 2. Appreciate the role and significance of the water carrier industry at the present time in the U.S. economy and how it complements and competes with the other basic modes of transportation 3. Discuss the various types of water carriers and their roles in the overall water carrier system 4. Understand the competitive environment for water carriers on an intramodal as well as an intermodal basis 5. Discuss the service and operating characteristics of water carriers as well as their cost structure and equipment challenges 6. Understand the current issues faced by the water carrier industry in the 21st century 7. Appreciate the development and current position of the pipeline industry in the economy 8. Discuss the types of pipeline companies and their role in the transportation system 9. Understand the nature of the operating and service characteristics of pipeline carriers and what makes them unique in the transportation system 10. Discuss the cost structure and rates of pipelines",
+      "Learning-Teaching Type": "Offline",
+      "LO": "CLO8",
+      "ITU": "T",
+      "Student Materials": "Powerpoint, reference books, additional materials",
+      "S-Download": "LOG321ch8",
+      "Student's Tasks": "",
+      "URLs": ""
+    },
+    {
+      "Session": "32",
+      "Topic": "Chapter 8. Water Carriers and Pipelines 1. Understand the importance of domestic waterways in the development of the economy of the United States and particularly of cities located contiguous to the waterways 2. Appreciate the role and significance of the water carrier industry at the present time in the U.S. economy and how it complements and competes with the other basic modes of transportation 3. Discuss the various types of water carriers and their roles in the overall water carrier system 4. Understand the competitive environment for water carriers on an intramodal as well as an intermodal basis 5. Discuss the service and operating characteristics of water carriers as well as their cost structure and equipment challenges 6. Understand the current issues faced by the water carrier industry in the 21st century 7. Appreciate the development and current position of the pipeline industry in the economy 8. Discuss the types of pipeline companies and their role in the transportation system 9. Understand the nature of the operating and service characteristics of pipeline carriers and what makes them unique in the transportation system 10. Discuss the cost structure and rates of pipelines",
+      "Learning-Teaching Type": "Offline",
+      "LO": "CLO8",
+      "ITU": "T",
+      "Student Materials": "Powerpoint, reference books, additional materials",
+      "S-Download": "",
+      "Student's Tasks": "",
+      "URLs": ""
+    },
+    {
+      "Session": "33",
+      "Topic": "Chapter 8. Water Carriers and Pipelines 1. Understand the importance of domestic waterways in the development of the economy of the United States and particularly of cities located contiguous to the waterways 2. Appreciate the role and significance of the water carrier industry at the present time in the U.S. economy and how it complements and competes with the other basic modes of transportation 3. Discuss the various types of water carriers and their roles in the overall water carrier system 4. Understand the competitive environment for water carriers on an intramodal as well as an intermodal basis 5. Discuss the service and operating characteristics of water carriers as well as their cost structure and equipment challenges 6. Understand the current issues faced by the water carrier industry in the 21st century 7. Appreciate the development and current position of the pipeline industry in the economy 8. Discuss the types of pipeline companies and their role in the transportation system 9. Understand the nature of the operating and service characteristics of pipeline carriers and what makes them unique in the transportation system 10. Discuss the cost structure and rates of pipelines",
+      "Learning-Teaching Type": "Offline",
+      "LO": "CLO8",
+      "ITU": "T",
+      "Student Materials": "Powerpoint, reference books, additional materials",
+      "S-Download": "",
+      "Student's Tasks": "",
+      "URLs": ""
+    },
+    {
+      "Session": "34",
+      "Topic": "Chapter 8. Water Carriers and Pipelines 1. Understand the importance of domestic waterways in the development of the economy of the United States and particularly of cities located contiguous to the waterways 2. Appreciate the role and significance of the water carrier industry at the present time in the U.S. economy and how it complements and competes with the other basic modes of transportation 3. Discuss the various types of water carriers and their roles in the overall water carrier system 4. Understand the competitive environment for water carriers on an intramodal as well as an intermodal basis 5. Discuss the service and operating characteristics of water carriers as well as their cost structure and equipment challenges 6. Understand the current issues faced by the water carrier industry in the 21st century 7. Appreciate the development and current position of the pipeline industry in the economy 8. Discuss the types of pipeline companies and their role in the transportation system 9. Understand the nature of the operating and service characteristics of pipeline carriers and what makes them unique in the transportation system 10. Discuss the cost structure and rates of pipelines",
+      "Learning-Teaching Type": "Offline",
+      "LO": "CLO8",
+      "ITU": "T",
+      "Student Materials": "Powerpoint, reference books, additional materials",
+      "S-Download": "",
+      "Student's Tasks": "",
+      "URLs": ""
+    },
+    {
+      "Session": "35",
+      "Topic": "MIDTERM: Cover Chap 1,2,3,4,5,6,7,8",
+      "Learning-Teaching Type": "Offline",
+      "LO": "CLO1, CLO2, CLO3, CLO4, CLO5, CLO6, CLO7, CLO8",
+      "ITU": "T",
+      "Student Materials": "Powerpoint, reference books, additional materials",
+      "S-Download": "",
+      "Student's Tasks": "",
+      "URLs": ""
+    },
+    {
+      "Session": "36",
+      "Topic": "Chapter 9. Third-Party Logistics 1. Understand the concept of third-party logistics and its role in the movement of goods 2. Identify the different types of third-party logistics service providers 3. Describe the four types of transportation activities that are outsourced 4. Discuss the reasons why companies seek integrated third-party logistics services 5. Understand the size and scope of the third-party logistics market 6. Evaluate the reasons for outsourcing and the results achieved 7. Summarize the process for outsourcing transportation and logistics activities 8. Appreciate the current challenges and competitive issues in the third-party logistics industry 9. Compare the coordination roles of various service provider types 10. Recognize the importance of information technology in managing outsourced activities",
+      "Learning-Teaching Type": "Offline",
+      "LO": "CLO9",
+      "ITU": "T",
+      "Student Materials": "Powerpoint, reference books, additional materials",
+      "S-Download": "LOG321ch9",
+      "Student's Tasks": "",
+      "URLs": ""
+    },
+    {
+      "Session": "37",
+      "Topic": "Chapter 9. Third-Party Logistics 1. Understand the concept of third-party logistics and its role in the movement of goods 2. Identify the different types of third-party logistics service providers 3. Describe the four types of transportation activities that are outsourced 4. Discuss the reasons why companies seek integrated third-party logistics services 5. Understand the size and scope of the third-party logistics market 6. Evaluate the reasons for outsourcing and the results achieved 7. Summarize the process for outsourcing transportation and logistics activities 8. Appreciate the current challenges and competitive issues in the third-party logistics industry 9. Compare the coordination roles of various service provider types 10. Recognize the importance of information technology in managing outsourced activities",
+      "Learning-Teaching Type": "Offline",
+      "LO": "CLO9",
+      "ITU": "T",
+      "Student Materials": "Powerpoint, reference books, additional materials",
+      "S-Download": "",
+      "Student's Tasks": "",
+      "URLs": ""
+    },
+    {
+      "Session": "38",
+      "Topic": "Chapter 10. Transportation Risk Management (cont.) 5. Understand the key factors in risk assessment 6. Discuss the four techniques for managing transportation risks 7. Appreciate the challenge of balancing transportation security and global trade efficiency 8. Recognize key transportation security regulations and initiatives",
+      "Learning-Teaching Type": "Offline",
+      "LO": "CLO10",
+      "ITU": "T",
+      "Student Materials": "Powerpoint, reference books, additional materials",
+      "S-Download": "LOG321ch10",
+      "Student's Tasks": "",
+      "URLs": ""
+    },
+    {
+      "Session": "39",
+      "Topic": "Chapter 10. Transportation Risk Management (cont.) 5. Understand the key factors in risk assessment 6. Discuss the four techniques for managing transportation risks 7. Appreciate the challenge of balancing transportation security and global trade efficiency 8. Recognize key transportation security regulations and initiatives",
+      "Learning-Teaching Type": "Offline",
+      "LO": "CLO10",
+      "ITU": "T",
+      "Student Materials": "Powerpoint, reference books, additional materials",
+      "S-Download": "",
+      "Student's Tasks": "",
+      "URLs": ""
+    },
+    {
+      "Session": "40",
+      "Topic": "Chapter 10. Transportation Risk Management (cont.) 5. Understand the key factors in risk assessment 6. Discuss the four techniques for managing transportation risks 7. Appreciate the challenge of balancing transportation security and global trade efficiency 8. Recognize key transportation security regulations and initiatives",
+      "Learning-Teaching Type": "Offline",
+      "LO": "CLO10",
+      "ITU": "T",
+      "Student Materials": "Powerpoint, reference books, additional materials",
+      "S-Download": "",
+      "Student's Tasks": "",
+      "URLs": ""
+    },
+    {
+      "Session": "41",
+      "Topic": "Chapter 10. Transportation Risk Management (cont.) 5. Understand the key factors in risk assessment 6. Discuss the four techniques for managing transportation risks 7. Appreciate the challenge of balancing transportation security and global trade efficiency 8. Recognize key transportation security regulations and initiatives",
+      "Learning-Teaching Type": "Offline",
+      "LO": "CLO10",
+      "ITU": "T",
+      "Student Materials": "Powerpoint, reference books, additional materials",
+      "S-Download": "",
+      "Student's Tasks": "",
+      "URLs": ""
+    },
+    {
+      "Session": "42",
+      "Topic": "Chapter 11. Global Transportation Management 1. Discuss the relationship between international trade and global transportation 2. Identify the three critical flows in global supply chains 3. Recognize the importance of proper global transportation planning 4. Understand the role of Incoterms in determining transportation responsibilities, risks, and costs",
+      "Learning-Teaching Type": "Offline",
+      "LO": "CLO11",
+      "ITU": "T",
+      "Student Materials": "Powerpoint, reference books, additional materials",
+      "S-Download": "LOG321ch11A",
+      "Student's Tasks": "",
+      "URLs": ""
+    },
+    {
+      "Session": "43",
+      "Topic": "Chapter 11. Global Transportation Management 5. Describe the payment term options available to exporters and importers 6. Appreciate the value of timely, accurate global freight documentation 7. Analyze the key issues in effective international transportation mode and carrier selection 8. Evaluate the critical factors in route design for international shipments",
+      "Learning-Teaching Type": "Offline",
+      "LO": "CLO11",
+      "ITU": "T",
+      "Student Materials": "Powerpoint, reference books, additional materials",
+      "S-Download": "",
+      "Student's Tasks": "",
+      "URLs": ""
+    },
+    {
+      "Session": "44",
+      "Topic": "Chapter 11. Global Transportation Management 1. Recognize the importance of intermodal service in global transportation execution 2. Describe the intermodal options available to global transportation managers 3. Discuss the importance of proper freight packing, documentation, and insurance 4. Understand the government’s role in safe and secure global transportation operations 5. Discuss ocean transportation services, equipment options, and rate structures",
+      "Learning-Teaching Type": "Offline",
+      "LO": "CLO11",
+      "ITU": "T",
+      "Student Materials": "Powerpoint, reference books, additional materials",
+      "S-Download": "LOG321ch11B",
+      "Student's Tasks": "",
+      "URLs": ""
+    },
+    {
+      "Session": "45",
+      "Topic": "Chapter 11. Global Transportation Management 6. Describe international air transportation services, equipment options, and rate structures 7. Understand the role of ancillary service providers in facilitating global freight flows 8. Appreciate the critical roles that seaports and airports play in the global supply chain 9. Articulate the customs clearance process for importing goods 10. Analyze current issues impacting the execution of global transportation",
+      "Learning-Teaching Type": "Offline",
+      "LO": "CLO11",
+      "ITU": "T",
+      "Student Materials": "Powerpoint, reference books, additional materials",
+      "S-Download": "",
+      "Student's Tasks": "",
+      "URLs": ""
+    },
+    {
+      "Session": "46",
+      "Topic": "Chapter 12. Transportation Regulation and Public Policy 1. Understand the bases for the regulation of transportation in the United States 2. Appreciate the roles of regulatory agencies and the courts in regulating transportation 3. Obtain a knowledge of previous and current regulations affecting transportation 4. Understand the need for a national transportation policy",
+      "Learning-Teaching Type": "Offline",
+      "LO": "CLO12",
+      "ITU": "T",
+      "Student Materials": "Powerpoint, reference books, additional materials",
+      "S-Download": "LOG321ch12",
+      "Student's Tasks": "",
+      "URLs": ""
+    },
+    {
+      "Session": "47",
+      "Topic": "Chapter 12. Transportation Regulation and Public Policy (cont.) 5. Identify and assess the need and roles of public promotion in transportation 6. Appreciate the role of user charges 7. Obtain knowledge of transportation safety and security regulations in the United States and Vietnam",
+      "Learning-Teaching Type": "Offline",
+      "LO": "CLO12",
+      "ITU": "T",
+      "Student Materials": "Powerpoint, reference books, additional materials",
+      "S-Download": "",
+      "Student's Tasks": "",
+      "URLs": ""
+    },
+    {
+      "Session": "48",
+      "Topic": "Chapter 12. Transportation Regulation and Public Policy (cont.) 5. Identify and assess the need and roles of public promotion in transportation 6. Appreciate the role of user charges 7. Obtain knowledge of transportation safety and security regulations in the United States and Vietnam",
+      "Learning-Teaching Type": "Offline",
+      "LO": "CLO12",
+      "ITU": "T",
+      "Student Materials": "Powerpoint, reference books, additional materials",
+      "S-Download": "",
+      "Student's Tasks": "",
+      "URLs": ""
+    },
+    {
+      "Session": "49",
+      "Topic": "Chapter 12. Transportation Regulation and Public Policy (cont.) 5. Identify and assess the need and roles of public promotion in transportation 6. Appreciate the role of user charges 7. Obtain knowledge of transportation safety and security regulations in the United States and Vietnam",
+      "Learning-Teaching Type": "Offline",
+      "LO": "CLO12",
+      "ITU": "T",
+      "Student Materials": "Powerpoint, reference books, additional materials",
+      "S-Download": "",
+      "Student's Tasks": "",
+      "URLs": ""
+    },
+    {
+      "Session": "50",
+      "Topic": "Chapter 13. Issues and Challenges of Global Supply Chains 1. Discuss the growing concern about transport capacity and the transport infrastructure needed to support global trade 2. Understand what conditions or factors fostered prosperity during the 1980s and 1990s 3. Appreciate the impact and challenges associated with congestion and the transport infrastructure in the overall economy 4. Understand the challenges and issues related to congestion and infrastructure among the major modes of transportation 5. Discuss why sustainability has become a major objective for businesses in general and especially for transportation",
+      "Learning-Teaching Type": "Offline",
+      "LO": "CLO13",
+      "ITU": "T",
+      "Student Materials": "Powerpoint, reference books, additional materials",
+      "S-Download": "LOG321_ch13",
+      "Student's Tasks": "",
+      "URLs": ""
+    },
+    {
+      "Session": "51",
+      "Topic": "Chapter 13. Issues and Challenges of Global Supply Chains (cont.) 6. Appreciate the impact that shipment consolidation and eliminating water from some finished products can have upon sustainability and supply chain costs 7. Discuss the role and objectives of the SmartWay Transport Program sponsored by the Environmental Protection Agency 8. Develop insights into the special challenges that transport companies will face in the 21st century with respect to energy 9. Appreciate the opportunities that transport carriers will have to improve supply chain performance through proactive collaboration and technology 10. Understand how supply chain visibility can help transport carriers to improve their efficiency and effectiveness",
+      "Learning-Teaching Type": "Offline",
+      "LO": "CLO13",
+      "ITU": "T",
+      "Student Materials": "Powerpoint, reference books, additional materials",
+      "S-Download": "",
+      "Student's Tasks": "",
+      "URLs": ""
+    },
+    {
+      "Session": "52",
+      "Topic": "Chapter 13. Issues and Challenges of Global Supply Chains (cont.) 6. Appreciate the impact that shipment consolidation and eliminating water from some finished products can have upon sustainability and supply chain costs 7. Discuss the role and objectives of the SmartWay Transport Program sponsored by the Environmental Protection Agency 8. Develop insights into the special challenges that transport companies will face in the 21st century with respect to energy 9. Appreciate the opportunities that transport carriers will have to improve supply chain performance through proactive collaboration and technology 10. Understand how supply chain visibility can help transport carriers to improve their efficiency and effectiveness",
+      "Learning-Teaching Type": "Offline",
+      "LO": "CLO13",
+      "ITU": "T",
+      "Student Materials": "Powerpoint, reference books, additional materials",
+      "S-Download": "",
+      "Student's Tasks": "",
+      "URLs": ""
+    },
+    {
+      "Session": "53",
+      "Topic": "Chapter 13. Issues and Challenges of Global Supply Chains (cont.) 6. Appreciate the impact that shipment consolidation and eliminating water from some finished products can have upon sustainability and supply chain costs 7. Discuss the role and objectives of the SmartWay Transport Program sponsored by the Environmental Protection Agency 8. Develop insights into the special challenges that transport companies will face in the 21st century with respect to energy 9. Appreciate the opportunities that transport carriers will have to improve supply chain performance through proactive collaboration and technology 10. Understand how supply chain visibility can help transport carriers to improve their efficiency and effectiveness",
+      "Learning-Teaching Type": "Offline",
+      "LO": "CLO13",
+      "ITU": "T",
+      "Student Materials": "Powerpoint, reference books, additional materials",
+      "S-Download": "",
+      "Student's Tasks": "",
+      "URLs": ""
+    },
+    {
+      "Session": "54",
+      "Topic": "Quiz 2: Cover Chap 9,10, 11,12,13",
+      "Learning-Teaching Type": "Offline",
+      "LO": "CLO9, CLO10, CLO11, CLO12, CLO13",
+      "ITU": "U",
+      "Student Materials": "Powerpoint, reference books, additional materials",
+      "S-Download": "",
+      "Student's Tasks": "",
+      "URLs": ""
+    },
+    {
+      "Session": "55",
+      "Topic": "Quiz 2: Cover Chap 9,10, 11,12,13",
+      "Learning-Teaching Type": "Offline",
+      "LO": "CLO9, CLO10, CLO11, CLO12, CLO13",
+      "ITU": "U",
+      "Student Materials": "Powerpoint, reference books, additional materials",
+      "S-Download": "",
+      "Student's Tasks": "",
+      "URLs": ""
+    },
+    {
+      "Session": "56",
+      "Topic": "Group presentation & Report submission",
+      "Learning-Teaching Type": "Offline",
+      "LO": "CLO1, CLO2, CLO3, CLO4, CLO5, CLO6, CL)7, CLO8, CLO9, CLO10, CLO11, CLO12, CLO13",
+      "ITU": "U",
+      "Student Materials": "Powerpoint, reference books, additional materials",
+      "S-Download": "",
+      "Student's Tasks": "",
+      "URLs": ""
+    },
+    {
+      "Session": "57",
+      "Topic": "Group presentation & Report submission",
+      "Learning-Teaching Type": "Offline",
+      "LO": "CLO1, CLO2, CLO3, CLO4, CLO5, CLO6, CL)7, CLO8, CLO9, CLO10, CLO11, CLO12, CLO14",
+      "ITU": "U",
+      "Student Materials": "Powerpoint, reference books, additional materials",
+      "S-Download": "",
+      "Student's Tasks": "",
+      "URLs": ""
+    },
+    {
+      "Session": "58",
+      "Topic": "Group presentation & Report submission",
+      "Learning-Teaching Type": "Offline",
+      "LO": "CLO1, CLO2, CLO3, CLO4, CLO5, CLO6, CL)7, CLO8, CLO9, CLO10, CLO11, CLO12, CLO15",
+      "ITU": "U",
+      "Student Materials": "Powerpoint, reference books, additional materials",
+      "S-Download": "",
+      "Student's Tasks": "",
+      "URLs": ""
+    },
+    {
+      "Session": "59",
+      "Topic": "Essay Test & Course Revision",
+      "Learning-Teaching Type": "Offline",
+      "LO": "CLO1, CLO2, CLO3, CLO4, CLO5, CLO6, CL)7, CLO8, CLO9, CLO10, CLO11, CLO12, CLO16",
+      "ITU": "U",
+      "Student Materials": "Powerpoint, reference books, additional materials",
+      "S-Download": "",
+      "Student's Tasks": "",
+      "URLs": ""
+    },
+    {
+      "Session": "60",
+      "Topic": "Essay Test & Course Revision",
+      "Learning-Teaching Type": "Offline",
+      "LO": "CLO1, CLO2, CLO3, CLO4, CLO5, CLO6, CL)7, CLO8, CLO9, CLO10, CLO11, CLO12, CLO17",
+      "ITU": "U",
+      "Student Materials": "Powerpoint, reference books, additional materials",
+      "S-Download": "",
+      "Student's Tasks": "",
+      "URLs": ""
+    }
+  ],
+  "constructive_questions": [
+    {
+      "No.": "1",
+      "Session No": "1",
+      "Name": "CT1.1",
+      "Details": "Which key factors impact on changing transportation?"
+    },
+    {
+      "No.": "2",
+      "Session No": "1",
+      "Name": "ĐN1.1",
+      "Details": "Which are the top 3 countries that have highest export-trade values?"
+    },
+    {
+      "No.": "3",
+      "Session No": "1",
+      "Name": "ĐN1.2",
+      "Details": "Which are the top 3 countries that have highest import-trade values?"
+    },
+    {
+      "No.": "4",
+      "Session No": "2",
+      "Name": "CT1.2",
+      "Details": "What is transportation logistics system?"
+    },
+    {
+      "No.": "5",
+      "Session No": "2",
+      "Name": "ĐN1.3",
+      "Details": "When will demand for transportation occur?"
+    },
+    {
+      "No.": "6",
+      "Session No": "3",
+      "Name": "CT1.3",
+      "Details": "Why transportation is considered bridge the gap between supply and demand?"
+    },
+    {
+      "No.": "7",
+      "Session No": "3",
+      "Name": "ĐN1.4",
+      "Details": "Which supply chain concept is the most suitable in current context?"
+    },
+    {
+      "No.": "8",
+      "Session No": "3",
+      "Name": "ĐN1.5",
+      "Details": "Robotics have attracted more attention in recent years. Why? How are robots being used in supply chains?"
+    },
+    {
+      "No.": "9",
+      "Session No": "4",
+      "Name": "CT2.1",
+      "Details": "What is supply chain management?"
+    },
+    {
+      "No.": "10",
+      "Session No": "4",
+      "Name": "ĐN2.1",
+      "Details": "Which type of unit is usually used to measure the demand for transportation?"
+    },
+    {
+      "No.": "11",
+      "Session No": "5",
+      "Name": "CT2.2",
+      "Details": "Please, overivew of transportation development history."
+    },
+    {
+      "No.": "12",
+      "Session No": "5",
+      "Name": "ĐN2.2",
+      "Details": "Which costs are included in the landed costs?"
+    },
+    {
+      "No.": "13",
+      "Session No": "6",
+      "Name": "CT2.3",
+      "Details": "Influences of transportation in the U.S econonomy"
+    },
+    {
+      "No.": "14",
+      "Session No": "6",
+      "Name": "ĐN2.3",
+      "Details": "How can transportation affect our life? Which aspect has been effected the most?"
+    },
+    {
+      "No.": "15",
+      "Session No": "6",
+      "Name": "ĐN2.4",
+      "Details": "While improved transportation systems provide economic benefits, there may be some associated environmental costs. What are the major environmental costs associated with transportation and what are their potential negative impacts?"
+    },
+    {
+      "No.": "16",
+      "Session No": "7",
+      "Name": "CT3.1",
+      "Details": "What are negative and postive impacts of transportation on environment and society?"
+    },
+    {
+      "No.": "17",
+      "Session No": "7",
+      "Name": "ĐN3.1",
+      "Details": "Describe the attributes of information quality and how they impact transportation decision making"
+    },
+    {
+      "No.": "18",
+      "Session No": "8",
+      "Name": "CT3.2",
+      "Details": "What are impacts of transportation on political system?"
+    },
+    {
+      "No.": "19",
+      "Session No": "8",
+      "Name": "ĐN3.2",
+      "Details": "What are some of the most valuable TMS functionalities?"
+    },
+    {
+      "No.": "20",
+      "Session No": "9",
+      "Name": "CT3.3",
+      "Details": "Why need we to have regulation of transportation?"
+    },
+    {
+      "No.": "21",
+      "Session No": "9",
+      "Name": "ĐN3.3",
+      "Details": "What options are available for procuring transportation software? Why would a com- pany pursue each option?"
+    },
+    {
+      "No.": "22",
+      "Session No": "9",
+      "Name": "ĐN3.4",
+      "Details": "Why should transportation professionals pay attention to the emerging area of blockchain?"
+    },
+    {
+      "No.": "23",
+      "Session No": "10",
+      "Name": "CT4.1",
+      "Details": "Why did antritrust laws happen in transportation?"
+    },
+    {
+      "No.": "24",
+      "Session No": "10",
+      "Name": "ĐN4.1",
+      "Details": "How can you distinguishe between Rates and Prices?"
+    },
+    {
+      "No.": "25",
+      "Session No": "11",
+      "Name": "CT4.2",
+      "Details": "What are roles of national transport policy?"
+    },
+    {
+      "No.": "26",
+      "Session No": "11",
+      "Name": "ĐN4.2",
+      "Details": "How might pricing strategies differ among carriers in competitive markets, oligopolistic markets, and monopolistic markets?"
+    },
+    {
+      "No.": "27",
+      "Session No": "12",
+      "Name": "CT4.3",
+      "Details": "What is transportation safety? why is it important?"
+    },
+    {
+      "No.": "28",
+      "Session No": "12",
+      "Name": "ĐN4.3",
+      "Details": "If you were a shipper, which market model would you prefer?"
+    },
+    {
+      "No.": "29",
+      "Session No": "12",
+      "Name": "ĐN4.4",
+      "Details": "What is a released value rate and how does its use affect a shipper’s transportation costs?"
+    },
+    {
+      "No.": "30",
+      "Session No": "13",
+      "Name": "CT5.1",
+      "Details": "What is principal market structures of transportation?"
+    },
+    {
+      "No.": "31",
+      "Session No": "14",
+      "Name": "CT5.2",
+      "Details": "What is differential pricing based on place route?"
+    },
+    {
+      "No.": "32",
+      "Session No": "15",
+      "Name": "CT5.3",
+      "Details": "What are floor price and ceilling price in transportation?"
+    },
+    {
+      "No.": "33",
+      "Session No": "16",
+      "Name": "CT6.1",
+      "Details": "What is price in transportation mangement?"
+    },
+    {
+      "No.": "34",
+      "Session No": "16",
+      "Name": "ĐN6.1",
+      "Details": "What are the differences between For-hire vs Private Carriers?"
+    },
+    {
+      "No.": "35",
+      "Session No": "17",
+      "Name": "CT6.2",
+      "Details": "Please, discuss role of transportation logistic in supply chain."
+    },
+    {
+      "No.": "36",
+      "Session No": "17",
+      "Name": "ĐN6.2",
+      "Details": "Compare and contrast the TL segment of the motor carrier industry with the LTL segment in terms of infrastructure, cost structure, market structure, and operating characteristics."
+    },
+    {
+      "No.": "37",
+      "Session No": "18",
+      "Name": "CT6.3",
+      "Details": "Please, discuss future transportation trends"
+    },
+    {
+      "No.": "38",
+      "Session No": "18",
+      "Name": "ĐN6.3",
+      "Details": "Discuss the cost structure of motor carriers and how it is affected by the infrastructure."
+    },
+    {
+      "No.": "39",
+      "Session No": "18",
+      "Name": "ĐN6.4",
+      "Details": "Describe how fuel and labor have impacted motor carrier cost structures and how they have altered motor carrier operations."
+    },
+    {
+      "No.": "40",
+      "Session No": "19",
+      "Name": "CT7.1",
+      "Details": "To compare public transport system between th U.S and China"
+    },
+    {
+      "No.": "41",
+      "Session No": "19",
+      "Name": "ĐN7.1",
+      "Details": "Explain the difference between intramodal and intermodal competition in the railroad industry. Which form of competition is most beneficial to shippers? Why?"
+    },
+    {
+      "No.": "42",
+      "Session No": "20",
+      "Name": "CT7.2",
+      "Details": "What are the service characteristics of motor carriers in the U.S?"
+    },
+    {
+      "No.": "43",
+      "Session No": "20",
+      "Name": "ĐN7.2",
+      "Details": "The railroad industry has developed a number of new types of equipment to replace the standard boxcar. What are they? What is the rationale supporting the diversification of equipment?"
+    },
+    {
+      "No.": "44",
+      "Session No": "21",
+      "Name": "CT7.3",
+      "Details": "How is the impact of fuel and labor on the motor carrier cost structure?"
+    },
+    {
+      "No.": "45",
+      "Session No": "21",
+      "Name": "ĐN7.3",
+      "Details": "Discuss the major current issues facing the railroad industry. Select one of these major issues and present appropriate recommendations for resolving the issue."
+    },
+    {
+      "No.": "46",
+      "Session No": "22",
+      "Name": "CT8.1",
+      "Details": "What are major types of commodities hauled by the railroads?"
+    },
+    {
+      "No.": "47",
+      "Session No": "22",
+      "Name": "ĐN7.4",
+      "Details": "The rail road industry’s cost structure is different than that of the motor carrier industry. What factors contribute to this difference? What impact do these differences have for the railroads in terms of pricing, competitiveness, and investment?"
+    },
+    {
+      "No.": "48",
+      "Session No": "23",
+      "Name": "CT8.2",
+      "Details": "What is importance of air transportation in the U.S. economy?"
+    },
+    {
+      "No.": "49",
+      "Session No": "23",
+      "Name": "ĐN8.1",
+      "Details": "Discuss the ways in which air carriers compete with each other."
+    },
+    {
+      "No.": "50",
+      "Session No": "24",
+      "Name": "CT8.3",
+      "Details": "What are current issues facing airlines today?"
+    },
+    {
+      "No.": "51",
+      "Session No": "24",
+      "Name": "ĐN8.2",
+      "Details": "What is the major advantage of air carriers? How does this advantage impact the inventory levels of those firms using air transportation?"
+    },
+    {
+      "No.": "52",
+      "Session No": "25",
+      "Name": "CT9.1",
+      "Details": "Discuss the various types of water carriers and its roles in the overall water carrier system"
+    },
+    {
+      "No.": "53",
+      "Session No": "25",
+      "Name": "ĐN8.3",
+      "Details": "Do air carriers have economies of scale at any level? Economies of density? Discuss and support your answer with examples."
+    },
+    {
+      "No.": "54",
+      "Session No": "25",
+      "Name": "ĐN8.4",
+      "Details": "How do air carriers price their services? Is the weight or density of the shipment a factor? Explain this factor as part of your answer. How does air carrier pricing relate to the value of the goods being transported?"
+    },
+    {
+      "No.": "55",
+      "Session No": "26",
+      "Name": "CT9.2",
+      "Details": "Please, present current position of the pipeline industry in the economy"
+    },
+    {
+      "No.": "56",
+      "Session No": "27",
+      "Name": "CT9.3",
+      "Details": "What are the different types of vehicles and terminals used in the motor carrier industry in the U.S?"
+    },
+    {
+      "No.": "57",
+      "Session No": "28",
+      "Name": "CT10.1",
+      "Details": "Discuss the current issues facing the railroad industry today"
+    },
+    {
+      "No.": "58",
+      "Session No": "29",
+      "Name": "CT10.2",
+      "Details": "What do you think about Covid-19 impact on transportation?"
+    },
+    {
+      "No.": "59",
+      "Session No": "30",
+      "Name": "CT10.3",
+      "Details": "What is the concept of risk management in transportation?"
+    },
+    {
+      "No.": "60",
+      "Session No": "31",
+      "Name": "CT11.1",
+      "Details": "Which main categories and types of transportation risk are?"
+    },
+    {
+      "No.": "61",
+      "Session No": "31",
+      "Name": "ĐN11.1",
+      "Details": "Water carriers played a dominant role in the transportation system of the United States in the 18th and 19th centuries. Why has their relative position declined during the 20th century?"
+    },
+    {
+      "No.": "62",
+      "Session No": "32",
+      "Name": "CT11.2",
+      "Details": "What are four techniques for managing transportation risks?"
+    },
+    {
+      "No.": "63",
+      "Session No": "32",
+      "Name": "ĐN11.2",
+      "Details": "Are water carriers still an important component of the total transportation system? Why or why not?"
+    },
+    {
+      "No.": "64",
+      "Session No": "32",
+      "Name": "ĐN11.3",
+      "Details": "What would be the impact of higher fuel charges on the water carrier industry? Provide a rationale for raising their user charges."
+    },
+    {
+      "No.": "65",
+      "Session No": "33",
+      "Name": "CT11.3",
+      "Details": "What is challenge of balancing transportation security and global trade efficiency?"
+    },
+    {
+      "No.": "66",
+      "Session No": "33",
+      "Name": "ĐN11.4",
+      "Details": "Why are pipelines unknown to many individuals? Do you think the pipelines should advertise to change this?"
+    },
+    {
+      "No.": "67",
+      "Session No": "33",
+      "Name": "ĐN11.5",
+      "Details": "The pipeline industry has approximately 100 companies, as compared to the motor carrier industry with more than 50,000. What are the underlying economic causes for this difference, given the fact that they both carry approximately the same volume of intercity ton-miles?"
+    },
+    {
+      "No.": "68",
+      "Session No": "34",
+      "Name": "CT12.1",
+      "Details": "What are three critical flows in global supply chains? Its role in transportation"
+    },
+    {
+      "No.": "69",
+      "Session No": "34",
+      "Name": "ĐN12.1",
+      "Details": "Is risk a natural phenomenon or a manmade problem in transportation? Briefly defend your perspective."
+    },
+    {
+      "No.": "70",
+      "Session No": "34",
+      "Name": "ĐN12.2",
+      "Details": "Identify six categories of transportation risks, describe them, and give a real-life transportation examples for each risk categories."
+    },
+    {
+      "No.": "71",
+      "Session No": "35",
+      "Name": "CT12.2",
+      "Details": "What do think about value of timely, accurate global freight documentation in transportation?"
+    },
+    {
+      "No.": "72",
+      "Session No": "35",
+      "Name": "ĐN12.3",
+      "Details": "Risk analysis is a critical component of risk management. When conducting this activity, what are the two components of risk that must be analyzed? Why are they important?"
+    },
+    {
+      "No.": "73",
+      "Session No": "35",
+      "Name": "ĐN12.4",
+      "Details": "Discuss how companies can use the Internet of Things and other technologies to understand and respond to transportation risk."
+    },
+    {
+      "No.": "74",
+      "Session No": "36",
+      "Name": "CT12.3",
+      "Details": "Please, present critical factors in route design for international shipments"
+    },
+    {
+      "No.": "75",
+      "Session No": "36",
+      "Name": "ĐN12.5",
+      "Details": "What is the role of trade terms in global transportation? Briefly describe the four groups of Incoterms."
+    },
+    {
+      "No.": "76",
+      "Session No": "36",
+      "Name": "ĐN12.6",
+      "Details": "What payment options are available for international transactions? How does each option protect the interests of the exporter and the importer?"
+    },
+    {
+      "No.": "77",
+      "Session No": "36",
+      "Name": "ĐN12.7",
+      "Details": "What factors impact mode selection for global transportation?"
+    },
+    {
+      "No.": "78",
+      "Session No": "37",
+      "Name": "CT13.1",
+      "Details": "Why is intermodal service important in global transportation execution?"
+    },
+    {
+      "No.": "79",
+      "Session No": "38",
+      "Name": "CT13.2",
+      "Details": "Discuss the importance of proper freight packing, documentation, and insurance in international transportation"
+    },
+    {
+      "No.": "80",
+      "Session No": "39",
+      "Name": "CT13.3",
+      "Details": "What do you think about government’s role in safe and secure global transportation operations?"
+    },
+    {
+      "No.": "81",
+      "Session No": "40",
+      "Name": "CT14.1",
+      "Details": "What are current issues impacting the execution of global transportation?"
+    },
+    {
+      "No.": "82",
+      "Session No": "41",
+      "Name": "CT14.2",
+      "Details": "What is concept of third party logistics and its role in the movement of goods?"
+    },
+    {
+      "No.": "83",
+      "Session No": "42",
+      "Name": "CT14.3",
+      "Details": "What are current challenges and competitive issues in the third party logistics industry?"
+    },
+    {
+      "No.": "84",
+      "Session No": "43",
+      "Name": "CT15.1",
+      "Details": "Discuss roles of private transportationin international trade"
+    },
+    {
+      "No.": "85",
+      "Session No": "43",
+      "Name": "ĐN15.1",
+      "Details": "How are air cargo rates calculated? Calculate the cost of international air transportation for the following shipment: 200 cartons of fine jewelry weighing a total of 2,500 pounds. The carton dimensions are 18 inches by 12 inches by 12 inches (L × W × H). The freight rate is $10.25 per pound."
+    },
+    {
+      "No.": "86",
+      "Session No": "43",
+      "Name": "ĐN15.2",
+      "Details": "Why is documentation important to global transportation? Briefly describe the primary documents used to facilitate global cargo flows."
+    },
+    {
+      "No.": "87",
+      "Session No": "44",
+      "Name": "CT15.2",
+      "Details": "Discuss the advantages and disadvantages of private trucking"
+    },
+    {
+      "No.": "88",
+      "Session No": "44",
+      "Name": "ĐN15.3",
+      "Details": "What combination of intermodal services would be most beneficial for the following products? a. Lumber moving from British Columbia, Canada, to London, England b. Seedless grapes moving from Valparaiso, Chile, to Phoenix, Arizona c. iPhones moving from Zhengzhou, China, to Johannesburg, South Africa"
+    },
+    {
+      "No.": "89",
+      "Session No": "45",
+      "Name": "CT15.3",
+      "Details": "What are challenges associated with the daily operation of a private fleet?"
+    },
+    {
+      "No.": "90",
+      "Session No": "45",
+      "Name": "ĐN15.4",
+      "Details": "If you need to move two TEUs of Adidas footwear from the factory in Vung Tau, Vietnam to the European distribution center in Antwerp, Belgium, what route options should be considered? Which would you choose?"
+    },
+    {
+      "No.": "91",
+      "Session No": "46",
+      "Name": "CT16.1",
+      "Details": "Discuss the importance of control for a private fleet to improve efficiency and effectiveness"
+    },
+    {
+      "No.": "92",
+      "Session No": "46",
+      "Name": "ĐN16.1",
+      "Details": "How has common law provided a basis for the government’s regulation of transportation in the United States?"
+    },
+    {
+      "No.": "93",
+      "Session No": "46",
+      "Name": "ĐN16.2",
+      "Details": "Identify the four primary types of transportation regulation. Describe the purpose or rationale for each type."
+    },
+    {
+      "No.": "94",
+      "Session No": "47",
+      "Name": "CT16.2",
+      "Details": "Discuss impacts and challenges associated with congestion and the transport infrastructure in Aisan economy"
+    },
+    {
+      "No.": "95",
+      "Session No": "47",
+      "Name": "ĐN16.3",
+      "Details": "What are transportation user charges? What is the purpose of such charges?"
+    },
+    {
+      "No.": "96",
+      "Session No": "48",
+      "Name": "CT16.3",
+      "Details": "What are challenges and issues related to congestion and infrastructure among the major modes of transportation in the United States?"
+    },
+    {
+      "No.": "97",
+      "Session No": "48",
+      "Name": "ĐN16.4",
+      "Details": "Which mode of transportation has received the greatest level of government promotional support? Defend your answer."
+    },
+    {
+      "No.": "98",
+      "Session No": "49",
+      "Name": "CT17.1",
+      "Details": "Discuss why sustainability has become a major objective for businesses in general and especially for transportation"
+    },
+    {
+      "No.": "99",
+      "Session No": "49",
+      "Name": "ĐN17.1",
+      "Details": "The supply chain industry is facing a severe talent gap. What are the causes of this gap? What can companies do to acquire and retain supply chain talent?"
+    },
+    {
+      "No.": "100",
+      "Session No": "49",
+      "Name": "ĐN17.2",
+      "Details": "Sustainability and the environment have captured the attention of ordinary citizens and also of shippers and carriers. What is the nature of the concern? How can shippers and carriers mitigate their impact on the environment?"
+    },
+    {
+      "No.": "101",
+      "Session No": "50",
+      "Name": "CT17.2",
+      "Details": "How is supply chain visibility to help transport carriers to improve their efficiency and effectiveness?"
+    },
+    {
+      "No.": "102",
+      "Session No": "50",
+      "Name": "ĐN17.3",
+      "Details": "“Don’t ship air” and “don’t ship water” are the bases of some important supply chain strategies. What do these statements really mean? What are the related strategies? How do these strategies help?"
+    },
+    {
+      "No.": "103",
+      "Session No": "51",
+      "Name": "CT17.3",
+      "Details": "Discuss the relationship between international trade and global transportationency?"
+    },
+    {
+      "No.": "104",
+      "Session No": "51",
+      "Name": "ĐN17.4",
+      "Details": "What is collaboration? How can transportation companies and shippers use collaboration to reduce fuel consumption and cost?"
+    },
+    {
+      "No.": "105",
+      "Session No": "52",
+      "Name": "CT18.1",
+      "Details": "What are key issues in effective international transportation mode?"
+    },
+    {
+      "No.": "106",
+      "Session No": "53",
+      "Name": "CT18.2",
+      "Details": "Why is information technology importnat in managing outsourced activities?"
+    },
+    {
+      "No.": "107",
+      "Session No": "54",
+      "Name": "CT18.3",
+      "Details": "What are challenges and issues associated with regulations pertaining to private trucking in the US?"
+    },
+    {
+      "No.": "108",
+      "Session No": "55",
+      "Name": "CT19.1",
+      "Details": "What are special challenges that transport companies will face in the 21st century with respect to energy?"
+    },
+    {
+      "No.": "109",
+      "Session No": "56",
+      "Name": "CT19.2",
+      "Details": "Why do seaports and airports play critical role in the global supply chain?"
+    },
+    {
+      "No.": "110",
+      "Session No": "57",
+      "Name": "CT19.3",
+      "Details": "The students will be given a case study and discussion related questions"
+    },
+    {
+      "No.": "111",
+      "Session No": "58",
+      "Name": "CT20.1",
+      "Details": "The students will be given a case study and discussion related questions"
+    },
+    {
+      "No.": "112",
+      "Session No": "59",
+      "Name": "CT20.2",
+      "Details": "The students will be given a case study and discussion related questions"
+    },
+    {
+      "No.": "113",
+      "Session No": "60",
+      "Name": "CT20.3",
+      "Details": "The students will be given a case study and discussion related questions"
+    }
+  ],
+  "materials": [
+    {
+      "No.": "1",
+      "Material Description": "AE Transportation: A Global Supply Chain Perspective",
+      "Author": "Robert A. Novack, Brian Gibson, John J. Coyle",
+      "Publisher": "Cengage",
+      "Published Date": "2019",
+      "Edition": "9th",
+      "ISBN": "ISBN-13: 9789814834667 | ISBN-10: 9814834661",
+      "Is Main Material": "True",
+      "Is Hard Copy": "True",
+      "Is Online": "False",
+      "Note": ""
+    },
+    {
+      "No.": "2",
+      "Material Description": "Transportation Global Supply Chain Perspective",
+      "Author": "Robert A. Novack, Brian Gibson, John J. Coyle",
+      "Publisher": "Cengage",
+      "Published Date": "2023",
+      "Edition": "10th",
+      "ISBN": "9780357908549",
+      "Is Main Material": "True",
+      "Is Hard Copy": "True",
+      "Is Online": "False",
+      "Note": "Chọn một trong 2 ấn bản. Ưu tiên mua ấn bản mới nhất"
+    },
+    {
+      "No.": "3",
+      "Material Description": "https://www.coursera.org/learn/ai-for-everyone",
+      "Author": "",
+      "Publisher": "",
+      "Published Date": "",
+      "Edition": "",
+      "ISBN": "",
+      "Is Main Material": "True",
+      "Is Hard Copy": "False",
+      "Is Online": "True",
+      "Note": ""
+    },
+    {
+      "No.": "4",
+      "Material Description": "https://www.coursera.org/learn/introduction-to-ai",
+      "Author": "",
+      "Publisher": "Coursera",
+      "Published Date": "",
+      "Edition": "",
+      "ISBN": "",
+      "Is Main Material": "True",
+      "Is Hard Copy": "False",
+      "Is Online": "True",
+      "Note": ""
+    }
+  ],
+  "source_path": "data/raw/syllabi/14159.html",
+  "id": "syllabus:14159"
+}

@@ -1,0 +1,986 @@
+{
+  "syllabus_id": 13451,
+  "subject_code": "DTG111",
+  "subject_name": "Visual Design Tools 1_Công cụ thiết kế trực quan 1",
+  "syllabus_name": "Visual Design Tools 1_Công cụ thiết kế trực quan 1",
+  "credits": 3,
+  "degree_level": "Bachelor",
+  "time_allocation": "Study hour (150h) = 45h contact hours + 105h self-study",
+  "prerequisite": "None",
+  "general_information": {
+    "Syllabus ID": "13451",
+    "Syllabus Name": "Visual Design Tools 1_Công cụ thiết kế trực quan 1",
+    "Course Name English": "Visual Design Tools 1",
+    "Subject Code": "DTG111",
+    "Learning-Teaching Method": "Lecture,Practice,discussion",
+    "NoCredit": "3",
+    "Degree Level": "Bachelor",
+    "Time Allocation": "Study hour (150h) = 45h contact hours + 105h self-study",
+    "Pre-Requisite": "None",
+    "Description": "The course empowerC14ommon Adobe 2D tools for Multimedia designers, which are Illustrator, Photoshop, InDesign and Xd, so that they can finalize their 2D designs better and able to deliver completed professional product to customers Through practical assignments, students have chances to apply knowledge on colors, typography etc. in other courses along with computers and other tools to creaate graphic applications. In addition, students will be introduced to the application of AI tools in design workflows, developing AI literacy to enhance creativity and collaboration. The course also emphasizes the cultivation of a professional attitude and working style, preparing students for real-world design projects and industry practices.",
+    "StudentTasks": "- Read textbook and install software before coming to class - Complete assignments in class, submit online thoughout LMS or Classroom platform. - Access the course website (https://flm.fpt.edu.vn/) for up-to-date information and material of the course. - Actively participate into class, review and comments to classmate works, ask instructor questions, bring into class everyday samples for references. - Complete homework and other requirements by instructors - Using laptop in class only for taking note, research and doing assignment purposes - No talking, surfing, chatting, gaming, facebooking, using phone etc. while the teacher giving instruction. - Present at least 80% class attendance in order to pass the course.",
+    "Tools": "1. The school prepare: (Installed) - Classroom with chairs, desks, large monitor with HDMI connection for demo/presentation 2. Student prepare: - Note/Sketchbooks, pens and pencils - Laptop for graphic design with Adobe Photoshop, Illustrator and Indesign installed - Suitable Generative AI tools Students are required to use their personal account (not the university or organizational account) to register for an Adobe account.",
+    "Scoring Scale": "10",
+    "DecisionNo MM/dd/yyyy": "932/QĐ-ĐHFPT dated 08/22/2025",
+    "IsApproved": "True",
+    "Note": "5",
+    "Is Scored": "True",
+    "MinAvgMarkToPass": "5",
+    "IsActive": "True",
+    "ApprovedDate": "8/22/2025"
+  },
+  "active": true,
+  "approved": true,
+  "decision": "932/QĐ-ĐHFPT dated 08/22/2025",
+  "description": "The course empowerC14ommon Adobe 2D tools for Multimedia designers, which are Illustrator, Photoshop, InDesign and Xd, so that they can finalize their 2D designs better and able to deliver completed professional product to customers Through practical assignments, students have chances to apply knowledge on colors, typography etc. in other courses along with computers and other tools to creaate graphic applications. In addition, students will be introduced to the application of AI tools in design workflows, developing AI literacy to enhance creativity and collaboration. The course also emphasizes the cultivation of a professional attitude and working style, preparing students for real-world design projects and industry practices.",
+  "learning_outcomes": [
+    {
+      "No.": "1",
+      "CLO Name": "CLO1",
+      "CLO Details": "Understanding of vector, bitmap, and layout principles, together with essential design principles as the basis for creating effective 2D design products."
+    },
+    {
+      "No.": "2",
+      "CLO Name": "CLO2",
+      "CLO Details": "Apply Adobe Illustrator proficiently to create vector-based design products such as logos, icons, and illustrations…"
+    },
+    {
+      "No.": "3",
+      "CLO Name": "CLO3",
+      "CLO Details": "Apply Adobe Photoshop proficiently to develop bitmap-based design products such as photo edits, digital paintings, and visual effects…"
+    },
+    {
+      "No.": "4",
+      "CLO Name": "CLO4",
+      "CLO Details": "Apply Adobe InDesign proficiently to produce layout-based publishing products such as brochures, magazines, and posters…"
+    },
+    {
+      "No.": "5",
+      "CLO Name": "CLO5",
+      "CLO Details": "Apply AI tools and demonstrate AI literacy to collaborate effectively."
+    },
+    {
+      "No.": "6",
+      "CLO Name": "CLO6",
+      "CLO Details": "Having a positive attitude and a professional working style."
+    }
+  ],
+  "assessments": [
+    {
+      "No.": "1",
+      "Category": "Participation",
+      "Type": "on-going",
+      "Part": "1",
+      "Weight": "10.0%",
+      "Completion Criteria": ">0",
+      "Duration": "",
+      "CLO": "",
+      "Question Type": "",
+      "No Question": "",
+      "Knowledge and Skill": "",
+      "Grading Guide": "",
+      "Note": "Participation grade will be given based on students' attendance, students' attitude, preparation, contribution of discussions."
+    },
+    {
+      "No.": "2",
+      "Category": "Progress test 1",
+      "Type": "on-going",
+      "Part": "1",
+      "Weight": "30.0%",
+      "Completion Criteria": ">0",
+      "Duration": "180m",
+      "CLO": "CLO1,CLO3,CLO5,CLO6",
+      "Question Type": "Students will receive the assignment instructions and requirements directly from the instructor. The task is to design a vector-based graphic product (ex: logo, icon, pattern, or vector illustration...) using Adobe Illustrator. Students are provided with a sample vector-based graphic product or may propose one for instructor approval. Students are required to reproduce the product using Illustrator tools and submit the work at the end of the session. Submission includes the original working file (.AI), and exported outputs in required formats.",
+      "No Question": "1",
+      "Knowledge and Skill": "Master basic and advanced Illustrator tools for vector drawing. Develop the ability to transform creative concepts into vector-based products: logo, icon, pattern, vector illustration.",
+      "Grading Guide": "in class, by instructor",
+      "Note": "This is the first assignment using the design tool, student are required to provide evidence that the work was created independently and to show their ability to create, manipulate, and export graphic files according to the assignment requirements."
+    },
+    {
+      "No.": "3",
+      "Category": "Progress test 2",
+      "Type": "on-going",
+      "Part": "1",
+      "Weight": "30.0%",
+      "Completion Criteria": ">0",
+      "Duration": "180m",
+      "CLO": "CLO1, CLO2, CLO3, CLO5, CLO6, CLO7, CLO8",
+      "Question Type": "Students will receive the assignment instructions and requirements directly from the instructor. Create a media graphic product: poster, social media content, promotional design... using Adobe Photoshop. AI integration. Option 1 (AI as Idea Partner) Students will use one or more AI tools to generate ideas for a specific media graphic product. Students are then required to recreate the AI-generated idea using Photoshop tools. Submission must include: Original Photoshop working file (.PSD), exported outputs in the required formats and documentation of the AI-generated idea. Option 2 ( AI as Creative Element Generator): Students may first propose their own product idea, discuss and confirm it with instructor. After idea approval, students will use Photoshop to create the final product, while being allowed to use AI tools to generate supporting elements. Submission must include: Original Photoshop working file (.PSD), exported outputs in the required formats and documentation of the AI-generated idea.",
+      "No Question": "1",
+      "Knowledge and Skill": "Use Photoshop tools effectively for image editing, photo manipulation, and digital compositing. Produce creative outputs such as posters, social media graphics, or promotional materials.",
+      "Grading Guide": "in class, by instructor",
+      "Note": "This project must be completed at home, and students are expected to integrate AI tools responsibly into their creative process."
+    },
+    {
+      "No.": "4",
+      "Category": "Progress test 3",
+      "Type": "on-going",
+      "Part": "1",
+      "Weight": "30.0%",
+      "Completion Criteria": ">0",
+      "Duration": "180m",
+      "CLO": "CLO1,CLO4,CLO6",
+      "Question Type": "Students will receive the assignment instructions and requirements directly from the instructor. Design a layout project:brochure, magazine spread, or template for digital or print publishing... Students will be given a layout brief or may propose one for instructor approval. Students are required to complete the assignment using InDesign. AI tools may be applied responsibly for supporting tasks such as generating placeholder text, sample images, illustration... Submission must include InDesign working file (.INDD), exported outputs in required formats, packaged file folder, printed version (if requested), documentation of the idea development process and AI-generated content.",
+      "No Question": "1",
+      "Knowledge and Skill": "Demonstrate proficiency in using InDesign tools effectively. Create professional layout projects such as magazines, brochures, and templates for print or digital publishing.",
+      "Grading Guide": "in class, by instructor",
+      "Note": "This project must be completed at home, and students are expected to integrate AI tools responsibly into their creative process."
+    }
+  ],
+  "schedule": [
+    {
+      "Session": "1",
+      "Topic": "- Introduction to Adobe Illustrator, Photoshop, Indesign and other Adobe graphic design applications - Studying plan - How to install, save, export, submit assignments",
+      "Learning-Teaching Type": "offline",
+      "LO": "CLO1",
+      "ITU": "I",
+      "Student Materials": "- Read Textbook Chapter 1, page 1-6",
+      "S-Download": "DTG111",
+      "Student's Tasks": "Discussion, taking notes",
+      "URLs": ""
+    },
+    {
+      "Session": "2",
+      "Topic": "- Introduction to Adobe Illustrator, Photoshop, Indesign and other Adobe graphic design applications - Studying plan - How to install, save, export, submit assignments",
+      "Learning-Teaching Type": "offline",
+      "LO": "CLO1",
+      "ITU": "I",
+      "Student Materials": "'- Read Textbook Chapter 1, page 1-6",
+      "S-Download": "DTG111",
+      "Student's Tasks": "Discussion, taking notes",
+      "URLs": ""
+    },
+    {
+      "Session": "3",
+      "Topic": "Part 1: ADOBE ILLUSTRATOR - Introduction about Illustrator - Working with objects - Menu Object - Transform & path finder - Drawing, pen tool, editing tools",
+      "Learning-Teaching Type": "offline",
+      "LO": "CLO1, CLO2",
+      "ITU": "IT",
+      "Student Materials": "Read Textbook Chapter 2, page 9-17, page 21-26, page 33-50",
+      "S-Download": "",
+      "Student's Tasks": "Practice",
+      "URLs": ""
+    },
+    {
+      "Session": "4",
+      "Topic": "Part 1: ADOBE ILLUSTRATOR - Introduction about Illustrator - Working with objects - Menu Object - Transform & path finder - Drawing, pen tool, editing tools",
+      "Learning-Teaching Type": "offline",
+      "LO": "CLO1, CLO2",
+      "ITU": "IT",
+      "Student Materials": "Read Textbook Chapter 2, page 9-17, page 21-26, page 33-50",
+      "S-Download": "",
+      "Student's Tasks": "Practice",
+      "URLs": ""
+    },
+    {
+      "Session": "5",
+      "Topic": "Part 1: ADOBE ILLUSTRATOR - Introduction about Illustrator - Working with objects - Menu Object - Transform & path finder - Drawing, pen tool, editing tools",
+      "Learning-Teaching Type": "offline",
+      "LO": "CLO1, CLO2",
+      "ITU": "IT",
+      "Student Materials": "Read Textbook Chapter 2, page 9-17, page 21-26, page 33-50",
+      "S-Download": "",
+      "Student's Tasks": "Practice",
+      "URLs": ""
+    },
+    {
+      "Session": "6",
+      "Topic": "Part 1: ADOBE ILLUSTRATOR - Introduction about Illustrator - Working with objects - Menu Object - Transform & path finder - Drawing, pen tool, editing tools",
+      "Learning-Teaching Type": "offline",
+      "LO": "CLO1, CLO2",
+      "ITU": "IT",
+      "Student Materials": "Read Textbook Chapter 2, page 9-17, page 21-26, page 33-50",
+      "S-Download": "",
+      "Student's Tasks": "Practice",
+      "URLs": ""
+    },
+    {
+      "Session": "7",
+      "Topic": "- Discussion, review and comments on previous - Types in Illustrator - Working with Type",
+      "Learning-Teaching Type": "offline",
+      "LO": "CLO1, CLO2",
+      "ITU": "TU",
+      "Student Materials": "Textbook Chapter 4, page 53 - 64",
+      "S-Download": "",
+      "Student's Tasks": "Practice",
+      "URLs": ""
+    },
+    {
+      "Session": "8",
+      "Topic": "- Discussion, review and comments on previous - Types in Illustrator - Working with Type",
+      "Learning-Teaching Type": "offline",
+      "LO": "CLO1, CLO2",
+      "ITU": "TU",
+      "Student Materials": "Textbook Chapter 4, page 53 - 64",
+      "S-Download": "",
+      "Student's Tasks": "Practice",
+      "URLs": ""
+    },
+    {
+      "Session": "9",
+      "Topic": "- Discussion, review and comments on previous - Types in Illustrator - Working with Type",
+      "Learning-Teaching Type": "offline",
+      "LO": "CLO1, CLO2",
+      "ITU": "TU",
+      "Student Materials": "Textbook Chapter 4, page 53 - 64",
+      "S-Download": "",
+      "Student's Tasks": "Practice",
+      "URLs": ""
+    },
+    {
+      "Session": "10",
+      "Topic": "- Discussion, review and comments on previous - Types in Illustrator - Working with Type",
+      "Learning-Teaching Type": "offline",
+      "LO": "CLO1, CLO2",
+      "ITU": "TU",
+      "Student Materials": "Textbook Chapter 4, page 53 - 64",
+      "S-Download": "",
+      "Student's Tasks": "Practice",
+      "URLs": ""
+    },
+    {
+      "Session": "11",
+      "Topic": "- Discussion, comments on previous - Color in Illustrator - Working with colors",
+      "Learning-Teaching Type": "offline",
+      "LO": "CLO1, CLO2",
+      "ITU": "TU",
+      "Student Materials": "Discussion and follow instructor guide",
+      "S-Download": "",
+      "Student's Tasks": "practice",
+      "URLs": ""
+    },
+    {
+      "Session": "12",
+      "Topic": "- Discussion, comments on previous - Color in Illustrator - Working with colors",
+      "Learning-Teaching Type": "offline",
+      "LO": "CLO1, CLO2",
+      "ITU": "TU",
+      "Student Materials": "Discussion and follow instructor guide",
+      "S-Download": "",
+      "Student's Tasks": "practice",
+      "URLs": ""
+    },
+    {
+      "Session": "13",
+      "Topic": "- Discussion, comments on previous - Color in Illustrator - Working with colors",
+      "Learning-Teaching Type": "offline",
+      "LO": "CLO1, CLO2",
+      "ITU": "TU",
+      "Student Materials": "Discussion and follow instructor guide",
+      "S-Download": "",
+      "Student's Tasks": "practice",
+      "URLs": ""
+    },
+    {
+      "Session": "14",
+      "Topic": "- Discussion, comments on previous - Color in Illustrator - Working with colors",
+      "Learning-Teaching Type": "offline",
+      "LO": "CLO1, CLO2",
+      "ITU": "TU",
+      "Student Materials": "Discussion and follow instructor guide",
+      "S-Download": "",
+      "Student's Tasks": "practice",
+      "URLs": ""
+    },
+    {
+      "Session": "15",
+      "Topic": "- Discussion, comments on previous - Filter và Effect -Transform objects - Masks - Symbol and libraries",
+      "Learning-Teaching Type": "offline",
+      "LO": "CLO1, CLO2",
+      "ITU": "TU",
+      "Student Materials": "Discussion and follow instructor guide",
+      "S-Download": "",
+      "Student's Tasks": "practice",
+      "URLs": ""
+    },
+    {
+      "Session": "16",
+      "Topic": "- Discussion, comments on previous - Filter và Effect -Transform objects - Masks - Symbol and libraries",
+      "Learning-Teaching Type": "offline",
+      "LO": "CLO1, CLO2",
+      "ITU": "TU",
+      "Student Materials": "Discussion and follow instructor guide",
+      "S-Download": "",
+      "Student's Tasks": "practice",
+      "URLs": ""
+    },
+    {
+      "Session": "17",
+      "Topic": "- Discussion, comments on previous - Filter và Effect -Transform objects - Masks - Symbol and libraries",
+      "Learning-Teaching Type": "offline",
+      "LO": "CLO1, CLO2",
+      "ITU": "TU",
+      "Student Materials": "Discussion and follow instructor guide",
+      "S-Download": "",
+      "Student's Tasks": "practice",
+      "URLs": ""
+    },
+    {
+      "Session": "18",
+      "Topic": "Gen AI Tool in Illustrator Text to Vector Graphic Text to Pattern Generative Shape Fill Generative Expand Generative Recolor",
+      "Learning-Teaching Type": "offline",
+      "LO": "CLO1, CLO2",
+      "ITU": "T, U",
+      "Student Materials": "Discussion and follow instructor guide",
+      "S-Download": "",
+      "Student's Tasks": "Taking notes, discussing,practicing",
+      "URLs": ""
+    },
+    {
+      "Session": "19",
+      "Topic": "Progress test 1: Design a vector-based graphic product",
+      "Learning-Teaching Type": "offline",
+      "LO": "CLO1, CLO2,CLO6",
+      "ITU": "U",
+      "Student Materials": "Review Textbook Chapter 1-4 and Reference book No. 3 if needed.",
+      "S-Download": "",
+      "Student's Tasks": "Follow the instructor’s requirements",
+      "URLs": ""
+    },
+    {
+      "Session": "20",
+      "Topic": "Part 2: PHOTOSHOP - Introduction about Photoshop - Selection - Working with selection tools - Menu Sellect",
+      "Learning-Teaching Type": "offline",
+      "LO": "CLO1, CLO3",
+      "ITU": "ITU",
+      "Student Materials": "Read Textbook Chapter 5, page 73 - 97",
+      "S-Download": "",
+      "Student's Tasks": "Discussion, taking notes, practice",
+      "URLs": ""
+    },
+    {
+      "Session": "21",
+      "Topic": "Part 2: PHOTOSHOP - Introduction about Photoshop - Selection - Working with selection tools - Menu Sellect",
+      "Learning-Teaching Type": "offline",
+      "LO": "CLO1, CLO3",
+      "ITU": "ITU",
+      "Student Materials": "Read Textbook Chapter 5, page 73 - 97",
+      "S-Download": "",
+      "Student's Tasks": "Discussion, taking notes, practice",
+      "URLs": ""
+    },
+    {
+      "Session": "22",
+      "Topic": "Part 2: PHOTOSHOP - Introduction about Photoshop - Selection - Working with selection tools - Menu Sellect",
+      "Learning-Teaching Type": "offline",
+      "LO": "CLO1, CLO3",
+      "ITU": "ITU",
+      "Student Materials": "Read Textbook Chapter 5, page 73 - 97",
+      "S-Download": "",
+      "Student's Tasks": "Discussion, taking notes, practice",
+      "URLs": ""
+    },
+    {
+      "Session": "23",
+      "Topic": "Part 2: PHOTOSHOP - Introduction about Photoshop - Selection - Working with selection tools - Menu Sellect",
+      "Learning-Teaching Type": "offline",
+      "LO": "CLO1, CLO3",
+      "ITU": "ITU",
+      "Student Materials": "Read Textbook Chapter 5, page 73 - 97",
+      "S-Download": "",
+      "Student's Tasks": "Discussion, taking notes, practice",
+      "URLs": ""
+    },
+    {
+      "Session": "24",
+      "Topic": "- Discussion, comments on previous - Working with Layer – Menu Layer - Ruler, Line making, measuring, working with Option menu",
+      "Learning-Teaching Type": "offline",
+      "LO": "CLO1, CLO3",
+      "ITU": "TU",
+      "Student Materials": "Read Textbook Chapter 6, page 101 - 114",
+      "S-Download": "",
+      "Student's Tasks": "practice",
+      "URLs": ""
+    },
+    {
+      "Session": "25",
+      "Topic": "- Discussion, comments on previous - Working with Layer – Menu Layer - Ruler, Line making, measuring, working with Option menu",
+      "Learning-Teaching Type": "offline",
+      "LO": "CLO1, CLO3",
+      "ITU": "TU",
+      "Student Materials": "Read Textbook Chapter 6, page 101 - 114",
+      "S-Download": "",
+      "Student's Tasks": "practice",
+      "URLs": ""
+    },
+    {
+      "Session": "26",
+      "Topic": "- Discussion, comments on previous - Working with Layer – Menu Layer - Ruler, Line making, measuring, working with Option menu",
+      "Learning-Teaching Type": "offline",
+      "LO": "CLO1, CLO3",
+      "ITU": "TU",
+      "Student Materials": "Read Textbook Chapter 6, page 101 - 114",
+      "S-Download": "",
+      "Student's Tasks": "practice",
+      "URLs": ""
+    },
+    {
+      "Session": "27",
+      "Topic": "- Discussion, comments on previous - Working with Layer – Menu Layer - Ruler, Line making, measuring, working with Option menu",
+      "Learning-Teaching Type": "offline",
+      "LO": "CLO1, CLO3",
+      "ITU": "TU",
+      "Student Materials": "Read Textbook Chapter 6, page 101 - 114",
+      "S-Download": "",
+      "Student's Tasks": "practice",
+      "URLs": ""
+    },
+    {
+      "Session": "28",
+      "Topic": "- Discussion, comments on previous - Edit commands in Edit menu - Color and editing tools - Pen – Text – Shape tools - Menu Image",
+      "Learning-Teaching Type": "offline",
+      "LO": "CLO1, CLO3",
+      "ITU": "TU",
+      "Student Materials": "Review Textbook Chapter 6, page 110 - 113",
+      "S-Download": "",
+      "Student's Tasks": "practice",
+      "URLs": ""
+    },
+    {
+      "Session": "29",
+      "Topic": "- Discussion, comments on previous - Working with Layer – Menu Layer - Ruler, Line making, measuring, working with Option menu",
+      "Learning-Teaching Type": "offline",
+      "LO": "CLO1, CLO3",
+      "ITU": "TU",
+      "Student Materials": "Review Textbook Chapter 6, page 110 - 113",
+      "S-Download": "",
+      "Student's Tasks": "practice",
+      "URLs": ""
+    },
+    {
+      "Session": "30",
+      "Topic": "- Discussion, comments on previous - Edit commands in Edit menu - Color and editing tools - Pen – Text – Shape tools - Menu Image",
+      "Learning-Teaching Type": "offline",
+      "LO": "CLO1, CLO3",
+      "ITU": "TU",
+      "Student Materials": "Review Textbook Chapter 6, page 110 - 113",
+      "S-Download": "",
+      "Student's Tasks": "practice",
+      "URLs": ""
+    },
+    {
+      "Session": "31",
+      "Topic": "- Discussion, comments on previous - Edit commands in Edit menu - Color and editing tools - Pen – Text – Shape tools - Menu Image",
+      "Learning-Teaching Type": "offline",
+      "LO": "CLO1, CLO3",
+      "ITU": "TU",
+      "Student Materials": "Review Textbook Chapter 6, page 110 - 113",
+      "S-Download": "",
+      "Student's Tasks": "practice",
+      "URLs": ""
+    },
+    {
+      "Session": "32",
+      "Topic": "- Discussion, comments on previous - Filter basics and application - Channel concepts - Mask –and applications - Action – Style – Automate - Discuss photoshop advancing",
+      "Learning-Teaching Type": "offline",
+      "LO": "CLO1, CLO3",
+      "ITU": "TU",
+      "Student Materials": "Read Textbook Chapter 7, page 115 - 132",
+      "S-Download": "",
+      "Student's Tasks": "Practice",
+      "URLs": ""
+    },
+    {
+      "Session": "33",
+      "Topic": "- Discussion, comments on previous - Filter basics and application - Channel concepts - Mask –and applications - Action – Style – Automate - Discuss photoshop advancing",
+      "Learning-Teaching Type": "offline",
+      "LO": "CLO1, CLO3",
+      "ITU": "TU",
+      "Student Materials": "Read Textbook Chapter 7, page 115 - 132",
+      "S-Download": "",
+      "Student's Tasks": "Practice",
+      "URLs": ""
+    },
+    {
+      "Session": "34",
+      "Topic": "- Discussion, comments on previous - Filter basics and application - Channel concepts - Mask –and applications - Action – Style – Automate - Discuss photoshop advancing",
+      "Learning-Teaching Type": "offline",
+      "LO": "CLO1, CLO3",
+      "ITU": "TU",
+      "Student Materials": "Read Textbook Chapter 7, page 115 - 132",
+      "S-Download": "",
+      "Student's Tasks": "Practice",
+      "URLs": ""
+    },
+    {
+      "Session": "35",
+      "Topic": "Gen AI Tool in Photoshop Generative Fill Generative Expand Generate Similar AI Object Selection AI Remove Tool Harmonize",
+      "Learning-Teaching Type": "offline",
+      "LO": "CLO1, CLO3",
+      "ITU": "T,U",
+      "Student Materials": "Discussion and follow instructor guide",
+      "S-Download": "",
+      "Student's Tasks": "Taking notes, discussing Practicing",
+      "URLs": ""
+    },
+    {
+      "Session": "36",
+      "Topic": "Progress test 2: Create a media graphic product",
+      "Learning-Teaching Type": "offline",
+      "LO": "CLO1, CLO3,CLO5,CLO6",
+      "ITU": "U",
+      "Student Materials": "Review Textbook Chapter 6 and 7, refer to Reference book No.2 if needed",
+      "S-Download": "",
+      "Student's Tasks": "Follow the instructor’s requirements",
+      "URLs": ""
+    },
+    {
+      "Session": "37",
+      "Topic": "Progress test 2: Create a media graphic product",
+      "Learning-Teaching Type": "offline",
+      "LO": "CLO1, CLO3,CLO5,CLO6",
+      "ITU": "U",
+      "Student Materials": "Review Textbook Chapter 6 and 7, refer to Reference book No.2 if needed",
+      "S-Download": "",
+      "Student's Tasks": "Follow the instructor’s requirements",
+      "URLs": ""
+    },
+    {
+      "Session": "38",
+      "Topic": "Progress test 2: Create a media graphic product 'Grading Practice 1 and Progress test 2",
+      "Learning-Teaching Type": "offline",
+      "LO": "CLO1, CLO3,CLO5,CLO6",
+      "ITU": "U",
+      "Student Materials": "Review Textbook Chapter 6 and 7, refer to Reference book No.2 if needed",
+      "S-Download": "",
+      "Student's Tasks": "Follow the instructor’s requirements",
+      "URLs": ""
+    },
+    {
+      "Session": "39",
+      "Topic": "Progress test 2: Create a media graphic product 'Grading Practice 1 and Progress test 2",
+      "Learning-Teaching Type": "offline",
+      "LO": "CLO1, CLO3,CLO5,CLO6",
+      "ITU": "U",
+      "Student Materials": "Review Textbook Chapter 6 and 7, refer to Reference book No.2 if needed",
+      "S-Download": "",
+      "Student's Tasks": "Follow the instructor’s requirements",
+      "URLs": ""
+    },
+    {
+      "Session": "40",
+      "Topic": "PART 3: ADOBE INDESIGN Introduction about InDesign: - Overview of InDesign's purpose and capabilities. - Comparison with Photoshop and Illustrator.",
+      "Learning-Teaching Type": "offline",
+      "LO": "CLO1, CLO4",
+      "ITU": "I",
+      "Student Materials": "Read Textbook Chapter 8, page 133 - 139",
+      "S-Download": "",
+      "Student's Tasks": "Taking notes, discussing Understanding InDesign purpose",
+      "URLs": ""
+    },
+    {
+      "Session": "41",
+      "Topic": "INDESIGN BASIC: - Interface and navigation - Create new document, save, open and organize files - Document Setup",
+      "Learning-Teaching Type": "offline",
+      "LO": "CLO1, CLO4",
+      "ITU": "I,T",
+      "Student Materials": "Read Textbook Chapter 8, page 133 - 139",
+      "S-Download": "",
+      "Student's Tasks": "Assessment: - Import various images into an InDesign document. - Experiment with different methods of placing images.",
+      "URLs": ""
+    },
+    {
+      "Session": "42",
+      "Topic": "SHAPE & FRAME - Create frame/create multiframe - Compound frame/shape - Transform and Modify - Apply effect",
+      "Learning-Teaching Type": "offline",
+      "LO": "CLO1, CLO4",
+      "ITU": "T,U",
+      "Student Materials": "Read Textbook Chapter 8, page 140 - 152",
+      "S-Download": "",
+      "Student's Tasks": "Assessment: - Import various images into an InDesign document. - Experiment with different methods of placing images.",
+      "URLs": ""
+    },
+    {
+      "Session": "43",
+      "Topic": "WORKING WITH IMAGE: - Place/Place multi image - Place into frame - Edit Frame and Edit image content - Auto Fitting - Relink and Embed link",
+      "Learning-Teaching Type": "offline",
+      "LO": "CLO1, CLO4",
+      "ITU": "T,U",
+      "Student Materials": "Read Textbook Chapter 8, page 140 - 152",
+      "S-Download": "",
+      "Student's Tasks": "Assessment: - Apply text wrap to text - Create an image mask using a vector shape and experiment with different shapes",
+      "URLs": ""
+    },
+    {
+      "Session": "44",
+      "Topic": "WORKING WITH TEXT - Place text - Placeholder text - Format text with Character Panel - Control text frame - Auto size text frame - Text on a path",
+      "Learning-Teaching Type": "offline",
+      "LO": "CLO1, CLO4",
+      "ITU": "T,U",
+      "Student Materials": "Read Textbook Chapter 8, page 140 - 152",
+      "S-Download": "",
+      "Student's Tasks": "Homework: - Try to re-create a facing pages of a magazine following example given.",
+      "URLs": ""
+    },
+    {
+      "Session": "45",
+      "Topic": "WORKING WITH PARAGRAPH: - Format paragraph with Paragraph Panel - Text Thread - Text into frame/shape - Text wrap - Dropcap",
+      "Learning-Teaching Type": "offline",
+      "LO": "CLO1, CLO4",
+      "ITU": "T,U",
+      "Student Materials": "Read Textbook Chapter 8, page 140 - 152",
+      "S-Download": "",
+      "Student's Tasks": "Homework: - Try to re-create a facing pages of a magazine following example given.",
+      "URLs": ""
+    },
+    {
+      "Session": "46",
+      "Topic": "ANALYZING THE PREVIOUS LESSON'S ASSESSMENT - Discussion, comments on previous lesson’s assessment",
+      "Learning-Teaching Type": "offline",
+      "LO": "CLO1, CLO4",
+      "ITU": "T,U",
+      "Student Materials": "Read Textbook Chapter 9, page 163 - 167",
+      "S-Download": "",
+      "Student's Tasks": "Presenting homework and answering question asked by teacher",
+      "URLs": ""
+    },
+    {
+      "Session": "47",
+      "Topic": "HOMEWORK INTRUCTION: - Assignment Objective - Gather Resources - Images and Text",
+      "Learning-Teaching Type": "offline",
+      "LO": "CLO1, CLO4",
+      "ITU": "T,U",
+      "Student Materials": "Read Textbook Chapter 9, page 163 - 167",
+      "S-Download": "",
+      "Student's Tasks": "Fine tune homework",
+      "URLs": ""
+    },
+    {
+      "Session": "48",
+      "Topic": "PREPARE FOR ASSIGNMENT 3: - Practicing using InDesign. - Doing similar exercises as in the test - Checking on document layout and organization. - Preparing documents",
+      "Learning-Teaching Type": "offline",
+      "LO": "CLO1, CLO4",
+      "ITU": "T,U",
+      "Student Materials": "Read Textbook Chapter 9, page 163 - 167",
+      "S-Download": "",
+      "Student's Tasks": "Choose topic and Idea for a magazine.",
+      "URLs": ""
+    },
+    {
+      "Session": "49",
+      "Topic": "PAGE PANEL: - Page Thumbnails - Create New Page, Delete Page, Move Page - Page Attributes - View Pages in Two-Up ADVANCED PAGE LAYOUT TECHNIQUES - Master/parent Pages - Page numbering and Sections Grid & Guides",
+      "Learning-Teaching Type": "offline",
+      "LO": "CLO1, CLO4",
+      "ITU": "T,U",
+      "Student Materials": "Read Textbook Chapter 9, page 163 - 167",
+      "S-Download": "",
+      "Student's Tasks": "Taking notes, discussing Practicing",
+      "URLs": ""
+    },
+    {
+      "Session": "50",
+      "Topic": "GUIDELINE RULER & GRID - Margin - Bleed - Column grid - Modular grid - Baseline grid - Guideline",
+      "Learning-Teaching Type": "offline",
+      "LO": "CLO1, CLO4",
+      "ITU": "T,U",
+      "Student Materials": "'Discussion and follow instructor guide",
+      "S-Download": "",
+      "Student's Tasks": "Practicing - Using parent pages - Numbering pages - Using grids",
+      "URLs": ""
+    },
+    {
+      "Session": "51",
+      "Topic": "TABLE - Create and design a table Apply different style and formatting",
+      "Learning-Teaching Type": "offline",
+      "LO": "CLO1, CLO4",
+      "ITU": "T,U",
+      "Student Materials": "'Discussion and follow instructor guide",
+      "S-Download": "",
+      "Student's Tasks": "Practicing - Using parent pages - Numbering pages - Using grids",
+      "URLs": ""
+    },
+    {
+      "Session": "52",
+      "Topic": "STYLE - Character styles, paragraph styles and object styles - Color management",
+      "Learning-Teaching Type": "offline",
+      "LO": "CLO1, CLO4",
+      "ITU": "T,U",
+      "Student Materials": "'Discussion and follow instructor guide",
+      "S-Download": "",
+      "Student's Tasks": "Taking notes, discussing Practicing",
+      "URLs": ""
+    },
+    {
+      "Session": "53",
+      "Topic": "INTERACTIVE DOCUMENT EXERCISE: - Create hyperlinks and bookmarks within a document. - Incorporate buttons for interactive navigation.",
+      "Learning-Teaching Type": "offline",
+      "LO": "CLO1, CLO4",
+      "ITU": "T,U",
+      "Student Materials": "Refer reference book No. 4",
+      "S-Download": "",
+      "Student's Tasks": "Taking notes, discussing Practicing",
+      "URLs": ""
+    },
+    {
+      "Session": "54",
+      "Topic": "ADVANCED EXPORT OPTIONS: - Exporting documents for print and digital media",
+      "Learning-Teaching Type": "offline",
+      "LO": "CLO1, CLO4",
+      "ITU": "T,U",
+      "Student Materials": "Read Textbook Chapter 10, page 169 - 177",
+      "S-Download": "",
+      "Student's Tasks": "Taking notes, discussing Practicing",
+      "URLs": ""
+    },
+    {
+      "Session": "55",
+      "Topic": "Gen AI Tool Indesign Generative Fill text and shape Text to Image Generative Expand",
+      "Learning-Teaching Type": "offline",
+      "LO": "CLO1, CLO4",
+      "ITU": "T,U",
+      "Student Materials": "Discussion and follow instructor guide",
+      "S-Download": "",
+      "Student's Tasks": "Finalizing Progress test 3 Students are required to use generative AI to submit their idea and A.I product reference",
+      "URLs": ""
+    },
+    {
+      "Session": "56",
+      "Topic": "ASSIGNMENT 3: Design a layout project",
+      "Learning-Teaching Type": "offline",
+      "LO": "CLO1, CLO4,CLO6",
+      "ITU": "T,U",
+      "Student Materials": "Refer reference book No. 4",
+      "S-Download": "",
+      "Student's Tasks": "Follow the instructor’s requirements",
+      "URLs": ""
+    },
+    {
+      "Session": "57",
+      "Topic": "ASSIGNMENT 3: Design a layout project",
+      "Learning-Teaching Type": "offline",
+      "LO": "CLO1, CLO4,CLO6",
+      "ITU": "T,U",
+      "Student Materials": "Refer reference book No. 4",
+      "S-Download": "",
+      "Student's Tasks": "Follow the instructor’s requirements",
+      "URLs": ""
+    },
+    {
+      "Session": "58",
+      "Topic": "ASSIGNMENT 3: Design a layout project",
+      "Learning-Teaching Type": "offline",
+      "LO": "CLO1, CLO4,CLO6",
+      "ITU": "T,U",
+      "Student Materials": "Refer reference book No. 5",
+      "S-Download": "",
+      "Student's Tasks": "Follow the instructor’s requirements",
+      "URLs": ""
+    },
+    {
+      "Session": "59",
+      "Topic": "ASSIGNMENT 3: Design a layout project",
+      "Learning-Teaching Type": "offline",
+      "LO": "CLO1, CLO4,CLO6",
+      "ITU": "T,U",
+      "Student Materials": "Refer reference book No. 6",
+      "S-Download": "",
+      "Student's Tasks": "Follow the instructor’s requirements",
+      "URLs": ""
+    },
+    {
+      "Session": "60",
+      "Topic": "ASSIGNMENT 3: - Finalizing progress test 3 WRAP UP & FOLLOW UP: - Wrap Up Learning - Practice and Apply - Seek Feedback and Guidance - Explore Advanced Techniques - Stay Updated - Plan Next Steps",
+      "Learning-Teaching Type": "offline",
+      "LO": "CLO1, CLO4,CLO6",
+      "ITU": "I,T,U",
+      "Student Materials": "Refer reference book No. 4",
+      "S-Download": "",
+      "Student's Tasks": "Finalizing Progress test 3 Discussion",
+      "URLs": ""
+    }
+  ],
+  "constructive_questions": [
+    {
+      "No.": "1",
+      "Session No": "2",
+      "Name": "QN1",
+      "Details": "What is a workspace? Why it's important to organize your workspace efficiently when using visual design tools."
+    },
+    {
+      "No.": "2",
+      "Session No": "2",
+      "Name": "QN2",
+      "Details": "How to organize a workspace to suit specific tasks?"
+    },
+    {
+      "No.": "3",
+      "Session No": "2",
+      "Name": "QN3",
+      "Details": "How many main formats in which to store images in Illustrator. Why would you choose one over another, and what are the differences?"
+    },
+    {
+      "No.": "4",
+      "Session No": "3",
+      "Name": "QN1",
+      "Details": "How to complete this artwork in the fastest way using Illustrator? (Artwork according to the lecturer's assignment.)"
+    },
+    {
+      "No.": "5",
+      "Session No": "5",
+      "Name": "QN1",
+      "Details": "How to combine simple shapes to make more complex shapes?"
+    },
+    {
+      "No.": "6",
+      "Session No": "5",
+      "Name": "QN2",
+      "Details": "What are the advantages of creating complex shapes from basic or geometric shapes?"
+    },
+    {
+      "No.": "7",
+      "Session No": "6",
+      "Name": "QN1",
+      "Details": "How many ways to add text? What are the differences between the ways?"
+    },
+    {
+      "No.": "8",
+      "Session No": "6",
+      "Name": "QN2",
+      "Details": "How to change type format and paragraphs format?"
+    },
+    {
+      "No.": "9",
+      "Session No": "7",
+      "Name": "QN1",
+      "Details": "How to add color to shapes and other vector objects in Adobe Illustrator?"
+    },
+    {
+      "No.": "10",
+      "Session No": "7",
+      "Name": "QN2",
+      "Details": "What are differences between Color panel and Swatches panel?"
+    },
+    {
+      "No.": "11",
+      "Session No": "8",
+      "Name": "QN1",
+      "Details": "What does mask mean in Adobe? What is the purpose of a mask in Illustrator?"
+    },
+    {
+      "No.": "12",
+      "Session No": "8",
+      "Name": "QN2",
+      "Details": "How many types of masks in illustrator?"
+    },
+    {
+      "No.": "13",
+      "Session No": "13",
+      "Name": "QN1",
+      "Details": "What is the difference between RGB and CMYK color mode? How to convert RGB files to CMYK? And how to do the opposite in Photoshop?"
+    },
+    {
+      "No.": "14",
+      "Session No": "13",
+      "Name": "QN2",
+      "Details": "What is the resolution? When would you use a higher resolution and when would you use a lower resolution?"
+    },
+    {
+      "No.": "15",
+      "Session No": "13",
+      "Name": "QN3",
+      "Details": "What is bit depth? What does 8 bit depth mean?"
+    },
+    {
+      "No.": "16",
+      "Session No": "14",
+      "Name": "QN1",
+      "Details": "What is the selection in Photoshop?"
+    },
+    {
+      "No.": "17",
+      "Session No": "14",
+      "Name": "QN2",
+      "Details": "What are the different selection tools in Photoshop and when would we use one of them?"
+    },
+    {
+      "No.": "18",
+      "Session No": "14",
+      "Name": "QN3",
+      "Details": "How to make a selection with the pen tool?"
+    },
+    {
+      "No.": "19",
+      "Session No": "16",
+      "Name": "QN1",
+      "Details": "What is a mask in Photoshop and why is it useful?"
+    },
+    {
+      "No.": "20",
+      "Session No": "16",
+      "Name": "QN2",
+      "Details": "How to apply a layer mask?"
+    },
+    {
+      "No.": "21",
+      "Session No": "18",
+      "Name": "QN1",
+      "Details": "What is clone stamp tool? Which tool works similar to the clone stamp tool?"
+    },
+    {
+      "No.": "22",
+      "Session No": "22",
+      "Name": "QN1",
+      "Details": "How to set up a magazine file with 12 facing pages, 2.5 cm margins and 0.3 cm bleed?"
+    },
+    {
+      "No.": "23",
+      "Session No": "23",
+      "Name": "QN1",
+      "Details": "What are InDesign master pages and how to use it?"
+    },
+    {
+      "No.": "24",
+      "Session No": "25",
+      "Name": "QN1",
+      "Details": "What are the differences between the Frame tool and Rectangle tool in Adobe XD?"
+    },
+    {
+      "No.": "25",
+      "Session No": "26",
+      "Name": "QN1",
+      "Details": "What are components in Adobe XD? Why should you use components?"
+    },
+    {
+      "No.": "26",
+      "Session No": "26",
+      "Name": "QN2",
+      "Details": "What are Text style and Color Style in Adobe XD? Why should you use Text style and Color Style?"
+    },
+    {
+      "No.": "27",
+      "Session No": "27",
+      "Name": "QN1",
+      "Details": "What is Prototype?"
+    }
+  ],
+  "materials": [
+    {
+      "No.": "1",
+      "Material Description": "Adobe Design Basics",
+      "Author": "Thomas Payne",
+      "Publisher": "Adobe Education Exchange",
+      "Published Date": "2020",
+      "Edition": "",
+      "ISBN": "9781714208852",
+      "Is Main Material": "True",
+      "Is Hard Copy": "False",
+      "Is Online": "True",
+      "Note": "Nguồn sách Creative Commons licensing"
+    },
+    {
+      "No.": "2",
+      "Material Description": "Adobe Illustator CC: https://helpx.adobe.com",
+      "Author": "",
+      "Publisher": "Adobe",
+      "Published Date": "2019",
+      "Edition": "20th",
+      "ISBN": "",
+      "Is Main Material": "False",
+      "Is Hard Copy": "False",
+      "Is Online": "True",
+      "Note": ""
+    }
+  ],
+  "source_path": "data/raw/syllabi/13451.html",
+  "id": "syllabus:13451"
+}

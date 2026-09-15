@@ -1,0 +1,987 @@
+{
+  "syllabus_id": 14391,
+  "subject_code": "BDA201",
+  "subject_name": "Business Data Analytics_ Phân tích dữ liệu kinh doanh",
+  "syllabus_name": "Phân tích dữ liệu kinh doanh",
+  "credits": 3,
+  "degree_level": "Bachelor",
+  "time_allocation": "Study hour (150h) = 45h (60 sessions) contact hours + 1h final exam + 104h self-study",
+  "prerequisite": "BCP201",
+  "general_information": {
+    "Syllabus ID": "14391",
+    "Syllabus Name": "Phân tích dữ liệu kinh doanh",
+    "Course Name English": "Business Data Analytics",
+    "Subject Code": "BDA201",
+    "Learning-Teaching Method": "Lecture,Presentation,groupwork",
+    "NoCredit": "3",
+    "Degree Level": "Bachelor",
+    "Time Allocation": "Study hour (150h) = 45h (60 sessions) contact hours + 1h final exam + 104h self-study",
+    "Pre-Requisite": "BCP201",
+    "Description": "1. Course Objectives: This application-based course provides undergraduate students with a strong foundation of business data analytics, focusing on data visualization, multiple regression, data mining, linear optimization models, simulation, and decision analysis, while enabling students to gain familiarity and develop mastery of these topics within the contexts of big data and artificial intelligence. 2. Course Content: Key topics include: Data Visualisation; Descriptive Analysis; Linear Regression; Predictive Data Mining and Analysis; Optimization; Big Data Analytics. 3. Activities and Teaching Methodology: Lectures, hands-on coding sessions, and individual and group projects will help students practice and develop fundamental data management and analysis techniques using Python, R, and Excel, while also exploring their application in the contexts of big data and AI to address complex, large-scale business challenges.",
+    "StudentTasks": "- Students must attend more than 80% of contact slots in order to be accepted to the final examination. - Student is responsible to do all exercises, assignments and labs given by instructor in class or at home and submit on time - Use laptop in class only for learning purpose - Promptly access to the http://flm.fpt.edu.vn for up-to-date course information",
+    "Tools": "- Internet - Personal Laptop",
+    "Scoring Scale": "10",
+    "DecisionNo MM/dd/yyyy": "968/QĐ-ĐHFPT dated 08/07/2026",
+    "IsApproved": "True",
+    "Note": "",
+    "Is Scored": "True",
+    "MinAvgMarkToPass": "5",
+    "IsActive": "True",
+    "ApprovedDate": "8/7/2026"
+  },
+  "active": true,
+  "approved": true,
+  "decision": "968/QĐ-ĐHFPT dated 08/07/2026",
+  "description": "1. Course Objectives: This application-based course provides undergraduate students with a strong foundation of business data analytics, focusing on data visualization, multiple regression, data mining, linear optimization models, simulation, and decision analysis, while enabling students to gain familiarity and develop mastery of these topics within the contexts of big data and artificial intelligence. 2. Course Content: Key topics include: Data Visualisation; Descriptive Analysis; Linear Regression; Predictive Data Mining and Analysis; Optimization; Big Data Analytics. 3. Activities and Teaching Methodology: Lectures, hands-on coding sessions, and individual and group projects will help students practice and develop fundamental data management and analysis techniques using Python, R, and Excel, while also exploring their application in the contexts of big data and AI to address complex, large-scale business challenges.",
+  "learning_outcomes": [
+    {
+      "No.": "1",
+      "CLO Name": "CLO1",
+      "CLO Details": "Explain the role of business analytics in business and financial decision-making, including analytics processes, data types, data sources, big-data/AI contexts, and basic ethical/privacy considerations."
+    },
+    {
+      "No.": "2",
+      "CLO Name": "CLO2",
+      "CLO Details": "Prepare business or financial datasets for analysis by applying foundational data-handling skills from BCP201, including importing, inspecting, cleaning, transforming, joining, and documenting data using guided tools such as Excel, Python, or R."
+    },
+    {
+      "No.": "3",
+      "CLO Name": "CLO3",
+      "CLO Details": "Apply descriptive analytics and data visualization techniques to summarize business data, identify basic patterns or outliers, and communicate insights clearly to non-technical stakeholders."
+    },
+    {
+      "No.": "4",
+      "CLO Name": "CLO4",
+      "CLO Details": "Apply introductory statistical and predictive analytics methods, including basic inference, regression, forecasting, and selected classification or data-mining techniques, to support business or financial decisions."
+    },
+    {
+      "No.": "5",
+      "CLO Name": "CLO5",
+      "CLO Details": "Use introductory prescriptive analytics tools, including spreadsheet decision models, what-if analysis, simulation, and basic linear/integer optimization, to evaluate alternatives under constraints and uncertainty."
+    },
+    {
+      "No.": "6",
+      "CLO Name": "CLO6",
+      "CLO Details": "Complete a guided end-to-end business analytics project, individually and/or in teams, by framing a business problem, preparing data, selecting suitable introductory methods, interpreting results responsibly, and presenting evidence-based recommendations."
+    }
+  ],
+  "assessments": [
+    {
+      "No.": "1",
+      "Category": "Group ASM",
+      "Type": "on-going",
+      "Part": "1",
+      "Weight": "30.0%",
+      "Completion Criteria": ">0",
+      "Duration": "Entire trimester; presentations in Sessions 58-59",
+      "CLO": "CLO2, CLO3, CLO4, CLO5, CLO6",
+      "Question Type": "Group project: dataset-based analysis, report/slides, presentation, and Q&A using rubric criteria",
+      "No Question": "1 group project; no MCQs",
+      "Knowledge and Skill": "End-to-end business analytics project: problem framing; data preparation; descriptive/visual analysis; one suitable introductory predictive or prescriptive method; limitations; evidence-based recommendation. Groups may use Excel, Python, or R where feasible, but advanced data-mining methods and complex coding are optional/awareness-level only and should not be required.",
+      "Grading Guide": "Groups complete a guided project using an approved dataset and present findings. The project should demonstrate usable business reasoning, clear communication, and explainable tool/method choices rather than technical complexity. Any Excel/Python/R outputs used must be interpreted in non-technical business language.",
+      "Note": "Introduced in Session 3, checked around Session 42, finalized around Session 54, and presented in Sessions 58-59. Recommend keeping supporting materials to a project brief, rubric, and presentation guidance only."
+    },
+    {
+      "No.": "2",
+      "Category": "Individual ASM",
+      "Type": "on-going",
+      "Part": "1",
+      "Weight": "20.0%",
+      "Completion Criteria": ">0",
+      "Duration": "Take-home, 1-2 weeks after formal release",
+      "CLO": "CLO2, CLO3, CLO4, CLO6",
+      "Question Type": "Individual applied analytics task with rubric criteria; concise report and/or spreadsheet/notebook output",
+      "No Question": "1 individual assignment; no MCQs",
+      "Knowledge and Skill": "Data preparation, descriptive statistics, visualization, and one introductory inferential or predictive analysis selected from the covered topics. Students may use appropriate guided tools such as Excel, Python, or R, but the expected level is business interpretation, not complex coding, advanced modeling, or advanced specific programming.",
+      "Grading Guide": "Students work individually on a provided or lecturer-approved dataset. They submit a concise analytics output/report explaining data preparation decisions, selected method, key results, limitations, and a business recommendation. Outputs may come from Excel, Python, R, or prepared/guided workflows, provided the student can interpret them correctly.",
+      "Note": "Introduced in Session 9, supported through consultation/checkpoints, and aligned with the submission/feedback window around Sessions 30-33. The task should remain compact enough for a midterm-style take-home assessment. Do not require advanced R use as mandatory; allow it only as one feasible tool option."
+    },
+    {
+      "No.": "3",
+      "Category": "Participation",
+      "Type": "on-going",
+      "Part": "1",
+      "Weight": "10.0%",
+      "Completion Criteria": ">0",
+      "Duration": "N/A",
+      "CLO": "CLO1-CLO6",
+      "Question Type": "In-class guided tasks, short participation checks, and discussion/application activities",
+      "No Question": "N/A",
+      "Knowledge and Skill": "All scheduled topics, with emphasis on guided application. Where used in the locked schedule, students may engage with prepared Excel/Python/R-style outputs or screenshots for interpretation only.",
+      "Grading Guide": "Students participate in guided exercises, answer short in-class questions, discuss cases, and complete selected low-stakes tasks using the course dataset pack. The focus is engagement, interpretation, and learning process, not advanced coding performance or syntax memorization.",
+      "Note": ""
+    },
+    {
+      "No.": "4",
+      "Category": "Quiz 1",
+      "Type": "on-going",
+      "Part": "1",
+      "Weight": "5.0%",
+      "Completion Criteria": ">0",
+      "Duration": "30'",
+      "CLO": "CLO1, CLO2, CLO3",
+      "Question Type": "MCQs; each MCQ is assigned to one CLO only",
+      "No Question": "20 MCQs",
+      "Knowledge and Skill": "Sessions 1-14: business analytics workflow; data types, data sources, measurement scales, ethics/privacy; dataset structure and data dictionaries; data inspection; missing values, subsetting, binning, transformations, categorical recoding; descriptive statistics; outliers; basic data visualization and chart interpretation. Questions may include simple prepared Excel/Python/R-style screenshots or outputs from the scheduled light tool-exposure sessions, but only for interpretation.",
+      "Grading Guide": "Supervised in-class quiz, computer-based or paper-based. Students answer conceptual and output-interpretation MCQs; no coding from scratch, no advanced coding, and no complicated syntax memorization are required.",
+      "Note": "Scheduled in Session 15. Suggested MCQ distribution for ASM breakdown: CLO1 = 5, CLO2 = 7, CLO3 = 8. R exposure is limited to reading prepared output/chart examples where relevant."
+    },
+    {
+      "No.": "5",
+      "Category": "Quiz 2",
+      "Type": "on-going",
+      "Part": "1",
+      "Weight": "5.0%",
+      "Completion Criteria": ">0",
+      "Duration": "30'",
+      "CLO": "CLO2, CLO3, CLO4",
+      "Question Type": "MCQs; each MCQ is assigned to one CLO only",
+      "No Question": "20 MCQs",
+      "Knowledge and Skill": "Sessions 16-35, with cumulative retesting of selected foundations from Sessions 4-14: data inspection/preparation choices and descriptive/visual interpretation where needed for modeling; probability as business uncertainty; common distributions as practical tools; confidence intervals; simple hypothesis testing; regression interpretation; model fit and residual plots; forecasting; introductory classification; confusion matrix and error trade-offs; practical data-mining workflow and model-performance interpretation. Questions may include prepared Excel/Python/R-style statistical or predictive output snippets for interpretation.",
+      "Grading Guide": "Supervised in-class quiz, computer-based or paper-based. Students interpret concepts, cases, charts, and prepared software-output snippets; no manual algorithm derivation, advanced coding, coding from scratch, or complicated syntax memorization is required.",
+      "Note": "Scheduled in Session 36. Suggested MCQ distribution for ASM breakdown: CLO2 = 3, CLO3 = 3, CLO4 = 14. Each MCQ maps to one CLO only. Mainly predictive/statistical while retesting key data-preparation and descriptive/visual foundations needed for correct interpretation."
+    },
+    {
+      "No.": "6",
+      "Category": "Final Exam",
+      "Type": "Final exam",
+      "Part": "1",
+      "Weight": "30.0%",
+      "Completion Criteria": "4",
+      "Duration": "60'",
+      "CLO": "CLO1-CLO5",
+      "Question Type": "MCQs; each MCQ is assigned to one CLO only",
+      "No Question": "50 MCQs",
+      "Knowledge and Skill": "Comprehensive coverage of core scheduled content: analytics workflow; data management and preparation; descriptive analytics and visualization; probability/inference at interpretation level; regression, forecasting, introductory classification and practical data-mining workflow; spreadsheet modeling, simulation, and optimization at application/interpretation level. Questions may include prepared Excel/Python/R-style output snippets, charts, or model summaries for interpretation.",
+      "Grading Guide": "Individual final exam with MCQs. Questions emphasize concept recognition, case interpretation, software-output reading, chart/model interpretation, and decision implications. No coding from scratch, no complicated syntax memorization, and no advanced algorithm derivation are required.",
+      "Note": "Final practice appears in Sessions 56-57. Suggested MCQ distribution for ASM breakdown: CLO1 = 5, CLO2 = 7, CLO3 = 8, CLO4 = 18, CLO5 = 12. Excel/Python/R-style output is included only as prepared output-reading practice."
+    }
+  ],
+  "schedule": [
+    {
+      "Session": "1",
+      "Topic": "1. Business analytics workflow and data foundations 1.1 From a business question to a basic analytics task",
+      "Learning-Teaching Type": "Offline",
+      "LO": "CLO1",
+      "ITU": "IT",
+      "Student Materials": "- Business Analytics: Communicating with Numbers (3rd Edition): Ch. 1, Sec. 1.1 - Course dataset pack",
+      "S-Download": "BDA201_Codebook",
+      "Student's Tasks": "Identify a practical business decision and the data needed to support it.",
+      "URLs": "link"
+    },
+    {
+      "Session": "2",
+      "Topic": "1. Business analytics workflow and data foundations 1.2 Data types, sources, file formats, and measurement scales",
+      "Learning-Teaching Type": "Offline",
+      "LO": "CLO1",
+      "ITU": "T",
+      "Student Materials": "- Business Analytics: Communicating with Numbers (3rd Edition): Ch. 1, Sec. 1.2-1.4 - Course dataset pack",
+      "S-Download": "BDA201_Slides",
+      "Student's Tasks": "Classify variables in a simple business dataset by type, scale, and business meaning.",
+      "URLs": ""
+    },
+    {
+      "Session": "3",
+      "Topic": "1. Business analytics workflow and data foundations 1.3 Data privacy, ethics, responsible AI use, and Group Assignment orientation",
+      "Learning-Teaching Type": "Offline",
+      "LO": "CLO1, CLO6",
+      "ITU": "I, T, U",
+      "Student Materials": "- Business Analytics: Communicating with Numbers (3rd Edition): Ch. 1, selected ethics/big-data discussion - Group Assignment brief",
+      "S-Download": "",
+      "Student's Tasks": "Form groups and propose a simple business question and possible dataset.",
+      "URLs": ""
+    },
+    {
+      "Session": "4",
+      "Topic": "2. Data management and first inspection 2.1 Dataset structure, records, variables, and data dictionaries",
+      "Learning-Teaching Type": "Offline",
+      "LO": "CLO1, CLO2",
+      "ITU": "T",
+      "Student Materials": "- Business Analytics: Communicating with Numbers (3rd Edition): Ch. 2, Sec. 2.1 - Course dataset pack",
+      "S-Download": "",
+      "Student's Tasks": "Read a data dictionary and explain what each variable represents.",
+      "URLs": ""
+    },
+    {
+      "Session": "5",
+      "Topic": "2. Data management and first inspection 2.2 Data inspection: missing values, duplicates, ranges, and suspicious values",
+      "Learning-Teaching Type": "Offline",
+      "LO": "CLO2",
+      "ITU": "T, U",
+      "Student Materials": "- Business Analytics: Communicating with Numbers (3rd Edition): Ch. 2, Sec. 2.2 - Course dataset pack",
+      "S-Download": "",
+      "Student's Tasks": "Inspect a small dataset and record basic data-quality issues.",
+      "URLs": ""
+    },
+    {
+      "Session": "6",
+      "Topic": "2. Data management and first inspection 2.3 Guided file import and first data audit using Excel/Python, with brief R/RStudio exposure",
+      "Learning-Teaching Type": "Offline",
+      "LO": "CLO2",
+      "ITU": "U",
+      "Student Materials": "- Business Analytics: Communicating with Numbers (3rd Edition): Ch. 2, Sec. 2.2; Appendix C selected reference - Course dataset pack",
+      "S-Download": "",
+      "Student's Tasks": "Open/import a dataset and complete a short first-audit note; observe how the same dataset structure can be displayed in R without needing to memorize syntax.",
+      "URLs": ""
+    },
+    {
+      "Session": "7",
+      "Topic": "3. Data preparation for business analysis 3.1 Handling missing values and subsetting records",
+      "Learning-Teaching Type": "Offline",
+      "LO": "CLO2",
+      "ITU": "T, U",
+      "Student Materials": "- Business Analytics: Communicating with Numbers (3rd Edition): Ch. 2, Sec. 2.3 - Course dataset pack",
+      "S-Download": "",
+      "Student's Tasks": "Apply a guided cleaning step and explain the choice in business language.",
+      "URLs": ""
+    },
+    {
+      "Session": "8",
+      "Topic": "3. Data preparation for business analysis 3.2 Binning and simple numerical transformations",
+      "Learning-Teaching Type": "Offline",
+      "LO": "CLO2",
+      "ITU": "T, U",
+      "Student Materials": "- Business Analytics: Communicating with Numbers (3rd Edition): Ch. 2, Sec. 2.4 - Course dataset pack",
+      "S-Download": "",
+      "Student's Tasks": "Create a simple binned or transformed variable and explain why it may help interpretation.",
+      "URLs": ""
+    },
+    {
+      "Session": "9",
+      "Topic": "3. Data preparation for business analysis 3.3 Category reduction, dummy variables, and Individual Assignment guide",
+      "Learning-Teaching Type": "Offline",
+      "LO": "CLO2, CLO6",
+      "ITU": "I, T, U",
+      "Student Materials": "- Business Analytics: Communicating with Numbers (3rd Edition): Ch. 2, Sec. 2.5 - Individual Assignment brief",
+      "S-Download": "",
+      "Student's Tasks": "Review the individual assignment requirements and choose a feasible dataset/workflow.",
+      "URLs": ""
+    },
+    {
+      "Session": "10",
+      "Topic": "4. Descriptive analytics 4.1 Measures of location and practical business interpretation",
+      "Learning-Teaching Type": "Offline",
+      "LO": "CLO3",
+      "ITU": "T",
+      "Student Materials": "- Business Analytics: Communicating with Numbers (3rd Edition): Ch. 3, Sec. 3.1 - Course dataset pack",
+      "S-Download": "",
+      "Student's Tasks": "Compute or read mean, median, and percentiles from software output.",
+      "URLs": ""
+    },
+    {
+      "Session": "11",
+      "Topic": "4. Descriptive analytics 4.2 Dispersion, shape, association, and reading descriptive output from Excel/Python/R",
+      "Learning-Teaching Type": "Offline",
+      "LO": "CLO3",
+      "ITU": "T, U",
+      "Student Materials": "- Business Analytics: Communicating with Numbers (3rd Edition): Ch. 3, Sec. 3.2 - Course dataset pack",
+      "S-Download": "",
+      "Student's Tasks": "Compare business groups using variability and association measures from prepared software output.",
+      "URLs": ""
+    },
+    {
+      "Session": "12",
+      "Topic": "4. Descriptive analytics 4.3 Outliers and a short descriptive analytics mini-case",
+      "Learning-Teaching Type": "Offline",
+      "LO": "CLO3",
+      "ITU": "U",
+      "Student Materials": "- Business Analytics: Communicating with Numbers (3rd Edition): Ch. 3, Sec. 3.3 - Course dataset pack",
+      "S-Download": "",
+      "Student's Tasks": "Identify possible outliers and decide whether they need correction or explanation.",
+      "URLs": ""
+    },
+    {
+      "Session": "13",
+      "Topic": "5. Data visualization for business communication 5.1 Visualizing one variable",
+      "Learning-Teaching Type": "Offline",
+      "LO": "CLO3",
+      "ITU": "T",
+      "Student Materials": "- Business Analytics: Communicating with Numbers (3rd Edition): Ch. 4, Sec. 4.1 - Course dataset pack",
+      "S-Download": "",
+      "Student's Tasks": "Create and explain a suitable chart for a categorical or numerical variable.",
+      "URLs": ""
+    },
+    {
+      "Session": "14",
+      "Topic": "5. Data visualization for business communication 5.2 Visualizing relationships, avoiding misleading charts, and lightly comparing tool-generated charts",
+      "Learning-Teaching Type": "Offline",
+      "LO": "CLO3",
+      "ITU": "T, U",
+      "Student Materials": "- Business Analytics: Communicating with Numbers (3rd Edition): Ch. 4, Sec. 4.2-4.3 - Course dataset pack",
+      "S-Download": "",
+      "Student's Tasks": "Create or critique a chart showing a relationship between variables.",
+      "URLs": ""
+    },
+    {
+      "Session": "15",
+      "Topic": "5. Data visualization for business communication 5.3 Quiz 1 and feedback",
+      "Learning-Teaching Type": "Offline",
+      "LO": "CLO1, CLO2, CLO3",
+      "ITU": "U",
+      "Student Materials": "- Business Analytics: Communicating with Numbers (3rd Edition): Ch. 1-4 review - Quiz 1 preparation notes",
+      "S-Download": "",
+      "Student's Tasks": "Complete Quiz 1 and review incorrect answers.",
+      "URLs": ""
+    },
+    {
+      "Session": "16",
+      "Topic": "6. Probability and uncertainty in business 6.1 Probability as business uncertainty",
+      "Learning-Teaching Type": "Offline",
+      "LO": "CLO4",
+      "ITU": "I, T",
+      "Student Materials": "- Business Analytics: Communicating with Numbers (3rd Edition): Ch. 5, Sec. 5.1 - Course dataset pack",
+      "S-Download": "",
+      "Student's Tasks": "Describe uncertain business events and assign simple probabilities.",
+      "URLs": ""
+    },
+    {
+      "Session": "17",
+      "Topic": "6. Probability and uncertainty in business 6.2 Common distributions as practical tools",
+      "Learning-Teaching Type": "Offline",
+      "LO": "CLO4",
+      "ITU": "T",
+      "Student Materials": "- Business Analytics: Communicating with Numbers (3rd Edition): Ch. 5, Sec. 5.3-5.5, selected parts",
+      "S-Download": "",
+      "Student's Tasks": "Interpret simple binomial, Poisson, or normal distribution outputs in context.",
+      "URLs": ""
+    },
+    {
+      "Session": "18",
+      "Topic": "6. Probability and uncertainty in business 6.3 Guided uncertainty practice and Individual Assignment consultation",
+      "Learning-Teaching Type": "Offline",
+      "LO": "CLO4, CLO6",
+      "ITU": "U",
+      "Student Materials": "- Business Analytics: Communicating with Numbers (3rd Edition): Ch. 5 selected review - Individual Assignment brief",
+      "S-Download": "",
+      "Student's Tasks": "Apply one uncertainty concept and ask questions about the individual assignment.",
+      "URLs": ""
+    },
+    {
+      "Session": "19",
+      "Topic": "7. Statistical inference for business evidence 7.1 Confidence intervals as evidence for decisions",
+      "Learning-Teaching Type": "Offline",
+      "LO": "CLO4",
+      "ITU": "T",
+      "Student Materials": "- Business Analytics: Communicating with Numbers (3rd Edition): Ch. 6, Sec. 6.1-6.2, selected parts",
+      "S-Download": "",
+      "Student's Tasks": "Interpret a confidence interval from software output in business language.",
+      "URLs": ""
+    },
+    {
+      "Session": "20",
+      "Topic": "7. Statistical inference for business evidence 7.2 Simple hypothesis tests for business comparisons",
+      "Learning-Teaching Type": "Offline",
+      "LO": "CLO4",
+      "ITU": "T, U",
+      "Student Materials": "- Business Analytics: Communicating with Numbers (3rd Edition): Ch. 6, Sec. 6.3, selected parts",
+      "S-Download": "",
+      "Student's Tasks": "Interpret p-values and test conclusions from a guided comparison.",
+      "URLs": ""
+    },
+    {
+      "Session": "21",
+      "Topic": "7. Statistical inference for business evidence 7.3 Reading output and avoiding overclaiming",
+      "Learning-Teaching Type": "Offline",
+      "LO": "CLO4, CLO6",
+      "ITU": "U",
+      "Student Materials": "- Business Analytics: Communicating with Numbers (3rd Edition): Ch. 6 review - Course dataset pack",
+      "S-Download": "",
+      "Student's Tasks": "Write a short evidence-based interpretation from a statistical output.",
+      "URLs": ""
+    },
+    {
+      "Session": "22",
+      "Topic": "8. Regression for business prediction 8.1 Simple linear regression and interpretation of software output",
+      "Learning-Teaching Type": "Offline",
+      "LO": "CLO4",
+      "ITU": "I, T",
+      "Student Materials": "- Business Analytics: Communicating with Numbers (3rd Edition): Ch. 7, Sec. 7.1 - Course dataset pack",
+      "S-Download": "",
+      "Student's Tasks": "Read a simple regression output and explain slope/intercept in context.",
+      "URLs": ""
+    },
+    {
+      "Session": "23",
+      "Topic": "8. Regression for business prediction 8.2 Multiple regression and categorical variables",
+      "Learning-Teaching Type": "Offline",
+      "LO": "CLO4",
+      "ITU": "T, U",
+      "Student Materials": "- Business Analytics: Communicating with Numbers (3rd Edition): Ch. 7, Sec. 7.1, selected parts",
+      "S-Download": "",
+      "Student's Tasks": "Interpret coefficients for numerical and categorical predictors.",
+      "URLs": ""
+    },
+    {
+      "Session": "24",
+      "Topic": "8. Regression for business prediction 8.3 Communicating regression results from guided software output",
+      "Learning-Teaching Type": "Offline",
+      "LO": "CLO4, CLO6",
+      "ITU": "U",
+      "Student Materials": "- Business Analytics: Communicating with Numbers (3rd Edition): Ch. 7, Sec. 7.2 - Course dataset pack",
+      "S-Download": "",
+      "Student's Tasks": "Write a short regression result paragraph for a business audience.",
+      "URLs": ""
+    },
+    {
+      "Session": "25",
+      "Topic": "9. Regression model quality and limits 9.1 Goodness-of-fit, significance, and practical usefulness",
+      "Learning-Teaching Type": "Offline",
+      "LO": "CLO4",
+      "ITU": "T",
+      "Student Materials": "- Business Analytics: Communicating with Numbers (3rd Edition): Ch. 7, Sec. 7.2",
+      "S-Download": "",
+      "Student's Tasks": "Compare two regression outputs using simple fit and usefulness criteria.",
+      "URLs": ""
+    },
+    {
+      "Session": "26",
+      "Topic": "9. Regression model quality and limits 9.2 Residual plots and unusual observations",
+      "Learning-Teaching Type": "Offline",
+      "LO": "CLO4",
+      "ITU": "T, U",
+      "Student Materials": "- Business Analytics: Communicating with Numbers (3rd Edition): Ch. 7, Sec. 7.3",
+      "S-Download": "",
+      "Student's Tasks": "Identify basic warning signs from residual plots or unusual observations.",
+      "URLs": ""
+    },
+    {
+      "Session": "27",
+      "Topic": "9. Regression model quality and limits 9.3 Light extension: interactions/nonlinear terms as awareness and Individual Assignment checkpoint",
+      "Learning-Teaching Type": "Offline",
+      "LO": "CLO4, CLO6",
+      "ITU": "U",
+      "Student Materials": "- Business Analytics: Communicating with Numbers (3rd Edition): Ch. 8, selected parts - Individual Assignment brief",
+      "S-Download": "",
+      "Student's Tasks": "Decide whether a simple model is sufficient and confirm assignment progress.",
+      "URLs": ""
+    },
+    {
+      "Session": "28",
+      "Topic": "10. Forecasting for business planning 10.1 Time-series data, trend, and seasonality",
+      "Learning-Teaching Type": "Offline",
+      "LO": "CLO4",
+      "ITU": "I, T",
+      "Student Materials": "- Business Analytics: Communicating with Numbers (3rd Edition): Ch. 10, Sec. 10.1 - Course dataset pack",
+      "S-Download": "",
+      "Student's Tasks": "Identify trend and seasonality in a simple business time series.",
+      "URLs": ""
+    },
+    {
+      "Session": "29",
+      "Topic": "10. Forecasting for business planning 10.2 Moving average and exponential smoothing",
+      "Learning-Teaching Type": "Offline",
+      "LO": "CLO4",
+      "ITU": "T, U",
+      "Student Materials": "- Business Analytics: Communicating with Numbers (3rd Edition): Ch. 10, Sec. 10.2 - Course dataset pack",
+      "S-Download": "",
+      "Student's Tasks": "Generate or interpret a simple forecast and forecast error.",
+      "URLs": ""
+    },
+    {
+      "Session": "30",
+      "Topic": "10. Forecasting for business planning 10.3 Trend/seasonality regression and Individual Assignment submission briefing",
+      "Learning-Teaching Type": "Offline",
+      "LO": "CLO4, CLO6",
+      "ITU": "U",
+      "Student Materials": "- Business Analytics: Communicating with Numbers (3rd Edition): Ch. 10, Sec. 10.3, selected parts - Individual Assignment brief",
+      "S-Download": "",
+      "Student's Tasks": "Interpret a simple trend/seasonality forecast and finalize assignment submission.",
+      "URLs": ""
+    },
+    {
+      "Session": "31",
+      "Topic": "11. Introductory classification for business decisions 11.1 Binary outcomes and predicted probabilities",
+      "Learning-Teaching Type": "Offline",
+      "LO": "CLO4",
+      "ITU": "I, T",
+      "Student Materials": "- Business Analytics: Communicating with Numbers (3rd Edition): Ch. 9, Sec. 9.1, selected parts - Course dataset pack",
+      "S-Download": "",
+      "Student's Tasks": "Interpret predicted probabilities for a simple business classification problem.",
+      "URLs": ""
+    },
+    {
+      "Session": "32",
+      "Topic": "11. Introductory classification for business decisions 11.2 Confusion matrix, cutoff, accuracy, and cost of errors",
+      "Learning-Teaching Type": "Offline",
+      "LO": "CLO4",
+      "ITU": "T, U",
+      "Student Materials": "- Business Analytics: Communicating with Numbers (3rd Edition): Ch. 9, Sec. 9.2-9.3, selected parts",
+      "S-Download": "",
+      "Student's Tasks": "Evaluate classification results using accuracy and simple error trade-offs.",
+      "URLs": ""
+    },
+    {
+      "Session": "33",
+      "Topic": "11. Introductory classification for business decisions 11.3 Guided classification practice and Individual Assignment submission/feedback",
+      "Learning-Teaching Type": "Offline",
+      "LO": "CLO4, CLO6",
+      "ITU": "U",
+      "Student Materials": "- Business Analytics: Communicating with Numbers (3rd Edition): Ch. 9 review - Individual Assignment brief",
+      "S-Download": "",
+      "Student's Tasks": "Complete a guided classification interpretation task and submit/check the assignment.",
+      "URLs": ""
+    },
+    {
+      "Session": "34",
+      "Topic": "12. Practical data-mining workflow 12.1 Training, validation, testing, and the basic model-building workflow",
+      "Learning-Teaching Type": "Offline",
+      "LO": "CLO4",
+      "ITU": "T",
+      "Student Materials": "- Business Analytics: Communicating with Numbers (3rd Edition): Ch. 11, Sec. 11.1 and 11.3, selected parts",
+      "S-Download": "",
+      "Student's Tasks": "Map a business prediction task to a simple model-building workflow.",
+      "URLs": ""
+    },
+    {
+      "Session": "35",
+      "Topic": "12. Practical data-mining workflow 12.2 Model performance and choosing a usable method for a business task",
+      "Learning-Teaching Type": "Offline",
+      "LO": "CLO4",
+      "ITU": "T, U",
+      "Student Materials": "- Business Analytics: Communicating with Numbers (3rd Edition): Ch. 11, Sec. 11.3, selected parts",
+      "S-Download": "",
+      "Student's Tasks": "Choose suitable performance measures for a simple prediction task.",
+      "URLs": ""
+    },
+    {
+      "Session": "36",
+      "Topic": "12. Practical data-mining workflow 12.3 Quiz 2 and feedback",
+      "Learning-Teaching Type": "Offline",
+      "LO": "CLO4",
+      "ITU": "U",
+      "Student Materials": "- Business Analytics: Communicating with Numbers (3rd Edition): Ch. 7, 9, 10, 11 review - Quiz 2 preparation notes",
+      "S-Download": "",
+      "Student's Tasks": "Complete Quiz 2 and review incorrect answers.",
+      "URLs": ""
+    },
+    {
+      "Session": "37",
+      "Topic": "13. Introductory data-mining models 13.1 k-nearest neighbors and Naïve Bayes as awareness-level model options",
+      "Learning-Teaching Type": "Offline",
+      "LO": "CLO4",
+      "ITU": "I, T",
+      "Student Materials": "- Business Analytics: Communicating with Numbers (3rd Edition): Ch. 12, selected parts",
+      "S-Download": "",
+      "Student's Tasks": "Explain, in plain language, how similar cases or simple evidence can support prediction.",
+      "URLs": ""
+    },
+    {
+      "Session": "38",
+      "Topic": "13. Introductory data-mining models 13.2 Decision trees I: if-then rules and classification",
+      "Learning-Teaching Type": "Offline",
+      "LO": "CLO4",
+      "ITU": "T, U",
+      "Student Materials": "- Business Analytics: Communicating with Numbers (3rd Edition): Ch. 13, Sec. 13.1-13.2, selected parts",
+      "S-Download": "",
+      "Student's Tasks": "Read a small decision tree and explain the decision rules.",
+      "URLs": ""
+    },
+    {
+      "Session": "39",
+      "Topic": "13. Introductory data-mining models 13.3 Decision trees II: interpretation, limits, and comparison with simpler models",
+      "Learning-Teaching Type": "Offline",
+      "LO": "CLO4",
+      "ITU": "U",
+      "Student Materials": "- Business Analytics: Communicating with Numbers (3rd Edition): Ch. 13, Sec. 13.2-13.3, selected parts",
+      "S-Download": "",
+      "Student's Tasks": "Compare a decision tree output with a simpler model at an introductory level.",
+      "URLs": ""
+    },
+    {
+      "Session": "40",
+      "Topic": "14. Simple pattern discovery 14.1 Clustering as customer, product, or market segmentation",
+      "Learning-Teaching Type": "Offline",
+      "LO": "CLO4",
+      "ITU": "I, T",
+      "Student Materials": "- Business Analytics: Communicating with Numbers (3rd Edition): Ch. 14, Sec. 14.1-14.2, selected parts",
+      "S-Download": "",
+      "Student's Tasks": "Interpret cluster profiles and suggest possible business actions.",
+      "URLs": ""
+    },
+    {
+      "Session": "41",
+      "Topic": "14. Simple pattern discovery 14.2 Association rules as market-basket thinking",
+      "Learning-Teaching Type": "Offline",
+      "LO": "CLO4",
+      "ITU": "T",
+      "Student Materials": "- Business Analytics: Communicating with Numbers (3rd Edition): Ch. 14, Sec. 14.3, selected parts",
+      "S-Download": "",
+      "Student's Tasks": "Interpret a simple association rule and suggest a business use case.",
+      "URLs": ""
+    },
+    {
+      "Session": "42",
+      "Topic": "14. Simple pattern discovery 14.3 Group Assignment checkpoint: method fit and preliminary interpretation",
+      "Learning-Teaching Type": "Offline",
+      "LO": "CLO4, CLO6",
+      "ITU": "U",
+      "Student Materials": "- Business Analytics: Communicating with Numbers (3rd Edition): Ch. 11-14 review - Group Assignment brief",
+      "S-Download": "",
+      "Student's Tasks": "Present a short update on data readiness, method choice, and early findings.",
+      "URLs": ""
+    },
+    {
+      "Session": "43",
+      "Topic": "15. Spreadsheet decision modeling 15.1 Model structure, inputs, outputs, and simple influence diagrams",
+      "Learning-Teaching Type": "Offline",
+      "LO": "CLO5",
+      "ITU": "I, T",
+      "Student Materials": "- Business Analytics: Communicating with Numbers (3rd Edition): Ch. 15, Sec. 15.1-15.2 - Course dataset pack",
+      "S-Download": "",
+      "Student's Tasks": "Identify inputs, calculations, and outputs in a simple spreadsheet model.",
+      "URLs": ""
+    },
+    {
+      "Session": "44",
+      "Topic": "15. Spreadsheet decision modeling 15.2 What-if analysis, Goal Seek, and scenarios",
+      "Learning-Teaching Type": "Offline",
+      "LO": "CLO5",
+      "ITU": "T, U",
+      "Student Materials": "- Business Analytics: Communicating with Numbers (3rd Edition): Ch. 15, Sec. 15.3 - Course dataset pack",
+      "S-Download": "",
+      "Student's Tasks": "Run or interpret a simple what-if or scenario analysis.",
+      "URLs": ""
+    },
+    {
+      "Session": "45",
+      "Topic": "15. Spreadsheet decision modeling 15.3 Model auditing and error checking",
+      "Learning-Teaching Type": "Offline",
+      "LO": "CLO5, CLO6",
+      "ITU": "U",
+      "Student Materials": "- Business Analytics: Communicating with Numbers (3rd Edition): Ch. 15, Sec. 15.4",
+      "S-Download": "",
+      "Student's Tasks": "Check a simple spreadsheet model for obvious errors and explain business risks.",
+      "URLs": ""
+    },
+    {
+      "Session": "46",
+      "Topic": "16. Simulation and risk analysis 16.1 Risk analysis, uncertain inputs, and decision assumptions",
+      "Learning-Teaching Type": "Offline",
+      "LO": "CLO5",
+      "ITU": "I, T",
+      "Student Materials": "- Business Analytics: Communicating with Numbers (3rd Edition): Ch. 16, Sec. 16.1-16.2 - Course dataset pack",
+      "S-Download": "",
+      "Student's Tasks": "Identify uncertain inputs and outputs in a decision model.",
+      "URLs": ""
+    },
+    {
+      "Session": "47",
+      "Topic": "16. Simulation and risk analysis 16.2 Guided Monte Carlo simulation with a prepared spreadsheet",
+      "Learning-Teaching Type": "Offline",
+      "LO": "CLO5",
+      "ITU": "T, U",
+      "Student Materials": "- Business Analytics: Communicating with Numbers (3rd Edition): Ch. 16, Sec. 16.3 - Course dataset pack",
+      "S-Download": "",
+      "Student's Tasks": "Run or interpret a prepared simulation and describe the range of outcomes.",
+      "URLs": ""
+    },
+    {
+      "Session": "48",
+      "Topic": "16. Simulation and risk analysis 16.3 Communicating simulation results",
+      "Learning-Teaching Type": "Offline",
+      "LO": "CLO5, CLO6",
+      "ITU": "U",
+      "Student Materials": "- Business Analytics: Communicating with Numbers (3rd Edition): Ch. 16 review",
+      "S-Download": "",
+      "Student's Tasks": "Write a short recommendation using outcome ranges, percentiles, and downside risk.",
+      "URLs": ""
+    },
+    {
+      "Session": "49",
+      "Topic": "17. Linear optimization for business decisions 17.1 Formulating a basic linear programming problem",
+      "Learning-Teaching Type": "Offline",
+      "LO": "CLO5",
+      "ITU": "I, T",
+      "Student Materials": "- Business Analytics: Communicating with Numbers (3rd Edition): Ch. 17, Sec. 17.1 - Course dataset pack",
+      "S-Download": "",
+      "Student's Tasks": "Define decision variables, an objective, and constraints for a simple business case.",
+      "URLs": ""
+    },
+    {
+      "Session": "50",
+      "Topic": "17. Linear optimization for business decisions 17.2 Solving basic maximization/minimization problems with spreadsheet tools",
+      "Learning-Teaching Type": "Offline",
+      "LO": "CLO5",
+      "ITU": "T, U",
+      "Student Materials": "- Business Analytics: Communicating with Numbers (3rd Edition): Ch. 17, Sec. 17.1-17.2, selected parts",
+      "S-Download": "",
+      "Student's Tasks": "Solve or interpret a basic LP result using a prepared spreadsheet/Solver setup.",
+      "URLs": ""
+    },
+    {
+      "Session": "51",
+      "Topic": "17. Linear optimization for business decisions 17.3 Feasibility, binding constraints, and practical interpretation",
+      "Learning-Teaching Type": "Offline",
+      "LO": "CLO5",
+      "ITU": "U",
+      "Student Materials": "- Business Analytics: Communicating with Numbers (3rd Edition): Ch. 17, Sec. 17.3, selected parts",
+      "S-Download": "",
+      "Student's Tasks": "Explain whether a solution is feasible and which constraints matter most.",
+      "URLs": ""
+    },
+    {
+      "Session": "52",
+      "Topic": "18. Applied optimization examples 18.1 Integer decisions and capital-budgeting examples",
+      "Learning-Teaching Type": "Offline",
+      "LO": "CLO5",
+      "ITU": "T",
+      "Student Materials": "- Business Analytics: Communicating with Numbers (3rd Edition): Ch. 18, Sec. 18.1-18.2, selected parts",
+      "S-Download": "",
+      "Student's Tasks": "Identify when a decision requires whole-number choices.",
+      "URLs": ""
+    },
+    {
+      "Session": "53",
+      "Topic": "18. Applied optimization examples 18.2 Transportation, assignment, and workforce-scheduling examples",
+      "Learning-Teaching Type": "Offline",
+      "LO": "CLO5",
+      "ITU": "T, U",
+      "Student Materials": "- Business Analytics: Communicating with Numbers (3rd Edition): Ch. 18, Sec. 18.2, selected parts",
+      "S-Download": "",
+      "Student's Tasks": "Interpret a practical optimization solution in one application area.",
+      "URLs": ""
+    },
+    {
+      "Session": "54",
+      "Topic": "18. Applied optimization examples 18.3 Group Assignment finalization clinic and optional optimization extension",
+      "Learning-Teaching Type": "Offline",
+      "LO": "CLO5, CLO6",
+      "ITU": "U",
+      "Student Materials": "- Business Analytics: Communicating with Numbers (3rd Edition): Ch. 15-18 review - Group Assignment brief",
+      "S-Download": "",
+      "Student's Tasks": "Finalize project analysis and confirm presentation structure.",
+      "URLs": ""
+    },
+    {
+      "Session": "55",
+      "Topic": "19. Integrated review and final exam preparation 19.1 Integrated analytics case from data to recommendation",
+      "Learning-Teaching Type": "Offline",
+      "LO": "CLO3, CLO4, CLO5, CLO6",
+      "ITU": "U",
+      "Student Materials": "- Business Analytics: Communicating with Numbers (3rd Edition): Selected review from Ch. 1-18 - Course dataset pack",
+      "S-Download": "",
+      "Student's Tasks": "Work through a short integrated case and connect outputs to recommendations.",
+      "URLs": ""
+    },
+    {
+      "Session": "56",
+      "Topic": "19. Integrated review and final exam preparation 19.2 Final Exam practice I: concepts and interpretation across CLO1-CLO4, including Excel/Python/R-style output reading",
+      "Learning-Teaching Type": "Offline",
+      "LO": "CLO1, CLO2, CLO3, CLO4",
+      "ITU": "U",
+      "Student Materials": "- Business Analytics: Communicating with Numbers (3rd Edition): Ch. 1-11 review - Final Exam practice notes",
+      "S-Download": "",
+      "Student's Tasks": "Complete practice questions and identify weak areas.",
+      "URLs": ""
+    },
+    {
+      "Session": "57",
+      "Topic": "19. Integrated review and final exam preparation 19.3 Final Exam practice II and Group Assignment rehearsal, including predictive/prescriptive output interpretation",
+      "Learning-Teaching Type": "Offline",
+      "LO": "CLO4, CLO5, CLO6",
+      "ITU": "U",
+      "Student Materials": "- Business Analytics: Communicating with Numbers (3rd Edition): Ch. 12-18 selected review - Group Assignment brief",
+      "S-Download": "",
+      "Student's Tasks": "Complete practice questions and rehearse the group presentation.",
+      "URLs": ""
+    },
+    {
+      "Session": "58",
+      "Topic": "20. Group presentations and course wrap-up 20.1 Group presentations: problem, data, and descriptive/visual findings",
+      "Learning-Teaching Type": "Offline",
+      "LO": "CLO2, CLO3, CLO6",
+      "ITU": "U",
+      "Student Materials": "- Group presentation slides - Group report",
+      "S-Download": "",
+      "Student's Tasks": "Present problem framing, data preparation, and descriptive/visual findings.",
+      "URLs": ""
+    },
+    {
+      "Session": "59",
+      "Topic": "20. Group presentations and course wrap-up 20.2 Group presentations: method, results, limitations, and recommendations",
+      "Learning-Teaching Type": "Offline",
+      "LO": "CLO4, CLO5, CLO6",
+      "ITU": "U",
+      "Student Materials": "- Group presentation slides - Group report",
+      "S-Download": "",
+      "Student's Tasks": "Present analysis method, results, limitations, and evidence-based recommendations.",
+      "URLs": ""
+    },
+    {
+      "Session": "60",
+      "Topic": "20. Group presentations and course wrap-up 20.3 Course wrap-up, project feedback, final exam briefing, and responsible analytics reflection",
+      "Learning-Teaching Type": "Offline",
+      "LO": "CLO1, CLO6",
+      "ITU": "U",
+      "Student Materials": "- Final Exam instructions - Course review notes",
+      "S-Download": "",
+      "Student's Tasks": "Reflect on key analytics lessons and prepare a final exam study plan.",
+      "URLs": ""
+    }
+  ],
+  "constructive_questions": [
+    {
+      "No.": "1",
+      "Session No": "1",
+      "Name": "CQ1",
+      "Details": "Translate a practical business question into a basic analytics workflow by identifying the decision to be supported, the data needed, the preparation and visualization steps, and the type of insight managers can use."
+    },
+    {
+      "No.": "2",
+      "Session No": "2",
+      "Name": "CQ2",
+      "Details": "Frame a business analytics problem by identifying the decision context, stakeholders, available data, analytics objective, and basic ethical or privacy risks."
+    },
+    {
+      "No.": "3",
+      "Session No": "3",
+      "Name": "CQ3",
+      "Details": "Identify data types, measurement scales, data sources, and file formats in business or financial datasets, and explain how these choices affect later analysis."
+    },
+    {
+      "No.": "4",
+      "Session No": "4",
+      "Name": "CQ4",
+      "Details": "Import, inspect, clean, transform, and document a simple business dataset using guided Excel, Python, or R workflows."
+    },
+    {
+      "No.": "5",
+      "Session No": "5",
+      "Name": "CQ5",
+      "Details": "Use descriptive statistics to summarize business performance, variability, outliers, and relationships among variables."
+    },
+    {
+      "No.": "6",
+      "Session No": "6",
+      "Name": "CQ6",
+      "Details": "Choose and create appropriate visualizations for business data, and explain how chart design can clarify or mislead business interpretation."
+    },
+    {
+      "No.": "7",
+      "Session No": "7",
+      "Name": "CQ7",
+      "Details": "Use basic probability and uncertainty concepts to describe business or financial risks in practical decision situations."
+    },
+    {
+      "No.": "8",
+      "Session No": "8",
+      "Name": "CQ8",
+      "Details": "Interpret confidence intervals and simple hypothesis tests as evidence for business comparisons, without relying on advanced mathematical derivations."
+    },
+    {
+      "No.": "9",
+      "Session No": "9",
+      "Name": "CQ9",
+      "Details": "Build and interpret a simple linear regression model for a business or financial prediction problem using guided software output."
+    },
+    {
+      "No.": "10",
+      "Session No": "10",
+      "Name": "CQ10",
+      "Details": "Interpret a multiple regression model with business variables, including coefficient meaning, model fit, and limitations of prediction."
+    },
+    {
+      "No.": "11",
+      "Session No": "11",
+      "Name": "CQ11",
+      "Details": "Diagnose and improve a regression analysis by checking basic assumptions, unusual observations, and practical usefulness for decision-making."
+    },
+    {
+      "No.": "12",
+      "Session No": "12",
+      "Name": "CQ12",
+      "Details": "Create and interpret a basic time-series forecast using trend, seasonality, and simple model-selection logic."
+    },
+    {
+      "No.": "13",
+      "Session No": "13",
+      "Name": "CQ13",
+      "Details": "Explain the data-mining workflow by preparing training and validation data and choosing suitable performance measures for a business prediction task."
+    },
+    {
+      "No.": "14",
+      "Session No": "14",
+      "Name": "CQ14",
+      "Details": "Apply an introductory classification method, such as logistic regression, k-nearest neighbors, or naïve Bayes, and interpret prediction results in business terms."
+    },
+    {
+      "No.": "15",
+      "Session No": "15",
+      "Name": "CQ15",
+      "Details": "Use introductory decision trees, clustering, or association rules to discover useful customer, product, or market patterns."
+    },
+    {
+      "No.": "16",
+      "Session No": "16",
+      "Name": "CQ16",
+      "Details": "Construct a spreadsheet decision model and use what-if, goal-seek, or scenario analysis to compare business alternatives."
+    },
+    {
+      "No.": "17",
+      "Session No": "17",
+      "Name": "CQ17",
+      "Details": "Use Monte Carlo simulation to model uncertainty and communicate likely outcome ranges for a business or financial decision."
+    },
+    {
+      "No.": "18",
+      "Session No": "18",
+      "Name": "CQ18",
+      "Details": "Formulate and solve a basic linear programming problem by defining decision variables, an objective function, and practical constraints."
+    },
+    {
+      "No.": "19",
+      "Session No": "19",
+      "Name": "CQ19",
+      "Details": "Interpret basic optimization applications, such as budgeting, transportation, assignment, workforce scheduling, or facility-location decisions."
+    },
+    {
+      "No.": "20",
+      "Session No": "20",
+      "Name": "CQ20",
+      "Details": "Complete and defend a guided business analytics project by connecting problem framing, data preparation, method selection, findings, limitations, and recommendations."
+    }
+  ],
+  "materials": [
+    {
+      "No.": "1",
+      "Material Description": "Business Analytics: Communicating with Numbers (3rd Edition)",
+      "Author": "Sanjiv Jaggia; Alison Kelly; Kevin Lertwachara; Leida Chen",
+      "Publisher": "McGraw Hill",
+      "Published Date": "2025",
+      "Edition": "3rd",
+      "ISBN": "978-1264901531",
+      "Is Main Material": "True",
+      "Is Hard Copy": "True",
+      "Is Online": "False",
+      "Note": "main textbook; primary source for the schedule, slides, exercises, datasets, and assessment-item development"
+    },
+    {
+      "No.": "2",
+      "Material Description": "Introduction to Business Analytics (1st Edition)",
+      "Author": "Vernon J. Richardson; Marcia Weidenmier Watson; Katie Terrell",
+      "Publisher": "McGraw Hill",
+      "Published Date": "2024",
+      "Edition": "1st",
+      "ISBN": "978-1265454340",
+      "Is Main Material": "False",
+      "Is Hard Copy": "True",
+      "Is Online": "False",
+      "Note": "supplement textbook; use selectively for the SOAR analytics model, business-decision framing, assignable Python labs, and additional practice"
+    },
+    {
+      "No.": "3",
+      "Material Description": "R Programming Statistical Data Analysis in Research",
+      "Author": "Kingsley Okoye; Samira Hosseini",
+      "Publisher": "Springer",
+      "Published Date": "2024",
+      "Edition": "",
+      "ISBN": "9789819733842",
+      "Is Main Material": "False",
+      "Is Hard Copy": "True",
+      "Is Online": "False",
+      "Note": "R programming supplement; use lightly only where R output or guided R reference is needed; already evaluated in BCP201"
+    }
+  ],
+  "source_path": "data/raw/syllabi/14391.html",
+  "id": "syllabus:14391"
+}

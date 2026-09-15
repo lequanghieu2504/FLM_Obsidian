@@ -1,0 +1,397 @@
+{
+  "syllabus_id": 3571,
+  "subject_code": "ANM301",
+  "subject_name": "3D Modeling & Texturing (Maya)",
+  "syllabus_name": "3D Modeling & Texturing (Maya) Xây dựng mô hình và tạo chất liệu trong môi trường 3D",
+  "credits": 3,
+  "degree_level": "Bachelor",
+  "time_allocation": "30 slots (1 slot = 90 minutes)",
+  "prerequisite": "",
+  "general_information": {
+    "Syllabus ID": "3571",
+    "Syllabus Name": "3D Modeling & Texturing (Maya) Xây dựng mô hình và tạo chất liệu trong môi trường 3D",
+    "Course Name English": "",
+    "Subject Code": "ANM301",
+    "Learning-Teaching Method": "",
+    "NoCredit": "3",
+    "Degree Level": "Bachelor",
+    "Time Allocation": "30 slots (1 slot = 90 minutes)",
+    "Pre-Requisite": "",
+    "Description": "This course will prepare you: This course covers the fundamentals of working in CG (Computer Graphic) with Maya. It’s only a starting point, though. As with any artistic pursuit, CG is a lifelong process of learning. With what you learn in this course forming a solid foundation, you can continue exploring all the complex, interesting facets of creating CG imagery Teaching methods: - Student is the center, practice combined with theory - Help students have a self-study method - Presentation method combined with group working method - Teachers are instructors, organizing activities - The result is a combination of teacher and student evaluation",
+    "StudentTasks": "'<- Attend more than 80% of contact hours in order to be accepted to the final examination < - Actively participate in class activities > < - Fulfill tasks given by instructor after class > < - Use their own laptop in class only for learning purpose > < - Read the textbook in advance > < - Access the course website (www.cms.fpt.edu.vn) for up-to-date information and material of the course, for online supports from teachers and other students and for practicing and assessment. >",
+    "Tools": "",
+    "Scoring Scale": "10",
+    "DecisionNo MM/dd/yyyy": "870/QĐ-ĐHFPT dated 08/06/2021",
+    "IsApproved": "True",
+    "Note": "",
+    "Is Scored": "True",
+    "MinAvgMarkToPass": "5",
+    "IsActive": "True",
+    "ApprovedDate": "8/6/2021"
+  },
+  "active": true,
+  "approved": true,
+  "decision": "870/QĐ-ĐHFPT dated 08/06/2021",
+  "description": "This course will prepare you: This course covers the fundamentals of working in CG (Computer Graphic) with Maya. It’s only a starting point, though. As with any artistic pursuit, CG is a lifelong process of learning. With what you learn in this course forming a solid foundation, you can continue exploring all the complex, interesting facets of creating CG imagery Teaching methods: - Student is the center, practice combined with theory - Help students have a self-study method - Presentation method combined with group working method - Teachers are instructors, organizing activities - The result is a combination of teacher and student evaluation",
+  "learning_outcomes": [
+    {
+      "No.": "1",
+      "CLO Name": "CLO1",
+      "CLO Details": "LO_01: Students will be able to manipolate tools"
+    },
+    {
+      "No.": "2",
+      "CLO Name": "CLO2",
+      "CLO Details": "LO_02: Students will be able to create some basic objects"
+    },
+    {
+      "No.": "3",
+      "CLO Name": "CLO3",
+      "CLO Details": "LO_03: Students will be able to create some items: vase, bottle, cup, exhibition booth model.."
+    },
+    {
+      "No.": "4",
+      "CLO Name": "CLO4",
+      "CLO Details": "LO_04: Students will be able to shape the hand and foot"
+    },
+    {
+      "No.": "5",
+      "CLO Name": "CLO5",
+      "CLO Details": "LO_05: Students will be able to shape the head"
+    },
+    {
+      "No.": "6",
+      "CLO Name": "CLO6",
+      "CLO Details": "LO_06: Students will be able to shape body"
+    },
+    {
+      "No.": "7",
+      "CLO Name": "CLO7",
+      "CLO Details": "LO_07: Students will be able to assign material (part 01)"
+    },
+    {
+      "No.": "8",
+      "CLO Name": "CLO8",
+      "CLO Details": "LO_08: Students will be able to assign material to the character ( part02)"
+    },
+    {
+      "No.": "9",
+      "CLO Name": "CLO9",
+      "CLO Details": "LO_9: students will be able to apply lighting and render a model using Arnold Cinematic render a cartoon scene"
+    },
+    {
+      "No.": "10",
+      "CLO Name": "CLO10",
+      "CLO Details": "LO_10: Students will be able to create a short clip introducing the characters using light, material and camera"
+    }
+  ],
+  "assessments": [
+    {
+      "No.": "1",
+      "Category": "Assignment 1",
+      "Type": "on-going",
+      "Part": "1",
+      "Weight": "15.0%",
+      "Completion Criteria": ">0",
+      "Duration": "1 week",
+      "CLO": "LO1, LO2, LO3, LO4, LO5, LO6",
+      "Question Type": "",
+      "No Question": "1",
+      "Knowledge and Skill": "complete a game character",
+      "Grading Guide": "Amount of work on Web Interface (60%) and Presentation (25%), and ability to explain and answer questions from evaluator (15%)",
+      "Note": "Student must deliver assignment in time."
+    },
+    {
+      "No.": "2",
+      "Category": "Assignment 2",
+      "Type": "on-going",
+      "Part": "1",
+      "Weight": "25.0%",
+      "Completion Criteria": ">0",
+      "Duration": "1 weeks",
+      "CLO": "LO7, LO8",
+      "Question Type": "",
+      "No Question": "1",
+      "Knowledge and Skill": "Assign the material, the character clothing",
+      "Grading Guide": "Amount of work on Front-end version (60%) and Presentation (25%), and ability to explain and answer questions from evaluator (15%)",
+      "Note": "Student must deliver assignment in time."
+    },
+    {
+      "No.": "3",
+      "Category": "Class participation, preparation and pratising",
+      "Type": "on-going",
+      "Part": "1",
+      "Weight": "15.0%",
+      "Completion Criteria": ">0",
+      "Duration": "",
+      "CLO": "",
+      "Question Type": "",
+      "No Question": "No info",
+      "Knowledge and Skill": "",
+      "Grading Guide": "Participation grade will be given based on students' attendance, preparation, and quantity as well as quality of participation in classroom; quality of participation is demonstrated through asking relevant questions, making statements that add to and facilitate class discussion, and builds upon others’ comments. Teacher give marks on student's student's Class participation and preparation only after the Portfolio submission.",
+      "Note": ""
+    },
+    {
+      "No.": "4",
+      "Category": "Project",
+      "Type": "on-going",
+      "Part": "1",
+      "Weight": "45.0%",
+      "Completion Criteria": ">0",
+      "Duration": "2 week",
+      "CLO": "LO9, LO10",
+      "Question Type": "",
+      "No Question": "1",
+      "Knowledge and Skill": "export the clip introduces the characters from 15s to 30s with Arnold",
+      "Grading Guide": "Amount of work on Front-end version (60%) and Presentation (25%), and ability to explain and answer questions from evaluator (15%)",
+      "Note": "Student must deliver final demo reel in time"
+    }
+  ],
+  "schedule": [
+    {
+      "Session": "1",
+      "Topic": "'Getting Started with Maya Working with basic tools",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO1",
+      "ITU": "ITU",
+      "Student Materials": "Textbooks, PPT presentation, and other resources",
+      "S-Download": "ANM301",
+      "Student's Tasks": "Student: Discussion. Teacher: 1 - Introduction to Autodesk Maya 2 - The Maya user interface 3 - Managing Scenes, Files, and Projects 4 - Creating primitive objects, moving, rotating, scaling object 5 - Shortcuts to manipulate the workspace, object 6 - Components and attributes 7- Select objects and components 8- Transform, group and parent objects 9- Snap and align objects 10- Operate keyboard shortcuts",
+      "URLs": ""
+    },
+    {
+      "Session": "2",
+      "Topic": "Draw NURBS curves",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO2",
+      "ITU": "IT",
+      "Student Materials": "Textbooks, workbooks, PPT presentation, and other resources",
+      "S-Download": "ANM301",
+      "Student's Tasks": "Student: Discussion, Exercises. Teacher: 1. CV Curve Tool Options 2. EP Curve Tool Options 3. Make a curve or surface open or closed 4. Create arcs 5. Reshape a curve or surface manually 6. Edit NURBS curves and surfaces",
+      "URLs": ""
+    },
+    {
+      "Session": "3",
+      "Topic": "Working with NURBS Surfaces",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO3",
+      "ITU": "IT",
+      "Student Materials": "Textbooks, workbooks, PPT presentation, and other resources",
+      "S-Download": "",
+      "Student's Tasks": "Student: Discussion, Exercises. Teacher: 1- Revolve 2- Loft 3- Bevel 4- Boundary 5- Extrude 6- Put illustrator file into Maya",
+      "URLs": ""
+    },
+    {
+      "Session": "4",
+      "Topic": "Creating and Editing polygon objects",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO4",
+      "ITU": "IT",
+      "Student Materials": "Textbooks, workbooks, PPT presentation, and other resources",
+      "S-Download": "",
+      "Student's Tasks": "Studnet: Discussion, Exercises. Teacher: 1. Analysis Grid (Grid runs rough blocks, the motion, the standard for animated mesh.) 2. Analyze how to implement Modeling (Modeling 1 block, Modeling partially combined, Retopolygy.) 3- Operate with select vertex, edge, face. 4- Work with Select menu: Similiar, Grow, Shrink. 5- Work with Edit Mesh menu: - Add Divisions - Bevel - Connect - Detach - Extrude - Duplicate - Chamfer",
+      "URLs": ""
+    },
+    {
+      "Session": "5",
+      "Topic": "Human face topology",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO5",
+      "ITU": "IT",
+      "Student Materials": "Textbooks, workbooks, PPT presentation, and other resources",
+      "S-Download": "",
+      "Student's Tasks": "Student: Discussion, Exercises. Teacher: 1- Faster operation with the same command on the command panel 2. Modeling with some command group - Mesh: combine, seprate ... - components: Extrude, Bridge, ... - Tool: Multicut, target weld, connect ... 3- Asymmetry of the face 4- Block out the eye 5- Block out the mouth and the chin 6- Build up the eye region 7. Some techniques for Modeling (Rounds, keeping the corner, smoothing the surface, connecting surfaces, the error checking, balance points, reverse normal ...)",
+      "URLs": ""
+    },
+    {
+      "Session": "6",
+      "Topic": "Human body topology",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO6",
+      "ITU": "IT",
+      "Student Materials": "Textbooks, workbooks, PPT presentation, and other resources",
+      "S-Download": "",
+      "Student's Tasks": "Student: Discussion, Exercises. Teacher: 1. Create the nose 2. Create the ear 3. Body topology 4. Adding the neck and the back of the head 5. Create the skin flow of the eyes 6. Connect the head to the body 7. Rediting the proportions 8. Reworking the topology 9. Use brush preset 10..Create custom brushes 11. Sculpt Tools 12. Paint in 3D objects",
+      "URLs": ""
+    },
+    {
+      "Session": "7",
+      "Topic": "Assign Materials and textures part 01",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO7",
+      "ITU": "U",
+      "Student Materials": "Textbooks, workbooks, PPT presentation, and other resources",
+      "S-Download": "",
+      "Student's Tasks": "Student: Discussion, Exercises. Teacher: Create and assign a material 1- Use hypershape 2- Apply materials 3- Work with material 4- Work with texture and position texture 5- Use displacement map",
+      "URLs": ""
+    },
+    {
+      "Session": "8",
+      "Topic": "Assign Materials and textures part 02",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO8",
+      "ITU": "U",
+      "Student Materials": "Textbooks, workbooks, PPT presentation, and other resources",
+      "S-Download": "",
+      "Student's Tasks": "Student: Discussion, Exercises. Teacher: 1- Mapping UVs 2- Planar UV mapping 3- Edit Uvs 4. Paint in 2D",
+      "URLs": ""
+    },
+    {
+      "Session": "9",
+      "Topic": "Use camera and light",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO9",
+      "ITU": "IT",
+      "Student Materials": "Textbooks, workbooks, PPT presentation, and other resources",
+      "S-Download": "",
+      "Student's Tasks": "Student: Discussion, Exercises. Teacher: 1- Scene Setup 2- Working with camera 3- Light Settings 4- Shading",
+      "URLs": ""
+    },
+    {
+      "Session": "10",
+      "Topic": "Rendering a scence",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO10",
+      "ITU": "IT",
+      "Student Materials": "Textbooks, workbooks, PPT presentation, and other resources",
+      "S-Download": "",
+      "Student's Tasks": "Student: Discussion, Exercises. Teacher: 1- Rendering a scene 2- Lights, shadows, and cameras 3- Camera Depth of Field 4- Rendering",
+      "URLs": ""
+    }
+  ],
+  "constructive_questions": [],
+  "materials": [
+    {
+      "No.": "1",
+      "Material Description": "Students will be able to manipolate tools",
+      "Author": "",
+      "Publisher": "",
+      "Published Date": "",
+      "Edition": "",
+      "ISBN": "",
+      "Is Main Material": "False",
+      "Is Hard Copy": "False",
+      "Is Online": "False",
+      "Note": ""
+    },
+    {
+      "No.": "2",
+      "Material Description": "' Students will be able to create some basic objects",
+      "Author": "",
+      "Publisher": "",
+      "Published Date": "",
+      "Edition": "",
+      "ISBN": "",
+      "Is Main Material": "False",
+      "Is Hard Copy": "False",
+      "Is Online": "False",
+      "Note": ""
+    },
+    {
+      "No.": "3",
+      "Material Description": "'Students will be able to create some items: vase, bottle, cup, exhibition booth model..",
+      "Author": "",
+      "Publisher": "",
+      "Published Date": "",
+      "Edition": "",
+      "ISBN": "",
+      "Is Main Material": "False",
+      "Is Hard Copy": "False",
+      "Is Online": "False",
+      "Note": ""
+    },
+    {
+      "No.": "4",
+      "Material Description": "Students will be able to shape the hand and foot",
+      "Author": "",
+      "Publisher": "",
+      "Published Date": "",
+      "Edition": "",
+      "ISBN": "",
+      "Is Main Material": "False",
+      "Is Hard Copy": "False",
+      "Is Online": "False",
+      "Note": ""
+    },
+    {
+      "No.": "5",
+      "Material Description": "'Students will be able to shape the head",
+      "Author": "",
+      "Publisher": "",
+      "Published Date": "",
+      "Edition": "",
+      "ISBN": "",
+      "Is Main Material": "False",
+      "Is Hard Copy": "False",
+      "Is Online": "False",
+      "Note": ""
+    },
+    {
+      "No.": "6",
+      "Material Description": "Students will be able to shape body",
+      "Author": "",
+      "Publisher": "",
+      "Published Date": "",
+      "Edition": "",
+      "ISBN": "",
+      "Is Main Material": "False",
+      "Is Hard Copy": "False",
+      "Is Online": "False",
+      "Note": ""
+    },
+    {
+      "No.": "7",
+      "Material Description": "Students will be able to assign material part 01",
+      "Author": "",
+      "Publisher": "",
+      "Published Date": "",
+      "Edition": "",
+      "ISBN": "",
+      "Is Main Material": "False",
+      "Is Hard Copy": "False",
+      "Is Online": "False",
+      "Note": ""
+    },
+    {
+      "No.": "8",
+      "Material Description": "Students will be able to assign material to the character part02",
+      "Author": "",
+      "Publisher": "",
+      "Published Date": "",
+      "Edition": "",
+      "ISBN": "",
+      "Is Main Material": "False",
+      "Is Hard Copy": "False",
+      "Is Online": "False",
+      "Note": ""
+    },
+    {
+      "No.": "9",
+      "Material Description": "students will be able to apply lighting and render a model using Arnold Cinematic render a cartoon scene",
+      "Author": "",
+      "Publisher": "",
+      "Published Date": "",
+      "Edition": "",
+      "ISBN": "",
+      "Is Main Material": "False",
+      "Is Hard Copy": "False",
+      "Is Online": "False",
+      "Note": ""
+    },
+    {
+      "No.": "10",
+      "Material Description": "Students will be able to create a short clip introducing the characters using light, material and camera",
+      "Author": "",
+      "Publisher": "",
+      "Published Date": "",
+      "Edition": "",
+      "ISBN": "",
+      "Is Main Material": "False",
+      "Is Hard Copy": "False",
+      "Is Online": "False",
+      "Note": ""
+    }
+  ],
+  "source_path": "data/raw/syllabi/3571.html",
+  "id": "syllabus:3571"
+}

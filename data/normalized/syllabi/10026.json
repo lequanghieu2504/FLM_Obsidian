@@ -1,0 +1,327 @@
+{
+  "syllabus_id": 10026,
+  "subject_code": "AIP490",
+  "subject_name": "AI Capstone Project_Đồ án tốt nghiệp TTNT",
+  "syllabus_name": "AI Capstone Project_Đồ án tốt nghiệp TTNT",
+  "credits": 10,
+  "degree_level": "Bachelor",
+  "time_allocation": "Study hour (500h) = 33.75h contact hours (1newslot/week*15week) + 1.5h capstone project defense + 464.75h self-study",
+  "prerequisite": "- Student must pass Machine Learning (AIL30x). - Pass OJT202 - Pass 60% of total credits of selected combo - Pass 80% of total credits (PHE_COM* and OJT excluded)",
+  "general_information": {
+    "Syllabus ID": "10026",
+    "Syllabus Name": "AI Capstone Project_Đồ án tốt nghiệp TTNT",
+    "Course Name English": "AI Capstone Project",
+    "Subject Code": "AIP490",
+    "Learning-Teaching Method": "Inquiry-Based Learning,Experiential learning methods,Project Based Training",
+    "NoCredit": "10",
+    "Degree Level": "Bachelor",
+    "Time Allocation": "Study hour (500h) = 33.75h contact hours (1newslot/week*15week) + 1.5h capstone project defense + 464.75h self-study",
+    "Pre-Requisite": "- Student must pass Machine Learning (AIL30x). - Pass OJT202 - Pass 60% of total credits of selected combo - Pass 80% of total credits (PHE_COM* and OJT excluded)",
+    "Description": "The Capstone Project is an integrative experience that brings together various components of the undergraduate AI studies in a more applied setting and under a new perspective. It enables students to further apply their knowledge and skills which they have found especially interesting or beneficial to them. As part of the course, students will learn about all aspects of the process of developing and carrying out the capstone project and gain an understanding of standards and expectations needed to successfully complete their dissertation. This capstone project will be completed by a group of 2-3 students. Students will be supported by a supervisor, who will provide them with essential guidance in conducting a research, designing & implementing the product, writing the dissertation in formal format and defending their arguments in front of the examination board.",
+    "StudentTasks": "(1) Choose the project within the selected concentration (2) Divide and schedule work (3) Attend all scheduled meetings with supervisor (4) Produce document and product according to project requirements (5) Defense individually work in front of examination board",
+    "Tools": "",
+    "Scoring Scale": "10",
+    "DecisionNo MM/dd/yyyy": "808/QĐ-ĐHFPT dated 08/03/2023",
+    "IsApproved": "True",
+    "Note": "On-going assessment: - Presentation: 15% (5% from other student group- peer review, 10% from supervisor) - Plan: 15% (15% from supervisor) - Implementation: 70% (70% from supervisor where 50% from board review of code and data, 10% from prototype documentation, 10% report of experimentation and transfer) Final Project Result = On-going assessment (3 Reports) x 50% + Final Defense Mark (by Committee) x 50% Completion Criteria: • On-going Criteria: after 7 weeks: 2 reports >=5 • On-going assessment >=5 • Final Defense >=4/10 • Final Result >=5",
+    "Is Scored": "True",
+    "MinAvgMarkToPass": "5",
+    "IsActive": "True",
+    "ApprovedDate": "8/3/2023"
+  },
+  "active": true,
+  "approved": true,
+  "decision": "808/QĐ-ĐHFPT dated 08/03/2023",
+  "description": "The Capstone Project is an integrative experience that brings together various components of the undergraduate AI studies in a more applied setting and under a new perspective. It enables students to further apply their knowledge and skills which they have found especially interesting or beneficial to them. As part of the course, students will learn about all aspects of the process of developing and carrying out the capstone project and gain an understanding of standards and expectations needed to successfully complete their dissertation. This capstone project will be completed by a group of 2-3 students. Students will be supported by a supervisor, who will provide them with essential guidance in conducting a research, designing & implementing the product, writing the dissertation in formal format and defending their arguments in front of the examination board.",
+  "learning_outcomes": [
+    {
+      "No.": "1",
+      "CLO Name": "CLO1",
+      "CLO Details": "Use the knowledge of contemporary issues to identify a problem requiring technology intervention and specify the requiments for the proposed solution, algorithm."
+    },
+    {
+      "No.": "2",
+      "CLO Name": "CLO2",
+      "CLO Details": "Collect data, with consideration of techical & other factors."
+    },
+    {
+      "No.": "3",
+      "CLO Name": "CLO3",
+      "CLO Details": "Design, Implement & Analyze AI solution"
+    },
+    {
+      "No.": "4",
+      "CLO Name": "CLO4",
+      "CLO Details": "Apply project management principles to software development project."
+    },
+    {
+      "No.": "5",
+      "CLO Name": "CLO5",
+      "CLO Details": "Write a professional research report"
+    },
+    {
+      "No.": "6",
+      "CLO Name": "CLO6",
+      "CLO Details": "Practice oral presentation and inter-personal communications."
+    },
+    {
+      "No.": "7",
+      "CLO Name": "CLO7",
+      "CLO Details": "Exhibit professional working attitudes"
+    }
+  ],
+  "assessments": [
+    {
+      "No.": "1",
+      "Category": "Progress Reports",
+      "Type": "on-going",
+      "Part": "3",
+      "Weight": "50.0%",
+      "Completion Criteria": "5",
+      "Duration": "During Capstone Project Progress",
+      "CLO": "All LOs",
+      "Question Type": "",
+      "No Question": "N/A",
+      "Knowledge and Skill": "• Report 1: Presentation• Report 2: Plan• Report 3: Implementation• Final Written Report",
+      "Grading Guide": "• Based on the schedule in the syllabus, each group report will be evaluated by the group supervisor. This evaluation is called progress assessment. • Individual mark for each progress assessment report is decided by the group supervisor and is assessed on the basis of the actual contribution by that individual to the group report. The individual mark can be lower or higher than the group mark and is in the range from 0% to 120% of the group mark where the average score of group members cannot be more than group mark.",
+      "Note": "50% of Final CP Mark with weight (On-going assessment) '- Presentation: (Report 1) 15% (5% from other student group(peer review), 10% from supervisor) - Plan: (Report 2) 15% (15% from supervisor) - Implementation: (Report 3) 70% (70% from supervisor where 50% for code and data, 10% for prototype documentation, 10% report of experimentation and transfer)"
+    },
+    {
+      "No.": "2",
+      "Category": "Capstone Project Defense",
+      "Type": "Final exam",
+      "Part": "1",
+      "Weight": "50.0%",
+      "Completion Criteria": "4",
+      "Duration": "90 minutes for each group",
+      "CLO": "All LOs",
+      "Question Type": "",
+      "No Question": "N/A",
+      "Knowledge and Skill": "Combination of all relevant acquired knowledge, and research and presentation skills",
+      "Grading Guide": "• Capstone project defense mark is given by each member of referee committee for each student on capstone project defense. This personal mark is the average of all member of referee committee. • Total capstone project defense time for each group is 90 mins. Each student must make his or her own presentation.",
+      "Note": "Referee committee give mark for each student 1st times: before defense (based on thesis) Referee committee give mark for each student 2nd times: after defense (based on student's performance on oral thesis defense) (Final defense mark = evarage mark of 1st and 2nd times for each student)"
+    }
+  ],
+  "schedule": [
+    {
+      "Session": "1",
+      "Topic": "Read: - Choose topics - Read & understand paper - Discuss with instructor for better understand",
+      "Learning-Teaching Type": "Offline",
+      "LO": "CLO1, CLO7",
+      "ITU": "",
+      "Student Materials": "Syllabus Guide of Capstone Project",
+      "S-Download": "AIP490",
+      "Student's Tasks": "Read related documents",
+      "URLs": ""
+    },
+    {
+      "Session": "2",
+      "Topic": "Read: - Choose topics - Read & understand paper - Discuss with instructor for better understand",
+      "Learning-Teaching Type": "Offline",
+      "LO": "CLO1, CLO7",
+      "ITU": "",
+      "Student Materials": "Guide of Capstone Project; Students and Groups Progress Notes",
+      "S-Download": "AIP490",
+      "Student's Tasks": "Prepare for Presentation",
+      "URLs": ""
+    },
+    {
+      "Session": "3",
+      "Topic": "Present: - Present your understand - Receive peer & supervisor feedback",
+      "Learning-Teaching Type": "Offline",
+      "LO": "CLO1, CLO5, CLO7",
+      "ITU": "",
+      "Student Materials": "Guide of Capstone Project; Students and Groups Progress Notes",
+      "S-Download": "",
+      "Student's Tasks": "Make present and submit present document (Report 1)",
+      "URLs": ""
+    },
+    {
+      "Session": "4",
+      "Topic": "Present: - Present your understand - Receive peer & supervisor feedback",
+      "Learning-Teaching Type": "Offline",
+      "LO": "CLO1, CLO5, CLO7",
+      "ITU": "",
+      "Student Materials": "Guide of Capstone Project; Students and Groups Progress Notes",
+      "S-Download": "",
+      "Student's Tasks": "Make present and submit present document (Report 1)",
+      "URLs": ""
+    },
+    {
+      "Session": "5",
+      "Topic": "Plan: - Plan to implement in a prototype",
+      "Learning-Teaching Type": "Offline",
+      "LO": "CLO4, CLO7",
+      "ITU": "",
+      "Student Materials": "Guide of Capstone Project; Students and Groups Progress Notes",
+      "S-Download": "",
+      "Student's Tasks": "Prepare Plan",
+      "URLs": ""
+    },
+    {
+      "Session": "6",
+      "Topic": "Plan: - Plan to implement in a prototype",
+      "Learning-Teaching Type": "Offline",
+      "LO": "CLO4, CLO7",
+      "ITU": "",
+      "Student Materials": "Guide of Capstone Project; Students and Groups Progress Notes",
+      "S-Download": "",
+      "Student's Tasks": "Prepare Plan",
+      "URLs": ""
+    },
+    {
+      "Session": "7",
+      "Topic": "Plan: - Plan to implement in a prototype",
+      "Learning-Teaching Type": "Offline",
+      "LO": "CLO4, CLO5, CLO7",
+      "ITU": "",
+      "Student Materials": "Guide of Capstone Project; Students and Groups Progress Notes",
+      "S-Download": "",
+      "Student's Tasks": "Submit Plan (Report 2)",
+      "URLs": ""
+    },
+    {
+      "Session": "8",
+      "Topic": "Implement: - Implement - Build a prototype - Experiment with prototype & transfer it",
+      "Learning-Teaching Type": "Offline",
+      "LO": "CLO2, CLO3, CLO5, CLO7",
+      "ITU": "",
+      "Student Materials": "Guide of Capstone Project; Students and Groups Progress Notes",
+      "S-Download": "",
+      "Student's Tasks": "Implement Submit experimental data with prototype (Report 3) Prepare for defense",
+      "URLs": ""
+    },
+    {
+      "Session": "9",
+      "Topic": "Implement: - Implement - Build a prototype - Experiment with prototype & transfer it",
+      "Learning-Teaching Type": "Offline",
+      "LO": "CLO2, CLO3, CLO5, CLO7",
+      "ITU": "",
+      "Student Materials": "Guide of Capstone Project; Students and Groups Progress Notes",
+      "S-Download": "",
+      "Student's Tasks": "Implement Submit experimental data with prototype (Report 3) Prepare for defense",
+      "URLs": ""
+    },
+    {
+      "Session": "10",
+      "Topic": "Implement: - Implement - Build a prototype - Experiment with prototype & transfer it",
+      "Learning-Teaching Type": "Offline",
+      "LO": "CLO2, CLO3, CLO5, CLO7",
+      "ITU": "",
+      "Student Materials": "Guide of Capstone Project; Students and Groups Progress Notes",
+      "S-Download": "",
+      "Student's Tasks": "Implement Submit experimental data with prototype (Report 3) Prepare for defense",
+      "URLs": ""
+    },
+    {
+      "Session": "11",
+      "Topic": "Implement: - Implement - Build a prototype - Experiment with prototype & transfer it",
+      "Learning-Teaching Type": "Offline",
+      "LO": "CLO2, CLO3, CLO5, CLO7",
+      "ITU": "",
+      "Student Materials": "Guide of Capstone Project; Students and Groups Progress Notes",
+      "S-Download": "",
+      "Student's Tasks": "Implement Submit experimental data with prototype (Report 3) Prepare for defense",
+      "URLs": ""
+    },
+    {
+      "Session": "12",
+      "Topic": "Implement: - Implement - Build a prototype - Experiment with prototype & transfer it",
+      "Learning-Teaching Type": "Offline",
+      "LO": "CLO2, CLO3, CLO5, CLO7",
+      "ITU": "",
+      "Student Materials": "Guide of Capstone Project; Students and Groups Progress Notes",
+      "S-Download": "",
+      "Student's Tasks": "Implement Submit experimental data with prototype (Report 3) Prepare for defense",
+      "URLs": ""
+    },
+    {
+      "Session": "13",
+      "Topic": "Implement: - Implement - Build a prototype - Experiment with prototype & transfer it",
+      "Learning-Teaching Type": "Offline",
+      "LO": "CLO2, CLO3, CLO5, CLO7",
+      "ITU": "",
+      "Student Materials": "Guide of Capstone Project; Students and Groups Progress Notes",
+      "S-Download": "",
+      "Student's Tasks": "Implement Submit experimental data with prototype (Report 3) Prepare for defense",
+      "URLs": ""
+    },
+    {
+      "Session": "14",
+      "Topic": "Implement: - Implement - Build a prototype - Experiment with prototype & transfer it",
+      "Learning-Teaching Type": "Offline",
+      "LO": "CLO2, CLO3, CLO5, CLO7",
+      "ITU": "",
+      "Student Materials": "Guide of Capstone Project; Students and Groups Progress Notes",
+      "S-Download": "",
+      "Student's Tasks": "Implement Submit experimental data with prototype (Report 3) Prepare for defense",
+      "URLs": ""
+    },
+    {
+      "Session": "15",
+      "Topic": "Implement: - Implement - Build a prototype - Experiment with prototype & transfer it",
+      "Learning-Teaching Type": "Offline",
+      "LO": "CLO2, CLO3, CLO5, CLO7",
+      "ITU": "",
+      "Student Materials": "Guide of Capstone Project; Students and Groups Progress Notes",
+      "S-Download": "",
+      "Student's Tasks": "Implement Submit experimental data with prototype (Report 3) Prepare for defense",
+      "URLs": ""
+    },
+    {
+      "Session": "16",
+      "Topic": "Defense: - Presentation of Thesis - Q&A",
+      "Learning-Teaching Type": "",
+      "LO": "CLO6",
+      "ITU": "",
+      "Student Materials": "Students CD-ROM Hard copy of the whole Thesis",
+      "S-Download": "",
+      "Student's Tasks": "",
+      "URLs": ""
+    }
+  ],
+  "constructive_questions": [],
+  "materials": [
+    {
+      "No.": "1",
+      "Material Description": "Quy định về tốt nghiệp đại học chính quy của trường đại học FPT (ban hành kèm theo quyết định số 126/QĐ-ĐHFPT ngày 25/03/2013)",
+      "Author": "",
+      "Publisher": "",
+      "Published Date": "",
+      "Edition": "",
+      "ISBN": "",
+      "Is Main Material": "True",
+      "Is Hard Copy": "False",
+      "Is Online": "False",
+      "Note": ""
+    },
+    {
+      "No.": "2",
+      "Material Description": "CS-Thesis_Template",
+      "Author": "",
+      "Publisher": "",
+      "Published Date": "",
+      "Edition": "",
+      "ISBN": "",
+      "Is Main Material": "True",
+      "Is Hard Copy": "False",
+      "Is Online": "False",
+      "Note": ""
+    },
+    {
+      "No.": "3",
+      "Material Description": "FU CMS at http://cms.fpt.edu.vn",
+      "Author": "",
+      "Publisher": "",
+      "Published Date": "",
+      "Edition": "",
+      "ISBN": "",
+      "Is Main Material": "False",
+      "Is Hard Copy": "False",
+      "Is Online": "False",
+      "Note": ""
+    }
+  ],
+  "source_path": "data/raw/syllabi/10026.html",
+  "id": "syllabus:10026"
+}

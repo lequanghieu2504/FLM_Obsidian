@@ -1,0 +1,1555 @@
+{
+  "syllabus_id": 11193,
+  "subject_code": "FRS301",
+  "subject_name": "Digital Forensics_Điều tra số",
+  "syllabus_name": "Digital Forensics_Điều tra số",
+  "credits": 3,
+  "degree_level": "Bachelor",
+  "time_allocation": "45h (60 sessions) contact hours + 1h final exam + 104h self-study",
+  "prerequisite": "NWC202 or NWC203c or NWC204",
+  "general_information": {
+    "Syllabus ID": "11193",
+    "Syllabus Name": "Digital Forensics_Điều tra số",
+    "Course Name English": "Digital Forensics",
+    "Subject Code": "FRS301",
+    "Learning-Teaching Method": "Lecture,Active learning,Social Constructivism, Discussion",
+    "NoCredit": "3",
+    "Degree Level": "Bachelor",
+    "Time Allocation": "45h (60 sessions) contact hours + 1h final exam + 104h self-study",
+    "Pre-Requisite": "NWC202 or NWC203c or NWC204",
+    "Description": "This course addresses the comprehension and application of Digital Forensic Investigations. Students will evaluate and synthesize technical and legal issues in relation to digital evidence. Students will apply various skills and techniques, combined with numerous investigative software tools to analyze seized electronic media. Students subject to background investigation prior to admittance. Assessment scheme: 1) On-going Assessment - 01 Midterm Progress Test: 20% - Participation in Discussions: 10% - 14 Lab-Projects: 40% 2) 01 Final Exam: 30% 3) Final Result 100% Completion Criteria: 1) Every on-going assessment component >0 2) Average Lab Score >= 4 3) Final Exam Score >=4 & Final Result >=5",
+    "StudentTasks": "- Students must attend at least 80% of contact sessions in order to be accepted to the final examination. - Students are responsible to do all exercises, assignments and labs given by instructor in class or at home and submit in time - Use laptop in class only for learning purpose - Promptly access to the FPTU LMS at https://flm.fpt.edu.vn/ for up-to-date course information",
+    "Tools": "",
+    "Scoring Scale": "10",
+    "DecisionNo MM/dd/yyyy": "358/QĐ-ĐHFPT dated 04/03/2024",
+    "IsApproved": "True",
+    "Note": "",
+    "Is Scored": "True",
+    "MinAvgMarkToPass": "5",
+    "IsActive": "True",
+    "ApprovedDate": "4/3/2024"
+  },
+  "active": true,
+  "approved": true,
+  "decision": "358/QĐ-ĐHFPT dated 04/03/2024",
+  "description": "This course addresses the comprehension and application of Digital Forensic Investigations. Students will evaluate and synthesize technical and legal issues in relation to digital evidence. Students will apply various skills and techniques, combined with numerous investigative software tools to analyze seized electronic media. Students subject to background investigation prior to admittance. Assessment scheme: 1) On-going Assessment - 01 Midterm Progress Test: 20% - Participation in Discussions: 10% - 14 Lab-Projects: 40% 2) 01 Final Exam: 30% 3) Final Result 100% Completion Criteria: 1) Every on-going assessment component >0 2) Average Lab Score >= 4 3) Final Exam Score >=4 & Final Result >=5",
+  "learning_outcomes": [
+    {
+      "No.": "1",
+      "CLO Name": "CLO1",
+      "CLO Details": "Defining Digital Forensics and examining how it’s being used."
+    },
+    {
+      "No.": "2",
+      "CLO Name": "CLO2",
+      "CLO Details": "Understanding how computers create and store digital information is a perquisite for the study of digital forensics."
+    },
+    {
+      "No.": "3",
+      "CLO Name": "CLO3",
+      "CLO Details": "Examining digital forensic environment, hardware and software, and standards used on a regular basis, to accredit labs and validate tools."
+    },
+    {
+      "No.": "4",
+      "CLO Name": "CLO4",
+      "CLO Details": "Collecting digital evidence, establishing a chain of custody, and understanding its major role when admitted into court."
+    },
+    {
+      "No.": "5",
+      "CLO Name": "CLO5",
+      "CLO Details": "Understanding many of the common Windows artifacts and how they are created."
+    },
+    {
+      "No.": "6",
+      "CLO Name": "CLO6",
+      "CLO Details": "Examining tools and techniques used to hide or destroy data with the aim to recover digital evidence, deleted files, and the like."
+    },
+    {
+      "No.": "7",
+      "CLO Name": "CLO7",
+      "CLO Details": "Explaining the legal aspects of digital forensics in searching."
+    },
+    {
+      "No.": "8",
+      "CLO Name": "CLO8",
+      "CLO Details": "Understanding social networks, e-mail, chat logs, and Internet history representing some of the best evidence."
+    },
+    {
+      "No.": "9",
+      "CLO Name": "CLO9",
+      "CLO Details": "Understanding how networks are attacked and what role digital forensics plays in not only the response, but in how perpetrators can be traced."
+    },
+    {
+      "No.": "10",
+      "CLO Name": "CLO10",
+      "CLO Details": "Understanding the underlying technology powering cell phones and GPS units, as well as the potential evidence they could contain."
+    }
+  ],
+  "assessments": [
+    {
+      "No.": "1",
+      "Category": "Lab-Projects",
+      "Type": "on-going",
+      "Part": "14",
+      "Weight": "40.0%",
+      "Completion Criteria": "4",
+      "Duration": "60-90'/each",
+      "CLO": "",
+      "Question Type": "practical exercises",
+      "No Question": "N/A",
+      "Knowledge and Skill": "technical aspect of studied topics",
+      "Grading Guide": "Guided by instructor - 14 Lab-Projects are arranged relevant to the chapter theory - Student must finish labs and submit the results to the lecturer in class. - An average point of all labs could be evaluated and published to students at the end of the semester.",
+      "Note": ""
+    },
+    {
+      "No.": "2",
+      "Category": "Midterm Progress Test",
+      "Type": "on-going",
+      "Part": "1",
+      "Weight": "20.0%",
+      "Completion Criteria": ">0",
+      "Duration": "30'-40'",
+      "CLO": "",
+      "Question Type": "Multiple choices Marked by Computer or a suitable format",
+      "No Question": "20-25",
+      "Knowledge and Skill": "cover Lectures 1-9",
+      "Grading Guide": "in class, by instructor",
+      "Note": "Instruction and schedules for Progress Tests must be presented in the Course Implementation Plan approved by director of the campus. The test must be taken right after the last lectures of required material. Instructor has responsibility to review the test for students after graded."
+    },
+    {
+      "No.": "3",
+      "Category": "Participation in Discussions",
+      "Type": "on-going",
+      "Part": "1",
+      "Weight": "10.0%",
+      "Completion Criteria": ">0",
+      "Duration": "",
+      "CLO": "",
+      "Question Type": "",
+      "No Question": "N/A",
+      "Knowledge and Skill": "",
+      "Grading Guide": "",
+      "Note": ""
+    },
+    {
+      "No.": "4",
+      "Category": "Final Exam",
+      "Type": "Final exam",
+      "Part": "1",
+      "Weight": "30.0%",
+      "Completion Criteria": "4",
+      "Duration": "60'",
+      "CLO": "LO1, LO2, LO3, LO4, LO5, LO6, LO7, LO8, LO9, LO10",
+      "Question Type": "Multiple choices",
+      "No Question": "40-50",
+      "Knowledge and Skill": "concepts, algorithms; all studied Chapters",
+      "Grading Guide": "by exam board, using computer",
+      "Note": "The exam questions must be updated or different at least 70% to the previous ones."
+    }
+  ],
+  "schedule": [
+    {
+      "Session": "1",
+      "Topic": "Lecture 1. Introduction 1.1 What is Forensic Science? 1.2 What is Digital Forensics?",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO1",
+      "ITU": "IT",
+      "Student Materials": "",
+      "S-Download": "mat1",
+      "Student's Tasks": "Explain Lab-Projects requirements Read the Chapter Study and Review Lecture 1",
+      "URLs": ""
+    },
+    {
+      "Session": "2",
+      "Topic": "Lecture 1. Introduction (cont.) 1.3 Uses of Digital Forensics 1.4 Role of the Forensic Examiner in the Judicial System",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO1",
+      "ITU": "IT",
+      "Student Materials": "",
+      "S-Download": "mat2",
+      "Student's Tasks": "Explain Lab-Projects requirements Read the Chapter Study and Review Lecture 1",
+      "URLs": ""
+    },
+    {
+      "Session": "3",
+      "Topic": "Lecture 2. Key Technical Concepts 2.1 Basic Computer Operation 2.2 File Extensions and File Signatures",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO2",
+      "ITU": "T",
+      "Student Materials": "",
+      "S-Download": "mat3",
+      "Student's Tasks": "Read the Chapter Study and Review Lecture 2",
+      "URLs": ""
+    },
+    {
+      "Session": "4",
+      "Topic": "Lecture 2. Key Technical Concepts (cont.) 2.3 Storage and Memory 2.4 Computing Environments",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO2",
+      "ITU": "T",
+      "Student Materials": "",
+      "S-Download": "mat4",
+      "Student's Tasks": "Read the Chapter Study and Review Lecture 2",
+      "URLs": ""
+    },
+    {
+      "Session": "5",
+      "Topic": "Lecture 3. Key Technical Concepts (cont.) 3.1 Data Types 3.2 File Systems",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO2",
+      "ITU": "T",
+      "Student Materials": "",
+      "S-Download": "mat5",
+      "Student's Tasks": "Read the Chapter Study and Review Lecture 3",
+      "URLs": ""
+    },
+    {
+      "Session": "6",
+      "Topic": "Lecture 3. Key Technical Concepts (cont.) 3.3 Allocated and Unallocated Space 3.4 How Magnetic Hard Drives Store Data 3.5 Basic Computer Function - Putting It All Together",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO2",
+      "ITU": "T",
+      "Student Materials": "",
+      "S-Download": "mat6",
+      "Student's Tasks": "Read the Chapter Study and Review Lecture 3",
+      "URLs": ""
+    },
+    {
+      "Session": "7",
+      "Topic": "Lab 1: Preparing a Windows Forensics Environment",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO2",
+      "ITU": "U",
+      "Student Materials": "",
+      "S-Download": "mat7",
+      "Student's Tasks": "Practice and Review Lab 1",
+      "URLs": ""
+    },
+    {
+      "Session": "8",
+      "Topic": "Lab 1: Preparing a Windows Forensics Environment (cont.)",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO2",
+      "ITU": "U",
+      "Student Materials": "",
+      "S-Download": "mat8",
+      "Student's Tasks": "Practice and Review Lab 1",
+      "URLs": ""
+    },
+    {
+      "Session": "9",
+      "Topic": "Lab 2: Using ProDiscover",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO2",
+      "ITU": "U",
+      "Student Materials": "",
+      "S-Download": "",
+      "Student's Tasks": "Practice and Review Lab 2",
+      "URLs": ""
+    },
+    {
+      "Session": "10",
+      "Topic": "Lab 2: Using ProDiscover (cont.)",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO2",
+      "ITU": "U",
+      "Student Materials": "",
+      "S-Download": "",
+      "Student's Tasks": "Practice and Review Lab 2",
+      "URLs": ""
+    },
+    {
+      "Session": "11",
+      "Topic": "Lecture 4. Labs and Tools 3.1 Forensic Laboratories 3.2 Policies and Procedures",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO3",
+      "ITU": "T",
+      "Student Materials": "",
+      "S-Download": "",
+      "Student's Tasks": "Read the Chapter Study and Review Lecture 4",
+      "URLs": ""
+    },
+    {
+      "Session": "12",
+      "Topic": "Lecture 4. Labs and Tools (cont.) 3.3 Quality Assurance 3.4 Digital Forensic Tools 3.5 Accreditation",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO3",
+      "ITU": "T",
+      "Student Materials": "",
+      "S-Download": "",
+      "Student's Tasks": "Read the Chapter Study and Review Lecture 4",
+      "URLs": ""
+    },
+    {
+      "Session": "13",
+      "Topic": "Lab-Project 3: Identifying File Types",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO3",
+      "ITU": "U",
+      "Student Materials": "",
+      "S-Download": "",
+      "Student's Tasks": "Practice and Review Lab 3",
+      "URLs": ""
+    },
+    {
+      "Session": "14",
+      "Topic": "Lab-Project 3: Identifying File Types (cont.)",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO3",
+      "ITU": "U",
+      "Student Materials": "",
+      "S-Download": "",
+      "Student's Tasks": "Practice and Review Lab 3",
+      "URLs": ""
+    },
+    {
+      "Session": "15",
+      "Topic": "Lecture 5. Collecting Evidence 4.1 Crime Scenes and Collecting Evidence",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO4",
+      "ITU": "T",
+      "Student Materials": "",
+      "S-Download": "",
+      "Student's Tasks": "Read the Chapter Study nad Review Lecture 5",
+      "URLs": ""
+    },
+    {
+      "Session": "16",
+      "Topic": "Lecture 5. Collecting Evidence (cont.) 4.2 Documenting the Scene 4.3 Chain of Custody",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO4",
+      "ITU": "T",
+      "Student Materials": "",
+      "S-Download": "",
+      "Student's Tasks": "Read the Chapter Study nad Review Lecture 5",
+      "URLs": ""
+    },
+    {
+      "Session": "17",
+      "Topic": "Lecture 6. Collecting Evidence (cont.) 5.1 Cloning 5.2 Live System versus Dead System",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO4",
+      "ITU": "T",
+      "Student Materials": "",
+      "S-Download": "",
+      "Student's Tasks": "Read the Chapter Study and Review Lecture 6",
+      "URLs": ""
+    },
+    {
+      "Session": "18",
+      "Topic": "Lecture 6. Collecting Evidence (cont.) 5.3 Hashing 5.4 Final Report",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO4",
+      "ITU": "T",
+      "Student Materials": "",
+      "S-Download": "",
+      "Student's Tasks": "Read the Chapter Study and Review Lecture 6",
+      "URLs": ""
+    },
+    {
+      "Session": "19",
+      "Topic": "Lab-Project 4: Viewing Segments and Clusters with a Hex Editor",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO4",
+      "ITU": "U",
+      "Student Materials": "",
+      "S-Download": "",
+      "Student's Tasks": "Practice and Review Lab 4",
+      "URLs": ""
+    },
+    {
+      "Session": "20",
+      "Topic": "Lab-Project 4: Viewing Segments and Clusters with a Hex Editor (cont.)",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO4",
+      "ITU": "U",
+      "Student Materials": "",
+      "S-Download": "",
+      "Student's Tasks": "Practice and Review Lab 4",
+      "URLs": ""
+    },
+    {
+      "Session": "21",
+      "Topic": "Lab-Project 5: Static Image",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO4",
+      "ITU": "U",
+      "Student Materials": "",
+      "S-Download": "",
+      "Student's Tasks": "Practice and Review Lab 5",
+      "URLs": ""
+    },
+    {
+      "Session": "22",
+      "Topic": "Lab-Project 5: Static Image (cont.)",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO4",
+      "ITU": "U",
+      "Student Materials": "",
+      "S-Download": "",
+      "Student's Tasks": "Practice and Review Lab 5",
+      "URLs": ""
+    },
+    {
+      "Session": "23",
+      "Topic": "Lecture 7. Windows System Artifacts 6.1 Deleted Data 6.2 Hibernation File (Hiberfile.Sys)",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO5",
+      "ITU": "T",
+      "Student Materials": "",
+      "S-Download": "",
+      "Student's Tasks": "Read the Chapter Study nad Review Lecture 7",
+      "URLs": ""
+    },
+    {
+      "Session": "24",
+      "Topic": "Lecture 7. Windows System Artifacts (cont.) 6.3 Registry 6.4 Print Spooling 6.5 Recycle Bin",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO5",
+      "ITU": "T",
+      "Student Materials": "",
+      "S-Download": "",
+      "Student's Tasks": "Read the Chapter Study nad Review Lecture 7",
+      "URLs": ""
+    },
+    {
+      "Session": "25",
+      "Topic": "Lecture 8. Windows System Artifacts (cont.) 7.1 Metadata 7.2 Thumbnail Cache",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO5",
+      "ITU": "T",
+      "Student Materials": "",
+      "S-Download": "",
+      "Student's Tasks": "Read the Chapter Study and Review Lecture 8",
+      "URLs": ""
+    },
+    {
+      "Session": "26",
+      "Topic": "Lecture 8. Windows System Artifacts (cont.) 7.3 Most Recently Used (MRU) 7.4 Restore Points and Shadow Copy 7.5 Prefetch and Link Files",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO5",
+      "ITU": "T",
+      "Student Materials": "",
+      "S-Download": "",
+      "Student's Tasks": "Read the Chapter Study and Review Lecture 8",
+      "URLs": ""
+    },
+    {
+      "Session": "27",
+      "Topic": "Lab-Project 6: Examining the Registry",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO5",
+      "ITU": "U",
+      "Student Materials": "",
+      "S-Download": "",
+      "Student's Tasks": "Practice and Review Lab 6",
+      "URLs": ""
+    },
+    {
+      "Session": "28",
+      "Topic": "Lab-Project 6: Examining the Registry (cont.)",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO5",
+      "ITU": "U",
+      "Student Materials": "",
+      "S-Download": "",
+      "Student's Tasks": "Practice and Review Lab 6",
+      "URLs": ""
+    },
+    {
+      "Session": "29",
+      "Topic": "Lab-Project 7: Thumbnail Cache",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO5",
+      "ITU": "U",
+      "Student Materials": "",
+      "S-Download": "",
+      "Student's Tasks": "Practice and Review Lab 7",
+      "URLs": ""
+    },
+    {
+      "Session": "30",
+      "Topic": "Lab-Project 7: Thumbnail Cache (cont.)",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO5",
+      "ITU": "U",
+      "Student Materials": "",
+      "S-Download": "",
+      "Student's Tasks": "Practice and Review Lab 7",
+      "URLs": ""
+    },
+    {
+      "Session": "31",
+      "Topic": "Lectures 9. Antiforensics 8.1 Hiding Data 8.2 Password Attacks",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO6",
+      "ITU": "T",
+      "Student Materials": "",
+      "S-Download": "",
+      "Student's Tasks": "Read the Chapter Study and Review Lecture 9",
+      "URLs": ""
+    },
+    {
+      "Session": "32",
+      "Topic": "Lectures 9. Antiforensics (cont.) 8.3 Steganography 8.4 Data Destruction Recommended Reading: The Cryptocurrency Enigma",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO6",
+      "ITU": "T",
+      "Student Materials": "",
+      "S-Download": "",
+      "Student's Tasks": "Read the Chapter Study and Review Lecture 9",
+      "URLs": ""
+    },
+    {
+      "Session": "33",
+      "Topic": "Lab-Project 8: Bypassing a BIOS Password",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO6",
+      "ITU": "U",
+      "Student Materials": "",
+      "S-Download": "",
+      "Student's Tasks": "Practice and Review Lab 8",
+      "URLs": ""
+    },
+    {
+      "Session": "34",
+      "Topic": "Lab-Project 8: Bypassing a BIOS Password (cont.)",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO6",
+      "ITU": "U",
+      "Student Materials": "",
+      "S-Download": "",
+      "Student's Tasks": "Practice and Review Lab 8",
+      "URLs": ""
+    },
+    {
+      "Session": "35",
+      "Topic": "Lab-Project 9: Capturing Passwords from RAM on a Mac",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO6",
+      "ITU": "U",
+      "Student Materials": "",
+      "S-Download": "",
+      "Student's Tasks": "Practice and Review Lab 9",
+      "URLs": ""
+    },
+    {
+      "Session": "36",
+      "Topic": "Lab-Project 9: Capturing Passwords from RAM on a Mac (cont.)",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO6",
+      "ITU": "U",
+      "Student Materials": "",
+      "S-Download": "",
+      "Student's Tasks": "Practice and Review Lab 9",
+      "URLs": ""
+    },
+    {
+      "Session": "37",
+      "Topic": "Review for Midterm",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO1, LO2, LO3, LO4, LO5, LO6",
+      "ITU": "U",
+      "Student Materials": "",
+      "S-Download": "",
+      "Student's Tasks": "",
+      "URLs": ""
+    },
+    {
+      "Session": "38",
+      "Topic": "Midterm Progress Test",
+      "Learning-Teaching Type": "Offline",
+      "LO": "",
+      "ITU": "",
+      "Student Materials": "",
+      "S-Download": "",
+      "Student's Tasks": "",
+      "URLs": ""
+    },
+    {
+      "Session": "39",
+      "Topic": "Lectures 10. Legal Aspects of Digital Forensics 9.1 The Fourth Amendment 9.2 Criminal Law - Searches with and without a Warrant",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO7",
+      "ITU": "T",
+      "Student Materials": "",
+      "S-Download": "",
+      "Student's Tasks": "Read the Chapter Study and Review Lecture 10",
+      "URLs": ""
+    },
+    {
+      "Session": "40",
+      "Topic": "Lectures 10. Legal Aspects of Digital Forensics (cont.) 9.3 Electronic Discovery (eDiscovery) 9.4 Expert Testimony Recommended Reading: Digital Forensics Trial Graphics - Teaching the Jury Though Effective Use of Visuals",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO7",
+      "ITU": "T",
+      "Student Materials": "",
+      "S-Download": "",
+      "Student's Tasks": "Read the Chapter Study and Review Lecture 10",
+      "URLs": ""
+    },
+    {
+      "Session": "41",
+      "Topic": "Lab-Project 10: Static Acquisition with Kali Linux",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO7",
+      "ITU": "U",
+      "Student Materials": "",
+      "S-Download": "",
+      "Student's Tasks": "Practice and Review Lab 10",
+      "URLs": ""
+    },
+    {
+      "Session": "42",
+      "Topic": "Lab-Project 10: Static Acquisition with Kali Linux (cont.)",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO7",
+      "ITU": "U",
+      "Student Materials": "",
+      "S-Download": "",
+      "Student's Tasks": "Practice and Review Lab 10",
+      "URLs": ""
+    },
+    {
+      "Session": "43",
+      "Topic": "Lectures 11. Internet and E-Mail 11.1 Internet Overview 11.2 Web Browsers - Internet Explorer",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO8",
+      "ITU": "T",
+      "Student Materials": "",
+      "S-Download": "",
+      "Student's Tasks": "Read the Chapter Study and Review Lecture 11",
+      "URLs": ""
+    },
+    {
+      "Session": "44",
+      "Topic": "Lectures 11. Internet and E-Mail (cont.) 11.3 E-Mail 11.4 Social Networking Sites",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO8",
+      "ITU": "T",
+      "Student Materials": "",
+      "S-Download": "",
+      "Student's Tasks": "Read the Chapter Study and Review Lecture 11",
+      "URLs": ""
+    },
+    {
+      "Session": "45",
+      "Topic": "Lab-Project 11: Using FTK , or Using Median",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO8",
+      "ITU": "U",
+      "Student Materials": "",
+      "S-Download": "",
+      "Student's Tasks": "Practice and Review Lab 11",
+      "URLs": ""
+    },
+    {
+      "Session": "46",
+      "Topic": "Lab-Project 11: Using FTK , or Using Median (cont.)",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO8",
+      "ITU": "U",
+      "Student Materials": "",
+      "S-Download": "",
+      "Student's Tasks": "Practice and Review Lab 11",
+      "URLs": ""
+    },
+    {
+      "Session": "47",
+      "Topic": "Lectures 12. Digital Forensics and Networking 12.1 Network Fundamentals 12.2 Network Security Tools",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO9",
+      "ITU": "T",
+      "Student Materials": "",
+      "S-Download": "",
+      "Student's Tasks": "Read the Chapter Study and Review Lecture 12",
+      "URLs": ""
+    },
+    {
+      "Session": "48",
+      "Topic": "Lectures 12. Digital Forensics and Networking (cont.) 12.3 Network Attacks 12.4 Incident Response 12.5 Network Evidence and Investigations",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO9",
+      "ITU": "T",
+      "Student Materials": "",
+      "S-Download": "",
+      "Student's Tasks": "Read the Chapter Study and Review Lecture 12",
+      "URLs": ""
+    },
+    {
+      "Session": "49",
+      "Topic": "Lab-Project 12: The Sleuth Kit and Autopsy",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO9",
+      "ITU": "U",
+      "Student Materials": "",
+      "S-Download": "",
+      "Student's Tasks": "Practice and Review Lab 12",
+      "URLs": ""
+    },
+    {
+      "Session": "50",
+      "Topic": "Lab-Project 12: The Sleuth Kit and Autopsy (cont.)",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO9",
+      "ITU": "U",
+      "Student Materials": "",
+      "S-Download": "",
+      "Student's Tasks": "Practice and Review Lab 12",
+      "URLs": ""
+    },
+    {
+      "Session": "51",
+      "Topic": "Lectures 13. Mobile Device Forensics 13.1 Cellular Networks 13.2 Overview of Cell Phone Operating Systems",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO10",
+      "ITU": "T",
+      "Student Materials": "",
+      "S-Download": "",
+      "Student's Tasks": "Read the Chapter Study and Review Lecture 13",
+      "URLs": ""
+    },
+    {
+      "Session": "52",
+      "Topic": "Lectures 13. Mobile Device Forensics (cont.) 13.3 Cell Phone Evidence",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO10",
+      "ITU": "T",
+      "Student Materials": "",
+      "S-Download": "",
+      "Student's Tasks": "Read the Chapter Study and Review Lecture 13",
+      "URLs": ""
+    },
+    {
+      "Session": "53",
+      "Topic": "Lectures 14. Mobile Device Forensics (cont.) 14.1 Cell Phone Forensic Tools",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO10",
+      "ITU": "T",
+      "Student Materials": "",
+      "S-Download": "",
+      "Student's Tasks": "Read the Chapter Study and Review Lecture 14",
+      "URLs": ""
+    },
+    {
+      "Session": "54",
+      "Topic": "Lectures 14. Mobile Device Forensics (cont.) 14.2 Global Positioning Systems (GPS) Recommended Reading: Challenges and Concerns",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO10",
+      "ITU": "T",
+      "Student Materials": "",
+      "S-Download": "",
+      "Student's Tasks": "Read the Chapter Study and Review Lecture 14",
+      "URLs": ""
+    },
+    {
+      "Session": "55",
+      "Topic": "Lab-Project 13: Using Netwitness",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO10",
+      "ITU": "U",
+      "Student Materials": "",
+      "S-Download": "",
+      "Student's Tasks": "Practice and Review Lab 13",
+      "URLs": ""
+    },
+    {
+      "Session": "56",
+      "Topic": "Lab-Project 13: Using Netwitness (cont.)",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO10",
+      "ITU": "U",
+      "Student Materials": "",
+      "S-Download": "",
+      "Student's Tasks": "Practice and Review Lab 13",
+      "URLs": ""
+    },
+    {
+      "Session": "57",
+      "Topic": "Lab-Project 14: Finding Items with NetWitness",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO10",
+      "ITU": "U",
+      "Student Materials": "",
+      "S-Download": "",
+      "Student's Tasks": "Practice and Review Lab 14",
+      "URLs": ""
+    },
+    {
+      "Session": "58",
+      "Topic": "Lab-Project 14: Finding Items with NetWitness (cont.)",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO10",
+      "ITU": "U",
+      "Student Materials": "",
+      "S-Download": "",
+      "Student's Tasks": "Practice and Review Lab 14",
+      "URLs": ""
+    },
+    {
+      "Session": "59",
+      "Topic": "Course Review",
+      "Learning-Teaching Type": "Offline",
+      "LO": "",
+      "ITU": "U",
+      "Student Materials": "",
+      "S-Download": "",
+      "Student's Tasks": "Review the course",
+      "URLs": ""
+    },
+    {
+      "Session": "60",
+      "Topic": "Course Review (cont.)",
+      "Learning-Teaching Type": "Offline",
+      "LO": "",
+      "ITU": "U",
+      "Student Materials": "",
+      "S-Download": "",
+      "Student's Tasks": "Review the course",
+      "URLs": ""
+    },
+    {
+      "Session": "61",
+      "Topic": "Final Exam",
+      "Learning-Teaching Type": "",
+      "LO": "",
+      "ITU": "",
+      "Student Materials": "",
+      "S-Download": "",
+      "Student's Tasks": "",
+      "URLs": ""
+    }
+  ],
+  "constructive_questions": [
+    {
+      "No.": "1",
+      "Session No": "1",
+      "Name": "CQ1",
+      "Details": "What is Forensic Science?"
+    },
+    {
+      "No.": "2",
+      "Session No": "1",
+      "Name": "CQ2",
+      "Details": "What is Digital Forensics?"
+    },
+    {
+      "No.": "3",
+      "Session No": "1",
+      "Name": "CQ3",
+      "Details": "What is the role of the Forensic Examiner in the Judicial System?"
+    },
+    {
+      "No.": "4",
+      "Session No": "2",
+      "Name": "CQ1",
+      "Details": "What is Forensic Science? (cont.)"
+    },
+    {
+      "No.": "5",
+      "Session No": "2",
+      "Name": "CQ2",
+      "Details": "What is Digital Forensics? (cont.)"
+    },
+    {
+      "No.": "6",
+      "Session No": "2",
+      "Name": "CQ3",
+      "Details": "What is the role of the Forensic Examiner in the Judicial System? (cont.)"
+    },
+    {
+      "No.": "7",
+      "Session No": "3",
+      "Name": "CQ1",
+      "Details": "What is File Extensions and File Signatures?"
+    },
+    {
+      "No.": "8",
+      "Session No": "3",
+      "Name": "CQ2",
+      "Details": "How computers store data?"
+    },
+    {
+      "No.": "9",
+      "Session No": "3",
+      "Name": "CQ3",
+      "Details": "What is the difference between Computer Environments?"
+    },
+    {
+      "No.": "10",
+      "Session No": "4",
+      "Name": "CQ1",
+      "Details": "What is File Extensions and File Signatures? (cont.)"
+    },
+    {
+      "No.": "11",
+      "Session No": "4",
+      "Name": "CQ2",
+      "Details": "How computers store data? (cont.)"
+    },
+    {
+      "No.": "12",
+      "Session No": "4",
+      "Name": "CQ3",
+      "Details": "What is the difference between Computer Environments? (cont.)"
+    },
+    {
+      "No.": "13",
+      "Session No": "5",
+      "Name": "CQ1",
+      "Details": "What is Active, Latent, and Archival Data?"
+    },
+    {
+      "No.": "14",
+      "Session No": "5",
+      "Name": "CQ2",
+      "Details": "What is the difference between allocated and unallocated space?"
+    },
+    {
+      "No.": "15",
+      "Session No": "6",
+      "Name": "CQ1",
+      "Details": "What is Active, Latent, and Archival Data? (cont.)"
+    },
+    {
+      "No.": "16",
+      "Session No": "6",
+      "Name": "CQ2",
+      "Details": "What is the difference between allocated and unallocated space? (cont.)"
+    },
+    {
+      "No.": "17",
+      "Session No": "9",
+      "Name": "CQ1",
+      "Details": "What is ProDiscover?"
+    },
+    {
+      "No.": "18",
+      "Session No": "9",
+      "Name": "CQ2",
+      "Details": "How does ProDiscover work?"
+    },
+    {
+      "No.": "19",
+      "Session No": "10",
+      "Name": "CQ1",
+      "Details": "What is ProDiscover? (cont.)"
+    },
+    {
+      "No.": "20",
+      "Session No": "10",
+      "Name": "CQ2",
+      "Details": "How does ProDiscover work? (cont.)"
+    },
+    {
+      "No.": "21",
+      "Session No": "11",
+      "Name": "CQ1",
+      "Details": "What is the role and organization of forensic Laboratories?"
+    },
+    {
+      "No.": "22",
+      "Session No": "11",
+      "Name": "CQ2",
+      "Details": "What is The purpose of Policies and Procedures in Forensic Laboratories?"
+    },
+    {
+      "No.": "23",
+      "Session No": "11",
+      "Name": "CQ3",
+      "Details": "What is the Role of Quality Assurance in Forensics?"
+    },
+    {
+      "No.": "24",
+      "Session No": "12",
+      "Name": "CQ1",
+      "Details": "What is the role and organization of forensic Laboratories? (cont.)"
+    },
+    {
+      "No.": "25",
+      "Session No": "12",
+      "Name": "CQ2",
+      "Details": "What is The purpose of Policies and Procedures in Forensic Laboratories? (cont.)"
+    },
+    {
+      "No.": "26",
+      "Session No": "12",
+      "Name": "CQ3",
+      "Details": "What is the Role of Quality Assurance in Forensics? (cont.)"
+    },
+    {
+      "No.": "27",
+      "Session No": "13",
+      "Name": "CQ1",
+      "Details": "What is the difference between file extensions and file types?"
+    },
+    {
+      "No.": "28",
+      "Session No": "13",
+      "Name": "CQ2",
+      "Details": "How do you identify file types?"
+    },
+    {
+      "No.": "29",
+      "Session No": "14",
+      "Name": "CQ1",
+      "Details": "What is the difference between file extensions and file types? (cont.)"
+    },
+    {
+      "No.": "30",
+      "Session No": "14",
+      "Name": "CQ2",
+      "Details": "How do you identify file types? (cont.)"
+    },
+    {
+      "No.": "31",
+      "Session No": "15",
+      "Name": "CQ1",
+      "Details": "Why do we need document the Scene and the Evidence?"
+    },
+    {
+      "No.": "32",
+      "Session No": "15",
+      "Name": "CQ2",
+      "Details": "What is forensic cloning of Evidence?"
+    },
+    {
+      "No.": "33",
+      "Session No": "16",
+      "Name": "CQ1",
+      "Details": "Why do we need document the Scene and the Evidence? (cont.)"
+    },
+    {
+      "No.": "34",
+      "Session No": "16",
+      "Name": "CQ2",
+      "Details": "What is forensic cloning of Evidence? (cont.)"
+    },
+    {
+      "No.": "35",
+      "Session No": "17",
+      "Name": "CQ1",
+      "Details": "How do you deal with Live Systems and Dead Systems?"
+    },
+    {
+      "No.": "36",
+      "Session No": "17",
+      "Name": "CQ2",
+      "Details": "Why do we need to use hashing to verify the Integrity of Evidence?"
+    },
+    {
+      "No.": "37",
+      "Session No": "18",
+      "Name": "CQ1",
+      "Details": "How do you deal with Live Systems and Dead Systems? (cont.)"
+    },
+    {
+      "No.": "38",
+      "Session No": "18",
+      "Name": "CQ2",
+      "Details": "Why do we need to use hashing to verify the Integrity of Evidence? (cont.)"
+    },
+    {
+      "No.": "39",
+      "Session No": "21",
+      "Name": "CQ1",
+      "Details": "What is the difference between segments and clusters?"
+    },
+    {
+      "No.": "40",
+      "Session No": "21",
+      "Name": "CQ2",
+      "Details": "What is MBR?"
+    },
+    {
+      "No.": "41",
+      "Session No": "22",
+      "Name": "CQ1",
+      "Details": "What is the difference between segments and clusters? (cont.)"
+    },
+    {
+      "No.": "42",
+      "Session No": "22",
+      "Name": "CQ2",
+      "Details": "What is MBR? (cont.)"
+    },
+    {
+      "No.": "43",
+      "Session No": "23",
+      "Name": "CQ1",
+      "Details": "What is Windows Registry?"
+    },
+    {
+      "No.": "44",
+      "Session No": "23",
+      "Name": "CQ2",
+      "Details": "How can you find deleted data?"
+    },
+    {
+      "No.": "45",
+      "Session No": "23",
+      "Name": "CQ3",
+      "Details": "Metadata: What It Is and How It’s Used"
+    },
+    {
+      "No.": "46",
+      "Session No": "24",
+      "Name": "CQ1",
+      "Details": "What is Windows Registry? (cont.)"
+    },
+    {
+      "No.": "47",
+      "Session No": "24",
+      "Name": "CQ2",
+      "Details": "How can you find deleted data? (cont.)"
+    },
+    {
+      "No.": "48",
+      "Session No": "24",
+      "Name": "CQ3",
+      "Details": "Metadata: What It Is and How It’s Used (cont.)"
+    },
+    {
+      "No.": "49",
+      "Session No": "25",
+      "Name": "CQ1",
+      "Details": "What is Metadata?"
+    },
+    {
+      "No.": "50",
+      "Session No": "25",
+      "Name": "CQ2",
+      "Details": "How can Thumbnail Cache be used?"
+    },
+    {
+      "No.": "51",
+      "Session No": "25",
+      "Name": "CQ3",
+      "Details": "How can you work with Restore Points and Shadow Copies?"
+    },
+    {
+      "No.": "52",
+      "Session No": "26",
+      "Name": "CQ1",
+      "Details": "What is Metadata? (cont.)"
+    },
+    {
+      "No.": "53",
+      "Session No": "26",
+      "Name": "CQ2",
+      "Details": "How can Thumbnail Cache be used? (cont.)"
+    },
+    {
+      "No.": "54",
+      "Session No": "26",
+      "Name": "CQ3",
+      "Details": "How can you work with Restore Points and Shadow Copies? (cont.)"
+    },
+    {
+      "No.": "55",
+      "Session No": "27",
+      "Name": "CQ1",
+      "Details": "How does Windows Registry work?"
+    },
+    {
+      "No.": "56",
+      "Session No": "27",
+      "Name": "CQ2",
+      "Details": "How can you examine Windows Registry?"
+    },
+    {
+      "No.": "57",
+      "Session No": "28",
+      "Name": "CQ1",
+      "Details": "How does Windows Registry work? (cont.)"
+    },
+    {
+      "No.": "58",
+      "Session No": "28",
+      "Name": "CQ2",
+      "Details": "How can you examine Windows Registry? (cont.)"
+    },
+    {
+      "No.": "59",
+      "Session No": "31",
+      "Name": "CQ1",
+      "Details": "What type of attacks can be used to break encryption?"
+    },
+    {
+      "No.": "60",
+      "Session No": "31",
+      "Name": "CQ2",
+      "Details": "What type of techniques can be used to hide and destroy data?"
+    },
+    {
+      "No.": "61",
+      "Session No": "32",
+      "Name": "CQ1",
+      "Details": "What type of attacks can be used to break encryption? (cont.)"
+    },
+    {
+      "No.": "62",
+      "Session No": "32",
+      "Name": "CQ2",
+      "Details": "What type of techniques can be used to hide and destroy data? (cont.)"
+    },
+    {
+      "No.": "63",
+      "Session No": "39",
+      "Name": "CQ1",
+      "Details": "What is the Fourth Amendment?"
+    },
+    {
+      "No.": "64",
+      "Session No": "39",
+      "Name": "CQ2",
+      "Details": "How does the Fourth Amendment impact on digital forensics?"
+    },
+    {
+      "No.": "65",
+      "Session No": "40",
+      "Name": "CQ1",
+      "Details": "What is the Fourth Amendment? (cont.)"
+    },
+    {
+      "No.": "66",
+      "Session No": "40",
+      "Name": "CQ2",
+      "Details": "How does the Fourth Amendment impact on digital forensics? (cont.)"
+    },
+    {
+      "No.": "67",
+      "Session No": "41",
+      "Name": "CQ1",
+      "Details": "What is static acquisition?"
+    },
+    {
+      "No.": "68",
+      "Session No": "41",
+      "Name": "CQ2",
+      "Details": "Why do you need to do static acquisition?"
+    },
+    {
+      "No.": "69",
+      "Session No": "42",
+      "Name": "CQ1",
+      "Details": "What is static acquisition? (cont.)"
+    },
+    {
+      "No.": "70",
+      "Session No": "42",
+      "Name": "CQ2",
+      "Details": "Why do you need to do static acquisition? (cont.)"
+    },
+    {
+      "No.": "71",
+      "Session No": "43",
+      "Name": "CQ1",
+      "Details": "How does the internet work?"
+    },
+    {
+      "No.": "72",
+      "Session No": "43",
+      "Name": "CQ2",
+      "Details": "How do web browsers work and the evidence they can create?"
+    },
+    {
+      "No.": "73",
+      "Session No": "43",
+      "Name": "CQ3",
+      "Details": "What evidence can be gathered from email?"
+    },
+    {
+      "No.": "74",
+      "Session No": "43",
+      "Name": "CQ5",
+      "Details": "What evidence can be gathered from chat and social networking?"
+    },
+    {
+      "No.": "75",
+      "Session No": "44",
+      "Name": "CQ1",
+      "Details": "How does the internet work? (cont.)"
+    },
+    {
+      "No.": "76",
+      "Session No": "44",
+      "Name": "CQ2",
+      "Details": "How do web browsers work and the evidence they can create? (cont.)"
+    },
+    {
+      "No.": "77",
+      "Session No": "44",
+      "Name": "CQ3",
+      "Details": "What evidence can be gathered from email? (cont.)"
+    },
+    {
+      "No.": "78",
+      "Session No": "44",
+      "Name": "CQ5",
+      "Details": "What evidence can be gathered from chat and social networking? (cont.)"
+    },
+    {
+      "No.": "79",
+      "Session No": "45",
+      "Name": "CQ1",
+      "Details": "What is FTK tool?"
+    },
+    {
+      "No.": "80",
+      "Session No": "45",
+      "Name": "CQ2",
+      "Details": "How does FTK work?"
+    },
+    {
+      "No.": "81",
+      "Session No": "46",
+      "Name": "CQ1",
+      "Details": "What is FTK tool? (cont.)"
+    },
+    {
+      "No.": "82",
+      "Session No": "46",
+      "Name": "CQ2",
+      "Details": "How does FTK work? (cont.)"
+    },
+    {
+      "No.": "83",
+      "Session No": "47",
+      "Name": "CQ1",
+      "Details": "What type of networks do you know?"
+    },
+    {
+      "No.": "84",
+      "Session No": "47",
+      "Name": "CQ2",
+      "Details": "How can networks be attacked?"
+    },
+    {
+      "No.": "85",
+      "Session No": "47",
+      "Name": "CQ3",
+      "Details": "What type of evidence can be gathered from networks?"
+    },
+    {
+      "No.": "86",
+      "Session No": "48",
+      "Name": "CQ1",
+      "Details": "What type of networks do you know? (cont.)"
+    },
+    {
+      "No.": "87",
+      "Session No": "48",
+      "Name": "CQ2",
+      "Details": "How can networks be attacked? (cont.)"
+    },
+    {
+      "No.": "88",
+      "Session No": "48",
+      "Name": "CQ3",
+      "Details": "What type of evidence can be gathered from networks? (cont.)"
+    },
+    {
+      "No.": "89",
+      "Session No": "49",
+      "Name": "CQ1",
+      "Details": "What is the Sleuth Kit and Autopsy?"
+    },
+    {
+      "No.": "90",
+      "Session No": "49",
+      "Name": "CQ2",
+      "Details": "How does the Sleuth Kit and Autopsy work?"
+    },
+    {
+      "No.": "91",
+      "Session No": "50",
+      "Name": "CQ1",
+      "Details": "What is the Sleuth Kit and Autopsy? (cont.)"
+    },
+    {
+      "No.": "92",
+      "Session No": "50",
+      "Name": "CQ2",
+      "Details": "How does the Sleuth Kit and Autopsy work? (cont.)"
+    },
+    {
+      "No.": "93",
+      "Session No": "51",
+      "Name": "CQ1",
+      "Details": "How do cellular networks work?"
+    },
+    {
+      "No.": "94",
+      "Session No": "51",
+      "Name": "CQ2",
+      "Details": "What type of evidence can be gathered from cellular networks?"
+    },
+    {
+      "No.": "95",
+      "Session No": "52",
+      "Name": "CQ1",
+      "Details": "How do cellular networks work? (cont.)"
+    },
+    {
+      "No.": "96",
+      "Session No": "52",
+      "Name": "CQ2",
+      "Details": "What type of evidence can be gathered from cellular networks? (cont.)"
+    },
+    {
+      "No.": "97",
+      "Session No": "53",
+      "Name": "CQ1",
+      "Details": "What is Global Positioning System?"
+    },
+    {
+      "No.": "98",
+      "Session No": "53",
+      "Name": "CQ2",
+      "Details": "What type of evidence can be gathered from GPS?"
+    },
+    {
+      "No.": "99",
+      "Session No": "54",
+      "Name": "CQ1",
+      "Details": "What is Global Positioning System? (cont.)"
+    },
+    {
+      "No.": "100",
+      "Session No": "54",
+      "Name": "CQ2",
+      "Details": "What type of evidence can be gathered from GPS? (cont.)"
+    },
+    {
+      "No.": "101",
+      "Session No": "55",
+      "Name": "CQ1",
+      "Details": "What is the Netwitness tool?"
+    },
+    {
+      "No.": "102",
+      "Session No": "55",
+      "Name": "CQ2",
+      "Details": "How can the Netwitness can be used for digital forensic?"
+    },
+    {
+      "No.": "103",
+      "Session No": "56",
+      "Name": "CQ1",
+      "Details": "What is the Netwitness tool? (cont.)"
+    },
+    {
+      "No.": "104",
+      "Session No": "56",
+      "Name": "CQ2",
+      "Details": "How can the Netwitness can be used for digital forensic? (cont.)"
+    },
+    {
+      "No.": "105",
+      "Session No": "57",
+      "Name": "CQ1",
+      "Details": "What is the difference between Netwitness and Wireshark?"
+    },
+    {
+      "No.": "106",
+      "Session No": "57",
+      "Name": "CQ2",
+      "Details": "What type of evidence can be gathered from Netwitness?"
+    },
+    {
+      "No.": "107",
+      "Session No": "58",
+      "Name": "CQ1",
+      "Details": "What is the difference between Netwitness and Wireshark? (cont.)"
+    },
+    {
+      "No.": "108",
+      "Session No": "58",
+      "Name": "CQ2",
+      "Details": "What type of evidence can be gathered from Netwitness? (cont.)"
+    }
+  ],
+  "materials": [
+    {
+      "No.": "1",
+      "Material Description": "The Basics of Digital Forensics: The Primer for Getting Started in Digital Forensics (Online: http://library.books24x7.com/toc.aspx?bookid=78129).",
+      "Author": "John Sammons",
+      "Publisher": "Syngress",
+      "Published Date": "2015",
+      "Edition": "2nd",
+      "ISBN": "",
+      "Is Main Material": "True",
+      "Is Hard Copy": "False",
+      "Is Online": "True",
+      "Note": ""
+    },
+    {
+      "No.": "2",
+      "Material Description": "https://samsclass.info/121/121_S13.shtml",
+      "Author": "",
+      "Publisher": "",
+      "Published Date": "",
+      "Edition": "",
+      "ISBN": "",
+      "Is Main Material": "False",
+      "Is Hard Copy": "False",
+      "Is Online": "True",
+      "Note": ""
+    },
+    {
+      "No.": "3",
+      "Material Description": "Guide to Computer Forensics and Investigations Processing Digital Evidence",
+      "Author": "Bill Nelson, Amelia Phillips, Chris Steuart",
+      "Publisher": "Cengage Learning",
+      "Published Date": "2016",
+      "Edition": "5th",
+      "ISBN": "",
+      "Is Main Material": "False",
+      "Is Hard Copy": "True",
+      "Is Online": "False",
+      "Note": ""
+    },
+    {
+      "No.": "4",
+      "Material Description": "Digital Forensics Trial Graphics: Teaching the Jury Though Effective Use of Visuals",
+      "Author": "John Sammons, Lars Daniel",
+      "Publisher": "Elsevier",
+      "Published Date": "2017",
+      "Edition": "",
+      "ISBN": "",
+      "Is Main Material": "False",
+      "Is Hard Copy": "True",
+      "Is Online": "False",
+      "Note": ""
+    },
+    {
+      "No.": "5",
+      "Material Description": "Digital Forensics Processing and Procedures: Meeting the Requirements of ISO 17020, ISO 17025, ISO 27001 and Best Practice Requirements",
+      "Author": "David Watson, Andrew Jones",
+      "Publisher": "Syngress",
+      "Published Date": "2013",
+      "Edition": "",
+      "ISBN": "",
+      "Is Main Material": "False",
+      "Is Hard Copy": "True",
+      "Is Online": "False",
+      "Note": ""
+    },
+    {
+      "No.": "6",
+      "Material Description": "Lecture slides, Lab-Projects.",
+      "Author": "",
+      "Publisher": "",
+      "Published Date": "",
+      "Edition": "",
+      "ISBN": "",
+      "Is Main Material": "False",
+      "Is Hard Copy": "False",
+      "Is Online": "False",
+      "Note": ""
+    }
+  ],
+  "source_path": "data/raw/syllabi/11193.html",
+  "id": "syllabus:11193"
+}

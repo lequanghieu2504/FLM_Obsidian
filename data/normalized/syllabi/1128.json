@@ -1,0 +1,625 @@
+{
+  "syllabus_id": 1128,
+  "subject_code": "CTQ201",
+  "subject_name": "Create UI in C++ using Qt/QML",
+  "syllabus_name": "Create UI in C++ using Qt/QML",
+  "credits": 3,
+  "degree_level": "Bachelor",
+  "time_allocation": "45 hours (3 credits): - 30 online sessions (1 session = 90 minutes) - 1 final exam includes Theoretical Exam (60 minutes) and Practical Exam (120 minutes)",
+  "prerequisite": "CPP101b, CPP201b",
+  "general_information": {
+    "Syllabus ID": "1128",
+    "Syllabus Name": "Create UI in C++ using Qt/QML",
+    "Course Name English": "",
+    "Subject Code": "CTQ201",
+    "Learning-Teaching Method": "",
+    "NoCredit": "3",
+    "Degree Level": "Bachelor",
+    "Time Allocation": "45 hours (3 credits): - 30 online sessions (1 session = 90 minutes) - 1 final exam includes Theoretical Exam (60 minutes) and Practical Exam (120 minutes)",
+    "Pre-Requisite": "CPP101b, CPP201b",
+    "Description": "The course is aim to equip learners to create convenient, fine user interface on auto. Qt is a popular framework to develop UI software application on automotive sysem. The student will learn about Principles of Qt framework; Techniques, tools and skills essentials to build UI with QML; Techniques to link UI in QML with functional logics in C++; How to use Qt framework for techniques in programming like Multithread, multi languages",
+    "StudentTasks": "- Students should self-study all lessons on LMS in time - Pass all conditions before taking final exam in campus",
+    "Tools": "",
+    "Scoring Scale": "10",
+    "DecisionNo MM/dd/yyyy": "1049/QĐ-ĐHFPT dated 08/12/2019",
+    "IsApproved": "True",
+    "Note": "",
+    "Is Scored": "True",
+    "MinAvgMarkToPass": "5",
+    "IsActive": "True",
+    "ApprovedDate": "8/12/2019"
+  },
+  "active": true,
+  "approved": true,
+  "decision": "1049/QĐ-ĐHFPT dated 08/12/2019",
+  "description": "The course is aim to equip learners to create convenient, fine user interface on auto. Qt is a popular framework to develop UI software application on automotive sysem. The student will learn about Principles of Qt framework; Techniques, tools and skills essentials to build UI with QML; Techniques to link UI in QML with functional logics in C++; How to use Qt framework for techniques in programming like Multithread, multi languages",
+  "learning_outcomes": [
+    {
+      "No.": "1",
+      "CLO Name": "CCQT201b_o1",
+      "CLO Details": "Be able to describe the overview of Qt framework"
+    },
+    {
+      "No.": "2",
+      "CLO Name": "CCQT201b_o2",
+      "CLO Details": "Complete the installation of the Qt development environment on the OS"
+    },
+    {
+      "No.": "3",
+      "CLO Name": "CCQT201b_o3",
+      "CLO Details": "Be able to list the basic syntaxes of QML"
+    },
+    {
+      "No.": "4",
+      "CLO Name": "CCQT201b_o4",
+      "CLO Details": "Be able to list the basic objects in Qt Quick module (Item, Rectangle, Text, Image)"
+    },
+    {
+      "No.": "5",
+      "CLO Name": "CCQT201b_o5",
+      "CLO Details": "Be able to use the basic objects of Qt Quick with QML (Item, Rectangle, Text, Image)"
+    },
+    {
+      "No.": "6",
+      "CLO Name": "CCQT201b_o6",
+      "CLO Details": "Be able to use the signal slot machinism in QML"
+    },
+    {
+      "No.": "7",
+      "CLO Name": "CCQT201b_o7",
+      "CLO Details": "Be able to use objects that receive keyboard and mouse input"
+    },
+    {
+      "No.": "8",
+      "CLO Name": "CCQT201b_o8",
+      "CLO Details": "Be able to use Javascript for Qt Quick applications"
+    },
+    {
+      "No.": "9",
+      "CLO Name": "CCQT201b_o9",
+      "CLO Details": "Understand the concepts of UI objects positioning on the screen (coordinates x, y, anchors, positioner, layout)"
+    },
+    {
+      "No.": "10",
+      "CLO Name": "CCQT201b_o10",
+      "CLO Details": "Be able to use Qt Quick tools to locate UI objects on the screen"
+    },
+    {
+      "No.": "11",
+      "CLO Name": "CCQT201b_o11",
+      "CLO Details": "Be able to describe the steps to implement a Qt Application on mobile devices"
+    },
+    {
+      "No.": "12",
+      "CLO Name": "CCQT201b_o12",
+      "CLO Details": "Be able to use basic objects of the Qt Quick Control module"
+    },
+    {
+      "No.": "13",
+      "CLO Name": "CCQT201b_o13",
+      "CLO Details": "Be able to use the basic objects of Qt Quick Dialogs module"
+    },
+    {
+      "No.": "14",
+      "CLO Name": "CCQT201b_o14",
+      "CLO Details": "Be able to describe the Model View Architecture of Qt application"
+    },
+    {
+      "No.": "15",
+      "CLO Name": "CCQT201b_o15",
+      "CLO Details": "Be able to use list UI in Qt Quick"
+    },
+    {
+      "No.": "16",
+      "CLO Name": "CCQT201b_o16",
+      "CLO Details": "Be able to describe the differences between Transforms, Transitions, Animation"
+    },
+    {
+      "No.": "17",
+      "CLO Name": "CCQT201b_o17",
+      "CLO Details": "Be able to use Animation objects"
+    },
+    {
+      "No.": "18",
+      "CLO Name": "CCQT201b_o18",
+      "CLO Details": "Be able to describe what state is in Qt Quick"
+    },
+    {
+      "No.": "19",
+      "CLO Name": "CCQT201b_o19",
+      "CLO Details": "Be able to combine use of state and animation"
+    },
+    {
+      "No.": "20",
+      "CLO Name": "CCQT201b_o20",
+      "CLO Details": "Be able to use the basic network objects"
+    },
+    {
+      "No.": "21",
+      "CLO Name": "CCQT201b_o21",
+      "CLO Details": "Be able to use the basic objects for storage"
+    },
+    {
+      "No.": "22",
+      "CLO Name": "CCQT201b_o22",
+      "CLO Details": "Be able to list some lessons in Qt Quick application development process"
+    },
+    {
+      "No.": "23",
+      "CLO Name": "CCQT201b_o23",
+      "CLO Details": "Understand the basic characteristics of Qt framework (QObject, memory management, event loop)"
+    },
+    {
+      "No.": "24",
+      "CLO Name": "CCQT201b_o24",
+      "CLO Details": "Be able to use Qt Widget basic objects (Window, Dialog, Popup)"
+    },
+    {
+      "No.": "25",
+      "CLO Name": "CCQT201b_o25",
+      "CLO Details": "Be able to describe the basic difference between Thread and Process"
+    },
+    {
+      "No.": "26",
+      "CLO Name": "CCQT201b_o26",
+      "CLO Details": "Be able to describe Event Loop Applications"
+    },
+    {
+      "No.": "27",
+      "CLO Name": "CCQT201b_o27",
+      "CLO Details": "Understand the types of models commonly used in Qt (QStringListModel, QAbstractListModel, QSqlTableModel)"
+    },
+    {
+      "No.": "28",
+      "CLO Name": "CCQT201b_o28",
+      "CLO Details": "Be able to use models with Qt Widget and QT Quick"
+    },
+    {
+      "No.": "29",
+      "CLO Name": "CCQT201b_o29",
+      "CLO Details": "List all the two-way communication methods between C++ and QML"
+    },
+    {
+      "No.": "30",
+      "CLO Name": "CCQT201b_o30",
+      "CLO Details": "Be able to use the communications between C++ and QML"
+    },
+    {
+      "No.": "31",
+      "CLO Name": "CCQT201b_o31",
+      "CLO Details": "Be able to explain how a QML object is created"
+    },
+    {
+      "No.": "32",
+      "CLO Name": "CCQT201b_o32",
+      "CLO Details": "Be able to use objects that work with Qt's network, multi-media"
+    },
+    {
+      "No.": "33",
+      "CLO Name": "CCQT201b_o33",
+      "CLO Details": "Be able to describe the basic of 3D, Graphical objects, interact with OpenCV"
+    },
+    {
+      "No.": "34",
+      "CLO Name": "CCQT201b_o34",
+      "CLO Details": "Be able to describe how to pack applications on operating systems"
+    },
+    {
+      "No.": "35",
+      "CLO Name": "CCQT201b_o35",
+      "CLO Details": "Know how to install multi languages for a Qt application"
+    }
+  ],
+  "assessments": [
+    {
+      "No.": "1",
+      "Category": "Assignment",
+      "Type": "on-going",
+      "Part": "4",
+      "Weight": "40.0%",
+      "Completion Criteria": ">0",
+      "Duration": "-",
+      "CLO": "",
+      "Question Type": "Practical",
+      "No Question": "1 topic/1 assignment",
+      "Knowledge and Skill": "The previous lessons",
+      "Grading Guide": "Practice and submit the result on LMS",
+      "Note": ""
+    },
+    {
+      "No.": "2",
+      "Category": "Q&A with mentor (8 questions required at least)",
+      "Type": "on-going",
+      "Part": "1",
+      "Weight": "10.0%",
+      "Completion Criteria": ">0",
+      "Duration": "Within course duration",
+      "CLO": "All LOs",
+      "Question Type": "Q&A",
+      "No Question": "8 questions at least",
+      "Knowledge and Skill": "Everything related to the subject",
+      "Grading Guide": "Via facebook Hannah",
+      "Note": ""
+    },
+    {
+      "No.": "3",
+      "Category": "Quiz",
+      "Type": "on-going",
+      "Part": "1",
+      "Weight": "10.0%",
+      "Completion Criteria": ">0",
+      "Duration": "2 minutes/quiz question",
+      "CLO": "",
+      "Question Type": "Multiple choice",
+      "No Question": "",
+      "Knowledge and Skill": "Content of the lesson",
+      "Grading Guide": "Quiz on LMS",
+      "Note": ""
+    },
+    {
+      "No.": "4",
+      "Category": "Final Exam",
+      "Type": "Final exam",
+      "Part": "1",
+      "Weight": "40.0%",
+      "Completion Criteria": "4",
+      "Duration": "180'",
+      "CLO": "",
+      "Question Type": "Theoretical test: Multiple choices",
+      "No Question": "40 questions, 1-3 assignments",
+      "Knowledge and Skill": "The whole course content",
+      "Grading Guide": "In campus",
+      "Note": ""
+    }
+  ],
+  "schedule": [
+    {
+      "Session": "1",
+      "Topic": "Online session 1: Course Introduction",
+      "Learning-Teaching Type": "Online",
+      "LO": "",
+      "ITU": "",
+      "Student Materials": "",
+      "S-Download": "",
+      "Student's Tasks": "",
+      "URLs": ""
+    },
+    {
+      "Session": "2",
+      "Topic": "Lesson 1. Introduction QT và Install Qt development environment Quiz 1",
+      "Learning-Teaching Type": "Online",
+      "LO": "",
+      "ITU": "",
+      "Student Materials": "",
+      "S-Download": "",
+      "Student's Tasks": "",
+      "URLs": ""
+    },
+    {
+      "Session": "3",
+      "Topic": "Lesson 2. Dissecting the QML Syntax Quiz 2",
+      "Learning-Teaching Type": "Online",
+      "LO": "",
+      "ITU": "",
+      "Student Materials": "",
+      "S-Download": "",
+      "Student's Tasks": "",
+      "URLs": ""
+    },
+    {
+      "Session": "4",
+      "Topic": "Lesson 3. Qt Quick Basic Elements & Signals and Slots Quiz 3",
+      "Learning-Teaching Type": "Online",
+      "LO": "",
+      "ITU": "",
+      "Student Materials": "",
+      "S-Download": "",
+      "Student's Tasks": "",
+      "URLs": ""
+    },
+    {
+      "Session": "5",
+      "Topic": "Lesson 4. User Input Elements Quiz 4",
+      "Learning-Teaching Type": "Online",
+      "LO": "",
+      "ITU": "",
+      "Student Materials": "",
+      "S-Download": "",
+      "Student's Tasks": "",
+      "URLs": ""
+    },
+    {
+      "Session": "6",
+      "Topic": "Lesson 5. Working with Javascript & Qt Quick Positioning Quiz 5",
+      "Learning-Teaching Type": "Online",
+      "LO": "",
+      "ITU": "",
+      "Student Materials": "",
+      "S-Download": "",
+      "Student's Tasks": "",
+      "URLs": ""
+    },
+    {
+      "Session": "7",
+      "Topic": "Assignment 1",
+      "Learning-Teaching Type": "Online",
+      "LO": "",
+      "ITU": "",
+      "Student Materials": "",
+      "S-Download": "",
+      "Student's Tasks": "",
+      "URLs": ""
+    },
+    {
+      "Session": "8",
+      "Topic": "Assignment 1",
+      "Learning-Teaching Type": "Online",
+      "LO": "",
+      "ITU": "",
+      "Student Materials": "",
+      "S-Download": "",
+      "Student's Tasks": "",
+      "URLs": ""
+    },
+    {
+      "Session": "9",
+      "Topic": "Assignment 1",
+      "Learning-Teaching Type": "Online",
+      "LO": "",
+      "ITU": "",
+      "Student Materials": "",
+      "S-Download": "",
+      "Student's Tasks": "",
+      "URLs": ""
+    },
+    {
+      "Session": "10",
+      "Topic": "Lesson 6. Qt Quick Controls & Dialogs part 1 Quiz 6",
+      "Learning-Teaching Type": "Online",
+      "LO": "",
+      "ITU": "",
+      "Student Materials": "",
+      "S-Download": "",
+      "Student's Tasks": "",
+      "URLs": ""
+    },
+    {
+      "Session": "11",
+      "Topic": "Lesson 7. Qt Quick Controls & Dialogs part 2 Quiz 7",
+      "Learning-Teaching Type": "Online",
+      "LO": "",
+      "ITU": "",
+      "Student Materials": "",
+      "S-Download": "",
+      "Student's Tasks": "",
+      "URLs": ""
+    },
+    {
+      "Session": "12",
+      "Topic": "Lesson 8. Models Views and Delegates Quiz 8",
+      "Learning-Teaching Type": "Online",
+      "LO": "",
+      "ITU": "",
+      "Student Materials": "",
+      "S-Download": "",
+      "Student's Tasks": "",
+      "URLs": ""
+    },
+    {
+      "Session": "13",
+      "Topic": "Lesson 9. Transforms, Transitions and Animations Quiz 9",
+      "Learning-Teaching Type": "Online",
+      "LO": "",
+      "ITU": "",
+      "Student Materials": "",
+      "S-Download": "",
+      "Student's Tasks": "",
+      "URLs": ""
+    },
+    {
+      "Session": "14",
+      "Topic": "Lesson 10. Networking & Storage & Qt and Qt Quick on Mobile Devices & Best Practices + BONUS Quiz 10",
+      "Learning-Teaching Type": "Online",
+      "LO": "",
+      "ITU": "",
+      "Student Materials": "",
+      "S-Download": "",
+      "Student's Tasks": "",
+      "URLs": ""
+    },
+    {
+      "Session": "15",
+      "Topic": "Assignment 2",
+      "Learning-Teaching Type": "Online",
+      "LO": "",
+      "ITU": "",
+      "Student Materials": "",
+      "S-Download": "",
+      "Student's Tasks": "",
+      "URLs": ""
+    },
+    {
+      "Session": "16",
+      "Topic": "Assignment 2",
+      "Learning-Teaching Type": "Online",
+      "LO": "",
+      "ITU": "",
+      "Student Materials": "",
+      "S-Download": "",
+      "Student's Tasks": "",
+      "URLs": ""
+    },
+    {
+      "Session": "17",
+      "Topic": "Assignment 2",
+      "Learning-Teaching Type": "Online",
+      "LO": "",
+      "ITU": "",
+      "Student Materials": "",
+      "S-Download": "",
+      "Student's Tasks": "",
+      "URLs": ""
+    },
+    {
+      "Session": "18",
+      "Topic": "Lesson 11. Introduction to basic functions of Qt part 1 Quiz 11",
+      "Learning-Teaching Type": "Online",
+      "LO": "",
+      "ITU": "",
+      "Student Materials": "",
+      "S-Download": "",
+      "Student's Tasks": "",
+      "URLs": ""
+    },
+    {
+      "Session": "19",
+      "Topic": "Lesson 12. Introduction to basic functions of Qt part 2 Quiz 12",
+      "Learning-Teaching Type": "Online",
+      "LO": "",
+      "ITU": "",
+      "Student Materials": "",
+      "S-Download": "",
+      "Student's Tasks": "",
+      "URLs": ""
+    },
+    {
+      "Session": "20",
+      "Topic": "Lesson 13. Integrating QML and C++ part 1 Quiz 13",
+      "Learning-Teaching Type": "Online",
+      "LO": "",
+      "ITU": "",
+      "Student Materials": "",
+      "S-Download": "",
+      "Student's Tasks": "",
+      "URLs": ""
+    },
+    {
+      "Session": "21",
+      "Topic": "Lesson 14. Integrating QML and C++ part 2 Quiz 14",
+      "Learning-Teaching Type": "Online",
+      "LO": "",
+      "ITU": "",
+      "Student Materials": "",
+      "S-Download": "",
+      "Student's Tasks": "",
+      "URLs": ""
+    },
+    {
+      "Session": "22",
+      "Topic": "Assignment 3",
+      "Learning-Teaching Type": "Online",
+      "LO": "",
+      "ITU": "",
+      "Student Materials": "",
+      "S-Download": "",
+      "Student's Tasks": "",
+      "URLs": ""
+    },
+    {
+      "Session": "23",
+      "Topic": "Assignment 3",
+      "Learning-Teaching Type": "Online",
+      "LO": "",
+      "ITU": "",
+      "Student Materials": "",
+      "S-Download": "",
+      "Student's Tasks": "",
+      "URLs": ""
+    },
+    {
+      "Session": "24",
+      "Topic": "Assignment 3",
+      "Learning-Teaching Type": "Online",
+      "LO": "",
+      "ITU": "",
+      "Student Materials": "",
+      "S-Download": "",
+      "Student's Tasks": "",
+      "URLs": ""
+    },
+    {
+      "Session": "25",
+      "Topic": "Lesson 15. Other extended functions of Qt framework part 1 Quiz 15",
+      "Learning-Teaching Type": "Online",
+      "LO": "",
+      "ITU": "",
+      "Student Materials": "",
+      "S-Download": "",
+      "Student's Tasks": "",
+      "URLs": ""
+    },
+    {
+      "Session": "26",
+      "Topic": "Lesson 16. Other extended functions of Qt framework part 2 Quiz 16",
+      "Learning-Teaching Type": "Online",
+      "LO": "",
+      "ITU": "",
+      "Student Materials": "",
+      "S-Download": "",
+      "Student's Tasks": "",
+      "URLs": ""
+    },
+    {
+      "Session": "27",
+      "Topic": "Assignment 4",
+      "Learning-Teaching Type": "Online",
+      "LO": "",
+      "ITU": "",
+      "Student Materials": "",
+      "S-Download": "",
+      "Student's Tasks": "",
+      "URLs": ""
+    },
+    {
+      "Session": "28",
+      "Topic": "Assignment 4",
+      "Learning-Teaching Type": "Online",
+      "LO": "",
+      "ITU": "",
+      "Student Materials": "",
+      "S-Download": "",
+      "Student's Tasks": "",
+      "URLs": ""
+    },
+    {
+      "Session": "29",
+      "Topic": "Assignment 4",
+      "Learning-Teaching Type": "Online",
+      "LO": "",
+      "ITU": "",
+      "Student Materials": "",
+      "S-Download": "",
+      "Student's Tasks": "",
+      "URLs": ""
+    },
+    {
+      "Session": "30",
+      "Topic": "Course review",
+      "Learning-Teaching Type": "Online",
+      "LO": "",
+      "ITU": "",
+      "Student Materials": "",
+      "S-Download": "",
+      "Student's Tasks": "",
+      "URLs": ""
+    }
+  ],
+  "constructive_questions": [],
+  "materials": [
+    {
+      "No.": "1",
+      "Material Description": "FU LMS course link: https://fu.funix.edu.vn/courses/course-v1:FUG+CQT201x_01_EN+2019_T9/info",
+      "Author": "",
+      "Publisher": "",
+      "Published Date": "",
+      "Edition": "",
+      "ISBN": "",
+      "Is Main Material": "True",
+      "Is Hard Copy": "False",
+      "Is Online": "True",
+      "Note": ""
+    }
+  ],
+  "source_path": "data/raw/syllabi/1128.html",
+  "id": "syllabus:1128"
+}

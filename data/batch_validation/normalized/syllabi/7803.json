@@ -1,0 +1,436 @@
+{
+  "syllabus_id": 7803,
+  "subject_code": "IBSTPI001",
+  "subject_name": "Kỹ năng dạy học theo chuẩn IBSTPI",
+  "syllabus_name": "Kỹ năng sư phạm theo chuẩn IBSTPI",
+  "credits": 0,
+  "degree_level": "Bachelor",
+  "time_allocation": "Study hour (35h), including 05 class sessesions 3 periods (2h15')/each)",
+  "prerequisite": "None",
+  "general_information": {
+    "Syllabus ID": "7803",
+    "Syllabus Name": "Kỹ năng sư phạm theo chuẩn IBSTPI",
+    "Course Name English": "IBSTPI's Instructor Compentencies",
+    "Subject Code": "IBSTPI001",
+    "Learning-Teaching Method": "Social Constructivism (Kiến tạo xã hội); real time online/offline",
+    "NoCredit": "0",
+    "Degree Level": "Bachelor",
+    "Time Allocation": "Study hour (35h), including 05 class sessesions 3 periods (2h15')/each)",
+    "Pre-Requisite": "None",
+    "Description": "The course provides the nesessary knowledge and skills for students to be able to participate in the training field after completion of their study program. It follows the key compentencies for effective classroom training defined by the International Board of Standards for Training, Performance and Instruction (IBSTPI) and recognized throughout the technical training industry. Mastery of these skills together with expertise in the course subject area will ensure a high quality of training. The social constructivist teaching/learning approach is used to deliver this course.",
+    "StudentTasks": "- Students work in groups in order to elaborate the contents of the course, then present, counter-argument during class hours under instructor's guidance and peer feedback by using Edunext. - Students must attend more than 80% of class hours in order to be accepted to the final examination.",
+    "Tools": "Internet, Laptop, Edunext, EOS",
+    "Scoring Scale": "10",
+    "DecisionNo MM/dd/yyyy": "866/QĐ-ĐHFPT dated 09/28/2022",
+    "IsApproved": "True",
+    "Note": "On-going assessment (Average SC Grade): 60% SC Grade = Team Presentation (max 4) + Team Counter-argument (max 3) + Individual learning in team (max 3) Final Exam: 40% Final Final must >=4/10 and Final Result must >=5/10 to pass the course",
+    "Is Scored": "True",
+    "MinAvgMarkToPass": "5",
+    "IsActive": "True",
+    "ApprovedDate": "9/28/2022"
+  },
+  "active": true,
+  "approved": true,
+  "decision": "866/QĐ-ĐHFPT dated 09/28/2022",
+  "description": "The course provides the nesessary knowledge and skills for students to be able to participate in the training field after completion of their study program. It follows the key compentencies for effective classroom training defined by the International Board of Standards for Training, Performance and Instruction (IBSTPI) and recognized throughout the technical training industry. Mastery of these skills together with expertise in the course subject area will ensure a high quality of training. The social constructivist teaching/learning approach is used to deliver this course.",
+  "learning_outcomes": [
+    {
+      "No.": "1",
+      "CLO Name": "CLO1",
+      "CLO Details": "Aware of responsibilities of instructors"
+    },
+    {
+      "No.": "2",
+      "CLO Name": "CLO2",
+      "CLO Details": "Be able to describe how to analyze course materials and learner information."
+    },
+    {
+      "No.": "3",
+      "CLO Name": "CLO3",
+      "CLO Details": "Be able to describe how to assure preparation of the instructional site."
+    },
+    {
+      "No.": "4",
+      "CLO Name": "CLO4",
+      "CLO Details": "Be able to describe how to establish and maintain instructor credibility."
+    },
+    {
+      "No.": "5",
+      "CLO Name": "CLO5",
+      "CLO Details": "Be able to describe how to manage the learning environment."
+    },
+    {
+      "No.": "6",
+      "CLO Name": "CLO6",
+      "CLO Details": "Be able to describe how to demonstrate effective communication skills."
+    },
+    {
+      "No.": "7",
+      "CLO Name": "CLO7",
+      "CLO Details": "Be able to describe how to demonstrate questioning skills and techniques."
+    },
+    {
+      "No.": "8",
+      "CLO Name": "CLO8",
+      "CLO Details": "Be able to describe how to demonstrate effective presentation skills."
+    },
+    {
+      "No.": "9",
+      "CLO Name": "CLO9",
+      "CLO Details": "Be able to describe how to respond appropriately to learners’ needs for clarification or feedback."
+    },
+    {
+      "No.": "10",
+      "CLO Name": "CLO10",
+      "CLO Details": "Be able to describe how to provide positive reinforcement and motivational incentives."
+    },
+    {
+      "No.": "11",
+      "CLO Name": "CLO11",
+      "CLO Details": "Be able to describe how to use instructional methods appropriately."
+    },
+    {
+      "No.": "12",
+      "CLO Name": "CLO12",
+      "CLO Details": "Be able to describe how to use media effectively."
+    },
+    {
+      "No.": "13",
+      "CLO Name": "CLO13",
+      "CLO Details": "Be able to describe how to evaluate learner performance."
+    },
+    {
+      "No.": "14",
+      "CLO Name": "CLO14",
+      "CLO Details": "Be able to describe how to evaluate delivery of instruction."
+    },
+    {
+      "No.": "15",
+      "CLO Name": "CLO15",
+      "CLO Details": "Be able to describe how to report evaluation information."
+    }
+  ],
+  "assessments": [
+    {
+      "No.": "1",
+      "Category": "SC Grade",
+      "Type": "on-going",
+      "Part": "4",
+      "Weight": "60.0%",
+      "Completion Criteria": ">0",
+      "Duration": "",
+      "CLO": "",
+      "Question Type": "",
+      "No Question": "",
+      "Knowledge and Skill": "",
+      "Grading Guide": "- via Edunext - SC Grade = Team Presentation (max 4) + Team Counter-argument (max 3) + Individual learning in team (max 3)",
+      "Note": ""
+    },
+    {
+      "No.": "2",
+      "Category": "Final exam",
+      "Type": "Final exam",
+      "Part": "1",
+      "Weight": "40.0%",
+      "Completion Criteria": "4",
+      "Duration": "",
+      "CLO": "",
+      "Question Type": "Multiple choices by EOS",
+      "No Question": "",
+      "Knowledge and Skill": "Textbook 1, App.B Textbook 2",
+      "Grading Guide": "",
+      "Note": ""
+    }
+  ],
+  "schedule": [
+    {
+      "Session": "1",
+      "Topic": "- Course Intro - IBTSP_IC Intro - Guide to organise Social Constructivist activities in the current class - IBTSP Code of ethics for Instructors - IBTSP Code of ethics for Instructors - Summary and Assignment for the next",
+      "Learning-Teaching Type": "Offline",
+      "LO": "",
+      "ITU": "",
+      "Student Materials": "- syllabus - slide - instructor plan - Appendix B, Textbook 2 - Appendix B, Textbook 2 - instructor slide",
+      "S-Download": "",
+      "Student's Tasks": "",
+      "URLs": ""
+    },
+    {
+      "Session": "2",
+      "Topic": "Topic 1: Preparation and management - Topic introduction 1. Analyzing course materials and learner information 2. Assuring preparation of the instructional site 3. Establishing and maintaining instructor credibility 4. Managing the learning environment - Topic Summary and Assignment for the next topic SC Grading",
+      "Learning-Teaching Type": "Offline",
+      "LO": "",
+      "ITU": "",
+      "Student Materials": "- slide - Ch1, Textbook 1 - Ch2, Textbook 1 - Ch3, Textbook 1 - Ch4, Textbook 1 - instructor slide",
+      "S-Download": "",
+      "Student's Tasks": "",
+      "URLs": ""
+    },
+    {
+      "Session": "3",
+      "Topic": "Topic 2: Instructor Essential Skills - Topic introduction 5. Demonstrating effective communication skills 6. Demonstrating questioning skills and techniques 7. Demonstrating effective presentation skills 8. Responding appropriately to learners’ needs for clarification or feedback Extending (if posible): Demonstrating effective facilitation skills Topic Summary and Assignment for the next topic SC Grading",
+      "Learning-Teaching Type": "Offline",
+      "LO": "",
+      "ITU": "",
+      "Student Materials": "- Ch5 Textbook 1 - Ch6 Textbook 1 - Ch7 Textbook 1 - Ch8 Textbook 1 - Ch4 Textbook 2 - instructor slide",
+      "S-Download": "",
+      "Student's Tasks": "",
+      "URLs": ""
+    },
+    {
+      "Session": "4",
+      "Topic": "Topic 3: Teaching Strategies - Topic introduction 9. Providing positive reinforcement and motivational incentives 10. Using instructional methods appropriately 11. Using media (and technology) effectively - Extending (if posible): Promote retention and tranfer of knowledge and skills - Topic Summary and Assignment for the next topic - SC Grading",
+      "Learning-Teaching Type": "Offline",
+      "LO": "",
+      "ITU": "",
+      "Student Materials": "- Ch9 Textbook 1 - Ch10 Textbook 1 - Ch11 Textbook 1, Ch4 Textbook 2 - Ch4 Textbook 2 - instructor slide",
+      "S-Download": "",
+      "Student's Tasks": "",
+      "URLs": ""
+    },
+    {
+      "Session": "5",
+      "Topic": "Topic 4: Assessment and Evaluation - Topic introduction 12. Evaluating learner performance 13. Evaluating delivery of instruction 14. Reporting evaluation information - Topic and course summary - SC Grading",
+      "Learning-Teaching Type": "Offline",
+      "LO": "",
+      "ITU": "",
+      "Student Materials": "",
+      "S-Download": "",
+      "Student's Tasks": "",
+      "URLs": ""
+    }
+  ],
+  "constructive_questions": [
+    {
+      "No.": "1",
+      "Session No": "1",
+      "Name": "CQ1",
+      "Details": "Topic 1 - PROFESSIONAL FOUNDATIONS Communicate effectively Update and improve professional knowledge and skills Comply with established ethical and legal standards Establish and maintain professional credibility Use the content in IBSTPI handbook, Chapters 3 and 4 1. In order to build credibility for teachers, give 3 elements that you think should be included in teaching preparation beside subject-matter."
+    },
+    {
+      "No.": "2",
+      "Session No": "1",
+      "Name": "CQ2",
+      "Details": "Topic 1 - PROFESSIONAL FOUNDATIONS Communicate effectively Update and improve professional knowledge and skills Comply with established ethical and legal standards Establish and maintain professional credibility Use the content in IBSTPI handbook, Chapters 3 and 4 2. Do you think teaching is an emotional job? If so, how should your welcome your students to make them feel welcomed?"
+    },
+    {
+      "No.": "3",
+      "Session No": "1",
+      "Name": "CQ3",
+      "Details": "Topic 1 - PROFESSIONAL FOUNDATIONS Communicate effectively Update and improve professional knowledge and skills Comply with established ethical and legal standards Establish and maintain professional credibility Use the content in IBSTPI handbook, Chapters 3 and 4 3. Give an example of a challenger/know-it-all student you know, what happened and how did the situation was handled in Vietnamese context & Oriental culture?"
+    },
+    {
+      "No.": "4",
+      "Session No": "1",
+      "Name": "CQ4",
+      "Details": "Topic 2 - PLANNING AND PREPARATION Plan instructional methods and materials Prepare for instruction Use the content in IBSTPI handbook, Chapters 1 and 2 4. Define a positive educational environment. How do you prepare a positive educationcal environment in terms of 5 senses?"
+    },
+    {
+      "No.": "5",
+      "Session No": "1",
+      "Name": "CQ5",
+      "Details": "Topic 2 - PLANNING AND PREPARATION Plan instructional methods and materials Prepare for instruction Use the content in IBSTPI handbook, Chapters 1 and 2 5. How many and what type of backup plans that teachers should prepare in teaching? Give 3 cases that backup plan can be used?"
+    },
+    {
+      "No.": "6",
+      "Session No": "2",
+      "Name": "CQ1",
+      "Details": "Topic 2 - PLANNING AND PREPARATION Plan instructional methods and materials Prepare for instruction Use the content in IBSTPI handbook, Chapters 1 and 2 What information should teachers should know about their students before class to prepare for the worst? How would you use the information about reasons for attending training of students to prepare your teaching? 6. What information should teachers should know about their students before class to prepare for the worst? How would you use the information about reasons for attending training of students to prepare your teaching?"
+    },
+    {
+      "No.": "7",
+      "Session No": "2",
+      "Name": "CQ2",
+      "Details": "Topic 3 - INSTRUCTIONAL METHODS AND STRATEGIES Stimulate and sustain learner motivation and engagement Demonstrate effective presentation skills Demonstrate effective facilitation skills Demonstrate effective questioning skills Use the content in IBSTPI handbook, Chapters 5,6 and 7 7. You are the head teacher of a new class of gen z, set up a board of 5 classroom rules for nonverbal behavior for your students."
+    },
+    {
+      "No.": "8",
+      "Session No": "2",
+      "Name": "CQ3",
+      "Details": "Topic 3 - INSTRUCTIONAL METHODS AND STRATEGIES Stimulate and sustain learner motivation and engagement Demonstrate effective presentation skills Demonstrate effective facilitation skills Demonstrate effective questioning skills Use the content in IBSTPI handbook, Chapters 5,6 and 7 8. What should teachers do to handling stress before delivering a lesson? Please list 3 things that teacher can do to handle stress pre, during, after class time."
+    },
+    {
+      "No.": "9",
+      "Session No": "2",
+      "Name": "CQ4",
+      "Details": "Topic 3 - INSTRUCTIONAL METHODS AND STRATEGIES Stimulate and sustain learner motivation and engagement Demonstrate effective presentation skills Demonstrate effective facilitation skills Demonstrate effective questioning skills Use the content in IBSTPI handbook, Chapters 5,6 and 7 9. Hellen Keller said \"a well-educated mind will always have more questions than answers\". How do you encourage Vietnamese students, especially the young ones, to give high qualified questions?"
+    },
+    {
+      "No.": "10",
+      "Session No": "2",
+      "Name": "CQ5",
+      "Details": "Topic 4 - INSTRUCTIONAL METHODS AND STRATEGIES (cont.) Provide clarification and feedback Promote retention of knowledge and skills Promote transfer of knowledge and skills Use the content in IBSTPI handbook, Chapters 8 and 9 10. How will the statement “Learning is a two-way street” affect teaching, especially responding to learners’ needs or feedback?"
+    },
+    {
+      "No.": "11",
+      "Session No": "3",
+      "Name": "CQ1",
+      "Details": "Topic 4 - INSTRUCTIONAL METHODS AND STRATEGIES (cont.) Provide clarification and feedback Promote retention of knowledge and skills Promote transfer of knowledge and skills Use the content in IBSTPI handbook, Chapters 8 and 9 11. Retention of knowledge and skills is one of the critical tasks of teaching; In today’s rapidly changing society, what do you think teachers need to do so that learners can retain knowledge and skills?"
+    },
+    {
+      "No.": "12",
+      "Session No": "3",
+      "Name": "CQ2",
+      "Details": "Topic 4 - INSTRUCTIONAL METHODS AND STRATEGIES (cont.) Provide clarification and feedback Promote retention of knowledge and skills Promote transfer of knowledge and skills Use the content in IBSTPI handbook, Chapters 8 and 9 12. Some teachers do not effectively use verbal and non-verbal communication to respond to learners’ feedback. Give your suggestions to improve this problem."
+    },
+    {
+      "No.": "13",
+      "Session No": "3",
+      "Name": "CQ3",
+      "Details": "Topic 4 - INSTRUCTIONAL METHODS AND STRATEGIES (cont.) Provide clarification and feedback Promote retention of knowledge and skills Promote transfer of knowledge and skills Use the content in IBSTPI handbook, Chapters 8 and 9 13. “...The good teacher explains; the great teacher inspires.” (William Arthur Ward); How do you understand this statement? From there, show how to provide positive reinforcement and motivational incentives."
+    },
+    {
+      "No.": "14",
+      "Session No": "3",
+      "Name": "CQ4",
+      "Details": "Topic 5 - Organisation and Management Organise and conduct a lesson scenario with the use of convenient and appropriate teaching methods Manage an environment that fosters learning and performance Use the content in IBSTPI handbook, Chapters 4, 10 and 11 14. Select at least three instructional methods that you think would be appropriate for teaching in the field you are studying at FPT University. Why do you choose these methods?"
+    },
+    {
+      "No.": "15",
+      "Session No": "3",
+      "Name": "CQ5",
+      "Details": "Topic 5 - Organisation and Management Organise and conduct a lesson scenario with the use of convenient and appropriate teaching methods Manage an environment that fosters learning and performance Use the content in IBSTPI handbook, Chapters 4, 10 and 11 15. What do you think teachers need to pay attention to when applying media in teaching Gen Z?"
+    },
+    {
+      "No.": "16",
+      "Session No": "4",
+      "Name": "CQ1",
+      "Details": "Topic 6 - Organisation and Management (cont.) Manage and instructional process through the appropriate use of technology Dealing with problem students Use the content in IBSTPI handbook, Chapters 4, 10 and 11 16. What do you think teachers need to pay attention to when applying media in teaching students who are learning IT, business, and languages?"
+    },
+    {
+      "No.": "17",
+      "Session No": "4",
+      "Name": "CQ2",
+      "Details": "Topic 6 - Organisation and Management (cont.) Manage and instructional process through the appropriate use of technology Dealing with problem students Use the content in IBSTPI handbook, Chapters 4, 10 and 11 17. ''In-group working'' is a very popular method used in teaching. Analyze this model at FPT University."
+    },
+    {
+      "No.": "18",
+      "Session No": "4",
+      "Name": "CQ3",
+      "Details": "Topic 6 - Organisation and Management (cont.) Manage and instructional process through the appropriate use of technology Dealing with problem students Use the content in IBSTPI handbook, Chapters 4, 10 and 11 18. Share an experience about using games ineffectively in teaching at your university."
+    },
+    {
+      "No.": "19",
+      "Session No": "4",
+      "Name": "CQ4",
+      "Details": "Topic 7 - Assessment and Evaluation Assess learning and performance Evaluate instructional effectiveness Use the content in IBSTPI handbook, Chapters 12, 13 and 14 19. Identify the forms and purposes of student assessment in the teaching and learning process. What assessment methods do you think are appropriate for your teaching subject?"
+    },
+    {
+      "No.": "20",
+      "Session No": "4",
+      "Name": "CQ5",
+      "Details": "Topic 7 - Assessment and Evaluation Assess learning and performance Evaluate instructional effectiveness Use the content in IBSTPI handbook, Chapters 12, 13 and 14 20. What are the disadvantages of adding points to students? Should this apply to all subjects?"
+    },
+    {
+      "No.": "21",
+      "Session No": "5",
+      "Name": "CQ1",
+      "Details": "Topic 7 - Assessment and Evaluation Assess learning and performance Evaluate instructional effectiveness Use the content in IBSTPI handbook, Chapters 12, 13 and 14 21. How do you get honest, meaningful feedback from students? What should teachers do when they receive a negative evaluation?"
+    },
+    {
+      "No.": "22",
+      "Session No": "5",
+      "Name": "CQ2",
+      "Details": "Topic 7 - Assessment and Evaluation Assess learning and performance Evaluate instructional effectiveness Use the content in IBSTPI handbook, Chapters 12, 13 and 14 22. What information should the instructor give students at the end of the course? Should all students' course grades be made public?"
+    },
+    {
+      "No.": "23",
+      "Session No": "5",
+      "Name": "CQ3",
+      "Details": "Topic 8 - Selective topics Focus on the issue, not the person. Chapter 8 Selling the class, selling the concept, and establishing credibility. Chapter 9 Use content in the IBSTPI handbook, chapter 8 and 9 23. “Focus on the Issue, not the Person” is applied in many fields, including responding to learners’ needs or feedback; state your thoughts on this point of view."
+    },
+    {
+      "No.": "24",
+      "Session No": "5",
+      "Name": "CQ4",
+      "Details": "Topic 8 - Selective topics Focus on the issue, not the person. Chapter 8 Selling the class, selling the concept, and establishing credibility. Chapter 9 Use content in the IBSTPI handbook, chapter 8 and 9 24. How can a teacher effectively establish credibility when the generation gap between teachers and learners is not too large?"
+    },
+    {
+      "No.": "25",
+      "Session No": "5",
+      "Name": "CQ5",
+      "Details": "Topic 8 - Selective topics Focus on the issue, not the person. Chapter 8 Selling the class, selling the concept, and establishing credibility. Chapter 9 Use content in the IBSTPI handbook, chapter 8 and 9 25. Among the types of motivations mentioned, which do you think is the most suitable for students today? Why?"
+    }
+  ],
+  "materials": [
+    {
+      "No.": "1",
+      "Material Description": "EC-Council Instructor Handbook",
+      "Author": "EC- Council",
+      "Publisher": "Official Course Material of CEP",
+      "Published Date": "2000",
+      "Edition": "",
+      "ISBN": "0-07-213033-4",
+      "Is Main Material": "True",
+      "Is Hard Copy": "False",
+      "Is Online": "True",
+      "Note": ""
+    },
+    {
+      "No.": "2",
+      "Material Description": "IBSTPI Instructor Compentencies: Standards for Face-to-face, Online, Blended Settings",
+      "Author": "James D. Klein, J. Michael Spector, Barbara Grabowski, Ileana de la Teja",
+      "Publisher": "Information Age Publishing",
+      "Published Date": "2004",
+      "Edition": "3",
+      "ISBN": "159311236X (978-1593112363)",
+      "Is Main Material": "True",
+      "Is Hard Copy": "False",
+      "Is Online": "True",
+      "Note": ""
+    },
+    {
+      "No.": "3",
+      "Material Description": "Summary Textbook 1",
+      "Author": "",
+      "Publisher": "",
+      "Published Date": "",
+      "Edition": "",
+      "ISBN": "",
+      "Is Main Material": "False",
+      "Is Hard Copy": "False",
+      "Is Online": "True",
+      "Note": ""
+    },
+    {
+      "No.": "4",
+      "Material Description": "Slides Textbook 1",
+      "Author": "",
+      "Publisher": "",
+      "Published Date": "",
+      "Edition": "",
+      "ISBN": "",
+      "Is Main Material": "False",
+      "Is Hard Copy": "False",
+      "Is Online": "True",
+      "Note": ""
+    },
+    {
+      "No.": "5",
+      "Material Description": "https://www.slideshare.net/nimbkarshruti/ibstpi-instructor-competencies",
+      "Author": "",
+      "Publisher": "",
+      "Published Date": "",
+      "Edition": "",
+      "ISBN": "",
+      "Is Main Material": "False",
+      "Is Hard Copy": "False",
+      "Is Online": "True",
+      "Note": ""
+    },
+    {
+      "No.": "6",
+      "Material Description": "Building teachers (Xây dựng đội ngũ nhà giáo)",
+      "Author": "David Jerner Martin, Kimberly S. Loomis",
+      "Publisher": "Cengage Learning",
+      "Published Date": "2013",
+      "Edition": "2",
+      "ISBN": "978-1-133-94301-3 (Bản gốc tiếng Anh) 978-604-62-1532-5 (Bản dịch tiếng Việt)",
+      "Is Main Material": "False",
+      "Is Hard Copy": "False",
+      "Is Online": "True",
+      "Note": ""
+    }
+  ],
+  "source_path": "data/batch_validation/raw/syllabi/7803.html",
+  "id": "syllabus:7803"
+}

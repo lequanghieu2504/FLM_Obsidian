@@ -1,0 +1,294 @@
+{
+  "syllabus_id": 12635,
+  "subject_code": "ITB302c",
+  "subject_name": "Business Intelligence (BI)_Kinh doanh thông minh",
+  "syllabus_name": "Business Intelligence (BI)_Kinh doanh thông minh",
+  "credits": 3,
+  "degree_level": "Bachelor",
+  "time_allocation": "Study hour (150h) = 74h online + 3h offline + 1h TE + 2h PE + 70h self-study",
+  "prerequisite": "DBI202",
+  "general_information": {
+    "Syllabus ID": "12635",
+    "Syllabus Name": "Business Intelligence (BI)_Kinh doanh thông minh",
+    "Course Name English": "Business Intelligence",
+    "Subject Code": "ITB302c",
+    "Learning-Teaching Method": "Blended,Online,Inquiry-based Teaching, active learning",
+    "NoCredit": "3",
+    "Degree Level": "Bachelor",
+    "Time Allocation": "Study hour (150h) = 74h online + 3h offline + 1h TE + 2h PE + 70h self-study",
+    "Pre-Requisite": "DBI202",
+    "Description": "Business intelligence deal with collecting, organizing, interpreting, and reporting on data to help organizations make informed business decisions. Other tasks include measuring performance, tracking revenue or spending, and monitoring progress. Students’ll get introduced to BI tools and platforms and key technical skills required for an entry-level job. After the course, students’ll be prepared for jobs like business intelligence analyst, business intelligence engineer, business intelligence developer, and more.",
+    "StudentTasks": "Students complete the online courses MOOC1-MOOC3 and get certifications for MOOC1-MOOC3 to be allowed to take Final Exam",
+    "Tools": "- Internet",
+    "Scoring Scale": "10",
+    "DecisionNo MM/dd/yyyy": "359/QĐ-ĐHFPT dated 04/09/2025",
+    "IsApproved": "True",
+    "Note": "1. 'Students complete the online courses MOOC1-MOOC3 and get certifications for MOOC1 - MOOC3 to be allowed to take Final Exam 2. Final Exam is included of Final Theory Exam (TE) & Final Practical Exam (PE): 100% 3. Students who complete all MOOCs before the course deadline will receive 1 bonus point; otherwise, no bonus point will be awarded. 4. Completion Criteria: Final TE Score >=4 & Final PE Score >=4 & FR>=5 (FR = min (10, (Final TE Score + Final PE Score)/2 + bonus)",
+    "Is Scored": "True",
+    "MinAvgMarkToPass": "5",
+    "IsActive": "True",
+    "ApprovedDate": "4/9/2025"
+  },
+  "active": true,
+  "approved": true,
+  "decision": "359/QĐ-ĐHFPT dated 04/09/2025",
+  "description": "Business intelligence deal with collecting, organizing, interpreting, and reporting on data to help organizations make informed business decisions. Other tasks include measuring performance, tracking revenue or spending, and monitoring progress. Students’ll get introduced to BI tools and platforms and key technical skills required for an entry-level job. After the course, students’ll be prepared for jobs like business intelligence analyst, business intelligence engineer, business intelligence developer, and more.",
+  "learning_outcomes": [
+    {
+      "No.": "1",
+      "CLO Name": "CLO1",
+      "CLO Details": "Explore the roles of business intelligence (BI) professionals within an organization"
+    },
+    {
+      "No.": "2",
+      "CLO Name": "CLO2",
+      "CLO Details": "Design data visualizations that answer business questions"
+    },
+    {
+      "No.": "3",
+      "CLO Name": "CLO3",
+      "CLO Details": "Practice data modeling and extract, transform, load (ETL) processes that meet organizational goals"
+    },
+    {
+      "No.": "4",
+      "CLO Name": "CLO4",
+      "CLO Details": "Create dashboards that effectively communicate data insights to stakeholders"
+    }
+  ],
+  "assessments": [
+    {
+      "No.": "1",
+      "Category": "PE",
+      "Type": "Final exam",
+      "Part": "1",
+      "Weight": "50.0%",
+      "Completion Criteria": "4",
+      "Duration": "120'",
+      "CLO": "All Los",
+      "Question Type": "",
+      "No Question": "",
+      "Knowledge and Skill": "All studied courses.",
+      "Grading Guide": "by exam board",
+      "Note": "Customized from the assignments of the specialization"
+    },
+    {
+      "No.": "2",
+      "Category": "TE",
+      "Type": "Final exam",
+      "Part": "1",
+      "Weight": "50.0%",
+      "Completion Criteria": "4",
+      "Duration": "60'",
+      "CLO": "All Los",
+      "Question Type": "Multiple choices Marked by Computer",
+      "No Question": "50",
+      "Knowledge and Skill": "All studied courses. Each module of course contributes 3-5 questions.",
+      "Grading Guide": "by exam board",
+      "Note": "Customized from the quizzes of the specialization"
+    }
+  ],
+  "schedule": [
+    {
+      "Session": "1",
+      "Topic": "Foundations of Business Intelligence: - Module 1: Data-driven results through business intellegence Offline 1: Introduction to the online course ITB302c",
+      "Learning-Teaching Type": "Offline,Online",
+      "LO": "LO1, LO2",
+      "ITU": "ITU",
+      "Student Materials": "MOOC1",
+      "S-Download": "",
+      "Student's Tasks": "- Watch all videos, read all materials in the MOOC - Finish quizzes, self-assessment, assignments and take part in discussion boards (if needed) All students should participate in offline slot (if any question)",
+      "URLs": ""
+    },
+    {
+      "Session": "2",
+      "Topic": "- Module 1: Data-driven results through business intellegence (con.t)",
+      "Learning-Teaching Type": "Online",
+      "LO": "LO1, LO2",
+      "ITU": "TU",
+      "Student Materials": "MOOC1",
+      "S-Download": "",
+      "Student's Tasks": "- Watch all videos, read all materials in the MOOC - Finish quizzes, self-assessment, assignments and take part in discussion boards (if needed)",
+      "URLs": ""
+    },
+    {
+      "Session": "3",
+      "Topic": "- Module 2: Business Intelligence tools and technique - Module 3: Context is crucial for purposeful insights",
+      "Learning-Teaching Type": "Online",
+      "LO": "LO1, LO2",
+      "ITU": "ITU",
+      "Student Materials": "MOOC1",
+      "S-Download": "",
+      "Student's Tasks": "- Watch all videos, read all materials in the MOOC - Finish quizzes, self-assessment, assignments and take part in discussion boards (if needed)",
+      "URLs": ""
+    },
+    {
+      "Session": "4",
+      "Topic": "- Module 3: Context is crucial for purposeful insights (con.t) - Module 4: Course 1 end-of-course project",
+      "Learning-Teaching Type": "Online",
+      "LO": "LO1, LO2",
+      "ITU": "TU",
+      "Student Materials": "MOOC1",
+      "S-Download": "",
+      "Student's Tasks": "- Watch all videos, read all materials in the MOOC - Finish quizzes, self-assessment, assignments and take part in discussion boards (if needed)",
+      "URLs": ""
+    },
+    {
+      "Session": "5",
+      "Topic": "The Path to Insights: Data Models and Pipelines: - Module 1: Data models and pipelines",
+      "Learning-Teaching Type": "Online",
+      "LO": "LO2, LO3",
+      "ITU": "ITU",
+      "Student Materials": "MOOC2",
+      "S-Download": "",
+      "Student's Tasks": "- Watch all videos, read all materials in the MOOC - Finish quizzes, self-assessment, assignments and take part in discussion boards (if needed)",
+      "URLs": ""
+    },
+    {
+      "Session": "6",
+      "Topic": "- Module 2: Dynamic database design",
+      "Learning-Teaching Type": "Online",
+      "LO": "LO2, LO3",
+      "ITU": "TU",
+      "Student Materials": "MOOC2",
+      "S-Download": "",
+      "Student's Tasks": "- Watch all videos, read all materials in the MOOC - Finish quizzes, self-assessment, assignments and take part in discussion boards (if needed)",
+      "URLs": ""
+    },
+    {
+      "Session": "7",
+      "Topic": "- Module 3: Optimize ETL processess",
+      "Learning-Teaching Type": "Online",
+      "LO": "LO2, LO3",
+      "ITU": "TU",
+      "Student Materials": "MOOC2",
+      "S-Download": "",
+      "Student's Tasks": "- Watch all videos, read all materials in the MOOC - Finish quizzes, self-assessment, assignments and take part in discussion boards (if needed)",
+      "URLs": ""
+    },
+    {
+      "Session": "8",
+      "Topic": "- Module 4: Course 2 end-of-course project",
+      "Learning-Teaching Type": "Online",
+      "LO": "LO2, LO3",
+      "ITU": "ITU",
+      "Student Materials": "MOOC2",
+      "S-Download": "",
+      "Student's Tasks": "- Watch all videos, read all materials in the MOOC - Finish quizzes, self-assessment, assignments and take part in discussion boards (if needed)",
+      "URLs": ""
+    },
+    {
+      "Session": "9",
+      "Topic": "Decisions, Decisions: Dashboards and Reports: - Module 1: Bussiness Intellegence vissualization - Module 2: Visualize results",
+      "Learning-Teaching Type": "Online",
+      "LO": "LO4",
+      "ITU": "TU",
+      "Student Materials": "MOOC 3",
+      "S-Download": "",
+      "Student's Tasks": "- Watch all videos, read all materials in the MOOC - Finish quizzes, self-assessment, assignments and take part in discussion boards (if needed)",
+      "URLs": ""
+    },
+    {
+      "Session": "10",
+      "Topic": "- Module 2: Visualize results (con't) - Module 3: Automate and monitor",
+      "Learning-Teaching Type": "Online",
+      "LO": "LO4",
+      "ITU": "",
+      "Student Materials": "MOOC 3",
+      "S-Download": "",
+      "Student's Tasks": "- Watch all videos, read all materials in the MOOC - Finish quizzes, self-assessment, assignments and take part in discussion boards (if needed)",
+      "URLs": ""
+    },
+    {
+      "Session": "11",
+      "Topic": "- Module 4: Present bussiness intellegence insights",
+      "Learning-Teaching Type": "Online",
+      "LO": "LO4",
+      "ITU": "",
+      "Student Materials": "MOOC 3",
+      "S-Download": "",
+      "Student's Tasks": "- Watch all videos, read all materials in the MOOC - Finish quizzes, self-assessment, assignments and take part in discussion boards (if needed)",
+      "URLs": ""
+    },
+    {
+      "Session": "12",
+      "Topic": "- Module 5: Course 3 end-of-course project - Module 6: Put your Google business intellegence certificate to work Offline 2: Review all courses of ITB302c",
+      "Learning-Teaching Type": "Offline,Online",
+      "LO": "LO4",
+      "ITU": "",
+      "Student Materials": "MOOC 3",
+      "S-Download": "",
+      "Student's Tasks": "- Watch all videos, read all materials in the MOOC - Finish quizzes, self-assessment, assignments and take part in discussion boards (if needed Deadline of Coursera completion: End of Friday of the week. All students should participate in review slot (if any question)",
+      "URLs": ""
+    }
+  ],
+  "constructive_questions": [],
+  "materials": [
+    {
+      "No.": "1",
+      "Material Description": "https://learner.coursera.help/hc/en-us/articles/208280036-Coursera-Code-of-Conduct",
+      "Author": "",
+      "Publisher": "Coursera",
+      "Published Date": "",
+      "Edition": "",
+      "ISBN": "",
+      "Is Main Material": "False",
+      "Is Hard Copy": "False",
+      "Is Online": "True",
+      "Note": ""
+    },
+    {
+      "No.": "2",
+      "Material Description": "https://www.coursera.org/professional-certificates/google-business-intelligence",
+      "Author": "",
+      "Publisher": "Coursera",
+      "Published Date": "",
+      "Edition": "",
+      "ISBN": "",
+      "Is Main Material": "True",
+      "Is Hard Copy": "False",
+      "Is Online": "True",
+      "Note": "SPEC: Google Business Intelligence Professional Certificate"
+    },
+    {
+      "No.": "3",
+      "Material Description": "https://www.coursera.org/learn/foundations-of-business-intelligence?specialization=google-business-intelligence",
+      "Author": "",
+      "Publisher": "Coursera",
+      "Published Date": "",
+      "Edition": "",
+      "ISBN": "",
+      "Is Main Material": "True",
+      "Is Hard Copy": "False",
+      "Is Online": "True",
+      "Note": "MOOC 1: Foundations of Business Intelligence"
+    },
+    {
+      "No.": "4",
+      "Material Description": "https://www.coursera.org/learn/the-path-to-insights-data-models-and-pipelines?specialization=google-business-intelligence",
+      "Author": "",
+      "Publisher": "Coursera",
+      "Published Date": "",
+      "Edition": "",
+      "ISBN": "",
+      "Is Main Material": "True",
+      "Is Hard Copy": "False",
+      "Is Online": "True",
+      "Note": "MOOC 2: The Path to Insights: Data Models and Pipelines"
+    },
+    {
+      "No.": "5",
+      "Material Description": "https://www.coursera.org/learn/decisions-decisions-dashboards-and-reports?specialization=google-business-intelligence",
+      "Author": "",
+      "Publisher": "Coursera",
+      "Published Date": "",
+      "Edition": "",
+      "ISBN": "",
+      "Is Main Material": "True",
+      "Is Hard Copy": "False",
+      "Is Online": "True",
+      "Note": "MOOC 3: Decisions, Decisions: Dashboards and Reports"
+    }
+  ],
+  "source_path": "data/raw/syllabi/12635.html",
+  "id": "syllabus:12635"
+}

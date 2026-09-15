@@ -1,0 +1,280 @@
+{
+  "syllabus_id": 10676,
+  "subject_code": "CSI104c",
+  "subject_name": "Introduction to Computer ScienceI_Nhập môn khoa học máy tính",
+  "syllabus_name": "Introduction to Computer Science_Nhập môn khoa học máy tính",
+  "credits": 3,
+  "degree_level": "Bachelor",
+  "time_allocation": "Study hour (150h) = 45 hours online + 7.5h offline + 1h TE + 96.5h self-study",
+  "prerequisite": "",
+  "general_information": {
+    "Syllabus ID": "10676",
+    "Syllabus Name": "Introduction to Computer Science_Nhập môn khoa học máy tính",
+    "Course Name English": "Introduction to Computer Science",
+    "Subject Code": "CSI104c",
+    "Learning-Teaching Method": "Blended,Online,Active learning,Inquiry-based Teaching",
+    "NoCredit": "3",
+    "Degree Level": "Bachelor",
+    "Time Allocation": "Study hour (150h) = 45 hours online + 7.5h offline + 1h TE + 96.5h self-study",
+    "Pre-Requisite": "",
+    "Description": "This course provides an overview of computer Fundamentals. Topics cover all areas of computer science in breadth such as computer organization, network, operating system, data structure , file structure, social and ethical issues.",
+    "StudentTasks": "Students complete the online course MOOC and get certification for MOOC to be allowed to take Final Exam",
+    "Tools": "- Internet",
+    "Scoring Scale": "10",
+    "DecisionNo MM/dd/yyyy": "1379/QĐ-ĐHFPT dated 12/29/2023",
+    "IsApproved": "True",
+    "Note": "",
+    "Is Scored": "True",
+    "MinAvgMarkToPass": "5",
+    "IsActive": "True",
+    "ApprovedDate": "12/29/2023"
+  },
+  "active": true,
+  "approved": true,
+  "decision": "1379/QĐ-ĐHFPT dated 12/29/2023",
+  "description": "This course provides an overview of computer Fundamentals. Topics cover all areas of computer science in breadth such as computer organization, network, operating system, data structure , file structure, social and ethical issues.",
+  "learning_outcomes": [
+    {
+      "No.": "1",
+      "CLO Name": "CLO1",
+      "CLO Details": "List the subsystems of a computer and describe the role of these components"
+    },
+    {
+      "No.": "2",
+      "CLO Name": "CLO2",
+      "CLO Details": "Convert a number from one base to other base( decimal, binary, octal and hexadecimal)"
+    },
+    {
+      "No.": "3",
+      "CLO Name": "CLO3",
+      "CLO Details": "Describe how different data type is stored inside a computer as bit patterns and operations on data"
+    },
+    {
+      "No.": "4",
+      "CLO Name": "CLO4",
+      "CLO Details": "List the layers in netwoking and their relationship"
+    },
+    {
+      "No.": "5",
+      "CLO Name": "CLO5",
+      "CLO Details": "Undestand the role of OS in a computer system"
+    },
+    {
+      "No.": "6",
+      "CLO Name": "CLO6",
+      "CLO Details": "Define a algorithm and describe tools used to develop algorithms"
+    },
+    {
+      "No.": "7",
+      "CLO Name": "CLO7",
+      "CLO Details": "Explain how a program in a high-level language is translated into machine language"
+    },
+    {
+      "No.": "8",
+      "CLO Name": "CLO8",
+      "CLO Details": "Describe the software lifecycle"
+    },
+    {
+      "No.": "9",
+      "CLO Name": "CLO9",
+      "CLO Details": "Discuss some data structures: Array, Records, Linked list"
+    },
+    {
+      "No.": "10",
+      "CLO Name": "CLO10",
+      "CLO Details": "Distinguish between text file and binary file and access methods"
+    },
+    {
+      "No.": "11",
+      "CLO Name": "CLO11",
+      "CLO Details": "Describe and explain operations within a relational database"
+    },
+    {
+      "No.": "12",
+      "CLO Name": "CLO12",
+      "CLO Details": "Descibe security goals and discuss ethical issues"
+    }
+  ],
+  "assessments": [
+    {
+      "No.": "1",
+      "Category": "TE",
+      "Type": "Final exam",
+      "Part": "1",
+      "Weight": "100.0%",
+      "Completion Criteria": "4",
+      "Duration": "60'",
+      "CLO": "All los",
+      "Question Type": "Multiple choices Marked by Computer",
+      "No Question": "50",
+      "Knowledge and Skill": "All studied courses. Each module of course contributes 10-20 questions.",
+      "Grading Guide": "by exam board",
+      "Note": "Customized from the quizzes of the courses"
+    }
+  ],
+  "schedule": [
+    {
+      "Session": "1",
+      "Topic": "Offline 1: Study guide to the MOOC Topic 1: Computer Organization, Numbering systems & Operations on Data - Course Introduction - Introduction Computer Organization",
+      "Learning-Teaching Type": "Offline, Online",
+      "LO": "CLO1",
+      "ITU": "ITU",
+      "Student Materials": "MOOC, Book",
+      "S-Download": "",
+      "Student's Tasks": "- Enroll the course on Coursera for FPT University Platform - Watch all the videos, read all the materials in the module - Finish quiz - Complete Lession 1, Topic 1 of the course",
+      "URLs": ""
+    },
+    {
+      "Session": "2",
+      "Topic": "Topic 1: Computer Organization, Numbering systems & Operations on Data - Numbering systems",
+      "Learning-Teaching Type": "Online",
+      "LO": "CLO2",
+      "ITU": "ITU",
+      "Student Materials": "MOOC, Book",
+      "S-Download": "",
+      "Student's Tasks": "- Watch all the videos, read all the materials in the module - Finish quiz. - Complete Lession 2, Topic 1 of the course",
+      "URLs": ""
+    },
+    {
+      "Session": "3",
+      "Topic": "Topic 1: Computer Organization, Numbering systems & Operations on Data - Data storage and Operations on Data Offline 2: Topic 1 review",
+      "Learning-Teaching Type": "Offline, Online",
+      "LO": "CLO3",
+      "ITU": "ITU",
+      "Student Materials": "MOOC, Book",
+      "S-Download": "",
+      "Student's Tasks": "- Watch all the videos, read all the materials in the module - Finish quiz and Graded Assessments. - Complete Topic 1 of the course - Deadline of Topic 1 completion : End of Friday of the week.. - All students should participate in a review slot (if there are any questions)",
+      "URLs": ""
+    },
+    {
+      "Session": "4",
+      "Topic": "Topic 2: Operating System - Internet - Computer Networks and Internet",
+      "Learning-Teaching Type": "Online",
+      "LO": "CLO4",
+      "ITU": "ITU",
+      "Student Materials": "MOOC, Book",
+      "S-Download": "",
+      "Student's Tasks": "- Watch all the videos, read all the materials in the module - Finish quiz. - Complete Lession 1, Topic 2 of the course",
+      "URLs": ""
+    },
+    {
+      "Session": "5",
+      "Topic": "Topic 2: Operating System - Internet - Operating System",
+      "Learning-Teaching Type": "Online",
+      "LO": "CLO5",
+      "ITU": "ITU",
+      "Student Materials": "MOOC, Book",
+      "S-Download": "",
+      "Student's Tasks": "- Watch all the videos, read all the materials in the module - Finish quiz. - Complete Lession 2, Topic 2 of the course",
+      "URLs": ""
+    },
+    {
+      "Session": "6",
+      "Topic": "Topic 2: Operating System - Internet - Security Offline 3: Topic 2 review",
+      "Learning-Teaching Type": "Offline, Online",
+      "LO": "CLO12",
+      "ITU": "ITU",
+      "Student Materials": "MOOC, Book",
+      "S-Download": "",
+      "Student's Tasks": "- Watch all the videos, read all the materials in the module - Finish quiz and Graded Assessments. - Deadline of Topic 2 completion : End of Friday of the week. - All students should participate in a review slott (if there are any questions)",
+      "URLs": ""
+    },
+    {
+      "Session": "7",
+      "Topic": "Topic 3: How to create a software? - Algorithms",
+      "Learning-Teaching Type": "Online",
+      "LO": "CLO6",
+      "ITU": "ITU",
+      "Student Materials": "MOOC, Book",
+      "S-Download": "",
+      "Student's Tasks": "- Watch all the videos, read all the materials in the module - Finish quiz. - Complete Lession 1, Topic 3 of the course",
+      "URLs": ""
+    },
+    {
+      "Session": "8",
+      "Topic": "Topic 3: How to create a software? - Programming",
+      "Learning-Teaching Type": "Online",
+      "LO": "CLO7",
+      "ITU": "ITU",
+      "Student Materials": "MOOC, Book",
+      "S-Download": "",
+      "Student's Tasks": "- Watch all the videos, read all the materials in the module - Finish quiz. - Complete Lession 2, Topic 3 of the course",
+      "URLs": ""
+    },
+    {
+      "Session": "9",
+      "Topic": "Topic 3: How to create a software? - Software engineering",
+      "Learning-Teaching Type": "Online",
+      "LO": "CLO8",
+      "ITU": "ITU",
+      "Student Materials": "MOOC, Book",
+      "S-Download": "",
+      "Student's Tasks": "- Watch all the videos, read all the materials in the module - Finish quiz. - Complete Lession 3, Topic 3 of the course",
+      "URLs": ""
+    },
+    {
+      "Session": "10",
+      "Topic": "Topic 3: How to create a software? - Data structures Offline 4: Topic 3 review",
+      "Learning-Teaching Type": "Offline, Online",
+      "LO": "CLO9",
+      "ITU": "ITU",
+      "Student Materials": "MOOC, Book",
+      "S-Download": "",
+      "Student's Tasks": "- Watch all the videos, read all the materials in the module - Finish quiz and Graded Assessments. - Complete Topic 3 of the course - Deadline of Topic 3 completion : End of Friday of the week. - All students should participate in a review slot (if there are any questions)",
+      "URLs": ""
+    },
+    {
+      "Session": "11",
+      "Topic": "Topic 4: Data Processsing - File structure",
+      "Learning-Teaching Type": "Online",
+      "LO": "CLO10",
+      "ITU": "ITU",
+      "Student Materials": "MOOC, Book",
+      "S-Download": "",
+      "Student's Tasks": "- Watch all the videos, read all the materials in the module - Finish quiz. - Complete Lession 1, Topic 4 of the course",
+      "URLs": ""
+    },
+    {
+      "Session": "12",
+      "Topic": "Topic 4: Data Processsing - Database - Data Ethical Offline 5: Topic 4 review",
+      "Learning-Teaching Type": "Offline, Online",
+      "LO": "CLO11, CLO12",
+      "ITU": "ITU",
+      "Student Materials": "MOOC, Book",
+      "S-Download": "",
+      "Student's Tasks": "- Watch all the videos, read all the materials in the module - Finish quiz and Graded Assessments. - Deadline of Topic 4 completion : End of Friday of the week. - All students should participate in a review slot (if there are any questions)",
+      "URLs": ""
+    }
+  ],
+  "constructive_questions": [],
+  "materials": [
+    {
+      "No.": "1",
+      "Material Description": "https://www.coursera.org/learn/introduction-to-computer-science-csi104",
+      "Author": "",
+      "Publisher": "Coursera",
+      "Published Date": "",
+      "Edition": "",
+      "ISBN": "",
+      "Is Main Material": "True",
+      "Is Hard Copy": "False",
+      "Is Online": "True",
+      "Note": "MOOC"
+    },
+    {
+      "No.": "2",
+      "Material Description": "Foundations Of Computer Science",
+      "Author": "Behrouz Forouzan",
+      "Publisher": "Cengage",
+      "Published Date": "2017",
+      "Edition": "4th",
+      "ISBN": "978-1-4737-5104-0",
+      "Is Main Material": "True",
+      "Is Hard Copy": "False",
+      "Is Online": "False",
+      "Note": "Book"
+    }
+  ],
+  "source_path": "data/raw/syllabi/10676.html",
+  "id": "syllabus:10676"
+}

@@ -1,0 +1,1022 @@
+{
+  "syllabus_id": 12815,
+  "subject_code": "ECO102",
+  "subject_name": "Business Environment_Môi trường kinh doanh",
+  "syllabus_name": "Business Environment_Môi trường Kinh Doanh",
+  "credits": 3,
+  "degree_level": "Bachelor of Business Administration",
+  "time_allocation": "Study hour (150h) = 45h (60 sessions) contact hours + 1h final exam + 104h self-study",
+  "prerequisite": "None",
+  "general_information": {
+    "Syllabus ID": "12815",
+    "Syllabus Name": "Business Environment_Môi trường Kinh Doanh",
+    "Course Name English": "Business Environment",
+    "Subject Code": "ECO102",
+    "Learning-Teaching Method": "Lecture,Presenting,Offline",
+    "NoCredit": "3",
+    "Degree Level": "Bachelor of Business Administration",
+    "Time Allocation": "Study hour (150h) = 45h (60 sessions) contact hours + 1h final exam + 104h self-study",
+    "Pre-Requisite": "None",
+    "Description": "Objective: The main Objective of The course is to improve economic literacy as well as critical thinking and problem solving skills to explain and predict economic issues -Description: Economics is The study of how The society manages its scarce resources. Economics has been divided into The subcategories of microeconomics and macroeconomics. While macroeconomics studies aggregate issues related to national and international economic activities, this course - microeconomics - focuses on The behavior of individual economic agents. microeconomics studies how households (or individuals), business (or firms, enterprises) and The government make decisions, given scarcity of resources. It also studies The interactions among those market members and how these interactions have impacts on their economic benefits and The economy. Because most of these activities occur in The markets, this course also focuses on how The markets work.",
+    "StudentTasks": "+ Class attendance is strongly encouraged. Attend at least 80% of class hours in order to be accepted to the final examination + Read textbooks and other materials in advance before class + Access the course website (http://flm.fpt.edu.vn) for up-to-date information and materials of the course, for online supports from teachers and other students, and for practicing and assessment. + Actively participate in class activities + Complete all homework assignments and other tasks given by the instructor + Use personal laptop in class only for learning purposes + Don’t have private conversations or arrive at class late, which can disrupt the learning environment of the class",
+    "Tools": "Internet",
+    "Scoring Scale": "10",
+    "DecisionNo MM/dd/yyyy": "437/QĐ-ĐHFPT dated 04/25/2025",
+    "IsApproved": "True",
+    "Note": "",
+    "Is Scored": "True",
+    "MinAvgMarkToPass": "5",
+    "IsActive": "True",
+    "ApprovedDate": "4/25/2025"
+  },
+  "active": true,
+  "approved": true,
+  "decision": "437/QĐ-ĐHFPT dated 04/25/2025",
+  "description": "Objective: The main Objective of The course is to improve economic literacy as well as critical thinking and problem solving skills to explain and predict economic issues -Description: Economics is The study of how The society manages its scarce resources. Economics has been divided into The subcategories of microeconomics and macroeconomics. While macroeconomics studies aggregate issues related to national and international economic activities, this course - microeconomics - focuses on The behavior of individual economic agents. microeconomics studies how households (or individuals), business (or firms, enterprises) and The government make decisions, given scarcity of resources. It also studies The interactions among those market members and how these interactions have impacts on their economic benefits and The economy. Because most of these activities occur in The markets, this course also focuses on how The markets work.",
+  "learning_outcomes": [
+    {
+      "No.": "1",
+      "CLO Name": "CLO1",
+      "CLO Details": "Discuss the theory of supply and demand"
+    },
+    {
+      "No.": "2",
+      "CLO Name": "CLO2",
+      "CLO Details": "Recognize the influences of market equilibrium and disequilibrium"
+    },
+    {
+      "No.": "3",
+      "CLO Name": "CLO3",
+      "CLO Details": "Describe the theory of supply and demand in real-life scenarios"
+    },
+    {
+      "No.": "4",
+      "CLO Name": "CLO4",
+      "CLO Details": "Identify the tools and strategies to understand supply and demand applications"
+    },
+    {
+      "No.": "5",
+      "CLO Name": "CLO5",
+      "CLO Details": "Understand consumer and producer behavior"
+    },
+    {
+      "No.": "6",
+      "CLO Name": "CLO6",
+      "CLO Details": "Understand macroeconomic variables"
+    },
+    {
+      "No.": "7",
+      "CLO Name": "CLO7",
+      "CLO Details": "Analyze the influences of aggregate demand and aggregate supply"
+    },
+    {
+      "No.": "8",
+      "CLO Name": "CLO8",
+      "CLO Details": "Understand how the government policies affect individuals, firms, and society."
+    },
+    {
+      "No.": "9",
+      "CLO Name": "CLO9",
+      "CLO Details": "Understand how the fiscal and monetary policies affect macroeconomy."
+    },
+    {
+      "No.": "10",
+      "CLO Name": "CLO10",
+      "CLO Details": "Show self-reliance when working independently and collaboratively."
+    },
+    {
+      "No.": "11",
+      "CLO Name": "CLO11",
+      "CLO Details": "Demonstrate ethical awareness and reflection in business context."
+    }
+  ],
+  "assessments": [
+    {
+      "No.": "1",
+      "Category": "Class participation",
+      "Type": "on-going",
+      "Part": "1",
+      "Weight": "10.0%",
+      "Completion Criteria": ">0",
+      "Duration": "",
+      "CLO": "CLO 10,11",
+      "Question Type": "",
+      "No Question": "",
+      "Knowledge and Skill": "",
+      "Grading Guide": "in class, by instructor",
+      "Note": "Participation scores will be given based on students' class attendance, preparation, quantity as well as quality of participation in classroom; quality of participation is demonstrated through asking relevant questions, making statements that add to and facilitate class discussions, and building upon others’ comments."
+    },
+    {
+      "No.": "2",
+      "Category": "Group assignment",
+      "Type": "on-going",
+      "Part": "1",
+      "Weight": "30.0%",
+      "Completion Criteria": ">0",
+      "Duration": "30 min",
+      "CLO": "CLO 1,2,3,4,5,6,7,8,9,10,11",
+      "Question Type": "Presentation and Q&A",
+      "No Question": "1,2,3 questions",
+      "Knowledge and Skill": "Follow the instructor's guide",
+      "Grading Guide": "in class, by instructor",
+      "Note": "The PPT slides and written report of the presentation must be sent to the instructor before deadlines. Each group presentation will take place in appx. 15 minutes. The Q&A session will follow for about 10 minutes."
+    },
+    {
+      "No.": "3",
+      "Category": "Individual assignment",
+      "Type": "on-going",
+      "Part": "2",
+      "Weight": "20.0%",
+      "Completion Criteria": ">0",
+      "Duration": "3-4 days",
+      "CLO": "CLO 1,2,3,4,5,6,7,8,9,10,11",
+      "Question Type": "Exercise",
+      "No Question": "4,5",
+      "Knowledge and Skill": "Individual Assignment 1 covers chapters 1 to 6; Individual Assignment 2 covers chapters 7 to 12",
+      "Grading Guide": "Approach 1: homework exercises Approach 2: constructive questions, guided by instructor",
+      "Note": "In some particular sessions, homework assignments will be given to students. The exercises in these assignments will cover subjects from the session when the previous assignment is handed. Students are required to do individually at home and submit to the instructor according to the deadlines."
+    },
+    {
+      "No.": "4",
+      "Category": "Quiz",
+      "Type": "on-going",
+      "Part": "2",
+      "Weight": "10.0%",
+      "Completion Criteria": ">0",
+      "Duration": "30-45 min",
+      "CLO": "CLO 1,2,3,4,5,6,7,8,9",
+      "Question Type": "MC",
+      "No Question": "20-30",
+      "Knowledge and Skill": "Quiz 1 covers chapters 1 to 4; Quiz 2 covers chapters 5 to 8",
+      "Grading Guide": "in class, by instructor",
+      "Note": "These quizzes are organized in the beginning of some sessions and informed to students in advance. Students have time at home for preparation. Students are not allowed to use books or documents in any form during the quizzes."
+    },
+    {
+      "No.": "5",
+      "Category": "Final Exam",
+      "Type": "Final exam",
+      "Part": "1",
+      "Weight": "30.0%",
+      "Completion Criteria": "4",
+      "Duration": "60 min",
+      "CLO": "CLO 1,2,3,4,5,6,7,8,9",
+      "Question Type": "MC",
+      "No Question": "50",
+      "Knowledge and Skill": "all chapters",
+      "Grading Guide": "by exam board, using computer",
+      "Note": ""
+    }
+  ],
+  "schedule": [
+    {
+      "Session": "1",
+      "Topic": "Chapter 1: Principles of Demand and Supply: Definition of market",
+      "Learning-Teaching Type": "Offline",
+      "LO": "1,4,10",
+      "ITU": "I,T",
+      "Student Materials": "slide and textbook",
+      "S-Download": "ECO102_slide theo sylla from SU25_Chap 1-4",
+      "Student's Tasks": "read relevant slides/textbook section before class",
+      "URLs": ""
+    },
+    {
+      "Session": "2",
+      "Topic": "Chapter 1: Principles of Demand and Supply: Demand Curve",
+      "Learning-Teaching Type": "Offline",
+      "LO": "1,4,10",
+      "ITU": "T,U",
+      "Student Materials": "slide and textbook",
+      "S-Download": "ECO102_slide theo sylla from SU25_Chap 5 to 8",
+      "Student's Tasks": "read relevant slides/textbook section before class",
+      "URLs": ""
+    },
+    {
+      "Session": "3",
+      "Topic": "Chapter 1: Principles of Demand and Supply: Supply Curve",
+      "Learning-Teaching Type": "Offline",
+      "LO": "1,4,10",
+      "ITU": "T,U",
+      "Student Materials": "slide and textbook",
+      "S-Download": "ECO102_slide theo sylla fromSU25_chap 9 to 12",
+      "Student's Tasks": "read relevant slides/textbook section before class",
+      "URLs": ""
+    },
+    {
+      "Session": "4",
+      "Topic": "Chapter 1: Demand curve: Factors affecting Demand Curve",
+      "Learning-Teaching Type": "Offline",
+      "LO": "1,4,6,10",
+      "ITU": "T,U",
+      "Student Materials": "slide and textbook",
+      "S-Download": "",
+      "Student's Tasks": "review previous section; read relevant materials for the current section",
+      "URLs": ""
+    },
+    {
+      "Session": "5",
+      "Topic": "Chapter 1: Principles of Demand and Supply: Factors affecting Supply Curve Practice",
+      "Learning-Teaching Type": "Offline",
+      "LO": "1,4,6,10",
+      "ITU": "T,U",
+      "Student Materials": "slide and textbook",
+      "S-Download": "",
+      "Student's Tasks": "review previous section; read relevant materials for the current section",
+      "URLs": ""
+    },
+    {
+      "Session": "6",
+      "Topic": "Chapter 2: Price elasticity of Demand: Definition and formula",
+      "Learning-Teaching Type": "Offline",
+      "LO": "1,4,5,6,10",
+      "ITU": "T,U",
+      "Student Materials": "slide and textbook",
+      "S-Download": "",
+      "Student's Tasks": "review previous section; read relevant materials for the current section",
+      "URLs": ""
+    },
+    {
+      "Session": "7",
+      "Topic": "Chapter 2: Factors affecting price elasticity of demand",
+      "Learning-Teaching Type": "Offline",
+      "LO": "1,4,5,6,10",
+      "ITU": "T,U",
+      "Student Materials": "slide and textbook",
+      "S-Download": "",
+      "Student's Tasks": "review previous section; read relevant materials for the current section",
+      "URLs": ""
+    },
+    {
+      "Session": "8",
+      "Topic": "Chapter 2: Implication of price elasticity of demand",
+      "Learning-Teaching Type": "Offline",
+      "LO": "1,4,5,6,10",
+      "ITU": "T,U",
+      "Student Materials": "slide and textbook",
+      "S-Download": "",
+      "Student's Tasks": "review previous section; read relevant materials for the current section",
+      "URLs": ""
+    },
+    {
+      "Session": "9",
+      "Topic": "Chapter 2: Price elasticity of Supply",
+      "Learning-Teaching Type": "Offline",
+      "LO": "1,4,5,6,10",
+      "ITU": "T,U",
+      "Student Materials": "slide and textbook",
+      "S-Download": "",
+      "Student's Tasks": "review previous section; read relevant materials for the current section",
+      "URLs": ""
+    },
+    {
+      "Session": "10",
+      "Topic": "Chapter 3: Price ceiling/ Price floor",
+      "Learning-Teaching Type": "Offline",
+      "LO": "1,4,5,6,9,10",
+      "ITU": "T,U",
+      "Student Materials": "slide and textbook",
+      "S-Download": "",
+      "Student's Tasks": "review previous section; read relevant materials for the current section",
+      "URLs": ""
+    },
+    {
+      "Session": "11",
+      "Topic": "Chapter 3: Tax",
+      "Learning-Teaching Type": "Offline",
+      "LO": "1,4,5,6,9,10",
+      "ITU": "T,U",
+      "Student Materials": "slide and textbook",
+      "S-Download": "",
+      "Student's Tasks": "review previous section; read relevant materials for the current section",
+      "URLs": ""
+    },
+    {
+      "Session": "12",
+      "Topic": "Chapter 3: Market efficiency",
+      "Learning-Teaching Type": "Offline",
+      "LO": "1,4,5,6,9,10",
+      "ITU": "T,U",
+      "Student Materials": "slide and textbook",
+      "S-Download": "",
+      "Student's Tasks": "review previous section; read relevant materials for the current section",
+      "URLs": ""
+    },
+    {
+      "Session": "13",
+      "Topic": "Chapter 3: Consumer surplus, Producer Surplus, Total surplus",
+      "Learning-Teaching Type": "Offline",
+      "LO": "1,4,5,6,9,10",
+      "ITU": "T,U",
+      "Student Materials": "slide and textbook",
+      "S-Download": "",
+      "Student's Tasks": "review previous section; read relevant materials for the current section",
+      "URLs": ""
+    },
+    {
+      "Session": "14",
+      "Topic": "Chapter 3: Deadweightloss",
+      "Learning-Teaching Type": "Offline",
+      "LO": "1,4,5,6,9,10",
+      "ITU": "T,U",
+      "Student Materials": "slide and textbook",
+      "S-Download": "",
+      "Student's Tasks": "review previous section; read relevant materials for the current section",
+      "URLs": ""
+    },
+    {
+      "Session": "15",
+      "Topic": "Chapter 4: Budget constraint",
+      "Learning-Teaching Type": "Offline",
+      "LO": "1,4,5,6,10",
+      "ITU": "T,U",
+      "Student Materials": "slide and textbook",
+      "S-Download": "",
+      "Student's Tasks": "review previous section; read relevant materials for the current section",
+      "URLs": ""
+    },
+    {
+      "Session": "16",
+      "Topic": "Chapter 4: Indifference curve",
+      "Learning-Teaching Type": "Offline",
+      "LO": "1,4,5,6,10",
+      "ITU": "T,U",
+      "Student Materials": "slide and textbook",
+      "S-Download": "",
+      "Student's Tasks": "review previous section; read relevant materials for the current section",
+      "URLs": ""
+    },
+    {
+      "Session": "17",
+      "Topic": "Chapter 4: Optimal Bundle",
+      "Learning-Teaching Type": "Offline",
+      "LO": "1,4,5,6,10",
+      "ITU": "T,U",
+      "Student Materials": "slide and textbook",
+      "S-Download": "",
+      "Student's Tasks": "review previous section; read relevant materials for the current section",
+      "URLs": ""
+    },
+    {
+      "Session": "18",
+      "Topic": "Practice",
+      "Learning-Teaching Type": "Offline",
+      "LO": "1,2,5,10",
+      "ITU": "U",
+      "Student Materials": "slide; extra practice questions if any",
+      "S-Download": "",
+      "Student's Tasks": "do practice questions in advance (if any)",
+      "URLs": ""
+    },
+    {
+      "Session": "19",
+      "Topic": "Quiz 1",
+      "Learning-Teaching Type": "Offline",
+      "LO": "",
+      "ITU": "U",
+      "Student Materials": "slide and textbook",
+      "S-Download": "",
+      "Student's Tasks": "review 4 relevant chapters before the quiz date",
+      "URLs": ""
+    },
+    {
+      "Session": "20",
+      "Topic": "Handout of Individual Assignment 1 (chapters 1- 6) Chapter 5. Producer decision: production cost",
+      "Learning-Teaching Type": "Offline",
+      "LO": "CLO 5",
+      "ITU": "U",
+      "Student Materials": "slide and textbook",
+      "S-Download": "",
+      "Student's Tasks": "review previous section; read relevant materials for the current section",
+      "URLs": ""
+    },
+    {
+      "Session": "21",
+      "Topic": "Chapter 5: Marginal product of labor, catchup effect, FC, VC, TC",
+      "Learning-Teaching Type": "Offline",
+      "LO": "5,6,8",
+      "ITU": "T,U",
+      "Student Materials": "slide and textbook",
+      "S-Download": "",
+      "Student's Tasks": "review previous section; read relevant materials for the current section",
+      "URLs": ""
+    },
+    {
+      "Session": "22",
+      "Topic": "Chapter 5: AFC, AVC, ATC. Practice",
+      "Learning-Teaching Type": "Offline",
+      "LO": "5",
+      "ITU": "U",
+      "Student Materials": "slide and textbook",
+      "S-Download": "",
+      "Student's Tasks": "review previous section; read relevant materials for the current section",
+      "URLs": ""
+    },
+    {
+      "Session": "23",
+      "Topic": "Practice",
+      "Learning-Teaching Type": "Offline",
+      "LO": "5,10",
+      "ITU": "slide and textbook",
+      "Student Materials": "slide and textbook",
+      "S-Download": "",
+      "Student's Tasks": "do practice questions in advance (if any)",
+      "URLs": ""
+    },
+    {
+      "Session": "24",
+      "Topic": "Chapter 6. Producer decision: Competition ① Profit maximization, 2: market structure; 3: perfect vs imperfect competition",
+      "Learning-Teaching Type": "Offline",
+      "LO": "1,2,5",
+      "ITU": "T,U",
+      "Student Materials": "slide and textbook",
+      "S-Download": "",
+      "Student's Tasks": "review previous section; read relevant materials for the current section",
+      "URLs": ""
+    },
+    {
+      "Session": "25",
+      "Topic": "Perfect competition",
+      "Learning-Teaching Type": "Offline",
+      "LO": "1,2,5",
+      "ITU": "T,U",
+      "Student Materials": "slide and textbook",
+      "S-Download": "",
+      "Student's Tasks": "review previous section; read relevant materials for the current section",
+      "URLs": ""
+    },
+    {
+      "Session": "26",
+      "Topic": "Imperfect competition: Monopolistic competition",
+      "Learning-Teaching Type": "Offline",
+      "LO": "1,2,5",
+      "ITU": "T,U",
+      "Student Materials": "slide and textbook",
+      "S-Download": "",
+      "Student's Tasks": "review previous section; read relevant materials for the current section",
+      "URLs": ""
+    },
+    {
+      "Session": "27",
+      "Topic": "Imperfect competition: Oligopoly",
+      "Learning-Teaching Type": "Offline",
+      "LO": "1,2,5",
+      "ITU": "T,U",
+      "Student Materials": "slide and textbook",
+      "S-Download": "",
+      "Student's Tasks": "review previous section; read relevant materials for the current section",
+      "URLs": ""
+    },
+    {
+      "Session": "28",
+      "Topic": "Chapter 7. Measuring National Income; 1:Economic income and expenditure, 2: GDP definition and measurement",
+      "Learning-Teaching Type": "Offline",
+      "LO": "6",
+      "ITU": "T,U",
+      "Student Materials": "slide and textbook",
+      "S-Download": "",
+      "Student's Tasks": "review previous section; read relevant materials for the current section",
+      "URLs": ""
+    },
+    {
+      "Session": "29",
+      "Topic": "Components of GDP",
+      "Learning-Teaching Type": "Offline",
+      "LO": "6",
+      "ITU": "T,U",
+      "Student Materials": "slide and textbook",
+      "S-Download": "",
+      "Student's Tasks": "review previous section; read relevant materials for the current section",
+      "URLs": ""
+    },
+    {
+      "Session": "30",
+      "Topic": "Practice",
+      "Learning-Teaching Type": "Offline",
+      "LO": "6,10, 11",
+      "ITU": "U",
+      "Student Materials": "slide and textbook",
+      "S-Download": "",
+      "Student's Tasks": "do practice questions in advance (if any)",
+      "URLs": ""
+    },
+    {
+      "Session": "31",
+      "Topic": "Chapter 8. Inflation and Unemployment, ① Consumer price index (CPI), \"- How the consumer price index is calculated - Inflation rate\"",
+      "Learning-Teaching Type": "Offline",
+      "LO": "6,8",
+      "ITU": "T,U",
+      "Student Materials": "slide and textbook",
+      "S-Download": "",
+      "Student's Tasks": "review previous section; read relevant materials for the current section",
+      "URLs": ""
+    },
+    {
+      "Session": "32",
+      "Topic": "② Correction of economic variables for the effect of inflation; - Dollar figures from different times', '- Fisher effect: real interest rate and nominal interest rate",
+      "Learning-Teaching Type": "Offline",
+      "LO": "6",
+      "ITU": "T,U",
+      "Student Materials": "slide and textbook",
+      "S-Download": "",
+      "Student's Tasks": "review previous section; read relevant materials for the current section",
+      "URLs": ""
+    },
+    {
+      "Session": "33",
+      "Topic": "③ Unemployment rate '- Working-age population and labor force - Measuring unemployment rate",
+      "Learning-Teaching Type": "Offline",
+      "LO": "6",
+      "ITU": "T,U",
+      "Student Materials": "slide and textbook",
+      "S-Download": "",
+      "Student's Tasks": "review previous section; read relevant materials for the current section",
+      "URLs": ""
+    },
+    {
+      "Session": "34",
+      "Topic": "Submission of Individual Assignment 1 Practice",
+      "Learning-Teaching Type": "Offline",
+      "LO": "CLO 6,10, 11",
+      "ITU": "U",
+      "Student Materials": "slide; extra practice questions if any",
+      "S-Download": "",
+      "Student's Tasks": "review previous section; read relevant materials for the current section",
+      "URLs": ""
+    },
+    {
+      "Session": "35",
+      "Topic": "Quiz 2 (chapters 5, 6, 7, and 8) Handout of Individual Assignment 2 (chapters 7-12)",
+      "Learning-Teaching Type": "Offline",
+      "LO": "CLO 5,6,10, 11",
+      "ITU": "U",
+      "Student Materials": "slide and textbook",
+      "S-Download": "",
+      "Student's Tasks": "review 4 relevant chapters before the quiz date",
+      "URLs": ""
+    },
+    {
+      "Session": "36",
+      "Topic": "Chapter 9: Financial system: interest rate, Saving and Investment; - Financial market (bond, stock)/ financial intermediary",
+      "Learning-Teaching Type": "Offline",
+      "LO": "3,4",
+      "ITU": "T,U",
+      "Student Materials": "slide and textbook",
+      "S-Download": "",
+      "Student's Tasks": "review previous section; read relevant materials for the current section",
+      "URLs": ""
+    },
+    {
+      "Session": "37",
+      "Topic": "`- Interest rate; - Saving: supply curve",
+      "Learning-Teaching Type": "Offline",
+      "LO": "4",
+      "ITU": "T,U",
+      "Student Materials": "slide and textbook",
+      "S-Download": "",
+      "Student's Tasks": "review previous section; read relevant materials for the current section",
+      "URLs": ""
+    },
+    {
+      "Session": "38",
+      "Topic": "`- Investment: demand curve, saving investment equilibrium",
+      "Learning-Teaching Type": "Offline",
+      "LO": "3",
+      "ITU": "T,U",
+      "Student Materials": "slide and textbook",
+      "S-Download": "",
+      "Student's Tasks": "review previous section; read relevant materials for the current section",
+      "URLs": ""
+    },
+    {
+      "Session": "39",
+      "Topic": "Chapter 10: Money Supply, Money Demand; - Money Supply: Regulated by the Central Bank using OMO",
+      "Learning-Teaching Type": "Offline",
+      "LO": "3,4,5,6,10,11",
+      "ITU": "T,U",
+      "Student Materials": "slide and textbook",
+      "S-Download": "",
+      "Student's Tasks": "review previous section; read relevant materials for the current section",
+      "URLs": ""
+    },
+    {
+      "Session": "40",
+      "Topic": "- Quantity theory: MV = PY",
+      "Learning-Teaching Type": "Offline",
+      "LO": "3,4,5,6,10,11",
+      "ITU": "T,U",
+      "Student Materials": "slide and textbook",
+      "S-Download": "",
+      "Student's Tasks": "review previous section; read relevant materials for the current section",
+      "URLs": ""
+    },
+    {
+      "Session": "41",
+      "Topic": "Money Demand: Definition; Factors affecting Money Demand (Y,r, P), liquidity preference theory",
+      "Learning-Teaching Type": "Offline",
+      "LO": "3,4,5,6,10,11",
+      "ITU": "",
+      "Student Materials": "slide and textbook",
+      "S-Download": "",
+      "Student's Tasks": "review previous section; read relevant materials for the current section",
+      "URLs": ""
+    },
+    {
+      "Session": "42",
+      "Topic": "Practice",
+      "Learning-Teaching Type": "Offline",
+      "LO": "3,4,5,6,10,11",
+      "ITU": "U",
+      "Student Materials": "slide; extra practice questions if any",
+      "S-Download": "",
+      "Student's Tasks": "do practice questions in advance (if any)",
+      "URLs": ""
+    },
+    {
+      "Session": "43",
+      "Topic": "Chapter 11: AD – AS",
+      "Learning-Teaching Type": "Offline",
+      "LO": "3,4,5,6,10,11",
+      "ITU": "T,U",
+      "Student Materials": "slide and textbook",
+      "S-Download": "",
+      "Student's Tasks": "review previous section; read relevant materials for the current section",
+      "URLs": ""
+    },
+    {
+      "Session": "44",
+      "Topic": "- AD curve. Why AD curve slopes downward - LRAS curve: Yn = A F(L, H, K, N)",
+      "Learning-Teaching Type": "Offline",
+      "LO": "3,4,5,6,10,11",
+      "ITU": "T,U",
+      "Student Materials": "slide and textbook",
+      "S-Download": "",
+      "Student's Tasks": "review previous section; read relevant materials for the current section",
+      "URLs": ""
+    },
+    {
+      "Session": "45",
+      "Topic": "- SRAS curve: sticky wage - General equilibrium",
+      "Learning-Teaching Type": "Offline",
+      "LO": "3,4,5,6,10,11",
+      "ITU": "T,U",
+      "Student Materials": "slide and textbook",
+      "S-Download": "",
+      "Student's Tasks": "review previous section; read relevant materials for the current section",
+      "URLs": ""
+    },
+    {
+      "Session": "46",
+      "Topic": "- Shocks to the equilibrium",
+      "Learning-Teaching Type": "Offline",
+      "LO": "3,4,5,6,10,11",
+      "ITU": "T,U",
+      "Student Materials": "slide and textbook",
+      "S-Download": "",
+      "Student's Tasks": "review previous section; read relevant materials for the current section",
+      "URLs": ""
+    },
+    {
+      "Session": "47",
+      "Topic": "- Return to equilibrium - Stagflation",
+      "Learning-Teaching Type": "Offline",
+      "LO": "3,4,5,6,10,11",
+      "ITU": "T,U",
+      "Student Materials": "slide and textbook",
+      "S-Download": "",
+      "Student's Tasks": "review previous section; read relevant materials for the current section",
+      "URLs": ""
+    },
+    {
+      "Session": "48",
+      "Topic": "Chapter 12: Monetary and fiscal policy",
+      "Learning-Teaching Type": "Offline",
+      "LO": "3,4,5,6,10,11",
+      "ITU": "T,U",
+      "Student Materials": "slide and textbook",
+      "S-Download": "",
+      "Student's Tasks": "review previous section; read relevant materials for the current section",
+      "URLs": ""
+    },
+    {
+      "Session": "49",
+      "Topic": "- Expansionary/contractionary monetary policy",
+      "Learning-Teaching Type": "Offline",
+      "LO": "3,4,5,6,10,11",
+      "ITU": "T,U",
+      "Student Materials": "slide and textbook",
+      "S-Download": "",
+      "Student's Tasks": "review previous section; read relevant materials for the current section",
+      "URLs": ""
+    },
+    {
+      "Session": "50",
+      "Topic": "Expansionary/contractionary fiscal policy: multiplier/crowding out effect",
+      "Learning-Teaching Type": "Offline",
+      "LO": "3,4,5,6,10,11",
+      "ITU": "T,U",
+      "Student Materials": "slide and textbook",
+      "S-Download": "",
+      "Student's Tasks": "review previous section; read relevant materials for the current section",
+      "URLs": ""
+    },
+    {
+      "Session": "51",
+      "Topic": "Practice Submission of Individual Assignment 2",
+      "Learning-Teaching Type": "Offline",
+      "LO": "CLO 1,2,3,4,5,6,7,8,9,10,11",
+      "ITU": "U",
+      "Student Materials": "slide; extra practice questions if any",
+      "S-Download": "",
+      "Student's Tasks": "do practice questions in advance (if any)",
+      "URLs": ""
+    },
+    {
+      "Session": "52",
+      "Topic": "Practice",
+      "Learning-Teaching Type": "Offline",
+      "LO": "CLO 1,2,3,4,5,6,7,8,9,10,11",
+      "ITU": "U",
+      "Student Materials": "slide; extra practice questions if any",
+      "S-Download": "",
+      "Student's Tasks": "do practice questions in advance (if any)",
+      "URLs": ""
+    },
+    {
+      "Session": "53",
+      "Topic": "Practice",
+      "Learning-Teaching Type": "Offline",
+      "LO": "CLO 1,2,3,4,5,6,7,8,9,10,11",
+      "ITU": "U",
+      "Student Materials": "slide; extra practice questions if any",
+      "S-Download": "",
+      "Student's Tasks": "do practice questions in advance (if any)",
+      "URLs": ""
+    },
+    {
+      "Session": "54",
+      "Topic": "Practice",
+      "Learning-Teaching Type": "Offline",
+      "LO": "CLO 1,2,3,4,5,6,7,8,9,10,11",
+      "ITU": "U",
+      "Student Materials": "slide; extra practice questions if any",
+      "S-Download": "",
+      "Student's Tasks": "do practice questions in advance (if any)",
+      "URLs": ""
+    },
+    {
+      "Session": "55",
+      "Topic": "Group Presentation",
+      "Learning-Teaching Type": "Offline",
+      "LO": "CLO 1,2,3,4,5,6,7,8,9,10,11",
+      "ITU": "U",
+      "Student Materials": "",
+      "S-Download": "",
+      "Student's Tasks": "present or listen to other groups presenting",
+      "URLs": ""
+    },
+    {
+      "Session": "56",
+      "Topic": "Group Presentation",
+      "Learning-Teaching Type": "Offline",
+      "LO": "1,2,3,4,5,6,7,8,9,10,11",
+      "ITU": "U",
+      "Student Materials": "",
+      "S-Download": "",
+      "Student's Tasks": "present or listen to other groups presenting",
+      "URLs": ""
+    },
+    {
+      "Session": "57",
+      "Topic": "Group Presentation",
+      "Learning-Teaching Type": "Offline",
+      "LO": "1,2,3,4,5,6,7,8,9,10,11",
+      "ITU": "U",
+      "Student Materials": "",
+      "S-Download": "",
+      "Student's Tasks": "present or listen to other groups presenting",
+      "URLs": ""
+    },
+    {
+      "Session": "58",
+      "Topic": "Group Presentation",
+      "Learning-Teaching Type": "Offline",
+      "LO": "1,2,3,4,5,6,7,8,9,10,11",
+      "ITU": "U",
+      "Student Materials": "",
+      "S-Download": "",
+      "Student's Tasks": "present or listen to other groups presenting",
+      "URLs": ""
+    },
+    {
+      "Session": "59",
+      "Topic": "Group Presentation",
+      "Learning-Teaching Type": "Offline",
+      "LO": "1,2,3,4,5,6,7,8,9,10,11",
+      "ITU": "U",
+      "Student Materials": "",
+      "S-Download": "",
+      "Student's Tasks": "present or listen to other groups presenting",
+      "URLs": ""
+    },
+    {
+      "Session": "60",
+      "Topic": "Course Review",
+      "Learning-Teaching Type": "Offline",
+      "LO": "1,2,3,4,5,6,7,8,9,10,11",
+      "ITU": "U",
+      "Student Materials": "",
+      "S-Download": "",
+      "Student's Tasks": "",
+      "URLs": ""
+    }
+  ],
+  "constructive_questions": [
+    {
+      "No.": "1",
+      "Session No": "1",
+      "Name": "CQ1",
+      "Details": "Give three examples of important trade-offs that you face in your life"
+    },
+    {
+      "No.": "2",
+      "Session No": "2",
+      "Name": "CQ1",
+      "Details": "“An increase in the demand for notebooks raises the quantity of notebooks demanded but not the quantity supplied.” Is this statement true or false? Explain."
+    },
+    {
+      "No.": "3",
+      "Session No": "2",
+      "Name": "CQ2",
+      "Details": "Does a change in consumers’ tastes lead to a movement along the demand curve or to a shift in the demand curve? Does a change in price lead to a movement along the demand curve or to a shift in the demand curve? Explain your answers."
+    },
+    {
+      "No.": "4",
+      "Session No": "3",
+      "Name": "CQ1",
+      "Details": "Beer and pizza are complements because they are often enjoyed together. When the price of beer rises, what happens to the supply, demand, quantity supplied, quantity demanded, and price in the market for pizza?"
+    },
+    {
+      "No.": "5",
+      "Session No": "3",
+      "Name": "CQ2",
+      "Details": "What are the supply schedule and the supply curve, and how are they related? Why does the supply curve slope upward?"
+    },
+    {
+      "No.": "6",
+      "Session No": "3",
+      "Name": "CQ3",
+      "Details": "Does a change in producers’ technology lead to a movement along the supply curve or to a shift in the supply curve? Does a change in price lead to a movement along the supply curve or to a shift in the supply curve?"
+    },
+    {
+      "No.": "7",
+      "Session No": "10",
+      "Name": "CQ1",
+      "Details": "Give an example of a price ceiling and an example of a price floor."
+    },
+    {
+      "No.": "8",
+      "Session No": "10",
+      "Name": "CQ2",
+      "Details": "How does a tax on a good affect the price paid by buyers, the price received by sellers, and the quantity sold?"
+    },
+    {
+      "No.": "9",
+      "Session No": "10",
+      "Name": "CQ3",
+      "Details": "Explain why economists usually oppose price controls."
+    },
+    {
+      "No.": "10",
+      "Session No": "11",
+      "Name": "CQ1",
+      "Details": "Suppose the government removes a tax on buyers of a good and levies a tax of the same size on sellers of the good. How does this change in tax policy affect the price that buyers pay sellers for this good, the amount buyers are out of pocket (including any tax payments they make), the amount sellers receive (net of any tax payments they make), and the quantity of the good sold?"
+    },
+    {
+      "No.": "11",
+      "Session No": "11",
+      "Name": "CQ2",
+      "Details": "What determines how the burden of a tax is divided between buyers and sellers? Why?"
+    },
+    {
+      "No.": "12",
+      "Session No": "11",
+      "Name": "CQ3",
+      "Details": "If the government places a $500 tax on luxury cars, will the price paid by consumers rise by more than $500, less than $500, or exactly $500? Explain."
+    },
+    {
+      "No.": "13",
+      "Session No": "13",
+      "Name": "CQ1",
+      "Details": "Explain how buyers’ willingness to pay, consumer surplus, and the demand curve are related."
+    },
+    {
+      "No.": "14",
+      "Session No": "13",
+      "Name": "CQ2",
+      "Details": "Explain how sellers’ costs, producer surplus, and the supply curve are related."
+    },
+    {
+      "No.": "15",
+      "Session No": "13",
+      "Name": "CQ3",
+      "Details": "An early freeze in California sours the lemon crop. Explain what happens to consumer surplus in the market for lemons. Explain what happens to consumer surplus in the market for lemonade. Illustrate your answers with diagrams."
+    },
+    {
+      "No.": "16",
+      "Session No": "28",
+      "Name": "CQ1",
+      "Details": "Explain why an economy’s income must equal its expenditure."
+    },
+    {
+      "No.": "17",
+      "Session No": "28",
+      "Name": "CQ2",
+      "Details": "Which contributes more to GDP—the production of an economy car or the production of a luxury car? Why?"
+    },
+    {
+      "No.": "18",
+      "Session No": "29",
+      "Name": "CQ1",
+      "Details": "The government purchases component of GDP does not include spending on transfer payments such as Social Security. Thinking about the definition of GDP, explain why transfer payments are excluded."
+    },
+    {
+      "No.": "19",
+      "Session No": "29",
+      "Name": "CQ2",
+      "Details": "Why do economists use real GDP rather than nominal GDP to gauge economic well-being?"
+    },
+    {
+      "No.": "20",
+      "Session No": "31",
+      "Name": "CQ1",
+      "Details": "Which do you think has a greater effect on the CPI: a 10 percent increase in the price of chicken or a 10 percent increase in the price of caviar? Why?"
+    },
+    {
+      "No.": "21",
+      "Session No": "31",
+      "Name": "CQ2",
+      "Details": "Over a long period of time, the price of a candy bar rose from $0.20 to $1.20. Over the same period, the CPI rose from 150 to 300. Adjusted for overall inflation, how much did the price of the candy bar change?"
+    },
+    {
+      "No.": "22",
+      "Session No": "32",
+      "Name": "CQ1",
+      "Details": "Would you rather live in a nation with a high level of GDP and a low growth rate or in a nation with a low level of GDP and a high growth rate?"
+    }
+  ],
+  "materials": [
+    {
+      "No.": "1",
+      "Material Description": "AE Principles of Economics",
+      "Author": "N. Gregory Mankiw",
+      "Publisher": "Cengage",
+      "Published Date": "2020",
+      "Edition": "9th",
+      "ISBN": "SBN-13: 9789814915342 | ISBN-10: 9814915343",
+      "Is Main Material": "True",
+      "Is Hard Copy": "True",
+      "Is Online": "False",
+      "Note": "Chọn một trong 3 quyển. Ưu tiên mua version mới nhất."
+    },
+    {
+      "No.": "2",
+      "Material Description": "Principles of Economics (International Edition)",
+      "Author": "Mankiw, N. G.,",
+      "Publisher": "South-Western CENGAGE Learning",
+      "Published Date": "2018",
+      "Edition": "8th",
+      "ISBN": "",
+      "Is Main Material": "True",
+      "Is Hard Copy": "False",
+      "Is Online": "False",
+      "Note": ""
+    },
+    {
+      "No.": "3",
+      "Material Description": "Principles of Economics (International Edition)",
+      "Author": "Mankiw, N. G.,",
+      "Publisher": "South-Western CENGAGE Learning",
+      "Published Date": "2012",
+      "Edition": "6th",
+      "ISBN": "ISBN13 978-0-538-45342-4",
+      "Is Main Material": "True",
+      "Is Hard Copy": "False",
+      "Is Online": "False",
+      "Note": ""
+    },
+    {
+      "No.": "4",
+      "Material Description": "Principles of Microeconomics (International Edition)",
+      "Author": "Mankiw, N. G.",
+      "Publisher": "South-Western Cengage Learning",
+      "Published Date": "2009",
+      "Edition": "5th",
+      "ISBN": "",
+      "Is Main Material": "False",
+      "Is Hard Copy": "False",
+      "Is Online": "False",
+      "Note": "Sách nguồn mở"
+    }
+  ],
+  "source_path": "data/raw/syllabi/12815.html",
+  "id": "syllabus:12815"
+}

@@ -1,0 +1,841 @@
+{
+  "syllabus_id": 1159,
+  "subject_code": "ITE303",
+  "subject_name": "Cyber Law and IT Ethics",
+  "syllabus_name": "Cyber Law and IT Ethics",
+  "credits": 3,
+  "degree_level": "Bachelor",
+  "time_allocation": "1 course = 30 sessions 1 session= 90 minutes",
+  "prerequisite": "",
+  "general_information": {
+    "Syllabus ID": "1159",
+    "Syllabus Name": "Cyber Law and IT Ethics",
+    "Course Name English": "",
+    "Subject Code": "ITE303",
+    "Learning-Teaching Method": "",
+    "NoCredit": "3",
+    "Degree Level": "Bachelor",
+    "Time Allocation": "1 course = 30 sessions 1 session= 90 minutes",
+    "Pre-Requisite": "",
+    "Description": "This course addresses several of the major ethical and policy issues that are changing the way engineers think about information and communication technologies This course will cover three broad categories Cybersafety, Cyberethics and Cybersecurity (C3) and how they are interrelated, providing the opportunity for vigorous discussion and exploration of the complex issues involved in C3 technology policy. Through a variety of case studies and group work, detailing IT issues, recent case law, position papers, original articles and resources, as well as scenarios for discussion, student will give consideration to responses that can be applied in their own organization.",
+    "StudentTasks": "- Attend more than 80% of contact hours in order to be accepted to the final examination - Actively participate in class activities - Fulfill tasks given by instructor after class - Use their own laptop in class only for learning purpose - Read the textbook in advance - Access the course website (www.cms.fpt.edu.vn) for up-to-date information and material of the course, for online supports from teachers and other students and for practicing and assessment.",
+    "Tools": "",
+    "Scoring Scale": "10",
+    "DecisionNo MM/dd/yyyy": "440/QĐ-ĐHFPT dated 05/06/2020",
+    "IsApproved": "True",
+    "Note": "",
+    "Is Scored": "True",
+    "MinAvgMarkToPass": "5",
+    "IsActive": "True",
+    "ApprovedDate": "5/6/2020"
+  },
+  "active": true,
+  "approved": true,
+  "decision": "440/QĐ-ĐHFPT dated 05/06/2020",
+  "description": "This course addresses several of the major ethical and policy issues that are changing the way engineers think about information and communication technologies This course will cover three broad categories Cybersafety, Cyberethics and Cybersecurity (C3) and how they are interrelated, providing the opportunity for vigorous discussion and exploration of the complex issues involved in C3 technology policy. Through a variety of case studies and group work, detailing IT issues, recent case law, position papers, original articles and resources, as well as scenarios for discussion, student will give consideration to responses that can be applied in their own organization.",
+  "learning_outcomes": [
+    {
+      "No.": "1",
+      "CLO Name": "CLO1.1",
+      "CLO Details": "Define moral, ethic and law. Discuss about their differences."
+    },
+    {
+      "No.": "2",
+      "CLO Name": "CLO1.2",
+      "CLO Details": "Explain the importance of good business ethics, and the way to establish Corporate Code of Ethics."
+    },
+    {
+      "No.": "3",
+      "CLO Name": "CLO1.3",
+      "CLO Details": "Explain the way to create an ethical work environment for an organization."
+    },
+    {
+      "No.": "4",
+      "CLO Name": "CLO1.4",
+      "CLO Details": "Expain a decision making process and discuss about the approaches to ethical decision making."
+    },
+    {
+      "No.": "5",
+      "CLO Name": "CLO1.5",
+      "CLO Details": "Discuss about privacy, privacy protection, information privacy, privacy law, application and Court Ruling."
+    },
+    {
+      "No.": "6",
+      "CLO Name": "CLO1.6",
+      "CLO Details": "Discuss about Privacy issues come with Workplace Monitoring Policy and Advanced Surveillance Technology"
+    },
+    {
+      "No.": "7",
+      "CLO Name": "CLO1.7",
+      "CLO Details": "Discuss about computer crimes, freedom of expression, intellectual property, advanced surveillance technologies."
+    },
+    {
+      "No.": "8",
+      "CLO Name": "CLO2.1",
+      "CLO Details": "Discuss about IT professional relationships: between IT professionals with employers, clients, suppliers, other professionals, IT users and society."
+    },
+    {
+      "No.": "9",
+      "CLO Name": "CLO2.2",
+      "CLO Details": "Explain Benefits of Professional Code of Ethics"
+    },
+    {
+      "No.": "10",
+      "CLO Name": "CLO2.3",
+      "CLO Details": "Discuss about Professional Organizations and Professional Certificate"
+    },
+    {
+      "No.": "11",
+      "CLO Name": "CLO2.4",
+      "CLO Details": "Discuss Government Licensing and issues associated with government licensing of IT professionals"
+    },
+    {
+      "No.": "12",
+      "CLO Name": "CLO2.5",
+      "CLO Details": "Discuss about IT Professional Malpractice, IT users' ethical issues and the role of IT usage policy in supporting the ethical practices of IT users."
+    },
+    {
+      "No.": "13",
+      "CLO Name": "CLO3.1",
+      "CLO Details": "Discuss about ethical issues and risks on network era"
+    },
+    {
+      "No.": "14",
+      "CLO Name": "CLO3.2",
+      "CLO Details": "Explain about type of attack on a networked computer such as viruses, worms, trojan horses, botnets, DOS and DDOS attack, Rootkits, Spam, Phishing."
+    },
+    {
+      "No.": "15",
+      "CLO Name": "CLO3.3",
+      "CLO Details": "Distinguish type of perpetrators such as hackers, crackers, malicious insiders, Industrial Spies, Cybercriminals, Hacktivists and Cyberterrorists"
+    },
+    {
+      "No.": "16",
+      "CLO Name": "CLO3.4",
+      "CLO Details": "Discuss about Laws for prosecuting computer attacks."
+    },
+    {
+      "No.": "17",
+      "CLO Name": "CLO3.5",
+      "CLO Details": "Practice and Discuss on Law on Cyber Security in Viet Nam"
+    },
+    {
+      "No.": "18",
+      "CLO Name": "CLO3.6",
+      "CLO Details": "Discuss about Trustworthy computing and how to implement it."
+    },
+    {
+      "No.": "19",
+      "CLO Name": "CLO3.7",
+      "CLO Details": "Discuss about process of assessing security-related risks and estabilishing a security policy."
+    },
+    {
+      "No.": "20",
+      "CLO Name": "CLO4.1",
+      "CLO Details": "Discuss about 4 approaches used by identity theft and explain of using Identity Theft Monitoring Service."
+    },
+    {
+      "No.": "21",
+      "CLO Name": "CLO4.2",
+      "CLO Details": "Discuss about consumer profiling methods and how to use checklist for treating consumer data responsibly."
+    },
+    {
+      "No.": "22",
+      "CLO Name": "CLO4.3",
+      "CLO Details": "Discuss about Privacy issues come with Workplace Monitoring Policy and Advanced Surveillance Technology"
+    },
+    {
+      "No.": "23",
+      "CLO Name": "CLO4.4",
+      "CLO Details": "List about typical Plagiarism detection services and systems, and how to use those systems to combat with plagiarism."
+    },
+    {
+      "No.": "24",
+      "CLO Name": "CLO4.5",
+      "CLO Details": "Discuss about protecting software from Reverse Engineering by software license agreements, Open Source Code licenses."
+    },
+    {
+      "No.": "25",
+      "CLO Name": "CLO4.6",
+      "CLO Details": "Explain how the manager's checklist do supporting for running an ethical competitive intelligence."
+    },
+    {
+      "No.": "26",
+      "CLO Name": "CLO4.7",
+      "CLO Details": "Discuss about Cybersquatting and how to curb it."
+    },
+    {
+      "No.": "27",
+      "CLO Name": "CLO4.8",
+      "CLO Details": "Discuss about Software Development Processes and security ethical issues related to safety-critical system development"
+    },
+    {
+      "No.": "28",
+      "CLO Name": "CLO5.1",
+      "CLO Details": "State the impacts of IT on quality of life"
+    },
+    {
+      "No.": "29",
+      "CLO Name": "CLO5.2",
+      "CLO Details": "Identify issues related to social networking"
+    },
+    {
+      "No.": "30",
+      "CLO Name": "CLO5.3",
+      "CLO Details": "Explain ethical issues in IT Organization"
+    },
+    {
+      "No.": "31",
+      "CLO Name": "CLO6.1",
+      "CLO Details": "Examine ethical issues on a case study."
+    },
+    {
+      "No.": "32",
+      "CLO Name": "CLO7.1",
+      "CLO Details": "Organize a group to perform ethical analysis process"
+    },
+    {
+      "No.": "33",
+      "CLO Name": "CLO7.2",
+      "CLO Details": "Plan an ethical analysis project"
+    },
+    {
+      "No.": "34",
+      "CLO Name": "CLO7.3",
+      "CLO Details": "Coordinate group work by applying schedule management techniques"
+    },
+    {
+      "No.": "35",
+      "CLO Name": "CLO7.4",
+      "CLO Details": "Implement tasks which has been assigned"
+    }
+  ],
+  "assessments": [
+    {
+      "No.": "1",
+      "Category": "Case Study Presentation",
+      "Type": "on-going",
+      "Part": "1",
+      "Weight": "10.0%",
+      "Completion Criteria": ">0",
+      "Duration": "2-3 slots",
+      "CLO": "LO3.5",
+      "Question Type": "A group of 4-5 students will be assigned a specific a case study related to Cyber Law or Ethics in IT to analyse and present in class.",
+      "No Question": "",
+      "Knowledge and Skill": "Based on topics of studied units",
+      "Grading Guide": "Group presentation in class room",
+      "Note": "Assessment will be based on both the presentation and the ability to handle and manage class discussion."
+    },
+    {
+      "No.": "2",
+      "Category": "Class participation and preparation",
+      "Type": "on-going",
+      "Part": "1",
+      "Weight": "20.0%",
+      "Completion Criteria": ">0",
+      "Duration": "",
+      "CLO": "LO7.4",
+      "Question Type": "",
+      "No Question": "",
+      "Knowledge and Skill": "",
+      "Grading Guide": "",
+      "Note": "Participation grade will be given based on students' preparation, quantity as well as quality of participation in classroom; quality of participation is demonstrated through asking relevant questions, making statements that add to and facilitate class discussion, and builds upon others’ comments."
+    },
+    {
+      "No.": "3",
+      "Category": "Group assignment",
+      "Type": "on-going",
+      "Part": "1",
+      "Weight": "15.0%",
+      "Completion Criteria": ">0",
+      "Duration": "4 weeks",
+      "CLO": "LO6.1, LO7.1, LO7.2, LO7.3, LO7.4",
+      "Question Type": "",
+      "No Question": "Maximum length of the group assignment should be 10 pages excluding appendices",
+      "Knowledge and Skill": "Based on topics of studied units",
+      "Grading Guide": "Group report submission and Group presentation in class room",
+      "Note": "All assignments should be typed and double-spaced with 11-point font, and must be submitted in either soft or hard copy. Evaluation will be based on both presentation (40%) and written report (60%). Specific contacts of interviews including phone number, addresses, websites must be provided in the appendix of the report."
+    },
+    {
+      "No.": "4",
+      "Category": "Individual Writing Assignment",
+      "Type": "on-going",
+      "Part": "1",
+      "Weight": "10.0%",
+      "Completion Criteria": ">0",
+      "Duration": "2 weeks",
+      "CLO": "LO6.1",
+      "Question Type": "",
+      "No Question": "Maximum length of the individual assignment should be 5 pages excluding appendices",
+      "Knowledge and Skill": "Based on topics of studied units",
+      "Grading Guide": "Individual assignment submitted in class",
+      "Note": "All assignments should be typed and double-spaced with 11-point font, and must be submitted in either soft or hard copy."
+    },
+    {
+      "No.": "5",
+      "Category": "Progress Test 1",
+      "Type": "on-going",
+      "Part": "1",
+      "Weight": "5.0%",
+      "Completion Criteria": ">0",
+      "Duration": "30'",
+      "CLO": "LO1.1, LO1.2, LO1.3, LO1.4, LO2.1, LO2.2, LO2.3, LO2.4, LO2.5, LO3.1, LO3.2, LO3.3, LO3.4, LO3.5, LO3.6",
+      "Question Type": "Multiple choice and short answer questions",
+      "No Question": "15-20",
+      "Knowledge and Skill": "Test the acquainted knowledge which student obtained in the delivered chapters (1,2,3).",
+      "Grading Guide": "Class room",
+      "Note": "Teacher is allowed to select which chapters content (topic or learning outcome) to focus on each examination session."
+    },
+    {
+      "No.": "6",
+      "Category": "Progress Test 2",
+      "Type": "on-going",
+      "Part": "1",
+      "Weight": "5.0%",
+      "Completion Criteria": ">0",
+      "Duration": "30'",
+      "CLO": "LO1.5, LO1.6, LO1.7, LO4.4, LO4.5, LO4.6, LO4.7",
+      "Question Type": "Multiple choice and short answer questions",
+      "No Question": "15-20",
+      "Knowledge and Skill": "Test the acquainted knowledge which student obtained in the delivered chapters (4,5,6).",
+      "Grading Guide": "Class room",
+      "Note": "Teacher is allowed to select which chapters content (topic or learning outcome) to focus on each examination session."
+    },
+    {
+      "No.": "7",
+      "Category": "Progress Test 3",
+      "Type": "on-going",
+      "Part": "1",
+      "Weight": "5.0%",
+      "Completion Criteria": ">0",
+      "Duration": "30'",
+      "CLO": "LO4.8, LO5.1, LO5.2, LO5.3, LO6.1",
+      "Question Type": "Multiple choice and short answer questions",
+      "No Question": "15-20",
+      "Knowledge and Skill": "Test the acquainted knowledge which student obtained in the delivered chapters (7,8,9,10).",
+      "Grading Guide": "Class room",
+      "Note": "Teacher is allowed to select which chapters content (topic or learning outcome) to focus on each examination session."
+    },
+    {
+      "No.": "8",
+      "Category": "Final exam",
+      "Type": "Final exam",
+      "Part": "1",
+      "Weight": "30.0%",
+      "Completion Criteria": "4",
+      "Duration": "60'",
+      "CLO": "LO1.1, LO1.2, LO1.3, LO1.4, LO1.5, LO1.6, LO1.7, LO2.1, LO2.2, LO2.3, LO2.4, LO2.5, LO3.1, LO3.2, LO3.3, LO3.4, LO3.5, LO3.6, LO4.4, LO4.5, LO4.6, LO4.7, LO4.8, LO5.1, LO5.2, LO5.3",
+      "Question Type": "Multiple choice, apr. 50 questions. Other types of questions may be included.",
+      "No Question": "",
+      "Knowledge and Skill": "The question will cover the lectures, class discussions, activities, exercises, and textbook.",
+      "Grading Guide": "Exam room",
+      "Note": "Not allow to use any document/information in any form in exam room"
+    }
+  ],
+  "schedule": [
+    {
+      "Session": "1",
+      "Topic": "Course introduction",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO1.1",
+      "ITU": "IT",
+      "Student Materials": "Text Books - Chapter 1 & References Document",
+      "S-Download": "",
+      "Student's Tasks": "",
+      "URLs": ""
+    },
+    {
+      "Session": "2",
+      "Topic": "1. Overview of Ethics",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO1.3",
+      "ITU": "IT",
+      "Student Materials": "Text Books, slides",
+      "S-Download": "",
+      "Student's Tasks": "",
+      "URLs": ""
+    },
+    {
+      "Session": "3",
+      "Topic": "Discussion questions Individual Writing Assignment Introduction",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO2.1",
+      "ITU": "IT",
+      "Student Materials": "Text Books - Chapter 2 & References Document",
+      "S-Download": "",
+      "Student's Tasks": "",
+      "URLs": ""
+    },
+    {
+      "Session": "4",
+      "Topic": "2. Ethics for IT Professionals and IT Users",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO2.3",
+      "ITU": "IT",
+      "Student Materials": "",
+      "S-Download": "",
+      "Student's Tasks": "",
+      "URLs": ""
+    },
+    {
+      "Session": "5",
+      "Topic": "Discussion questions Individual Writing Assignment Review",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO2.5",
+      "ITU": "IT",
+      "Student Materials": "",
+      "S-Download": "",
+      "Student's Tasks": "",
+      "URLs": ""
+    },
+    {
+      "Session": "6",
+      "Topic": "3. Computer and Internet Crime",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO3.2",
+      "ITU": "IT",
+      "Student Materials": "",
+      "S-Download": "",
+      "Student's Tasks": "",
+      "URLs": ""
+    },
+    {
+      "Session": "7",
+      "Topic": "3. Computer and Internet Crime",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO3.4",
+      "ITU": "IT",
+      "Student Materials": "",
+      "S-Download": "",
+      "Student's Tasks": "",
+      "URLs": ""
+    },
+    {
+      "Session": "8",
+      "Topic": "3. Computer and Internet Crime Progress Test 1 & Review",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO3.6",
+      "ITU": "IT",
+      "Student Materials": "",
+      "S-Download": "",
+      "Student's Tasks": "",
+      "URLs": ""
+    },
+    {
+      "Session": "9",
+      "Topic": "Discussion questions Individual Writing Assignment Review",
+      "Learning-Teaching Type": "Offline",
+      "LO": "",
+      "ITU": "",
+      "Student Materials": "Text Books - Chapter 4 & References Document",
+      "S-Download": "",
+      "Student's Tasks": "",
+      "URLs": ""
+    },
+    {
+      "Session": "10",
+      "Topic": "4. Privacy",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO1.6",
+      "ITU": "IT",
+      "Student Materials": "",
+      "S-Download": "",
+      "Student's Tasks": "",
+      "URLs": ""
+    },
+    {
+      "Session": "11",
+      "Topic": "Discussion questions Individual Writing Assignment Review",
+      "Learning-Teaching Type": "Offline",
+      "LO": "",
+      "ITU": "",
+      "Student Materials": "Text Books - Chapter 5 & References Document",
+      "S-Download": "",
+      "Student's Tasks": "",
+      "URLs": ""
+    },
+    {
+      "Session": "12",
+      "Topic": "5. Freedom of Expression",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO1.7",
+      "ITU": "IT",
+      "Student Materials": "",
+      "S-Download": "",
+      "Student's Tasks": "",
+      "URLs": ""
+    },
+    {
+      "Session": "13",
+      "Topic": "Discussion questions Individual Writing Assignment Review",
+      "Learning-Teaching Type": "Offline",
+      "LO": "",
+      "ITU": "",
+      "Student Materials": "Law of Cyber Security http://english.mic.gov.vn/Upload/VanBan/Law-on-Network-Information-Security-16-05-30.pdf http://tuoitrenews.vn/society/31739/vietnam-passes-law-on-internet-security-amid-rising-cyberattacks http://thediplomat.com/2016/10/the-trouble-with-vietnams-cyber-security-law/ & References Document",
+      "S-Download": "",
+      "Student's Tasks": "",
+      "URLs": ""
+    },
+    {
+      "Session": "14",
+      "Topic": "Case-study investigation and presentation about Cyber Law of Viet Nam",
+      "Learning-Teaching Type": "Offline",
+      "LO": "",
+      "ITU": "",
+      "Student Materials": "",
+      "S-Download": "",
+      "Student's Tasks": "",
+      "URLs": ""
+    },
+    {
+      "Session": "15",
+      "Topic": "Case-study investigation and presentation about Cyber Law of Viet Nam",
+      "Learning-Teaching Type": "Offline",
+      "LO": "",
+      "ITU": "",
+      "Student Materials": "",
+      "S-Download": "",
+      "Student's Tasks": "",
+      "URLs": ""
+    },
+    {
+      "Session": "16",
+      "Topic": "Discussion questions Group Assignment Introduction",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO1.7",
+      "ITU": "IT",
+      "Student Materials": "Text Books - Chapter 6 & References Document",
+      "S-Download": "",
+      "Student's Tasks": "",
+      "URLs": ""
+    },
+    {
+      "Session": "17",
+      "Topic": "6. Intellectual Property",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO4.5",
+      "ITU": "IT",
+      "Student Materials": "",
+      "S-Download": "",
+      "Student's Tasks": "",
+      "URLs": ""
+    },
+    {
+      "Session": "18",
+      "Topic": "Progress Test 2 & Review 7. Software Development",
+      "Learning-Teaching Type": "Offline",
+      "LO": "",
+      "ITU": "",
+      "Student Materials": "Text Books - Chapter 7 & References Document",
+      "S-Download": "",
+      "Student's Tasks": "",
+      "URLs": ""
+    },
+    {
+      "Session": "19",
+      "Topic": "7. Software Development",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO4.8",
+      "ITU": "IT",
+      "Student Materials": "",
+      "S-Download": "",
+      "Student's Tasks": "",
+      "URLs": ""
+    },
+    {
+      "Session": "20",
+      "Topic": "Individual Writing Assignment Peer-Review",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO6.1",
+      "ITU": "IT",
+      "Student Materials": "",
+      "S-Download": "",
+      "Student's Tasks": "",
+      "URLs": ""
+    },
+    {
+      "Session": "21",
+      "Topic": "Discussion questions Group Assignment Review",
+      "Learning-Teaching Type": "Offline",
+      "LO": "",
+      "ITU": "",
+      "Student Materials": "",
+      "S-Download": "",
+      "Student's Tasks": "",
+      "URLs": ""
+    },
+    {
+      "Session": "22",
+      "Topic": "8. The Impact of Information Technology on the Quality of Life",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO5.1",
+      "ITU": "IT",
+      "Student Materials": "",
+      "S-Download": "",
+      "Student's Tasks": "",
+      "URLs": ""
+    },
+    {
+      "Session": "23",
+      "Topic": "Discussion questions Group Assignment Review 9. Social Networking",
+      "Learning-Teaching Type": "Offline",
+      "LO": "",
+      "ITU": "",
+      "Student Materials": "",
+      "S-Download": "",
+      "Student's Tasks": "",
+      "URLs": ""
+    },
+    {
+      "Session": "24",
+      "Topic": "Discussion questions Group Assignment Review",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO5.2",
+      "ITU": "IT",
+      "Student Materials": "",
+      "S-Download": "",
+      "Student's Tasks": "",
+      "URLs": ""
+    },
+    {
+      "Session": "25",
+      "Topic": "10. Ethics of IT Organizations",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO5.3",
+      "ITU": "IT",
+      "Student Materials": "Text Books - Chapter 10 & References Document",
+      "S-Download": "",
+      "Student's Tasks": "",
+      "URLs": ""
+    },
+    {
+      "Session": "26",
+      "Topic": "10. Ethics of IT Organizations",
+      "Learning-Teaching Type": "Offline",
+      "LO": ".",
+      "ITU": "",
+      "Student Materials": "",
+      "S-Download": "",
+      "Student's Tasks": "",
+      "URLs": ""
+    },
+    {
+      "Session": "27",
+      "Topic": "Progress Test 3 & Review Individual Assignment Evaluation",
+      "Learning-Teaching Type": "Offline",
+      "LO": "",
+      "ITU": "",
+      "Student Materials": "",
+      "S-Download": "",
+      "Student's Tasks": "",
+      "URLs": ""
+    },
+    {
+      "Session": "28",
+      "Topic": "Individual Assignment Evaluation",
+      "Learning-Teaching Type": "Offline",
+      "LO": "",
+      "ITU": "",
+      "Student Materials": "",
+      "S-Download": "",
+      "Student's Tasks": "",
+      "URLs": ""
+    },
+    {
+      "Session": "29",
+      "Topic": "Group Assignment Presentation: Free Topics on IT Ethics but NOT including in the textbook (see appendix 2).",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO6.1",
+      "ITU": "IT",
+      "Student Materials": "",
+      "S-Download": "",
+      "Student's Tasks": "",
+      "URLs": ""
+    },
+    {
+      "Session": "30",
+      "Topic": "Group Assignment Presentation: Free Topics on IT Ethics but NOT including in the textbook (see appendix 2).",
+      "Learning-Teaching Type": "Offline",
+      "LO": "",
+      "ITU": "",
+      "Student Materials": "",
+      "S-Download": "",
+      "Student's Tasks": "",
+      "URLs": ""
+    }
+  ],
+  "constructive_questions": [],
+  "materials": [
+    {
+      "No.": "1",
+      "Material Description": "Ethics in Information Technology",
+      "Author": "George Reynolds",
+      "Publisher": "",
+      "Published Date": "2015",
+      "Edition": "5th",
+      "ISBN": "978-1-285-19715-9",
+      "Is Main Material": "True",
+      "Is Hard Copy": "True",
+      "Is Online": "False",
+      "Note": ""
+    },
+    {
+      "No.": "2",
+      "Material Description": "Instructor Manuals",
+      "Author": "",
+      "Publisher": "",
+      "Published Date": "",
+      "Edition": "",
+      "ISBN": "",
+      "Is Main Material": "False",
+      "Is Hard Copy": "False",
+      "Is Online": "False",
+      "Note": ""
+    },
+    {
+      "No.": "3",
+      "Material Description": "Powerpoint presentations",
+      "Author": "",
+      "Publisher": "",
+      "Published Date": "",
+      "Edition": "",
+      "ISBN": "",
+      "Is Main Material": "False",
+      "Is Hard Copy": "False",
+      "Is Online": "False",
+      "Note": ""
+    },
+    {
+      "No.": "4",
+      "Material Description": "QB",
+      "Author": "",
+      "Publisher": "",
+      "Published Date": "",
+      "Edition": "",
+      "ISBN": "",
+      "Is Main Material": "False",
+      "Is Hard Copy": "False",
+      "Is Online": "False",
+      "Note": ""
+    },
+    {
+      "No.": "5",
+      "Material Description": "ACM Code of Ethics",
+      "Author": "",
+      "Publisher": "",
+      "Published Date": "",
+      "Edition": "",
+      "ISBN": "",
+      "Is Main Material": "False",
+      "Is Hard Copy": "False",
+      "Is Online": "False",
+      "Note": ""
+    },
+    {
+      "No.": "6",
+      "Material Description": "Software Engineering Code of Ethics and Professional Practice (at http://www.acm.org/about/se-code#full",
+      "Author": "",
+      "Publisher": "",
+      "Published Date": "",
+      "Edition": "",
+      "ISBN": "",
+      "Is Main Material": "False",
+      "Is Hard Copy": "False",
+      "Is Online": "False",
+      "Note": ""
+    },
+    {
+      "No.": "7",
+      "Material Description": "Principles of Information Systems",
+      "Author": "Ralph Stair, George Reynolds",
+      "Publisher": "Cengage Learning",
+      "Published Date": "2018",
+      "Edition": "13th",
+      "ISBN": "978 -1 -305 -97177 -6",
+      "Is Main Material": "False",
+      "Is Hard Copy": "False",
+      "Is Online": "False",
+      "Note": ""
+    },
+    {
+      "No.": "8",
+      "Material Description": "Management of Information Security",
+      "Author": "Michael Whitman, Herbert Mattord",
+      "Publisher": "Cengage Learning",
+      "Published Date": "2017",
+      "Edition": "5th",
+      "ISBN": "978-1-305-50125-6",
+      "Is Main Material": "False",
+      "Is Hard Copy": "False",
+      "Is Online": "False",
+      "Note": ""
+    },
+    {
+      "No.": "9",
+      "Material Description": "Principles of Information Security",
+      "Author": "Michael Whitman, Herbert Mattord",
+      "Publisher": "Cengage Learning",
+      "Published Date": "2018",
+      "Edition": "6th",
+      "ISBN": "978-1-337-10206-3",
+      "Is Main Material": "False",
+      "Is Hard Copy": "False",
+      "Is Online": "False",
+      "Note": ""
+    },
+    {
+      "No.": "10",
+      "Material Description": "Readings and Cases in Information Security: Law and Ethics",
+      "Author": "Michael Whitman, Herbert Mattord",
+      "Publisher": "Cengage Learning",
+      "Published Date": "2011",
+      "Edition": "",
+      "ISBN": "ISBN-13: 978-1-4354-4157-6, ISBN-10: 1-4354-4157-5",
+      "Is Main Material": "False",
+      "Is Hard Copy": "False",
+      "Is Online": "False",
+      "Note": ""
+    },
+    {
+      "No.": "11",
+      "Material Description": "Vietnamese Laws on Cybersecurity (en), Internet resources.",
+      "Author": "",
+      "Publisher": "",
+      "Published Date": "",
+      "Edition": "",
+      "ISBN": "",
+      "Is Main Material": "False",
+      "Is Hard Copy": "False",
+      "Is Online": "False",
+      "Note": ""
+    },
+    {
+      "No.": "12",
+      "Material Description": "Code of Ethics of the Information Processing Society of Japan: http://www.ipsj.or.jp/english/somu/ipsjcode/ipsjcode_e.html",
+      "Author": "",
+      "Publisher": "",
+      "Published Date": "",
+      "Edition": "",
+      "ISBN": "",
+      "Is Main Material": "False",
+      "Is Hard Copy": "False",
+      "Is Online": "False",
+      "Note": ""
+    },
+    {
+      "No.": "13",
+      "Material Description": "Code of ethics of FPT Software",
+      "Author": "",
+      "Publisher": "",
+      "Published Date": "",
+      "Edition": "",
+      "ISBN": "",
+      "Is Main Material": "False",
+      "Is Hard Copy": "False",
+      "Is Online": "False",
+      "Note": ""
+    }
+  ],
+  "source_path": "data/raw/syllabi/1159.html",
+  "id": "syllabus:1159"
+}

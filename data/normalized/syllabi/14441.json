@@ -1,0 +1,1174 @@
+{
+  "syllabus_id": 14441,
+  "subject_code": "LTG301",
+  "subject_name": "Dẫn luận ngôn ngữ\nIntroduction to Linguistics",
+  "syllabus_name": "Introduction to Linguistics - Dẫn luận ngôn ngữ",
+  "credits": 3,
+  "degree_level": "Bachelor",
+  "time_allocation": "Study hour (150h) = 45 contact hours (60 sessions) + 1 hour final exam + 104 hours self-study",
+  "prerequisite": "Passed ENG303/ENG302c & ENP203/ENP102",
+  "general_information": {
+    "Syllabus ID": "14441",
+    "Syllabus Name": "Introduction to Linguistics - Dẫn luận ngôn ngữ",
+    "Course Name English": "",
+    "Subject Code": "LTG301",
+    "Learning-Teaching Method": "Lecture,Seminar,Workshop,Active learning,Social Constructivism,Discovery Learning,In-class lecture",
+    "NoCredit": "3",
+    "Degree Level": "Bachelor",
+    "Time Allocation": "Study hour (150h) = 45 contact hours (60 sessions) + 1 hour final exam + 104 hours self-study",
+    "Pre-Requisite": "Passed ENG303/ENG302c & ENP203/ENP102",
+    "Description": "The Study of Language offers: - a fundamental introduction to language study - a vocabulary for talking about language and a solid knowledge of how English works. - major concepts in language study through all the key elements of language are presented",
+    "StudentTasks": "- Students must attend at least 80% of contact slots in order to be accepted to the final examination. - Student is responsible to do all exercises, assignments, and labs given by instructor in class or at home and submit on time - Use laptops in class only for learning purposes",
+    "Tools": "Course book Tech Tools: - ChatGPT: Summarize and ask questions; generate timelines and explanations of language evolution, generate examples of compounding, blending, borrowing, etc - Google AI Phonetic Transcriber (toPhonetics Converter): Convert speech to IPA for phonetic analysis - Grammarly: Check usage in context and suggest alternatives. - Linguakit/Syntactic analyzer : Analyze sentence structure and semantic roles; Semantic role labeling and contextual analysis. - DeepL Translator: Compare semantic shifts between Vietnamese and English; Analyze meaning shifts in translation - Discourse Analyzer AI Toolkit: Analyse texts in discourses, pragmatics and implicature - Duolingo: Track progress in English learning. - Coursera: Take online courses in linguistics and language learning.",
+    "Scoring Scale": "10",
+    "DecisionNo MM/dd/yyyy": "1028/QĐ-ĐHFPT dated 08/21/2026",
+    "IsApproved": "True",
+    "Note": "On-going marks: - 1 assignment: 30% - 02 progress tests: 20% 01 Final project: 50%",
+    "Is Scored": "True",
+    "MinAvgMarkToPass": "5",
+    "IsActive": "True",
+    "ApprovedDate": "8/21/2026"
+  },
+  "active": true,
+  "approved": true,
+  "decision": "1028/QĐ-ĐHFPT dated 08/21/2026",
+  "description": "The Study of Language offers: - a fundamental introduction to language study - a vocabulary for talking about language and a solid knowledge of how English works. - major concepts in language study through all the key elements of language are presented",
+  "learning_outcomes": [
+    {
+      "No.": "1",
+      "CLO Name": "CLO1",
+      "CLO Details": "Recall the origins of language"
+    },
+    {
+      "No.": "2",
+      "CLO Name": "CLO2",
+      "CLO Details": "Distinguish the sounds and the sound patterns of laguage"
+    },
+    {
+      "No.": "3",
+      "CLO Name": "CLO3",
+      "CLO Details": "Report the importance of word formation and describe processes involved in word formation."
+    },
+    {
+      "No.": "4",
+      "CLO Name": "CLO4",
+      "CLO Details": "Analyse syntactic and semantic rules"
+    },
+    {
+      "No.": "5",
+      "CLO Name": "CLO5",
+      "CLO Details": "Identify referential meaning and relationships between words; examine the importance of context that contributes to meaning"
+    },
+    {
+      "No.": "6",
+      "CLO Name": "CLO6",
+      "CLO Details": "Demonstrate neurolinguistics and the process of first and second language asquisition"
+    },
+    {
+      "No.": "7",
+      "CLO Name": "CLO7",
+      "CLO Details": "Have a spirit of self-study, lifelong learning"
+    },
+    {
+      "No.": "8",
+      "CLO Name": "CLO8",
+      "CLO Details": "Have a professional working attitude, and have ability to work in a team"
+    }
+  ],
+  "assessments": [
+    {
+      "No.": "1",
+      "Category": "Assignment",
+      "Type": "on-going",
+      "Part": "1",
+      "Weight": "30.0%",
+      "Completion Criteria": ">0",
+      "Duration": "25'/group",
+      "CLO": "CLO1->6",
+      "Question Type": "Follow lecturer's proposal",
+      "No Question": "Presentation",
+      "Knowledge and Skill": "Cover selected chapters in the list: 1, 3, 4, 5, 6, 7, 8, 9, 10, 12, 13, & 14",
+      "Grading Guide": "in class, by instructor",
+      "Note": "*Instruction and shedules for assignment must be presented in the Course Implementation Plan and informed students on the first lesson *Instructor has resposibility to review the assignment for students after graded."
+    },
+    {
+      "No.": "2",
+      "Category": "Progress tests",
+      "Type": "on-going",
+      "Part": "2",
+      "Weight": "20.0%",
+      "Completion Criteria": ">0",
+      "Duration": "30'-50'",
+      "CLO": "CLO 1-> CLO8",
+      "Question Type": "Short answer questions, Multiple Choice, True or False, Fill in the blanks",
+      "No Question": "30-50",
+      "Knowledge and Skill": "Demonstrate the acquainted knowledge which student obtained in the delivered chapters. Content will be based on topics of studied chapters",
+      "Grading Guide": "in class, by instructor",
+      "Note": "Instruction and shedules for Quizzes must be presented in the Course Implementation Plan informed students on the first lesson Instructor has resposibility to review/comment the Quizes for students after graded."
+    },
+    {
+      "No.": "3",
+      "Category": "Final project",
+      "Type": "Final exam",
+      "Part": "2",
+      "Weight": "50.0%",
+      "Completion Criteria": "4",
+      "Duration": "25'/group",
+      "CLO": "CLO1->8",
+      "Question Type": "Project",
+      "No Question": "Written components + Presentation",
+      "Knowledge and Skill": "The project will assess the knowledge and application of course learning outcomes from the delivered chapters. Questions will be based on the key topics covered in each chapter.",
+      "Grading Guide": "*by exam board, using computer. * Written Deliverables: Students must submit all written components of the project to the Examination Office by the end of Week 10. The Examination Office will then forward the submissions to the teacher responsible for marking the presentation; *Presentation: Students will present their project findings in a 20 -minute presentation and 5-minute Q&A during the final examination period. *Students will work in groups of 4 members. In cases where the total number of students does not allow for equal grouping, teams of three or five members may be formed to accommodate the class size.",
+      "Note": "If a student's project does not meet the required standards, the teacher should provide constructive feedback to guide improvement. This will enable the student to revise both the written component and the presentation, and resubmit their work prior to delivering the updated presentation during the resit examination period."
+    },
+    {
+      "No.": "4",
+      "Category": "Final Project - Presentation",
+      "Type": "Final exam",
+      "Part": "1",
+      "Weight": "25.0%",
+      "Completion Criteria": "2",
+      "Duration": "25mins/group",
+      "CLO": "CLOs 1 - 8",
+      "Question Type": "Presentation",
+      "No Question": "",
+      "Knowledge and Skill": "",
+      "Grading Guide": "Presentation: Students will present their project findings in a 20 -minute presentation and 5-minute Q&A during the final examination period.",
+      "Note": ""
+    },
+    {
+      "No.": "5",
+      "Category": "Final Project - Written components",
+      "Type": "Final exam",
+      "Part": "1",
+      "Weight": "25.0%",
+      "Completion Criteria": "2",
+      "Duration": "Deadline: Week 10",
+      "CLO": "CLOs 1 - 8",
+      "Question Type": "Writing",
+      "No Question": "",
+      "Knowledge and Skill": "",
+      "Grading Guide": "Written Deliverables: Students must submit all written components of the project to the Examination Office by the end of Week 10. The Examination Office will then forward the submissions to the teacher responsible for marking the presentation;",
+      "Note": ""
+    }
+  ],
+  "schedule": [
+    {
+      "Session": "1",
+      "Topic": "Course Introduction Chapter 1 The origins of Language",
+      "Learning-Teaching Type": "offline",
+      "LO": "CLO1",
+      "ITU": "ITU",
+      "Student Materials": "Coursebook, PPT presentation",
+      "S-Download": "link1-1",
+      "Student's Tasks": "Take part in doing exercises, group/pair work, class discussion",
+      "URLs": ""
+    },
+    {
+      "Session": "2",
+      "Topic": "Chapter 1 The origins of Language",
+      "Learning-Teaching Type": "offline",
+      "LO": "CLO1",
+      "ITU": "ITU",
+      "Student Materials": "Coursebook, PPT presentation",
+      "S-Download": "",
+      "Student's Tasks": "Take part in doing exercises, group/pair work, class discussion",
+      "URLs": ""
+    },
+    {
+      "Session": "3",
+      "Topic": "Chapter 3 (Cont.) The Sounds of Language",
+      "Learning-Teaching Type": "offline",
+      "LO": "CLO2",
+      "ITU": "ITU",
+      "Student Materials": "Coursebook, PPT presentation",
+      "S-Download": "",
+      "Student's Tasks": "Take part in doing exercises, group/pair work, class discussion. Suggested AI tool: Use Google AI Phonetic Transcriber to convert speech to IPA for phonetic analysis",
+      "URLs": ""
+    },
+    {
+      "Session": "4",
+      "Topic": "Chapter 3 (Cont.) The Sounds of Language",
+      "Learning-Teaching Type": "offline",
+      "LO": "CLO2",
+      "ITU": "ITU",
+      "Student Materials": "Coursebook, PPT presentation",
+      "S-Download": "",
+      "Student's Tasks": "Take part in doing exercises, group/pair work, class discussion. Suggested AI tool: Use Google AI Phonetic Transcriber to convert speech to IPA for phonetic analysis",
+      "URLs": ""
+    },
+    {
+      "Session": "5",
+      "Topic": "Chapter 3 (Cont.) The Sounds of Language",
+      "Learning-Teaching Type": "offline",
+      "LO": "CLO2",
+      "ITU": "ITU",
+      "Student Materials": "Coursebook, PPT presentation",
+      "S-Download": "",
+      "Student's Tasks": "Take part in doing exercises, group/pair work, class discussion. Suggested AI tool: Use Google AI Phonetic Transcriber to convert speech to IPA for phonetic analysis",
+      "URLs": ""
+    },
+    {
+      "Session": "6",
+      "Topic": "\"Chapter 3 (Cont.) The Sounds of Language\"",
+      "Learning-Teaching Type": "offline",
+      "LO": "CLO2",
+      "ITU": "ITU",
+      "Student Materials": "Coursebook, PPT presentation",
+      "S-Download": "",
+      "Student's Tasks": "Take part in doing exercises, group/pair work, class discussion. Suggested AI tool: Use Google AI Phonetic Transcriber to convert speech to IPA for phonetic analysis",
+      "URLs": ""
+    },
+    {
+      "Session": "7",
+      "Topic": "Chapter 3 (Cont.) The Sounds of Language",
+      "Learning-Teaching Type": "offline",
+      "LO": "CLO2",
+      "ITU": "ITU",
+      "Student Materials": "Coursebook, PPT presentation",
+      "S-Download": "",
+      "Student's Tasks": "Take part in doing exercises, group/pair work, class discussion. Suggested AI tool: Use Google AI Phonetic Transcriber to convert speech to IPA for phonetic analysis",
+      "URLs": ""
+    },
+    {
+      "Session": "8",
+      "Topic": "Chapter 3 (Cont.) The Sounds of Language",
+      "Learning-Teaching Type": "offline",
+      "LO": "CLO2",
+      "ITU": "ITU",
+      "Student Materials": "Coursebook, PPT presentation",
+      "S-Download": "",
+      "Student's Tasks": "Take part in doing exercises, group/pair work, class discussion. Suggested AI tool: Use Google AI Phonetic Transcriber to convert speech to IPA for phonetic analysis",
+      "URLs": ""
+    },
+    {
+      "Session": "9",
+      "Topic": "Chapter 4 The Soud Paterns of Language",
+      "Learning-Teaching Type": "offline",
+      "LO": "CLO2",
+      "ITU": "ITU",
+      "Student Materials": "Coursebook, PPT presentation",
+      "S-Download": "",
+      "Student's Tasks": "Take part in doing exercises, group/pair work, class discussion. Suggested AI tool: Use Google AI Phonetic Transcriber to convert speech to IPA for phonetic analysis",
+      "URLs": ""
+    },
+    {
+      "Session": "10",
+      "Topic": "Chapter 4 (Cont.) The Soud Paterns of Language",
+      "Learning-Teaching Type": "offline",
+      "LO": "CLO2",
+      "ITU": "ITU",
+      "Student Materials": "Coursebook, PPT presentation",
+      "S-Download": "",
+      "Student's Tasks": "Take part in doing exercises, group/pair work, class discussion. Suggested AI tool: Use Google AI Phonetic Transcriber to convert speech to IPA for phonetic analysis",
+      "URLs": ""
+    },
+    {
+      "Session": "11",
+      "Topic": "Chapter 4 The Soud Paterns of Language",
+      "Learning-Teaching Type": "offline",
+      "LO": "CLO2",
+      "ITU": "ITU",
+      "Student Materials": "Coursebook, PPT presentation",
+      "S-Download": "",
+      "Student's Tasks": "Take part in doing exercises, group/pair work, class discussion. Suggested AI tool: Use Google AI Phonetic Transcriber to convert speech to IPA for phonetic analysis",
+      "URLs": ""
+    },
+    {
+      "Session": "12",
+      "Topic": "Chapter 4 (Cont.) The Soud Paterns of Language",
+      "Learning-Teaching Type": "offline",
+      "LO": "CLO2",
+      "ITU": "ITU",
+      "Student Materials": "Coursebook, PPT presentation",
+      "S-Download": "",
+      "Student's Tasks": "Take part in doing exercises, group/pair work, class discussion. Suggested AI tool: Use Google AI Phonetic Transcriber to convert speech to IPA for phonetic analysis",
+      "URLs": ""
+    },
+    {
+      "Session": "13",
+      "Topic": "Chapter 5 Word Formation",
+      "Learning-Teaching Type": "offline",
+      "LO": "CLO3",
+      "ITU": "ITU",
+      "Student Materials": "Coursebook, PPT presentation",
+      "S-Download": "",
+      "Student's Tasks": "Take part in doing exercises, group/pair work, class discussion. Suggested AI tool: Use ChatGPT to analyse and check the formation of words (e.g. prefixes, suffixes, etc.)",
+      "URLs": ""
+    },
+    {
+      "Session": "14",
+      "Topic": "Chapter 5 (Cont.) Word Formation",
+      "Learning-Teaching Type": "offline",
+      "LO": "CLO3",
+      "ITU": "ITU",
+      "Student Materials": "Coursebook, PPT presentation",
+      "S-Download": "",
+      "Student's Tasks": "Take part in doing exercises, group/pair work, class discussion. Suggested AI tool: Use ChatGPT to analyse and check the formation of words (e.g. prefixes, suffixes, etc.)",
+      "URLs": ""
+    },
+    {
+      "Session": "15",
+      "Topic": "Chapter 5 Word Formation",
+      "Learning-Teaching Type": "offline",
+      "LO": "CLO3",
+      "ITU": "ITU",
+      "Student Materials": "Coursebook, PPT presentation",
+      "S-Download": "",
+      "Student's Tasks": "Take part in doing exercises, group/pair work, class discussion. Suggested AI tool: Use ChatGPT to analyse and check the formation of words (e.g. prefixes, suffixes, etc.)",
+      "URLs": ""
+    },
+    {
+      "Session": "16",
+      "Topic": "Chapter 5 (Cont.) Word Formation",
+      "Learning-Teaching Type": "offline",
+      "LO": "CLO3",
+      "ITU": "ITU",
+      "Student Materials": "Coursebook, PPT presentation",
+      "S-Download": "",
+      "Student's Tasks": "Take part in doing exercises, group/pair work, class discussion. Suggested AI tool: Use ChatGPT to analyse and check the formation of words (e.g. prefixes, suffixes, etc.)",
+      "URLs": ""
+    },
+    {
+      "Session": "17",
+      "Topic": "Chapter 6 Morphology",
+      "Learning-Teaching Type": "offline",
+      "LO": "CLO3",
+      "ITU": "ITU",
+      "Student Materials": "Coursebook, PPT presentation",
+      "S-Download": "",
+      "Student's Tasks": "Take part in doing exercises, group/pair work, class discussion. Suggested AI tool: Use ChatGPT to analyse and check the formation of words (e.g. prefixes, suffixes, etc.)",
+      "URLs": ""
+    },
+    {
+      "Session": "18",
+      "Topic": "Chapter 6 (Cont.) Morphology",
+      "Learning-Teaching Type": "offline",
+      "LO": "CLO3",
+      "ITU": "ITU",
+      "Student Materials": "Coursebook, PPT presentation",
+      "S-Download": "",
+      "Student's Tasks": "Take part in doing exercises, group/pair work, class discussion. Suggested AI tool: Use ChatGPT to analyse and check the formation of words (e.g. prefixes, suffixes, etc.)",
+      "URLs": ""
+    },
+    {
+      "Session": "19",
+      "Topic": "Chapter 6 Morphology",
+      "Learning-Teaching Type": "offline",
+      "LO": "CLO3",
+      "ITU": "ITU",
+      "Student Materials": "Coursebook, PPT presentation",
+      "S-Download": "",
+      "Student's Tasks": "Take part in doing exercises, group/pair work, class discussion. Suggested AI tool: Use ChatGPT to analyse and check the formation of words (e.g. prefixes, suffixes, etc.)",
+      "URLs": ""
+    },
+    {
+      "Session": "20",
+      "Topic": "Chapter 6 (Cont.) Morphology",
+      "Learning-Teaching Type": "offline",
+      "LO": "CLO3",
+      "ITU": "ITU",
+      "Student Materials": "Coursebook, PPT presentation",
+      "S-Download": "",
+      "Student's Tasks": "Take part in doing exercises, group/pair work, class discussion. Suggested AI tool: Use ChatGPT to analyse and check the formation of words (e.g. prefixes, suffixes, etc.)",
+      "URLs": ""
+    },
+    {
+      "Session": "21",
+      "Topic": "Chapter 7 Grammar",
+      "Learning-Teaching Type": "offline",
+      "LO": "CLO4",
+      "ITU": "ITU",
+      "Student Materials": "Coursebook, PPT presentation",
+      "S-Download": "",
+      "Student's Tasks": "Take part in doing exercises, group/pair work, class discussion. Suggested AI tool: Use Grammarly to check usage in context and suggest alternatives.",
+      "URLs": ""
+    },
+    {
+      "Session": "22",
+      "Topic": "Chapter 7 (Cont.) Grammar",
+      "Learning-Teaching Type": "offline",
+      "LO": "CLO4",
+      "ITU": "ITU",
+      "Student Materials": "Coursebook, PPT presentation",
+      "S-Download": "",
+      "Student's Tasks": "Take part in doing exercises, group/pair work, class discussion. Suggested AI tool: Use Grammarly to check usage in context and suggest alternatives.",
+      "URLs": ""
+    },
+    {
+      "Session": "23",
+      "Topic": "Chapter 7 (Cont.) Grammar",
+      "Learning-Teaching Type": "offline",
+      "LO": "CLO4",
+      "ITU": "ITU",
+      "Student Materials": "Coursebook, PPT presentation",
+      "S-Download": "",
+      "Student's Tasks": "Take part in doing exercises, group/pair work, class discussion. Suggested AI tool: Use Grammarly to check usage in context and suggest alternatives.",
+      "URLs": ""
+    },
+    {
+      "Session": "24",
+      "Topic": "Chapter 7 (Cont.) Grammar",
+      "Learning-Teaching Type": "offline",
+      "LO": "CLO4",
+      "ITU": "ITU",
+      "Student Materials": "Coursebook, PPT presentation",
+      "S-Download": "",
+      "Student's Tasks": "Take part in doing exercises, group/pair work, class discussion. Suggested AI tool: Use Grammarly to check usage in context and suggest alternatives.",
+      "URLs": ""
+    },
+    {
+      "Session": "25",
+      "Topic": "Chapter 8 Syntax",
+      "Learning-Teaching Type": "offline",
+      "LO": "CLO4",
+      "ITU": "ITU",
+      "Student Materials": "Coursebook, PPT presentation",
+      "S-Download": "",
+      "Student's Tasks": "Take part in doing exercises, group/pair work, class discussion. Suggested AI tool: Use ChatGPT to analyse the syntactical relations of phrases and sentences.",
+      "URLs": ""
+    },
+    {
+      "Session": "26",
+      "Topic": "Chapter 8 (Cont.) Syntax",
+      "Learning-Teaching Type": "offline",
+      "LO": "CLO4",
+      "ITU": "ITU",
+      "Student Materials": "Coursebook, PPT presentation",
+      "S-Download": "",
+      "Student's Tasks": "Take part in doing exercises, group/pair work, class discussion. Suggested AI tool: Use ChatGPT to analyse the syntactical relations of phrases and sentences.",
+      "URLs": ""
+    },
+    {
+      "Session": "27",
+      "Topic": "Chapter 8 (Cont.) Syntax",
+      "Learning-Teaching Type": "offline",
+      "LO": "CLO4",
+      "ITU": "ITU",
+      "Student Materials": "Coursebook, PPT presentation",
+      "S-Download": "",
+      "Student's Tasks": "Take part in doing exercises, group/pair work, class discussion. Suggested AI tool: Use ChatGPT to analyse the syntactical relations of phrases and sentences.",
+      "URLs": ""
+    },
+    {
+      "Session": "28",
+      "Topic": "Chapter 8 (Cont.) Syntax",
+      "Learning-Teaching Type": "offline",
+      "LO": "CLO4",
+      "ITU": "ITU",
+      "Student Materials": "Coursebook, PPT presentation",
+      "S-Download": "",
+      "Student's Tasks": "Take part in doing exercises, group/pair work, class discussion. Suggested AI tool: Use ChatGPT to analyse the syntactical relations of phrases and sentences.",
+      "URLs": ""
+    },
+    {
+      "Session": "29",
+      "Topic": "Chapter 8 (Cont.) Syntax",
+      "Learning-Teaching Type": "offline",
+      "LO": "CLO4",
+      "ITU": "ITU",
+      "Student Materials": "Coursebook, PPT presentation",
+      "S-Download": "",
+      "Student's Tasks": "Take part in doing exercises, group/pair work, class discussion. Suggested AI tool: Use ChatGPT to analyse the syntactical relations of phrases and sentences.",
+      "URLs": ""
+    },
+    {
+      "Session": "30",
+      "Topic": "Chapter 8 (Cont.) Syntax",
+      "Learning-Teaching Type": "offline",
+      "LO": "CLO4",
+      "ITU": "ITU",
+      "Student Materials": "Coursebook, PPT presentation",
+      "S-Download": "",
+      "Student's Tasks": "Take part in doing exercises, group/pair work, class discussion. Suggested AI tool: Use ChatGPT to analyse the syntactical relations of phrases and sentences.",
+      "URLs": ""
+    },
+    {
+      "Session": "31",
+      "Topic": "Chapter 8 (Cont.) Syntax",
+      "Learning-Teaching Type": "offline",
+      "LO": "CLO4",
+      "ITU": "ITU",
+      "Student Materials": "Coursebook, PPT presentation",
+      "S-Download": "",
+      "Student's Tasks": "Take part in doing exercises, group/pair work, class discussion. Suggested AI tool: Use ChatGPT to analyse the syntactical relations of phrases and sentences.",
+      "URLs": ""
+    },
+    {
+      "Session": "32",
+      "Topic": "Assignment",
+      "Learning-Teaching Type": "offline",
+      "LO": "CLO 1->6",
+      "ITU": "U",
+      "Student Materials": "",
+      "S-Download": "",
+      "Student's Tasks": "Presentation and review",
+      "URLs": ""
+    },
+    {
+      "Session": "33",
+      "Topic": "Assignment",
+      "Learning-Teaching Type": "offline",
+      "LO": "CLO 1->6",
+      "ITU": "U",
+      "Student Materials": "",
+      "S-Download": "",
+      "Student's Tasks": "Presentation and review",
+      "URLs": ""
+    },
+    {
+      "Session": "34",
+      "Topic": "Assignment",
+      "Learning-Teaching Type": "offline",
+      "LO": "CLO 1->6",
+      "ITU": "U",
+      "Student Materials": "",
+      "S-Download": "",
+      "Student's Tasks": "Presentation and review",
+      "URLs": ""
+    },
+    {
+      "Session": "35",
+      "Topic": "Chapter 9 Semantics",
+      "Learning-Teaching Type": "offline",
+      "LO": "CLO4",
+      "ITU": "ITU",
+      "Student Materials": "Coursebook, PPT presentation",
+      "S-Download": "",
+      "Student's Tasks": "Take part in doing exercises, group/pair work, class discussion. Suggested AI tool: Use Linguakit/Syntactic analyzer to analyze sentence structure and semantic roles; Semantic role labeling and contextual analysis.",
+      "URLs": ""
+    },
+    {
+      "Session": "36",
+      "Topic": "Chapter 9 (Cont.) Semantics",
+      "Learning-Teaching Type": "offline",
+      "LO": "CLO4",
+      "ITU": "ITU",
+      "Student Materials": "Coursebook, PPT presentation",
+      "S-Download": "",
+      "Student's Tasks": "Take part in doing exercises, group/pair work, class discussion. Suggested AI tool: Use Linguakit/Syntactic analyzer to analyze sentence structure and semantic roles; Semantic role labeling and contextual analysis.",
+      "URLs": ""
+    },
+    {
+      "Session": "37",
+      "Topic": "Chapter 9 (Cont.) Semantics",
+      "Learning-Teaching Type": "offline",
+      "LO": "CLO4",
+      "ITU": "ITU",
+      "Student Materials": "Coursebook, PPT presentation",
+      "S-Download": "",
+      "Student's Tasks": "Take part in doing exercises, group/pair work, class discussion. Suggested AI tool: Use Linguakit/Syntactic analyzer to analyze sentence structure and semantic roles; Semantic role labeling and contextual analysis.",
+      "URLs": ""
+    },
+    {
+      "Session": "38",
+      "Topic": "Chapter 9 (Cont.) Semantics",
+      "Learning-Teaching Type": "offline",
+      "LO": "CLO4",
+      "ITU": "ITU",
+      "Student Materials": "Coursebook, PPT presentation",
+      "S-Download": "",
+      "Student's Tasks": "Take part in doing exercises, group/pair work, class discussion. Suggested AI tool: Use Linguakit/Syntactic analyzer to analyze sentence structure and semantic roles; Semantic role labeling and contextual analysis.",
+      "URLs": ""
+    },
+    {
+      "Session": "39",
+      "Topic": "Chapter 9 (Cont.) Semantics",
+      "Learning-Teaching Type": "offline",
+      "LO": "CLO4",
+      "ITU": "ITU",
+      "Student Materials": "Coursebook, PPT presentation",
+      "S-Download": "",
+      "Student's Tasks": "Take part in doing exercises, group/pair work, class discussion. Suggested AI tool: Use Linguakit/Syntactic analyzer to analyze sentence structure and semantic roles; Semantic role labeling and contextual analysis.",
+      "URLs": ""
+    },
+    {
+      "Session": "40",
+      "Topic": "Chapter 9 (Cont.) Semantics",
+      "Learning-Teaching Type": "offline",
+      "LO": "CLO4",
+      "ITU": "ITU",
+      "Student Materials": "Coursebook, PPT presentation",
+      "S-Download": "",
+      "Student's Tasks": "Take part in doing exercises, group/pair work, class discussion. Suggested AI tool: Use Linguakit/Syntactic analyzer to analyze sentence structure and semantic roles; Semantic role labeling and contextual analysis.",
+      "URLs": ""
+    },
+    {
+      "Session": "41",
+      "Topic": "Chapter 9 (Cont.) Semantics",
+      "Learning-Teaching Type": "offline",
+      "LO": "CLO5",
+      "ITU": "ITU",
+      "Student Materials": "Coursebook, PPT presentation",
+      "S-Download": "",
+      "Student's Tasks": "Take part in doing exercises, group/pair work, class discussion. Suggested AI tool: Use Linguakit/Syntactic analyzer to analyze sentence structure and semantic roles; Semantic role labeling and contextual analysis.",
+      "URLs": ""
+    },
+    {
+      "Session": "42",
+      "Topic": "Chapter 9 (Cont.) Semantics",
+      "Learning-Teaching Type": "offline",
+      "LO": "CLO5",
+      "ITU": "ITU",
+      "Student Materials": "Coursebook, PPT presentation",
+      "S-Download": "",
+      "Student's Tasks": "Take part in doing exercises, group/pair work, class discussion. Suggested AI tool: Use Linguakit/Syntactic analyzer to analyze sentence structure and semantic roles; Semantic role labeling and contextual analysis.",
+      "URLs": ""
+    },
+    {
+      "Session": "43",
+      "Topic": "Chapter 10 Pragmatics",
+      "Learning-Teaching Type": "offline",
+      "LO": "CLO5",
+      "ITU": "ITU",
+      "Student Materials": "Coursebook, PPT presentation",
+      "S-Download": "",
+      "Student's Tasks": "Take part in doing exercises, group/pair work, class discussion. Suggested AI tool: Use Discourse Analyzer AI Toolkit to analyse texts in discourses, pragmatics and implicature",
+      "URLs": ""
+    },
+    {
+      "Session": "44",
+      "Topic": "Chapter 10 (Cont.) Pragmatics",
+      "Learning-Teaching Type": "offline",
+      "LO": "CLO5",
+      "ITU": "ITU",
+      "Student Materials": "Coursebook, PPT presentation",
+      "S-Download": "",
+      "Student's Tasks": "Take part in doing exercises, group/pair work, class discussion. Suggested AI tool: Use Discourse Analyzer AI Toolkit to analyse texts in discourses, pragmatics and implicature",
+      "URLs": ""
+    },
+    {
+      "Session": "45",
+      "Topic": "Chapter 10 (Cont.) Pragmatics",
+      "Learning-Teaching Type": "offline",
+      "LO": "CLO5",
+      "ITU": "ITU",
+      "Student Materials": "Coursebook, PPT presentation",
+      "S-Download": "",
+      "Student's Tasks": "Take part in doing exercises, group/pair work, class discussion. Suggested AI tool: Use Discourse Analyzer AI Toolkit to analyse texts in discourses, pragmatics and implicature",
+      "URLs": ""
+    },
+    {
+      "Session": "46",
+      "Topic": "Chapter 10 (Cont.) Pragmatics",
+      "Learning-Teaching Type": "offline",
+      "LO": "CLO5",
+      "ITU": "ITU",
+      "Student Materials": "Coursebook, PPT presentation",
+      "S-Download": "",
+      "Student's Tasks": "Take part in doing exercises, group/pair work, class discussion. Suggested AI tool: Use Discourse Analyzer AI Toolkit to analyse texts in discourses, pragmatics and implicature",
+      "URLs": ""
+    },
+    {
+      "Session": "47",
+      "Topic": "Chapter 10 (Cont.) Pragmatics",
+      "Learning-Teaching Type": "offline",
+      "LO": "CLO5",
+      "ITU": "ITU",
+      "Student Materials": "Coursebook, PPT presentation",
+      "S-Download": "",
+      "Student's Tasks": "Take part in doing exercises, group/pair work, class discussion. Suggested AI tool: Use Discourse Analyzer AI Toolkit to analyse texts in discourses, pragmatics and implicature",
+      "URLs": ""
+    },
+    {
+      "Session": "48",
+      "Topic": "Chapter 10 (Cont.) Pragmatics",
+      "Learning-Teaching Type": "offline",
+      "LO": "CLO5",
+      "ITU": "ITU",
+      "Student Materials": "Coursebook, PPT presentation",
+      "S-Download": "",
+      "Student's Tasks": "Take part in doing exercises, group/pair work, class discussion. Suggested AI tool: Use Discourse Analyzer AI Toolkit to analyse texts in discourses, pragmatics and implicature",
+      "URLs": ""
+    },
+    {
+      "Session": "49",
+      "Topic": "Chapter 10 (Cont.) Pragmatics",
+      "Learning-Teaching Type": "offline",
+      "LO": "CLO6",
+      "ITU": "ITU",
+      "Student Materials": "Coursebook, PPT presentation",
+      "S-Download": "",
+      "Student's Tasks": "Take part in doing exercises, group/pair work, class discussion. Suggested AI tool: Use Discourse Analyzer AI Toolkit to analyse texts in discourses, pragmatics and implicature",
+      "URLs": ""
+    },
+    {
+      "Session": "50",
+      "Topic": "Chapter 10 (Cont.) Pragmatics",
+      "Learning-Teaching Type": "offline",
+      "LO": "CLO6",
+      "ITU": "ITU",
+      "Student Materials": "Coursebook, PPT presentation",
+      "S-Download": "",
+      "Student's Tasks": "Take part in doing exercises, group/pair work, class discussion. Suggested AI tool: Use Discourse Analyzer AI Toolkit to analyse texts in discourses, pragmatics and implicature",
+      "URLs": ""
+    },
+    {
+      "Session": "51",
+      "Topic": "Chaper 12 Language and the Brain",
+      "Learning-Teaching Type": "offline",
+      "LO": "CLO6",
+      "ITU": "ITU",
+      "Student Materials": "Coursebook, PPT presentation",
+      "S-Download": "",
+      "Student's Tasks": "Take part in doing exercises, group/pair work, class discussion. Suggested AI tool: Use ChatGPT to search and analyse the relationships between human brain and language.",
+      "URLs": ""
+    },
+    {
+      "Session": "52",
+      "Topic": "Chaper 12 (Cont.) Language and the Brain",
+      "Learning-Teaching Type": "offline",
+      "LO": "CLO6",
+      "ITU": "ITU",
+      "Student Materials": "Coursebook, PPT presentation",
+      "S-Download": "",
+      "Student's Tasks": "Take part in doing exercises, group/pair work, class discussion. Suggested AI tool: Use ChatGPT to search and analyse the relationships between human brain and language.",
+      "URLs": ""
+    },
+    {
+      "Session": "53",
+      "Topic": "Chaper 13 First Language Acquisition",
+      "Learning-Teaching Type": "offline",
+      "LO": "CLO6",
+      "ITU": "ITU",
+      "Student Materials": "Coursebook, PPT presentation",
+      "S-Download": "",
+      "Student's Tasks": "Take part in doing exercises, group/pair work, class discussion. Suggested AI tool: Use ChatGPT to search, analyse and compare first and second language acquisition",
+      "URLs": ""
+    },
+    {
+      "Session": "54",
+      "Topic": "Chaper 13 (Cont.) First Language Acquisition",
+      "Learning-Teaching Type": "offline",
+      "LO": "CLO6",
+      "ITU": "ITU",
+      "Student Materials": "Coursebook, PPT presentation",
+      "S-Download": "",
+      "Student's Tasks": "Take part in doing exercises, group/pair work, class discussion. Suggested AI tool: Use ChatGPT to search, analyse and compare first and second language acquisition",
+      "URLs": ""
+    },
+    {
+      "Session": "55",
+      "Topic": "Chapter 14 Second Language Acquisition",
+      "Learning-Teaching Type": "offline",
+      "LO": "CLO6",
+      "ITU": "U",
+      "Student Materials": "Coursebook, PPT presentation",
+      "S-Download": "",
+      "Student's Tasks": "Take part in doing exercises, group/pair work, class discussion. Suggested AI tool: Use ChatGPT to search, analyse and compare first and second language acquisition",
+      "URLs": ""
+    },
+    {
+      "Session": "56",
+      "Topic": "Chaper 13 First Language Acquisition",
+      "Learning-Teaching Type": "offline",
+      "LO": "CLO6",
+      "ITU": "U",
+      "Student Materials": "Coursebook, PPT presentation",
+      "S-Download": "",
+      "Student's Tasks": "Take part in doing exercises, group/pair work, class discussion. Suggested AI tool: Use ChatGPT to search, analyse and compare first and second language acquisition",
+      "URLs": ""
+    },
+    {
+      "Session": "57",
+      "Topic": "Assignment",
+      "Learning-Teaching Type": "offline",
+      "LO": "CLO1->6",
+      "ITU": "U",
+      "Student Materials": "",
+      "S-Download": "",
+      "Student's Tasks": "Presentation and review",
+      "URLs": ""
+    },
+    {
+      "Session": "58",
+      "Topic": "Assignment",
+      "Learning-Teaching Type": "offline",
+      "LO": "CLO1->6",
+      "ITU": "U",
+      "Student Materials": "",
+      "S-Download": "",
+      "Student's Tasks": "Presentation and review",
+      "URLs": ""
+    },
+    {
+      "Session": "59",
+      "Topic": "Assignment",
+      "Learning-Teaching Type": "offline",
+      "LO": "CLO1->6",
+      "ITU": "U",
+      "Student Materials": "",
+      "S-Download": "",
+      "Student's Tasks": "Presentation and review",
+      "URLs": ""
+    },
+    {
+      "Session": "60",
+      "Topic": "Final Project Review",
+      "Learning-Teaching Type": "offline",
+      "LO": "CLO1->8",
+      "ITU": "U",
+      "Student Materials": "",
+      "S-Download": "",
+      "Student's Tasks": "Presentation and review",
+      "URLs": ""
+    }
+  ],
+  "constructive_questions": [
+    {
+      "No.": "1",
+      "Session No": "1",
+      "Name": "CT_CQ1.1",
+      "Details": "What are the major speculations about the origins of human language? Briefly explain them."
+    },
+    {
+      "No.": "2",
+      "Session No": "2",
+      "Name": "CT_CQ1.2",
+      "Details": "What is the connection between the innateness hypothesis, as described in this chapter, and the idea of a Universal Grammar?"
+    },
+    {
+      "No.": "3",
+      "Session No": "3",
+      "Name": "CT_CQ1.3",
+      "Details": "What is a phonetic alphabet? Why is it important to have a standardized phonetic alphabet like the International Phonetic Alphabet?"
+    },
+    {
+      "No.": "4",
+      "Session No": "4",
+      "Name": "CT_CQ2.1",
+      "Details": "What are some English consonants that you pay much attention to? What is the main difference between pronouncing voiced and voiceless speech sounds?"
+    },
+    {
+      "No.": "5",
+      "Session No": "5",
+      "Name": "CT_CQ2.2",
+      "Details": "What are the different types of consonants on the basis of the place of articulation? Describe how to pronounce two consonants."
+    },
+    {
+      "No.": "6",
+      "Session No": "6",
+      "Name": "CT_CQ2.3",
+      "Details": "What are the different types of consonants based on the manner of articulation? Describe how to pronounce two consonants."
+    },
+    {
+      "No.": "7",
+      "Session No": "7",
+      "Name": "CT_CQ3.1",
+      "Details": "How are English vowels classified? What are the differences and similarities between the sounds [i:] and [u:] in English?"
+    },
+    {
+      "No.": "8",
+      "Session No": "8",
+      "Name": "CT_CQ3.2",
+      "Details": "What are the similarities and the differences between consonants and vowels? Why is it difficult to help learners pronounce vowel sounds correctly?"
+    },
+    {
+      "No.": "9",
+      "Session No": "9",
+      "Name": "CT_CQ3.3",
+      "Details": "What is a natural class? What evidence exists to demonstrate that the three sounds [m,n,ŋ] belong to the same natural class?"
+    },
+    {
+      "No.": "10",
+      "Session No": "10",
+      "Name": "CT_CQ4.1",
+      "Details": "What is the difference between an allophone and a phoneme? Provide examples."
+    },
+    {
+      "No.": "11",
+      "Session No": "11",
+      "Name": "CT_CQ4.2",
+      "Details": "How are open syllables different from closed syllables? What is a consonant cluster? Provide examples in which the onset or the coda has a consonant cluster."
+    },
+    {
+      "No.": "12",
+      "Session No": "12",
+      "Name": "CT_CQ4.3",
+      "Details": "What is co-articulation? Give examples of three different processes of co-articulation."
+    },
+    {
+      "No.": "13",
+      "Session No": "13",
+      "Name": "CT_CQ5.1",
+      "Details": "What is borrowing? Provide examples of which words in English are borrowed from other languages. Are Vietnamese words formed by the borrowing? If yes, give examples."
+    },
+    {
+      "No.": "14",
+      "Session No": "14",
+      "Name": "CT_CQ5.2",
+      "Details": "How can new words be created by different processes such as compounding, clipping, conversion, or coinage? Provide examples."
+    },
+    {
+      "No.": "15",
+      "Session No": "15",
+      "Name": "CT_CQ5.3",
+      "Details": "What is the difference between a prefix and a suffix? Give examples. Can an English word be formed by a combination of different processes? Provide examples."
+    },
+    {
+      "No.": "16",
+      "Session No": "16",
+      "Name": "CT_CQ6.1",
+      "Details": "What are the similarities and differences between English and Vietnamese word formations?"
+    },
+    {
+      "No.": "17",
+      "Session No": "17",
+      "Name": "CT_CQ6.2",
+      "Details": "What are morphemes? Give examples. What is the difference between a free morpheme and a bound morpheme?"
+    },
+    {
+      "No.": "18",
+      "Session No": "18",
+      "Name": "CT_CQ6.3",
+      "Details": "What are the differences between derivational and inflectional morphemes? Provide examples of each type."
+    },
+    {
+      "No.": "19",
+      "Session No": "19",
+      "Name": "CT_CQ7.1",
+      "Details": "What are allomorphs? Provide examples."
+    },
+    {
+      "No.": "20",
+      "Session No": "20",
+      "Name": "CT_CQ7.2",
+      "Details": "What can be the differences in morphological processes between English and other languages? Provide examples."
+    },
+    {
+      "No.": "21",
+      "Session No": "21",
+      "Name": "CT_CQ7.3",
+      "Details": "In what ways is studying grammar more or less important compared to other language components?"
+    },
+    {
+      "No.": "22",
+      "Session No": "22",
+      "Name": "CT_CQ8.1",
+      "Details": "In what ways are natural gender and grammatical gender relevant to each other?"
+    },
+    {
+      "No.": "23",
+      "Session No": "23",
+      "Name": "CT_CQ8.2",
+      "Details": "Which should come first in language learning: the descriptive or prescriptive approach?"
+    },
+    {
+      "No.": "24",
+      "Session No": "24",
+      "Name": "CT_CQ8.3",
+      "Details": "Which language is more flexible in word orders: English or Vietnamese?"
+    },
+    {
+      "No.": "25",
+      "Session No": "25",
+      "Name": "CT_CQ9.1",
+      "Details": "What could be the differences and similarities between syntax and grammar?"
+    },
+    {
+      "No.": "26",
+      "Session No": "26",
+      "Name": "CT_CQ9.2",
+      "Details": "In what ways is applying syntactic rules advantageous and disadvantageous to language learners? Use examples to demonstrate."
+    },
+    {
+      "No.": "27",
+      "Session No": "27",
+      "Name": "CT_CQ9.3",
+      "Details": "How do deep structure and surface structure relate to each other?"
+    },
+    {
+      "No.": "28",
+      "Session No": "28",
+      "Name": "CT_CQ10.1",
+      "Details": "In what ways are structural and lexical ambiguity supportive or destructive for communication purposes? Use examples to demonstrate."
+    },
+    {
+      "No.": "29",
+      "Session No": "29",
+      "Name": "CT_CQ10.2",
+      "Details": "How are \"competence\" and \"performance\" relevant to each other in the study of syntax? What could be done to enhance both of them?"
+    },
+    {
+      "No.": "30",
+      "Session No": "30",
+      "Name": "CT_CQ10.3",
+      "Details": "In what ways can syntactic tree diagrams help learners understand sentence construction?"
+    },
+    {
+      "No.": "31",
+      "Session No": "31",
+      "Name": "CT_CQ11.1",
+      "Details": "How does the syntax tree help clarify meanings when a sentence is structurally ambiguous? Demonstrate with examples?"
+    },
+    {
+      "No.": "32",
+      "Session No": "33",
+      "Name": "CT_CQ11.2",
+      "Details": "Why are some grammatical sentences meaningless?"
+    },
+    {
+      "No.": "33",
+      "Session No": "34",
+      "Name": "CT_CQ12.1",
+      "Details": "Why do semantics matter to interlocutors and language students?"
+    },
+    {
+      "No.": "34",
+      "Session No": "35",
+      "Name": "CT_CQ12.2",
+      "Details": "Why are synonymous words not interchangeable in expression?"
+    },
+    {
+      "No.": "35",
+      "Session No": "36",
+      "Name": "CT_CQ12.3",
+      "Details": "How could you classify the three main types of antonyms: gradable, non-gradable, and reversives? Demonstrate with examples."
+    },
+    {
+      "No.": "36",
+      "Session No": "37",
+      "Name": "CT_CQ13.1",
+      "Details": "In what ways is semantics a barrier to communication? How do you get over semantic barriers? Demonstrate with examples."
+    },
+    {
+      "No.": "37",
+      "Session No": "38",
+      "Name": "CT_CQ13.2",
+      "Details": "In which aspect should language learners focus more: syntax or semantics?"
+    },
+    {
+      "No.": "38",
+      "Session No": "39",
+      "Name": "CT_CQ13.3",
+      "Details": "What is the relationship between syntax and semantics?"
+    },
+    {
+      "No.": "39",
+      "Session No": "40",
+      "Name": "CT_CQ14.1",
+      "Details": "Why do some people insist on arguing about semantics? How do you debate with someone who is using semantics?"
+    },
+    {
+      "No.": "40",
+      "Session No": "42",
+      "Name": "CT_CQ14.2",
+      "Details": "Why is pragmatics called the study of invisible meaning? Provide illustrations."
+    },
+    {
+      "No.": "41",
+      "Session No": "43",
+      "Name": "CT_CQ15.1",
+      "Details": "Why is context important to interpreting meaning?"
+    },
+    {
+      "No.": "42",
+      "Session No": "44",
+      "Name": "CT_CQ15.2",
+      "Details": "How can reference be used by a speaker (or a writer)? Provide different illustrations."
+    },
+    {
+      "No.": "43",
+      "Session No": "45",
+      "Name": "CT_CQ15.3",
+      "Details": "How can linguistic messages be designed on the basis of presuppositions? Provide illustrations."
+    },
+    {
+      "No.": "44",
+      "Session No": "46",
+      "Name": "CT_CQ16.1",
+      "Details": "What can pragmatic markers be used for? Provide illustrations."
+    },
+    {
+      "No.": "45",
+      "Session No": "47",
+      "Name": "CT_CQ16.2",
+      "Details": "What is the difference between a negative face and a positive face? Provide illustrations."
+    },
+    {
+      "No.": "46",
+      "Session No": "48",
+      "Name": "CT_CQ16.3",
+      "Details": "What is the diference between direct and indirect speech acts? Provide illustrations."
+    },
+    {
+      "No.": "47",
+      "Session No": "49",
+      "Name": "CT_CQ17.1",
+      "Details": "What areas of the brain are believed to be related to language functions? Provide explanations."
+    },
+    {
+      "No.": "48",
+      "Session No": "50",
+      "Name": "CT_CQ17.2",
+      "Details": "What is aphasia? What specific difficulties in language would someone have when having different types of aphasia?"
+    },
+    {
+      "No.": "49",
+      "Session No": "51",
+      "Name": "CT_CQ17.3",
+      "Details": "How would normal children develop their language since they were born until three years of age?"
+    },
+    {
+      "No.": "50",
+      "Session No": "52",
+      "Name": "CT_CQ18.1",
+      "Details": "How would normal children develop their morphology and syntax?"
+    },
+    {
+      "No.": "51",
+      "Session No": "53",
+      "Name": "CT_CQ18.2",
+      "Details": "What are different approaches that focus on teaching or the learner? Which can benefit students more: a positive transfer or a negative transfer? Why?"
+    },
+    {
+      "No.": "52",
+      "Session No": "54",
+      "Name": "CT_CQ18.3",
+      "Details": "What are the different components of communicative competence?"
+    }
+  ],
+  "materials": [
+    {
+      "No.": "1",
+      "Material Description": "Lecturer Resources: PPT format, Test bank Student Rsources: Quick quizzes, Study guide and answer key, Flashcards",
+      "Author": "",
+      "Publisher": "",
+      "Published Date": "",
+      "Edition": "",
+      "ISBN": "",
+      "Is Main Material": "False",
+      "Is Hard Copy": "False",
+      "Is Online": "False",
+      "Note": ""
+    },
+    {
+      "No.": "2",
+      "Material Description": "The Study of Language",
+      "Author": "George Yule",
+      "Publisher": "Cambridge University Press",
+      "Published Date": "2022",
+      "Edition": "8th",
+      "ISBN": "9781009233408",
+      "Is Main Material": "False",
+      "Is Hard Copy": "True",
+      "Is Online": "False",
+      "Note": ""
+    },
+    {
+      "No.": "3",
+      "Material Description": "The Study of Language 6th and 7th Edition",
+      "Author": "George Yule",
+      "Publisher": "Cambridge University Press",
+      "Published Date": "2016",
+      "Edition": "6th & 7th",
+      "ISBN": "9 781316 606759 or 9781108730709",
+      "Is Main Material": "True",
+      "Is Hard Copy": "True",
+      "Is Online": "False",
+      "Note": ""
+    }
+  ],
+  "source_path": "data/raw/syllabi/14441.html",
+  "id": "syllabus:14441"
+}

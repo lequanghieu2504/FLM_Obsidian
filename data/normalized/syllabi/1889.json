@@ -1,0 +1,560 @@
+{
+  "syllabus_id": 1889,
+  "subject_code": "TPG301",
+  "subject_name": "Typography 2",
+  "syllabus_name": "Typography & E-publication (Typography & E-publication)",
+  "credits": 3,
+  "degree_level": "<Bachelor level>",
+  "time_allocation": "30 slots, 1 slot = 90 minutes",
+  "prerequisite": "TPG202",
+  "general_information": {
+    "Syllabus ID": "1889",
+    "Syllabus Name": "Typography & E-publication (Typography & E-publication)",
+    "Course Name English": "",
+    "Subject Code": "TPG301",
+    "Learning-Teaching Method": "",
+    "NoCredit": "3",
+    "Degree Level": "<Bachelor level>",
+    "Time Allocation": "30 slots, 1 slot = 90 minutes",
+    "Pre-Requisite": "TPG202",
+    "Description": "This course will explore existing modern typographical ideas and techniques and attempt to expand on students’ typographical range. Students will investigate the communication of content and the emotional qualities of text. Students will further develop their visual and conceptual fluency and create integrated communication design solutions. Emphasis will be placed on using typography, aesthetics, and composition to construct meaningful imagery and effectively solve communication problems. This course uses the art of typography, aesthetic element,..., to build up ideas and apply them in designing products for graphic design such as: publication, branding systems.",
+    "StudentTasks": "- Attend more than 80% of contact hours in order to be accepted to the final examination - Actively participate in class activities - Fulfil tasks given by intructor after class - Use their own laptop in class only for learning purpose - Read the textbook in advance - Access the course website (www.cms.fpt.edu.vn) for up-to-date information and material of the course, for online supports from teachers and other students and for practicing and assessment. - Computer with some version of photograph editing software such as Photoshop, Microsoft Word for written assignments, and POWERPOINT for presentations - Have color papers, Color Pencils, scissors... - Complete course's Portfolio with full contents of exercises and submit to the teacher 1 day after the course.",
+    "Tools": "",
+    "Scoring Scale": "10",
+    "DecisionNo MM/dd/yyyy": "823/QĐ-ĐHFPT dated 08/14/2020",
+    "IsApproved": "True",
+    "Note": "",
+    "Is Scored": "True",
+    "MinAvgMarkToPass": "5",
+    "IsActive": "True",
+    "ApprovedDate": "8/14/2020"
+  },
+  "active": true,
+  "approved": true,
+  "decision": "823/QĐ-ĐHFPT dated 08/14/2020",
+  "description": "This course will explore existing modern typographical ideas and techniques and attempt to expand on students’ typographical range. Students will investigate the communication of content and the emotional qualities of text. Students will further develop their visual and conceptual fluency and create integrated communication design solutions. Emphasis will be placed on using typography, aesthetics, and composition to construct meaningful imagery and effectively solve communication problems. This course uses the art of typography, aesthetic element,..., to build up ideas and apply them in designing products for graphic design such as: publication, branding systems.",
+  "learning_outcomes": [
+    {
+      "No.": "1",
+      "CLO Name": "CLO1",
+      "CLO Details": "Understand typographic and layout conventions used in the work of others"
+    },
+    {
+      "No.": "2",
+      "CLO Name": "CLO2",
+      "CLO Details": "Know terminology used within typographic and layout design"
+    },
+    {
+      "No.": "3",
+      "CLO Name": "CLO3",
+      "CLO Details": "Know grids systems, structural systems, alignments for typographic layout"
+    },
+    {
+      "No.": "4",
+      "CLO Name": "CLO4",
+      "CLO Details": "Apply the principles of hierarchy and dominance to typographic elements."
+    },
+    {
+      "No.": "5",
+      "CLO Name": "CLO5",
+      "CLO Details": "Create works implementing typographic best practices"
+    },
+    {
+      "No.": "6",
+      "CLO Name": "CLO6",
+      "CLO Details": "Appreciate typography’s role in design and understand its potential for effective communication"
+    },
+    {
+      "No.": "7",
+      "CLO Name": "CLO7",
+      "CLO Details": "Organize words and images in design layouts using typographic structural systems, alignments and grids."
+    },
+    {
+      "No.": "8",
+      "CLO Name": "CLO8",
+      "CLO Details": "Develop an understanding of the language of typography, which includes critical theory, critique, history, technology, and craftsmanship"
+    },
+    {
+      "No.": "9",
+      "CLO Name": "CLO9",
+      "CLO Details": "Be able to evaluate own typographic and layout design outcomes."
+    }
+  ],
+  "assessments": [
+    {
+      "No.": "1",
+      "Category": "Class participation and preparation",
+      "Type": "on-going",
+      "Part": "1",
+      "Weight": "10.0%",
+      "Completion Criteria": ">0",
+      "Duration": "",
+      "CLO": "",
+      "Question Type": "",
+      "No Question": "",
+      "Knowledge and Skill": "",
+      "Grading Guide": "- Participation grade will be given based on students' attendance, preparation, and quantity as well as quality of participation in classroom; quality of participation is demonstrated through asking relevant questions, making statements that add to and facilitate class discussion, and builds upon others’ comments. - Teacher give marks on student's student's Class participation and preparation only after the Portfolio submission.",
+      "Note": ""
+    },
+    {
+      "No.": "2",
+      "Category": "Practice 1",
+      "Type": "on-going",
+      "Part": "1",
+      "Weight": "40.0%",
+      "Completion Criteria": ">0",
+      "Duration": "13 slot",
+      "CLO": "LO1, LO2, LO3, LO4, LO5, LO9",
+      "Question Type": "Portfolio and Presentation",
+      "No Question": "1",
+      "Knowledge and Skill": "Based on topics of units",
+      "Grading Guide": "Idea: 2 Design: 5 Presentation Documents: 2 Presentation Skill: 1",
+      "Note": ""
+    },
+    {
+      "No.": "3",
+      "Category": "Practice 2",
+      "Type": "on-going",
+      "Part": "1",
+      "Weight": "40.0%",
+      "Completion Criteria": ">0",
+      "Duration": "11 slot",
+      "CLO": "LO3, LO4, LO6, LO5, LO7, LO8, LO9",
+      "Question Type": "Portfolio and Presentation",
+      "No Question": "1",
+      "Knowledge and Skill": "Based on topics of units",
+      "Grading Guide": "Idea: 2 Design: 5 Presentation Documents: 2 Presentation Skill: 1",
+      "Note": ""
+    },
+    {
+      "No.": "4",
+      "Category": "Progress Test",
+      "Type": "on-going",
+      "Part": "1",
+      "Weight": "10.0%",
+      "Completion Criteria": ">0",
+      "Duration": "30 mins",
+      "CLO": "LO1, LO2, LO3, LO7",
+      "Question Type": "Multi-choice",
+      "No Question": "25",
+      "Knowledge and Skill": "Based on topics of units",
+      "Grading Guide": "outcome based",
+      "Note": ""
+    }
+  ],
+  "schedule": [
+    {
+      "Session": "1",
+      "Topic": "3. Legibility Basic principles of Legibility Legibility and Digital Typography Typographic detail Book 1: Construction of the type area Construction of the grid The Photograph in the grid system The illustration in the grid system Solid tint in the grid system Book 2: Phase 5: Managing assets",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO1, LO2, LO3",
+      "ITU": "IT",
+      "Student Materials": "Textbook, References, Slide",
+      "S-Download": "TPG301",
+      "Student's Tasks": "",
+      "URLs": ""
+    },
+    {
+      "Session": "2",
+      "Topic": "4. The Typographic grid Back ground Structure and Space Proportion The square Single column grids Multicolumn grids Modular grids Improvisational Structures Book 1: Construction of the type area Construction of the grid The Photograph in the grid system The illustration in the grid system Solid tint in the grid system Book 2: Phase 5: Managing assets",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO1, LO2, LO3",
+      "ITU": "IT",
+      "Student Materials": "Textbook, References, Slide",
+      "S-Download": "TPG301",
+      "Student's Tasks": "",
+      "URLs": ""
+    },
+    {
+      "Session": "3",
+      "Topic": "10. Case Studies in Typographic Design The US National Park Service unigrid system Book design: VAS: An Opera in Fatland Infornation design: Metropolitan World Atlas",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO1, LO2, LO3",
+      "ITU": "Introduce Teach",
+      "Student Materials": "Textbook, References, Slide",
+      "S-Download": "",
+      "Student's Tasks": "",
+      "URLs": ""
+    },
+    {
+      "Session": "4",
+      "Topic": "PRACTICE 1: Designing a simple Book",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO4, LO5, LO9",
+      "ITU": "Utilize",
+      "Student Materials": "Textbook, References, Slide",
+      "S-Download": "",
+      "Student's Tasks": "INDIVIDUAL WORK - Starting with the simplest books: novels, memoirs, essays, and narrative nonfiction. - Book construction: Each part of the book has its role to play and its assigned place in the whole. - Cover design basics - Fonts for text: There’s no bigger decision a designer makes than selecting the fonts that will be used for the book’s text. - Fonts for display: Knowing how to choose and combine typefaces is critical for the designer. - Architecture of the book page: Building pages and spreads is at the heart of book design. - Non-text book elements: Every book incorporates elements that are outside the text itself, like notes, bibliographies, part- and chapter-opening pages, captions, sidebars, pull-quotes, and others. Each has to blend well with the rest of the book, and stand out when necessary. - Max 32 paper",
+      "URLs": ""
+    },
+    {
+      "Session": "5",
+      "Topic": "PRACTICE 1: Designing a simple Book",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO4, LO5, LO9",
+      "ITU": "Utilize",
+      "Student Materials": "Textbook, References, Slide",
+      "S-Download": "",
+      "Student's Tasks": "",
+      "URLs": ""
+    },
+    {
+      "Session": "6",
+      "Topic": "PRACTICE 1: Designing a simple Book",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO4, LO5, LO9",
+      "ITU": "Utilize",
+      "Student Materials": "Textbook, References, Slide",
+      "S-Download": "",
+      "Student's Tasks": "",
+      "URLs": ""
+    },
+    {
+      "Session": "7",
+      "Topic": "PRACTICE 1: Designing a simple Book",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO4, LO5, LO9",
+      "ITU": "Utilize",
+      "Student Materials": "Textbook, References, Slide",
+      "S-Download": "",
+      "Student's Tasks": "",
+      "URLs": ""
+    },
+    {
+      "Session": "8",
+      "Topic": "PRACTICE 1: Designing a simple Book",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO4, LO5, LO9",
+      "ITU": "Utilize",
+      "Student Materials": "Textbook, References, Slide",
+      "S-Download": "",
+      "Student's Tasks": "",
+      "URLs": ""
+    },
+    {
+      "Session": "9",
+      "Topic": "PRACTICE 1: Designing a simple Book",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO4, LO5, LO9",
+      "ITU": "Utilize",
+      "Student Materials": "Textbook, References, Slide",
+      "S-Download": "",
+      "Student's Tasks": "",
+      "URLs": ""
+    },
+    {
+      "Session": "10",
+      "Topic": "PRACTICE 1: Designing a simple Book",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO4, LO5, LO9",
+      "ITU": "Utilize",
+      "Student Materials": "Textbook, References, Slide",
+      "S-Download": "",
+      "Student's Tasks": "",
+      "URLs": ""
+    },
+    {
+      "Session": "11",
+      "Topic": "PRACTICE 1: Designing a simple Book",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO4, LO5, LO9",
+      "ITU": "Utilize",
+      "Student Materials": "Textbook, References, Slide",
+      "S-Download": "",
+      "Student's Tasks": "",
+      "URLs": ""
+    },
+    {
+      "Session": "12",
+      "Topic": "PRACTICE 1: Designing a simple Book",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO4, LO5, LO9",
+      "ITU": "Utilize",
+      "Student Materials": "Textbook, References, Slide",
+      "S-Download": "",
+      "Student's Tasks": "",
+      "URLs": ""
+    },
+    {
+      "Session": "13",
+      "Topic": "PRACTICE 1: Designing a simple Book",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO4, LO5, LO9",
+      "ITU": "Utilize",
+      "Student Materials": "Textbook, References, Slide",
+      "S-Download": "",
+      "Student's Tasks": "",
+      "URLs": ""
+    },
+    {
+      "Session": "14",
+      "Topic": "PRACTICE 1: Designing a simple Book",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO4, LO5, LO9",
+      "ITU": "Utilize",
+      "Student Materials": "Textbook, References, Slide",
+      "S-Download": "",
+      "Student's Tasks": "",
+      "URLs": ""
+    },
+    {
+      "Session": "15",
+      "Topic": "PRACTICE 1: Designing a simple Book",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO4, LO5, LO9",
+      "ITU": "Utilize",
+      "Student Materials": "Textbook, References, Slide",
+      "S-Download": "",
+      "Student's Tasks": "- Complete and print Book - Students are responsible for printing the products and paying the printing cost.",
+      "URLs": ""
+    },
+    {
+      "Session": "16",
+      "Topic": "- Final Practice 1 - Review and grade",
+      "Learning-Teaching Type": "Offline",
+      "LO": "",
+      "ITU": "",
+      "Student Materials": "",
+      "S-Download": "",
+      "Student's Tasks": "",
+      "URLs": ""
+    },
+    {
+      "Session": "17",
+      "Topic": "Text book 12. Typographic Design process A traditional Model Reference: Book 2 Brand Basic Brand Ideals Brand elements Brand dynamics Process basic Phase 3: Designing identity Phase 4: Creating touchpoints",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO3, LO4, LO6",
+      "ITU": "T",
+      "Student Materials": "Textbook, References, Slide",
+      "S-Download": "",
+      "Student's Tasks": "",
+      "URLs": ""
+    },
+    {
+      "Session": "18",
+      "Topic": "Text book 12. Typographic Design process A traditional Model Reference: Book 2 Brand Basic Brand Ideals Brand elements Brand dynamics Process basic Phase 3: Designing identity Phase 4: Creating touchpoints",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO3, LO4, LO6",
+      "ITU": "T",
+      "Student Materials": "Textbook, References, Slide",
+      "S-Download": "",
+      "Student's Tasks": "",
+      "URLs": ""
+    },
+    {
+      "Session": "19",
+      "Topic": "PRACTICE 2: Designing a Brand Identity",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO5, LO7, LO8, LO9",
+      "ITU": "Utilize",
+      "Student Materials": "Textbook, References, Slide",
+      "S-Download": "",
+      "Student's Tasks": "TEAM WORK '- Students are divided into groups (3-4 students/group) - Students are required to select their specialized topics with the Lecture - Teacher and students discuss, evaluate, comment on each project - Members in each group should do + Brandstorming + Mindmap + Word list + Visual notation",
+      "URLs": ""
+    },
+    {
+      "Session": "20",
+      "Topic": "PRACTICE 2: Designing a Brand Identity",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO5, LO7, LO8, LO9",
+      "ITU": "Utilize",
+      "Student Materials": "Textbook, References, Slide",
+      "S-Download": "",
+      "Student's Tasks": "- Design - Use Typo to design Logotype or Word mark - Use Logotype or Word mark to design Identity System",
+      "URLs": ""
+    },
+    {
+      "Session": "21",
+      "Topic": "PRACTICE 2: Designing a Brand Identity",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO5, LO7, LO8, LO9",
+      "ITU": "Utilize",
+      "Student Materials": "Textbook, References, Slide",
+      "S-Download": "",
+      "Student's Tasks": "",
+      "URLs": ""
+    },
+    {
+      "Session": "22",
+      "Topic": "PRACTICE 2: Designing a Brand Identity",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO5, LO7, LO8, LO9",
+      "ITU": "Utilize",
+      "Student Materials": "Textbook, References, Slide",
+      "S-Download": "",
+      "Student's Tasks": "",
+      "URLs": ""
+    },
+    {
+      "Session": "23",
+      "Topic": "PRACTICE 2: Designing a Brand Identity",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO5, LO7, LO8, LO9",
+      "ITU": "Utilize",
+      "Student Materials": "Textbook, References, Slide",
+      "S-Download": "",
+      "Student's Tasks": "",
+      "URLs": ""
+    },
+    {
+      "Session": "24",
+      "Topic": "PRACTICE 2: Designing a Brand Identity",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO5, LO7, LO8, LO9",
+      "ITU": "Utilize",
+      "Student Materials": "Textbook, References, Slide",
+      "S-Download": "",
+      "Student's Tasks": "",
+      "URLs": ""
+    },
+    {
+      "Session": "25",
+      "Topic": "PRACTICE 2: Designing a Brand Identity",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO5, LO7, LO8, LO9",
+      "ITU": "Utilize",
+      "Student Materials": "Textbook, References, Slide",
+      "S-Download": "",
+      "Student's Tasks": "",
+      "URLs": ""
+    },
+    {
+      "Session": "26",
+      "Topic": "PRACTICE 2: Designing a Brand Identity",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO5, LO7, LO8, LO9",
+      "ITU": "Utilize",
+      "Student Materials": "Textbook, References, Slide",
+      "S-Download": "",
+      "Student's Tasks": "",
+      "URLs": ""
+    },
+    {
+      "Session": "27",
+      "Topic": "PRACTICE 2: Designing a Brand Identity",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO5, LO7, LO8, LO9",
+      "ITU": "Utilize",
+      "Student Materials": "Textbook, References, Slide",
+      "S-Download": "",
+      "Student's Tasks": "- Complete and print all products - Students are responsible for printing the products and paying the printing cost.",
+      "URLs": ""
+    },
+    {
+      "Session": "28",
+      "Topic": "- Final Practice 2 - Review and grade",
+      "Learning-Teaching Type": "Offline",
+      "LO": "",
+      "ITU": "",
+      "Student Materials": "",
+      "S-Download": "",
+      "Student's Tasks": "",
+      "URLs": ""
+    },
+    {
+      "Session": "29",
+      "Topic": "- Final Practice 2 - Review and grade",
+      "Learning-Teaching Type": "Offline",
+      "LO": "",
+      "ITU": "",
+      "Student Materials": "",
+      "S-Download": "",
+      "Student's Tasks": "",
+      "URLs": ""
+    },
+    {
+      "Session": "30",
+      "Topic": "Progress Test",
+      "Learning-Teaching Type": "Offline",
+      "LO": "",
+      "ITU": "",
+      "Student Materials": "",
+      "S-Download": "",
+      "Student's Tasks": "",
+      "URLs": ""
+    }
+  ],
+  "constructive_questions": [],
+  "materials": [
+    {
+      "No.": "1",
+      "Material Description": "Typographic Design: Form and Communication",
+      "Author": "",
+      "Publisher": "",
+      "Published Date": "",
+      "Edition": "",
+      "ISBN": "978-1118715765",
+      "Is Main Material": "True",
+      "Is Hard Copy": "True",
+      "Is Online": "False",
+      "Note": ""
+    },
+    {
+      "No.": "2",
+      "Material Description": "Grid Systems in Graphic Design - Raster Systeme für die Visuelle Gestaltung",
+      "Author": "",
+      "Publisher": "",
+      "Published Date": "",
+      "Edition": "",
+      "ISBN": "978-3721201451",
+      "Is Main Material": "False",
+      "Is Hard Copy": "False",
+      "Is Online": "False",
+      "Note": ""
+    },
+    {
+      "No.": "3",
+      "Material Description": "Designing Brand Identity: An Essential Guide for the Whole Branding Team",
+      "Author": "",
+      "Publisher": "",
+      "Published Date": "",
+      "Edition": "",
+      "ISBN": "978-1118099209",
+      "Is Main Material": "False",
+      "Is Hard Copy": "False",
+      "Is Online": "False",
+      "Note": ""
+    },
+    {
+      "No.": "4",
+      "Material Description": "http://thinkingwithtype.com",
+      "Author": "",
+      "Publisher": "",
+      "Published Date": "",
+      "Edition": "",
+      "ISBN": "",
+      "Is Main Material": "False",
+      "Is Hard Copy": "False",
+      "Is Online": "True",
+      "Note": ""
+    },
+    {
+      "No.": "5",
+      "Material Description": "https://www.smashingmagazine.com",
+      "Author": "",
+      "Publisher": "",
+      "Published Date": "",
+      "Edition": "",
+      "ISBN": "",
+      "Is Main Material": "False",
+      "Is Hard Copy": "False",
+      "Is Online": "True",
+      "Note": ""
+    },
+    {
+      "No.": "6",
+      "Material Description": "https://www.aiga.org",
+      "Author": "",
+      "Publisher": "",
+      "Published Date": "",
+      "Edition": "",
+      "ISBN": "",
+      "Is Main Material": "False",
+      "Is Hard Copy": "False",
+      "Is Online": "True",
+      "Note": ""
+    }
+  ],
+  "source_path": "data/raw/syllabi/1889.html",
+  "id": "syllabus:1889"
+}

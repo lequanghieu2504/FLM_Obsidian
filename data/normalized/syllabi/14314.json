@@ -1,0 +1,279 @@
+{
+  "syllabus_id": 14314,
+  "subject_code": "DPS201c",
+  "subject_name": "Dynamic Public Speaking_Nghệ thuật Diễn thuyết trước công chúng",
+  "syllabus_name": "Dynamic Public Speaking_Nghệ thuật Diễn thuyết trước công chúng",
+  "credits": 3,
+  "degree_level": "Bachelor",
+  "time_allocation": "Study hour (150h) = 62h online + 3h offline + 1h Final exam + 84 self-study",
+  "prerequisite": "None",
+  "general_information": {
+    "Syllabus ID": "14314",
+    "Syllabus Name": "Dynamic Public Speaking_Nghệ thuật Diễn thuyết trước công chúng",
+    "Course Name English": "Dynamic Public Speaking",
+    "Subject Code": "DPS201c",
+    "Learning-Teaching Method": "Online",
+    "NoCredit": "3",
+    "Degree Level": "Bachelor",
+    "Time Allocation": "Study hour (150h) = 62h online + 3h offline + 1h Final exam + 84 self-study",
+    "Pre-Requisite": "None",
+    "Description": "This course is designed for speakers at all levels, especially those who feel nervous about public speaking. Through gradual, hands-on practice, learners build confidence and master key speaking skills before delivering full speeches. Students will learn the basics of public speaking and how to communicate effectively in different contexts: explaining complex ideas clearly with engaging slides, persuading audiences with strong arguments and impactful language, and inspiring listeners through ceremonial and motivational speeches. In the applied learning project, learners design, practice, record, and receive feedback on speeches they can use in real-life situations. By the end of the course, they will be able to create compelling presentations and develop a portfolio of polished speeches.",
+    "StudentTasks": "1. Join the online course(s) when being invited by the admin. 2. Enroll in the courses, regularly study the course at least 5hrs/week by watching videos, reading materials, taking quizzes, doing assignments... as required 3. Respect the Coursera Code of Conduct, at https://learner.coursera.help/hc/en-us/articles/208280036-Coursera-Code-of-Conduct 4. Keep up with online learning progress (bonus will be awarded) 5. Communicate and discuss in forum 6. Attend offline sessions in the Campus (Optional) 7. Must complete the course(s) with certification(s) in order to take the Final Exam at Campus",
+    "Tools": "Computer Internet",
+    "Scoring Scale": "10",
+    "DecisionNo MM/dd/yyyy": "444/QĐ-ĐHFPT dated 04/23/2026",
+    "IsApproved": "True",
+    "Note": "1) Ongoing assessment: Students who complete all MOOCs before the course deadline will receive 1 bonus point; otherwise, no bonus point will be awarded. 2) Theoretical Exam (TE) 3) Final Result (FR) = min (10, TE + Bonus) 4) Completion Criteria: TE>=4 and FR>=5",
+    "Is Scored": "True",
+    "MinAvgMarkToPass": "5",
+    "IsActive": "True",
+    "ApprovedDate": "4/23/2026"
+  },
+  "active": true,
+  "approved": true,
+  "decision": "444/QĐ-ĐHFPT dated 04/23/2026",
+  "description": "This course is designed for speakers at all levels, especially those who feel nervous about public speaking. Through gradual, hands-on practice, learners build confidence and master key speaking skills before delivering full speeches. Students will learn the basics of public speaking and how to communicate effectively in different contexts: explaining complex ideas clearly with engaging slides, persuading audiences with strong arguments and impactful language, and inspiring listeners through ceremonial and motivational speeches. In the applied learning project, learners design, practice, record, and receive feedback on speeches they can use in real-life situations. By the end of the course, they will be able to create compelling presentations and develop a portfolio of polished speeches.",
+  "learning_outcomes": [
+    {
+      "No.": "1",
+      "CLO Name": "CLO1",
+      "CLO Details": "Comprehend and develop confidence and foundational skills for effective public speaking."
+    },
+    {
+      "No.": "2",
+      "CLO Name": "CLO2",
+      "CLO Details": "Explain complex ideas using engaging language and visual aids."
+    },
+    {
+      "No.": "3",
+      "CLO Name": "CLO3",
+      "CLO Details": "Be able to craft and deliver persuasive speeches supported by logical arguments and impactful language."
+    },
+    {
+      "No.": "4",
+      "CLO Name": "CLO4",
+      "CLO Details": "Be able to deliver ceremonial and motivational speeches that emotionally engage and inspire audiences."
+    }
+  ],
+  "assessments": [
+    {
+      "No.": "1",
+      "Category": "Theoretical Exam (TE)",
+      "Type": "Final exam",
+      "Part": "1",
+      "Weight": "100.0%",
+      "Completion Criteria": "4",
+      "Duration": "60'",
+      "CLO": "All LOs",
+      "Question Type": "Multiple choice and case study",
+      "No Question": "50",
+      "Knowledge and Skill": "The whole course content.",
+      "Grading Guide": "by Exam Board",
+      "Note": ""
+    }
+  ],
+  "schedule": [
+    {
+      "Session": "1",
+      "Topic": "(Off-line 1.5h) Introduction to the online course MOOC 1: Introduction to Public Speaking - Module 1: Understanding speech - Module 2: Making ideas compelling and memorable",
+      "Learning-Teaching Type": "Online, Offline",
+      "LO": "CLO1",
+      "ITU": "I,T",
+      "Student Materials": "MOOC 1: Introduction to Public Speaking",
+      "S-Download": "",
+      "Student's Tasks": "Enroll in the specialization on Coursera for FPT University Platform '- Watch all videos, read all materials in the module/ course - Finish quizzes, self-assessment, assignments and take part in discussion boards (if there are any)",
+      "URLs": ""
+    },
+    {
+      "Session": "2",
+      "Topic": "MOOC 1: Introduction to Public Speaking - Module 3: Illustrating and delivering your ideas - Module 4: Overcoming your fear of public speaking and developing great delivery",
+      "Learning-Teaching Type": "Online",
+      "LO": "CLO1",
+      "ITU": "I,T",
+      "Student Materials": "MOOC 1: Introduction to Public Speaking",
+      "S-Download": "",
+      "Student's Tasks": "- Watch all videos, read all materials in the module/ course - Finish quizzes, self-assessment, assignments and take part in discussion boards (if there are any)",
+      "URLs": ""
+    },
+    {
+      "Session": "3",
+      "Topic": "MOOC 1: Introduction to Public Speaking - Module 5: Course conclusion and your final speech MOOC 2: Speaking to inform: Discussing complex ideas with clear explanations and dynamic slides - Module 1: Targeting your presentation - Module 2: Designing informative speeches",
+      "Learning-Teaching Type": "Online",
+      "LO": "CLO1, CLO2",
+      "ITU": "I,T, U",
+      "Student Materials": "MOOC 1: Introduction to Public Speaking MOOC 2: Speaking to inform: Discussing complex ideas with clear explanations and dynamic slides",
+      "S-Download": "",
+      "Student's Tasks": "- Watch all videos, read all materials in the module/ course - Finish quizzes, self-assessment, assignments and take part in discussion boards (if there are any)",
+      "URLs": ""
+    },
+    {
+      "Session": "4",
+      "Topic": "MOOC 2: Speaking to inform: Discussing complex ideas with clear explanations and dynamic slides - Module 3: Clarity through support and slides - Module 4: Delivering informative speeches",
+      "Learning-Teaching Type": "Online",
+      "LO": "CLO2",
+      "ITU": "I,T,U",
+      "Student Materials": "MOOC 2: Speaking to inform: Discussing complex ideas with clear explanations and dynamic slides",
+      "S-Download": "",
+      "Student's Tasks": "- Watch all videos, read all materials in the module/ course - Finish quizzes, self-assessment, assignments and take part in discussion boards (if there are any)",
+      "URLs": ""
+    },
+    {
+      "Session": "5",
+      "Topic": "MOOC 2: Speaking to inform: Discussing complex ideas with clear explanations and dynamic slides - Module 5: Review and assessment - Module 6: Review and assessment: lesson choices",
+      "Learning-Teaching Type": "Online",
+      "LO": "CLO2",
+      "ITU": "I,T,U",
+      "Student Materials": "MOOC 2: Speaking to inform: Discussing complex ideas with clear explanations and dynamic slides",
+      "S-Download": "",
+      "Student's Tasks": "- It is expected that all students engage in the review session and contribute to any debates that may occur.",
+      "URLs": ""
+    },
+    {
+      "Session": "6",
+      "Topic": "MOOC 3: Speaking to persuade: Motivating audiences with solid arguments and moving language - Module 1: Welcome. Let's develop a persuasive argument - Module 2: Designing your persuasive speech",
+      "Learning-Teaching Type": "Online",
+      "LO": "CLO3",
+      "ITU": "I,T,U",
+      "Student Materials": "MOOC 3: Speaking to persuade: Motivating audiences with solid arguments and moving language",
+      "S-Download": "",
+      "Student's Tasks": "- Watch all videos, read all materials in the module/ course - Finish quizzes, self-assessment, assignments and take part in discussion boards (if there are any)",
+      "URLs": ""
+    },
+    {
+      "Session": "7",
+      "Topic": "MOOC 3: Speaking to persuade: Motivating audiences with solid arguments and moving language - Module 3: Strategic and motivational language - Module 4: Compelling delivery",
+      "Learning-Teaching Type": "Online",
+      "LO": "CLO2",
+      "ITU": "I,T,U",
+      "Student Materials": "MOOC 3: Speaking to persuade: Motivating audiences with solid arguments and moving language",
+      "S-Download": "",
+      "Student's Tasks": "- Watch all videos, read all materials in the module/ course - Finish quizzes, self-assessment, assignments and take part in discussion boards (if there are any)",
+      "URLs": ""
+    },
+    {
+      "Session": "8",
+      "Topic": "MOOC 3: Speaking to persuade: Motivating audiences with solid arguments and moving language - Module 5: Review and assessment - Module 6: Review and assessment: Lesson Choices",
+      "Learning-Teaching Type": "Online",
+      "LO": "CLO3",
+      "ITU": "I,T,U",
+      "Student Materials": "MOOC 3: Speaking to persuade: Motivating audiences with solid arguments and moving language",
+      "S-Download": "",
+      "Student's Tasks": "- Watch all videos, read all materials in the module/ course - Finish quizzes, self-assessment, assignments and take part in discussion boards (if there are any)",
+      "URLs": ""
+    },
+    {
+      "Session": "9",
+      "Topic": "MOOC 4: Speaking to Inspire: Ceremonial and Motivational Speeches - Module 1: Using values and storytelling to develop a great speech - Module 2: Arrangement. Finding the right form for your speech.",
+      "Learning-Teaching Type": "Online",
+      "LO": "CLO4",
+      "ITU": "I,T,U",
+      "Student Materials": "MOOC 4: Speaking to Inspire: Ceremonial and Motivational Speeches",
+      "S-Download": "",
+      "Student's Tasks": "- Watch all videos, read all materials in the modules/ course - Finish quizzes, self-assessment, assignments and take part in discussion boards (if there are any)",
+      "URLs": ""
+    },
+    {
+      "Session": "10",
+      "Topic": "MOOC 4: Speaking to Inspire: Ceremonial and Motivational Speeches - Module 3: Getting it just right. Good language, tone, and writing for the delivery - Module 4: Remembering and delivering a great speech",
+      "Learning-Teaching Type": "Online",
+      "LO": "CLO4",
+      "ITU": "I,T,U",
+      "Student Materials": "MOOC 4: Speaking to Inspire: Ceremonial and Motivational Speeches",
+      "S-Download": "",
+      "Student's Tasks": "- Watch all videos, read all materials in the module/ course - Finish quizzes, self-assessment, assignments and take part in discussion boards (if there are any)",
+      "URLs": ""
+    },
+    {
+      "Session": "11",
+      "Topic": "MOOC 4: Speaking to Inspire: Ceremonial and Motivational Speeches - Module 5: Review and assessment - Module 6: Review and assessment: Lesson Choices",
+      "Learning-Teaching Type": "Online",
+      "LO": "CLO4",
+      "ITU": "I,T,U",
+      "Student Materials": "MOOC 4: Speaking to Inspire: Ceremonial and Motivational Speeches",
+      "S-Download": "",
+      "Student's Tasks": "- Watch all videos, read all materials in the module/ course - Finish quizzes, self-assessment, assignments and take part in discussion boards (if there are any)",
+      "URLs": ""
+    },
+    {
+      "Session": "12",
+      "Topic": "Review MOOC 1,2,3,4 Deadline of Coursera completion: End of Friday of the week.",
+      "Learning-Teaching Type": "Online, Offline",
+      "LO": "CLO1, CLO2, CLO3, CLO4",
+      "ITU": "ITU",
+      "Student Materials": "Dynamic Public Speaking Specialization",
+      "S-Download": "",
+      "Student's Tasks": "- It is expected that all students engage in the review session and contribute to any debates that may occur.",
+      "URLs": ""
+    }
+  ],
+  "constructive_questions": [],
+  "materials": [
+    {
+      "No.": "1",
+      "Material Description": "MOOC 3: Speaking to persuade: Motivating audiences with solid arguments and moving language",
+      "Author": "",
+      "Publisher": "Coursera",
+      "Published Date": "",
+      "Edition": "",
+      "ISBN": "",
+      "Is Main Material": "True",
+      "Is Hard Copy": "False",
+      "Is Online": "True",
+      "Note": "https://www.coursera.org/learn/persuade-speech?specialization=public-speaking"
+    },
+    {
+      "No.": "2",
+      "Material Description": "MOOC 1: Introduction to Public Speaking",
+      "Author": "",
+      "Publisher": "Coursera",
+      "Published Date": "",
+      "Edition": "",
+      "ISBN": "",
+      "Is Main Material": "True",
+      "Is Hard Copy": "False",
+      "Is Online": "True",
+      "Note": "https://www.coursera.org/learn/public-speaking?specialization=public-speaking"
+    },
+    {
+      "No.": "3",
+      "Material Description": "MOOC 2: Speaking to inform: Discussing complex ideas with clear explanations and dynamic slides",
+      "Author": "",
+      "Publisher": "Coursera",
+      "Published Date": "",
+      "Edition": "",
+      "ISBN": "",
+      "Is Main Material": "True",
+      "Is Hard Copy": "False",
+      "Is Online": "True",
+      "Note": "https://www.coursera.org/learn/inform-speech?specialization=public-speaking"
+    },
+    {
+      "No.": "4",
+      "Material Description": "MOOC 4: Speaking to Inspire: Ceremonial and Motivational Speeches",
+      "Author": "",
+      "Publisher": "Coursera",
+      "Published Date": "",
+      "Edition": "",
+      "ISBN": "",
+      "Is Main Material": "True",
+      "Is Hard Copy": "False",
+      "Is Online": "True",
+      "Note": "https://www.coursera.org/learn/speak-to-inspire-ceremonial-motivational-speeches?specialization=public-speaking"
+    },
+    {
+      "No.": "5",
+      "Material Description": "Dynamic Public Speaking Specialization (62h)",
+      "Author": "",
+      "Publisher": "Coursera",
+      "Published Date": "",
+      "Edition": "",
+      "ISBN": "",
+      "Is Main Material": "True",
+      "Is Hard Copy": "False",
+      "Is Online": "True",
+      "Note": "https://www.coursera.org/specializations/public-speaking?msockid=3a69b956ec2d6e9d05b7a8feed3f6f5d"
+    }
+  ],
+  "source_path": "data/raw/syllabi/14314.html",
+  "id": "syllabus:14314"
+}

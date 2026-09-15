@@ -1,0 +1,581 @@
+{
+  "syllabus_id": 883,
+  "subject_code": "DRS101",
+  "subject_name": "Drawing - Form, Still-life",
+  "syllabus_name": "Drawing - Form, still-life",
+  "credits": 3,
+  "degree_level": "Bachelor",
+  "time_allocation": "30 slot",
+  "prerequisite": "",
+  "general_information": {
+    "Syllabus ID": "883",
+    "Syllabus Name": "Drawing - Form, still-life",
+    "Course Name English": "",
+    "Subject Code": "DRS101",
+    "Learning-Teaching Method": "",
+    "NoCredit": "3",
+    "Degree Level": "Bachelor",
+    "Time Allocation": "30 slot",
+    "Pre-Requisite": "",
+    "Description": "Drawing subject illustrates the basic content of the painting to give students the general concept for further studying of ratio, morphology, shape, characteristics, state of people and objects in relation to space and environment by dark-bright contrasts. Through the process of research, students will grasp the basic principles of descriptive geometry while enhancing the aesthetic awareness. Drawing is the knowledge basement for students to understand the structure, proportions, shapes to serve the art works. In the process of practice and studies descriptive geometry, students shall gain a wealth of knowledge and resources to support artistic creation. Drawing helps students understand the aesthetic standards and enhance the aesthetic emotions, which is the basis for artistic creativity. -The subject will be carried out in the drawing studio with specific requirements on learning materials. -Students familiarize themselves with drawing tools and correct pencil holding style, the notions of color, shadows, dark shadow, reflection, etc. and with the basic fragment and hatch techniques in drawing. Then, students study methods of rendering, theory of light and materials through the study of the basic shapes: spherical shape, cubic shape, etc. .. still life objects and plaster cast fragmentation head.",
+    "StudentTasks": "- Attend more than 80% of contact hours in order to be accepted to the final examination - Actively participate in class activities - Fulfil tasks given by intructor after class - Use their own laptop in class only for learning purpose - Read the textbook and references in advance - Access the course website (www.cms.fpt.edu.vn) for up-to-date information and material of the course, for online supports from teachers and other students and for practicing and assessment. - Complete course's Portfolio with full contents of exercises and submit to the teacher 1 day after the course.",
+    "Tools": "1. School: a) For students: - Easel. - 40 x 60 (cm) size board. - 60 x 90 (cm) size board. b) For drawing studio: - 02 pedestal, podium: 120L x 70W x 100H (cm) - 05 drapery samples, size 150x150 (cm), five colors: black, white, grey , blue and brown. - Plaster cast basic shapes: spherical shape, cone shape, cylinder shape, cubic shape...plaster cast fragmentation head. - Still-life objects: plastic fruits, drapery flowers, stainless steel kettle, tea set. - Vase: pottery, ceramic, glass. - 01 shelves - 01 projector. 2. Student: - Graphite pencil or Charcoal pencil. - Drawing tube. - Eraser - Gauges, wires, clamps, pins... - A2 size drawing paper - Knife. - Gauges, wires, clamps, pins... - A2 size drawing paper - Knife.",
+    "Scoring Scale": "10",
+    "DecisionNo MM/dd/yyyy": "1467/QĐ-ĐHFPT dated 12/26/2017",
+    "IsApproved": "True",
+    "Note": "",
+    "Is Scored": "True",
+    "MinAvgMarkToPass": "5",
+    "IsActive": "True",
+    "ApprovedDate": "12/26/2017"
+  },
+  "active": true,
+  "approved": true,
+  "decision": "1467/QĐ-ĐHFPT dated 12/26/2017",
+  "description": "Drawing subject illustrates the basic content of the painting to give students the general concept for further studying of ratio, morphology, shape, characteristics, state of people and objects in relation to space and environment by dark-bright contrasts. Through the process of research, students will grasp the basic principles of descriptive geometry while enhancing the aesthetic awareness. Drawing is the knowledge basement for students to understand the structure, proportions, shapes to serve the art works. In the process of practice and studies descriptive geometry, students shall gain a wealth of knowledge and resources to support artistic creation. Drawing helps students understand the aesthetic standards and enhance the aesthetic emotions, which is the basis for artistic creativity. -The subject will be carried out in the drawing studio with specific requirements on learning materials. -Students familiarize themselves with drawing tools and correct pencil holding style, the notions of color, shadows, dark shadow, reflection, etc. and with the basic fragment and hatch techniques in drawing. Then, students study methods of rendering, theory of light and materials through the study of the basic shapes: spherical shape, cubic shape, etc. .. still life objects and plaster cast fragmentation head.",
+  "learning_outcomes": [
+    {
+      "No.": "1",
+      "CLO Name": "CLO1",
+      "CLO Details": "Understand what the drawing is."
+    },
+    {
+      "No.": "2",
+      "CLO Name": "CLO2",
+      "CLO Details": "Understand why to sketch by using straight lines."
+    },
+    {
+      "No.": "3",
+      "CLO Name": "CLO3",
+      "CLO Details": "Analyze the relation between objects and light sources."
+    },
+    {
+      "No.": "4",
+      "CLO Name": "CLO4",
+      "CLO Details": "Define hightlights, shadow areas, cast shadows and reflected light. Understand what the value is."
+    },
+    {
+      "No.": "5",
+      "CLO Name": "CLO5",
+      "CLO Details": "Analyze the unique properties of objects."
+    },
+    {
+      "No.": "6",
+      "CLO Name": "CLO6",
+      "CLO Details": "Memorize the ideal proportion of human head."
+    },
+    {
+      "No.": "7",
+      "CLO Name": "CLO7",
+      "CLO Details": "Use drawing tools effectively. Use the ways that measure objects. Create the illusion of three dimensions in a two-dimensional space."
+    },
+    {
+      "No.": "8",
+      "CLO Name": "CLO8",
+      "CLO Details": "Know how to make layout a drawing. Use the ways to make fragmentation and hatch."
+    },
+    {
+      "No.": "9",
+      "CLO Name": "CLO9",
+      "CLO Details": "Know how to measure angles and find measurement unit."
+    },
+    {
+      "No.": "10",
+      "CLO Name": "CLO10",
+      "CLO Details": "Demonstrate the unique properties of objects."
+    },
+    {
+      "No.": "11",
+      "CLO Name": "CLO11",
+      "CLO Details": "Transfer the color of objects into monochrome drawing."
+    },
+    {
+      "No.": "12",
+      "CLO Name": "CLO12",
+      "CLO Details": "Know how to make layout a plaster cast fragmentation head drawing. Explain how to determine the ideal. proportion of human head. Determine the facial basic line."
+    }
+  ],
+  "assessments": [
+    {
+      "No.": "1",
+      "Category": "Participation",
+      "Type": "on-going",
+      "Part": "1",
+      "Weight": "10.0%",
+      "Completion Criteria": ">0",
+      "Duration": "",
+      "CLO": "",
+      "Question Type": "",
+      "No Question": "",
+      "Knowledge and Skill": "",
+      "Grading Guide": "- Participation grade will be given based on students' attendance, preparation, and quantity as well as quality of participation in classroom; quality of participation is demonstrated through asking relevant questions, making statements that add to and facilitate class discussion, and builds upon others’ comments. - Teacher gives marks on student's Class participation and preparation only after the Portfolio submission.",
+      "Note": ""
+    },
+    {
+      "No.": "2",
+      "Category": "Progress test",
+      "Type": "on-going",
+      "Part": "1",
+      "Weight": "15.0%",
+      "Completion Criteria": ">0",
+      "Duration": "30 minute",
+      "CLO": "LO1, LO2, LO3, LO4, LO5, LO6, LO7, LO8, LO9, LO10, LO11, LO12",
+      "Question Type": "Multiple-choice",
+      "No Question": "25",
+      "Knowledge and Skill": "Knowledges on main-text,",
+      "Grading Guide": "The computer-based multiple choice test will be carried out at the end of the course with the support of the examination department in setting testing system.",
+      "Note": ""
+    },
+    {
+      "No.": "3",
+      "Category": "Unit 1",
+      "Type": "on-going",
+      "Part": "1",
+      "Weight": "15.0%",
+      "Completion Criteria": ">0",
+      "Duration": "06 slot",
+      "CLO": "LO1, LO2, LO3, LO6, LO7, LO8",
+      "Question Type": "practice",
+      "No Question": "1",
+      "Knowledge and Skill": "Knowledges on main-text, Slide and Teacher's Resource,",
+      "Grading Guide": "Students practices drawing. Lecturer evaluates and grades the student's drawings. Scoring scale (10 points): - Built up: create overall ratio of the object accurately. Ratio of every single object, part must be match with overall layout. Build up object's structure correctly without distortion. (4 points) - Block and planes: create accurately fragments in accordance to the structure, suitable and appropriate values. (2 points) - Demonstration: demonstrate values correctly in accordance to real space of objects, hence enable virtual space upon drawings. Though such demonstration, material and shade of objects are presented. (1 point) - Technique: clear outline, good dark-bright and bold-light contrast, describe properties of objects (1 point) - Emphasis: emphasis object's details reasonably (1 point). - Emotion: demonstrate feelings and aesthetic (1 point).",
+      "Note": ""
+    },
+    {
+      "No.": "4",
+      "Category": "Unit 2",
+      "Type": "on-going",
+      "Part": "1",
+      "Weight": "15.0%",
+      "Completion Criteria": ">0",
+      "Duration": "06 slot",
+      "CLO": "LO4, LO9",
+      "Question Type": "practice",
+      "No Question": "1",
+      "Knowledge and Skill": "Knowledges on main-text, Slide and Teacher's Resource,",
+      "Grading Guide": "Students practices drawing. Lecturer evaluates and grades the student's drawings. Scoring scale (10 points): - Built up: create overall ratio of the object accurately. Ratio of every single object, part must be match with overall layout. Build up object's structure correctly without distortion. (4 points) - Block and planes: create accurately fragments in accordance to the structure, suitable and appropriate values. (2 points) - Demonstration: demonstrate values correctly in accordance to real space of objects, hence enable virtual space upon drawings. Though such demonstration, material and shade of objects are presented. (1 point) - Technique: clear outline, good dark-bright and bold-light contrast, describe properties of objects (1 point) - Emphasis: emphasis object's details reasonably (1 point). - Emotion: demonstrate feelings and aesthetic (1 point).",
+      "Note": ""
+    },
+    {
+      "No.": "5",
+      "Category": "Unit 3",
+      "Type": "on-going",
+      "Part": "1",
+      "Weight": "15.0%",
+      "Completion Criteria": ">0",
+      "Duration": "06 slot",
+      "CLO": "LO5, LO10, LO11",
+      "Question Type": "practice",
+      "No Question": "1",
+      "Knowledge and Skill": "Knowledges on main-text, Slide and Teacher's Resource,",
+      "Grading Guide": "Students practices drawing. Lecturer evaluates and grades the student's drawings. Scoring scale (10 points): - Built up: create overall ratio of the object accurately. Ratio of every single object, part must be match with overall layout. Build up object's structure correctly without distortion. (4 points) - Block and planes: create accurately fragments in accordance to the structure, suitable and appropriate values. (2 points) - Demonstration: demonstrate values correctly in accordance to real space of objects, hence enable virtual space upon drawings. Though such demonstration, material and shade of objects are presented. (1 point) - Technique: clear outline, good dark-bright and bold-light contrast, describe properties of objects (1 point) - Emphasis: emphasis object's details reasonably (1 point). - Emotion: demonstrate feelings and aesthetic (1 point).",
+      "Note": ""
+    },
+    {
+      "No.": "6",
+      "Category": "Unit 4",
+      "Type": "on-going",
+      "Part": "1",
+      "Weight": "15.0%",
+      "Completion Criteria": ">0",
+      "Duration": "06 slot",
+      "CLO": "LO10, LO11",
+      "Question Type": "practice",
+      "No Question": "1",
+      "Knowledge and Skill": "Knowledges on main-text, Slide and Teacher's Resource,",
+      "Grading Guide": "Students practices drawing. Lecturer evaluates and grades the student's drawings. Scoring scale (10 points): - Built up: create overall ratio of the object accurately. Ratio of every single object, part must be match with overall layout. Build up object's structure correctly without distortion. (4 points) - Block and planes: create accurately fragments in accordance to the structure, suitable and appropriate values. (2 points) - Demonstration: demonstrate values correctly in accordance to real space of objects, hence enable virtual space upon drawings. Though such demonstration, material and shade of objects are presented. (1 point) - Technique: clear outline, good dark-bright and bold-light contrast, describe properties of objects (1 point) - Emphasis: emphasis object's details reasonably (1 point). - Emotion: demonstrate feelings and aesthetic (1 point).",
+      "Note": ""
+    },
+    {
+      "No.": "7",
+      "Category": "Unit 5",
+      "Type": "on-going",
+      "Part": "1",
+      "Weight": "15.0%",
+      "Completion Criteria": ">0",
+      "Duration": "06 slot",
+      "CLO": "LO6, LO12",
+      "Question Type": "practice",
+      "No Question": "1",
+      "Knowledge and Skill": "Knowledges on main-text, Slide and Teacher's Resource,",
+      "Grading Guide": "Students practices drawing. Lecturer evaluates and grades the student's drawings. Scoring scale (10 points): - Built up: create overall ratio of the object accurately. Ratio of every single object, part must be match with overall layout. Build up object's structure correctly without distortion. (4 points) - Block and planes: create accurately fragments in accordance to the structure, suitable and appropriate values. (2 points) - Demonstration: demonstrate values correctly in accordance to real space of objects, hence enable virtual space upon drawings. Though such demonstration, material and shade of objects are presented. (1 point) - Technique: clear outline, good dark-bright and bold-light contrast, describe properties of objects (1 point) - Emphasis: emphasis object's details reasonably (1 point). - Emotion: demonstrate feelings and aesthetic (1 point).",
+      "Note": ""
+    }
+  ],
+  "schedule": [
+    {
+      "Session": "1",
+      "Topic": "Unit 1: Basic shapes. Theory: - How to set up a work area using an easel? - How to make layout a drawing? - What the value is? - How to make tones? - Introduce relation between objects and light sources. - Introduce hightlights, shadow areas, cast shadows, and reflected light in drawing. - Introduce the drawing tools. - Introduce the measurement methods. - Introduce relation between objects and space. - Introduce negative space and positive space.",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO1, LO2, LO3, LO4",
+      "ITU": "IT",
+      "Student Materials": "Textbooks: p. 2-p. 55.",
+      "S-Download": "DRS101",
+      "Student's Tasks": "",
+      "URLs": ""
+    },
+    {
+      "Session": "2",
+      "Topic": "Practice",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO7, LO8",
+      "ITU": "TU",
+      "Student Materials": "Slide, Teacher's Resource.",
+      "S-Download": "",
+      "Student's Tasks": "- Sketch and draw observed objects. - Develop the ability to transfer observed objects to the paper. Tools: - Graphite pencil or charcoal pencil. - Eraser. - A2 paper size.",
+      "URLs": ""
+    },
+    {
+      "Session": "3",
+      "Topic": "Practice",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO7, LO8",
+      "ITU": "TU",
+      "Student Materials": "Slide, Teacher's Resource.",
+      "S-Download": "",
+      "Student's Tasks": "- Sketch and draw observed objects. - Develop the ability to transfer observed objects to the paper. Tools: - Graphite pencil or charcoal pencil. - Eraser. - A2 paper size.",
+      "URLs": ""
+    },
+    {
+      "Session": "4",
+      "Topic": "Practice",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO7, LO8",
+      "ITU": "TU",
+      "Student Materials": "Slide, Teacher's Resource.",
+      "S-Download": "",
+      "Student's Tasks": "- Sketch and draw observed objects. - Develop the ability to transfer observed objects to the paper. Tools: - Graphite pencil or charcoal pencil. - Eraser. - A2 paper size.",
+      "URLs": ""
+    },
+    {
+      "Session": "5",
+      "Topic": "Practice",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO7, LO8",
+      "ITU": "TU",
+      "Student Materials": "Slide, Teacher's Resource.",
+      "S-Download": "",
+      "Student's Tasks": "- Sketch and draw observed objects. - Develop the ability to transfer observed objects to the paper. Tools: - Graphite pencil or charcoal pencil. - Eraser. - A2 paper size.",
+      "URLs": ""
+    },
+    {
+      "Session": "6",
+      "Topic": "Practice",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO7, LO8",
+      "ITU": "TU",
+      "Student Materials": "Slide, Teacher's Resource.",
+      "S-Download": "",
+      "Student's Tasks": "- Sketch and draw observed objects. - Develop the ability to transfer observed objects to the paper. Tools: - Graphite pencil or charcoal pencil. - Eraser. - A2 paper size.",
+      "URLs": ""
+    },
+    {
+      "Session": "7",
+      "Topic": "Unit 2: Complex shapes Theory: - What the perpective law is? - How to make tones? - Introduction Cubic shapes, Rectangular shapes, Conical Shapes... - Introduction proportion and measurement unit between objects. - Introduction angle measurement methods. - Introduction the illusion of space between objects.",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO1, LO2, LO3, LO4",
+      "ITU": "IT",
+      "Student Materials": "Textbooks: p.56 - p. 141",
+      "S-Download": "",
+      "Student's Tasks": "",
+      "URLs": ""
+    },
+    {
+      "Session": "8",
+      "Topic": "Practice",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO9",
+      "ITU": "TU",
+      "Student Materials": "Slide, Teacher's Resource.",
+      "S-Download": "",
+      "Student's Tasks": "- Sketch and draw observed objects. - Develop the ability to transfer observed objects to the paper. Tools: - Graphite pencil or charcoal pencil. - Eraser. - A2 paper size.",
+      "URLs": ""
+    },
+    {
+      "Session": "9",
+      "Topic": "Practice",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO9",
+      "ITU": "TU",
+      "Student Materials": "Slide, Teacher's Resource.",
+      "S-Download": "",
+      "Student's Tasks": "- Sketch and draw observed objects. - Develop the ability to transfer observed objects to the paper. Tools: - Graphite pencil or charcoal pencil. - Eraser. - A2 paper size.",
+      "URLs": ""
+    },
+    {
+      "Session": "10",
+      "Topic": "Practice",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO9",
+      "ITU": "TU",
+      "Student Materials": "Slide, Teacher's Resource.",
+      "S-Download": "",
+      "Student's Tasks": "- Sketch and draw observed objects. - Develop the ability to transfer observed objects to the paper. Tools: - Graphite pencil or charcoal pencil. - Eraser. - A2 paper size.",
+      "URLs": ""
+    },
+    {
+      "Session": "11",
+      "Topic": "Practice",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO9",
+      "ITU": "TU",
+      "Student Materials": "Slide, Teacher's Resource.",
+      "S-Download": "",
+      "Student's Tasks": "- Sketch and draw observed objects. - Develop the ability to transfer observed objects to the paper. Tools: - Graphite pencil or charcoal pencil. - Eraser. - A2 paper size.",
+      "URLs": ""
+    },
+    {
+      "Session": "12",
+      "Topic": "Practice",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO9",
+      "ITU": "TU",
+      "Student Materials": "Slide, Teacher's Resource.",
+      "S-Download": "",
+      "Student's Tasks": "- Sketch and draw observed objects. - Develop the ability to transfer observed objects to the paper. Tools: - Graphite pencil or charcoal pencil. - Eraser. - A2 paper size.",
+      "URLs": ""
+    },
+    {
+      "Session": "13",
+      "Topic": "Unit 3: Still-life 1 Theory: - What the still-life is? - How to make layout a still-life drawing? - Introduction the unique properties of objects: drapry, metal, glass, plastic, ceramic, pottery... - Introduction the distinctive characteristic of light on hightly reflective polished surfaces. - Introduction measurement methods.",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO5",
+      "ITU": "IT",
+      "Student Materials": "Textbooks: p.142 - p. 185",
+      "S-Download": "",
+      "Student's Tasks": "",
+      "URLs": ""
+    },
+    {
+      "Session": "14",
+      "Topic": "Practice",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO10, LO11",
+      "ITU": "TU",
+      "Student Materials": "Slide, Teacher's Resource,",
+      "S-Download": "",
+      "Student's Tasks": "- Sketch and draw observed objects. - Develop the ability to transfer observed objects to the paper. Tools: - Graphite pencil or charcoal pencil. - Eraser. - A2 paper size.",
+      "URLs": ""
+    },
+    {
+      "Session": "15",
+      "Topic": "Practice",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO10, LO11",
+      "ITU": "TU",
+      "Student Materials": "Slide, Teacher's Resource,",
+      "S-Download": "",
+      "Student's Tasks": "- Sketch and draw observed objects. - Develop the ability to transfer observed objects to the paper. Tools: - Graphite pencil or charcoal pencil. - Eraser. - A2 paper size.",
+      "URLs": ""
+    },
+    {
+      "Session": "16",
+      "Topic": "Practice",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO10, LO11",
+      "ITU": "TU",
+      "Student Materials": "Slide, Teacher's Resource,",
+      "S-Download": "",
+      "Student's Tasks": "- Sketch and draw observed objects. - Develop the ability to transfer observed objects to the paper. Tools: - Graphite pencil or charcoal pencil. - Eraser. - A2 paper size.",
+      "URLs": ""
+    },
+    {
+      "Session": "17",
+      "Topic": "Practice",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO10, LO11",
+      "ITU": "TU",
+      "Student Materials": "Slide, Teacher's Resource,",
+      "S-Download": "",
+      "Student's Tasks": "- Sketch and draw observed objects. - Develop the ability to transfer observed objects to the paper. Tools: - Graphite pencil or charcoal pencil. - Eraser. - A2 paper size.",
+      "URLs": ""
+    },
+    {
+      "Session": "18",
+      "Topic": "Practice",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO10, LO11",
+      "ITU": "TU",
+      "Student Materials": "Slide, Teacher's Resource,",
+      "S-Download": "",
+      "Student's Tasks": "- Sketch and draw observed objects. - Develop the ability to transfer observed objects to the paper. Tools: - Graphite pencil or charcoal pencil. - Eraser. - A2 paper size.",
+      "URLs": ""
+    },
+    {
+      "Session": "19",
+      "Topic": "Unit 4: Still-life 2 Theory: - How to make layout a plaster cast fragmentation head drawing? - How to built up facial basic line? - Introduction the ideal proportion of human head.",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO10, LO11",
+      "ITU": "TU",
+      "Student Materials": "Textbooks: p.142 - p. 185 Slide, Teacher's Resource.",
+      "S-Download": "",
+      "Student's Tasks": "",
+      "URLs": ""
+    },
+    {
+      "Session": "20",
+      "Topic": "Practice",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO10, LO11",
+      "ITU": "TU",
+      "Student Materials": "Slide, Teacher's Resource.",
+      "S-Download": "",
+      "Student's Tasks": "- Sketch and draw observed objects. - Develop the ability to transfer observed objects to the paper. Tools: - Graphite pencil or charcoal pencil. - Eraser. - A2 paper size.",
+      "URLs": ""
+    },
+    {
+      "Session": "21",
+      "Topic": "Practice",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO10, LO11",
+      "ITU": "TU",
+      "Student Materials": "Slide, Teacher's Resource.",
+      "S-Download": "",
+      "Student's Tasks": "- Sketch and draw observed objects. - Develop the ability to transfer observed objects to the paper. Tools: - Graphite pencil or charcoal pencil. - Eraser. - A2 paper size.",
+      "URLs": ""
+    },
+    {
+      "Session": "22",
+      "Topic": "Practice",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO10, LO11",
+      "ITU": "TU",
+      "Student Materials": "Slide, Teacher's Resource.",
+      "S-Download": "",
+      "Student's Tasks": "- Sketch and draw observed objects. - Develop the ability to transfer observed objects to the paper. Tools: - Graphite pencil or charcoal pencil. - Eraser. - A2 paper size.",
+      "URLs": ""
+    },
+    {
+      "Session": "23",
+      "Topic": "Practice",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO10, LO11",
+      "ITU": "TU",
+      "Student Materials": "Slide, Teacher's Resource.",
+      "S-Download": "",
+      "Student's Tasks": "- Sketch and draw observed objects. - Develop the ability to transfer observed objects to the paper. Tools: - Graphite pencil or charcoal pencil. - Eraser. - A2 paper size.",
+      "URLs": ""
+    },
+    {
+      "Session": "24",
+      "Topic": "Practice",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO10, LO11",
+      "ITU": "TU",
+      "Student Materials": "Slide, Teacher's Resource.",
+      "S-Download": "",
+      "Student's Tasks": "- Sketch and draw observed objects. - Develop the ability to transfer observed objects to the paper. Tools: - Graphite pencil or charcoal pencil. - Eraser. - A2 paper size.",
+      "URLs": ""
+    },
+    {
+      "Session": "25",
+      "Topic": "Unit 5: The ideal proportion of human head Theory: - How to make layout a plaster cast fragmentation head drawing? - How to built up facial basic line? - Introduction the ideal proportion of human head.",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO6",
+      "ITU": "IT",
+      "Student Materials": "Textbooks: p.210-212 Reference: p.43-44, p.77-78",
+      "S-Download": "",
+      "Student's Tasks": "",
+      "URLs": ""
+    },
+    {
+      "Session": "26",
+      "Topic": "Practice",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO12",
+      "ITU": "TU",
+      "Student Materials": "Slide, Teacher's Resource.",
+      "S-Download": "",
+      "Student's Tasks": "- Sketch and draw observed objects. - Develop the ability to transfer observed objects to the paper. Tools: - Graphite pencil or charcoal pencil. - Eraser. - A2 paper size.",
+      "URLs": ""
+    },
+    {
+      "Session": "27",
+      "Topic": "Practice",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO12",
+      "ITU": "TU",
+      "Student Materials": "Slide, Teacher's Resource.",
+      "S-Download": "",
+      "Student's Tasks": "- Sketch and draw observed objects. - Develop the ability to transfer observed objects to the paper. Tools: - Graphite pencil or charcoal pencil. - Eraser. - A2 paper size.",
+      "URLs": ""
+    },
+    {
+      "Session": "28",
+      "Topic": "Practice",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO12",
+      "ITU": "TU",
+      "Student Materials": "Slide, Teacher's Resource.",
+      "S-Download": "",
+      "Student's Tasks": "- Sketch and draw observed objects. - Develop the ability to transfer observed objects to the paper. Tools: - Graphite pencil or charcoal pencil. - Eraser. - A2 paper size.",
+      "URLs": ""
+    },
+    {
+      "Session": "29",
+      "Topic": "Practice",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO12",
+      "ITU": "TU",
+      "Student Materials": "Slide, Teacher's Resource.",
+      "S-Download": "",
+      "Student's Tasks": "- Sketch and draw observed objects. - Develop the ability to transfer observed objects to the paper. Tools: - Graphite pencil or charcoal pencil. - Eraser. - A2 paper size.",
+      "URLs": ""
+    },
+    {
+      "Session": "30",
+      "Topic": "Progress Test",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO1, LO2, LO3, LO4, LO5, LO6, LO7, LO8, LO9, LO10, LO11, LO12",
+      "ITU": "",
+      "Student Materials": "",
+      "S-Download": "",
+      "Student's Tasks": "",
+      "URLs": ""
+    }
+  ],
+  "constructive_questions": [],
+  "materials": [
+    {
+      "No.": "1",
+      "Material Description": "Exploring The Basics of Drawing",
+      "Author": "Victoria Vebell",
+      "Publisher": "Cengage Learning",
+      "Published Date": "2005",
+      "Edition": "1sr",
+      "ISBN": "978-1401815738",
+      "Is Main Material": "True",
+      "Is Hard Copy": "True",
+      "Is Online": "False",
+      "Note": ""
+    },
+    {
+      "No.": "2",
+      "Material Description": "Drawing the Head and Hands",
+      "Author": "Andrew Loomis",
+      "Publisher": "Titan Books",
+      "Published Date": "2011",
+      "Edition": "",
+      "ISBN": "978-0857680976",
+      "Is Main Material": "False",
+      "Is Hard Copy": "True",
+      "Is Online": "False",
+      "Note": ""
+    },
+    {
+      "No.": "3",
+      "Material Description": "http://illustrationage.com/2013/04/02/free-andrew-loomis-art-instruction-downloads/",
+      "Author": "",
+      "Publisher": "",
+      "Published Date": "",
+      "Edition": "",
+      "ISBN": "",
+      "Is Main Material": "False",
+      "Is Hard Copy": "False",
+      "Is Online": "True",
+      "Note": ""
+    }
+  ],
+  "source_path": "data/raw/syllabi/883.html",
+  "id": "syllabus:883"
+}

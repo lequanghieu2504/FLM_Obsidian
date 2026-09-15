@@ -1,0 +1,1169 @@
+{
+  "syllabus_id": 12391,
+  "subject_code": "RMB301",
+  "subject_name": "Business Research Methods_Phương pháp nghiên cứu",
+  "syllabus_name": "Business Research Methods_Phương pháp nghiên cứu",
+  "credits": 3,
+  "degree_level": "Bachelor in Business Administration",
+  "time_allocation": "Study hour (150h) = 45h (60 sessions) contact hours + 1h final exam + 104h self-study",
+  "prerequisite": "None",
+  "general_information": {
+    "Syllabus ID": "12391",
+    "Syllabus Name": "Business Research Methods_Phương pháp nghiên cứu",
+    "Course Name English": "Business Research Methods",
+    "Subject Code": "RMB301",
+    "Learning-Teaching Method": "Lecture,Presentation",
+    "NoCredit": "3",
+    "Degree Level": "Bachelor in Business Administration",
+    "Time Allocation": "Study hour (150h) = 45h (60 sessions) contact hours + 1h final exam + 104h self-study",
+    "Pre-Requisite": "None",
+    "Description": "This course introduces students to a number of research methods useful for academic and professional investigations of business practices. By examining the applications, strengths, and weaknesses of methodologies drawn from both the qualitative and quantitative traditions, this course permits an understanding of the various steps involved in designing and executing a research project so that students will be able to conduct their research later. A key feature of this course is the integration of artificial intelligence (AI) tools and applications. Students learn to use theses tools to : - support generating and refining research topics, - assist in content suggestions, - assist in answering questions on Edunext, in-class discussions, and identifying credible sources. - supports summarizing and concluding research findings through data-driven insights and structured templates.",
+    "StudentTasks": "Students need to - Class attendance is strongly encouraged. Attend at least 80% of class hours in order to be accepted to the final examination - Actively participate in class activities - Fulfill tasks given by instructor after class - Use their own laptop in class only for learning purpose - Read the textbook in advance - Access the course website (http://flm.fpt.edu.vn) for up-to-date information and materials of the course, for online supports from teachers and other students, and for practicing and assessment.",
+    "Tools": "",
+    "Scoring Scale": "10",
+    "DecisionNo MM/dd/yyyy": "1363/QĐ-ĐHFPT dated 12/06/2024",
+    "IsApproved": "True",
+    "Note": "",
+    "Is Scored": "True",
+    "MinAvgMarkToPass": "5",
+    "IsActive": "True",
+    "ApprovedDate": "12/6/2024"
+  },
+  "active": true,
+  "approved": true,
+  "decision": "1363/QĐ-ĐHFPT dated 12/06/2024",
+  "description": "This course introduces students to a number of research methods useful for academic and professional investigations of business practices. By examining the applications, strengths, and weaknesses of methodologies drawn from both the qualitative and quantitative traditions, this course permits an understanding of the various steps involved in designing and executing a research project so that students will be able to conduct their research later. A key feature of this course is the integration of artificial intelligence (AI) tools and applications. Students learn to use theses tools to : - support generating and refining research topics, - assist in content suggestions, - assist in answering questions on Edunext, in-class discussions, and identifying credible sources. - supports summarizing and concluding research findings through data-driven insights and structured templates.",
+  "learning_outcomes": [
+    {
+      "No.": "1",
+      "CLO Name": "CLO1",
+      "CLO Details": "Write a literature review that synthesises and evaluates literature in a specific topic area to justify a research questions"
+    },
+    {
+      "No.": "2",
+      "CLO Name": "CLO2",
+      "CLO Details": "Apply appropriate research design and methods to address a specific research question and acknowledge the ethical implications of the research"
+    },
+    {
+      "No.": "3",
+      "CLO Name": "CLO3",
+      "CLO Details": "Develop a research proposal as the basis for a thesis"
+    },
+    {
+      "No.": "4",
+      "CLO Name": "CLO4",
+      "CLO Details": "Present and defend a research proposal"
+    }
+  ],
+  "assessments": [
+    {
+      "No.": "1",
+      "Category": "Class Participation",
+      "Type": "on-going",
+      "Part": "1",
+      "Weight": "15.0%",
+      "Completion Criteria": ">0",
+      "Duration": "",
+      "CLO": "",
+      "Question Type": "OP1: Each student should make at least 1 individual presentation during the course in front of the class. OP2 (For Constructivism Approach only): Follow lecturer's proposal",
+      "No Question": "",
+      "Knowledge and Skill": "",
+      "Grading Guide": "",
+      "Note": "Participation scores will be given based on students' class attendance, preparation, quantity as well as quality of participation in classroom; quality of participation is demonstrated through asking relevant questions, making statements that add to and facilitate class discussions, and building upon others’ comments. Class participation accounts for 15% of the final score."
+    },
+    {
+      "No.": "2",
+      "Category": "Group Assignment 1",
+      "Type": "on-going",
+      "Part": "1",
+      "Weight": "10.0%",
+      "Completion Criteria": ">0",
+      "Duration": "",
+      "CLO": "",
+      "Question Type": "OP1: The class should be divided into 4 or 6 groups. Each group will choose a business/management problem to formulate a research topic and corresponding research questions/objectives. The report should include research topic, research rationale, and research questions/objectives. OP2 (For Constructivism Approach only): Follow lecturer's proposal OP3: Complete the Guided Project -Basic data analysis using SPSS",
+      "No Question": "OP1: Maximum length of the assignment should be 2 pages excluding appendices OP2 (For Constructivism Approach only): Follow lecturer's proposal",
+      "Knowledge and Skill": "Combination of all relevant acquired knowledge, and research and written skills",
+      "Grading Guide": "For presentation, the instructor will make a random order of group presentations. All individuals need to give feedback to other groups' presentation.",
+      "Note": "All assignments should be typed and double-spaced with 12-point font, and must be submitted in both soft and hard copy. A deduction of 10% of the assignment mark will be applied for each day of late submission. Assignment score for each student should be based on: (1) Group Assignment Report (50%); (2) individual presentation, Q&A on Group report or individual feedback to other groups' presentations (50%). Group Assignment 1 accounts for 10% of the final score."
+    },
+    {
+      "No.": "3",
+      "Category": "Group Assignment 2",
+      "Type": "on-going",
+      "Part": "1",
+      "Weight": "20.0%",
+      "Completion Criteria": ">0",
+      "Duration": "",
+      "CLO": "",
+      "Question Type": "OP1: Based on results of Group Assignment 1, students will continue to write literature review and theoretical framework for their research topic. OP2 (For Constructivism Approach only): Follow lecturer's proposal",
+      "No Question": "OP1: Maximum length of the assignment should be 15 pages excluding appendices OP2 (For Constructivism Approach only): Follow lecturer's proposal",
+      "Knowledge and Skill": "Combination of all relevant acquired knowledge, and research and written skills",
+      "Grading Guide": "For presentation, the instructor will make a random order of group presentations. All individuals need to give feedback to other groups' presentation.",
+      "Note": "All assignments should be typed and double-spaced with 12-point font, and must be submitted in both soft and hard copy. A deduction of 10% of the assignment mark will be applied for each day of late submission. Assignment score for each student should be based on: (1) Group Assignment Report (50%); (2) individual presentation, Q&A on Group report or individual feedback to other groups' presentations (50%). Group Assignment 2 accounts for 20% of the final score."
+    },
+    {
+      "No.": "4",
+      "Category": "Group Assignment 3",
+      "Type": "on-going",
+      "Part": "1",
+      "Weight": "25.0%",
+      "Completion Criteria": ">0",
+      "Duration": "",
+      "CLO": "",
+      "Question Type": "OP1: Based on results of Group Assignment 1 and Group Assignment 2, students will complete their research proposal. The final report will include contents of Group Assignments 1 & 2 plus sections on proposed research methods, research scope, and thesis structure. OP2 (For Constructivism Approach only): Follow lecturer's proposal",
+      "No Question": "OP1: Maximum length of the assignment should be 20 pages excluding appendices OP2 (For Constructivism Approach only): Follow lecturer's proposal",
+      "Knowledge and Skill": "Combination of all relevant acquired knowledge, and research and written skills",
+      "Grading Guide": "For presentation, the instructor will make a random order of group presentations. All individuals need to give feedback to other groups' presentation.",
+      "Note": "All assignments should be typed and double-spaced with 12-point font, and must be submitted in both soft and hard copy. A deduction of 10% of the assignment mark will be applied for each day of late submission. Assignment score for each student should be based on: ((1) Group Assignment Report (50%); (2) individual presentation and Q&A on Group report or individual feedback to other groups' presentations (50%). Group Assignment 3 accounts for 25% of the final score."
+    },
+    {
+      "No.": "5",
+      "Category": "Final Exam",
+      "Type": "Final exam",
+      "Part": "1",
+      "Weight": "30.0%",
+      "Completion Criteria": "4",
+      "Duration": "60'",
+      "CLO": "",
+      "Question Type": "Multiple choice",
+      "No Question": "50 multiple choice questions",
+      "Knowledge and Skill": "The questions will cover the lectures, class discussions, activities, exercises, and textbook.",
+      "Grading Guide": "Exam room",
+      "Note": "Students are not allowed to use any document/information in any form in exam room"
+    }
+  ],
+  "schedule": [
+    {
+      "Session": "1",
+      "Topic": "Course Introduction",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO1",
+      "ITU": "IT",
+      "Student Materials": "- Syllabus - Textbook - Slide",
+      "S-Download": "RMB301",
+      "Student's Tasks": "",
+      "URLs": ""
+    },
+    {
+      "Session": "2",
+      "Topic": "Chapter 1: Business and management research, reflective diaries and the purpose of this book",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO1",
+      "ITU": "TU",
+      "Student Materials": "Text book, Chapter 1 Slide, Chapter 1",
+      "S-Download": "RMB301",
+      "Student's Tasks": "- Read Textbook Chapter 1 - Read Slide Chapter 1",
+      "URLs": ""
+    },
+    {
+      "Session": "3",
+      "Topic": "Group Formation Group Assignment Guidelines",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO1, LO2, LO3",
+      "ITU": "TU",
+      "Student Materials": "- Textbook Chapter 1 - Slide Chapter 1",
+      "S-Download": "",
+      "Student's Tasks": "Follow teacher's instruction for Group Assignment",
+      "URLs": ""
+    },
+    {
+      "Session": "4",
+      "Topic": "Chapter 2: Formulating and clarifying the research topic [Practice: 1 period(s)]",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO1",
+      "ITU": "TU",
+      "Student Materials": "Text book Chapter 2 Slide Chapter 2",
+      "S-Download": "",
+      "Student's Tasks": "Read textbook Chapter 2 Read slide Chapter 2 Do practice and assignment",
+      "URLs": ""
+    },
+    {
+      "Session": "5",
+      "Topic": "Chapter 3: Critically reviewing the literature",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO1",
+      "ITU": "TU",
+      "Student Materials": "Text book Chapter 3 Slide Chapter 3",
+      "S-Download": "",
+      "Student's Tasks": "Read textbook Chapter 3 Read slide Chapter 3 Do practice and assignment",
+      "URLs": ""
+    },
+    {
+      "Session": "6",
+      "Topic": "Chapter 3: Critically reviewing the literature (cont.)",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO1",
+      "ITU": "TU",
+      "Student Materials": "Text book Chapter 3 Slide Chapter 3",
+      "S-Download": "",
+      "Student's Tasks": "Read text book Chapter 3 Read slide Chapter 3 Do practice and assignment",
+      "URLs": ""
+    },
+    {
+      "Session": "7",
+      "Topic": "Chapter 3: Critically reviewing the literature (cont.)",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO1",
+      "ITU": "TU",
+      "Student Materials": "Text book Chapter 3 Slide Chapter 3",
+      "S-Download": "",
+      "Student's Tasks": "Read Text book Chapter 3 Read Slide Chapter 3 Do practice and assignment",
+      "URLs": ""
+    },
+    {
+      "Session": "8",
+      "Topic": "Practice",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO1",
+      "ITU": "U",
+      "Student Materials": "Textbook Slide",
+      "S-Download": "",
+      "Student's Tasks": "Do practice and assignment",
+      "URLs": ""
+    },
+    {
+      "Session": "9",
+      "Topic": "Chapter 4: Understanding research philosophies and approaches",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO2",
+      "ITU": "TU",
+      "Student Materials": "Textbook Chapter 4 Slide Chapter 4",
+      "S-Download": "",
+      "Student's Tasks": "Read Textbook Chapter 4 Read Slide Chapter 4 Do practice and assignment",
+      "URLs": ""
+    },
+    {
+      "Session": "10",
+      "Topic": "Chapter 4: Understanding research philosophies and approaches (cont.)",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO2",
+      "ITU": "TU",
+      "Student Materials": "Textbook Chapter 4 Slide Chapter 4",
+      "S-Download": "",
+      "Student's Tasks": "Read Textbook Chapter 4 Read Slide Chapter 4 Do practice and assignment",
+      "URLs": ""
+    },
+    {
+      "Session": "11",
+      "Topic": "Chapter 4: Understanding research philosophies and approaches (cont.)",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO2",
+      "ITU": "TU",
+      "Student Materials": "Textbook Chapter 4 Slide Chapter 4",
+      "S-Download": "",
+      "Student's Tasks": "Read Textbook Chapter 4 Read Slide Chapter 4 Do practice and assignment",
+      "URLs": ""
+    },
+    {
+      "Session": "12",
+      "Topic": "Practice",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO2",
+      "ITU": "U",
+      "Student Materials": "Textbook Slide",
+      "S-Download": "",
+      "Student's Tasks": "Do practice and assignment",
+      "URLs": ""
+    },
+    {
+      "Session": "13",
+      "Topic": "Chapter 5: Formulating the research design",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO2",
+      "ITU": "TU",
+      "Student Materials": "Textbook Chapter 5 Slide Chapter 5",
+      "S-Download": "",
+      "Student's Tasks": "Read Textbook Chapter 5 Read Slide Chapter 5 Do practice and assignment",
+      "URLs": ""
+    },
+    {
+      "Session": "14",
+      "Topic": "Chapter 5: Formulating the research design (cont.)",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO2",
+      "ITU": "TU",
+      "Student Materials": "Textbook Chapter 5 Slide Chapter 5",
+      "S-Download": "",
+      "Student's Tasks": "Read Textbook Chapter 5 Read Slide Chapter 5 Do practice and assignment",
+      "URLs": ""
+    },
+    {
+      "Session": "15",
+      "Topic": "Chapter 5: Formulating the research design (cont.)",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO2",
+      "ITU": "TU",
+      "Student Materials": "Textbook Chapter 5 Slide Chapter 5",
+      "S-Download": "",
+      "Student's Tasks": "Read Textbook Chapter 5 Read Slide Chapter 5 Do practice and assignment",
+      "URLs": ""
+    },
+    {
+      "Session": "16",
+      "Topic": "Practice",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO2",
+      "ITU": "U",
+      "Student Materials": "Textbook and slide",
+      "S-Download": "",
+      "Student's Tasks": "Do practice and assignment",
+      "URLs": ""
+    },
+    {
+      "Session": "17",
+      "Topic": "Review, Progress Report & Discussion",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO1, LO2",
+      "ITU": "U",
+      "Student Materials": "Textbook and slide",
+      "S-Download": "",
+      "Student's Tasks": "Review, practice, discussion",
+      "URLs": ""
+    },
+    {
+      "Session": "18",
+      "Topic": "Review, Progress Report & Discussion",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO1, LO2",
+      "ITU": "U",
+      "Student Materials": "Textbook and slilde",
+      "S-Download": "",
+      "Student's Tasks": "Review, practice, discussion",
+      "URLs": ""
+    },
+    {
+      "Session": "19",
+      "Topic": "Submission of Group Assignment 1 Chapter 6: Negotiating access and research ethics",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO1, LO2",
+      "ITU": "U",
+      "Student Materials": "Textbook and slide",
+      "S-Download": "",
+      "Student's Tasks": "GA 1 Ready Preparation for GA 1 Presentation",
+      "URLs": ""
+    },
+    {
+      "Session": "20",
+      "Topic": "Chapter 6: Negotiating access and research ethics (cont.) & Practice",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO2",
+      "ITU": "TU",
+      "Student Materials": "Textbook Chapter 6 Slide Chapter 6",
+      "S-Download": "",
+      "Student's Tasks": "Read Textbook Chapter 6 Read Slide Chapter 6 Do practice and assignment",
+      "URLs": ""
+    },
+    {
+      "Session": "21",
+      "Topic": "Presentation of Group Assignment 1 [Practice: 4 period(s)]",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO1, LO2",
+      "ITU": "U",
+      "Student Materials": "Textbook and slide GA1 report GA1 slide",
+      "S-Download": "",
+      "Student's Tasks": "Present GA1",
+      "URLs": ""
+    },
+    {
+      "Session": "22",
+      "Topic": "Presentation of Group Assignment 1 [Practice: 4 period(s)]",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO1, LO2",
+      "ITU": "U",
+      "Student Materials": "Textbook and slide GA1 report GA1 slide",
+      "S-Download": "",
+      "Student's Tasks": "Present GA1",
+      "URLs": ""
+    },
+    {
+      "Session": "23",
+      "Topic": "Presentation of Group Assignment 1 [Practice: 4 period(s)]",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO1, LO2",
+      "ITU": "U",
+      "Student Materials": "Textbook and slide GA1 report GA1 slide",
+      "S-Download": "",
+      "Student's Tasks": "Present GA1",
+      "URLs": ""
+    },
+    {
+      "Session": "24",
+      "Topic": "Presentation of Group Assignment 1 [Practice: 4 period(s)]",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO1, LO2",
+      "ITU": "U",
+      "Student Materials": "Textbook and slide GA1 Report GA1 Slide",
+      "S-Download": "",
+      "Student's Tasks": "Present GA1",
+      "URLs": ""
+    },
+    {
+      "Session": "25",
+      "Topic": "Chapter 7: Selecting samples",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO3",
+      "ITU": "TU",
+      "Student Materials": "Textbook Chapter 7 Slide Chapter 7",
+      "S-Download": "",
+      "Student's Tasks": "Read textbook Chapter 7 Read slide Chapter 7",
+      "URLs": ""
+    },
+    {
+      "Session": "26",
+      "Topic": "Chapter 7: Selecting samples (cont.)",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO3",
+      "ITU": "TU",
+      "Student Materials": "Textbook Chapter 7 Slide Chapter 7",
+      "S-Download": "",
+      "Student's Tasks": "Read textbook Chapter 5 Read slide Chapter 5",
+      "URLs": ""
+    },
+    {
+      "Session": "27",
+      "Topic": "Chapter 7: Selecting samples (cont.)",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO3",
+      "ITU": "U",
+      "Student Materials": "Textbook Chapter 7 Slide Chapter 7",
+      "S-Download": "",
+      "Student's Tasks": "Read textbook Chapter 7 Read slide Chapter 7",
+      "URLs": ""
+    },
+    {
+      "Session": "28",
+      "Topic": "[Practice: 1 period(s)]",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO3",
+      "ITU": "U",
+      "Student Materials": "Textbook Chapter 7 Slide Chapter 7",
+      "S-Download": "",
+      "Student's Tasks": "Practice",
+      "URLs": ""
+    },
+    {
+      "Session": "29",
+      "Topic": "Chapter 8: Using secondary data",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO5",
+      "ITU": "TU",
+      "Student Materials": "Textbook Chapter 8 Slide Chapter 8",
+      "S-Download": "",
+      "Student's Tasks": "Read Textbook Chapter 8 Read Slide Chapter 8",
+      "URLs": ""
+    },
+    {
+      "Session": "30",
+      "Topic": "Chapter 8: Using secondary data [Practice: 1 period(s)]",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO3",
+      "ITU": "TU",
+      "Student Materials": "Textbook Chapter 8 Slide Chapter 8",
+      "S-Download": "",
+      "Student's Tasks": "Read textbook Chapter 8 Read slide Chapter 8 Do practice and assignment",
+      "URLs": ""
+    },
+    {
+      "Session": "31",
+      "Topic": "Chapter 9: Collecting primary data through observation",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO3",
+      "ITU": "TU",
+      "Student Materials": "Textbook Chapter 9 Slide Chapter 9",
+      "S-Download": "",
+      "Student's Tasks": "Read textbook Chapter 9 Read slide Chapter 9",
+      "URLs": ""
+    },
+    {
+      "Session": "32",
+      "Topic": "Chapter 9: Collecting primary data through observation [Practice: 1 period(s)]",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO3",
+      "ITU": "TU",
+      "Student Materials": "Textbook Chapter 9 Slide Chapter 9",
+      "S-Download": "",
+      "Student's Tasks": "Read textbook Chapter 9 Read slide Chapter 9 Do practice and assignment",
+      "URLs": ""
+    },
+    {
+      "Session": "33",
+      "Topic": "Chapter 10: Collecting primary data using semi-structured, in-depth and group interviews",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO3",
+      "ITU": "TU",
+      "Student Materials": "Textbook Chapter 10 Slide Chapter 10",
+      "S-Download": "",
+      "Student's Tasks": "Read textbook Chapter 10 Read slide Chapter 10",
+      "URLs": ""
+    },
+    {
+      "Session": "34",
+      "Topic": "Chapter 10: Collecting primary data using semi-structured, in-depth and group interviews [Practice: 1 period(s)]",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO3",
+      "ITU": "TU",
+      "Student Materials": "Textbook Chapter 10 Slide Chapter 10",
+      "S-Download": "",
+      "Student's Tasks": "Read textbook Chapter 10 Read slide Chapter 10 Do practice and assignment",
+      "URLs": ""
+    },
+    {
+      "Session": "35",
+      "Topic": "Chapter 11: Collecting primary data using questionnaires",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO3",
+      "ITU": "TU",
+      "Student Materials": "Textbook Chapter 11 Slide Chapter 11",
+      "S-Download": "",
+      "Student's Tasks": "Read textbook Chapter 11 Read slide Chapter 11",
+      "URLs": ""
+    },
+    {
+      "Session": "36",
+      "Topic": "Chapter 11: Collecting primary data using questionnaires (cont.)",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO3",
+      "ITU": "TU",
+      "Student Materials": "Textbook Chapter 11 Slide Chapter 11",
+      "S-Download": "",
+      "Student's Tasks": "Read textbook Chapter 11 Read slide Chapter 11",
+      "URLs": ""
+    },
+    {
+      "Session": "37",
+      "Topic": "[Practice: 1 period(s)]",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO2",
+      "ITU": "U",
+      "Student Materials": "Textbook, Slide",
+      "S-Download": "",
+      "Student's Tasks": "Practice",
+      "URLs": ""
+    },
+    {
+      "Session": "38",
+      "Topic": "Submission of Group Assignment 2 Chapter 11: Collecting primary data using questionnaires",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO3",
+      "ITU": "TU",
+      "Student Materials": "Textbook Chapter 11 Slide Chapter 11",
+      "S-Download": "",
+      "Student's Tasks": "GA 1 Ready Preparation for GA 1 Presentation",
+      "URLs": ""
+    },
+    {
+      "Session": "39",
+      "Topic": "Presentation of Group Assignment 2 [Practice: 6 period(s)]",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO3",
+      "ITU": "U",
+      "Student Materials": "Textbook and slide GA report GA slide",
+      "S-Download": "",
+      "Student's Tasks": "Present GA2",
+      "URLs": ""
+    },
+    {
+      "Session": "40",
+      "Topic": "Presentation of Group Assignment 2 [Practice: 6 period(s)]",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO3",
+      "ITU": "U",
+      "Student Materials": "Textbook and slide GA report GA slide",
+      "S-Download": "",
+      "Student's Tasks": "Present GA2",
+      "URLs": ""
+    },
+    {
+      "Session": "41",
+      "Topic": "Presentation of Group Assignment 2 [Practice: 6 period(s)]",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO3",
+      "ITU": "U",
+      "Student Materials": "Textbook, slide GA report GA slide",
+      "S-Download": "",
+      "Student's Tasks": "Present GA2",
+      "URLs": ""
+    },
+    {
+      "Session": "42",
+      "Topic": "Presentation of Group Assignment 2 [Practice: 6 period(s)]",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO3",
+      "ITU": "U",
+      "Student Materials": "Textbook, slide GA report GA slide",
+      "S-Download": "",
+      "Student's Tasks": "Present GA2",
+      "URLs": ""
+    },
+    {
+      "Session": "43",
+      "Topic": "Presentation of Group Assignment 2 [Practice: 6 period(s)]",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO3",
+      "ITU": "U",
+      "Student Materials": "Textbook, slide GA2 report GA2 slide",
+      "S-Download": "",
+      "Student's Tasks": "Present GA2",
+      "URLs": ""
+    },
+    {
+      "Session": "44",
+      "Topic": "Presentation of Group Assignment 2 [Practice: 6 period(s)]",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO3",
+      "ITU": "U",
+      "Student Materials": "Textbook, slide GA2 report GA2 slide",
+      "S-Download": "",
+      "Student's Tasks": "Present GA2",
+      "URLs": ""
+    },
+    {
+      "Session": "45",
+      "Topic": "Chapter 12: Analysing quantitative data",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO3",
+      "ITU": "TU",
+      "Student Materials": "Textbook Chapter 12 Slide Chapter 12",
+      "S-Download": "",
+      "Student's Tasks": "Read textbook Chapter 12 Read slide Chapter 12",
+      "URLs": ""
+    },
+    {
+      "Session": "46",
+      "Topic": "Chapter 12: Analysing quantitative data (cont.)",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO3",
+      "ITU": "TU",
+      "Student Materials": "Textbook Chapter 12 Slide Chapter 12",
+      "S-Download": "",
+      "Student's Tasks": "Read textbook Chapter 12 Read slide Chapter 12",
+      "URLs": ""
+    },
+    {
+      "Session": "47",
+      "Topic": "Chapter 12: Analysing quantitative data (cont.)",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO3",
+      "ITU": "TU",
+      "Student Materials": "Textbook Chapter 12 Slide Chapter 12",
+      "S-Download": "",
+      "Student's Tasks": "Read textbook Chapter 12 Read slide Chapter 12",
+      "URLs": ""
+    },
+    {
+      "Session": "48",
+      "Topic": "[Practice: 1 period(s)]",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO3",
+      "ITU": "U",
+      "Student Materials": "Textbook and slide",
+      "S-Download": "",
+      "Student's Tasks": "Practice",
+      "URLs": ""
+    },
+    {
+      "Session": "49",
+      "Topic": "Chapter 13: Analysing qualitative data",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO3",
+      "ITU": "U",
+      "Student Materials": "Texbook Chapter 13 Slide Chapter 13",
+      "S-Download": "",
+      "Student's Tasks": "Read textbook Chapter 13 Read slide Chapter 13",
+      "URLs": ""
+    },
+    {
+      "Session": "50",
+      "Topic": "Chapter 13: Analysing qualitative data (cont.)",
+      "Learning-Teaching Type": "Offline",
+      "LO": "Lo3",
+      "ITU": "TU",
+      "Student Materials": "Textbook Chapter 13 Slide Chapter 13",
+      "S-Download": "",
+      "Student's Tasks": "Read textbook Chapter 13 Read slide Chapter 13",
+      "URLs": ""
+    },
+    {
+      "Session": "51",
+      "Topic": "Chapter 13: Analysing qualitative data (cont.)",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO3",
+      "ITU": "TU",
+      "Student Materials": "Textbook Chapter 13 Slide Chapter 13",
+      "S-Download": "",
+      "Student's Tasks": "Read textbook Chapter 13 Read slide Chapter 13",
+      "URLs": ""
+    },
+    {
+      "Session": "52",
+      "Topic": "[Practice: 1 period(s)]",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO3",
+      "ITU": "U",
+      "Student Materials": "Textbook and slide",
+      "S-Download": "",
+      "Student's Tasks": "Do practice",
+      "URLs": ""
+    },
+    {
+      "Session": "53",
+      "Topic": "Submission of Group Assignment 3 Chapter 14: Writing and presenting your project report",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO4",
+      "ITU": "TU",
+      "Student Materials": "Textbook Chapter 14 Slide Chapter 14",
+      "S-Download": "",
+      "Student's Tasks": "GA 3 Ready Preparation for GA 3 Presentation",
+      "URLs": ""
+    },
+    {
+      "Session": "54",
+      "Topic": "Chapter 14: Writing and presenting your project report (cont.)",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO4",
+      "ITU": "TU",
+      "Student Materials": "Textbook Chapter 14 Slide Chapter 14",
+      "S-Download": "",
+      "Student's Tasks": "Read textbook Chapter 14 Read slide Chapter 14",
+      "URLs": ""
+    },
+    {
+      "Session": "55",
+      "Topic": "[Practice: 1 period(s)]",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO4",
+      "ITU": "U",
+      "Student Materials": "Textbook Chapter 14 Slide Chapter 14",
+      "S-Download": "",
+      "Student's Tasks": "Do practice",
+      "URLs": ""
+    },
+    {
+      "Session": "56",
+      "Topic": "Presentation of Group Assignment 3 [Practice: 5 period(s)]",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO1, LO2, LO3, LO4",
+      "ITU": "U",
+      "Student Materials": "GA3 report GA3 slide",
+      "S-Download": "",
+      "Student's Tasks": "Present GA3",
+      "URLs": ""
+    },
+    {
+      "Session": "57",
+      "Topic": "Presentation of Group Assignment 3 [Practice: 5 period(s)]",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO1, LO2, LO3, LO4",
+      "ITU": "U",
+      "Student Materials": "GA3 report GA3 slide",
+      "S-Download": "",
+      "Student's Tasks": "Present GA3",
+      "URLs": ""
+    },
+    {
+      "Session": "58",
+      "Topic": "Presentation of Group Assignment 3 [Practice: 5 period(s)]",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO1, LO2, LO3, LO4",
+      "ITU": "U",
+      "Student Materials": "GA3 report GA3 slide",
+      "S-Download": "",
+      "Student's Tasks": "Present GA3",
+      "URLs": ""
+    },
+    {
+      "Session": "59",
+      "Topic": "Presentation of Group Assignment 3 [Practice: 5 period(s)]",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO1, LO2, LO3, LO4",
+      "ITU": "U",
+      "Student Materials": "GA3 report GA3 slide",
+      "S-Download": "",
+      "Student's Tasks": "Present GA3",
+      "URLs": ""
+    },
+    {
+      "Session": "60",
+      "Topic": "Presentation of Group Assignment 3 [Practice: 5 period(s)]",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO1, LO2, LO3, LO4",
+      "ITU": "U",
+      "Student Materials": "GA3 report GA3 slilde",
+      "S-Download": "",
+      "Student's Tasks": "Present GA3",
+      "URLs": ""
+    }
+  ],
+  "constructive_questions": [
+    {
+      "No.": "1",
+      "Session No": "2",
+      "Name": "ĐN1",
+      "Details": "What are the key differences between basic and applied research (and consultancy)?"
+    },
+    {
+      "No.": "2",
+      "Session No": "2",
+      "Name": "ĐN2",
+      "Details": "Discussing the research questions and research objectives?"
+    },
+    {
+      "No.": "3",
+      "Session No": "2",
+      "Name": "ĐN3",
+      "Details": "What is your research scope?"
+    },
+    {
+      "No.": "4",
+      "Session No": "3",
+      "Name": "ĐN1",
+      "Details": "Who are your target respondences?"
+    },
+    {
+      "No.": "5",
+      "Session No": "3",
+      "Name": "ĐN2",
+      "Details": "Discussing to choose a research topic and clarify these relevant questions for your topic"
+    },
+    {
+      "No.": "6",
+      "Session No": "4",
+      "Name": "ĐN1",
+      "Details": "How long will you conduct the research?"
+    },
+    {
+      "No.": "7",
+      "Session No": "4",
+      "Name": "ĐN2",
+      "Details": "What are the resources or conditions you need for the research?"
+    },
+    {
+      "No.": "8",
+      "Session No": "5",
+      "Name": "ĐN1",
+      "Details": "Explain the related theories of your topic"
+    },
+    {
+      "No.": "9",
+      "Session No": "6",
+      "Name": "ĐN1",
+      "Details": "Search from secondary sources at least five relavant reports which relate to your topic"
+    },
+    {
+      "No.": "10",
+      "Session No": "6",
+      "Name": "ĐN2",
+      "Details": "Together with your colleagues, decide on the extent to which a set of research ideas constitute a 'good research topic' according to the checklist in Box 2.2."
+    },
+    {
+      "No.": "11",
+      "Session No": "7",
+      "Name": "ĐN1",
+      "Details": "What are the advantages and disadvantages in using an expert panel of stakeholders to assist in determining a review question?"
+    },
+    {
+      "No.": "12",
+      "Session No": "7",
+      "Name": "ĐN2",
+      "Details": "Why is it important to apply inclusion and exclusion criteria when deciding which publications to include in a Systematic Review?"
+    },
+    {
+      "No.": "13",
+      "Session No": "7",
+      "Name": "ĐN3",
+      "Details": "Description of onion research"
+    },
+    {
+      "No.": "14",
+      "Session No": "9",
+      "Name": "ĐN1",
+      "Details": "Dishtinghuise the differences between primary and secondary data"
+    },
+    {
+      "No.": "15",
+      "Session No": "9",
+      "Name": "ĐN2",
+      "Details": "What is the research framework?"
+    },
+    {
+      "No.": "16",
+      "Session No": "10",
+      "Name": "ĐN1",
+      "Details": "Explain the meaning of hypothesis in research?"
+    },
+    {
+      "No.": "17",
+      "Session No": "10",
+      "Name": "ĐN2",
+      "Details": "Explain the differences among the research philosophies"
+    },
+    {
+      "No.": "18",
+      "Session No": "10",
+      "Name": "ĐN3",
+      "Details": "Comparison of four research philosophies in business and management research"
+    },
+    {
+      "No.": "19",
+      "Session No": "11",
+      "Name": "ĐN1",
+      "Details": "Compare the following 3 approaches: Deduction, induction and abduction"
+    },
+    {
+      "No.": "20",
+      "Session No": "11",
+      "Name": "ĐN2",
+      "Details": "To what extent is the documentary inductive, deductive or abductive in its use of data?"
+    },
+    {
+      "No.": "21",
+      "Session No": "13",
+      "Name": "ĐN1",
+      "Details": "You are about to embark on a year-long study of customer service training for sales assistants in two supermarket companies. The purpose of the research is to compare the way in which the training develops and its effectiveness. What measures would you need to take in the research design stage to ensure that your results were valid?"
+    },
+    {
+      "No.": "22",
+      "Session No": "13",
+      "Name": "ĐN2",
+      "Details": "What is the Causal research?"
+    },
+    {
+      "No.": "23",
+      "Session No": "14",
+      "Name": "ĐN1",
+      "Details": "What is the descriptive research?"
+    },
+    {
+      "No.": "24",
+      "Session No": "14",
+      "Name": "ĐN2",
+      "Details": "What is the exploratory research?"
+    },
+    {
+      "No.": "25",
+      "Session No": "15",
+      "Name": "ĐN1",
+      "Details": "Discussing the differences between quantitative and qualitaty research"
+    },
+    {
+      "No.": "26",
+      "Session No": "25",
+      "Name": "ĐN1",
+      "Details": "Explain the sample and populations in research"
+    },
+    {
+      "No.": "27",
+      "Session No": "25",
+      "Name": "ĐN2",
+      "Details": "What is sampling frame?"
+    },
+    {
+      "No.": "28",
+      "Session No": "26",
+      "Name": "ĐN1",
+      "Details": "Why do you chose sample in stead of population for your research?"
+    },
+    {
+      "No.": "29",
+      "Session No": "27",
+      "Name": "ĐN1",
+      "Details": "Compare probability sampling methods/"
+    },
+    {
+      "No.": "30",
+      "Session No": "27",
+      "Name": "ĐN2",
+      "Details": "Explain the probability and non-probability sampling methods"
+    },
+    {
+      "No.": "31",
+      "Session No": "29",
+      "Name": "ĐN1",
+      "Details": "Compare non-probability sampling methods"
+    },
+    {
+      "No.": "32",
+      "Session No": "31",
+      "Name": "ĐN1",
+      "Details": "Explain nominal, ordinal, interval and ratio scales"
+    },
+    {
+      "No.": "33",
+      "Session No": "31",
+      "Name": "ĐN2",
+      "Details": "What are differences among nominal, ordinal, interval and ratio scales?"
+    },
+    {
+      "No.": "34",
+      "Session No": "32",
+      "Name": "ĐN1",
+      "Details": "What is questionare?"
+    },
+    {
+      "No.": "35",
+      "Session No": "32",
+      "Name": "ĐN2",
+      "Details": "What are questionare meanings for research?"
+    },
+    {
+      "No.": "36",
+      "Session No": "33",
+      "Name": "ĐN3",
+      "Details": "Explain the qualitative data collecting methods"
+    },
+    {
+      "No.": "37",
+      "Session No": "34",
+      "Name": "ĐN1",
+      "Details": "Discuss the advantages and disadvantages of qualitative data collecting methods"
+    },
+    {
+      "No.": "38",
+      "Session No": "34",
+      "Name": "ĐN2",
+      "Details": "Discuss popular mistakes when you create questions for questionaire?"
+    },
+    {
+      "No.": "39",
+      "Session No": "35",
+      "Name": "ĐN1",
+      "Details": "Explain the quantitative data collecting methods"
+    },
+    {
+      "No.": "40",
+      "Session No": "35",
+      "Name": "ĐN2",
+      "Details": "Discuss the advantages and disadvantages of quantitative data collecting methods"
+    },
+    {
+      "No.": "41",
+      "Session No": "36",
+      "Name": "ĐN1",
+      "Details": "In what circumstances would you choose to use a delivery and collection questionnaire rather than a postal questionnaire? Give reasons for your answer."
+    },
+    {
+      "No.": "42",
+      "Session No": "44",
+      "Name": "ĐN1",
+      "Details": "What are the meanings of central tendency analysis in research?"
+    },
+    {
+      "No.": "43",
+      "Session No": "45",
+      "Name": "ĐN1",
+      "Details": "Explain the mean, mode, median"
+    },
+    {
+      "No.": "44",
+      "Session No": "45",
+      "Name": "ĐN2",
+      "Details": "What are the meanings of central dispersion analysis in research?"
+    },
+    {
+      "No.": "45",
+      "Session No": "46",
+      "Name": "ĐN1",
+      "Details": "Explain the range, variance and standard deviation"
+    },
+    {
+      "No.": "46",
+      "Session No": "46",
+      "Name": "ĐN2",
+      "Details": "Explain the meaning of hypothesis testing in research"
+    },
+    {
+      "No.": "47",
+      "Session No": "47",
+      "Name": "ĐN1",
+      "Details": "Explain the meaning of colleration analysis in research"
+    },
+    {
+      "No.": "48",
+      "Session No": "48",
+      "Name": "ĐN1",
+      "Details": "Explain the meaning of regression analysis in research"
+    }
+  ],
+  "materials": [
+    {
+      "No.": "1",
+      "Material Description": "Research Methods for Business Students",
+      "Author": "Mark N.K. Saunders, Philip Lewis, and Adrian Thornhill",
+      "Publisher": "Pearson",
+      "Published Date": "2019",
+      "Edition": "8th",
+      "ISBN": "",
+      "Is Main Material": "True",
+      "Is Hard Copy": "True",
+      "Is Online": "False",
+      "Note": ""
+    },
+    {
+      "No.": "2",
+      "Material Description": "Hướng dẫn làm khóa luận tốt nghiệp đại học hệ chính quy khối ngành kinh tế và các biểu mẫu chấm điểm tại các syllabus GRI491, GRH491, GRT491 hoặc GRP490 (ban hành kèm theo quyết định số 870/QĐ-ĐHFPT ngày 06/08/2021)",
+      "Author": "",
+      "Publisher": "",
+      "Published Date": "2021",
+      "Edition": "",
+      "ISBN": "",
+      "Is Main Material": "False",
+      "Is Hard Copy": "False",
+      "Is Online": "True",
+      "Note": ""
+    },
+    {
+      "No.": "3",
+      "Material Description": "Research Methods for Business Students",
+      "Author": "Mark N.K. Saunders, Philip Lewis, and Adrian Thornhill",
+      "Publisher": "Financial Times Press",
+      "Published Date": "2012",
+      "Edition": "6th",
+      "ISBN": "",
+      "Is Main Material": "True",
+      "Is Hard Copy": "True",
+      "Is Online": "False",
+      "Note": ""
+    },
+    {
+      "No.": "4",
+      "Material Description": "Coursera - FPT University Private Authored Courses: Guided Project - Basic data analysis using SPSS",
+      "Author": "",
+      "Publisher": "",
+      "Published Date": "2022",
+      "Edition": "1st",
+      "ISBN": "",
+      "Is Main Material": "False",
+      "Is Hard Copy": "False",
+      "Is Online": "True",
+      "Note": ""
+    },
+    {
+      "No.": "5",
+      "Material Description": "Introductory econometrics: A modern approach",
+      "Author": "Jeffrey M. Wooldridge",
+      "Publisher": "South-Western Cengage learning",
+      "Published Date": "2012",
+      "Edition": "5th or newer",
+      "ISBN": "",
+      "Is Main Material": "False",
+      "Is Hard Copy": "True",
+      "Is Online": "False",
+      "Note": ""
+    },
+    {
+      "No.": "6",
+      "Material Description": "Research Methods for Business Students",
+      "Author": "Mark N.K. Saunders, Philip Lewis, and Adrian Thornhill",
+      "Publisher": "Pearson",
+      "Published Date": "2024",
+      "Edition": "9th edition",
+      "ISBN": "",
+      "Is Main Material": "True",
+      "Is Hard Copy": "True",
+      "Is Online": "False",
+      "Note": "Chọn một trong 3 ấn bản. Ưu tiên ấn bản mới nhất"
+    }
+  ],
+  "source_path": "data/raw/syllabi/12391.html",
+  "id": "syllabus:12391"
+}

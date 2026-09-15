@@ -1,0 +1,251 @@
+{
+  "syllabus_id": 3613,
+  "subject_code": "BDI311c",
+  "subject_name": "Big Data 1",
+  "syllabus_name": "Big Data 1",
+  "credits": 3,
+  "degree_level": "Bachelor",
+  "time_allocation": "Online: 48 hours+3 slot offline",
+  "prerequisite": "",
+  "general_information": {
+    "Syllabus ID": "3613",
+    "Syllabus Name": "Big Data 1",
+    "Course Name English": "",
+    "Subject Code": "BDI311c",
+    "Learning-Teaching Method": "",
+    "NoCredit": "3",
+    "Degree Level": "Bachelor",
+    "Time Allocation": "Online: 48 hours+3 slot offline",
+    "Pre-Requisite": "",
+    "Description": "This course is intended for researchers and business experts seeking state-of-the-art knowledge in advanced science and technology. The course covers details on Big Data (Hadoop, Spark, Storm), Smartphones, Smart Watches, Android, iOS, CPU/GPU/SoC, Mobile Communications (1G to 5G), Sensors, IoT, Wi-Fi, Bluetooth, LP-WAN, Cloud Computing, AR (Augmented Reality), Skype, YouTube, H.264/MPEG-4 AVC, MPEG-DASH, CDN, and Video Streaming Services. The Specialization includes projects on Big Data using IBM SPSS Statistics, AR applications, Cloud Computing using AWS (Amazon Web Service) EC2 (Elastic Compute Cloud), and Smartphone applications to analyze mobile communication, Wi-Fi, and Bluetooth networks.",
+    "StudentTasks": "1. Complete the online courses and get all course certifications to be allowed to take Final Exam 2. Final Exam included Final Theory Exam (TE): 100% 3. Student gets 0.33 bonus points for each course completed on time. 4. Completion Criteria: Final TE Score >=4 & (Final TE Score + bonus) >= 5 5. In the case: (5 > Final TE Score >=4) & (Final TE Score + bonus) < 5, the student can choose to take the resit of TE.",
+    "Tools": "- Internet",
+    "Scoring Scale": "10",
+    "DecisionNo MM/dd/yyyy": "870/QĐ-ĐHFPT dated 08/06/2021",
+    "IsApproved": "True",
+    "Note": "",
+    "Is Scored": "True",
+    "MinAvgMarkToPass": "5",
+    "IsActive": "True",
+    "ApprovedDate": "8/6/2021"
+  },
+  "active": true,
+  "approved": true,
+  "decision": "870/QĐ-ĐHFPT dated 08/06/2021",
+  "description": "This course is intended for researchers and business experts seeking state-of-the-art knowledge in advanced science and technology. The course covers details on Big Data (Hadoop, Spark, Storm), Smartphones, Smart Watches, Android, iOS, CPU/GPU/SoC, Mobile Communications (1G to 5G), Sensors, IoT, Wi-Fi, Bluetooth, LP-WAN, Cloud Computing, AR (Augmented Reality), Skype, YouTube, H.264/MPEG-4 AVC, MPEG-DASH, CDN, and Video Streaming Services. The Specialization includes projects on Big Data using IBM SPSS Statistics, AR applications, Cloud Computing using AWS (Amazon Web Service) EC2 (Elastic Compute Cloud), and Smartphone applications to analyze mobile communication, Wi-Fi, and Bluetooth networks.",
+  "learning_outcomes": [
+    {
+      "No.": "1",
+      "CLO Name": "CLO1",
+      "CLO Details": "Explain basis concepts in big data, architectural components and programming models used for scalable big data analysis."
+    },
+    {
+      "No.": "2",
+      "CLO Name": "CLO2",
+      "CLO Details": "Collect, store and organize data using big data solutions"
+    },
+    {
+      "No.": "3",
+      "CLO Name": "CLO3",
+      "CLO Details": "Design a big data information system for small company"
+    },
+    {
+      "No.": "4",
+      "CLO Name": "CLO4",
+      "CLO Details": "Execute simple big data integration and processing on Hadoop and Spark platforms"
+    }
+  ],
+  "assessments": [
+    {
+      "No.": "1",
+      "Category": "TE",
+      "Type": "Final exam",
+      "Part": "1",
+      "Weight": "100.0%",
+      "Completion Criteria": "4",
+      "Duration": "60'",
+      "CLO": "All Los",
+      "Question Type": "Multiple choices Marked by Computer",
+      "No Question": "50",
+      "Knowledge and Skill": "All studied courses. Each module of course contributes 3-5 questions.",
+      "Grading Guide": "by exam board, using computer",
+      "Note": "Customized from the quizzes of this specialization"
+    }
+  ],
+  "schedule": [
+    {
+      "Session": "1",
+      "Topic": "Introduction to Big Data - Welcome - Big Data: Why and Where",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO1",
+      "ITU": "TU",
+      "Student Materials": "",
+      "S-Download": "",
+      "Student's Tasks": "Complete Week 1 of the course Introduction to Big Data",
+      "URLs": ""
+    },
+    {
+      "Session": "2",
+      "Topic": "- Characteristics of Big Data and Dimensions of Scalability",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO1",
+      "ITU": "TU",
+      "Student Materials": "",
+      "S-Download": "",
+      "Student's Tasks": "Complete Part 1 of Week 2 of the course Introduction to Big Data",
+      "URLs": ""
+    },
+    {
+      "Session": "3",
+      "Topic": "- Data Science: Getting Value out of Big Data",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO1",
+      "ITU": "TU",
+      "Student Materials": "",
+      "S-Download": "",
+      "Student's Tasks": "Complete Part 2 of Week 2 of the course Introduction to Big Data",
+      "URLs": ""
+    },
+    {
+      "Session": "4",
+      "Topic": "- Foundations for Big Data Systems and Programming - Systems: Getting Started with Hadoop Offline: Course 1 Review",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO1",
+      "ITU": "TU",
+      "Student Materials": "",
+      "S-Download": "",
+      "Student's Tasks": "Complete Week 3 of the course Introduction to Big Data Deadline of Course 1 Completion: End of Friday of the week. All Students should participate in review slot (if any question)",
+      "URLs": ""
+    },
+    {
+      "Session": "5",
+      "Topic": "Big Data Modeling and Management Systems - Introduction to Big Data Modeling and Management - Big Data Modeling",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO2",
+      "ITU": "TU",
+      "Student Materials": "",
+      "S-Download": "",
+      "Student's Tasks": "Complete Week 1, 2 of the course Big Data Modeling and Management Systems",
+      "URLs": ""
+    },
+    {
+      "Session": "6",
+      "Topic": "- Big Data Modeling (Part 2) - Working With Data Models",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO2",
+      "ITU": "TU",
+      "Student Materials": "",
+      "S-Download": "",
+      "Student's Tasks": "Complete Week 3, 4 of the course Big Data Modeling and Management Systems",
+      "URLs": ""
+    },
+    {
+      "Session": "7",
+      "Topic": "- Big Data Management: The \"M\" in DBMS - Designing a Big Data Management System for an Online Game Offline: Course 2 Review (Week 7 or Week 8) 1st Evaluation (For students completed & got Coursera's specialization certificates) (Option)",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO2",
+      "ITU": "TU",
+      "Student Materials": "",
+      "S-Download": "",
+      "Student's Tasks": "Complete Week 5, 6 of the course Big Data Modeling and Management Systems Deadline of Course 2 Completion: End of Friday of the week. All Students should participate in review slot (if any question)",
+      "URLs": ""
+    },
+    {
+      "Session": "8",
+      "Topic": "Big Data Integration and Processing - Welcome to Big Data Integration and Processing - Retrieving Big Data (Part 1) - Retrieving Big Data (Part 2)",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO3, LO4",
+      "ITU": "TU",
+      "Student Materials": "",
+      "S-Download": "",
+      "Student's Tasks": "Complete Week 1, 2 of the course Big Data Integration and Processing",
+      "URLs": ""
+    },
+    {
+      "Session": "9",
+      "Topic": "- Big Data Integration",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO3, LO4",
+      "ITU": "TU",
+      "Student Materials": "",
+      "S-Download": "",
+      "Student's Tasks": "Complete Week 3 of the course Big Data Integration and Processing",
+      "URLs": ""
+    },
+    {
+      "Session": "10",
+      "Topic": "'- Processing Big Data",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO3, LO4",
+      "ITU": "TU",
+      "Student Materials": "",
+      "S-Download": "",
+      "Student's Tasks": "Complete Week 4 of the course Big Data Integration and Processing",
+      "URLs": ""
+    },
+    {
+      "Session": "11",
+      "Topic": "- Big Data Analytics using Spark Offline: Course 3 Review",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO3, LO4",
+      "ITU": "TU",
+      "Student Materials": "",
+      "S-Download": "",
+      "Student's Tasks": "Complete Week 5 of the course Big Data Integration and Processing Deadline of Course 3 Completion: End of Friday of the week. All Students should participate in review slot (if any question)",
+      "URLs": ""
+    },
+    {
+      "Session": "12",
+      "Topic": "2nd Evaluation (For students completed & got Coursera's specialization certificates)",
+      "Learning-Teaching Type": "Offline",
+      "LO": "All Los",
+      "ITU": "",
+      "Student Materials": "",
+      "S-Download": "",
+      "Student's Tasks": "- Do TE quizzes and PE assignments",
+      "URLs": ""
+    },
+    {
+      "Session": "13",
+      "Topic": "3rd Evaluation (For students completed & got Coursera's specialization certificates)",
+      "Learning-Teaching Type": "Offline",
+      "LO": "All LOs",
+      "ITU": "",
+      "Student Materials": "",
+      "S-Download": "",
+      "Student's Tasks": "- Do TE quizzes and PE assignments",
+      "URLs": ""
+    }
+  ],
+  "constructive_questions": [],
+  "materials": [
+    {
+      "No.": "1",
+      "Material Description": "https://www.coursera.org/learn/big-data-introduction?specialization=big-data https://www.coursera.org/learn/big-data-management?specialization=big-data https://www.coursera.org/learn/big-data-integration-processing?specialization=big-data",
+      "Author": "",
+      "Publisher": "Coursera",
+      "Published Date": "",
+      "Edition": "",
+      "ISBN": "",
+      "Is Main Material": "False",
+      "Is Hard Copy": "False",
+      "Is Online": "True",
+      "Note": ""
+    },
+    {
+      "No.": "2",
+      "Material Description": "https://learner.coursera.help/hc/en-us/articles/208280036-Coursera-Code-of-Conduct",
+      "Author": "",
+      "Publisher": "Coursera",
+      "Published Date": "",
+      "Edition": "",
+      "ISBN": "",
+      "Is Main Material": "False",
+      "Is Hard Copy": "False",
+      "Is Online": "True",
+      "Note": ""
+    }
+  ],
+  "source_path": "data/raw/syllabi/3613.html",
+  "id": "syllabus:3613"
+}

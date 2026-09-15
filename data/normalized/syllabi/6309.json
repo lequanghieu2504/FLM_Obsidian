@@ -1,0 +1,1299 @@
+{
+  "syllabus_id": 6309,
+  "subject_code": "BUE201",
+  "subject_name": "Business ethics",
+  "syllabus_name": "Business Ethics_Đạo đức kinh doanh",
+  "credits": 3,
+  "degree_level": "Bachelor",
+  "time_allocation": "Study hour (150h) = 45h (60 sessions) contact hours + 1h final exam + 104h self-study",
+  "prerequisite": "MGT101 or MGT103",
+  "general_information": {
+    "Syllabus ID": "6309",
+    "Syllabus Name": "Business Ethics_Đạo đức kinh doanh",
+    "Course Name English": "Business Ethics",
+    "Subject Code": "BUE201",
+    "Learning-Teaching Method": "Lecture,Presentation",
+    "NoCredit": "3",
+    "Degree Level": "Bachelor",
+    "Time Allocation": "Study hour (150h) = 45h (60 sessions) contact hours + 1h final exam + 104h self-study",
+    "Pre-Requisite": "MGT101 or MGT103",
+    "Description": "This course applies ethical theory and practice to business management. We review different ethical systems, cultural variations, and ways organizations develop and implement ethics programs. A variety of cases and projects are included from many different sources. Cases are used. Written work is required",
+    "StudentTasks": "Attend more than 80% of contact hours in order to be accepted to the final examination Actively participate in class activities Fulfill tasks given by instructor after class Read the textbook and cases of debate-based Exercises in advance Access the course website (http://cms.fpt.edu.vn) for up-to-date information and material of the course, for online supports from teachers and other students and for practicing and assessment.",
+    "Tools": "",
+    "Scoring Scale": "10",
+    "DecisionNo MM/dd/yyyy": "703/QĐ-ĐH-FPT dated 08/17/2022",
+    "IsApproved": "True",
+    "Note": "",
+    "Is Scored": "True",
+    "MinAvgMarkToPass": "5",
+    "IsActive": "True",
+    "ApprovedDate": "8/17/2022"
+  },
+  "active": true,
+  "approved": true,
+  "decision": "703/QĐ-ĐH-FPT dated 08/17/2022",
+  "description": "This course applies ethical theory and practice to business management. We review different ethical systems, cultural variations, and ways organizations develop and implement ethics programs. A variety of cases and projects are included from many different sources. Cases are used. Written work is required",
+  "learning_outcomes": [
+    {
+      "No.": "1",
+      "CLO Name": "CLO1",
+      "CLO Details": "Discuss conceptualizations of business ethics from an organizational perspective"
+    },
+    {
+      "No.": "2",
+      "CLO Name": "CLO2",
+      "CLO Details": "Describe a comprehensive framework for ethical decision making in business"
+    },
+    {
+      "No.": "3",
+      "CLO Name": "CLO3",
+      "CLO Details": "Recognize individual and organizational factors that may influence ethical decision making in business"
+    },
+    {
+      "No.": "4",
+      "CLO Name": "CLO4",
+      "CLO Details": "Identify leadership styles and habits that promote an ethical culture"
+    },
+    {
+      "No.": "5",
+      "CLO Name": "CLO5",
+      "CLO Details": "Identify stakeholders’ roles in business ethics"
+    },
+    {
+      "No.": "6",
+      "CLO Name": "CLO6",
+      "CLO Details": "Examine the role of corporate governance in structuring ethics and social responsibility in business."
+    },
+    {
+      "No.": "7",
+      "CLO Name": "CLO7",
+      "CLO Details": "Examine the ways that ethical standards are monitored, audited, and enforced and to understand the need for continuous improvement"
+    }
+  ],
+  "assessments": [
+    {
+      "No.": "1",
+      "Category": "Class participation",
+      "Type": "on-going",
+      "Part": "1",
+      "Weight": "10.0%",
+      "Completion Criteria": ">0",
+      "Duration": "",
+      "CLO": "",
+      "Question Type": "Option 1: Students are evaluated to extent of actively participating in class discussion and answering questions from Instructor Option 2 (For Constructivism Approach only): Follow lecturer's proposal",
+      "No Question": "",
+      "Knowledge and Skill": "",
+      "Grading Guide": "",
+      "Note": ""
+    },
+    {
+      "No.": "2",
+      "Category": "Essay Test",
+      "Type": "on-going",
+      "Part": "1",
+      "Weight": "10.0%",
+      "Completion Criteria": ">0",
+      "Duration": "40'",
+      "CLO": "LO1, LO2, LO3, LO4, LO5, LO6, LO7",
+      "Question Type": "Option 1: 01 essay (short answer/ case) Option 2 (For Constructivism Approach only): Follow lecturer's proposal",
+      "No Question": "",
+      "Knowledge and Skill": "Option 1: All topics, knowledge, skills within the Syllabus- appendix 1 Option 2 (For Constructivism Approach only): Follow lecturer's proposal",
+      "Grading Guide": "Option 1: Class room Option 2 (For Constructivism Approach only): Follow lecturer's proposal",
+      "Note": ""
+    },
+    {
+      "No.": "3",
+      "Category": "Individual assignment",
+      "Type": "on-going",
+      "Part": "1",
+      "Weight": "10.0%",
+      "Completion Criteria": ">0",
+      "Duration": "90 minutes",
+      "CLO": "LO1, LO2, LO3, LO4, LO5, LO6, LO7",
+      "Question Type": "Option 1: Team presentation Option 2 (For Constructivism Approach only): Follow lecturer's proposal",
+      "No Question": "",
+      "Knowledge and Skill": "Option 1: Based on topics of studied units Option 2 (For Constructivism Approach only): Follow lecturer's proposal",
+      "Grading Guide": "Option 1: Class room Option 2 (For Constructivism Approach only): Follow lecturer's proposal",
+      "Note": "Option 1: The purpose of this exercises is to give students a independent capacity in developing skills for ethical- decision making. Evaluation: 10% Lack of manager interview part will be only given up to 3% for individual assignment credit at maximum. A deduction of 3% of the total score of the assignment will be applied for each day of late submission (for both Register and Final Report) Any plagiarism more than 30% will be resulted in a failure of assignment Option 2 (For Constructivism Approach only): Follow lecturer's proposal"
+    },
+    {
+      "No.": "4",
+      "Category": "Quizzes",
+      "Type": "on-going",
+      "Part": "1",
+      "Weight": "10.0%",
+      "Completion Criteria": ">0",
+      "Duration": "15 minutes",
+      "CLO": "LO1, LO2, LO3, LO4, LO5, LO6, LO7",
+      "Question Type": "Option 1: Short answer Questions: 01 for knowledge given at class or 01 for knowledge assigned at home for self-study. Option 2 (For Constructivism Approach only): Follow lecturer's proposal",
+      "No Question": "1",
+      "Knowledge and Skill": "Option 1: Knowledge given at class, or knowledge assigned at home for self-study or cases assigned for Tutorials. Option 2 (For Constructivism Approach only): Follow lecturer's proposal",
+      "Grading Guide": "Option 1: Class room Option 2 (For Constructivism Approach only): Follow lecturer's proposal",
+      "Note": "Option 1: Quizzes will be given at various times during class (beginning, middle or end)."
+    },
+    {
+      "No.": "5",
+      "Category": "Skill Application Exercises (through Discussion)",
+      "Type": "on-going",
+      "Part": "12",
+      "Weight": "30.0%",
+      "Completion Criteria": ">0",
+      "Duration": "90 minutes",
+      "CLO": "LO1, LO2, LO3, LO4, LO5, LO6, LO7",
+      "Question Type": "Option 1: Discussion Option 2 (For Constructivism Approach only): Follow lecturer's proposal",
+      "No Question": "",
+      "Knowledge and Skill": "Option 1: Knowledge and skills of topics covered Option 2 (For Constructivism Approach only): Follow lecturer's proposal",
+      "Grading Guide": "Option 1: Class room Option 2 (For Constructivism Approach only): Follow lecturer's proposal",
+      "Note": "Option 1: Skill application Exercise are ongoing and continuous in every session. Evaluation (30%): 1 group will be evaluated during 15 exercises (5 times of taking charge of 5 discussions, 10 times for being Chair or giving feedback in the remaining 10 exercises). Feedback, preparation plan or performance of discussion during the exercise will be taken into consideration to give score. The score will be allocated within an amount of fixed percent of each exercises mentioned below. Skill application Exercise: 30% (Exercise 1: 2.5 % Exercise 2: 2.5 % Excercise3: 2.5 % Exercise 4: 2.5 % Exercise 5: 2.5 % Exercise 6: 2.5 % Exercise 7: 2.5 % Exercise 8: 2.5 % Exercise 9: 2.5 % Exercise 10: 2.5 % Exercise 11: 2.5 % Excercise12: 2.5 % A deduction of 5% of the mark for each exercise will be applied for each day of late submission (for both Register and Final Report)"
+    },
+    {
+      "No.": "6",
+      "Category": "Final exam",
+      "Type": "Final exam",
+      "Part": "1",
+      "Weight": "30.0%",
+      "Completion Criteria": "4",
+      "Duration": "60'",
+      "CLO": "LO1, LO2, LO3, LO4, LO5, LO6, LO7",
+      "Question Type": "Multiple choice: 50 questions",
+      "No Question": "",
+      "Knowledge and Skill": "All topics, knowledge, skills within the Syllabus- appendix 1",
+      "Grading Guide": "Exam room",
+      "Note": "Not allow to use any document/information/ mobile phone or any electronic equipments (except computer) in any form in exam room"
+    }
+  ],
+  "schedule": [
+    {
+      "Session": "1",
+      "Topic": "INTRODUCTION to the course Introduce Textbook, studying method and particular for Exercises during Tutorials class.",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO1",
+      "ITU": "I,T",
+      "Student Materials": "Student's book, LMS",
+      "S-Download": "BUE201",
+      "Student's Tasks": "",
+      "URLs": ""
+    },
+    {
+      "Session": "2",
+      "Topic": "GUIDELINE: Individual Assignment. Instructor will assign one topic among below three to students (subject to be changed by Instructor) Topic 1: The factors influencing corporate culture; Topic 2: The relationship between business ethics and corporate social responsibility. Topic 3: The relationship between business ethics and employee integrity",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO1",
+      "ITU": "I,T",
+      "Student Materials": "Student's book, LMS",
+      "S-Download": "",
+      "Student's Tasks": "",
+      "URLs": ""
+    },
+    {
+      "Session": "3",
+      "Topic": "CHAPTER 1: Ethics and Business",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO1",
+      "ITU": "I,T",
+      "Student Materials": "Student's book, LMS",
+      "S-Download": "BUE201",
+      "Student's Tasks": "Read chapter before class",
+      "URLs": ""
+    },
+    {
+      "Session": "4",
+      "Topic": "CHAPTER 1: Ethics and Business",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO1",
+      "ITU": "I,T",
+      "Student Materials": "Student's book, LMS",
+      "S-Download": "",
+      "Student's Tasks": "Read chapter before class",
+      "URLs": ""
+    },
+    {
+      "Session": "5",
+      "Topic": "EXERCISE 1:Skill application Exercise (focus on Chapter 1)",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO1",
+      "ITU": "T,U",
+      "Student Materials": "Student's book, LMS",
+      "S-Download": "",
+      "Student's Tasks": "Read chapter before class",
+      "URLs": ""
+    },
+    {
+      "Session": "6",
+      "Topic": "EXERCISE 1:Skill application Exercise (focus on Chapter 1)",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO1",
+      "ITU": "T,U",
+      "Student Materials": "Student's book, LMS",
+      "S-Download": "",
+      "Student's Tasks": "Read chapter before class",
+      "URLs": ""
+    },
+    {
+      "Session": "7",
+      "Topic": "CHAPTER 3: Philosophical Ethics and Business (PART 1)",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO2, LO3",
+      "ITU": "I,T",
+      "Student Materials": "Student's book, LMS",
+      "S-Download": "",
+      "Student's Tasks": "Read chapter before class",
+      "URLs": ""
+    },
+    {
+      "Session": "8",
+      "Topic": "CHAPTER 3: Philosophical Ethics and Business (PART 1)",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO2, LO3",
+      "ITU": "I,T",
+      "Student Materials": "Student's book, LMS",
+      "S-Download": "",
+      "Student's Tasks": "Read chapter before class",
+      "URLs": ""
+    },
+    {
+      "Session": "9",
+      "Topic": "CHAPTER 3: Philosophical Ethics and Business (PART 2)",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO2, LO3",
+      "ITU": "I,T",
+      "Student Materials": "Student's book, LMS",
+      "S-Download": "",
+      "Student's Tasks": "Read chapter before class",
+      "URLs": ""
+    },
+    {
+      "Session": "10",
+      "Topic": "CHAPTER 3: Philosophical Ethics and Business (PART 2)",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO2, LO3",
+      "ITU": "I,T",
+      "Student Materials": "Student's book, LMS",
+      "S-Download": "",
+      "Student's Tasks": "Read chapter before class",
+      "URLs": ""
+    },
+    {
+      "Session": "11",
+      "Topic": "EXERCISE 2: Skill application Exercise (focus on Chapter 3-part 1, part 2)",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO2, LO3",
+      "ITU": "I,T",
+      "Student Materials": "Student's book, LMS",
+      "S-Download": "",
+      "Student's Tasks": "Read chapter before class",
+      "URLs": ""
+    },
+    {
+      "Session": "12",
+      "Topic": "EXERCISE 2: Skill application Exercise (focus on Chapter 3-part 1, part 2)",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO2, LO3",
+      "ITU": "I,T",
+      "Student Materials": "Student's book, LMS",
+      "S-Download": "",
+      "Student's Tasks": "Read chapter before class",
+      "URLs": ""
+    },
+    {
+      "Session": "13",
+      "Topic": "CHAPTER 3: Philosophical Ethics and Business (PART 3)",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO2, LO3",
+      "ITU": "I,T",
+      "Student Materials": "Student's book, LMS",
+      "S-Download": "",
+      "Student's Tasks": "Read chapter before class",
+      "URLs": ""
+    },
+    {
+      "Session": "14",
+      "Topic": "CHAPTER 3: Philosophical Ethics and Business (PART 3)",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO2, LO3",
+      "ITU": "I,T",
+      "Student Materials": "Student's book, LMS",
+      "S-Download": "",
+      "Student's Tasks": "Read chapter before class",
+      "URLs": ""
+    },
+    {
+      "Session": "15",
+      "Topic": "CHAPTER 3: Philosophical Ethics and Business (PART 4) REGISTER: Topic of Individual Assignment",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO2, LO3",
+      "ITU": "I,T",
+      "Student Materials": "Student's book, LMS",
+      "S-Download": "",
+      "Student's Tasks": "Read chapter before class",
+      "URLs": ""
+    },
+    {
+      "Session": "16",
+      "Topic": "EXERCISE 3: Skill application Exercise (focus on Chapter 3-part 3, part 4)",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO2, LO3",
+      "ITU": "I,T",
+      "Student Materials": "Student's book, LMS",
+      "S-Download": "",
+      "Student's Tasks": "Read chapter before class",
+      "URLs": ""
+    },
+    {
+      "Session": "17",
+      "Topic": "EXERCISE 3: Skill application Exercise (focus on Chapter 3-part 3, part 4)",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO2, LO3",
+      "ITU": "T,U",
+      "Student Materials": "Student's book, LMS",
+      "S-Download": "",
+      "Student's Tasks": "Read chapter before class",
+      "URLs": ""
+    },
+    {
+      "Session": "18",
+      "Topic": "CHAPTER 4: The Corporate Culture: Impact and Implications (PART 1)",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO2, LO3",
+      "ITU": "T,U",
+      "Student Materials": "Student's book, LMS",
+      "S-Download": "",
+      "Student's Tasks": "Read chapter before class",
+      "URLs": ""
+    },
+    {
+      "Session": "19",
+      "Topic": "CHAPTER 4: The Corporate Culture: Impact and Implications (PART 1)",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO4",
+      "ITU": "I,T",
+      "Student Materials": "Student's book, LMS",
+      "S-Download": "",
+      "Student's Tasks": "Read chapter before class",
+      "URLs": ""
+    },
+    {
+      "Session": "20",
+      "Topic": "CHAPTER 4: The Corporate Culture: Impact and Implications (PART 2)",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO4",
+      "ITU": "I,T",
+      "Student Materials": "Student's book, LMS",
+      "S-Download": "",
+      "Student's Tasks": "Read chapter before class",
+      "URLs": ""
+    },
+    {
+      "Session": "21",
+      "Topic": "CHAPTER 4: The Corporate Culture: Impact and Implications (PART 2)",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO4",
+      "ITU": "I,T",
+      "Student Materials": "Student's book, LMS",
+      "S-Download": "",
+      "Student's Tasks": "Read chapter before class",
+      "URLs": ""
+    },
+    {
+      "Session": "22",
+      "Topic": "EXERCISE 4: Skill application Exercise (focus on Chapter 4)",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO4",
+      "ITU": "I,T",
+      "Student Materials": "Student's book, LMS",
+      "S-Download": "",
+      "Student's Tasks": "Read chapter before class",
+      "URLs": ""
+    },
+    {
+      "Session": "23",
+      "Topic": "EXERCISE 4: Skill application Exercise (focus on Chapter 4)",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO4",
+      "ITU": "T,U",
+      "Student Materials": "Student's book, LMS",
+      "S-Download": "",
+      "Student's Tasks": "Read chapter before class",
+      "URLs": ""
+    },
+    {
+      "Session": "24",
+      "Topic": "CHAPTER 5: Corporate Social Responsibility (PART 1)",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO4",
+      "ITU": "T,U",
+      "Student Materials": "Student's book, LMS",
+      "S-Download": "",
+      "Student's Tasks": "Read chapter before class",
+      "URLs": ""
+    },
+    {
+      "Session": "25",
+      "Topic": "CHAPTER 5: Corporate Social Responsibility (PART 1)",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO5",
+      "ITU": "I,T",
+      "Student Materials": "Student's book, LMS",
+      "S-Download": "",
+      "Student's Tasks": "Read chapter before class",
+      "URLs": ""
+    },
+    {
+      "Session": "26",
+      "Topic": "CHAPTER 5: Corporate Social Responsibility (PART 2)",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO5",
+      "ITU": "I,T",
+      "Student Materials": "Student's book, LMS",
+      "S-Download": "",
+      "Student's Tasks": "Read chapter before class",
+      "URLs": ""
+    },
+    {
+      "Session": "27",
+      "Topic": "CHAPTER 5: Corporate Social Responsibility (PART 2)",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO5",
+      "ITU": "I,T",
+      "Student Materials": "Student's book, LMS",
+      "S-Download": "",
+      "Student's Tasks": "Read chapter before class",
+      "URLs": ""
+    },
+    {
+      "Session": "28",
+      "Topic": "EXERCISE 5: Skill application Exercise (focus on Chapter 5)",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO5",
+      "ITU": "I,T",
+      "Student Materials": "Student's book, LMS",
+      "S-Download": "",
+      "Student's Tasks": "Read chapter before class",
+      "URLs": ""
+    },
+    {
+      "Session": "29",
+      "Topic": "EXERCISE 5: Skill application Exercise (focus on Chapter 5)",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO5",
+      "ITU": "T,U",
+      "Student Materials": "Student's book, LMS",
+      "S-Download": "",
+      "Student's Tasks": "Read chapter before class",
+      "URLs": ""
+    },
+    {
+      "Session": "30",
+      "Topic": "CHAPTER 6: Ethical Decision-Making: Employer Responsibilities and Employee Rights",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO5",
+      "ITU": "T,U",
+      "Student Materials": "Student's book, LMS",
+      "S-Download": "",
+      "Student's Tasks": "Read chapter before class",
+      "URLs": ""
+    },
+    {
+      "Session": "31",
+      "Topic": "CHAPTER 6: Ethical Decision-Making: Employer Responsibilities and Employee Rights",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO6",
+      "ITU": "I,T",
+      "Student Materials": "Student's book, LMS",
+      "S-Download": "",
+      "Student's Tasks": "Read chapter before class",
+      "URLs": ""
+    },
+    {
+      "Session": "32",
+      "Topic": "EXERCISE 6: Skill application Exercise (focus on Chapter 6)",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO6",
+      "ITU": "I,T",
+      "Student Materials": "Student's book, LMS",
+      "S-Download": "",
+      "Student's Tasks": "Read chapter before class",
+      "URLs": ""
+    },
+    {
+      "Session": "33",
+      "Topic": "EXERCISE 6: Skill application Exercise (focus on Chapter 6)",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO6",
+      "ITU": "T,U",
+      "Student Materials": "Student's book, LMS",
+      "S-Download": "",
+      "Student's Tasks": "Read chapter before class",
+      "URLs": ""
+    },
+    {
+      "Session": "34",
+      "Topic": "CHAPTER 7: Ethical Decision-Making: Technology and Privacy in the Workplace",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO6",
+      "ITU": "T,U",
+      "Student Materials": "Student's book, LMS",
+      "S-Download": "",
+      "Student's Tasks": "Read chapter before class",
+      "URLs": ""
+    },
+    {
+      "Session": "35",
+      "Topic": "CHAPTER 7: Ethical Decision-Making: Technology and Privacy in the Workplace",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO6",
+      "ITU": "I,T",
+      "Student Materials": "Student's book, LMS",
+      "S-Download": "",
+      "Student's Tasks": "Read chapter before class",
+      "URLs": ""
+    },
+    {
+      "Session": "36",
+      "Topic": "SUBMISSION: Individual Assignment Report - Review",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO6",
+      "ITU": "I,T",
+      "Student Materials": "Student's book, LMS",
+      "S-Download": "",
+      "Student's Tasks": "Read chapter before class",
+      "URLs": ""
+    },
+    {
+      "Session": "37",
+      "Topic": "EXERCISE 7 : Skill application Exercise (focus on Chapter 7)",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO6",
+      "ITU": "T,U",
+      "Student Materials": "Student's book, LMS",
+      "S-Download": "",
+      "Student's Tasks": "Read chapter before class",
+      "URLs": ""
+    },
+    {
+      "Session": "38",
+      "Topic": "EXERCISE 7 : Skill application Exercise (focus on Chapter 7)",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO6",
+      "ITU": "T,U",
+      "Student Materials": "Student's book, LMS",
+      "S-Download": "",
+      "Student's Tasks": "Read chapter before class",
+      "URLs": ""
+    },
+    {
+      "Session": "39",
+      "Topic": "CHAPTER 8: Ethics and Marketing (PART 1)",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO6",
+      "ITU": "I,T",
+      "Student Materials": "Student's book, LMS",
+      "S-Download": "",
+      "Student's Tasks": "Read chapter before class",
+      "URLs": ""
+    },
+    {
+      "Session": "40",
+      "Topic": "CHAPTER 8: Ethics and Marketing (PART 2)",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO6",
+      "ITU": "I,T",
+      "Student Materials": "Student's book, LMS",
+      "S-Download": "",
+      "Student's Tasks": "Read chapter before class",
+      "URLs": ""
+    },
+    {
+      "Session": "41",
+      "Topic": "EXERCISE 8: Skill application Exercise (focus on Chapter 8- Part 1)",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO6",
+      "ITU": "T,U",
+      "Student Materials": "Student's book, LMS",
+      "S-Download": "",
+      "Student's Tasks": "Read chapter before class",
+      "URLs": ""
+    },
+    {
+      "Session": "42",
+      "Topic": "EXERCISE 8: Skill application Exercise",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO6",
+      "ITU": "T,U",
+      "Student Materials": "Student's book, LMS",
+      "S-Download": "",
+      "Student's Tasks": "Read chapter before class",
+      "URLs": ""
+    },
+    {
+      "Session": "43",
+      "Topic": "CHAPTER 9: Business and Environmental Sustainability",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO6",
+      "ITU": "I,T",
+      "Student Materials": "Student's book, LMS",
+      "S-Download": "",
+      "Student's Tasks": "Read chapter before class",
+      "URLs": ""
+    },
+    {
+      "Session": "44",
+      "Topic": "CHAPTER 9: Business and Environmental Sustainability",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO6",
+      "ITU": "I,T",
+      "Student Materials": "Student's book, LMS",
+      "S-Download": "",
+      "Student's Tasks": "Read chapter before class",
+      "URLs": ""
+    },
+    {
+      "Session": "45",
+      "Topic": "CHAPTER 9: Business and Environmental Sustainability",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO7",
+      "ITU": "T,U",
+      "Student Materials": "Student's book, LMS",
+      "S-Download": "",
+      "Student's Tasks": "Read chapter before class",
+      "URLs": ""
+    },
+    {
+      "Session": "46",
+      "Topic": "EXERCISE 9: Skill application Exercise (focus on Chapter 8- Part 2)",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO7",
+      "ITU": "T,U",
+      "Student Materials": "Student's book, LMS",
+      "S-Download": "",
+      "Student's Tasks": "Read chapter before class",
+      "URLs": ""
+    },
+    {
+      "Session": "47",
+      "Topic": "EXERCISE 9: Skill application Exercise (focus on Chapter 8- Part 2)",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO7",
+      "ITU": "I,T",
+      "Student Materials": "Student's book, LMS",
+      "S-Download": "",
+      "Student's Tasks": "Read chapter before class",
+      "URLs": ""
+    },
+    {
+      "Session": "48",
+      "Topic": "CHAPTER 10: Ethical Decision-Making: Corporate Governance, Accounting, and Finance (PART 1)",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO7",
+      "ITU": "I,T",
+      "Student Materials": "Student's book, LMS",
+      "S-Download": "",
+      "Student's Tasks": "Read chapter before class",
+      "URLs": ""
+    },
+    {
+      "Session": "49",
+      "Topic": "EXERCISE 10: Skill application Exercise (focus on Chapter 9)",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO7",
+      "ITU": "T,U",
+      "Student Materials": "Student's book, LMS",
+      "S-Download": "",
+      "Student's Tasks": "Read chapter before class",
+      "URLs": ""
+    },
+    {
+      "Session": "50",
+      "Topic": "EXERCISE 10: Skill application Exercise (focus on Chapter 9)",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO7",
+      "ITU": "T,U",
+      "Student Materials": "Student's book, LMS",
+      "S-Download": "",
+      "Student's Tasks": "Read chapter before class",
+      "URLs": ""
+    },
+    {
+      "Session": "51",
+      "Topic": "CHAPTER 10: Ethical Decision-Making: Corporate Governance, Accounting, and Finance (PART 1)",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO7",
+      "ITU": "I,T",
+      "Student Materials": "Student's book, LMS",
+      "S-Download": "",
+      "Student's Tasks": "Read chapter before class",
+      "URLs": ""
+    },
+    {
+      "Session": "52",
+      "Topic": "CHAPTER 10: Ethical Decision-Making: Corporate Governance, Accounting, and Finance (PART 2)",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO7",
+      "ITU": "I,T",
+      "Student Materials": "Student's book, LMS",
+      "S-Download": "",
+      "Student's Tasks": "Read chapter before class",
+      "URLs": ""
+    },
+    {
+      "Session": "53",
+      "Topic": "Essay Test",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO7",
+      "ITU": "I,T",
+      "Student Materials": "Student's book, LMS",
+      "S-Download": "",
+      "Student's Tasks": "Read chapter before class",
+      "URLs": ""
+    },
+    {
+      "Session": "54",
+      "Topic": "Essay Test",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO7",
+      "ITU": "I,T",
+      "Student Materials": "Student's book, LMS",
+      "S-Download": "",
+      "Student's Tasks": "Read chapter before class",
+      "URLs": ""
+    },
+    {
+      "Session": "55",
+      "Topic": "EXERCISE 11: Skill application Exercise (focus on Chapter 10-Part 1)",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO7",
+      "ITU": "T,U",
+      "Student Materials": "Student's book, LMS",
+      "S-Download": "",
+      "Student's Tasks": "Read chapter before class",
+      "URLs": ""
+    },
+    {
+      "Session": "56",
+      "Topic": "EXERCISE 11: Skill application Exercise (focus on Chapter 10-Part 1)",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO7",
+      "ITU": "T,U",
+      "Student Materials": "Student's book, LMS",
+      "S-Download": "",
+      "Student's Tasks": "Read chapter before class",
+      "URLs": ""
+    },
+    {
+      "Session": "57",
+      "Topic": "Review Essay Test",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO7",
+      "ITU": "T,U",
+      "Student Materials": "Student's book, LMS",
+      "S-Download": "",
+      "Student's Tasks": "Read chapter before class",
+      "URLs": ""
+    },
+    {
+      "Session": "58",
+      "Topic": "EXERCISE 12: Skill application Exercise (focus on Chapter 10- part 2)",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO7",
+      "ITU": "T,U",
+      "Student Materials": "Student's book, LMS",
+      "S-Download": "",
+      "Student's Tasks": "Read chapter before class",
+      "URLs": ""
+    },
+    {
+      "Session": "59",
+      "Topic": "EXERCISE 12: Skill application Exercise (focus on Chapter 10- part 2)",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO1, LO2, LO3, LO4, LO5, LO6, LO7",
+      "ITU": "T,U",
+      "Student Materials": "Student's book, LMS",
+      "S-Download": "",
+      "Student's Tasks": "Read chapter before class",
+      "URLs": ""
+    },
+    {
+      "Session": "60",
+      "Topic": "COURSE REVIEW",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO1, LO2, LO3, LO4, LO5, LO6, LO7",
+      "ITU": "T,U",
+      "Student Materials": "Student's book, LMS",
+      "S-Download": "",
+      "Student's Tasks": "Read chapter before class",
+      "URLs": ""
+    }
+  ],
+  "constructive_questions": [
+    {
+      "No.": "1",
+      "Session No": "1",
+      "Name": "CT1",
+      "Details": "Why should we study business ethics?"
+    },
+    {
+      "No.": "2",
+      "Session No": "1",
+      "Name": "CT2",
+      "Details": "In your opinion, what are the outputs of the business ethics (BUE) course?"
+    },
+    {
+      "No.": "3",
+      "Session No": "1",
+      "Name": "CT3",
+      "Details": "Which learning method to achieve the best effect?"
+    },
+    {
+      "No.": "4",
+      "Session No": "2",
+      "Name": "CT1",
+      "Details": "Is business ethics just a philosophy of life or human behavior in practice?"
+    },
+    {
+      "No.": "5",
+      "Session No": "2",
+      "Name": "CT2",
+      "Details": "What do you share when approaching the concept of business ethics from a personal perspective?"
+    },
+    {
+      "No.": "6",
+      "Session No": "2",
+      "Name": "CT3",
+      "Details": "What do you think when approaching the concept of business ethics from a general perspective (group / enterprise / society)?"
+    },
+    {
+      "No.": "7",
+      "Session No": "3",
+      "Name": "CT1",
+      "Details": "How did Wells Fargo fraud its customers?"
+    },
+    {
+      "No.": "8",
+      "Session No": "3",
+      "Name": "CT2",
+      "Details": "What ethical business issues have you discovered through the Wells Fargo scandal?"
+    },
+    {
+      "No.": "9",
+      "Session No": "3",
+      "Name": "CT3",
+      "Details": "Have similar Wells Fargo cases happened in Vietnam?"
+    },
+    {
+      "No.": "10",
+      "Session No": "4",
+      "Name": "CT1",
+      "Details": "How did Wells Fargo fraud its customers?"
+    },
+    {
+      "No.": "11",
+      "Session No": "4",
+      "Name": "CT2",
+      "Details": "What ethical business issues have you discovered through the Wells Fargo scandal?"
+    },
+    {
+      "No.": "12",
+      "Session No": "4",
+      "Name": "CT3",
+      "Details": "Have similar Wells Fargo cases happened in Vietnam?"
+    },
+    {
+      "No.": "13",
+      "Session No": "5",
+      "Name": "CT1",
+      "Details": "Why is business ethics important in the current business environment?"
+    },
+    {
+      "No.": "14",
+      "Session No": "5",
+      "Name": "CT2",
+      "Details": "What is \"ethical decision making\"?"
+    },
+    {
+      "No.": "15",
+      "Session No": "5",
+      "Name": "CT3",
+      "Details": "Why ethical responsibilities go beyond legal compliance?"
+    },
+    {
+      "No.": "16",
+      "Session No": "6",
+      "Name": "CT1",
+      "Details": "Do you think Dan Price is a hero? Why or Why not?"
+    },
+    {
+      "No.": "17",
+      "Session No": "6",
+      "Name": "CT2",
+      "Details": "In your opinion, should the maximum wage law for CEOs?"
+    },
+    {
+      "No.": "18",
+      "Session No": "6",
+      "Name": "CT3",
+      "Details": "Are there similar cases in Vietnam like Dan Price?"
+    },
+    {
+      "No.": "19",
+      "Session No": "7",
+      "Name": "CT1",
+      "Details": "What is human rights?"
+    },
+    {
+      "No.": "20",
+      "Session No": "7",
+      "Name": "CT2",
+      "Details": "How are human rights related to business and business ethics?"
+    },
+    {
+      "No.": "21",
+      "Session No": "8",
+      "Name": "CT1",
+      "Details": "What are moral rights?"
+    },
+    {
+      "No.": "22",
+      "Session No": "8",
+      "Name": "CT2",
+      "Details": "Is there a conflict of interest between moral rights and principles-based ethics?"
+    },
+    {
+      "No.": "23",
+      "Session No": "9",
+      "Name": "CT1",
+      "Details": "Do you support state regulation that requires car manufacturers to ensure absolute safety? Why?"
+    },
+    {
+      "No.": "24",
+      "Session No": "9",
+      "Name": "CT2",
+      "Details": "What requirements do car manufacturers need to ensure consumer safety?"
+    },
+    {
+      "No.": "25",
+      "Session No": "10",
+      "Name": "CT1",
+      "Details": "What is corporate culture?"
+    },
+    {
+      "No.": "26",
+      "Session No": "10",
+      "Name": "CT2",
+      "Details": "What role does corporate culture play in business?"
+    },
+    {
+      "No.": "27",
+      "Session No": "10",
+      "Name": "CT3",
+      "Details": "How is the relationship between corporate culture and business ethics?"
+    },
+    {
+      "No.": "28",
+      "Session No": "11",
+      "Name": "CT1",
+      "Details": "What is an organization's mission statement?"
+    },
+    {
+      "No.": "29",
+      "Session No": "11",
+      "Name": "CT2",
+      "Details": "What role does the mission statement play in creating an ethical corporate culture?"
+    },
+    {
+      "No.": "30",
+      "Session No": "11",
+      "Name": "CT3",
+      "Details": "How important is it to evaluate, monitor and audit the culture and ethics program in a business?"
+    },
+    {
+      "No.": "31",
+      "Session No": "13",
+      "Name": "CT1",
+      "Details": "What is Corporate Social Responsibility (CSR)?"
+    },
+    {
+      "No.": "32",
+      "Session No": "13",
+      "Name": "CT2",
+      "Details": "What is the economic model of corporate social responsibility (CSR)?"
+    },
+    {
+      "No.": "33",
+      "Session No": "14",
+      "Name": "CT1",
+      "Details": "What are stakeholders?"
+    },
+    {
+      "No.": "34",
+      "Session No": "14",
+      "Name": "CT2",
+      "Details": "What is the corporate social responsibility model?"
+    },
+    {
+      "No.": "35",
+      "Session No": "14",
+      "Name": "CT3",
+      "Details": "What do you think about the corporate social responsibility integration model?"
+    },
+    {
+      "No.": "36",
+      "Session No": "16",
+      "Name": "CT1",
+      "Details": "What are the rights and responsibilities of employers and employees in an business?"
+    },
+    {
+      "No.": "37",
+      "Session No": "16",
+      "Name": "CT2",
+      "Details": "What are the conflict of interests between an employer and an employee in the business?"
+    },
+    {
+      "No.": "38",
+      "Session No": "16",
+      "Name": "CT3",
+      "Details": "In your opinion, what are the solutions to resolve conflicts of interest?"
+    },
+    {
+      "No.": "39",
+      "Session No": "17",
+      "Name": "CT1",
+      "Details": "What business ethics issues have you discovered through the \"The Choice to Voice\" case study?"
+    },
+    {
+      "No.": "40",
+      "Session No": "17",
+      "Name": "CT2",
+      "Details": "Have similar cases \"The Choice to Voice\" happened in Vietnam?"
+    },
+    {
+      "No.": "41",
+      "Session No": "18",
+      "Name": "CT1",
+      "Details": "What is privacy?"
+    },
+    {
+      "No.": "42",
+      "Session No": "18",
+      "Name": "CT2",
+      "Details": "What are the challenges to privacy?"
+    },
+    {
+      "No.": "43",
+      "Session No": "18",
+      "Name": "CT3",
+      "Details": "Does the employer's monitoring of the employee's personal activities violate privacy rights? State the reason?"
+    },
+    {
+      "No.": "44",
+      "Session No": "18",
+      "Name": "CT4",
+      "Details": "What solutions are there to protect personal privacy and avoid conflicts of interest of the stakholders?"
+    },
+    {
+      "No.": "45",
+      "Session No": "19",
+      "Name": "CT1",
+      "Details": "What ethical business issues have you discovered through \"Being Smart about Smartphones\" case study?"
+    },
+    {
+      "No.": "46",
+      "Session No": "19",
+      "Name": "CT2",
+      "Details": "Have similar \"Being Smart about Smartphones\" cases happened in Vietnam?"
+    },
+    {
+      "No.": "47",
+      "Session No": "20",
+      "Name": "CT1",
+      "Details": "What is marketing?"
+    },
+    {
+      "No.": "48",
+      "Session No": "20",
+      "Name": "CT2",
+      "Details": "Why are business ethics requirements needed in marketing?"
+    },
+    {
+      "No.": "49",
+      "Session No": "22",
+      "Name": "CT1",
+      "Details": "What is advertising?"
+    },
+    {
+      "No.": "50",
+      "Session No": "22",
+      "Name": "CT2",
+      "Details": "Why are there business ethics requirements in advertising?"
+    },
+    {
+      "No.": "51",
+      "Session No": "22",
+      "Name": "CT3",
+      "Details": "What is the business’s responsibilities for the activities of it supply chain and advertising?"
+    },
+    {
+      "No.": "52",
+      "Session No": "23",
+      "Name": "CT1",
+      "Details": "What ethical business issues have you discovered through \"Regulating digital marketing\" case study?"
+    },
+    {
+      "No.": "53",
+      "Session No": "23",
+      "Name": "CT2",
+      "Details": "Are there similar \"Regulating digital marketing\"\" cases in Vietnam?\" Which ones?"
+    },
+    {
+      "No.": "54",
+      "Session No": "24",
+      "Name": "CT1",
+      "Details": "What are the environmental challenges for us?"
+    },
+    {
+      "No.": "55",
+      "Session No": "24",
+      "Name": "CT2",
+      "Details": "What responsibilities do businesses have for the environment today?"
+    },
+    {
+      "No.": "56",
+      "Session No": "24",
+      "Name": "CT3",
+      "Details": "What is sustainable business?"
+    },
+    {
+      "No.": "57",
+      "Session No": "24",
+      "Name": "CT4",
+      "Details": "Why approach sustainability in business?"
+    },
+    {
+      "No.": "58",
+      "Session No": "26",
+      "Name": "CT1",
+      "Details": "Who are the gatekeepers?"
+    },
+    {
+      "No.": "59",
+      "Session No": "26",
+      "Name": "CT2",
+      "Details": "What is a conflict of interest in business and in a enterprise?"
+    },
+    {
+      "No.": "60",
+      "Session No": "26",
+      "Name": "CT3",
+      "Details": "What are the challenges and risks caused by conflicts of interest to damage of a business?"
+    },
+    {
+      "No.": "61",
+      "Session No": "27",
+      "Name": "CT1",
+      "Details": "How did Volkswagen fraud its customers?"
+    },
+    {
+      "No.": "62",
+      "Session No": "27",
+      "Name": "CT2",
+      "Details": "What ethical business issues have you discovered through the \"Volkswagen’s diesel fraud\" scandal?"
+    },
+    {
+      "No.": "63",
+      "Session No": "27",
+      "Name": "CT3",
+      "Details": "Are there similar cases like the \"Volkswagen’s diesel fraud\" happened in Vietnam?"
+    },
+    {
+      "No.": "64",
+      "Session No": "28",
+      "Name": "CT1",
+      "Details": "What are the legal and ethical obligations of board members in an enterprise?"
+    },
+    {
+      "No.": "65",
+      "Session No": "28",
+      "Name": "CT2",
+      "Details": "What are the solutions to resolve conflicts of interest among stakeholders of a business?"
+    },
+    {
+      "No.": "66",
+      "Session No": "29",
+      "Name": "CT1",
+      "Details": "What ethical business issues have you discovered through the “What to do when faced with conflict of interest?” case study?"
+    },
+    {
+      "No.": "67",
+      "Session No": "29",
+      "Name": "CT2",
+      "Details": "Have been similar cases like \"What to do in the face of benefits?\" in Vietnam?"
+    },
+    {
+      "No.": "68",
+      "Session No": "30",
+      "Name": "CT1",
+      "Details": "What outputs do you feel you have achieved through this course?"
+    },
+    {
+      "No.": "69",
+      "Session No": "30",
+      "Name": "CT2",
+      "Details": "What recommendations do you have for studying and teaching business ethics?"
+    }
+  ],
+  "materials": [
+    {
+      "No.": "1",
+      "Material Description": "Decision-Making for Personal Integrity and Social Responsibility",
+      "Author": "",
+      "Publisher": "McGraw-Hill/Irwin",
+      "Published Date": "2010",
+      "Edition": "2nd",
+      "ISBN": "",
+      "Is Main Material": "True",
+      "Is Hard Copy": "True",
+      "Is Online": "False",
+      "Note": ""
+    },
+    {
+      "No.": "2",
+      "Material Description": "Business Ethics: Decision-Making for Personal Integrity and Social Responsibility",
+      "Author": "Laura Hartman and Joseph DesJardins",
+      "Publisher": "McGraw-Hill/Irwin",
+      "Published Date": "2013",
+      "Edition": "3rd",
+      "ISBN": "9780078029455",
+      "Is Main Material": "True",
+      "Is Hard Copy": "True",
+      "Is Online": "False",
+      "Note": "Chọn một trong 2 ấn bản. Ưu tiên mua ấn bản mới nhất"
+    },
+    {
+      "No.": "3",
+      "Material Description": "Law for Business",
+      "Author": "John D. Ashcroft, Jane E. Ashcroft",
+      "Publisher": "Cengage Publication",
+      "Published Date": "2010",
+      "Edition": "17th",
+      "ISBN": "",
+      "Is Main Material": "False",
+      "Is Hard Copy": "True",
+      "Is Online": "False",
+      "Note": ""
+    },
+    {
+      "No.": "4",
+      "Material Description": "Harvard Business Review",
+      "Author": "",
+      "Publisher": "",
+      "Published Date": "",
+      "Edition": "",
+      "ISBN": "",
+      "Is Main Material": "False",
+      "Is Hard Copy": "False",
+      "Is Online": "True",
+      "Note": ""
+    }
+  ],
+  "source_path": "data/raw/syllabi/6309.html",
+  "id": "syllabus:6309"
+}

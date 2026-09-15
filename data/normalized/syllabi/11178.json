@@ -1,0 +1,303 @@
+{
+  "syllabus_id": 11178,
+  "subject_code": "IOP490",
+  "subject_name": "IoT Capstone Project_Đồ án tốt nghiệp IoT",
+  "syllabus_name": "IoT Capstone Project_Đồ án tốt nghiệp IoT",
+  "credits": 10,
+  "degree_level": "Bachelor",
+  "time_allocation": "Study hour (500h) = 33.75h contact hours (1newslot/week*15week) + 1.5h capstone project defense + 464.75h self-study",
+  "prerequisite": "o Successfully complete (*) below topics: - Project Management – PMG201c or PMG202c o Pass 60% of total credits of selected combo. o Pass OJT202 (not apply to international students) o Pass 80% of total credits (PHE_COM* and OJT excluded) (*): FR must be greater than or equal to 4.",
+  "general_information": {
+    "Syllabus ID": "11178",
+    "Syllabus Name": "IoT Capstone Project_Đồ án tốt nghiệp IoT",
+    "Course Name English": "IoT Capstone Project",
+    "Subject Code": "IOP490",
+    "Learning-Teaching Method": "Lecture,Project based learning,Experiential learning methods",
+    "NoCredit": "10",
+    "Degree Level": "Bachelor",
+    "Time Allocation": "Study hour (500h) = 33.75h contact hours (1newslot/week*15week) + 1.5h capstone project defense + 464.75h self-study",
+    "Pre-Requisite": "o Successfully complete (*) below topics: - Project Management – PMG201c or PMG202c o Pass 60% of total credits of selected combo. o Pass OJT202 (not apply to international students) o Pass 80% of total credits (PHE_COM* and OJT excluded) (*): FR must be greater than or equal to 4.",
+    "Description": "The captone project provides students, working in groups, with a significant project experience in which they can integrate much of the material they have learned in their program, including matters relating to requirements, design, implementation, human factors, professionalism, and project management. Students should be expected to deliver one or several iterations of a software system, along with all artifacts appropriate to the process model they are using. These would likely include a) Project management Plan (perhaps updated regularly), b) System Requirements Specifications c) Architectural and Design Documents (Schematic, pcb, protocol, ...) d) Test Documentation e) System package & the user guides (package content, installation guide & user manuals) All the documents in the project implementation process and the progress reports are required to write in English.",
+    "StudentTasks": "- Choose appropriate project and form group (2-3 students/group). - Divide and schedule work among members. - Attend all scheduled meeting with supervisor. - Produce document and product according to project requirement and member work share. - Defend work infront of examination board, showing both project results and individual responsibility. In case of cheating found, the whole team is not allow to defend.",
+    "Tools": "Appropriate tools for design and implementation.",
+    "Scoring Scale": "10",
+    "DecisionNo MM/dd/yyyy": "358/QĐ-ĐHFPT dated 04/03/2024",
+    "IsApproved": "True",
+    "Note": "Final Result = OGA*50% + TDA*50% In which: 1) On-going Assessment (OGA) - Project Introduction (Report 1): 4% - Project Management Plan (Report 2): 8% - System Requirement (Report 3): 16% - System Design (Report 4): 18% - Testing (Report 5): 18% - User Guides (Report 6): 4% - Implementation (Report 7): 32% 2) Thesis Defense Assessment (TDA) - Project Introduction: 5% - Project Management Plan: 5% - System Requirement: 15% - System Design: 10% - Testing: 10% - User Guides: 5% - Implementation: 35% - Presentation Skills: 5% - Q&A: 10% Completion Criteria: 1. OGA >= 5 2. TDA >= 4/10 3. Final Result >= 5 Before thesis defense, students must wait until the second thesis defense round if they have the OGA less than 5/10 OR they are in one of below cases: (1) Students can't prove the fact that they prepare any of the project reports or the output system by themselves (2) There are more than 3 obvious logic defects OR more than 1 show-stopper defects (the defects that prevent end user from completing his/her use case on any system functions) in the submitted system. The student(s) has to re-do the capstone project if the above cases occur with the assessments for the second thesis defense OR there is one OGA with grade (see the list above) less than 2/10. After thesis defense, student(s) is evaluated as failed the capstone project if they are in one of below cases (no matter when the guiding teacher doesn't evaluate that): (1) Student can't demonstrate any function or use case (2) Students can't prove the fact that they prepare any of the project reports or the output system by themselves (3) There are more than 3 obvious logic defects OR more than 1 show-stopper defects (the defects that prevent end user from completing his/her use case on any system functions) in the submitted system.",
+    "Is Scored": "True",
+    "MinAvgMarkToPass": "5",
+    "IsActive": "True",
+    "ApprovedDate": "4/3/2024"
+  },
+  "active": true,
+  "approved": true,
+  "decision": "358/QĐ-ĐHFPT dated 04/03/2024",
+  "description": "The captone project provides students, working in groups, with a significant project experience in which they can integrate much of the material they have learned in their program, including matters relating to requirements, design, implementation, human factors, professionalism, and project management. Students should be expected to deliver one or several iterations of a software system, along with all artifacts appropriate to the process model they are using. These would likely include a) Project management Plan (perhaps updated regularly), b) System Requirements Specifications c) Architectural and Design Documents (Schematic, pcb, protocol, ...) d) Test Documentation e) System package & the user guides (package content, installation guide & user manuals) All the documents in the project implementation process and the progress reports are required to write in English.",
+  "learning_outcomes": [
+    {
+      "No.": "1",
+      "CLO Name": "CLO1",
+      "CLO Details": "Use the knowledge of contemporary issues to identify a problem requiring technology intervention and specify the requiments for the proposed solution."
+    },
+    {
+      "No.": "2",
+      "CLO Name": "CLO2",
+      "CLO Details": "Design a iot solution, with consideration of techical & others factors."
+    },
+    {
+      "No.": "3",
+      "CLO Name": "CLO3",
+      "CLO Details": "Implement the design, including testing verification."
+    },
+    {
+      "No.": "4",
+      "CLO Name": "CLO4",
+      "CLO Details": "Apply project management principles to iot product development project."
+    },
+    {
+      "No.": "5",
+      "CLO Name": "CLO5",
+      "CLO Details": "Write a professional research report."
+    },
+    {
+      "No.": "6",
+      "CLO Name": "CLO6",
+      "CLO Details": "Practice oral presentation and inter-personal communications."
+    },
+    {
+      "No.": "7",
+      "CLO Name": "CLO7",
+      "CLO Details": "Exhibit professional working attitudes"
+    }
+  ],
+  "assessments": [
+    {
+      "No.": "1",
+      "Category": "On-going Assessment",
+      "Type": "on-going",
+      "Part": "7",
+      "Weight": "50.0%",
+      "Completion Criteria": "5",
+      "Duration": "During the CP Progress",
+      "CLO": "All CLOs",
+      "Question Type": "Report",
+      "No Question": "Topic of CP",
+      "Knowledge and Skill": "",
+      "Grading Guide": "",
+      "Note": ""
+    },
+    {
+      "No.": "2",
+      "Category": "Final Project Presentation",
+      "Type": "Final exam",
+      "Part": "1",
+      "Weight": "50.0%",
+      "Completion Criteria": "4",
+      "Duration": "~ 30 minutes for presentation,~ 60 minutes for demo and Q&A. Total is 90 minutes.",
+      "CLO": "All CLOs",
+      "Question Type": "",
+      "No Question": "CP ProjectPresentation",
+      "Knowledge and Skill": "",
+      "Grading Guide": "• Presentation mark is given by each member of defence committee for each student on final project presentation. Personal mark is the average of all marks given by members of defence committee.",
+      "Note": ""
+    }
+  ],
+  "schedule": [
+    {
+      "Session": "1",
+      "Topic": "- Discussion on the CP topic, CP Structure - Guide Report No.1: Introduction - Report No.1 Submission: Project Introduction",
+      "Learning-Teaching Type": "Offline",
+      "LO": "CLO4-CLO7",
+      "ITU": "IT",
+      "Student Materials": "- Report 1 - The Student’s Guide of Capstone Project",
+      "S-Download": "mat1",
+      "Student's Tasks": "Prepare Report No.1 Guided study: at leat 24 units per week.",
+      "URLs": ""
+    },
+    {
+      "Session": "2",
+      "Topic": "- Team Weekly Meeting: CP Topic Review & Group Division - Guide Report No.2: IOT Project Management Plan - Report No.2 Submission: Project Plan",
+      "Learning-Teaching Type": "Offline",
+      "LO": "CLO4-CLO7",
+      "ITU": "IT",
+      "Student Materials": "- Report 2 - Report 3 - The Student’s Guide of Capstone Project",
+      "S-Download": "",
+      "Student's Tasks": "Prepare Report No.2 Guided study: at leat 24 units per week. Prepare Report No.3 Update Project Introduction, Project Plan Guided study: at leat 24 units per week.",
+      "URLs": ""
+    },
+    {
+      "Session": "3",
+      "Topic": "- Team Weekly Meeting: Project Plan Review - Guide Report No.3: System Requirement Specification - Report No.3 Submission: System Requirement",
+      "Learning-Teaching Type": "Offline",
+      "LO": "CLO4-CLO7",
+      "ITU": "IT",
+      "Student Materials": "- Report 2 - Report 3 - The Student’s Guide of Capstone Project",
+      "S-Download": "",
+      "Student's Tasks": "Prepare Report No.2 Guided study: at leat 24 units per week. Prepare Report No.3 Update Project Introduction, Project Plan Guided study: at leat 24 units per week.",
+      "URLs": ""
+    },
+    {
+      "Session": "4",
+      "Topic": "- Team Weekly Meeting: Project & SR Review - Team Weekly Meeting: Project Review & Report No.4 Guide",
+      "Learning-Teaching Type": "Offline",
+      "LO": "CLO1-CLO3",
+      "ITU": "TU",
+      "Student Materials": "- Report 4 - The Student’s Guide of Capstone Project",
+      "S-Download": "",
+      "Student's Tasks": "Prepare Report No.4 Update Project Introduction, Project Plan, and SRS Documents Guided study: at leat 24 units per week.",
+      "URLs": ""
+    },
+    {
+      "Session": "5",
+      "Topic": "- Team Weekly Meeting: Project Review & Report No.4 Guide (cont.) - Report No.4 Submission: System Design",
+      "Learning-Teaching Type": "Offline",
+      "LO": "CLO1-CLO3",
+      "ITU": "TU",
+      "Student Materials": "- Report 4 - The Student’s Guide of Capstone Project",
+      "S-Download": "",
+      "Student's Tasks": "Prepare Report No.4 Update Project Introduction, Project Plan, and SRS Documents Guided study: at leat 24 units per week.",
+      "URLs": ""
+    },
+    {
+      "Session": "6",
+      "Topic": "- Team Weekly Meeting: Code/Implementation Iteration 1 Plan & Guide",
+      "Learning-Teaching Type": "Offline",
+      "LO": "CLO1-CLO3",
+      "ITU": "TU",
+      "Student Materials": "- Report 5 - The Student’s Guide of Capstone Project",
+      "S-Download": "",
+      "Student's Tasks": "Prepare Report No.5 Update Project Plan, SRS, SDD Guided study: at leat 24 units per week.",
+      "URLs": ""
+    },
+    {
+      "Session": "7",
+      "Topic": "- Team Weekly Meeting: Code/Implementation Iteration 1 Product Demo",
+      "Learning-Teaching Type": "Offline",
+      "LO": "CLO1-CLO3",
+      "ITU": "TU",
+      "Student Materials": "- Report 5 - The Student’s Guide of Capstone Project",
+      "S-Download": "",
+      "Student's Tasks": "Prepare Report No.5 Update Project Plan, SRS, SDD Guided study: at leat 24 units per week.",
+      "URLs": ""
+    },
+    {
+      "Session": "8",
+      "Topic": "- Team Weekly Meeting: Code/Implementation Iteration 2 Plan & Guide",
+      "Learning-Teaching Type": "Offline",
+      "LO": "CLO1-CLO3",
+      "ITU": "TU",
+      "Student Materials": "- Report 5 - The Student’s Guide of Capstone Project",
+      "S-Download": "",
+      "Student's Tasks": "Prepare Report No.5 Update Project Plan, SRS, SDD Guided study: at leat 24 units per week.",
+      "URLs": ""
+    },
+    {
+      "Session": "9",
+      "Topic": "- Team Weekly Meeting: Code/Implementation Iteration 2 Product Demo",
+      "Learning-Teaching Type": "Offline",
+      "LO": "CLO1-CLO3",
+      "ITU": "TU",
+      "Student Materials": "- Report 5 - The Student’s Guide of Capstone Project",
+      "S-Download": "",
+      "Student's Tasks": "Prepare Report No.5 Update Project Plan, SRS, SDD Guided study: at leat 24 units per week.",
+      "URLs": ""
+    },
+    {
+      "Session": "10",
+      "Topic": "- Team Weekly Meeting: Code/Implementation Iteration 3 Plan & Guide",
+      "Learning-Teaching Type": "Offline",
+      "LO": "CLO1-CLO3",
+      "ITU": "TU",
+      "Student Materials": "- Report 5 - The Student’s Guide of Capstone Project",
+      "S-Download": "",
+      "Student's Tasks": "Prepare Report No.5 Update Project Plan, SRS, SDD Guided study: at leat 24 units per week.",
+      "URLs": ""
+    },
+    {
+      "Session": "11",
+      "Topic": "- Team Weekly Meeting: Code/Implementation Iteration 3 Product Demo",
+      "Learning-Teaching Type": "Offline",
+      "LO": "CLO1-CLO3",
+      "ITU": "TU",
+      "Student Materials": "- Report 5 - The Student’s Guide of Capstone Project",
+      "S-Download": "",
+      "Student's Tasks": "Prepare Report No.5 Update Project Plan, SRS, SDD Guided study: at leat 24 units per week.",
+      "URLs": ""
+    },
+    {
+      "Session": "12",
+      "Topic": "- Team Weekly Meeting: System Test Plan & Guide - Team Weekly Meeting: Final Package Product Demo",
+      "Learning-Teaching Type": "Offline",
+      "LO": "CLO4-CLO7",
+      "ITU": "TU",
+      "Student Materials": "- Report 5 - The Student’s Guide of Capstone Project",
+      "S-Download": "",
+      "Student's Tasks": "Prepare Report No.5 Update Project Plan, SRS, SDD Guided study: at leat 24 units per week.",
+      "URLs": ""
+    },
+    {
+      "Session": "13",
+      "Topic": "- Team Weekly Meeting: Final Package Product Demo (cont.) - Report No.5 Submission: System Test Document (STD)",
+      "Learning-Teaching Type": "Offline",
+      "LO": "CLO4-CLO7",
+      "ITU": "TU",
+      "Student Materials": "- Report 5 - The Student’s Guide of Capstone Project",
+      "S-Download": "",
+      "Student's Tasks": "Prepare Report No.5 Update Project Plan, SRS, SDD Guided study: at leat 24 units per week.",
+      "URLs": ""
+    },
+    {
+      "Session": "14",
+      "Topic": "- Team Weekly Meeting: Project & Software Package Review - Guide Report No.6: System User manuals - Report No.6 Submission: Software User Guides",
+      "Learning-Teaching Type": "Offline",
+      "LO": "CLO4-CLO7",
+      "ITU": "TU",
+      "Student Materials": "- Report 6 - The Student’s Guide of Capstone Project",
+      "S-Download": "",
+      "Student's Tasks": "Prepare Report No.6 Guided study: at leat 24 units per week.",
+      "URLs": ""
+    },
+    {
+      "Session": "15",
+      "Topic": "- Team Weekly Meeting: Practice for Presentation of Capstone Project - Report No.7 Submission: Final Project Report, includes all the final project documents (completed Reports No. 1-6, both soft copy & hard copy), System Product, and thesis presentation slide",
+      "Learning-Teaching Type": "Offline",
+      "LO": "All CLOs",
+      "ITU": "TU",
+      "Student Materials": "- Report 7 - The Student’s Guide of Capstone Project",
+      "S-Download": "",
+      "Student's Tasks": "Prepare Final Report & Software Package Preparation for Final Presentation Guided study: at leat 24 units per week.",
+      "URLs": ""
+    }
+  ],
+  "constructive_questions": [],
+  "materials": [
+    {
+      "No.": "1",
+      "Material Description": "Graduated Regulation (Quy che tot nghiep)",
+      "Author": "",
+      "Publisher": "",
+      "Published Date": "",
+      "Edition": "",
+      "ISBN": "",
+      "Is Main Material": "True",
+      "Is Hard Copy": "False",
+      "Is Online": "False",
+      "Note": "Bản mềm, tài liệu xây dựng bởi FU"
+    },
+    {
+      "No.": "2",
+      "Material Description": "The Student’s Guide to Capstone Project (on the CMS, FLM)",
+      "Author": "",
+      "Publisher": "",
+      "Published Date": "",
+      "Edition": "",
+      "ISBN": "",
+      "Is Main Material": "True",
+      "Is Hard Copy": "False",
+      "Is Online": "False",
+      "Note": "Bản mềm, tài liệu xây dựng bởi FU"
+    }
+  ],
+  "source_path": "data/raw/syllabi/11178.html",
+  "id": "syllabus:11178"
+}

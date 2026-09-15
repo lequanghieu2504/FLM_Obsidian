@@ -1,0 +1,645 @@
+{
+  "syllabus_id": 7785,
+  "subject_code": "CQT201b",
+  "subject_name": "Create UI in C++ using Qt/QML_Xây dựng giao diện ứng dụng bằng QT/QML",
+  "syllabus_name": "Create UI in C++ using Qt/QML_Xây dựng giao diện ứng dụng bằng QT/QML",
+  "credits": 3,
+  "degree_level": "Bachelor",
+  "time_allocation": "45 hours (3 credits): - 30 online sessions (1 session = 90 minutes) - 1 final exam includes Theoretical Exam (60 minutes) and Practical Exam (120 minutes)",
+  "prerequisite": "Advanced C++ Programming (CPP201b)",
+  "general_information": {
+    "Syllabus ID": "7785",
+    "Syllabus Name": "Create UI in C++ using Qt/QML_Xây dựng giao diện ứng dụng bằng QT/QML",
+    "Course Name English": "",
+    "Subject Code": "CQT201b",
+    "Learning-Teaching Method": "",
+    "NoCredit": "3",
+    "Degree Level": "Bachelor",
+    "Time Allocation": "45 hours (3 credits): - 30 online sessions (1 session = 90 minutes) - 1 final exam includes Theoretical Exam (60 minutes) and Practical Exam (120 minutes)",
+    "Pre-Requisite": "Advanced C++ Programming (CPP201b)",
+    "Description": "The course is aim to equip learners to create convenient, fine user interface on auto. Qt is a popular framework to develop UI software application on automotive sysem. The student will learn about Principles of Qt framework; Techniques, tools and skills essentials to build UI with QML; Techniques to link UI in QML with functional logics in C++; How to use Qt framework for techniques in programming like Multithread, multi languages",
+    "StudentTasks": "- Students should self-study all lessons on LMS in time - Pass all conditions before taking final exam in campus",
+    "Tools": "",
+    "Scoring Scale": "10",
+    "DecisionNo MM/dd/yyyy": "1293/QĐ-ĐHFPT dated 12/02/2020",
+    "IsApproved": "True",
+    "Note": "",
+    "Is Scored": "True",
+    "MinAvgMarkToPass": "5",
+    "IsActive": "True",
+    "ApprovedDate": "12/2/2020"
+  },
+  "active": true,
+  "approved": true,
+  "decision": "1293/QĐ-ĐHFPT dated 12/02/2020",
+  "description": "The course is aim to equip learners to create convenient, fine user interface on auto. Qt is a popular framework to develop UI software application on automotive sysem. The student will learn about Principles of Qt framework; Techniques, tools and skills essentials to build UI with QML; Techniques to link UI in QML with functional logics in C++; How to use Qt framework for techniques in programming like Multithread, multi languages",
+  "learning_outcomes": [
+    {
+      "No.": "1",
+      "CLO Name": "CCPP201b_o1",
+      "CLO Details": "Understand and present the inheritance in C++"
+    },
+    {
+      "No.": "2",
+      "CLO Name": "CCPP201b_o2",
+      "CLO Details": "Understand the “member variables / functions” having the “protected” access modifier"
+    },
+    {
+      "No.": "3",
+      "CLO Name": "CCPP201b_o3",
+      "CLO Details": "Understand and present what the polymorphism, abstract class and virtual function are"
+    },
+    {
+      "No.": "4",
+      "CLO Name": "CCPP201b_o4",
+      "CLO Details": "Be able to design and create the base and derived classes in C++"
+    },
+    {
+      "No.": "5",
+      "CLO Name": "CCPP201b_o5",
+      "CLO Details": "Understand the generic programming concept and its necessity in C++"
+    },
+    {
+      "No.": "6",
+      "CLO Name": "CCPP201b_o6",
+      "CLO Details": "Be able to create a generic function in C++"
+    },
+    {
+      "No.": "7",
+      "CLO Name": "CCPP201b_o7",
+      "CLO Details": "Be able to create a template class in C++"
+    },
+    {
+      "No.": "8",
+      "CLO Name": "CCPP201b_o8",
+      "CLO Details": "Understand what an exception is and why the exception handling is needed"
+    },
+    {
+      "No.": "9",
+      "CLO Name": "CCPP201b_o9",
+      "CLO Details": "Be able to create classes / functions which can throw an exception"
+    },
+    {
+      "No.": "10",
+      "CLO Name": "CCPP201b_o10",
+      "CLO Details": "Be able to write code applying the handling exception"
+    },
+    {
+      "No.": "11",
+      "CLO Name": "CCPP201b_o11",
+      "CLO Details": "Be understandable about stream"
+    },
+    {
+      "No.": "12",
+      "CLO Name": "CCPP201b_o12",
+      "CLO Details": "Be able to create code working with input/output streams"
+    },
+    {
+      "No.": "13",
+      "CLO Name": "CCPP201b_o13",
+      "CLO Details": "Be able to create code with file input/output"
+    },
+    {
+      "No.": "14",
+      "CLO Name": "CCPP201b_o14",
+      "CLO Details": "Understand the container concepts in C++ like: sequence container, associative container"
+    },
+    {
+      "No.": "15",
+      "CLO Name": "CCPP201b_o15",
+      "CLO Details": "Understand the structure of a Vector"
+    },
+    {
+      "No.": "16",
+      "CLO Name": "CCPP201b_o16",
+      "CLO Details": "Understand and implement a List structure in C++"
+    },
+    {
+      "No.": "17",
+      "CLO Name": "CCPP201b_o17",
+      "CLO Details": "Understand and implement a Deque structure in C++"
+    },
+    {
+      "No.": "18",
+      "CLO Name": "CCPP201b_o18",
+      "CLO Details": "Understand and explain the Pair class"
+    },
+    {
+      "No.": "19",
+      "CLO Name": "CCPP201b_o19",
+      "CLO Details": "Understand and implement a Map structure in C++"
+    },
+    {
+      "No.": "20",
+      "CLO Name": "CCPP201b_o20",
+      "CLO Details": "Understand and explain a Set structure in C++"
+    },
+    {
+      "No.": "21",
+      "CLO Name": "CCPP201b_o21",
+      "CLO Details": "Understand the multimap and the multiset concepts"
+    },
+    {
+      "No.": "22",
+      "CLO Name": "CCPP201b_o22",
+      "CLO Details": "Understand and explain the generic algorithms"
+    },
+    {
+      "No.": "23",
+      "CLO Name": "CCPP201b_o23",
+      "CLO Details": "Understand and implement the read only and read write algorithms"
+    },
+    {
+      "No.": "24",
+      "CLO Name": "CCPP201b_o24",
+      "CLO Details": "Understand and implement the sorting algorithm with generic programming"
+    },
+    {
+      "No.": "25",
+      "CLO Name": "CCPP201b_o25",
+      "CLO Details": "Understand and explain the iterator"
+    },
+    {
+      "No.": "26",
+      "CLO Name": "CCPP201b_o26",
+      "CLO Details": "Understand, present and implement the Stack data structure"
+    },
+    {
+      "No.": "27",
+      "CLO Name": "CCPP201b_o27",
+      "CLO Details": "Understand, present and implement the Queue data structure"
+    },
+    {
+      "No.": "28",
+      "CLO Name": "CCPP201b_o28",
+      "CLO Details": "Understand and implement the Binary Tree data structure in C++"
+    },
+    {
+      "No.": "29",
+      "CLO Name": "CCPP201b_o29",
+      "CLO Details": "Understand and implement the Linked List data structure in C++"
+    },
+    {
+      "No.": "30",
+      "CLO Name": "CCPP201b_o30",
+      "CLO Details": "Understand and explain the Linear Search algorithm"
+    },
+    {
+      "No.": "31",
+      "CLO Name": "CCPP201b_o31",
+      "CLO Details": "Be able to implement the Linear Search algorithm into C++ programming language"
+    },
+    {
+      "No.": "32",
+      "CLO Name": "CCPP201b_o32",
+      "CLO Details": "Understand and present the Binary Search algorithm"
+    },
+    {
+      "No.": "33",
+      "CLO Name": "CCPP201b_o33",
+      "CLO Details": "Be able to implement the Binary Search algorithm into C++ programming language"
+    },
+    {
+      "No.": "34",
+      "CLO Name": "CCPP201b_o34",
+      "CLO Details": "Understand and implement the Selection Sort algorithm into C++ programming language"
+    },
+    {
+      "No.": "35",
+      "CLO Name": "CCPP201b_o35",
+      "CLO Details": "Understand and implement the Insertion Sort algorithm into C++ programming language"
+    },
+    {
+      "No.": "36",
+      "CLO Name": "CCPP201b_o36",
+      "CLO Details": "Understand and implement the Merge Sort algorithm into C++ programming language"
+    },
+    {
+      "No.": "37",
+      "CLO Name": "CCPP201b_o37",
+      "CLO Details": "Understand and implement the Quick Sort into C++ programming language"
+    },
+    {
+      "No.": "38",
+      "CLO Name": "CCPP201b_o38",
+      "CLO Details": "Understand the namespace concept and be able to apply it in C++ programming"
+    },
+    {
+      "No.": "39",
+      "CLO Name": "CCPP201b_o39",
+      "CLO Details": "Understand and work with std::string in C++"
+    }
+  ],
+  "assessments": [
+    {
+      "No.": "1",
+      "Category": "Assignment",
+      "Type": "on-going",
+      "Part": "4",
+      "Weight": "40.0%",
+      "Completion Criteria": ">0",
+      "Duration": "-",
+      "CLO": "",
+      "Question Type": "Practical",
+      "No Question": "1 topic/1 assignment",
+      "Knowledge and Skill": "The previous lessons",
+      "Grading Guide": "Practice and submit the result on LMS",
+      "Note": ""
+    },
+    {
+      "No.": "2",
+      "Category": "Q&A with mentor (2 questions required at least)",
+      "Type": "on-going",
+      "Part": "1",
+      "Weight": "10.0%",
+      "Completion Criteria": "10",
+      "Duration": "Within course duration",
+      "CLO": "All LOs",
+      "Question Type": "Q&A",
+      "No Question": "2 questions at least",
+      "Knowledge and Skill": "Everything related to the subject",
+      "Grading Guide": "Via facebook Hannah",
+      "Note": ""
+    },
+    {
+      "No.": "3",
+      "Category": "Quiz",
+      "Type": "on-going",
+      "Part": "1",
+      "Weight": "10.0%",
+      "Completion Criteria": "10",
+      "Duration": "2 minutes/quiz question",
+      "CLO": "",
+      "Question Type": "Multiple choice",
+      "No Question": "Depend on teachers",
+      "Knowledge and Skill": "Content of the lesson",
+      "Grading Guide": "Quiz on LMS",
+      "Note": "Quiz has 20 sections, including 16 quizes and 4 lab quizes. 1 average mark recorded only for all quiz sections"
+    },
+    {
+      "No.": "4",
+      "Category": "Final Exam",
+      "Type": "Final exam",
+      "Part": "1",
+      "Weight": "40.0%",
+      "Completion Criteria": "4",
+      "Duration": "180'",
+      "CLO": "",
+      "Question Type": "Theoretical test: Multiple choices",
+      "No Question": "40 questions, 1-3 assignments",
+      "Knowledge and Skill": "The whole course content",
+      "Grading Guide": "In campus",
+      "Note": ""
+    }
+  ],
+  "schedule": [
+    {
+      "Session": "1",
+      "Topic": "Lesson Online session 1: Course Introduction",
+      "Learning-Teaching Type": "Online",
+      "LO": "",
+      "ITU": "",
+      "Student Materials": "",
+      "S-Download": "",
+      "Student's Tasks": "",
+      "URLs": ""
+    },
+    {
+      "Session": "2",
+      "Topic": "Lesson 1. Introduction QT và Install Qt development environment Quiz 1",
+      "Learning-Teaching Type": "Online",
+      "LO": "",
+      "ITU": "",
+      "Student Materials": "",
+      "S-Download": "",
+      "Student's Tasks": "",
+      "URLs": ""
+    },
+    {
+      "Session": "3",
+      "Topic": "Lesson 2. Dissecting the QML Syntax Quiz 2",
+      "Learning-Teaching Type": "Online",
+      "LO": "",
+      "ITU": "",
+      "Student Materials": "",
+      "S-Download": "",
+      "Student's Tasks": "",
+      "URLs": ""
+    },
+    {
+      "Session": "4",
+      "Topic": "Lesson 3. Qt Quick Basic Elements & Signals and Slots Quiz 3",
+      "Learning-Teaching Type": "Online",
+      "LO": "",
+      "ITU": "",
+      "Student Materials": "",
+      "S-Download": "",
+      "Student's Tasks": "",
+      "URLs": ""
+    },
+    {
+      "Session": "5",
+      "Topic": "Lesson 4. User Input Elements Quiz 4",
+      "Learning-Teaching Type": "Online",
+      "LO": "",
+      "ITU": "",
+      "Student Materials": "",
+      "S-Download": "",
+      "Student's Tasks": "",
+      "URLs": ""
+    },
+    {
+      "Session": "6",
+      "Topic": "Lesson 5. Working with Javascript & Qt Quick Positioning Quiz 5",
+      "Learning-Teaching Type": "Online",
+      "LO": "",
+      "ITU": "",
+      "Student Materials": "",
+      "S-Download": "",
+      "Student's Tasks": "",
+      "URLs": ""
+    },
+    {
+      "Session": "7",
+      "Topic": "Assignment 1",
+      "Learning-Teaching Type": "Online",
+      "LO": "",
+      "ITU": "",
+      "Student Materials": "",
+      "S-Download": "",
+      "Student's Tasks": "",
+      "URLs": ""
+    },
+    {
+      "Session": "8",
+      "Topic": "Assignment 1",
+      "Learning-Teaching Type": "Online",
+      "LO": "",
+      "ITU": "",
+      "Student Materials": "",
+      "S-Download": "",
+      "Student's Tasks": "",
+      "URLs": ""
+    },
+    {
+      "Session": "9",
+      "Topic": "Assignment 1",
+      "Learning-Teaching Type": "Online",
+      "LO": "",
+      "ITU": "",
+      "Student Materials": "",
+      "S-Download": "",
+      "Student's Tasks": "",
+      "URLs": ""
+    },
+    {
+      "Session": "10",
+      "Topic": "Lesson 6. Qt Quick Controls & Dialogs part 1 Quiz 6",
+      "Learning-Teaching Type": "Online",
+      "LO": "",
+      "ITU": "",
+      "Student Materials": "",
+      "S-Download": "",
+      "Student's Tasks": "",
+      "URLs": ""
+    },
+    {
+      "Session": "11",
+      "Topic": "Lesson 7. Qt Quick Controls & Dialogs part 2 Quiz 7",
+      "Learning-Teaching Type": "Online",
+      "LO": "",
+      "ITU": "",
+      "Student Materials": "",
+      "S-Download": "",
+      "Student's Tasks": "",
+      "URLs": ""
+    },
+    {
+      "Session": "12",
+      "Topic": "Lesson 8. Models Views and Delegates Quiz 8",
+      "Learning-Teaching Type": "Online",
+      "LO": "",
+      "ITU": "",
+      "Student Materials": "",
+      "S-Download": "",
+      "Student's Tasks": "",
+      "URLs": ""
+    },
+    {
+      "Session": "13",
+      "Topic": "Lesson 9. Transforms, Transitions and Animations Quiz 9",
+      "Learning-Teaching Type": "Online",
+      "LO": "",
+      "ITU": "",
+      "Student Materials": "",
+      "S-Download": "",
+      "Student's Tasks": "",
+      "URLs": ""
+    },
+    {
+      "Session": "14",
+      "Topic": "Lesson 10. Networking & Storage & Qt and Qt Quick on Mobile Devices & Best Practices + BONUS Quiz 10",
+      "Learning-Teaching Type": "Online",
+      "LO": "",
+      "ITU": "",
+      "Student Materials": "",
+      "S-Download": "",
+      "Student's Tasks": "",
+      "URLs": ""
+    },
+    {
+      "Session": "15",
+      "Topic": "Assignment 2",
+      "Learning-Teaching Type": "Online",
+      "LO": "",
+      "ITU": "",
+      "Student Materials": "",
+      "S-Download": "",
+      "Student's Tasks": "",
+      "URLs": ""
+    },
+    {
+      "Session": "16",
+      "Topic": "Assignment 2",
+      "Learning-Teaching Type": "Online",
+      "LO": "",
+      "ITU": "",
+      "Student Materials": "",
+      "S-Download": "",
+      "Student's Tasks": "",
+      "URLs": ""
+    },
+    {
+      "Session": "17",
+      "Topic": "Assignment 2",
+      "Learning-Teaching Type": "Online",
+      "LO": "",
+      "ITU": "",
+      "Student Materials": "",
+      "S-Download": "",
+      "Student's Tasks": "",
+      "URLs": ""
+    },
+    {
+      "Session": "18",
+      "Topic": "Lesson 11. Introduction to basic functions of Qt part 1 Quiz 11",
+      "Learning-Teaching Type": "Online",
+      "LO": "",
+      "ITU": "",
+      "Student Materials": "",
+      "S-Download": "",
+      "Student's Tasks": "",
+      "URLs": ""
+    },
+    {
+      "Session": "19",
+      "Topic": "Lesson 12. Introduction to basic functions of Qt part 2 Quiz 12",
+      "Learning-Teaching Type": "Online",
+      "LO": "",
+      "ITU": "",
+      "Student Materials": "",
+      "S-Download": "",
+      "Student's Tasks": "",
+      "URLs": ""
+    },
+    {
+      "Session": "20",
+      "Topic": "Lesson 13. Integrating QML and C++ part 1 Quiz 13",
+      "Learning-Teaching Type": "Online",
+      "LO": "",
+      "ITU": "",
+      "Student Materials": "",
+      "S-Download": "",
+      "Student's Tasks": "",
+      "URLs": ""
+    },
+    {
+      "Session": "21",
+      "Topic": "Lesson 14. Integrating QML and C++ part 2 Quiz 14",
+      "Learning-Teaching Type": "Online",
+      "LO": "",
+      "ITU": "",
+      "Student Materials": "",
+      "S-Download": "",
+      "Student's Tasks": "",
+      "URLs": ""
+    },
+    {
+      "Session": "22",
+      "Topic": "Assignment 3",
+      "Learning-Teaching Type": "Online",
+      "LO": "",
+      "ITU": "",
+      "Student Materials": "",
+      "S-Download": "",
+      "Student's Tasks": "",
+      "URLs": ""
+    },
+    {
+      "Session": "23",
+      "Topic": "Assignment 3",
+      "Learning-Teaching Type": "Online",
+      "LO": "",
+      "ITU": "",
+      "Student Materials": "",
+      "S-Download": "",
+      "Student's Tasks": "",
+      "URLs": ""
+    },
+    {
+      "Session": "24",
+      "Topic": "Assignment 3",
+      "Learning-Teaching Type": "Online",
+      "LO": "",
+      "ITU": "",
+      "Student Materials": "",
+      "S-Download": "",
+      "Student's Tasks": "",
+      "URLs": ""
+    },
+    {
+      "Session": "25",
+      "Topic": "Lesson 15. Other extended functions of Qt framework part 1 Quiz 15",
+      "Learning-Teaching Type": "Online",
+      "LO": "",
+      "ITU": "",
+      "Student Materials": "",
+      "S-Download": "",
+      "Student's Tasks": "",
+      "URLs": ""
+    },
+    {
+      "Session": "26",
+      "Topic": "Lesson 16. Other extended functions of Qt framework part 2 Quiz 16",
+      "Learning-Teaching Type": "Online",
+      "LO": "",
+      "ITU": "",
+      "Student Materials": "",
+      "S-Download": "",
+      "Student's Tasks": "",
+      "URLs": ""
+    },
+    {
+      "Session": "27",
+      "Topic": "Assignment 4",
+      "Learning-Teaching Type": "Online",
+      "LO": "",
+      "ITU": "",
+      "Student Materials": "",
+      "S-Download": "",
+      "Student's Tasks": "",
+      "URLs": ""
+    },
+    {
+      "Session": "28",
+      "Topic": "Assignment 4",
+      "Learning-Teaching Type": "Online",
+      "LO": "",
+      "ITU": "",
+      "Student Materials": "",
+      "S-Download": "",
+      "Student's Tasks": "",
+      "URLs": ""
+    },
+    {
+      "Session": "29",
+      "Topic": "Assignment 4",
+      "Learning-Teaching Type": "Online",
+      "LO": "",
+      "ITU": "",
+      "Student Materials": "",
+      "S-Download": "",
+      "Student's Tasks": "",
+      "URLs": ""
+    },
+    {
+      "Session": "30",
+      "Topic": "Course review Final Exam",
+      "Learning-Teaching Type": "Online",
+      "LO": "",
+      "ITU": "",
+      "Student Materials": "",
+      "S-Download": "",
+      "Student's Tasks": "",
+      "URLs": ""
+    }
+  ],
+  "constructive_questions": [],
+  "materials": [
+    {
+      "No.": "1",
+      "Material Description": "Materials: - FU LMS course link: https://fu.funix.edu.vn/courses/course-v1:FUG+CQT201x_01_EN+2019_T9/info",
+      "Author": "",
+      "Publisher": "",
+      "Published Date": "",
+      "Edition": "",
+      "ISBN": "",
+      "Is Main Material": "True",
+      "Is Hard Copy": "False",
+      "Is Online": "True",
+      "Note": ""
+    }
+  ],
+  "source_path": "data/raw/syllabi/7785.html",
+  "id": "syllabus:7785"
+}

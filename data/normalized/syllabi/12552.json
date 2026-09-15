@@ -1,0 +1,283 @@
+{
+  "syllabus_id": 12552,
+  "subject_code": "ITA203c",
+  "subject_name": "Information System Overview/Nhập môn hệ thống thông tin",
+  "syllabus_name": "Information System Overview_Nhập môn HTTT",
+  "credits": 3,
+  "degree_level": "Bachelor",
+  "time_allocation": "Study hour (150h) = 39h online + 3h offline + 1h TE + 107h self-study",
+  "prerequisite": "None",
+  "general_information": {
+    "Syllabus ID": "12552",
+    "Syllabus Name": "Information System Overview_Nhập môn HTTT",
+    "Course Name English": "",
+    "Subject Code": "ITA203c",
+    "Learning-Teaching Method": "Blended,Online,Inquiry-based Teaching, active learning",
+    "NoCredit": "3",
+    "Degree Level": "Bachelor",
+    "Time Allocation": "Study hour (150h) = 39h online + 3h offline + 1h TE + 107h self-study",
+    "Pre-Requisite": "None",
+    "Description": "This intensive and hands-on series of courses gives you the skills to utilize conceptual frameworks to align IT investments with business strategy, assess the fit between business requirements and enterprise systems features, specify business requirements as information system specifications and evaluate technological alternatives for developing the IT infrastructure for the organization.",
+    "StudentTasks": "1. Student must get the certification of Information​ ​Systems specialization specialization from Coursera to be accepted to the final examination. 2. Complete the online course to be allowed to take Final Exam",
+    "Tools": "- Internet",
+    "Scoring Scale": "10",
+    "DecisionNo MM/dd/yyyy": "359/QĐ-ĐHFPT dated 04/09/2025",
+    "IsApproved": "True",
+    "Note": "1. Students complete the online courses and get all specialization certifications to be allowed to take Final Exam 2. Final Exam included Final Theory Exam (TE): 100% 3. Students who complete all MOOCs before the course deadline will receive 1 bonus point; otherwise, no bonus point will be awarded. 4. Completion Criteria: Final TE Score >=4 & (Final TE Score + bonus) >= 5",
+    "Is Scored": "True",
+    "MinAvgMarkToPass": "5",
+    "IsActive": "True",
+    "ApprovedDate": "4/9/2025"
+  },
+  "active": true,
+  "approved": true,
+  "decision": "359/QĐ-ĐHFPT dated 04/09/2025",
+  "description": "This intensive and hands-on series of courses gives you the skills to utilize conceptual frameworks to align IT investments with business strategy, assess the fit between business requirements and enterprise systems features, specify business requirements as information system specifications and evaluate technological alternatives for developing the IT infrastructure for the organization.",
+  "learning_outcomes": [
+    {
+      "No.": "1",
+      "CLO Name": "CLO1",
+      "CLO Details": "Utilize conceptual frameworks to align IT investments with business strategy"
+    },
+    {
+      "No.": "2",
+      "CLO Name": "CLO2",
+      "CLO Details": "Assess the fit between business requirements and enterprise systems features"
+    },
+    {
+      "No.": "3",
+      "CLO Name": "CLO3",
+      "CLO Details": "Specify business requirements as information system specifications"
+    },
+    {
+      "No.": "4",
+      "CLO Name": "CLO4",
+      "CLO Details": "Evaluate technological alternatives for developing the IT infrastructure for the organization"
+    }
+  ],
+  "assessments": [
+    {
+      "No.": "1",
+      "Category": "TE",
+      "Type": "Final exam",
+      "Part": "1",
+      "Weight": "100.0%",
+      "Completion Criteria": "4",
+      "Duration": "60'",
+      "CLO": "",
+      "Question Type": "Computer gradable",
+      "No Question": "60",
+      "Knowledge and Skill": "All studied courses. Each module of course contributes 2-3 questions.",
+      "Grading Guide": "by Exam Board",
+      "Note": ""
+    }
+  ],
+  "schedule": [
+    {
+      "Session": "1",
+      "Topic": "Specialization Introduction Course 1: IS/IT Governance - Course Project Introduction - IT Alignment - Evaluating IT Investments Offline 1: Introduction to the online course ITA203c",
+      "Learning-Teaching Type": "Offline,Online",
+      "LO": "LO1",
+      "ITU": "",
+      "Student Materials": "",
+      "S-Download": "",
+      "Student's Tasks": "- Watch all videos, read all materials in the MOOC - Finish quizzes, self-assessment, assignments and take part in discussion boards (if needed) All students should participate in offline slot (if any question)",
+      "URLs": ""
+    },
+    {
+      "Session": "2",
+      "Topic": "Course 1: IT Alignment - Scope Matters - Authority vs. Influence",
+      "Learning-Teaching Type": "Online",
+      "LO": "LO1",
+      "ITU": "",
+      "Student Materials": "",
+      "S-Download": "",
+      "Student's Tasks": "- Watch all videos, read all materials in the MOOC - Finish quizzes, self-assessment, assignments and take part in discussion boards (if needed)",
+      "URLs": ""
+    },
+    {
+      "Session": "3",
+      "Topic": "Course 2: Analysis for Business Systems - Introduction to Business Systems - Analysis Phase Documentation",
+      "Learning-Teaching Type": "Online",
+      "LO": "LO2",
+      "ITU": "",
+      "Student Materials": "",
+      "S-Download": "",
+      "Student's Tasks": "- Watch all videos, read all materials in the MOOC - Finish quizzes, self-assessment, assignments and take part in discussion boards (if needed)",
+      "URLs": ""
+    },
+    {
+      "Session": "4",
+      "Topic": "Course 2: Analysis for Business Systems - Analysis Phase Diagrams - Design Phase Overview",
+      "Learning-Teaching Type": "Online",
+      "LO": "LO2",
+      "ITU": "",
+      "Student Materials": "",
+      "S-Download": "",
+      "Student's Tasks": "- Watch all videos, read all materials in the MOOC - Finish quizzes, self-assessment, assignments and take part in discussion boards (if needed)",
+      "URLs": ""
+    },
+    {
+      "Session": "5",
+      "Topic": "Course 3: Enterprise Systems - Enterprise Resource Planning (ERP) Fundamentals - Business Processes in ERP",
+      "Learning-Teaching Type": "Online",
+      "LO": "LO3",
+      "ITU": "",
+      "Student Materials": "",
+      "S-Download": "",
+      "Student's Tasks": "- Watch all videos, read all materials in the MOOC - Finish quizzes, self-assessment, assignments and take part in discussion boards (if needed)",
+      "URLs": ""
+    },
+    {
+      "Session": "6",
+      "Topic": "Course 3: Enterprise Systems - Software Selection & Considerations - Change Management",
+      "Learning-Teaching Type": "Online",
+      "LO": "LO3",
+      "ITU": "",
+      "Student Materials": "",
+      "S-Download": "",
+      "Student's Tasks": "- Watch all videos, read all materials in the MOOC - Finish quizzes, self-assessment, assignments and take part in discussion boards (if needed)",
+      "URLs": ""
+    },
+    {
+      "Session": "7",
+      "Topic": "Course 4: IT Infrastructure and Emerging Trends - Cloud Computing - Mobile Communications",
+      "Learning-Teaching Type": "Online",
+      "LO": "LO4",
+      "ITU": "",
+      "Student Materials": "",
+      "S-Download": "",
+      "Student's Tasks": "- Watch all videos, read all materials in the MOOC - Finish quizzes, self-assessment, assignments and take part in discussion boards (if needed)",
+      "URLs": ""
+    },
+    {
+      "Session": "8",
+      "Topic": "Course 4: IT Infrastructure and Emerging Trends - Information Security - Emerging Trends",
+      "Learning-Teaching Type": "Online",
+      "LO": "LO4",
+      "ITU": "",
+      "Student Materials": "",
+      "S-Download": "",
+      "Student's Tasks": "- Watch all videos, read all materials in the MOOC - Finish quizzes, self-assessment, assignments and take part in discussion boards (if needed)",
+      "URLs": ""
+    },
+    {
+      "Session": "9",
+      "Topic": "Information Management System Capstone project - Feedback Peer Review - Final Project Assignment Submission",
+      "Learning-Teaching Type": "Online",
+      "LO": "All LOs",
+      "ITU": "",
+      "Student Materials": "",
+      "S-Download": "",
+      "Student's Tasks": "- Watch all videos, read all materials in the MOOC - Finish quizzes, self-assessment, assignments and take part in discussion boards (if needed)",
+      "URLs": ""
+    },
+    {
+      "Session": "10",
+      "Topic": "Information Management System Capstone project - Final Project Peer Review Evaluation - Specialization Wrap-Up Offline 2: Review Information​ ​Systems Specialization (Spec)",
+      "Learning-Teaching Type": "Offline,Online",
+      "LO": "All LOs",
+      "ITU": "",
+      "Student Materials": "",
+      "S-Download": "",
+      "Student's Tasks": "- Watch all videos, read all materials in the MOOC - Finish quizzes, self-assessment, assignments and take part in discussion boards (if needed) Deadline of Coursera completion: End of Friday of the week. All students should participate in review slot (if any question)",
+      "URLs": ""
+    }
+  ],
+  "constructive_questions": [],
+  "materials": [
+    {
+      "No.": "1",
+      "Material Description": "https://learner.coursera.help/hc/en-us/articles/208280036-Coursera-Code-of-Conduct",
+      "Author": "",
+      "Publisher": "Coursera",
+      "Published Date": "",
+      "Edition": "",
+      "ISBN": "",
+      "Is Main Material": "False",
+      "Is Hard Copy": "False",
+      "Is Online": "True",
+      "Note": ""
+    },
+    {
+      "No.": "2",
+      "Material Description": "Ref: Management Information Systems",
+      "Author": "Kenneth C. Laudon & Jame P. Laudon",
+      "Publisher": "",
+      "Published Date": "",
+      "Edition": "13th Edition",
+      "ISBN": "",
+      "Is Main Material": "False",
+      "Is Hard Copy": "True",
+      "Is Online": "False",
+      "Note": ""
+    },
+    {
+      "No.": "3",
+      "Material Description": "https://www.coursera.org/learn/is-it-governance",
+      "Author": "",
+      "Publisher": "Coursera",
+      "Published Date": "",
+      "Edition": "",
+      "ISBN": "",
+      "Is Main Material": "True",
+      "Is Hard Copy": "False",
+      "Is Online": "True",
+      "Note": "MOOC 01: IS/IT Governance"
+    },
+    {
+      "No.": "4",
+      "Material Description": "https://www.coursera.org/learn/analysis-for-business-systems",
+      "Author": "",
+      "Publisher": "Coursera",
+      "Published Date": "",
+      "Edition": "",
+      "ISBN": "",
+      "Is Main Material": "True",
+      "Is Hard Copy": "False",
+      "Is Online": "True",
+      "Note": "MOOC 02: Analysis for Business Systems"
+    },
+    {
+      "No.": "5",
+      "Material Description": "https://www.coursera.org/learn/enterprise-systems",
+      "Author": "",
+      "Publisher": "Coursera",
+      "Published Date": "",
+      "Edition": "",
+      "ISBN": "",
+      "Is Main Material": "True",
+      "Is Hard Copy": "False",
+      "Is Online": "True",
+      "Note": "MOOC 03: Enterprise Systems"
+    },
+    {
+      "No.": "6",
+      "Material Description": "https://www.coursera.org/learn/it-infrastructure-and-emerging-trends",
+      "Author": "",
+      "Publisher": "Coursera",
+      "Published Date": "",
+      "Edition": "",
+      "ISBN": "",
+      "Is Main Material": "True",
+      "Is Hard Copy": "False",
+      "Is Online": "True",
+      "Note": "MOOC 04: IT Infrastructure and Emerging Trends"
+    },
+    {
+      "No.": "7",
+      "Material Description": "https://www.coursera.org/specializations/information-systems",
+      "Author": "",
+      "Publisher": "Coursera",
+      "Published Date": "",
+      "Edition": "",
+      "ISBN": "",
+      "Is Main Material": "True",
+      "Is Hard Copy": "False",
+      "Is Online": "True",
+      "Note": "SPEC: Information​ ​Systems"
+    }
+  ],
+  "source_path": "data/raw/syllabi/12552.html",
+  "id": "syllabus:12552"
+}

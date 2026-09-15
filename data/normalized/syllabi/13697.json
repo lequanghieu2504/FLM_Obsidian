@@ -1,0 +1,258 @@
+{
+  "syllabus_id": 13697,
+  "subject_code": "ETB201c",
+  "subject_name": "Entertainment business_Kinh doanh giải trí",
+  "syllabus_name": "Entertainment business_Kinh doanh giải trí",
+  "credits": 3,
+  "degree_level": "Bachelor",
+  "time_allocation": "Study hour (150h) = 68h online + 3h offline + 1h Final exam + 78h self-study",
+  "prerequisite": "None",
+  "general_information": {
+    "Syllabus ID": "13697",
+    "Syllabus Name": "Entertainment business_Kinh doanh giải trí",
+    "Course Name English": "Entertainment business",
+    "Subject Code": "ETB201c",
+    "Learning-Teaching Method": "Online",
+    "NoCredit": "3",
+    "Degree Level": "Bachelor",
+    "Time Allocation": "Study hour (150h) = 68h online + 3h offline + 1h Final exam + 78h self-study",
+    "Pre-Requisite": "None",
+    "Description": "This course provides students with the knowledge and experience necessary for success in the entertainment industry. It comprises two parts: First, \"Entertainment Business Foundations,\" which focuses on the music industry, provides a comprehensive overview, including the industry's history and role dynamics. In the second section, you'll explore the intersection of fandom, popular culture, and digital media, learning how to analyse popular culture products, map fan networks, and understand the links between popular culture and the political and commercial factors that shape its production, distribution, and consumption.",
+    "StudentTasks": "1. Join the online course (spec.) when being invited by the admin. 2. Enroll in each MOOC of spec., regularly study MOOCs at least 5hrs/week by watching videos, reading materials, taking quizzes, doing assignments... as required 3. Respect the Coursera Code of Conduct, at https://learner.coursera.help/hc/en-us/articles/208280036-Coursera-Code-of-Conduct 3. Keep online learning progress promptly (bonus will be awarded) 4. Communicate and discuss in forum 5. Attend offline sessions in the Campus (Optional) 6. Must complete all MOOCs of spec. with certification in order to take the Final Exam at Campus",
+    "Tools": "",
+    "Scoring Scale": "10",
+    "DecisionNo MM/dd/yyyy": "1318/QĐ-ĐHFPT dated 11/27/2025",
+    "IsApproved": "True",
+    "Note": "1) Ongoing assessment: Students who complete all MOOCs before the course deadline will receive 1 bonus point; otherwise, no bonus point will be awarded. 2) Theoretical Exam (TE) 3) Final Result (FR) =min (10, TE + Bonus) 4) Completion Criteria: TE>=4 and FR>=5",
+    "Is Scored": "True",
+    "MinAvgMarkToPass": "5",
+    "IsActive": "True",
+    "ApprovedDate": "11/27/2025"
+  },
+  "active": true,
+  "approved": true,
+  "decision": "1318/QĐ-ĐHFPT dated 11/27/2025",
+  "description": "This course provides students with the knowledge and experience necessary for success in the entertainment industry. It comprises two parts: First, \"Entertainment Business Foundations,\" which focuses on the music industry, provides a comprehensive overview, including the industry's history and role dynamics. In the second section, you'll explore the intersection of fandom, popular culture, and digital media, learning how to analyse popular culture products, map fan networks, and understand the links between popular culture and the political and commercial factors that shape its production, distribution, and consumption.",
+  "learning_outcomes": [
+    {
+      "No.": "1",
+      "CLO Name": "CLO1",
+      "CLO Details": "Gain comprehension of theoretical and practical expertise for a music industry vocation"
+    },
+    {
+      "No.": "2",
+      "CLO Name": "CLO2",
+      "CLO Details": "Possess a high level of proficiency proficiency in shaping artist identity, cultivating fanbases, and mastering entrepreneurship"
+    },
+    {
+      "No.": "3",
+      "CLO Name": "CLO3",
+      "CLO Details": "Demonstrate the ability to analyze links between popular culture, politics, and commercial influences."
+    },
+    {
+      "No.": "4",
+      "CLO Name": "CLO4",
+      "CLO Details": "Develop the capacity to influence fan identity online and engage in cooperative efforts to establish a community-driven platform for fandom."
+    },
+    {
+      "No.": "5",
+      "CLO Name": "CLO5",
+      "CLO Details": "Develop self-study and lifelong learning spirit and capabilities to adapt to the constant change of technology and society."
+    }
+  ],
+  "assessments": [
+    {
+      "No.": "1",
+      "Category": "Theoretical Exam (TE)",
+      "Type": "Final exam",
+      "Part": "1",
+      "Weight": "100.0%",
+      "Completion Criteria": "4",
+      "Duration": "60 phút",
+      "CLO": "All LOs",
+      "Question Type": "Multiple choice and case study",
+      "No Question": "50",
+      "Knowledge and Skill": "The whole course content.",
+      "Grading Guide": "by Exam Board",
+      "Note": ""
+    }
+  ],
+  "schedule": [
+    {
+      "Session": "1",
+      "Topic": "(Off-line 1.5h) Introduction to the online course ETB201c 'MOOC 1:Music Business Foundations ('Spec 1: Music Business Specialization)",
+      "Learning-Teaching Type": "Online, Offline",
+      "LO": "CLO1, CLO2",
+      "ITU": "I,T",
+      "Student Materials": "Syllabus môn ETCB201c https://www.coursera.org/learn/music-business-foundations?specialization=music-business",
+      "S-Download": "",
+      "Student's Tasks": "Enroll to the spec on Coursera for FPT University Platform '- Watch all videos, read all materials in the MOOC - Finish quizzes, self-assessment, assignments and take part in discussion boards (if needed)",
+      "URLs": ""
+    },
+    {
+      "Session": "2",
+      "Topic": "'MOOC 1:Music Business Foundations ('Spec 1: Music Business Specialization)",
+      "Learning-Teaching Type": "Online",
+      "LO": "CLO1, CLO2",
+      "ITU": "I,T",
+      "Student Materials": "Syllabus môn ETCB201c https://www.coursera.org/learn/music-business-foundations?specialization=music-business",
+      "S-Download": "",
+      "Student's Tasks": "'- Watch all videos, read all materials in the MOOC - Finish quizzes, self-assessment, assignments and take part in discussion boards (if needed)",
+      "URLs": ""
+    },
+    {
+      "Session": "3",
+      "Topic": "MOOC 2:Building Your Career in Music: Developing A Brand and Funding Your Music ('Spec1: Music Business Specialization)",
+      "Learning-Teaching Type": "Online",
+      "LO": "CLO1, CLO2",
+      "ITU": "I,T",
+      "Student Materials": "https://www.coursera.org/learn/navigate-music-industry-independent-artist?specialization=music-business.",
+      "S-Download": "",
+      "Student's Tasks": "- Watch all videos, read all materials in the MOOC - Finish quizzes, self-assessment, assignments and take part in discussion boards (if needed)",
+      "URLs": ""
+    },
+    {
+      "Session": "4",
+      "Topic": "MOOC 2:Building Your Career in Music: Developing A Brand and Funding Your Music ('Spec1: Music Business Specialization)",
+      "Learning-Teaching Type": "Online",
+      "LO": "CLO1, CLO2",
+      "ITU": "I,T",
+      "Student Materials": "https://www.coursera.org/learn/navigate-music-industry-independent-artist?specialization=music-business.",
+      "S-Download": "",
+      "Student's Tasks": "- Watch all videos, read all materials in the MOOC - Finish quizzes, self-assessment, assignments and take part in discussion boards (if needed)",
+      "URLs": ""
+    },
+    {
+      "Session": "5",
+      "Topic": "MOOC 3:Copyright Law in the Music Business (Spec 1: Music Business Specialization)",
+      "Learning-Teaching Type": "Online",
+      "LO": "CLO1, CLO2",
+      "ITU": "I,T",
+      "Student Materials": "https://www.coursera.org/learn/copyright-law-music-business?specialization=music-business",
+      "S-Download": "",
+      "Student's Tasks": "- Watch all videos, read all materials in the MOOC - Finish quizzes, self-assessment, assignments and take part in discussion boards (if needed)",
+      "URLs": ""
+    },
+    {
+      "Session": "6",
+      "Topic": "MOOC 4: Creativity And Entrepreneurship (Spec 1: Music Business Specialization)",
+      "Learning-Teaching Type": "Online",
+      "LO": "CLO1, CLO2",
+      "ITU": "I,T",
+      "Student Materials": "https://www.coursera.org/learn/creativity-entrepreneurship?specialization=music-business",
+      "S-Download": "",
+      "Student's Tasks": "- Watch all videos, read all materials in the MOOC - Finish quizzes, self-assessment, assignments and take part in discussion boards (if needed)",
+      "URLs": ""
+    },
+    {
+      "Session": "7",
+      "Topic": "MOOC 1:Fandom, Social Media, and Authenticity in the Digital Age (Spec 2: Fandom and Popular Culture in the Digital Age Specialization)",
+      "Learning-Teaching Type": "Online",
+      "LO": "CLO3, CLO4",
+      "ITU": "U",
+      "Student Materials": "https://www.coursera.org/learn/fandom-social-media-authenticity-digital-age?specialization=fandom-popular-culture-digital-age",
+      "S-Download": "",
+      "Student's Tasks": "- Watch all videos, read all materials in the MOOC - Finish quizzes, self-assessment, assignments and take part in discussion boards (if needed)",
+      "URLs": ""
+    },
+    {
+      "Session": "8",
+      "Topic": "MOOC 1:Fandom, Social Media, and Authenticity in the Digital Age (cont.) (Spec 2: Fandom and Popular Culture in the Digital Age Specialization)",
+      "Learning-Teaching Type": "Online",
+      "LO": "CLO3, CLO4",
+      "ITU": "I,T",
+      "Student Materials": "https://www.coursera.org/learn/fandom-social-media-authenticity-digital-age?specialization=fandom-popular-culture-digital-age",
+      "S-Download": "",
+      "Student's Tasks": "- Watch all videos, read all materials in the MOOC - Finish quizzes, self-assessment, assignments and take part in discussion boards (if needed)",
+      "URLs": ""
+    },
+    {
+      "Session": "9",
+      "Topic": "MOOC 1:Fandom, Social Media, and Authenticity in the Digital Age (cont.) (Spec 2: Fandom and Popular Culture in the Digital Age Specialization)",
+      "Learning-Teaching Type": "Online",
+      "LO": "CLO3, CLO4",
+      "ITU": "I,T",
+      "Student Materials": "https://www.coursera.org/learn/fandom-social-media-authenticity-digital-age?specialization=fandom-popular-culture-digital-age",
+      "S-Download": "",
+      "Student's Tasks": "- Watch all videos, read all materials in the MOOC - Finish quizzes, self-assessment, assignments and take part in discussion boards (if needed)",
+      "URLs": ""
+    },
+    {
+      "Session": "10",
+      "Topic": "MOOC 2: Fundamentals of Social Media Advertising (Spec 2: Fandom and Popular Culture in the Digital Age Specialization)",
+      "Learning-Teaching Type": "Online",
+      "LO": "CLO3, CLO4",
+      "ITU": "I,T",
+      "Student Materials": "https://www.coursera.org/learn/fandom-community-identity-popular-music?specialization=fandom-popular-culture-digital-age",
+      "S-Download": "",
+      "Student's Tasks": "- All students should participate in review slot (if any question)",
+      "URLs": ""
+    },
+    {
+      "Session": "11",
+      "Topic": "MOOC 2: Fundamentals of Social Media Advertising (Spec 2: Fandom and Popular Culture in the Digital Age Specialization)",
+      "Learning-Teaching Type": "Online",
+      "LO": "CLO3, CLO4",
+      "ITU": "I,T",
+      "Student Materials": "https://www.coursera.org/learn/fandom-community-identity-popular-music?specialization=fandom-popular-culture-digital-age",
+      "S-Download": "",
+      "Student's Tasks": "- Watch all videos, read all materials in the MOOC - Finish quizzes, self-assessment, assignments and take part in discussion boards (if needed)",
+      "URLs": ""
+    },
+    {
+      "Session": "12",
+      "Topic": "Review Spec 1, 2 Deadline of coursera completion: End of Friday of the week.",
+      "Learning-Teaching Type": "Online, Offline",
+      "LO": "CLO1, CLO2, CLO3, CLO4, CLO5",
+      "ITU": "U",
+      "Student Materials": "Spec 1,2",
+      "S-Download": "",
+      "Student's Tasks": "- All students should participate in review slot (if any question)",
+      "URLs": ""
+    }
+  ],
+  "constructive_questions": [],
+  "materials": [
+    {
+      "No.": "1",
+      "Material Description": "https://www.coursera.org/specializations/music-business?",
+      "Author": "",
+      "Publisher": "Coursera",
+      "Published Date": "",
+      "Edition": "",
+      "ISBN": "",
+      "Is Main Material": "True",
+      "Is Hard Copy": "False",
+      "Is Online": "True",
+      "Note": "Spec: Music Business Specialization (35h)"
+    },
+    {
+      "No.": "2",
+      "Material Description": "Mooc 1: 'https://www.coursera.org/learn/fandom-social-media-authenticity-digital-age?specialization=fandom-popular-culture-digital-age (Spec 2: https://www.coursera.org/specializations/fandom-popular-culture-digital-age)",
+      "Author": "",
+      "Publisher": "Coursera",
+      "Published Date": "",
+      "Edition": "",
+      "ISBN": "",
+      "Is Main Material": "True",
+      "Is Hard Copy": "False",
+      "Is Online": "True",
+      "Note": "MOOC 1: Fandom, Social Media, and Authenticity in the Digital Age (15h)Spec 2:Fandom and Popular Culture in the Digital Age Specialization"
+    },
+    {
+      "No.": "3",
+      "Material Description": "Mooc 2: https://www.coursera.org/learn/fandom-community-identity-popular-music?specialization=fandom-popular-culture-digital-age (Spec 2: https://www.coursera.org/specializations/fandom-popular-culture-digital-age)",
+      "Author": "",
+      "Publisher": "Coursera",
+      "Published Date": "",
+      "Edition": "",
+      "ISBN": "",
+      "Is Main Material": "True",
+      "Is Hard Copy": "False",
+      "Is Online": "True",
+      "Note": "MOOC 2: Fandom, Community, and Identity in Popular Music (12h)Spec 2: Fandom and Popular Culture in the Digital Age Specialization"
+    }
+  ],
+  "source_path": "data/raw/syllabi/13697.html",
+  "id": "syllabus:13697"
+}

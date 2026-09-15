@@ -1,0 +1,1069 @@
+{
+  "syllabus_id": 7884,
+  "subject_code": "HCI201",
+  "subject_name": "Human-Computer Interaction",
+  "syllabus_name": "Human Computer Interaction_Tương tác người máy",
+  "credits": 3,
+  "degree_level": "Bachelor",
+  "time_allocation": "Study hour (150h) = 45h contact hours + 1h final exam + 104h self-study",
+  "prerequisite": "SWE10x",
+  "general_information": {
+    "Syllabus ID": "7884",
+    "Syllabus Name": "Human Computer Interaction_Tương tác người máy",
+    "Course Name English": "Human Computer Interaction",
+    "Subject Code": "HCI201",
+    "Learning-Teaching Method": "",
+    "NoCredit": "3",
+    "Degree Level": "Bachelor",
+    "Time Allocation": "Study hour (150h) = 45h contact hours + 1h final exam + 104h self-study",
+    "Pre-Requisite": "SWE10x",
+    "Description": "This course provides an introduction to these areas below: - Provides an introduction to interaction design - How theory and research findings have been applied to interaction design. - Comprehensive view of the various interface design - Data gathering, analysis, interpretation and presentation in Interaction Design - Techniques for establishing requirements, prototyping and design - Various approaches to evaluation design Assessment scheme: 1) On-going Assessment: - At least 3 progress tests: 25% - 02 Assignments: 30% - 01 presentation: 5% 2) Final exam: 40% (ABET c) 3) Final Result: 100% Completion Criteria: 1) Every on-going assessment component >0 2) Final Exam Score >=4 & Final Result >=5",
+    "StudentTasks": "- Students must attend more than 80% of contact slots in order to be accepted to the final examination. - Student is responsible to do all exercises given by instructor beffore, in and after class and submit on time - Constantly follow announcements on intranet/CMS at http://cms.fpt.edu.vn for up-to-date course information regarding assignment submission and feedback on assignments and project work.",
+    "Tools": "Reference: 1Human-Computer Interaction. Serengul Smith-Atakan, Middlesex University Press, Thomson Learning, 2006 (in which there are guidelines how to use the book, and activities, review questions for each chapter) - chapter presentations (ppt.) - case studies (pdf) - additional resources (.doc) in a CD-ROM 2) Articles and activities on http://www.id-book.com/ Technical requirements:: - Project assignment(s) of this course is preferable to be integrated in a .NET (or Java) project . - Internet access",
+    "Scoring Scale": "10",
+    "DecisionNo MM/dd/yyyy": "703/QĐ-ĐHFPT dated 08/17/2022",
+    "IsApproved": "True",
+    "Note": "",
+    "Is Scored": "True",
+    "MinAvgMarkToPass": "5",
+    "IsActive": "True",
+    "ApprovedDate": "8/17/2022"
+  },
+  "active": true,
+  "approved": true,
+  "decision": "703/QĐ-ĐHFPT dated 08/17/2022",
+  "description": "This course provides an introduction to these areas below: - Provides an introduction to interaction design - How theory and research findings have been applied to interaction design. - Comprehensive view of the various interface design - Data gathering, analysis, interpretation and presentation in Interaction Design - Techniques for establishing requirements, prototyping and design - Various approaches to evaluation design Assessment scheme: 1) On-going Assessment: - At least 3 progress tests: 25% - 02 Assignments: 30% - 01 presentation: 5% 2) Final exam: 40% (ABET c) 3) Final Result: 100% Completion Criteria: 1) Every on-going assessment component >0 2) Final Exam Score >=4 & Final Result >=5",
+  "learning_outcomes": [],
+  "assessments": [
+    {
+      "No.": "1",
+      "Category": "Assignment",
+      "Type": "on-going",
+      "Part": "2",
+      "Weight": "30.0%",
+      "Completion Criteria": ">0",
+      "Duration": "Option 1: 1 week Option 2 (For Constructivism Approach only): Follow lecturer's proposal",
+      "CLO": "",
+      "Question Type": "Option 1: Open question Option 2 (For Constructivism Approach only): Follow lecturer's proposal",
+      "No Question": "Option 1: N/A Option 2 (For Constructivism Approach only): Follow lecturer's proposal",
+      "Knowledge and Skill": "Software prototype",
+      "Grading Guide": "by instructor",
+      "Note": ""
+    },
+    {
+      "No.": "2",
+      "Category": "Presentation",
+      "Type": "on-going",
+      "Part": "1",
+      "Weight": "5.0%",
+      "Completion Criteria": ">0",
+      "Duration": "Option 1: N/A Option 2 (For Constructivism Approach only): Follow lecturer's proposal",
+      "CLO": "",
+      "Question Type": "Option 1: N/A Option 2 (For Constructivism Approach only): Follow lecturer's proposal",
+      "No Question": "Option 1: N/A Option 2 (For Constructivism Approach only): Follow lecturer's proposal",
+      "Knowledge and Skill": "a given topic in the Chapter 6",
+      "Grading Guide": "group presentation in class",
+      "Note": ""
+    },
+    {
+      "No.": "3",
+      "Category": "Progress Test",
+      "Type": "on-going",
+      "Part": "3",
+      "Weight": "25.0%",
+      "Completion Criteria": ">0",
+      "Duration": "Option 1: 10'-45' depending on scope Option 2 (For Constructivism Approach only): Follow lecturer's proposal",
+      "CLO": "",
+      "Question Type": "Option 1: MC or a suitable format Option 2 (For Constructivism Approach only): Follow lecturer's proposal",
+      "No Question": "'Option 1: 5-40 (At least 5*n questions where n is the number of Chapters covered in the test.) Option 2 (For Constructivism Approach only): Follow lecturer's proposal",
+      "Knowledge and Skill": "Current chapter(s) Each Progess Test covers at least 01 Chapter and at most 04 Chapters, and overall they must cover all learned Chapters of the course.",
+      "Grading Guide": "by instructor, and by suitable means (computer, paper, oral...)",
+      "Note": "Instruction and shedules for Progress tests must be presented in the Course Implementation Plan approved by director of the campus. Progress test must be taken right after the last lectures of required material. Instructor has resposibility to review the test for students after graded."
+    },
+    {
+      "No.": "4",
+      "Category": "Final exam",
+      "Type": "Final exam",
+      "Part": "1",
+      "Weight": "40.0%",
+      "Completion Criteria": "4",
+      "Duration": "60'",
+      "CLO": "",
+      "Question Type": "Computer gradable",
+      "No Question": "60",
+      "Knowledge and Skill": "all studied chapters, but with more focus on chapters 1, 9, 10, 11, 12; more than 70% new questions (for the current semester);",
+      "Grading Guide": "by exam board",
+      "Note": ""
+    }
+  ],
+  "schedule": [
+    {
+      "Session": "1",
+      "Topic": "Course Instruction",
+      "Learning-Teaching Type": "Offline",
+      "LO": "",
+      "ITU": "",
+      "Student Materials": "Book Chapter 1",
+      "S-Download": "HCI201",
+      "Student's Tasks": "Book Review questions Activities CMS",
+      "URLs": ""
+    },
+    {
+      "Session": "2",
+      "Topic": "Course Instruction",
+      "Learning-Teaching Type": "Offline",
+      "LO": "",
+      "ITU": "",
+      "Student Materials": "Book Chapter 1",
+      "S-Download": "HCI201",
+      "Student's Tasks": "Book Review questions Activities CMS",
+      "URLs": ""
+    },
+    {
+      "Session": "3",
+      "Topic": "Chapter 1: What is interaction design? \"Guide exercises & activity Assignment 1 introduction Define presentation topics\"",
+      "Learning-Teaching Type": "Offline",
+      "LO": "",
+      "ITU": "",
+      "Student Materials": "Book Chapter 1",
+      "S-Download": "HCI201",
+      "Student's Tasks": "Book Review questions Activities CMS",
+      "URLs": ""
+    },
+    {
+      "Session": "4",
+      "Topic": "Chapter 1: What is interaction design? \"Guide exercises & activity Assignment 1 introduction Define presentation topics\"",
+      "Learning-Teaching Type": "Offline",
+      "LO": "",
+      "ITU": "",
+      "Student Materials": "Book Chapter 1",
+      "S-Download": "HCI201",
+      "Student's Tasks": "Book Review questions Activities CMS",
+      "URLs": ""
+    },
+    {
+      "Session": "5",
+      "Topic": "Progress test and/or Review exercises & activity Chapter 2: Understanding and conceptualizing interaction",
+      "Learning-Teaching Type": "Offline",
+      "LO": "",
+      "ITU": "",
+      "Student Materials": "Book Chapter 2",
+      "S-Download": "",
+      "Student's Tasks": "Book Review questions Activities CMS",
+      "URLs": ""
+    },
+    {
+      "Session": "6",
+      "Topic": "Progress test and/or Review exercises & activity Chapter 2: Understanding and conceptualizing interaction",
+      "Learning-Teaching Type": "Offline",
+      "LO": "",
+      "ITU": "",
+      "Student Materials": "Book Chapter 2",
+      "S-Download": "",
+      "Student's Tasks": "Book Review questions Activities CMS",
+      "URLs": ""
+    },
+    {
+      "Session": "7",
+      "Topic": "Chapter 2: Understanding and conceptualizing interaction",
+      "Learning-Teaching Type": "Offline",
+      "LO": "",
+      "ITU": "",
+      "Student Materials": "Book Chapter 2",
+      "S-Download": "",
+      "Student's Tasks": "Book Review questions Activities CMS",
+      "URLs": ""
+    },
+    {
+      "Session": "8",
+      "Topic": "Chapter 2: Understanding and conceptualizing interaction",
+      "Learning-Teaching Type": "Offline",
+      "LO": "",
+      "ITU": "",
+      "Student Materials": "Book Chapter 2",
+      "S-Download": "",
+      "Student's Tasks": "Book Review questions Activities CMS",
+      "URLs": ""
+    },
+    {
+      "Session": "9",
+      "Topic": "Guide exercises & activity Progress test and/or Review exercises & activity",
+      "Learning-Teaching Type": "Offline",
+      "LO": "",
+      "ITU": "",
+      "Student Materials": "Book Chapter 2",
+      "S-Download": "",
+      "Student's Tasks": "Book Review questions Activities CMS",
+      "URLs": ""
+    },
+    {
+      "Session": "10",
+      "Topic": "Guide exercises & activity Progress test and/or Review exercises & activity",
+      "Learning-Teaching Type": "Offline",
+      "LO": "",
+      "ITU": "",
+      "Student Materials": "Book Chapter 2",
+      "S-Download": "",
+      "Student's Tasks": "Book Review questions Activities CMS",
+      "URLs": ""
+    },
+    {
+      "Session": "11",
+      "Topic": "Progress test and/or Review exercises & activity Chapter 3 : Understanding users (3e: Cognitive aspects)",
+      "Learning-Teaching Type": "Offline",
+      "LO": "",
+      "ITU": "",
+      "Student Materials": "Book Chapter 3",
+      "S-Download": "",
+      "Student's Tasks": "Book Review questions Activities CMS",
+      "URLs": ""
+    },
+    {
+      "Session": "12",
+      "Topic": "Progress test and/or Review exercises & activity Chapter 3 : Understanding users (3e: Cognitive aspects)",
+      "Learning-Teaching Type": "Offline",
+      "LO": "",
+      "ITU": "",
+      "Student Materials": "Book Chapter 3",
+      "S-Download": "",
+      "Student's Tasks": "Book Review questions Activities CMS",
+      "URLs": ""
+    },
+    {
+      "Session": "13",
+      "Topic": "Guide exercises & activity Progress test and/or Review exercises & activity",
+      "Learning-Teaching Type": "Offline",
+      "LO": "",
+      "ITU": "",
+      "Student Materials": "Book Chapter 3",
+      "S-Download": "",
+      "Student's Tasks": "Book Review questions Activities CMS",
+      "URLs": ""
+    },
+    {
+      "Session": "14",
+      "Topic": "Guide exercises & activity Progress test and/or Review exercises & activity",
+      "Learning-Teaching Type": "Offline",
+      "LO": "",
+      "ITU": "",
+      "Student Materials": "Book Chapter 3",
+      "S-Download": "",
+      "Student's Tasks": "Book Review questions Activities CMS",
+      "URLs": ""
+    },
+    {
+      "Session": "15",
+      "Topic": "Progress test and/or Review exercises & activity Chapter 4: Designing for collaboration and comunication (3e: Social interaction)",
+      "Learning-Teaching Type": "Offline",
+      "LO": "",
+      "ITU": "",
+      "Student Materials": "Book Chapter 4",
+      "S-Download": "",
+      "Student's Tasks": "Book Review questions Activities CMS",
+      "URLs": ""
+    },
+    {
+      "Session": "16",
+      "Topic": "Progress test and/or Review exercises & activity Chapter 4: Designing for collaboration and comunication (3e: Social interaction)",
+      "Learning-Teaching Type": "Offline",
+      "LO": "",
+      "ITU": "",
+      "Student Materials": "Book Chapter 4",
+      "S-Download": "",
+      "Student's Tasks": "Book Review questions Activities CMS",
+      "URLs": ""
+    },
+    {
+      "Session": "17",
+      "Topic": "Chapter 4: Designing for collaboration and comunication (3e: Social interaction) Guide exercises & activity",
+      "Learning-Teaching Type": "Offline",
+      "LO": "",
+      "ITU": "",
+      "Student Materials": "Book Chapter 4",
+      "S-Download": "",
+      "Student's Tasks": "Book Review questions Activities CMS",
+      "URLs": ""
+    },
+    {
+      "Session": "18",
+      "Topic": "Chapter 4: Designing for collaboration and comunication (3e: Social interaction) Guide exercises & activity",
+      "Learning-Teaching Type": "Offline",
+      "LO": "",
+      "ITU": "",
+      "Student Materials": "Book Chapter 4",
+      "S-Download": "",
+      "Student's Tasks": "Book Review questions Activities CMS",
+      "URLs": ""
+    },
+    {
+      "Session": "19",
+      "Topic": "\"Progress test and/or Review exercises & activity\"",
+      "Learning-Teaching Type": "Offline",
+      "LO": "",
+      "ITU": "",
+      "Student Materials": "",
+      "S-Download": "",
+      "Student's Tasks": "",
+      "URLs": ""
+    },
+    {
+      "Session": "20",
+      "Topic": "\"Progress test and/or Review exercises & activity\"",
+      "Learning-Teaching Type": "Offline",
+      "LO": "",
+      "ITU": "",
+      "Student Materials": "",
+      "S-Download": "",
+      "Student's Tasks": "",
+      "URLs": ""
+    },
+    {
+      "Session": "21",
+      "Topic": "Chapter 5: Affective aspects (3e: Emotional interaction)",
+      "Learning-Teaching Type": "Offline",
+      "LO": "",
+      "ITU": "",
+      "Student Materials": "Book Chapter 5",
+      "S-Download": "",
+      "Student's Tasks": "Book Review questions Activities CMS",
+      "URLs": ""
+    },
+    {
+      "Session": "22",
+      "Topic": "Chapter 5: Affective aspects (3e: Emotional interaction)",
+      "Learning-Teaching Type": "Offline",
+      "LO": "",
+      "ITU": "",
+      "Student Materials": "Book Chapter 5",
+      "S-Download": "",
+      "Student's Tasks": "Book Review questions Activities CMS",
+      "URLs": ""
+    },
+    {
+      "Session": "23",
+      "Topic": "Guide exercises & activity Progress test and/or Review exercises & activity",
+      "Learning-Teaching Type": "Offline",
+      "LO": "",
+      "ITU": "",
+      "Student Materials": "Book Chapter 5",
+      "S-Download": "",
+      "Student's Tasks": "Book Review questions Activities CMS",
+      "URLs": ""
+    },
+    {
+      "Session": "24",
+      "Topic": "Guide exercises & activity Progress test and/or Review exercises & activity",
+      "Learning-Teaching Type": "Offline",
+      "LO": "",
+      "ITU": "",
+      "Student Materials": "Book Chapter 5",
+      "S-Download": "",
+      "Student's Tasks": "Book Review questions Activities CMS",
+      "URLs": ""
+    },
+    {
+      "Session": "25",
+      "Topic": "Chapter 6: Intefaces and interactions (3e: Interfaces)",
+      "Learning-Teaching Type": "Offline",
+      "LO": "",
+      "ITU": "",
+      "Student Materials": "Book Chapter 6",
+      "S-Download": "",
+      "Student's Tasks": "Book Review questions Activities CMS",
+      "URLs": ""
+    },
+    {
+      "Session": "26",
+      "Topic": "Chapter 6: Intefaces and interactions (3e: Interfaces)",
+      "Learning-Teaching Type": "Offline",
+      "LO": "",
+      "ITU": "",
+      "Student Materials": "Book Chapter 6",
+      "S-Download": "",
+      "Student's Tasks": "Book Review questions Activities CMS",
+      "URLs": ""
+    },
+    {
+      "Session": "27",
+      "Topic": "Guide exercises & activity Assignment 2 introduction",
+      "Learning-Teaching Type": "Offline",
+      "LO": "",
+      "ITU": "",
+      "Student Materials": "Book Chapter 6",
+      "S-Download": "",
+      "Student's Tasks": "Book Review questions Activities CMS",
+      "URLs": ""
+    },
+    {
+      "Session": "28",
+      "Topic": "Guide exercises & activity Assignment 2 introduction",
+      "Learning-Teaching Type": "Offline",
+      "LO": "",
+      "ITU": "",
+      "Student Materials": "Book Chapter 6",
+      "S-Download": "",
+      "Student's Tasks": "Book Review questions Activities CMS",
+      "URLs": ""
+    },
+    {
+      "Session": "29",
+      "Topic": "Progress test and/or Review exercises & activity Chapter 7: Data gathering Chapter 8: Data analysis, interpretation and presentation",
+      "Learning-Teaching Type": "Offline",
+      "LO": "",
+      "ITU": "",
+      "Student Materials": "Book Chapter 7+8",
+      "S-Download": "",
+      "Student's Tasks": "Book Review questions Activities CMS",
+      "URLs": ""
+    },
+    {
+      "Session": "30",
+      "Topic": "Progress test and/or Review exercises & activity Chapter 7: Data gathering Chapter 8: Data analysis, interpretation and presentation",
+      "Learning-Teaching Type": "Offline",
+      "LO": "",
+      "ITU": "",
+      "Student Materials": "Book Chapter 7+8",
+      "S-Download": "",
+      "Student's Tasks": "Book Review questions Activities CMS",
+      "URLs": ""
+    },
+    {
+      "Session": "31",
+      "Topic": "Chapter 7: Data gathering Chapter 8: Data analysis, interpretation and presentation",
+      "Learning-Teaching Type": "Offline",
+      "LO": "",
+      "ITU": "",
+      "Student Materials": "Book Chapter 7+8",
+      "S-Download": "",
+      "Student's Tasks": "Book Review questions Activities CMS",
+      "URLs": ""
+    },
+    {
+      "Session": "32",
+      "Topic": "Chapter 7: Data gathering Chapter 8: Data analysis, interpretation and presentation",
+      "Learning-Teaching Type": "Offline",
+      "LO": "",
+      "ITU": "",
+      "Student Materials": "Book Chapter 7+8",
+      "S-Download": "",
+      "Student's Tasks": "Book Review questions Activities CMS",
+      "URLs": ""
+    },
+    {
+      "Session": "33",
+      "Topic": "Guide exercises & activity Progress test and/or Review exercises & activity",
+      "Learning-Teaching Type": "Offline",
+      "LO": "",
+      "ITU": "",
+      "Student Materials": "Book Chapter 7+8",
+      "S-Download": "",
+      "Student's Tasks": "Book Review questions Activities CMS",
+      "URLs": ""
+    },
+    {
+      "Session": "34",
+      "Topic": "Guide exercises & activity Progress test and/or Review exercises & activity",
+      "Learning-Teaching Type": "Offline",
+      "LO": "",
+      "ITU": "",
+      "Student Materials": "Book Chapter 7+8",
+      "S-Download": "",
+      "Student's Tasks": "Book Review questions Activities CMS",
+      "URLs": ""
+    },
+    {
+      "Session": "35",
+      "Topic": "Chapter 9: The process of interaction design",
+      "Learning-Teaching Type": "Offline",
+      "LO": "",
+      "ITU": "",
+      "Student Materials": "Book Chapter 9",
+      "S-Download": "",
+      "Student's Tasks": "Book Review questions Activities CMS",
+      "URLs": ""
+    },
+    {
+      "Session": "36",
+      "Topic": "Chapter 9: The process of interaction design",
+      "Learning-Teaching Type": "Offline",
+      "LO": "",
+      "ITU": "",
+      "Student Materials": "Book Chapter 9",
+      "S-Download": "",
+      "Student's Tasks": "Book Review questions Activities CMS",
+      "URLs": ""
+    },
+    {
+      "Session": "37",
+      "Topic": "Guide exercises & activity \"Progress test and/or Review exercises & activity\"",
+      "Learning-Teaching Type": "Offline",
+      "LO": "",
+      "ITU": "",
+      "Student Materials": "Book Chapter 9",
+      "S-Download": "",
+      "Student's Tasks": "Book Review questions Activities CMS",
+      "URLs": ""
+    },
+    {
+      "Session": "38",
+      "Topic": "Guide exercises & activity \"Progress test and/or Review exercises & activity\"",
+      "Learning-Teaching Type": "Offline",
+      "LO": "",
+      "ITU": "",
+      "Student Materials": "Book Chapter 9",
+      "S-Download": "",
+      "Student's Tasks": "Book Review questions Activities CMS",
+      "URLs": ""
+    },
+    {
+      "Session": "39",
+      "Topic": "Chapter 10: Indentifying meeds and establishing requirements (3e: Establishing requirements) Chapter 11: Design, prototyping and construction",
+      "Learning-Teaching Type": "Offline",
+      "LO": "",
+      "ITU": "",
+      "Student Materials": "Book Chapter 10+11",
+      "S-Download": "",
+      "Student's Tasks": "Book Review questions Activities CMS",
+      "URLs": ""
+    },
+    {
+      "Session": "40",
+      "Topic": "Chapter 10: Indentifying meeds and establishing requirements (3e: Establishing requirements) Chapter 11: Design, prototyping and construction",
+      "Learning-Teaching Type": "Offline",
+      "LO": "",
+      "ITU": "",
+      "Student Materials": "Book Chapter 10+11",
+      "S-Download": "",
+      "Student's Tasks": "Book Review questions Activities CMS",
+      "URLs": ""
+    },
+    {
+      "Session": "41",
+      "Topic": "Guide exercises & activity Assignment 2 assitant",
+      "Learning-Teaching Type": "Offline",
+      "LO": "",
+      "ITU": "",
+      "Student Materials": "Book Chapter 10+11",
+      "S-Download": "",
+      "Student's Tasks": "Book Review questions Activities CMS",
+      "URLs": ""
+    },
+    {
+      "Session": "42",
+      "Topic": "Guide exercises & activity Assignment 2 assitant",
+      "Learning-Teaching Type": "Offline",
+      "LO": "",
+      "ITU": "",
+      "Student Materials": "Book Chapter 10+11",
+      "S-Download": "",
+      "Student's Tasks": "Book Review questions Activities CMS",
+      "URLs": ""
+    },
+    {
+      "Session": "43",
+      "Topic": "Progress test and/or Review exercises & activity Chapter 12: Introducing evaluation",
+      "Learning-Teaching Type": "Offline",
+      "LO": "",
+      "ITU": "",
+      "Student Materials": "Book Chapter 12",
+      "S-Download": "",
+      "Student's Tasks": "Book Review questions Activities CMS",
+      "URLs": ""
+    },
+    {
+      "Session": "44",
+      "Topic": "Progress test and/or Review exercises & activity Chapter 12: Introducing evaluation",
+      "Learning-Teaching Type": "Offline",
+      "LO": "",
+      "ITU": "",
+      "Student Materials": "Book Chapter 12",
+      "S-Download": "",
+      "Student's Tasks": "Book Review questions Activities CMS",
+      "URLs": ""
+    },
+    {
+      "Session": "45",
+      "Topic": "Chapter 12: Introducing evaluation Guide exercises & activity",
+      "Learning-Teaching Type": "Offline",
+      "LO": "",
+      "ITU": "",
+      "Student Materials": "Book Chapter 12",
+      "S-Download": "",
+      "Student's Tasks": "Book Review questions Activities CMS",
+      "URLs": ""
+    },
+    {
+      "Session": "46",
+      "Topic": "Chapter 12: Introducing evaluation Guide exercises & activity",
+      "Learning-Teaching Type": "Offline",
+      "LO": "",
+      "ITU": "",
+      "Student Materials": "Book Chapter 12",
+      "S-Download": "",
+      "Student's Tasks": "Book Review questions Activities CMS",
+      "URLs": ""
+    },
+    {
+      "Session": "47",
+      "Topic": "Progress test and/or Review exercises & activity Chapter 13: An evaluation framework",
+      "Learning-Teaching Type": "Offline",
+      "LO": "",
+      "ITU": "",
+      "Student Materials": "Book Chapter 13",
+      "S-Download": "",
+      "Student's Tasks": "Book Review questions Activities CMS",
+      "URLs": ""
+    },
+    {
+      "Session": "48",
+      "Topic": "Progress test and/or Review exercises & activity Chapter 13: An evaluation framework",
+      "Learning-Teaching Type": "Offline",
+      "LO": "",
+      "ITU": "",
+      "Student Materials": "Book Chapter 13",
+      "S-Download": "",
+      "Student's Tasks": "Book Review questions Activities CMS",
+      "URLs": ""
+    },
+    {
+      "Session": "49",
+      "Topic": "Chapter 13: An evaluation framework Guide exercises & activity",
+      "Learning-Teaching Type": "Offline",
+      "LO": "",
+      "ITU": "",
+      "Student Materials": "Book Chapter 13",
+      "S-Download": "",
+      "Student's Tasks": "Book Review questions Activities CMS",
+      "URLs": ""
+    },
+    {
+      "Session": "50",
+      "Topic": "Chapter 13: An evaluation framework Guide exercises & activity",
+      "Learning-Teaching Type": "Offline",
+      "LO": "",
+      "ITU": "",
+      "Student Materials": "Book Chapter 13",
+      "S-Download": "",
+      "Student's Tasks": "Book Review questions Activities CMS",
+      "URLs": ""
+    },
+    {
+      "Session": "51",
+      "Topic": "Progress test and/or Review exercises & activity",
+      "Learning-Teaching Type": "Offline",
+      "LO": "",
+      "ITU": "",
+      "Student Materials": "Book Chapter 13",
+      "S-Download": "",
+      "Student's Tasks": "Book Review questions Activities CMS",
+      "URLs": ""
+    },
+    {
+      "Session": "52",
+      "Topic": "Progress test and/or Review exercises & activity",
+      "Learning-Teaching Type": "Offline",
+      "LO": "",
+      "ITU": "",
+      "Student Materials": "Book Chapter 13",
+      "S-Download": "",
+      "Student's Tasks": "Book Review questions Activities CMS",
+      "URLs": ""
+    },
+    {
+      "Session": "53",
+      "Topic": "Chapter 14: Usability testing and field studies (3e: Evaluation Studies: From Controlled to Natural Settings)",
+      "Learning-Teaching Type": "Offline",
+      "LO": "",
+      "ITU": "",
+      "Student Materials": "Book Chapter 14",
+      "S-Download": "",
+      "Student's Tasks": "Book Review questions Activities CMS",
+      "URLs": ""
+    },
+    {
+      "Session": "54",
+      "Topic": "Chapter 14: Usability testing and field studies (3e: Evaluation Studies: From Controlled to Natural Settings)",
+      "Learning-Teaching Type": "Offline",
+      "LO": "",
+      "ITU": "",
+      "Student Materials": "Book Chapter 14",
+      "S-Download": "",
+      "Student's Tasks": "Book Review questions Activities CMS",
+      "URLs": ""
+    },
+    {
+      "Session": "55",
+      "Topic": "Guide exercises & activity Progress test and/or Review exercises & activity",
+      "Learning-Teaching Type": "Offline",
+      "LO": "",
+      "ITU": "",
+      "Student Materials": "Book Chapter 14",
+      "S-Download": "",
+      "Student's Tasks": "Book Review questions Activities CMS",
+      "URLs": ""
+    },
+    {
+      "Session": "56",
+      "Topic": "Guide exercises & activity Progress test and/or Review exercises & activity",
+      "Learning-Teaching Type": "Offline",
+      "LO": "",
+      "ITU": "",
+      "Student Materials": "Book Chapter 14",
+      "S-Download": "",
+      "Student's Tasks": "Book Review questions Activities CMS",
+      "URLs": ""
+    },
+    {
+      "Session": "57",
+      "Topic": "Chapter 15: Analytical evaluation (3e: Evaluation: Inspections, Analytics and Models) Guide exercises & activity",
+      "Learning-Teaching Type": "Offline",
+      "LO": "",
+      "ITU": "",
+      "Student Materials": "Book Chapter 15",
+      "S-Download": "",
+      "Student's Tasks": "Book Review questions Activities CMS",
+      "URLs": ""
+    },
+    {
+      "Session": "58",
+      "Topic": "Chapter 15: Analytical evaluation (3e: Evaluation: Inspections, Analytics and Models) Guide exercises & activity",
+      "Learning-Teaching Type": "Offline",
+      "LO": "",
+      "ITU": "",
+      "Student Materials": "Book Chapter 15",
+      "S-Download": "",
+      "Student's Tasks": "Book Review questions Activities CMS",
+      "URLs": ""
+    },
+    {
+      "Session": "59",
+      "Topic": "Review",
+      "Learning-Teaching Type": "Offline",
+      "LO": "",
+      "ITU": "",
+      "Student Materials": "Book",
+      "S-Download": "",
+      "Student's Tasks": "Book Review questions Activities CMS",
+      "URLs": ""
+    },
+    {
+      "Session": "60",
+      "Topic": "Review",
+      "Learning-Teaching Type": "Offline",
+      "LO": "",
+      "ITU": "",
+      "Student Materials": "Book",
+      "S-Download": "",
+      "Student's Tasks": "Book Review questions Activities CMS",
+      "URLs": ""
+    }
+  ],
+  "constructive_questions": [
+    {
+      "No.": "1",
+      "Session No": "3",
+      "Name": "CQ1",
+      "Details": "What are the characteristics of a good interaction designer? If a design works just as well without an element, then remove it. Do you think this is a good design principle? If you have your own website, try doing this and seeing what happens. At what point does the interaction break down?"
+    },
+    {
+      "No.": "2",
+      "Session No": "3",
+      "Name": "CQ2",
+      "Details": "What would you say are the biggest challenges facing you and other consultants doing interaction design these days?"
+    },
+    {
+      "No.": "3",
+      "Session No": "4",
+      "Name": "CQ1",
+      "Details": "What are the characteristics of a good interaction designer? If a design works just as well without an element, then remove it. Do you think this is a good design principle? If you have your own website, try doing this and seeing what happens. At what point does the interaction break down?"
+    },
+    {
+      "No.": "4",
+      "Session No": "4",
+      "Name": "CQ2",
+      "Details": "What would you say are the biggest challenges facing you and other consultants doing interaction design these days?"
+    },
+    {
+      "No.": "5",
+      "Session No": "5",
+      "Name": "CQ1",
+      "Details": "How many phases are there in Interaction Design? How do you think about User-center Design?"
+    },
+    {
+      "No.": "6",
+      "Session No": "6",
+      "Name": "CQ1",
+      "Details": "How many phases are there in Interaction Design? How do you think about User-center Design?"
+    },
+    {
+      "No.": "7",
+      "Session No": "7",
+      "Name": "CQ1",
+      "Details": "Guess what the main assumptions and claims were behind 3D TV. Then do the same for curved TV, which was designed to be bendy so as to make the viewing experience more immersive. Are the assumptions similar? Why were they problematic?"
+    },
+    {
+      "No.": "8",
+      "Session No": "7",
+      "Name": "CQ2",
+      "Details": "What is the Design Concept? Why are metaphors so Popular?"
+    },
+    {
+      "No.": "9",
+      "Session No": "8",
+      "Name": "CQ1",
+      "Details": "Guess what the main assumptions and claims were behind 3D TV. Then do the same for curved TV, which was designed to be bendy so as to make the viewing experience more immersive. Are the assumptions similar? Why were they problematic?"
+    },
+    {
+      "No.": "10",
+      "Session No": "8",
+      "Name": "CQ2",
+      "Details": "What is the Design Concept? Why are metaphors so Popular?"
+    },
+    {
+      "No.": "11",
+      "Session No": "9",
+      "Name": "CQ1",
+      "Details": "How do you think future visions inspire research in interaction design?"
+    },
+    {
+      "No.": "12",
+      "Session No": "9",
+      "Name": "CQ2",
+      "Details": "Could you list the design implications that correspond to the cognition aspects?"
+    },
+    {
+      "No.": "13",
+      "Session No": "10",
+      "Name": "CQ1",
+      "Details": "How do you think future visions inspire research in interaction design?"
+    },
+    {
+      "No.": "14",
+      "Session No": "10",
+      "Name": "CQ2",
+      "Details": "Could you list the design implications that correspond to the cognition aspects?"
+    },
+    {
+      "No.": "15",
+      "Session No": "11",
+      "Name": "CQ2",
+      "Details": "What would you do to explain and predict user behavior based on theories of cognition?"
+    },
+    {
+      "No.": "16",
+      "Session No": "12",
+      "Name": "CQ2",
+      "Details": "What would you do to explain and predict user behavior based on theories of cognition?"
+    },
+    {
+      "No.": "17",
+      "Session No": "15",
+      "Name": "CQ1",
+      "Details": "Think of a time where you enjoyed meeting up with friends to catch up in a cafe. Compare this social occasion with the experience that you have when texting with them on your smartphone. How are the two kinds of conversations different?"
+    },
+    {
+      "No.": "18",
+      "Session No": "16",
+      "Name": "CQ1",
+      "Details": "Think of a time where you enjoyed meeting up with friends to catch up in a cafe. Compare this social occasion with the experience that you have when texting with them on your smartphone. How are the two kinds of conversations different?"
+    },
+    {
+      "No.": "19",
+      "Session No": "19",
+      "Name": "CQ1",
+      "Details": "How Does Emotion Affect Behavior?"
+    },
+    {
+      "No.": "20",
+      "Session No": "20",
+      "Name": "CQ1",
+      "Details": "How Does Emotion Affect Behavior?"
+    },
+    {
+      "No.": "21",
+      "Session No": "21",
+      "Name": "CQ1",
+      "Details": "Early robot pets, such as Sony’s AIBO, were made of hard materials that made them look shiny and clunky. In contrast, a more recent trend has been to make them look and feel more like real pets by covering them up in fur and making them behave in more cute, pet-like ways. Which do you prefer and why?"
+    },
+    {
+      "No.": "22",
+      "Session No": "22",
+      "Name": "CQ1",
+      "Details": "Early robot pets, such as Sony’s AIBO, were made of hard materials that made them look shiny and clunky. In contrast, a more recent trend has been to make them look and feel more like real pets by covering them up in fur and making them behave in more cute, pet-like ways. Which do you prefer and why?"
+    },
+    {
+      "No.": "23",
+      "Session No": "23",
+      "Name": "CQ1",
+      "Details": "How to decide which interface is preferable for a given task or activity?"
+    },
+    {
+      "No.": "24",
+      "Session No": "24",
+      "Name": "CQ1",
+      "Details": "How to decide which interface is preferable for a given task or activity?"
+    },
+    {
+      "No.": "25",
+      "Session No": "27",
+      "Name": "CQ1",
+      "Details": "What techniques can be used, and how useful and reliable is the data that is collected?"
+    },
+    {
+      "No.": "26",
+      "Session No": "28",
+      "Name": "CQ1",
+      "Details": "What techniques can be used, and how useful and reliable is the data that is collected?"
+    },
+    {
+      "No.": "27",
+      "Session No": "29",
+      "Name": "CQ1",
+      "Details": "How Question Design Affects Data Analysis"
+    },
+    {
+      "No.": "28",
+      "Session No": "29",
+      "Name": "CQ2",
+      "Details": "Which kind of analytic framework to use for qualitative study?"
+    },
+    {
+      "No.": "29",
+      "Session No": "30",
+      "Name": "CQ1",
+      "Details": "How Question Design Affects Data Analysis"
+    },
+    {
+      "No.": "30",
+      "Session No": "30",
+      "Name": "CQ2",
+      "Details": "Which kind of analytic framework to use for qualitative study?"
+    },
+    {
+      "No.": "31",
+      "Session No": "31",
+      "Name": "CQ1",
+      "Details": "What do you think about data privacy? What is the Data Ethics Principles?"
+    },
+    {
+      "No.": "32",
+      "Session No": "32",
+      "Name": "CQ1",
+      "Details": "What do you think about data privacy? What is the Data Ethics Principles?"
+    },
+    {
+      "No.": "33",
+      "Session No": "33",
+      "Name": "CQ1",
+      "Details": "What kind of techniques can be used for discovery requirements? How can bringing requirements to life?"
+    },
+    {
+      "No.": "34",
+      "Session No": "34",
+      "Name": "CQ1",
+      "Details": "What kind of techniques can be used for discovery requirements? How can bringing requirements to life?"
+    },
+    {
+      "No.": "35",
+      "Session No": "35",
+      "Name": "CQ1",
+      "Details": "is Prototype allow designer to communicate their ideas and users? Why?"
+    },
+    {
+      "No.": "36",
+      "Session No": "36",
+      "Name": "CQ1",
+      "Details": "is Prototype allow designer to communicate their ideas and users? Why?"
+    },
+    {
+      "No.": "37",
+      "Session No": "37",
+      "Name": "CQ1",
+      "Details": "How can we apply UX in agile development?"
+    },
+    {
+      "No.": "38",
+      "Session No": "38",
+      "Name": "CQ1",
+      "Details": "How can we apply UX in agile development?"
+    },
+    {
+      "No.": "39",
+      "Session No": "43",
+      "Name": "CQ1",
+      "Details": "How would you find out whether prototype would appeal to them and whether they will use it?"
+    },
+    {
+      "No.": "40",
+      "Session No": "44",
+      "Name": "CQ1",
+      "Details": "How would you find out whether prototype would appeal to them and whether they will use it?"
+    },
+    {
+      "No.": "41",
+      "Session No": "45",
+      "Name": "CQ1",
+      "Details": "What evaluation methods would you employ to identify the app effectively and satisfying to use?"
+    },
+    {
+      "No.": "42",
+      "Session No": "46",
+      "Name": "CQ1",
+      "Details": "What evaluation methods would you employ to identify the app effectively and satisfying to use?"
+    },
+    {
+      "No.": "43",
+      "Session No": "47",
+      "Name": "CQ1",
+      "Details": "What is difference between heuristic evaluation and walk-throughs?"
+    },
+    {
+      "No.": "44",
+      "Session No": "48",
+      "Name": "CQ1",
+      "Details": "What is difference between heuristic evaluation and walk-throughs?"
+    },
+    {
+      "No.": "45",
+      "Session No": "49",
+      "Name": "CQ1",
+      "Details": "What would you be able to find out by using each method to evaluate a website?"
+    },
+    {
+      "No.": "46",
+      "Session No": "50",
+      "Name": "CQ1",
+      "Details": "What would you be able to find out by using each method to evaluate a website?"
+    }
+  ],
+  "materials": [
+    {
+      "No.": "1",
+      "Material Description": "Interaction design: beyond human-computer interaction",
+      "Author": "Helen Sharp, Yvonne Rogers and Jenney Preece",
+      "Publisher": "John Wiley & Sons Ltd",
+      "Published Date": "",
+      "Edition": "",
+      "ISBN": "",
+      "Is Main Material": "True",
+      "Is Hard Copy": "True",
+      "Is Online": "False",
+      "Note": ""
+    },
+    {
+      "No.": "2",
+      "Material Description": "http://www.id-book.com",
+      "Author": "",
+      "Publisher": "",
+      "Published Date": "",
+      "Edition": "",
+      "ISBN": "",
+      "Is Main Material": "False",
+      "Is Hard Copy": "False",
+      "Is Online": "True",
+      "Note": ""
+    }
+  ],
+  "source_path": "data/raw/syllabi/7884.html",
+  "id": "syllabus:7884"
+}

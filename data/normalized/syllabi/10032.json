@@ -1,0 +1,1088 @@
+{
+  "syllabus_id": 10032,
+  "subject_code": "AIP391",
+  "subject_name": "AI programming project_Dự án lập trình TTNT",
+  "syllabus_name": "AI programming project_Dự án lập trình TTNT",
+  "credits": 3,
+  "degree_level": "Bachelor",
+  "time_allocation": "Study hour (150h) = 45h contact hours + 105h self-study",
+  "prerequisite": "AIG201c, PRP201c",
+  "general_information": {
+    "Syllabus ID": "10032",
+    "Syllabus Name": "AI programming project_Dự án lập trình TTNT",
+    "Course Name English": "AI programming project",
+    "Subject Code": "AIP391",
+    "Learning-Teaching Method": "Inquiry-based Teaching,Experiential learning methods,Project Based Training",
+    "NoCredit": "3",
+    "Degree Level": "Bachelor",
+    "Time Allocation": "Study hour (150h) = 45h contact hours + 105h self-study",
+    "Pre-Requisite": "AIG201c, PRP201c",
+    "Description": "The initial course for students to become familiar with AI problems. Through sample tutorials, students can understand the practical application of AI, how to perform step-by-step, the knowledge to equip the field of AI (computer vision, natural language processing, data science, robotics..). The Project provides students, working in groups, with a significant project experience in which they can integrate much of the material they have learned in their program, including matters relating to introduction, design, human factors, professionalism, and project management. Students will be guided to develop a software system, employing knowledge gained from courses throughout the program.",
+    "StudentTasks": "# Choose appropriate project and form group. # Divide and schedule work among members. # Produce document and product according to project requirement and member work share. # Defend work infront of examination board, showing both project results and individual responsibility.",
+    "Tools": "# Choose appropriate project and form group. # Divide and schedule work among members. # Produce document and product according to project requirement and member work share. # Defend work infront of examination board, showing both project results and individual responsibility.",
+    "Scoring Scale": "10",
+    "DecisionNo MM/dd/yyyy": "808/QĐ-ĐHFPT dated 08/03/2023",
+    "IsApproved": "True",
+    "Note": "Completion Criteria (in addition to grade criteria): * Students can prove that they create the product themselves * No fatal defect in software product (the students can't demonstrate)",
+    "Is Scored": "True",
+    "MinAvgMarkToPass": "5",
+    "IsActive": "True",
+    "ApprovedDate": "8/3/2023"
+  },
+  "active": true,
+  "approved": true,
+  "decision": "808/QĐ-ĐHFPT dated 08/03/2023",
+  "description": "The initial course for students to become familiar with AI problems. Through sample tutorials, students can understand the practical application of AI, how to perform step-by-step, the knowledge to equip the field of AI (computer vision, natural language processing, data science, robotics..). The Project provides students, working in groups, with a significant project experience in which they can integrate much of the material they have learned in their program, including matters relating to introduction, design, human factors, professionalism, and project management. Students will be guided to develop a software system, employing knowledge gained from courses throughout the program.",
+  "learning_outcomes": [
+    {
+      "No.": "1",
+      "CLO Name": "CLO1",
+      "CLO Details": "Use the knowledge of contemporary issues to identify a problem requiring technology intervention and specify the requiments for the proposed solution, algorithm."
+    },
+    {
+      "No.": "2",
+      "CLO Name": "CLO2",
+      "CLO Details": "Collect data, with consideration of techical & other factors."
+    },
+    {
+      "No.": "3",
+      "CLO Name": "CLO3",
+      "CLO Details": "Design, Implementation & Analyzing"
+    },
+    {
+      "No.": "4",
+      "CLO Name": "CLO4",
+      "CLO Details": "Apply project management principles to software development project."
+    },
+    {
+      "No.": "5",
+      "CLO Name": "CLO5",
+      "CLO Details": "Write a professional research report."
+    },
+    {
+      "No.": "6",
+      "CLO Name": "CLO6",
+      "CLO Details": "Practice oral presentation and inter-personal communications."
+    },
+    {
+      "No.": "7",
+      "CLO Name": "CLO7",
+      "CLO Details": "Exhibit professional working attitudes"
+    }
+  ],
+  "assessments": [
+    {
+      "No.": "1",
+      "Category": "On-going Assessment",
+      "Type": "on-going",
+      "Part": "6",
+      "Weight": "60.0%",
+      "Completion Criteria": "5",
+      "Duration": "During the Project Progress",
+      "CLO": "",
+      "Question Type": "Topic of Project",
+      "No Question": "N/A",
+      "Knowledge and Skill": "",
+      "Grading Guide": "by instructor",
+      "Note": "On-going Assessment components: - Project Introduction: 5% - Project Management Plan: 5% - Review Related Works and Bibliography: 10% - Data Preparation: 10% - Methods; System Design & Implementation : 20% - Results and Discussion: 10%"
+    },
+    {
+      "No.": "2",
+      "Category": "Final Project Presentation:",
+      "Type": "Final exam",
+      "Part": "1",
+      "Weight": "40.0%",
+      "Completion Criteria": "4",
+      "Duration": "~ 30 minutes for presentation,~ 60 minutes for demo and Q&A. Total is 90 minutes.",
+      "CLO": "",
+      "Question Type": "ProjectPresentation",
+      "No Question": "N/A",
+      "Knowledge and Skill": "",
+      "Grading Guide": "by instructor",
+      "Note": "1. Final Project Presentation components: - Documentation: 10% - Software Product: 20% - Soft Skills: 10% 2. Final Project Presentation attending criteria: * On-going Assessment Grade >=5/10 * All detailed assessment item's grades > 0/10"
+    }
+  ],
+  "schedule": [
+    {
+      "Session": "1",
+      "Topic": "Course overview",
+      "Learning-Teaching Type": "Offline",
+      "LO": "",
+      "ITU": "",
+      "Student Materials": "",
+      "S-Download": "AIP391",
+      "Student's Tasks": "Section No.1",
+      "URLs": ""
+    },
+    {
+      "Session": "2",
+      "Topic": "Discussion on the CP topic, CP Structure",
+      "Learning-Teaching Type": "Offline",
+      "LO": "",
+      "ITU": "",
+      "Student Materials": "",
+      "S-Download": "",
+      "Student's Tasks": "Section No.1",
+      "URLs": ""
+    },
+    {
+      "Session": "3",
+      "Topic": "Introduction sample topics/ projects of the course",
+      "Learning-Teaching Type": "Offline",
+      "LO": "",
+      "ITU": "",
+      "Student Materials": "",
+      "S-Download": "AIP391",
+      "Student's Tasks": "Section No.1",
+      "URLs": ""
+    },
+    {
+      "Session": "4",
+      "Topic": "Team Meeting: CP Topic Review & Group Division",
+      "Learning-Teaching Type": "Offline",
+      "LO": "",
+      "ITU": "",
+      "Student Materials": "",
+      "S-Download": "",
+      "Student's Tasks": "Section No.1",
+      "URLs": ""
+    },
+    {
+      "Session": "5",
+      "Topic": "Register project",
+      "Learning-Teaching Type": "Offline",
+      "LO": "",
+      "ITU": "",
+      "Student Materials": "",
+      "S-Download": "",
+      "Student's Tasks": "Section No.1",
+      "URLs": ""
+    },
+    {
+      "Session": "6",
+      "Topic": "Guide Report No.1: Project Introduction - Part 1",
+      "Learning-Teaching Type": "Offline",
+      "LO": "",
+      "ITU": "",
+      "Student Materials": "Report 1",
+      "S-Download": "",
+      "Student's Tasks": "Section No.1",
+      "URLs": ""
+    },
+    {
+      "Session": "7",
+      "Topic": "Guide Report No.1: Project Introduction - Part 2",
+      "Learning-Teaching Type": "Offline",
+      "LO": "",
+      "ITU": "",
+      "Student Materials": "Report 1",
+      "S-Download": "",
+      "Student's Tasks": "Section No.1",
+      "URLs": ""
+    },
+    {
+      "Session": "8",
+      "Topic": "Team Meeting: Project Introduction",
+      "Learning-Teaching Type": "Offline",
+      "LO": "",
+      "ITU": "",
+      "Student Materials": "Report 1",
+      "S-Download": "",
+      "Student's Tasks": "Section No.1",
+      "URLs": ""
+    },
+    {
+      "Session": "9",
+      "Topic": "Report No.1 Submission: Section 1. Introduction - Review - part 1",
+      "Learning-Teaching Type": "Offline",
+      "LO": "",
+      "ITU": "",
+      "Student Materials": "Report 1",
+      "S-Download": "",
+      "Student's Tasks": "Section No.1",
+      "URLs": ""
+    },
+    {
+      "Session": "10",
+      "Topic": "Report No.1 Submission: Section 1. Introduction - Review- Part 2",
+      "Learning-Teaching Type": "Offline",
+      "LO": "",
+      "ITU": "",
+      "Student Materials": "Report 1",
+      "S-Download": "",
+      "Student's Tasks": "Section No.1",
+      "URLs": ""
+    },
+    {
+      "Session": "11",
+      "Topic": "Guide Report No.2: Project Management Plan - Part 1",
+      "Learning-Teaching Type": "Offline",
+      "LO": "",
+      "ITU": "",
+      "Student Materials": "Report 2",
+      "S-Download": "",
+      "Student's Tasks": "Appendix A. Project Plan management",
+      "URLs": ""
+    },
+    {
+      "Session": "12",
+      "Topic": "Guide Report No.2: Project Management Plan - Part 2",
+      "Learning-Teaching Type": "Offline",
+      "LO": "",
+      "ITU": "",
+      "Student Materials": "Report 2",
+      "S-Download": "",
+      "Student's Tasks": "Appendix A. Project Plan management",
+      "URLs": ""
+    },
+    {
+      "Session": "13",
+      "Topic": "Team Meeting: Project Management Plan - Part 1",
+      "Learning-Teaching Type": "Offline",
+      "LO": "",
+      "ITU": "",
+      "Student Materials": "Report 2",
+      "S-Download": "",
+      "Student's Tasks": "Appendix A. Project Plan management",
+      "URLs": ""
+    },
+    {
+      "Session": "14",
+      "Topic": "Team Meeting: Project Management Plan - Part 2",
+      "Learning-Teaching Type": "Offline",
+      "LO": "",
+      "ITU": "",
+      "Student Materials": "Report 2",
+      "S-Download": "",
+      "Student's Tasks": "Appendix A. Project Plan management",
+      "URLs": ""
+    },
+    {
+      "Session": "15",
+      "Topic": "Report No.2 Submission: Appendix A. Project Management Plan - Review -Part 1",
+      "Learning-Teaching Type": "Offline",
+      "LO": "",
+      "ITU": "",
+      "Student Materials": "Report 2",
+      "S-Download": "",
+      "Student's Tasks": "Appendix A. Project Plan management",
+      "URLs": ""
+    },
+    {
+      "Session": "16",
+      "Topic": "Report No.2 Submission: Appendix A. Project Management Plan - Review -Part 2",
+      "Learning-Teaching Type": "Offline",
+      "LO": "",
+      "ITU": "",
+      "Student Materials": "Report 2",
+      "S-Download": "",
+      "Student's Tasks": "Appendix A. Project Plan management",
+      "URLs": ""
+    },
+    {
+      "Session": "17",
+      "Topic": "Guide Report No.3: Review Related Works & Bibliography - Part 1",
+      "Learning-Teaching Type": "Offline",
+      "LO": "",
+      "ITU": "",
+      "Student Materials": "Report 3",
+      "S-Download": "",
+      "Student's Tasks": "Section No. 3 and References",
+      "URLs": ""
+    },
+    {
+      "Session": "18",
+      "Topic": "Guide Report No.3: Review Related Works & Bibliography - Part 2",
+      "Learning-Teaching Type": "Offline",
+      "LO": "",
+      "ITU": "",
+      "Student Materials": "Report 3",
+      "S-Download": "",
+      "Student's Tasks": "Section No. 3 and References",
+      "URLs": ""
+    },
+    {
+      "Session": "19",
+      "Topic": "Team Meeting: Review Related Works - Part 1",
+      "Learning-Teaching Type": "Offline",
+      "LO": "",
+      "ITU": "",
+      "Student Materials": "Report 3",
+      "S-Download": "",
+      "Student's Tasks": "Section No.3 and References",
+      "URLs": ""
+    },
+    {
+      "Session": "20",
+      "Topic": "Team Meeting: Review Related Works - Part 2",
+      "Learning-Teaching Type": "Offline",
+      "LO": "",
+      "ITU": "",
+      "Student Materials": "Report 3",
+      "S-Download": "",
+      "Student's Tasks": "Section No.3 and References",
+      "URLs": ""
+    },
+    {
+      "Session": "21",
+      "Topic": "Report No.3 Submission: Section 2. Review Related Works & Bibliography - Part 1",
+      "Learning-Teaching Type": "Offline",
+      "LO": "",
+      "ITU": "",
+      "Student Materials": "Report 3",
+      "S-Download": "",
+      "Student's Tasks": "Section No.3 and References",
+      "URLs": ""
+    },
+    {
+      "Session": "22",
+      "Topic": "Report No.3 Submission: Section 2. Review Related Works & Bibliography - Part 2",
+      "Learning-Teaching Type": "Offline",
+      "LO": "",
+      "ITU": "",
+      "Student Materials": "Report 3",
+      "S-Download": "",
+      "Student's Tasks": "Section No.3 and References",
+      "URLs": ""
+    },
+    {
+      "Session": "23",
+      "Topic": "Guide Report No.4: Data Preparation - Part 1",
+      "Learning-Teaching Type": "Offline",
+      "LO": "",
+      "ITU": "",
+      "Student Materials": "Report 4",
+      "S-Download": "",
+      "Student's Tasks": "Section No.4",
+      "URLs": ""
+    },
+    {
+      "Session": "24",
+      "Topic": "Guide Report No.4: Data Preparation - Part 2",
+      "Learning-Teaching Type": "Offline",
+      "LO": "",
+      "ITU": "",
+      "Student Materials": "Report 4",
+      "S-Download": "",
+      "Student's Tasks": "Section No.4",
+      "URLs": ""
+    },
+    {
+      "Session": "25",
+      "Topic": "Team Meeting: Data Preparation - Part 1",
+      "Learning-Teaching Type": "Offline",
+      "LO": "",
+      "ITU": "",
+      "Student Materials": "Report 4",
+      "S-Download": "",
+      "Student's Tasks": "Section No.4",
+      "URLs": ""
+    },
+    {
+      "Session": "26",
+      "Topic": "Team Meeting: Data Preparation - Part 2",
+      "Learning-Teaching Type": "Offline",
+      "LO": "",
+      "ITU": "",
+      "Student Materials": "Report 4",
+      "S-Download": "",
+      "Student's Tasks": "Section No.4",
+      "URLs": ""
+    },
+    {
+      "Session": "27",
+      "Topic": "Report No.4 Submission: Section 3. Data Preparation - Part 1",
+      "Learning-Teaching Type": "Offline",
+      "LO": "",
+      "ITU": "",
+      "Student Materials": "Report 4",
+      "S-Download": "",
+      "Student's Tasks": "Section No.4",
+      "URLs": ""
+    },
+    {
+      "Session": "28",
+      "Topic": "Report No.4 Submission: Section 3. Data Preparation - Part 2",
+      "Learning-Teaching Type": "Offline",
+      "LO": "",
+      "ITU": "",
+      "Student Materials": "Report 4",
+      "S-Download": "",
+      "Student's Tasks": "Section No.4",
+      "URLs": ""
+    },
+    {
+      "Session": "29",
+      "Topic": "Guide Report No.5: Methods - Part 1",
+      "Learning-Teaching Type": "Offline",
+      "LO": "",
+      "ITU": "",
+      "Student Materials": "Report 5",
+      "S-Download": "",
+      "Student's Tasks": "Section No.5",
+      "URLs": ""
+    },
+    {
+      "Session": "30",
+      "Topic": "Guide Report No.5: Methods - Part 2",
+      "Learning-Teaching Type": "Offline",
+      "LO": "",
+      "ITU": "",
+      "Student Materials": "Report 5",
+      "S-Download": "",
+      "Student's Tasks": "Section No.5",
+      "URLs": ""
+    },
+    {
+      "Session": "31",
+      "Topic": "Guide Report No.5: System Design & Implementation - Part 1",
+      "Learning-Teaching Type": "Offline",
+      "LO": "",
+      "ITU": "",
+      "Student Materials": "Report 5",
+      "S-Download": "",
+      "Student's Tasks": "Section No.5",
+      "URLs": ""
+    },
+    {
+      "Session": "32",
+      "Topic": "Guide Report No.5: System Design & Implementation - Part 2",
+      "Learning-Teaching Type": "Offline",
+      "LO": "",
+      "ITU": "",
+      "Student Materials": "Report 5",
+      "S-Download": "",
+      "Student's Tasks": "Section No.5",
+      "URLs": ""
+    },
+    {
+      "Session": "33",
+      "Topic": "Team Meeting : Methods; System Design & Implementation - Part 1",
+      "Learning-Teaching Type": "Offline",
+      "LO": "",
+      "ITU": "",
+      "Student Materials": "Report 5",
+      "S-Download": "",
+      "Student's Tasks": "Section No.5",
+      "URLs": ""
+    },
+    {
+      "Session": "34",
+      "Topic": "Team Meeting : Methods; System Design & Implementation - Part 2",
+      "Learning-Teaching Type": "Offline",
+      "LO": "",
+      "ITU": "",
+      "Student Materials": "Report 5",
+      "S-Download": "",
+      "Student's Tasks": "Section No.5",
+      "URLs": ""
+    },
+    {
+      "Session": "35",
+      "Topic": "Report No.5 Submission: Section. Methods; Section. System Design & Implementation - Part 1",
+      "Learning-Teaching Type": "Offline",
+      "LO": "",
+      "ITU": "",
+      "Student Materials": "Report 5",
+      "S-Download": "",
+      "Student's Tasks": "Section No.5",
+      "URLs": ""
+    },
+    {
+      "Session": "36",
+      "Topic": "Report No.5 Submission: Section. Methods; Section. System Design & Implementation - Part 2",
+      "Learning-Teaching Type": "Offline",
+      "LO": "",
+      "ITU": "",
+      "Student Materials": "Report 5",
+      "S-Download": "",
+      "Student's Tasks": "Section No.5",
+      "URLs": ""
+    },
+    {
+      "Session": "37",
+      "Topic": "Guide Report No.6: Results and Discussion - Part 1",
+      "Learning-Teaching Type": "Offline",
+      "LO": "",
+      "ITU": "",
+      "Student Materials": "Report 6",
+      "S-Download": "",
+      "Student's Tasks": "Section No.6",
+      "URLs": ""
+    },
+    {
+      "Session": "38",
+      "Topic": "Guide Report No.6: Results and Discussion - Part 2",
+      "Learning-Teaching Type": "Offline",
+      "LO": "",
+      "ITU": "",
+      "Student Materials": "Report 6",
+      "S-Download": "",
+      "Student's Tasks": "Section No.6",
+      "URLs": ""
+    },
+    {
+      "Session": "39",
+      "Topic": "Team Meeting : Results and Discussion- Part 1",
+      "Learning-Teaching Type": "Offline",
+      "LO": "",
+      "ITU": "",
+      "Student Materials": "Report 6",
+      "S-Download": "",
+      "Student's Tasks": "Section No.6",
+      "URLs": ""
+    },
+    {
+      "Session": "40",
+      "Topic": "Team Meeting : Results and Discussion - Part 2",
+      "Learning-Teaching Type": "Offline",
+      "LO": "",
+      "ITU": "",
+      "Student Materials": "Report 6",
+      "S-Download": "",
+      "Student's Tasks": "Section No.6",
+      "URLs": ""
+    },
+    {
+      "Session": "41",
+      "Topic": "Report No.6 Submission: Section 6. Results and Discussion - Part 1",
+      "Learning-Teaching Type": "Offline",
+      "LO": "",
+      "ITU": "",
+      "Student Materials": "Report 6",
+      "S-Download": "",
+      "Student's Tasks": "Section No.6",
+      "URLs": ""
+    },
+    {
+      "Session": "42",
+      "Topic": "Report No.6 Submission: Section 6. Results and Discussion - Part 2",
+      "Learning-Teaching Type": "Offline",
+      "LO": "",
+      "ITU": "",
+      "Student Materials": "Report 6",
+      "S-Download": "",
+      "Student's Tasks": "Section No.6",
+      "URLs": ""
+    },
+    {
+      "Session": "43",
+      "Topic": "Guide Report No.7: Conclusion and Perspectives - Part 1",
+      "Learning-Teaching Type": "Offline",
+      "LO": "",
+      "ITU": "",
+      "Student Materials": "Report 7",
+      "S-Download": "",
+      "Student's Tasks": "Section No.7",
+      "URLs": ""
+    },
+    {
+      "Session": "44",
+      "Topic": "Guide Report No.7: Conclusion and Perspectives - Part 2",
+      "Learning-Teaching Type": "Offline",
+      "LO": "",
+      "ITU": "",
+      "Student Materials": "Report 7",
+      "S-Download": "",
+      "Student's Tasks": "Section No.7",
+      "URLs": ""
+    },
+    {
+      "Session": "45",
+      "Topic": "Team Meeting: Conclusion and Perspectives - Part 1",
+      "Learning-Teaching Type": "Offline",
+      "LO": "",
+      "ITU": "",
+      "Student Materials": "Report 7",
+      "S-Download": "",
+      "Student's Tasks": "Section No.7",
+      "URLs": ""
+    },
+    {
+      "Session": "46",
+      "Topic": "Team Meeting: Conclusion and Perspectives - Part 2",
+      "Learning-Teaching Type": "Offline",
+      "LO": "",
+      "ITU": "",
+      "Student Materials": "Report 7",
+      "S-Download": "",
+      "Student's Tasks": "Section No.7",
+      "URLs": ""
+    },
+    {
+      "Session": "47",
+      "Topic": "Guide Report No.7 Submission: Section 7. Conclusion and Perspectives - Part 1",
+      "Learning-Teaching Type": "Offline",
+      "LO": "",
+      "ITU": "",
+      "Student Materials": "Report 7",
+      "S-Download": "",
+      "Student's Tasks": "Section No.7",
+      "URLs": ""
+    },
+    {
+      "Session": "48",
+      "Topic": "Guide Report No.7 Submission: Section 7. Conclusion and Perspectives - Part 2",
+      "Learning-Teaching Type": "Offline",
+      "LO": "",
+      "ITU": "",
+      "Student Materials": "Report 7",
+      "S-Download": "",
+      "Student's Tasks": "Section No.7",
+      "URLs": ""
+    },
+    {
+      "Session": "49",
+      "Topic": "Guide Report No.8: Finalize report - Part 1",
+      "Learning-Teaching Type": "Offline",
+      "LO": "",
+      "ITU": "",
+      "Student Materials": "Final Report",
+      "S-Download": "",
+      "Student's Tasks": "Final Report with Abstract",
+      "URLs": ""
+    },
+    {
+      "Session": "50",
+      "Topic": "Guide Report No.8: Finalize report - Part 2",
+      "Learning-Teaching Type": "Offline",
+      "LO": "",
+      "ITU": "",
+      "Student Materials": "Final Report",
+      "S-Download": "",
+      "Student's Tasks": "Final Report with Abstract",
+      "URLs": ""
+    },
+    {
+      "Session": "51",
+      "Topic": "Final Report Submission: Final Report",
+      "Learning-Teaching Type": "Offline",
+      "LO": "",
+      "ITU": "",
+      "Student Materials": "Final Report",
+      "S-Download": "",
+      "Student's Tasks": "Final Report with Abstract",
+      "URLs": ""
+    },
+    {
+      "Session": "52",
+      "Topic": "Submit the final project presentation",
+      "Learning-Teaching Type": "Offline",
+      "LO": "",
+      "ITU": "",
+      "Student Materials": "Final Report",
+      "S-Download": "",
+      "Student's Tasks": "Final Report with Abstract",
+      "URLs": ""
+    },
+    {
+      "Session": "53",
+      "Topic": "Team Meeting: Practice for Presentation of Capstone Project",
+      "Learning-Teaching Type": "Offline",
+      "LO": "",
+      "ITU": "",
+      "Student Materials": "Slides",
+      "S-Download": "",
+      "Student's Tasks": "Revise Final Report,ppt & Source Code",
+      "URLs": ""
+    },
+    {
+      "Session": "54",
+      "Topic": "Team Meeting: Practice for Presentation of Capstone Project",
+      "Learning-Teaching Type": "Offline",
+      "LO": "",
+      "ITU": "",
+      "Student Materials": "Slides",
+      "S-Download": "",
+      "Student's Tasks": "Revise Final Report,ppt & Source Code",
+      "URLs": ""
+    },
+    {
+      "Session": "55",
+      "Topic": "Presentation",
+      "Learning-Teaching Type": "Offline",
+      "LO": "",
+      "ITU": "",
+      "Student Materials": "Final Report",
+      "S-Download": "",
+      "Student's Tasks": "Revise Final Report,ppt & Source Code",
+      "URLs": ""
+    },
+    {
+      "Session": "56",
+      "Topic": "Presentation",
+      "Learning-Teaching Type": "Offline",
+      "LO": "",
+      "ITU": "",
+      "Student Materials": "Final Report",
+      "S-Download": "",
+      "Student's Tasks": "Revise Final Report,ppt & Source Code",
+      "URLs": ""
+    },
+    {
+      "Session": "57",
+      "Topic": "Presentation",
+      "Learning-Teaching Type": "Offline",
+      "LO": "",
+      "ITU": "",
+      "Student Materials": "Final Report",
+      "S-Download": "",
+      "Student's Tasks": "Revise Final Report,ppt & Source Code",
+      "URLs": ""
+    },
+    {
+      "Session": "58",
+      "Topic": "Presentation",
+      "Learning-Teaching Type": "Offline",
+      "LO": "",
+      "ITU": "",
+      "Student Materials": "Final Report",
+      "S-Download": "",
+      "Student's Tasks": "Revise Final Report,ppt & Source Code",
+      "URLs": ""
+    },
+    {
+      "Session": "59",
+      "Topic": "Presentation",
+      "Learning-Teaching Type": "Offline",
+      "LO": "",
+      "ITU": "",
+      "Student Materials": "Final Report",
+      "S-Download": "",
+      "Student's Tasks": "",
+      "URLs": ""
+    },
+    {
+      "Session": "60",
+      "Topic": "Presentation",
+      "Learning-Teaching Type": "Offline",
+      "LO": "",
+      "ITU": "",
+      "Student Materials": "Final Report",
+      "S-Download": "",
+      "Student's Tasks": "",
+      "URLs": ""
+    }
+  ],
+  "constructive_questions": [
+    {
+      "No.": "1",
+      "Session No": "3",
+      "Name": "CQ1",
+      "Details": "What's the difference between an IT project and a project with artificial intelligence?"
+    },
+    {
+      "No.": "2",
+      "Session No": "3",
+      "Name": "CQ2",
+      "Details": "What are the different kinds of AI projects?"
+    },
+    {
+      "No.": "3",
+      "Session No": "4",
+      "Name": "CQ1",
+      "Details": "What's the difference between an IT project and a project with artificial intelligence?"
+    },
+    {
+      "No.": "4",
+      "Session No": "4",
+      "Name": "CQ2",
+      "Details": "What are the different kinds of AI projects?"
+    },
+    {
+      "No.": "5",
+      "Session No": "5",
+      "Name": "CQ1",
+      "Details": "How many steps are involved in putting an AI project into action?"
+    },
+    {
+      "No.": "6",
+      "Session No": "5",
+      "Name": "CQ2",
+      "Details": "How can you tell if a research article is genuine?"
+    },
+    {
+      "No.": "7",
+      "Session No": "6",
+      "Name": "CQ1",
+      "Details": "How many steps are involved in putting an AI project into action?"
+    },
+    {
+      "No.": "8",
+      "Session No": "6",
+      "Name": "CQ2",
+      "Details": "How can you tell if a research article is genuine?"
+    },
+    {
+      "No.": "9",
+      "Session No": "7",
+      "Name": "CQ1",
+      "Details": "How would you describe your project?"
+    },
+    {
+      "No.": "10",
+      "Session No": "7",
+      "Name": "CQ2",
+      "Details": "What are your goals and objectives?"
+    },
+    {
+      "No.": "11",
+      "Session No": "8",
+      "Name": "CQ1",
+      "Details": "How would you describe your project?"
+    },
+    {
+      "No.": "12",
+      "Session No": "8",
+      "Name": "CQ2",
+      "Details": "What are your goals and objectives?"
+    },
+    {
+      "No.": "13",
+      "Session No": "11",
+      "Name": "CQ1",
+      "Details": "What is the life cycle of an AI project?"
+    },
+    {
+      "No.": "14",
+      "Session No": "11",
+      "Name": "CQ2",
+      "Details": "Will you need to use special tools or templates?"
+    },
+    {
+      "No.": "15",
+      "Session No": "12",
+      "Name": "CQ1",
+      "Details": "What is the life cycle of an AI project?"
+    },
+    {
+      "No.": "16",
+      "Session No": "12",
+      "Name": "CQ2",
+      "Details": "Will you need to use special tools or templates?"
+    },
+    {
+      "No.": "17",
+      "Session No": "13",
+      "Name": "CQ1",
+      "Details": "What data is needed for an AI project?"
+    },
+    {
+      "No.": "18",
+      "Session No": "13",
+      "Name": "CQ2",
+      "Details": "How to prepare dataset?"
+    },
+    {
+      "No.": "19",
+      "Session No": "14",
+      "Name": "CQ1",
+      "Details": "What data is needed for an AI project?"
+    },
+    {
+      "No.": "20",
+      "Session No": "14",
+      "Name": "CQ2",
+      "Details": "How to prepare dataset?"
+    },
+    {
+      "No.": "21",
+      "Session No": "15",
+      "Name": "CQ1",
+      "Details": "Which frameworks support the development of AI projects"
+    },
+    {
+      "No.": "22",
+      "Session No": "16",
+      "Name": "CQ1",
+      "Details": "Which frameworks support the development of AI projects"
+    },
+    {
+      "No.": "23",
+      "Session No": "17",
+      "Name": "CQ1",
+      "Details": "How to determine which algorithm to work with dataset?"
+    },
+    {
+      "No.": "24",
+      "Session No": "18",
+      "Name": "CQ1",
+      "Details": "How to determine which algorithm to work with dataset?"
+    },
+    {
+      "No.": "25",
+      "Session No": "19",
+      "Name": "CQ1",
+      "Details": "What is the purpose of Deep Learning frameworks such as Keras, TensorFlow, and PyTorch?"
+    },
+    {
+      "No.": "26",
+      "Session No": "20",
+      "Name": "CQ1",
+      "Details": "What is the purpose of Deep Learning frameworks such as Keras, TensorFlow, and PyTorch?"
+    },
+    {
+      "No.": "27",
+      "Session No": "21",
+      "Name": "CQ1",
+      "Details": "What are the steps to train the model?"
+    },
+    {
+      "No.": "28",
+      "Session No": "22",
+      "Name": "CQ1",
+      "Details": "What are the steps to train the model?"
+    },
+    {
+      "No.": "29",
+      "Session No": "23",
+      "Name": "CQ1",
+      "Details": "What are the model evaluation methods?"
+    },
+    {
+      "No.": "30",
+      "Session No": "24",
+      "Name": "CQ1",
+      "Details": "What are the model evaluation methods?"
+    },
+    {
+      "No.": "31",
+      "Session No": "25",
+      "Name": "CQ1",
+      "Details": "What tools or libraries help to plot the results?"
+    },
+    {
+      "No.": "32",
+      "Session No": "26",
+      "Name": "CQ1",
+      "Details": "What tools or libraries help to plot the results?"
+    },
+    {
+      "No.": "33",
+      "Session No": "27",
+      "Name": "CQ1",
+      "Details": "What tools to write reports?"
+    },
+    {
+      "No.": "34",
+      "Session No": "28",
+      "Name": "CQ1",
+      "Details": "What tools to write reports?"
+    },
+    {
+      "No.": "35",
+      "Session No": "29",
+      "Name": "CQ1",
+      "Details": "How to write introduction?"
+    },
+    {
+      "No.": "36",
+      "Session No": "30",
+      "Name": "CQ1",
+      "Details": "How to write introduction?"
+    },
+    {
+      "No.": "37",
+      "Session No": "33",
+      "Name": "CQ1",
+      "Details": "How to write related section?"
+    },
+    {
+      "No.": "38",
+      "Session No": "34",
+      "Name": "CQ1",
+      "Details": "How to write related section?"
+    },
+    {
+      "No.": "39",
+      "Session No": "37",
+      "Name": "CQ1",
+      "Details": "How to write method, system design and implementation section?"
+    },
+    {
+      "No.": "40",
+      "Session No": "38",
+      "Name": "CQ1",
+      "Details": "How to write method, system design and implementation section?"
+    },
+    {
+      "No.": "41",
+      "Session No": "41",
+      "Name": "CQ1",
+      "Details": "How to write result section?"
+    },
+    {
+      "No.": "42",
+      "Session No": "42",
+      "Name": "CQ1",
+      "Details": "How to write result section?"
+    },
+    {
+      "No.": "43",
+      "Session No": "45",
+      "Name": "CQ1",
+      "Details": "How to write conclusion section?"
+    },
+    {
+      "No.": "44",
+      "Session No": "46",
+      "Name": "CQ1",
+      "Details": "How to write conclusion section?"
+    },
+    {
+      "No.": "45",
+      "Session No": "49",
+      "Name": "CQ1",
+      "Details": "How to write abstract and keywords section?"
+    },
+    {
+      "No.": "46",
+      "Session No": "50",
+      "Name": "CQ1",
+      "Details": "How to write abstract and keywords section?"
+    }
+  ],
+  "materials": [
+    {
+      "No.": "1",
+      "Material Description": "Template AIP391",
+      "Author": "",
+      "Publisher": "",
+      "Published Date": "",
+      "Edition": "",
+      "ISBN": "",
+      "Is Main Material": "True",
+      "Is Hard Copy": "False",
+      "Is Online": "False",
+      "Note": "Bản mềm do FU biên soạn"
+    },
+    {
+      "No.": "2",
+      "Material Description": "Python artificial intelligence projects for beginners: Get up and running with artificial intelligence using 8 smart and exciting AI applications.",
+      "Author": "Eckroth, J",
+      "Publisher": "Packt Publishing Ltd.",
+      "Published Date": "2018",
+      "Edition": "",
+      "ISBN": "",
+      "Is Main Material": "False",
+      "Is Hard Copy": "True",
+      "Is Online": "False",
+      "Note": ""
+    },
+    {
+      "No.": "3",
+      "Material Description": "Practical Machine Learning and Image Processing: For Facial Recognition, Object Detection, and Pattern Recognition Using Python",
+      "Author": "Singh, H",
+      "Publisher": "Apress",
+      "Published Date": "2019",
+      "Edition": "",
+      "ISBN": "",
+      "Is Main Material": "False",
+      "Is Hard Copy": "True",
+      "Is Online": "False",
+      "Note": ""
+    }
+  ],
+  "source_path": "data/raw/syllabi/10032.html",
+  "id": "syllabus:10032"
+}

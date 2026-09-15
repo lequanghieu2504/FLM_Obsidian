@@ -1,0 +1,456 @@
+{
+  "syllabus_id": 907,
+  "subject_code": "ENB101",
+  "subject_name": "Business writing",
+  "syllabus_name": "Business Writing",
+  "credits": 3,
+  "degree_level": "Bachelor in English Language",
+  "time_allocation": "1 course = 30 sessions 1 session= 90 minutes",
+  "prerequisite": "ENS411 & ENS421 & ENR401 & ENW401",
+  "general_information": {
+    "Syllabus ID": "907",
+    "Syllabus Name": "Business Writing",
+    "Course Name English": "",
+    "Subject Code": "ENB101",
+    "Learning-Teaching Method": "",
+    "NoCredit": "3",
+    "Degree Level": "Bachelor in English Language",
+    "Time Allocation": "1 course = 30 sessions 1 session= 90 minutes",
+    "Pre-Requisite": "ENS411 & ENS421 & ENR401 & ENW401",
+    "Description": "This course focuses on the skills of writing the texts used in the sutras such as specific types of correspondence, meeting minutes, records, proposals, analysis reports, other forms of spoken and written communication in the workplace.",
+    "StudentTasks": "- Attend more than 80% of contact hours in order to be accepted to the final examination - Actively participate in class activities - Fulfill tasks given by instructor after class - Use their own laptop in class only for learning purpose - Read the textbook in advance - Access the course website (www.cms.fpt.edu.vn) for up-to-date information and material of the course, for online supports from teachers and other students and for practicing and assessment.",
+    "Tools": "",
+    "Scoring Scale": "10",
+    "DecisionNo MM/dd/yyyy": "475/QĐ-ĐHFPT dated 04/19/2018",
+    "IsApproved": "True",
+    "Note": "",
+    "Is Scored": "True",
+    "MinAvgMarkToPass": "5",
+    "IsActive": "True",
+    "ApprovedDate": "4/19/2018"
+  },
+  "active": true,
+  "approved": true,
+  "decision": "475/QĐ-ĐHFPT dated 04/19/2018",
+  "description": "This course focuses on the skills of writing the texts used in the sutras such as specific types of correspondence, meeting minutes, records, proposals, analysis reports, other forms of spoken and written communication in the workplace.",
+  "learning_outcomes": [
+    {
+      "No.": "1",
+      "CLO Name": "CLO1",
+      "CLO Details": "Distinguish Common Forms of Business Communication"
+    },
+    {
+      "No.": "2",
+      "CLO Name": "CLO2",
+      "CLO Details": "Review Personality Types in Business Communication"
+    },
+    {
+      "No.": "3",
+      "CLO Name": "CLO3",
+      "CLO Details": "Identify and Understand Your Audience"
+    },
+    {
+      "No.": "4",
+      "CLO Name": "CLO4",
+      "CLO Details": "Write Within Workplace Constraints"
+    },
+    {
+      "No.": "5",
+      "CLO Name": "CLO5",
+      "CLO Details": "Choose Most Effective Wording"
+    },
+    {
+      "No.": "6",
+      "CLO Name": "CLO6",
+      "CLO Details": "Understand and apply Basic Writing Principles in Common Forms of Business Communication"
+    }
+  ],
+  "assessments": [
+    {
+      "No.": "1",
+      "Category": "Class participation and preparation",
+      "Type": "on-going",
+      "Part": "1",
+      "Weight": "10.0%",
+      "Completion Criteria": ">0",
+      "Duration": "",
+      "CLO": "",
+      "Question Type": "",
+      "No Question": "",
+      "Knowledge and Skill": "",
+      "Grading Guide": "",
+      "Note": "Participation grade will be given based on students' preparation, quantity as well as quality of participation in classroom; quality of participation is demonstrated through asking relevant questions, making statements that add to and facilitate class discussion, and builds upon others’ comments."
+    },
+    {
+      "No.": "2",
+      "Category": "Progress Test",
+      "Type": "on-going",
+      "Part": "3",
+      "Weight": "60.0%",
+      "Completion Criteria": ">0",
+      "Duration": "40'",
+      "CLO": "LO1, LO2, LO3, LO4, LO5, LO6",
+      "Question Type": "",
+      "No Question": "Letters, faxes, emails, orders, enquiries Time: 40'",
+      "Knowledge and Skill": "Test the acquainted knowledge which student obtained in the delivered units. Content based on topics of studied units",
+      "Grading Guide": "Paper test sheets",
+      "Note": "Teacher is allowed to select which unit content (topic or learning outcome) to focus on each examination session."
+    },
+    {
+      "No.": "3",
+      "Category": "Final exam",
+      "Type": "Final exam",
+      "Part": "1",
+      "Weight": "30.0%",
+      "Completion Criteria": "4",
+      "Duration": "60'",
+      "CLO": "LO1, LO2, LO3, LO4, LO5, LO6",
+      "Question Type": "Time duration: 60 mins Based on topics of studied units",
+      "No Question": "",
+      "Knowledge and Skill": "",
+      "Grading Guide": "Exam room",
+      "Note": "Not allow to use any document/information in any form in exam room"
+    }
+  ],
+  "schedule": [
+    {
+      "Session": "1",
+      "Topic": "Course Introduction Unit 1 - Letters",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO1, LO2, LO3, LO4, LO5, LO6",
+      "ITU": "I, T, U",
+      "Student Materials": "Coursebook, PPT presentation, other teaching resources provided",
+      "S-Download": "",
+      "Student's Tasks": "Lecture, Exercises, group/pair work, Class discussion",
+      "URLs": ""
+    },
+    {
+      "Session": "2",
+      "Topic": "Unit 1 (Cont. ) - Faxes and Emails - Points to remember",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO1, LO2, LO3, LO4, LO5, LO6",
+      "ITU": "I, T, U",
+      "Student Materials": "Coursebook, PPT presentation, other teaching resources provided",
+      "S-Download": "",
+      "Student's Tasks": "Lecture, Exercises, group/pair work, Class discussion",
+      "URLs": ""
+    },
+    {
+      "Session": "3",
+      "Topic": "Unit 2 - Length - Order and sequence - Planning - Style and language",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO1, LO2, LO3, LO4, LO5, LO6",
+      "ITU": "I, T, U",
+      "Student Materials": "Coursebook, PPT presentation, other teaching resources provided",
+      "S-Download": "",
+      "Student's Tasks": "Lecture, Exercises, group/pair work, Class discussion",
+      "URLs": ""
+    },
+    {
+      "Session": "4",
+      "Topic": "Unit 2 (Cont. ) - Clarity - Accuracy - Points to remember",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO1, LO2, LO3, LO4, LO5, LO6",
+      "ITU": "I, T, U",
+      "Student Materials": "Coursebook, PPT presentation, other teaching resources provided",
+      "S-Download": "",
+      "Student's Tasks": "Lecture, Exercises, group/pair work, Class discussion",
+      "URLs": ""
+    },
+    {
+      "Session": "5",
+      "Topic": "Unit 3 - Making enquiries",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO1, LO2, LO3, LO4, LO5, LO6",
+      "ITU": "I, T, U",
+      "Student Materials": "Coursebook, PPT presentation, other teaching resources provided",
+      "S-Download": "",
+      "Student's Tasks": "Lecture, Exercises, group/pair work, Class discussion",
+      "URLs": ""
+    },
+    {
+      "Session": "6",
+      "Topic": "Unit 3 (Cont. ) - Examples - Points to remember",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO1, LO2, LO3, LO4, LO5, LO6",
+      "ITU": "I, T, U",
+      "Student Materials": "Coursebook, PPT presentation, other teaching resources provided",
+      "S-Download": "",
+      "Student's Tasks": "Lecture, Exercises, group/pair work, Class discussion",
+      "URLs": ""
+    },
+    {
+      "Session": "7",
+      "Topic": "Unit 3 (Cont. ) - Write: Writing skill, Collaborative writing, Independent writing - Revise and edit",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO1, LO2, LO3, LO4, LO5, LO6",
+      "ITU": "T, U",
+      "Student Materials": "Coursebook, PPT presentation, other teaching resources provided",
+      "S-Download": "",
+      "Student's Tasks": "Lecture, Exercises, group/pair work, Class discussion",
+      "URLs": ""
+    },
+    {
+      "Session": "8",
+      "Topic": "Unit 4 - Reply to enquiries - Quotations",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO1, LO2, LO3, LO4, LO5, LO6",
+      "ITU": "I, T, U",
+      "Student Materials": "Coursebook, PPT presentation, other teaching resources provided",
+      "S-Download": "",
+      "Student's Tasks": "Lecture, Exercises, group/pair work, Class discussion",
+      "URLs": ""
+    },
+    {
+      "Session": "9",
+      "Topic": "Unit 4 (Cont. ) - Examples - Points to remember",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO1, LO2, LO3, LO4, LO5, LO6",
+      "ITU": "I, T, U",
+      "Student Materials": "Coursebook, PPT presentation, other teaching resources provided",
+      "S-Download": "",
+      "Student's Tasks": "Lecture, Exercises, group/pair work, Class discussion",
+      "URLs": ""
+    },
+    {
+      "Session": "10",
+      "Topic": "Unit 5 - placing an order - acknowledging an order - advice of dispatch - examples",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO1, LO2, LO3, LO4, LO5, LO6",
+      "ITU": "I, T, U",
+      "Student Materials": "Coursebook, PPT presentation, other teaching resources provided",
+      "S-Download": "",
+      "Student's Tasks": "Lecture, Exercises, group/pair work, Class discussion",
+      "URLs": ""
+    },
+    {
+      "Session": "11",
+      "Topic": "Unit 5 (Cont. ) - Delays in delivery - Refusing an order - Examples - Point to remember",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO1, LO2, LO3, LO4, LO5, LO6",
+      "ITU": "I, T, U",
+      "Student Materials": "Coursebook, PPT presentation, other teaching resources provided",
+      "S-Download": "",
+      "Student's Tasks": "Lecture, Exercises, group/pair work, Class discussion",
+      "URLs": ""
+    },
+    {
+      "Session": "12",
+      "Topic": "Review Units 1-5 Progress Test 1",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO1, LO2, LO3, LO4, LO5, LO6",
+      "ITU": "U",
+      "Student Materials": "Coursebook, PPT presentation, other teaching resources provided, testsheets",
+      "S-Download": "",
+      "Student's Tasks": "",
+      "URLs": ""
+    },
+    {
+      "Session": "13",
+      "Topic": "Unit 6 - Invoices and statements - Examples",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO1, LO2, LO3, LO4, LO5, LO6",
+      "ITU": "I, T, U",
+      "Student Materials": "Coursebook, PPT presentation, other teaching resources provided",
+      "S-Download": "",
+      "Student's Tasks": "Lecture, Exercises, group/pair work, Class discussion",
+      "URLs": ""
+    },
+    {
+      "Session": "14",
+      "Topic": "Unit 6 (Cont. ) - Write: Writing skill, Collaborative writing, Independent writing - Revise and edit",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO1, LO2, LO3, LO4, LO5, LO6",
+      "ITU": "T, U",
+      "Student Materials": "Coursebook, PPT presentation, other teaching resources provided",
+      "S-Download": "",
+      "Student's Tasks": "Lecture, Exercises, group/pair work, Class discussion",
+      "URLs": ""
+    },
+    {
+      "Session": "15",
+      "Topic": "Unit 7 - UNJUSTIFIED COMPLAINTS - MAKING GENERAL COMPTAINTS - REPTYING TO LETTERS OF COMPLAINT - ACCOUNTING ERRORS AND ADJUSTMENTS - Examples - Points to remember",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO1, LO2, LO3, LO4, LO5, LO6",
+      "ITU": "I, T, U",
+      "Student Materials": "Coursebook, PPT presentation, other teaching resources provided",
+      "S-Download": "",
+      "Student's Tasks": "Lecture, Exercises, group/pair work, Class discussion",
+      "URLs": ""
+    },
+    {
+      "Session": "16",
+      "Topic": "Unit 8 - FORMS OF CREDIT - REqUtREMENTS FOR GRANTING CREDTT - ASKING FOR CREDIT - REPLYING TO REQUESTS FOR CREDIT",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO1, LO2, LO3, LO4, LO5, LO6",
+      "ITU": "I, T, U",
+      "Student Materials": "Coursebook, PPT presentation, other teaching resources provided",
+      "S-Download": "",
+      "Student's Tasks": "Lecture, Exercises, group/pair work, Class discussion",
+      "URLs": ""
+    },
+    {
+      "Session": "17",
+      "Topic": "Unit 8 (Cont. ) - Asking about credit rating - replying to enquiries about credit rating - Examples - Points to remember",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO1, LO2, LO3, LO4, LO5, LO6",
+      "ITU": "I, T, U",
+      "Student Materials": "Coursebook, PPT presentation, other teaching resources provided",
+      "S-Download": "",
+      "Student's Tasks": "Lecture, Exercises, group/pair work, Class discussion",
+      "URLs": ""
+    },
+    {
+      "Session": "18",
+      "Topic": "Unit 9 - Types of banks - International banking - Points to remember",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO1, LO2, LO3, LO4, LO5, LO6",
+      "ITU": "I, T, U",
+      "Student Materials": "",
+      "S-Download": "",
+      "Student's Tasks": "",
+      "URLs": ""
+    },
+    {
+      "Session": "19",
+      "Topic": "Unit 10 - Type of agency - Finding an agency - Offering an agency - Asking for an agency",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO1, LO2, LO3, LO4, LO5, LO6",
+      "ITU": "I, T, U",
+      "Student Materials": "Coursebook, PPT presentation, other teaching resources provided",
+      "S-Download": "",
+      "Student's Tasks": "Lecture, Exercises, group/pair work, Class discussion",
+      "URLs": ""
+    },
+    {
+      "Session": "20",
+      "Topic": "Review Units 6-10 Progress Test 2",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO1, LO2, LO3, LO4, LO5, LO6",
+      "ITU": "U",
+      "Student Materials": "Coursebook, PPT presentation, other teaching resources provided, testsheets",
+      "S-Download": "",
+      "Student's Tasks": "",
+      "URLs": ""
+    },
+    {
+      "Session": "21",
+      "Topic": "Unit 11 Road, rail, and air transport",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO1, LO2, LO3, LO4, LO5, LO6",
+      "ITU": "I, T, U",
+      "Student Materials": "Coursebook, PPT presentation, other teaching resources provided",
+      "S-Download": "",
+      "Student's Tasks": "Lecture, Exercises, group/pair work, Class discussion",
+      "URLs": ""
+    },
+    {
+      "Session": "22",
+      "Topic": "Unit 11 (cont.) - Shipping - Container services - Point to remember",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO1, LO2, LO3, LO4, LO5, LO6",
+      "ITU": "I, T, U",
+      "Student Materials": "Coursebook, PPT presentation, other teaching resources provided",
+      "S-Download": "",
+      "Student's Tasks": "Lecture, Exercises, group/pair work, Class discussion",
+      "URLs": ""
+    },
+    {
+      "Session": "23",
+      "Topic": "Unit 12 - INSURANCE PROCEDURES - FIRE AND ACCIDENT PROCEDURES - MARINE TNSURANCE - Points to remember",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO1, LO2, LO3, LO4, LO5, LO6",
+      "ITU": "I, T, U",
+      "Student Materials": "Coursebook, PPT presentation, other teaching resources provided",
+      "S-Download": "",
+      "Student's Tasks": "Lecture, Exercises, group/pair work, Class discussion",
+      "URLs": ""
+    },
+    {
+      "Session": "24",
+      "Topic": "Unit 13 RESERVATIONS APPOINTMENTS HOSPITALITY SPECIAL OCCASIONS Points to remember",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO1, LO2, LO3, LO4, LO5, LO6",
+      "ITU": "I, T, U",
+      "Student Materials": "Coursebook, PPT presentation, other teaching resources provided",
+      "S-Download": "",
+      "Student's Tasks": "Lecture, Exercises, group/pair work, Class discussion",
+      "URLs": ""
+    },
+    {
+      "Session": "25",
+      "Topic": "Unit 14 MEMOS Layout Cuide to contents Length",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO1, LO2, LO3, LO4, LO5, LO6",
+      "ITU": "I, T, U",
+      "Student Materials": "Coursebook, PPT presentation, other teaching resources provided",
+      "S-Download": "",
+      "Student's Tasks": "Lecture, Exercises, group/pair work, Class discussion",
+      "URLs": ""
+    },
+    {
+      "Session": "26",
+      "Topic": "Unit 14 (cont.) REPORTS Types of report Structure of a report Summary Points to remember Memos Reports",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO1, LO2, LO3, LO4, LO5, LO6",
+      "ITU": "I, T, U",
+      "Student Materials": "Coursebook, PPT presentation, other teaching resources provided",
+      "S-Download": "",
+      "Student's Tasks": "Lecture, Exercises, group/pair work, Class discussion",
+      "URLs": ""
+    },
+    {
+      "Session": "27",
+      "Topic": "Unit 15 APPLYING FOR A JOB Job advertisements Letters of application Application forms and cvs Covering letters Unit 15 (cont.) MAKING A DECISION Turning down an applicant Offering a post Accepting a post Points to remember",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO1, LO2, LO3, LO4, LO5, LO6",
+      "ITU": "I, T, U",
+      "Student Materials": "Coursebook, PPT presentation, other teaching resources provided",
+      "S-Download": "",
+      "Student's Tasks": "Lecture, Exercises, group/pair work, Class discussion",
+      "URLs": ""
+    },
+    {
+      "Session": "28",
+      "Topic": "REVISIONS UNITS 10-15 Progress test 3",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO1, LO2, LO3, LO4, LO5, LO6",
+      "ITU": "U",
+      "Student Materials": "Worksheets, Coursebook, additional materials, test sheets",
+      "S-Download": "",
+      "Student's Tasks": "Exercises, group/pair work",
+      "URLs": ""
+    }
+  ],
+  "constructive_questions": [],
+  "materials": [
+    {
+      "No.": "1",
+      "Material Description": "Oxford Handbook of Commercial Correspondence",
+      "Author": "Asley",
+      "Publisher": "Oxford University Press",
+      "Published Date": "2003",
+      "Edition": "",
+      "ISBN": "978-0-19457-213-2",
+      "Is Main Material": "True",
+      "Is Hard Copy": "True",
+      "Is Online": "False",
+      "Note": ""
+    },
+    {
+      "No.": "2",
+      "Material Description": "A Practical Guide To Business Writing: Writing In English For Non-Native Speakers,",
+      "Author": "Khaled A.",
+      "Publisher": "Wiley",
+      "Published Date": "2012",
+      "Edition": "",
+      "ISBN": "978-1-11841-081-3",
+      "Is Main Material": "True",
+      "Is Hard Copy": "True",
+      "Is Online": "False",
+      "Note": ""
+    }
+  ],
+  "source_path": "data/raw/syllabi/907.html",
+  "id": "syllabus:907"
+}

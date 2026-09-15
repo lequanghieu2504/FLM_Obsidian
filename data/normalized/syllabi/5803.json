@@ -1,0 +1,743 @@
+{
+  "syllabus_id": 5803,
+  "subject_code": "ENW491",
+  "subject_name": "Writing Skill",
+  "syllabus_name": "Writing Skill",
+  "credits": 3,
+  "degree_level": "B2-C1",
+  "time_allocation": "1 course = 30 sessions 1 session= 90 minutes",
+  "prerequisite": "Passed ENW301 or (ENS312 & ENS322) or ENT503",
+  "general_information": {
+    "Syllabus ID": "5803",
+    "Syllabus Name": "Writing Skill",
+    "Course Name English": "",
+    "Subject Code": "ENW491",
+    "Learning-Teaching Method": "",
+    "NoCredit": "3",
+    "Degree Level": "B2-C1",
+    "Time Allocation": "1 course = 30 sessions 1 session= 90 minutes",
+    "Pre-Requisite": "Passed ENW301 or (ENS312 & ENS322) or ENT503",
+    "Description": "Writing Research Papers from essay to research paper develops learners' academic writing sklls offering: -review and extenstion of the typical parts and formats of essays -a clear guide to choosing and researching topics -step-by-step practice of the drafting process, using acade,ic language and presenting research -special sections on citing references and avoiding plagiarism",
+    "StudentTasks": "- Attend more than 80% of contact hours in order to be accepted to the final examination - Actively participate in class activities - Fulfill tasks given by instructor after class - Use their own laptop in class only for learning purpose - Read the textbook in advance - Access the course website (www.cms.fpt.edu.vn) for up-to-date information and material of the course, for online supports from teachers and other students and for practicing and assessment.",
+    "Tools": "",
+    "Scoring Scale": "10",
+    "DecisionNo MM/dd/yyyy": "345/QĐ-ĐHFPT dated 04/29/2022",
+    "IsApproved": "True",
+    "Note": "",
+    "Is Scored": "True",
+    "MinAvgMarkToPass": "5",
+    "IsActive": "True",
+    "ApprovedDate": "4/29/2022"
+  },
+  "active": true,
+  "approved": true,
+  "decision": "345/QĐ-ĐHFPT dated 04/29/2022",
+  "description": "Writing Research Papers from essay to research paper develops learners' academic writing sklls offering: -review and extenstion of the typical parts and formats of essays -a clear guide to choosing and researching topics -step-by-step practice of the drafting process, using acade,ic language and presenting research -special sections on citing references and avoiding plagiarism",
+  "learning_outcomes": [
+    {
+      "No.": "1",
+      "CLO Name": "CLO1",
+      "CLO Details": "Describe the steps of the process of essay writing"
+    },
+    {
+      "No.": "2",
+      "CLO Name": "CLO2",
+      "CLO Details": "Differenciate two types of research papers: persuasive and expository, practice to write a thesis statement and an essay outline."
+    },
+    {
+      "No.": "3",
+      "CLO Name": "CLO3",
+      "CLO Details": "Report the importance of introductions, conclusions and peer review."
+    },
+    {
+      "No.": "4",
+      "CLO Name": "CLO4",
+      "CLO Details": "Select online resources to determine which are the the best to use."
+    },
+    {
+      "No.": "5",
+      "CLO Name": "CLO5",
+      "CLO Details": "Create a detailed tree outline for the research paper."
+    },
+    {
+      "No.": "6",
+      "CLO Name": "CLO6",
+      "CLO Details": "Recognize the importance of crediting sources, and two strategies to avoid plagiarizing: quotating and paraphrasing"
+    },
+    {
+      "No.": "7",
+      "CLO Name": "CLO7",
+      "CLO Details": "Use academic language in terms of style and tone in the research paper"
+    },
+    {
+      "No.": "8",
+      "CLO Name": "CLO8",
+      "CLO Details": "Apply APA style for in-text citations"
+    },
+    {
+      "No.": "9",
+      "CLO Name": "CLO9",
+      "CLO Details": "Write an abstract for the research paper"
+    },
+    {
+      "No.": "10",
+      "CLO Name": "CLO",
+      "CLO Details": "Write a research paper (~1000 words)"
+    }
+  ],
+  "assessments": [
+    {
+      "No.": "1",
+      "Category": "Peer Review the Draft of the Research Paper",
+      "Type": "on-going",
+      "Part": "1",
+      "Weight": "10.0%",
+      "Completion Criteria": ">0",
+      "Duration": "",
+      "CLO": "LO1, LO2, LO3, LO4, LO5, LO6, LO7, LO8, LO9, LO10",
+      "Question Type": "OP1: flexible // OP2: (For Constructivism Approach only): Follow lecturer's proposal",
+      "No Question": "N/A",
+      "Knowledge and Skill": "Test the acquainted knowledge which student obtained in the delivered units (Units 5-6). Content based on topics of student's interest",
+      "Grading Guide": "Coursework",
+      "Note": "Teacher is allowed to select which unit content (topic or learning outcome) to focus on each examination session."
+    },
+    {
+      "No.": "2",
+      "Category": "Write a draft of the Research Paper",
+      "Type": "on-going",
+      "Part": "1",
+      "Weight": "20.0%",
+      "Completion Criteria": ">0",
+      "Duration": "",
+      "CLO": "LO1, LO2, LO3, LO4, LO5, LO6, LO7",
+      "Question Type": "OP1: flexible // OP2: (For Constructivism Approach only): Follow lecturer's proposal",
+      "No Question": "N/A",
+      "Knowledge and Skill": "Test the acquainted knowledge which student obtained in the delivered units (Units 1-10). Content based on topics of studied units",
+      "Grading Guide": "Coursework",
+      "Note": "Teacher is allowed to select which unit content (topic or learning outcome) to focus on each examination session."
+    },
+    {
+      "No.": "3",
+      "Category": "Write an outline of the Research Paper",
+      "Type": "on-going",
+      "Part": "1",
+      "Weight": "10.0%",
+      "Completion Criteria": ">0",
+      "Duration": "",
+      "CLO": "LO1, LO5",
+      "Question Type": "OP1: flexible // OP2: (For Constructivism Approach only): Follow lecturer's proposal",
+      "No Question": "N/A",
+      "Knowledge and Skill": "Test the acquainted knowledge which student obtained in the delivered units (Units 1-5). Content based on topics of student's interest",
+      "Grading Guide": "Coursework",
+      "Note": "Teacher is allowed to select which unit content (topic or learning outcome) to focus on each examination session."
+    },
+    {
+      "No.": "4",
+      "Category": "Final Research Paper",
+      "Type": "Final exam",
+      "Part": "1",
+      "Weight": "60.0%",
+      "Completion Criteria": "4",
+      "Duration": "",
+      "CLO": "LO1, LO2, LO3, LO4, LO5, LO6, LO7, LO8, LO9, LO10",
+      "Question Type": "flexible",
+      "No Question": "N/A",
+      "Knowledge and Skill": "Test the acquainted knowledge which student obtained in the delivered units (Units 1-12).",
+      "Grading Guide": "Coursework",
+      "Note": "Participation grade will be given based on students' preparation, quantity as well as quality of participation in classroom; quality of participation is demonstrated through asking relevant questions, making statements that add to and facilitate class discussion, and builds upon others’ comments."
+    }
+  ],
+  "schedule": [
+    {
+      "Session": "1",
+      "Topic": "Course Introduction Unit 1 REVIEW OF ESSAY - Considering reasons for writing essays",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO1",
+      "ITU": "I, T, U",
+      "Student Materials": "Coursebook, PPT presentation, other teaching resources provided",
+      "S-Download": "",
+      "Student's Tasks": "Lecture, Exercises, group/pair work, Class discussion",
+      "URLs": ""
+    },
+    {
+      "Session": "2",
+      "Topic": "Unit 1 (Cont. ) - Review the standard parts and format of an essay",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO1",
+      "ITU": "T, U",
+      "Student Materials": "Coursebook, PPT presentation, other teaching resources provided",
+      "S-Download": "",
+      "Student's Tasks": "Lecture, Exercises, group/pair work, Class discussion",
+      "URLs": ""
+    },
+    {
+      "Session": "3",
+      "Topic": "Unit 1 (Cont. ) - Review methods of support - Review process writing",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO1",
+      "ITU": "T, U",
+      "Student Materials": "Coursebook, PPT presentation, other teaching resources provided",
+      "S-Download": "",
+      "Student's Tasks": "Lecture, Exercises, group/pair work, Class discussion",
+      "URLs": ""
+    },
+    {
+      "Session": "4",
+      "Topic": "Unit 2 CHOOSING A TOPIC Selecting a topis for your essay and research paper",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO2",
+      "ITU": "I, T, U",
+      "Student Materials": "Coursebook, PPT presentation, other teaching resources provided",
+      "S-Download": "",
+      "Student's Tasks": "Lecture, Exercises, group/pair work, Class discussion",
+      "URLs": ""
+    },
+    {
+      "Session": "5",
+      "Topic": "Unit 2 -Learning the difference between a persuasive and an expository",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO2",
+      "ITU": "I, T, U",
+      "Student Materials": "Coursebook, PPT presentation, other teaching resources provided",
+      "S-Download": "",
+      "Student's Tasks": "Lecture, Exercises, group/pair work, Class discussion",
+      "URLs": ""
+    },
+    {
+      "Session": "6",
+      "Topic": "Unit 2 (Cont.) - write a thesis statement and an essay outline - Write the first draft of your essay",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO2",
+      "ITU": "T, U",
+      "Student Materials": "Coursebook, PPT presentation, other teaching resources provided",
+      "S-Download": "",
+      "Student's Tasks": "Lecture, Exercises, group/pair work, Class discussion",
+      "URLs": ""
+    },
+    {
+      "Session": "7",
+      "Topic": "Unit 3 PEER REVIEW - Learning more about introductions and conlcusion - Learning to effectively review paper with a classmate",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO3",
+      "ITU": "T, U",
+      "Student Materials": "Coursebook, PPT presentation, other teaching resources provided",
+      "S-Download": "",
+      "Student's Tasks": "Lecture, Exercises, group/pair work, Class discussion",
+      "URLs": ""
+    },
+    {
+      "Session": "8",
+      "Topic": "Unit 3 (Cont.) -Making revision decisions",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO3",
+      "ITU": "T, U",
+      "Student Materials": "Worksheets, Coursebook, additional materials, test sheets",
+      "S-Download": "",
+      "Student's Tasks": "Exercises, group/pair work",
+      "URLs": ""
+    },
+    {
+      "Session": "9",
+      "Topic": "Unit 3 (Cont.) - Peer review the first draft - Write the second draft of your essay",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO3",
+      "ITU": "T, U",
+      "Student Materials": "Coursebook, PPT presentation, other teaching resources provided",
+      "S-Download": "",
+      "Student's Tasks": "Exercises, group/pair work",
+      "URLs": ""
+    },
+    {
+      "Session": "10",
+      "Topic": "Unit 4 RESEARCHING - Considering some sources of information",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO4",
+      "ITU": "T, U",
+      "Student Materials": "Coursebook, PPT presentation, other teaching resources provided",
+      "S-Download": "",
+      "Student's Tasks": "Lecture, Exercises, group/pair work, Class discussion",
+      "URLs": ""
+    },
+    {
+      "Session": "11",
+      "Topic": "Unit 4 (Cont.) - Learning effective online search techniques",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO4",
+      "ITU": "T, U",
+      "Student Materials": "Coursebook, PPT presentation, other teaching resources provided",
+      "S-Download": "",
+      "Student's Tasks": "Lecture, Exercises, group/pair work, Class discussion",
+      "URLs": ""
+    },
+    {
+      "Session": "12",
+      "Topic": "Unit 4 (Cont.) - Evaluating the reliabilty of websites - Focusing your research",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO4",
+      "ITU": "T, U",
+      "Student Materials": "Coursebook, PPT presentation, other teaching resources provided",
+      "S-Download": "",
+      "Student's Tasks": "Lecture, Exercises, group/pair work, Class discussion",
+      "URLs": ""
+    },
+    {
+      "Session": "13",
+      "Topic": "Unit 5 OUTLINING -Writing a detailed outline",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO5",
+      "ITU": "I, T, U",
+      "Student Materials": "Coursebook, PPT presentation, other teaching resources provided",
+      "S-Download": "",
+      "Student's Tasks": "Lecture, Exercises, group/pair work, Class discussion",
+      "URLs": ""
+    },
+    {
+      "Session": "14",
+      "Topic": "Unit 5 (Cont.) - Using a Tree Outline",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO5",
+      "ITU": "T, U",
+      "Student Materials": "Coursebook, PPT presentation, other teaching resources provided",
+      "S-Download": "",
+      "Student's Tasks": "Lecture, Exercises, group/pair work, Class discussion",
+      "URLs": ""
+    },
+    {
+      "Session": "15",
+      "Topic": "Unit 5 (Cont. ) -Pattern of Organization - Write an outline of a research paper for marking",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO5",
+      "ITU": "T, U",
+      "Student Materials": "Coursebook, PPT presentation, other teaching resources provided",
+      "S-Download": "",
+      "Student's Tasks": "Lecture, Exercises, group/pair work, Class discussion",
+      "URLs": ""
+    },
+    {
+      "Session": "16",
+      "Topic": "Unit 6 AVOID PLAGIARISM - Learning about the issue of plagiarism and academic expectations for original work",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO6",
+      "ITU": "",
+      "Student Materials": "Coursebook, PPT presentation, other teaching resources provided",
+      "S-Download": "",
+      "Student's Tasks": "Exercises, group/pair work",
+      "URLs": ""
+    },
+    {
+      "Session": "17",
+      "Topic": "Unit 6 (Cont.) - Learning the importance of crediting source",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO6",
+      "ITU": "",
+      "Student Materials": "Coursebook, PPT presentation, other teaching resources provided",
+      "S-Download": "",
+      "Student's Tasks": "",
+      "URLs": ""
+    },
+    {
+      "Session": "18",
+      "Topic": "Unit 6 - Understanding the issues related to choosing what to quote and what to paraphrase - Practicing techniques for quoting directly Unit 7 The Language of the Research Paper Unit 10 Academic Langauge",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO6",
+      "ITU": "I, T, U",
+      "Student Materials": "Coursebook, PPT presentation, other teaching resources provided",
+      "S-Download": "",
+      "Student's Tasks": "Lecture, Exercises, group/pair work, Class discussion",
+      "URLs": ""
+    },
+    {
+      "Session": "19",
+      "Topic": "Unit 7 THE LANGUAGE OF THE RESEARCH PAPER - Learning and Practicing techniques for paraphasing - Considering common grammatical structures in a research paper - Practicing using transitions",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO7",
+      "ITU": "T, U",
+      "Student Materials": "Coursebook, PPT presentation, other teaching resources provided",
+      "S-Download": "",
+      "Student's Tasks": "Lecture, Exercises, group/pair work, Class discussion",
+      "URLs": ""
+    },
+    {
+      "Session": "20",
+      "Topic": "Unit 10 ACADEMIC LANGUAGE - Considering appropriate style and tone for academic work - Learning how to make your voive stronger and more precise",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO7",
+      "ITU": "T, U",
+      "Student Materials": "",
+      "S-Download": "",
+      "Student's Tasks": "",
+      "URLs": ""
+    },
+    {
+      "Session": "21",
+      "Topic": "Unit 10 (Cont. ) - Using hedging language to make claims and assertations more believable and accurate - Write a first draft of your paper for marking",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO7",
+      "ITU": "T, U",
+      "Student Materials": "Coursebook, PPT presentation, other teaching resources provided",
+      "S-Download": "",
+      "Student's Tasks": "Lecture, Exercises, group/pair work, Class discussion, individual work",
+      "URLs": ""
+    },
+    {
+      "Session": "22",
+      "Topic": "Unit 9 IN-TEXT CITATION - Learning about correct formatting for APA-style in-text citation",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO8",
+      "ITU": "",
+      "Student Materials": "",
+      "S-Download": "",
+      "Student's Tasks": "",
+      "URLs": ""
+    },
+    {
+      "Session": "23",
+      "Topic": "Unit 9 (Cont.) - Further practice deciding whether to paraphrase or quote",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO8",
+      "ITU": "",
+      "Student Materials": "",
+      "S-Download": "",
+      "Student's Tasks": "",
+      "URLs": ""
+    },
+    {
+      "Session": "24",
+      "Topic": "Unit 9 (Cont.) - Practice paraphrasing and quoting, using correct in-text citations",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO8",
+      "ITU": "I, T, U",
+      "Student Materials": "Coursebook, PPT presentation, other teaching resources provided",
+      "S-Download": "",
+      "Student's Tasks": "Exercises, group/pair work, Class discussion and Individual Work",
+      "URLs": ""
+    },
+    {
+      "Session": "25",
+      "Topic": "- Peer Review in class - Writing the second draft of your paper",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO1, LO2, LO3, LO4, LO5, LO6, LO7, LO8",
+      "ITU": "T, U",
+      "Student Materials": "Student's work",
+      "S-Download": "",
+      "Student's Tasks": "Exercises, group/pair work, Class discussion and Individual Work",
+      "URLs": ""
+    },
+    {
+      "Session": "26",
+      "Topic": "Unit 11 EDITING YOUR PAPER - Learning how to check your own paper for language and punctuation.",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO7",
+      "ITU": "T, U",
+      "Student Materials": "Coursebook, PPT presentation, other teaching resources provided",
+      "S-Download": "",
+      "Student's Tasks": "Lecture, Exercises, group/pair work, Class discussion",
+      "URLs": ""
+    },
+    {
+      "Session": "27",
+      "Topic": "Unit 11 (Cont. ) Learning how to write an APA-style abstract",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO9",
+      "ITU": "I, T, U",
+      "Student Materials": "Coursebook, PPT presentation, other teaching resources provided",
+      "S-Download": "",
+      "Student's Tasks": "Lecture, Exercises, group/pair work, Class discussion",
+      "URLs": ""
+    },
+    {
+      "Session": "28",
+      "Topic": "Unit 11 (Cont. ) Learning how to write an APA-style abstract",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO9",
+      "ITU": "T, U",
+      "Student Materials": "Coursebook, PPT presentation, other teaching resources provided",
+      "S-Download": "",
+      "Student's Tasks": "Lecture, Exercises, group/pair work, Class discussion",
+      "URLs": ""
+    },
+    {
+      "Session": "29",
+      "Topic": "Unit 12 PRESENTING YOUR RESEARCH - Learning how to format an APA-style title page - Learning how to format an APA-style Works Cited section",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO1, LO2, LO3, LO4, LO5, LO6, LO7, LO8, LO9, LO10",
+      "ITU": "U",
+      "Student Materials": "",
+      "S-Download": "",
+      "Student's Tasks": "",
+      "URLs": ""
+    },
+    {
+      "Session": "30",
+      "Topic": "REVIEW and Submitting the Research Paper",
+      "Learning-Teaching Type": "Offline",
+      "LO": "",
+      "ITU": "T, U",
+      "Student Materials": "",
+      "S-Download": "",
+      "Student's Tasks": "",
+      "URLs": ""
+    }
+  ],
+  "constructive_questions": [
+    {
+      "No.": "1",
+      "Session No": "1",
+      "Name": "CQ1_HN",
+      "Details": "What are reasons for writing essays?"
+    },
+    {
+      "No.": "2",
+      "Session No": "2",
+      "Name": "CQ1_HN",
+      "Details": "Present about the standard parts and format of an essay"
+    },
+    {
+      "No.": "3",
+      "Session No": "2",
+      "Name": "CQ2_HN",
+      "Details": "What are methods of support? / What are types of support?"
+    },
+    {
+      "No.": "4",
+      "Session No": "2",
+      "Name": "CQ3_HN",
+      "Details": "How to develop supporting paragraphs?"
+    },
+    {
+      "No.": "5",
+      "Session No": "3",
+      "Name": "CQ1_HN",
+      "Details": "What is process writing? Explain."
+    },
+    {
+      "No.": "6",
+      "Session No": "3",
+      "Name": "CQ2_HN",
+      "Details": "Think of a creative process other than writing that involve several steps (e.g., cooking a meal, writing a song, decorating a room etc.) Write a short description of what someone would do for each of the steps of the creative process. Present your process."
+    },
+    {
+      "No.": "7",
+      "Session No": "4",
+      "Name": "CQ1_HN",
+      "Details": "How to select a topic for your essay and research paper? Explain and give examples"
+    },
+    {
+      "No.": "8",
+      "Session No": "4",
+      "Name": "CQ2_HN",
+      "Details": "What is the difference between an expository and a persuasive essay? What question types represent each?"
+    },
+    {
+      "No.": "9",
+      "Session No": "5",
+      "Name": "CQ1_HN",
+      "Details": "What is a thesis statement? How to write it?"
+    },
+    {
+      "No.": "10",
+      "Session No": "5",
+      "Name": "CQ2_HN",
+      "Details": "What is the difference between an expository and a persuasive paper in thesis statement writing?"
+    },
+    {
+      "No.": "11",
+      "Session No": "5",
+      "Name": "CQ3_HN",
+      "Details": "Give examples of good and bad thesis statements."
+    },
+    {
+      "No.": "12",
+      "Session No": "5",
+      "Name": "CQ4_HN",
+      "Details": "What are some notes about thesis statements?"
+    },
+    {
+      "No.": "13",
+      "Session No": "7",
+      "Name": "CQ1_HN",
+      "Details": "What are parts of an introduction?"
+    },
+    {
+      "No.": "14",
+      "Session No": "7",
+      "Name": "CQ2_HN",
+      "Details": "How to write a hook? (What are ways of writing a hook?)"
+    },
+    {
+      "No.": "15",
+      "Session No": "8",
+      "Name": "CQ1_HN",
+      "Details": "What are parts of a conclusion? / How to write a conclusion?"
+    },
+    {
+      "No.": "16",
+      "Session No": "8",
+      "Name": "CQ2_HN",
+      "Details": "What is peer review? Create a list of guidelines for your classmates, based on your research."
+    },
+    {
+      "No.": "17",
+      "Session No": "10",
+      "Name": "CQ4_HN",
+      "Details": "How to find information online? / What are effective online search techniques?"
+    },
+    {
+      "No.": "18",
+      "Session No": "11",
+      "Name": "CQ5_HN",
+      "Details": "How do you evaluate the sources? / How do you know your source is credible/reliable?"
+    },
+    {
+      "No.": "19",
+      "Session No": "13",
+      "Name": "CQ1_HN",
+      "Details": "What is an outline? Why do we need an outline before writing? What are common outlines?"
+    },
+    {
+      "No.": "20",
+      "Session No": "14",
+      "Name": "CQ1_HN",
+      "Details": "What are methods of organizing writing? Is there any difference in organizing ideas of an expository and a persuasive essay?"
+    },
+    {
+      "No.": "21",
+      "Session No": "16",
+      "Name": "CQ1_HN",
+      "Details": "What is plagiarism? What are types of plagiarism? Give some examples of possible plagiarism actions"
+    },
+    {
+      "No.": "22",
+      "Session No": "16",
+      "Name": "CQ2_HN",
+      "Details": "What is the importance of crediting sources?"
+    },
+    {
+      "No.": "23",
+      "Session No": "17",
+      "Name": "CQ1_HN",
+      "Details": "How can we avoid plagiarism?"
+    },
+    {
+      "No.": "24",
+      "Session No": "17",
+      "Name": "CQ2_HN",
+      "Details": "What is quoting? How to put a quote in an essay?"
+    },
+    {
+      "No.": "25",
+      "Session No": "18",
+      "Name": "CQ1_HN",
+      "Details": "What is paraphrasing? What are techniques for paraphrasing?"
+    },
+    {
+      "No.": "26",
+      "Session No": "19",
+      "Name": "CQ1_HN",
+      "Details": "What are connectors and their functions?"
+    },
+    {
+      "No.": "27",
+      "Session No": "20",
+      "Name": "CQ1_HN",
+      "Details": "What are in-text citations? Why do we need citations? What are different citation styles?"
+    },
+    {
+      "No.": "28",
+      "Session No": "20",
+      "Name": "CQ2_HN",
+      "Details": "What is the purpose of APA style?"
+    },
+    {
+      "No.": "29",
+      "Session No": "21",
+      "Name": "CQ4_HN",
+      "Details": "Present different types of in-text citations."
+    },
+    {
+      "No.": "30",
+      "Session No": "22",
+      "Name": "CQ1_HN",
+      "Details": "What is academic style and tone?"
+    },
+    {
+      "No.": "31",
+      "Session No": "22",
+      "Name": "CQ2_HN",
+      "Details": "how to make your points stronger and more precise?"
+    },
+    {
+      "No.": "32",
+      "Session No": "23",
+      "Name": "CQ1_HN",
+      "Details": "Is it advisable to use phrasal verbs and idioms in academic writing?"
+    },
+    {
+      "No.": "33",
+      "Session No": "23",
+      "Name": "CQ2_HN",
+      "Details": "What is hedging? Why should we use hedges? How to use hedges?"
+    },
+    {
+      "No.": "34",
+      "Session No": "26",
+      "Name": "CQ1_HN",
+      "Details": "Discuss issues related to accuracy in research"
+    },
+    {
+      "No.": "35",
+      "Session No": "27",
+      "Name": "CQ1_HN",
+      "Details": "How to write an APA-style abstract (a reference list)?"
+    },
+    {
+      "No.": "36",
+      "Session No": "28",
+      "Name": "CQ1_HN",
+      "Details": "How to format an APA-style Works Cited section?"
+    }
+  ],
+  "materials": [
+    {
+      "No.": "1",
+      "Material Description": "Writing Research Papers from essay to research paper",
+      "Author": "Macmillan Education",
+      "Publisher": "",
+      "Published Date": "",
+      "Edition": "",
+      "ISBN": "978-0-230-42194-3",
+      "Is Main Material": "True",
+      "Is Hard Copy": "True",
+      "Is Online": "False",
+      "Note": ""
+    },
+    {
+      "No.": "2",
+      "Material Description": "Academic writing from paragraph to essay",
+      "Author": "L. A. Rumisek D. E. Zemach",
+      "Publisher": "Macmillan",
+      "Published Date": "",
+      "Edition": "",
+      "ISBN": "978-1-40508-606-6",
+      "Is Main Material": "True",
+      "Is Hard Copy": "True",
+      "Is Online": "False",
+      "Note": ""
+    },
+    {
+      "No.": "3",
+      "Material Description": "Writing Academic English",
+      "Author": "Alice Oshima & Ann Hogue",
+      "Publisher": "Pearson Longman",
+      "Published Date": "2006",
+      "Edition": "4th",
+      "ISBN": "978-0-13152-359-3",
+      "Is Main Material": "False",
+      "Is Hard Copy": "True",
+      "Is Online": "False",
+      "Note": ""
+    }
+  ],
+  "source_path": "data/raw/syllabi/5803.html",
+  "id": "syllabus:5803"
+}

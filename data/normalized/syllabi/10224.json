@@ -1,0 +1,1319 @@
+{
+  "syllabus_id": 10224,
+  "subject_code": "AIT301",
+  "subject_name": "Artificial Intelligence with TensorFlow_TTNT với TensorFlow",
+  "syllabus_name": "AI with Tensorflow_AI với Tensorflow",
+  "credits": 3,
+  "degree_level": "Bachelor",
+  "time_allocation": "Study hour (150h) = 45h contact hours + 1h final exam + 104h self-study",
+  "prerequisite": "MAD101, CSD201, MAS291, PRP201c",
+  "general_information": {
+    "Syllabus ID": "10224",
+    "Syllabus Name": "AI with Tensorflow_AI với Tensorflow",
+    "Course Name English": "AI with Tensorflow",
+    "Subject Code": "AIT301",
+    "Learning-Teaching Method": "In-class lecture,Inquiry-based Teaching, active learning",
+    "NoCredit": "3",
+    "Degree Level": "Bachelor",
+    "Time Allocation": "Study hour (150h) = 45h contact hours + 1h final exam + 104h self-study",
+    "Pre-Requisite": "MAD101, CSD201, MAS291, PRP201c",
+    "Description": "The developing of cloud computing, big data, open source software, and improved algorithms kicked Artificial Intelligence (AI) into the mainstream of focus in technologies nowadays. AI technologies are fundamentally changing the ways we work, live, and manage businesses. This course is designed to present to student the coherent body of ideas and methods which were contributed to the development of Artificial Intelligence discipline. Student will be acquaint with the basic programs in the field and their underlying theory and will explore this through problem-solving paradigms, logic and theorem proving, language and image understanding, search and control methods and learning. This course aims to create following results on students: 1. Graduates will have ability to work with Tensor Flow machine learning library as a framework in developing AI their applications MO-1a: An ability to build models by plugging together building blocks with the user-friendly Keras sequential API. MO-1b: An ability to build models then write the forward and backward pass, create custom layers, activations, and training loops by using a define-by-run interface for customization and advanced research from Keras functional and subclassing APIs. 2. Graduates will have a broad understanding of the fundamental theories, concepts, and applications of Artificial Intelligence. MO-2a: An ability to apply knowledge of Artificial Intelligence appropriate to the discipline. MO-2b: An ability to analyze a problem and identify and define the AI requirements appropriate to its solution. MO-2c: An ability to design, implement, and evaluate an AI system to meet desired needs. 3. Graduates will be prepared for careers in Artificial Intelligence field. MO-3a: An ability to use current methodologies, techniques, skills, and tools necessary for AI practice. 4. Graduates will communicate effectively, both orally and in writing of Artificial Intelligence-related works. MO-4a: An ability to communicate effectively in AI-related works. MO-4b: An ability to discuss about how to control and to manage APIs of Tensor Flow library effectively.",
+    "StudentTasks": "- Students must attend more than 80% of contact slots in order to be accepted to the final examination. - Student is responsible to do all exercises given by instructor in class or at home and submit on time - use laptop in the class for learning purpose only - Constantly follow announcements on intranet/LMS athttps://flm.fpt.edu.vn/ for up-to-date course information regarding assignment submission and feedback on assignments",
+    "Tools": "- TensorFlow - Internet",
+    "Scoring Scale": "10",
+    "DecisionNo MM/dd/yyyy": "808/QĐ-ĐHFPT dated 08/03/2023",
+    "IsApproved": "True",
+    "Note": "",
+    "Is Scored": "True",
+    "MinAvgMarkToPass": "5",
+    "IsActive": "True",
+    "ApprovedDate": "8/3/2023"
+  },
+  "active": true,
+  "approved": true,
+  "decision": "808/QĐ-ĐHFPT dated 08/03/2023",
+  "description": "The developing of cloud computing, big data, open source software, and improved algorithms kicked Artificial Intelligence (AI) into the mainstream of focus in technologies nowadays. AI technologies are fundamentally changing the ways we work, live, and manage businesses. This course is designed to present to student the coherent body of ideas and methods which were contributed to the development of Artificial Intelligence discipline. Student will be acquaint with the basic programs in the field and their underlying theory and will explore this through problem-solving paradigms, logic and theorem proving, language and image understanding, search and control methods and learning. This course aims to create following results on students: 1. Graduates will have ability to work with Tensor Flow machine learning library as a framework in developing AI their applications MO-1a: An ability to build models by plugging together building blocks with the user-friendly Keras sequential API. MO-1b: An ability to build models then write the forward and backward pass, create custom layers, activations, and training loops by using a define-by-run interface for customization and advanced research from Keras functional and subclassing APIs. 2. Graduates will have a broad understanding of the fundamental theories, concepts, and applications of Artificial Intelligence. MO-2a: An ability to apply knowledge of Artificial Intelligence appropriate to the discipline. MO-2b: An ability to analyze a problem and identify and define the AI requirements appropriate to its solution. MO-2c: An ability to design, implement, and evaluate an AI system to meet desired needs. 3. Graduates will be prepared for careers in Artificial Intelligence field. MO-3a: An ability to use current methodologies, techniques, skills, and tools necessary for AI practice. 4. Graduates will communicate effectively, both orally and in writing of Artificial Intelligence-related works. MO-4a: An ability to communicate effectively in AI-related works. MO-4b: An ability to discuss about how to control and to manage APIs of Tensor Flow library effectively.",
+  "learning_outcomes": [
+    {
+      "No.": "1",
+      "CLO Name": "CLO1",
+      "CLO Details": "Demonstrate working knowledge in Tensor Flow in order to write simple AI programs and explore more sophisticated Tensor Flow code on their own"
+    },
+    {
+      "No.": "2",
+      "CLO Name": "CLO2",
+      "CLO Details": "Understand about Artificial Intelligence, its history and concepts such as Fuzzy Logic, Intelligent Agents, Machine Learning…"
+    },
+    {
+      "No.": "3",
+      "CLO Name": "CLO3",
+      "CLO Details": "Understand different types of AI agents."
+    },
+    {
+      "No.": "4",
+      "CLO Name": "CLO4",
+      "CLO Details": "Know various AI search algorithms (uninformed, informed, constraint satisfaction, genetic algorithms)"
+    },
+    {
+      "No.": "5",
+      "CLO Name": "CLO5",
+      "CLO Details": "Understand the fundamentals of knowledge representation (logic-based, frame-based, semantic nets), inference and theorem proving"
+    },
+    {
+      "No.": "6",
+      "CLO Name": "CLO6",
+      "CLO Details": "Know how to build simple knowledge-based systems"
+    },
+    {
+      "No.": "7",
+      "CLO Name": "CLO7",
+      "CLO Details": "Know some popular applications of Artificial Intelligence"
+    },
+    {
+      "No.": "8",
+      "CLO Name": "CLO8",
+      "CLO Details": "Demonstrate working knowledge of reasoning in the presence of incomplete and/or uncertain information"
+    },
+    {
+      "No.": "9",
+      "CLO Name": "CLO9",
+      "CLO Details": "Ability to apply knowledge representation, reasoning, and machine learning techniques to real-world problems"
+    },
+    {
+      "No.": "10",
+      "CLO Name": "CLO10",
+      "CLO Details": "Ability to carry out works related to AI independently or collaborated with others and communicate effectively in a TensorFlow AI-related project setting."
+    }
+  ],
+  "assessments": [
+    {
+      "No.": "1",
+      "Category": "Progress Test",
+      "Type": "on-going",
+      "Part": "3",
+      "Weight": "30.0%",
+      "Completion Criteria": ">0",
+      "Duration": "20-30'",
+      "CLO": "All Los",
+      "Question Type": "MC or a suitable format",
+      "No Question": "25-30",
+      "Knowledge and Skill": "Chapters introduced ( 1-7, 8-14, 15-21)",
+      "Grading Guide": "by instructor, and by suitable means (computer, paper, oral...)",
+      "Note": "Instruction and shedules for Progress tests must be presented in the Course Implementation Plan approved by director of the campus. Progress test must be taken right after the last lectures of required material. Instructor has resposibility to review the test for students after graded."
+    },
+    {
+      "No.": "2",
+      "Category": "Project",
+      "Type": "on-going",
+      "Part": "1",
+      "Weight": "30.0%",
+      "Completion Criteria": ">0",
+      "Duration": "",
+      "CLO": "LO1; LO7; LO8; LO9; LO10",
+      "Question Type": "Project",
+      "No Question": "",
+      "Knowledge and Skill": "Student will work in group to create one of three simple AI projects by applying Tensor Flow including Natural Language Processing, Handwriting Text Recognition, Autonomous Car and etc...",
+      "Grading Guide": "guided by instructor in class, completed by group of students at home, submmited by deadline",
+      "Note": "The project will be evaluated at the end of the course in a walkthrough defense session"
+    },
+    {
+      "No.": "3",
+      "Category": "Final exam",
+      "Type": "Final exam",
+      "Part": "1",
+      "Weight": "40.0%",
+      "Completion Criteria": "4",
+      "Duration": "60'",
+      "CLO": "All Los",
+      "Question Type": "Computer gradable.",
+      "No Question": "50",
+      "Knowledge and Skill": "All studied chapters 5-7 questions/a full chapter More than 70% new questions (for the current semester);",
+      "Grading Guide": "by Exam Board",
+      "Note": "~10% of questions is ABET a2-objective oriented and cover LO1;LO8;LO9;LO10"
+    }
+  ],
+  "schedule": [
+    {
+      "Session": "1",
+      "Topic": "Chapter 1: Introduction",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO2; LO3",
+      "ITU": "T",
+      "Student Materials": "Read Textbook on Chapter 1 in advance",
+      "S-Download": "AIT301",
+      "Student's Tasks": "Do practice in class following teacher requests",
+      "URLs": ""
+    },
+    {
+      "Session": "2",
+      "Topic": "Chapter 1: Introduction",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO2; LO3",
+      "ITU": "T",
+      "Student Materials": "Read Textbook on Chapter 1 in advance",
+      "S-Download": "AIT301",
+      "Student's Tasks": "Do practice in class following teacher requests",
+      "URLs": ""
+    },
+    {
+      "Session": "3",
+      "Topic": "Chapter 2: Intelligent Agents",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO2; LO3",
+      "ITU": "T",
+      "Student Materials": "Read Textbook on Chapter 2 in advance",
+      "S-Download": "",
+      "Student's Tasks": "Do practice in class following teacher requests",
+      "URLs": ""
+    },
+    {
+      "Session": "4",
+      "Topic": "Chapter 2: Intelligent Agents",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO2; LO3",
+      "ITU": "T",
+      "Student Materials": "Read Textbook on Chapter 2 in advance",
+      "S-Download": "",
+      "Student's Tasks": "Do practice in class following teacher requests",
+      "URLs": ""
+    },
+    {
+      "Session": "5",
+      "Topic": "Chapter 3: Problem Solving and Search",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO4",
+      "ITU": "T",
+      "Student Materials": "Read Textbook on Chapter 3 in advance Read slide in advance",
+      "S-Download": "",
+      "Student's Tasks": "Do practice in class following teacher requests",
+      "URLs": ""
+    },
+    {
+      "Session": "6",
+      "Topic": "Chapter 3: Problem Solving and Search",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO4",
+      "ITU": "T",
+      "Student Materials": "Read Textbook on Chapter 3 in advance Read slide in advance",
+      "S-Download": "",
+      "Student's Tasks": "Do practice in class following teacher requests",
+      "URLs": ""
+    },
+    {
+      "Session": "7",
+      "Topic": "Chapter 3: Problem Solving and Search",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO4",
+      "ITU": "T",
+      "Student Materials": "Read Textbook on Chapter 3 in advance Read slide in advance",
+      "S-Download": "",
+      "Student's Tasks": "Do practice in class following teacher requests",
+      "URLs": ""
+    },
+    {
+      "Session": "8",
+      "Topic": "Chapter 3: Problem Solving and Search",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO4",
+      "ITU": "T",
+      "Student Materials": "Read Textbook on Chapter 3 in advance Read slide in advance",
+      "S-Download": "",
+      "Student's Tasks": "Do practice in class following teacher requests",
+      "URLs": ""
+    },
+    {
+      "Session": "9",
+      "Topic": "Chapter 4: Beyond Classical Search",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO4",
+      "ITU": "T",
+      "Student Materials": "Read Textbook on Chapter 4 in advance Read slide in advance",
+      "S-Download": "",
+      "Student's Tasks": "Do practice in class following teacher requests",
+      "URLs": ""
+    },
+    {
+      "Session": "10",
+      "Topic": "Chapter 4: Beyond Classical Search",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO4",
+      "ITU": "T",
+      "Student Materials": "Read Textbook on Chapter 4 in advance Read slide in advance",
+      "S-Download": "",
+      "Student's Tasks": "Do practice in class following teacher requests",
+      "URLs": ""
+    },
+    {
+      "Session": "11",
+      "Topic": "Chapter 4: Beyond Classical Search Project Introduction: -First Project : AI Application - Natural Language Processing with Tensor Flow -Second Project: AI Application - Handwritten Text Recognition System with Tensor Flow -Third Project: AI Application - Simple Autonomous car with Tensor Flow",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO1; LO4; LO7; LO8; LO9; LO10",
+      "ITU": "ITU",
+      "Student Materials": "Read Textbook on Chapter 4 in advance Read slide in advance Collect team or join a team Investigate about project requirement",
+      "S-Download": "",
+      "Student's Tasks": "-Select one of three project type and Select a project topic -Perform project work in a group",
+      "URLs": ""
+    },
+    {
+      "Session": "12",
+      "Topic": "Chapter 4: Beyond Classical Search Project Introduction: -First Project : AI Application - Natural Language Processing with Tensor Flow -Second Project: AI Application - Handwritten Text Recognition System with Tensor Flow -Third Project: AI Application - Simple Autonomous car with Tensor Flow",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO1; LO4; LO7; LO8; LO9; LO10",
+      "ITU": "ITU",
+      "Student Materials": "Read Textbook on Chapter 4 in advance Read slide in advance Collect team or join a team Investigate about project requirement",
+      "S-Download": "",
+      "Student's Tasks": "-Select one of three project type and Select a project topic -Perform project work in a group",
+      "URLs": ""
+    },
+    {
+      "Session": "13",
+      "Topic": "Chapter 5: Constraint Satisfaction Problem Project guidance",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO1; LO4; LO5; LO8; LO9; LO10",
+      "ITU": "IT",
+      "Student Materials": "Read Textbook on Chapter 5 in advance Read slide in advance Prepare project progress report",
+      "S-Download": "",
+      "Student's Tasks": "Do practice in class following teacher requests Perform project work in a group",
+      "URLs": ""
+    },
+    {
+      "Session": "14",
+      "Topic": "Chapter 5: Constraint Satisfaction Problem Project guidance",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO1; LO4; LO5; LO8; LO9; LO10",
+      "ITU": "IT",
+      "Student Materials": "Read Textbook on Chapter 5 in advance Read slide in advance Prepare project progress report",
+      "S-Download": "",
+      "Student's Tasks": "Do practice in class following teacher requests Perform project work in a group",
+      "URLs": ""
+    },
+    {
+      "Session": "15",
+      "Topic": "Chapter 6: Game Playing Project guidance",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO1; LO4; LO5; LO8; LO9; LO10",
+      "ITU": "IT",
+      "Student Materials": "Read Textbook on Chapter 6 in advance Read slide in advance Prepare project progress report",
+      "S-Download": "",
+      "Student's Tasks": "Do practice in class following teacher requests Perform project work in a group",
+      "URLs": ""
+    },
+    {
+      "Session": "16",
+      "Topic": "Chapter 6: Game Playing Project guidance",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO1; LO4; LO5; LO8; LO9; LO10",
+      "ITU": "IT",
+      "Student Materials": "Read Textbook on Chapter 6 in advance Read slide in advance Prepare project progress report",
+      "S-Download": "",
+      "Student's Tasks": "Do practice in class following teacher requests Perform project work in a group",
+      "URLs": ""
+    },
+    {
+      "Session": "17",
+      "Topic": "Chapter 7: Logical Agents",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO5",
+      "ITU": "T",
+      "Student Materials": "Read Textbook on Chapter 7 in advance Read slide in advance",
+      "S-Download": "",
+      "Student's Tasks": "Do practice in class following teacher requests",
+      "URLs": ""
+    },
+    {
+      "Session": "18",
+      "Topic": "Chapter 7: Logical Agents",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO5",
+      "ITU": "T",
+      "Student Materials": "Read Textbook on Chapter 7 in advance Read slide in advance",
+      "S-Download": "",
+      "Student's Tasks": "Do practice in class following teacher requests",
+      "URLs": ""
+    },
+    {
+      "Session": "19",
+      "Topic": "Project guidance",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO1; LO8; LO9; LO10",
+      "ITU": "IU",
+      "Student Materials": "Review Chapters from 1-7 Prepare project progress report",
+      "S-Download": "",
+      "Student's Tasks": "Complete quizes and submit Perform project work in a group",
+      "URLs": ""
+    },
+    {
+      "Session": "20",
+      "Topic": "Progress Test 1 (chapter 1-7 ) Project guidance",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO1; LO8; LO9; LO10",
+      "ITU": "IU",
+      "Student Materials": "Review Chapters from 1-7 Prepare project progress report",
+      "S-Download": "",
+      "Student's Tasks": "Complete quizes and submit Perform project work in a group",
+      "URLs": ""
+    },
+    {
+      "Session": "21",
+      "Topic": "Chapter 8: First-Order Logic",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO5",
+      "ITU": "T",
+      "Student Materials": "Read Textbook on Chapter 8 in advance Read slide in advance",
+      "S-Download": "",
+      "Student's Tasks": "Do practice in class following teacher requests",
+      "URLs": ""
+    },
+    {
+      "Session": "22",
+      "Topic": "Chapter 8: First-Order Logic",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO5",
+      "ITU": "T",
+      "Student Materials": "Read Textbook on Chapter 8 in advance Read slide in advance",
+      "S-Download": "",
+      "Student's Tasks": "Do practice in class following teacher requests",
+      "URLs": ""
+    },
+    {
+      "Session": "23",
+      "Topic": "Chapter 8: First-Order Logic Project guidance",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO1; LO5; LO8; LO9; LO10",
+      "ITU": "IT",
+      "Student Materials": "Read Textbook on Chapter 8 in advance Read slide in advance Prepare project progress report",
+      "S-Download": "",
+      "Student's Tasks": "Do practice in class following teacher requests Perform project work in a group",
+      "URLs": ""
+    },
+    {
+      "Session": "24",
+      "Topic": "Chapter 8: First-Order Logic Project guidance",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO1; LO5; LO8; LO9; LO10",
+      "ITU": "IT",
+      "Student Materials": "Read Textbook on Chapter 8 in advance Read slide in advance Prepare project progress report",
+      "S-Download": "",
+      "Student's Tasks": "Do practice in class following teacher requests Perform project work in a group",
+      "URLs": ""
+    },
+    {
+      "Session": "25",
+      "Topic": "Chapter 9: Inference in First-Order Logic Project guidance",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO1; LO5; LO8; LO9; LO10",
+      "ITU": "IT",
+      "Student Materials": "Read Textbook on Chapter 9 in advance Read slide in advance Prepare project progress report",
+      "S-Download": "",
+      "Student's Tasks": "Do practice in class following teacher requests Perform project work in a group",
+      "URLs": ""
+    },
+    {
+      "Session": "26",
+      "Topic": "Chapter 9: Inference in First-Order Logic Project guidance",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO1; LO5; LO8; LO9; LO10",
+      "ITU": "IT",
+      "Student Materials": "Read Textbook on Chapter 9 in advance Read slide in advance Prepare project progress report",
+      "S-Download": "",
+      "Student's Tasks": "Do practice in class following teacher requests Perform project work in a group",
+      "URLs": ""
+    },
+    {
+      "Session": "27",
+      "Topic": "Chapter 13: Uncertainty Project guidance",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO1; LO6; LO8; LO9; LO10",
+      "ITU": "IT",
+      "Student Materials": "Read Textbook on Chapter 13 in advance Read slide in advance Prepare project progress report",
+      "S-Download": "",
+      "Student's Tasks": "Do practice in class following teacher requests Perform project work in a group",
+      "URLs": ""
+    },
+    {
+      "Session": "28",
+      "Topic": "Chapter 13: Uncertainty Project guidance",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO1; LO6; LO8; LO9; LO10",
+      "ITU": "IT",
+      "Student Materials": "Read Textbook on Chapter 13 in advance Read slide in advance Prepare project progress report",
+      "S-Download": "",
+      "Student's Tasks": "Do practice in class following teacher requests Perform project work in a group",
+      "URLs": ""
+    },
+    {
+      "Session": "29",
+      "Topic": "Chapter 14: Bayesian Networks and Inference in Bayesian Networks",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO6",
+      "ITU": "T",
+      "Student Materials": "Read Textbook on Chapter 14 in advance Read slide in advance",
+      "S-Download": "",
+      "Student's Tasks": "Do practice in class following teacher requests",
+      "URLs": ""
+    },
+    {
+      "Session": "30",
+      "Topic": "Chapter 14: Bayesian Networks and Inference in Bayesian Networks",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO6",
+      "ITU": "T",
+      "Student Materials": "Read Textbook on Chapter 14 in advance Read slide in advance",
+      "S-Download": "",
+      "Student's Tasks": "Do practice in class following teacher requests",
+      "URLs": ""
+    },
+    {
+      "Session": "31",
+      "Topic": "Chapter 14: Bayesian Networks and Inference in Bayesian Networks Project guidance",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO1; LO6; LO8; LO9; LO10",
+      "ITU": "IT",
+      "Student Materials": "Read Textbook on Chapter 14 in advance Read slide in advance Prepare project progress report",
+      "S-Download": "",
+      "Student's Tasks": "Do practice in class following teacher requests Perform project work in a group",
+      "URLs": ""
+    },
+    {
+      "Session": "32",
+      "Topic": "Chapter 14: Bayesian Networks and Inference in Bayesian Networks Project guidance",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO1; LO6; LO8; LO9; LO10",
+      "ITU": "IT",
+      "Student Materials": "Read Textbook on Chapter 14 in advance Read slide in advance Prepare project progress report",
+      "S-Download": "",
+      "Student's Tasks": "Do practice in class following teacher requests Perform project work in a group",
+      "URLs": ""
+    },
+    {
+      "Session": "33",
+      "Topic": "Chapter 15: Temporal Probability models and Speech Recognition",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO6",
+      "ITU": "T",
+      "Student Materials": "Read Textbook on Chapter 15 in advance Read slide in advance",
+      "S-Download": "",
+      "Student's Tasks": "Do practice in class following teacher requests",
+      "URLs": ""
+    },
+    {
+      "Session": "34",
+      "Topic": "Chapter 15: Temporal Probability models and Speech Recognition",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO6",
+      "ITU": "T",
+      "Student Materials": "Read Textbook on Chapter 15 in advance Read slide in advance",
+      "S-Download": "",
+      "Student's Tasks": "Do practice in class following teacher requests",
+      "URLs": ""
+    },
+    {
+      "Session": "35",
+      "Topic": "Progress Test 2 (chapter 8-14) Project guidance",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO1; LO8; LO9; LO10",
+      "ITU": "IU",
+      "Student Materials": "Review Chapters from 8-14 Prepare project progress report",
+      "S-Download": "",
+      "Student's Tasks": "Complete quizes and submit Perform project work in a group",
+      "URLs": ""
+    },
+    {
+      "Session": "36",
+      "Topic": "Project guidance",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO1; LO8; LO9; LO10",
+      "ITU": "IU",
+      "Student Materials": "Review Chapters from 8-14 Prepare project progress report",
+      "S-Download": "",
+      "Student's Tasks": "Complete quizes and submit Perform project work in a group",
+      "URLs": ""
+    },
+    {
+      "Session": "37",
+      "Topic": "Chapter 16: Rational Decisions Project guidance",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO1; LO6; LO8; LO9; LO10",
+      "ITU": "IT",
+      "Student Materials": "Read Textbook on Chapter 16,17 in advance Read slide in advance Prepare project progress report",
+      "S-Download": "",
+      "Student's Tasks": "Do practice in class following teacher requests Perform project work in a group",
+      "URLs": ""
+    },
+    {
+      "Session": "38",
+      "Topic": "Chapter 16: Rational Decisions Project guidance",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO1; LO6; LO8; LO9; LO10",
+      "ITU": "IT",
+      "Student Materials": "Read Textbook on Chapter 16,17 in advance Read slide in advance Prepare project progress report",
+      "S-Download": "",
+      "Student's Tasks": "Do practice in class following teacher requests Perform project work in a group",
+      "URLs": ""
+    },
+    {
+      "Session": "39",
+      "Topic": "Chapter 18: Learning from Observations Project guidance",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO1; LO2; LO5; LO8; LO9; LO10",
+      "ITU": "IT",
+      "Student Materials": "Read Textbook on Chapter 18 in advance Read slide in advance Prepare project progress report",
+      "S-Download": "",
+      "Student's Tasks": "Do practice in class following teacher requests Perform project work in a group",
+      "URLs": ""
+    },
+    {
+      "Session": "40",
+      "Topic": "Chapter 18: Learning from Observations Project guidance",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO1; LO2; LO5; LO8; LO9; LO10",
+      "ITU": "IT",
+      "Student Materials": "Read Textbook on Chapter 18 in advance Read slide in advance Prepare project progress report",
+      "S-Download": "",
+      "Student's Tasks": "Do practice in class following teacher requests Perform project work in a group",
+      "URLs": ""
+    },
+    {
+      "Session": "41",
+      "Topic": "Chapter 20: Statistical Learning and Neural Network Project guidance",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO1; LO2; LO5; LO8; LO9; LO10",
+      "ITU": "IT",
+      "Student Materials": "Read Textbook on Chapter 20 in advance Read slide in advance Prepare project progress report",
+      "S-Download": "",
+      "Student's Tasks": "Do practice in class following teacher requests Perform project work in a group",
+      "URLs": ""
+    },
+    {
+      "Session": "42",
+      "Topic": "Chapter 20: Statistical Learning and Neural Network Project guidance",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO1; LO2; LO5; LO8; LO9; LO10",
+      "ITU": "IT",
+      "Student Materials": "Read Textbook on Chapter 20 in advance Read slide in advance Prepare project progress report",
+      "S-Download": "",
+      "Student's Tasks": "Do practice in class following teacher requests Perform project work in a group",
+      "URLs": ""
+    },
+    {
+      "Session": "43",
+      "Topic": "Chapter 22: Communication and Language",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO7",
+      "ITU": "T",
+      "Student Materials": "Read Textbook on Chapter 22 in advance Read slide in advance",
+      "S-Download": "",
+      "Student's Tasks": "Do practice in class following teacher requests",
+      "URLs": ""
+    },
+    {
+      "Session": "44",
+      "Topic": "Chapter 22: Communication and Language",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO7",
+      "ITU": "T",
+      "Student Materials": "Read Textbook on Chapter 22 in advance Read slide in advance",
+      "S-Download": "",
+      "Student's Tasks": "Do practice in class following teacher requests",
+      "URLs": ""
+    },
+    {
+      "Session": "45",
+      "Topic": "Chapter 24: Computer Vision - Perception",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO7",
+      "ITU": "T",
+      "Student Materials": "Read Textbook on Chapter 22 in advance Read slide in advance",
+      "S-Download": "",
+      "Student's Tasks": "Do practice in class following teacher requests",
+      "URLs": ""
+    },
+    {
+      "Session": "46",
+      "Topic": "Chapter 24: Computer Vision - Perception",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO7",
+      "ITU": "T",
+      "Student Materials": "Read Textbook on Chapter 22 in advance Read slide in advance",
+      "S-Download": "",
+      "Student's Tasks": "Do practice in class following teacher requests",
+      "URLs": ""
+    },
+    {
+      "Session": "47",
+      "Topic": "Chapter 25: Robotics Progress Test 3 (chapter 15-22)",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO7",
+      "ITU": "TU",
+      "Student Materials": "Read Textbook on Chapter 22 in advance Read slide in advance Review Chapters from 15-21",
+      "S-Download": "",
+      "Student's Tasks": "Do practice in class following teacher requests Complete quizes and submit",
+      "URLs": ""
+    },
+    {
+      "Session": "48",
+      "Topic": "Chapter 25: Robotics",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO7",
+      "ITU": "TU",
+      "Student Materials": "Read Textbook on Chapter 22 in advance Read slide in advance Review Chapters from 15-21",
+      "S-Download": "",
+      "Student's Tasks": "Do practice in class following teacher requests Complete quizes and submit",
+      "URLs": ""
+    },
+    {
+      "Session": "49",
+      "Topic": "Chapter 21: Reinforcement Learning",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO2; LO6",
+      "ITU": "T",
+      "Student Materials": "Read Textbook on Chapter 21 in advance",
+      "S-Download": "",
+      "Student's Tasks": "Do practice in class following teacher requests",
+      "URLs": ""
+    },
+    {
+      "Session": "50",
+      "Topic": "Chapter 21: Reinforcement Learning",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO2; LO6",
+      "ITU": "T",
+      "Student Materials": "Read Textbook on Chapter 21 in advance",
+      "S-Download": "",
+      "Student's Tasks": "Do practice in class following teacher requests",
+      "URLs": ""
+    },
+    {
+      "Session": "51",
+      "Topic": "Chapter 27: AI Future and Conclusion",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO2",
+      "ITU": "T",
+      "Student Materials": "Read Textbook on Chapter 27 in advance",
+      "S-Download": "",
+      "Student's Tasks": "Do practice in class following teacher requests",
+      "URLs": ""
+    },
+    {
+      "Session": "52",
+      "Topic": "Chapter 27: AI Future and Conclusion",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO2",
+      "ITU": "T",
+      "Student Materials": "Read Textbook on Chapter 27 in advance",
+      "S-Download": "",
+      "Student's Tasks": "Do practice in class following teacher requests",
+      "URLs": ""
+    },
+    {
+      "Session": "53",
+      "Topic": "Project guidance",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO1; LO8; LO9; LO10",
+      "ITU": "I",
+      "Student Materials": "Prepare project progress report",
+      "S-Download": "",
+      "Student's Tasks": "Perform project work in a group",
+      "URLs": ""
+    },
+    {
+      "Session": "54",
+      "Topic": "Project guidance",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO1; LO8; LO9; LO10",
+      "ITU": "I",
+      "Student Materials": "Prepare project progress report",
+      "S-Download": "",
+      "Student's Tasks": "Perform project work in a group",
+      "URLs": ""
+    },
+    {
+      "Session": "55",
+      "Topic": "Evaluate Projects of Student groups",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO1; LO7; LO8; LO9; LO10",
+      "ITU": "U",
+      "Student Materials": "Present final project report",
+      "S-Download": "",
+      "Student's Tasks": "",
+      "URLs": ""
+    },
+    {
+      "Session": "56",
+      "Topic": "Evaluate Projects of Student groups",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO1; LO7; LO8; LO9; LO10",
+      "ITU": "U",
+      "Student Materials": "Present final project report",
+      "S-Download": "",
+      "Student's Tasks": "",
+      "URLs": ""
+    },
+    {
+      "Session": "57",
+      "Topic": "Evaluate Projects of Student groups",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO1; LO7; LO8; LO9; LO10",
+      "ITU": "U",
+      "Student Materials": "Present final project report",
+      "S-Download": "",
+      "Student's Tasks": "",
+      "URLs": ""
+    },
+    {
+      "Session": "58",
+      "Topic": "Evaluate Projects of Student groups",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO1; LO7; LO8; LO9; LO10",
+      "ITU": "U",
+      "Student Materials": "Present final project report",
+      "S-Download": "",
+      "Student's Tasks": "",
+      "URLs": ""
+    },
+    {
+      "Session": "59",
+      "Topic": "Evaluate Projects of Student groups",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO1; LO7; LO8; LO9; LO10",
+      "ITU": "U",
+      "Student Materials": "Present final project report",
+      "S-Download": "",
+      "Student's Tasks": "",
+      "URLs": ""
+    },
+    {
+      "Session": "60",
+      "Topic": "Evaluate Projects of Student groups",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO1; LO7; LO8; LO9; LO10",
+      "ITU": "U",
+      "Student Materials": "Present final project report",
+      "S-Download": "",
+      "Student's Tasks": "",
+      "URLs": ""
+    }
+  ],
+  "constructive_questions": [
+    {
+      "No.": "1",
+      "Session No": "1",
+      "Name": "CQ1.1",
+      "Details": "How is the development history of Tensorflow?"
+    },
+    {
+      "No.": "2",
+      "Session No": "2",
+      "Name": "CQ1.2",
+      "Details": "Why is TensorFlow used to implement AI algorithms?"
+    },
+    {
+      "No.": "3",
+      "Session No": "3",
+      "Name": "CQ1.3",
+      "Details": "Which platform are used to deploy TensorFlow-based AI algorithms? Why do we often use them?"
+    },
+    {
+      "No.": "4",
+      "Session No": "4",
+      "Name": "CQ2.1",
+      "Details": "How is the development of AI?"
+    },
+    {
+      "No.": "5",
+      "Session No": "5",
+      "Name": "CQ2.2",
+      "Details": "What fields of life is AI recently applied for? How is the performance of AI in current life?"
+    },
+    {
+      "No.": "6",
+      "Session No": "6",
+      "Name": "CQ2.3",
+      "Details": "Why or why not will AI replace human in future?"
+    },
+    {
+      "No.": "7",
+      "Session No": "7",
+      "Name": "CQ3.1",
+      "Details": "What are intelligent agents?"
+    },
+    {
+      "No.": "8",
+      "Session No": "8",
+      "Name": "CQ3.2",
+      "Details": "What are difference and similarlity between uninformed search strategies and informed search strategies?"
+    },
+    {
+      "No.": "9",
+      "Session No": "9",
+      "Name": "CQ3.3",
+      "Details": "How are breadth-first search, uniform-cost search, depth-first search different from each other?"
+    },
+    {
+      "No.": "10",
+      "Session No": "10",
+      "Name": "CQ4.1",
+      "Details": "How does informed search work in general?"
+    },
+    {
+      "No.": "11",
+      "Session No": "11",
+      "Name": "CQ4.2",
+      "Details": "How are greedy search, A* search applied in our life?"
+    },
+    {
+      "No.": "12",
+      "Session No": "12",
+      "Name": "CQ4.3",
+      "Details": "What are heuristic functions?"
+    },
+    {
+      "No.": "13",
+      "Session No": "13",
+      "Name": "CQ5.1",
+      "Details": "Why do we deal with the problems with constraints?"
+    },
+    {
+      "No.": "14",
+      "Session No": "14",
+      "Name": "CQ5.2",
+      "Details": "How do constraint satisfication problems exist in our life?"
+    },
+    {
+      "No.": "15",
+      "Session No": "15",
+      "Name": "CQ5.3",
+      "Details": "How is backtracking search different from local search?"
+    },
+    {
+      "No.": "16",
+      "Session No": "16",
+      "Name": "CQ6.1",
+      "Details": "What are logical agents?"
+    },
+    {
+      "No.": "17",
+      "Session No": "17",
+      "Name": "CQ6.2",
+      "Details": "How does a propositional logic work?"
+    },
+    {
+      "No.": "18",
+      "Session No": "18",
+      "Name": "CQ6.3",
+      "Details": "How is forward chaining different from backward chaining?"
+    },
+    {
+      "No.": "19",
+      "Session No": "19",
+      "Name": "CQ7.1",
+      "Details": "How is first-order logic represented?"
+    },
+    {
+      "No.": "20",
+      "Session No": "20",
+      "Name": "CQ7.2",
+      "Details": "How is first-order logic applied in our life?"
+    },
+    {
+      "No.": "21",
+      "Session No": "21",
+      "Name": "CQ7.3",
+      "Details": "How to use first-order logic?"
+    },
+    {
+      "No.": "22",
+      "Session No": "22",
+      "Name": "CQ8.1",
+      "Details": "How is inference in first-order logic different from that in propositional logic?"
+    },
+    {
+      "No.": "23",
+      "Session No": "23",
+      "Name": "CQ8.2",
+      "Details": "Why or why not can we replace first-order inference by propositional one?"
+    },
+    {
+      "No.": "24",
+      "Session No": "24",
+      "Name": "CQ8.3",
+      "Details": "How does unification play in first-order logic?"
+    },
+    {
+      "No.": "25",
+      "Session No": "25",
+      "Name": "CQ9.1",
+      "Details": "How is forward chaining in first-order logic diffrerent from that in propositional logic?"
+    },
+    {
+      "No.": "26",
+      "Session No": "26",
+      "Name": "CQ9.2",
+      "Details": "How is backward chaining in first-order logic diffrerent from that in propositional logic?"
+    },
+    {
+      "No.": "27",
+      "Session No": "27",
+      "Name": "CQ9.3",
+      "Details": "How is resolution in first-order logic diffrerent from that in propositional logic?"
+    },
+    {
+      "No.": "28",
+      "Session No": "28",
+      "Name": "CQ10.1",
+      "Details": "Why do we use the term of uncertainty in dealing the problems?"
+    },
+    {
+      "No.": "29",
+      "Session No": "29",
+      "Name": "CQ10.2",
+      "Details": "How does uncertainty affect AI programs?"
+    },
+    {
+      "No.": "30",
+      "Session No": "30",
+      "Name": "CQ10.3",
+      "Details": "How is Bayes' rule used in our life?"
+    },
+    {
+      "No.": "31",
+      "Session No": "31",
+      "Name": "CQ11.1",
+      "Details": "How is network called Bayesian Network?"
+    },
+    {
+      "No.": "32",
+      "Session No": "32",
+      "Name": "CQ11.2",
+      "Details": "How to determine exact inference in Bayesian networks?"
+    },
+    {
+      "No.": "33",
+      "Session No": "33",
+      "Name": "CQ11.3",
+      "Details": "How to determine approximate inference in Bayesian networks?"
+    },
+    {
+      "No.": "34",
+      "Session No": "34",
+      "Name": "CQ12.1",
+      "Details": "What are Hidden Markov models applied for?"
+    },
+    {
+      "No.": "35",
+      "Session No": "35",
+      "Name": "CQ12.2",
+      "Details": "What are Kalman filters applied for?"
+    },
+    {
+      "No.": "36",
+      "Session No": "36",
+      "Name": "CQ12.3",
+      "Details": "How are Hidden Markov models and Dynamic Bayesian Networks applied in speech regconition?"
+    },
+    {
+      "No.": "37",
+      "Session No": "37",
+      "Name": "CQ13.1",
+      "Details": "What are rational preferences?"
+    },
+    {
+      "No.": "38",
+      "Session No": "38",
+      "Name": "CQ13.2",
+      "Details": "Why is utility theory used to support making decisions?"
+    },
+    {
+      "No.": "39",
+      "Session No": "39",
+      "Name": "CQ13.3",
+      "Details": "How do decision networks work?"
+    },
+    {
+      "No.": "40",
+      "Session No": "40",
+      "Name": "CQ14.1",
+      "Details": "How do learning decision trees work?"
+    },
+    {
+      "No.": "41",
+      "Session No": "41",
+      "Name": "CQ14.2",
+      "Details": "How to evaluate and select the best hypothesis?"
+    },
+    {
+      "No.": "42",
+      "Session No": "42",
+      "Name": "CQ14.3",
+      "Details": "How are regression and classification implemented in tensorflow?"
+    },
+    {
+      "No.": "43",
+      "Session No": "43",
+      "Name": "CQ15.1",
+      "Details": "How to implement the function of text classification using Tensorflow?"
+    },
+    {
+      "No.": "44",
+      "Session No": "44",
+      "Name": "CQ15.2",
+      "Details": "How to implement the function of information rextraction using Tensorflow?"
+    },
+    {
+      "No.": "45",
+      "Session No": "45",
+      "Name": "CQ15.3",
+      "Details": "How to implement the function of speech recognition using Tensorflow?"
+    },
+    {
+      "No.": "46",
+      "Session No": "46",
+      "Name": "CQ16.1",
+      "Details": "Why is the step of preprocessing important in computer vision?"
+    },
+    {
+      "No.": "47",
+      "Session No": "47",
+      "Name": "CQ16.2",
+      "Details": "How to implement object recognition using Tensorflow?"
+    },
+    {
+      "No.": "48",
+      "Session No": "48",
+      "Name": "CQ16.3",
+      "Details": "Why or why not does computer vision play an important role in our life?"
+    },
+    {
+      "No.": "49",
+      "Session No": "49",
+      "Name": "CQ17.1",
+      "Details": "What is robotic perception?"
+    },
+    {
+      "No.": "50",
+      "Session No": "50",
+      "Name": "CQ17.2",
+      "Details": "How is the function of moving implemented?"
+    },
+    {
+      "No.": "51",
+      "Session No": "51",
+      "Name": "CQ17.3",
+      "Details": "Why or why not does robotics play an important role in our life?"
+    },
+    {
+      "No.": "52",
+      "Session No": "52",
+      "Name": "CQ18.1",
+      "Details": "Why or why not can passive reinforcement learning be replaced by active reinforcement learning?"
+    },
+    {
+      "No.": "53",
+      "Session No": "53",
+      "Name": "CQ18.2",
+      "Details": "What is generalization in reinforcement learning?"
+    },
+    {
+      "No.": "54",
+      "Session No": "54",
+      "Name": "CQ18.3",
+      "Details": "How is reinforcement learning applied in our life?"
+    },
+    {
+      "No.": "55",
+      "Session No": "55",
+      "Name": "CQ19.1",
+      "Details": "For project evaluation"
+    },
+    {
+      "No.": "56",
+      "Session No": "56",
+      "Name": "CQ19.2",
+      "Details": "for project evaluation"
+    },
+    {
+      "No.": "57",
+      "Session No": "57",
+      "Name": "CQ19.3",
+      "Details": "For project evaluation"
+    },
+    {
+      "No.": "58",
+      "Session No": "58",
+      "Name": "CQ20.1",
+      "Details": "For project evaluation"
+    },
+    {
+      "No.": "59",
+      "Session No": "59",
+      "Name": "CQ20.2",
+      "Details": "for project evaluation"
+    },
+    {
+      "No.": "60",
+      "Session No": "60",
+      "Name": "CQ20.3",
+      "Details": "For project evaluation"
+    }
+  ],
+  "materials": [
+    {
+      "No.": "1",
+      "Material Description": "Artificial Intelligence: A Modern Approach",
+      "Author": "Stuart Russell and Peter Norvig",
+      "Publisher": "Pearson Education",
+      "Published Date": "2009",
+      "Edition": "3rd",
+      "ISBN": "978-0136042594",
+      "Is Main Material": "True",
+      "Is Hard Copy": "True",
+      "Is Online": "False",
+      "Note": ""
+    },
+    {
+      "No.": "2",
+      "Material Description": "Essentials of Artificial Intelligence",
+      "Author": "M.Ginsberg",
+      "Publisher": "Morgan Kaufmann",
+      "Published Date": "1993",
+      "Edition": "",
+      "ISBN": "978-1558603349",
+      "Is Main Material": "False",
+      "Is Hard Copy": "True",
+      "Is Online": "False",
+      "Note": ""
+    },
+    {
+      "No.": "3",
+      "Material Description": "Artificial Intelligence By Example: Develop machine intelligence from scratch using real artificial intelligence use cases",
+      "Author": "Denis Rothman",
+      "Publisher": "Puckt Publishing",
+      "Published Date": "2018",
+      "Edition": "",
+      "ISBN": "978-1788990547",
+      "Is Main Material": "False",
+      "Is Hard Copy": "True",
+      "Is Online": "False",
+      "Note": ""
+    },
+    {
+      "No.": "4",
+      "Material Description": "Tensor Flow Tutorials: https://www.tensorflow.org/tutorials/",
+      "Author": "",
+      "Publisher": "",
+      "Published Date": "",
+      "Edition": "",
+      "ISBN": "",
+      "Is Main Material": "False",
+      "Is Hard Copy": "False",
+      "Is Online": "True",
+      "Note": ""
+    },
+    {
+      "No.": "5",
+      "Material Description": "Artificial Intelligent Tutorial: https://www.javatpoint.com/ai-resolution-in-first-order-logic",
+      "Author": "",
+      "Publisher": "",
+      "Published Date": "",
+      "Edition": "",
+      "ISBN": "",
+      "Is Main Material": "False",
+      "Is Hard Copy": "False",
+      "Is Online": "True",
+      "Note": ""
+    },
+    {
+      "No.": "6",
+      "Material Description": "Machines Who Think",
+      "Author": "McCorduck, Pamela",
+      "Publisher": "Routledge",
+      "Published Date": "2004",
+      "Edition": "2nd",
+      "ISBN": "1-56881-205-1",
+      "Is Main Material": "False",
+      "Is Hard Copy": "True",
+      "Is Online": "False",
+      "Note": ""
+    },
+    {
+      "No.": "7",
+      "Material Description": "Machine Learning http://www.cs.cmu.edu/~tom/mlbook.html Slides: http://www.cs.cmu.edu/~tom/mlbook-chapter-slides.html",
+      "Author": "Tom Mitchell",
+      "Publisher": "McGraw Hill.",
+      "Published Date": "1997",
+      "Edition": "",
+      "ISBN": "",
+      "Is Main Material": "False",
+      "Is Hard Copy": "False",
+      "Is Online": "True",
+      "Note": ""
+    },
+    {
+      "No.": "8",
+      "Material Description": "Gödel, Escher, Bach: An Eternal Golden Braid",
+      "Author": "Douglas Hofstadter",
+      "Publisher": "Basic Books",
+      "Published Date": "1999",
+      "Edition": "",
+      "ISBN": "978-0-465-02656-2",
+      "Is Main Material": "False",
+      "Is Hard Copy": "True",
+      "Is Online": "False",
+      "Note": ""
+    },
+    {
+      "No.": "9",
+      "Material Description": "Is it an Agent, or just a Program?: A Taxonomy for Autonomous Agents; Proceedings of the Third International Workshop on Agent Theories, Architectures, and Languages",
+      "Author": "Stan Franklin and Art Graesser",
+      "Publisher": "Springer-Verlag",
+      "Published Date": "1996",
+      "Edition": "",
+      "ISBN": "",
+      "Is Main Material": "False",
+      "Is Hard Copy": "False",
+      "Is Online": "True",
+      "Note": ""
+    },
+    {
+      "No.": "10",
+      "Material Description": "Introduction: Hybrid intelligent adaptive systems. International Journal of Intelligent Systems, Vol.6, (1998) 453–454.",
+      "Author": "N. Kasabov",
+      "Publisher": "",
+      "Published Date": "1998",
+      "Edition": "",
+      "ISBN": "",
+      "Is Main Material": "False",
+      "Is Hard Copy": "False",
+      "Is Online": "True",
+      "Note": ""
+    },
+    {
+      "No.": "11",
+      "Material Description": "Multiagent systems",
+      "Author": "Weiss, G.",
+      "Publisher": "Cambridge, MA: The MIT Press",
+      "Published Date": "2013",
+      "Edition": "2nd",
+      "ISBN": "9780262018890",
+      "Is Main Material": "False",
+      "Is Hard Copy": "True",
+      "Is Online": "False",
+      "Note": ""
+    },
+    {
+      "No.": "12",
+      "Material Description": "Neural Network Projects with Python",
+      "Author": "James Loy",
+      "Publisher": "Packt Publishing",
+      "Published Date": "2019",
+      "Edition": "",
+      "ISBN": "9781789138900",
+      "Is Main Material": "False",
+      "Is Hard Copy": "True",
+      "Is Online": "False",
+      "Note": ""
+    }
+  ],
+  "source_path": "data/raw/syllabi/10224.html",
+  "id": "syllabus:10224"
+}

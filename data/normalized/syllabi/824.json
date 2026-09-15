@@ -1,0 +1,370 @@
+{
+  "syllabus_id": 824,
+  "subject_code": "AET101",
+  "subject_name": "Aesthetic",
+  "syllabus_name": "Mỹ học đại cương/ Aesthetic",
+  "credits": 2,
+  "degree_level": "Cử nhân",
+  "time_allocation": "Thời gian học: 30 tiết (1tiết = 45')",
+  "prerequisite": "",
+  "general_information": {
+    "Syllabus ID": "824",
+    "Syllabus Name": "Mỹ học đại cương/ Aesthetic",
+    "Course Name English": "",
+    "Subject Code": "AET101",
+    "Learning-Teaching Method": "",
+    "NoCredit": "2",
+    "Degree Level": "Cử nhân",
+    "Time Allocation": "Thời gian học: 30 tiết (1tiết = 45')",
+    "Pre-Requisite": "",
+    "Description": "Môn học đưa ra những quy luật phổ biến trong mối quan hệ thẩm mỹ của con người với hiện thực và quá trình phát triển nghệ thuật thông qua các xuất phát điểm, các hệ thống khái niệm, trường phái, khuynh hướng nghệ thuật. Bên cạnh đó, môn học cũng cho sinh viên thấy các định nghĩa, quan điểm thẩm mỹ khác nhau để góp phần giáo dục phát triển thẩm mỹ, cảm nhận và sáng tạo theo quy luật của cái đẹp. Từ đó, ứng dụng môn học vào đời sống xã hội dưới các khía cạnh con người, sản phẩm, và sự hài hòa giữa chúng, tính duy mỹ, hướng thiện ...",
+    "StudentTasks": "- Đọc sách giáo khoa và các tài liệu khác trước trước khi đến lớp - Truy cập trang web của khóa học (http://cms.fpt.edu.vn) cập nhật thông tin và các tài liệu của khóa học, hỗ trợ trực tuyến từ các giáo viên và các học sinh khác, và để thực hành và đánh giá. - Tích cực tham gia hoạt động trong lớp - Hoàn thành tất cả các bài tập về nhà và các nhiệm vụ khác được đưa ra bởi giảng viên. - Chỉ sử dụng máy tính xách tay cá nhân trong lớp cho mục đích học tập - Không nói chuyện riêng, đến lớp muộn, nghe điện thoại, để chuông điện thoại, nhắn tin có thể phá vỡ môi trường học tập của lớp - Tham dự từ 80% giờ học để để đủ điều kiện tham gia kỳ kiểm tra cuối cùng.",
+    "Tools": "",
+    "Scoring Scale": "10",
+    "DecisionNo MM/dd/yyyy": "736/QĐ-ĐHFPT dated 09/03/2015",
+    "IsApproved": "True",
+    "Note": "",
+    "Is Scored": "True",
+    "MinAvgMarkToPass": "5",
+    "IsActive": "True",
+    "ApprovedDate": "9/3/2015"
+  },
+  "active": true,
+  "approved": true,
+  "decision": "736/QĐ-ĐHFPT dated 09/03/2015",
+  "description": "Môn học đưa ra những quy luật phổ biến trong mối quan hệ thẩm mỹ của con người với hiện thực và quá trình phát triển nghệ thuật thông qua các xuất phát điểm, các hệ thống khái niệm, trường phái, khuynh hướng nghệ thuật. Bên cạnh đó, môn học cũng cho sinh viên thấy các định nghĩa, quan điểm thẩm mỹ khác nhau để góp phần giáo dục phát triển thẩm mỹ, cảm nhận và sáng tạo theo quy luật của cái đẹp. Từ đó, ứng dụng môn học vào đời sống xã hội dưới các khía cạnh con người, sản phẩm, và sự hài hòa giữa chúng, tính duy mỹ, hướng thiện ...",
+  "learning_outcomes": [
+    {
+      "No.": "1",
+      "CLO Name": "CLO1",
+      "CLO Details": "Sinh viên nắm được những kiến thức và những vấn đề cơ bản nhất của Mỹ học đại cương."
+    },
+    {
+      "No.": "2",
+      "CLO Name": "CLO2",
+      "CLO Details": "Sinh viên làm quen với kỹ năng làm việc nhóm, tìm hiểu, phân tích và thuyết trình, thảo luận về một vấn đề trong Mỹ học đại cương."
+    }
+  ],
+  "assessments": [
+    {
+      "No.": "1",
+      "Category": "01 Bài trắc nghiệm",
+      "Type": "quiz",
+      "Part": "1",
+      "Weight": "10.0%",
+      "Completion Criteria": ">0",
+      "Duration": "20'",
+      "CLO": "",
+      "Question Type": "Trắc nghiệm trên giấy",
+      "No Question": "15",
+      "Knowledge and Skill": "Kiến thức chương 3-4",
+      "Grading Guide": "Giảng viên tổ chức cho sinh viên làm bài trên lớp, kiểm tra trên giấy",
+      "Note": ""
+    },
+    {
+      "No.": "2",
+      "Category": "01 Bài tập",
+      "Type": "on-going",
+      "Part": "1",
+      "Weight": "30.0%",
+      "Completion Criteria": ">0",
+      "Duration": "",
+      "CLO": "",
+      "Question Type": "Trình bày, trao đổi, viết",
+      "No Question": "1",
+      "Knowledge and Skill": "Kiến thức chương 5-6",
+      "Grading Guide": "- Chủ đề của bài tập được Giảng viên đưa ra khi bắt đầu chương 5. - Các thành viên trong lớp tự chọn một trong các chủ đề, đưa ra hiểu biết và quan điểm của mình về chủ đề đó. Mỗi chủ thể hiện và truyền tải được kiến thức đúng và đầy đủ, đưa ra được ví dụ minh hoạ cụ thể. - Sau khi kết thúc chương 6, sinh viên sẽ có 1 buổi thảo luận trên lớp về nội dung chủ đề mà mình lựa chọn. Sau đó Sinh viên về sẽ viết thành 1 bài thu hoạch và nộp lại cho Giảng viên vào buổi học sau. - Có thể sử dụng các minh hoạ từ các nguồn khác nhau (ghi rõ nơi trích dẫn cụ thể)",
+      "Note": ""
+    },
+    {
+      "No.": "3",
+      "Category": "Tham gia hoạt động trên lớp",
+      "Type": "on-going",
+      "Part": "1",
+      "Weight": "10.0%",
+      "Completion Criteria": ">0",
+      "Duration": "",
+      "CLO": "",
+      "Question Type": "",
+      "No Question": "",
+      "Knowledge and Skill": "",
+      "Grading Guide": "Ghi nhận của GV v/v sinh viên tích cực tham gia các hoạt động trao đổi, làm việc nhóm, Q&A, … trên lớp.",
+      "Note": ""
+    },
+    {
+      "No.": "4",
+      "Category": "Thi cuối kỳ",
+      "Type": "Final exam",
+      "Part": "1",
+      "Weight": "50.0%",
+      "Completion Criteria": "4",
+      "Duration": "60'",
+      "CLO": "",
+      "Question Type": "Trắc nghiệm trên máy tính",
+      "No Question": "50",
+      "Knowledge and Skill": "Tất cả nội dung của các Chương, các kỹ năng toàn môn học",
+      "Grading Guide": "Khảo thí tổ chức, thi trên máy.",
+      "Note": ""
+    }
+  ],
+  "schedule": [
+    {
+      "Session": "1",
+      "Topic": "1. Đối tượng nghiên cứu của Mỹ học",
+      "Learning-Teaching Type": "Offline",
+      "LO": "",
+      "ITU": "",
+      "Student Materials": "- Đề cương môn học - Tài liệu học tập: Chương mở đầu",
+      "S-Download": "AET101",
+      "Student's Tasks": "Làm bài tập, tự học và đọc tài liệu, CMS",
+      "URLs": ""
+    },
+    {
+      "Session": "2",
+      "Topic": "2. Khái quát về mối quan hệ thẩm mỹ",
+      "Learning-Teaching Type": "Offline",
+      "LO": "",
+      "ITU": "",
+      "Student Materials": "- Tài liệu học tập: Chương 2",
+      "S-Download": "AET101",
+      "Student's Tasks": "Ôn lại bài, làm bài tập, tự học và đọc tài liệu, CMS",
+      "URLs": ""
+    },
+    {
+      "Session": "3",
+      "Topic": "2. Khái quát về mối quan hệ thẩm mỹ",
+      "Learning-Teaching Type": "Offline",
+      "LO": "",
+      "ITU": "",
+      "Student Materials": "- Tài liệu học tập: Chương 2",
+      "S-Download": "",
+      "Student's Tasks": "Ôn lại bài, làm bài tập, tự học và đọc tài liệu, CMS",
+      "URLs": ""
+    },
+    {
+      "Session": "4",
+      "Topic": "4. Khách thể thẩm mỹ",
+      "Learning-Teaching Type": "Offline",
+      "LO": "",
+      "ITU": "",
+      "Student Materials": "- Tài liệu học tập: Chương 4",
+      "S-Download": "",
+      "Student's Tasks": "Ôn lại bài, làm bài tập, tự học và đọc tài liệu, CMS",
+      "URLs": ""
+    },
+    {
+      "Session": "5",
+      "Topic": "4. Khách thể thẩm mỹ",
+      "Learning-Teaching Type": "Offline",
+      "LO": "",
+      "ITU": "",
+      "Student Materials": "- Tài liệu học tập: Chương 4",
+      "S-Download": "",
+      "Student's Tasks": "Ôn lại bài, làm bài tập, tự học và đọc tài liệu, CMS",
+      "URLs": ""
+    },
+    {
+      "Session": "6",
+      "Topic": "4. Khách thể thẩm mỹ",
+      "Learning-Teaching Type": "Offline",
+      "LO": "",
+      "ITU": "",
+      "Student Materials": "- Tài liệu học tập: Chương 4",
+      "S-Download": "",
+      "Student's Tasks": "Ôn lại bài, làm bài tập, tự học và đọc tài liệu, CMS",
+      "URLs": ""
+    },
+    {
+      "Session": "7",
+      "Topic": "3. Chủ thể thẩm mỹ",
+      "Learning-Teaching Type": "Offline",
+      "LO": "",
+      "ITU": "",
+      "Student Materials": "- Tài liệu học tập: Chương 3",
+      "S-Download": "",
+      "Student's Tasks": "Sinh viên ôn tập lại Chương 3,4 để làm bài kiểm tra.",
+      "URLs": ""
+    },
+    {
+      "Session": "8",
+      "Topic": "3. Chủ thể thẩm mỹ",
+      "Learning-Teaching Type": "Offline",
+      "LO": "",
+      "ITU": "",
+      "Student Materials": "- Tài liệu học tập: Chương 3",
+      "S-Download": "",
+      "Student's Tasks": "Sinh viên ôn tập lại Chương 3,4 để làm bài kiểm tra.",
+      "URLs": ""
+    },
+    {
+      "Session": "9",
+      "Topic": "3. Chủ thể thẩm mỹ",
+      "Learning-Teaching Type": "Offline",
+      "LO": "",
+      "ITU": "",
+      "Student Materials": "- Tài liệu học tập: Chương 3",
+      "S-Download": "",
+      "Student's Tasks": "Sinh viên ôn tập lại Chương 3,4 để làm bài kiểm tra.",
+      "URLs": ""
+    },
+    {
+      "Session": "10",
+      "Topic": "Trắc nghiệm ch. 3-4 5. Nghệ thuật",
+      "Learning-Teaching Type": "Offline",
+      "LO": "",
+      "ITU": "",
+      "Student Materials": "- Tài liệu học tập: Chương 3,4 '- Tài liệu học tập: Chương 5",
+      "S-Download": "",
+      "Student's Tasks": "Sinh viên làm bài kiểm tra tại lớp",
+      "URLs": ""
+    },
+    {
+      "Session": "11",
+      "Topic": "5. Nghệ thuật",
+      "Learning-Teaching Type": "Offline",
+      "LO": "",
+      "ITU": "",
+      "Student Materials": "- Tài liệu học tập: Chương 3,4 '- Tài liệu học tập: Chương 5",
+      "S-Download": "",
+      "Student's Tasks": "- Bắt đầu chương 5 giảng viên đưa ra đề tài, SV thảo luận và viết bài ở nhà. - Ôn lại bài, làm bài tập, tự học và đọc tài liệu, CMS",
+      "URLs": ""
+    },
+    {
+      "Session": "12",
+      "Topic": "6. Các loại hình nghệ thuật",
+      "Learning-Teaching Type": "Offline",
+      "LO": "",
+      "ITU": "",
+      "Student Materials": "'- Tài liệu học tập: Chương 6",
+      "S-Download": "",
+      "Student's Tasks": "- Ôn lại bài, làm bài tập, tự học và đọc tài liệu, CMS J28",
+      "URLs": ""
+    },
+    {
+      "Session": "13",
+      "Topic": "",
+      "Learning-Teaching Type": "Offline",
+      "LO": "",
+      "ITU": "",
+      "Student Materials": "- Tài liệu học tập: Chương 5 – 6",
+      "S-Download": "",
+      "Student's Tasks": "- Ôn lại bài, làm bài tập, tự học và đọc tài liệu, CMS J29",
+      "URLs": ""
+    },
+    {
+      "Session": "14",
+      "Topic": "7. Nghệ sỹ 8. Giáo dục thẩm mỹ",
+      "Learning-Teaching Type": "Offline",
+      "LO": "",
+      "ITU": "",
+      "Student Materials": "- Tài liệu học tập: Chương 7",
+      "S-Download": "",
+      "Student's Tasks": "- Sinh viên nộp bài tập - Ôn lại bài, làm bài tập, tự học và đọc tài liệu, CMS",
+      "URLs": ""
+    },
+    {
+      "Session": "15",
+      "Topic": "Ôn tập",
+      "Learning-Teaching Type": "Offline",
+      "LO": "",
+      "ITU": "",
+      "Student Materials": "- Tài liệu học tập: Chương 1– 8",
+      "S-Download": "",
+      "Student's Tasks": "Ôn tập thi cuối kỳ",
+      "URLs": ""
+    }
+  ],
+  "constructive_questions": [
+    {
+      "No.": "1",
+      "Session No": "1",
+      "Name": "CQ1",
+      "Details": "Manipulate logical expressions and use logic for inference"
+    },
+    {
+      "No.": "2",
+      "Session No": "1",
+      "Name": "CQ2",
+      "Details": "Perform basic operations on sets, functions and sequences"
+    },
+    {
+      "No.": "3",
+      "Session No": "2",
+      "Name": "CQ1",
+      "Details": "Analyze basic algorithms written in pseudo codes and determine theirs complexities"
+    },
+    {
+      "No.": "4",
+      "Session No": "3",
+      "Name": "CQ1",
+      "Details": "Discuss applications of modular arithmetic and analyze algorithms on integers"
+    },
+    {
+      "No.": "5",
+      "Session No": "4",
+      "Name": "CQ1",
+      "Details": "Use induction and recursive definition to prove a statement or to describe an object, and write recursive algorithms"
+    },
+    {
+      "No.": "6",
+      "Session No": "4",
+      "Name": "CQ2",
+      "Details": "Solve counting problems"
+    },
+    {
+      "No.": "7",
+      "Session No": "4",
+      "Name": "CQ3",
+      "Details": "Analyze the structure of a graph and find shortest paths in a weighted graph"
+    },
+    {
+      "No.": "8",
+      "Session No": "4",
+      "Name": "CQ4",
+      "Details": "Analyze the structure of a tree and describe algorithms using trees"
+    }
+  ],
+  "materials": [
+    {
+      "No.": "1",
+      "Material Description": "Mỹ học đại cương",
+      "Author": "Lê Văn Dương,Lê Đình Lục, Lê Hồng Vân",
+      "Publisher": "",
+      "Published Date": "2011",
+      "Edition": "6th",
+      "ISBN": "",
+      "Is Main Material": "True",
+      "Is Hard Copy": "True",
+      "Is Online": "False",
+      "Note": ""
+    },
+    {
+      "No.": "2",
+      "Material Description": "Aesthetic Theory (Theory and History of Literature)",
+      "Author": "Theodor Adorno",
+      "Publisher": "Univ Of Minnesota Press",
+      "Published Date": "1998",
+      "Edition": "1st",
+      "ISBN": "",
+      "Is Main Material": "False",
+      "Is Hard Copy": "True",
+      "Is Online": "False",
+      "Note": ""
+    },
+    {
+      "No.": "3",
+      "Material Description": "Ways of Seeing",
+      "Author": "John Berger, Penguin",
+      "Publisher": "",
+      "Published Date": "2008",
+      "Edition": "",
+      "ISBN": "",
+      "Is Main Material": "False",
+      "Is Hard Copy": "True",
+      "Is Online": "False",
+      "Note": ""
+    }
+  ],
+  "source_path": "data/raw/syllabi/824.html",
+  "id": "syllabus:824"
+}

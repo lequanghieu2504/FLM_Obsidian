@@ -1,0 +1,1692 @@
+{
+  "syllabus_id": 6464,
+  "subject_code": "ISC302",
+  "subject_name": "E-Commerce / Thương mại điện tử",
+  "syllabus_name": "E-Commerce_Thương mại điện tử",
+  "credits": 3,
+  "degree_level": "Bachelor in Business Administration",
+  "time_allocation": "Study hour (150h) = 45h (60 sessions) contact hours + 1h final exam + 104h self-study",
+  "prerequisite": "None",
+  "general_information": {
+    "Syllabus ID": "6464",
+    "Syllabus Name": "E-Commerce_Thương mại điện tử",
+    "Course Name English": "E-Commerce",
+    "Subject Code": "ISC302",
+    "Learning-Teaching Method": "Lecture,Presentation",
+    "NoCredit": "3",
+    "Degree Level": "Bachelor in Business Administration",
+    "Time Allocation": "Study hour (150h) = 45h (60 sessions) contact hours + 1h final exam + 104h self-study",
+    "Pre-Requisite": "None",
+    "Description": "Provides current and emerging issues in business transactions over the electronic medium and examines issues and topics in the functional areas of business as they relate to electronic commerce. Includes study of business models and concepts, infrastructure, marketing, security and encryption, retailing, supply chain, ethical, social, and political issues.",
+    "StudentTasks": "- Attend Class Lecture - Reading assignments before lecture, complete quizzes before lecture - Complete one individual case study assignment - Use their own laptop in class only for learning purpose - Participate and complete Group Assignment - Attend Final Exam",
+    "Tools": "",
+    "Scoring Scale": "10",
+    "DecisionNo MM/dd/yyyy": "703/QĐ-ĐH-FPT dated 08/17/2022",
+    "IsApproved": "True",
+    "Note": "",
+    "Is Scored": "True",
+    "MinAvgMarkToPass": "5",
+    "IsActive": "True",
+    "ApprovedDate": "8/17/2022"
+  },
+  "active": true,
+  "approved": true,
+  "decision": "703/QĐ-ĐH-FPT dated 08/17/2022",
+  "description": "Provides current and emerging issues in business transactions over the electronic medium and examines issues and topics in the functional areas of business as they relate to electronic commerce. Includes study of business models and concepts, infrastructure, marketing, security and encryption, retailing, supply chain, ethical, social, and political issues.",
+  "learning_outcomes": [
+    {
+      "No.": "1",
+      "CLO Name": "CLO1",
+      "CLO Details": "Demonstrate an understanding of the foundations and importance of E-commerce"
+    },
+    {
+      "No.": "2",
+      "CLO Name": "CLO2",
+      "CLO Details": "Describe Internet trading relationships including Business to Consumer, Business-to-Business, Intra-organizational"
+    },
+    {
+      "No.": "3",
+      "CLO Name": "CLO3",
+      "CLO Details": "Describe the infrastructure for E-commerce"
+    },
+    {
+      "No.": "4",
+      "CLO Name": "CLO4",
+      "CLO Details": "Describe the key features of Internet, Intranets and Extranets and explain how they relate to each other"
+    },
+    {
+      "No.": "5",
+      "CLO Name": "CLO5",
+      "CLO Details": "Assess electronic payment systems"
+    },
+    {
+      "No.": "6",
+      "CLO Name": "CLO6",
+      "CLO Details": "Discuss legal issues and privacy in E-Commerce"
+    },
+    {
+      "No.": "7",
+      "CLO Name": "CLO7",
+      "CLO Details": "Explain the key process in implementation of e-commerce SCM, CRM, ERP."
+    },
+    {
+      "No.": "8",
+      "CLO Name": "CLO8",
+      "CLO Details": "Identify the main types of B2B commerce: Net marketplaces and private industrial networks."
+    },
+    {
+      "No.": "9",
+      "CLO Name": "CLO9",
+      "CLO Details": "Identify the major trends in e-commerce, including social networks, cloud applications"
+    },
+    {
+      "No.": "10",
+      "CLO Name": "CLO10",
+      "CLO Details": "Planning and implementation of e-commerce and e-business projects."
+    }
+  ],
+  "assessments": [
+    {
+      "No.": "1",
+      "Category": "Case Study Report and Presentation",
+      "Type": "on-going",
+      "Part": "1",
+      "Weight": "10.0%",
+      "Completion Criteria": ">0",
+      "Duration": "Option 1: 15' From Lecture 3 to the end of course Option 2 (For Constructivism Approach only): Follow lecturer's proposal",
+      "CLO": "",
+      "Question Type": "Option 1: Each student is assigned to one case study and have to: - Write a report - Prepare a Presentatiton for 15 minutes about the case Option 2 (For Constructivism Approach only): Follow lecturer's proposal",
+      "No Question": "Option 1: Each case about 10 pages, 3-5 questions Option 2: Follow lecturer's proposal",
+      "Knowledge and Skill": "Option 1: From cases in Text book In-depth understanding about the real case situations. Analyses and Findings Option 2 (For Constructivism Approach only): Follow lecturer's proposal",
+      "Grading Guide": "Option 1: A report of 3-5 pages (in addition with cover, content, list of reference, appendix) Presentation in 15 minutes in class as scheduled by Lecturer Option 2 (For Constructivism Approach only): Follow lecturer's proposal",
+      "Note": "Option 1: Case selected from the text book and online website of text book."
+    },
+    {
+      "No.": "2",
+      "Category": "Class participation and preparation",
+      "Type": "on-going",
+      "Part": "1",
+      "Weight": "10.0%",
+      "Completion Criteria": ">0",
+      "Duration": "",
+      "CLO": "",
+      "Question Type": "",
+      "No Question": "NA",
+      "Knowledge and Skill": "",
+      "Grading Guide": "",
+      "Note": "Option 1: Required attendance of students: - Lecture - In class discussion - Pay attention to class mates' Individual Case Study Presentation Option 2 (For Constructivism Approach only): Follow lecturer's proposal"
+    },
+    {
+      "No.": "3",
+      "Category": "Essay Test",
+      "Type": "on-going",
+      "Part": "1",
+      "Weight": "15.0%",
+      "Completion Criteria": ">0",
+      "Duration": "Option 1: 40 minutes Option 2 (For Constructivism Approach only): Follow lecturer's proposal",
+      "CLO": "",
+      "Question Type": "Option 1: Essay Questions Option Option 2 (For Constructivism Approach only): Follow lecturer's proposal",
+      "No Question": "Follow lecturer's proposal",
+      "Knowledge and Skill": "Option 1: Open Essay Questions Option 2 (For Constructivism Approach only): Follow lecturer's proposal",
+      "Grading Guide": "",
+      "Note": "Option 1: At Class, by instructor"
+    },
+    {
+      "No.": "4",
+      "Category": "Group Project Assignment",
+      "Type": "on-going",
+      "Part": "1",
+      "Weight": "25.0%",
+      "Completion Criteria": ">0",
+      "Duration": "Option 1: From Week 3 to the end of the course Option 2 (For Constructivism Approach only): Follow lecturer's proposal",
+      "CLO": "",
+      "Question Type": "Option 1: Group of 5 students Doing the Assignment as Guides by Lecturer and Detailed Guidelines Option 2 (For Constructivism Approach only): Follow lecturer's proposal",
+      "No Question": "Follow lecturer's proposal",
+      "Knowledge and Skill": "Option 1: Website Building, Operating and Managing Hardware, Software, Business & Management Website Presentation and Assessment Option 2 (For Constructivism Approach only): Follow lecturer's proposal",
+      "Grading Guide": "",
+      "Note": "Option 1: Report Website Presentation Assessment"
+    },
+    {
+      "No.": "5",
+      "Category": "Quizzes",
+      "Type": "on-going",
+      "Part": "4",
+      "Weight": "10.0%",
+      "Completion Criteria": ">0",
+      "Duration": "Option 1: 10' each quiz Option 2 (For Constructivism Approach only): Follow lecturer's proposal",
+      "CLO": "",
+      "Question Type": "Option 1:Multiple choice questions Option Option 2 (For Constructivism Approach only): Follow lecturer's proposal",
+      "No Question": "Option 1: 10 questions random from over 200 Option 2: Follow lecturer's proposal",
+      "Knowledge and Skill": "Option 1: Quizzes Testing the Reading Assignment of Students Option 2 (For Constructivism Approach only): Follow lecturer's proposal",
+      "Grading Guide": "Option 1: Four quizzes will test for knowledge of subject in the chapters assigned for that day Option 2 (For Constructivism Approach only): Follow lecturer's proposal",
+      "Note": "Option 1: These quizzes will be given at various times during class (beginning, middle or end). Total number of quizzes: 4"
+    },
+    {
+      "No.": "6",
+      "Category": "Final Exam",
+      "Type": "Final exam",
+      "Part": "1",
+      "Weight": "30.0%",
+      "Completion Criteria": "4",
+      "Duration": "60 mins",
+      "CLO": "LO1, LO2, LO3, LO4, LO5, LO6, LO7, LO8, LO9, LO10, LO11, LO12, LO13, LO14, LO15, LO16, LO17, LO18, LO19, LO20, LO21",
+      "Question Type": "Multiple choice",
+      "No Question": "50 questions",
+      "Knowledge and Skill": "All contents from previous",
+      "Grading Guide": "Exam room",
+      "Note": "Not allowed to use any document/information in any form in exam room"
+    }
+  ],
+  "schedule": [
+    {
+      "Session": "1",
+      "Topic": "Chapter 1: Overview of Electronic Commerce",
+      "Learning-Teaching Type": "Offline",
+      "LO": "",
+      "ITU": "",
+      "Student Materials": "",
+      "S-Download": "",
+      "Student's Tasks": "Textbook Chapter 1",
+      "URLs": ""
+    },
+    {
+      "Session": "2",
+      "Topic": "Chapter 1: Overview of Electronic Commerce (cont.)",
+      "Learning-Teaching Type": "Offline",
+      "LO": "",
+      "ITU": "",
+      "Student Materials": "",
+      "S-Download": "",
+      "Student's Tasks": "",
+      "URLs": ""
+    },
+    {
+      "Session": "3",
+      "Topic": "Chapter 1: Overview of Electronic Commerce (cont.)",
+      "Learning-Teaching Type": "Offline",
+      "LO": "",
+      "ITU": "",
+      "Student Materials": "",
+      "S-Download": "",
+      "Student's Tasks": "Textbook Chapter 1",
+      "URLs": ""
+    },
+    {
+      "Session": "4",
+      "Topic": "Chapter 1: Overview of Electronic Commerce (cont.)",
+      "Learning-Teaching Type": "Offline",
+      "LO": "",
+      "ITU": "",
+      "Student Materials": "",
+      "S-Download": "",
+      "Student's Tasks": "",
+      "URLs": ""
+    },
+    {
+      "Session": "5",
+      "Topic": "Chapter 2: E-Commerce: Mechanisms, Infrastructure and Tools",
+      "Learning-Teaching Type": "Offline",
+      "LO": "",
+      "ITU": "",
+      "Student Materials": "",
+      "S-Download": "",
+      "Student's Tasks": "Textbook Chapter 2",
+      "URLs": ""
+    },
+    {
+      "Session": "6",
+      "Topic": "Chapter 2: E-Commerce: Mechanisms, Infrastructure and Tools (cont.)",
+      "Learning-Teaching Type": "Offline",
+      "LO": "",
+      "ITU": "",
+      "Student Materials": "",
+      "S-Download": "",
+      "Student's Tasks": "",
+      "URLs": ""
+    },
+    {
+      "Session": "7",
+      "Topic": "Chapter 2: E-Commerce: Mechanisms, Infrastructure and Tools (cont.)",
+      "Learning-Teaching Type": "Offline",
+      "LO": "",
+      "ITU": "",
+      "Student Materials": "",
+      "S-Download": "",
+      "Student's Tasks": "Textbook Chapter 2",
+      "URLs": ""
+    },
+    {
+      "Session": "8",
+      "Topic": "Chapter 2: E-Commerce: Mechanisms, Infrastructure and Tools (cont.)",
+      "Learning-Teaching Type": "Offline",
+      "LO": "",
+      "ITU": "",
+      "Student Materials": "",
+      "S-Download": "",
+      "Student's Tasks": "",
+      "URLs": ""
+    },
+    {
+      "Session": "9",
+      "Topic": "Quiz 1 (Chapter 1-2)",
+      "Learning-Teaching Type": "Offline",
+      "LO": "",
+      "ITU": "",
+      "Student Materials": "",
+      "S-Download": "",
+      "Student's Tasks": "Textbook Chapter 3 and Chapter 4 * Register for Individual Case Study Presentation - Topic and Date",
+      "URLs": ""
+    },
+    {
+      "Session": "10",
+      "Topic": "Chapter 3: Retailing in Electronic Commerce: Products and Services",
+      "Learning-Teaching Type": "Offline",
+      "LO": "",
+      "ITU": "",
+      "Student Materials": "",
+      "S-Download": "",
+      "Student's Tasks": "Textbook Chapter 3 and Chapter 4 * Register for Individual Case Study Presentation - Topic and Date",
+      "URLs": ""
+    },
+    {
+      "Session": "11",
+      "Topic": "Chapter 3: Retailing in Electronic Commerce: Products and Services (cont.)",
+      "Learning-Teaching Type": "Offline",
+      "LO": "",
+      "ITU": "",
+      "Student Materials": "",
+      "S-Download": "",
+      "Student's Tasks": "Textbook Chapter 3 and Chapter 4 * Register for Individual Case Study Presentation - Topic and Date",
+      "URLs": ""
+    },
+    {
+      "Session": "12",
+      "Topic": "Chapter 4: B2B E-Commerce",
+      "Learning-Teaching Type": "Offline",
+      "LO": "",
+      "ITU": "",
+      "Student Materials": "",
+      "S-Download": "",
+      "Student's Tasks": "",
+      "URLs": ""
+    },
+    {
+      "Session": "13",
+      "Topic": "Reviewing Quiz 1",
+      "Learning-Teaching Type": "Offline",
+      "LO": "",
+      "ITU": "",
+      "Student Materials": "",
+      "S-Download": "",
+      "Student's Tasks": "Reading Project Guides View Guides Prepare Laptop Download guided Software Group work allocation for members",
+      "URLs": ""
+    },
+    {
+      "Session": "14",
+      "Topic": "Practice on Topic - \"Building and Managing Ecommerce Website - Online Sales\" - Part 1/3",
+      "Learning-Teaching Type": "Offline",
+      "LO": "",
+      "ITU": "",
+      "Student Materials": "",
+      "S-Download": "",
+      "Student's Tasks": "",
+      "URLs": ""
+    },
+    {
+      "Session": "15",
+      "Topic": "Practice on Topic - \"Building and Managing Ecommerce Website - Online Sales\" - Part 1/3",
+      "Learning-Teaching Type": "Offline",
+      "LO": "",
+      "ITU": "",
+      "Student Materials": "",
+      "S-Download": "",
+      "Student's Tasks": "Reading Project Guides View Guides Prepare Laptop Download guided Software Group work allocation for members",
+      "URLs": ""
+    },
+    {
+      "Session": "16",
+      "Topic": "Quiz 2: Chapter 3-4",
+      "Learning-Teaching Type": "Offline",
+      "LO": "",
+      "ITU": "",
+      "Student Materials": "",
+      "S-Download": "",
+      "Student's Tasks": "",
+      "URLs": ""
+    },
+    {
+      "Session": "17",
+      "Topic": "Chapter 6: Mobile Computing and Commerce and Ubiquitous Computing",
+      "Learning-Teaching Type": "Offline",
+      "LO": "",
+      "ITU": "",
+      "Student Materials": "",
+      "S-Download": "",
+      "Student's Tasks": "Textbook Chapter 6 * Prepare Individual Case Study Report and Presentation as Assigned",
+      "URLs": ""
+    },
+    {
+      "Session": "18",
+      "Topic": "Chapter 6: Mobile Computing and Commerce and Ubiquitous Computing (cont.)",
+      "Learning-Teaching Type": "Offline",
+      "LO": "",
+      "ITU": "",
+      "Student Materials": "",
+      "S-Download": "",
+      "Student's Tasks": "",
+      "URLs": ""
+    },
+    {
+      "Session": "19",
+      "Topic": "Chapter 6: Mobile Computing and Commerce and Ubiquitous Computing (cont.)",
+      "Learning-Teaching Type": "Offline",
+      "LO": "",
+      "ITU": "",
+      "Student Materials": "",
+      "S-Download": "",
+      "Student's Tasks": "Textbook Chapter 6 * Prepare Individual Case Study Report and Presentation as Assigned",
+      "URLs": ""
+    },
+    {
+      "Session": "20",
+      "Topic": "Reveiwing Quiz 2",
+      "Learning-Teaching Type": "Offline",
+      "LO": "",
+      "ITU": "",
+      "Student Materials": "",
+      "S-Download": "",
+      "Student's Tasks": "",
+      "URLs": ""
+    },
+    {
+      "Session": "21",
+      "Topic": "Chapter 7: Social Commerce",
+      "Learning-Teaching Type": "Offline",
+      "LO": "",
+      "ITU": "",
+      "Student Materials": "",
+      "S-Download": "",
+      "Student's Tasks": "Textbook Chapter 7 * Prepare Individual Case Study Report and Presentation as Assigned",
+      "URLs": ""
+    },
+    {
+      "Session": "22",
+      "Topic": "Chapter 7: Social Commerce",
+      "Learning-Teaching Type": "Offline",
+      "LO": "",
+      "ITU": "",
+      "Student Materials": "",
+      "S-Download": "",
+      "Student's Tasks": "",
+      "URLs": ""
+    },
+    {
+      "Session": "23",
+      "Topic": "T1 discussion: e-CRM",
+      "Learning-Teaching Type": "Offline",
+      "LO": "",
+      "ITU": "",
+      "Student Materials": "",
+      "S-Download": "",
+      "Student's Tasks": "Textbook Chapter 7 * Prepare Individual Case Study Report and Presentation as Assigned",
+      "URLs": ""
+    },
+    {
+      "Session": "24",
+      "Topic": "T1 discussion: e-CRM",
+      "Learning-Teaching Type": "Offline",
+      "LO": "",
+      "ITU": "",
+      "Student Materials": "",
+      "S-Download": "",
+      "Student's Tasks": "",
+      "URLs": ""
+    },
+    {
+      "Session": "25",
+      "Topic": "Quiz 3: Chapter 6-7",
+      "Learning-Teaching Type": "Offline",
+      "LO": "",
+      "ITU": "",
+      "Student Materials": "",
+      "S-Download": "",
+      "Student's Tasks": "Textbook Chapter 8 and Chapter 9 * Prepare Individual Case Study Report and Presentation as Assigned",
+      "URLs": ""
+    },
+    {
+      "Session": "26",
+      "Topic": "Chapter 8: Marketing and Advertising in E-Commerce",
+      "Learning-Teaching Type": "Offline",
+      "LO": "",
+      "ITU": "",
+      "Student Materials": "",
+      "S-Download": "",
+      "Student's Tasks": "",
+      "URLs": ""
+    },
+    {
+      "Session": "27",
+      "Topic": "Chapter 8: Marketing and Advertising in E-Commerce",
+      "Learning-Teaching Type": "Offline",
+      "LO": "",
+      "ITU": "",
+      "Student Materials": "",
+      "S-Download": "",
+      "Student's Tasks": "Textbook Chapter 8 and Chapter 9 * Prepare Individual Case Study Report and Presentation as Assigned",
+      "URLs": ""
+    },
+    {
+      "Session": "28",
+      "Topic": "Chapter 9: E-Commerce Security and Fraud Protection",
+      "Learning-Teaching Type": "Offline",
+      "LO": "",
+      "ITU": "",
+      "Student Materials": "",
+      "S-Download": "",
+      "Student's Tasks": "",
+      "URLs": ""
+    },
+    {
+      "Session": "29",
+      "Topic": "Chapter 9: E-Commerce Security and Fraud Protection",
+      "Learning-Teaching Type": "Offline",
+      "LO": "",
+      "ITU": "",
+      "Student Materials": "",
+      "S-Download": "",
+      "Student's Tasks": "Reading Project Guides View Guides Setting up Xampp, Joomla, VirtueMart Install Template Group work allocation for members on Setting and Updating Online Shop",
+      "URLs": ""
+    },
+    {
+      "Session": "30",
+      "Topic": "Reviewing Quiz 3",
+      "Learning-Teaching Type": "Offline",
+      "LO": "",
+      "ITU": "",
+      "Student Materials": "",
+      "S-Download": "",
+      "Student's Tasks": "",
+      "URLs": ""
+    },
+    {
+      "Session": "31",
+      "Topic": "Practice on Topic: \"Building and Managing Ecommerce Website - Online Sales\" - Part 2/3",
+      "Learning-Teaching Type": "Offline",
+      "LO": "",
+      "ITU": "",
+      "Student Materials": "",
+      "S-Download": "",
+      "Student's Tasks": "Reading Project Guides View Guides Setting up Xampp, Joomla, VirtueMart Install Template Group work allocation for members on Setting and Updating Online Shop",
+      "URLs": ""
+    },
+    {
+      "Session": "32",
+      "Topic": "Practice on Topic: \"Building and Managing Ecommerce Website - Online Sales\" - Part 2/3 (cont.)",
+      "Learning-Teaching Type": "Offline",
+      "LO": "",
+      "ITU": "",
+      "Student Materials": "",
+      "S-Download": "",
+      "Student's Tasks": "",
+      "URLs": ""
+    },
+    {
+      "Session": "33",
+      "Topic": "Chapter 10: Electronic Commerce Payment Systems",
+      "Learning-Teaching Type": "Offline",
+      "LO": "",
+      "ITU": "",
+      "Student Materials": "",
+      "S-Download": "",
+      "Student's Tasks": "Textbook Chapter 10 * Prepare Individual Case Study Report and Presentation as Assigned",
+      "URLs": ""
+    },
+    {
+      "Session": "34",
+      "Topic": "Chapter 10: Electronic Commerce Payment Systems (cont.)",
+      "Learning-Teaching Type": "Offline",
+      "LO": "",
+      "ITU": "",
+      "Student Materials": "",
+      "S-Download": "",
+      "Student's Tasks": "",
+      "URLs": ""
+    },
+    {
+      "Session": "35",
+      "Topic": "Chapter 10: Electronic Commerce Payment Systems (cont.)",
+      "Learning-Teaching Type": "Offline",
+      "LO": "",
+      "ITU": "",
+      "Student Materials": "",
+      "S-Download": "",
+      "Student's Tasks": "Textbook Chapter 10 * Prepare Individual Case Study Report and Presentation as Assigned",
+      "URLs": ""
+    },
+    {
+      "Session": "36",
+      "Topic": "T11 discussion: EDI, Extranets, and XML",
+      "Learning-Teaching Type": "Offline",
+      "LO": "",
+      "ITU": "",
+      "Student Materials": "",
+      "S-Download": "",
+      "Student's Tasks": "",
+      "URLs": ""
+    },
+    {
+      "Session": "37",
+      "Topic": "Chapter 11: Order Fulfillment Along the Supply Chain and Other EC Support Services",
+      "Learning-Teaching Type": "Offline",
+      "LO": "",
+      "ITU": "",
+      "Student Materials": "",
+      "S-Download": "",
+      "Student's Tasks": "Textbook Chapter 11 * Prepare Individual Case Study Report and Presentation as Assigned",
+      "URLs": ""
+    },
+    {
+      "Session": "38",
+      "Topic": "Chapter 11: Order Fulfillment Along the Supply Chain and Other EC Support Services",
+      "Learning-Teaching Type": "Offline",
+      "LO": "",
+      "ITU": "",
+      "Student Materials": "",
+      "S-Download": "",
+      "Student's Tasks": "",
+      "URLs": ""
+    },
+    {
+      "Session": "39",
+      "Topic": "Chapter 11: Order Fulfillment Along the Supply Chain and Other EC Support Services",
+      "Learning-Teaching Type": "Offline",
+      "LO": "",
+      "ITU": "",
+      "Student Materials": "",
+      "S-Download": "",
+      "Student's Tasks": "Textbook Chapter 11 * Prepare Individual Case Study Report and Presentation as Assigned",
+      "URLs": ""
+    },
+    {
+      "Session": "40",
+      "Topic": "T5 discussion: Supply Chain Management",
+      "Learning-Teaching Type": "Offline",
+      "LO": "",
+      "ITU": "",
+      "Student Materials": "",
+      "S-Download": "",
+      "Student's Tasks": "",
+      "URLs": ""
+    },
+    {
+      "Session": "41",
+      "Topic": "T5 discussion: Supply Chain Management",
+      "Learning-Teaching Type": "Offline",
+      "LO": "",
+      "ITU": "",
+      "Student Materials": "",
+      "S-Download": "",
+      "Student's Tasks": "Textbook Chapter 12 * Prepare Individual Case Study Report and Presentation as Assigned",
+      "URLs": ""
+    },
+    {
+      "Session": "42",
+      "Topic": "Quiz 4: Chapter 8-11",
+      "Learning-Teaching Type": "Offline",
+      "LO": "",
+      "ITU": "",
+      "Student Materials": "",
+      "S-Download": "",
+      "Student's Tasks": "",
+      "URLs": ""
+    },
+    {
+      "Session": "43",
+      "Topic": "Chapter 12: E-C Strategy, Globalization and Global SMEs",
+      "Learning-Teaching Type": "Offline",
+      "LO": "",
+      "ITU": "",
+      "Student Materials": "",
+      "S-Download": "",
+      "Student's Tasks": "Textbook Chapter 12 * Prepare Individual Case Study Report and Presentation as Assigned",
+      "URLs": ""
+    },
+    {
+      "Session": "44",
+      "Topic": "Chapter 12: E-C Strategy, Globalization and Global SMEs",
+      "Learning-Teaching Type": "Offline",
+      "LO": "",
+      "ITU": "",
+      "Student Materials": "",
+      "S-Download": "",
+      "Student's Tasks": "",
+      "URLs": ""
+    },
+    {
+      "Session": "45",
+      "Topic": "Chapter 12: E-C Strategy, Globalization and Global SMEs",
+      "Learning-Teaching Type": "Offline",
+      "LO": "",
+      "ITU": "",
+      "Student Materials": "",
+      "S-Download": "",
+      "Student's Tasks": "Textbook Chapter 13 * Prepare Individual Case Study Report and Presentation as Assigned",
+      "URLs": ""
+    },
+    {
+      "Session": "46",
+      "Topic": "Reveiwing Quiz 4",
+      "Learning-Teaching Type": "Offline",
+      "LO": "",
+      "ITU": "",
+      "Student Materials": "",
+      "S-Download": "",
+      "Student's Tasks": "",
+      "URLs": ""
+    },
+    {
+      "Session": "47",
+      "Topic": "Chapter 13: Implementing EC Systems: From Justification to Successful Performance",
+      "Learning-Teaching Type": "Offline",
+      "LO": "",
+      "ITU": "",
+      "Student Materials": "",
+      "S-Download": "",
+      "Student's Tasks": "Textbook Chapter 13 * Prepare Individual Case Study Report and Presentation as Assigned",
+      "URLs": ""
+    },
+    {
+      "Session": "48",
+      "Topic": "Chapter 13: Implementing EC Systems: From Justification to Successful Performance",
+      "Learning-Teaching Type": "Offline",
+      "LO": "",
+      "ITU": "",
+      "Student Materials": "",
+      "S-Download": "",
+      "Student's Tasks": "",
+      "URLs": ""
+    },
+    {
+      "Session": "49",
+      "Topic": "Chapter 13: Implementing EC Systems: From Justification to Successful Performance",
+      "Learning-Teaching Type": "Offline",
+      "LO": "",
+      "ITU": "",
+      "Student Materials": "",
+      "S-Download": "",
+      "Student's Tasks": "Reading Project Guides View Guides Managing Online shop Checking Order and Payment Group work allocation for members",
+      "URLs": ""
+    },
+    {
+      "Session": "50",
+      "Topic": "Practice on Topic- \"Building and Managing Ecommerce Website - Online Sales\" - Part 3/3",
+      "Learning-Teaching Type": "Offline",
+      "LO": "",
+      "ITU": "",
+      "Student Materials": "",
+      "S-Download": "",
+      "Student's Tasks": "",
+      "URLs": ""
+    },
+    {
+      "Session": "51",
+      "Topic": "Practice on Topic- \"Building and Managing Ecommerce Website - Online Sales\" - Part 3/3",
+      "Learning-Teaching Type": "Offline",
+      "LO": "",
+      "ITU": "",
+      "Student Materials": "",
+      "S-Download": "",
+      "Student's Tasks": "Reading Project Guides View Guides Managing Online shop Checking Order and Payment Group work allocation for members",
+      "URLs": ""
+    },
+    {
+      "Session": "52",
+      "Topic": "Essay Test",
+      "Learning-Teaching Type": "Offline",
+      "LO": "",
+      "ITU": "",
+      "Student Materials": "",
+      "S-Download": "",
+      "Student's Tasks": "",
+      "URLs": ""
+    },
+    {
+      "Session": "53",
+      "Topic": "T12 discussion: Competition in Cyberspace",
+      "Learning-Teaching Type": "Offline",
+      "LO": "",
+      "ITU": "",
+      "Student Materials": "",
+      "S-Download": "",
+      "Student's Tasks": "Prepare report/slide of the individual case study to submit",
+      "URLs": ""
+    },
+    {
+      "Session": "54",
+      "Topic": "T12 discussion: Competition in Cyberspace",
+      "Learning-Teaching Type": "Offline",
+      "LO": "",
+      "ITU": "",
+      "Student Materials": "",
+      "S-Download": "",
+      "Student's Tasks": "",
+      "URLs": ""
+    },
+    {
+      "Session": "55",
+      "Topic": "Reviewing Quiz 5",
+      "Learning-Teaching Type": "Offline",
+      "LO": "",
+      "ITU": "",
+      "Student Materials": "",
+      "S-Download": "",
+      "Student's Tasks": "Group Report Website Presentation",
+      "URLs": ""
+    },
+    {
+      "Session": "56",
+      "Topic": "Group presentation",
+      "Learning-Teaching Type": "Offline",
+      "LO": "",
+      "ITU": "",
+      "Student Materials": "",
+      "S-Download": "",
+      "Student's Tasks": "",
+      "URLs": ""
+    },
+    {
+      "Session": "57",
+      "Topic": "Group presentation",
+      "Learning-Teaching Type": "Offline",
+      "LO": "",
+      "ITU": "",
+      "Student Materials": "",
+      "S-Download": "",
+      "Student's Tasks": "Group Report Website Presentation",
+      "URLs": ""
+    },
+    {
+      "Session": "58",
+      "Topic": "Group presentation",
+      "Learning-Teaching Type": "Offline",
+      "LO": "",
+      "ITU": "",
+      "Student Materials": "",
+      "S-Download": "",
+      "Student's Tasks": "",
+      "URLs": ""
+    },
+    {
+      "Session": "59",
+      "Topic": "Group presentation",
+      "Learning-Teaching Type": "Offline",
+      "LO": "",
+      "ITU": "",
+      "Student Materials": "",
+      "S-Download": "",
+      "Student's Tasks": "Group Report Website Presentation",
+      "URLs": ""
+    },
+    {
+      "Session": "60",
+      "Topic": "Group presentation",
+      "Learning-Teaching Type": "Offline",
+      "LO": "",
+      "ITU": "",
+      "Student Materials": "",
+      "S-Download": "",
+      "Student's Tasks": "",
+      "URLs": ""
+    }
+  ],
+  "constructive_questions": [
+    {
+      "No.": "1",
+      "Session No": "1",
+      "Name": "CT1",
+      "Details": "What is E-commerce and how it is different from traditional commerce?"
+    },
+    {
+      "No.": "2",
+      "Session No": "1",
+      "Name": "CT2",
+      "Details": "What are the major types of E-commerce?"
+    },
+    {
+      "No.": "3",
+      "Session No": "1",
+      "Name": "HN1",
+      "Details": "What is E-commerce?"
+    },
+    {
+      "No.": "4",
+      "Session No": "1",
+      "Name": "HN2",
+      "Details": "What is the history of E-commerce development?"
+    },
+    {
+      "No.": "5",
+      "Session No": "1",
+      "Name": "HN3",
+      "Details": "What are the types of E-commerce?"
+    },
+    {
+      "No.": "6",
+      "Session No": "2",
+      "Name": "CT1",
+      "Details": "What are the drivers of E-commerce and what are the most significant one?"
+    },
+    {
+      "No.": "7",
+      "Session No": "2",
+      "Name": "CT2",
+      "Details": "How EC benefit indiciduals, organization and society as a whole?"
+    },
+    {
+      "No.": "8",
+      "Session No": "2",
+      "Name": "HN1",
+      "Details": "What is the largest E-commerce site in the world?"
+    },
+    {
+      "No.": "9",
+      "Session No": "2",
+      "Name": "HN2",
+      "Details": "What are bricks-and-mortar organizations? Give examples."
+    },
+    {
+      "No.": "10",
+      "Session No": "2",
+      "Name": "HN3",
+      "Details": "What are the main E-commerce business models?"
+    },
+    {
+      "No.": "11",
+      "Session No": "2",
+      "Name": "HN4",
+      "Details": "How have Web 4.0 and the 4th Industrial Revolution changed consumer behavior?"
+    },
+    {
+      "No.": "12",
+      "Session No": "2",
+      "Name": "HN5",
+      "Details": "What are the benefits of E-commerce to sellers?"
+    },
+    {
+      "No.": "13",
+      "Session No": "2",
+      "Name": "HN6",
+      "Details": "What are the benefits of E-commerce to buyers?"
+    },
+    {
+      "No.": "14",
+      "Session No": "3",
+      "Name": "CT1",
+      "Details": "What are major electronic commerce (EC) activities and processes and the mechanisms that support them."
+    },
+    {
+      "No.": "15",
+      "Session No": "3",
+      "Name": "CT2",
+      "Details": "Can you define e-marketplaces and list their components."
+    },
+    {
+      "No.": "16",
+      "Session No": "3",
+      "Name": "HN1",
+      "Details": "What are the major functions of markets (electronic or otherwise)?"
+    },
+    {
+      "No.": "17",
+      "Session No": "3",
+      "Name": "HN2",
+      "Details": "What is the buying process on e-marketplaces?"
+    },
+    {
+      "No.": "18",
+      "Session No": "3",
+      "Name": "HN3",
+      "Details": "What are the limitations of traditional offline auctions and what advantages can e-auctions offer over traditional auctions?"
+    },
+    {
+      "No.": "19",
+      "Session No": "3",
+      "Name": "HN4",
+      "Details": "What are business oriented social networks? Give examples."
+    },
+    {
+      "No.": "20",
+      "Session No": "3",
+      "Name": "HN5",
+      "Details": "What are the functions of business oriented social networks?"
+    },
+    {
+      "No.": "21",
+      "Session No": "3",
+      "Name": "HN6",
+      "Details": "What is augmented reality?"
+    },
+    {
+      "No.": "22",
+      "Session No": "3",
+      "Name": "HN7",
+      "Details": "What is the difference between augmented reality and virtual reality?"
+    },
+    {
+      "No.": "23",
+      "Session No": "3",
+      "Name": "HN8",
+      "Details": "What are the applications of augmented reality in e-commerce?"
+    },
+    {
+      "No.": "24",
+      "Session No": "3",
+      "Name": "HN9",
+      "Details": "What is Web 2.0, Web 3.0, Web 4.0?"
+    },
+    {
+      "No.": "25",
+      "Session No": "4",
+      "Name": "CT1",
+      "Details": "What kind of major types of e-marketplaces? Can you describe their features?"
+    },
+    {
+      "No.": "26",
+      "Session No": "4",
+      "Name": "CT2",
+      "Details": "What are the definitions of web 1.0, 2.0, 3.0 and 4.0?"
+    },
+    {
+      "No.": "27",
+      "Session No": "4",
+      "Name": "HN1",
+      "Details": "What is crowdsourcing?"
+    },
+    {
+      "No.": "28",
+      "Session No": "4",
+      "Name": "HN2",
+      "Details": "What are the benefits of crowdsourcing?"
+    },
+    {
+      "No.": "29",
+      "Session No": "4",
+      "Name": "HN3",
+      "Details": "What are the applications of crowdsourcing in e-commerce?"
+    },
+    {
+      "No.": "30",
+      "Session No": "5",
+      "Name": "CT1",
+      "Details": "What are characteristics of electronic retailing (e-tailing)?"
+    },
+    {
+      "No.": "31",
+      "Session No": "5",
+      "Name": "CT2",
+      "Details": "What are the primary e-tailing business models?"
+    },
+    {
+      "No.": "32",
+      "Session No": "5",
+      "Name": "CT3",
+      "Details": "What is disintermediation in EC?"
+    },
+    {
+      "No.": "33",
+      "Session No": "5",
+      "Name": "CT4",
+      "Details": "Can you name some EC B2C business model that you know?"
+    },
+    {
+      "No.": "34",
+      "Session No": "5",
+      "Name": "HN1",
+      "Details": "What are the major Chinese B2C E-commerce sites? How have they been growing over time?"
+    },
+    {
+      "No.": "35",
+      "Session No": "6",
+      "Name": "CT1",
+      "Details": "What is EC B2B? Describe the major types of B2B models?"
+    },
+    {
+      "No.": "36",
+      "Session No": "6",
+      "Name": "CT2",
+      "Details": "How do you understand buy-side, sell-side in e-market place? What are their characteristics?"
+    },
+    {
+      "No.": "37",
+      "Session No": "6",
+      "Name": "CT3",
+      "Details": "Can you identify some B2B aggregation and group purchasing models that you know in Vietnam?"
+    },
+    {
+      "No.": "38",
+      "Session No": "6",
+      "Name": "CT4",
+      "Details": "Can we use B2C marketing methods and research in B2B?"
+    },
+    {
+      "No.": "39",
+      "Session No": "6",
+      "Name": "HN1",
+      "Details": "What are the EC applications in travel, tourism and hospitality?"
+    },
+    {
+      "No.": "40",
+      "Session No": "6",
+      "Name": "HN2",
+      "Details": "What are the EC applications for employment placement and the job market?"
+    },
+    {
+      "No.": "41",
+      "Session No": "6",
+      "Name": "HN3",
+      "Details": "What are the EC applications in real estate, insurance and stock trading?"
+    },
+    {
+      "No.": "42",
+      "Session No": "6",
+      "Name": "HN4",
+      "Details": "What are the EC applications in banking and personal finance?"
+    },
+    {
+      "No.": "43",
+      "Session No": "6",
+      "Name": "HN5",
+      "Details": "What are the EC applications for On-Demand Delivery of Products, Digital Items, Entertainment, and Gaming?"
+    },
+    {
+      "No.": "44",
+      "Session No": "7",
+      "Name": "CT1",
+      "Details": "Why should we design a website for our company?"
+    },
+    {
+      "No.": "45",
+      "Session No": "7",
+      "Name": "CT2",
+      "Details": "What should we care about in our website?"
+    },
+    {
+      "No.": "46",
+      "Session No": "7",
+      "Name": "CT3",
+      "Details": "Can you name at least 5 elements that make your website more attractive?"
+    },
+    {
+      "No.": "47",
+      "Session No": "7",
+      "Name": "HN1",
+      "Details": "What are the applications of e-commerce in B2B transactions?"
+    },
+    {
+      "No.": "48",
+      "Session No": "8",
+      "Name": "CT1",
+      "Details": "How to create a website?"
+    },
+    {
+      "No.": "49",
+      "Session No": "8",
+      "Name": "CT2",
+      "Details": "What features that an EC website should have?"
+    },
+    {
+      "No.": "50",
+      "Session No": "8",
+      "Name": "CT3",
+      "Details": "What kind of business that you have to run on internet only?"
+    },
+    {
+      "No.": "51",
+      "Session No": "8",
+      "Name": "HN1",
+      "Details": "What is the largest E-commerce site in Vietnam, and how has it grown over time?"
+    },
+    {
+      "No.": "52",
+      "Session No": "8",
+      "Name": "HN2",
+      "Details": "What are the impacts of Covid-19 on e-commerce and e-tailing?"
+    },
+    {
+      "No.": "53",
+      "Session No": "8",
+      "Name": "HN3",
+      "Details": "What are the emerging trends in e-tailing in 2021?"
+    },
+    {
+      "No.": "54",
+      "Session No": "8",
+      "Name": "HN4",
+      "Details": "How is eCommerce (EC) transforming the entertainment industry?"
+    },
+    {
+      "No.": "55",
+      "Session No": "8",
+      "Name": "HN5",
+      "Details": "How can EC applications help with employer branding?"
+    },
+    {
+      "No.": "56",
+      "Session No": "9",
+      "Name": "CT1",
+      "Details": "What are the driver of m-commerce?"
+    },
+    {
+      "No.": "57",
+      "Session No": "9",
+      "Name": "CT2",
+      "Details": "To operare, what infrastructural elements that m-commerce must have?"
+    },
+    {
+      "No.": "58",
+      "Session No": "9",
+      "Name": "HN1",
+      "Details": "What is the history of mobile devices and mobile technology?"
+    },
+    {
+      "No.": "59",
+      "Session No": "9",
+      "Name": "HN2",
+      "Details": "How have mobile technologies changed the way we live, work, and do business?"
+    },
+    {
+      "No.": "60",
+      "Session No": "10",
+      "Name": "CT1",
+      "Details": "Describe consumer and personal applications of m-commerce you know? (one for entertainment, one for business, one for exchange, one for retailing, one for logicstics, and one other sector which is different from the abovementioned)"
+    },
+    {
+      "No.": "61",
+      "Session No": "10",
+      "Name": "CT2",
+      "Details": "What is your m-commerce strategy when you run EC business?"
+    },
+    {
+      "No.": "62",
+      "Session No": "10",
+      "Name": "HN1",
+      "Details": "What is m-commerce?"
+    },
+    {
+      "No.": "63",
+      "Session No": "10",
+      "Name": "HN2",
+      "Details": "What are the attributes of m-commerce?"
+    },
+    {
+      "No.": "64",
+      "Session No": "10",
+      "Name": "HN3",
+      "Details": "What factors have contributed to the growth of m-commerce?"
+    },
+    {
+      "No.": "65",
+      "Session No": "10",
+      "Name": "HN4",
+      "Details": "What are the benefits of m-commerce?"
+    },
+    {
+      "No.": "66",
+      "Session No": "10",
+      "Name": "HN5",
+      "Details": "What is location-based m-commerce? Give some examples of l-commerce."
+    },
+    {
+      "No.": "67",
+      "Session No": "10",
+      "Name": "HN6",
+      "Details": "What is ubiquitous computing? Give some examples of applications of ubiquitous computing."
+    },
+    {
+      "No.": "68",
+      "Session No": "11",
+      "Name": "HN1",
+      "Details": "What is the definition of social commerce, social marketing, social media marketing, social capital, social graph?"
+    },
+    {
+      "No.": "69",
+      "Session No": "11",
+      "Name": "HN2",
+      "Details": "What is the history of social media and social networking sites (SNS)?"
+    },
+    {
+      "No.": "70",
+      "Session No": "12",
+      "Name": "HN1",
+      "Details": "What are the benefits of social commerce?"
+    },
+    {
+      "No.": "71",
+      "Session No": "12",
+      "Name": "HN2",
+      "Details": "What are some characteristics of the social customer?"
+    },
+    {
+      "No.": "72",
+      "Session No": "12",
+      "Name": "HN3",
+      "Details": "Which social networking site currently has the highest number of monthly active users? Explain how this site can facilitate how business and marketing activities are conducted."
+    },
+    {
+      "No.": "73",
+      "Session No": "12",
+      "Name": "HN4",
+      "Details": "What is social capital? Explain how businesses can take advantage of the social capital."
+    },
+    {
+      "No.": "74",
+      "Session No": "12",
+      "Name": "HN5",
+      "Details": "Has there been a successful viral marketing campaign recently? Explain the factors that brought about its success."
+    },
+    {
+      "No.": "75",
+      "Session No": "13",
+      "Name": "CT1",
+      "Details": "What factors may influence online consumer behavior?"
+    },
+    {
+      "No.": "76",
+      "Session No": "13",
+      "Name": "CT2",
+      "Details": "Which Internet marketing/advertising channel do we use?"
+    },
+    {
+      "No.": "77",
+      "Session No": "13",
+      "Name": "HN1",
+      "Details": "What are the steps in consumers' decision making process? How have Internet applications affected and changed this process?"
+    },
+    {
+      "No.": "78",
+      "Session No": "14",
+      "Name": "CT1",
+      "Details": "What is the online consumer decision-making process?"
+    },
+    {
+      "No.": "79",
+      "Session No": "14",
+      "Name": "CT2",
+      "Details": "Can you list at least 3 online advertising methods, 3 advertising strategies and 3 types of promotions?"
+    },
+    {
+      "No.": "80",
+      "Session No": "14",
+      "Name": "HN1",
+      "Details": "What are the factors that affect customer's satisfaction with Internet shopping? How can a business ensure that customers are satisfied with the online shopping experience?"
+    },
+    {
+      "No.": "81",
+      "Session No": "14",
+      "Name": "HN2",
+      "Details": "What is customer's trust? Why is it difficult to maintain customer's trust online? What are some of the ways to increase customer's trust in e-commerce?"
+    },
+    {
+      "No.": "82",
+      "Session No": "14",
+      "Name": "HN3",
+      "Details": "What are some prominent online advertising methods and their pros and cons?"
+    },
+    {
+      "No.": "83",
+      "Session No": "15",
+      "Name": "CT1",
+      "Details": "Can you explain the role of EC website in marketing your company?"
+    },
+    {
+      "No.": "84",
+      "Session No": "15",
+      "Name": "CT2",
+      "Details": "Is website really an effective tool for your company to launch a marketing campaign? why?"
+    },
+    {
+      "No.": "85",
+      "Session No": "15",
+      "Name": "HN1",
+      "Details": "What is information security?"
+    },
+    {
+      "No.": "86",
+      "Session No": "15",
+      "Name": "HN2",
+      "Details": "What are some technical attack methods and how to prevent them?"
+    },
+    {
+      "No.": "87",
+      "Session No": "15",
+      "Name": "HN3",
+      "Details": "What are non-technical attack methods and how to prevent them?"
+    },
+    {
+      "No.": "88",
+      "Session No": "16",
+      "Name": "CT1",
+      "Details": "Can you explain some frauds conducted on the EC website?"
+    },
+    {
+      "No.": "89",
+      "Session No": "16",
+      "Name": "CT2",
+      "Details": "What features should you add to prevent fraud conducts on your EC website?"
+    },
+    {
+      "No.": "90",
+      "Session No": "16",
+      "Name": "HN1",
+      "Details": "What is the current situation of cybercrime in Vietnam?"
+    },
+    {
+      "No.": "91",
+      "Session No": "16",
+      "Name": "HN2",
+      "Details": "What can the government do to fight and prevent cybercrime?"
+    },
+    {
+      "No.": "92",
+      "Session No": "16",
+      "Name": "HN3",
+      "Details": "Why is it difficult to prevent cybercrime?"
+    },
+    {
+      "No.": "93",
+      "Session No": "17",
+      "Name": "CT1",
+      "Details": "Can you defined the payment evelotion? What are features of traditional payment systems?"
+    },
+    {
+      "No.": "94",
+      "Session No": "17",
+      "Name": "CT2",
+      "Details": "Can you name 4 types of payment we can use in EC? Which one do you prefer most and why?"
+    },
+    {
+      "No.": "95",
+      "Session No": "17",
+      "Name": "HN1",
+      "Details": "What is the evolution of payment methods from ancient times until now?"
+    },
+    {
+      "No.": "96",
+      "Session No": "17",
+      "Name": "HN2",
+      "Details": "What is the current situation of cashless payment in Vietnam?"
+    },
+    {
+      "No.": "97",
+      "Session No": "18",
+      "Name": "CT1",
+      "Details": "What are mobile payments? Do you think will it be a dominant payment method in Vietnam?"
+    },
+    {
+      "No.": "98",
+      "Session No": "18",
+      "Name": "CT2",
+      "Details": "How EC B2B can make payment while making transactions?"
+    },
+    {
+      "No.": "99",
+      "Session No": "18",
+      "Name": "HN1",
+      "Details": "What are some major types of payment cards and their uses?"
+    },
+    {
+      "No.": "100",
+      "Session No": "18",
+      "Name": "HN2",
+      "Details": "What are the ways to ensure safety and security while using payment cards online?"
+    },
+    {
+      "No.": "101",
+      "Session No": "18",
+      "Name": "HN3",
+      "Details": "What is e-payment?"
+    },
+    {
+      "No.": "102",
+      "Session No": "18",
+      "Name": "HN4",
+      "Details": "What is mobile payment? Present about a major mobile payment app in Vietnam."
+    },
+    {
+      "No.": "103",
+      "Session No": "18",
+      "Name": "HN5",
+      "Details": "What are the distinctions between cryptocurrency, digital currency, virtual currency. Will cryptocurrency be the future of money? What are its advantages and disadvantages?"
+    },
+    {
+      "No.": "104",
+      "Session No": "19",
+      "Name": "CT1",
+      "Details": "Can you define EC support services? What are the roles of support services in electronic commerce (EC)"
+    },
+    {
+      "No.": "105",
+      "Session No": "19",
+      "Name": "CT2",
+      "Details": "How does EC order fulfillment work? What are the major problems of EC order fulfillment system that we may have?"
+    },
+    {
+      "No.": "106",
+      "Session No": "19",
+      "Name": "HN1",
+      "Details": "How has logistics changed in the age of E-commerce? Explain with relevant examples."
+    },
+    {
+      "No.": "107",
+      "Session No": "20",
+      "Name": "CT1",
+      "Details": "What are the definition of RFID and CPFR? How are they applied in the course of practice?"
+    },
+    {
+      "No.": "108",
+      "Session No": "20",
+      "Name": "CT2",
+      "Details": "What are the justification of outsourcing support services? Should we use them?"
+    },
+    {
+      "No.": "109",
+      "Session No": "20",
+      "Name": "HN1",
+      "Details": "How can a seller on e-commerce effectively manage the return of items in case a buyer wants to return something that he/she has purchased?"
+    },
+    {
+      "No.": "110",
+      "Session No": "20",
+      "Name": "HN2",
+      "Details": "What is RFID? What are the applications of RFID in supply chain management?"
+    },
+    {
+      "No.": "111",
+      "Session No": "21",
+      "Name": "HN1",
+      "Details": "Choose a company. What is its SWOT/PEST/PESTLE analysis?"
+    },
+    {
+      "No.": "112",
+      "Session No": "21",
+      "Name": "HN2",
+      "Details": "Choose an E-commerce company. What is its social media strategy? How effective is it?"
+    },
+    {
+      "No.": "113",
+      "Session No": "21",
+      "Name": "HN3",
+      "Details": "How can the company take advantage of e-commerce tools and infrastructure if it wants to reach an international market?"
+    },
+    {
+      "No.": "114",
+      "Session No": "22",
+      "Name": "HN1",
+      "Details": "What are some barriers to global e-commerce? How can these barriers be overcome?"
+    },
+    {
+      "No.": "115",
+      "Session No": "23",
+      "Name": "CT1",
+      "Details": "Can you describe the major components of EC? Which one is the most important?"
+    },
+    {
+      "No.": "116",
+      "Session No": "23",
+      "Name": "CT2",
+      "Details": "How should the value of EC investment be justified?"
+    },
+    {
+      "No.": "117",
+      "Session No": "23",
+      "Name": "HN1",
+      "Details": "What is Gartner's hype cycle? Describe the hype cycle and its uses."
+    },
+    {
+      "No.": "118",
+      "Session No": "24",
+      "Name": "CT1",
+      "Details": "Which strategy should we choose for vendor selection: the inside-out or outside-in approach?"
+    },
+    {
+      "No.": "119",
+      "Session No": "24",
+      "Name": "CT2",
+      "Details": "Is it possible to predict EC success? Why?"
+    },
+    {
+      "No.": "120",
+      "Session No": "24",
+      "Name": "HN1",
+      "Details": "What are the factors that contribute to EC success? Analyze a case study of successful EC implementation to illustrate your points."
+    },
+    {
+      "No.": "121",
+      "Session No": "24",
+      "Name": "HN2",
+      "Details": "What are the factors that contribute to poor EC performance? Analyze a case study of poor EC performance (a failed EC project) to illustrate your points."
+    },
+    {
+      "No.": "122",
+      "Session No": "25",
+      "Name": "CT1",
+      "Details": "What are the strengths of your website?"
+    },
+    {
+      "No.": "123",
+      "Session No": "25",
+      "Name": "CT2",
+      "Details": "What are the weakness of your website?"
+    },
+    {
+      "No.": "124",
+      "Session No": "25",
+      "Name": "HN1",
+      "Details": "Which E-commerce platform(s) will you choose to sell your products and why (advantages, disadvantages of that platform)? Begin building your store on that platform and posting the link to the online store in the answer."
+    },
+    {
+      "No.": "125",
+      "Session No": "26",
+      "Name": "CT1",
+      "Details": "Do you think customer will prefer your EC website?"
+    },
+    {
+      "No.": "126",
+      "Session No": "26",
+      "Name": "CT2",
+      "Details": "Can you explain solutions equipped to ensure the security of your website?"
+    },
+    {
+      "No.": "127",
+      "Session No": "26",
+      "Name": "HN1",
+      "Details": "What is the situation analysis for your EC business plan?"
+    },
+    {
+      "No.": "128",
+      "Session No": "27",
+      "Name": "CT1",
+      "Details": "How companies compete to each other on cyberspace?"
+    },
+    {
+      "No.": "129",
+      "Session No": "27",
+      "Name": "CT2",
+      "Details": "Apart from business, is there any other kinds of competition happening on cyberspace?"
+    },
+    {
+      "No.": "130",
+      "Session No": "27",
+      "Name": "CT3",
+      "Details": "What should we do to prevent the cyberspace attack?"
+    },
+    {
+      "No.": "131",
+      "Session No": "27",
+      "Name": "CT4",
+      "Details": "How to identify an attack on cyber space?"
+    },
+    {
+      "No.": "132",
+      "Session No": "27",
+      "Name": "HN1",
+      "Details": "What is the marketing plan for you EC business plan?"
+    }
+  ],
+  "materials": [
+    {
+      "No.": "1",
+      "Material Description": "Electronic Commerce 2012: A Managerial and Social Networks Perspective",
+      "Author": "EfraimTurban, David King",
+      "Publisher": "Pearson",
+      "Published Date": "2012",
+      "Edition": "7th",
+      "ISBN": "978-0132145381",
+      "Is Main Material": "True",
+      "Is Hard Copy": "True",
+      "Is Online": "False",
+      "Note": ""
+    },
+    {
+      "No.": "2",
+      "Material Description": "Instructor manual with solutions, PPT, Transperencies, Test Bank, Video",
+      "Author": "",
+      "Publisher": "",
+      "Published Date": "",
+      "Edition": "",
+      "ISBN": "",
+      "Is Main Material": "False",
+      "Is Hard Copy": "True",
+      "Is Online": "False",
+      "Note": ""
+    },
+    {
+      "No.": "3",
+      "Material Description": "E-Commerce: business, technology, society",
+      "Author": "Laudon",
+      "Publisher": "Prentice Hall – Pearson",
+      "Published Date": "8th",
+      "Edition": "2012",
+      "ISBN": "",
+      "Is Main Material": "False",
+      "Is Hard Copy": "True",
+      "Is Online": "False",
+      "Note": ""
+    },
+    {
+      "No.": "4",
+      "Material Description": "www.joomla.org, www.virruemart.org",
+      "Author": "",
+      "Publisher": "",
+      "Published Date": "",
+      "Edition": "",
+      "ISBN": "",
+      "Is Main Material": "False",
+      "Is Hard Copy": "False",
+      "Is Online": "True",
+      "Note": ""
+    }
+  ],
+  "source_path": "data/raw/syllabi/6464.html",
+  "id": "syllabus:6464"
+}

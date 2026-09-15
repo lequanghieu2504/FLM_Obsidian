@@ -1,0 +1,318 @@
+{
+  "syllabus_id": 13696,
+  "subject_code": "GPM201c",
+  "subject_name": "Professional Project Management_Quản trị dự án",
+  "syllabus_name": "Professional Project Management_Quản trị dự án",
+  "credits": 3,
+  "degree_level": "Bachelor",
+  "time_allocation": "Study hour (150h) = 140h online + 3h offline + 1h Final exam + 6 self-study",
+  "prerequisite": "None",
+  "general_information": {
+    "Syllabus ID": "13696",
+    "Syllabus Name": "Professional Project Management_Quản trị dự án",
+    "Course Name English": "Professional Project Management",
+    "Subject Code": "GPM201c",
+    "Learning-Teaching Method": "Online",
+    "NoCredit": "3",
+    "Degree Level": "Bachelor",
+    "Time Allocation": "Study hour (150h) = 140h online + 3h offline + 1h Final exam + 6 self-study",
+    "Pre-Requisite": "None",
+    "Description": "In this program, students are introduced to the foundations of project management through a hands-on, practice-based curriculum developed by Google experts. Over seven courses, students will explore both traditional and Agile approaches, gaining skills in risk management, budgeting, stakeholder communication, and team coordination. With more than 140 hours of interactive learning and real-world simulations, the program emphasizes practical application of project management tools and methods. Upon completion, students will be prepared for entry-level roles in project management and will be equipped with industry-recognized training that can lead to globally valued certifications and diverse career opportunities.",
+    "StudentTasks": "1. Join the online course(s) when being invited by the admin. 2. Enroll in the courses, regularly study the course at least 5hrs/week by watching videos, reading materials, taking quizzes, doing assignments... as required 3. Respect the Coursera Code of Conduct, at https://learner.coursera.help/hc/en-us/articles/208280036-Coursera-Code-of-Conduct 4. Keep up with online learning progress (bonus will be awarded) 5. Communicate and discuss in forum 6. Attend offline sessions in the Campus (Optional) 7. Must complete the course(s) with certification(s) in order to take the Final Exam at Campus",
+    "Tools": "Computer Internet",
+    "Scoring Scale": "10",
+    "DecisionNo MM/dd/yyyy": "1318/QĐ-ĐHFPT dated 11/27/2025",
+    "IsApproved": "True",
+    "Note": "1) Ongoing assessment: Students who complete all MOOCs before the course deadline will receive 1 bonus point; otherwise, no bonus point will be awarded. 2) Theoretical Exam (TE) 3) Final Result (FR) = min (10, TE + Bonus) 4) Completion Criteria: TE>=4 and FR>=5",
+    "Is Scored": "True",
+    "MinAvgMarkToPass": "5",
+    "IsActive": "True",
+    "ApprovedDate": "11/27/2025"
+  },
+  "active": true,
+  "approved": true,
+  "decision": "1318/QĐ-ĐHFPT dated 11/27/2025",
+  "description": "In this program, students are introduced to the foundations of project management through a hands-on, practice-based curriculum developed by Google experts. Over seven courses, students will explore both traditional and Agile approaches, gaining skills in risk management, budgeting, stakeholder communication, and team coordination. With more than 140 hours of interactive learning and real-world simulations, the program emphasizes practical application of project management tools and methods. Upon completion, students will be prepared for entry-level roles in project management and will be equipped with industry-recognized training that can lead to globally valued certifications and diverse career opportunities.",
+  "learning_outcomes": [
+    {
+      "No.": "1",
+      "CLO Name": "CLO1",
+      "CLO Details": "Students will be able to describe and explain fundamental concepts and processes of project management in both traditional and Agile approaches."
+    },
+    {
+      "No.": "2",
+      "CLO Name": "CLO2",
+      "CLO Details": "Students will be able to apply project management tools and techniques (planning, risk management, budgeting, procurement) to design and implement a simulated project."
+    },
+    {
+      "No.": "3",
+      "CLO Name": "CLO3",
+      "CLO Details": "Students will be able to analyze and address project challenges, including change management, team conflicts, and stakeholder engagement, and propose appropriate solutions."
+    },
+    {
+      "No.": "4",
+      "CLO Name": "CLO4",
+      "CLO Details": "Students will be able to evaluate and design project management solutions using modern tools and methodologies (Agile/Scrum), and propose optimized approaches to improve project performance and success."
+    }
+  ],
+  "assessments": [
+    {
+      "No.": "1",
+      "Category": "Theoretical Exam (TE)",
+      "Type": "Final exam",
+      "Part": "1",
+      "Weight": "100.0%",
+      "Completion Criteria": "4",
+      "Duration": "60'",
+      "CLO": "All LOs",
+      "Question Type": "Multiple choice and case study",
+      "No Question": "50",
+      "Knowledge and Skill": "The whole course content.",
+      "Grading Guide": "by Exam Board",
+      "Note": ""
+    }
+  ],
+  "schedule": [
+    {
+      "Session": "1",
+      "Topic": "(Off-line 1.5h) Introduction to the online course Course 1: Foundations of Project Management • Module 1: Embarking on a career in project management • Module 2: Becoming an effective project manager",
+      "Learning-Teaching Type": "Online, Offline",
+      "LO": "CLO1",
+      "ITU": "I,T",
+      "Student Materials": "Course 1: Foundations of Project Management",
+      "S-Download": "",
+      "Student's Tasks": "Enroll in the specialization on Coursera for FPT University Platform '- Watch all videos, read all materials in the module/ course - Finish quizzes, self-assessment, assignments and take part in discussion boards (if there are any)",
+      "URLs": ""
+    },
+    {
+      "Session": "2",
+      "Topic": "Course 1: Foundations of Project Management • Module 3: The project management life cycle and methodologies • Module 4: Organizational structure and culture",
+      "Learning-Teaching Type": "Online",
+      "LO": "CLO1",
+      "ITU": "I,T",
+      "Student Materials": "Course 1: Foundations of Project Management",
+      "S-Download": "",
+      "Student's Tasks": "- Watch all videos, read all materials in the module/ course - Finish quizzes, self-assessment, assignments and take part in discussion boards (if there are any)",
+      "URLs": ""
+    },
+    {
+      "Session": "3",
+      "Topic": "Course 2: Project Initiation: Starting a Successful Project • Module 1: Fundamentals of project initiation • Module 2: Defining project goals, scope, and success criteria",
+      "Learning-Teaching Type": "Online",
+      "LO": "CLO1, CLO3",
+      "ITU": "I,T",
+      "Student Materials": "Course 2: Project Initiation: Starting a Successful Project",
+      "S-Download": "",
+      "Student's Tasks": "- Watch all videos, read all materials in the module/ course - Finish quizzes, self-assessment, assignments and take part in discussion boards (if there are any)",
+      "URLs": ""
+    },
+    {
+      "Session": "4",
+      "Topic": "Course 2: Project Initiation: Starting a Successful Project • Module 3: Working effectively with stakeholders • Module 4: Utilizing resources and tools for project success",
+      "Learning-Teaching Type": "Online",
+      "LO": "CLO3, CLO1",
+      "ITU": "I,T",
+      "Student Materials": "Course 2: Project Initiation: Starting a Successful Project",
+      "S-Download": "",
+      "Student's Tasks": "- Watch all videos, read all materials in the module/ course - Finish quizzes, self-assessment, assignments and take part in discussion boards (if there are any)",
+      "URLs": ""
+    },
+    {
+      "Session": "5",
+      "Topic": "Course 3: Project Planning: Putting It All Together • Module 1: Beginning the planning phase • Module 2: Building a project plan",
+      "Learning-Teaching Type": "Online",
+      "LO": "CLO2",
+      "ITU": "I,T",
+      "Student Materials": "Course 3: Project Planning: Putting It All Together",
+      "S-Download": "",
+      "Student's Tasks": "- Watch all videos, read all materials in the module/ course - Finish quizzes, self-assessment, assignments and take part in discussion boards (if there are any)",
+      "URLs": ""
+    },
+    {
+      "Session": "6",
+      "Topic": "Course 3: Project Planning: Putting It All Together • Module 3: Managing budgeting and procurement • Module 4: Managing risks effectively • Module 5: Organizing communication and documentation",
+      "Learning-Teaching Type": "Online",
+      "LO": "CLO2",
+      "ITU": "I,T",
+      "Student Materials": "Course 3: Project Planning: Putting It All Together",
+      "S-Download": "",
+      "Student's Tasks": "- It is expected that all students engage in the review session and contribute to any debates that may occur.",
+      "URLs": ""
+    },
+    {
+      "Session": "7",
+      "Topic": "Course 4: Project Execution: Running the Project • Module 1: Introduction to project execution • Module 2: Quality management and continuous improvement",
+      "Learning-Teaching Type": "Online",
+      "LO": "CLO3",
+      "ITU": "I,T",
+      "Student Materials": "Course 4: Project Execution: Running the Project",
+      "S-Download": "",
+      "Student's Tasks": "- Watch all videos, read all materials in the module/ course - Finish quizzes, self-assessment, assignments and take part in discussion boards (if there are any)",
+      "URLs": ""
+    },
+    {
+      "Session": "8",
+      "Topic": "Course 4: Project Execution: Running the Project • Module 3: Data-informed decision-making • Module 4: Leadership and influencing skills • Module 5: Effective project communication • Module 6: Closing a project",
+      "Learning-Teaching Type": "Online",
+      "LO": "CLO2",
+      "ITU": "I,T",
+      "Student Materials": "Course 4: Project Execution: Running the Project",
+      "S-Download": "",
+      "Student's Tasks": "- Watch all videos, read all materials in the module/ course - Finish quizzes, self-assessment, assignments and take part in discussion boards (if there are any)",
+      "URLs": ""
+    },
+    {
+      "Session": "9",
+      "Topic": "Course 5: Agile Project Management • Module 1: The fundamentals of Agile • Module 2: Scrum 101",
+      "Learning-Teaching Type": "Online",
+      "LO": "CLO4",
+      "ITU": "I,T",
+      "Student Materials": "Course 5: Agile Project Management",
+      "S-Download": "",
+      "Student's Tasks": "- Watch all videos, read all materials in the module/ course - Finish quizzes, self-assessment, assignments and take part in discussion boards (if there are any)",
+      "URLs": ""
+    },
+    {
+      "Session": "10",
+      "Topic": "Course 5: Agile Project Management • Module 3: Implementing Scrum • Module 4: Applying Agile in the organization",
+      "Learning-Teaching Type": "Online",
+      "LO": "CLO4",
+      "ITU": "I,T",
+      "Student Materials": "Course 5: Agile Project Management",
+      "S-Download": "",
+      "Student's Tasks": "- Watch all videos, read all materials in the modules/ course - Finish quizzes, self-assessment, assignments and take part in discussion boards (if there are any)",
+      "URLs": ""
+    },
+    {
+      "Session": "11",
+      "Topic": "Course 6: Agile Project Management (duplicate set) • Module 1: Initiating a project • Module 2: Building out a project plan",
+      "Learning-Teaching Type": "Online",
+      "LO": "CLO4",
+      "ITU": "I,T",
+      "Student Materials": "Course 6: Agile Project Management",
+      "S-Download": "",
+      "Student's Tasks": "- Watch all videos, read all materials in the module/ course - Finish quizzes, self-assessment, assignments and take part in discussion boards (if there are any)",
+      "URLs": ""
+    },
+    {
+      "Session": "12",
+      "Topic": "(Off-line 1.5h) Course 6: Agile Project Management (duplicate set) • Module 3: Maintaining quality • Module 4: Effective stakeholder communication + Course 7: Capstone: Applying Project Management in the Real World • Module 1: Uncover Your Transferable Skills with AI Deadline of Coursera completion: End of Friday of the week.",
+      "Learning-Teaching Type": "Online, Offline",
+      "LO": "CLO4, CLO2, CLO3",
+      "ITU": "I,T,U",
+      "Student Materials": "Course 6: Agile Project Management Course 7: Capstone: Applying Project Management in the Real World",
+      "S-Download": "",
+      "Student's Tasks": "- It is expected that all students engage in the review session and contribute to any debates that may occur.",
+      "URLs": ""
+    }
+  ],
+  "constructive_questions": [],
+  "materials": [
+    {
+      "No.": "1",
+      "Material Description": "https://www.coursera.org/learn/project-management-foundations?specialization=google-project-management",
+      "Author": "",
+      "Publisher": "Coursera",
+      "Published Date": "",
+      "Edition": "",
+      "ISBN": "",
+      "Is Main Material": "True",
+      "Is Hard Copy": "False",
+      "Is Online": "True",
+      "Note": "Course 1: Foundations of Project Management (12h)"
+    },
+    {
+      "No.": "2",
+      "Material Description": "https://www.coursera.org/learn/project-initiation-google?specialization=google-project-management",
+      "Author": "",
+      "Publisher": "Coursera",
+      "Published Date": "",
+      "Edition": "",
+      "ISBN": "",
+      "Is Main Material": "True",
+      "Is Hard Copy": "False",
+      "Is Online": "True",
+      "Note": "Course 2: Project Initiation: Starting a Successful Project (17h)"
+    },
+    {
+      "No.": "3",
+      "Material Description": "https://www.coursera.org/learn/project-planning-google?specialization=google-project-management",
+      "Author": "",
+      "Publisher": "Coursera",
+      "Published Date": "",
+      "Edition": "",
+      "ISBN": "",
+      "Is Main Material": "True",
+      "Is Hard Copy": "False",
+      "Is Online": "True",
+      "Note": "Course 3: Project Planning: Putting It All Together (22h)"
+    },
+    {
+      "No.": "4",
+      "Material Description": "https://www.coursera.org/learn/project-execution-google?specialization=google-project-management",
+      "Author": "",
+      "Publisher": "Coursera",
+      "Published Date": "",
+      "Edition": "",
+      "ISBN": "",
+      "Is Main Material": "True",
+      "Is Hard Copy": "False",
+      "Is Online": "True",
+      "Note": "Course 4: Project Execution: Running the Project (24h)"
+    },
+    {
+      "No.": "5",
+      "Material Description": "https://www.coursera.org/learn/agile-project-management?specialization=google-project-management",
+      "Author": "",
+      "Publisher": "Coursera",
+      "Published Date": "",
+      "Edition": "",
+      "ISBN": "",
+      "Is Main Material": "True",
+      "Is Hard Copy": "False",
+      "Is Online": "True",
+      "Note": "Course 5: Agile Project Management (19h)"
+    },
+    {
+      "No.": "6",
+      "Material Description": "https://www.coursera.org/learn/applying-project-management?specialization=google-project-management",
+      "Author": "",
+      "Publisher": "Coursera",
+      "Published Date": "",
+      "Edition": "",
+      "ISBN": "",
+      "Is Main Material": "True",
+      "Is Hard Copy": "False",
+      "Is Online": "True",
+      "Note": "Course 6: Capstone: Applying Project Management in the Real World (40h)"
+    },
+    {
+      "No.": "7",
+      "Material Description": "https://www.coursera.org/learn/accelerate-your-job-search-with-ai?specialization=google-project-management",
+      "Author": "",
+      "Publisher": "Coursera",
+      "Published Date": "",
+      "Edition": "",
+      "ISBN": "",
+      "Is Main Material": "True",
+      "Is Hard Copy": "False",
+      "Is Online": "True",
+      "Note": "Course 7: Accelerate Your Job Search with AI (6h)"
+    },
+    {
+      "No.": "8",
+      "Material Description": "https://www.coursera.org/professional-certificates/google-project-management",
+      "Author": "",
+      "Publisher": "Coursera",
+      "Published Date": "",
+      "Edition": "",
+      "ISBN": "",
+      "Is Main Material": "True",
+      "Is Hard Copy": "False",
+      "Is Online": "True",
+      "Note": "Google Project Management Professional Certificate (140)"
+    }
+  ],
+  "source_path": "data/raw/syllabi/13696.html",
+  "id": "syllabus:13696"
+}

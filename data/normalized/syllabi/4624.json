@@ -1,0 +1,570 @@
+{
+  "syllabus_id": 4624,
+  "subject_code": "BDP301b",
+  "subject_name": "Blockchain Basics_Công nghệ blockchain cơ bản",
+  "syllabus_name": "Blockchain Basics_Công nghệ blockchain cơ bản",
+  "credits": 3,
+  "degree_level": "Bachelor",
+  "time_allocation": "45 hours (3 credits): - 29 online sessions (1 session = 90 minutes) - 1 offline session for Course Introduction - 1 final exam includes Theoretical Exam (60 minutes) and Practical Exam (120 minutes)",
+  "prerequisite": "PRO201, PRO192",
+  "general_information": {
+    "Syllabus ID": "4624",
+    "Syllabus Name": "Blockchain Basics_Công nghệ blockchain cơ bản",
+    "Course Name English": "",
+    "Subject Code": "BDP301b",
+    "Learning-Teaching Method": "",
+    "NoCredit": "3",
+    "Degree Level": "Bachelor",
+    "Time Allocation": "45 hours (3 credits): - 29 online sessions (1 session = 90 minutes) - 1 offline session for Course Introduction - 1 final exam includes Theoretical Exam (60 minutes) and Practical Exam (120 minutes)",
+    "Pre-Requisite": "PRO201, PRO192",
+    "Description": "The Blockchain basics is the first course of the Blockchain development in Finance program. The course aim to equip students with: development history, fundamental concepts, structure and operational principles of blockchain technology platform; definitions, structure, operational principles of Ethereum blockchain; security mechanisms, transaction authentication, block authentication, blockchain data integrity protection, trust elements and consensus mechanisms and protocols in the blockchain (Consensus). Students are guided to learn and practice with the Ethereum blockchain system",
+    "StudentTasks": "- Students should self-study all lessons on LMS in time - Pass all conditions before taking final exam in campus",
+    "Tools": "",
+    "Scoring Scale": "10",
+    "DecisionNo MM/dd/yyyy": "1293/QĐ-ĐHFPT dated 12/02/2020",
+    "IsApproved": "True",
+    "Note": "",
+    "Is Scored": "True",
+    "MinAvgMarkToPass": "5",
+    "IsActive": "True",
+    "ApprovedDate": "12/2/2020"
+  },
+  "active": true,
+  "approved": true,
+  "decision": "1293/QĐ-ĐHFPT dated 12/02/2020",
+  "description": "The Blockchain basics is the first course of the Blockchain development in Finance program. The course aim to equip students with: development history, fundamental concepts, structure and operational principles of blockchain technology platform; definitions, structure, operational principles of Ethereum blockchain; security mechanisms, transaction authentication, block authentication, blockchain data integrity protection, trust elements and consensus mechanisms and protocols in the blockchain (Consensus). Students are guided to learn and practice with the Ethereum blockchain system",
+  "learning_outcomes": [
+    {
+      "No.": "1",
+      "CLO Name": "CBDP301x_o1",
+      "CLO Details": "Understand the fundamental concepts of blockchain."
+    },
+    {
+      "No.": "2",
+      "CLO Name": "CBDP301x_o2",
+      "CLO Details": "Describe the blockchain and Bitcoin"
+    },
+    {
+      "No.": "3",
+      "CLO Name": "CBDP301x_o3",
+      "CLO Details": "Understand the structure of the blockchain"
+    },
+    {
+      "No.": "4",
+      "CLO Name": "CBDP301x_o4",
+      "CLO Details": "Understand the fundamental working mechanism of the blockchain platform"
+    },
+    {
+      "No.": "5",
+      "CLO Name": "CBDP301x_o5",
+      "CLO Details": "Describe other blockchain platforms"
+    },
+    {
+      "No.": "6",
+      "CLO Name": "CBDP301x_o6",
+      "CLO Details": "Practice the basic Linux commands"
+    },
+    {
+      "No.": "7",
+      "CLO Name": "CBDP301x_o7",
+      "CLO Details": "Enquery the block information in the Bitcoin platform"
+    },
+    {
+      "No.": "8",
+      "CLO Name": "CBDP301x_o8",
+      "CLO Details": "Understand the role of smart contract in the Ethereum blockchain platform"
+    },
+    {
+      "No.": "9",
+      "CLO Name": "CBDP301x_o9",
+      "CLO Details": "Understand the structure of the Ethereum blockchain platform"
+    },
+    {
+      "No.": "10",
+      "CLO Name": "CBDP301x_o10",
+      "CLO Details": "Understand the operational principles of Ethereum blockchain platform"
+    },
+    {
+      "No.": "11",
+      "CLO Name": "CBDP301x_o11",
+      "CLO Details": "Understand the incentive-based incentive model of the Ethereum blockchain platform"
+    },
+    {
+      "No.": "12",
+      "CLO Name": "CBDP301x_o12",
+      "CLO Details": "Understand the concept of asymmetric key encryption, the concept of hashing used in blockchain"
+    },
+    {
+      "No.": "13",
+      "CLO Name": "CBDP301x_o13",
+      "CLO Details": "Understand the usage of techniques and algorithms to authenticate, protect the integrity of transactions in the blockchain"
+    },
+    {
+      "No.": "14",
+      "CLO Name": "CBDP301x_o14",
+      "CLO Details": "Understand the usage of techniques and algorithms to authenticate and protect block integrity in blockchain"
+    },
+    {
+      "No.": "15",
+      "CLO Name": "CBDP301x_o15",
+      "CLO Details": "Understand the decentralized system used in the blockchain"
+    },
+    {
+      "No.": "16",
+      "CLO Name": "CBDP301x_o16",
+      "CLO Details": "Understand the consensus protocol in the blockchain"
+    },
+    {
+      "No.": "17",
+      "CLO Name": "CBDP301x_o17",
+      "CLO Details": "Understand how to eliminate double-spending in the blockchain"
+    },
+    {
+      "No.": "18",
+      "CLO Name": "CBDP301x_o18",
+      "CLO Details": "Understand the concept of hard fork and soft fork in blockchain"
+    },
+    {
+      "No.": "19",
+      "CLO Name": "CBDP301x_o19",
+      "CLO Details": "Practice the environment installation for the Ethereum blockchain"
+    },
+    {
+      "No.": "20",
+      "CLO Name": "CBDP301x_o20",
+      "CLO Details": "Practice transacting with the Ethereum blockchain system uses web interfaces"
+    },
+    {
+      "No.": "21",
+      "CLO Name": "CBDP301x_o21",
+      "CLO Details": "Practice transacting with the Ethereum blockchain system uses CLI"
+    }
+  ],
+  "assessments": [
+    {
+      "No.": "1",
+      "Category": "Assignment",
+      "Type": "on-going",
+      "Part": "3",
+      "Weight": "30.0%",
+      "Completion Criteria": ">0",
+      "Duration": "",
+      "CLO": "",
+      "Question Type": "Practical",
+      "No Question": "1 topic/1 assignment",
+      "Knowledge and Skill": "The previous lessons",
+      "Grading Guide": "Practice and submit the result on LMS",
+      "Note": "Assignment 1: 5% Assignment 2: 5% Assignment 3: 20%"
+    },
+    {
+      "No.": "2",
+      "Category": "Progress test",
+      "Type": "on-going",
+      "Part": "4",
+      "Weight": "10.0%",
+      "Completion Criteria": ">0",
+      "Duration": "1.5 minutes/question",
+      "CLO": "",
+      "Question Type": "Multiple choice",
+      "No Question": "",
+      "Knowledge and Skill": "Content of the lesson",
+      "Grading Guide": "Multiple choice on LMS",
+      "Note": ""
+    },
+    {
+      "No.": "3",
+      "Category": "Q&A with mentor",
+      "Type": "on-going",
+      "Part": "1",
+      "Weight": "10.0%",
+      "Completion Criteria": "10",
+      "Duration": "Within course duration",
+      "CLO": "All LOs",
+      "Question Type": "Q&A",
+      "No Question": "2 questions at least",
+      "Knowledge and Skill": "Everything related to the subject",
+      "Grading Guide": "Via facebook Hannah",
+      "Note": ""
+    },
+    {
+      "No.": "4",
+      "Category": "Quiz",
+      "Type": "on-going",
+      "Part": "1",
+      "Weight": "10.0%",
+      "Completion Criteria": "10",
+      "Duration": "2 minutes/quiz question",
+      "CLO": "",
+      "Question Type": "Multiple choice",
+      "No Question": "Depend on teachers",
+      "Knowledge and Skill": "Content of the lesson",
+      "Grading Guide": "Quiz on LMS",
+      "Note": ""
+    },
+    {
+      "No.": "5",
+      "Category": "Final Exam",
+      "Type": "Final exam",
+      "Part": "2",
+      "Weight": "40.0%",
+      "Completion Criteria": "4",
+      "Duration": "180'",
+      "CLO": "",
+      "Question Type": "Theoretical test: Multiple choices",
+      "No Question": "40 questions, 1-3 assignments",
+      "Knowledge and Skill": "The whole course content",
+      "Grading Guide": "In campus",
+      "Note": ""
+    }
+  ],
+  "schedule": [
+    {
+      "Session": "1",
+      "Topic": "Offline session 1: Course Introduction",
+      "Learning-Teaching Type": "Offline",
+      "LO": "",
+      "ITU": "",
+      "Student Materials": "",
+      "S-Download": "",
+      "Student's Tasks": "",
+      "URLs": ""
+    },
+    {
+      "Session": "2",
+      "Topic": "Lesson 1: Blockchain Quiz 1",
+      "Learning-Teaching Type": "Online",
+      "LO": "",
+      "ITU": "",
+      "Student Materials": "",
+      "S-Download": "",
+      "Student's Tasks": "",
+      "URLs": ""
+    },
+    {
+      "Session": "3",
+      "Topic": "Lesson 2: Bitcoin & Blockchain Quiz 2",
+      "Learning-Teaching Type": "Online",
+      "LO": "",
+      "ITU": "",
+      "Student Materials": "",
+      "S-Download": "",
+      "Student's Tasks": "",
+      "URLs": ""
+    },
+    {
+      "Session": "4",
+      "Topic": "Lesson 3: Blockchain Structure Quiz 3",
+      "Learning-Teaching Type": "Online",
+      "LO": "",
+      "ITU": "",
+      "Student Materials": "",
+      "S-Download": "",
+      "Student's Tasks": "",
+      "URLs": ""
+    },
+    {
+      "Session": "5",
+      "Topic": "Lesson 4: Basic Operations Quiz 4",
+      "Learning-Teaching Type": "Online",
+      "LO": "",
+      "ITU": "",
+      "Student Materials": "",
+      "S-Download": "",
+      "Student's Tasks": "",
+      "URLs": ""
+    },
+    {
+      "Session": "6",
+      "Topic": "Practice Lab 1: Basic Linux commands for beginers",
+      "Learning-Teaching Type": "Online",
+      "LO": "",
+      "ITU": "",
+      "Student Materials": "",
+      "S-Download": "",
+      "Student's Tasks": "",
+      "URLs": ""
+    },
+    {
+      "Session": "7",
+      "Topic": "Lesson 5: Beyond Bitcoin Quiz 5",
+      "Learning-Teaching Type": "Online",
+      "LO": "",
+      "ITU": "",
+      "Student Materials": "",
+      "S-Download": "",
+      "Student's Tasks": "",
+      "URLs": ""
+    },
+    {
+      "Session": "8",
+      "Topic": "Progress Test 1: Blockchain defined",
+      "Learning-Teaching Type": "Online",
+      "LO": "",
+      "ITU": "",
+      "Student Materials": "",
+      "S-Download": "",
+      "Student's Tasks": "",
+      "URLs": ""
+    },
+    {
+      "Session": "9",
+      "Topic": "Lesson 6: Smart Contracts Quiz 6",
+      "Learning-Teaching Type": "Online",
+      "LO": "",
+      "ITU": "",
+      "Student Materials": "",
+      "S-Download": "",
+      "Student's Tasks": "",
+      "URLs": ""
+    },
+    {
+      "Session": "10",
+      "Topic": "Lesson 7: Ethereum Structure Quiz 7",
+      "Learning-Teaching Type": "Online",
+      "LO": "",
+      "ITU": "",
+      "Student Materials": "",
+      "S-Download": "",
+      "Student's Tasks": "",
+      "URLs": ""
+    },
+    {
+      "Session": "11",
+      "Topic": "Lesson 8: Ethereum Operations Quiz 8",
+      "Learning-Teaching Type": "Online",
+      "LO": "",
+      "ITU": "",
+      "Student Materials": "",
+      "S-Download": "",
+      "Student's Tasks": "",
+      "URLs": ""
+    },
+    {
+      "Session": "12",
+      "Topic": "Lesson 9: Incentive Model Quiz 9",
+      "Learning-Teaching Type": "Online",
+      "LO": "",
+      "ITU": "",
+      "Student Materials": "",
+      "S-Download": "",
+      "Student's Tasks": "",
+      "URLs": ""
+    },
+    {
+      "Session": "13",
+      "Topic": "Progress Test 2: Ethereum Blockchain",
+      "Learning-Teaching Type": "Online",
+      "LO": "",
+      "ITU": "",
+      "Student Materials": "",
+      "S-Download": "",
+      "Student's Tasks": "",
+      "URLs": ""
+    },
+    {
+      "Session": "14",
+      "Topic": "Asignment 1: Using CLI to interative with blockchain platform",
+      "Learning-Teaching Type": "Online",
+      "LO": "",
+      "ITU": "",
+      "Student Materials": "",
+      "S-Download": "",
+      "Student's Tasks": "",
+      "URLs": ""
+    },
+    {
+      "Session": "15",
+      "Topic": "Asignment 1: Using CLI to interative with blockchain platform",
+      "Learning-Teaching Type": "Online",
+      "LO": "",
+      "ITU": "",
+      "Student Materials": "",
+      "S-Download": "",
+      "Student's Tasks": "",
+      "URLs": ""
+    },
+    {
+      "Session": "16",
+      "Topic": "Lesson 10: Public-Key Cryptography Quiz 10",
+      "Learning-Teaching Type": "Online",
+      "LO": "",
+      "ITU": "",
+      "Student Materials": "",
+      "S-Download": "",
+      "Student's Tasks": "",
+      "URLs": ""
+    },
+    {
+      "Session": "17",
+      "Topic": "Lesson 11: Hashing Quiz 11",
+      "Learning-Teaching Type": "Online",
+      "LO": "",
+      "ITU": "",
+      "Student Materials": "",
+      "S-Download": "",
+      "Student's Tasks": "",
+      "URLs": ""
+    },
+    {
+      "Session": "18",
+      "Topic": "Lesson 12: Transaction Integrity Quiz 12",
+      "Learning-Teaching Type": "Online",
+      "LO": "",
+      "ITU": "",
+      "Student Materials": "",
+      "S-Download": "",
+      "Student's Tasks": "",
+      "URLs": ""
+    },
+    {
+      "Session": "19",
+      "Topic": "Lesson 13: Securing Blockchain Quiz 13",
+      "Learning-Teaching Type": "Online",
+      "LO": "",
+      "ITU": "",
+      "Student Materials": "",
+      "S-Download": "",
+      "Student's Tasks": "",
+      "URLs": ""
+    },
+    {
+      "Session": "20",
+      "Topic": "Practice Lab 2: Setup Ethereum Ubuntu",
+      "Learning-Teaching Type": "Online",
+      "LO": "",
+      "ITU": "",
+      "Student Materials": "",
+      "S-Download": "",
+      "Student's Tasks": "",
+      "URLs": ""
+    },
+    {
+      "Session": "21",
+      "Topic": "Progress Test 3: Algorithms and Techniques Lesson 14: Decentralized Systems Quiz 14",
+      "Learning-Teaching Type": "Online",
+      "LO": "",
+      "ITU": "",
+      "Student Materials": "",
+      "S-Download": "",
+      "Student's Tasks": "",
+      "URLs": ""
+    },
+    {
+      "Session": "22",
+      "Topic": "Lesson 15: Consensus Protocol Quiz 15",
+      "Learning-Teaching Type": "Online",
+      "LO": "",
+      "ITU": "",
+      "Student Materials": "",
+      "S-Download": "",
+      "Student's Tasks": "",
+      "URLs": ""
+    },
+    {
+      "Session": "23",
+      "Topic": "Lesson 16: Robustness Quiz 16",
+      "Learning-Teaching Type": "Online",
+      "LO": "",
+      "ITU": "",
+      "Student Materials": "",
+      "S-Download": "",
+      "Student's Tasks": "",
+      "URLs": ""
+    },
+    {
+      "Session": "24",
+      "Topic": "Lesson 17: Forks Quiz 17",
+      "Learning-Teaching Type": "Online",
+      "LO": "",
+      "ITU": "",
+      "Student Materials": "",
+      "S-Download": "",
+      "Student's Tasks": "",
+      "URLs": ""
+    },
+    {
+      "Session": "25",
+      "Topic": "Practice lab 3: Practice with ethereum CLI - Geth Progress Test 4: Trust Essentials",
+      "Learning-Teaching Type": "Online",
+      "LO": "",
+      "ITU": "",
+      "Student Materials": "",
+      "S-Download": "",
+      "Student's Tasks": "",
+      "URLs": ""
+    },
+    {
+      "Session": "26",
+      "Topic": "Asignment 2: Getting Started with Blockchain Ethereum",
+      "Learning-Teaching Type": "Online",
+      "LO": "",
+      "ITU": "",
+      "Student Materials": "",
+      "S-Download": "",
+      "Student's Tasks": "",
+      "URLs": ""
+    },
+    {
+      "Session": "27",
+      "Topic": "Asignment 3: Build and Transact on Private Ethereum Blockchain",
+      "Learning-Teaching Type": "Online",
+      "LO": "",
+      "ITU": "",
+      "Student Materials": "",
+      "S-Download": "",
+      "Student's Tasks": "",
+      "URLs": ""
+    },
+    {
+      "Session": "28",
+      "Topic": "Asignment 3: Build and Transact on Private Ethereum Blockchain",
+      "Learning-Teaching Type": "Online",
+      "LO": "",
+      "ITU": "",
+      "Student Materials": "",
+      "S-Download": "",
+      "Student's Tasks": "",
+      "URLs": ""
+    },
+    {
+      "Session": "29",
+      "Topic": "Asignment 3: Build and Transact on Private Ethereum Blockchain",
+      "Learning-Teaching Type": "Online",
+      "LO": "",
+      "ITU": "",
+      "Student Materials": "",
+      "S-Download": "",
+      "Student's Tasks": "",
+      "URLs": ""
+    },
+    {
+      "Session": "30",
+      "Topic": "Course review",
+      "Learning-Teaching Type": "Online",
+      "LO": "",
+      "ITU": "",
+      "Student Materials": "",
+      "S-Download": "",
+      "Student's Tasks": "",
+      "URLs": ""
+    }
+  ],
+  "constructive_questions": [],
+  "materials": [
+    {
+      "No.": "1",
+      "Material Description": "FU LMS Course Link: https://fu.funix.edu.vn/courses/course-v1:FUG+BDP301x_01_EN+2019_T9/course/",
+      "Author": "",
+      "Publisher": "",
+      "Published Date": "",
+      "Edition": "",
+      "ISBN": "",
+      "Is Main Material": "True",
+      "Is Hard Copy": "True",
+      "Is Online": "False",
+      "Note": ""
+    }
+  ],
+  "source_path": "data/raw/syllabi/4624.html",
+  "id": "syllabus:4624"
+}

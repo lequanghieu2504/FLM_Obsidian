@@ -1,0 +1,811 @@
+{
+  "syllabus_id": 5169,
+  "subject_code": "SWD391",
+  "subject_name": "Software Architecture and Design",
+  "syllabus_name": "SW Architecture and Design_Kiến trúc và Thiết kế phần mềm",
+  "credits": 3,
+  "degree_level": "Bachelor",
+  "time_allocation": "Contact time: 30 sessions; 1 session = 90' Lectures: 13 Tutorials: 17",
+  "prerequisite": "SWE102 or SWE201c",
+  "general_information": {
+    "Syllabus ID": "5169",
+    "Syllabus Name": "SW Architecture and Design_Kiến trúc và Thiết kế phần mềm",
+    "Course Name English": "",
+    "Subject Code": "SWD391",
+    "Learning-Teaching Method": "",
+    "NoCredit": "3",
+    "Degree Level": "Bachelor",
+    "Time Allocation": "Contact time: 30 sessions; 1 session = 90' Lectures: 13 Tutorials: 17",
+    "Pre-Requisite": "SWE102 or SWE201c",
+    "Description": "This course covers a set of important software design methodologies, architectural styles, design guidelines and design tools. Java is used to explain design principles and present case studies.",
+    "StudentTasks": "- Students must attend at least 80% of contact slots in order to be accepted to the final examination. '- Student is responsible to do all exercises given by instructor in class or at home and submit on time - Constantly follow announcements on intranet/CMS at http://cms.fpt.edu.vn for up-to-date course information regarding assignment submission and feedback on assignments and project work.",
+    "Tools": "",
+    "Scoring Scale": "10",
+    "DecisionNo MM/dd/yyyy": "1485/QĐ-ĐH-FPT dated 12/31/2021",
+    "IsApproved": "True",
+    "Note": "",
+    "Is Scored": "True",
+    "MinAvgMarkToPass": "5",
+    "IsActive": "True",
+    "ApprovedDate": "12/31/2021"
+  },
+  "active": true,
+  "approved": true,
+  "decision": "1485/QĐ-ĐH-FPT dated 12/31/2021",
+  "description": "This course covers a set of important software design methodologies, architectural styles, design guidelines and design tools. Java is used to explain design principles and present case studies.",
+  "learning_outcomes": [
+    {
+      "No.": "1",
+      "CLO Name": "CLO1",
+      "CLO Details": "Map the software system requirements into architecture design: apply various design strategies to devide and conquer the complexities of an application domain and resolve software architecture."
+    },
+    {
+      "No.": "2",
+      "CLO Name": "CLO2",
+      "CLO Details": "Model the system and assess its quality so the the improvements can be made before the software goes into the production phase"
+    },
+    {
+      "No.": "3",
+      "CLO Name": "CLO3",
+      "CLO Details": "Describe (document) the elements of system, the modules, that compose each element and the detailed information of each modules"
+    }
+  ],
+  "assessments": [
+    {
+      "No.": "1",
+      "Category": "Assignment",
+      "Type": "on-going",
+      "Part": "2",
+      "Weight": "30.0%",
+      "Completion Criteria": ">0",
+      "Duration": "Option 1: open; Option 2 (For Constructivism Approach only): Follow lecturer's proposal",
+      "CLO": "",
+      "Question Type": "Option 1: open; Option 2 (For Constructivism Approach only): Follow lecturer's proposal",
+      "No Question": "Option 1: N/A; Option 2 (For Constructivism Approach only): Follow lecturer's proposal",
+      "Knowledge and Skill": "Design skills",
+      "Grading Guide": "guided by instructor",
+      "Note": "continued at home and then submited on due date"
+    },
+    {
+      "No.": "2",
+      "Category": "Progress test",
+      "Type": "on-going",
+      "Part": "3",
+      "Weight": "30.0%",
+      "Completion Criteria": ">0",
+      "Duration": "Option 1: 30'; Option 2 (For Constructivism Approach only): Follow lecturer's proposal",
+      "CLO": "",
+      "Question Type": "Option 1: MC or a suitable format; Option 2 (For Constructivism Approach only): Follow lecturer's proposal",
+      "No Question": "Option 1: 30; Option 2 (For Constructivism Approach only): Follow lecturer's proposal",
+      "Knowledge and Skill": "studied chapters knowledge and skills",
+      "Grading Guide": "by insntructor",
+      "Note": ""
+    },
+    {
+      "No.": "3",
+      "Category": "Final exam",
+      "Type": "Final exam",
+      "Part": "1",
+      "Weight": "40.0%",
+      "Completion Criteria": "4",
+      "Duration": "60",
+      "CLO": "",
+      "Question Type": "Computer gradable",
+      "No Question": "60",
+      "Knowledge and Skill": "all chapters; knowledge and skills to solve management problem; more than 70% new questions (for the current semester);",
+      "Grading Guide": "by Exam board",
+      "Note": ""
+    }
+  ],
+  "schedule": [
+    {
+      "Session": "1",
+      "Topic": "Course introduction",
+      "Learning-Teaching Type": "Offline",
+      "LO": "",
+      "ITU": "IT",
+      "Student Materials": "Book Chapter 1",
+      "S-Download": "SWD391",
+      "Student's Tasks": "Do exercises, selft-review, CMS",
+      "URLs": ""
+    },
+    {
+      "Session": "2",
+      "Topic": "Introduction to Software Architecture",
+      "Learning-Teaching Type": "Offline",
+      "LO": "",
+      "ITU": "IT",
+      "Student Materials": "Book Chapter 1",
+      "S-Download": "SWD391",
+      "Student's Tasks": "Do exercises, selft-review, CMS",
+      "URLs": ""
+    },
+    {
+      "Session": "3",
+      "Topic": "Guide Exercises Chapter and Exercises Review",
+      "Learning-Teaching Type": "Offline",
+      "LO": "",
+      "ITU": "IT",
+      "Student Materials": "Book Chapter 2",
+      "S-Download": "",
+      "Student's Tasks": "Do exercises, selft-review, CMS",
+      "URLs": ""
+    },
+    {
+      "Session": "4",
+      "Topic": "Software Architecture Design Space",
+      "Learning-Teaching Type": "Offline",
+      "LO": "",
+      "ITU": "IT",
+      "Student Materials": "Book Chapter 2",
+      "S-Download": "",
+      "Student's Tasks": "Do exercises, selft-review, CMS",
+      "URLs": ""
+    },
+    {
+      "Session": "5",
+      "Topic": "Guide Exercises Guide Design Assignment 1",
+      "Learning-Teaching Type": "Offline",
+      "LO": "",
+      "ITU": "IT",
+      "Student Materials": "Book Chapter 2",
+      "S-Download": "",
+      "Student's Tasks": "",
+      "URLs": ""
+    },
+    {
+      "Session": "6",
+      "Topic": "Chapter and Exercises Review Models for Software Architecture",
+      "Learning-Teaching Type": "Offline",
+      "LO": "",
+      "ITU": "IT",
+      "Student Materials": "Book Chapter 3",
+      "S-Download": "",
+      "Student's Tasks": "Do exercises, selft-review, assignment, CMS",
+      "URLs": ""
+    },
+    {
+      "Session": "7",
+      "Topic": "Guide Exercises",
+      "Learning-Teaching Type": "Offline",
+      "LO": "",
+      "ITU": "IT",
+      "Student Materials": "Book Chapter 3",
+      "S-Download": "",
+      "Student's Tasks": "Do exercises, selft-review, assignment, CMS",
+      "URLs": ""
+    },
+    {
+      "Session": "8",
+      "Topic": "Chapter and Exercises Review Object Oriented Software Design Methodoloy",
+      "Learning-Teaching Type": "Offline",
+      "LO": "",
+      "ITU": "IT",
+      "Student Materials": "Book Chapter 4",
+      "S-Download": "",
+      "Student's Tasks": "Do exercises, selft-review, assignment, CMS",
+      "URLs": ""
+    },
+    {
+      "Session": "9",
+      "Topic": "Guide Exercises",
+      "Learning-Teaching Type": "Offline",
+      "LO": "",
+      "ITU": "IT",
+      "Student Materials": "Book Chapter 4",
+      "S-Download": "",
+      "Student's Tasks": "Do exercises, selft-review, assignment, CMS",
+      "URLs": ""
+    },
+    {
+      "Session": "10",
+      "Topic": "Progress test 1 (Chapters 1, 2, 3, 4) Chapter and Exercises Review",
+      "Learning-Teaching Type": "Offline",
+      "LO": "",
+      "ITU": "IT",
+      "Student Materials": "Book Chapter 5",
+      "S-Download": "",
+      "Student's Tasks": "Do exercises, selft-review, assignment, CMS",
+      "URLs": ""
+    },
+    {
+      "Session": "11",
+      "Topic": "Data Flow Architecture Guide Exercises",
+      "Learning-Teaching Type": "Offline",
+      "LO": "",
+      "ITU": "IT",
+      "Student Materials": "Book Chapter 5",
+      "S-Download": "",
+      "Student's Tasks": "Do exercises, selft-review, assignment, CMS",
+      "URLs": ""
+    },
+    {
+      "Session": "12",
+      "Topic": "Chapter and Exercises Review",
+      "Learning-Teaching Type": "Offline",
+      "LO": "",
+      "ITU": "IT",
+      "Student Materials": "Book Chapter 6",
+      "S-Download": "",
+      "Student's Tasks": "Do exercises, selft-review, CMS Submit Assignment 1",
+      "URLs": ""
+    },
+    {
+      "Session": "13",
+      "Topic": "Models for Software Architecture Guide Exercises Guide Design Assignment 2",
+      "Learning-Teaching Type": "Offline",
+      "LO": "",
+      "ITU": "IT",
+      "Student Materials": "Book Chapter 6",
+      "S-Download": "",
+      "Student's Tasks": "",
+      "URLs": ""
+    },
+    {
+      "Session": "14",
+      "Topic": "Chapter and Exercises Review",
+      "Learning-Teaching Type": "Offline",
+      "LO": "",
+      "ITU": "IT",
+      "Student Materials": "",
+      "S-Download": "",
+      "Student's Tasks": "",
+      "URLs": ""
+    },
+    {
+      "Session": "15",
+      "Topic": "Hierarchy Architecture",
+      "Learning-Teaching Type": "Offline",
+      "LO": "",
+      "ITU": "IT",
+      "Student Materials": "Book Chapter 7",
+      "S-Download": "",
+      "Student's Tasks": "Do exercises, selft-review, assignment, CMS",
+      "URLs": ""
+    },
+    {
+      "Session": "16",
+      "Topic": "Guide Exercises Chapter and Exercises Review",
+      "Learning-Teaching Type": "Offline",
+      "LO": "",
+      "ITU": "IT",
+      "Student Materials": "Book Chapter 7",
+      "S-Download": "",
+      "Student's Tasks": "Do exercises, selft-review, assignment, CMS",
+      "URLs": ""
+    },
+    {
+      "Session": "17",
+      "Topic": "Implicit Asynchronous Communication Software Architecture",
+      "Learning-Teaching Type": "Offline",
+      "LO": "",
+      "ITU": "IT",
+      "Student Materials": "Book Chapter 8",
+      "S-Download": "",
+      "Student's Tasks": "Do exercises, selft-review, assignment, CMS",
+      "URLs": ""
+    },
+    {
+      "Session": "18",
+      "Topic": "Guide Exercises",
+      "Learning-Teaching Type": "Offline",
+      "LO": "",
+      "ITU": "IT",
+      "Student Materials": "Book Chapter 8",
+      "S-Download": "",
+      "Student's Tasks": "Do exercises, selft-review, assignment, CMS",
+      "URLs": ""
+    },
+    {
+      "Session": "19",
+      "Topic": "Progress test 2 (Chapters 5,6,7,8) Chapter and Exercises Review",
+      "Learning-Teaching Type": "Offline",
+      "LO": "",
+      "ITU": "IT",
+      "Student Materials": "Book Chapter 9",
+      "S-Download": "",
+      "Student's Tasks": "Do exercises, selft-review, assignment, CMS",
+      "URLs": ""
+    },
+    {
+      "Session": "20",
+      "Topic": "Interaction Oriented Software Architecture Guide Exercises",
+      "Learning-Teaching Type": "Offline",
+      "LO": "",
+      "ITU": "IT",
+      "Student Materials": "Book Chapter 9",
+      "S-Download": "",
+      "Student's Tasks": "Do exercises, selft-review, assignment, CMS",
+      "URLs": ""
+    },
+    {
+      "Session": "21",
+      "Topic": "Chapter and Exercises Review",
+      "Learning-Teaching Type": "Offline",
+      "LO": "",
+      "ITU": "IT",
+      "Student Materials": "Book Chapter 10",
+      "S-Download": "",
+      "Student's Tasks": "Do exercises, selft-review, assignment, CMS",
+      "URLs": ""
+    },
+    {
+      "Session": "22",
+      "Topic": "Distributed Architecture Guide Exercises",
+      "Learning-Teaching Type": "Offline",
+      "LO": "",
+      "ITU": "IT",
+      "Student Materials": "Book Chapter 10",
+      "S-Download": "",
+      "Student's Tasks": "Do exercises, selft-review, assignment, CMS",
+      "URLs": ""
+    },
+    {
+      "Session": "23",
+      "Topic": "Chapter, Exercises, Quiz/Test Review",
+      "Learning-Teaching Type": "Offline",
+      "LO": "",
+      "ITU": "IT",
+      "Student Materials": "Book Chapter 11",
+      "S-Download": "",
+      "Student's Tasks": "Do exercises, selft-review, assignment, CMS",
+      "URLs": ""
+    },
+    {
+      "Session": "24",
+      "Topic": "Component-Based Software Architecture",
+      "Learning-Teaching Type": "Offline",
+      "LO": "",
+      "ITU": "IT",
+      "Student Materials": "Book Chapter 11",
+      "S-Download": "",
+      "Student's Tasks": "Do exercises, selft-review, assignment, CMS Submit Asignment 2",
+      "URLs": ""
+    },
+    {
+      "Session": "25",
+      "Topic": "Guide Exercises",
+      "Learning-Teaching Type": "Offline",
+      "LO": "",
+      "ITU": "IT",
+      "Student Materials": "Book Chapter 11",
+      "S-Download": "",
+      "Student's Tasks": "Do exercises, selft-review, assignment, CMS Submit Asignment 2",
+      "URLs": ""
+    },
+    {
+      "Session": "26",
+      "Topic": "Heterogeneous Architecture",
+      "Learning-Teaching Type": "Offline",
+      "LO": "",
+      "ITU": "IT",
+      "Student Materials": "Book Chapter 12",
+      "S-Download": "",
+      "Student's Tasks": "Do exercises, selft-review, assignment, CMS",
+      "URLs": ""
+    },
+    {
+      "Session": "27",
+      "Topic": "Guide Exercises",
+      "Learning-Teaching Type": "Offline",
+      "LO": "",
+      "ITU": "IT",
+      "Student Materials": "Book Chapter 12",
+      "S-Download": "",
+      "Student's Tasks": "Do exercises, selft-review, assignment, CMS",
+      "URLs": ""
+    },
+    {
+      "Session": "28",
+      "Topic": "Progress test (Chapters 9,10,11, 12) Chapter and Exercises Review",
+      "Learning-Teaching Type": "Offline",
+      "LO": "",
+      "ITU": "IT",
+      "Student Materials": "Book Chapter 13, 14",
+      "S-Download": "",
+      "Student's Tasks": "Do exercises, selft-review, assignment, CMS Prepare for FE",
+      "URLs": ""
+    },
+    {
+      "Session": "29",
+      "Topic": "Architecture of Graphical User Interfaces Product Line Architectures",
+      "Learning-Teaching Type": "Offline",
+      "LO": "",
+      "ITU": "IT",
+      "Student Materials": "Book Chapter 13, 14",
+      "S-Download": "",
+      "Student's Tasks": "Do exercises, selft-review, assignment, CMS Prepare for FE",
+      "URLs": ""
+    },
+    {
+      "Session": "30",
+      "Topic": "Course wrap-up",
+      "Learning-Teaching Type": "Offline",
+      "LO": "",
+      "ITU": "IT",
+      "Student Materials": "",
+      "S-Download": "",
+      "Student's Tasks": "",
+      "URLs": ""
+    }
+  ],
+  "constructive_questions": [
+    {
+      "No.": "1",
+      "Session No": "1",
+      "Name": "CQ1",
+      "Details": "What is a simplified software development life cycle? Please explain these step in detail"
+    },
+    {
+      "No.": "2",
+      "Session No": "1",
+      "Name": "CQ2",
+      "Details": "Why do we need to do software architecture design in developing a software project?"
+    },
+    {
+      "No.": "3",
+      "Session No": "1",
+      "Name": "CQ3",
+      "Details": "What is the keys components of architecture styles? What are the tasks of a softfware architecture?"
+    },
+    {
+      "No.": "4",
+      "Session No": "1",
+      "Name": "CQ4",
+      "Details": "What are three most important elements in Software Quality? Please explain with your answers"
+    },
+    {
+      "No.": "5",
+      "Session No": "2",
+      "Name": "CQ1",
+      "Details": "What are the relationship between software requirements and architecture?"
+    },
+    {
+      "No.": "6",
+      "Session No": "2",
+      "Name": "CQ2",
+      "Details": "What are the relationship between architectural styles and architecture?"
+    },
+    {
+      "No.": "7",
+      "Session No": "2",
+      "Name": "CQ3",
+      "Details": "What is the quality attributes trade-off?"
+    },
+    {
+      "No.": "8",
+      "Session No": "2",
+      "Name": "CQ4",
+      "Details": "What are differences between static and dynamic structure? What are differences between Deployment and Management structure?"
+    },
+    {
+      "No.": "9",
+      "Session No": "3",
+      "Name": "CQ1",
+      "Details": "What is software connector? and How can we classify the software connector?"
+    },
+    {
+      "No.": "10",
+      "Session No": "3",
+      "Name": "CQ2",
+      "Details": "What is the reentrant and not reentrant elements?"
+    },
+    {
+      "No.": "11",
+      "Session No": "3",
+      "Name": "CQ3",
+      "Details": "Can you describe the software architecture design of sample Agile project? Plese describe these steps in detail"
+    },
+    {
+      "No.": "12",
+      "Session No": "3",
+      "Name": "CQ4",
+      "Details": "What is the Structural Diagrams? What is the Behavioral Diagrams?"
+    },
+    {
+      "No.": "13",
+      "Session No": "4",
+      "Name": "CQ1",
+      "Details": "How to find the classes for buliding the Class Diagram?"
+    },
+    {
+      "No.": "14",
+      "Session No": "4",
+      "Name": "CQ2",
+      "Details": "In order to bulid an Usecase diagram (by UML), what are question you should ask to determine: + Use-cases + Actors + Relations between the actors + Relations between the use-cases"
+    },
+    {
+      "No.": "15",
+      "Session No": "4",
+      "Name": "CQ3",
+      "Details": "What are difference between deployment diagram and package diagram?"
+    },
+    {
+      "No.": "16",
+      "Session No": "4",
+      "Name": "CQ4",
+      "Details": "Why do we need to use a usecase diagram in developing a software project? Describe usecase diagram for course registration system"
+    },
+    {
+      "No.": "17",
+      "Session No": "6",
+      "Name": "CQ1",
+      "Details": "What is the activity digram, and when should we use it?"
+    },
+    {
+      "No.": "18",
+      "Session No": "6",
+      "Name": "CQ2",
+      "Details": "What is the significance of sequence diagram? Why it is used the most for What is the significance of sequence diagram"
+    },
+    {
+      "No.": "19",
+      "Session No": "6",
+      "Name": "CQ3",
+      "Details": "What is the The 4+1 view model ? Describe each component in detail"
+    },
+    {
+      "No.": "20",
+      "Session No": "6",
+      "Name": "CQ4",
+      "Details": "What are diffrence between component diagram and sequene diagram?"
+    },
+    {
+      "No.": "21",
+      "Session No": "7",
+      "Name": "CQ1",
+      "Details": "What are three principles of OO Design? which one do you think it is the most important?"
+    },
+    {
+      "No.": "22",
+      "Session No": "7",
+      "Name": "CQ2",
+      "Details": "What is the encapsulation principle and its benefits ? Please decribes a typical example"
+    },
+    {
+      "No.": "23",
+      "Session No": "7",
+      "Name": "CQ3",
+      "Details": "What is the Inheritance principle and its benefits ? Please decribes a typical example"
+    },
+    {
+      "No.": "24",
+      "Session No": "7",
+      "Name": "CQ4",
+      "Details": "What is the Polymorphism principle and its benefits ? Please decribes a typical example"
+    },
+    {
+      "No.": "25",
+      "Session No": "8",
+      "Name": "CQ1",
+      "Details": "How many common relationship between two classes in OOP? How can we determine which one should we use?"
+    },
+    {
+      "No.": "26",
+      "Session No": "8",
+      "Name": "CQ2",
+      "Details": "What are SOLID principles in OO methodology: Explanation and Examples? In your opinion, which principle is the most important? (Students listen to the presentation and ask the question to your friends.)"
+    },
+    {
+      "No.": "27",
+      "Session No": "8",
+      "Name": "CQ3",
+      "Details": "Why do we need to design an architecture with high cohension and low coupling?"
+    },
+    {
+      "No.": "28",
+      "Session No": "10",
+      "Name": "CQ1",
+      "Details": "What are the advantages and disadvantages of Data Flow Architecture Style? How to overcome (and example) the mentioned-disadvantages?"
+    },
+    {
+      "No.": "29",
+      "Session No": "10",
+      "Name": "CQ2",
+      "Details": "What are Batch Sequential and its benefits?"
+    },
+    {
+      "No.": "30",
+      "Session No": "10",
+      "Name": "CQ3",
+      "Details": "What are Pipe and Filter and its benefits?"
+    },
+    {
+      "No.": "31",
+      "Session No": "10",
+      "Name": "CQ4",
+      "Details": "Apply the data flow architecture style to the applicable domains in the university admission processing system which covers application checking and validation per university-wide and department-wide requirements, finance requirements, additional information inquiry, decision notification, and other admission processing?"
+    },
+    {
+      "No.": "32",
+      "Session No": "11",
+      "Name": "CQ1",
+      "Details": "What are Process Control and its benefits?"
+    },
+    {
+      "No.": "33",
+      "Session No": "11",
+      "Name": "CQ2",
+      "Details": "Explain the Batch Sequential in Business Data Processing in the presentation slide (#11, chapter 5)?"
+    },
+    {
+      "No.": "34",
+      "Session No": "11",
+      "Name": "CQ3",
+      "Details": "Using the Java program to implement Pipe and filter? explain your codes"
+    },
+    {
+      "No.": "35",
+      "Session No": "12",
+      "Name": "CQ1",
+      "Details": "List and explain the benefits and limitations of data centered software architecture? Give examples. Note: Students listen to the presentation and ask the question to your friends."
+    },
+    {
+      "No.": "36",
+      "Session No": "12",
+      "Name": "CQ2",
+      "Details": "List and explain the similarities and differences between repository and blackboard architectures? Give examples. Note: Students listen to the presentation and ask the question to your friends."
+    },
+    {
+      "No.": "37",
+      "Session No": "13",
+      "Name": "CQ1",
+      "Details": "Review the theory and findout one typical example with using blackboard architecture. Please explain your example in detail?"
+    },
+    {
+      "No.": "38",
+      "Session No": "13",
+      "Name": "CQ2",
+      "Details": "Review the theory and findout one typical example with using repository architecture. Please explain your example in detail?"
+    },
+    {
+      "No.": "39",
+      "Session No": "14",
+      "Name": "CQ1",
+      "Details": "List and explain the benefits and limitations of Main-Subroutine Architecture? Give examples."
+    },
+    {
+      "No.": "40",
+      "Session No": "14",
+      "Name": "CQ2",
+      "Details": "List and explain the benefits and limitations of Master-Slave Architecture? Give examples."
+    },
+    {
+      "No.": "41",
+      "Session No": "15",
+      "Name": "CQ1",
+      "Details": "List and explain the benefits and limitations of Layered Architecture? Give examples."
+    },
+    {
+      "No.": "42",
+      "Session No": "15",
+      "Name": "CQ2",
+      "Details": "List and explain the benefits and limitations of Virtual Machine ? Give examples."
+    },
+    {
+      "No.": "43",
+      "Session No": "16",
+      "Name": "CQ1",
+      "Details": "List and explain the benefits and limitations of non-buffered event-based architecture? Give examples."
+    },
+    {
+      "No.": "44",
+      "Session No": "16",
+      "Name": "CQ2",
+      "Details": "List and explain the benefits and limitations of buffered message-based architectures? Give examples."
+    },
+    {
+      "No.": "45",
+      "Session No": "17",
+      "Name": "CQ1",
+      "Details": "List and explain the benefits and limitations of the asynchronous software architecture? Give examples."
+    },
+    {
+      "No.": "46",
+      "Session No": "17",
+      "Name": "CQ2",
+      "Details": "List and explain the benefits and limitations of the MVC architecture? Give examples."
+    },
+    {
+      "No.": "47",
+      "Session No": "19",
+      "Name": "CQ1",
+      "Details": "How to design the software architecture for an online course registration system using the PAC architecture? Draw the corresponding block diagram, class diagram, and either a sequence or collaboration diagram. *Note: Students listen to the presentation and ask the question to your friends."
+    },
+    {
+      "No.": "48",
+      "Session No": "19",
+      "Name": "CQ2",
+      "Details": "What are the difference between MVC-I and MVC-II? Explain and give examples"
+    },
+    {
+      "No.": "49",
+      "Session No": "20",
+      "Name": "CQ1",
+      "Details": "what are differ between mvc and mvvm? give examples"
+    },
+    {
+      "No.": "50",
+      "Session No": "20",
+      "Name": "CQ2",
+      "Details": "How to design the software architecture for a student online registration system using the MVC architecture? Draw the corresponding block diagram, class diagram, and either a sequence or collaboration diagram. *Note: Students listen to the presentation and ask the question to your friends."
+    },
+    {
+      "No.": "51",
+      "Session No": "21",
+      "Name": "CQ1",
+      "Details": "What is Broker architecture? give example"
+    },
+    {
+      "No.": "52",
+      "Session No": "21",
+      "Name": "CQ2",
+      "Details": "How to design a stock exchange application using the broker architecture? Assume that the existing stockbroker legacy systems vary in platform, language, and technology. For example, some systems are implemented in Java and the others reimplemented in .NET. *Note: Students listen to the presentation and ask the question to your friends."
+    },
+    {
+      "No.": "53",
+      "Session No": "22",
+      "Name": "CQ1",
+      "Details": "What is a Service oriented architecture? and give example"
+    },
+    {
+      "No.": "54",
+      "Session No": "22",
+      "Name": "CQ2",
+      "Details": "How to design a travel agency application software using SOA? The application helps customers make travel plans including air, hotel, car rental, attraction visits, and time schedules. This application makes use of existing web services of airlines, car rentals, hotels, and attractions. *Note: Students listen to the presentation and ask the question to your friends."
+    },
+    {
+      "No.": "55",
+      "Session No": "23",
+      "Name": "CQ1",
+      "Details": "What is Client-Server architecture? Give example"
+    },
+    {
+      "No.": "56",
+      "Session No": "23",
+      "Name": "CQ2",
+      "Details": "What is Multi-Tiers architecture? Give example"
+    },
+    {
+      "No.": "57",
+      "Session No": "24",
+      "Name": "CQ1",
+      "Details": "What is A Component? and give example"
+    },
+    {
+      "No.": "58",
+      "Session No": "24",
+      "Name": "CQ2",
+      "Details": "What is a Component-Based Design Principles? give examples"
+    },
+    {
+      "No.": "59",
+      "Session No": "25",
+      "Name": "CQ1",
+      "Details": "What are benefit and limitation of Component-based architecture?"
+    },
+    {
+      "No.": "60",
+      "Session No": "25",
+      "Name": "CQ2",
+      "Details": "What is Component-oriented design?"
+    }
+  ],
+  "materials": [
+    {
+      "No.": "1",
+      "Material Description": "Software Architecture and Design Illuminated",
+      "Author": "Kai Qian, PhD, Southern Polytechnic State University, Xiang Fu, Hofstra University, Lixin Tao, Pace University, Chong-wei Xu, Kennesaw State University, Jorge Diaz-Herrera, Rochester Institute of Technology",
+      "Publisher": "Jones & Bartlett Learning",
+      "Published Date": "March 5, 2009",
+      "Edition": "1st edition",
+      "ISBN": "978-076375-420-4",
+      "Is Main Material": "True",
+      "Is Hard Copy": "True",
+      "Is Online": "False",
+      "Note": ""
+    }
+  ],
+  "source_path": "data/raw/syllabi/5169.html",
+  "id": "syllabus:5169"
+}

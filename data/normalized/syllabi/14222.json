@@ -1,0 +1,343 @@
+{
+  "syllabus_id": 14222,
+  "subject_code": "SAP490",
+  "subject_name": "SAP Interdisciplinary Capstone Project_Đồ án liên ngành SAP",
+  "syllabus_name": "SAP Interdisciplinary Capstone Project_Đồ án liên ngành SAP",
+  "credits": 10,
+  "degree_level": "Bachelor",
+  "time_allocation": "Study hour (500h) = 33.75h contact hours (1newslot/week*15week) + 1.5h capstone project defense + 464.75h self-study",
+  "prerequisite": "o Pass SAP331 (BA), SAP341 (IT) o Complete (*) other subjects of combo SAP and PMG20xc (x = 1, 2) o Chuyên ngành BIT_SE: SWP391 o Chuyên ngành BIT_IS: ISP392 o Pass OJT202/OJB202 (not apply to international students) o Pass 80% of total credits (PHE_COM* and OJT excluded) (*): GPA must be greater than or equal to 4.",
+  "general_information": {
+    "Syllabus ID": "14222",
+    "Syllabus Name": "SAP Interdisciplinary Capstone Project_Đồ án liên ngành SAP",
+    "Course Name English": "SAP Interdisciplinary Capstone Project",
+    "Subject Code": "SAP490",
+    "Learning-Teaching Method": "Inquiry-based Teaching,Experiential learning methods,Project Based Training",
+    "NoCredit": "10",
+    "Degree Level": "Bachelor",
+    "Time Allocation": "Study hour (500h) = 33.75h contact hours (1newslot/week*15week) + 1.5h capstone project defense + 464.75h self-study",
+    "Pre-Requisite": "o Pass SAP331 (BA), SAP341 (IT) o Complete (*) other subjects of combo SAP and PMG20xc (x = 1, 2) o Chuyên ngành BIT_SE: SWP391 o Chuyên ngành BIT_IS: ISP392 o Pass OJT202/OJB202 (not apply to international students) o Pass 80% of total credits (PHE_COM* and OJT excluded) (*): GPA must be greater than or equal to 4.",
+    "Description": "The SAP inter-disciplinary capstone project provides IT and BA students with important skills and initial experiences in participating in the SAP projects. With the team size of 3-5 members (*), student can apply knowledges and skills they have learned to the real current projects, including: - Understand the lifecycle of a SAP project - Know what to do in each phase of the project - Understand the terminology used in the project lifecycle - Practice teamwork and how to interact with colleagues in a project implementation process - Ensure the proper implementation of quality requirements and schedule - Do troubleshooting All the documents in the project implementation process and the progress reports are required to write in English. (*): Unless impossible, the team should consist of IT and BA students with a recommended IT to BA student ratio of 3:2. In case of only IT students, the team will have to do all the work assigned to BA students under the guidance of BA lecturer.",
+    "StudentTasks": "# Choose appropriate project and form group. # Divide and schedule work among members. # Attend all scheduled meeting with supervisor. # Produce document and product according to project requirement and member work share. # Defend work in front of examination board, showing both project results and individual responsibility. # In case of cheating found, the whole team is not allow to defend. # Students are required to attend at least 80% of scheduled meetings with their supervisor(s) to be eligible for the thesis or capstone defense.",
+    "Tools": "Appropriate tools for design and implementation.",
+    "Scoring Scale": "10",
+    "DecisionNo MM/dd/yyyy": "444/QĐ-ĐHFPT dated 04/23/2026",
+    "IsApproved": "True",
+    "Note": "",
+    "Is Scored": "True",
+    "MinAvgMarkToPass": "5",
+    "IsActive": "True",
+    "ApprovedDate": "4/23/2026"
+  },
+  "active": true,
+  "approved": true,
+  "decision": "444/QĐ-ĐHFPT dated 04/23/2026",
+  "description": "The SAP inter-disciplinary capstone project provides IT and BA students with important skills and initial experiences in participating in the SAP projects. With the team size of 3-5 members (*), student can apply knowledges and skills they have learned to the real current projects, including: - Understand the lifecycle of a SAP project - Know what to do in each phase of the project - Understand the terminology used in the project lifecycle - Practice teamwork and how to interact with colleagues in a project implementation process - Ensure the proper implementation of quality requirements and schedule - Do troubleshooting All the documents in the project implementation process and the progress reports are required to write in English. (*): Unless impossible, the team should consist of IT and BA students with a recommended IT to BA student ratio of 3:2. In case of only IT students, the team will have to do all the work assigned to BA students under the guidance of BA lecturer.",
+  "learning_outcomes": [
+    {
+      "No.": "1",
+      "CLO Name": "CLO1",
+      "CLO Details": "Identify and analyze problems as well as develope and discusse possible solutions."
+    },
+    {
+      "No.": "2",
+      "CLO Name": "CLO2",
+      "CLO Details": "Configure the enterprise structure and business processes for involved modules in SAP"
+    },
+    {
+      "No.": "3",
+      "CLO Name": "CLO3",
+      "CLO Details": "Implement the solutions, including testing verification in SAP system."
+    },
+    {
+      "No.": "4",
+      "CLO Name": "CLO4",
+      "CLO Details": "Apply project management principles to SAP project."
+    },
+    {
+      "No.": "5",
+      "CLO Name": "CLO5",
+      "CLO Details": "Write a professional research report."
+    },
+    {
+      "No.": "6",
+      "CLO Name": "CLO6",
+      "CLO Details": "Develop professional working style, good teamwork skills, communication skills (including presentation skills) and compliance with the production process"
+    }
+  ],
+  "assessments": [
+    {
+      "No.": "1",
+      "Category": "Report 1",
+      "Type": "on-going",
+      "Part": "1",
+      "Weight": "10.0%",
+      "Completion Criteria": "2",
+      "Duration": "During the CP Progress",
+      "CLO": "CLO1, CLO3, CLO4, CLO5, CLO6",
+      "Question Type": "Report",
+      "No Question": "Topic of CP",
+      "Knowledge and Skill": "",
+      "Grading Guide": "Graded by Instructors (Fsoft, FU_IT, FU_BA)",
+      "Note": "BA & IT: Problem Statement & Analysis *Note: In case of only IT students, the team will have to do all the work assigned to BA students under the guidance of BA lecturer."
+    },
+    {
+      "No.": "2",
+      "Category": "Report 2",
+      "Type": "on-going",
+      "Part": "1",
+      "Weight": "10.0%",
+      "Completion Criteria": "2",
+      "Duration": "During the CP Progress",
+      "CLO": "CLO2, CLO3, CLO4, CLO5, CLO6",
+      "Question Type": "Report",
+      "No Question": "Topic of CP",
+      "Knowledge and Skill": "",
+      "Grading Guide": "Graded by Instructors (Fsoft, FU_IT, FU_BA)",
+      "Note": "BA: Implementation.Configuration IT: Implementation.Coding *Note: In case of only IT students, the team will have to do all the work assigned to BA students under the guidance of BA lecturer."
+    },
+    {
+      "No.": "3",
+      "Category": "Report 3",
+      "Type": "on-going",
+      "Part": "1",
+      "Weight": "10.0%",
+      "Completion Criteria": "2",
+      "Duration": "During the CP Progress",
+      "CLO": "CLO2, CLO3, CLO4, CLO5, CLO6",
+      "Question Type": "Report",
+      "No Question": "Topic of CP",
+      "Knowledge and Skill": "",
+      "Grading Guide": "Graded by Instructors (Fsoft, FU_IT, FU_BA)",
+      "Note": "BA & IT: Implementation.Testing *Note: In case of only IT students, the team will have to do all the work assigned to BA students under the guidance of BA lecturer."
+    },
+    {
+      "No.": "4",
+      "Category": "Report 4_Final Report",
+      "Type": "on-going",
+      "Part": "1",
+      "Weight": "20.0%",
+      "Completion Criteria": "2",
+      "Duration": "During the CP Progress",
+      "CLO": "All CLOs",
+      "Question Type": "Report",
+      "No Question": "Topic of CP",
+      "Knowledge and Skill": "",
+      "Grading Guide": "Graded by Instructors (Fsoft, FU_IT, FU_BA)",
+      "Note": "BA & IT: Final Report *Note: In case of only IT students, the team will have to do all the work assigned to BA students under the guidance of BA lecturer."
+    },
+    {
+      "No.": "5",
+      "Category": "Final Project Presentation",
+      "Type": "Final exam",
+      "Part": "1",
+      "Weight": "50.0%",
+      "Completion Criteria": "4",
+      "Duration": "~ 30 minutes for presentation, ~ 60 minutes for demo and Q&A. Total is 90 minutes.",
+      "CLO": "All CLOs",
+      "Question Type": "",
+      "No Question": "CP Project Presentation",
+      "Knowledge and Skill": "",
+      "Grading Guide": "+ Document (Report): 50% - Problem Statements & Analysis: 15% - Configuration: 15% (BA) - Coding: 15% (IT) - Testing: 15% - Writing: 5% + Defense: 50% - Presentation: 25% - Q&A: 25%",
+      "Note": ""
+    }
+  ],
+  "schedule": [
+    {
+      "Session": "1",
+      "Topic": "Team Weekly Meeting: Guide Report No.1.1 : Problem Statements",
+      "Learning-Teaching Type": "Offline",
+      "LO": "CLO1, CLO3, CLO4, CLO5, CLO6",
+      "ITU": "TU",
+      "Student Materials": "Report1_Problem Statements & Analysis",
+      "S-Download": "SAP490_Tai lieu huong dan",
+      "Student's Tasks": "Prepare Report No.1 (working at Fsoft daily)",
+      "URLs": ""
+    },
+    {
+      "Session": "2",
+      "Topic": "Team Weekly Meeting: Report No.1.1 Submission",
+      "Learning-Teaching Type": "Offline",
+      "LO": "CLO1, CLO3, CLO4, CLO5, CLO6",
+      "ITU": "TU",
+      "Student Materials": "Report1_Problem Statements & Analysis",
+      "S-Download": "SAP490_Test Report Template",
+      "Student's Tasks": "Prepare Report No.1 (working at Fsoft daily)",
+      "URLs": ""
+    },
+    {
+      "Session": "3",
+      "Topic": "Team Weekly Meeting: Guide Report No.1.2 : Analysis",
+      "Learning-Teaching Type": "Offline",
+      "LO": "CLO1, CLO3, CLO4, CLO5, CLO6",
+      "ITU": "TU",
+      "Student Materials": "Report1_Problem Statements & Analysis",
+      "S-Download": "",
+      "Student's Tasks": "Prepare Report No.1 (working at Fsoft daily)",
+      "URLs": ""
+    },
+    {
+      "Session": "4",
+      "Topic": "Team Weekly Meeting: Report No.1.2 Submission",
+      "Learning-Teaching Type": "Offline",
+      "LO": "CLO1, CLO3, CLO4, CLO5, CLO6",
+      "ITU": "TU",
+      "Student Materials": "Report1_Problem Statements & Analysis",
+      "S-Download": "",
+      "Student's Tasks": "Prepare Report No.1 (working at Fsoft daily)",
+      "URLs": ""
+    },
+    {
+      "Session": "5",
+      "Topic": "Team Weekly Meeting: Guide Report No.2: Implementation.Configuration Guide Report No.2: Implementation.Coding",
+      "Learning-Teaching Type": "Offline",
+      "LO": "CLO2, CLO3, CLO4, CLO5, CLO6",
+      "ITU": "TU",
+      "Student Materials": "Report2_Implementation.Configuration Report2_Implementation.Coding",
+      "S-Download": "",
+      "Student's Tasks": "Prepare Report No.2 (BA: Implementation.Configuration IT: Report2_Implementation.Coding) (working at Fsoft daily) *Note: In case of only IT students, the team will have to do all the work assigned to BA students under the guidance of BA lecturer.",
+      "URLs": ""
+    },
+    {
+      "Session": "6",
+      "Topic": "Team Weekly Meeting: Implementation.Configuration Phase 1 Plan & Guide Implementation.Configuration Phase 1 Product Demo Implementation.Coding Interaction 1 Plan & Guide Implementation.Coding Interaction 1 Product Demo",
+      "Learning-Teaching Type": "Offline",
+      "LO": "CLO2, CLO3, CLO4, CLO5, CLO6",
+      "ITU": "TU",
+      "Student Materials": "Report2_Implementation.Configuration Report2_Implementation.Coding",
+      "S-Download": "",
+      "Student's Tasks": "Prepare Report No.2 Prepare Report No.2 (BA: Implementation.Configuration IT: Report2_Implementation.Coding) (working at Fsoft daily) *Note: In case of only IT students, the team will have to do all the work assigned to BA students under the guidance of BA lecturer.",
+      "URLs": ""
+    },
+    {
+      "Session": "7",
+      "Topic": "Team Weekly Meeting: Implementation.Configuration Phase 2 Plan & Guide Implementation.Configuration Phase 2 Product Demo Implementation.Coding Interaction 2 Plan & Guide Implementation.Coding Interaction 2 Product Demo",
+      "Learning-Teaching Type": "Offline",
+      "LO": "CLO2, CLO3, CLO4, CLO5, CLO6",
+      "ITU": "TU",
+      "Student Materials": "Report2_Implementation.Configuration Report2_Implementation.Coding",
+      "S-Download": "",
+      "Student's Tasks": "Prepare Report No.2 Prepare Report No.2 (BA: Implementation.Configuration IT: Report2_Implementation.Coding) *Note: In case of only IT students, the team will have to do all the work assigned to BA students under the guidance of BA lecturer.",
+      "URLs": ""
+    },
+    {
+      "Session": "8",
+      "Topic": "Team Weekly Meeting: Implementation.Configuration Phase 3 Plan & Guide Implementation.Configuration Phase 3 Product Demo Implementation.Coding Interaction 3 Plan & Guide Implementation.Coding Interaction 3 Product Demo Report No.2 Submision",
+      "Learning-Teaching Type": "Offline",
+      "LO": "CLO2, CLO3, CLO4, CLO5, CLO6",
+      "ITU": "TU",
+      "Student Materials": "Report2_Implementation.Configuration Report2_Implementation.Coding",
+      "S-Download": "",
+      "Student's Tasks": "Prepare Report No.2 Prepare Report No.2 (BA: Implementation.Configuration IT: Report2_Implementation.Coding) (working at Fsoft daily) *Note: In case of only IT students, the team will have to do all the work assigned to BA students under the guidance of BA lecturer.",
+      "URLs": ""
+    },
+    {
+      "Session": "9",
+      "Topic": "Team Weekly Meeting: Guide Report No.3: Implementation.Testing",
+      "Learning-Teaching Type": "Offline",
+      "LO": "CLO2, CLO3, CLO4, CLO5, CLO6",
+      "ITU": "TU",
+      "Student Materials": "Report3_Implementation.Testing",
+      "S-Download": "",
+      "Student's Tasks": "Prepare Report No.3 (working at Fsoft daily)",
+      "URLs": ""
+    },
+    {
+      "Session": "10",
+      "Topic": "Team Weekly Meeting: Report No.3: Implementation.Testing Submission",
+      "Learning-Teaching Type": "Offline",
+      "LO": "CLO2, CLO3, CLO4, CLO5, CLO6",
+      "ITU": "TU",
+      "Student Materials": "Report3_Implementation.Testing",
+      "S-Download": "",
+      "Student's Tasks": "Prepare Report No.3 (working at Fsoft daily)",
+      "URLs": ""
+    },
+    {
+      "Session": "11",
+      "Topic": "Team Weekly Meeting: Guide Report No.4: Final Report",
+      "Learning-Teaching Type": "Offline",
+      "LO": "CLO2, CLO3, CLO4, CLO5, CLO6",
+      "ITU": "TU",
+      "Student Materials": "Report4_Final Report",
+      "S-Download": "",
+      "Student's Tasks": "Prepare Report No.4 (working at Fsoft daily)",
+      "URLs": ""
+    },
+    {
+      "Session": "12",
+      "Topic": "Team Weekly Meeting: Finalize Report No.4: Final Report",
+      "Learning-Teaching Type": "Offline",
+      "LO": "CLO2, CLO3, CLO4, CLO5, CLO6",
+      "ITU": "TU",
+      "Student Materials": "Report4_Final Report",
+      "S-Download": "",
+      "Student's Tasks": "Prepare Report No.4 (working at Fsoft daily)",
+      "URLs": ""
+    },
+    {
+      "Session": "13",
+      "Topic": "Team Weekly Meeting: Finalize Report No.4: Final Report",
+      "Learning-Teaching Type": "Offline",
+      "LO": "CLO2, CLO3, CLO4, CLO5, CLO6",
+      "ITU": "TU",
+      "Student Materials": "Report4_Final Report",
+      "S-Download": "",
+      "Student's Tasks": "Prepare Report No.4 (working at Fsoft daily)",
+      "URLs": ""
+    },
+    {
+      "Session": "14",
+      "Topic": "Team Weekly Meeting: Report No.4: Final Report Submission (Includes all the final project documents (completed Reports No. 1-3, both soft copy & hard copy), Software Product, and thesis presentation slide)",
+      "Learning-Teaching Type": "Offline",
+      "LO": "CLO2, CLO3, CLO4, CLO5, CLO6",
+      "ITU": "TU",
+      "Student Materials": "Report4_Final Report",
+      "S-Download": "",
+      "Student's Tasks": "Prepare Report No.4 (working at Fsoft daily)",
+      "URLs": ""
+    },
+    {
+      "Session": "15",
+      "Topic": "Team Weekly Meeting: Practice for Presentation of Capstone Project",
+      "Learning-Teaching Type": "Offline",
+      "LO": "All CLOs",
+      "ITU": "TU",
+      "Student Materials": "Report4_Final Report",
+      "S-Download": "",
+      "Student's Tasks": "Practice for Presentation of Capstone Project (working at Fsoft daily)",
+      "URLs": ""
+    }
+  ],
+  "constructive_questions": [],
+  "materials": [
+    {
+      "No.": "1",
+      "Material Description": "Graduated Regulation (Quy che tot nghiep)",
+      "Author": "",
+      "Publisher": "",
+      "Published Date": "",
+      "Edition": "",
+      "ISBN": "",
+      "Is Main Material": "True",
+      "Is Hard Copy": "False",
+      "Is Online": "False",
+      "Note": "Bản mềm, tài liệu xây dựng bởi FU"
+    },
+    {
+      "No.": "2",
+      "Material Description": "Project Templates (Report1-Report3)",
+      "Author": "",
+      "Publisher": "",
+      "Published Date": "",
+      "Edition": "",
+      "ISBN": "",
+      "Is Main Material": "True",
+      "Is Hard Copy": "False",
+      "Is Online": "False",
+      "Note": "Bản mềm, tài liệu xây dựng bởi FU"
+    }
+  ],
+  "source_path": "data/raw/syllabi/14222.html",
+  "id": "syllabus:14222"
+}

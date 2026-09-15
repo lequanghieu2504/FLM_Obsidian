@@ -1,0 +1,596 @@
+{
+  "syllabus_id": 948,
+  "subject_code": "FRS401",
+  "subject_name": "Network Forensics",
+  "syllabus_name": "Network Forensics",
+  "credits": 3,
+  "degree_level": "Bachelor",
+  "time_allocation": "30 sessions; 1 session = 90' Lectures: 14; Tutorials/Lab: 16",
+  "prerequisite": "FRS301",
+  "general_information": {
+    "Syllabus ID": "948",
+    "Syllabus Name": "Network Forensics",
+    "Course Name English": "",
+    "Subject Code": "FRS401",
+    "Learning-Teaching Method": "",
+    "NoCredit": "3",
+    "Degree Level": "Bachelor",
+    "Time Allocation": "30 sessions; 1 session = 90' Lectures: 14; Tutorials/Lab: 16",
+    "Pre-Requisite": "FRS301",
+    "Description": "This course will introduce the student to the essential aspects of information security and network forensics. The student will be provided with the tools, techniques and industry accepted methodologies so that upon completion of the course the student will be able to describe key concepts of network security and forensics and how those concepts apply to themselves and their organization. Assessment scheme: a) Ongoing assessment: 01 Midterm Test : 20%, Participation in discussions: 10%, 14 Labs: 40% b) Final examination (FE): 30% c) Completion criteria: Every on-going assessment component >0; Average Lab Score >= 4; Final Exam Score >=4 & Final Result >=5",
+    "StudentTasks": "- Students must attend more than 80% of contact sessions in order to be accepted to the final examination. - Students are responsible to do all exercises, assignments and labs given by instructor in class or at home and submit in time - Use laptop in class only for learning purpose - Promptly access to the FPTU cms at http://cms.fpt.edu.vn for up-to-date course information",
+    "Tools": "Internet, WinPCap, Tcpdump, Wireshark, Tshark, dumpcap, TCPFlow, libpcap, NetworkMiner, Snort, Splunk, Yara, OpenID, SAML, LAMP",
+    "Scoring Scale": "10",
+    "DecisionNo MM/dd/yyyy": "440/QĐ-ĐHFPT dated 05/06/2020",
+    "IsApproved": "True",
+    "Note": "",
+    "Is Scored": "True",
+    "MinAvgMarkToPass": "5",
+    "IsActive": "True",
+    "ApprovedDate": "5/6/2020"
+  },
+  "active": true,
+  "approved": true,
+  "decision": "440/QĐ-ĐHFPT dated 05/06/2020",
+  "description": "This course will introduce the student to the essential aspects of information security and network forensics. The student will be provided with the tools, techniques and industry accepted methodologies so that upon completion of the course the student will be able to describe key concepts of network security and forensics and how those concepts apply to themselves and their organization. Assessment scheme: a) Ongoing assessment: 01 Midterm Test : 20%, Participation in discussions: 10%, 14 Labs: 40% b) Final examination (FE): 30% c) Completion criteria: Every on-going assessment component >0; Average Lab Score >= 4; Final Exam Score >=4 & Final Result >=5",
+  "learning_outcomes": [
+    {
+      "No.": "1",
+      "CLO Name": "CLO1",
+      "CLO Details": "LO1: Provide an overview of current systems and infrastructures; describe key principles, such as defense in depth and demilitarized zones (DMZ)"
+    },
+    {
+      "No.": "2",
+      "CLO Name": "CLO2",
+      "CLO Details": "LO2: Provide an overview of the requirement for intrusion detection systems (IDS) and their practical implementation; describe the principles regarding intrusion detection procedures."
+    },
+    {
+      "No.": "3",
+      "CLO Name": "CLO3",
+      "CLO Details": "LO3: Describe practical methods used in encryption, decryption, and authentication, including digital certificates and biometrics"
+    },
+    {
+      "No.": "4",
+      "CLO Name": "CLO4",
+      "CLO Details": "LO4: Describe key concepts of secure code infrastructure"
+    },
+    {
+      "No.": "5",
+      "CLO Name": "CLO5",
+      "CLO Details": "LO5: Provide an overview of network security devices and infrastructures, including proxy ,servers and firewalls"
+    },
+    {
+      "No.": "6",
+      "CLO Name": "CLO6",
+      "CLO Details": "LO6: Describe network security risk and the range of threats"
+    },
+    {
+      "No.": "7",
+      "CLO Name": "CLO7",
+      "CLO Details": "LO7: Describe the basic steps that an intruder might undertake in an intrusion; and provide a background and practical skills in the usage of vulnerability scanning and analysis. LO8: Describe the key network protocols, such as IP, TCP, ARP, ICMP, DNS, and the"
+    },
+    {
+      "No.": "8",
+      "CLO Name": "CLO8",
+      "CLO Details": "LO8: Describe the key network protocols, such as IP, TCP, ARP, ICMP, DNS, and the methodologies used in network forensics"
+    },
+    {
+      "No.": "9",
+      "CLO Name": "CLO9",
+      "CLO Details": "LO9: Describe data hiding and obfuscation and outline obfuscation methods"
+    },
+    {
+      "No.": "10",
+      "CLO Name": "CLO10",
+      "CLO Details": "LO10: Provide an overview of web based architectures and define key protocols"
+    },
+    {
+      "No.": "11",
+      "CLO Name": "CLO11",
+      "CLO Details": "LO11: Provide and introduction to cluster, grid and cloud infrastructures"
+    }
+  ],
+  "assessments": [
+    {
+      "No.": "1",
+      "Category": "Lab",
+      "Type": "on-going",
+      "Part": "14",
+      "Weight": "40.0%",
+      "Completion Criteria": "4",
+      "Duration": "60- 90' in class",
+      "CLO": "",
+      "Question Type": "practical exercises",
+      "No Question": "N/A",
+      "Knowledge and Skill": "technical aspect of studied topics",
+      "Grading Guide": "- Guided by instructor - 14 Lab-Projects are arranged relevant to the chapter theory - Student must finish labs and submit the results to the lecturer in class. - An average point of all labs could be evaluated and published to students at the end of the semester",
+      "Note": ""
+    },
+    {
+      "No.": "2",
+      "Category": "Midterm",
+      "Type": "on-going",
+      "Part": "1",
+      "Weight": "20.0%",
+      "Completion Criteria": ">0",
+      "Duration": "30- 40'",
+      "CLO": "",
+      "Question Type": "Multiple choices Marked by Computer or a suitable format",
+      "No Question": "20-25",
+      "Knowledge and Skill": "cover Lectures 1- 10",
+      "Grading Guide": "in class, by instructor",
+      "Note": "Instruction and schedules for Progress Tests must be presented in the Course Implementation Plan approved by director of the campus. The test must be taken right after the last lectures of required material. Instructor has responsibility to review the test for students after graded."
+    },
+    {
+      "No.": "3",
+      "Category": "Participation in discussions",
+      "Type": "on-going",
+      "Part": "1",
+      "Weight": "10.0%",
+      "Completion Criteria": ">0",
+      "Duration": "",
+      "CLO": "",
+      "Question Type": "",
+      "No Question": "N/A",
+      "Knowledge and Skill": "",
+      "Grading Guide": "",
+      "Note": ""
+    },
+    {
+      "No.": "4",
+      "Category": "Final Exam",
+      "Type": "Final exam",
+      "Part": "1",
+      "Weight": "30.0%",
+      "Completion Criteria": "4",
+      "Duration": "60'",
+      "CLO": "LO1, LO2, LO3, LO4, LO5, LO6, LO7, LO8, LO9, LO10",
+      "Question Type": "Multiple choices Marked by Computer",
+      "No Question": "40-50",
+      "Knowledge and Skill": "concepts, algorithms; all studied Lectures",
+      "Grading Guide": "by exam board, using computer",
+      "Note": "The exam questions must be updated or different at least 70% to the previous ones."
+    }
+  ],
+  "schedule": [
+    {
+      "Session": "1",
+      "Topic": "Lecture 1. Introduction to Security 1.1 Overview of Key Terms (C-I-A, AAA, ...) 1.2 Overview of Current Systems and Infrastructures (with cloud computing, ...) 1.3 Information Security and Forensic Computing 1.4 Defining Key Principles (Defense-in-Depth, DMZ, ...) 1.5 Python Coding for Network Packet Capture",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO1",
+      "ITU": "T",
+      "Student Materials": "Read Chapter 1",
+      "S-Download": "Slot1_14",
+      "Student's Tasks": "Study and Review Lecture 1",
+      "URLs": ""
+    },
+    {
+      "Session": "2",
+      "Topic": "Lab 1: Data Packet Capture (Network Interface, Filtering, IDS, ARP, ...)",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO1",
+      "ITU": "U",
+      "Student Materials": "Lecture Slides",
+      "S-Download": "",
+      "Student's Tasks": "Practice and Review Lab 1",
+      "URLs": ""
+    },
+    {
+      "Session": "3",
+      "Topic": "Lecture 2. Intrusion Detection Systems (IDS) 2.1 Overview of the Requirement for IDS and Their Use 2.2 Practical Implementation of IDS Using Snort 2.3 Typical Detection Procedures (for ping sweeps, ...).",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO2",
+      "ITU": "T",
+      "Student Materials": "Read Chapter 2",
+      "S-Download": "",
+      "Student's Tasks": "Study and Review Lecture 2",
+      "URLs": ""
+    },
+    {
+      "Session": "4",
+      "Topic": "Lab 2: Using Snort to Detect Attacks",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO2",
+      "ITU": "U",
+      "Student Materials": "Lecture Slides",
+      "S-Download": "",
+      "Student's Tasks": "Practice and Review Lab 2",
+      "URLs": ""
+    },
+    {
+      "Session": "5",
+      "Topic": "Lecture 3. Encryption, Authentication, Hashing, and Digital Certificates 3.1 Overview of the Methods Used in Symmetric and Asymmetric Encryption 3.2 How to Crack Encrypted Content 3.3 Range of Standard Encryption Methods 3.4 Overview of Authentication Methods, Including the Usage of Biometrics 3.5 Usage of Digital Certificates in Private Key Signing 3.6 Integrating Hash Methods and Their Applications",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO3",
+      "ITU": "T",
+      "Student Materials": "Read Chapters",
+      "S-Download": "",
+      "Student's Tasks": "Study and",
+      "URLs": ""
+    },
+    {
+      "Session": "6",
+      "Topic": "Lab-Project 3: Encryption, Hashing Cracking, PGP, Cracking Digital Certificates and File Types",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO3",
+      "ITU": "U",
+      "Student Materials": "Lecture Slides",
+      "S-Download": "",
+      "Student's Tasks": "Practice and Review Lab 3",
+      "URLs": ""
+    },
+    {
+      "Session": "7",
+      "Topic": "Lecture 4. Enhanced Software Security 4.1 Best Practice of Software Security and the Future 4.2 Overview of a Secure Code Infrastructure Focusing on Microsoft .NET 4.3 Key Concepts of Security within the Microsoft .NET Infrastructure",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO4",
+      "ITU": "T",
+      "Student Materials": "Read Chapter 5",
+      "S-Download": "",
+      "Student's Tasks": "Study and Review Lecture 4",
+      "URLs": ""
+    },
+    {
+      "Session": "8",
+      "Topic": "Lab 4: Role-Based Security",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO4",
+      "ITU": "U",
+      "Student Materials": "Lecture Slides",
+      "S-Download": "",
+      "Student's Tasks": "Practice and Review Lab 4",
+      "URLs": ""
+    },
+    {
+      "Session": "9",
+      "Topic": "Lecture 5. Network Security Elements 5.1 Overview of Security Devices and Infrastructures 5.2 Router (Packet Filtering) Firewalls 5.3 Network Address Translation (NAT) 5.4 PIX/ASA Firewall 5.5 Proxy Servers",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO5",
+      "ITU": "T",
+      "Student Materials": "Read Chapter 6",
+      "S-Download": "",
+      "Student's Tasks": "Study and Review Lecture 5",
+      "URLs": ""
+    },
+    {
+      "Session": "10",
+      "Topic": "Lab-Project 5: Creating Secure Architectures",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO5",
+      "ITU": "U",
+      "Student Materials": "Lecture Slides",
+      "S-Download": "",
+      "Student's Tasks": "Practice and Review Lab 5",
+      "URLs": ""
+    },
+    {
+      "Session": "11",
+      "Topic": "Lecture 6. Introduction to Risk 6.1 Security Taxonomy 6.2 Threats 6.3 Service-Oriented Infrastructures 6.4 Practical Background in Windows and Linux for Services, Logging, and Auditing",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO6",
+      "ITU": "T",
+      "Student Materials": "Read Chapter 7",
+      "S-Download": "",
+      "Student's Tasks": "Study and Review Lecture 6",
+      "URLs": ""
+    },
+    {
+      "Session": "12",
+      "Topic": "Lab 6: Log, Process, Hashing",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO6",
+      "ITU": "U",
+      "Student Materials": "Lecture Slides",
+      "S-Download": "",
+      "Student's Tasks": "Practice and Review Lab 6",
+      "URLs": ""
+    },
+    {
+      "Session": "13",
+      "Topic": "Lecture 7. Threat Analysis 7.1 Intruder Detection 7.2 Vulnerably Analysis 7.3 Hping, Botnets, Pbisbing 7.4 Buffer Overflows and Cross-Scripting (XSS) 7.5 Inference and Affiliate Scams 7.6 Password Cracking Programs",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO7",
+      "ITU": "",
+      "Student Materials": "Read Chapter 8",
+      "S-Download": "",
+      "Student's Tasks": "Study and Review Lecture 7",
+      "URLs": ""
+    },
+    {
+      "Session": "14",
+      "Topic": "Lab-Project 7: Advanced Network Attack Analysis",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO7",
+      "ITU": "U",
+      "Student Materials": "Chapter Slides",
+      "S-Download": "",
+      "Student's Tasks": "Practice and Review Lab 7",
+      "URLs": ""
+    },
+    {
+      "Session": "15",
+      "Topic": "Lectures 8. Network Forensics 1 8.1 The Key Protocols 8.2 Ethernet, IP, and TCP Headers 8.3 TCP Connection 8.4 ARP and SYN",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO8",
+      "ITU": "T",
+      "Student Materials": "Read Chapter 9.1-9.7",
+      "S-Download": "Slot15_30",
+      "Student's Tasks": "Study and Review Lecture 8",
+      "URLs": ""
+    },
+    {
+      "Session": "16",
+      "Topic": "Lab 8: Network Packet Inspection",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO8",
+      "ITU": "U",
+      "Student Materials": "Lecture Slides",
+      "S-Download": "",
+      "Student's Tasks": "Practice and Review Lab 8",
+      "URLs": ""
+    },
+    {
+      "Session": "17",
+      "Topic": "Lectures 9. Network Forensics 2 9.1 Application Layer Analysis-FTP 8.2 ICMP and DNS LO8 8.3 Port Scan and SYN Flood 8.4 Spoofed Addresses",
+      "Learning-Teaching Type": "Offline",
+      "LO": "",
+      "ITU": "",
+      "Student Materials": "Read Chapter 9.8-9.13",
+      "S-Download": "",
+      "Student's Tasks": "Study and Review Lecture 9",
+      "URLs": ""
+    },
+    {
+      "Session": "18",
+      "Topic": "Lab 9: Network Packet Analysis",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO8",
+      "ITU": "U",
+      "Student Materials": "Lecture Slides",
+      "S-Download": "",
+      "Student's Tasks": "Practice and Review Lab 9",
+      "URLs": ""
+    },
+    {
+      "Session": "19",
+      "Topic": "Lectures 10. Network Forensics 3 10.1 Application Layer Analysis-HTTP 10.2 Network Logs on Hosts 10.3 Tripwire",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO8",
+      "ITU": "T",
+      "Student Materials": "Read Chapter 9.14-9.16",
+      "S-Download": "",
+      "Student's Tasks": "Study and Review Lecture 10",
+      "URLs": ""
+    },
+    {
+      "Session": "20",
+      "Topic": "Lab 10: Tripwire, Log and Packet Analysis",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO8",
+      "ITU": "U",
+      "Student Materials": "Lecture Slides",
+      "S-Download": "",
+      "Student's Tasks": "Practice and Review Lab 10",
+      "URLs": ""
+    },
+    {
+      "Session": "21",
+      "Topic": "Review for Midterm Midterm Test",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO1, LO2, LO3, LO4, LO5, LO6, LO7, LO8",
+      "ITU": "U",
+      "Student Materials": "Slides of Lectures 1-10",
+      "S-Download": "",
+      "Student's Tasks": "",
+      "URLs": ""
+    },
+    {
+      "Session": "22",
+      "Topic": "11.1 Outline Obfuscation Methods 11.2 Obfuscation Using Encryption 11.3 Obfuscation through Tunneling",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO9",
+      "ITU": "T",
+      "Student Materials": "Read Chapter 10.1-10.4",
+      "S-Download": "",
+      "Student's Tasks": "",
+      "URLs": ""
+    },
+    {
+      "Session": "23",
+      "Topic": "Lab-Project 11: Code Forensics and Tunneling",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO9",
+      "ITU": "U",
+      "Student Materials": "Chapter Slides",
+      "S-Download": "",
+      "Student's Tasks": "",
+      "URLs": ""
+    },
+    {
+      "Session": "24",
+      "Topic": "Lectures 12. Data Hiding 12.1 Covert Channels 12.2 Watermarking and Stenography 12.3 Hiding File Contents",
+      "Learning-Teaching Type": "Offline",
+      "LO": "",
+      "ITU": "T",
+      "Student Materials": "Read Chapter 10.5-10.7",
+      "S-Download": "",
+      "Student's Tasks": "",
+      "URLs": ""
+    },
+    {
+      "Session": "25",
+      "Topic": "Lab-Project 12: Network Forensics and Data Hiding",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO9",
+      "ITU": "U",
+      "Student Materials": "Lecture Slides",
+      "S-Download": "",
+      "Student's Tasks": "",
+      "URLs": ""
+    },
+    {
+      "Session": "26",
+      "Topic": "Lectures 13. Web Infrastructures 13.1 Overview of Web-based Architectures in Authentication and Access Control 13.2 Key Protocols Involved in Next-Generation Web-Based Infrastructures (Kerberos, SOAP over HTTP, ...) 13.3 Defining Scalable Authentication Infrastructures and Protocols 13.4 Scalable and Extensible Architectures Using LDAP",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO10",
+      "ITU": "T",
+      "Student Materials": "Read Chapter 11",
+      "S-Download": "",
+      "Student's Tasks": "Study and Review Lecture 13",
+      "URLs": ""
+    },
+    {
+      "Session": "27",
+      "Topic": "Lab 13: Web Authentication Using OpenID and SAML",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO10",
+      "ITU": "U",
+      "Student Materials": "Lecture Slides",
+      "S-Download": "",
+      "Student's Tasks": "Practice and Review Lab13",
+      "URLs": ""
+    },
+    {
+      "Session": "28",
+      "Topic": "Lectures 14. Cloud/Grid Computing 14.1 Introduction to Cluster, Grid and Cloud Infrastructures 14.2 Grid Computing and Cloud Computing 14.3 Amazon Web Services 14.4 Installing EC2 and S3 Command Tools",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO11",
+      "ITU": "T",
+      "Student Materials": "Read Chapter 12",
+      "S-Download": "",
+      "Student's Tasks": "Study and Review Lecture 14",
+      "URLs": ""
+    },
+    {
+      "Session": "29",
+      "Topic": "Lab-Project 14: IAAS Virtual Linux Server Image in the Amazon Cloud Using Open Source LAMP (Linux, Apache, MySQL and PHP)",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO11",
+      "ITU": "U",
+      "Student Materials": "Lecture Slides",
+      "S-Download": "",
+      "Student's Tasks": "Practice and Review Lab14",
+      "URLs": ""
+    },
+    {
+      "Session": "30",
+      "Topic": "Course Review",
+      "Learning-Teaching Type": "Offline",
+      "LO": "",
+      "ITU": "U",
+      "Student Materials": "All Lecture Slides",
+      "S-Download": "",
+      "Student's Tasks": "",
+      "URLs": ""
+    }
+  ],
+  "constructive_questions": [],
+  "materials": [
+    {
+      "No.": "1",
+      "Material Description": "Introduction to Security and Network Forensics",
+      "Author": "William J. Buchanan",
+      "Publisher": "CRC Press",
+      "Published Date": "2011",
+      "Edition": "",
+      "ISBN": "978-0-8493-3568-6",
+      "Is Main Material": "True",
+      "Is Hard Copy": "False",
+      "Is Online": "False",
+      "Note": ""
+    },
+    {
+      "No.": "2",
+      "Material Description": "https://asecuritysite.com/information/intro",
+      "Author": "",
+      "Publisher": "",
+      "Published Date": "",
+      "Edition": "",
+      "ISBN": "",
+      "Is Main Material": "False",
+      "Is Hard Copy": "False",
+      "Is Online": "False",
+      "Note": ""
+    },
+    {
+      "No.": "3",
+      "Material Description": "Network Forensics: Tracking Hackers through Cyberspace, 1st Edition",
+      "Author": "Sherri Davidoff, Jonathan Ham",
+      "Publisher": "Prentice Hall",
+      "Published Date": "2012",
+      "Edition": "1st",
+      "ISBN": "",
+      "Is Main Material": "False",
+      "Is Hard Copy": "False",
+      "Is Online": "False",
+      "Note": ""
+    },
+    {
+      "No.": "4",
+      "Material Description": "Mastering Windows Network Forensics and Investigation",
+      "Author": "Steven Anson, Steve Bunting, Ryan Johnson, Scott Pearson",
+      "Publisher": "Sybex",
+      "Published Date": "2012",
+      "Edition": "",
+      "ISBN": "",
+      "Is Main Material": "False",
+      "Is Hard Copy": "False",
+      "Is Online": "False",
+      "Note": ""
+    },
+    {
+      "No.": "5",
+      "Material Description": "Learning Network Forensics, Packt",
+      "Author": "Samir Datt",
+      "Publisher": "",
+      "Published Date": "2016",
+      "Edition": "",
+      "ISBN": "",
+      "Is Main Material": "False",
+      "Is Hard Copy": "False",
+      "Is Online": "False",
+      "Note": ""
+    },
+    {
+      "No.": "6",
+      "Material Description": "Network Forensics",
+      "Author": "Ric Messier",
+      "Publisher": "John Wiley & Sons",
+      "Published Date": "2017",
+      "Edition": "",
+      "ISBN": "",
+      "Is Main Material": "False",
+      "Is Hard Copy": "False",
+      "Is Online": "False",
+      "Note": ""
+    },
+    {
+      "No.": "7",
+      "Material Description": "Fundamentals of Network Forensics: A Research Perspective",
+      "Author": "R. C. Joshi, Emmanuel S. Pilli",
+      "Publisher": "Springer-Verlag",
+      "Published Date": "2016",
+      "Edition": "",
+      "ISBN": "",
+      "Is Main Material": "False",
+      "Is Hard Copy": "False",
+      "Is Online": "False",
+      "Note": ""
+    },
+    {
+      "No.": "8",
+      "Material Description": "Lecture slides, Lab Manual, supplementary material",
+      "Author": "",
+      "Publisher": "",
+      "Published Date": "",
+      "Edition": "",
+      "ISBN": "",
+      "Is Main Material": "False",
+      "Is Hard Copy": "False",
+      "Is Online": "False",
+      "Note": ""
+    }
+  ],
+  "source_path": "data/raw/syllabi/948.html",
+  "id": "syllabus:948"
+}

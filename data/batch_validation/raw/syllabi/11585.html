@@ -1,0 +1,2949 @@
+<!DOCTYPE html><html lang="en"><head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin="">
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700&amp;family=Source+Sans+Pro:wght@300;400;600;700&amp;display=swap" rel="stylesheet">
+    <link href="/Content/bootstrap.min.css" rel="stylesheet">
+    <link href="/fonts/css/Bootstrap-select-v1.13.14.css" rel="stylesheet">
+    <link href="/Content/common.css" rel="stylesheet">
+    <link href="/fonts/css/font-awesome.min.css" rel="stylesheet">
+    <link href="/Content/toastr.min.css" rel="stylesheet">
+    <script src="/Scripts/jquery-1.10.2.min.js"></script>
+    <script src="/Scripts/popper.js"></script>
+    <script src="/Scripts/bootstrap.min.js"></script>
+    <script src="/Scripts/Bootstrap-select-v1.13.14.js"></script>
+    <script src="/Scripts/jquery.validate.min.js"></script>
+    <script src="/Scripts/toastr.min.js"></script>
+    <link href="/fonts/css/font-awesome.min.css" rel="stylesheet">
+    <script src="/Scripts/jquery-ui.min.js"></script>
+    <link href="/Content/jquery-ui.css" rel="stylesheet">
+    <script>
+        var a = 'Student';
+        if (!a) {
+            window.location.replace('/Login');
+        }
+    </script>
+    <title id="pageTitle">T University Learning Materials •</title>
+    <style>
+        h1 {
+            font-size: 2em;
+        }
+
+        h2 {
+            font-size: 1.5em;
+        }
+
+        .btn-light {
+            border: 1px solid #d9cfcf;
+        }
+
+        /*.btn{
+            color:white;
+            font-weight:bold;
+        }*/
+
+
+        * {
+            font-family: 'Inter', 'Source Sans Pro', 'Segoe UI', 'Tahoma', 'Arial', 'Helvetica', sans-serif;
+            font-size: 16px;
+            font-weight: 400;
+            line-height: 1.5em;
+        }
+
+        body {
+            background: #fafafa;
+            padding: 0;
+        }
+
+
+
+        #sidebar a,
+        #sidebar a:hover,
+        #sidebar a:focus {
+            color: inherit;
+            text-decoration: none;
+            transition: all 0.3s;
+        }
+
+
+        #sidebar.sb-active {
+            margin-left: -300px;
+        }
+
+        .wrapper {
+            display: flex;
+            text-decoration: none;
+            transition: all 0.3s;
+            margin-top: -75px;
+            width: 100%;
+        }
+
+        /* Mobile wrapper fix */
+        @media (max-width: 768px) {
+            .wrapper {
+                margin-top: 0;
+            }
+        }
+
+        .btn-default {
+            background-color: #F2994A;
+            color: white;
+            font-weight: bold;
+        }
+
+        .btn-default:hover {
+            background-color: #fd7e14;
+        }
+
+        input,
+        select {
+            font-size: inherit !important;
+            /*height: 33.5px !important;*/
+        }
+
+
+        .tbl-data {
+            border: 1px solid rgba(0, 0, 0, .05);
+        }
+
+        .tbl-data th {
+            font-weight: bold;
+            background-color: #F2994A !important;
+            color: white;
+        }
+
+        .tbl-data input[type=checkbox] {
+            width: 20px;
+        }
+
+        .tbl-detail tr td {
+            padding: 4px 5px 4px 5px;
+            border: 1px solid rgba(0, 0, 0, .05);
+        }
+
+        .tbl-checkbox label {
+            position: relative;
+            top: -11px;
+            left: 2px;
+        }
+
+        .max-with-fit {
+            max-width: fit-content;
+        }
+
+        textarea {
+            font-size: inherit !important;
+        }
+
+        #sidebar {
+            min-width: 300px;
+            max-width: 300px;
+            margin-top: 85px;
+            margin-left: 10px;
+            color: #fff;
+            transition: all 0.3s;
+            overflow-y: scroll;
+            height: 800px;
+            border-radius: 5px;
+            background-color: #F2994A;
+        }
+
+        /* Mobile Responsive Styles */
+        @media (max-width: 1200px) {
+            #sidebar {
+                min-width: 260px;
+                max-width: 260px;
+            }
+        }
+
+        @media (max-width: 992px) {
+            h1 {
+                font-size: 1.6em;
+            }
+
+            .page-title {
+                position: static !important;
+                width: 100%;
+                text-align: center;
+                margin: 8px 0 0 0;
+                left: 0 !important;
+                transform: none !important;
+            }
+
+            #btn-home {
+                height: 36px;
+                min-width: 70px;
+                max-width: 100px;
+                padding: 6px 10px;
+                gap: 5px;
+            }
+
+            #btn-home span {
+                font-size: 13px;
+                line-height: 1;
+            }
+
+            #btn-home i {
+                font-size: 14px;
+                line-height: 1;
+            }
+
+            #language {
+                width: 110px !important;
+                height: 32px !important;
+            }
+
+            #ProfileImage {
+                width: 40px !important;
+                height: 40px !important;
+            }
+
+            #sidebar {
+                position: fixed;
+                top: 97px;
+                left: 0;
+                height: calc(100vh - 97px);
+                z-index: 1030;
+                margin-left: 0;
+                margin-top: 0;
+            }
+
+            #content {
+                height: auto;
+                margin-top: 97px;
+                padding: 10px;
+            }
+
+            .wrapper {
+                margin-top: 0;
+            }
+        }
+
+        @media (max-width: 768px) {
+            h1 {
+                font-size: 1.3em;
+            }
+
+            .page-title {
+                position: static !important;
+                width: 100%;
+                text-align: center;
+                margin: 6px 0 0 0;
+                left: 0 !important;
+                transform: none !important;
+            }
+
+            .navbar .container-fluid {
+                flex-direction: row !important;
+                justify-content: space-between !important;
+                align-items: center !important;
+            }
+
+            #language {
+                width: 100px !important;
+                height: 30px !important;
+                font-size: 12px !important;
+            }
+
+            #ProfileImage {
+                width: 35px !important;
+                height: 35px !important;
+            }
+
+            .dropdown-arrow {
+                right: -12px !important;
+                font-size: 10px !important;
+            }
+
+            #btn-home {
+                height: 34px;
+                min-width: 60px;
+                max-width: 90px;
+                padding: 5px 8px;
+                gap: 4px;
+            }
+
+            #btn-home span {
+                font-size: 12px;
+                line-height: 1;
+            }
+
+            #btn-home i {
+                font-size: 13px;
+                line-height: 1;
+            }
+
+            /* Make long tables scrollable on small screens */
+            #content table {
+                display: block;
+                width: 100%;
+                overflow-x: auto;
+                -webkit-overflow-scrolling: touch;
+                white-space: nowrap;
+            }
+
+            #sidebar {
+                display: none !important;
+            }
+
+            #btn-home {
+                height: 35px;
+                width: 70px;
+                padding: 5px;
+            }
+
+            #btn-home span {
+                font-size: 12px;
+            }
+
+            #btn-home i {
+                font-size: 14px;
+            }
+
+            .navbar-toggler {
+                display: block;
+            }
+
+            .navbar-nav {
+                flex-direction: column;
+            }
+        }
+
+        @media (max-width: 576px) {
+            h1 {
+                font-size: 1.1em;
+            }
+
+            .page-title {
+                font-size: 1.1em !important;
+                margin: 4px 0 0 0;
+            }
+
+            .navbar .container-fluid {
+                flex-direction: row !important;
+                justify-content: space-between !important;
+                align-items: center !important;
+            }
+
+            #language {
+                width: 90px !important;
+                height: 28px !important;
+                font-size: 11px !important;
+            }
+
+            #ProfileImage {
+                width: 30px !important;
+                height: 30px !important;
+            }
+
+            .dropdown-arrow {
+                right: -10px !important;
+                font-size: 9px !important;
+            }
+
+            #btn-home {
+                height: 30px;
+                min-width: 50px;
+                max-width: 80px;
+                padding: 4px 6px;
+                gap: 3px;
+            }
+
+            #btn-home span {
+                font-size: 11px;
+                line-height: 1;
+            }
+
+            #btn-home i {
+                font-size: 12px;
+                line-height: 1;
+            }
+
+            .navbar {
+                padding: 0.25rem 0.5rem;
+                height: 85px !important;
+            }
+
+            /* Ensure navbar elements are always visible */
+            .navbar .container-fluid {
+                display: flex;
+                justify-content: space-between;
+                align-items: center;
+                flex-wrap: nowrap;
+            }
+
+            .navbar .d-flex {
+                flex-shrink: 0;
+            }
+
+            #content {
+                padding: 5px;
+                margin-top: 85px !important;
+            }
+
+            #sidebar {
+                top: 85px !important;
+                height: calc(100vh - 85px) !important;
+            }
+        }
+
+        #sidebar::-webkit-scrollbar {
+            width: 0;
+        }
+
+        #sidebar p {
+            padding: 15px;
+            background: #F2994A;
+            font-weight: bold;
+            font-size: 20px;
+        }
+
+        #sidebar ul.components {
+            padding: 20px 0;
+        }
+
+
+        #sidebar ul li a {
+            padding: 10px;
+            font-size: 1em;
+            display: block;
+            background-color: #f4a158;
+        }
+
+        #sidebar ul li a:hover {
+            background: #d06e17;
+        }
+
+        #sidebar ul li.sb-active>a,
+        a[aria-expanded="true"] {
+            color: #fff;
+        }
+
+        a[data-toggle="collapse"] {
+            position: relative;
+        }
+
+        #navbarSupportedContent .dropdown-toggle::after {
+            display: block;
+            position: absolute;
+            top: 50%;
+            right: -15%;
+            transform: translateY(-50%);
+        }
+
+        .dropdown-toggle::after {
+            display: none !important;
+        }
+
+        /* Custom dropdown arrow */
+        .dropdown-toggle .dropdown-arrow {
+            position: absolute;
+            right: -15px;
+            top: 50%;
+            transform: translateY(-50%);
+            color: white;
+            font-size: 12px;
+        }
+
+        #sidebar ul ul a {
+            font-size: 0.9em !important;
+            padding-left: 30px !important;
+            background: #d29a68;
+        }
+
+        #content {
+            width: 100%;
+            padding: 20px;
+            transition: all 0.3s;
+            margin-top: 90px;
+        }
+
+        #ui-datepicker-div {
+            width: fit-content;
+        }
+
+        .mat-2 {
+            position: relative;
+            left: -30px;
+        }
+
+        table {
+            /* Set "my-sec-counter" to 0 */
+            counter-reset: my-sec-counter;
+        }
+
+        .counter::before {
+            /* Increment "my-sec-counter" by 1 */
+            counter-increment: my-sec-counter;
+            content: counter(my-sec-counter);
+        }
+
+        .menu-btn:focus {
+            outline: none;
+            box-shadow: none;
+        }
+
+        .required-field:after {
+            content: "    *";
+            color: red;
+            font-size: 20px;
+        }
+
+        .table .thead-dark th {
+            color: #fff;
+            background-color: #F2994A;
+            border-color: #fff;
+        }
+
+        .dropdown-toggle::after {
+            right: 20px;
+        }
+
+        #btn-home {
+            padding: 8px 12px;
+            background-color: #28a745;
+            color: white;
+            font-weight: bold;
+            min-width: 80px;
+            max-width: 120px;
+            height: 40px;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            white-space: nowrap;
+            transition: all 0.3s ease;
+            gap: 6px;
+        }
+
+        #btn-home:hover {
+            background-color: #218838;
+            transform: translateY(-1px);
+        }
+
+        #btn-home span {
+            font-size: 15px;
+            line-height: 1;
+        }
+
+        #btn-home i {
+            font-size: 16px;
+            line-height: 1;
+        }
+
+        label[class=error] {
+            color: red
+        }
+
+        #lbtnSignOut {
+            color: #08c
+        }
+
+        #lbtnSignOut:hover {
+            text-decoration: underline;
+            cursor: pointer;
+        }
+
+        /* Navbar responsive improvements */
+        .navbar .container-fluid {
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+            flex-wrap: nowrap;
+        }
+
+        .navbar .d-flex {
+            flex-shrink: 0;
+        }
+
+        /* Mobile navbar improvements */
+        @media (max-width: 768px) {
+            .navbar .container-fluid {
+                padding: 0.5rem;
+            }
+
+            .navbar .d-flex:first-child {
+                flex: 0 0 auto;
+            }
+
+            .navbar .d-flex:last-child {
+                flex: 0 0 auto;
+            }
+
+            /* Dropdown menu mobile positioning */
+            .dropdown-menu {
+                right: 0 !important;
+                left: auto !important;
+                max-width: 90vw !important;
+                min-width: 200px !important;
+            }
+        }
+    </style>
+
+</head>
+
+<body style="">
+
+    <nav class="navbar navbar-expand-lg px-0 pb-2 m-0 nav-fix" style="background-color: #F2994A ; color: white; height:97px;" aria-label="Main navigation">
+        <div class="container-fluid p-0">
+            <!-- Left side: Menu button and Home button -->
+            <div class="d-flex align-items-center">
+                <button type="button" id="sidebarCollapse" class="menu-btn btn " style="background-color: rgb(242, 153, 74); display: none;">
+                    <img class="img-home" src="/Images/menu1.png" alt="Alternate Text" style="width:35px">
+                </button>
+
+                <a id="btn-home" class="btn btn-success btn-lg ml-2" href="/Home">
+                    <i class="fa fa-home fa-lg" aria-hidden="true"></i>
+                    <span style="font-weight:bold;">Home</span>
+                </a>
+            </div>
+
+            <!-- Center: Title -->
+            <h1 class="text-center page-title mx-auto" style="position: absolute; left: 50%; transform: translateX(-50%);" aria-label="Page title">
+                FPT University Learning Materials</h1>
+
+            <!-- Right side: Language and Profile -->
+            <div class="d-flex align-items-center">
+                <!-- Language Selector -->
+                <div class="mr-3">
+                    <select id="language" style="z-index: 1; width: 130px;height:34.5px" class="form-control" aria-label="Select language">
+                        <option value="en">English</option>
+                        <option value="vi">Vietnamese</option>
+                    </select>
+                </div>
+
+                <!-- User Profile Dropdown -->
+                <div class="dropdown">
+                    <button class="btn btn-link nav-link dropdown-toggle p-0 position-relative" id="navbarDropdown" type="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false" aria-label="User profile menu">
+                        <img id="ProfileImage" class="rounded-circle" width="50" height="50" alt="User profile" src="/Images/avatar_reviewer.jpg">
+                        <i class="fa fa-chevron-down dropdown-arrow"></i>
+                    </button>
+                    <div class="dropdown-menu dropdown-menu-right" aria-labelledby="navbarDropdown" style="right: 0; left: auto; max-width: 90vw;">
+                        <div id="pnlProfile">
+                            <span class="dropdown-item">
+                                Name:
+                                <span id="lblName" style="font-weight: bold">lequanghieu2504@gmail.com</span>
+                            </span>
+                            <span class="dropdown-item">
+                                <span id="pnlEmail">
+                                    Email:
+                                    <span id="lblEmail" style="font-weight: bold">lequanghieu2504@gmail.com</span>
+                                </span>
+                            </span>
+                            <span class="dropdown-item">
+                                User's role:
+                                <span id="lblRole" style="font-weight: bold">Student</span>
+                            </span>
+                            <span class="dropdown-item">
+                                Education level:
+                                <span id="lblEduLevel" style="font-weight: bold">FPTU</span>
+                            </span>
+                            <div class="dropdown-item ">
+                                <button id="lbtnSignOut" class="btn btn-link p-0 text-left" style="color: #08c; text-decoration: none;" onclick="lbtnSignOut_Click">
+                                    Sign out
+                                    FLM
+                                </button>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </nav>
+
+    <div class="wrapper">
+        <nav id="sidebar" class="sb-active" style="padding-bottom: 60px;" aria-label="Main navigation">
+            <ul class="lisst-unstyled components p-0" id="panelHeadFeatures" style="display: none;">
+                <li>
+                    <a href="#pageSubmenu2" data-toggle="collapse" aria-expanded="false" class="dropdown-toggle">
+                        -
+                        Curriculum
+                    </a>
+                    <ul class="collapse list-unstyled" id="pageSubmenu2">
+                        <li>
+                            <a href="/gui/curriculum/CurHomepage.aspx">+ Search</a>
+                        </li>
+                        <li>
+                            <a href="/gui/curriculum/AddCurri.aspx">+ Add New Curriculum</a>
+                        </li>
+                        <li>
+                            <a href="/gui/PLO/AddPLO.aspx">+ Add New PLO</a>
+                        </li>
+                        
+                        <li>
+                            <a href="/gui/curriculum/CurSubHomepage.aspx">+ Curriculum Subjects Management</a>
+                            
+                            
+                        </li><li>
+                            <a href="/gui/assignedCurriculum/AssignCurriculumManagement.aspx">
+                                + Assign Curriculum
+                                Management
+                            </a>
+                        </li>
+                    </ul>
+                </li>
+                <li>
+                    <a href="#pageSubmenu3" data-toggle="collapse" aria-expanded="false" class="dropdown-toggle">
+                        -
+                        Curriculum Subject
+                    </a>
+                    <ul class="collapse list-unstyled" id="pageSubmenu3">
+                        <li>
+                            <a href="/gui/curriculum/CurSubHomepage.aspx">+ Manage</a>
+                        </li>
+                        <li>
+                            <a href="/gui/curriculum/AddCurri.aspx">+ Add Curriculum</a>
+                        </li>
+                    </ul>
+                </li>
+                <li>
+                    <a href="#pageSubmenu4" data-toggle="collapse" aria-expanded="false" class="dropdown-toggle">
+                        -
+                        Syllabus
+                    </a>
+                    <ul class="collapse list-unstyled" id="pageSubmenu4">
+                        <li>
+                            <a href="/gui/syllabus/SyllabusManagement.aspx">+ Search</a>
+                        </li>
+                        <li>
+                            <a href="/gui/assignedSyllabus/AssignedSyllabusManagement">
+                                + Assigned Syllabus
+                                Management
+                            </a>
+                        </li>
+                        <li>
+                            <a id="hpImportSyl" href="/gui/syllabus/ImportSyllabus.aspx">
+                                + Import syllabus from Excel
+                                file
+                            </a>
+                        </li>
+                    </ul>
+                </li>
+                <li>
+                    <a href="#pageSubmenu5" data-toggle="collapse" aria-expanded="false" class="dropdown-toggle">
+                        -
+                        Required Knowledge and Skills
+                    </a>
+                    <ul class="collapse list-unstyled" id="pageSubmenu5">
+                        <li>
+                            <a href="/gui/subjectGroup/SubCurGroupManagement.aspx">+ Curriculum Subject Grouping</a>
+                        </li>
+                        <li>
+                            <a id="HyperLink2" href="/gui/subjectGroup/SubjectGroupManagent.aspx">
+                                + Subject Group
+                                Management
+                            </a>
+                        </li>
+                    </ul>
+                </li>
+                <li>
+                    <a href="#pageSubmenu6" data-toggle="collapse" aria-expanded="false" class="dropdown-toggle">
+                        -
+                        Assessment Type
+                    </a>
+                    <ul class="collapse list-unstyled" id="pageSubmenu6">
+                        <li>
+                            <a href="/gui/assessmentType/AssessmentTypeHomepage.aspx">+ Manage</a>
+                        </li>
+                        <li>
+                            <a id="hpLinkAddAst" href="/gui/assessmentType/AddAst.aspx">+ Add New Assessment Type</a>
+                        </li>
+                    </ul>
+                </li>
+                <li>
+                    <a href="#pageSubmenu7" data-toggle="collapse" aria-expanded="false" class="dropdown-toggle">
+                        -
+                        Subject
+                    </a>
+                    <ul class="collapse list-unstyled" id="pageSubmenu7">
+                        <li>
+                            <a href="/gui/subject/SubjectHomepage.aspx">+ Manage</a>
+                        </li>
+                        <li>
+                            <a id="hpLinkAddSub" href="/gui/subject/AddSub.aspx">+ Add New Subject</a>
+                        </li>
+                        <li>
+                            <a id="hpLinkImportSub" href="/gui/subject/ImportSubject.aspx">+ Import Subjects</a>
+                        </li>
+                    </ul>
+                </li>
+                <li>
+                    <a href="#pageSubmenu8" data-toggle="collapse" aria-expanded="false" class="dropdown-toggle">
+                        -
+                        User
+                    </a>
+                    <ul class="collapse list-unstyled" id="pageSubmenu8">
+                        <li>
+                            <a href="/gui/user/UserManagement.aspx">+ Search</a>
+                        </li>
+                        <li>
+                            <a id="hpLinkAddUser" href="/gui/user/AddUser.aspx">+ Add New User</a>
+                        </li>
+                    </ul>
+                </li>
+                <li>
+                    <a href="#pageSubmenu9" data-toggle="collapse" aria-expanded="false" class="dropdown-toggle">
+                        -
+                        Tools
+                    </a>
+                    <ul class="collapse list-unstyled" id="pageSubmenu9">
+                        <li>
+                            <a id="HyperLink3" href="/gui/tool/UpdateCurWithNewSyl.aspx">
+                                + Update curriculums with new
+                                syllabus version
+                            </a>
+                        </li>
+                        <li>
+                            <a id="HyperLink4" href="/gui/tool/SubjectReporting.aspx">+ Subject Reporting</a>
+                        </li>
+                        <li>
+                            <a id="hpExportTextBookToOrder" href="/gui/tool/ExportTextbookToOrder.aspx">
+                                + Export
+                                Textbook to Order
+                            </a>
+                        </li>
+                        <li>
+                            <a id="HyperLink6" href="/gui/tool/ExportGradingStructure.aspx">
+                                + Export Grading
+                                Structure
+                            </a>
+                        </li>
+                        <li>
+                            <a id="HyperLink7" href="/gui/tool/ExportMaterialsOfCur.aspx">
+                                + Export Materials of
+                                Curriculum
+                            </a>
+                        </li>
+                        <li>
+                            <a id="hpSyllabusReporting" href="/gui/tool/SyllabusReporting.aspx">
+                                + Syllabus
+                                Reporting
+                            </a>
+                        </li>
+                        <li>
+                            <a id="hpCurriculumReporting" href="/gui/tool/CurriculumReporting.aspx">
+                                + Curriculum
+                                Reporting
+                            </a>
+                        </li>
+                        <li>
+                            <a id="hpMaterialReporting" href="/gui/tool/MaterialReporting.aspx">
+                                + Material
+                                Reporting
+                            </a>
+                        </li>
+                        <li>
+                            <a id="hpLOReporting" href="/gui/tool/LOReporting.aspx">+ CLO Reporting</a>
+                        </li>
+                        <li>
+                            <a id="hpScheduleReporting" href="/gui/tool/ScheduleReporting.aspx">
+                                + Schedule
+                                Reporting
+                            </a>
+                        </li>
+                        <li>
+                            <a id="hpFinalCheck" href="/gui/tool/FinalCheck.aspx">+ Final Check</a>
+                        </li>
+                    </ul>
+                </li>
+                <li>
+                    <a href="#pageSubmenu10" data-toggle="collapse" aria-expanded="false" class="dropdown-toggle">
+                        -
+                        Campus
+                    </a>
+                    <ul class="collapse list-unstyled" id="pageSubmenu10">
+                        <li>
+                            <a href="/gui/campus/CampusManagement.aspx">+ Manage</a>
+                        </li>
+                        <li>
+                            <a id="hpLinkAddCampus" cssclass="auto-style-1" href="/gui/campus/AddCampus.aspx">
+                                + Add New
+                                Campus
+                            </a>
+                        </li>
+                    </ul>
+                </li>
+                <li>
+                    <a href="/gui/reportSemester/DownloadReportFile.aspx">- Download report file</a>
+                </li>
+                <li>
+                    <a href="/gui/tool/CurriculumOfSubject.aspx">- Show Curriculum of a Subject</a>
+                </li>
+                <li>
+                    <a href="/gui/tool/AllPrequisiteSubject.aspx">- Show Learning Path of a Subject</a>
+                </li>
+                <li>
+                    <a href="/gui/tool/AllCorollarySubject.aspx">- A subject is the pre-requisite of</a>
+                </li>
+                <li>
+                    <a href="#pageSubmenu11" data-toggle="collapse" aria-expanded="false" class="dropdown-toggle">
+                        -
+                        Decision
+                    </a>
+                    <ul class="collapse list-unstyled" id="pageSubmenu11">
+                        <li>
+                            <a href="/decision">+ Manage</a>
+                        </li>
+                        <li>
+                            <a href="/decision/Create">+ Add New Campus</a>
+                        </li>
+                        <li>
+                            <a href="/decision/ImportDecision">+ Import Decision from Excel file</a>
+
+                        </li>
+                        
+                        
+                        
+                    </ul>
+                </li>
+                <li>
+                    <a href="#pageSubmenu12" data-toggle="collapse" aria-expanded="false" class="dropdown-toggle">
+                        -
+                        Learning &amp; Teaching method
+                    </a>
+                    <ul class="collapse list-unstyled" id="pageSubmenu12">
+                        <li>
+                            <a href="/LTMethod">+ Manage</a>
+                        </li>
+                        <li>
+                            <a href="/LTMethod/Create">+ Add New Learnig &amp; Teaching method</a>
+                        </li>
+
+
+                    </ul>
+                </li>
+                <li>
+                    <a href="#pageSubmenu13" data-toggle="collapse" aria-expanded="false" class="dropdown-toggle">
+                        -
+                        SemesterPlan
+                    </a>
+                    <ul class="collapse list-unstyled" id="pageSubmenu13">
+                        <li>
+                            <a href="/SemesterPlans">+ Manage</a>
+                        </li>
+                        <li>
+                            <a href="/SemesterPlans/Create">+ Add new SemesterPlans</a>
+                        </li>
+
+                    </ul>
+                </li>
+                <li>
+                    <a href="/syllabusPlan">- Syllabus Plans Management</a>
+                </li>
+                <li>
+                    <a href="/CurriculumPlan">- Curriculum Plans Management</a>
+                </li>
+
+
+            </ul>
+            <ul class="lisst-unstyled components p-0" id="panelStaffFeatures" style="display: none;">
+                <li>
+                    <a href="#pageSubmenu14" data-toggle="collapse" aria-expanded="false" class="dropdown-toggle">
+                        -
+                        Curriculum
+                    </a>
+                    <ul class="collapse list-unstyled" id="pageSubmenu14">
+                        <li>
+                            <a href="/gui/curriculum/CurHomepage.aspx">+ Search</a>
+                        </li>
+                        <li>
+                            <a href="/gui/curriculum/AddCurri.aspx">+ Add New Curriculum</a>
+                        </li>
+                        <li>
+                            <a href="/gui/PLO/AddPLO.aspx">+ Add New PLO</a>
+                        </li>
+                        
+                        <li visible="False" runat="server">
+                            <a href="/gui/assignedCurriculum/MyCurriculums.aspx">+ My Curriculums</a>
+                        </li>
+                        <li>
+                            <a href="/gui/curriculum/CurSubHomepage.aspx">+ Curriculum Subjects Management</a>
+                        </li>
+                        <li>
+                            <a href="/gui/assignedCurriculum/AssignCurriculumManagement.aspx">
+                                + Assign Curriculum
+                                Management
+                            </a>
+                        </li>
+                    </ul>
+                </li>
+                <li>
+                    <a href="#pageSubmenu15" data-toggle="collapse" aria-expanded="false" class="dropdown-toggle">
+                        -
+                        Curriculum Subject
+                    </a>
+                    <ul class="collapse list-unstyled" id="pageSubmenu15">
+                        <li>
+                            <a href="/gui/curriculum/CurSubHomepage.aspx">+ Manage</a>
+                        </li>
+                        <li>
+                            <a href="/gui/curriculum/AddCurri.aspx">+ Add Curriculum</a>
+                        </li>
+                    </ul>
+                </li>
+                <li>
+                    <a href="#pageSubmenu16" data-toggle="collapse" aria-expanded="false" class="dropdown-toggle">
+                        -
+                        Syllabus
+                    </a>
+                    <ul class="collapse list-unstyled" id="pageSubmenu16">
+                        <li>
+                            <a href="/gui/syllabus/SyllabusManagement.aspx">+ Search</a>
+                        </li>
+                        <li>
+                            <a href="/gui/assignedSyllabus/AssignedSyllabusManagement">
+                                + Assigned Syllabus
+                                Management
+                            </a>
+                        </li>
+                        <li>
+                            <a id="HyperLink1" href="/gui/syllabus/ImportSyllabus.aspx">
+                                + Import syllabus from Excel
+                                file
+                            </a>
+                        </li>
+                    </ul>
+                </li>
+                <li>
+                    <a href="#pageSubmenu17" data-toggle="collapse" aria-expanded="false" class="dropdown-toggle">
+                        -
+                        Required Knowledge and Skills
+                    </a>
+                    <ul class="collapse list-unstyled" id="pageSubmenu17">
+                        <li>
+                            <a href="/gui/subjectGroup/SubCurGroupManagement.aspx">+ Curriculum Subject Grouping</a>
+                        </li>
+                        <li>
+                            <a id="HyperLink5" href="/gui/subjectGroup/SubjectGroupManagent.aspx">
+                                + Subject Group
+                                Management
+                            </a>
+                        </li>
+                    </ul>
+                </li>
+                <li>
+                    <a href="#pageSubmenu18" data-toggle="collapse" aria-expanded="false" class="dropdown-toggle">
+                        -
+                        Assessment Type
+                    </a>
+                    <ul class="collapse list-unstyled" id="pageSubmenu18">
+                        <li>
+                            <a href="/gui/assessmentType/AssessmentTypeHomepage.aspx">+ Manage</a>
+                        </li>
+                        <li>
+                            <a id="HyperLink8" href="/gui/assessmentType/AddAst.aspx">+ Add New Assessment Type</a>
+                        </li>
+                    </ul>
+                </li>
+                <li>
+                    <a href="#pageSubmenu19" data-toggle="collapse" aria-expanded="false" class="dropdown-toggle">
+                        -
+                        Subject
+                    </a>
+                    <ul class="collapse list-unstyled" id="pageSubmenu19">
+                        <li>
+                            <a href="/gui/subject/SubjectHomepage.aspx">+ Manage</a>
+                        </li>
+                        <li>
+                            <a id="HyperLink9" href="/gui/subject/AddSub.aspx">+ Add New Subject</a>
+                        </li>
+                        <li>
+                            <a id="HyperLink10" href="/gui/subject/ImportSubject.aspx">+ Import Subjects</a>
+                        </li>
+                    </ul>
+                </li>
+
+                <li>
+                    <a href="#pageSubmenu20" data-toggle="collapse" aria-expanded="false" class="dropdown-toggle">
+                        -
+                        Tools
+                    </a>
+                    <ul class="collapse list-unstyled" id="pageSubmenu20">
+                        <li>
+                            <a href="/gui/tool/AllTools.aspx">+ Manage</a>
+                        </li>
+                        <li>
+                            <a id="HyperLink12" href="/gui/tool/UpdateCurWithNewSyl.aspx">
+                                + Update curriculums with new
+                                syllabus version
+                            </a>
+                        </li>
+                        <li>
+                            <a id="HyperLink13" href="/gui/tool/SubjectReporting.aspx">+ Subject Reporting</a>
+                        </li>
+                        <li>
+                            <a id="HyperLink14" href="/gui/tool/ExportTextbookToOrder.aspx">
+                                + Export Textbook to
+                                Order
+                            </a>
+                        </li>
+                        <li>
+                            <a id="HyperLink15" href="/gui/tool/ExportGradingStructure.aspx">
+                                + Export Grading
+                                Structure
+                            </a>
+                        </li>
+                        <li>
+                            <a id="HyperLink16" href="/gui/tool/ExportMaterialsOfCur.aspx">
+                                + Export Materials of
+                                Curriculum
+                            </a>
+                        </li>
+                        <li>
+                            <a id="HyperLink17" href="/gui/tool/SyllabusReporting.aspx">+ Syllabus Reporting</a>
+                        </li>
+                        <li>
+                            <a id="HyperLink18" href="/gui/tool/CurriculumReporting.aspx">+ Curriculum Reporting</a>
+                        </li>
+                        <li>
+                            <a id="HyperLink19" href="/gui/tool/MaterialReporting.aspx">+ Material Reporting</a>
+                        </li>
+                        <li>
+                            <a id="HyperLink20" href="/gui/tool/LOReporting.aspx">+ CLO Reporting</a>
+                        </li>
+                        <li>
+                            <a id="HyperLink21" href="/gui/tool/ScheduleReporting.aspx">+ Schedule Reporting</a>
+                        </li>
+                        <li>
+                            <a id="HyperLink22" href="/gui/tool/FinalCheck.aspx">+ Final Check</a>
+                        </li>
+                    </ul>
+                </li>
+
+                <li>
+                    <a href="/gui/reportSemester/DownloadReportFile.aspx">- Download report file</a>
+                </li>
+                <li>
+                    <a href="/gui/tool/CurriculumOfSubject.aspx">- Show Curriculum of a Subject</a>
+                </li>
+                <li>
+                    <a href="/gui/tool/AllPrequisiteSubject.aspx">- Show Learning Path of a Subject</a>
+                </li>
+                <li>
+                    <a href="/gui/tool/AllCorollarySubject.aspx">- A subject is the pre-requisite of</a>
+                </li>
+                <li>
+                    <a href="#pageSubmenu21" data-toggle="collapse" aria-expanded="false" class="dropdown-toggle">
+                        -
+                        Decision
+                    </a>
+                    <ul class="collapse list-unstyled" id="pageSubmenu21">
+                        <li>
+                            <a href="/decision">+ Manage</a>
+                        </li>
+                        <li>
+                            <a href="/decision/Create">+ Add New Campus</a>
+                        </li>
+                        <li>
+                            <a href="/decision/ImportDecision">+ Import Decision from Excel file</a>
+
+                        </li>
+                        
+                        
+                        
+                    </ul>
+                </li>
+                <li>
+                    <a href="#pageSubmenu22" data-toggle="collapse" aria-expanded="false" class="dropdown-toggle">
+                        -
+                        Learning &amp; Teaching method
+                    </a>
+                    <ul class="collapse list-unstyled" id="pageSubmenu22">
+                        <li>
+                            <a href="/LTMethod">+ Manage</a>
+                        </li>
+                        <li>
+                            <a href="/LTMethod/Create">+ Add New Learnig &amp; Teaching Method</a>
+                        </li>
+
+
+                    </ul>
+                </li>
+                <li>
+                    <a href="#pageSubmenu23" data-toggle="collapse" aria-expanded="false" class="dropdown-toggle">
+                        -
+                        SemesterPlan
+                    </a>
+                    <ul class="collapse list-unstyled" id="pageSubmenu23">
+                        <li>
+                            <a href="/SemesterPlans">+ Manage</a>
+                        </li>
+                        <li>
+                            <a href="/SemesterPlans/Create">+ Add new SemesterPlans</a>
+                        </li>
+
+                    </ul>
+                </li>
+                <li>
+                    <a href="/Template/Guideline_Using_FLM_ver2.0.pdf" target="_blank">- View FLM guideline</a>
+                </li>
+            </ul>
+        </nav>
+        <div id="content" class="p-2">
+
+            <div class="mx-3">
+                
+
+<style type="text/css">
+    .auto-style2 {
+        width: 155px;
+    }
+
+    .auto-style3 {
+        width: 155px;
+        height: 24px;
+    }
+
+    #gvSubs,
+    #table-detail,
+    #gvMaterial,
+    #gvLO,
+    #gvSchedule,
+    #gvAssessment,
+    #gvCQ {
+        border: 1px solid rgba(0, 0, 0, .05);
+    }
+
+    #gvSubs th,
+    #gvMaterial th,
+    #gvLO th,
+    #gvSchedule th,
+    #gvAssessment th,
+    #gvCQ th {
+        font-weight: bold;
+        background-color: #F2994A;
+        color: white;
+    }
+
+    .table-detail tr td {
+        padding: 6px 10px 6px 10px;
+    }
+</style>
+
+<div>
+    <h1 class="mb-4">Syllabus Details</h1>
+
+
+        <table id="table-detail" class="tbl-detail" cellspacing="0" rules="all" border="1" style="border-collapse: collapse; width: 100%;">
+            <tbody><tr>
+                <td class="auto-style2" align="right" style="text-align: right;">Syllabus ID:</td>
+                <td>11585</td>
+            </tr>
+            <tr>
+                <td class="auto-style3" align="right" style="text-align: right;">Syllabus Name:</td>
+                <td><b>Introduction to Computer Science_Nhập môn khoa học máy tính</b></td>
+            </tr>
+            <tr>
+                <td class="auto-style3 text-right">Course Name English:</td>
+                <td><b>Introduction to Computer Science</b></td>
+            </tr>
+            <tr>
+                <td class="auto-style2" align="right" style="text-align: right;">Subject Code:</td>
+                <td><b>CSI106</b></td>
+            </tr>
+            <tr>
+                <td class="auto-style2" align="right" style="text-align: right;">Learning-Teaching Method:</td>
+                <td>Social Constructivism,Inquiry-Based Learning,In-class lecture, Active Learning</td>
+            </tr>
+            <tr>
+                <td class="auto-style2" align="right" style="text-align: right;">NoCredit:</td>
+                <td>3</td>
+            </tr>
+            <tr>
+                <td class="auto-style2" align="right" style="text-align: right;">Degree Level:</td>
+                <td>Bachelor</td>
+            </tr>
+            <tr>
+                <td class="auto-style2" align="right" style="text-align: right;">Time Allocation:</td>
+                <td>Study hour (150h) = 45h contact hours + 5h online + 1h final exam + 99h self-study</td>
+            </tr>
+            <tr>
+                <td class="auto-style2" align="right" style="text-align: right;">Pre-Requisite:</td>
+                <td></td>
+            </tr>
+            <tr>
+                <td class="auto-style2" align="right" style="text-align: right;">Description:</td>
+                <td>This course provides an overview of computer fundamentals. Topics cover all areas of computer science in breadth such as computer organization, network, operating system, data structure , file structure, social and ethical issues.
+<br>Major Instructional Areas
+<br>- Introduction to Von Neumann Model and computer components
+<br>- Numbering system &amp; data representation
+<br>- Different data types and operations on data
+<br>- The concepts of computer networking and internet
+<br>- Operating system
+<br>- Introduction to basic algorithms and algorithms representation
+<br>- Introduction to Data structure and File structure
+<br>- The concepts of database
+<br>- Software engineering
+<br>- Computing Security &amp; Ethics
+<br>- Introduction to Artificial Intelligence (Additional Learning)</td>
+            </tr>
+            <tr>
+                <td class="auto-style2" align="right" style="text-align: right;">StudentTasks:</td>
+                <td>- Students must attend at least 80% of contact sessions in order to be accepted to the final examination.
+<br>- Students are responsible to do all exercises, assignments and labs given by instructor in class or at home and submit on time
+<br>- Use laptop in class only for learning purpose
+<br>- Complete Additional Learning (AI For Everyone course in Coursera) and achieve the certificate
+<br>- Promptly access to the https://flm.fpt.edu.vn for up-to-date course information"</td>
+            </tr>
+            <tr>
+                <td class="auto-style2" align="right" style="text-align: right;">Tools:</td>
+                <td></td>
+            </tr>
+                <tr>
+                    <td class="auto-style2" align="right" style="text-align: right;">Scoring Scale:</td>
+                    <td>10</td>
+        </tr>
+            <tr>
+                <td class="auto-style2" align="right" style="text-align: right;">DecisionNo MM/dd/yyyy:</td>
+                <td>765/QĐ-ĐHFPT dated 07/29/2024</td>
+            </tr>
+            <tr>
+                <td class="auto-style2" align="right" style="text-align: right;">IsApproved:</td>
+                <td><b>True</b></td>
+            </tr>
+            <tr>
+                <td class="auto-style2" align="right" style="text-align: right;">Note:</td>
+                <td></td>
+            </tr>
+            <tr>
+                <td class="auto-style2" align="right" style="text-align: right;">Is Scored:</td>
+                <td><b>True</b></td>
+            </tr>
+                <tr>
+                    <td class="auto-style3" align="right" style="text-align: right;">MinAvgMarkToPass:
+                    </td>
+                    <td>
+                        5
+            </td>
+        </tr>
+            <tr>
+                <td class="auto-style3" align="right" style="text-align: right;">IsActive:</td>
+                <td>True</td>
+            </tr>
+            <tr>
+                <td class="auto-style2" align="right" style="text-align: right;">ApprovedDate:</td>
+                <td>7/29/2024</td>
+            </tr>
+        </tbody></table>
+        <br>
+        <!-- Materials Section -->
+        <label style="color: #23ac68;">4 material(s)</label>
+        <br>
+            <table id="gvMaterial" class="table table-striped tbl-data">
+                <thead>
+                    <tr>
+                        <th style="width: 3%; text-align: center;">No.</th>
+                        <th>Material Description</th>
+                        <th>Author</th>
+                        <th>Publisher</th>
+                        <th>Published Date</th>
+                        <th>Edition</th>
+                        <th>ISBN</th>
+                        <th>Is Main Material</th>
+                        <th>Is Hard Copy</th>
+                        <th>Is Online</th>
+                        <th>Note</th>
+                    </tr>
+                </thead>
+                <tbody>
+                        <tr>
+                            <td style="text-align: center;">1</td>
+                            <td>Foundations Of Computer Science</td>
+                            <td>Behrouz Forouzan</td>
+                            <td>Cengage</td>
+                            <td>2017</td>
+                            <td>4th</td>
+                            <td>978-1-4737-5104-0                                                                                   </td>
+                            <td>True</td>
+                            <td>True</td>
+                            <td>False</td>
+                            <td></td>
+                        </tr>
+                        <tr>
+                            <td style="text-align: center;">2</td>
+                            <td>Fundamentals of Information Systems Security</td>
+                            <td></td>
+                            <td>Jones &amp; Bartlett</td>
+                            <td>2016</td>
+                            <td>3rd</td>
+                            <td>                                                                                                    </td>
+                            <td>False</td>
+                            <td>True</td>
+                            <td>False</td>
+                            <td></td>
+                        </tr>
+                        <tr>
+                            <td style="text-align: center;">3</td>
+                            <td>Computer architecture : A quantitative approach</td>
+                            <td>John L. Hennessy, David A Patterson</td>
+                            <td>Morgan Kaufmann</td>
+                            <td>2011</td>
+                            <td>5th</td>
+                            <td>                                                                                                    </td>
+                            <td>False</td>
+                            <td>True</td>
+                            <td>False</td>
+                            <td></td>
+                        </tr>
+                        <tr>
+                            <td style="text-align: center;">4</td>
+                            <td>AI For Everyone" course in Coursera<br>https://www.coursera.org/learn/ai-for-everyone/</td>
+                            <td>Andrew Ng</td>
+                            <td>DeepLearning.AI</td>
+                            <td></td>
+                            <td></td>
+                            <td>                                                                                                    </td>
+                            <td>True</td>
+                            <td>False</td>
+                            <td>True</td>
+                            <td>Additional Learning</td>
+                        </tr>
+                </tbody>
+            </table>
+        <br>
+        <!-- LOs Section -->
+        <label style="color: #23ac68;">13 LO(s)</label>
+            <table id="gvLO" class="table table-striped tbl-data">
+                <thead>
+                    <tr>
+                        <th style="width: 3%; text-align: center;">No.</th>
+                        <th style="width: 5%;">CLO Name</th>
+                        <th>CLO Details</th>
+                    </tr>
+                </thead>
+                <tbody>
+                        <tr>
+                            <td style="text-align: center;">1</td>
+                            <td>CLO1</td>
+                            <td>Understand the subsystems of a computer and describe the role of these components</td>
+                        </tr>
+                        <tr>
+                            <td style="text-align: center;">2</td>
+                            <td>CLO2</td>
+                            <td>Know how to convert a number from one base to other base( decimal, binary, octal and hexadecimal)</td>
+                        </tr>
+                        <tr>
+                            <td style="text-align: center;">3</td>
+                            <td>CLO3</td>
+                            <td>Describe how different data type is stored inside a computer as bit patterns and operations on data</td>
+                        </tr>
+                        <tr>
+                            <td style="text-align: center;">4</td>
+                            <td>CLO4</td>
+                            <td>Describe the layers in netwoking and their relationship</td>
+                        </tr>
+                        <tr>
+                            <td style="text-align: center;">5</td>
+                            <td>CLO5</td>
+                            <td>Undestand the role of OS in a computer system</td>
+                        </tr>
+                        <tr>
+                            <td style="text-align: center;">6</td>
+                            <td>CLO6</td>
+                            <td>Define a algorithm and describe tools used to develop algorithms</td>
+                        </tr>
+                        <tr>
+                            <td style="text-align: center;">7</td>
+                            <td>CLO7</td>
+                            <td>Explain how a program in a high-level language is translated into machine language</td>
+                        </tr>
+                        <tr>
+                            <td style="text-align: center;">8</td>
+                            <td>CLO8</td>
+                            <td>Describe the software lifecycle</td>
+                        </tr>
+                        <tr>
+                            <td style="text-align: center;">9</td>
+                            <td>CLO9</td>
+                            <td>Discuss some data structures: Array, Records, Linked list</td>
+                        </tr>
+                        <tr>
+                            <td style="text-align: center;">10</td>
+                            <td>CLO10</td>
+                            <td>Distinguish between text file and binary file and access methods</td>
+                        </tr>
+                        <tr>
+                            <td style="text-align: center;">11</td>
+                            <td>CLO11</td>
+                            <td>Describe and explain operations within a relational database</td>
+                        </tr>
+                        <tr>
+                            <td style="text-align: center;">12</td>
+                            <td>CLO12</td>
+                            <td>Descibe security goals and discuss ethical issues</td>
+                        </tr>
+                        <tr>
+                            <td style="text-align: center;">13</td>
+                            <td>CLO13</td>
+                            <td>Describe artificial intelligence and its basic concepts</td>
+                        </tr>
+                </tbody>
+            </table>
+        <a href="/CLOMapping/View?syllabusID=11585" target="_blank">View mapping of CLOs to PLOs</a>
+        <br>
+        <br>
+        <!-- Download Buttons & Schedule Section (student: no teacher materials / T-download) -->
+        <button class="margin-bot-10 btn btn-primary btn-blue ml-1 fs-inherit" id="btnDownloadAllStudentMaterial">
+            Download All Student Material
+        </button>
+        <label style="color: #23ac68;">
+        </label>
+            <table id="gvSchedule" class="auto-style2 table table-striped tbl-data" style="width: 100%;">
+                <thead>
+                    <tr>
+                        <th>Session</th>
+                        <th>Topic</th>
+                        <th>Learning-Teaching Type</th>
+                        <th>LO</th>
+                        <th>ITU</th>
+                        <th>Student Materials</th>
+                        <th>S-Download</th>
+                        <th>Student's Tasks</th>
+                        <th>URLs</th>
+                    </tr>
+                </thead>
+                <tbody>
+                        <tr>
+                            <td>1</td>
+                            <td>Introduction to the Course<br>1.Computer Organization<br>1.1 Von Neumann model</td>
+                            <td>Offline</td>
+                            <td>CLO1</td>
+                            <td>IT</td>
+                            <td class="product">- Chapter 1, text book<br>- Slides: Part 1-1, <br>- EduNext Slot 1 (Q&amp;A)</td>
+                            <td>
+                                        <a href="/download/11129/S/1_CSI106.zip" class="ContainSLink">CSI106</a>
+
+                            </td>
+                            <td>Read &amp; Review Slides Part 1-1; <br>Answer Edunext question in slot 1</td>
+                            <td>
+                            </td>
+                        </tr>
+                        <tr>
+                            <td>2</td>
+                            <td>1.2 Computer generations</td>
+                            <td>Offline</td>
+                            <td>CLO1</td>
+                            <td>TU</td>
+                            <td class="product">- Chapter 1, text book<br>- Slides: Part  1-2<br>- EduNext Slot 1 (Q&amp;A)</td>
+                            <td>
+                                        <a href="/download/11129/S/2_CSI106.zip" class="ContainSLink">CSI106</a>
+
+                            </td>
+                            <td>Read &amp; Review Slides Part 1-2<br>Answer Edunext question in slot 1</td>
+                            <td>
+                            </td>
+                        </tr>
+                        <tr>
+                            <td>3</td>
+                            <td>1.3 Subsystems and the role of subsystems</td>
+                            <td>Offline</td>
+                            <td>CLO1</td>
+                            <td>TU</td>
+                            <td class="product">- Chapter 1&amp;5, text book<br>- Slides: Part 1-3<br>- EduNext Slot 1 (Q&amp;A)</td>
+                            <td>
+
+                            </td>
+                            <td>Read &amp; Review Slides Part 1-3<br>Answer Edunext question in slot 1</td>
+                            <td>
+                            </td>
+                        </tr>
+                        <tr>
+                            <td>4</td>
+                            <td>1.4 Central Processing Unit</td>
+                            <td>Offline</td>
+                            <td>CLO1</td>
+                            <td>TU</td>
+                            <td class="product">- Chapter 1&amp;5, text book<br>- Slides: Part 1-4<br>- EduNext Slot 2 (Q&amp;A)</td>
+                            <td>
+
+                            </td>
+                            <td>Read &amp; Review Slides Part 1-4<br>Answer Edunext question in slot 2</td>
+                            <td>
+                            </td>
+                        </tr>
+                        <tr>
+                            <td>5</td>
+                            <td>1.5 Memory: main memory</td>
+                            <td>Offline</td>
+                            <td>CLO1</td>
+                            <td>TU</td>
+                            <td class="product">- Chapter 5, text book<br>- Slides: Part 1-5<br>- EduNext Slot 2 (Q&amp;A)</td>
+                            <td>
+
+                            </td>
+                            <td>Read &amp; Review Slides Part 1-5<br>Answer Edunext question in slot 2</td>
+                            <td>
+                            </td>
+                        </tr>
+                        <tr>
+                            <td>6</td>
+                            <td>1.6 Input/Output subsystems</td>
+                            <td>Offline</td>
+                            <td>CLO1</td>
+                            <td>TU</td>
+                            <td class="product">- Chapter 5, text book<br>- Slides: Part 1-6<br>- EduNext Slot 2 (Q&amp;A)</td>
+                            <td>
+
+                            </td>
+                            <td>Read &amp; Review Slides Part 1-6<br>Answer Edunext question in slot 2</td>
+                            <td>
+                            </td>
+                        </tr>
+                        <tr>
+                            <td>7</td>
+                            <td>1.7 Different architectures</td>
+                            <td>Offline</td>
+                            <td>CLO1</td>
+                            <td>TU</td>
+                            <td class="product">- Chapter 5, text book<br>- Slides: Part 1-7<br>- EduNext Slot 3 (Q&amp;A)</td>
+                            <td>
+
+                            </td>
+                            <td>Read &amp; Review Slides Part 1-7<br>Answer Edunext question in slot 3</td>
+                            <td>
+                            </td>
+                        </tr>
+                        <tr>
+                            <td>8</td>
+                            <td>2. Numbering systems<br>2.1 Introduction<br>2.2 Positional Number Systems</td>
+                            <td>Offline</td>
+                            <td>CLO2</td>
+                            <td>TU</td>
+                            <td class="product">- Chapter 2, text book<br>- Slides: Part 2<br>- EduNext Slot 3 (Q&amp;A)</td>
+                            <td>
+
+                            </td>
+                            <td>Read &amp; Review Slides Part 2<br>Answer Edunext question in slot 3</td>
+                            <td>
+                            </td>
+                        </tr>
+                        <tr>
+                            <td>9</td>
+                            <td>2. Numbering systems<br>2.3 Conversion</td>
+                            <td>Offline</td>
+                            <td>CLO2</td>
+                            <td>TU</td>
+                            <td class="product">- Chapter 2, text book<br>- Slides: Part 2<br>- EduNext Slot 3 (Q&amp;A)</td>
+                            <td>
+
+                            </td>
+                            <td>Read &amp; Review Slides Part 2<br>Answer Edunext question in slot 3</td>
+                            <td>
+                            </td>
+                        </tr>
+                        <tr>
+                            <td>10</td>
+                            <td>Lab 1: Guide</td>
+                            <td>Offline</td>
+                            <td>CLO2</td>
+                            <td>TU</td>
+                            <td class="product">TextBook Chapter 2,<br>Instructor manuals</td>
+                            <td>
+
+                            </td>
+                            <td></td>
+                            <td>
+                            </td>
+                        </tr>
+                        <tr>
+                            <td>11</td>
+                            <td>Lab 1: Guide</td>
+                            <td>Offline</td>
+                            <td>CLO2</td>
+                            <td>TU</td>
+                            <td class="product">TextBook Chapter 2,<br>Instructor manuals</td>
+                            <td>
+
+                            </td>
+                            <td></td>
+                            <td>
+                            </td>
+                        </tr>
+                        <tr>
+                            <td>12</td>
+                            <td>Introduction to presentation 1</td>
+                            <td>Offline</td>
+                            <td>One or many of CLO1, CLO2, CLO3, CLO4, CLO5, CLO6, CLO7, CLO8, CLO9, CLO10</td>
+                            <td>TU</td>
+                            <td class="product">TextBook Chapter 6-&gt;16,<br>Instructor manuals</td>
+                            <td>
+
+                            </td>
+                            <td></td>
+                            <td>
+                            </td>
+                        </tr>
+                        <tr>
+                            <td>13</td>
+                            <td>3.Data storage and Operations on Data<br>3.1 Storing Numbers</td>
+                            <td>Offline</td>
+                            <td>CLO3</td>
+                            <td>TU</td>
+                            <td class="product">- Chapter 3, text book<br>- Slides: Part 3<br>- EduNext Slot 5 (Q&amp;A)</td>
+                            <td>
+
+                            </td>
+                            <td>Read &amp; Review Slides Part 3<br>Answer Edunext question in slot 5</td>
+                            <td>
+                            </td>
+                        </tr>
+                        <tr>
+                            <td>14</td>
+                            <td>3.Data storage and Operations on Data<br>3.2 Storing Text, Media, Image, Video</td>
+                            <td>Offline</td>
+                            <td>CLO3</td>
+                            <td>TU</td>
+                            <td class="product">- Chapter 3, text book<br>- Slides: Part 3<br>- EduNext Slot 5 (Q&amp;A)</td>
+                            <td>
+
+                            </td>
+                            <td>Read &amp; Review Slides Part 3<br>Answer Edunext question in slot 5</td>
+                            <td>
+                            </td>
+                        </tr>
+                        <tr>
+                            <td>15</td>
+                            <td>3.3 Logic operations</td>
+                            <td>Offline</td>
+                            <td>CLO3</td>
+                            <td>TU</td>
+                            <td class="product">- Chapter 4, text book<br>- Slides: Part 3<br>- EduNext Slot 5 (Q&amp;A)</td>
+                            <td>
+
+                            </td>
+                            <td>Read &amp; Review Slides Part 3<br>Answer Edunext question in slot 5</td>
+                            <td>
+                            </td>
+                        </tr>
+                        <tr>
+                            <td>16</td>
+                            <td>3.3 Shift, Arithmetic operations</td>
+                            <td>Offline</td>
+                            <td>CLO3</td>
+                            <td>TU</td>
+                            <td class="product">- Chapter 4, text book<br>- Slides: Part 3<br>- EduNext Slot 5 (Q&amp;A)</td>
+                            <td>
+
+                            </td>
+                            <td>Read &amp; Review Slides Part 3<br>Answer Edunext question in slot 5</td>
+                            <td>
+                            </td>
+                        </tr>
+                        <tr>
+                            <td>17</td>
+                            <td>4. Computer Networks and Internet <br>4.1 Overview<br>   4.1.1 LAN &amp; WAN<br>   4.1.2 TCP/IP protocol</td>
+                            <td>Offline</td>
+                            <td>CLO4</td>
+                            <td>TU</td>
+                            <td class="product">- Chapter 6, text book<br>- Slides: Part 4<br>- EduNext Slot 6 (Q&amp;A)</td>
+                            <td>
+
+                            </td>
+                            <td>Read &amp; Review Slides Part 4<br>Answer Edunext question in slot 6</td>
+                            <td>
+                            </td>
+                        </tr>
+                        <tr>
+                            <td>18</td>
+                            <td>4. Computer Networks and Internet <br>4.2 layers in netwoking</td>
+                            <td>Offline</td>
+                            <td>CLO4</td>
+                            <td>TU</td>
+                            <td class="product">- Chapter 6, text book<br>- Slides: Part 4<br>- EduNext Slot 6 (Q&amp;A)</td>
+                            <td>
+
+                            </td>
+                            <td>Read &amp; Review Slides Part 4<br>Answer Edunext question in slot 6</td>
+                            <td>
+                            </td>
+                        </tr>
+                        <tr>
+                            <td>19</td>
+                            <td>Progress test 1</td>
+                            <td>Offline</td>
+                            <td>CLO1, CLO2, CLO3, CLO4, CLO5</td>
+                            <td>TU</td>
+                            <td class="product"></td>
+                            <td>
+
+                            </td>
+                            <td></td>
+                            <td>
+                            </td>
+                        </tr>
+                        <tr>
+                            <td>20</td>
+                            <td>5. Operating System<br>5.1 Introduction<br>5.2 Evolution</td>
+                            <td>Offline</td>
+                            <td>CLO5</td>
+                            <td>TU</td>
+                            <td class="product">- Chapter 7, text book<br>- Slides: Part 5<br>- EduNext Slot 7 (Q&amp;A)</td>
+                            <td>
+
+                            </td>
+                            <td>Read &amp; Review Slides Part 5<br>Answer Edunext question in slot 7</td>
+                            <td>
+                            </td>
+                        </tr>
+                        <tr>
+                            <td>21</td>
+                            <td>5. Operating System<br>5.3 Components of OS: UI, memory manager</td>
+                            <td>Offline</td>
+                            <td>CLO5</td>
+                            <td>TU</td>
+                            <td class="product">- Chapter 7, text book<br>- Slides: Part 5<br>- EduNext Slot 7 (Q&amp;A)</td>
+                            <td>
+
+                            </td>
+                            <td>Read &amp; Review Slides Part 5<br>Answer Edunext question in slot 7</td>
+                            <td>
+                            </td>
+                        </tr>
+                        <tr>
+                            <td>22</td>
+                            <td>5. Operating System<br>5.3 Components of OS: file manager</td>
+                            <td>Offline</td>
+                            <td>CLO5</td>
+                            <td>TU</td>
+                            <td class="product">- Chapter 7, text book<br>- Slides: Part 5<br>- EduNext Slot 7 (Q&amp;A)</td>
+                            <td>
+
+                            </td>
+                            <td>Read &amp; Review Slides Part 5<br>Answer Edunext question in slot 7</td>
+                            <td>
+                            </td>
+                        </tr>
+                        <tr>
+                            <td>23</td>
+                            <td>5. Operating System<br>5.3 Components of OS: device manager</td>
+                            <td>Offline</td>
+                            <td>CLO5</td>
+                            <td>TU</td>
+                            <td class="product">- Chapter 7, text book<br>- Slides: Part 5<br>- EduNext Slot 7 (Q&amp;A)</td>
+                            <td>
+
+                            </td>
+                            <td>Read &amp; Review Slides Part 5<br>Answer Edunext question in slot 7</td>
+                            <td>
+                            </td>
+                        </tr>
+                        <tr>
+                            <td>24</td>
+                            <td>6. Algorithms<br>6.1 Concepts: input, output, processing<br>6.2 Three basic constructs</td>
+                            <td>Offline</td>
+                            <td>CLO6</td>
+                            <td>TU</td>
+                            <td class="product">- Chapter 8, text book<br>- Slides: Part 6<br>- EduNext Slot 8 (Q&amp;A)</td>
+                            <td>
+
+                            </td>
+                            <td>Read &amp; Review Slides Part 6<br>Answer Edunext question in slot 8</td>
+                            <td>
+                            </td>
+                        </tr>
+                        <tr>
+                            <td>25</td>
+                            <td>6. Algorithms<br>6.1 Concepts: input, output, processing<br>6.2 Three basic constructs</td>
+                            <td>Offline</td>
+                            <td>CLO6</td>
+                            <td>TU</td>
+                            <td class="product">- Chapter 8, text book<br>- Slides: Part 6<br>- EduNext Slot 9 (Q&amp;A)</td>
+                            <td>
+
+                            </td>
+                            <td>Read &amp; Review Slides Part 6<br>Answer Edunext question in slot 9</td>
+                            <td>
+                            </td>
+                        </tr>
+                        <tr>
+                            <td>26</td>
+                            <td>6.3 Algorithm representation <br>6.4 Search Algorithms: linear, binary</td>
+                            <td>Offline</td>
+                            <td>CLO6</td>
+                            <td>TU</td>
+                            <td class="product">- Chapter 8, text book<br>- Slides: Part 6<br>- EduNext Slot 9 (Q&amp;A)</td>
+                            <td>
+
+                            </td>
+                            <td>Read &amp; Review Slides Part 6<br>Answer Edunext question in slot 9</td>
+                            <td>
+                            </td>
+                        </tr>
+                        <tr>
+                            <td>27</td>
+                            <td>6.3 Algorithm representation <br>6.4 Search Algorithms: linear, binary</td>
+                            <td>Offline</td>
+                            <td>CLO6</td>
+                            <td>TU</td>
+                            <td class="product">- Chapter 8, text book<br>- Slides: Part 6<br>- EduNext Slot 9 (Q&amp;A)</td>
+                            <td>
+
+                            </td>
+                            <td>Read &amp; Review Slides Part 6<br>Answer Edunext question in slot 9</td>
+                            <td>
+                            </td>
+                        </tr>
+                        <tr>
+                            <td>28</td>
+                            <td>Presentations 1</td>
+                            <td>Offline</td>
+                            <td>Presentation1. One or many of CLO1, CLO2, CLO3, CLO4, CLO5, CLO6, CLO7, CLO8, CLO9, CLO10</td>
+                            <td>TU</td>
+                            <td class="product">Slide for presentation</td>
+                            <td>
+
+                            </td>
+                            <td></td>
+                            <td>
+                            </td>
+                        </tr>
+                        <tr>
+                            <td>29</td>
+                            <td>Presentations 1</td>
+                            <td>Offline</td>
+                            <td>Presentation1. One or many of CLO1, CLO2, CLO3, CLO4, CLO5, CLO6, CLO7, CLO8, CLO9, CLO10</td>
+                            <td>TU</td>
+                            <td class="product">Slide for presentation</td>
+                            <td>
+
+                            </td>
+                            <td></td>
+                            <td>
+                            </td>
+                        </tr>
+                        <tr>
+                            <td>30</td>
+                            <td>Introduction to Additional Learning: "AI For Everyone" course in Coursera<br>Introduction to presentation 2<br>(Students have to complete Additional Learning and achieve the certificate before Presentation 2)</td>
+                            <td>Offline</td>
+                            <td>CLO13</td>
+                            <td>TU</td>
+                            <td class="product"></td>
+                            <td>
+
+                            </td>
+                            <td></td>
+                            <td>
+                            </td>
+                        </tr>
+                        <tr>
+                            <td>31</td>
+                            <td>7. Programming<br>7.1 translation</td>
+                            <td>Offline</td>
+                            <td>CLO7</td>
+                            <td>TU</td>
+                            <td class="product">- Chapter 9, text book<br>- Slides: Part 7<br>- EduNext Slot 11 (Q&amp;A)</td>
+                            <td>
+
+                            </td>
+                            <td>Read &amp; Review Slides Part 7<br>Answer Edunext question in slot 11</td>
+                            <td>
+                            </td>
+                        </tr>
+                        <tr>
+                            <td>32</td>
+                            <td>7. Programming<br>7.2 programming paradigms</td>
+                            <td>Offline</td>
+                            <td>CLO7</td>
+                            <td>TU</td>
+                            <td class="product">- Chapter 9, text book<br>- Slides: Part 7<br>- EduNext Slot 11 (Q&amp;A)</td>
+                            <td>
+
+                            </td>
+                            <td>Read &amp; Review Slides Part 7<br>Answer Edunext question in slot 11</td>
+                            <td>
+                            </td>
+                        </tr>
+                        <tr>
+                            <td>33</td>
+                            <td>Lab2: Guide</td>
+                            <td>Offline</td>
+                            <td>One or many of CLO6, CLO7</td>
+                            <td>TU</td>
+                            <td class="product">TextBook Chapter 8, 9<br> Instructor manuals</td>
+                            <td>
+
+                            </td>
+                            <td></td>
+                            <td>
+                            </td>
+                        </tr>
+                        <tr>
+                            <td>34</td>
+                            <td>Lab2: Guide</td>
+                            <td>Offline</td>
+                            <td>One or many of CLO6, CLO7</td>
+                            <td>TU</td>
+                            <td class="product">TextBook Chapter 8, 9 <br> Instructor manuals</td>
+                            <td>
+
+                            </td>
+                            <td></td>
+                            <td>
+                            </td>
+                        </tr>
+                        <tr>
+                            <td>35</td>
+                            <td>8.Software engineering<br>8.1 The software lifecycle<br>8.2 Analysis phase</td>
+                            <td>Offline</td>
+                            <td>CLO8</td>
+                            <td>TU</td>
+                            <td class="product">- Chapter 10, text book<br>- Slides: Part 8<br>- EduNext Slot 12 (Q&amp;A)</td>
+                            <td>
+
+                            </td>
+                            <td>Read &amp; Review Slides Part 8<br>Answer Edunext question in slot 12</td>
+                            <td>
+                            </td>
+                        </tr>
+                        <tr>
+                            <td>36</td>
+                            <td>8.Software engineering<br>8.1 The software lifecycle<br>8.2 Analysis phase<br>8.3 Design phase</td>
+                            <td>Offline</td>
+                            <td>CLO8</td>
+                            <td>TU</td>
+                            <td class="product">- Chapter 10, text book<br>- Slides: Part 8<br>- EduNext Slot 12 (Q&amp;A)</td>
+                            <td>
+
+                            </td>
+                            <td>Read &amp; Review Slides Part 8<br>Answer Edunext question in slot 12</td>
+                            <td>
+                            </td>
+                        </tr>
+                        <tr>
+                            <td>37</td>
+                            <td>8.4 Implementation phase</td>
+                            <td>Offline</td>
+                            <td>CLO8</td>
+                            <td>TU</td>
+                            <td class="product">- Chapter 10, text book<br>- Slides: Part 8<br>- EduNext Slot 13 (Q&amp;A)</td>
+                            <td>
+
+                            </td>
+                            <td>Read &amp; Review Slides Part 8<br>Answer Edunext question in slot 13</td>
+                            <td>
+                            </td>
+                        </tr>
+                        <tr>
+                            <td>38</td>
+                            <td>8.5 Testing phase</td>
+                            <td>Offline</td>
+                            <td>CLO8</td>
+                            <td>TU</td>
+                            <td class="product">- Chapter 10, text book<br>- Slides: Part 8<br>- EduNext Slot 13 (Q&amp;A)</td>
+                            <td>
+
+                            </td>
+                            <td>Read &amp; Review Slides Part 8<br>Answer Edunext question in slot 13</td>
+                            <td>
+                            </td>
+                        </tr>
+                        <tr>
+                            <td>39</td>
+                            <td>9. Data structures<br>9.1 Arrays<br>9.2 Records</td>
+                            <td>Offline</td>
+                            <td>CLO9</td>
+                            <td>TU</td>
+                            <td class="product">- Chapter 11, text book<br>- Slides: Part 9<br>- EduNext Slot 14 (Q&amp;A)</td>
+                            <td>
+
+                            </td>
+                            <td>Read &amp; Review Slides Part 9<br>Answer Edunext question in slot 14</td>
+                            <td>
+                            </td>
+                        </tr>
+                        <tr>
+                            <td>40</td>
+                            <td>9. Data structures<br>9.3 Linked List</td>
+                            <td>Offline</td>
+                            <td>CLO9</td>
+                            <td>TU</td>
+                            <td class="product">- Chapter 11, text book<br>- Slides: Part 9<br>- EduNext Slot 14 (Q&amp;A)</td>
+                            <td>
+
+                            </td>
+                            <td>Read &amp; Review Slides Part 9<br>Answer Edunext question in slot 14</td>
+                            <td>
+                            </td>
+                        </tr>
+                        <tr>
+                            <td>41</td>
+                            <td>9.4 Introduction: Stack, Queue, Tree, graph</td>
+                            <td>Offline</td>
+                            <td>CLO9</td>
+                            <td>TU</td>
+                            <td class="product">- Chapter 11, text book<br>- Slides: Part 9<br>- EduNext Slot 14 (Q&amp;A)</td>
+                            <td>
+
+                            </td>
+                            <td>Read &amp; Review Slides Part 9<br>Answer Edunext question in slot 14</td>
+                            <td>
+                            </td>
+                        </tr>
+                        <tr>
+                            <td>42</td>
+                            <td>Progress test 2</td>
+                            <td>Offline</td>
+                            <td>CLO5, CLO6, CLO7, CLO8, CLO9</td>
+                            <td>TU</td>
+                            <td class="product"></td>
+                            <td>
+
+                            </td>
+                            <td></td>
+                            <td>
+                            </td>
+                        </tr>
+                        <tr>
+                            <td>43</td>
+                            <td>10.File structure<br>10.1 Text versus Binary</td>
+                            <td>Offline</td>
+                            <td>CLO10</td>
+                            <td>TU</td>
+                            <td class="product">- Chapter 13, text book<br>- Slides: Part 10<br>- EduNext Slot 15 (Q&amp;A)</td>
+                            <td>
+
+                            </td>
+                            <td>Read &amp; Review Slides Part 10<br>Answer Edunext question in slot 15</td>
+                            <td>
+                            </td>
+                        </tr>
+                        <tr>
+                            <td>44</td>
+                            <td>10.File structure<br>10.2 Access methods</td>
+                            <td>Offline</td>
+                            <td>CLO10</td>
+                            <td>TU</td>
+                            <td class="product">- Chapter 13, text book<br>- Slides: Part 10<br>- EduNext Slot 15 (Q&amp;A)</td>
+                            <td>
+
+                            </td>
+                            <td>Read &amp; Review Slides Part 10<br>Answer Edunext question in slot 15</td>
+                            <td>
+                            </td>
+                        </tr>
+                        <tr>
+                            <td>45</td>
+                            <td>11. Database<br>11.1 Introduction</td>
+                            <td>Offline</td>
+                            <td>CLO11</td>
+                            <td>TU</td>
+                            <td class="product">- Chapter 14, text book<br>- Slides: Part 11<br>- EduNext Slot 16 (Q&amp;A)</td>
+                            <td>
+
+                            </td>
+                            <td>Read &amp; Review Slides Part 11<br>Answer Edunext question in slot 16</td>
+                            <td>
+                            </td>
+                        </tr>
+                        <tr>
+                            <td>46</td>
+                            <td>11. Database<br>11.2 Database architecture</td>
+                            <td>Offline</td>
+                            <td>CLO11</td>
+                            <td>TU</td>
+                            <td class="product">- Chapter 14, text book<br>- Slides: Part 11<br>- EduNext Slot 16 (Q&amp;A)</td>
+                            <td>
+
+                            </td>
+                            <td>Read &amp; Review Slides Part 11<br>Answer Edunext question in slot 16</td>
+                            <td>
+                            </td>
+                        </tr>
+                        <tr>
+                            <td>47</td>
+                            <td>11.3 Database model<br>11.4 The relationship database model</td>
+                            <td>Offline</td>
+                            <td>CLO11</td>
+                            <td>TU</td>
+                            <td class="product">- Chapter 14, text book<br>- Slides: Part 11<br>- EduNext Slot 16 (Q&amp;A)</td>
+                            <td>
+
+                            </td>
+                            <td>Read &amp; Review Slides Part 11<br>Answer Edunext question in slot 16</td>
+                            <td>
+                            </td>
+                        </tr>
+                        <tr>
+                            <td>48</td>
+                            <td>11.5 Database design</td>
+                            <td>Offline</td>
+                            <td>CLO11</td>
+                            <td>TU</td>
+                            <td class="product">- Chapter 14, text book<br>- Slides: Part 11<br>- EduNext Slot 16 (Q&amp;A)</td>
+                            <td>
+
+                            </td>
+                            <td>Read &amp; Review Slides Part 11<br>Answer Edunext question in slot 16</td>
+                            <td>
+                            </td>
+                        </tr>
+                        <tr>
+                            <td>49</td>
+                            <td>11.6 Guide do practice set (database)</td>
+                            <td>Offline</td>
+                            <td>CLO11</td>
+                            <td>TU</td>
+                            <td class="product">- Chapter 14, text book<br>- Slides: Part 11<br>- EduNext Slot 16 (Q&amp;A)</td>
+                            <td>
+
+                            </td>
+                            <td></td>
+                            <td>
+                            </td>
+                        </tr>
+                        <tr>
+                            <td>50</td>
+                            <td>12. Security and Ethical Issues<br>12.1 Introduction<br>12.2 Confidentiality</td>
+                            <td>Offline</td>
+                            <td>CLO12</td>
+                            <td>TU</td>
+                            <td class="product">- Chapter 16 &amp; 20, text book<br>- Slides: Part 12<br>- EduNext Slot 17 (Q&amp;A)</td>
+                            <td>
+
+                            </td>
+                            <td>Read &amp; Review Slides Part 12<br>Answer Edunext question in slot 17</td>
+                            <td>
+                            </td>
+                        </tr>
+                        <tr>
+                            <td>51</td>
+                            <td>12. Security and Ethical Issues<br>12.3 Ethical Principles</td>
+                            <td>Offline</td>
+                            <td>CLO12</td>
+                            <td>TU</td>
+                            <td class="product">- Chapter 16 &amp; 20, text book<br>- Slides: Part 12<br>- EduNext Slot 17 (Q&amp;A)</td>
+                            <td>
+
+                            </td>
+                            <td>Read &amp; Review Slides Part 12<br>Answer Edunext question in slot 17</td>
+                            <td>
+                            </td>
+                        </tr>
+                        <tr>
+                            <td>52</td>
+                            <td>12.4 Privacy</td>
+                            <td>Offline</td>
+                            <td>CLO12</td>
+                            <td>TU</td>
+                            <td class="product">- Chapter 16 &amp; 20, text book<br>- Slides: Part 12<br>- EduNext Slot 18  (Q&amp;A)</td>
+                            <td>
+
+                            </td>
+                            <td>Read &amp; Review Slides Part 12<br>Answer Edunext question in slot 18</td>
+                            <td>
+                            </td>
+                        </tr>
+                        <tr>
+                            <td>53</td>
+                            <td>12.5 Hackers</td>
+                            <td>Offline</td>
+                            <td>CLO12</td>
+                            <td>TU</td>
+                            <td class="product">- Chapter 16 &amp; 20, text book<br>- Slides: Part 12<br>- EduNext Slot 18  (Q&amp;A)</td>
+                            <td>
+
+                            </td>
+                            <td>Read &amp; Review Slides Part 12<br>Answer Edunext question in slot 18</td>
+                            <td>
+                            </td>
+                        </tr>
+                        <tr>
+                            <td>54</td>
+                            <td>Presentation 2</td>
+                            <td>Offline</td>
+                            <td>CLO13</td>
+                            <td>TU</td>
+                            <td class="product">Slide for presentation</td>
+                            <td>
+
+                            </td>
+                            <td></td>
+                            <td>
+                            </td>
+                        </tr>
+                        <tr>
+                            <td>55</td>
+                            <td>Presentation 2</td>
+                            <td>Offline</td>
+                            <td>CLO13</td>
+                            <td>TU</td>
+                            <td class="product">Slide for presentation</td>
+                            <td>
+
+                            </td>
+                            <td></td>
+                            <td>
+                            </td>
+                        </tr>
+                        <tr>
+                            <td>56</td>
+                            <td>Review Additional Learning (AI For Everyone course)</td>
+                            <td>Offline</td>
+                            <td>CLO13</td>
+                            <td>TU</td>
+                            <td class="product"></td>
+                            <td>
+
+                            </td>
+                            <td></td>
+                            <td>
+                            </td>
+                        </tr>
+                        <tr>
+                            <td>57</td>
+                            <td>Progress test 3</td>
+                            <td>Offline</td>
+                            <td>CLO10, CLO11, CLO12, CLO13</td>
+                            <td>TU</td>
+                            <td class="product"></td>
+                            <td>
+
+                            </td>
+                            <td>Test yourself</td>
+                            <td>
+                            </td>
+                        </tr>
+                        <tr>
+                            <td>58</td>
+                            <td>Review</td>
+                            <td>Offline</td>
+                            <td>All CLOs</td>
+                            <td>TU</td>
+                            <td class="product"></td>
+                            <td>
+
+                            </td>
+                            <td></td>
+                            <td>
+                            </td>
+                        </tr>
+                        <tr>
+                            <td>59</td>
+                            <td>Review</td>
+                            <td>Offline</td>
+                            <td>All CLOs</td>
+                            <td>TU</td>
+                            <td class="product"></td>
+                            <td>
+
+                            </td>
+                            <td></td>
+                            <td>
+                            </td>
+                        </tr>
+                        <tr>
+                            <td>60</td>
+                            <td>Review</td>
+                            <td>Offline</td>
+                            <td>All CLOs</td>
+                            <td>TU</td>
+                            <td class="product"></td>
+                            <td>
+
+                            </td>
+                            <td></td>
+                            <td>
+                            </td>
+                        </tr>
+                </tbody>
+            </table>
+        <br>
+        <!-- Constructivist Questions Section -->
+        <label style="color: #23ac68;">41 Constructive question(s)</label>
+            <table id="gvCQ" class="table table-striped">
+                <thead>
+                    <tr>
+                        <th style="width: 3%; text-align: center;">No.</th>
+                        <th style="width: 7%; text-align: center;">Session No</th>
+                        <th style="width: 15%;">Name</th>
+                        <th style="width: 75%;">Details</th>
+                    </tr>
+                </thead>
+                <tbody>
+                        <tr>
+                            <td style="text-align: center;">1</td>
+                            <td style="text-align: center;">13</td>
+                            <td>CQ5.1</td>
+                            <td>How to store the sign of number on computer</td>
+                        </tr>
+                        <tr>
+                            <td style="text-align: center;">2</td>
+                            <td style="text-align: center;">13</td>
+                            <td>CQ5.2</td>
+                            <td>Compare and constrast storing text, image, sound and video on computer</td>
+                        </tr>
+                        <tr>
+                            <td style="text-align: center;">3</td>
+                            <td style="text-align: center;">14</td>
+                            <td>CQ5.3</td>
+                            <td>What is the difference between logic operation at bit level and pattern level?</td>
+                        </tr>
+                        <tr>
+                            <td style="text-align: center;">4</td>
+                            <td style="text-align: center;">15</td>
+                            <td>CQ5.4</td>
+                            <td>What is the difference between an arithmetic operation and a shift operation?</td>
+                        </tr>
+                        <tr>
+                            <td style="text-align: center;">5</td>
+                            <td style="text-align: center;">16</td>
+                            <td>CQ6.1</td>
+                            <td>Compare and constrast characteristics LAN and WAN</td>
+                        </tr>
+                        <tr>
+                            <td style="text-align: center;">6</td>
+                            <td style="text-align: center;">17</td>
+                            <td>CQ6.2</td>
+                            <td>What is the role of TCP/IP protocol suite and their relationship?</td>
+                        </tr>
+                        <tr>
+                            <td style="text-align: center;">7</td>
+                            <td style="text-align: center;">18</td>
+                            <td>CQ6.3</td>
+                            <td>How to transfer data from one computer to another?</td>
+                        </tr>
+                        <tr>
+                            <td style="text-align: center;">8</td>
+                            <td style="text-align: center;">25</td>
+                            <td>CQ9.1</td>
+                            <td>Define three constructs: sequence, decision, and repetition. Describe their use in algorithms</td>
+                        </tr>
+                        <tr>
+                            <td style="text-align: center;">9</td>
+                            <td style="text-align: center;">26</td>
+                            <td>CQ9.2</td>
+                            <td>What is the UML diagram ? How is a UML diagram related to an algorithm?</td>
+                        </tr>
+                        <tr>
+                            <td style="text-align: center;">10</td>
+                            <td style="text-align: center;">26</td>
+                            <td>CQ9.3</td>
+                            <td>How can we write an example of an algorithm by UML diagram?</td>
+                        </tr>
+                        <tr>
+                            <td style="text-align: center;">11</td>
+                            <td style="text-align: center;">27</td>
+                            <td>CQ9.4</td>
+                            <td>What is the pseudocode ? How is pseudocode related to an algorithm?</td>
+                        </tr>
+                        <tr>
+                            <td style="text-align: center;">12</td>
+                            <td style="text-align: center;">27</td>
+                            <td>CQ9.5</td>
+                            <td>How can we write an example of an algorithm by pseudocode?</td>
+                        </tr>
+                        <tr>
+                            <td style="text-align: center;">13</td>
+                            <td style="text-align: center;">31</td>
+                            <td>CQ11.1</td>
+                            <td>How can machine language, assembly language and a high-level language be distinguished?</td>
+                        </tr>
+                        <tr>
+                            <td style="text-align: center;">14</td>
+                            <td style="text-align: center;">31</td>
+                            <td>CQ11.2</td>
+                            <td>How can compilation and interpretation be distinguished?</td>
+                        </tr>
+                        <tr>
+                            <td style="text-align: center;">15</td>
+                            <td style="text-align: center;">32</td>
+                            <td>CQ11.3</td>
+                            <td>How can four basic computer language paradigms be distinguished?</td>
+                        </tr>
+                        <tr>
+                            <td style="text-align: center;">16</td>
+                            <td style="text-align: center;">32</td>
+                            <td>CQ11.4</td>
+                            <td>What are the similarities and differences between a procedural paradigm with an object-oriented paradigm?</td>
+                        </tr>
+                        <tr>
+                            <td style="text-align: center;">17</td>
+                            <td style="text-align: center;">35</td>
+                            <td>CQ12.1</td>
+                            <td>What is the software lifecycle in software engineering?</td>
+                        </tr>
+                        <tr>
+                            <td style="text-align: center;">18</td>
+                            <td style="text-align: center;">35</td>
+                            <td>CQ12.2</td>
+                            <td>What is the development processes? What are the two most common types of development processes</td>
+                        </tr>
+                        <tr>
+                            <td style="text-align: center;">19</td>
+                            <td style="text-align: center;">36</td>
+                            <td>CQ12.3</td>
+                            <td>What is the purpose of the analysis phase? What are two trends in this phase?</td>
+                        </tr>
+                        <tr>
+                            <td style="text-align: center;">20</td>
+                            <td style="text-align: center;">36</td>
+                            <td>CQ12.4</td>
+                            <td>What is the purpose of the design phase? What are two trends in this phase?</td>
+                        </tr>
+                        <tr>
+                            <td style="text-align: center;">21</td>
+                            <td style="text-align: center;">37</td>
+                            <td>CQ13.1</td>
+                            <td>How can the implementaion phase be described? What are the qualitiy issues in this phase?</td>
+                        </tr>
+                        <tr>
+                            <td style="text-align: center;">22</td>
+                            <td style="text-align: center;">38</td>
+                            <td>CQ13.2</td>
+                            <td>What is the purpose of the testing phase? How can glass-box testing and black-box testing be distinguished?</td>
+                        </tr>
+                        <tr>
+                            <td style="text-align: center;">23</td>
+                            <td style="text-align: center;">39</td>
+                            <td>CQ13.3</td>
+                            <td>What is an Array as a data structure? How is it used to store a list of data items?</td>
+                        </tr>
+                        <tr>
+                            <td style="text-align: center;">24</td>
+                            <td style="text-align: center;">39</td>
+                            <td>CQ13.4</td>
+                            <td>What is a Record as a data structure ? How do you think about Record and Array</td>
+                        </tr>
+                        <tr>
+                            <td style="text-align: center;">25</td>
+                            <td style="text-align: center;">40</td>
+                            <td>CQ14.1</td>
+                            <td>How can we write a program using pointers? What are the similarities and differences among arrays, records and linked lists?</td>
+                        </tr>
+                        <tr>
+                            <td style="text-align: center;">26</td>
+                            <td style="text-align: center;">41</td>
+                            <td>CQ14.2</td>
+                            <td>What is the concept of an abstract data type (ADT)? What is a Stack?</td>
+                        </tr>
+                        <tr>
+                            <td style="text-align: center;">27</td>
+                            <td style="text-align: center;">41</td>
+                            <td>CQ14.3</td>
+                            <td>What is a Queue? What are the differences between Stack and Queue?</td>
+                        </tr>
+                        <tr>
+                            <td style="text-align: center;">28</td>
+                            <td style="text-align: center;">42</td>
+                            <td>CQ14.4</td>
+                            <td>What is a General Tree? What is a Binary Tree? What are the differences and similarities between General Tree and Binary Tree?</td>
+                        </tr>
+                        <tr>
+                            <td style="text-align: center;">29</td>
+                            <td style="text-align: center;">42</td>
+                            <td>CQ14.5</td>
+                            <td>What is a Binary Search Tree (BST)? What is a Graph? What are the differences and similarities between Tree and Graph?</td>
+                        </tr>
+                        <tr>
+                            <td style="text-align: center;">30</td>
+                            <td style="text-align: center;">43</td>
+                            <td>CQ15.1</td>
+                            <td>What is the difference between a text file and a binary file?</td>
+                        </tr>
+                        <tr>
+                            <td style="text-align: center;">31</td>
+                            <td style="text-align: center;">44</td>
+                            <td>CQ15.2</td>
+                            <td>How to retrieve information from the file?</td>
+                        </tr>
+                        <tr>
+                            <td style="text-align: center;">32</td>
+                            <td style="text-align: center;">45</td>
+                            <td>CQ15.3</td>
+                            <td>How do we operate on a sequential file, an indexed file, or a hashed file?</td>
+                        </tr>
+                        <tr>
+                            <td style="text-align: center;">33</td>
+                            <td style="text-align: center;">46</td>
+                            <td>CQ16.1</td>
+                            <td>What is a database?</td>
+                        </tr>
+                        <tr>
+                            <td style="text-align: center;">34</td>
+                            <td style="text-align: center;">47</td>
+                            <td>CQ16.2</td>
+                            <td>Why do we need to use architecture in database system?</td>
+                        </tr>
+                        <tr>
+                            <td style="text-align: center;">35</td>
+                            <td style="text-align: center;">48</td>
+                            <td>CQ16.3</td>
+                            <td>Identify an advantage that an object-oriented database can have
+over a relational database.</td>
+                        </tr>
+                        <tr>
+                            <td style="text-align: center;">36</td>
+                            <td style="text-align: center;">49</td>
+                            <td>CQ17.1</td>
+                            <td>What is the purpose of a database model?</td>
+                        </tr>
+                        <tr>
+                            <td style="text-align: center;">37</td>
+                            <td style="text-align: center;">50</td>
+                            <td>CQ17.2</td>
+                            <td>How does the relational model provide for data independence?</td>
+                        </tr>
+                        <tr>
+                            <td style="text-align: center;">38</td>
+                            <td style="text-align: center;">51</td>
+                            <td>CQ17.3</td>
+                            <td>How do you design a good database?</td>
+                        </tr>
+                        <tr>
+                            <td style="text-align: center;">39</td>
+                            <td style="text-align: center;">52</td>
+                            <td>CQ18.1</td>
+                            <td>What are security goals?</td>
+                        </tr>
+                        <tr>
+                            <td style="text-align: center;">40</td>
+                            <td style="text-align: center;">53</td>
+                            <td>CQ18.2</td>
+                            <td>How confidentiality can be achieved using symmetric-key and asymmetric-key cipher?</td>
+                        </tr>
+                        <tr>
+                            <td style="text-align: center;">41</td>
+                            <td style="text-align: center;">54</td>
+                            <td>CQ18.3</td>
+                            <td>What is the main ideas of aspect security?</td>
+                        </tr>
+                </tbody>
+            </table>
+        <br>
+        <!-- Assessments Section -->
+        <label style="color: #23ac68;">4 assessment(s)</label>
+            <table id="gvAssessment" class="table table-striped tbl-data">
+                <thead>
+                    <tr>
+                        <th style="width: 3%; text-align: center;">No.</th>
+                        <th>Category</th>
+                        <th>Type</th>
+                        <th>Part</th>
+                        <th>Weight</th>
+                        <th>Completion Criteria</th>
+                        <th>Duration</th>
+                        <th>CLO</th>
+                        <th>Question Type</th>
+                        <th>No Question</th>
+                        <th>Knowledge and Skill</th>
+                        <th>Grading Guide</th>
+                        <th>Note</th>
+                    </tr>
+                </thead>
+                <tbody>
+                        <tr>
+                            <td style="text-align: center;">1</td>
+                            <td>Group presentation</td>
+                            <td>
+
+                                on-going
+                            </td>
+                            <td>2</td>
+                            <td>
+10.0%                            </td>
+                            <td>
+&gt;0                            </td>
+                            <td>Option 1: 30'/group Option 2 (For Constructivism Approach only): Follow lecturer's proposal</td>
+                            <td>Presentation1. One or many of CLO1, CLO2, CLO3, CLO4, CLO5, CLO6, CLO7, CLO8, CLO9, CLO10<br>Presentation2. CLO13</td>
+                            <td>Option 1: .ppt and oral presentation<br>Option 2 (For Constructivism Approach only): Follow lecturer's proposal</td>
+                            <td>Option 1: N/A Option 2 (For Constructivism Approach only): Follow lecturer's proposal</td>
+                            <td>one of the appendices</td>
+                            <td>Each group selects one topic ralated to Addional Learning ( (AI For Everyone course in Coursera) to present and has at least two weeks to prepare the presentation<br><br>Presentation 2:<br>- .ppt and oral presentation<br>- Topics related to Additional Learning (Chapter 18 in Textbook, Deep Learning in Object Detection and Recognition, Speech Emotion Recognition, Traffic Sign Recognition, Federated Learning,…)</td>
+                            <td>The presentation 2 is graded if and only if students complete Additional Learning (AI For Everyone course in Coursera)  and achieve the certificate.</td>
+                        </tr>
+                        <tr>
+                            <td style="text-align: center;">2</td>
+                            <td>Lab</td>
+                            <td>
+
+                                on-going
+                            </td>
+                            <td>2</td>
+                            <td>
+20.0%                            </td>
+                            <td>
+&gt;0                            </td>
+                            <td>Option 1: 60-90'/each Option 2 (For Constructivism Approach only): Follow lecturer's proposal</td>
+                            <td>Lab1. CLO2<br><br>Lab2. One or many of CLO6, CLO7</td>
+                            <td>Option 1: practical exercises Option 2 (For Constructivism Approach only): Follow lecturer's proposal</td>
+                            <td>Option 1: N/A Option 2 (For Constructivism Approach only): Follow lecturer's proposal</td>
+                            <td>technical aspect of studied topics</td>
+                            <td>Guided by instructor<br>- Labs are arranged relevant to the chapter theory <br>- Student must finish labs and submit the results to the lecturer in class.</td>
+                            <td>.</td>
+                        </tr>
+                        <tr>
+                            <td style="text-align: center;">3</td>
+                            <td>Progress Test</td>
+                            <td>
+
+                                on-going
+                            </td>
+                            <td>3</td>
+                            <td>
+30.0%                            </td>
+                            <td>
+&gt;0                            </td>
+                            <td>Option 1: 30'/each Option 2 (For Constructivism Approach only): Follow lecturer's proposal</td>
+                            <td>Test1. CLO1, CLO2, CLO3, CLO4, CLO5<br><br>Test2. CLO6, CLO7, CLO8, CLO9<br>Test3. CLO10, CLO11, CLO12, CLO13</td>
+                            <td>Option 1: MC or suitable format Option 2 (For Constructivism Approach only): Follow lecturer's proposal</td>
+                            <td>Option 1: 30 Option 2 (For Constructivism Approach only): Follow lecturer's proposal</td>
+                            <td>Test 1: Chapters 1, 2, 3, 4, 5 , 6, 7 <br>Test 2: Chapters 8, 9, 10, 11, 12 <br>Test 3: Chapters 13, 14, 16, 18, 20</td>
+                            <td>in class, by instructor</td>
+                            <td>Instruction and schedules for Progress Tests must be presented in the Course Implementation Plan approved by director of the campus.<br>The test must be taken right after the last lectures of required material.<br>Instructor has responsibility to review the test for students after graded</td>
+                        </tr>
+                        <tr>
+                            <td style="text-align: center;">4</td>
+                            <td>Final exam</td>
+                            <td>
+
+                                Final exam
+                            </td>
+                            <td>1</td>
+                            <td>
+40.0%                            </td>
+                            <td>
+4                            </td>
+                            <td>60'</td>
+                            <td>CLO1, CLO2, CLO3, CLO4, CLO5, CLO6, CLO7, CLO8, CLO9, CLO10, CLO11, CLO12</td>
+                            <td>Multiple choices<br>Marked by Computer</td>
+                            <td>60</td>
+                            <td>concepts, algorithms; all studied Chapters<br>.</td>
+                            <td>by exam board,<br>using computer</td>
+                            <td>Students must complete Additional Learning (AI For Everyone course in Coursera)  and achieve the certificate in order to take final exam<br>The exam questions must be updated or different at least 70% to the previous ones.</td>
+                        </tr>
+                </tbody>
+            </table>
+        <br>
+</div>
+
+<script src="/bundles/customjs"></script>
+<script>
+    $(document).ready(() => {
+        if ($("tbody tr a.ContainSLink").toArray().length == 0) {
+            $("#btnDownloadAllStudentMaterial").prop("disabled", true);
+        } else {
+            $("#btnDownloadAllStudentMaterial").prop("disabled", false);
+        }
+    });
+
+    function downloadLoop(i, urls) {
+        setTimeout(() => {
+            urls[i].click();
+            i++;
+            if (i < urls.length) {
+                downloadLoop(i, urls);
+            }
+        }, 10456);
+    }
+
+    $('#btnDownloadAllStudentMaterial').on('click', function (e) {
+        e.preventDefault();
+        var downloadLinks = $("tbody tr a.ContainSLink").toArray();
+        var result = confirm("Do you want to download all materials??");
+        if (result) {
+            downloadLoop(0, downloadLinks);
+        }
+    });
+
+    if (window.history.replaceState) {
+        window.history.replaceState(null, null, window.location.href);
+    }
+</script>
+
+            </div>
+        </div>
+    </div>
+
+    <script>
+        $('#language').change(function () {
+            $.ajax({
+                url: '/Language', // comma here instead of semicolon
+                data: { language: $(this).val() },
+                success: function () {
+                    window.location.reload();
+                }
+
+            });
+        });
+        (function loadLanguage() {
+            let dt = JSON.stringify({
+                'ssName': 'language'
+            });
+            $.ajax({
+                contentType: 'application/json; charset=utf-8',
+                dataType: 'json',
+                type: 'POST',
+                url: '/ajax/getCookie/',
+                data: dt
+            }).done(function (data) {
+                $('#language').val(data);
+            })
+        })();
+
+        function showToastRedirectPage(type, mess) {
+            window.localStorage.setItem('typeToast', type);
+            window.localStorage.setItem('messToast', mess);
+        }
+
+        $(document).ready(function () {
+            // Animated title effect - Marquee style
+            function animateTitle() {
+                const title = document.getElementById('pageTitle');
+                const originalText = 'FPT University Learning Materials';
+                const separator = ' • ';
+                const fullText = originalText + separator + originalText + separator;
+
+                let position = 0;
+                let animationId;
+                const speed = 300; // milliseconds between each character shift
+                const maxPosition = originalText.length + separator.length;
+
+                function updateTitle() {
+                    const displayText = fullText.substring(position, position + originalText.length);
+                    title.textContent = displayText;
+
+                    position++;
+                    if (position >= maxPosition) {
+                        position = 0;
+                    }
+
+                    // Continue animation
+                    animationId = setTimeout(updateTitle, speed);
+                }
+
+                // Check if user prefers reduced motion
+                if (window.matchMedia && window.matchMedia('(prefers-reduced-motion: reduce)').matches) {
+                    // Don't animate if user prefers reduced motion
+                    title.textContent = originalText;
+                    return;
+                }
+
+                // Start the animation
+                updateTitle();
+
+                // Pause animation when tab is not visible (performance optimization)
+                document.addEventListener('visibilitychange', function () {
+                    if (document.hidden) {
+                        clearTimeout(animationId);
+                    } else {
+                        updateTitle();
+                    }
+                });
+            }
+
+            // Start title animation
+            animateTitle();
+
+            toastr.options = {
+                "closeButton": true,
+                "newestOnTop": false,
+                "progressBar": true,
+                "positionClass": "toast-top-right",
+                "preventDuplicates": false,
+                "onclick": null,
+                "showDuration": "300",
+                "hideDuration": "1000",
+                "timeOut": "5000",
+                "extendedTimeOut": "1000",
+                "showEasing": "swing",
+                "hideEasing": "linear",
+                "showMethod": "fadeIn",
+                "hideMethod": "fadeOut"
+            }
+
+
+            if (window.localStorage.getItem('typeToast') == 1) {
+                toastr.success(window.localStorage.getItem('messToast'));
+                window.localStorage.setItem('typeToast', 0);
+            }
+            if (window.localStorage.getItem('typeToast') == 2) {
+                toastr.error(window.localStorage.getItem('messToast'));
+                window.localStorage.setItem('typeToast', 0);
+            }
+
+            $(".preventDefault").click(function (event) {
+                event.preventDefault();
+            });
+            $.get("/ajax/permission", function (data) {
+                loadData(data)
+            })
+
+            $('#sidebarCollapse').on('click', function () {
+                $('#sidebar').toggleClass('sb-active');
+            });
+
+        });
+        function loadData(data) {
+            if (typeof (data) != 'string') {
+                $("#lblRole").html(data[0]);
+                $("#lblName").html(data[1]);
+                $("#lblEmail").html(data[2]);
+                $("#lblEduLevel").html(data[4]);
+                if (data[0] == 'Syl Reviewer' || data[0] == 'Syl Designer') {
+                    data[3] = data[3].replace('~', '..');
+                    $("#pnlEmail").css({ display: 'none' });
+                } else {
+                    $("#pnlEmail").css({ display: '' });
+                }
+                $("#ProfileImage").attr({ src: data[3] });
+                //Why index is 4???
+                //if (data[4]) {
+                //    $("#pnlEmail").css({ display: 'none' });
+                //} else {
+                //    $("#lblEmail").html(data[2]);
+                //}
+                if (data[0] === "Head") {
+                    $("#panelStaffFeatures").css({ display: 'none' });
+                } else if (data[0] === "Staff") {
+                    $("#panelHeadFeatures").css({ display: 'none' });
+                } else {
+                    $("#panelStaffFeatures").css({ display: 'none' });
+                    $("#panelHeadFeatures").css({ display: 'none' });
+                    $("#sidebarCollapse").css({ display: 'none' });
+                }
+            } else {
+                window.location.replace(data);
+            }
+        }
+        $('#lbtnSignOut').click(() => {
+            // Check if user is logged in with FEID
+            var isLoginWithFEID = true;
+
+            if (isLoginWithFEID) {
+                // For FEID users, redirect to proper logout endpoint
+                // This will clear all authentication and redirect to regular login
+                window.location.href = '/Home/LogoutWithFEId';
+            } else {
+                // For regular users, use AJAX signout
+                $.get("/ajax/signOut", function (data) {
+                    window.location.replace('/Home/Login');
+                })
+            }
+        })
+        $('#lbtnAlumni').click(() => {
+            $.get("/UserAlumni/StudentAlumni", function (data) {
+
+            })
+        })
+
+        // Handle button clicks for accessibility
+        $('#lbtnSignOut').on('keydown', function (e) {
+            if (e.key === 'Enter' || e.key === ' ') {
+                e.preventDefault();
+                $(this).click();
+            }
+        });
+
+        $('#lbtnAlumni').on('keydown', function (e) {
+            if (e.key === 'Enter' || e.key === ' ') {
+                e.preventDefault();
+                $(this).click();
+            }
+        });
+
+    </script>
+<script type="module" src="https://static.cloudflareinsights.com/beacon.min.js/v31edd6df95cf4e85bb4c19e7a9bdbcba1788362987495" integrity="sha512-iIg7k2xntmwu6/uSb5tpc/hySgZc4eoL31yB29W6tJFo2akwjPWcEqnCEdJvGexCL0KEQwVYv5BlowfhVz26hg==" data-cf-beacon="{&quot;version&quot;:&quot;2024.11.0&quot;,&quot;token&quot;:&quot;56c6dd7e4ecf4947aa540f48289e45af&quot;,&quot;spa&quot;:2}" crossorigin="anonymous"></script>
+
+
+
+</body></html>

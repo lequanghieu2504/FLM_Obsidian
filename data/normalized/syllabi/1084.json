@@ -1,0 +1,513 @@
+{
+  "syllabus_id": 1084,
+  "subject_code": "SSC201",
+  "subject_name": "Effective presentation skills",
+  "syllabus_name": "Effective Presentation Skills",
+  "credits": 3,
+  "degree_level": "Bachelor",
+  "time_allocation": "1 course = 30 sessions 1 session = 90 minutes",
+  "prerequisite": "",
+  "general_information": {
+    "Syllabus ID": "1084",
+    "Syllabus Name": "Effective Presentation Skills",
+    "Course Name English": "",
+    "Subject Code": "SSC201",
+    "Learning-Teaching Method": "",
+    "NoCredit": "3",
+    "Degree Level": "Bachelor",
+    "Time Allocation": "1 course = 30 sessions 1 session = 90 minutes",
+    "Pre-Requisite": "",
+    "Description": "This course will give you helpful tips for making effective speeches and delivering them well. You'll learn how to organize a presentation, how to make it memorable, and how to communicate clearly. In the course, you'll have several opportunities to demonstrate the presentation skills that you learn. This will help you gain the experience you need to be more confident when you give a speech in a classroom or on the job. Some materials in this course are taken from the Coursera MOOC \"Presentations: Speaking so that People Listen\" at https://www.coursera.org/learn/presentations-speaking-so-that-people-listen/home/welcome",
+    "StudentTasks": "- Attend more than 80% of contact hours in order to be accepted to the final examination - Actively participate in class activities - Fulfill tasks given by instructor after class - Use their own laptop in class only for learning purpose - Access the course website (www.cms.fpt.edu.vn) for up-to-date information and material of the course, for online supports from teachers and other students and for practicing and assessment.",
+    "Tools": "",
+    "Scoring Scale": "10",
+    "DecisionNo MM/dd/yyyy": "1759/QĐ-ĐHFPT dated 07/12/2018",
+    "IsApproved": "True",
+    "Note": "",
+    "Is Scored": "True",
+    "MinAvgMarkToPass": "5",
+    "IsActive": "True",
+    "ApprovedDate": "7/12/2018"
+  },
+  "active": true,
+  "approved": true,
+  "decision": "1759/QĐ-ĐHFPT dated 07/12/2018",
+  "description": "This course will give you helpful tips for making effective speeches and delivering them well. You'll learn how to organize a presentation, how to make it memorable, and how to communicate clearly. In the course, you'll have several opportunities to demonstrate the presentation skills that you learn. This will help you gain the experience you need to be more confident when you give a speech in a classroom or on the job. Some materials in this course are taken from the Coursera MOOC \"Presentations: Speaking so that People Listen\" at https://www.coursera.org/learn/presentations-speaking-so-that-people-listen/home/welcome",
+  "learning_outcomes": [
+    {
+      "No.": "1",
+      "CLO Name": "CLO1",
+      "CLO Details": "Define the basic concepts of public speaking"
+    },
+    {
+      "No.": "2",
+      "CLO Name": "CLO2",
+      "CLO Details": "Define the concepts relating to audience analysis and listening and apply this knowledge to improve personal preparation of a speech"
+    },
+    {
+      "No.": "3",
+      "CLO Name": "CLO3",
+      "CLO Details": "Compose appropriate specifc purpose and central idea statements for informative, persuasive, and inspirational/entertaining speeches"
+    },
+    {
+      "No.": "4",
+      "CLO Name": "CLO4",
+      "CLO Details": "Distinguish between types of research and sources of information for a speech"
+    },
+    {
+      "No.": "5",
+      "CLO Name": "CLO5",
+      "CLO Details": "Demonstrate the structure of a presentation and construct an outline for a presentation"
+    },
+    {
+      "No.": "6",
+      "CLO Name": "CLO6",
+      "CLO Details": "List the types of supporting materials"
+    },
+    {
+      "No.": "7",
+      "CLO Name": "CLO7",
+      "CLO Details": "Construct presentation introductions and conclusions"
+    },
+    {
+      "No.": "8",
+      "CLO Name": "CLO8",
+      "CLO Details": "List types of presentation aids and apply them in presentations appropriately"
+    },
+    {
+      "No.": "9",
+      "CLO Name": "CLO9",
+      "CLO Details": "Explain and apply methods of delivery"
+    },
+    {
+      "No.": "10",
+      "CLO Name": "CLO10",
+      "CLO Details": "Construct an informative speech"
+    },
+    {
+      "No.": "11",
+      "CLO Name": "CLO11",
+      "CLO Details": "Compose an outline for a well-supported persuasive speech"
+    },
+    {
+      "No.": "12",
+      "CLO Name": "CLO12",
+      "CLO Details": "Identify types of reasoning and logical fallcies"
+    },
+    {
+      "No.": "13",
+      "CLO Name": "CLO13",
+      "CLO Details": "Construct and deliver an effective presentation in academic and professional settings"
+    }
+  ],
+  "assessments": [
+    {
+      "No.": "1",
+      "Category": "Activity 1",
+      "Type": "on-going",
+      "Part": "1",
+      "Weight": "20.0%",
+      "Completion Criteria": ">0",
+      "Duration": "2 slots (~7 minutes/presentation)",
+      "CLO": "LO1, LO2, LO3, LO4",
+      "Question Type": "Individual presentation",
+      "No Question": "",
+      "Knowledge and Skill": "Test students' ability to understand and apply the skills and knowledge of the delivered units",
+      "Grading Guide": "Presentation in class",
+      "Note": ""
+    },
+    {
+      "No.": "2",
+      "Category": "Activity 2",
+      "Type": "on-going",
+      "Part": "1",
+      "Weight": "20.0%",
+      "Completion Criteria": ">0",
+      "Duration": "2 slots (~15 minutes/presentation)",
+      "CLO": "LO1, LO2, LO3, LO4, LO5, LO6, LO7, LO8",
+      "Question Type": "Group presentation",
+      "No Question": "",
+      "Knowledge and Skill": "Test students' ability to understand and apply the skills and knowledge of the delivered units",
+      "Grading Guide": "Presentation in class",
+      "Note": "Students are divided into groups of 3 to 4"
+    },
+    {
+      "No.": "3",
+      "Category": "Final project presentation",
+      "Type": "on-going",
+      "Part": "1",
+      "Weight": "60.0%",
+      "Completion Criteria": ">0",
+      "Duration": "2 slots (~7 minutes/presentation)",
+      "CLO": "All LOs",
+      "Question Type": "Individual presentation",
+      "No Question": "",
+      "Knowledge and Skill": "Test students' ability to understand and apply the skills and knowledge of the delivered units",
+      "Grading Guide": "Presentation in class",
+      "Note": "20% of the grade is given to students' preparation; powerpoints and outlines must be submitted to the teacher before the day of the presentation"
+    }
+  ],
+  "schedule": [
+    {
+      "Session": "1",
+      "Topic": "Chapter 1: The Basics of Public Speaking 1.1 What is Public Speaking? 1.2 Anxiety and Public Speaking 1.3 Understanding the Process of Public Speaking Activity: Stage Fright",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO1",
+      "ITU": "",
+      "Student Materials": "Textbook, Teacher's PPT, Coursera materials",
+      "S-Download": "",
+      "Student's Tasks": "- Teacher's lecture - coursera activity: Stage Fright Lecture, Practice Quiz, and Review",
+      "URLs": ""
+    },
+    {
+      "Session": "2",
+      "Topic": "Chapter 1: The Basics of Public Speaking (cont.) 1.4 The Value of Public Speaking in Your Life 1.5 Getting Started in Public Speaking Activity: Introduce Yourself",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO1",
+      "ITU": "",
+      "Student Materials": "Textbook, Teacher's PPT, Coursera materials",
+      "S-Download": "",
+      "Student's Tasks": "- Teacher's lecture - coursera activity: Introduce Yourself",
+      "URLs": ""
+    },
+    {
+      "Session": "3",
+      "Topic": "Chapter 2: Audience Analysis and Listening 2.1 The Importance of Audience Analysis 2.2 Demographic Characteristics 2.3 Psychographic Characteristics Review: Ethics in Public Speaking",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO2",
+      "ITU": "",
+      "Student Materials": "Textbook, Teacher's PPT",
+      "S-Download": "",
+      "Student's Tasks": "- Teacher's lecture - Discussion: Ethics in Public Speaking",
+      "URLs": ""
+    },
+    {
+      "Session": "4",
+      "Topic": "Chapter 2: Audience Analysis and Listening (cont.) 2.4 Contextual Factors of Audience Analysis 2.5 Listening in Public Speaking Settings Something to Think about",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO2",
+      "ITU": "",
+      "Student Materials": "Textbook, Teacher's PPT",
+      "S-Download": "",
+      "Student's Tasks": "- Teacher's lecture - Discussion: Something to think about",
+      "URLs": ""
+    },
+    {
+      "Session": "5",
+      "Topic": "Chapter 4: Developing Topics for Your Speech 4.1 Getting Started with Your Topic and Purpose 4.2 Formulating a Specific Purpose Statement Activity: Types of Presentations",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO3",
+      "ITU": "",
+      "Student Materials": "Textbook, Teacher's PPT, Coursera materials",
+      "S-Download": "",
+      "Student's Tasks": "- Teacher's lecture - coursera activity: Types of presentations lecture and Practice quiz",
+      "URLs": ""
+    },
+    {
+      "Session": "6",
+      "Topic": "Chapter 4: Developing Topics for Your Speech (cont.) 4.3 Formulating a Central Idea Statement 4.4 Problems to Avoid with Specific Purpose and Central Idea Statements Something to Think about",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO3",
+      "ITU": "",
+      "Student Materials": "Textbook, Teacher's PPT",
+      "S-Download": "",
+      "Student's Tasks": "- Teacher's lecture - Discussion: Something to think about",
+      "URLs": ""
+    },
+    {
+      "Session": "7",
+      "Topic": "Chapter 5: Researching Your Speeches 5.1 Primary and Secondary Research 5.2 Research on the Internet",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO4",
+      "ITU": "",
+      "Student Materials": "Textbook, Teacher's PPT",
+      "S-Download": "",
+      "Student's Tasks": "- Teacher's lecture",
+      "URLs": ""
+    },
+    {
+      "Session": "8",
+      "Topic": "Chapter 5: Researching Your Speeches (cont.) 5.3 Conducting Your Own Research 5.4 Accessing Information Through a Library Something to Think about",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO4",
+      "ITU": "",
+      "Student Materials": "Textbook, Teacher's PPT",
+      "S-Download": "",
+      "Student's Tasks": "- Teacher's lecture - Discussion: Something to think about",
+      "URLs": ""
+    },
+    {
+      "Session": "9",
+      "Topic": "Activity 1: Individual Presentation",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO1, LO2, LO3, LO4",
+      "ITU": "",
+      "Student Materials": "",
+      "S-Download": "",
+      "Student's Tasks": "Students give individual presentations of ~7 minutes",
+      "URLs": ""
+    },
+    {
+      "Session": "10",
+      "Topic": "Activity 1: Individual Presentation",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO1, LO2, LO3, LO4",
+      "ITU": "",
+      "Student Materials": "",
+      "S-Download": "",
+      "Student's Tasks": "Students give individual presentations of ~7 minutes",
+      "URLs": ""
+    },
+    {
+      "Session": "11",
+      "Topic": "Chapter 6: Organizing and Outlining Your Speech 6.1 Why We Need Organization in Speeches 6.2 Patterns of Organization Activity: Structure of a Presentation",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO5",
+      "ITU": "",
+      "Student Materials": "Textbook, Teacher's PPT, Coursera materials",
+      "S-Download": "",
+      "Student's Tasks": "- Teacher's lecture - coursera activity: Structure of a presentation lecture, Evaluate the structure of a presentation, Presentation structure practice quiz",
+      "URLs": ""
+    },
+    {
+      "Session": "12",
+      "Topic": "Chapter 6: Organizing and Outlining Your Speech (cont.) 6.3 Connective Statements 6.4 Outlining Something to Think about Activity: The Body",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO5",
+      "ITU": "",
+      "Student Materials": "Textbook, Teacher's PPT, Coursera materials",
+      "S-Download": "",
+      "Student's Tasks": "- Teacher's lecture - Discussion: Something to think about - Coursera activity: Developing and organizing ideas lecture & practice quiz, Listening to presentations practice quiz",
+      "URLs": ""
+    },
+    {
+      "Session": "13",
+      "Topic": "Chapter 7: Supporting Your Speech Ideas 7.1 Why Supporting Materials Are Needed 7.2 Types of Supporting Materials Activity: Adding Details",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO6",
+      "ITU": "",
+      "Student Materials": "Textbook, Teacher's PPT, Coursera materials",
+      "S-Download": "",
+      "Student's Tasks": "- Teacher's lecture - coursera activity: Presentation Details lecture, practice quiz & practice",
+      "URLs": ""
+    },
+    {
+      "Session": "14",
+      "Topic": "Chapter 7: Supporting Your Speech Ideas (cont.) 7.3 Attention Factors and Supporting Material Something to Think about Activity: Hooks",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO6",
+      "ITU": "",
+      "Student Materials": "Textbook, Teacher's PPT, Coursera materials",
+      "S-Download": "",
+      "Student's Tasks": "- Teacher's lecture - Discussion: Something to think about - Coursera activity: Hooks lecture, practice quiz; Thinking of hooks practice",
+      "URLs": ""
+    },
+    {
+      "Session": "15",
+      "Topic": "Chapter 8: Introductions and Conclusions 8.1 General Guidelines for Introductions and Conclusions 8.2 Structuring the Introduction 8.3 Examples of Introductions Activity: Presentation Introductions",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO7",
+      "ITU": "",
+      "Student Materials": "Textbook, Teacher's PPT, Coursera materials",
+      "S-Download": "",
+      "Student's Tasks": "- Teacher's lecture - coursera activity: Presentation Introductions lecture, practice quiz, Introductions practice",
+      "URLs": ""
+    },
+    {
+      "Session": "16",
+      "Topic": "Chapter 8: Introductions and Conclusions (cont.) 8.4 Structuring the Conclusion 8.5 Examples of Conclusions Something to Think about Activity: Conclusions",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO7",
+      "ITU": "",
+      "Student Materials": "Textbook, Teacher's PPT, Coursera materials",
+      "S-Download": "",
+      "Student's Tasks": "- Teacher's lecture - Discussion: Something to think about - coursera activity: Presentation Conclusions lecture & practice quiz",
+      "URLs": ""
+    },
+    {
+      "Session": "17",
+      "Topic": "Chapter 9: Presentation Aids in Speaking 9.1 What are Presentation Aids 9.2 Functions of Presentations Aids 9.3 Types of Presentation Aids Activity: Co-presenting tips, PowerPoint tips",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO8",
+      "ITU": "",
+      "Student Materials": "Textbook, Teacher's PPT, Coursera materials",
+      "S-Download": "",
+      "Student's Tasks": "- Teacher's lecture - coursera activity: Co-presenting/PowerPoint lecture, practice quiz & practice",
+      "URLs": ""
+    },
+    {
+      "Session": "18",
+      "Topic": "Chapter 9: Presentation Aids in Speaking (cont.) 9.4 Using Presentation Slides 9.5 Low-Tech Presentation Aids Activity: Poster tips, Handout tips Something to Think about",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO8",
+      "ITU": "",
+      "Student Materials": "Textbook, Teacher's PPT, Coursera materials",
+      "S-Download": "",
+      "Student's Tasks": "- Teacher's lecture - Discussion: Something to think about - coursera activity: Poster tips lecture & practice quiz; Handouts lecture, practice quiz & practice activity",
+      "URLs": ""
+    },
+    {
+      "Session": "19",
+      "Topic": "Activity 2: Group presentation",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO1, LO2, LO3, LO4, LO5, LO6, LO7, LO8",
+      "ITU": "",
+      "Student Materials": "",
+      "S-Download": "",
+      "Student's Tasks": "Groups of three students give presentations of ~ 15 minutes/each group",
+      "URLs": ""
+    },
+    {
+      "Session": "20",
+      "Topic": "Activity 2: Group presentation",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO1, LO2, LO3, LO4, LO5, LO6, LO7, LO8",
+      "ITU": "",
+      "Student Materials": "",
+      "S-Download": "",
+      "Student's Tasks": "Groups of three students give presentations of ~ 15 minutes/each group",
+      "URLs": ""
+    },
+    {
+      "Session": "21",
+      "Topic": "Chapter 11: Delivery 11.1 The Importance of Delivery 11.2 Methods of Speech Delivery 11.3 Preparing for Your Delivery Activity: Verbal Delivery, Non-verbal Delivery",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO9",
+      "ITU": "",
+      "Student Materials": "Textbook, Teacher's PPT, Coursera materials",
+      "S-Download": "",
+      "Student's Tasks": "- Teacher's lecture - coursera activity: Verbal Delivery, Non-verbal Delivery",
+      "URLs": ""
+    },
+    {
+      "Session": "22",
+      "Topic": "Chapter 11: Delivery (cont.) 11.4 Practicing Your Delivery 11.5 What to Do When Delivering Your Speech Something to Think about Activity: Rehearsing Your Speech",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO9",
+      "ITU": "",
+      "Student Materials": "Textbook, Teacher's PPT, Coursera materials",
+      "S-Download": "",
+      "Student's Tasks": "- Teacher's lecture - Discussion: Something to think about - coursera activity: Rehearse before you present lecture, Rehearsing practice quiz",
+      "URLs": ""
+    },
+    {
+      "Session": "23",
+      "Topic": "Chapter 12: Informative Speaking 12.1 What Is an Informative Speech 12.2 Types of Informative Speeches Review: Language",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO10",
+      "ITU": "",
+      "Student Materials": "Textbook, Teacher's PPT",
+      "S-Download": "",
+      "Student's Tasks": "- Teacher's lecture - Discussion: Language",
+      "URLs": ""
+    },
+    {
+      "Session": "24",
+      "Topic": "Chapter 12: Informative Speaking (cont.) 12.3 Guidelines for Selecting an Informative Speech Topic 12.4 Guidelines for Preparing an Informative Speech Something to Think about",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO10",
+      "ITU": "",
+      "Student Materials": "Textbook, Teacher's PPT",
+      "S-Download": "",
+      "Student's Tasks": "- Teacher's lecture - Discussion: Something to think about",
+      "URLs": ""
+    },
+    {
+      "Session": "25",
+      "Topic": "Chapter 13: Persuasive Speaking 13.1 Why Persuade? 13.2 A Definition of Persuasion 13.3 Why Is Persuasion Hard? Activity: Handling Questions",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO11",
+      "ITU": "",
+      "Student Materials": "Textbook, Teacher's PPT, Coursera materials",
+      "S-Download": "",
+      "Student's Tasks": "- Teacher's lecture Coursera activity: Questions in a presentation lecture, Handling questions practice quiz",
+      "URLs": ""
+    },
+    {
+      "Session": "26",
+      "Topic": "Chapter 13: Persuasive Speaking (cont.) 13.4 Traditional Views of Persuasion 13.5 Constructing a Persuasive Speech Something to Think about",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO11",
+      "ITU": "",
+      "Student Materials": "Textbook, Teacher's PPT",
+      "S-Download": "",
+      "Student's Tasks": "- Teacher's lecture - Discussion: Something to think about",
+      "URLs": ""
+    },
+    {
+      "Session": "27",
+      "Topic": "Chapter 14: Logical Reasoning 14.1 What Is Correct Reasoning? 14.2 Inductive Reasoning Review: Special Occasion Speaking",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO12",
+      "ITU": "",
+      "Student Materials": "Textbook, Teacher's PPT",
+      "S-Download": "",
+      "Student's Tasks": "- Teacher's lecture - Discussion: Special Occasion Speaking",
+      "URLs": ""
+    },
+    {
+      "Session": "28",
+      "Topic": "Chapter 14: Logical Reasoning (cont.) 14.3 Deductive Reasoning 14.4 Logical Fallacies Something to Think about Review: Preparation of Final Project Presentation",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO12",
+      "ITU": "",
+      "Student Materials": "Textbook, Teacher's PPT",
+      "S-Download": "",
+      "Student's Tasks": "- Teacher's lecture - Discussion: Something to think about - Teacher gives feedback on students' preparation of final project presentation",
+      "URLs": ""
+    },
+    {
+      "Session": "29",
+      "Topic": "Final Project Presentation",
+      "Learning-Teaching Type": "Offline",
+      "LO": "CLO",
+      "ITU": "",
+      "Student Materials": "",
+      "S-Download": "",
+      "Student's Tasks": "Students give individual presentations of ~7 minutes",
+      "URLs": ""
+    },
+    {
+      "Session": "30",
+      "Topic": "Final Project Presentation",
+      "Learning-Teaching Type": "Offline",
+      "LO": "CLO",
+      "ITU": "",
+      "Student Materials": "",
+      "S-Download": "",
+      "Student's Tasks": "Students give individual presentations of ~7 minutes",
+      "URLs": ""
+    }
+  ],
+  "constructive_questions": [],
+  "materials": [
+    {
+      "No.": "1",
+      "Material Description": "https://www.coursera.org/learn/presentations-speaking-so-that-people-listen/home/welcome",
+      "Author": "",
+      "Publisher": "",
+      "Published Date": "",
+      "Edition": "",
+      "ISBN": "",
+      "Is Main Material": "False",
+      "Is Hard Copy": "False",
+      "Is Online": "True",
+      "Note": ""
+    },
+    {
+      "No.": "2",
+      "Material Description": "Exploring Public Speaking",
+      "Author": "Barbara G. Tucker",
+      "Publisher": "GALILEO, University System of Georgia",
+      "Published Date": "2018",
+      "Edition": "3rd Edition",
+      "ISBN": "",
+      "Is Main Material": "True",
+      "Is Hard Copy": "False",
+      "Is Online": "True",
+      "Note": "https://oer.galileo.usg.edu/cgi/viewcontent.cgi?filename=10&article=1000&context=communication-textbooks&type=additional"
+    }
+  ],
+  "source_path": "data/raw/syllabi/1084.html",
+  "id": "syllabus:1084"
+}

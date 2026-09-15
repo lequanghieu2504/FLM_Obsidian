@@ -1,0 +1,480 @@
+{
+  "syllabus_id": 3621,
+  "subject_code": "eat201",
+  "subject_name": "Đánh giá và kiểm tra - Assessment and Testing",
+  "syllabus_name": "Đánh giá và kiểm tra - Assessment and Testing",
+  "credits": 3,
+  "degree_level": "<Bachelor>",
+  "time_allocation": "Contact time: 30 sessions; 1 session = 90'",
+  "prerequisite": "ETL101",
+  "general_information": {
+    "Syllabus ID": "3621",
+    "Syllabus Name": "Đánh giá và kiểm tra - Assessment and Testing",
+    "Course Name English": "",
+    "Subject Code": "eat201",
+    "Learning-Teaching Method": "",
+    "NoCredit": "3",
+    "Degree Level": "<Bachelor>",
+    "Time Allocation": "Contact time: 30 sessions; 1 session = 90'",
+    "Pre-Requisite": "ETL101",
+    "Description": "Objective: 'This course aims to equip students with an insight into the important inssues of language testing and skills to design questions for language achievement tests of multiple language skills.\" Teaching method: lecture + acitivities + project works",
+    "StudentTasks": "<- Students must attend more than 80% of contact slots in order to be accepted to the final examination. - Student is responsible to do all exercises, and assignments given by instructor in class or at home and submit on time - Use laptop in class only for learning purpose - Promptly access to the FU CMS at http://cms.fpt.edu.vn for up-to-date course information>",
+    "Tools": "textbook + reference materials",
+    "Scoring Scale": "10",
+    "DecisionNo MM/dd/yyyy": "870/QĐ-ĐHFPT dated 08/06/2021",
+    "IsApproved": "True",
+    "Note": "1) On-going assessment - Presentation: 01*30%: 30% - Assignment : 01*20%: 20% - Projects: 01*30% + 01*20%: 50% 3) Final Result 100% 4) Completion Criteria: On-going assessment >0, & Final Result >=5/10",
+    "Is Scored": "True",
+    "MinAvgMarkToPass": "5",
+    "IsActive": "True",
+    "ApprovedDate": "8/6/2021"
+  },
+  "active": true,
+  "approved": true,
+  "decision": "870/QĐ-ĐHFPT dated 08/06/2021",
+  "description": "Objective: 'This course aims to equip students with an insight into the important inssues of language testing and skills to design questions for language achievement tests of multiple language skills.\" Teaching method: lecture + acitivities + project works",
+  "learning_outcomes": [
+    {
+      "No.": "1",
+      "CLO Name": "CLO1",
+      "CLO Details": "Identify different types of language tests and their purposes"
+    },
+    {
+      "No.": "2",
+      "CLO Name": "CLO2",
+      "CLO Details": "Weigh the roles of testing in an EFL course"
+    },
+    {
+      "No.": "3",
+      "CLO Name": "CLO3",
+      "CLO Details": "Evaluate the validity and reliability of a language test based on clear criteria"
+    },
+    {
+      "No.": "4",
+      "CLO Name": "CLO4",
+      "CLO Details": "Construct the specifications for developing a specific test of an EFL course"
+    },
+    {
+      "No.": "5",
+      "CLO Name": "CLO5",
+      "CLO Details": "Design an achievement test for a specific EFL course"
+    },
+    {
+      "No.": "6",
+      "CLO Name": "CLO6",
+      "CLO Details": "Evaluate the beneficial backwash of a test"
+    }
+  ],
+  "assessments": [
+    {
+      "No.": "1",
+      "Category": "Assignment",
+      "Type": "on-going",
+      "Part": "1",
+      "Weight": "20.0%",
+      "Completion Criteria": ">0",
+      "Duration": "4 days",
+      "CLO": "LO1, LO2, LO4",
+      "Question Type": "Write the specifications of a specific EFL achievement test (content, structure, timing, medium, techniques, scoring)",
+      "No Question": "Word limit: no more than 3 A-4 pages",
+      "Knowledge and Skill": "Test development procedure",
+      "Grading Guide": "a written plan",
+      "Note": "Group work (3 people/ a group) with a clear task delegation"
+    },
+    {
+      "No.": "2",
+      "Category": "Presentation",
+      "Type": "on-going",
+      "Part": "1",
+      "Weight": "30.0%",
+      "Completion Criteria": ">0",
+      "Duration": "10-15 minutes each group's performance",
+      "CLO": "LO1, LO2, LO3",
+      "Question Type": "A presentation to evaluate the validity and reliability of a specific test based on the textbook's criteria",
+      "No Question": "",
+      "Knowledge and Skill": "Test validity and reliability",
+      "Grading Guide": "oral presentation",
+      "Note": "Group work (4 people/ a group) with a clear task delegation"
+    },
+    {
+      "No.": "3",
+      "Category": "Project 1",
+      "Type": "on-going",
+      "Part": "1",
+      "Weight": "30.0%",
+      "Completion Criteria": ">0",
+      "Duration": "4 days",
+      "CLO": "LO1, LO2, LO3, LO5, LO6",
+      "Question Type": "Construct a listening/ reading achievement test for a specific EFL course",
+      "No Question": "Listening: a 20-minute test (listen twice) Reading: a 40-minute test",
+      "Knowledge and Skill": "Testing techniques, validity and reliability",
+      "Grading Guide": "computer-based tests/ paper-based tests",
+      "Note": "Group work (3 people/ a group) with a clear task delegation"
+    },
+    {
+      "No.": "4",
+      "Category": "Project 2",
+      "Type": "on-going",
+      "Part": "1",
+      "Weight": "20.0%",
+      "Completion Criteria": ">0",
+      "Duration": "4 days",
+      "CLO": "LO1, LO2, LO3, LO5, LO6",
+      "Question Type": "Construct an oral/ writing test for a specific EFL course",
+      "No Question": "Oral test: 10 questions, 5-10 minutes/ person Writing test: 30 to 60 minutes",
+      "Knowledge and Skill": "Testing techniques, validity and reliability",
+      "Grading Guide": "computer-based tests/ paper-based tests",
+      "Note": "Group work (3 people/ a group) with a clear task delegation"
+    }
+  ],
+  "schedule": [
+    {
+      "Session": "1",
+      "Topic": "Course Introduction Introduction to teaching and testing Introduction to assignments",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO 1-6",
+      "ITU": "I",
+      "Student Materials": "Testing for Language Teachers",
+      "S-Download": "",
+      "Student's Tasks": "Note-taking",
+      "URLs": ""
+    },
+    {
+      "Session": "2",
+      "Topic": "Testing as a problem solving: the roles of testing",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO 2",
+      "ITU": "I,T,U",
+      "Student Materials": "Testing for Language Teachers",
+      "S-Download": "",
+      "Student's Tasks": "Class discussion, group work, pair work",
+      "URLs": ""
+    },
+    {
+      "Session": "3",
+      "Topic": "Kinds of test and testing",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO 1, 2",
+      "ITU": "T,U",
+      "Student Materials": "Testing for Language Teachers",
+      "S-Download": "",
+      "Student's Tasks": "Class discussion, group work, pair work",
+      "URLs": ""
+    },
+    {
+      "Session": "4",
+      "Topic": "Kinds of test and testing (cont.)",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO 1, 2",
+      "ITU": "T,U",
+      "Student Materials": "Testing for Language Teachers",
+      "S-Download": "",
+      "Student's Tasks": "Class discussion, group work, pair work",
+      "URLs": ""
+    },
+    {
+      "Session": "5",
+      "Topic": "Presentation topic assigned Test validity",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO 3",
+      "ITU": "I,T,U",
+      "Student Materials": "Testing for Language Teachers",
+      "S-Download": "",
+      "Student's Tasks": "Class discussion, group work, pair work",
+      "URLs": ""
+    },
+    {
+      "Session": "6",
+      "Topic": "Test validity (cont.)",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO 3",
+      "ITU": "U",
+      "Student Materials": "Testing for Language Teachers",
+      "S-Download": "",
+      "Student's Tasks": "Class discussion, group work, pair work",
+      "URLs": ""
+    },
+    {
+      "Session": "7",
+      "Topic": "Test reliability",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO 3",
+      "ITU": "I,T,U",
+      "Student Materials": "Testing for Language Teachers",
+      "S-Download": "",
+      "Student's Tasks": "individual work",
+      "URLs": ""
+    },
+    {
+      "Session": "8",
+      "Topic": "Test reliability",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO 3",
+      "ITU": "I,T,U",
+      "Student Materials": "Testing for Language Teachers",
+      "S-Download": "",
+      "Student's Tasks": "Class discussion, group work, pair work",
+      "URLs": ""
+    },
+    {
+      "Session": "9",
+      "Topic": "Test reliability: How to make tests more reliabe",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO 3",
+      "ITU": "T,U",
+      "Student Materials": "Testing for Language Teachers",
+      "S-Download": "",
+      "Student's Tasks": "Class discussion, group work, pair work",
+      "URLs": ""
+    },
+    {
+      "Session": "10",
+      "Topic": "Achieving beneficial backwash",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO 6",
+      "ITU": "T,U",
+      "Student Materials": "Testing for Language Teachers",
+      "S-Download": "",
+      "Student's Tasks": "Class discussion, group work, pair work",
+      "URLs": ""
+    },
+    {
+      "Session": "11",
+      "Topic": "Achieving beneficial backwash (cont.)",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO 6",
+      "ITU": "T,U",
+      "Student Materials": "Testing for Language Teachers",
+      "S-Download": "",
+      "Student's Tasks": "Class discussion, group work, pair work",
+      "URLs": ""
+    },
+    {
+      "Session": "12",
+      "Topic": "Presentation",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO 1, 2, 3",
+      "ITU": "U",
+      "Student Materials": "Testing for Language Teachers",
+      "S-Download": "",
+      "Student's Tasks": "group presentation",
+      "URLs": ""
+    },
+    {
+      "Session": "13",
+      "Topic": "Assignment Stages of test development",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO 1, 2, 4",
+      "ITU": "I,T,U",
+      "Student Materials": "Testing for Language Teachers",
+      "S-Download": "",
+      "Student's Tasks": "Class discussion, group work, pair work",
+      "URLs": ""
+    },
+    {
+      "Session": "14",
+      "Topic": "Stages of test development (cont.)",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO 1, 2, 4",
+      "ITU": "T,U",
+      "Student Materials": "Testing for Language Teachers",
+      "S-Download": "",
+      "Student's Tasks": "Class discussion, group work, pair work",
+      "URLs": ""
+    },
+    {
+      "Session": "15",
+      "Topic": "Common test techniques: multiple choice",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO 3, 5",
+      "ITU": "T,U",
+      "Student Materials": "Testing for Language Teachers",
+      "S-Download": "",
+      "Student's Tasks": "Class discussion, group work, pair work",
+      "URLs": ""
+    },
+    {
+      "Session": "16",
+      "Topic": "Common test techniques: other types of questions",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO 3, 5",
+      "ITU": "T,U",
+      "Student Materials": "Testing for Language Teachers",
+      "S-Download": "",
+      "Student's Tasks": "Class discussion, group work, pair work",
+      "URLs": ""
+    },
+    {
+      "Session": "17",
+      "Topic": "Common test techniques: practice constructing test questions Assignment submission",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO 3, 5",
+      "ITU": "T,U",
+      "Student Materials": "Testing for Language Teachers",
+      "S-Download": "",
+      "Student's Tasks": "Class discussion, group work, pair work",
+      "URLs": ""
+    },
+    {
+      "Session": "18",
+      "Topic": "Projects assigned Testing listening",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO 1, 2, 3, 5, 6",
+      "ITU": "I,T,U",
+      "Student Materials": "Testing for Language Teachers",
+      "S-Download": "",
+      "Student's Tasks": "Class discussion, group work, pair work",
+      "URLs": ""
+    },
+    {
+      "Session": "19",
+      "Topic": "Testing listening",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO 1, 2, 3, 5, 6",
+      "ITU": "I,T,U",
+      "Student Materials": "Testing for Language Teachers",
+      "S-Download": "",
+      "Student's Tasks": "Class discussion, group work, pair work",
+      "URLs": ""
+    },
+    {
+      "Session": "20",
+      "Topic": "Testing reading",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO 1, 2, 3, 5, 6",
+      "ITU": "T,U",
+      "Student Materials": "Testing for Language Teachers",
+      "S-Download": "",
+      "Student's Tasks": "Class discussion, group work, pair work",
+      "URLs": ""
+    },
+    {
+      "Session": "21",
+      "Topic": "Testing reading",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO 1, 2, 3, 5, 6",
+      "ITU": "T,U",
+      "Student Materials": "Testing for Language Teachers",
+      "S-Download": "",
+      "Student's Tasks": "Class discussion, group work, pair work",
+      "URLs": ""
+    },
+    {
+      "Session": "22",
+      "Topic": "Testing reading",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO 1, 2, 3, 5, 6",
+      "ITU": "T,U",
+      "Student Materials": "Testing for Language Teachers",
+      "S-Download": "",
+      "Student's Tasks": "Class discussion, group work, pair work",
+      "URLs": ""
+    },
+    {
+      "Session": "23",
+      "Topic": "Testing oral ability",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO 1, 2, 3, 5, 6",
+      "ITU": "U",
+      "Student Materials": "Testing for Language Teachers",
+      "S-Download": "",
+      "Student's Tasks": "Class discussion, group work, pair work",
+      "URLs": ""
+    },
+    {
+      "Session": "24",
+      "Topic": "Testing oral ability Project 1 submission",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO 1, 2, 3, 5, 6",
+      "ITU": "T,U",
+      "Student Materials": "Testing for Language Teachers",
+      "S-Download": "",
+      "Student's Tasks": "Class discussion, group work, pair work",
+      "URLs": ""
+    },
+    {
+      "Session": "25",
+      "Topic": "Testing writing",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO 1, 2, 3, 5, 6",
+      "ITU": "I,T,U",
+      "Student Materials": "Testing for Language Teachers",
+      "S-Download": "",
+      "Student's Tasks": "Class discussion, group work, pair work",
+      "URLs": ""
+    },
+    {
+      "Session": "26",
+      "Topic": "Testing writing",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO 1, 2, 3, 5, 6",
+      "ITU": "T,U",
+      "Student Materials": "Testing for Language Teachers",
+      "S-Download": "",
+      "Student's Tasks": "Class discussion, group work, pair work",
+      "URLs": ""
+    },
+    {
+      "Session": "27",
+      "Topic": "Testing overall ability",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO 1, 2, 3, 5, 6",
+      "ITU": "T,U",
+      "Student Materials": "Testing for Language Teachers",
+      "S-Download": "",
+      "Student's Tasks": "Class discussion, group work, pair work",
+      "URLs": ""
+    },
+    {
+      "Session": "28",
+      "Topic": "Testing overall ability Project 2 submission",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO 1, 2, 3, 5, 6",
+      "ITU": "T,U",
+      "Student Materials": "Testing for Language Teachers",
+      "S-Download": "",
+      "Student's Tasks": "Class discussion, group work, pair work",
+      "URLs": ""
+    },
+    {
+      "Session": "29",
+      "Topic": "Feedback on assignment",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO 1-6",
+      "ITU": "T,U",
+      "Student Materials": "Testing for Language Teachers",
+      "S-Download": "",
+      "Student's Tasks": "peer feedback",
+      "URLs": ""
+    },
+    {
+      "Session": "30",
+      "Topic": "Feedback on projects",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO 1-6",
+      "ITU": "T,U",
+      "Student Materials": "Testing for Language Teachers",
+      "S-Download": "",
+      "Student's Tasks": "peer feedback",
+      "URLs": ""
+    }
+  ],
+  "constructive_questions": [],
+  "materials": [
+    {
+      "No.": "1",
+      "Material Description": "Testing for Language Teachers",
+      "Author": "Arthur Hughes",
+      "Publisher": "Cambridge University Press",
+      "Published Date": "2003",
+      "Edition": "2nd",
+      "ISBN": "521484952",
+      "Is Main Material": "True",
+      "Is Hard Copy": "True",
+      "Is Online": "False",
+      "Note": ""
+    }
+  ],
+  "source_path": "data/raw/syllabi/3621.html",
+  "id": "syllabus:3621"
+}

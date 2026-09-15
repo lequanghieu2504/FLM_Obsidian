@@ -1,0 +1,869 @@
+{
+  "syllabus_id": 11081,
+  "subject_code": "DBM301",
+  "subject_name": "Data mining_Khai phá dữ liệu",
+  "syllabus_name": "Data Mining_Khai phá dữ liệu",
+  "credits": 3,
+  "degree_level": "Bachelor",
+  "time_allocation": "Study hour (150h) = 45h contact hours + 1h final exam + 104h self-study",
+  "prerequisite": "",
+  "general_information": {
+    "Syllabus ID": "11081",
+    "Syllabus Name": "Data Mining_Khai phá dữ liệu",
+    "Course Name English": "Data Mining",
+    "Subject Code": "DBM301",
+    "Learning-Teaching Method": "Social Constructivism,In-class lecture,Inquiry-based Teaching",
+    "NoCredit": "3",
+    "Degree Level": "Bachelor",
+    "Time Allocation": "Study hour (150h) = 45h contact hours + 1h final exam + 104h self-study",
+    "Pre-Requisite": "",
+    "Description": "Data mining is a multidisciplinary field, drawing work from areas including database technology, machine learning, statistics, pattern recognition, information retrieval, neural networks, knowledge-based systems, artificial intelligence, high-performance computing, and data visualization. This course presents techniques for the discovery of patterns hidden in large data sets, focusing on issues relating to their feasibility, usefulness, effectiveness, and scalability. As a result, the course is a comprehensive introduction to data mining, presented with effectiveness and scalability issues in focus. It should be useful for computing science students, application developers, and business professionals at master degree, as well as researchers involved in any of the disciplines listed above.",
+    "StudentTasks": "- Students must attend at least 80% of contact slots in order to be accepted to the final examination. - Student is responsible to do all exercises, assignments and labs given by instructor in class or at home and submit on time - Use laptop in class only for learning purpose - Promptly access to the https://flm.fpt.edu.vn/ for up-to-date course information",
+    "Tools": "- Internet - Matlab trial version, Python",
+    "Scoring Scale": "10",
+    "DecisionNo MM/dd/yyyy": "358/QĐ-ĐHFPT dated 04/03/2024",
+    "IsApproved": "True",
+    "Note": "",
+    "Is Scored": "True",
+    "MinAvgMarkToPass": "5",
+    "IsActive": "True",
+    "ApprovedDate": "4/3/2024"
+  },
+  "active": true,
+  "approved": true,
+  "decision": "358/QĐ-ĐHFPT dated 04/03/2024",
+  "description": "Data mining is a multidisciplinary field, drawing work from areas including database technology, machine learning, statistics, pattern recognition, information retrieval, neural networks, knowledge-based systems, artificial intelligence, high-performance computing, and data visualization. This course presents techniques for the discovery of patterns hidden in large data sets, focusing on issues relating to their feasibility, usefulness, effectiveness, and scalability. As a result, the course is a comprehensive introduction to data mining, presented with effectiveness and scalability issues in focus. It should be useful for computing science students, application developers, and business professionals at master degree, as well as researchers involved in any of the disciplines listed above.",
+  "learning_outcomes": [
+    {
+      "No.": "1",
+      "CLO Name": "CLO1",
+      "CLO Details": "Describe main concepts of Data mining"
+    },
+    {
+      "No.": "2",
+      "CLO Name": "CLO2",
+      "CLO Details": "Describe the Data"
+    },
+    {
+      "No.": "3",
+      "CLO Name": "CLO3",
+      "CLO Details": "Describe the Data Preprocessing"
+    },
+    {
+      "No.": "4",
+      "CLO Name": "CLO4",
+      "CLO Details": "Understand the Weka tool"
+    },
+    {
+      "No.": "5",
+      "CLO Name": "CLO5",
+      "CLO Details": "Describe the Data Warehouse & OLAP Technology"
+    },
+    {
+      "No.": "6",
+      "CLO Name": "CLO6",
+      "CLO Details": "Describe the Data Cube Technology"
+    },
+    {
+      "No.": "7",
+      "CLO Name": "CLO7",
+      "CLO Details": "Describe the Mining Frequent Patterns, Association Rule Mining and Correlation"
+    },
+    {
+      "No.": "8",
+      "CLO Name": "CLO8",
+      "CLO Details": "Apply the Classification"
+    },
+    {
+      "No.": "9",
+      "CLO Name": "CLO9",
+      "CLO Details": "Apply the Clustering"
+    },
+    {
+      "No.": "10",
+      "CLO Name": "CLO10",
+      "CLO Details": "Describe the Outlier Detection"
+    },
+    {
+      "No.": "11",
+      "CLO Name": "CLO11",
+      "CLO Details": "Understand Data Mining Trends and Research Frontiers"
+    }
+  ],
+  "assessments": [
+    {
+      "No.": "1",
+      "Category": "Assignment",
+      "Type": "on-going",
+      "Part": "2",
+      "Weight": "30.0%",
+      "Completion Criteria": ">0",
+      "Duration": "90' in class",
+      "CLO": "",
+      "Question Type": "Theory present or project",
+      "No Question": "N/A",
+      "Knowledge and Skill": "technical aspect of studied topics",
+      "Grading Guide": "- Guided by instructor - Application or Theory - Work in group",
+      "Note": ""
+    },
+    {
+      "No.": "2",
+      "Category": "Exercise",
+      "Type": "on-going",
+      "Part": "4",
+      "Weight": "40.0%",
+      "Completion Criteria": ">0",
+      "Duration": "10'-30'",
+      "CLO": "",
+      "Question Type": "Any appropriate type",
+      "No Question": "10",
+      "Knowledge and Skill": "",
+      "Grading Guide": "in class, by instructor",
+      "Note": "Instruction and schedule for Progress tests must be presented in the Course Implementation Plan approved by director of the campus. Progress test must be taken right after the last lectures of required material. Instructor has resposibility to review the test for students after graded."
+    },
+    {
+      "No.": "3",
+      "Category": "Final exam",
+      "Type": "Final exam",
+      "Part": "1",
+      "Weight": "30.0%",
+      "Completion Criteria": "4",
+      "Duration": "30'",
+      "CLO": "",
+      "Question Type": "Multiple choicesMarked by Computer",
+      "No Question": "30",
+      "Knowledge and Skill": "concepts, algorithms; all studied chapters",
+      "Grading Guide": "by exam board, using computer",
+      "Note": "The exam questions must be updated or different at least 70% to the previous ones."
+    }
+  ],
+  "schedule": [
+    {
+      "Session": "1",
+      "Topic": "Course Introduction Introduction to Data mining",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO0",
+      "ITU": "",
+      "Student Materials": "Chapter 1 Slide 1",
+      "S-Download": "DBM301",
+      "Student's Tasks": "Read: Chapter 1 Slide 1",
+      "URLs": ""
+    },
+    {
+      "Session": "2",
+      "Topic": "Course Introduction Introduction to Data mining",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO0",
+      "ITU": "",
+      "Student Materials": "Chapter 1 Slide 1",
+      "S-Download": "DBM301",
+      "Student's Tasks": "Read: Chapter 1 Slide 1",
+      "URLs": ""
+    },
+    {
+      "Session": "3",
+      "Topic": "Getting to Know Your Data",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO1",
+      "ITU": "",
+      "Student Materials": "Chapter 2 Slide 2",
+      "S-Download": "",
+      "Student's Tasks": "Read: Chapter 2 Slide 2",
+      "URLs": ""
+    },
+    {
+      "Session": "4",
+      "Topic": "Getting to Know Your Data",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO1",
+      "ITU": "",
+      "Student Materials": "Chapter 2 Slide 2",
+      "S-Download": "",
+      "Student's Tasks": "Read: Chapter 2 Slide 2",
+      "URLs": ""
+    },
+    {
+      "Session": "5",
+      "Topic": "Data Preprocessing",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO2",
+      "ITU": "",
+      "Student Materials": "Chapter 3 Slide 3",
+      "S-Download": "",
+      "Student's Tasks": "Read: Chapter 3 Slide 3",
+      "URLs": ""
+    },
+    {
+      "Session": "6",
+      "Topic": "Data Preprocessing",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO2",
+      "ITU": "",
+      "Student Materials": "Chapter 3 Slide 3",
+      "S-Download": "",
+      "Student's Tasks": "Read: Chapter 3 Slide 3",
+      "URLs": ""
+    },
+    {
+      "Session": "7",
+      "Topic": "Data Preprocessing",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO2",
+      "ITU": "",
+      "Student Materials": "Chapter 3 Slide 3",
+      "S-Download": "",
+      "Student's Tasks": "Read: Chapter 3 Slide 3",
+      "URLs": ""
+    },
+    {
+      "Session": "8",
+      "Topic": "Data Preprocessing",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO2",
+      "ITU": "",
+      "Student Materials": "Chapter 3 Slide 3",
+      "S-Download": "",
+      "Student's Tasks": "Read: Chapter 3 Slide 3",
+      "URLs": ""
+    },
+    {
+      "Session": "9",
+      "Topic": "Introduction to Weka & Data Prepocessing",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO3",
+      "ITU": "",
+      "Student Materials": "Web of Weka",
+      "S-Download": "",
+      "Student's Tasks": "Web of Weka",
+      "URLs": ""
+    },
+    {
+      "Session": "10",
+      "Topic": "Introduction to Weka & Data Prepocessing",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO3",
+      "ITU": "",
+      "Student Materials": "Web of Weka",
+      "S-Download": "",
+      "Student's Tasks": "Web of Weka",
+      "URLs": ""
+    },
+    {
+      "Session": "11",
+      "Topic": "Introduction to Weka & Data Prepocessing",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO4",
+      "ITU": "",
+      "Student Materials": "Web of Weka",
+      "S-Download": "",
+      "Student's Tasks": "",
+      "URLs": ""
+    },
+    {
+      "Session": "12",
+      "Topic": "Introduction to Weka & Data Prepocessing",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO4",
+      "ITU": "",
+      "Student Materials": "Web of Weka",
+      "S-Download": "",
+      "Student's Tasks": "",
+      "URLs": ""
+    },
+    {
+      "Session": "13",
+      "Topic": "Data Warehouse & OLAP Technology",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO4",
+      "ITU": "",
+      "Student Materials": "Chapter 4 Slide 4",
+      "S-Download": "",
+      "Student's Tasks": "Read: Chapter 4 Slide 4",
+      "URLs": ""
+    },
+    {
+      "Session": "14",
+      "Topic": "Data Warehouse & OLAP Technology",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO4",
+      "ITU": "",
+      "Student Materials": "Chapter 4 Slide 4",
+      "S-Download": "",
+      "Student's Tasks": "Read: Chapter 4 Slide 4",
+      "URLs": ""
+    },
+    {
+      "Session": "15",
+      "Topic": "Data Warehouse & OLAP Technology",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO4",
+      "ITU": "",
+      "Student Materials": "Chapter 4 Slide 4",
+      "S-Download": "",
+      "Student's Tasks": "Read: Chapter 4 Slide 4",
+      "URLs": ""
+    },
+    {
+      "Session": "16",
+      "Topic": "Data Warehouse & OLAP Technology",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO4",
+      "ITU": "",
+      "Student Materials": "Chapter 4 Slide 4",
+      "S-Download": "",
+      "Student's Tasks": "Read: Chapter 4 Slide 4",
+      "URLs": ""
+    },
+    {
+      "Session": "17",
+      "Topic": "Check Assignment 1",
+      "Learning-Teaching Type": "Offline",
+      "LO": "",
+      "ITU": "",
+      "Student Materials": "",
+      "S-Download": "",
+      "Student's Tasks": "Presentation",
+      "URLs": ""
+    },
+    {
+      "Session": "18",
+      "Topic": "Check Assignment 1",
+      "Learning-Teaching Type": "Offline",
+      "LO": "",
+      "ITU": "",
+      "Student Materials": "",
+      "S-Download": "",
+      "Student's Tasks": "Presentation",
+      "URLs": ""
+    },
+    {
+      "Session": "19",
+      "Topic": "Check Assignment 1",
+      "Learning-Teaching Type": "Offline",
+      "LO": "",
+      "ITU": "",
+      "Student Materials": "",
+      "S-Download": "",
+      "Student's Tasks": "Presentation",
+      "URLs": ""
+    },
+    {
+      "Session": "20",
+      "Topic": "Check Assignment 1",
+      "Learning-Teaching Type": "Offline",
+      "LO": "",
+      "ITU": "",
+      "Student Materials": "",
+      "S-Download": "",
+      "Student's Tasks": "Presentation",
+      "URLs": ""
+    },
+    {
+      "Session": "21",
+      "Topic": "Data Cube Technology",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO5",
+      "ITU": "",
+      "Student Materials": "Chapter 5 Slide 5",
+      "S-Download": "",
+      "Student's Tasks": "Read: Chapter 5 Slide 5",
+      "URLs": ""
+    },
+    {
+      "Session": "22",
+      "Topic": "Data Cube Technology",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO5",
+      "ITU": "",
+      "Student Materials": "Chapter 5 Slide 5",
+      "S-Download": "",
+      "Student's Tasks": "Read: Chapter 5 Slide 5",
+      "URLs": ""
+    },
+    {
+      "Session": "23",
+      "Topic": "Data Cube Technology",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO5",
+      "ITU": "",
+      "Student Materials": "Chapter 5 Slide 5",
+      "S-Download": "",
+      "Student's Tasks": "Read: Chapter 5 Slide 5",
+      "URLs": ""
+    },
+    {
+      "Session": "24",
+      "Topic": "Data Cube Technology",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO5",
+      "ITU": "",
+      "Student Materials": "Chapter 5 Slide 5",
+      "S-Download": "",
+      "Student's Tasks": "Read: Chapter 5 Slide 5",
+      "URLs": ""
+    },
+    {
+      "Session": "25",
+      "Topic": "Mining Frequent Patterns, Association Rule Mining and Correlation",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO6",
+      "ITU": "",
+      "Student Materials": "Chapter 6,7 Slide 6,7",
+      "S-Download": "",
+      "Student's Tasks": "Read: Chapter 6,7 Slide 6,7",
+      "URLs": ""
+    },
+    {
+      "Session": "26",
+      "Topic": "Mining Frequent Patterns, Association Rule Mining and Correlation",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO6",
+      "ITU": "",
+      "Student Materials": "Chapter 6,7 Slide 6,7",
+      "S-Download": "",
+      "Student's Tasks": "Read: Chapter 6,7 Slide 6,7",
+      "URLs": ""
+    },
+    {
+      "Session": "27",
+      "Topic": "Mining Frequent Patterns, Association Rule Mining and Correlation",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO6",
+      "ITU": "",
+      "Student Materials": "Chapter 6,7 Slide 6,7",
+      "S-Download": "",
+      "Student's Tasks": "Read: Chapter 6,7 Slide 6,7",
+      "URLs": ""
+    },
+    {
+      "Session": "28",
+      "Topic": "Mining Frequent Patterns, Association Rule Mining and Correlation",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO6",
+      "ITU": "",
+      "Student Materials": "Chapter 6,7 Slide 6,7",
+      "S-Download": "",
+      "Student's Tasks": "Read: Chapter 6,7 Slide 6,7",
+      "URLs": ""
+    },
+    {
+      "Session": "29",
+      "Topic": "Exercise 1",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO6",
+      "ITU": "",
+      "Student Materials": "Chapter 6,7 Slide 6,7",
+      "S-Download": "",
+      "Student's Tasks": "Read: Chapter 6,7 Slide 6,7",
+      "URLs": ""
+    },
+    {
+      "Session": "30",
+      "Topic": "Exercise 1",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO6",
+      "ITU": "",
+      "Student Materials": "Chapter 6,7 Slide 6,7",
+      "S-Download": "",
+      "Student's Tasks": "Read: Chapter 6,7 Slide 6,7",
+      "URLs": ""
+    },
+    {
+      "Session": "31",
+      "Topic": "Exercise 1",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO6",
+      "ITU": "",
+      "Student Materials": "Chapter 6,7 Slide 6,7",
+      "S-Download": "",
+      "Student's Tasks": "Read: Chapter 6,7 Slide 6,7",
+      "URLs": ""
+    },
+    {
+      "Session": "32",
+      "Topic": "Exercise 1",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO6",
+      "ITU": "",
+      "Student Materials": "Chapter 6,7 Slide 6,7",
+      "S-Download": "",
+      "Student's Tasks": "Read: Chapter 6,7 Slide 6,7",
+      "URLs": ""
+    },
+    {
+      "Session": "33",
+      "Topic": "Classification",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO7",
+      "ITU": "",
+      "Student Materials": "Chapter 8,9 Slide 8,9",
+      "S-Download": "",
+      "Student's Tasks": "Read: Chapter 8,9 Slide 8,9",
+      "URLs": ""
+    },
+    {
+      "Session": "34",
+      "Topic": "Classification",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO7",
+      "ITU": "",
+      "Student Materials": "Chapter 8,9 Slide 8,9",
+      "S-Download": "",
+      "Student's Tasks": "Read: Chapter 8,9 Slide 8,9",
+      "URLs": ""
+    },
+    {
+      "Session": "35",
+      "Topic": "Classification",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO7",
+      "ITU": "",
+      "Student Materials": "Chapter 8,9 Slide 8,9",
+      "S-Download": "",
+      "Student's Tasks": "Read: Chapter 8,9 Slide 8,9",
+      "URLs": ""
+    },
+    {
+      "Session": "36",
+      "Topic": "Classification",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO7",
+      "ITU": "",
+      "Student Materials": "Chapter 8,9 Slide 8,9",
+      "S-Download": "",
+      "Student's Tasks": "Read: Chapter 8,9 Slide 8,9",
+      "URLs": ""
+    },
+    {
+      "Session": "37",
+      "Topic": "Exercise 2",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO7",
+      "ITU": "",
+      "Student Materials": "Chapter 8,9 Slide 8,9",
+      "S-Download": "",
+      "Student's Tasks": "Read: Chapter 8,9 Slide 8,9",
+      "URLs": ""
+    },
+    {
+      "Session": "38",
+      "Topic": "Exercise 2",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO7",
+      "ITU": "",
+      "Student Materials": "Chapter 8,9 Slide 8,9",
+      "S-Download": "",
+      "Student's Tasks": "Read: Chapter 8,9 Slide 8,9",
+      "URLs": ""
+    },
+    {
+      "Session": "39",
+      "Topic": "Exercise 2",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO7",
+      "ITU": "",
+      "Student Materials": "Chapter 8,9 Slide 8,9",
+      "S-Download": "",
+      "Student's Tasks": "Read: Chapter 8,9 Slide 8,9",
+      "URLs": ""
+    },
+    {
+      "Session": "40",
+      "Topic": "Exercise 2",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO7",
+      "ITU": "",
+      "Student Materials": "Chapter 8,9 Slide 8,9",
+      "S-Download": "",
+      "Student's Tasks": "Read: Chapter 8,9 Slide 8,9",
+      "URLs": ""
+    },
+    {
+      "Session": "41",
+      "Topic": "Cluster",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO8",
+      "ITU": "",
+      "Student Materials": "Chapter 10,11 Slide 10,11",
+      "S-Download": "",
+      "Student's Tasks": "Read: 'Chapter 10,11 Slide 10,11",
+      "URLs": ""
+    },
+    {
+      "Session": "42",
+      "Topic": "Cluster",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO8",
+      "ITU": "",
+      "Student Materials": "Chapter 10,11 Slide 10,11",
+      "S-Download": "",
+      "Student's Tasks": "Read: 'Chapter 10,11 Slide 10,11",
+      "URLs": ""
+    },
+    {
+      "Session": "43",
+      "Topic": "Cluster",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO8",
+      "ITU": "",
+      "Student Materials": "Chapter 10,11 Slide 10,11",
+      "S-Download": "",
+      "Student's Tasks": "Read: 'Chapter 10,11 Slide 10,11",
+      "URLs": ""
+    },
+    {
+      "Session": "44",
+      "Topic": "Cluster",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO8",
+      "ITU": "",
+      "Student Materials": "Chapter 10,11 Slide 10,11",
+      "S-Download": "",
+      "Student's Tasks": "Read: 'Chapter 10,11 Slide 10,11",
+      "URLs": ""
+    },
+    {
+      "Session": "45",
+      "Topic": "Exercise 3",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO8",
+      "ITU": "",
+      "Student Materials": "Chapter 10,11 Slide 10,11",
+      "S-Download": "",
+      "Student's Tasks": "Read: 'Chapter 10,11 Slide 10,11",
+      "URLs": ""
+    },
+    {
+      "Session": "46",
+      "Topic": "Exercise 3",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO8",
+      "ITU": "",
+      "Student Materials": "Chapter 10,11 Slide 10,11",
+      "S-Download": "",
+      "Student's Tasks": "Read: 'Chapter 10,11 Slide 10,11",
+      "URLs": ""
+    },
+    {
+      "Session": "47",
+      "Topic": "Exercise 3",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO8",
+      "ITU": "",
+      "Student Materials": "Chapter 10,11 Slide 10,11",
+      "S-Download": "",
+      "Student's Tasks": "Read: 'Chapter 10,11 Slide 10,11",
+      "URLs": ""
+    },
+    {
+      "Session": "48",
+      "Topic": "Exercise 3",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO8",
+      "ITU": "",
+      "Student Materials": "Chapter 10,11 Slide 10,11",
+      "S-Download": "",
+      "Student's Tasks": "Read: 'Chapter 10,11 Slide 10,11",
+      "URLs": ""
+    },
+    {
+      "Session": "49",
+      "Topic": "Outlier Detection",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO9",
+      "ITU": "",
+      "Student Materials": "Chapter 12 Slide 12",
+      "S-Download": "",
+      "Student's Tasks": "Read: Chapter 12 Slide 12",
+      "URLs": ""
+    },
+    {
+      "Session": "50",
+      "Topic": "Outlier Detection",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO9",
+      "ITU": "",
+      "Student Materials": "Chapter 12 Slide 12",
+      "S-Download": "",
+      "Student's Tasks": "Read: Chapter 12 Slide 12",
+      "URLs": ""
+    },
+    {
+      "Session": "51",
+      "Topic": "Data Mining Trends and Research Frontiers",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO10",
+      "ITU": "",
+      "Student Materials": "Chapter 13 Slide 13",
+      "S-Download": "",
+      "Student's Tasks": "Read: Chapter 13 Slide 13",
+      "URLs": ""
+    },
+    {
+      "Session": "52",
+      "Topic": "Data Mining Trends and Research Frontiers",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO10",
+      "ITU": "",
+      "Student Materials": "Chapter 13 Slide 13",
+      "S-Download": "",
+      "Student's Tasks": "Read: Chapter 13 Slide 13",
+      "URLs": ""
+    },
+    {
+      "Session": "53",
+      "Topic": "Exercise 4",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO10",
+      "ITU": "",
+      "Student Materials": "Chapter 13 Slide 13",
+      "S-Download": "",
+      "Student's Tasks": "Read: Chapter 13 Slide 13",
+      "URLs": ""
+    },
+    {
+      "Session": "54",
+      "Topic": "Exercise 4",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO10",
+      "ITU": "",
+      "Student Materials": "Chapter 13 Slide 13",
+      "S-Download": "",
+      "Student's Tasks": "Read: Chapter 13 Slide 13",
+      "URLs": ""
+    },
+    {
+      "Session": "55",
+      "Topic": "Exercise 4",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO10",
+      "ITU": "",
+      "Student Materials": "Chapter 13 Slide 13",
+      "S-Download": "",
+      "Student's Tasks": "Read: Chapter 13 Slide 13",
+      "URLs": ""
+    },
+    {
+      "Session": "56",
+      "Topic": "Exercise 4",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO10",
+      "ITU": "",
+      "Student Materials": "Chapter 13 Slide 13",
+      "S-Download": "",
+      "Student's Tasks": "Read: Chapter 13 Slide 13",
+      "URLs": ""
+    },
+    {
+      "Session": "57",
+      "Topic": "Check Assignment 2",
+      "Learning-Teaching Type": "Offline",
+      "LO": "",
+      "ITU": "",
+      "Student Materials": "",
+      "S-Download": "",
+      "Student's Tasks": "Presentation",
+      "URLs": ""
+    },
+    {
+      "Session": "58",
+      "Topic": "Check Assignment 2",
+      "Learning-Teaching Type": "Offline",
+      "LO": "",
+      "ITU": "",
+      "Student Materials": "",
+      "S-Download": "",
+      "Student's Tasks": "Presentation",
+      "URLs": ""
+    },
+    {
+      "Session": "59",
+      "Topic": "Check Assignment 2",
+      "Learning-Teaching Type": "Offline",
+      "LO": "",
+      "ITU": "",
+      "Student Materials": "",
+      "S-Download": "",
+      "Student's Tasks": "Presentation",
+      "URLs": ""
+    },
+    {
+      "Session": "60",
+      "Topic": "Check Assignment 2",
+      "Learning-Teaching Type": "Offline",
+      "LO": "",
+      "ITU": "",
+      "Student Materials": "",
+      "S-Download": "",
+      "Student's Tasks": "Presentation",
+      "URLs": ""
+    }
+  ],
+  "constructive_questions": [
+    {
+      "No.": "1",
+      "Session No": "1",
+      "Name": "CQ1",
+      "Details": "Why Data Mining?"
+    },
+    {
+      "No.": "2",
+      "Session No": "1",
+      "Name": "CQ2",
+      "Details": "Why Data Mining?"
+    },
+    {
+      "No.": "3",
+      "Session No": "1",
+      "Name": "CQ3",
+      "Details": "What Kinds of Data Can Be Mined?"
+    },
+    {
+      "No.": "4",
+      "Session No": "2",
+      "Name": "CQ1",
+      "Details": "What Kinds of Patterns Can Be Mined?"
+    },
+    {
+      "No.": "5",
+      "Session No": "2",
+      "Name": "CQ2",
+      "Details": "Which Technologies Are Used?"
+    },
+    {
+      "No.": "6",
+      "Session No": "2",
+      "Name": "CQ3",
+      "Details": "Which Kinds of Applications Are Targeted?"
+    },
+    {
+      "No.": "7",
+      "Session No": "3",
+      "Name": "CQ1",
+      "Details": "What is Data Objects?"
+    },
+    {
+      "No.": "8",
+      "Session No": "3",
+      "Name": "CQ2",
+      "Details": "What is Attribute Types?"
+    }
+  ],
+  "materials": [
+    {
+      "No.": "1",
+      "Material Description": "Data Mining: Concepts and Techniques, Third Edition (The Morgan Kaufmann Series in Data Management Systems) http://library.books24x7.com",
+      "Author": "Jiawei Han, Micheline Kamber and Jian Pei",
+      "Publisher": "Morgan Kaufmann Publishers",
+      "Published Date": "2012",
+      "Edition": "3rd",
+      "ISBN": "978-0-12-381479-1",
+      "Is Main Material": "True",
+      "Is Hard Copy": "False",
+      "Is Online": "True",
+      "Note": ""
+    }
+  ],
+  "source_path": "data/raw/syllabi/11081.html",
+  "id": "syllabus:11081"
+}

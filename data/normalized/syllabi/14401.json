@@ -1,0 +1,1144 @@
+{
+  "syllabus_id": 14401,
+  "subject_code": "GLI202",
+  "subject_name": "Thương mại quốc tế_International Trade",
+  "syllabus_name": "International trade and Operations_Thương mại và vận hành quốc tế",
+  "credits": 3,
+  "degree_level": "Bachelor",
+  "time_allocation": "Study hour (150h) = 45h contact hours + 1h final exam + 104h self-study",
+  "prerequisite": "N/A",
+  "general_information": {
+    "Syllabus ID": "14401",
+    "Syllabus Name": "International trade and Operations_Thương mại và vận hành quốc tế",
+    "Course Name English": "International trade and Operations",
+    "Subject Code": "GLI202",
+    "Learning-Teaching Method": "Lecturing,social constructivism, in-class practice, discussion, groupwork",
+    "NoCredit": "3",
+    "Degree Level": "Bachelor",
+    "Time Allocation": "Study hour (150h) = 45h contact hours + 1h final exam + 104h self-study",
+    "Pre-Requisite": "N/A",
+    "Description": "",
+    "StudentTasks": "- Students must attend at least 80% of contact slots in order to be accepted to the final examination. - Student is responsible to do all exercises and assignments given by instructor in class or at home and submit on time - Use laptop in class for learning purposes",
+    "Tools": "- Text book and other required reading materials - Internet - Edunext system (https://edunext.fpt.edu.vn/) - Vietnam's legal texts in press, information and communication sectors",
+    "Scoring Scale": "10",
+    "DecisionNo MM/dd/yyyy": "968/QĐ-ĐHFPT dated 08/07/2026",
+    "IsApproved": "True",
+    "Note": "",
+    "Is Scored": "True",
+    "MinAvgMarkToPass": "5",
+    "IsActive": "True",
+    "ApprovedDate": "8/7/2026"
+  },
+  "active": true,
+  "approved": true,
+  "decision": "968/QĐ-ĐHFPT dated 08/07/2026",
+  "description": "",
+  "learning_outcomes": [
+    {
+      "No.": "1",
+      "CLO Name": "CLO1",
+      "CLO Details": "Explain the fundamental economic theories of international trade to justify why and where goods move across the globe."
+    },
+    {
+      "No.": "2",
+      "CLO Name": "CLO2",
+      "CLO Details": "Analyze how international trade policies and the fragmentation of global value chains directly influence supply chain costs, routing decisions, and inventory management."
+    },
+    {
+      "No.": "3",
+      "CLO Name": "CLO3",
+      "CLO Details": "Apply appropriate Incoterms 2020 rules and fundamental international sales contract clauses to accurately allocate physical risk, freight costs, and legal responsibilities between buyers and sellers."
+    },
+    {
+      "No.": "4",
+      "CLO Name": "CLO4",
+      "CLO Details": "Evaluate various international payment methods to identify and mitigate financial and operational risks for both importers and exporters."
+    },
+    {
+      "No.": "5",
+      "CLO Name": "CLO5",
+      "CLO Details": "Interpret and cross-verify essential commercial, transport, and official documents to ensure regulatory compliance and facilitate physical cargo clearance."
+    }
+  ],
+  "assessments": [
+    {
+      "No.": "1",
+      "Category": "Group Assignment",
+      "Type": "on-going",
+      "Part": "1",
+      "Weight": "30.0%",
+      "Completion Criteria": "4",
+      "Duration": "Week 5 - Week 10",
+      "CLO": "CLO3, CLO4, CLO5",
+      "Question Type": "Project",
+      "No Question": "1",
+      "Knowledge and Skill": "",
+      "Grading Guide": "",
+      "Note": ""
+    },
+    {
+      "No.": "2",
+      "Category": "Participation",
+      "Type": "on-going",
+      "Part": "1",
+      "Weight": "10.0%",
+      "Completion Criteria": "",
+      "Duration": "Week 1-10",
+      "CLO": "CLO5",
+      "Question Type": "- In-class performance of student;",
+      "No Question": "All the course progress",
+      "Knowledge and Skill": "",
+      "Grading Guide": "Individual assignments are graded on a scale of 0-10, precise to one digit after the decimal, which will be contingent upon their participation and fulfill the other's requirements of the lecturer (can be homework, inclass excercise...).",
+      "Note": "Based on class attitudes and participation"
+    },
+    {
+      "No.": "3",
+      "Category": "Quiz",
+      "Type": "on-going",
+      "Part": "1",
+      "Weight": "30.0%",
+      "Completion Criteria": "",
+      "Duration": "Week 5, 7, 9",
+      "CLO": "CLO1, CLO2",
+      "Question Type": "Multiple choice questions",
+      "No Question": "25-40",
+      "Knowledge and Skill": "",
+      "Grading Guide": "In-class conducted; 'The given question will focus on the main content of the related chapters.",
+      "Note": "The lecturer is the one who decides the length of the test and number of questions"
+    },
+    {
+      "No.": "4",
+      "Category": "Final exam",
+      "Type": "Final exam",
+      "Part": "1",
+      "Weight": "30.0%",
+      "Completion Criteria": "4",
+      "Duration": "60'",
+      "CLO": "CLO1, CLO2, CLO3, CLO4",
+      "Question Type": "Multiple choice questions",
+      "No Question": "50",
+      "Knowledge and Skill": "The question will cover the lectures, class discussions, activities, exercises, and textbook.",
+      "Grading Guide": "Exam room conducted.",
+      "Note": "Students are not allowed to use document/information in any form in exam room"
+    }
+  ],
+  "schedule": [
+    {
+      "Session": "1",
+      "Topic": "Course introduction",
+      "Learning-Teaching Type": "Offline",
+      "LO": "CLO5",
+      "ITU": "I",
+      "Student Materials": "Slides; Syllabus, Textbook and other materials suggested by Lecturer",
+      "S-Download": "GLI202_Slide",
+      "Student's Tasks": "Team up",
+      "URLs": ""
+    },
+    {
+      "Session": "2",
+      "Topic": "PART 1: THE MACRO-ENVIRONMENT OF GLOBAL TRADE World trade: An overview 1. Who trades with whom?",
+      "Learning-Teaching Type": "Offline",
+      "LO": "CLO1",
+      "ITU": "I, T",
+      "Student Materials": "Slides; Syllabus, and other materials suggested by Lecturer Textbook: International Trade: Theory and Policy, Global Edition - Chapter 2",
+      "S-Download": "",
+      "Student's Tasks": "Focus: Understanding how economic size (GDP) and the empirical Gravity Model dictate the volume of physical freight between two nations.",
+      "URLs": ""
+    },
+    {
+      "Session": "3",
+      "Topic": "2. The Gravity model",
+      "Learning-Teaching Type": "Offline",
+      "LO": "CLO1",
+      "ITU": "I, T",
+      "Student Materials": "Slides; Syllabus, and other materials suggested by Lecturer Textbook: International Trade: Theory and Policy, Global Edition - Chapter 2",
+      "S-Download": "",
+      "Student's Tasks": "Focus: Understanding how economic size (GDP) and the empirical Gravity Model dictate the volume of physical freight between two nations.",
+      "URLs": ""
+    },
+    {
+      "Session": "4",
+      "Topic": "3. Impediments to Trade: Distance, Barriers, and Borders",
+      "Learning-Teaching Type": "Offline",
+      "LO": "CLO1",
+      "ITU": "I, T",
+      "Student Materials": "Slides; Syllabus, and other materials suggested by Lecturer Textbook: International Trade: Theory and Policy, Global Edition - Chapter 2",
+      "S-Download": "",
+      "Student's Tasks": "Focus: Analyzing how geographic distance and borders act as friction to supply chains, and the shift from trading raw materials to manufactured goods.",
+      "URLs": ""
+    },
+    {
+      "Session": "5",
+      "Topic": "3. Impediments to Trade: Distance, Barriers, and Borders",
+      "Learning-Teaching Type": "Offline",
+      "LO": "CLO1",
+      "ITU": "I, T",
+      "Student Materials": "Slides; Syllabus, and other materials suggested by Lecturer Textbook: International Trade: Theory and Policy, Global Edition - Chapter 2",
+      "S-Download": "",
+      "Student's Tasks": "Focus: Analyzing how geographic distance and borders act as friction to supply chains, and the shift from trading raw materials to manufactured goods.",
+      "URLs": ""
+    },
+    {
+      "Session": "6",
+      "Topic": "4. What do we trade?",
+      "Learning-Teaching Type": "Offline",
+      "LO": "CLO1",
+      "ITU": "I, T",
+      "Student Materials": "Slides; Syllabus, and other materials suggested by Lecturer Textbook: International Trade: Theory and Policy, Global Edition - Chapter 2",
+      "S-Download": "",
+      "Student's Tasks": "Focus: Analyzing how geographic distance and borders act as friction to supply chains, and the shift from trading raw materials to manufactured goods.",
+      "URLs": ""
+    },
+    {
+      "Session": "7",
+      "Topic": "Labour Productivity and Comparative Advantage: The Ricardian Model 1. The concept of Comparative advantage",
+      "Learning-Teaching Type": "Offline",
+      "LO": "CLO1",
+      "ITU": "I, T",
+      "Student Materials": "Slides; Syllabus, and other materials suggested by Lecturer Textbook: International Trade: Theory and Policy, Global Edition - Chapter 3",
+      "S-Download": "",
+      "Student's Tasks": "Focus: Why countries specialize. (Note: Kept at an intuitive level for freshmen, bypassing complex multi-good mathematical proofs, focusing on why certain regions export specific goods).",
+      "URLs": ""
+    },
+    {
+      "Session": "8",
+      "Topic": "1. The concept of Comparative advantage",
+      "Learning-Teaching Type": "Offline",
+      "LO": "CLO1",
+      "ITU": "I, T",
+      "Student Materials": "Slides; Syllabus, and other materials suggested by Lecturer Textbook: International Trade: Theory and Policy, Global Edition - Chapter 3",
+      "S-Download": "",
+      "Student's Tasks": "Focus: Why countries specialize. (Note: Kept at an intuitive level for freshmen, bypassing complex multi-good mathematical proofs, focusing on why certain regions export specific goods).",
+      "URLs": ""
+    },
+    {
+      "Session": "9",
+      "Topic": "2. Misconceptions about Comparative advantage",
+      "Learning-Teaching Type": "Offline",
+      "LO": "CLO1",
+      "ITU": "I, T",
+      "Student Materials": "Slides; Syllabus, and other materials suggested by Lecturer Textbook: International Trade: Theory and Policy, Global Edition - Chapter 3",
+      "S-Download": "",
+      "Student's Tasks": "Focus: Why countries specialize. (Note: Kept at an intuitive level for freshmen, bypassing complex multi-good mathematical proofs, focusing on why certain regions export specific goods).",
+      "URLs": ""
+    },
+    {
+      "Session": "10",
+      "Topic": "Resources and trade: The Heckscher-Ohlin model 1. Model of a Two-factor economy",
+      "Learning-Teaching Type": "Offline",
+      "LO": "CLO1",
+      "ITU": "I, T",
+      "Student Materials": "Slides; Syllabus, and other materials suggested by Lecturer Textbook: International Trade: Theory and Policy, Global Edition - Chapter 5",
+      "S-Download": "",
+      "Student's Tasks": "Focus: Explaining the macro-rationale behind locating labor-intensive manufacturing hubs in developing countries (which directly creates export logistics demand).",
+      "URLs": ""
+    },
+    {
+      "Session": "11",
+      "Topic": "2. Effects of International trade between Two-factor economies",
+      "Learning-Teaching Type": "Offline",
+      "LO": "CLO1",
+      "ITU": "I, T",
+      "Student Materials": "Slides; Syllabus, and other materials suggested by Lecturer Textbook: International Trade: Theory and Policy, Global Edition - Chapter 5",
+      "S-Download": "",
+      "Student's Tasks": "Focus: Explaining the macro-rationale behind locating labor-intensive manufacturing hubs in developing countries (which directly creates export logistics demand).",
+      "URLs": ""
+    },
+    {
+      "Session": "12",
+      "Topic": "2. Effects of International trade between Two-factor economies",
+      "Learning-Teaching Type": "Offline",
+      "LO": "CLO1",
+      "ITU": "I, T",
+      "Student Materials": "Slides; Syllabus, and other materials suggested by Lecturer Textbook: International Trade: Theory and Policy, Global Edition - Chapter 5",
+      "S-Download": "",
+      "Student's Tasks": "Focus: Explaining the macro-rationale behind locating labor-intensive manufacturing hubs in developing countries (which directly creates export logistics demand).",
+      "URLs": ""
+    },
+    {
+      "Session": "13",
+      "Topic": "External economies of scale and the international location of production 1. Economies of scale and international trade",
+      "Learning-Teaching Type": "Offline",
+      "LO": "CLO1",
+      "ITU": "I, T",
+      "Student Materials": "Slides; Syllabus, and other materials suggested by Lecturer Textbook: International Trade: Theory and Policy, Global Edition - Chapter 7",
+      "S-Download": "",
+      "Student's Tasks": "Focus: Explaining why specialized suppliers cluster in specific geographic areas",
+      "URLs": ""
+    },
+    {
+      "Session": "14",
+      "Topic": "2. The theory of external economies",
+      "Learning-Teaching Type": "Offline",
+      "LO": "CLO1",
+      "ITU": "I, T",
+      "Student Materials": "Slides; Syllabus, and other materials suggested by Lecturer Textbook: International Trade: Theory and Policy, Global Edition - Chapter 7",
+      "S-Download": "",
+      "Student's Tasks": "Focus: Explaining why specialized suppliers cluster in specific geographic areas",
+      "URLs": ""
+    },
+    {
+      "Session": "15",
+      "Topic": "2. The theory of external economies",
+      "Learning-Teaching Type": "Offline",
+      "LO": "CLO1",
+      "ITU": "I, T",
+      "Student Materials": "Slides; Syllabus, and other materials suggested by Lecturer Textbook: International Trade: Theory and Policy, Global Edition - Chapter 7",
+      "S-Download": "",
+      "Student's Tasks": "Focus: Explaining why specialized suppliers cluster in specific geographic areas",
+      "URLs": ""
+    },
+    {
+      "Session": "16",
+      "Topic": "Firms in the global economy: Export decisions, outsourcing, and multinational enterprises 1. Trade costs and export decisions",
+      "Learning-Teaching Type": "Offline",
+      "LO": "CLO1",
+      "ITU": "U",
+      "Student Materials": "Slides; Syllabus, and other materials suggested by Lecturer Textbook: International Trade: Theory and Policy, Global Edition - Chapter 8",
+      "S-Download": "",
+      "Student's Tasks": "Focus: How the addition of freight, insurance, and transit times (Trade Costs) determines whether a firm can successfully export.",
+      "URLs": ""
+    },
+    {
+      "Session": "17",
+      "Topic": "1. Trade costs and export decisions",
+      "Learning-Teaching Type": "Offline",
+      "LO": "CLO1",
+      "ITU": "U",
+      "Student Materials": "Slides; Syllabus, and other materials suggested by Lecturer Textbook: International Trade: Theory and Policy, Global Edition - Chapter 8",
+      "S-Download": "",
+      "Student's Tasks": "Focus: How the addition of freight, insurance, and transit times (Trade Costs) determines whether a firm can successfully export.",
+      "URLs": ""
+    },
+    {
+      "Session": "18",
+      "Topic": "1. Trade costs and export decisions",
+      "Learning-Teaching Type": "Offline",
+      "LO": "CLO1",
+      "ITU": "U",
+      "Student Materials": "Slides; Syllabus, and other materials suggested by Lecturer Textbook: International Trade: Theory and Policy, Global Edition - Chapter 8",
+      "S-Download": "",
+      "Student's Tasks": "Focus: How the addition of freight, insurance, and transit times (Trade Costs) determines whether a firm can successfully export.",
+      "URLs": ""
+    },
+    {
+      "Session": "19",
+      "Topic": "2. Multinationals and outsourcing",
+      "Learning-Teaching Type": "Offline",
+      "LO": "CLO2",
+      "ITU": "I, T",
+      "Student Materials": "Slides; Syllabus, and other materials suggested by Lecturer Textbook: International Trade: Theory and Policy, Global Edition - Chapter 8",
+      "S-Download": "",
+      "Student's Tasks": "Focus: The \"Make-or-Buy\" decision on a global scale.",
+      "URLs": ""
+    },
+    {
+      "Session": "20",
+      "Topic": "2. Multinationals and outsourcing",
+      "Learning-Teaching Type": "Offline",
+      "LO": "CLO2",
+      "ITU": "I, T",
+      "Student Materials": "Slides; Syllabus, and other materials suggested by Lecturer Textbook: International Trade: Theory and Policy, Global Edition - Chapter 8",
+      "S-Download": "",
+      "Student's Tasks": "Focus: The \"Make-or-Buy\" decision on a global scale.",
+      "URLs": ""
+    },
+    {
+      "Session": "21",
+      "Topic": "2. Multinationals and Outsourcing",
+      "Learning-Teaching Type": "Offline",
+      "LO": "CLO2",
+      "ITU": "I, T",
+      "Student Materials": "Slides; Syllabus, and other materials suggested by Lecturer Textbook: International Trade: Theory and Policy, Global Edition - Chapter 8",
+      "S-Download": "",
+      "Student's Tasks": "Focus: The \"Make-or-Buy\" decision on a global scale.",
+      "URLs": ""
+    },
+    {
+      "Session": "22",
+      "Topic": "The instruments of trade policy 1. Basic tariff analysis",
+      "Learning-Teaching Type": "Offline",
+      "LO": "CLO2",
+      "ITU": "U",
+      "Student Materials": "Slides; Syllabus, and other materials suggested by Lecturer Textbook: International Trade: Theory and Policy, Global Edition - Chapter 9",
+      "S-Download": "",
+      "Student's Tasks": "Focus: Understanding Ad Valorem vs. Specific tariffs and how they physically increase the landed cost of imported goods.",
+      "URLs": ""
+    },
+    {
+      "Session": "23",
+      "Topic": "2. Costs and benefits of a tariff",
+      "Learning-Teaching Type": "Offline",
+      "LO": "CLO2",
+      "ITU": "U",
+      "Student Materials": "Slides; Syllabus, and other materials suggested by Lecturer Textbook: International Trade: Theory and Policy, Global Edition - Chapter 9",
+      "S-Download": "",
+      "Student's Tasks": "Focus: Understanding Ad Valorem vs. Specific tariffs and how they physically increase the landed cost of imported goods.",
+      "URLs": ""
+    },
+    {
+      "Session": "24",
+      "Topic": "2. Costs and benefits of a tariff",
+      "Learning-Teaching Type": "Offline",
+      "LO": "CLO2",
+      "ITU": "U",
+      "Student Materials": "Slides; Syllabus, and other materials suggested by Lecturer Textbook: International Trade: Theory and Policy, Global Edition - Chapter 9",
+      "S-Download": "",
+      "Student's Tasks": "Focus: Understanding Ad Valorem vs. Specific tariffs and how they physically increase the landed cost of imported goods.",
+      "URLs": ""
+    },
+    {
+      "Session": "25",
+      "Topic": "3. Other instruments of trade policy",
+      "Learning-Teaching Type": "Offline",
+      "LO": "CLO2",
+      "ITU": "I, T",
+      "Student Materials": "Slides; Syllabus, and other materials suggested by Lecturer Textbook: International Trade: Theory and Policy, Global Edition - Chapter 9",
+      "S-Download": "",
+      "Student's Tasks": "Focus: How non-tariff barriers cause delays at customs and disrupt inventory management.",
+      "URLs": ""
+    },
+    {
+      "Session": "26",
+      "Topic": "3. Other instruments of trade policy",
+      "Learning-Teaching Type": "Offline",
+      "LO": "CLO2",
+      "ITU": "I, T",
+      "Student Materials": "Slides; Syllabus, and other materials suggested by Lecturer Textbook: International Trade: Theory and Policy, Global Edition - Chapter 9",
+      "S-Download": "",
+      "Student's Tasks": "Focus: How non-tariff barriers cause delays at customs and disrupt inventory management.",
+      "URLs": ""
+    },
+    {
+      "Session": "27",
+      "Topic": "3. Other instruments of trade policy",
+      "Learning-Teaching Type": "Offline",
+      "LO": "CLO2",
+      "ITU": "I, T",
+      "Student Materials": "Slides; Syllabus, and other materials suggested by Lecturer Textbook: International Trade: Theory and Policy, Global Edition - Chapter 9",
+      "S-Download": "",
+      "Student's Tasks": "Focus: How non-tariff barriers cause delays at customs and disrupt inventory management.",
+      "URLs": ""
+    },
+    {
+      "Session": "28",
+      "Topic": "The political economy of trade policy 1. International negotiations and trade policy",
+      "Learning-Teaching Type": "Offline",
+      "LO": "CLO2",
+      "ITU": "U",
+      "Student Materials": "Slides; Syllabus, and other materials suggested by Lecturer Textbook: International Trade: Theory and Policy, Global Edition - Chapter 10",
+      "S-Download": "",
+      "Student's Tasks": "Focus: The role of the WTO and Free Trade Agreements (FTAs).",
+      "URLs": ""
+    },
+    {
+      "Session": "29",
+      "Topic": "Review Part 1",
+      "Learning-Teaching Type": "Offline",
+      "LO": "CLO2",
+      "ITU": "U",
+      "Student Materials": "Slides; Syllabus, and other materials suggested by Lecturer Textbook: International Trade: Theory and Policy, Global Edition",
+      "S-Download": "",
+      "Student's Tasks": "Presenting/ Discussing/ Debating",
+      "URLs": ""
+    },
+    {
+      "Session": "30",
+      "Topic": "Progress test 1",
+      "Learning-Teaching Type": "Offline",
+      "LO": "CLO2",
+      "ITU": "U",
+      "Student Materials": "",
+      "S-Download": "",
+      "Student's Tasks": "Taking Quiz",
+      "URLs": ""
+    },
+    {
+      "Session": "31",
+      "Topic": "PART II: FOREIGN TRADE OPERATIONS Introduction to Export/Import operations (Export channel of distribution, typical export/import transaction)",
+      "Learning-Teaching Type": "Offline",
+      "LO": "CLO3",
+      "ITU": "I, T",
+      "Student Materials": "Slides; Syllabus, and other materials suggested by Lecturer Textbook: Export-Import Theory, Practices, and Procedures (Author: Belay Seyoum - 4th edition 2021)",
+      "S-Download": "",
+      "Student's Tasks": "Discussion/Edunext, Exercises",
+      "URLs": ""
+    },
+    {
+      "Session": "32",
+      "Topic": "Introduction to Export/Import operations (Export channel of distribution, typical export/import transaction)",
+      "Learning-Teaching Type": "Offline",
+      "LO": "CLO3",
+      "ITU": "I, T",
+      "Student Materials": "Slides; Syllabus, and other materials suggested by Lecturer Textbook: Export-Import Theory, Practices, and Procedures (Author: Belay Seyoum - 4th edition 2021)",
+      "S-Download": "",
+      "Student's Tasks": "Discussion/Edunext, Exercises",
+      "URLs": ""
+    },
+    {
+      "Session": "33",
+      "Topic": "Introduction to Export/Import operations (Export channel of distribution, typical export/import transaction)",
+      "Learning-Teaching Type": "Offline",
+      "LO": "CLO3",
+      "ITU": "I, T",
+      "Student Materials": "Slides; Syllabus, and other materials suggested by Lecturer Textbook: Export-Import Theory, Practices, and Procedures (Author: Belay Seyoum - 4th edition 2021)",
+      "S-Download": "",
+      "Student's Tasks": "Discussion/Edunext, Exercises",
+      "URLs": ""
+    },
+    {
+      "Session": "34",
+      "Topic": "International sales contracts basics",
+      "Learning-Teaching Type": "Offline",
+      "LO": "CLO3",
+      "ITU": "U",
+      "Student Materials": "Slides; Syllabus, and other materials suggested by Lecturer Textbook: A Short Course in International Payments",
+      "S-Download": "",
+      "Student's Tasks": "Discussion/Edunext, Exercises",
+      "URLs": ""
+    },
+    {
+      "Session": "35",
+      "Topic": "International sales contracts basics",
+      "Learning-Teaching Type": "Offline",
+      "LO": "CLO3",
+      "ITU": "U",
+      "Student Materials": "Slides; Syllabus, and other materials suggested by Lecturer Textbook: A Short Course in International Payments",
+      "S-Download": "",
+      "Student's Tasks": "Discussion/Edunext, Exercises",
+      "URLs": ""
+    },
+    {
+      "Session": "36",
+      "Topic": "Case study",
+      "Learning-Teaching Type": "Offline",
+      "LO": "CLO3",
+      "ITU": "U",
+      "Student Materials": "Slides; Syllabus, and other materials suggested by Lecturer Textbook: A Short Course in International Payments",
+      "S-Download": "",
+      "Student's Tasks": "Presenting/ Discussing/ Debating",
+      "URLs": ""
+    },
+    {
+      "Session": "37",
+      "Topic": "Incoterms",
+      "Learning-Teaching Type": "Offline",
+      "LO": "CLO3",
+      "ITU": "I, T",
+      "Student Materials": "Slides; Syllabus, and other materials suggested by Lecturer Textbook: A Short Course in International Payments",
+      "S-Download": "",
+      "Student's Tasks": "Discussion/Edunext, Exercises",
+      "URLs": ""
+    },
+    {
+      "Session": "38",
+      "Topic": "Incoterms",
+      "Learning-Teaching Type": "Offline",
+      "LO": "CLO3",
+      "ITU": "I, T",
+      "Student Materials": "Slides; Syllabus, and other materials suggested by Lecturer Textbook: A Short Course in International Payments",
+      "S-Download": "",
+      "Student's Tasks": "Discussion/Edunext, Exercises",
+      "URLs": ""
+    },
+    {
+      "Session": "39",
+      "Topic": "Incoterms",
+      "Learning-Teaching Type": "Offline",
+      "LO": "CLO3",
+      "ITU": "I, T",
+      "Student Materials": "Slides; Syllabus, and other materials suggested by Lecturer Textbook: A Short Course in International Payments",
+      "S-Download": "",
+      "Student's Tasks": "Discussion/Edunext, Exercises",
+      "URLs": ""
+    },
+    {
+      "Session": "40",
+      "Topic": "Case study",
+      "Learning-Teaching Type": "Offline",
+      "LO": "CLO3",
+      "ITU": "I, T",
+      "Student Materials": "Slides; Syllabus, and other materials suggested by Lecturer Textbook: A Short Course in International Payments",
+      "S-Download": "",
+      "Student's Tasks": "Presenting/ Discussing/ Debating",
+      "URLs": ""
+    },
+    {
+      "Session": "41",
+      "Topic": "Review session",
+      "Learning-Teaching Type": "Offline",
+      "LO": "CLO3",
+      "ITU": "I, T",
+      "Student Materials": "Slides; Syllabus, and other materials suggested by Lecturer Textbook: A Short Course in International Payments",
+      "S-Download": "",
+      "Student's Tasks": "Presenting/ Discussing/ Debating",
+      "URLs": ""
+    },
+    {
+      "Session": "42",
+      "Topic": "Progress test 2",
+      "Learning-Teaching Type": "Offline",
+      "LO": "CLO3",
+      "ITU": "I, T",
+      "Student Materials": "",
+      "S-Download": "",
+      "Student's Tasks": "Taking Quiz",
+      "URLs": ""
+    },
+    {
+      "Session": "43",
+      "Topic": "Key issues in International Payments and Basic payment methods (Part 1)",
+      "Learning-Teaching Type": "Offline",
+      "LO": "CLO4",
+      "ITU": "I, T",
+      "Student Materials": "Slides; Syllabus, and other materials suggested by Lecturer Textbook: E-commerce 2023-2024: business, technology, society (18th edition) - Chapter 11: Online Communities",
+      "S-Download": "",
+      "Student's Tasks": "Discussion/Edunext, Exercises",
+      "URLs": ""
+    },
+    {
+      "Session": "44",
+      "Topic": "Key issues in International Payments and Basic payment methods (Part 1)",
+      "Learning-Teaching Type": "Offline",
+      "LO": "CLO4",
+      "ITU": "I, T",
+      "Student Materials": "Slides; Syllabus, and other materials suggested by Lecturer Textbook: A Short Course in International Payments",
+      "S-Download": "",
+      "Student's Tasks": "Discussion/Edunext, Exercises",
+      "URLs": ""
+    },
+    {
+      "Session": "45",
+      "Topic": "Key issues in International Payments and Basic payment methods (Part 1)",
+      "Learning-Teaching Type": "Offline",
+      "LO": "CLO4",
+      "ITU": "I, T",
+      "Student Materials": "Slides; Syllabus, and other materials suggested by Lecturer Textbook: A Short Course in International Payments",
+      "S-Download": "",
+      "Student's Tasks": "Discussion/Edunext, Exercises",
+      "URLs": ""
+    },
+    {
+      "Session": "46",
+      "Topic": "Basic payment methods (Part 2)",
+      "Learning-Teaching Type": "Offline",
+      "LO": "CLO4",
+      "ITU": "I, T",
+      "Student Materials": "Slides; Syllabus, and other materials suggested by Lecturer Textbook: A Short Course in International Payments",
+      "S-Download": "",
+      "Student's Tasks": "Discussion/Edunext, Exercises",
+      "URLs": ""
+    },
+    {
+      "Session": "47",
+      "Topic": "Basic payment methods (Part 2)",
+      "Learning-Teaching Type": "Offline",
+      "LO": "CLO4",
+      "ITU": "I, T",
+      "Student Materials": "Slides; Syllabus, and other materials suggested by Lecturer Textbook: A Short Course in International Payments",
+      "S-Download": "",
+      "Student's Tasks": "Discussion/Edunext, Exercises",
+      "URLs": ""
+    },
+    {
+      "Session": "48",
+      "Topic": "Basic payment methods (Part 2)",
+      "Learning-Teaching Type": "Offline",
+      "LO": "CLO4",
+      "ITU": "I, T",
+      "Student Materials": "Slides; Syllabus, and other materials suggested by Lecturer Textbook: A Short Course in International Payments",
+      "S-Download": "",
+      "Student's Tasks": "Discussion/Edunext, Exercises",
+      "URLs": ""
+    },
+    {
+      "Session": "49",
+      "Topic": "Trade documentation: Commercial and official documentation",
+      "Learning-Teaching Type": "Offline",
+      "LO": "CLO5",
+      "ITU": "U",
+      "Student Materials": "Slides; Syllabus, and other materials suggested by Lecturer Textbook: Export-Import Theory, Practices, and Procedures (Author: Belay Seyoum - 4th edition 2021)",
+      "S-Download": "",
+      "Student's Tasks": "Discussion/Edunext, Exercises",
+      "URLs": ""
+    },
+    {
+      "Session": "50",
+      "Topic": "Trade documentation: Commercial and official documentation",
+      "Learning-Teaching Type": "Offline",
+      "LO": "CLO5",
+      "ITU": "U",
+      "Student Materials": "Slides; Syllabus, and other materials suggested by Lecturer Textbook: Export-Import Theory, Practices, and Procedures (Author: Belay Seyoum - 4th edition 2021)",
+      "S-Download": "",
+      "Student's Tasks": "Discussion/Edunext, Exercises",
+      "URLs": ""
+    },
+    {
+      "Session": "51",
+      "Topic": "Case study",
+      "Learning-Teaching Type": "Offline",
+      "LO": "CLO5",
+      "ITU": "U",
+      "Student Materials": "Slides; Syllabus, and other materials suggested by Lecturer Textbook: Export-Import Theory, Practices, and Procedures (Author: Belay Seyoum - 4th edition 2021)",
+      "S-Download": "",
+      "Student's Tasks": "Presenting/ Discussing/ Debating",
+      "URLs": ""
+    },
+    {
+      "Session": "52",
+      "Topic": "Trade documentation: Transport documentation",
+      "Learning-Teaching Type": "Offline",
+      "LO": "CLO5",
+      "ITU": "U",
+      "Student Materials": "Slides; Syllabus, and other materials suggested by Lecturer Textbook: Export-Import Theory, Practices, and Procedures (Author: Belay Seyoum - 4th edition 2021)",
+      "S-Download": "",
+      "Student's Tasks": "Discussion/Edunext, Exercises",
+      "URLs": ""
+    },
+    {
+      "Session": "53",
+      "Topic": "Trade documentation: Transport documentation",
+      "Learning-Teaching Type": "Offline",
+      "LO": "CLO5",
+      "ITU": "U",
+      "Student Materials": "Slides; Syllabus, and other materials suggested by Lecturer Textbook: Export-Import Theory, Practices, and Procedures (Author: Belay Seyoum - 4th edition 2021)",
+      "S-Download": "",
+      "Student's Tasks": "Discussion/Edunext, Exercises",
+      "URLs": ""
+    },
+    {
+      "Session": "54",
+      "Topic": "Progress test 3",
+      "Learning-Teaching Type": "Offline",
+      "LO": "CLO5",
+      "ITU": "U",
+      "Student Materials": "",
+      "S-Download": "",
+      "Student's Tasks": "Taking Quiz",
+      "URLs": ""
+    },
+    {
+      "Session": "55",
+      "Topic": "Course wrap-up",
+      "Learning-Teaching Type": "Offline",
+      "LO": "CLO5",
+      "ITU": "U",
+      "Student Materials": "Slides; Syllabus, Textbook and other materials suggested by Lecturer",
+      "S-Download": "",
+      "Student's Tasks": "Presenting/ Discussing/ Debating",
+      "URLs": ""
+    },
+    {
+      "Session": "56",
+      "Topic": "Group-project presentation",
+      "Learning-Teaching Type": "Offline",
+      "LO": "CLO5",
+      "ITU": "U",
+      "Student Materials": "Slides; Syllabus, Textbook and other materials suggested by Lecturer",
+      "S-Download": "",
+      "Student's Tasks": "Working in group Presenting, Reviewing, Discussing, working in group as stipulated in a standard Constructivism slot",
+      "URLs": ""
+    },
+    {
+      "Session": "57",
+      "Topic": "Group-project presentation",
+      "Learning-Teaching Type": "Offline",
+      "LO": "CLO5",
+      "ITU": "U",
+      "Student Materials": "Slides; Syllabus, Textbook and other materials suggested by Lecturer",
+      "S-Download": "",
+      "Student's Tasks": "Working in group Presenting, Reviewing, Discussing, working in group as stipulated in a standard Constructivism slot",
+      "URLs": ""
+    },
+    {
+      "Session": "58",
+      "Topic": "Group-project presentation",
+      "Learning-Teaching Type": "Offline",
+      "LO": "CLO5",
+      "ITU": "I, T, U",
+      "Student Materials": "Slides; Syllabus, Textbook and other materials suggested by Lecturer",
+      "S-Download": "",
+      "Student's Tasks": "Working in group Presenting, Reviewing, Discussing, working in group as stipulated in a standard Constructivism slot",
+      "URLs": ""
+    },
+    {
+      "Session": "59",
+      "Topic": "Group-project presentation",
+      "Learning-Teaching Type": "Offline",
+      "LO": "CLO5",
+      "ITU": "I, T, U",
+      "Student Materials": "Slides; Syllabus, Textbook and other materials suggested by Lecturer",
+      "S-Download": "",
+      "Student's Tasks": "Working in group Presenting, Reviewing, Discussing, working in group as stipulated in a standard Constructivism slot",
+      "URLs": ""
+    },
+    {
+      "Session": "60",
+      "Topic": "Group-project presentation",
+      "Learning-Teaching Type": "Offline",
+      "LO": "CLO5",
+      "ITU": "I, T, U",
+      "Student Materials": "Slides; Syllabus, Textbook and other materials suggested by Lecturer",
+      "S-Download": "",
+      "Student's Tasks": "Working in group Presenting, Reviewing, Discussing, working in group as stipulated in a standard Constructivism slot",
+      "URLs": ""
+    }
+  ],
+  "constructive_questions": [
+    {
+      "No.": "1",
+      "Session No": "4",
+      "Name": "CQ4.1",
+      "Details": "Why is it essential to protect intellectual property rights?"
+    },
+    {
+      "No.": "2",
+      "Session No": "5",
+      "Name": "CQ5.1",
+      "Details": "What are sources of IPR law in the world?"
+    },
+    {
+      "No.": "3",
+      "Session No": "5",
+      "Name": "CQ5.2",
+      "Details": "How do you understand about case law)"
+    },
+    {
+      "No.": "4",
+      "Session No": "6",
+      "Name": "CQ6.1",
+      "Details": "What types of IPR are relevant to graphic designers/multimedia communicators?"
+    },
+    {
+      "No.": "5",
+      "Session No": "6",
+      "Name": "CQ6.2",
+      "Details": "What is overlap in IPR protection?"
+    },
+    {
+      "No.": "6",
+      "Session No": "7",
+      "Name": "CQ7.1",
+      "Details": "Does Copyright protect an idea or a concept?"
+    },
+    {
+      "No.": "7",
+      "Session No": "7",
+      "Name": "CQ7.2",
+      "Details": "What are types of copyright?"
+    },
+    {
+      "No.": "8",
+      "Session No": "8",
+      "Name": "CQ8.1",
+      "Details": "What are Graphic works protecting by copyright?"
+    },
+    {
+      "No.": "9",
+      "Session No": "9",
+      "Name": "CQ9.1",
+      "Details": "Who are authors and copyright owners?"
+    },
+    {
+      "No.": "10",
+      "Session No": "9",
+      "Name": "CQ9.2",
+      "Details": "Who owns the combined logo in a commission?"
+    },
+    {
+      "No.": "11",
+      "Session No": "10",
+      "Name": "CQ10.1",
+      "Details": "Is copyright forever?"
+    },
+    {
+      "No.": "12",
+      "Session No": "11",
+      "Name": "CQ11.1",
+      "Details": "Who has the moral rights in the case of Tidy vs Trustees of the Natural History Museum?"
+    },
+    {
+      "No.": "13",
+      "Session No": "11",
+      "Name": "CQ11.2",
+      "Details": "What are moral rights in copyright?"
+    },
+    {
+      "No.": "14",
+      "Session No": "12",
+      "Name": "CQ12.1",
+      "Details": "Who has the economics right in the case of Cartes-en-Ciel Inc. v. Boutique Elfe Inc.?"
+    },
+    {
+      "No.": "15",
+      "Session No": "12",
+      "Name": "CQ12.2",
+      "Details": "What are economic rights in copyright?"
+    },
+    {
+      "No.": "16",
+      "Session No": "13",
+      "Name": "CQ13.1",
+      "Details": "What is copyright infringement?"
+    },
+    {
+      "No.": "17",
+      "Session No": "14",
+      "Name": "CQ14.1",
+      "Details": "Is there a copyright infringement in the case of Taylor Corporation v. Four Seasons Greetings, LLC?"
+    },
+    {
+      "No.": "18",
+      "Session No": "15",
+      "Name": "CQ15.1",
+      "Details": "When don't you need permission to use an existing material?"
+    },
+    {
+      "No.": "19",
+      "Session No": "16",
+      "Name": "CQ16.1",
+      "Details": "What are legal liabilities for copyright infringement?"
+    },
+    {
+      "No.": "20",
+      "Session No": "17",
+      "Name": "CQ17.1",
+      "Details": "Which civil liabilities the copyright's owner can ask in case of Lê Linh & Phan Thị?"
+    },
+    {
+      "No.": "21",
+      "Session No": "18",
+      "Name": "CQ18.1",
+      "Details": "What others can take from you?"
+    },
+    {
+      "No.": "22",
+      "Session No": "22",
+      "Name": "CQ22.1",
+      "Details": "What's protected by design right?"
+    },
+    {
+      "No.": "23",
+      "Session No": "23",
+      "Name": "CQ23.1",
+      "Details": "What's the difference between copyright and design right in terms of ownership, author, and duration of the right?"
+    },
+    {
+      "No.": "24",
+      "Session No": "24",
+      "Name": "CQ24.1",
+      "Details": "Is there any difference between copyright and design right in case of infringement and asking for legal liabilities?"
+    },
+    {
+      "No.": "25",
+      "Session No": "25",
+      "Name": "CQ25.1",
+      "Details": "Is there any exception on design right license?"
+    },
+    {
+      "No.": "26",
+      "Session No": "26",
+      "Name": "CQ26.1",
+      "Details": "What does a registered design protect?"
+    },
+    {
+      "No.": "27",
+      "Session No": "27",
+      "Name": "CQ27.1",
+      "Details": "Can an architect's design be registered as an industrial design?"
+    },
+    {
+      "No.": "28",
+      "Session No": "28",
+      "Name": "CQ28.1",
+      "Details": "What's the difference between design right and registered design in term of ownership, author,duration of the right?"
+    },
+    {
+      "No.": "29",
+      "Session No": "29",
+      "Name": "CQ29.1",
+      "Details": "Is there any difference between design right and registered design in case of infringment and asking for legal liabilities?"
+    },
+    {
+      "No.": "30",
+      "Session No": "30",
+      "Name": "CQ30.1",
+      "Details": "How can an owner register internationally for an industrial design?"
+    },
+    {
+      "No.": "31",
+      "Session No": "31",
+      "Name": "CQ31.1",
+      "Details": "Who owns the right in the ABC case (see more details in slides) under UK/ VN/ US law?"
+    },
+    {
+      "No.": "32",
+      "Session No": "32",
+      "Name": "QN32.1",
+      "Details": "What are IPRs in a smart phone?"
+    },
+    {
+      "No.": "33",
+      "Session No": "33",
+      "Name": "QN33.1",
+      "Details": "What circumstance is overlapping IP protection considered a limitation?"
+    },
+    {
+      "No.": "34",
+      "Session No": "37",
+      "Name": "QN37.1",
+      "Details": "What is a trademark and what are trademark functions?"
+    },
+    {
+      "No.": "35",
+      "Session No": "38",
+      "Name": "QN38.1",
+      "Details": "When a sign can be deemed registrable to be a trademark?"
+    },
+    {
+      "No.": "36",
+      "Session No": "39",
+      "Name": "QN39.1",
+      "Details": "In which way that trademark will be formed?"
+    },
+    {
+      "No.": "37",
+      "Session No": "40",
+      "Name": "QN40.1",
+      "Details": "In which case, a sign is protected as a trademark although it is not registered?"
+    },
+    {
+      "No.": "38",
+      "Session No": "40",
+      "Name": "QN40.2",
+      "Details": "What is get-up and what does it may include?"
+    },
+    {
+      "No.": "39",
+      "Session No": "41",
+      "Name": "QN41.1",
+      "Details": "How to identify a trademark is famous in common law?"
+    },
+    {
+      "No.": "40",
+      "Session No": "42",
+      "Name": "QN42.1",
+      "Details": "What is a domain name and can it be a business trademark?"
+    },
+    {
+      "No.": "41",
+      "Session No": "43",
+      "Name": "QN43.1",
+      "Details": "From 'One in a Million' case, what are your critical thoughts about the misuse of domain name can harm trademark and business?"
+    },
+    {
+      "No.": "42",
+      "Session No": "44",
+      "Name": "QN44.1",
+      "Details": "What is \"passing-off\" and what is it difference from infringement?"
+    },
+    {
+      "No.": "43",
+      "Session No": "45",
+      "Name": "QN45.1",
+      "Details": "Which circumstances can be deem as infringements of registered trademark and what liability can be imposed?"
+    },
+    {
+      "No.": "44",
+      "Session No": "46",
+      "Name": "QN46.1",
+      "Details": "When passing off happens, what the owner should prove to protect their trademark?"
+    },
+    {
+      "No.": "45",
+      "Session No": "47",
+      "Name": "QN47.1",
+      "Details": "Do you agree with the court decision in JackWills v House of Fraser (2014)?"
+    },
+    {
+      "No.": "46",
+      "Session No": "48",
+      "Name": "QN48.1",
+      "Details": "Can you describe one of the trademark system that you have known?"
+    },
+    {
+      "No.": "47",
+      "Session No": "49",
+      "Name": "QN49.1",
+      "Details": "Why should people license an IPR?"
+    },
+    {
+      "No.": "48",
+      "Session No": "50",
+      "Name": "QN50.1",
+      "Details": "Compare the features of each way of acquiring IPRs?"
+    },
+    {
+      "No.": "49",
+      "Session No": "51",
+      "Name": "QN51.1",
+      "Details": "Can you describe and analyze a real case about copyright licensing that you have known?"
+    },
+    {
+      "No.": "50",
+      "Session No": "52",
+      "Name": "QN52.1",
+      "Details": "When you act on behalf of a singer to negotiate with an author to lease a song, what terms of the contract should you care about most?"
+    },
+    {
+      "No.": "51",
+      "Session No": "53",
+      "Name": "QN53.1",
+      "Details": "What are the pros and cons of each type of license?"
+    },
+    {
+      "No.": "52",
+      "Session No": "54",
+      "Name": "QN54.1",
+      "Details": "In your opinion, which terms should be improved when you critically analyse the franchising contract as provided?"
+    }
+  ],
+  "materials": [
+    {
+      "No.": "1",
+      "Material Description": "International Trade: Theory and Policy, Global Edition",
+      "Author": "Paul R. Krugman, Maurice Obstfeld, Marc J. Melitz",
+      "Publisher": "Pearson Education",
+      "Published Date": "2022",
+      "Edition": "12th edition",
+      "ISBN": "978-1292417233",
+      "Is Main Material": "True",
+      "Is Hard Copy": "True",
+      "Is Online": "False",
+      "Note": ""
+    },
+    {
+      "No.": "2",
+      "Material Description": "Export-Import Theory, Practices, and Procedures",
+      "Author": "Belay Seyoum",
+      "Publisher": "Routledge",
+      "Published Date": "2021",
+      "Edition": "4th edition",
+      "ISBN": "9780367896782",
+      "Is Main Material": "False",
+      "Is Hard Copy": "False",
+      "Is Online": "False",
+      "Note": ""
+    },
+    {
+      "No.": "3",
+      "Material Description": "A Short Course in International Payments",
+      "Author": "Edward G. Hinkelman",
+      "Publisher": "World Trade Press",
+      "Published Date": "",
+      "Edition": "5th edition",
+      "ISBN": "978-1-60780-057-6",
+      "Is Main Material": "False",
+      "Is Hard Copy": "False",
+      "Is Online": "False",
+      "Note": ""
+    }
+  ],
+  "source_path": "data/raw/syllabi/14401.html",
+  "id": "syllabus:14401"
+}

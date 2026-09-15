@@ -1,0 +1,307 @@
+{
+  "syllabus_id": 12612,
+  "subject_code": "IAO201c",
+  "subject_name": "Introduction to Information Assurance_Nhập môn an toàn thông tin",
+  "syllabus_name": "Introduction to Information Assurance_Nhập môn an toàn thông tin",
+  "credits": 3,
+  "degree_level": "Bachelor",
+  "time_allocation": "Study hour (150h) = 66 h online + 3 h offline + 1h final exam + 2h practical exam + 78 self-study",
+  "prerequisite": "",
+  "general_information": {
+    "Syllabus ID": "12612",
+    "Syllabus Name": "Introduction to Information Assurance_Nhập môn an toàn thông tin",
+    "Course Name English": "Introduction to Information Assurance",
+    "Subject Code": "IAO201c",
+    "Learning-Teaching Method": "Blended,Online,Active learning, Discussion",
+    "NoCredit": "3",
+    "Degree Level": "Bachelor",
+    "Time Allocation": "Study hour (150h) = 66 h online + 3 h offline + 1h final exam + 2h practical exam + 78 self-study",
+    "Pre-Requisite": "",
+    "Description": "This course will introduce fundamental modern information and system protection technology and methods, develop a lifelong passion and appreciation for cyber security.",
+    "StudentTasks": "Student must get the certification of Introduction to Cyber Security Specialization specialization specialization from Coursera to be accepted to the final examination.",
+    "Tools": "- Internet",
+    "Scoring Scale": "10",
+    "DecisionNo MM/dd/yyyy": "359/QĐ-ĐHFPT dated 04/09/2025",
+    "IsApproved": "True",
+    "Note": "1. Final Exam is included of Final Theory Exam (TE) & Final Practical Exam (PE): 100% 2. Students who complete all MOOCs before the course deadline will receive 1 bonus point; otherwise, no bonus point will be awarded. 3. Completion Criteria: Final TE Score >=4 & Final PE Score >=4 & ((Final TE Score + Final PE Score)/2 + bonus) >= 5",
+    "Is Scored": "True",
+    "MinAvgMarkToPass": "5",
+    "IsActive": "True",
+    "ApprovedDate": "4/9/2025"
+  },
+  "active": true,
+  "approved": true,
+  "decision": "359/QĐ-ĐHFPT dated 04/09/2025",
+  "description": "This course will introduce fundamental modern information and system protection technology and methods, develop a lifelong passion and appreciation for cyber security.",
+  "learning_outcomes": [
+    {
+      "No.": "1",
+      "CLO Name": "CLO1",
+      "CLO Details": "Explain underlying concepts related to common cyber security threats, vulnerabilities, and risks."
+    },
+    {
+      "No.": "2",
+      "CLO Name": "CLO2",
+      "CLO Details": "Explain basics of cyber defense starting with foundational models such as Bell-LaPadula and information flow frameworks."
+    },
+    {
+      "No.": "3",
+      "CLO Name": "CLO3",
+      "CLO Details": "Explain real-time cyber security techniques and methods in the context of the TCP/IP protocol suites."
+    },
+    {
+      "No.": "4",
+      "CLO Name": "CLO4",
+      "CLO Details": "Summary advanced and current topics in cyber security, many of which are especially relevant in modern enterprise and infrastructure settings."
+    }
+  ],
+  "assessments": [
+    {
+      "No.": "1",
+      "Category": "PE",
+      "Type": "practical exam",
+      "Part": "1",
+      "Weight": "50.0%",
+      "Completion Criteria": "4",
+      "Duration": "120'",
+      "CLO": "",
+      "Question Type": "",
+      "No Question": "",
+      "Knowledge and Skill": "All studied courses.",
+      "Grading Guide": "by Exam Board",
+      "Note": "Customized from the exercises of this specialization. 1st Evaluation: For students who completed & got Coursera's specialization certificates (Option at week 9 or 10); 2nd Evaluation: For students who completed & got Coursera's specialization certificates) at week 13; 3rd Evaluation: For students who completed & got Coursera's specialization certificates) at week 14."
+    },
+    {
+      "No.": "2",
+      "Category": "TE",
+      "Type": "Final exam",
+      "Part": "1",
+      "Weight": "50.0%",
+      "Completion Criteria": "4",
+      "Duration": "60'",
+      "CLO": "",
+      "Question Type": "Computer gradable",
+      "No Question": "50",
+      "Knowledge and Skill": "All studied courses. Each module of course contributes 2-3 questions.",
+      "Grading Guide": "by Exam Board",
+      "Note": "Customized from the quizzes of this specialization. 1st Evaluation: For students who completed & got Coursera's specialization certificates (Option at week 9 or 10); 2nd Evaluation: For students who completed & got Coursera's specialization certificates) at week 13; 3rd Evaluation: For students who completed & got Coursera's specialization certificates) at week 14."
+    }
+  ],
+  "schedule": [
+    {
+      "Session": "1",
+      "Topic": "Specialization Introduction Introduction to Cyber Attacks - What is Cyber Security ? - Worm, Trojan Horse, Buffer overflow - Vulnerability, Threat - CIA model",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO1",
+      "ITU": "",
+      "Student Materials": "Associated Coursera links",
+      "S-Download": "",
+      "Student's Tasks": "Complete Week 1 of the course Introduction to Cyber Attacks",
+      "URLs": ""
+    },
+    {
+      "Session": "2",
+      "Topic": "Specialization Introduction Introduction to Cyber Attacks - What is Cyber Security ? - Worm, Trojan Horse, Buffer overflow - Vulnerability, Threat - CIA model Course 1 (Week 1, 2)",
+      "Learning-Teaching Type": "Online",
+      "LO": "LO1",
+      "ITU": "",
+      "Student Materials": "Associated Coursera links",
+      "S-Download": "",
+      "Student's Tasks": "Complete Wee 2 of the course Introduction to Cyber Attacks",
+      "URLs": ""
+    },
+    {
+      "Session": "3",
+      "Topic": "Introduction to Cyber Attacks - Botnet, DDOS, Man-in-the-middle - Calculating Risk - Level of security risk",
+      "Learning-Teaching Type": "Online",
+      "LO": "LO1",
+      "ITU": "",
+      "Student Materials": "Associated Coursera links",
+      "S-Download": "",
+      "Student's Tasks": "Complete Week 3 of the course Introduction to Cyber Attacks",
+      "URLs": ""
+    },
+    {
+      "Session": "4",
+      "Topic": "Introduction to Cyber Attacks - Botnet, DDOS, Man-in-the-middle - Calculating Risk - Level of security risk Course 1 (Week 3, 4)",
+      "Learning-Teaching Type": "Online",
+      "LO": "LO1",
+      "ITU": "",
+      "Student Materials": "Associated Coursera links",
+      "S-Download": "",
+      "Student's Tasks": "Complete Week 4 of the course Introduction to Cyber Attacks",
+      "URLs": ""
+    },
+    {
+      "Session": "5",
+      "Topic": "Cyber Attack Countermeasures - Bell La Padula Model - Covert Channels - Biba Integrity Model - Identification and Authentication",
+      "Learning-Teaching Type": "Online",
+      "LO": "LO2",
+      "ITU": "",
+      "Student Materials": "Associated Coursera links",
+      "S-Download": "",
+      "Student's Tasks": "Complete Week 1, 2 of the course Cyber Attack Countermeasures",
+      "URLs": ""
+    },
+    {
+      "Session": "6",
+      "Topic": "Cyber Attack Countermeasures - Password Protocol - DES, Triple-DES - Kerberos - CBC Mode Block Cryptography - Public Key Crypto",
+      "Learning-Teaching Type": "Online",
+      "LO": "LO2",
+      "ITU": "",
+      "Student Materials": "Associated Coursera links",
+      "S-Download": "",
+      "Student's Tasks": "Complete Week 3,4 of the course Cyber Attack Countermeasures",
+      "URLs": ""
+    },
+    {
+      "Session": "7",
+      "Topic": "Real-Time Cyber Threat Detection and Mitigation - TCP/IP Overview - TCP Sequence Number Attack - Packet Sniffing - Firewall Rules - Firewall Rules for FTP",
+      "Learning-Teaching Type": "Online",
+      "LO": "LO3",
+      "ITU": "",
+      "Student Materials": "Associated Coursera links",
+      "S-Download": "",
+      "Student's Tasks": "Complete Week 1, 2 of the course Real-Time Cyber Threat Detection and Mitigation",
+      "URLs": ""
+    },
+    {
+      "Session": "8",
+      "Topic": "Real-Time Cyber Threat Detection and Mitigation - Firewall Architectures - System Auditing - IDS Versus IPS - Design of SIEM - Design of a SOC",
+      "Learning-Teaching Type": "Online",
+      "LO": "LO3",
+      "ITU": "",
+      "Student Materials": "Associated Coursera links",
+      "S-Download": "",
+      "Student's Tasks": "Complete Week 3 of the course Real-Time Cyber Threat Detection and Mitigation",
+      "URLs": ""
+    },
+    {
+      "Session": "9",
+      "Topic": "Real-Time Cyber Threat Detection and Mitigation - Target APT Attack - Layer 3 DDOS Protection - Layer 7 Application Level DDOS Risk",
+      "Learning-Teaching Type": "Online",
+      "LO": "LO3",
+      "ITU": "",
+      "Student Materials": "Associated Coursera links",
+      "S-Download": "",
+      "Student's Tasks": "Complete Week 4 of the course Real-Time Cyber Threat Detection and Mitigation",
+      "URLs": ""
+    },
+    {
+      "Session": "10",
+      "Topic": "Enterprise and Infrastructure Security - Social Engineering - Phishing - Security Awareness - PCI-DSS Framework Overview - Defense in Depth",
+      "Learning-Teaching Type": "Online",
+      "LO": "LO4",
+      "ITU": "",
+      "Student Materials": "Associated Coursera links",
+      "S-Download": "",
+      "Student's Tasks": "Complete Week 1, 2 of the course Enterprise and Infrastructure Security",
+      "URLs": ""
+    },
+    {
+      "Session": "11",
+      "Topic": "Enterprise and Infrastructure Security - Hashing Algorithms - Blockchain",
+      "Learning-Teaching Type": "Online",
+      "LO": "LO4",
+      "ITU": "",
+      "Student Materials": "Associated Coursera links",
+      "S-Download": "",
+      "Student's Tasks": "Complete Week 3 of the course Enterprise and Infrastructure Security.",
+      "URLs": ""
+    },
+    {
+      "Session": "12",
+      "Topic": "Enterprise and Infrastructure Security - Mobility Security - IoT Security Course 4 Review",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO4",
+      "ITU": "TU",
+      "Student Materials": "Associated Coursera links",
+      "S-Download": "",
+      "Student's Tasks": "Complete Week 4 of the course Enterprise and Infrastructure Security. Deadline of Coursera Completion: End of Friday of the week. - All Students should participate in review slot (if any question)",
+      "URLs": ""
+    }
+  ],
+  "constructive_questions": [],
+  "materials": [
+    {
+      "No.": "1",
+      "Material Description": "SPEC: Introduction to Cyber Security Specialization",
+      "Author": "",
+      "Publisher": "Coursera",
+      "Published Date": "",
+      "Edition": "",
+      "ISBN": "",
+      "Is Main Material": "True",
+      "Is Hard Copy": "False",
+      "Is Online": "True",
+      "Note": "https://www.coursera.org/specializations/intro-cyber-security"
+    },
+    {
+      "No.": "2",
+      "Material Description": "Help Articles",
+      "Author": "",
+      "Publisher": "Coursera",
+      "Published Date": "",
+      "Edition": "",
+      "ISBN": "",
+      "Is Main Material": "False",
+      "Is Hard Copy": "False",
+      "Is Online": "True",
+      "Note": "https://learner.coursera.help/hc/en-us/articles/208280036-Coursera-Code-of-Conduct"
+    },
+    {
+      "No.": "3",
+      "Material Description": "MOOC 1: Introduction to Cyber Attacks",
+      "Author": "",
+      "Publisher": "Coursera",
+      "Published Date": "",
+      "Edition": "",
+      "ISBN": "",
+      "Is Main Material": "True",
+      "Is Hard Copy": "False",
+      "Is Online": "True",
+      "Note": "https://www.coursera.org/learn/intro-cyber-attacks?specialization=intro-cyber-security"
+    },
+    {
+      "No.": "4",
+      "Material Description": "MOOC 2: Cyber Attack Countermeasures",
+      "Author": "",
+      "Publisher": "Coursera",
+      "Published Date": "",
+      "Edition": "",
+      "ISBN": "",
+      "Is Main Material": "True",
+      "Is Hard Copy": "False",
+      "Is Online": "True",
+      "Note": "https://www.coursera.org/learn/cyber-attack-countermeasures?specialization=intro-cyber-security"
+    },
+    {
+      "No.": "5",
+      "Material Description": "MOOC 3: Real-Time Cyber Threat Detection and Mitigation",
+      "Author": "",
+      "Publisher": "Coursera",
+      "Published Date": "",
+      "Edition": "",
+      "ISBN": "",
+      "Is Main Material": "True",
+      "Is Hard Copy": "False",
+      "Is Online": "True",
+      "Note": "https://www.coursera.org/learn/real-time-cyber-threat-detection?specialization=intro-cyber-security"
+    },
+    {
+      "No.": "6",
+      "Material Description": "MOOC 4: Enterprise and Infrastructure Security",
+      "Author": "",
+      "Publisher": "Coursera",
+      "Published Date": "",
+      "Edition": "",
+      "ISBN": "",
+      "Is Main Material": "True",
+      "Is Hard Copy": "False",
+      "Is Online": "True",
+      "Note": "https://www.coursera.org/learn/enterprise-infrastructure-security?specialization=intro-cyber-security"
+    }
+  ],
+  "source_path": "data/raw/syllabi/12612.html",
+  "id": "syllabus:12612"
+}

@@ -1,0 +1,250 @@
+{
+  "syllabus_id": 11847,
+  "subject_code": "COV111",
+  "subject_name": "Cờ Vua 1",
+  "syllabus_name": "Cờ Vua 1_Chess 1",
+  "credits": 2,
+  "degree_level": "Bachelor",
+  "time_allocation": "12 slots",
+  "prerequisite": "None",
+  "general_information": {
+    "Syllabus ID": "11847",
+    "Syllabus Name": "Cờ Vua 1_Chess 1",
+    "Course Name English": "",
+    "Subject Code": "COV111",
+    "Learning-Teaching Method": "Practice",
+    "NoCredit": "2",
+    "Degree Level": "Bachelor",
+    "Time Allocation": "12 slots",
+    "Pre-Requisite": "None",
+    "Description": "* Tập trung vào các nội dung: Tri thức cơ bản trong Cờ Vua. Focus on: basic knowledge of Chess * Tập trung vào các nội dung: các kỹ thuật cơ bản; đấu tập.. Focus on: basic techniques; competition-style practice.",
+    "StudentTasks": "* Dự lớp: Đảm bảo dự ≥ 80% tổng thời lượng của kỳ học. Attend at least 80% of class hours. * Bài tập: Thực hiện tốt yêu cầu, nhiệm vụ các bài tập được giao. Assignments: Well perform assigned tasks and assignments. * Khác: Thường xuyên hoạt động tập luyện ngoại khóa. Other: Practice regularly. * Thực hành: Thực hiện các tập; bài kiểm tra; thi lấy điểm. Practice: Perform exercises, tests, and exams.",
+    "Tools": "",
+    "Scoring Scale": "10",
+    "DecisionNo MM/dd/yyyy": "862/QĐ-ĐHFPT dated 08/16/2024",
+    "IsApproved": "True",
+    "Note": "",
+    "Is Scored": "True",
+    "MinAvgMarkToPass": "5",
+    "IsActive": "True",
+    "ApprovedDate": "8/16/2024"
+  },
+  "active": true,
+  "approved": true,
+  "decision": "862/QĐ-ĐHFPT dated 08/16/2024",
+  "description": "* Tập trung vào các nội dung: Tri thức cơ bản trong Cờ Vua. Focus on: basic knowledge of Chess * Tập trung vào các nội dung: các kỹ thuật cơ bản; đấu tập.. Focus on: basic techniques; competition-style practice.",
+  "learning_outcomes": [
+    {
+      "No.": "1",
+      "CLO Name": "CLO1",
+      "CLO Details": "Giới thiệu cho sinh viên sơ lược về môn học Cờ Vua. Briefly introduce the subject of Chess."
+    },
+    {
+      "No.": "2",
+      "CLO Name": "CLO2",
+      "CLO Details": "Giới thiệu các quy định trong học tập nội dung Cờ Vua tại trường Đại học FPT. Introduce regulations of studying Chess at FPT University."
+    },
+    {
+      "No.": "3",
+      "CLO Name": "CLO3",
+      "CLO Details": "Bước đầu xây dựng cho sinh viên những kỹ năng thi đấu cơ bản. Initially build basic competition skills for students."
+    }
+  ],
+  "assessments": [
+    {
+      "No.": "1",
+      "Category": "Mid-term",
+      "Type": "on-going",
+      "Part": "1",
+      "Weight": "33.3%",
+      "Completion Criteria": "",
+      "Duration": "",
+      "CLO": "",
+      "Question Type": "Test techniques",
+      "No Question": "8-10",
+      "Knowledge and Skill": "* Các giai đoạn trong Cờ Vua Stages in Chess * Những tri thức cơ bản trong Cờ Vua Basic knowledge of Chess",
+      "Grading Guide": "Thi giấy tập trung Paper-based examination",
+      "Note": ""
+    },
+    {
+      "No.": "2",
+      "Category": "Final exam",
+      "Type": "Final exam",
+      "Part": "1",
+      "Weight": "66.7%",
+      "Completion Criteria": "",
+      "Duration": "",
+      "CLO": "",
+      "Question Type": "Test techniques",
+      "No Question": "8-10",
+      "Knowledge and Skill": "* Các giai đoạn trong Cờ Vua Stages in Chess * Những tri thức cơ bản trong Cờ Vua Basic knowledge of Chess",
+      "Grading Guide": "Thi giấy tập trung Paper-based examination",
+      "Note": ""
+    }
+  ],
+  "schedule": [
+    {
+      "Session": "1",
+      "Topic": "* Giới thiệu môn học Cờ Vua. Introduction to the subject of Chess. * Tri thức cơ bản trong Cờ Vua. Basic knowledge of Chess. * Đấu tập. Competition-style practice.",
+      "Learning-Teaching Type": "Offline",
+      "LO": "",
+      "ITU": "",
+      "Student Materials": "",
+      "S-Download": "",
+      "Student's Tasks": "Ôn tập mỗi ngày 15-30 Phút Review and practice in 15-30 minutes per day",
+      "URLs": ""
+    },
+    {
+      "Session": "2",
+      "Topic": "* Tri thức cơ bản trong Cờ Vua. Basic knowledge of Chess. * Bài tập đòn phối hợp chiếu hết trong 1 nước. Exercise on combination to achieve checkmate in 1 move. * Đấu tập Competition-style practice.",
+      "Learning-Teaching Type": "Offline",
+      "LO": "",
+      "ITU": "",
+      "Student Materials": "",
+      "S-Download": "",
+      "Student's Tasks": "Ôn tập mỗi ngày 15-30 Phút Review and practice in 15-30 minutes per day",
+      "URLs": ""
+    },
+    {
+      "Session": "3",
+      "Topic": "* Tri thức cơ bản trong Cờ Vua. Basic knowledge of Chess. * Bài tập đòn phối hợp chiếu hết trong 1 nước. Exercise on combination to achieve checkmate in 1 move. * Đấu tập Competition-style practice.",
+      "Learning-Teaching Type": "Offline",
+      "LO": "",
+      "ITU": "",
+      "Student Materials": "",
+      "S-Download": "",
+      "Student's Tasks": "Ôn tập mỗi ngày 15-30 Phút Review and practice in 15-30 minutes per day",
+      "URLs": ""
+    },
+    {
+      "Session": "4",
+      "Topic": "* Tri thức cơ bản trong Cờ Vua. Basic knowledge of Chess. * Bài tập đòn phối hợp chiếu hết trong 1 nước. Exercise on combination to achieve checkmate in 1 move. * Đấu tập Competition-style practice.",
+      "Learning-Teaching Type": "Offline",
+      "LO": "",
+      "ITU": "",
+      "Student Materials": "",
+      "S-Download": "",
+      "Student's Tasks": "Ôn tập mỗi ngày 15-30 Phút Review and practice in 15-30 minutes per day",
+      "URLs": ""
+    },
+    {
+      "Session": "5",
+      "Topic": "* Tri thức cơ bản trong Cờ Vua. Basic knowledge of Chess. * Bài tập đòn phối hợp chiếu hết trong 2 nước. Exercise on combination to achieve checkmate in 2 moves. * Đấu tập Competition-style practice.",
+      "Learning-Teaching Type": "Offline",
+      "LO": "",
+      "ITU": "",
+      "Student Materials": "",
+      "S-Download": "",
+      "Student's Tasks": "Ôn tập mỗi ngày 15-30 Phút Review and practice in 15-30 minutes per day",
+      "URLs": ""
+    },
+    {
+      "Session": "6",
+      "Topic": "Mid-term test",
+      "Learning-Teaching Type": "Offline",
+      "LO": "",
+      "ITU": "",
+      "Student Materials": "",
+      "S-Download": "",
+      "Student's Tasks": "",
+      "URLs": ""
+    },
+    {
+      "Session": "7",
+      "Topic": "* Giai đoạn tàn cuộc Endgame. * Bài tập cờ tàn kỹ thuật. Exercise on endgame strategy. * Đấu tập. Competition-style practice.",
+      "Learning-Teaching Type": "Offline",
+      "LO": "",
+      "ITU": "",
+      "Student Materials": "",
+      "S-Download": "",
+      "Student's Tasks": "Ôn tập mỗi ngày 15-30 Phút Review and practice in 15-30 minutes per day",
+      "URLs": ""
+    },
+    {
+      "Session": "8",
+      "Topic": "* Giai đoạn tàn cuộc Endgame. * Bài tập cờ tàn kỹ thuật. Exercise on endgame strategy. * Đấu tập. Competition-style practice.",
+      "Learning-Teaching Type": "Offline",
+      "LO": "",
+      "ITU": "",
+      "Student Materials": "",
+      "S-Download": "",
+      "Student's Tasks": "Ôn tập mỗi ngày 15-30 Phút Review and practice in 15-30 minutes per day",
+      "URLs": ""
+    },
+    {
+      "Session": "9",
+      "Topic": "* Giai đoạn tàn cuộc Endgame. * Bài tập cờ tàn kỹ thuật. Exercise on endgame strategy. * Đấu tập. Competition-style practice.",
+      "Learning-Teaching Type": "Offline",
+      "LO": "",
+      "ITU": "",
+      "Student Materials": "",
+      "S-Download": "",
+      "Student's Tasks": "Ôn tập mỗi ngày 15-30 Phút Review and practice in 15-30 minutes per day",
+      "URLs": ""
+    },
+    {
+      "Session": "10",
+      "Topic": "* Giai đoạn tàn cuộc. Endgame * Bài tập chiếu hết trong 2 nước. Exercise on checkmate in 2 moves. * Đấu tập. Competition-style practice.",
+      "Learning-Teaching Type": "Offline",
+      "LO": "",
+      "ITU": "",
+      "Student Materials": "",
+      "S-Download": "",
+      "Student's Tasks": "Ôn tập mỗi ngày 15-30 Phút Review and practice in 15-30 minutes per day",
+      "URLs": ""
+    },
+    {
+      "Session": "11",
+      "Topic": "* Giai đoạn tàn cuộc. Endgame * Bài tập chiếu hết trong 2 nước. Exercise on checkmate in 2 moves. * Đấu tập. Competition-style practice.",
+      "Learning-Teaching Type": "Offline",
+      "LO": "",
+      "ITU": "",
+      "Student Materials": "",
+      "S-Download": "",
+      "Student's Tasks": "Ôn tập mỗi ngày 15-30 Phút Review and practice in 15-30 minutes per day",
+      "URLs": ""
+    },
+    {
+      "Session": "12",
+      "Topic": "* Giai đoạn tàn cuộc. Endgame * Bài tập chiếu hết trong 2 nước. Exercise on checkmate in 2 moves. * Đấu tập. Competition-style practice.",
+      "Learning-Teaching Type": "Offline",
+      "LO": "",
+      "ITU": "",
+      "Student Materials": "",
+      "S-Download": "",
+      "Student's Tasks": "Ôn tập mỗi ngày 15-30 Phút Review and practice in 15-30 minutes per day",
+      "URLs": ""
+    }
+  ],
+  "constructive_questions": [],
+  "materials": [
+    {
+      "No.": "1",
+      "Material Description": "Cờ vua Chess",
+      "Author": "Lương Trọng Minh",
+      "Publisher": "Nhà xuất bản Kim ĐồngKim Dong Publishing House",
+      "Published Date": "2011",
+      "Edition": "",
+      "ISBN": "",
+      "Is Main Material": "True",
+      "Is Hard Copy": "True",
+      "Is Online": "False",
+      "Note": ""
+    },
+    {
+      "No.": "2",
+      "Material Description": "Giáo án môn Cờ vua Chess textbook",
+      "Author": "",
+      "Publisher": "",
+      "Published Date": "",
+      "Edition": "",
+      "ISBN": "",
+      "Is Main Material": "False",
+      "Is Hard Copy": "True",
+      "Is Online": "False",
+      "Note": ""
+    }
+  ],
+  "source_path": "data/raw/syllabi/11847.html",
+  "id": "syllabus:11847"
+}

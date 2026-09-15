@@ -1,0 +1,1962 @@
+{
+  "syllabus_id": 13137,
+  "subject_code": "MAE101",
+  "subject_name": "Mathematics for Engineering_Toán cho ngành kỹ thuật",
+  "syllabus_name": "Mathematics for Engineering_Toán cho ngành kỹ thuật",
+  "credits": 3,
+  "degree_level": "Bachelor",
+  "time_allocation": "Study hour (150h) = 45 contact hours (60 sessions) + 1 hour final exam + 104 hours self-study",
+  "prerequisite": "None",
+  "general_information": {
+    "Syllabus ID": "13137",
+    "Syllabus Name": "Mathematics for Engineering_Toán cho ngành kỹ thuật",
+    "Course Name English": "",
+    "Subject Code": "MAE101",
+    "Learning-Teaching Method": "Lecture,Practice",
+    "NoCredit": "3",
+    "Degree Level": "Bachelor",
+    "Time Allocation": "Study hour (150h) = 45 contact hours (60 sessions) + 1 hour final exam + 104 hours self-study",
+    "Pre-Requisite": "None",
+    "Description": "Upon finishing the course, students must acquire: 1. the following knowledge: (ABET a1) • The basic concepts of single variable calculus: limit, derivative, integral. • Concepts of linear system of equations, matrix and their applications • The concepts of vector spaces, basis and dimension, linear transformations and their applications. • The range of application of calculus and algebra in science, technology, economics & finance... 2. the following skills: (ABET a2) • Find limit, derivative and integral of functions of single variables; • Find solutions to linear systems by using row-reduced echelon form, Cramer's Rule, inverse matrix • Find determinants and inverse of a matrix • Find linear transformations in R^2 and R^3. • Find dimensions and bases of vector spaces . • Apply the concepts of calculus and algebra in solving problems in science, technology, economics & finance, ...",
+    "StudentTasks": "Students must attend at least 80% of contact hours in order to be accepted to the final examination.",
+    "Tools": "",
+    "Scoring Scale": "10",
+    "DecisionNo MM/dd/yyyy": "932/QĐ-ĐHFPT dated 08/22/2025",
+    "IsApproved": "True",
+    "Note": "",
+    "Is Scored": "True",
+    "MinAvgMarkToPass": "5",
+    "IsActive": "True",
+    "ApprovedDate": "8/22/2025"
+  },
+  "active": true,
+  "approved": true,
+  "decision": "932/QĐ-ĐHFPT dated 08/22/2025",
+  "description": "Upon finishing the course, students must acquire: 1. the following knowledge: (ABET a1) • The basic concepts of single variable calculus: limit, derivative, integral. • Concepts of linear system of equations, matrix and their applications • The concepts of vector spaces, basis and dimension, linear transformations and their applications. • The range of application of calculus and algebra in science, technology, economics & finance... 2. the following skills: (ABET a2) • Find limit, derivative and integral of functions of single variables; • Find solutions to linear systems by using row-reduced echelon form, Cramer's Rule, inverse matrix • Find determinants and inverse of a matrix • Find linear transformations in R^2 and R^3. • Find dimensions and bases of vector spaces . • Apply the concepts of calculus and algebra in solving problems in science, technology, economics & finance, ...",
+  "learning_outcomes": [
+    {
+      "No.": "1",
+      "CLO Name": "CLO1",
+      "CLO Details": "Describe basic properties and find the limit of a function LO1.1 Find the domain, range, zeros and analyze the symmetry of the graph; create new functions from old functions. LO1.2 Find the slope and write an equation of a line; describe how a function changes under graph translations. LO1.3 Compute the limit of a function using graphs and limit laws, including the Squeeze's Theorem. LO1.4 Find limits at infinity and infinity limits, and apply in finding asymptotes of a function. LO1.5 Identify where a function is continuous; use the Intermedia Value Theorem to show that an equation has a solution."
+    },
+    {
+      "No.": "2",
+      "CLO Name": "CLO2",
+      "CLO Details": "Calculate derivatives of a function LO2.1 Find the average rate of change; identify derivative as the limit of a difference quotient. LO2.2 Recognize derivative as the instantaneous velocity and the slope of tangent lines. LO2.3 Find derivatives using basic formulas and the sum, difference, product, quotient, chain rules."
+    },
+    {
+      "No.": "3",
+      "CLO Name": "CLO3",
+      "CLO Details": "Use derivatives to analyze a function and to solve applications LO3.1 Use implicit differentiation to find derivatives and to solve related rates problems. LO3.2 Find linear approximation of a function; calculate differentials and apply in calculating errors of approximation. LO3.3 Apply Rolle's Theorem and Mean Value Theorem to a function; find critical numbers and absolute extrema of a function. LO3.4 Identify local extrema, and describe the monotonicity of a function; solve optimization problems. LO3.5 Recognize acceleration as second derivative; determine inflection points and describe the concavity of a function. LO3.6 Use Newton method to approximate solutions of an equation."
+    },
+    {
+      "No.": "4",
+      "CLO Name": "CLO4",
+      "CLO Details": "Calculate integrals and find area under the graph of a function LO4.1 Use Riemann sums to approximate area; recognize area as a definite integral which is the limit of Riemann sums. LO4.2 Apply the Fundamental Theorems of Calculus to find derivatives of integrals, and to evaluate definite integrals. LO4.3 Recognize indefinite integrals as anti-derivatives; find integrals using basic formulas and the techniques of substitution and integration by parts. LO4.4 Use integration to solve applications and to compute the average value of a function. LO4.5 Approximate definite integrals using Midpoint, Trapezoidal and Simpson rules. LO4.6 Determine if an improper integral converges."
+    },
+    {
+      "No.": "5",
+      "CLO Name": "CLO5",
+      "CLO Details": "Solve a system of linear equations using Gaussian elimination LO5.1 Identify if a matrix is in echelon forms; carry a matrix into an echelon using row operations; calculate the rank of a matrix. LO5.2 Use echelon matrices to solve/describe the solution set of a linear system."
+    },
+    {
+      "No.": "6",
+      "CLO Name": "CLO6",
+      "CLO Details": "Perform basic operations on matrices and manipulate matrix transformations LO6.1 Perform addition, scalar multiplication and transpose of matrices; verify if a matrix is symmetric. LO6.2 Multiply two matrices of appropriate sizes; transform between a linear system and a matrix equation. LO6.3 Determine the matrix of a linear transformation; use properties of linear transformations in solving problems."
+    },
+    {
+      "No.": "7",
+      "CLO Name": "CLO7",
+      "CLO Details": "Find the determinant, inverse and diagonalization of a matrix LO7.1 Compute the cofactors and the determinant of a matrix; analyze determinants in relation with row/column operations. LO7.2 Check if a matrix is invertible; find the adjugate and the inverse of a matrix; use properties of inverses and determinants in solving problems. LO7.3 Solve a system of linear equations using inverse matrices or Cramer's rule. LO7.4 Find the characteristic polynomial, eigenvalues and eigenvectors to diagonalize a matrix; check if a matrix is diagonalizable."
+    },
+    {
+      "No.": "8",
+      "CLO Name": "CLO8",
+      "CLO Details": "Manipulate vector operations and linear transformations in R^3. LO8.1 Manipulate vector operations; find equations of lines. LO8.2 Compute the dot product and the angle between two vectors; find the projection of a vector on another vector and manipulate equations of planes. LO8.3 Compute the cross product; analyze areas and volumns in relation with dot and cross products. LO8.4 Determine linear transformations in R^3 and discuss applications in computer graphic."
+    },
+    {
+      "No.": "9",
+      "CLO Name": "CLO9",
+      "CLO Details": "Find the dimension and bases of a subspace LO9.1 Determine if a subset of vectors is a subspace; describe the subspace spanned by a set of vectors. LO9.2 Check if a set of vectors are independent; determine if a set of vectors form a basis. LO9.3 Find a basis and the dimension of a subspace; analyze the rank in relation with the dimension of the column, row and the null space of a matrix. LO9.4 Compute dot product and length of vectors; check if a set of vectors are orthogonal or orthonormal; write a vector as a linear combination of an orthogonal basis."
+    }
+  ],
+  "assessments": [
+    {
+      "No.": "1",
+      "Category": "Assignments/Exercises",
+      "Type": "on-going",
+      "Part": "3",
+      "Weight": "30.0%",
+      "Completion Criteria": ">0",
+      "Duration": "3 hours",
+      "CLO": "LO1, LO2, LO3, LO4, LO5, LO6, LO7, LO8, LO9",
+      "Question Type": "OP1: Open // OP2: (For Constructivism Approach only): Follow lecturer's proposal",
+      "No Question": "OP1: At least 3/chapter // OP2: (For Constructivism Approach only): Follow lecturer's proposal",
+      "Knowledge and Skill": "Assignment 1 covers Chapters 1, 2, 3, 4 (Vol.1), 1, 3 (Vol.2) - Calculus ; Assignment 2 covers Chapters 1, 2, 3 (Linear algebra) ; Assignment 3 covers Chapters 4, 5 (Linear algebra)",
+      "Grading Guide": "OP1: Each assignment is divided into two parts: the take-home component counts for no more than 50% of the total grade, and the in-class component counts for at least 50% (this may take the form of a presentation, essay, problem-solving, etc.). OP2: (For Constructivism Approach only): Follow lecturer's proposal",
+      "Note": "Students use notebooks for exercises Assignment 1: LO1, LO2, LO3, LO4 Assignment 2: LO5, LO6, LO7 Assignment 3: LO8, LO9"
+    },
+    {
+      "No.": "2",
+      "Category": "Progress Test",
+      "Type": "on-going",
+      "Part": "3",
+      "Weight": "30.0%",
+      "Completion Criteria": ">0",
+      "Duration": "OP1: Test 1: 40'; Test 2&3: 30' // OP2: (For Constructivism Approach only): Follow lecturer's proposal",
+      "CLO": "LO1, LO2, LO3, LO4, LO5, LO6, LO7, LO8, LO9",
+      "Question Type": "OP1: MC or a suitable format // OP2: (For Constructivism Approach only): Follow lecturer's proposal",
+      "No Question": "OP1: Test 1: 20 Test 2&3: 15+ At least 5*n questions where n is the number of Chapters covered in the test.+ Structure:• level 1 (knowledge & comprehension): 20%; • level 2 (application & analysis): 60%; • level 3 (synthesis & evaluation): 20% // OP2: (For Constructivism Approach only): Follow lecturer's proposal",
+      "Knowledge and Skill": "Test 1 covers Chapters 1, 2, 3, 4 (Vol.1), 1, 3 (Vol.2) - Calculus ; Test 2 covers Chapters 1, 2, 3 (Linear algebra) ; Test 3 covers Chapters 4, 5 (Linear algebra)",
+      "Grading Guide": "OP1: by instructor, and by computer OP2: (For Constructivism Approach only): Follow lecturer's proposal",
+      "Note": "Instruction and shedules for Progress tests must be presented in the Course Implementation Plan approved by director of the campus. Progress test must be taken right after the last lectures of required material. Instructor has resposibility to review the test for students after graded."
+    },
+    {
+      "No.": "3",
+      "Category": "Final Exam",
+      "Type": "Final exam",
+      "Part": "1",
+      "Weight": "40.0%",
+      "Completion Criteria": "4",
+      "Duration": "60'",
+      "CLO": "",
+      "Question Type": "Computer gradable",
+      "No Question": "50 Structure: • level 1: 10% • level 2: 80% • level 3: 10%",
+      "Knowledge and Skill": "All studied chapters. Each studied Chapter contributes 2-8 questions, depending on the number of topics in the Chapter.",
+      "Grading Guide": "by Exam Board",
+      "Note": "~10% of questions is a2 objective oriented"
+    }
+  ],
+  "schedule": [
+    {
+      "Session": "1",
+      "Topic": "0 Introduction. 1.1 Review of Functions. 1.2 Basic Classes of Functions",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO1",
+      "ITU": "ITU",
+      "Student Materials": "Textbook Chapter 1 (Calculus Vol. 1)",
+      "S-Download": "",
+      "Student's Tasks": "Exercises Chapter 1 (Calculus Vol. 1)",
+      "URLs": ""
+    },
+    {
+      "Session": "2",
+      "Topic": "2.1 A Preview of Calculus. 2.2 The Limit of a Functions",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO1",
+      "ITU": "TU",
+      "Student Materials": "Textbook Chapter 2 (Calculus Vol. 1)",
+      "S-Download": "",
+      "Student's Tasks": "Exercises Chapter 2 (Calculus Vol. 1)",
+      "URLs": ""
+    },
+    {
+      "Session": "3",
+      "Topic": "2.3 The Limit Laws 2.4 Continuity",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO1",
+      "ITU": "TU",
+      "Student Materials": "Textbook Chapter 2 (Calculus Vol. 1)",
+      "S-Download": "",
+      "Student's Tasks": "Exercises Chapter 2 (Calculus Vol. 1)",
+      "URLs": ""
+    },
+    {
+      "Session": "4",
+      "Topic": "3.1 Defining the Derivative 3.2 The Derivative as a Function",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO2",
+      "ITU": "IT",
+      "Student Materials": "Textbook Chapter 3 (Calculus Vol. 1)",
+      "S-Download": "",
+      "Student's Tasks": "Exercises Chapter 3 (Calculus Vol. 1)",
+      "URLs": ""
+    },
+    {
+      "Session": "5",
+      "Topic": "3.3 Differentiation Rule. 3.4 Derivatives as Rates of Change 3.5 Derivatives of Trigonometric Functions",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO2",
+      "ITU": "TU",
+      "Student Materials": "Textbook Chapter 3 (Calculus Vol. 1)",
+      "S-Download": "",
+      "Student's Tasks": "Exercises Chapter 3 (Calculus Vol. 1)",
+      "URLs": ""
+    },
+    {
+      "Session": "6",
+      "Topic": "3.6 The Chain Rule. 3.8 Implicit Differentiation",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO2",
+      "ITU": "TU",
+      "Student Materials": "Textbook Chapter 3 (Calculus Vol. 1)",
+      "S-Download": "",
+      "Student's Tasks": "Exercises Chapter 3 (Calculus Vol. 1)",
+      "URLs": ""
+    },
+    {
+      "Session": "7",
+      "Topic": "3.9 Derivatives of Exponential and Logarithmic Functions",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO2",
+      "ITU": "TU",
+      "Student Materials": "Textbook Chapter 3 (Calculus Vol. 1)",
+      "S-Download": "",
+      "Student's Tasks": "Exercises Chapter 3 (Calculus Vol. 1)",
+      "URLs": ""
+    },
+    {
+      "Session": "8",
+      "Topic": "4.1 Related Rates",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO3",
+      "ITU": "TU",
+      "Student Materials": "Textbook Chapter 4 (Calculus Vol. 1)",
+      "S-Download": "",
+      "Student's Tasks": "Exercises Chapter 4 (Calculus Vol. 1)",
+      "URLs": ""
+    },
+    {
+      "Session": "9",
+      "Topic": "4.2 Linear Approximations and Differentials",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO3",
+      "ITU": "TU",
+      "Student Materials": "Textbook Chapter 4 (Calculus Vol. 1)",
+      "S-Download": "",
+      "Student's Tasks": "Exercises Chapter 4 (Calculus Vol. 1)",
+      "URLs": ""
+    },
+    {
+      "Session": "10",
+      "Topic": "4.3 Maxima and Minima 4.4 The Mean Value Theorem",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO3",
+      "ITU": "TU",
+      "Student Materials": "Textbook Chapter 4 (Calculus Vol. 1)",
+      "S-Download": "",
+      "Student's Tasks": "Exercises Chapter 4 (Calculus Vol. 1)",
+      "URLs": ""
+    },
+    {
+      "Session": "11",
+      "Topic": "4.5 Derivatives and the Shape of a Graph 4.6 Limits at Infinity and Asymptotes",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO3",
+      "ITU": "TU",
+      "Student Materials": "Textbook Chapter 4 (Calculus Vol. 1)",
+      "S-Download": "",
+      "Student's Tasks": "Exercises Chapter 4 (Calculus Vol. 1)",
+      "URLs": ""
+    },
+    {
+      "Session": "12",
+      "Topic": "4.7 Applied Optimization Problems",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO3",
+      "ITU": "TU",
+      "Student Materials": "Textbook Chapter 4 (Calculus Vol. 1)",
+      "S-Download": "",
+      "Student's Tasks": "Exercises Chapter 4 (Calculus Vol. 1)",
+      "URLs": ""
+    },
+    {
+      "Session": "13",
+      "Topic": "4.9 Newton's Method",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO3",
+      "ITU": "TU",
+      "Student Materials": "Textbook Chapter 4 (Calculus Vol. 1)",
+      "S-Download": "",
+      "Student's Tasks": "Exercises Chapter 4 (Calculus Vol. 1)",
+      "URLs": ""
+    },
+    {
+      "Session": "14",
+      "Topic": "4.10 Antiderivatives",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO3",
+      "ITU": "TU",
+      "Student Materials": "Textbook Chapter 4 (Calculus Vol. 1)",
+      "S-Download": "",
+      "Student's Tasks": "Exercises Chapter 4 (Calculus Vol. 1)",
+      "URLs": ""
+    },
+    {
+      "Session": "15",
+      "Topic": "1.1 Approximating Areas",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO4",
+      "ITU": "IT",
+      "Student Materials": "Textbook Chapter 1 (Calculus Vol. 2)",
+      "S-Download": "",
+      "Student's Tasks": "Exercises Chapter 1 (Calculus Vol. 2)",
+      "URLs": ""
+    },
+    {
+      "Session": "16",
+      "Topic": "1.2 The Definite Integral 1.3 The Fundamental Theorem of Calculus",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO4",
+      "ITU": "IT",
+      "Student Materials": "Textbook Chapter 1 (Calculus Vol. 2)",
+      "S-Download": "",
+      "Student's Tasks": "Exercises Chapter 1 (Calculus Vol. 2)",
+      "URLs": ""
+    },
+    {
+      "Session": "17",
+      "Topic": "1.4 Integration Formulas and the Net Change Theorem",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO4",
+      "ITU": "TU",
+      "Student Materials": "Textbook Chapter 1 (Calculus Vol. 2)",
+      "S-Download": "",
+      "Student's Tasks": "Exercises Chapter 1 (Calculus Vol. 2)",
+      "URLs": ""
+    },
+    {
+      "Session": "18",
+      "Topic": "1.5 Substitution",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO4",
+      "ITU": "TU",
+      "Student Materials": "Textbook Chapter 1 (Calculus Vol. 2)",
+      "S-Download": "",
+      "Student's Tasks": "Exercises Chapter 1 (Calculus Vol. 2)",
+      "URLs": ""
+    },
+    {
+      "Session": "19",
+      "Topic": "3.1 Integration by Parts 3.6 Numerical Integration",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO4",
+      "ITU": "TU",
+      "Student Materials": "Textbook Chapter 3 (Calculus Vol. 2)",
+      "S-Download": "",
+      "Student's Tasks": "Exercises Chapter 3 (Calculus Vol. 2)",
+      "URLs": ""
+    },
+    {
+      "Session": "20",
+      "Topic": "3.7 Improper integrals",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO4",
+      "ITU": "TU",
+      "Student Materials": "Textbook Chapter 3 (Calculus Vol. 2)",
+      "S-Download": "",
+      "Student's Tasks": "Exercises Chapter 3 (Calculus Vol. 2)",
+      "URLs": ""
+    },
+    {
+      "Session": "21",
+      "Topic": "Review",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO1, LO2, LO3, LO4",
+      "ITU": "U",
+      "Student Materials": "",
+      "S-Download": "",
+      "Student's Tasks": "",
+      "URLs": ""
+    },
+    {
+      "Session": "22",
+      "Topic": "Progress Test 1",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO1, LO2, LO3, LO4",
+      "ITU": "U",
+      "Student Materials": "",
+      "S-Download": "",
+      "Student's Tasks": "",
+      "URLs": ""
+    },
+    {
+      "Session": "23",
+      "Topic": "1.1 Solutions of Systems of Linear Equations",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO5",
+      "ITU": "IT",
+      "Student Materials": "Textbook Chapter 1 (Linear Algebra)",
+      "S-Download": "",
+      "Student's Tasks": "Exercises Chapter 1 (Linear Algebra)",
+      "URLs": ""
+    },
+    {
+      "Session": "24",
+      "Topic": "1.1 Elementary Operations",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO5",
+      "ITU": "TU",
+      "Student Materials": "Textbook Chapter 1 (Linear Algebra)",
+      "S-Download": "",
+      "Student's Tasks": "Exercises Chapter 1 (Linear Algebra)",
+      "URLs": ""
+    },
+    {
+      "Session": "25",
+      "Topic": "1.2 Gaussian Elimination",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO5",
+      "ITU": "TU",
+      "Student Materials": "Textbook Chapter 1 (Linear Algebra)",
+      "S-Download": "",
+      "Student's Tasks": "Exercises Chapter 1 (Linear Algebra)",
+      "URLs": ""
+    },
+    {
+      "Session": "26",
+      "Topic": "1.3 Homogeneous Equations",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO5",
+      "ITU": "TU",
+      "Student Materials": "Textbook Chapter 1 (Linear Algebra)",
+      "S-Download": "",
+      "Student's Tasks": "Exercises Chapter 1 (Linear Algebra)",
+      "URLs": ""
+    },
+    {
+      "Session": "27",
+      "Topic": "2.1 Matrix Addition, Scalar Multiplication, and Transposition",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO6",
+      "ITU": "TU",
+      "Student Materials": "Textbook Chapter 2 (Linear Algebra)",
+      "S-Download": "",
+      "Student's Tasks": "Exercises Chapter 2 (Linear Algebra)",
+      "URLs": ""
+    },
+    {
+      "Session": "28",
+      "Topic": "2.2 Matrix-Vector Multiplication",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO6",
+      "ITU": "TU",
+      "Student Materials": "Textbook Chapter 2 (Linear Algebra)",
+      "S-Download": "",
+      "Student's Tasks": "Exercises Chapter 2 (Linear Algebra)",
+      "URLs": ""
+    },
+    {
+      "Session": "29",
+      "Topic": "2.2 Matrix Transformations",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO6",
+      "ITU": "TU",
+      "Student Materials": "Textbook Chapter 2 (Linear Algebra)",
+      "S-Download": "",
+      "Student's Tasks": "Exercises Chapter 2 (Linear Algebra)",
+      "URLs": ""
+    },
+    {
+      "Session": "30",
+      "Topic": "2.3 Matrix multiplication",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO6",
+      "ITU": "TU",
+      "Student Materials": "Textbook Chapter 2 (Linear Algebra)",
+      "S-Download": "",
+      "Student's Tasks": "Exercises Chapter 2 (Linear Algebra)",
+      "URLs": ""
+    },
+    {
+      "Session": "31",
+      "Topic": "2.4 Matrix Inverses",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO6",
+      "ITU": "TU",
+      "Student Materials": "Textbook Chapter 2 (Linear Algebra)",
+      "S-Download": "",
+      "Student's Tasks": "Exercises Chapter 2 (Linear Algebra)",
+      "URLs": ""
+    },
+    {
+      "Session": "32",
+      "Topic": "2.4 Properties of Inverses",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO6",
+      "ITU": "TU",
+      "Student Materials": "Textbook Chapter 2 (Linear Algebra)",
+      "S-Download": "",
+      "Student's Tasks": "Exercises Chapter 2 (Linear Algebra)",
+      "URLs": ""
+    },
+    {
+      "Session": "33",
+      "Topic": "2.6 Linear Transformations",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO6",
+      "ITU": "TU",
+      "Student Materials": "Textbook Chapter 2 (Linear Algebra)",
+      "S-Download": "",
+      "Student's Tasks": "Exercises Chapter 2 (Linear Algebra) Optional Practice: Coursera - FPT University Private Authored Courses: Linear transformation with Python (Guided Project)",
+      "URLs": ""
+    },
+    {
+      "Session": "34",
+      "Topic": "3.1 The Cofactor Expansion",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO7",
+      "ITU": "TU",
+      "Student Materials": "Textbook Chapter 3 (Linear Algebra)",
+      "S-Download": "",
+      "Student's Tasks": "Exercises Chapter 3 (Linear Algebra)",
+      "URLs": ""
+    },
+    {
+      "Session": "35",
+      "Topic": "3.1 Properties of Determinants",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO7",
+      "ITU": "TU",
+      "Student Materials": "Textbook Chapter 3 (Linear Algebra)",
+      "S-Download": "",
+      "Student's Tasks": "Exercises Chapter 3 (Linear Algebra)",
+      "URLs": ""
+    },
+    {
+      "Session": "36",
+      "Topic": "3.2 Determinants and Matrix Inverses",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO7",
+      "ITU": "TU",
+      "Student Materials": "Textbook Chapter 3 (Linear Algebra)",
+      "S-Download": "",
+      "Student's Tasks": "Exercises Chapter 3 (Linear Algebra)",
+      "URLs": ""
+    },
+    {
+      "Session": "37",
+      "Topic": "3.2 Cramer's Rule",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO7",
+      "ITU": "TU",
+      "Student Materials": "Textbook Chapter 3 (Linear Algebra)",
+      "S-Download": "",
+      "Student's Tasks": "Exercises Chapter 3 (Linear Algebra)",
+      "URLs": ""
+    },
+    {
+      "Session": "38",
+      "Topic": "3.3 Eigenvalues and Eigenvectors",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO7",
+      "ITU": "TU",
+      "Student Materials": "Textbook Chapter 3 (Linear Algebra)",
+      "S-Download": "",
+      "Student's Tasks": "Exercises Chapter 3 (Linear Algebra)",
+      "URLs": ""
+    },
+    {
+      "Session": "39",
+      "Topic": "3.3 Diagonalization",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO7",
+      "ITU": "TU",
+      "Student Materials": "Textbook Chapter 3 (Linear Algebra)",
+      "S-Download": "",
+      "Student's Tasks": "Exercises Chapter 3 (Linear Algebra)",
+      "URLs": ""
+    },
+    {
+      "Session": "40",
+      "Topic": "Review",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO5, LO6, LO7",
+      "ITU": "U",
+      "Student Materials": "",
+      "S-Download": "",
+      "Student's Tasks": "",
+      "URLs": ""
+    },
+    {
+      "Session": "41",
+      "Topic": "Progress Test 2",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO5, LO6, LO7",
+      "ITU": "U",
+      "Student Materials": "",
+      "S-Download": "",
+      "Student's Tasks": "",
+      "URLs": ""
+    },
+    {
+      "Session": "42",
+      "Topic": "4.1 Vectors",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO8",
+      "ITU": "TU",
+      "Student Materials": "Textbook Chapter 4 (Linear Algebra)",
+      "S-Download": "",
+      "Student's Tasks": "Textbook Chapter 4 (Linear Algebra)",
+      "URLs": ""
+    },
+    {
+      "Session": "43",
+      "Topic": "4.1 Lines in Space",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO8",
+      "ITU": "TU",
+      "Student Materials": "Textbook Chapter 4 (Linear Algebra)",
+      "S-Download": "",
+      "Student's Tasks": "Textbook Chapter 4 (Linear Algebra)",
+      "URLs": ""
+    },
+    {
+      "Session": "44",
+      "Topic": "4.2 Projections",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO8",
+      "ITU": "TU",
+      "Student Materials": "Textbook Chapter 4 (Linear Algebra)",
+      "S-Download": "",
+      "Student's Tasks": "Textbook Chapter 4 (Linear Algebra)",
+      "URLs": ""
+    },
+    {
+      "Session": "45",
+      "Topic": "4.2 Planes",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO8",
+      "ITU": "TU",
+      "Student Materials": "Textbook Chapter 4 (Linear Algebra)",
+      "S-Download": "",
+      "Student's Tasks": "Textbook Chapter 4 (Linear Algebra)",
+      "URLs": ""
+    },
+    {
+      "Session": "46",
+      "Topic": "4.2 Cross Product",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO8",
+      "ITU": "TU",
+      "Student Materials": "Textbook Chapter 4 (Linear Algebra)",
+      "S-Download": "",
+      "Student's Tasks": "Textbook Chapter 4 (Linear Algebra)",
+      "URLs": ""
+    },
+    {
+      "Session": "47",
+      "Topic": "4.3 More on the Cross Product",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO8",
+      "ITU": "TU",
+      "Student Materials": "Textbook Chapter 4 (Linear Algebra)",
+      "S-Download": "",
+      "Student's Tasks": "Textbook Chapter 4 (Linear Algebra)",
+      "URLs": ""
+    },
+    {
+      "Session": "48",
+      "Topic": "4.4 Linear Operations on R^3",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO8",
+      "ITU": "TU",
+      "Student Materials": "Textbook Chapter 4 (Linear Algebra)",
+      "S-Download": "",
+      "Student's Tasks": "Textbook Chapter 4 (Linear Algebra)",
+      "URLs": ""
+    },
+    {
+      "Session": "49",
+      "Topic": "4.4 Transformations of Areas and Volumes",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO8",
+      "ITU": "TU",
+      "Student Materials": "Textbook Chapter 4 (Linear Algebra)",
+      "S-Download": "",
+      "Student's Tasks": "Textbook Chapter 4 (Linear Algebra)",
+      "URLs": ""
+    },
+    {
+      "Session": "50",
+      "Topic": "4.5 An application in Computer Graphics",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO8",
+      "ITU": "IT",
+      "Student Materials": "Textbook Chapter 4 (Linear Algebra)",
+      "S-Download": "",
+      "Student's Tasks": "Textbook Chapter 4 (Linear Algebra)",
+      "URLs": ""
+    },
+    {
+      "Session": "51",
+      "Topic": "5.1 Subspaces of R^n",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO9",
+      "ITU": "TU",
+      "Student Materials": "Textbook Chapter 5 (Linear Algebra)",
+      "S-Download": "",
+      "Student's Tasks": "Exercises Chapter 5 (Linear Algebra)",
+      "URLs": ""
+    },
+    {
+      "Session": "52",
+      "Topic": "5.1 Spanning Sets",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO9",
+      "ITU": "TU",
+      "Student Materials": "Textbook Chapter 5 (Linear Algebra)",
+      "S-Download": "",
+      "Student's Tasks": "Exercises Chapter 5 (Linear Algebra)",
+      "URLs": ""
+    },
+    {
+      "Session": "53",
+      "Topic": "5.2 Linear Independence",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO9",
+      "ITU": "TU",
+      "Student Materials": "Textbook Chapter 5 (Linear Algebra)",
+      "S-Download": "",
+      "Student's Tasks": "Exercises Chapter 5 (Linear Algebra)",
+      "URLs": ""
+    },
+    {
+      "Session": "54",
+      "Topic": "5.2 Dimension",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO9",
+      "ITU": "TU",
+      "Student Materials": "Textbook Chapter 5 (Linear Algebra)",
+      "S-Download": "",
+      "Student's Tasks": "Exercises Chapter 5 (Linear Algebra)",
+      "URLs": ""
+    },
+    {
+      "Session": "55",
+      "Topic": "5.3 Dot Product, Length, and Distance",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO9",
+      "ITU": "TU",
+      "Student Materials": "Textbook Chapter 5 (Linear Algebra)",
+      "S-Download": "",
+      "Student's Tasks": "Exercises Chapter 5 (Linear Algebra)",
+      "URLs": ""
+    },
+    {
+      "Session": "56",
+      "Topic": "5.3 Orthogonal Sets and the Expansion Theorem",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO9",
+      "ITU": "TU",
+      "Student Materials": "Textbook Chapter 5 (Linear Algebra)",
+      "S-Download": "",
+      "Student's Tasks": "Exercises Chapter 5 (Linear Algebra)",
+      "URLs": ""
+    },
+    {
+      "Session": "57",
+      "Topic": "5.4 Rank of a Matrix",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO9",
+      "ITU": "TU",
+      "Student Materials": "Textbook Chapter 5 (Linear Algebra)",
+      "S-Download": "",
+      "Student's Tasks": "Exercises Chapter 5 (Linear Algebra)",
+      "URLs": ""
+    },
+    {
+      "Session": "58",
+      "Topic": "5.4 Rank, Nullity, and Linear Systems",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO9",
+      "ITU": "TU",
+      "Student Materials": "Textbook Chapter 5 (Linear Algebra)",
+      "S-Download": "",
+      "Student's Tasks": "Exercises Chapter 5 (Linear Algebra)",
+      "URLs": ""
+    },
+    {
+      "Session": "59",
+      "Topic": "Review",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO8, LO9",
+      "ITU": "U",
+      "Student Materials": "",
+      "S-Download": "",
+      "Student's Tasks": "",
+      "URLs": ""
+    },
+    {
+      "Session": "60",
+      "Topic": "Progress Test 3",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO8, LO9",
+      "ITU": "U",
+      "Student Materials": "",
+      "S-Download": "",
+      "Student's Tasks": "",
+      "URLs": ""
+    }
+  ],
+  "constructive_questions": [
+    {
+      "No.": "1",
+      "Session No": "1",
+      "Name": "CQ1_DN",
+      "Details": "Discuss four ways of representing a function. Illustrate your discussion with examples."
+    },
+    {
+      "No.": "2",
+      "Session No": "1",
+      "Name": "CT_CQ1",
+      "Details": "Basis functions and the transformations of functions"
+    },
+    {
+      "No.": "3",
+      "Session No": "1",
+      "Name": "HCM_CQ1",
+      "Details": "What is a function? Let's give an example. Then, find its domain and range."
+    },
+    {
+      "No.": "4",
+      "Session No": "2",
+      "Name": "CQ1_DN",
+      "Details": "Describe several ways in which a limit can fail to exist. Illustrate with sketches."
+    },
+    {
+      "No.": "5",
+      "Session No": "2",
+      "Name": "CT_CQ1",
+      "Details": "Explain the relationship between one-sided and two-sided limits."
+    },
+    {
+      "No.": "6",
+      "Session No": "2",
+      "Name": "HCM_CQ2",
+      "Details": "Suppose that the graph of f is given. Describe how the graph of the function y=f(x+a) + b can be obtained from the graph of f(x). (where a, b>0)"
+    },
+    {
+      "No.": "7",
+      "Session No": "3",
+      "Name": "CQ1_DN",
+      "Details": "What does it mean for f to be continuous at a, continuous on an interval? What can you say about the graph of such a function?"
+    },
+    {
+      "No.": "8",
+      "Session No": "3",
+      "Name": "CT_CQ1",
+      "Details": "Describe three kinds of discontinuities."
+    },
+    {
+      "No.": "9",
+      "Session No": "3",
+      "Name": "HCM_CQ3",
+      "Details": "What does it mean to say that a line is the vertical asymptote of the curve? Draw curves to illustrate the various possibilities."
+    },
+    {
+      "No.": "10",
+      "Session No": "3",
+      "Name": "HCM_CQ4",
+      "Details": "What is the graph of a function? How can you tell whether a given curve is the graph of a function?"
+    },
+    {
+      "No.": "11",
+      "Session No": "4",
+      "Name": "CQ1_DN",
+      "Details": "Define the derivative f'(a) . Discuss two ways of interpreting this number."
+    },
+    {
+      "No.": "12",
+      "Session No": "4",
+      "Name": "CT_CQ1",
+      "Details": "Describe three conditions for when a function does not have a derivative. Explain the meaning of a higher-order derivative."
+    },
+    {
+      "No.": "13",
+      "Session No": "4",
+      "Name": "HCM_CQ5",
+      "Details": "Describe some cases where a function is not differentiable. Illustrate with sketches."
+    },
+    {
+      "No.": "14",
+      "Session No": "5",
+      "Name": "CQ1_DN",
+      "Details": "Give several examples of how the derivative can be interpreted as a rate of change in physics, chemistry, biology, economics, or other sciences."
+    },
+    {
+      "No.": "15",
+      "Session No": "5",
+      "Name": "CT_CQ1",
+      "Details": "Predict the future population from the present value and the population growth rate."
+    },
+    {
+      "No.": "16",
+      "Session No": "5",
+      "Name": "HCM_CQ6",
+      "Details": "If y=f(x) and x varies from a to b, write expressions for the average rate of change of y with respect to x over the interval [a,b]."
+    },
+    {
+      "No.": "17",
+      "Session No": "6",
+      "Name": "CQ1_DN",
+      "Details": "Find the equation of the tangent line to the folium of Descartes with equation 2x^3 + 2y^3 − 9xy = 0 at the point (2, 1)."
+    },
+    {
+      "No.": "18",
+      "Session No": "6",
+      "Name": "CT_CQ1",
+      "Details": "Recognize the chain rule for a composition of three or more functions."
+    },
+    {
+      "No.": "19",
+      "Session No": "6",
+      "Name": "HCM_CQ7",
+      "Details": "What is an implicit function?"
+    },
+    {
+      "No.": "20",
+      "Session No": "6",
+      "Name": "HCM_CQ8",
+      "Details": "Explain with examples how implicit differentiation works."
+    },
+    {
+      "No.": "21",
+      "Session No": "7",
+      "Name": "CT_CQ1",
+      "Details": "Use logarithmic differentiation to determine the derivative of a function."
+    },
+    {
+      "No.": "22",
+      "Session No": "7",
+      "Name": "HCM_CQ9",
+      "Details": "How are derivatives of exponential and logarithmic functions used in real life?"
+    },
+    {
+      "No.": "23",
+      "Session No": "8",
+      "Name": "CQ1_DN",
+      "Details": "How to solve a related rates problem? Illustrate with examples."
+    },
+    {
+      "No.": "24",
+      "Session No": "8",
+      "Name": "CT_CQ1",
+      "Details": "Use the chain rule to find the rate of change of one quantity that depends on the rate of change of other quantities."
+    },
+    {
+      "No.": "25",
+      "Session No": "8",
+      "Name": "HCM_CQ10",
+      "Details": "What is an example of a related rate in reality?"
+    },
+    {
+      "No.": "26",
+      "Session No": "9",
+      "Name": "CQ1_DN",
+      "Details": "How to use differentials to approximate the change in the value of the function that results from a small change in the value of the input?"
+    },
+    {
+      "No.": "27",
+      "Session No": "9",
+      "Name": "CT_CQ1",
+      "Details": "Describe the linear approximation to a function at a point"
+    },
+    {
+      "No.": "28",
+      "Session No": "9",
+      "Name": "HCM_CQ11",
+      "Details": "What is the linearization of an everywhere differential function f?"
+    },
+    {
+      "No.": "29",
+      "Session No": "9",
+      "Name": "HCM_CQ12",
+      "Details": "Suppose that f\"(x) < 0 for x near a point. Is the linearization of f at the point an over-approximation or an under-approximation? Why?"
+    },
+    {
+      "No.": "30",
+      "Session No": "10",
+      "Name": "CQ1_DN1",
+      "Details": "Explain the difference between an absolute maximum and a local maximum. Illustrate with a sketch."
+    },
+    {
+      "No.": "31",
+      "Session No": "10",
+      "Name": "CQ2_DN1",
+      "Details": "State the Mean Value Theorem and give a geometric interpretation."
+    },
+    {
+      "No.": "32",
+      "Session No": "10",
+      "Name": "CT_CQ1",
+      "Details": "Define absolute extrema. Explain how to find the critical points of a function over a closed interval. Provide examples."
+    },
+    {
+      "No.": "33",
+      "Session No": "10",
+      "Name": "HCM_CQ13",
+      "Details": "If f(x) is continuous on a closed interval, then it is enough to look at the points where f'(x) = 0 in order to find its absolute maxima and minima. Be prepared to justify your answer."
+    },
+    {
+      "No.": "34",
+      "Session No": "11",
+      "Name": "CT_CQ1",
+      "Details": "Use concavity and inflection points to explain how the sign of the second derivative affects the shape of a function’s graph."
+    },
+    {
+      "No.": "35",
+      "Session No": "11",
+      "Name": "HCM_CQ14",
+      "Details": "What is the vertical/horizontal asymptote of a curve? Illustrate the possibilities by drawing."
+    },
+    {
+      "No.": "36",
+      "Session No": "11",
+      "Name": "HCM_CQ15",
+      "Details": "How many horizontal asymptotes can a function have in maximum?"
+    },
+    {
+      "No.": "37",
+      "Session No": "12",
+      "Name": "CT_CQ1",
+      "Details": "Set up and solve optimization problems in several applied fields"
+    },
+    {
+      "No.": "38",
+      "Session No": "12",
+      "Name": "HCM_CQ16",
+      "Details": "How do you solve applied optimization problems? Let's give an example."
+    },
+    {
+      "No.": "39",
+      "Session No": "13",
+      "Name": "CQ1_DN",
+      "Details": "(a) Given an initial approximation x_1 to a root of the equation f(x)=0, explain geometrically, with a diagram, how the second approximation x_2 in Newton’s method is obtained. (b) Write an expression for x_2, x_n"
+    },
+    {
+      "No.": "40",
+      "Session No": "13",
+      "Name": "CT_CQ1",
+      "Details": "Describe the steps of Newton’s method. Recognize when Newton’s method does not work. Provide examples."
+    },
+    {
+      "No.": "41",
+      "Session No": "13",
+      "Name": "HCM_CQ17",
+      "Details": "What is Newton's method? Give examples."
+    },
+    {
+      "No.": "42",
+      "Session No": "13",
+      "Name": "HCM_CQ18",
+      "Details": "Does Newton's method always work?"
+    },
+    {
+      "No.": "43",
+      "Session No": "14",
+      "Name": "CQ1_DN",
+      "Details": "A metal storage tank with volume V is to be constructed in the shape of a right circular cylinder surmounted by a hemisphere. What dimensions will require the least amount of metal?"
+    },
+    {
+      "No.": "44",
+      "Session No": "14",
+      "Name": "CT_CQ1",
+      "Details": "Use antidifferentiation to solve simple initial-value problems"
+    },
+    {
+      "No.": "45",
+      "Session No": "14",
+      "Name": "HCM_CQ19",
+      "Details": "What is the antiderivative? Why do we need to find the antiderivative of an integrable function?"
+    },
+    {
+      "No.": "46",
+      "Session No": "15",
+      "Name": "CQ1_DN",
+      "Details": "Use six rectangles to find estimates of each type for the area under the graph of f(x)= e^(x^2) from x=0 to x=1 . (a) L_6(sample points are left endpoints) (b) R_6(sample points are right endpoints)"
+    },
+    {
+      "No.": "47",
+      "Session No": "15",
+      "Name": "CT_CQ1",
+      "Details": "Compute the left and right Riemann sums—L6 and R6. Provide examples."
+    },
+    {
+      "No.": "48",
+      "Session No": "15",
+      "Name": "HCM_CQ20",
+      "Details": "How do you approximate the area under a curve? Let's take an example of the function f(x) = x^2 in the interval [1,2]."
+    },
+    {
+      "No.": "49",
+      "Session No": "16",
+      "Name": "CQ1_DN",
+      "Details": "Write the definition of the definite integral of a continuous function from x=a to x=b ."
+    },
+    {
+      "No.": "50",
+      "Session No": "16",
+      "Name": "CT_CQ1",
+      "Details": "Use Riemann sums to the approximate area."
+    },
+    {
+      "No.": "51",
+      "Session No": "16",
+      "Name": "HCM_CQ21",
+      "Details": "What are definite integrals? Give examples."
+    },
+    {
+      "No.": "52",
+      "Session No": "16",
+      "Name": "HCM_CQ22",
+      "Details": "What is the relationship between integrals and anti-derivatives?"
+    },
+    {
+      "No.": "53",
+      "Session No": "17",
+      "Name": "CQ1_DN",
+      "Details": "Use the Net Change Theorem to evaluate the net change in function . Illustrate with examples."
+    },
+    {
+      "No.": "54",
+      "Session No": "17",
+      "Name": "CT_CQ1",
+      "Details": "Explain the significance of the net change theorem."
+    },
+    {
+      "No.": "55",
+      "Session No": "17",
+      "Name": "HCM_CQ23",
+      "Details": "How can we use definite integrals to determine the net change of a quantity?"
+    },
+    {
+      "No.": "56",
+      "Session No": "18",
+      "Name": "CQ1_DN",
+      "Details": "How do you use the Substitution Rule?"
+    },
+    {
+      "No.": "57",
+      "Session No": "18",
+      "Name": "CT_CQ1",
+      "Details": "When we use the substitution rule and how it is used."
+    },
+    {
+      "No.": "58",
+      "Session No": "18",
+      "Name": "HCM_CQ24",
+      "Details": "What is the substitution method for calculating integrals?"
+    },
+    {
+      "No.": "59",
+      "Session No": "18",
+      "Name": "HCM_CQ25",
+      "Details": "Give an example of computing integrals by using substitution rule."
+    },
+    {
+      "No.": "60",
+      "Session No": "19",
+      "Name": "CQ1_DN",
+      "Details": "Use Midpoint Rule and Trapezoidal Rule to approximate the value of an definite integral."
+    },
+    {
+      "No.": "61",
+      "Session No": "19",
+      "Name": "CQ2_DN1",
+      "Details": "Approximate the value of an definite integral by using the Simpson’s Rule."
+    },
+    {
+      "No.": "62",
+      "Session No": "19",
+      "Name": "CT_CQ1",
+      "Details": "When we use the integrate by parts rule and how it is used."
+    },
+    {
+      "No.": "63",
+      "Session No": "19",
+      "Name": "HCM_CQ26",
+      "Details": "How to prove the integral by parts formula?"
+    },
+    {
+      "No.": "64",
+      "Session No": "20",
+      "Name": "CT_CQ1",
+      "Details": "Evaluate an integral over an infinite interval."
+    },
+    {
+      "No.": "65",
+      "Session No": "20",
+      "Name": "HCM_CQ27",
+      "Details": "What are improper integrals?"
+    },
+    {
+      "No.": "66",
+      "Session No": "20",
+      "Name": "HCM_CQ28",
+      "Details": "What are the real-life applications of improper integrals?"
+    },
+    {
+      "No.": "67",
+      "Session No": "21",
+      "Name": "HCM_CQ29",
+      "Details": "What are the types of improper integrals?"
+    },
+    {
+      "No.": "68",
+      "Session No": "22",
+      "Name": "HCM_CQ30",
+      "Details": "What is numerical integration with an example? Why do we implement numerical integration?"
+    },
+    {
+      "No.": "69",
+      "Session No": "23",
+      "Name": "CQ1_DN",
+      "Details": "How many solutions can a system of linear equations have?"
+    },
+    {
+      "No.": "70",
+      "Session No": "23",
+      "Name": "CT_CQ1",
+      "Details": "Show that a system consisting of exactly one linear equation can have no solution, one solution, or infinitely many solutions. Give examples"
+    },
+    {
+      "No.": "71",
+      "Session No": "23",
+      "Name": "HCM_CQ31",
+      "Details": "Give example of solving a system of linear equations in real life."
+    },
+    {
+      "No.": "72",
+      "Session No": "23",
+      "Name": "HCM_CQ32",
+      "Details": "How many solutions can a system of linear equations have?"
+    },
+    {
+      "No.": "73",
+      "Session No": "24",
+      "Name": "CQ1_DN",
+      "Details": "What are elementary row operations? Illustrate with examples."
+    },
+    {
+      "No.": "74",
+      "Session No": "24",
+      "Name": "CT_CQ1",
+      "Details": "By examining the possible positions of lines in the plane, show that two equations in two variables can have zero, one, or infinitely many solutions."
+    },
+    {
+      "No.": "75",
+      "Session No": "24",
+      "Name": "HCM_CQ33",
+      "Details": "What are elementary operations in linear algebra? Let's give an example."
+    },
+    {
+      "No.": "76",
+      "Session No": "24",
+      "Name": "HCM_CQ34",
+      "Details": "What are reduced row echelon matrices?"
+    },
+    {
+      "No.": "77",
+      "Session No": "25",
+      "Name": "CQ1_DN",
+      "Details": "How do you solve a linear equation using the Gaussian elimination method?"
+    },
+    {
+      "No.": "78",
+      "Session No": "25",
+      "Name": "CT_CQ1",
+      "Details": "Using a series of elementary row operations to carry a matrix to row–echelon form, find the rank of a matrix."
+    },
+    {
+      "No.": "79",
+      "Session No": "25",
+      "Name": "HCM_CQ35",
+      "Details": "How does Gaussian elimination work?"
+    },
+    {
+      "No.": "80",
+      "Session No": "26",
+      "Name": "CT_CQ1",
+      "Details": "Condition for a homogeneous system to have a nontrivial solution"
+    },
+    {
+      "No.": "81",
+      "Session No": "26",
+      "Name": "HCM_CQ36",
+      "Details": "What are homogeneous systems?"
+    },
+    {
+      "No.": "82",
+      "Session No": "27",
+      "Name": "CQ1_DN",
+      "Details": "How to find the result of Matrix Addition, Scalar Multiplication, Transposition."
+    },
+    {
+      "No.": "83",
+      "Session No": "27",
+      "Name": "CT_CQ1",
+      "Details": "Practicing some matrix operations"
+    },
+    {
+      "No.": "84",
+      "Session No": "27",
+      "Name": "HCM_CQ37",
+      "Details": "How do we define addition, scalar multiplication, and transpose operations of matrices?"
+    },
+    {
+      "No.": "85",
+      "Session No": "27",
+      "Name": "HCM_CQ38",
+      "Details": "State at least 2 properties of matrix addition."
+    },
+    {
+      "No.": "86",
+      "Session No": "28",
+      "Name": "CT_CQ1",
+      "Details": "What is the condition to multiply the matrix by the vector?"
+    },
+    {
+      "No.": "87",
+      "Session No": "28",
+      "Name": "HCM_CQ39",
+      "Details": "Can we do the multiplication of any two matrices together?"
+    },
+    {
+      "No.": "88",
+      "Session No": "28",
+      "Name": "HCM_CQ40",
+      "Details": "State at least 2 properties of matrix multiplication."
+    },
+    {
+      "No.": "89",
+      "Session No": "29",
+      "Name": "CQ1_DN",
+      "Details": "How to use matrix -vector multiplication as Matrix Transformation in R^2."
+    },
+    {
+      "No.": "90",
+      "Session No": "29",
+      "Name": "CT_CQ1",
+      "Details": "What is matrix transformation? For example."
+    },
+    {
+      "No.": "91",
+      "Session No": "29",
+      "Name": "HCM_CQ41",
+      "Details": "What is the 'matrix transformation'?"
+    },
+    {
+      "No.": "92",
+      "Session No": "29",
+      "Name": "HCM_CQ42",
+      "Details": "What is the matrix of reflection on the axis Ox in the Oxy-plane?"
+    },
+    {
+      "No.": "93",
+      "Session No": "30",
+      "Name": "CQ1_DN",
+      "Details": "How to multiply two matrices? Illustrate with examples."
+    },
+    {
+      "No.": "94",
+      "Session No": "30",
+      "Name": "CT_CQ1",
+      "Details": "How to multiply two matrices? For example. Is it possible to multiply any two matrices together?"
+    },
+    {
+      "No.": "95",
+      "Session No": "31",
+      "Name": "CT_CQ1",
+      "Details": "Find matrix inverse. Using matrix transformations to reveal the geometrical meaning of matrix multiplication and inverse."
+    },
+    {
+      "No.": "96",
+      "Session No": "31",
+      "Name": "HCM_CQ43",
+      "Details": "When is a square matrix invertible?"
+    },
+    {
+      "No.": "97",
+      "Session No": "31",
+      "Name": "HCM_CQ44",
+      "Details": "Suppose A is an invertible matrix, how to find the inverse of A?"
+    },
+    {
+      "No.": "98",
+      "Session No": "32",
+      "Name": "CT_CQ1",
+      "Details": "State the properties of inverse matrices, providing examples."
+    },
+    {
+      "No.": "99",
+      "Session No": "32",
+      "Name": "HCM_CQ45",
+      "Details": "What are the properties for the inverse existence of a matrix?"
+    },
+    {
+      "No.": "100",
+      "Session No": "33",
+      "Name": "CT_CQ1",
+      "Details": "what are linear transformations? State the properties of linear transformations, with examples."
+    },
+    {
+      "No.": "101",
+      "Session No": "34",
+      "Name": "CT_CQ1",
+      "Details": "How to find The Cofactor Expansion"
+    },
+    {
+      "No.": "102",
+      "Session No": "34",
+      "Name": "HCM_CQ46",
+      "Details": "How to find the (i,j) -cofactor of a matrix?"
+    },
+    {
+      "No.": "103",
+      "Session No": "34",
+      "Name": "HCM_CQ47",
+      "Details": "What are (i,j)-cofactors used for?"
+    },
+    {
+      "No.": "104",
+      "Session No": "35",
+      "Name": "CT_CQ1",
+      "Details": "How to calculate the determinant and its properties."
+    },
+    {
+      "No.": "105",
+      "Session No": "35",
+      "Name": "HCM_CQ48",
+      "Details": "What is the determinant of a square matrix?"
+    },
+    {
+      "No.": "106",
+      "Session No": "36",
+      "Name": "CT_CQ1",
+      "Details": "State the relationship formulas between the determinant of a matrix and the inverse matrix."
+    },
+    {
+      "No.": "107",
+      "Session No": "36",
+      "Name": "HCM_CQ49",
+      "Details": "Can you find determinant of non square matrices?"
+    },
+    {
+      "No.": "108",
+      "Session No": "36",
+      "Name": "HCM_CQ50",
+      "Details": "Give an example of computing the determinant of a matrix by using elementary operations."
+    },
+    {
+      "No.": "109",
+      "Session No": "37",
+      "Name": "CQ1_DN",
+      "Details": "How to solve a linear system using Cramer's rule."
+    },
+    {
+      "No.": "110",
+      "Session No": "37",
+      "Name": "CT_CQ1",
+      "Details": "How can you use Cramer’s Rule to tell if a system of linear equations has one, zero, or infinitely many solutions?"
+    },
+    {
+      "No.": "111",
+      "Session No": "37",
+      "Name": "HCM_CQ51",
+      "Details": "State the Cramer's Rule."
+    },
+    {
+      "No.": "112",
+      "Session No": "38",
+      "Name": "CQ1_DN",
+      "Details": "How to find the characteristic equation, the eigenvalues, and bases for the eigenspaces of the matrix."
+    },
+    {
+      "No.": "113",
+      "Session No": "38",
+      "Name": "CT_CQ1",
+      "Details": "Find the characteristic polynomial, eigenvalues and eigenvectors of matrix A. Provide examples."
+    },
+    {
+      "No.": "114",
+      "Session No": "38",
+      "Name": "HCM_CQ52",
+      "Details": "What is the characteristic polynomial of a matrix?"
+    },
+    {
+      "No.": "115",
+      "Session No": "38",
+      "Name": "HCM_CQ53",
+      "Details": "What do we call the root of the characteristic polynomial of a matrix?"
+    },
+    {
+      "No.": "116",
+      "Session No": "39",
+      "Name": "CT_CQ1",
+      "Details": "When is a matrix diagonalizable, give an example."
+    },
+    {
+      "No.": "117",
+      "Session No": "40",
+      "Name": "HCM_CQ54",
+      "Details": "How to find eigenvalues of a 2x2 matrix? When is it diagonalizable for sure?"
+    },
+    {
+      "No.": "118",
+      "Session No": "40",
+      "Name": "HCM_CQ55",
+      "Details": "When do we guarantee a matrix is diagonalizable?"
+    },
+    {
+      "No.": "119",
+      "Session No": "41",
+      "Name": "HCM_CQ56",
+      "Details": "What are the applications of diagonalization of a matrix?"
+    },
+    {
+      "No.": "120",
+      "Session No": "42",
+      "Name": "CT_CQ1",
+      "Details": "What is the vector space R^n? for example"
+    },
+    {
+      "No.": "121",
+      "Session No": "42",
+      "Name": "HCM_CQ57",
+      "Details": "What is the vector space R^n?"
+    },
+    {
+      "No.": "122",
+      "Session No": "43",
+      "Name": "CT_CQ1",
+      "Details": "Find the equations of the line. For example."
+    },
+    {
+      "No.": "123",
+      "Session No": "43",
+      "Name": "HCM_CQ58",
+      "Details": "How to determine the equation of a line in R^3?"
+    },
+    {
+      "No.": "124",
+      "Session No": "43",
+      "Name": "HCM_CQ59",
+      "Details": "Give the vector version of the equation of a line in R^3."
+    },
+    {
+      "No.": "125",
+      "Session No": "44",
+      "Name": "CT_CQ1",
+      "Details": "Calculate the distance from the point P to the line in each case and find the point Q on the line closest to P. P(3, 2, -1) line: x = 2 +t, y = 1-t, z = 3 - 2t."
+    },
+    {
+      "No.": "126",
+      "Session No": "44",
+      "Name": "HCM_CQ60",
+      "Details": "Let U and V be vectors in R^n and V ≠ 0. What is the projection of U onto V?"
+    },
+    {
+      "No.": "127",
+      "Session No": "45",
+      "Name": "CT_CQ1",
+      "Details": "Find equation planes."
+    },
+    {
+      "No.": "128",
+      "Session No": "45",
+      "Name": "HCM_CQ61",
+      "Details": "How to define a plane in R^3?"
+    },
+    {
+      "No.": "129",
+      "Session No": "45",
+      "Name": "HCM_CQ62",
+      "Details": "Give the vector version of the equation of a plane in R^3."
+    },
+    {
+      "No.": "130",
+      "Session No": "46",
+      "Name": "CT_CQ1",
+      "Details": "Show that if the diagonals of a parallelogram are perpendicular, it is necessarily a rhombus."
+    },
+    {
+      "No.": "131",
+      "Session No": "46",
+      "Name": "HCM_CQ63",
+      "Details": "What is the major difference between cross product and dot product?"
+    },
+    {
+      "No.": "132",
+      "Session No": "47",
+      "Name": "CT_CQ1",
+      "Details": "Find the area of the triangle."
+    },
+    {
+      "No.": "133",
+      "Session No": "47",
+      "Name": "HCM_CQ64",
+      "Details": "Why do we use cross products?"
+    },
+    {
+      "No.": "134",
+      "Session No": "48",
+      "Name": "CT_CQ1",
+      "Details": "Find the matrix of the operator (reflection, projection, rotation) in R^2/ R^3."
+    },
+    {
+      "No.": "135",
+      "Session No": "48",
+      "Name": "HCM_CQ65",
+      "Details": "Give an example of a linear transformation from R^3 to R^2."
+    },
+    {
+      "No.": "136",
+      "Session No": "48",
+      "Name": "HCM_CQ66",
+      "Details": "Give an example of a linear transformation from R^3 to R^2 and indicate the matrix of this transformation."
+    },
+    {
+      "No.": "137",
+      "Session No": "49",
+      "Name": "CT_CQ1",
+      "Details": "Find the matrix of the rotation in R^3 about the x axis through the angle θ (from the positive y axis to the positive z axis)."
+    },
+    {
+      "No.": "138",
+      "Session No": "49",
+      "Name": "HCM_CQ67",
+      "Details": "How is the determinant related to volume?"
+    },
+    {
+      "No.": "139",
+      "Session No": "50",
+      "Name": "CT_CQ1",
+      "Details": "What are the applications of transformation in computer graphics? For example."
+    },
+    {
+      "No.": "140",
+      "Session No": "50",
+      "Name": "HCM_CQ68",
+      "Details": "What are the applications of transformation in computer graphics?"
+    },
+    {
+      "No.": "141",
+      "Session No": "50",
+      "Name": "HCM_CQ69",
+      "Details": "What is the projection matrix of an orthogonal projection along a line?"
+    },
+    {
+      "No.": "142",
+      "Session No": "51",
+      "Name": "CT_CQ1",
+      "Details": "When is U a subspace in R^3. For example."
+    },
+    {
+      "No.": "143",
+      "Session No": "51",
+      "Name": "HCM_CQ70",
+      "Details": "How to determine whether a subset is a subspace of R^n?"
+    },
+    {
+      "No.": "144",
+      "Session No": "51",
+      "Name": "HCM_CQ71",
+      "Details": "Is R^n a subspace of itself?"
+    },
+    {
+      "No.": "145",
+      "Session No": "52",
+      "Name": "CT_CQ1",
+      "Details": "How to find a spanning set of a subspace?"
+    },
+    {
+      "No.": "146",
+      "Session No": "52",
+      "Name": "HCM_CQ72",
+      "Details": "How to find a finite spanning set of a subspace?"
+    },
+    {
+      "No.": "147",
+      "Session No": "53",
+      "Name": "CQ1_DN",
+      "Details": "How do you tell if a vector is linearly independent or dependent?"
+    },
+    {
+      "No.": "148",
+      "Session No": "53",
+      "Name": "CT_CQ1",
+      "Details": "How to find a basis of R^4."
+    },
+    {
+      "No.": "149",
+      "Session No": "53",
+      "Name": "HCM_CQ73",
+      "Details": "What is linear dependence/ linear independence of a set of vectors?"
+    },
+    {
+      "No.": "150",
+      "Session No": "54",
+      "Name": "CQ1_DN",
+      "Details": "How do you find the basis and dimension of a subspace?"
+    },
+    {
+      "No.": "151",
+      "Session No": "54",
+      "Name": "CT_CQ1",
+      "Details": "Calculate the dimension of R^4."
+    },
+    {
+      "No.": "152",
+      "Session No": "54",
+      "Name": "HCM_CQ74",
+      "Details": "What is the dimension of R^n?"
+    },
+    {
+      "No.": "153",
+      "Session No": "54",
+      "Name": "HCM_CQ75",
+      "Details": "How to define the dimension of a subspace of R^n?"
+    },
+    {
+      "No.": "154",
+      "Session No": "55",
+      "Name": "CT_CQ1",
+      "Details": "Find the length of the vector, provide example."
+    },
+    {
+      "No.": "155",
+      "Session No": "55",
+      "Name": "HCM_CQ76",
+      "Details": "How is the distance between two vectors related to dot product?"
+    },
+    {
+      "No.": "156",
+      "Session No": "56",
+      "Name": "CQ1_DN",
+      "Details": "What are orthogonal and orthonormal sets?"
+    },
+    {
+      "No.": "157",
+      "Session No": "56",
+      "Name": "CT_CQ1",
+      "Details": "Find the condition for the sets is orthogonal"
+    },
+    {
+      "No.": "158",
+      "Session No": "56",
+      "Name": "HCM_CQ77",
+      "Details": "What are orthogonal and orthonormal sets?"
+    },
+    {
+      "No.": "159",
+      "Session No": "56",
+      "Name": "HCM_CQ78",
+      "Details": "What is the main benefit of working with orthonormal sets?"
+    },
+    {
+      "No.": "160",
+      "Session No": "57",
+      "Name": "CQ1_DN",
+      "Details": "how to find the rank of a matrix?"
+    },
+    {
+      "No.": "161",
+      "Session No": "57",
+      "Name": "CT_CQ1",
+      "Details": "Show that the rank does not change when an elementary row or column operation is performed on a matrix."
+    },
+    {
+      "No.": "162",
+      "Session No": "57",
+      "Name": "HCM_CQ79",
+      "Details": "How to determine the rank of a matrix in the determinant method?"
+    },
+    {
+      "No.": "163",
+      "Session No": "58",
+      "Name": "CT_CQ1",
+      "Details": "Find the relationship between rank of matrix and nullity"
+    },
+    {
+      "No.": "164",
+      "Session No": "58",
+      "Name": "HCM_CQ80",
+      "Details": "What is the rank and nullity of a linear transformation?"
+    },
+    {
+      "No.": "165",
+      "Session No": "58",
+      "Name": "HCM_CQ81",
+      "Details": "State some relationship between the rank and the nullity of a linear transformation."
+    },
+    {
+      "No.": "166",
+      "Session No": "59",
+      "Name": "HCM_CQ82",
+      "Details": "What are positive definite matrices? Give an example."
+    },
+    {
+      "No.": "167",
+      "Session No": "59",
+      "Name": "HCM_CQ83",
+      "Details": "If A, B are positive definite matrices, is so A + B?"
+    },
+    {
+      "No.": "168",
+      "Session No": "60",
+      "Name": "HCM_CQ84",
+      "Details": "List some applications of calculus and linear algebra in real life."
+    }
+  ],
+  "materials": [
+    {
+      "No.": "1",
+      "Material Description": "Calculus 1",
+      "Author": "",
+      "Publisher": "",
+      "Published Date": "",
+      "Edition": "",
+      "ISBN": "",
+      "Is Main Material": "True",
+      "Is Hard Copy": "False",
+      "Is Online": "True",
+      "Note": "https://openstax.org/details/books/calculus-volume-1"
+    },
+    {
+      "No.": "2",
+      "Material Description": "Calculus 2",
+      "Author": "",
+      "Publisher": "",
+      "Published Date": "",
+      "Edition": "",
+      "ISBN": "",
+      "Is Main Material": "True",
+      "Is Hard Copy": "False",
+      "Is Online": "True",
+      "Note": "https://openstax.org/details/books/calculus-volume-2"
+    },
+    {
+      "No.": "3",
+      "Material Description": "powerpoint in CD + Powerpoint prepared by previous lecturers (PP).",
+      "Author": "",
+      "Publisher": "",
+      "Published Date": "",
+      "Edition": "",
+      "ISBN": "",
+      "Is Main Material": "False",
+      "Is Hard Copy": "False",
+      "Is Online": "False",
+      "Note": ""
+    },
+    {
+      "No.": "4",
+      "Material Description": "Student Video Skillbuilder in CD (Video).",
+      "Author": "",
+      "Publisher": "",
+      "Published Date": "",
+      "Edition": "",
+      "ISBN": "",
+      "Is Main Material": "False",
+      "Is Hard Copy": "False",
+      "Is Online": "False",
+      "Note": ""
+    },
+    {
+      "No.": "5",
+      "Material Description": "Animation in CD (Animation).",
+      "Author": "",
+      "Publisher": "",
+      "Published Date": "",
+      "Edition": "",
+      "ISBN": "",
+      "Is Main Material": "False",
+      "Is Hard Copy": "False",
+      "Is Online": "False",
+      "Note": ""
+    },
+    {
+      "No.": "6",
+      "Material Description": "Computerized tools (for example Maxima http://maxima.sourceforge.net/) (CT)",
+      "Author": "",
+      "Publisher": "",
+      "Published Date": "",
+      "Edition": "",
+      "ISBN": "",
+      "Is Main Material": "False",
+      "Is Hard Copy": "False",
+      "Is Online": "False",
+      "Note": ""
+    },
+    {
+      "No.": "7",
+      "Material Description": "Essential Calculus",
+      "Author": "James Stewart",
+      "Publisher": "Thomson Brooks/Cole",
+      "Published Date": "",
+      "Edition": "",
+      "ISBN": "978-0-495-10860-3",
+      "Is Main Material": "False",
+      "Is Hard Copy": "False",
+      "Is Online": "False",
+      "Note": ""
+    },
+    {
+      "No.": "8",
+      "Material Description": "Calculus for engineers",
+      "Author": "Donald Trim",
+      "Publisher": "Prentice Hall,",
+      "Published Date": "",
+      "Edition": "",
+      "ISBN": "0-13-085603-7",
+      "Is Main Material": "False",
+      "Is Hard Copy": "False",
+      "Is Online": "False",
+      "Note": ""
+    },
+    {
+      "No.": "9",
+      "Material Description": "Calculus",
+      "Author": "Stanley I. Grossman",
+      "Publisher": "",
+      "Published Date": "",
+      "Edition": "",
+      "ISBN": "0-03-096420-2",
+      "Is Main Material": "False",
+      "Is Hard Copy": "False",
+      "Is Online": "False",
+      "Note": ""
+    },
+    {
+      "No.": "10",
+      "Material Description": "Linear Algebra with applications",
+      "Author": "W.Keith Nicholson,",
+      "Publisher": "Mc Graw Hill Education",
+      "Published Date": "",
+      "Edition": "",
+      "ISBN": "987-1-259-07299-4.",
+      "Is Main Material": "False",
+      "Is Hard Copy": "True",
+      "Is Online": "False",
+      "Note": ""
+    },
+    {
+      "No.": "11",
+      "Material Description": "Linear Algebra with Applications",
+      "Author": "W. Keith Nicholson",
+      "Publisher": "Lyryx Online Resources",
+      "Published Date": "2021",
+      "Edition": "2021-A",
+      "ISBN": "",
+      "Is Main Material": "True",
+      "Is Hard Copy": "False",
+      "Is Online": "True",
+      "Note": "https://lyryx.com/linear-algebra-applications/"
+    },
+    {
+      "No.": "12",
+      "Material Description": "Coursera - FPT University Private Authored Courses: Linear transformation with python (Guided Project)",
+      "Author": "",
+      "Publisher": "",
+      "Published Date": "",
+      "Edition": "",
+      "ISBN": "",
+      "Is Main Material": "False",
+      "Is Hard Copy": "False",
+      "Is Online": "True",
+      "Note": "Optional practice"
+    }
+  ],
+  "source_path": "data/raw/syllabi/13137.html",
+  "id": "syllabus:13137"
+}

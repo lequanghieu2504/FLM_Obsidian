@@ -1,0 +1,1267 @@
+{
+  "syllabus_id": 6680,
+  "subject_code": "ETR401",
+  "subject_name": "Entrepreneurship / Khởi sự doanh nghiệp",
+  "syllabus_name": "Entrepreneurship_Khởi sự doanh nghiệp",
+  "credits": 3,
+  "degree_level": "Bachelor in Business Administration",
+  "time_allocation": "Study hour (150h) = 45h (60 sessions) contact hours + 1h final exam + 104h self-study",
+  "prerequisite": "MGT101 or MGT103, MKT101, ACC101",
+  "general_information": {
+    "Syllabus ID": "6680",
+    "Syllabus Name": "Entrepreneurship_Khởi sự doanh nghiệp",
+    "Course Name English": "Entrepreneurship",
+    "Subject Code": "ETR401",
+    "Learning-Teaching Method": "Lecture,Project based learning,Presentation",
+    "NoCredit": "3",
+    "Degree Level": "Bachelor in Business Administration",
+    "Time Allocation": "Study hour (150h) = 45h (60 sessions) contact hours + 1h final exam + 104h self-study",
+    "Pre-Requisite": "MGT101 or MGT103, MKT101, ACC101",
+    "Description": "The course is organized around five parts: 1) Entrepreneurs and ideas: the basis of small business; 2) Small business paths and plans; 3) Marketing in the small business; 4) Cash, Accounting, Finance in the small business; 5) Management and Organization in the small business. Particular emphasis will be placed on internal, external business analyis, business strategies, business plans, marketing plans, asset management, and human resource management. Vigorous class discussions, cases, activities, along with group projects and self quizzes will provide the basis for the learning environment in the classroom.",
+    "StudentTasks": "- Class attendance is strongly encouraged. Attend more than 80% of class hours in order to be accepted to the final examination - Actively participate in class activities - Fulfill tasks given by instructor after class - Use their own laptop in class only for learning purpose - Read the textbook in advance",
+    "Tools": "",
+    "Scoring Scale": "10",
+    "DecisionNo MM/dd/yyyy": "703/QĐ-ĐH-FPT dated 08/17/2022",
+    "IsApproved": "True",
+    "Note": "",
+    "Is Scored": "True",
+    "MinAvgMarkToPass": "5",
+    "IsActive": "True",
+    "ApprovedDate": "8/17/2022"
+  },
+  "active": true,
+  "approved": true,
+  "decision": "703/QĐ-ĐH-FPT dated 08/17/2022",
+  "description": "The course is organized around five parts: 1) Entrepreneurs and ideas: the basis of small business; 2) Small business paths and plans; 3) Marketing in the small business; 4) Cash, Accounting, Finance in the small business; 5) Management and Organization in the small business. Particular emphasis will be placed on internal, external business analyis, business strategies, business plans, marketing plans, asset management, and human resource management. Vigorous class discussions, cases, activities, along with group projects and self quizzes will provide the basis for the learning environment in the classroom.",
+  "learning_outcomes": [
+    {
+      "No.": "1",
+      "CLO Name": "CLO1",
+      "CLO Details": "Analyse the business environment in order to identify business opportunities"
+    },
+    {
+      "No.": "2",
+      "CLO Name": "CLO2",
+      "CLO Details": "Identify the elements of success of entrepreneurial ventures"
+    },
+    {
+      "No.": "3",
+      "CLO Name": "CLO3",
+      "CLO Details": "Consider the legal and financial conditions for starting a business venture,"
+    },
+    {
+      "No.": "4",
+      "CLO Name": "CLO4",
+      "CLO Details": "Evaluate the effectiveness of different entrepreneurial strategies"
+    },
+    {
+      "No.": "5",
+      "CLO Name": "CLO5",
+      "CLO Details": "Specify the basic performance indicators of entrepreneurial activity"
+    },
+    {
+      "No.": "6",
+      "CLO Name": "CLO6",
+      "CLO Details": "Explain the importance of marketing and management in small businesses venture"
+    },
+    {
+      "No.": "7",
+      "CLO Name": "CLO7",
+      "CLO Details": "Interpret their own business plan"
+    }
+  ],
+  "assessments": [
+    {
+      "No.": "1",
+      "Category": "Class participation and preparation",
+      "Type": "on-going",
+      "Part": "1",
+      "Weight": "10.0%",
+      "Completion Criteria": ">0",
+      "Duration": "",
+      "CLO": "LO1, LO2, LO3",
+      "Question Type": "Option 1: Each student shoud make at least 1 individual presentation, case analysis during the course in front of the class. Topics will be varied based on the topics in the textbook. Option 2 (For Constructivism Approach only): Follow lecturer's proposal",
+      "No Question": "",
+      "Knowledge and Skill": "",
+      "Grading Guide": "",
+      "Note": "Option 1: Participation grade will be given based on students' preparation, and quantity as well as quality of participation in classroom; quality of participation is demonstrated through asking relevant questions, making statements that add to and facilitate class discussion, and builds upon others’ comments. Class preparation and pre-reading before lecture will be assessed upon individuals' understanding and ability to answer questions in the class. Individuals will be called up randomly to be assessed. Option 2 (For Constructivism Approach only): Follow lecturer's proposal"
+    },
+    {
+      "No.": "2",
+      "Category": "Essay Test",
+      "Type": "on-going",
+      "Part": "1",
+      "Weight": "15.0%",
+      "Completion Criteria": ">0",
+      "Duration": "40'",
+      "CLO": "LO2, LO3, LO4, LO5",
+      "Question Type": "Option 1: Essay questions /excercises Option 2 (For Constructivism Approach only): Follow lecturer's proposal",
+      "No Question": "Follow lecturer's proposal",
+      "Knowledge and Skill": "Option 1: The questions/ exercises will cover the lectures, class discussions, activities, exercises, and textbook. Option 2 (For Constructivism Approach only): Follow lecturer's proposal",
+      "Grading Guide": "Option 1: Class room Option 2 (For Constructivism Approach only): Follow lecturer's proposal",
+      "Note": ""
+    },
+    {
+      "No.": "3",
+      "Category": "Group assignment",
+      "Type": "on-going",
+      "Part": "1",
+      "Weight": "20.0%",
+      "Completion Criteria": ">0",
+      "Duration": "",
+      "CLO": "LO2, LO3, LO4",
+      "Question Type": "Option 1: A group of four or five students will produce a real business plan for one company. Based on the theories acquired from this course, give out a practical business plan that can be implemented. The input for the assignment must be based on your interview, observation, market research, internal, external analysis, data gathering through primary and secondaty data. Groups and groups ideas are determined on the third session of the course. Work will be break down into stages and examined during the course. Final work to be submitted prior to the presentation of the topic. Option 2 (For Constructivism Approach only): Follow lecturer's proposal",
+      "No Question": "Option 1: Maximum length of the group assignment should be 10 pages maximum excluding appendices OP2: Follow lecturer's proposal Option 2 (For Constructivism Approach only): Follow lecturer's proposal",
+      "Knowledge and Skill": "Option 1: Based on topics of studied units Option 2 (For Constructivism Approach only): Follow lecturer's proposal",
+      "Grading Guide": "Option 1: Group presentation in class room Option 2 (For Constructivism Approach only): Follow lecturer's proposal",
+      "Note": "Option 1: All assignments should be typed and double-spaced with 11-point font, and must be submitted in both soft and hard copy. A deduction of 10% of the assignment mark will be applied for each day of late submission Evaluation will be based on both presentation and written report (reccommded 30%, 70% accordingly)"
+    },
+    {
+      "No.": "4",
+      "Category": "Individual assignment",
+      "Type": "on-going",
+      "Part": "1",
+      "Weight": "15.0%",
+      "Completion Criteria": ">0",
+      "Duration": "",
+      "CLO": "LO1, LO2",
+      "Question Type": "Option 1: You will be given a practical exercise or a case study on a business plan of an organization to demonstrate your analytical ability as well as your insight understanding of the real business issues discussed and studied during the course. The topics will be given out in the first week of the course. You are expected to apply brainstorming, critical thinking skills rather than reviewing the literature or textbook. Assignments with only revision of the case or literature indicates poor analytical understanding and will experience serious reduction of the marks. Option 2 (For Constructivism Approach only): Follow lecturer's proposal",
+      "No Question": "Option 1: Various Option 2 (For Constructivism Approach only): Follow lecturer's proposal",
+      "Knowledge and Skill": "Option 1: Based on the given exercise or case study at the beginning of the course. Option 2 (For Constructivism Approach only): Follow lecturer's proposal",
+      "Grading Guide": "",
+      "Note": "Option 1: All assignments should be typed and double-spaced with 11-point font, and must be submitted in both soft and hard copy. A deduction of 10% of the assignment mark will be applied for each day of late submission; Individual assignments are expected to be submitted in the middle of the course."
+    },
+    {
+      "No.": "5",
+      "Category": "Quizzes",
+      "Type": "on-going",
+      "Part": "2",
+      "Weight": "10.0%",
+      "Completion Criteria": ">0",
+      "Duration": "",
+      "CLO": "LO1, LO2, LO3",
+      "Question Type": "Option 1: Multiple choice, exercises or essay questions Option 2 (For Constructivism Approach only): Follow lecturer's proposal",
+      "No Question": "Option 1: Appx. 15 Option 2 (For Constructivism Approach only): Follow lecturer's proposal",
+      "Knowledge and Skill": "Option 1: Quizzes will test for knowledge of subjects in the chapter assigned for that day. Option 2 (For Constructivism Approach only): Follow lecturer's proposal",
+      "Grading Guide": "Option 1: Class room Option 2 (For Constructivism Approach only): Follow lecturer's proposal",
+      "Note": "Option 1: These quizzes will be given at various times during class (beginning, middle or end). Total number of quizzes: 2"
+    },
+    {
+      "No.": "6",
+      "Category": "Final exam",
+      "Type": "Final exam",
+      "Part": "1",
+      "Weight": "30.0%",
+      "Completion Criteria": "4",
+      "Duration": "60'",
+      "CLO": "LO1, LO2, LO3, LO4, LO5",
+      "Question Type": "Multiple choice . Other types of questions may be included.",
+      "No Question": "50 MCQs",
+      "Knowledge and Skill": "The questions/ exercises will cover the lectures, class discussions, activities, exercises, and textbook.",
+      "Grading Guide": "Exam room",
+      "Note": "Not allow to use any document/information in any form in exam room"
+    }
+  ],
+  "schedule": [
+    {
+      "Session": "1",
+      "Topic": "Chapter 1 - appr 70mins Small Busines: its opportunitites and rewards Small Business Environment",
+      "Learning-Teaching Type": "Offline",
+      "LO": "",
+      "ITU": "",
+      "Student Materials": "",
+      "S-Download": "ETR401",
+      "Student's Tasks": "Main textbook",
+      "URLs": ""
+    },
+    {
+      "Session": "2",
+      "Topic": "Chapter 1 - appr 70mins Small Busines: its opportunitites and rewards Small Business Environment",
+      "Learning-Teaching Type": "Offline",
+      "LO": "",
+      "ITU": "",
+      "Student Materials": "",
+      "S-Download": "",
+      "Student's Tasks": "Main textbook",
+      "URLs": ""
+    },
+    {
+      "Session": "3",
+      "Topic": "Chapter 2 - appr 90mins Small Business Entrepreneurs: Characteristics and competencies",
+      "Learning-Teaching Type": "Offline",
+      "LO": "",
+      "ITU": "",
+      "Student Materials": "",
+      "S-Download": "ETR401",
+      "Student's Tasks": "Main textbook",
+      "URLs": ""
+    },
+    {
+      "Session": "4",
+      "Topic": "Chapter 2 - appr 90mins Small Business Entrepreneurs: Characteristics and competencies",
+      "Learning-Teaching Type": "Offline",
+      "LO": "",
+      "ITU": "",
+      "Student Materials": "",
+      "S-Download": "",
+      "Student's Tasks": "Main textbook",
+      "URLs": ""
+    },
+    {
+      "Session": "5",
+      "Topic": "Chapter 2 - appr 90mins Small Business Entrepreneurs: Characteristics and competencies",
+      "Learning-Teaching Type": "Offline",
+      "LO": "",
+      "ITU": "",
+      "Student Materials": "",
+      "S-Download": "",
+      "Student's Tasks": "Business ideas for group project",
+      "URLs": ""
+    },
+    {
+      "Session": "6",
+      "Topic": "Defining group and group's projects Teams Assigned Teams Select Ideas",
+      "Learning-Teaching Type": "Offline",
+      "LO": "",
+      "ITU": "",
+      "Student Materials": "",
+      "S-Download": "",
+      "Student's Tasks": "Business ideas for group project",
+      "URLs": ""
+    },
+    {
+      "Session": "7",
+      "Topic": "Chapter 3 - appr 90mins Managing external relations",
+      "Learning-Teaching Type": "Offline",
+      "LO": "",
+      "ITU": "",
+      "Student Materials": "",
+      "S-Download": "",
+      "Student's Tasks": "Main textbook",
+      "URLs": ""
+    },
+    {
+      "Session": "8",
+      "Topic": "Chapter 3 - appr 90mins Managing external relations",
+      "Learning-Teaching Type": "Offline",
+      "LO": "",
+      "ITU": "",
+      "Student Materials": "",
+      "S-Download": "",
+      "Student's Tasks": "Main textbook",
+      "URLs": ""
+    },
+    {
+      "Session": "9",
+      "Topic": "Chapter 4: Small Business Ideas: Creativity, opportunity, and feasibility",
+      "Learning-Teaching Type": "Offline",
+      "LO": "",
+      "ITU": "",
+      "Student Materials": "",
+      "S-Download": "",
+      "Student's Tasks": "Main textbook, preparation for quiz 1",
+      "URLs": ""
+    },
+    {
+      "Session": "10",
+      "Topic": "Chapter 4: Small Business Ideas: Creativity, opportunity, and feasibility",
+      "Learning-Teaching Type": "Offline",
+      "LO": "",
+      "ITU": "",
+      "Student Materials": "",
+      "S-Download": "",
+      "Student's Tasks": "Main textbook, preparation for quiz 1",
+      "URLs": ""
+    },
+    {
+      "Session": "11",
+      "Topic": "Chapter 4: Small Business Ideas: Creativity, opportunity, and feasibility",
+      "Learning-Teaching Type": "Offline",
+      "LO": "",
+      "ITU": "",
+      "Student Materials": "",
+      "S-Download": "",
+      "Student's Tasks": "Prepared assigned tasks",
+      "URLs": ""
+    },
+    {
+      "Session": "12",
+      "Topic": "Draft Product Description",
+      "Learning-Teaching Type": "Offline",
+      "LO": "",
+      "ITU": "",
+      "Student Materials": "",
+      "S-Download": "",
+      "Student's Tasks": "Prepared assigned tasks",
+      "URLs": ""
+    },
+    {
+      "Session": "13",
+      "Topic": "Chapter 5 Small business entry: paths to part time entrepreneurship",
+      "Learning-Teaching Type": "Offline",
+      "LO": "",
+      "ITU": "",
+      "Student Materials": "",
+      "S-Download": "",
+      "Student's Tasks": "Main textbook",
+      "URLs": ""
+    },
+    {
+      "Session": "14",
+      "Topic": "Chapter 5 Small business entry: paths to part time entrepreneurship",
+      "Learning-Teaching Type": "Offline",
+      "LO": "",
+      "ITU": "",
+      "Student Materials": "",
+      "S-Download": "",
+      "Student's Tasks": "Main textbook",
+      "URLs": ""
+    },
+    {
+      "Session": "15",
+      "Topic": "Individual assignment topic release",
+      "Learning-Teaching Type": "Offline",
+      "LO": "",
+      "ITU": "",
+      "Student Materials": "",
+      "S-Download": "",
+      "Student's Tasks": "Main textbook",
+      "URLs": ""
+    },
+    {
+      "Session": "16",
+      "Topic": "Chapter 6: Small business entry: paths to full time entrepreneurship",
+      "Learning-Teaching Type": "Offline",
+      "LO": "",
+      "ITU": "",
+      "Student Materials": "",
+      "S-Download": "",
+      "Student's Tasks": "Main textbook",
+      "URLs": ""
+    },
+    {
+      "Session": "17",
+      "Topic": "Chapter 7: Small business strategies: imitation with a twist",
+      "Learning-Teaching Type": "Offline",
+      "LO": "",
+      "ITU": "",
+      "Student Materials": "",
+      "S-Download": "",
+      "Student's Tasks": "Main textbook , preparation for quiz 2",
+      "URLs": ""
+    },
+    {
+      "Session": "18",
+      "Topic": "Chapter 7: Small business strategies: imitation with a twist",
+      "Learning-Teaching Type": "Offline",
+      "LO": "",
+      "ITU": "",
+      "Student Materials": "",
+      "S-Download": "",
+      "Student's Tasks": "Main textbook , preparation for quiz 2",
+      "URLs": ""
+    },
+    {
+      "Session": "19",
+      "Topic": "Draft Industry Analysis & Strategy, Final Marketing Section",
+      "Learning-Teaching Type": "Offline",
+      "LO": "",
+      "ITU": "",
+      "Student Materials": "",
+      "S-Download": "",
+      "Student's Tasks": "Prepared assigned tasks",
+      "URLs": ""
+    },
+    {
+      "Session": "20",
+      "Topic": "Draft Industry Analysis & Strategy, Final Marketing Section",
+      "Learning-Teaching Type": "Offline",
+      "LO": "",
+      "ITU": "",
+      "Student Materials": "",
+      "S-Download": "",
+      "Student's Tasks": "Prepared assigned tasks",
+      "URLs": ""
+    },
+    {
+      "Session": "21",
+      "Topic": "Quiz 1",
+      "Learning-Teaching Type": "Offline",
+      "LO": "",
+      "ITU": "",
+      "Student Materials": "",
+      "S-Download": "",
+      "Student's Tasks": "Main textbook",
+      "URLs": ""
+    },
+    {
+      "Session": "22",
+      "Topic": "Chapter 8: Business plans: seeing audiences and your business clearly",
+      "Learning-Teaching Type": "Offline",
+      "LO": "",
+      "ITU": "",
+      "Student Materials": "",
+      "S-Download": "",
+      "Student's Tasks": "Main textbook",
+      "URLs": ""
+    },
+    {
+      "Session": "23",
+      "Topic": "Chapter 8:(cont) Business plans: seeing audiences and your business clearly",
+      "Learning-Teaching Type": "Offline",
+      "LO": "",
+      "ITU": "",
+      "Student Materials": "",
+      "S-Download": "",
+      "Student's Tasks": "Main textbook",
+      "URLs": ""
+    },
+    {
+      "Session": "24",
+      "Topic": "Chapter 8:(cont) Business plans: seeing audiences and your business clearly",
+      "Learning-Teaching Type": "Offline",
+      "LO": "",
+      "ITU": "",
+      "Student Materials": "",
+      "S-Download": "",
+      "Student's Tasks": "Main textbook",
+      "URLs": ""
+    },
+    {
+      "Session": "25",
+      "Topic": "Chapter 9 Small business marketing: product and pricing strategies",
+      "Learning-Teaching Type": "Offline",
+      "LO": "",
+      "ITU": "",
+      "Student Materials": "",
+      "S-Download": "",
+      "Student's Tasks": "Main textbook, preparation for quiz 3",
+      "URLs": ""
+    },
+    {
+      "Session": "26",
+      "Topic": "Chapter 9 Small business marketing: product and pricing strategies",
+      "Learning-Teaching Type": "Offline",
+      "LO": "",
+      "ITU": "",
+      "Student Materials": "",
+      "S-Download": "",
+      "Student's Tasks": "Main textbook, preparation for quiz 3",
+      "URLs": ""
+    },
+    {
+      "Session": "27",
+      "Topic": "Chapter 9 Small business marketing: product and pricing strategies",
+      "Learning-Teaching Type": "Offline",
+      "LO": "",
+      "ITU": "",
+      "Student Materials": "",
+      "S-Download": "",
+      "Student's Tasks": "Prepared assigned tasks",
+      "URLs": ""
+    },
+    {
+      "Session": "28",
+      "Topic": "Chapter 10: Small business promotion: capturing the eyes of your market",
+      "Learning-Teaching Type": "Offline",
+      "LO": "",
+      "ITU": "",
+      "Student Materials": "",
+      "S-Download": "",
+      "Student's Tasks": "Prepared assigned tasks",
+      "URLs": ""
+    },
+    {
+      "Session": "29",
+      "Topic": "Chapter 10: Small business promotion: capturing the eyes of your market",
+      "Learning-Teaching Type": "Offline",
+      "LO": "",
+      "ITU": "",
+      "Student Materials": "",
+      "S-Download": "",
+      "Student's Tasks": "Main textbook, preparation for quiz 3",
+      "URLs": ""
+    },
+    {
+      "Session": "30",
+      "Topic": "Chapter 10: Small business promotion: capturing the eyes of your market",
+      "Learning-Teaching Type": "Offline",
+      "LO": "",
+      "ITU": "",
+      "Student Materials": "",
+      "S-Download": "",
+      "Student's Tasks": "Main textbook, preparation for quiz 3",
+      "URLs": ""
+    },
+    {
+      "Session": "31",
+      "Topic": "Chapter 11 Small business distribution and location",
+      "Learning-Teaching Type": "Offline",
+      "LO": "",
+      "ITU": "",
+      "Student Materials": "",
+      "S-Download": "",
+      "Student's Tasks": "Main textbook",
+      "URLs": ""
+    },
+    {
+      "Session": "32",
+      "Topic": "Chapter 11 Small business distribution and location",
+      "Learning-Teaching Type": "Offline",
+      "LO": "",
+      "ITU": "",
+      "Student Materials": "",
+      "S-Download": "",
+      "Student's Tasks": "Main textbook",
+      "URLs": ""
+    },
+    {
+      "Session": "33",
+      "Topic": "Chapter 12: Marketing plans: saying how you'll get sales",
+      "Learning-Teaching Type": "Offline",
+      "LO": "",
+      "ITU": "",
+      "Student Materials": "",
+      "S-Download": "",
+      "Student's Tasks": "Main textbook",
+      "URLs": ""
+    },
+    {
+      "Session": "34",
+      "Topic": "Chapter 12: Marketing plans: saying how you'll get sales",
+      "Learning-Teaching Type": "Offline",
+      "LO": "",
+      "ITU": "",
+      "Student Materials": "",
+      "S-Download": "",
+      "Student's Tasks": "Main textbook",
+      "URLs": ""
+    },
+    {
+      "Session": "35",
+      "Topic": "Individual Assignment submission Marketing activities day",
+      "Learning-Teaching Type": "Offline",
+      "LO": "",
+      "ITU": "",
+      "Student Materials": "",
+      "S-Download": "",
+      "Student's Tasks": "Prepared assigned tasks",
+      "URLs": ""
+    },
+    {
+      "Session": "36",
+      "Topic": "Individual Assignment submission Marketing activities day",
+      "Learning-Teaching Type": "Offline",
+      "LO": "",
+      "ITU": "",
+      "Student Materials": "",
+      "S-Download": "",
+      "Student's Tasks": "Prepared assigned tasks",
+      "URLs": ""
+    },
+    {
+      "Session": "37",
+      "Topic": "Chapter 13 Small business accounting: projecting and evaluating performance",
+      "Learning-Teaching Type": "Offline",
+      "LO": "",
+      "ITU": "",
+      "Student Materials": "",
+      "S-Download": "",
+      "Student's Tasks": "Main textbook, preparation for quiz 4",
+      "URLs": ""
+    },
+    {
+      "Session": "38",
+      "Topic": "Chapter 13 Small business accounting: projecting and evaluating performance",
+      "Learning-Teaching Type": "Offline",
+      "LO": "",
+      "ITU": "",
+      "Student Materials": "",
+      "S-Download": "",
+      "Student's Tasks": "Main textbook, preparation for quiz 4",
+      "URLs": ""
+    },
+    {
+      "Session": "39",
+      "Topic": "Chapter 13 (cont) - appr 30mins Small business accounting: projecting and evaluating performance",
+      "Learning-Teaching Type": "Offline",
+      "LO": "",
+      "ITU": "",
+      "Student Materials": "",
+      "S-Download": "",
+      "Student's Tasks": "Main textbook, preparation for quiz 4",
+      "URLs": ""
+    },
+    {
+      "Session": "40",
+      "Topic": "Chapter 14 - appr 70mins Cash: lifeblood of the business",
+      "Learning-Teaching Type": "Offline",
+      "LO": "",
+      "ITU": "",
+      "Student Materials": "",
+      "S-Download": "",
+      "Student's Tasks": "Main textbook, preparation for quiz 4",
+      "URLs": ""
+    },
+    {
+      "Session": "41",
+      "Topic": "Chapter 14 - appr 70mins Cash: lifeblood of the business",
+      "Learning-Teaching Type": "Offline",
+      "LO": "",
+      "ITU": "",
+      "Student Materials": "",
+      "S-Download": "",
+      "Student's Tasks": "Main textbook",
+      "URLs": ""
+    },
+    {
+      "Session": "42",
+      "Topic": "Chapter 14 - appr 70mins Cash: lifeblood of the business",
+      "Learning-Teaching Type": "Offline",
+      "LO": "",
+      "ITU": "",
+      "Student Materials": "",
+      "S-Download": "",
+      "Student's Tasks": "Main textbook",
+      "URLs": ""
+    },
+    {
+      "Session": "43",
+      "Topic": "Chapter 16: Assets: inventory and operations",
+      "Learning-Teaching Type": "Offline",
+      "LO": "",
+      "ITU": "",
+      "Student Materials": "",
+      "S-Download": "",
+      "Student's Tasks": "Main textbook",
+      "URLs": ""
+    },
+    {
+      "Session": "44",
+      "Topic": "Chapter 16: Assets: inventory and operations",
+      "Learning-Teaching Type": "Offline",
+      "LO": "",
+      "ITU": "",
+      "Student Materials": "",
+      "S-Download": "",
+      "Student's Tasks": "Main textbook",
+      "URLs": ""
+    },
+    {
+      "Session": "45",
+      "Topic": "Chapter 16: Assets: inventory and operations",
+      "Learning-Teaching Type": "Offline",
+      "LO": "",
+      "ITU": "",
+      "Student Materials": "",
+      "S-Download": "",
+      "Student's Tasks": "Prepared assigned tasks",
+      "URLs": ""
+    },
+    {
+      "Session": "46",
+      "Topic": "Chapter 19 Human resource management: small business considerations",
+      "Learning-Teaching Type": "Offline",
+      "LO": "",
+      "ITU": "",
+      "Student Materials": "",
+      "S-Download": "",
+      "Student's Tasks": "Prepared assigned tasks",
+      "URLs": ""
+    },
+    {
+      "Session": "47",
+      "Topic": "Chapter 19 Human resource management: small business considerations",
+      "Learning-Teaching Type": "Offline",
+      "LO": "",
+      "ITU": "",
+      "Student Materials": "",
+      "S-Download": "",
+      "Student's Tasks": "Main textbook",
+      "URLs": ""
+    },
+    {
+      "Session": "48",
+      "Topic": "Chapter 19 Human resource management: small business considerations",
+      "Learning-Teaching Type": "Offline",
+      "LO": "",
+      "ITU": "",
+      "Student Materials": "",
+      "S-Download": "",
+      "Student's Tasks": "Main textbook",
+      "URLs": ""
+    },
+    {
+      "Session": "49",
+      "Topic": "Quiz 2",
+      "Learning-Teaching Type": "Offline",
+      "LO": "",
+      "ITU": "",
+      "Student Materials": "",
+      "S-Download": "",
+      "Student's Tasks": "Main textbook",
+      "URLs": ""
+    },
+    {
+      "Session": "50",
+      "Topic": "Group Assignment Submission - Tutor",
+      "Learning-Teaching Type": "Offline",
+      "LO": "",
+      "ITU": "",
+      "Student Materials": "",
+      "S-Download": "",
+      "Student's Tasks": "Main textbook",
+      "URLs": ""
+    },
+    {
+      "Session": "51",
+      "Topic": "Group Assignment Submission - Tutor",
+      "Learning-Teaching Type": "Offline",
+      "LO": "",
+      "ITU": "",
+      "Student Materials": "",
+      "S-Download": "",
+      "Student's Tasks": "",
+      "URLs": ""
+    },
+    {
+      "Session": "52",
+      "Topic": "Essay Test",
+      "Learning-Teaching Type": "Offline",
+      "LO": "",
+      "ITU": "",
+      "Student Materials": "",
+      "S-Download": "",
+      "Student's Tasks": "",
+      "URLs": ""
+    },
+    {
+      "Session": "53",
+      "Topic": "Essay Test",
+      "Learning-Teaching Type": "Offline",
+      "LO": "",
+      "ITU": "",
+      "Student Materials": "",
+      "S-Download": "",
+      "Student's Tasks": "",
+      "URLs": ""
+    },
+    {
+      "Session": "54",
+      "Topic": "Reacap - Presentation Tutor",
+      "Learning-Teaching Type": "Offline",
+      "LO": "",
+      "ITU": "",
+      "Student Materials": "",
+      "S-Download": "",
+      "Student's Tasks": "",
+      "URLs": ""
+    },
+    {
+      "Session": "55",
+      "Topic": "Presentation",
+      "Learning-Teaching Type": "Offline",
+      "LO": "",
+      "ITU": "",
+      "Student Materials": "",
+      "S-Download": "",
+      "Student's Tasks": "",
+      "URLs": ""
+    },
+    {
+      "Session": "56",
+      "Topic": "Presentation",
+      "Learning-Teaching Type": "Offline",
+      "LO": "",
+      "ITU": "",
+      "Student Materials": "",
+      "S-Download": "",
+      "Student's Tasks": "",
+      "URLs": ""
+    },
+    {
+      "Session": "57",
+      "Topic": "Presentation",
+      "Learning-Teaching Type": "Offline",
+      "LO": "",
+      "ITU": "",
+      "Student Materials": "",
+      "S-Download": "",
+      "Student's Tasks": "Main textbook",
+      "URLs": ""
+    },
+    {
+      "Session": "58",
+      "Topic": "Presentation",
+      "Learning-Teaching Type": "Offline",
+      "LO": "",
+      "ITU": "",
+      "Student Materials": "",
+      "S-Download": "",
+      "Student's Tasks": "Main textbook",
+      "URLs": ""
+    },
+    {
+      "Session": "59",
+      "Topic": "Presentation",
+      "Learning-Teaching Type": "Offline",
+      "LO": "",
+      "ITU": "",
+      "Student Materials": "",
+      "S-Download": "",
+      "Student's Tasks": "Main textbook",
+      "URLs": ""
+    },
+    {
+      "Session": "60",
+      "Topic": "Presentation",
+      "Learning-Teaching Type": "Offline",
+      "LO": "",
+      "ITU": "",
+      "Student Materials": "",
+      "S-Download": "",
+      "Student's Tasks": "Main textbook",
+      "URLs": ""
+    }
+  ],
+  "constructive_questions": [
+    {
+      "No.": "1",
+      "Session No": "1",
+      "Name": "CT1",
+      "Details": "Should students start their own business st university and why?"
+    },
+    {
+      "No.": "2",
+      "Session No": "1",
+      "Name": "CT2",
+      "Details": "How small businesses are important to our economy and your community?"
+    },
+    {
+      "No.": "3",
+      "Session No": "1",
+      "Name": "CT3",
+      "Details": "What do you need to start a business and why?"
+    },
+    {
+      "No.": "4",
+      "Session No": "1",
+      "Name": "CT4",
+      "Details": "Why 95% of small businesses fail?"
+    },
+    {
+      "No.": "5",
+      "Session No": "1",
+      "Name": "CT5",
+      "Details": "What are the differences between a startup and a SME?"
+    },
+    {
+      "No.": "6",
+      "Session No": "2",
+      "Name": "CT1",
+      "Details": "What are the different types of entrepreneurial personality?"
+    },
+    {
+      "No.": "7",
+      "Session No": "2",
+      "Name": "CT2",
+      "Details": "What Are Characteristics of Successful Entrepreneurs?"
+    },
+    {
+      "No.": "8",
+      "Session No": "2",
+      "Name": "CT3",
+      "Details": "What are traits of successful entrepreneurs-Do you have what it takes?"
+    },
+    {
+      "No.": "9",
+      "Session No": "3",
+      "Name": "CT1",
+      "Details": "Where do business ideas come from?"
+    },
+    {
+      "No.": "10",
+      "Session No": "3",
+      "Name": "CT2",
+      "Details": "How do I write a business idea?"
+    },
+    {
+      "No.": "11",
+      "Session No": "4",
+      "Name": "CT1",
+      "Details": "How many components are there in a small business environment?"
+    },
+    {
+      "No.": "12",
+      "Session No": "4",
+      "Name": "CT2",
+      "Details": "What Is Organizational Culture?"
+    },
+    {
+      "No.": "13",
+      "Session No": "4",
+      "Name": "CT3",
+      "Details": "What are sustainable entrepreneurship and responsible innovation?"
+    },
+    {
+      "No.": "14",
+      "Session No": "5",
+      "Name": "CT1",
+      "Details": "How to develop Small business ideas?"
+    },
+    {
+      "No.": "15",
+      "Session No": "5",
+      "Name": "CT2",
+      "Details": "How important SCAMPER model for small bussiness ideas and give an example?"
+    },
+    {
+      "No.": "16",
+      "Session No": "5",
+      "Name": "CT3",
+      "Details": "How to Determine the Feasibility of a Business Idea?"
+    },
+    {
+      "No.": "17",
+      "Session No": "7",
+      "Name": "CT1",
+      "Details": "When and why part-time entrepreneurship makes sense?"
+    },
+    {
+      "No.": "18",
+      "Session No": "7",
+      "Name": "CT2",
+      "Details": "What are the main key considerations for success in part-time entrepreneurship"
+    },
+    {
+      "No.": "19",
+      "Session No": "7",
+      "Name": "CT3",
+      "Details": "What are Issues Important to running a home-based business?"
+    },
+    {
+      "No.": "20",
+      "Session No": "8",
+      "Name": "CT1",
+      "Details": "What are the five paths to business ownership?"
+    },
+    {
+      "No.": "21",
+      "Session No": "8",
+      "Name": "CT2",
+      "Details": "How to buy an existing business?"
+    },
+    {
+      "No.": "22",
+      "Session No": "8",
+      "Name": "CT3",
+      "Details": "How do you acquire a business acquisition?"
+    },
+    {
+      "No.": "23",
+      "Session No": "9",
+      "Name": "CT1",
+      "Details": "What is the small business strategy process?"
+    },
+    {
+      "No.": "24",
+      "Session No": "9",
+      "Name": "CT2",
+      "Details": "Why you need a SWOT analysis for your business?"
+    },
+    {
+      "No.": "25",
+      "Session No": "9",
+      "Name": "CT3",
+      "Details": "Why the industry life cycle concept is an important factor in determining a firm's business level strategy?"
+    },
+    {
+      "No.": "26",
+      "Session No": "11",
+      "Name": "CT1",
+      "Details": "Why is it important to have a business plan?"
+    },
+    {
+      "No.": "27",
+      "Session No": "11",
+      "Name": "CT2",
+      "Details": "How to write an Elevator Pitch?"
+    },
+    {
+      "No.": "28",
+      "Session No": "11",
+      "Name": "CT3",
+      "Details": "How to Identify the major risks to business plan success?"
+    },
+    {
+      "No.": "29",
+      "Session No": "12",
+      "Name": "CT1",
+      "Details": "Why is it important to have a business plan?"
+    },
+    {
+      "No.": "30",
+      "Session No": "12",
+      "Name": "CT2",
+      "Details": "How to write an Elevator Pitch?"
+    },
+    {
+      "No.": "31",
+      "Session No": "12",
+      "Name": "CT3",
+      "Details": "How to Identify the major risks to business plan success?"
+    },
+    {
+      "No.": "32",
+      "Session No": "13",
+      "Name": "CT1",
+      "Details": "What is marketing mix and how it is important?"
+    },
+    {
+      "No.": "33",
+      "Session No": "13",
+      "Name": "CT2",
+      "Details": "Why price is important?"
+    },
+    {
+      "No.": "34",
+      "Session No": "13",
+      "Name": "CT3",
+      "Details": "What are the pricing strategies and how to develop?"
+    },
+    {
+      "No.": "35",
+      "Session No": "14",
+      "Name": "CT1",
+      "Details": "What is marketing mix and how it is important?"
+    },
+    {
+      "No.": "36",
+      "Session No": "14",
+      "Name": "CT2",
+      "Details": "Why price is important?"
+    },
+    {
+      "No.": "37",
+      "Session No": "14",
+      "Name": "CT3",
+      "Details": "What are the pricing strategies and how to develop?"
+    },
+    {
+      "No.": "38",
+      "Session No": "15",
+      "Name": "CT1",
+      "Details": "How to determine your value proposition?"
+    },
+    {
+      "No.": "39",
+      "Session No": "15",
+      "Name": "CT2",
+      "Details": "What is and the promotion mix and how to establish?"
+    },
+    {
+      "No.": "40",
+      "Session No": "15",
+      "Name": "CT3",
+      "Details": "What are strategies and steps of customer relationship management (CRM)"
+    },
+    {
+      "No.": "41",
+      "Session No": "16",
+      "Name": "CT1",
+      "Details": "What is the most common channel of distribution and give examples?"
+    },
+    {
+      "No.": "42",
+      "Session No": "16",
+      "Name": "CT2",
+      "Details": "What are the pros and cons of buying, building, or leasing?"
+    },
+    {
+      "No.": "43",
+      "Session No": "16",
+      "Name": "CT3",
+      "Details": "What are the factors to consider in selecting your business location?"
+    },
+    {
+      "No.": "44",
+      "Session No": "17",
+      "Name": "CT1",
+      "Details": "How to market research?"
+    },
+    {
+      "No.": "45",
+      "Session No": "17",
+      "Name": "CT2",
+      "Details": "Why a marketing plan is important?"
+    },
+    {
+      "No.": "46",
+      "Session No": "17",
+      "Name": "CT3",
+      "Details": "What are the critical components of a marketing plan?"
+    },
+    {
+      "No.": "47",
+      "Session No": "18",
+      "Name": "CT1",
+      "Details": "What is market activity?"
+    },
+    {
+      "No.": "48",
+      "Session No": "18",
+      "Name": "CT2",
+      "Details": "What are examples of marketing activities?"
+    },
+    {
+      "No.": "49",
+      "Session No": "19",
+      "Name": "CT1",
+      "Details": "What are the three most important characteristics of a small business computer accounting system? Why do you think these are the most important?"
+    },
+    {
+      "No.": "50",
+      "Session No": "19",
+      "Name": "CT2",
+      "Details": "Which financial report is most important for managing a small business? Why?"
+    },
+    {
+      "No.": "51",
+      "Session No": "19",
+      "Name": "CT3",
+      "Details": "You can sell your product (have revenues) without receiving any money. You can receive money (customer deposits) without having any revenue. Because revenue, expenses, and cash are so different, why should a small business owner care about the income statement?"
+    },
+    {
+      "No.": "52",
+      "Session No": "20",
+      "Name": "CT1",
+      "Details": "What are the three most important characteristics of a small business computer accounting system? Why do you think these are the most important?"
+    },
+    {
+      "No.": "53",
+      "Session No": "20",
+      "Name": "CT2",
+      "Details": "Which financial report is most important for managing a small business? Why?"
+    },
+    {
+      "No.": "54",
+      "Session No": "20",
+      "Name": "CT3",
+      "Details": "You can sell your product (have revenues) without receiving any money. You can receive money (customer deposits) without having any revenue. Because revenue, expenses, and cash are so different, why should a small business owner care about the income statement?"
+    },
+    {
+      "No.": "55",
+      "Session No": "21",
+      "Name": "CT1",
+      "Details": "Why is it important to plan for the amounts and timing of cash inflows and outflows?"
+    },
+    {
+      "No.": "56",
+      "Session No": "21",
+      "Name": "CT2",
+      "Details": "What are the relationships among planning, budgeting, and forecasting?"
+    },
+    {
+      "No.": "57",
+      "Session No": "21",
+      "Name": "CT3",
+      "Details": "Discuss five methods commonly used to increase cash inflows and four methods to decrease cash outflows."
+    },
+    {
+      "No.": "58",
+      "Session No": "22",
+      "Name": "CT1",
+      "Details": "Why is it important to plan for the amounts and timing of cash inflows and outflows?"
+    },
+    {
+      "No.": "59",
+      "Session No": "22",
+      "Name": "CT2",
+      "Details": "What are the relationships among planning, budgeting, and forecasting?"
+    },
+    {
+      "No.": "60",
+      "Session No": "22",
+      "Name": "CT3",
+      "Details": "What are five methods commonly used to increase cash inflows and four methods to decrease cash outflows?"
+    },
+    {
+      "No.": "61",
+      "Session No": "23",
+      "Name": "CT1",
+      "Details": "What is business model canvas and why it is important?"
+    },
+    {
+      "No.": "62",
+      "Session No": "23",
+      "Name": "CT2",
+      "Details": "How do you create a business model canvas?"
+    },
+    {
+      "No.": "63",
+      "Session No": "24",
+      "Name": "CT1",
+      "Details": "Discuss the pros and cons of providing credit to customers. If you do decide to provide credit, what policies should you establish and enforce?"
+    },
+    {
+      "No.": "64",
+      "Session No": "24",
+      "Name": "CT2",
+      "Details": "Discuss how the use of economic order quantity (EOQ) and reorder calculations can benefit a retail business. What are the drawbacks in using these calculations?"
+    },
+    {
+      "No.": "65",
+      "Session No": "24",
+      "Name": "CT3",
+      "Details": "Under what circumstances might you be more profitable by outsourcing production?"
+    },
+    {
+      "No.": "66",
+      "Session No": "25",
+      "Name": "CT1",
+      "Details": "Why human resource management is important to small businesses?"
+    },
+    {
+      "No.": "67",
+      "Session No": "25",
+      "Name": "CT2",
+      "Details": "What are the issues in human resource management that are faced by small businesses explain with examples?"
+    },
+    {
+      "No.": "68",
+      "Session No": "25",
+      "Name": "CT3",
+      "Details": "How to match the right person to the job?"
+    }
+  ],
+  "materials": [
+    {
+      "No.": "1",
+      "Material Description": "Entrepreneurial Small Business",
+      "Author": "Jerome A. Katz, Richard P. Green II",
+      "Publisher": "McGrawHill",
+      "Published Date": "2014",
+      "Edition": "4th",
+      "ISBN": "",
+      "Is Main Material": "True",
+      "Is Hard Copy": "True",
+      "Is Online": "False",
+      "Note": "Chọn một trong 2 quyển"
+    },
+    {
+      "No.": "2",
+      "Material Description": "Entrepreneurial Small Business",
+      "Author": "Jerome A. Katz, Richard P. Green II",
+      "Publisher": "McGrawHill",
+      "Published Date": "2011",
+      "Edition": "3rd",
+      "ISBN": "",
+      "Is Main Material": "True",
+      "Is Hard Copy": "True",
+      "Is Online": "False",
+      "Note": ""
+    }
+  ],
+  "source_path": "data/raw/syllabi/6680.html",
+  "id": "syllabus:6680"
+}

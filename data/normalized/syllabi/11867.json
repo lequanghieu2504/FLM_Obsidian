@@ -1,0 +1,392 @@
+{
+  "syllabus_id": 11867,
+  "subject_code": "PMG202c",
+  "subject_name": "Project management_Quản trị dự án",
+  "syllabus_name": "Project Management_Quản trị dự án",
+  "credits": 3,
+  "degree_level": "Bachelor",
+  "time_allocation": "Study hour (150h) = 125h online + 9h offline + 1h TE + 2h PE + 13 h self-study",
+  "prerequisite": "",
+  "general_information": {
+    "Syllabus ID": "11867",
+    "Syllabus Name": "Project Management_Quản trị dự án",
+    "Course Name English": "Project Management",
+    "Subject Code": "PMG202c",
+    "Learning-Teaching Method": "Blended,Online,Active learning,Inquiry-based Teaching",
+    "NoCredit": "3",
+    "Degree Level": "Bachelor",
+    "Time Allocation": "Study hour (150h) = 125h online + 9h offline + 1h TE + 2h PE + 13 h self-study",
+    "Pre-Requisite": "",
+    "Description": "Project managers play a key role in leading, planning and implementing critical projects to help their organizations succeed. In this course, students’ll discover foundational project management terminology and gain a deeper understanding of the role and responsibilities of a project manager. They’ll gain an immersive understanding of the practices and skills needed to succeed in an entry-level project management role; learn how to create effective project documentation and artifacts throughout the various phases of a project. They will know the foundations of Agile project management, with a focus on implementing Scrum events, building Scrum artifacts, and understanding Scrum roles. Student’s also have a chance to practice strategic communication, problem-solving, and stakeholder management through real-world scenarios.",
+    "StudentTasks": "Student must get the certification of Google Project Management: Professional Certificate to be accepted to the final examination",
+    "Tools": "- Internet",
+    "Scoring Scale": "10",
+    "DecisionNo MM/dd/yyyy": "862/QĐ-ĐHFPT dated 08/16/2024",
+    "IsApproved": "True",
+    "Note": "1. Complete the online course to be allowed to take Final Exam 2. Final Exam is included of Final Theory Exam (TE) & Final Practical Exam (PE): 100% 3. Student gets 1/6 bonus points for each course completed on time. The total bonus point is not greater than 1. 4. Completion Criteria: Final TE Score >=4 & Final PE Score >=4 & FR >= 5 (FR = min(10, (Final TE Score + Final PE Score)/2 + bonus)",
+    "Is Scored": "True",
+    "MinAvgMarkToPass": "5",
+    "IsActive": "True",
+    "ApprovedDate": "8/16/2024"
+  },
+  "active": true,
+  "approved": true,
+  "decision": "862/QĐ-ĐHFPT dated 08/16/2024",
+  "description": "Project managers play a key role in leading, planning and implementing critical projects to help their organizations succeed. In this course, students’ll discover foundational project management terminology and gain a deeper understanding of the role and responsibilities of a project manager. They’ll gain an immersive understanding of the practices and skills needed to succeed in an entry-level project management role; learn how to create effective project documentation and artifacts throughout the various phases of a project. They will know the foundations of Agile project management, with a focus on implementing Scrum events, building Scrum artifacts, and understanding Scrum roles. Student’s also have a chance to practice strategic communication, problem-solving, and stakeholder management through real-world scenarios.",
+  "learning_outcomes": [
+    {
+      "No.": "1",
+      "CLO Name": "CLO1",
+      "CLO Details": "Describe project management skills, roles, and responsibilities across a variety of industries"
+    },
+    {
+      "No.": "2",
+      "CLO Name": "CLO2",
+      "CLO Details": "Explain the project management life cycle and compare different program management methodologies"
+    },
+    {
+      "No.": "3",
+      "CLO Name": "CLO3",
+      "CLO Details": "Describe the significance and key components of the different phases of the project life cycle"
+    },
+    {
+      "No.": "4",
+      "CLO Name": "CLO4",
+      "CLO Details": "Evaluate various project management tools to meet project needs."
+    },
+    {
+      "No.": "5",
+      "CLO Name": "CLO5",
+      "CLO Details": "Describe how to estimate, track, and maintain a budget."
+    },
+    {
+      "No.": "6",
+      "CLO Name": "CLO6",
+      "CLO Details": "Implement the key quality management concepts of quality standards, quality planning, quality assurance, and quality control."
+    },
+    {
+      "No.": "7",
+      "CLO Name": "CLO7",
+      "CLO Details": "Explain the Agile project management approach and philosophy, including values and principles."
+    },
+    {
+      "No.": "8",
+      "CLO Name": "CLO8",
+      "CLO Details": "Demonstrate how to prioritize and analyze data and how to communicate a project’s data-informed story."
+    }
+  ],
+  "assessments": [
+    {
+      "No.": "1",
+      "Category": "PE",
+      "Type": "Final exam",
+      "Part": "1",
+      "Weight": "50.0%",
+      "Completion Criteria": "4",
+      "Duration": "120'",
+      "CLO": "All LOs",
+      "Question Type": "",
+      "No Question": "N/A",
+      "Knowledge and Skill": "All studied courses.",
+      "Grading Guide": "by exam board",
+      "Note": "Customized from the Assignment & Capstone Project of this specialization."
+    },
+    {
+      "No.": "2",
+      "Category": "TE",
+      "Type": "Final exam",
+      "Part": "1",
+      "Weight": "50.0%",
+      "Completion Criteria": "4",
+      "Duration": "60'",
+      "CLO": "All Los",
+      "Question Type": "Multiple choicesMarked by Computer",
+      "No Question": "50",
+      "Knowledge and Skill": "All studied courses. Each module of course contributes 3-5 questions.",
+      "Grading Guide": "by exam board",
+      "Note": "Customized from the quizzes of the specialization."
+    }
+  ],
+  "schedule": [
+    {
+      "Session": "1",
+      "Topic": "Foundations of Project Management - Embarking on a career in project management - Becoming an effective project manager",
+      "Learning-Teaching Type": "Online",
+      "LO": "LO1, LO2",
+      "ITU": "ITU",
+      "Student Materials": "MOOC1",
+      "S-Download": "",
+      "Student's Tasks": "Complete Week 1, 2 of the course Foundations of Project Management",
+      "URLs": ""
+    },
+    {
+      "Session": "2",
+      "Topic": "- The project management life cycle and methodologies - Organizational structure and culture Offline 1: Review studied content of last 2 weeks",
+      "Learning-Teaching Type": "Offline,Online",
+      "LO": "LO1, LO2",
+      "ITU": "TU",
+      "Student Materials": "MOOC1",
+      "S-Download": "",
+      "Student's Tasks": "Complete Week 3, 4 of the course Foundations of Project Management - Deadline of Course 1 Completion: End of Friday of the week. All Students should participate in review slot (if any question)",
+      "URLs": ""
+    },
+    {
+      "Session": "3",
+      "Topic": "Project Initiation: Starting a Successful Project - Fundamentals of project initiation - Defining project goals, scope, and success criteria",
+      "Learning-Teaching Type": "Online",
+      "LO": "LO2, LO4",
+      "ITU": "ITU",
+      "Student Materials": "MOOC2",
+      "S-Download": "",
+      "Student's Tasks": "Complete Week 1, 2 of the course Project Initiation: Starting a Successful Project",
+      "URLs": ""
+    },
+    {
+      "Session": "4",
+      "Topic": "- Working effectively with stakeholders - Utilizing resources and tools for project success Offline 2: Review studied content of last 2 weeks",
+      "Learning-Teaching Type": "Offline,Online",
+      "LO": "LO2, LO4",
+      "ITU": "TU",
+      "Student Materials": "MOOC2",
+      "S-Download": "",
+      "Student's Tasks": "Complete Week 3, 4 of the course Project Initiation: Starting a Successful Project - Deadline of Course 2 Completion: End of Friday of the week. All Students should participate in review slot (if any question)",
+      "URLs": ""
+    },
+    {
+      "Session": "5",
+      "Topic": "Project Planning: Putting It All Together - Beginning the planning phase - Building a project plan",
+      "Learning-Teaching Type": "Online",
+      "LO": "LO2, LO5, LO6",
+      "ITU": "ITU",
+      "Student Materials": "MOOC3",
+      "S-Download": "",
+      "Student's Tasks": "Complete Week 1, 2 of the course Project Planning: Putting It All Together",
+      "URLs": ""
+    },
+    {
+      "Session": "6",
+      "Topic": "- Managing budgeting and procurement - Managing risks effectively Offline 3: Review studied content of last 2 weeks",
+      "Learning-Teaching Type": "Offline,Online",
+      "LO": "LO5, LO6",
+      "ITU": "ITU",
+      "Student Materials": "MOOC3",
+      "S-Download": "",
+      "Student's Tasks": "Complete Week 3, 4 of the course Project Planning: Putting It All Together All Students should participate in review slot (if any question)",
+      "URLs": ""
+    },
+    {
+      "Session": "7",
+      "Topic": "- Organizing communication and documentation",
+      "Learning-Teaching Type": "Online",
+      "LO": "LO8",
+      "ITU": "TU",
+      "Student Materials": "MOOC3",
+      "S-Download": "",
+      "Student's Tasks": "Complete Week 5 of the course Project Planning: Putting It All Together - Deadline of Course 3 Completion: End of Friday of the week.",
+      "URLs": ""
+    },
+    {
+      "Session": "8",
+      "Topic": "Project Execution: Running the Project - Introduction to project execution - Quality management and continuous improvement - Data-informed decision-making Offline 4: Review studied content of last 2 weeks",
+      "Learning-Teaching Type": "Offline,Online",
+      "LO": "LO2, LO6",
+      "ITU": "ITU",
+      "Student Materials": "MOOC4",
+      "S-Download": "",
+      "Student's Tasks": "Complete Week 1, 2, 3 of the course Project Execution: Running the Project All Students should participate in review slot (if any question)",
+      "URLs": ""
+    },
+    {
+      "Session": "9",
+      "Topic": "- Leadership and influencing skills - Effective project communication - Closing a project",
+      "Learning-Teaching Type": "Online",
+      "LO": "LO2, LO6",
+      "ITU": "TU",
+      "Student Materials": "MOOC4",
+      "S-Download": "",
+      "Student's Tasks": "Complete Week 4, 5, 6 of the course Project Execution: Running the Project - Deadline of Course 4 Completion: End of Friday of the week.",
+      "URLs": ""
+    },
+    {
+      "Session": "10",
+      "Topic": "Agile Project Management - The fundamentals of Agile - Scrum 101 Offline 5: Review studied content of last 2 weeks",
+      "Learning-Teaching Type": "Offline,Online",
+      "LO": "LO7",
+      "ITU": "ITU",
+      "Student Materials": "MOOC5",
+      "S-Download": "",
+      "Student's Tasks": "Complete Week 1, 2 of the course Agile Project Management All Students should participate in review slot (if any question)",
+      "URLs": ""
+    },
+    {
+      "Session": "11",
+      "Topic": "- Implementing Scrum - Applying Agile in The organization Capstone: Applying Project Management in The Real World - Initiating a Project - Building out a Project plan",
+      "Learning-Teaching Type": "Online",
+      "LO": "LO2, LO6, LO7, LO8",
+      "ITU": "TU",
+      "Student Materials": "MOOC5",
+      "S-Download": "",
+      "Student's Tasks": "Complete Week 3, 4 of the course Capstone: Applying Project Management in the Real World Complete and Week 1, 2 of the course Capstone: Applying Project Management in the Real World - Deadline of Course 5 Completion: End of Friday of the week.",
+      "URLs": ""
+    },
+    {
+      "Session": "12",
+      "Topic": "- Maintaining quality - Effective stakeholder communication Offline 6: Review studied content of last 2 weeks",
+      "Learning-Teaching Type": "Offline,Online",
+      "LO": "LO2, LO6, LO8",
+      "ITU": "",
+      "Student Materials": "MOOC6",
+      "S-Download": "",
+      "Student's Tasks": "Complete Week 3 & 4 of the course Applying Project Management in the Real World - Deadline of Course 6 Completion: End of Friday of the week. All Students should participate in review slot (if any question)",
+      "URLs": ""
+    }
+  ],
+  "constructive_questions": [],
+  "materials": [
+    {
+      "No.": "1",
+      "Material Description": "https://learner.coursera.help/hc/en-us/articles/208280036-Coursera-Code-of-Conduct",
+      "Author": "",
+      "Publisher": "Coursera",
+      "Published Date": "",
+      "Edition": "",
+      "ISBN": "",
+      "Is Main Material": "False",
+      "Is Hard Copy": "False",
+      "Is Online": "True",
+      "Note": ""
+    },
+    {
+      "No.": "2",
+      "Material Description": "https://www.coursera.org/learn/project-management-foundations",
+      "Author": "",
+      "Publisher": "Coursera",
+      "Published Date": "",
+      "Edition": "",
+      "ISBN": "",
+      "Is Main Material": "True",
+      "Is Hard Copy": "False",
+      "Is Online": "True",
+      "Note": "MOOC 1: Foundations of Project Management"
+    },
+    {
+      "No.": "3",
+      "Material Description": "https://www.coursera.org/learn/project-initiation-google",
+      "Author": "",
+      "Publisher": "Coursera",
+      "Published Date": "",
+      "Edition": "",
+      "ISBN": "",
+      "Is Main Material": "True",
+      "Is Hard Copy": "False",
+      "Is Online": "True",
+      "Note": "MOOC 2: Project Initiation: Starting a Successful Project"
+    },
+    {
+      "No.": "4",
+      "Material Description": "https://www.coursera.org/learn/project-planning-google",
+      "Author": "",
+      "Publisher": "Coursera",
+      "Published Date": "",
+      "Edition": "",
+      "ISBN": "",
+      "Is Main Material": "True",
+      "Is Hard Copy": "False",
+      "Is Online": "True",
+      "Note": "MOOC 3: Project Planning: Putting It All Together"
+    },
+    {
+      "No.": "5",
+      "Material Description": "https://www.coursera.org/learn/project-execution-google",
+      "Author": "",
+      "Publisher": "Coursera",
+      "Published Date": "",
+      "Edition": "",
+      "ISBN": "",
+      "Is Main Material": "True",
+      "Is Hard Copy": "False",
+      "Is Online": "True",
+      "Note": "MOOC 4: Project Execution: Running the Project"
+    },
+    {
+      "No.": "6",
+      "Material Description": "https://www.coursera.org/learn/agile-project-management",
+      "Author": "",
+      "Publisher": "Coursera",
+      "Published Date": "",
+      "Edition": "",
+      "ISBN": "",
+      "Is Main Material": "True",
+      "Is Hard Copy": "False",
+      "Is Online": "True",
+      "Note": "MOOC 5: Agile Project Management"
+    },
+    {
+      "No.": "7",
+      "Material Description": "https://www.coursera.org/learn/applying-project-management",
+      "Author": "",
+      "Publisher": "Coursera",
+      "Published Date": "",
+      "Edition": "",
+      "ISBN": "",
+      "Is Main Material": "True",
+      "Is Hard Copy": "False",
+      "Is Online": "True",
+      "Note": "MOOC 6: Capstone: Applying Project Management in the Real World"
+    },
+    {
+      "No.": "8",
+      "Material Description": "https://www.coursera.org/professional-certificates/google-project-management",
+      "Author": "",
+      "Publisher": "Coursera",
+      "Published Date": "",
+      "Edition": "",
+      "ISBN": "",
+      "Is Main Material": "True",
+      "Is Hard Copy": "False",
+      "Is Online": "True",
+      "Note": "SPEC: Google Project Management: Professional Certificate"
+    },
+    {
+      "No.": "9",
+      "Material Description": "The Project Management Body of Knowledge (PMBOK Guide)",
+      "Author": "",
+      "Publisher": "",
+      "Published Date": "",
+      "Edition": "5th",
+      "ISBN": "",
+      "Is Main Material": "False",
+      "Is Hard Copy": "False",
+      "Is Online": "False",
+      "Note": "PMI"
+    },
+    {
+      "No.": "10",
+      "Material Description": "ITPM: Information Technology Project Management",
+      "Author": "Kathy Schwalbe",
+      "Publisher": "Cengage Learning",
+      "Published Date": "",
+      "Edition": "8th",
+      "ISBN": "",
+      "Is Main Material": "False",
+      "Is Hard Copy": "False",
+      "Is Online": "False",
+      "Note": ""
+    },
+    {
+      "No.": "11",
+      "Material Description": "The Scrum Guide (https://scrum.org)",
+      "Author": "",
+      "Publisher": "",
+      "Published Date": "",
+      "Edition": "",
+      "ISBN": "",
+      "Is Main Material": "False",
+      "Is Hard Copy": "False",
+      "Is Online": "True",
+      "Note": ""
+    }
+  ],
+  "source_path": "data/raw/syllabi/11867.html",
+  "id": "syllabus:11867"
+}

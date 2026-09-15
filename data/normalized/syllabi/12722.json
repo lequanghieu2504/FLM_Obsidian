@@ -1,0 +1,301 @@
+{
+  "syllabus_id": 12722,
+  "subject_code": "LAW201c",
+  "subject_name": "International Business Law_Luật kinh doanh quốc tế",
+  "syllabus_name": "International Business Law_Luật kinh doanh quốc tế",
+  "credits": 3,
+  "degree_level": "Bachelor",
+  "time_allocation": "Study hour (150h) = 42h online + 3h offline + 1h Final exam + 54h self-study",
+  "prerequisite": "IBI101",
+  "general_information": {
+    "Syllabus ID": "12722",
+    "Syllabus Name": "International Business Law_Luật kinh doanh quốc tế",
+    "Course Name English": "International Business Law",
+    "Subject Code": "LAW201c",
+    "Learning-Teaching Method": "Online,Lecture,Project based learning",
+    "NoCredit": "3",
+    "Degree Level": "Bachelor",
+    "Time Allocation": "Study hour (150h) = 42h online + 3h offline + 1h Final exam + 54h self-study",
+    "Pre-Requisite": "IBI101",
+    "Description": "The course provides a comprehensive overview of international business transactions' major legal considerations. The course proceeds through a brief examination of the legal and ethical environment of international business generally, before going on to examine specific doctrines on trade regulation, international contracting, import/export documentation and finance, intellectual property licensing, services, and electronic transactions.",
+    "StudentTasks": "1. Join the online course (spec.) when being invited by the admin. 2. Enroll in every course of spec., regularly study lecture at least 6hrs/week by watching videos, reading materials, taking quizzes, doing assgnments... as required 3. Respect the Coursera Code of Conduct, at https://learner.coursera.help/hc/en-us/articles/208280036-Coursera-Code-of-Conduct 3. Keep online learning progress promptly (bonus will be awarded) 4. Communicate and discuss in forum 5. Attend off-line sessions in the Campus (Optional) 6. Must complete all course of spec. with certification in order to take the Final Exam at Campus",
+    "Tools": "- Internet access",
+    "Scoring Scale": "10",
+    "DecisionNo MM/dd/yyyy": "359/QĐ-ĐHFPT dated 04/09/2025",
+    "IsApproved": "True",
+    "Note": "Ongoing assessment: Students who complete all MOOCs before the course deadline will receive 1 bonus point; otherwise, no bonus point will be awarded.",
+    "Is Scored": "True",
+    "MinAvgMarkToPass": "5",
+    "IsActive": "True",
+    "ApprovedDate": "4/9/2025"
+  },
+  "active": true,
+  "approved": true,
+  "decision": "359/QĐ-ĐHFPT dated 04/09/2025",
+  "description": "The course provides a comprehensive overview of international business transactions' major legal considerations. The course proceeds through a brief examination of the legal and ethical environment of international business generally, before going on to examine specific doctrines on trade regulation, international contracting, import/export documentation and finance, intellectual property licensing, services, and electronic transactions.",
+  "learning_outcomes": [
+    {
+      "No.": "1",
+      "CLO Name": "CLO1",
+      "CLO Details": "Understand relevant laws and regulations governing the internal European Union market"
+    },
+    {
+      "No.": "2",
+      "CLO Name": "CLO2",
+      "CLO Details": "Apply the fundamental principles of EU law within the EU legal framework"
+    },
+    {
+      "No.": "3",
+      "CLO Name": "CLO3",
+      "CLO Details": "Utilise the rules of freedom of movement and direct their impacts on trade in the EU"
+    },
+    {
+      "No.": "4",
+      "CLO Name": "CLO4",
+      "CLO Details": "Evaluate policies and their influence on foreign trade and investment"
+    },
+    {
+      "No.": "5",
+      "CLO Name": "CLO5",
+      "CLO Details": "Understand process of establishing and runing a company within the European Union"
+    },
+    {
+      "No.": "6",
+      "CLO Name": "CLO6",
+      "CLO Details": "Set up agreements and resolve cross-border disputes"
+    },
+    {
+      "No.": "7",
+      "CLO Name": "CLO7",
+      "CLO Details": "Successfully analyse case law"
+    },
+    {
+      "No.": "8",
+      "CLO Name": "CLO8",
+      "CLO Details": "Write an analytical case report"
+    },
+    {
+      "No.": "9",
+      "CLO Name": "CLO9",
+      "CLO Details": "Protect and defend a company’s products, brands, inventions and competitiveness in international business"
+    },
+    {
+      "No.": "10",
+      "CLO Name": "CLO10",
+      "CLO Details": "Construct and present a persuasive legal argument"
+    },
+    {
+      "No.": "11",
+      "CLO Name": "CLO11",
+      "CLO Details": "Develop the spirit and the discipline of self-study"
+    }
+  ],
+  "assessments": [
+    {
+      "No.": "1",
+      "Category": "Final exam",
+      "Type": "Final exam",
+      "Part": "1",
+      "Weight": "100.0%",
+      "Completion Criteria": "4",
+      "Duration": "60'",
+      "CLO": "",
+      "Question Type": "Multiple choicesMarked by Computer",
+      "No Question": "50",
+      "Knowledge and Skill": "3 Courses",
+      "Grading Guide": "by exam board, using computer",
+      "Note": "Final Result (FR) =min (10, TE + Bonus)"
+    }
+  ],
+  "schedule": [
+    {
+      "Session": "1",
+      "Topic": "Course 1: European Business Law: Understanding the Fundamentals Module 1. Introduction Module 2. Legal Method and Sources",
+      "Learning-Teaching Type": "Online",
+      "LO": "LO1, LO11",
+      "ITU": "I",
+      "Student Materials": "Videos, reading, quizzes",
+      "S-Download": "",
+      "Student's Tasks": "Self-learning and develop",
+      "URLs": ""
+    },
+    {
+      "Session": "2",
+      "Topic": "Course 1: European Business Law: Understanding the Fundamentals Module 3. Constitutional Freedoms and Fundamental principles Module 4. Enforcement of EU Law and Judicial Review Review 1",
+      "Learning-Teaching Type": "Online,Offline",
+      "LO": "LO2, LO11",
+      "ITU": "IT",
+      "Student Materials": "Videos, reading, quizzes",
+      "S-Download": "",
+      "Student's Tasks": "Self-learning and develop Participate in review slot (optional)",
+      "URLs": ""
+    },
+    {
+      "Session": "3",
+      "Topic": "Course 1: European Business Law: Understanding the Fundamentals Module 5. Freedom of Movement",
+      "Learning-Teaching Type": "Online",
+      "LO": "LO3, LO11",
+      "ITU": "I",
+      "Student Materials": "Videos, reading, quizzes",
+      "S-Download": "",
+      "Student's Tasks": "Self-learning and develop",
+      "URLs": ""
+    },
+    {
+      "Session": "4",
+      "Topic": "Course 1: European Business Law: Understanding the Fundamentals Module 6. The External Dimension",
+      "Learning-Teaching Type": "Online",
+      "LO": "LO4, LO11",
+      "ITU": "I",
+      "Student Materials": "Videos, reading, quizzes",
+      "S-Download": "",
+      "Student's Tasks": "Self-learning and develop",
+      "URLs": ""
+    },
+    {
+      "Session": "5",
+      "Topic": "Course 2: European Business Law: Doing Business in Europe Module 1. Making Business Transactions",
+      "Learning-Teaching Type": "Online",
+      "LO": "LO5, LO11",
+      "ITU": "TU",
+      "Student Materials": "Videos, reading, quizzes",
+      "S-Download": "",
+      "Student's Tasks": "Self-learning and develop",
+      "URLs": ""
+    },
+    {
+      "Session": "6",
+      "Topic": "Course 2: European Business Law: Doing Business in Europe Module 2. Establishing a Company",
+      "Learning-Teaching Type": "Online",
+      "LO": "LO5, LO11",
+      "ITU": "TU",
+      "Student Materials": "Videos, reading, quizzes",
+      "S-Download": "",
+      "Student's Tasks": "Self-learning and develop",
+      "URLs": ""
+    },
+    {
+      "Session": "7",
+      "Topic": "Course 2: European Business Law: Doing Business in Europe Module 3. Employing and Working in Europe Module 4. Paying Taxes and Complying with Environmental Standards",
+      "Learning-Teaching Type": "Online",
+      "LO": "LO1, LO2, LO11",
+      "ITU": "I",
+      "Student Materials": "Videos, reading, quizzes",
+      "S-Download": "",
+      "Student's Tasks": "Self-learning and develop",
+      "URLs": ""
+    },
+    {
+      "Session": "8",
+      "Topic": "Course 2: European Business Law: Doing Business in Europe Module 5. Resolving Cross-border Disputes",
+      "Learning-Teaching Type": "",
+      "LO": "LO6, LO11",
+      "ITU": "IT",
+      "Student Materials": "Videos, reading, quizzes",
+      "S-Download": "",
+      "Student's Tasks": "Self-learning and develop",
+      "URLs": ""
+    },
+    {
+      "Session": "9",
+      "Topic": "Course 2: European Business Law: Doing Business in Europe Module 6. Case Clinic",
+      "Learning-Teaching Type": "Online",
+      "LO": "LO6, LO7, LO11",
+      "ITU": "U",
+      "Student Materials": "Videos, reading, quizzes",
+      "S-Download": "",
+      "Student's Tasks": "Self-learning and develop",
+      "URLs": ""
+    },
+    {
+      "Session": "10",
+      "Topic": "Course 3: European Business Law: Competing in Europe Module 1. Trademarks as essential Assets Module 2. Defending Patents",
+      "Learning-Teaching Type": "Online",
+      "LO": "LO8, LO9, LO11",
+      "ITU": "TU",
+      "Student Materials": "Videos, reading, quizzes",
+      "S-Download": "",
+      "Student's Tasks": "Self-learning and develop",
+      "URLs": ""
+    },
+    {
+      "Session": "11",
+      "Topic": "Course 3: European Business Law: Competing in Europe Module 3. Competition: Illegal Agreements Module 4. Competition: Abuse of Dominance and Mergers",
+      "Learning-Teaching Type": "Online",
+      "LO": "LO9, LO11",
+      "ITU": "TU",
+      "Student Materials": "Videos, reading, quizzes",
+      "S-Download": "",
+      "Student's Tasks": "Self-learning and develop",
+      "URLs": ""
+    },
+    {
+      "Session": "12",
+      "Topic": "Course 3: European Business Law: Competing in Europe Module 5. Selling to the State and State Aid Course 3: European Business Law: Competing in Europe Module 6. Legal Writing and Argumentation Review",
+      "Learning-Teaching Type": "Online,Offline",
+      "LO": "LO1, LO11",
+      "ITU": "IT",
+      "Student Materials": "Videos, reading, quizzes",
+      "S-Download": "",
+      "Student's Tasks": "Self-learning and develop Deadline of Spec Completion: End of Friday of the week.",
+      "URLs": ""
+    }
+  ],
+  "constructive_questions": [],
+  "materials": [
+    {
+      "No.": "1",
+      "Material Description": "https://www.coursera.org/specializations/european-business-law",
+      "Author": "",
+      "Publisher": "Coursera",
+      "Published Date": "",
+      "Edition": "",
+      "ISBN": "",
+      "Is Main Material": "True",
+      "Is Hard Copy": "False",
+      "Is Online": "True",
+      "Note": "Spec: European Business Law Specialization"
+    },
+    {
+      "No.": "2",
+      "Material Description": "https://www.coursera.org/learn/eu-competition-law",
+      "Author": "",
+      "Publisher": "Coursera",
+      "Published Date": "",
+      "Edition": "",
+      "ISBN": "",
+      "Is Main Material": "True",
+      "Is Hard Copy": "False",
+      "Is Online": "True",
+      "Note": "MOOC 3: European Business Law: Competing in Europe"
+    },
+    {
+      "No.": "3",
+      "Material Description": "https://www.coursera.org/learn/eu-law-doing-business",
+      "Author": "",
+      "Publisher": "Coursera",
+      "Published Date": "",
+      "Edition": "",
+      "ISBN": "",
+      "Is Main Material": "True",
+      "Is Hard Copy": "False",
+      "Is Online": "True",
+      "Note": "MOOC 2: European Business Law: Doing Business in Europe"
+    },
+    {
+      "No.": "4",
+      "Material Description": "https://www.coursera.org/learn/european-law-fundamentals",
+      "Author": "",
+      "Publisher": "Coursera",
+      "Published Date": "",
+      "Edition": "",
+      "ISBN": "",
+      "Is Main Material": "True",
+      "Is Hard Copy": "False",
+      "Is Online": "True",
+      "Note": "MOOC 1: European Business Law: Understanding the Fundamentals"
+    }
+  ],
+  "source_path": "data/raw/syllabi/12722.html",
+  "id": "syllabus:12722"
+}

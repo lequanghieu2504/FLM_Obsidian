@@ -1,0 +1,265 @@
+{
+  "syllabus_id": 14134,
+  "subject_code": "CHN132c",
+  "subject_name": "Elementary Chinese 3_Hán ngữ sơ cấp 3",
+  "syllabus_name": "Hán ngữ sơ cấp 3",
+  "credits": 3,
+  "degree_level": "Bachelor",
+  "time_allocation": "Online: 59 hours",
+  "prerequisite": "",
+  "general_information": {
+    "Syllabus ID": "14134",
+    "Syllabus Name": "Hán ngữ sơ cấp 3",
+    "Course Name English": "Elementary Chinese 3",
+    "Subject Code": "CHN132c",
+    "Learning-Teaching Method": "Offline",
+    "NoCredit": "3",
+    "Degree Level": "Bachelor",
+    "Time Allocation": "Online: 59 hours",
+    "Pre-Requisite": "",
+    "Description": "- After completing this specialization, learners can communicate in Chinese at a basic level in their daily, academic and professional lives. Learners can manage most communication in Chinese when traveling in China",
+    "StudentTasks": "1. Join the online course (spec.) when being invited by the admin. 2. Enroll in each MOOC of spec., regularly study MOOCs at least 5hrs/week by watching videos, reading materials, taking quizzes, doing assgnments... as required 3. Respect the Coursera Code of Conduct, at https://learner.coursera.help/hc/en-us/articles/208280036-Coursera-Code-of-Conduct 3. Keep online learning progress promptly (bonus will be awarded) 4. Communicate and discuss in forum 5. Attend off-line sessions in the Campus (optional) 6. Must complete all required MOOCs with certification in order to take the Final Exam at Campus",
+    "Tools": "Internet access",
+    "Scoring Scale": "10",
+    "DecisionNo MM/dd/yyyy": "377/QĐ-ĐHFPT dated 04/09/2026",
+    "IsApproved": "True",
+    "Note": "",
+    "Is Scored": "True",
+    "MinAvgMarkToPass": "5",
+    "IsActive": "True",
+    "ApprovedDate": "4/9/2026"
+  },
+  "active": true,
+  "approved": true,
+  "decision": "377/QĐ-ĐHFPT dated 04/09/2026",
+  "description": "- After completing this specialization, learners can communicate in Chinese at a basic level in their daily, academic and professional lives. Learners can manage most communication in Chinese when traveling in China",
+  "learning_outcomes": [
+    {
+      "No.": "1",
+      "CLO Name": "CLO1",
+      "CLO Details": "Can express basic personal information such as nationality, name, phone number, family introduction, occupation, time"
+    },
+    {
+      "No.": "2",
+      "CLO Name": "CLO2",
+      "CLO Details": "Can express your preferences, can ask prices when shopping and describe the location of your destination"
+    },
+    {
+      "No.": "3",
+      "CLO Name": "CLO3",
+      "CLO Details": "Can express experiences and thoughts in personal life such as celebrating birthdays and traveling"
+    }
+  ],
+  "assessments": [
+    {
+      "No.": "1",
+      "Category": "Final exam",
+      "Type": "Final exam",
+      "Part": "2",
+      "Weight": "100.0%",
+      "Completion Criteria": "4",
+      "Duration": "60'",
+      "CLO": "CLO1,CLO2, CLO3",
+      "Question Type": "60",
+      "No Question": "",
+      "Knowledge and Skill": "",
+      "Grading Guide": "Follow coursera",
+      "Note": "Students earn 1 bonus point for completing all courses on schedule. Completion Criteria: Final exam >=4 & Final result=Final exam+bonus>=5 Note: If any of the two skills has a score of 0"
+    },
+    {
+      "No.": "2",
+      "Category": "Listening",
+      "Type": "Final exam",
+      "Part": "1",
+      "Weight": "50.0%",
+      "Completion Criteria": ">0",
+      "Duration": "35'",
+      "CLO": "CLO1, CLO2, CLO3",
+      "Question Type": "35",
+      "No Question": "",
+      "Knowledge and Skill": "",
+      "Grading Guide": "Follow coursera",
+      "Note": ""
+    },
+    {
+      "No.": "3",
+      "Category": "Reading",
+      "Type": "Final exam",
+      "Part": "1",
+      "Weight": "50.0%",
+      "Completion Criteria": ">0",
+      "Duration": "25'",
+      "CLO": "CLO1, CLO2, CLO3",
+      "Question Type": "25",
+      "No Question": "",
+      "Knowledge and Skill": "",
+      "Grading Guide": "Follow coursera",
+      "Note": ""
+    }
+  ],
+  "schedule": [
+    {
+      "Session": "1",
+      "Topic": "Chinese for HSK 1 Greeting and number",
+      "Learning-Teaching Type": "Online",
+      "LO": "CLO1, CLO2",
+      "ITU": "I,T,U",
+      "Student Materials": "",
+      "S-Download": "link1-1",
+      "Student's Tasks": "- Watch all videos, and read all materials in the module - Finish: Practice Exercises and Quiz",
+      "URLs": ""
+    },
+    {
+      "Session": "2",
+      "Topic": "Family and school/University",
+      "Learning-Teaching Type": "Online",
+      "LO": "CLO1, CLO2",
+      "ITU": "I,T,U",
+      "Student Materials": "",
+      "S-Download": "link2-1",
+      "Student's Tasks": "- Watch all videos, and read all materials in the module - Finish: Practice Exercises and Quiz",
+      "URLs": ""
+    },
+    {
+      "Session": "3",
+      "Topic": "Time and weather",
+      "Learning-Teaching Type": "Online",
+      "LO": "CLO1, CLO2",
+      "ITU": "I,T,U",
+      "Student Materials": "",
+      "S-Download": "link3-1",
+      "Student's Tasks": "- Watch all videos, and read all materials in the module - Finish: Practice Exercises and Quiz",
+      "URLs": ""
+    },
+    {
+      "Session": "4",
+      "Topic": "Word in hobbiies",
+      "Learning-Teaching Type": "Online",
+      "LO": "CLO1, CLO2",
+      "ITU": "I,T,U",
+      "Student Materials": "",
+      "S-Download": "link4-1",
+      "Student's Tasks": "- Watch all videos, and read all materials in the module - Finish: Practice Exercises and Quiz",
+      "URLs": ""
+    },
+    {
+      "Session": "5",
+      "Topic": "Shoping and Food",
+      "Learning-Teaching Type": "Online",
+      "LO": "CLO1, CLO2",
+      "ITU": "I,T,U",
+      "Student Materials": "",
+      "S-Download": "link5-1",
+      "Student's Tasks": "- Watch all videos, and read all materials in the module - Finish: Practice Exercises and Quiz",
+      "URLs": ""
+    },
+    {
+      "Session": "6",
+      "Topic": "- Traffic and directions '- Test",
+      "Learning-Teaching Type": "Online",
+      "LO": "CLO1, CLO2",
+      "ITU": "ITU",
+      "Student Materials": "",
+      "S-Download": "link6-1",
+      "Student's Tasks": "- Watch all videos, and read all materials in the module - Finish: Practice Exercises and Quiz",
+      "URLs": ""
+    },
+    {
+      "Session": "7",
+      "Topic": "Chinese for HSK 2 talk about your daily life 1",
+      "Learning-Teaching Type": "Online",
+      "LO": "CLO1, CLO2",
+      "ITU": "I,T,U",
+      "Student Materials": "",
+      "S-Download": "link7-1",
+      "Student's Tasks": "- Watch all videos, and read all materials in the module - Finish: Quiz",
+      "URLs": ""
+    },
+    {
+      "Session": "8",
+      "Topic": "talk about your daily life 2",
+      "Learning-Teaching Type": "Online",
+      "LO": "CLO3",
+      "ITU": "I,T,U",
+      "Student Materials": "",
+      "S-Download": "link8-1",
+      "Student's Tasks": "- Watch all videos, and read all materials in the module - Finish: Quiz",
+      "URLs": ""
+    },
+    {
+      "Session": "9",
+      "Topic": "Help and ask for help",
+      "Learning-Teaching Type": "Online",
+      "LO": "CLO3",
+      "ITU": "I,T,U",
+      "Student Materials": "",
+      "S-Download": "link9-1",
+      "Student's Tasks": "- Watch all videos, and read all materials in the module - Finish: Quiz",
+      "URLs": ""
+    },
+    {
+      "Session": "10",
+      "Topic": "Invitatiton and Reply",
+      "Learning-Teaching Type": "Online",
+      "LO": "CLO3",
+      "ITU": "I,T,U",
+      "Student Materials": "",
+      "S-Download": "link10-1",
+      "Student's Tasks": "- Watch all videos, and read all materials in the module - Finish: Quiz",
+      "URLs": ""
+    },
+    {
+      "Session": "11",
+      "Topic": "Ask for opinion, comments and suggestion",
+      "Learning-Teaching Type": "Online",
+      "LO": "CLO3",
+      "ITU": "I,T,U",
+      "Student Materials": "",
+      "S-Download": "link11-1",
+      "Student's Tasks": "- Watch all videos, and read all materials in the module - Finish: Quiz",
+      "URLs": ""
+    },
+    {
+      "Session": "12",
+      "Topic": "Discussion personal experience and feelings - Test Deadline of Coursera completion: End of Friday of the week.",
+      "Learning-Teaching Type": "Online",
+      "LO": "CLO3",
+      "ITU": "ITU",
+      "Student Materials": "",
+      "S-Download": "",
+      "Student's Tasks": "- Watch all videos, and read all materials in the module - Finish: Quiz",
+      "URLs": ""
+    }
+  ],
+  "constructive_questions": [],
+  "materials": [
+    {
+      "No.": "1",
+      "Material Description": "https://www.coursera.org/learn/hsk-1",
+      "Author": "",
+      "Publisher": "",
+      "Published Date": "",
+      "Edition": "",
+      "ISBN": "",
+      "Is Main Material": "False",
+      "Is Hard Copy": "False",
+      "Is Online": "False",
+      "Note": ""
+    },
+    {
+      "No.": "2",
+      "Material Description": "https://www.coursera.org/learn/hsk-2",
+      "Author": "",
+      "Publisher": "",
+      "Published Date": "",
+      "Edition": "",
+      "ISBN": "",
+      "Is Main Material": "False",
+      "Is Hard Copy": "False",
+      "Is Online": "False",
+      "Note": ""
+    }
+  ],
+  "source_path": "data/batch_validation/raw/syllabi/14134.html",
+  "id": "syllabus:14134"
+}

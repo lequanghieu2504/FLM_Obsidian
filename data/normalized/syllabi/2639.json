@@ -1,0 +1,485 @@
+{
+  "syllabus_id": 2639,
+  "subject_code": "MAO302",
+  "subject_name": "Linear optimization_Tối ưu tuyến tính",
+  "syllabus_name": "Linear optimization_Tối ưu tuyến tính",
+  "credits": 3,
+  "degree_level": "Bachelor",
+  "time_allocation": "Contact sessions (90' each): - Lectures: 15 - Tutorials: 15",
+  "prerequisite": "MAA101, MAC101",
+  "general_information": {
+    "Syllabus ID": "2639",
+    "Syllabus Name": "Linear optimization_Tối ưu tuyến tính",
+    "Course Name English": "",
+    "Subject Code": "MAO302",
+    "Learning-Teaching Method": "",
+    "NoCredit": "3",
+    "Degree Level": "Bachelor",
+    "Time Allocation": "Contact sessions (90' each): - Lectures: 15 - Tutorials: 15",
+    "Pre-Requisite": "MAA101, MAC101",
+    "Description": "This course aims to provide three methods for linear programming and apply them to solve the practical problems. After completing this course, students should know how to model some types of practical problems as a linear program and apply the provided methods for addressing them. Topics covered in this course are primal and dual simplex methods, interior point method for linear programs with continuous variables and Branch-and-Bound method for the linear programs with integer variables. Applications of these methods for dealing with various types of practical problems are also included. Teaching and learning method: Lecture, Project based learning, Problem based learning, flipped classroom,....",
+    "StudentTasks": "Students must attend at least 80% of contact hours in order to be accepted to the final examination.",
+    "Tools": "CVX, Matlab",
+    "Scoring Scale": "10",
+    "DecisionNo MM/dd/yyyy": "1293/QĐ-ĐHFPT dated 12/02/2020",
+    "IsApproved": "True",
+    "Note": "",
+    "Is Scored": "True",
+    "MinAvgMarkToPass": "5",
+    "IsActive": "True",
+    "ApprovedDate": "12/2/2020"
+  },
+  "active": true,
+  "approved": true,
+  "decision": "1293/QĐ-ĐHFPT dated 12/02/2020",
+  "description": "This course aims to provide three methods for linear programming and apply them to solve the practical problems. After completing this course, students should know how to model some types of practical problems as a linear program and apply the provided methods for addressing them. Topics covered in this course are primal and dual simplex methods, interior point method for linear programs with continuous variables and Branch-and-Bound method for the linear programs with integer variables. Applications of these methods for dealing with various types of practical problems are also included. Teaching and learning method: Lecture, Project based learning, Problem based learning, flipped classroom,....",
+  "learning_outcomes": [
+    {
+      "No.": "1",
+      "CLO Name": "CLO1",
+      "CLO Details": "Enable to model some types of practical problems as a linear optimization problem"
+    },
+    {
+      "No.": "2",
+      "CLO Name": "CLO2",
+      "CLO Details": "Use the primal and dual methods to solve linear optimization problems"
+    },
+    {
+      "No.": "3",
+      "CLO Name": "CLO3",
+      "CLO Details": "Apply the primal and dual simplex methods to solve the network-type problems"
+    },
+    {
+      "No.": "4",
+      "CLO Name": "CLO4",
+      "CLO Details": "Use the interior methods to solve linear optimization problems"
+    },
+    {
+      "No.": "5",
+      "CLO Name": "CLO5",
+      "CLO Details": "Use the Brand-and-Bound to solve the linear problems with integer variables"
+    },
+    {
+      "No.": "6",
+      "CLO Name": "CLO6",
+      "CLO Details": "Apply Brand-and-Bound to solve the schedualing/assignment/fixed cost problems"
+    },
+    {
+      "No.": "7",
+      "CLO Name": "CLO7",
+      "CLO Details": "Use optimization tools to solve linear optimization problems"
+    }
+  ],
+  "assessments": [
+    {
+      "No.": "1",
+      "Category": "Assignments",
+      "Type": "on-going",
+      "Part": "2",
+      "Weight": "20.0%",
+      "Completion Criteria": ">0",
+      "Duration": "at home",
+      "CLO": "",
+      "Question Type": "open",
+      "No Question": "5-10",
+      "Knowledge and Skill": "Chapters introduced",
+      "Grading Guide": "guided by instructor in class, completed by students at home, submitted by deadline",
+      "Note": ""
+    },
+    {
+      "No.": "2",
+      "Category": "Progrest test",
+      "Type": "on-going",
+      "Part": "2",
+      "Weight": "20.0%",
+      "Completion Criteria": ">0",
+      "Duration": "30'",
+      "CLO": "",
+      "Question Type": "MC or a suitable format",
+      "No Question": "10-15",
+      "Knowledge and Skill": "Chapters introduced",
+      "Grading Guide": "by instructor and by suitable means (computer, paper, oral...)",
+      "Note": ""
+    },
+    {
+      "No.": "3",
+      "Category": "Project",
+      "Type": "on-going",
+      "Part": "1",
+      "Weight": "30.0%",
+      "Completion Criteria": ">0",
+      "Duration": "at home",
+      "CLO": "",
+      "Question Type": "open",
+      "No Question": "",
+      "Knowledge and Skill": "Chapters introduced",
+      "Grading Guide": "guided by instructor in class, completed by students at home, submitted by deadline",
+      "Note": ""
+    },
+    {
+      "No.": "4",
+      "Category": "Final exam",
+      "Type": "Final exam",
+      "Part": "1",
+      "Weight": "30.0%",
+      "Completion Criteria": "4",
+      "Duration": "60'",
+      "CLO": "LO1-LO6",
+      "Question Type": "",
+      "No Question": "5",
+      "Knowledge and Skill": "Selected chapters",
+      "Grading Guide": "by Exam Board",
+      "Note": ""
+    }
+  ],
+  "schedule": [
+    {
+      "Session": "1",
+      "Topic": "Part 1. Basic Theory: The simplex method and Duality Chapter 1. Introduction 1. Managing a production facility 2. Linear programming problem Introduction of Project",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO1",
+      "ITU": "IT",
+      "Student Materials": "Textbook Chapter 1",
+      "S-Download": "MAO302",
+      "Student's Tasks": "Exercises Chapter 1",
+      "URLs": ""
+    },
+    {
+      "Session": "2",
+      "Topic": "Chapter 2. The simplex method 1. An example 2. The simplex method",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO2",
+      "ITU": "IT",
+      "Student Materials": "Textbook Chapter 2",
+      "S-Download": "MAO302",
+      "Student's Tasks": "Exercises Chapter 2",
+      "URLs": ""
+    },
+    {
+      "Session": "3",
+      "Topic": "Chapter 2. The simplex method 3. Initialization 4. Unboundedness 5. Geometry",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO2",
+      "ITU": "T,U",
+      "Student Materials": "Textbook Chapter 2",
+      "S-Download": "",
+      "Student's Tasks": "Exercises Chapter 2",
+      "URLs": ""
+    },
+    {
+      "Session": "4",
+      "Topic": "Review Chapter 2",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO2",
+      "ITU": "T,U",
+      "Student Materials": "Textbook Chapter 2",
+      "S-Download": "",
+      "Student's Tasks": "Exercises Chapter 2",
+      "URLs": ""
+    },
+    {
+      "Session": "5",
+      "Topic": "Chapter 3. Degeneracy 1. Definition of degeneracy 2. Two examples of degeneracy problem 3. The Perturbation/Lexicographic Method",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO2",
+      "ITU": "T,U",
+      "Student Materials": "Textbook Chapter 3",
+      "S-Download": "",
+      "Student's Tasks": "Exercises Chapter 3",
+      "URLs": ""
+    },
+    {
+      "Session": "6",
+      "Topic": "Chapter 3. Degeneracy 4. Bland’s Rule 5. Fundamental Theorem of Linear Programming 6. Geometry",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO2",
+      "ITU": "T,U",
+      "Student Materials": "Textbook Chapter 3",
+      "S-Download": "",
+      "Student's Tasks": "Exercises Chapter 3",
+      "URLs": ""
+    },
+    {
+      "Session": "7",
+      "Topic": "Review Chapter 3. Degeneracy",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO2",
+      "ITU": "T,U",
+      "Student Materials": "Textbook Chapter 3",
+      "S-Download": "",
+      "Student's Tasks": "Exercises Chapter 3",
+      "URLs": ""
+    },
+    {
+      "Session": "8",
+      "Topic": "Chapter 4.Efficiency of the simplex method 1. Performance Measures 2. Measuring the Size of a Problem 3. Measuring the Effort to Solve a Problem 4. Worst-Case Analysis of the Simplex Method 5. Empirical Average Performance of the Simplex Method (reading)",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO2",
+      "ITU": "I,T",
+      "Student Materials": "Textbook Chapter 4",
+      "S-Download": "",
+      "Student's Tasks": "Exercises Chapter 4",
+      "URLs": ""
+    },
+    {
+      "Session": "9",
+      "Topic": "Chapter 5: Duality theory 1. Motivation: Finding upper bounds 2. The dual problem 3. The weak duality theorem 4. The strong duality theorem 5. Complementary slackness",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO2",
+      "ITU": "I,T,U",
+      "Student Materials": "Textbook Chapter 5",
+      "S-Download": "",
+      "Student's Tasks": "Exercises Chapter 5",
+      "URLs": ""
+    },
+    {
+      "Session": "10",
+      "Topic": "Chapter 5: Duality theory 6. The dual simplex method 7. The dual-based phase I alogirthm 8. The dual of a problem in general form",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO2",
+      "ITU": "T,U",
+      "Student Materials": "Textbook Chapter 5",
+      "S-Download": "",
+      "Student's Tasks": "Exercises Chapter 5",
+      "URLs": ""
+    },
+    {
+      "Session": "11",
+      "Topic": "Chapter 5: Duality theory 9. Resource allocation problems 10. Lagrangian Duality Review Chapter 5",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO1, LO2",
+      "ITU": "T,U",
+      "Student Materials": "Textbook Chapter 5",
+      "S-Download": "",
+      "Student's Tasks": "Exercises Chapter 5",
+      "URLs": ""
+    },
+    {
+      "Session": "12",
+      "Topic": "Progress Test 1 Chapter 6: The Simplex Method in Matrix Notation 1. Matrix Notation 2. The Primal Simplex Method 3. An Example 4. The Dual Simplex Method",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO1, LO2",
+      "ITU": "",
+      "Student Materials": "",
+      "S-Download": "",
+      "Student's Tasks": "",
+      "URLs": ""
+    },
+    {
+      "Session": "13",
+      "Topic": "Chapter 6: The Simplex Method in Matrix Notation 5. Two-Phase Methods 6. Negative Transpose Property",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO2",
+      "ITU": "T,U",
+      "Student Materials": "Textbook Chapter 6",
+      "S-Download": "",
+      "Student's Tasks": "Exercises Chapter 6",
+      "URLs": ""
+    },
+    {
+      "Session": "14",
+      "Topic": "Review chapter 6",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO2",
+      "ITU": "T,U",
+      "Student Materials": "Textbook Chapter 6",
+      "S-Download": "",
+      "Student's Tasks": "Exercises Chapter 6",
+      "URLs": ""
+    },
+    {
+      "Session": "15",
+      "Topic": "Chapter 11: Game theory 1. Matrix game 2. Optimal strategy 3. The minimax theorem",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO1, LO2",
+      "ITU": "I,T",
+      "Student Materials": "Textbook Chapter 11",
+      "S-Download": "",
+      "Student's Tasks": "Exercises Chapter 9",
+      "URLs": ""
+    },
+    {
+      "Session": "16",
+      "Topic": "Chapter 11: Game theory 4. Poker (reading) Exercise Guidance for Project",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO1, LO2",
+      "ITU": "T,U",
+      "Student Materials": "Textbook Chapter 11",
+      "S-Download": "",
+      "Student's Tasks": "Exercises Chapter 9",
+      "URLs": ""
+    },
+    {
+      "Session": "17",
+      "Topic": "-Review Part 1 Submission of Assignment 1",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO1, LO2, LO7",
+      "ITU": "U",
+      "Student Materials": "",
+      "S-Download": "",
+      "Student's Tasks": "",
+      "URLs": ""
+    },
+    {
+      "Session": "18",
+      "Topic": "Part 2: Network-Type Problems Chapter 14: Network Flow Problems 1. Network 2. Spanning tree and Bases 3. The primal Network simplex method",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO1, LO3",
+      "ITU": "I,T,U",
+      "Student Materials": "Textbook Chapter 14",
+      "S-Download": "",
+      "Student's Tasks": "Exercises Chapter 14",
+      "URLs": ""
+    },
+    {
+      "Session": "19",
+      "Topic": "Chapter 14: Network Flow Problems 4. The dual network simplex method 5. Putting it all together",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO1, LO3",
+      "ITU": "T,U",
+      "Student Materials": "Textbook Chapter 14",
+      "S-Download": "",
+      "Student's Tasks": "Exercises Chapter 14",
+      "URLs": ""
+    },
+    {
+      "Session": "20",
+      "Topic": "Chapter 14: Network Flow Problems Review chapter 14",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO1, LO3",
+      "ITU": "T,U",
+      "Student Materials": "Textbook Chapter 14",
+      "S-Download": "",
+      "Student's Tasks": "Exercises Chapter 14",
+      "URLs": ""
+    },
+    {
+      "Session": "21",
+      "Topic": "Part 2: Network-Type Problems Chapter 15: Applications 1. The transportation problem 2. The assignment problem",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO1, LO3",
+      "ITU": "T,U",
+      "Student Materials": "Textbook Chapter 15",
+      "S-Download": "",
+      "Student's Tasks": "Exercises Chapter 14",
+      "URLs": ""
+    },
+    {
+      "Session": "22",
+      "Topic": "Part 2: Network-Type Problems Chapter 15: Applications 3. The shortest path problem 4. Upper-bounded Network Flow problems (Reading)",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO1, LO3",
+      "ITU": "T,U",
+      "Student Materials": "Textbook Chapter 15",
+      "S-Download": "",
+      "Student's Tasks": "Exercises Chapter 14",
+      "URLs": ""
+    },
+    {
+      "Session": "23",
+      "Topic": "Part 2: Network-Type Problems Chapter 15: Applications 5. The maximum flow problem Review chapter 15 Guidance for project",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO1, LO3, LO7",
+      "ITU": "T,U",
+      "Student Materials": "Textbook Chapter 15",
+      "S-Download": "",
+      "Student's Tasks": "Exercises Chapter 14",
+      "URLs": ""
+    },
+    {
+      "Session": "24",
+      "Topic": "Progress Test 2",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO1, LO3",
+      "ITU": "",
+      "Student Materials": "",
+      "S-Download": "",
+      "Student's Tasks": "",
+      "URLs": ""
+    },
+    {
+      "Session": "25",
+      "Topic": "Chapter 17: The central path 3. Lagrange Multiplier applied to the Barrier Problem 4. Second-order Information 5. Existence",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO4",
+      "ITU": "T,U",
+      "Student Materials": "Textbook Chapter 17",
+      "S-Download": "",
+      "Student's Tasks": "Exercises Chapter 17",
+      "URLs": ""
+    },
+    {
+      "Session": "26",
+      "Topic": "Chapter 17: The central path Review Chapter 17",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO4",
+      "ITU": "T,U",
+      "Student Materials": "Textbook Chapter 17",
+      "S-Download": "",
+      "Student's Tasks": "Exercises Chapter 17",
+      "URLs": ""
+    },
+    {
+      "Session": "27",
+      "Topic": "Part 4: Extension Chapter 23 Integer programming 1. Schedualing Problems 2. The travelling salesmen problem",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO1",
+      "ITU": "T,U",
+      "Student Materials": "Textbook Chapter 23",
+      "S-Download": "",
+      "Student's Tasks": "Exercises Chapter 23",
+      "URLs": ""
+    },
+    {
+      "Session": "28",
+      "Topic": "Chapter 23 Integer programming 3. Fixed costs (reading) 5. Brand-and-Bound Guidance for Project",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO1, LO5, LO6, LO7",
+      "ITU": "T,U",
+      "Student Materials": "Textbook Chapter 23",
+      "S-Download": "",
+      "Student's Tasks": "Exercises Chapter 23",
+      "URLs": ""
+    },
+    {
+      "Session": "29",
+      "Topic": "Chapter 23 Integer programming Review chapter 23",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO1,LO5, LO6, LO7",
+      "ITU": "T,U",
+      "Student Materials": "Textbook Chapter 23",
+      "S-Download": "",
+      "Student's Tasks": "Exercises Chapter 23",
+      "URLs": ""
+    },
+    {
+      "Session": "30",
+      "Topic": "-Review Part 2,3,4",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO1, LO3-LO7",
+      "ITU": "U",
+      "Student Materials": "",
+      "S-Download": "",
+      "Student's Tasks": "",
+      "URLs": ""
+    }
+  ],
+  "constructive_questions": [],
+  "materials": [
+    {
+      "No.": "1",
+      "Material Description": "Linear Programming: Foundations and Extensions",
+      "Author": "Robert J. Vanderbei",
+      "Publisher": "Springer",
+      "Published Date": "2014",
+      "Edition": "4th",
+      "ISBN": "ISBN 978-1-4614-7629-0 ISBN 978-1-4614-7630-6 (eBook)",
+      "Is Main Material": "True",
+      "Is Hard Copy": "True",
+      "Is Online": "False",
+      "Note": ""
+    }
+  ],
+  "source_path": "data/raw/syllabi/2639.html",
+  "id": "syllabus:2639"
+}

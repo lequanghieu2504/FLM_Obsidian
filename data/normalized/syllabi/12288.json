@@ -1,0 +1,284 @@
+{
+  "syllabus_id": 12288,
+  "subject_code": "PRO192c",
+  "subject_name": "Object Oriented Programming with Java_Lập trình hướng đối tượng với Java",
+  "syllabus_name": "Object Oriented Programming with Java_Lập trình hướng đối tượng với Java",
+  "credits": 3,
+  "degree_level": "Bachelor",
+  "time_allocation": "Study hour (150h) = 45 hours online + 9h offline + 1h TE + 1.5h PE + 93.5h self-study",
+  "prerequisite": "PRF192",
+  "general_information": {
+    "Syllabus ID": "12288",
+    "Syllabus Name": "Object Oriented Programming with Java_Lập trình hướng đối tượng với Java",
+    "Course Name English": "Object Oriented Programming with Java",
+    "Subject Code": "PRO192c",
+    "Learning-Teaching Method": "Blended,Online,Active learning,Inquiry-based Teaching",
+    "NoCredit": "3",
+    "Degree Level": "Bachelor",
+    "Time Allocation": "Study hour (150h) = 45 hours online + 9h offline + 1h TE + 1.5h PE + 93.5h self-study",
+    "Pre-Requisite": "PRF192",
+    "Description": "This course provides the knowledge and skills of Object Oriented Programming using the Java Programming Language.",
+    "StudentTasks": "Students complete the online courses MOOC and get certifications for MOOC to be allowed to take Final Exam",
+    "Tools": "JDK 8+ 'NetBean 13+ IDE",
+    "Scoring Scale": "10",
+    "DecisionNo MM/dd/yyyy": "1363/QĐ-ĐHFPT dated 12/06/2024",
+    "IsApproved": "True",
+    "Note": "1. Complete the online course to be allowed to take Final Exam 2. Final Exam is included of Final Theory Exam (TE) & Final Practical Exam (PE): 100% 3. Completion Criteria: Final TE Score >=4 & Final PE Score >=4 & FR >= 5 (FR = Final TE Score *0.5+ Final PE Score*0.5)",
+    "Is Scored": "True",
+    "MinAvgMarkToPass": "5",
+    "IsActive": "True",
+    "ApprovedDate": "12/6/2024"
+  },
+  "active": true,
+  "approved": true,
+  "decision": "1363/QĐ-ĐHFPT dated 12/06/2024",
+  "description": "This course provides the knowledge and skills of Object Oriented Programming using the Java Programming Language.",
+  "learning_outcomes": [
+    {
+      "No.": "1",
+      "CLO Name": "CLO1",
+      "CLO Details": "Understand the concepts of object oriented (OO) programs to solve problems and fundamentals of object-oriented programming in Java"
+    },
+    {
+      "No.": "2",
+      "CLO Name": "CLO2",
+      "CLO Details": "Practice basic Java language syntax and semantics to write Java programs and use concepts such as variables, conditional and iterative execution methods"
+    },
+    {
+      "No.": "3",
+      "CLO Name": "CLO3",
+      "CLO Details": "Uses streams to read and write data from/to different types of sources/targets"
+    },
+    {
+      "No.": "4",
+      "CLO Name": "CLO4",
+      "CLO Details": "Discuss the benefits and the use of JAVA’s Exceptional handling mechanism"
+    },
+    {
+      "No.": "5",
+      "CLO Name": "CLO5",
+      "CLO Details": "Identify classes, objects, members of a class and relationships among them needed for a specific problem"
+    },
+    {
+      "No.": "6",
+      "CLO Name": "CLO6",
+      "CLO Details": "Explain the concept and demonstrates the use of Polymorphism, Encapsulation, Abstraction and Inheritance in java"
+    },
+    {
+      "No.": "7",
+      "CLO Name": "CLO7",
+      "CLO Details": "Discuss the principles and the use of abstract classes and interfaces in java"
+    },
+    {
+      "No.": "8",
+      "CLO Name": "CLO8",
+      "CLO Details": "Be able to design and implement a complete program - console application"
+    },
+    {
+      "No.": "9",
+      "CLO Name": "CLO9",
+      "CLO Details": "Explain the principles and the use of some (java collections) abstract data types (list, set, map)"
+    }
+  ],
+  "assessments": [
+    {
+      "No.": "1",
+      "Category": "PE",
+      "Type": "Final exam",
+      "Part": "1",
+      "Weight": "50.0%",
+      "Completion Criteria": "4",
+      "Duration": "90'",
+      "CLO": "All Los",
+      "Question Type": "Project",
+      "No Question": "",
+      "Knowledge and Skill": "OOP Java",
+      "Grading Guide": "by exam board",
+      "Note": "Customized from the assignment of the courses"
+    },
+    {
+      "No.": "2",
+      "Category": "TE",
+      "Type": "Final exam",
+      "Part": "1",
+      "Weight": "50.0%",
+      "Completion Criteria": "4",
+      "Duration": "60'",
+      "CLO": "All Los",
+      "Question Type": "Multiple choicesMarked by Computer",
+      "No Question": "50",
+      "Knowledge and Skill": "All studied courses. Each module of course contributes 10-20 questions.",
+      "Grading Guide": "by exam board",
+      "Note": "Customized from the quizzes of the courses"
+    }
+  ],
+  "schedule": [
+    {
+      "Session": "1",
+      "Topic": "Course introduction Installation guide Java introduction Basic components of Java Data types and Variables Control statements Offline 1",
+      "Learning-Teaching Type": "Offline, Online",
+      "LO": "LO1, LO2",
+      "ITU": "ITU",
+      "Student Materials": "MOOC",
+      "S-Download": "",
+      "Student's Tasks": "-Enroll to the spec on Coursera for FPT University Platform - Watch all videos, read all materials in the module - Finish quiz and Assignment All Students must participate in first mentor slot",
+      "URLs": ""
+    },
+    {
+      "Session": "2",
+      "Topic": "Reference Types introduction Array - ArrayList - String - Number Console IO Function concept and definition Function invocation and parameter passing Debug and Unit Testing Offline 2",
+      "Learning-Teaching Type": "Offline, Online",
+      "LO": "LO2",
+      "ITU": "ITU",
+      "Student Materials": "MOOC",
+      "S-Download": "",
+      "Student's Tasks": "- Watch all videos, read all materials in the module - Finish quiz and submit practical assignment All Students should participate in review slot (if any question)",
+      "URLs": ""
+    },
+    {
+      "Session": "3",
+      "Topic": "OOP concepts Class definition Encapsulation",
+      "Learning-Teaching Type": "Online",
+      "LO": "LO1, LO5",
+      "ITU": "ITU",
+      "Student Materials": "MOOC",
+      "S-Download": "",
+      "Student's Tasks": "- Watch all videos, read all materials in the module - Finish quiz and submit module 1 assignment",
+      "URLs": ""
+    },
+    {
+      "Session": "4",
+      "Topic": "Inheritance - subclass Interface and implementation Abstract class Polymorphism : overload -override methods Offline 3",
+      "Learning-Teaching Type": "Offline, Online",
+      "LO": "LO6, LO7",
+      "ITU": "ITU",
+      "Student Materials": "MOOC",
+      "S-Download": "",
+      "Student's Tasks": "- Watch all videos, read all materials in the module - Finish quiz and Fraction Assignment Deadline of Module 1 Completion: End of Friday of the week. All Students should participate in review slot (if any question)",
+      "URLs": ""
+    },
+    {
+      "Session": "5",
+      "Topic": "More on OOP The Object class Inner class - Nested class - Anonymous class- Local class",
+      "Learning-Teaching Type": "Online",
+      "LO": "LO7",
+      "ITU": "ITU",
+      "Student Materials": "MOOC",
+      "S-Download": "",
+      "Student's Tasks": "- Watch all videos, read all materials in the module - Finish quiz and First OOP Project Assignment",
+      "URLs": ""
+    },
+    {
+      "Session": "6",
+      "Topic": "Exception handling Try catch finally Throw - throws Offline 4",
+      "Learning-Teaching Type": "Offline, Online",
+      "LO": "LO4",
+      "ITU": "ITU",
+      "Student Materials": "MOOC",
+      "S-Download": "",
+      "Student's Tasks": "- Watch all videos, read all materials in the module - Finish quiz and submit OOP project assignment All Students should participate in review slot (if any question)",
+      "URLs": ""
+    },
+    {
+      "Session": "7",
+      "Topic": "Input - Output Object IO and Serialization",
+      "Learning-Teaching Type": "Online",
+      "LO": "LO3",
+      "ITU": "ITU",
+      "Student Materials": "MOOC",
+      "S-Download": "",
+      "Student's Tasks": "- Watch all videos, read all materials in the module - Finish quiz and submit module 2 Assignment Deadline of Module 2 Completion: End of Friday of the week.",
+      "URLs": ""
+    },
+    {
+      "Session": "8",
+      "Topic": "Generics class and methods Offline 5",
+      "Learning-Teaching Type": "Offline, Online",
+      "LO": "LO9",
+      "ITU": "ITU",
+      "Student Materials": "MOOC",
+      "S-Download": "",
+      "Student's Tasks": "- Watch all videos, read all materials in the module - Finish quiz and submit module 3 assignment Deadline of Module 3 Completion: End of Friday of the week. All Students should participate in review slot (if any question)",
+      "URLs": ""
+    },
+    {
+      "Session": "9",
+      "Topic": "Collections Framework",
+      "Learning-Teaching Type": "Online",
+      "LO": "LO9",
+      "ITU": "ITU",
+      "Student Materials": "MOOC",
+      "S-Download": "",
+      "Student's Tasks": "- Watch all videos, read all materials in the module - Finish quiz and Assignment",
+      "URLs": ""
+    },
+    {
+      "Session": "10",
+      "Topic": "Design pattern introduction Best practices design and coding Final course assignment introduction Offline 6",
+      "Learning-Teaching Type": "Offline, Online",
+      "LO": "LO8",
+      "ITU": "ITU",
+      "Student Materials": "MOOC",
+      "S-Download": "",
+      "Student's Tasks": "- Watch all videos, read all materials in the module - Finish quiz and submit final course assignment Deadline of Module 4 Completion: End of Friday of the week. All Students should participate in review slot (if any question)",
+      "URLs": ""
+    }
+  ],
+  "constructive_questions": [],
+  "materials": [
+    {
+      "No.": "1",
+      "Material Description": "https://www.coursera.org/learn/object-oriented-programing-with-java",
+      "Author": "",
+      "Publisher": "Coursera",
+      "Published Date": "",
+      "Edition": "",
+      "ISBN": "",
+      "Is Main Material": "True",
+      "Is Hard Copy": "False",
+      "Is Online": "True",
+      "Note": "MOOC"
+    },
+    {
+      "No.": "2",
+      "Material Description": "Java 8 Specification https://docs.oracle.com/javase/specs/jvms/se8/html/jvms-1.html#jvms-1.1",
+      "Author": "",
+      "Publisher": "Oracle",
+      "Published Date": "",
+      "Edition": "",
+      "ISBN": "",
+      "Is Main Material": "False",
+      "Is Hard Copy": "False",
+      "Is Online": "True",
+      "Note": ""
+    },
+    {
+      "No.": "3",
+      "Material Description": "Core Java - Volumn 1: Fundamentals",
+      "Author": "Cay Horstman",
+      "Publisher": "Pearson",
+      "Published Date": "2018",
+      "Edition": "11th",
+      "ISBN": "978-0135166307",
+      "Is Main Material": "False",
+      "Is Hard Copy": "True",
+      "Is Online": "False",
+      "Note": ""
+    },
+    {
+      "No.": "4",
+      "Material Description": "Core Java - Volumn 1: Advanced features",
+      "Author": "Cay Horstman",
+      "Publisher": "Pearson",
+      "Published Date": "2019",
+      "Edition": "11th",
+      "ISBN": "978-0135166314",
+      "Is Main Material": "False",
+      "Is Hard Copy": "True",
+      "Is Online": "False",
+      "Note": ""
+    }
+  ],
+  "source_path": "data/raw/syllabi/12288.html",
+  "id": "syllabus:12288"
+}

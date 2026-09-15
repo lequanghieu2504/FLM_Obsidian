@@ -1,0 +1,1362 @@
+{
+  "syllabus_id": 13133,
+  "subject_code": "MAI391",
+  "subject_name": "Mathematics for Machine Learning_Toán cho học máy",
+  "syllabus_name": "Toán cho học máy",
+  "credits": 3,
+  "degree_level": "Bachelor",
+  "time_allocation": "Study hour (150h) = 45 contact hours (60 sessions) + 1 hour final exam + 104 hours self-study",
+  "prerequisite": "MAE101",
+  "general_information": {
+    "Syllabus ID": "13133",
+    "Syllabus Name": "Toán cho học máy",
+    "Course Name English": "Mathematics for Machine Learning",
+    "Subject Code": "MAI391",
+    "Learning-Teaching Method": "Lecture,Project based learning",
+    "NoCredit": "3",
+    "Degree Level": "Bachelor",
+    "Time Allocation": "Study hour (150h) = 45 contact hours (60 sessions) + 1 hour final exam + 104 hours self-study",
+    "Pre-Requisite": "MAE101",
+    "Description": "This course introduces the mathematical concepts and foundations needed to talk about the three main components of a machine learning system: data, models, and learning. Upon this course, students will be able to understand: • Foundametal concepts about matrices and matrix decomposition. • Concepts of gradients. • The basics of probability and some distributions. • Optimization to find maxima/minima of functions. • Dimensionality reduction using principal component analysis. • Classification in the context of support vector machines. Method of teaching and learning: Lecture and project based learning",
+    "StudentTasks": "- Students must attend at least 80% of contact slots in order to be accepted to the final examination. - Student is responsible for doing all exercises and assignments given by the instructor in class or at home. - Use a laptop in class only for learning purposes - Promptly access course websites for up-to-date course information",
+    "Tools": "- Internet - Python Programme",
+    "Scoring Scale": "10",
+    "DecisionNo MM/dd/yyyy": "932/QĐ-ĐHFPT dated 08/22/2025",
+    "IsApproved": "True",
+    "Note": "",
+    "Is Scored": "True",
+    "MinAvgMarkToPass": "5",
+    "IsActive": "True",
+    "ApprovedDate": "8/22/2025"
+  },
+  "active": true,
+  "approved": true,
+  "decision": "932/QĐ-ĐHFPT dated 08/22/2025",
+  "description": "This course introduces the mathematical concepts and foundations needed to talk about the three main components of a machine learning system: data, models, and learning. Upon this course, students will be able to understand: • Foundametal concepts about matrices and matrix decomposition. • Concepts of gradients. • The basics of probability and some distributions. • Optimization to find maxima/minima of functions. • Dimensionality reduction using principal component analysis. • Classification in the context of support vector machines. Method of teaching and learning: Lecture and project based learning",
+  "learning_outcomes": [
+    {
+      "No.": "1",
+      "CLO Name": "CLO0",
+      "CLO Details": "Analytic Geometry LO 0.1 Define a norm and an inner product on a vector space LO 0.2 Determine bilinear mapping and check if a square matrix is positive definite. LO 0.3 Find the length of a vector as well as the distance between two vectors in a vector space by using inner product. LO 0.4 Find the angle between two vectors and check if they are orthogonal. Check if a square matrix is orthogonal. LO 0.5 Check if a set of vectors is an orthogonal or an orthonormal basis of a given vector space. Determine an orthogonal complement of a subspace. LO 0.6 Construct the projection onto a subspace."
+    },
+    {
+      "No.": "2",
+      "CLO Name": "CLO1",
+      "CLO Details": "Matrix Decomposition LO 1.1 Compute the determinant of a square matrix, decide when a square matrix is invertible by equivalent conditions. Find the characteristic polynomial, eigenvalues and eigenvectors of a matrix. Understand some theorems concerning eigenvalues. LO1.2 Diagonalize a matrix by eigendecomposition. Decompose a matrix by singular value decomposition. LO1.3 Compute matrix approximation."
+    },
+    {
+      "No.": "3",
+      "CLO Name": "CLO2",
+      "CLO Details": "Vector Calculus LO 2.1 Revisit differentiation of a univariate function. Find Taylor expansion of a smooth function at a given point. LO 2.2 Find partial derivatives using basic formulas and the chain rule, gradients of multivariate functions. LO 2.3 Find gradients, Jacobian matrices of Vector-Valued Functions. LO 2.4 Take gradients of matrices with respect to vectors. LO 2.5 Understand the idea of backpropagation in deep learning. LO 2.6 Find the higher-order partial derivatives, linearization and multivariate Taylor series of multivariate functions."
+    },
+    {
+      "No.": "4",
+      "CLO Name": "CLO3",
+      "CLO Details": "Probability and Distributions LO 3.1 Catch the notions of discrete variable continuous variable; find the probability mass function, the probability density function, the cumulative distribution function and their properties. LO 3.2 Calculate conditional probabilities; use multiplication rule, total probability rule and Bayes theorem to find probabilities. LO 3.3 Compute the mean and variance of a random variable, compute the covariance and the correlation between two variables. LO 3.4 Consider whether two variables are independent. LO 3.5 Describe a Gauss distribution, marginals, conditionals, sums and products of Gauss distributions."
+    },
+    {
+      "No.": "5",
+      "CLO Name": "CLO4",
+      "CLO Details": "Continuous Optimization LO 4.1 Find a local minimum of a function using gradient descent. LO 4.2 Use Lagrange multipliers to find the maximum/minimum value of a multivariate function with constraints. LO 4.3 Understand convex optimization problems and solve linear programings."
+    },
+    {
+      "No.": "6",
+      "CLO Name": "CLO5",
+      "CLO Details": "Linear Regression LO 5.1 Use maximum likelihood and maximum a posteriori (MAP) estimation to find optimal model parameters. LO 5.2 Using these parameter estimates to have a brief look at generalization errors and overfitting. LO 5.3 Discuss Bayesian linear regression."
+    },
+    {
+      "No.": "7",
+      "CLO Name": "CLO6",
+      "CLO Details": "Dimensionality Reduction with PCA LO 6.1 Compute the data covariance matrix of a data set, construct m-dimensional subspace with maximum variance. LO 6.2 Find the basis of theprincipal subspace. LO 6.3 Using Low-Rank Matrix to approximate PCA. LO 6.4 Discuss PCA in high dimension and key steps of PCA."
+    },
+    {
+      "No.": "8",
+      "CLO Name": "CLO7",
+      "CLO Details": "Classification with SVM LO 7.1 Understand binary classification by seperating hyperplane. LO 7.2 Catch mathematical ideas of support vector machine. LO 7.3 Understand the advantage of dual support vector machine. LO 7.4 Introduce non-linear classifiers by kernels. LO 7.5 Consider two different approaches for finding the optimal solution for the SVM."
+    },
+    {
+      "No.": "9",
+      "CLO Name": "CLO8",
+      "CLO Details": "Attitude and soft skills LO 8 Develop working in group skills and self-discipline"
+    }
+  ],
+  "assessments": [
+    {
+      "No.": "1",
+      "Category": "Assignments",
+      "Type": "on-going",
+      "Part": "3",
+      "Weight": "30.0%",
+      "Completion Criteria": ">0",
+      "Duration": "3 hours",
+      "CLO": "LO0, LO1, LO2, LO3, LO4, LO5, LO8",
+      "Question Type": "open",
+      "No Question": "N/A",
+      "Knowledge and Skill": "OP1: Assigment 1: Cover chapters 3, 4,5 Assignment 2: Cover chapters 6,7 Assignment 3: Cover chapters 9, 10, 12 OP2: (For Constructivism Approach only): Follow lecturer's proposal",
+      "Grading Guide": "Each assignment is divided into two parts: the take-home component counts for no more than 50% of the total grade, and the in-class component counts for at least 50% (this may take the form of a presentation, essay, problem-solving, etc.).",
+      "Note": "Assignment 1: LO 0, LO 1, LO 2, LO 8 Assignment 2: LO 3, LO 4, LO 8 Assignment 3: LO 5, LO 8"
+    },
+    {
+      "No.": "2",
+      "Category": "Computer Project",
+      "Type": "on-going",
+      "Part": "1",
+      "Weight": "20.0%",
+      "Completion Criteria": ">0",
+      "Duration": "5 hours",
+      "CLO": "LO5, LO6, LO7, LO8",
+      "Question Type": "OP1: open // OP2: (For Constructivism Approach only): Follow lecturer's proposal",
+      "No Question": "N/A",
+      "Knowledge and Skill": "cover chapter 9, 10,12",
+      "Grading Guide": "Students are divided into groups of 3-5 students. Each group will choose a Machine Learning algorithm (with instructor’s consent) and write code to implement the algorithm. Each group is required to explain the mathematic background of the chosen algorithm, run the model on a real data and present their work to the class. The work (slides, source files, etc.) accounts for up to 50% of the grade, while presentation skills and the ability to answer questions account for at least 50%.",
+      "Note": "Presented by group of students"
+    },
+    {
+      "No.": "3",
+      "Category": "Progress tests",
+      "Type": "on-going",
+      "Part": "2",
+      "Weight": "20.0%",
+      "Completion Criteria": ">0",
+      "Duration": "30'",
+      "CLO": "LO0, LO1, LO2, LO3, LO4",
+      "Question Type": "OP1: Multiple choices // OP2: (For Constructivism Approach only): Follow lecturer's proposal",
+      "No Question": "12",
+      "Knowledge and Skill": "- Test 1: cover chapters 3, 4,5 - Test 2: cover chapters 6,7",
+      "Grading Guide": "by instructor, and by suitable means (computer, paper, oral)",
+      "Note": "Instruction and schedules for Progress tests must be presented in the Course Implementation Plan approved by director of the campus. Progress test must be taken right after the last lectures of required material. Instructor has resposibility to review the test for students after graded. Progress Test 1: LO0, LO1, LO2 Progress Test 2: LO3, LO4"
+    },
+    {
+      "No.": "4",
+      "Category": "Final exam",
+      "Type": "Final exam",
+      "Part": "1",
+      "Weight": "30.0%",
+      "Completion Criteria": "4",
+      "Duration": "60'",
+      "CLO": "LO 0, LO 1, LO 2, LO 3, LO 4",
+      "Question Type": "Multiple choices Marked by Computer",
+      "No Question": "40",
+      "Knowledge and Skill": "Selected chapters",
+      "Grading Guide": "by exam board, using computer",
+      "Note": "The exam questions must be updated or different at least 70% to the previous ones."
+    }
+  ],
+  "schedule": [
+    {
+      "Session": "1",
+      "Topic": "Chapter 3. Analytic Geometry 3.1 Norm 3.2 Inner Products",
+      "Learning-Teaching Type": "Offline",
+      "LO": "CLO0",
+      "ITU": "T, U",
+      "Student Materials": "Textbook Chapter 3",
+      "S-Download": "",
+      "Student's Tasks": "Read Chapter 2 Exercises Chapter 3",
+      "URLs": ""
+    },
+    {
+      "Session": "2",
+      "Topic": "3.3 Lengths and Distances 3.4 Angles and Orthogonality",
+      "Learning-Teaching Type": "Offline",
+      "LO": "CLO0",
+      "ITU": "T, U",
+      "Student Materials": "Textbook Chapter 3",
+      "S-Download": "",
+      "Student's Tasks": "Read Chapter 2 Exercises Chapter 3",
+      "URLs": ""
+    },
+    {
+      "Session": "3",
+      "Topic": "3.5 Orthonormal Basis 3.6 Orthonormal Complement",
+      "Learning-Teaching Type": "Offline",
+      "LO": "CLO0",
+      "ITU": "T, U",
+      "Student Materials": "Textbook Chapter 3",
+      "S-Download": "",
+      "Student's Tasks": "Read Chapter 2 Exercises Chapter 3",
+      "URLs": ""
+    },
+    {
+      "Session": "4",
+      "Topic": "3.8 Orthogonal Projections",
+      "Learning-Teaching Type": "Offline",
+      "LO": "CLO0",
+      "ITU": "T, U",
+      "Student Materials": "Textbook Chapter 3",
+      "S-Download": "",
+      "Student's Tasks": "Read Chapter 2 Exercises Chapter 3",
+      "URLs": ""
+    },
+    {
+      "Session": "5",
+      "Topic": "Chapter 4. Matrix Decompositions 4.1 Determinants and Traces",
+      "Learning-Teaching Type": "Offline",
+      "LO": "CLO1",
+      "ITU": "T, U",
+      "Student Materials": "Textbook Chapter 4",
+      "S-Download": "",
+      "Student's Tasks": "Exercises Chapter 4",
+      "URLs": ""
+    },
+    {
+      "Session": "6",
+      "Topic": "4.2 Eigenvalues and Eigenvectors",
+      "Learning-Teaching Type": "Offline",
+      "LO": "CLO1",
+      "ITU": "T, U",
+      "Student Materials": "Textbook Chapter 4",
+      "S-Download": "",
+      "Student's Tasks": "Exercises Chapter 4",
+      "URLs": ""
+    },
+    {
+      "Session": "7",
+      "Topic": "4.4 Eigendecomposition and Diagonalization",
+      "Learning-Teaching Type": "Offline",
+      "LO": "CLO1",
+      "ITU": "T, U",
+      "Student Materials": "Textbook Chapter 4",
+      "S-Download": "",
+      "Student's Tasks": "Exercises Chapter 4",
+      "URLs": ""
+    },
+    {
+      "Session": "8",
+      "Topic": "4.5 Singular value Decomposition",
+      "Learning-Teaching Type": "Offline",
+      "LO": "CLO1",
+      "ITU": "T, U",
+      "Student Materials": "Textbook Chapter 4",
+      "S-Download": "",
+      "Student's Tasks": "Exercises Chapter 4",
+      "URLs": ""
+    },
+    {
+      "Session": "9",
+      "Topic": "4.5 Singular value Decomposition (cont.)",
+      "Learning-Teaching Type": "Offline",
+      "LO": "CLO1",
+      "ITU": "T",
+      "Student Materials": "Textbook Chapter 4",
+      "S-Download": "",
+      "Student's Tasks": "Exercises Chapter 4",
+      "URLs": ""
+    },
+    {
+      "Session": "10",
+      "Topic": "4.6 Matrix Approximation",
+      "Learning-Teaching Type": "Offline",
+      "LO": "CLO1",
+      "ITU": "T",
+      "Student Materials": "Textbook Chapter 4",
+      "S-Download": "",
+      "Student's Tasks": "Exercises Chapter 4",
+      "URLs": ""
+    },
+    {
+      "Session": "11",
+      "Topic": "Chapter 5. Vector Calculus 5.1 Differentiation of Univariate Functions",
+      "Learning-Teaching Type": "Offline",
+      "LO": "CLO2",
+      "ITU": "T",
+      "Student Materials": "Textbook Chapter 5",
+      "S-Download": "",
+      "Student's Tasks": "Exercises Chapter 5",
+      "URLs": ""
+    },
+    {
+      "Session": "12",
+      "Topic": "5.2 Partial Differentiation and Gradients",
+      "Learning-Teaching Type": "Offline",
+      "LO": "CLO2",
+      "ITU": "T, U",
+      "Student Materials": "Textbook Chapter 5",
+      "S-Download": "",
+      "Student's Tasks": "Exercises Chapter 5",
+      "URLs": ""
+    },
+    {
+      "Session": "13",
+      "Topic": "5.2 Partial Differentiation and Gradients (cont.)",
+      "Learning-Teaching Type": "Offline",
+      "LO": "CLO2",
+      "ITU": "T, U",
+      "Student Materials": "Textbook Chapter 5",
+      "S-Download": "",
+      "Student's Tasks": "Exercises Chapter 5",
+      "URLs": ""
+    },
+    {
+      "Session": "14",
+      "Topic": "5.3 Gradients of Vector-Valued Functions",
+      "Learning-Teaching Type": "Offline",
+      "LO": "CLO2",
+      "ITU": "T, U",
+      "Student Materials": "Textbook Chapter 5",
+      "S-Download": "",
+      "Student's Tasks": "Exercises Chapter 5",
+      "URLs": ""
+    },
+    {
+      "Session": "15",
+      "Topic": "5.3 Gradients of Vector-Valued Functions (cont.)",
+      "Learning-Teaching Type": "Offline",
+      "LO": "CLO2",
+      "ITU": "T, U",
+      "Student Materials": "Textbook Chapter 5",
+      "S-Download": "",
+      "Student's Tasks": "Exercises Chapter 5",
+      "URLs": ""
+    },
+    {
+      "Session": "16",
+      "Topic": "5.6 Backpropagation and Automatic Differentiation",
+      "Learning-Teaching Type": "Offline",
+      "LO": "CLO2",
+      "ITU": "T",
+      "Student Materials": "Textbook Chapter 5",
+      "S-Download": "",
+      "Student's Tasks": "Exercises Chapter 5",
+      "URLs": ""
+    },
+    {
+      "Session": "17",
+      "Topic": "5.7 Higher-Order Derivatives",
+      "Learning-Teaching Type": "Offline",
+      "LO": "CLO2",
+      "ITU": "T, U",
+      "Student Materials": "Textbook Chapter 5",
+      "S-Download": "",
+      "Student's Tasks": "Exercises Chapter 5",
+      "URLs": ""
+    },
+    {
+      "Session": "18",
+      "Topic": "5.8 Linearization and Multivariate Taylor Series",
+      "Learning-Teaching Type": "Offline",
+      "LO": "CLO2",
+      "ITU": "T, U",
+      "Student Materials": "Textbook Chapter 5",
+      "S-Download": "",
+      "Student's Tasks": "Exercises Chapter 5",
+      "URLs": ""
+    },
+    {
+      "Session": "19",
+      "Topic": "Review",
+      "Learning-Teaching Type": "Offline",
+      "LO": "CLO0, CLO1, CLO2, CLO8",
+      "ITU": "U",
+      "Student Materials": "",
+      "S-Download": "",
+      "Student's Tasks": "Review Chapter 3, 4, 5",
+      "URLs": ""
+    },
+    {
+      "Session": "20",
+      "Topic": "Progress Test 1 Submission of Assigment 1",
+      "Learning-Teaching Type": "Offline",
+      "LO": "CLO0, CLO1, CLO2, CLO8",
+      "ITU": "",
+      "Student Materials": "Submit Assignment 1",
+      "S-Download": "",
+      "Student's Tasks": "",
+      "URLs": ""
+    },
+    {
+      "Session": "21",
+      "Topic": "Chapter 6. Probability and Distributions 6.1 Construction of a Probability Space",
+      "Learning-Teaching Type": "Offline",
+      "LO": "CLO3",
+      "ITU": "T",
+      "Student Materials": "Textbook Chapter 6",
+      "S-Download": "",
+      "Student's Tasks": "Exercises Chapter 6",
+      "URLs": ""
+    },
+    {
+      "Session": "22",
+      "Topic": "6.2 Discrete and Continuous Probabilities",
+      "Learning-Teaching Type": "Offline",
+      "LO": "CLO3",
+      "ITU": "T, U",
+      "Student Materials": "Textbook Chapter 6",
+      "S-Download": "",
+      "Student's Tasks": "Exercises Chapter 6",
+      "URLs": ""
+    },
+    {
+      "Session": "23",
+      "Topic": "6.3 Sum Rule, Product Rule, and Bayes’ Theorem",
+      "Learning-Teaching Type": "Offline",
+      "LO": "CLO3",
+      "ITU": "T, U",
+      "Student Materials": "Textbook Chapter 6",
+      "S-Download": "",
+      "Student's Tasks": "Exercises Chapter 6",
+      "URLs": ""
+    },
+    {
+      "Session": "24",
+      "Topic": "6.3 Sum Rule, Product Rule, and Bayes’ Theorem (cont.)",
+      "Learning-Teaching Type": "Offline",
+      "LO": "CLO3",
+      "ITU": "T, U",
+      "Student Materials": "Textbook Chapter 6",
+      "S-Download": "",
+      "Student's Tasks": "Exercises Chapter 6",
+      "URLs": ""
+    },
+    {
+      "Session": "25",
+      "Topic": "6.4 Summary Statistics and Independence",
+      "Learning-Teaching Type": "Offline",
+      "LO": "CLO3",
+      "ITU": "T, U",
+      "Student Materials": "Textbook Chapter 6",
+      "S-Download": "",
+      "Student's Tasks": "Exercises Chapter 6",
+      "URLs": ""
+    },
+    {
+      "Session": "26",
+      "Topic": "6.4 Summary Statistics and Independence (cont.)",
+      "Learning-Teaching Type": "Offline",
+      "LO": "CLO3",
+      "ITU": "T, U",
+      "Student Materials": "Textbook Chapter 6",
+      "S-Download": "",
+      "Student's Tasks": "Exercises Chapter 6",
+      "URLs": ""
+    },
+    {
+      "Session": "27",
+      "Topic": "6.5 Gaussian Distribution",
+      "Learning-Teaching Type": "Offline",
+      "LO": "CLO3",
+      "ITU": "T",
+      "Student Materials": "Textbook Chapter 6",
+      "S-Download": "",
+      "Student's Tasks": "Exercises Chapter 6",
+      "URLs": ""
+    },
+    {
+      "Session": "28",
+      "Topic": "6.5 Gaussian Distribution (cont.)",
+      "Learning-Teaching Type": "Offline",
+      "LO": "CLO3",
+      "ITU": "T, U",
+      "Student Materials": "Textbook Chapter 6",
+      "S-Download": "",
+      "Student's Tasks": "Exercises Chapter 6",
+      "URLs": ""
+    },
+    {
+      "Session": "29",
+      "Topic": "Chapter 7. Continuous Optimization 7.1 Optimization Using Gradient Descent",
+      "Learning-Teaching Type": "Offline",
+      "LO": "CLO4",
+      "ITU": "T, U",
+      "Student Materials": "Textbook Chapter 7",
+      "S-Download": "",
+      "Student's Tasks": "Exercises Chapter 7",
+      "URLs": ""
+    },
+    {
+      "Session": "30",
+      "Topic": "7.2 Constrained Optimization and Lagrange Multipliers",
+      "Learning-Teaching Type": "Offline",
+      "LO": "CLO4",
+      "ITU": "T",
+      "Student Materials": "Textbook Chapter 7",
+      "S-Download": "",
+      "Student's Tasks": "Exercises Chapter 7",
+      "URLs": ""
+    },
+    {
+      "Session": "31",
+      "Topic": "7.2 Constrained Optimization and Lagrange Multipliers (cont.)",
+      "Learning-Teaching Type": "Offline",
+      "LO": "CLO4",
+      "ITU": "T",
+      "Student Materials": "Textbook Chapter 7",
+      "S-Download": "",
+      "Student's Tasks": "Exercises Chapter 7",
+      "URLs": ""
+    },
+    {
+      "Session": "32",
+      "Topic": "7.3 Convex Optimization",
+      "Learning-Teaching Type": "Offline",
+      "LO": "CLO4",
+      "ITU": "T",
+      "Student Materials": "Textbook Chapter 7",
+      "S-Download": "",
+      "Student's Tasks": "Exercises Chapter 7",
+      "URLs": ""
+    },
+    {
+      "Session": "33",
+      "Topic": "7.3 Convex Optimization (cont.)",
+      "Learning-Teaching Type": "Offline",
+      "LO": "CLO4",
+      "ITU": "T, U",
+      "Student Materials": "Textbook Chapter 7",
+      "S-Download": "",
+      "Student's Tasks": "Exercises Chapter 7",
+      "URLs": ""
+    },
+    {
+      "Session": "34",
+      "Topic": "7.3 Convex Optimization (cont.)",
+      "Learning-Teaching Type": "Offline",
+      "LO": "CLO4",
+      "ITU": "T, U",
+      "Student Materials": "Textbook Chapter 7",
+      "S-Download": "",
+      "Student's Tasks": "Exercises Chapter 7",
+      "URLs": ""
+    },
+    {
+      "Session": "35",
+      "Topic": "Review",
+      "Learning-Teaching Type": "Offline",
+      "LO": "CLO3, LO4, CLO8",
+      "ITU": "U",
+      "Student Materials": "",
+      "S-Download": "",
+      "Student's Tasks": "",
+      "URLs": ""
+    },
+    {
+      "Session": "36",
+      "Topic": "Progress Test 2 Submission of Assignment 2",
+      "Learning-Teaching Type": "Offline",
+      "LO": "CLO3, LO4, CLO8",
+      "ITU": "",
+      "Student Materials": "Submit Assignment 2",
+      "S-Download": "",
+      "Student's Tasks": "",
+      "URLs": ""
+    },
+    {
+      "Session": "37",
+      "Topic": "Chapter 9. Linear Regression 9.1 Problem Formulation",
+      "Learning-Teaching Type": "Offline",
+      "LO": "CLO5",
+      "ITU": "T",
+      "Student Materials": "Textbook Chapter 9",
+      "S-Download": "",
+      "Student's Tasks": "Linear Regression in Python : read and code",
+      "URLs": ""
+    },
+    {
+      "Session": "38",
+      "Topic": "9.1 Problem Formulation (cont.)",
+      "Learning-Teaching Type": "Offline",
+      "LO": "CLO5",
+      "ITU": "T",
+      "Student Materials": "Textbook Chapter 9",
+      "S-Download": "",
+      "Student's Tasks": "Linear Regression in Python : read and code",
+      "URLs": ""
+    },
+    {
+      "Session": "39",
+      "Topic": "9.2 Parameter Estimation",
+      "Learning-Teaching Type": "Offline",
+      "LO": "CLO5",
+      "ITU": "T",
+      "Student Materials": "Textbook Chapter 9",
+      "S-Download": "",
+      "Student's Tasks": "Linear Regression in Python : read and code",
+      "URLs": ""
+    },
+    {
+      "Session": "40",
+      "Topic": "9.2 Parameter Estimation (cont.)",
+      "Learning-Teaching Type": "Offline",
+      "LO": "CLO5",
+      "ITU": "T, U",
+      "Student Materials": "Textbook Chapter 9",
+      "S-Download": "",
+      "Student's Tasks": "Linear Regression in Python : read and code",
+      "URLs": ""
+    },
+    {
+      "Session": "41",
+      "Topic": "Optional: 9.3 Bayesian Linear Regression",
+      "Learning-Teaching Type": "Offline",
+      "LO": "CLO5",
+      "ITU": "T",
+      "Student Materials": "Textbook Chapter 9",
+      "S-Download": "",
+      "Student's Tasks": "Linear Regression in Python : read and code",
+      "URLs": ""
+    },
+    {
+      "Session": "42",
+      "Topic": "Optional: 9.4 Maximum Likelihood as Orthogonal Projection",
+      "Learning-Teaching Type": "Offline",
+      "LO": "CLO5",
+      "ITU": "T",
+      "Student Materials": "Textbook Chapter 9",
+      "S-Download": "",
+      "Student's Tasks": "Linear Regression in Python : read and code",
+      "URLs": ""
+    },
+    {
+      "Session": "43",
+      "Topic": "Chapter 10. Dimensionality Reduction with Principal Component Analysis 10.1 Problem Setting",
+      "Learning-Teaching Type": "Offline",
+      "LO": "CLO6",
+      "ITU": "T",
+      "Student Materials": "Textbook Chapter 10",
+      "S-Download": "",
+      "Student's Tasks": "Write code that represents images as vectors",
+      "URLs": ""
+    },
+    {
+      "Session": "44",
+      "Topic": "10.2 Maximum Variance Perspective",
+      "Learning-Teaching Type": "Offline",
+      "LO": "CLO6",
+      "ITU": "T",
+      "Student Materials": "Textbook Chapter 10",
+      "S-Download": "",
+      "Student's Tasks": "Write code that computes basic statistics of datasets",
+      "URLs": ""
+    },
+    {
+      "Session": "45",
+      "Topic": "10.2 Maximum Variance Perspective (cont.)",
+      "Learning-Teaching Type": "Offline",
+      "LO": "CLO6",
+      "ITU": "T, U",
+      "Student Materials": "Textbook Chapter 10",
+      "S-Download": "",
+      "Student's Tasks": "Write code that computes basic statistics of datasets",
+      "URLs": ""
+    },
+    {
+      "Session": "46",
+      "Topic": "10.6 Key Steps of PCA in Practice",
+      "Learning-Teaching Type": "Offline",
+      "LO": "CLO6",
+      "ITU": "T",
+      "Student Materials": "Textbook Chapter 10",
+      "S-Download": "",
+      "Student's Tasks": "Write code that projects image data onto a 2-dimensional subspace",
+      "URLs": ""
+    },
+    {
+      "Session": "47",
+      "Topic": "10.6 Key Steps of PCA in Practice (cont.)",
+      "Learning-Teaching Type": "Offline",
+      "LO": "CLO6",
+      "ITU": "T, U",
+      "Student Materials": "Textbook Chapter 10",
+      "S-Download": "",
+      "Student's Tasks": "Write code that projects image data onto a 2-dimensional subspace",
+      "URLs": ""
+    },
+    {
+      "Session": "48",
+      "Topic": "Optional: 10.3 Projection Perspective",
+      "Learning-Teaching Type": "Offline",
+      "LO": "CLO6",
+      "ITU": "T",
+      "Student Materials": "Textbook Chapter 10",
+      "S-Download": "",
+      "Student's Tasks": "Write code that projects image data onto a 2-dimensional subspace",
+      "URLs": ""
+    },
+    {
+      "Session": "49",
+      "Topic": "Optional: 10.4 Eigenvector Computation and Low-Rank Approximations",
+      "Learning-Teaching Type": "Offline",
+      "LO": "CLO6",
+      "ITU": "T, U",
+      "Student Materials": "Textbook Chapter 10",
+      "S-Download": "",
+      "Student's Tasks": "Write code that implements PCA",
+      "URLs": ""
+    },
+    {
+      "Session": "50",
+      "Topic": "Optional: 10.5 PCA in High Dimensions",
+      "Learning-Teaching Type": "Offline",
+      "LO": "CLO5, CLO6",
+      "ITU": "T, U",
+      "Student Materials": "Textbook Chapter 10 Submit Assignment 3",
+      "S-Download": "",
+      "Student's Tasks": "Write code that implements PCA",
+      "URLs": ""
+    },
+    {
+      "Session": "51",
+      "Topic": "Chapter 12. Classification with Support Vector Machines 12.1 Separating Hyperplanes",
+      "Learning-Teaching Type": "Offline",
+      "LO": "CLO7",
+      "ITU": "T",
+      "Student Materials": "Textbook Chapter 12",
+      "S-Download": "",
+      "Student's Tasks": "Create a Support Vector Machine in Python",
+      "URLs": ""
+    },
+    {
+      "Session": "52",
+      "Topic": "12.2 Primal Support Vector Machine",
+      "Learning-Teaching Type": "Offline",
+      "LO": "CLO7",
+      "ITU": "T",
+      "Student Materials": "Textbook Chapter 12",
+      "S-Download": "",
+      "Student's Tasks": "Create a Support Vector Machine in Python",
+      "URLs": ""
+    },
+    {
+      "Session": "53",
+      "Topic": "12.2 Primal Support Vector Machine (cont.)",
+      "Learning-Teaching Type": "Offline",
+      "LO": "CLO7",
+      "ITU": "T, U",
+      "Student Materials": "Textbook Chapter 12",
+      "S-Download": "",
+      "Student's Tasks": "Create a Support Vector Machine in Python",
+      "URLs": ""
+    },
+    {
+      "Session": "54",
+      "Topic": "12.2 Primal Support Vector Machine (cont.)",
+      "Learning-Teaching Type": "Offline",
+      "LO": "CLO7",
+      "ITU": "T",
+      "Student Materials": "Textbook Chapter 12",
+      "S-Download": "",
+      "Student's Tasks": "Create a Support Vector Machine in Python",
+      "URLs": ""
+    },
+    {
+      "Session": "55",
+      "Topic": "12.3 Dual Support Vector Machine",
+      "Learning-Teaching Type": "Offline",
+      "LO": "CLO7",
+      "ITU": "T",
+      "Student Materials": "Textbook Chapter 12",
+      "S-Download": "",
+      "Student's Tasks": "Create a Support Vector Machine in Python",
+      "URLs": ""
+    },
+    {
+      "Session": "56",
+      "Topic": "12.3 Dual Support Vector Machine (cont.)",
+      "Learning-Teaching Type": "Offline",
+      "LO": "CLO7",
+      "ITU": "T, U",
+      "Student Materials": "Textbook Chapter 12",
+      "S-Download": "",
+      "Student's Tasks": "Create a Support Vector Machine in Python",
+      "URLs": ""
+    },
+    {
+      "Session": "57",
+      "Topic": "Optional: 12.4 Kernels",
+      "Learning-Teaching Type": "Offline",
+      "LO": "CLO7",
+      "ITU": "T",
+      "Student Materials": "Textbook Chapter 12",
+      "S-Download": "",
+      "Student's Tasks": "Create a Support Vector Machine in Python",
+      "URLs": ""
+    },
+    {
+      "Session": "58",
+      "Topic": "Optional: 12.5 Numerical Solution",
+      "Learning-Teaching Type": "Offline",
+      "LO": "CLO7",
+      "ITU": "T",
+      "Student Materials": "Textbook Chapter 12",
+      "S-Download": "",
+      "Student's Tasks": "Create a Support Vector Machine in Python",
+      "URLs": ""
+    },
+    {
+      "Session": "59",
+      "Topic": "Presentation of Computer Project",
+      "Learning-Teaching Type": "Offline",
+      "LO": "CLO5, CLO6, CLO7, CLO8",
+      "ITU": "U",
+      "Student Materials": "",
+      "S-Download": "",
+      "Student's Tasks": "",
+      "URLs": ""
+    },
+    {
+      "Session": "60",
+      "Topic": "Presentation of Computer Project (cont.)",
+      "Learning-Teaching Type": "Offline",
+      "LO": "CLO5, CLO6, CLO7, CLO8",
+      "ITU": "U",
+      "Student Materials": "",
+      "S-Download": "",
+      "Student's Tasks": "",
+      "URLs": ""
+    }
+  ],
+  "constructive_questions": [
+    {
+      "No.": "1",
+      "Session No": "1",
+      "Name": "HCM_CQ1",
+      "Details": "Give at least 3 norms in Rn."
+    },
+    {
+      "No.": "2",
+      "Session No": "1",
+      "Name": "HCM_CQ2",
+      "Details": "How a norm can be defined using an inner product?"
+    },
+    {
+      "No.": "3",
+      "Session No": "2",
+      "Name": "HCM_CQ3",
+      "Details": "Explain why the distance between (1, 0, 0) and (2, 0, 0) can differ from 1?"
+    },
+    {
+      "No.": "4",
+      "Session No": "2",
+      "Name": "HCM_CQ4",
+      "Details": "Explain how distances and angles can be used to examine the similarity of two vectors."
+    },
+    {
+      "No.": "5",
+      "Session No": "3",
+      "Name": "HCM_CQ5",
+      "Details": "Why orthonormal sets are important in computing?"
+    },
+    {
+      "No.": "6",
+      "Session No": "4",
+      "Name": "HCM_CQ6",
+      "Details": "Find the projection matrix of the orthogonal projection along the vector b = (b1, b2, b3)."
+    },
+    {
+      "No.": "7",
+      "Session No": "4",
+      "Name": "HCM_CQ7",
+      "Details": "What is the projection matrix of an orthogonal projection onto a vector space spanned by the the set of vectors B = {b1, b2, ..., bm}?"
+    },
+    {
+      "No.": "8",
+      "Session No": "5",
+      "Name": "HCM_CQ8",
+      "Details": "Give explaination with example how elementary operations can be used to compute determinants."
+    },
+    {
+      "No.": "9",
+      "Session No": "6",
+      "Name": "HCM_CQ9",
+      "Details": "Show that eigenvectors from different eigenspace of a symmetric matrix are orthogonal."
+    },
+    {
+      "No.": "10",
+      "Session No": "6",
+      "Name": "HCM_CQ10",
+      "Details": "Give examples to illustrate the Gram-Schmidt process."
+    },
+    {
+      "No.": "11",
+      "Session No": "7",
+      "Name": "HCM_CQ11",
+      "Details": "If A is diagonalizable and with positive eigenvalues; is it possible that there exists some matrix B such that A = B^2?"
+    },
+    {
+      "No.": "12",
+      "Session No": "7",
+      "Name": "HCM_CQ12",
+      "Details": "What are benefits of matrix diagonalization?"
+    },
+    {
+      "No.": "13",
+      "Session No": "8",
+      "Name": "HCM_CQ13",
+      "Details": "Explain why SVD can be performed for every matrix."
+    },
+    {
+      "No.": "14",
+      "Session No": "9",
+      "Name": "HCM_CQ14",
+      "Details": "Compare SVD and eigendecomposition. Give examples."
+    },
+    {
+      "No.": "15",
+      "Session No": "10",
+      "Name": "HCM_CQ15",
+      "Details": "Given an SVD of a 2x3 matrix A, compute the best rank-1 approximation of A."
+    },
+    {
+      "No.": "16",
+      "Session No": "10",
+      "Name": "HCM_CQ16",
+      "Details": "State the formula for calculating the relative error of approximation a matrix using the spectral norm."
+    },
+    {
+      "No.": "17",
+      "Session No": "11",
+      "Name": "HCM_CQ17",
+      "Details": "State the chain rule for univariate functions. Give examples."
+    },
+    {
+      "No.": "18",
+      "Session No": "11",
+      "Name": "HCM_CQ18",
+      "Details": "What is the main benefit of the chain rule?"
+    },
+    {
+      "No.": "19",
+      "Session No": "12",
+      "Name": "HCM_CQ19",
+      "Details": "Given an mxn matrix A and f(x) = Ax. What is the size of the gradient of f with respect to x?"
+    },
+    {
+      "No.": "20",
+      "Session No": "13",
+      "Name": "HCM_CQ20",
+      "Details": "Given an mxn matrix A and f(A) = Ax. What is the size of the gradient of f with respect to A?"
+    },
+    {
+      "No.": "21",
+      "Session No": "14",
+      "Name": "HCM_CQ21",
+      "Details": "State the matrix version of the chain rule for vector-valued functions."
+    },
+    {
+      "No.": "22",
+      "Session No": "16",
+      "Name": "HCM_CQ22",
+      "Details": "What is the backpropagation algorithm?"
+    },
+    {
+      "No.": "23",
+      "Session No": "16",
+      "Name": "HCM_CQ23",
+      "Details": "Why is backpropagation important for neural networks?"
+    },
+    {
+      "No.": "24",
+      "Session No": "17",
+      "Name": "HCM_CQ24",
+      "Details": "What is the Hessian of a function? Give examples."
+    },
+    {
+      "No.": "25",
+      "Session No": "17",
+      "Name": "HCM_CQ25",
+      "Details": "Compare the size of gradient and Hessian."
+    },
+    {
+      "No.": "26",
+      "Session No": "18",
+      "Name": "HCM_CQ26",
+      "Details": "How can we use polynomials to approximate the value of a multivariate function f(x,y)? Give an example."
+    },
+    {
+      "No.": "27",
+      "Session No": "24",
+      "Name": "HCM_CQ27",
+      "Details": "In the 2012 presidential election, exit polls from the critical state of Ohio provided the following results: Total Obama Romney No college degree (60%): 52% 45% College graduate (40%): 47% 51% Give some conclusions you can draw."
+    },
+    {
+      "No.": "28",
+      "Session No": "25",
+      "Name": "HCM_CQ28",
+      "Details": "Give example of a joint probability distribution for two discrete random variables."
+    },
+    {
+      "No.": "29",
+      "Session No": "25",
+      "Name": "HCM_CQ29",
+      "Details": "Give example of a joint distribution for two continuous random variables."
+    },
+    {
+      "No.": "30",
+      "Session No": "26",
+      "Name": "HCM_CQ30",
+      "Details": "Are E(X | Y), E(Y | X), E(XY) the same? Explain and give examples."
+    },
+    {
+      "No.": "31",
+      "Session No": "27",
+      "Name": "HCM_CQ31",
+      "Details": "Assume X is normally distributed with a mean of mu and a standard deviation of sigma. Give some conclusions you can draw."
+    },
+    {
+      "No.": "32",
+      "Session No": "29",
+      "Name": "HCM_CQ32",
+      "Details": "Explain how gradient descent works."
+    },
+    {
+      "No.": "33",
+      "Session No": "29",
+      "Name": "HCM_CQ33",
+      "Details": "What are versions of gradient descent?"
+    },
+    {
+      "No.": "34",
+      "Session No": "30",
+      "Name": "HCM_CQ34",
+      "Details": "What are Lagrange multipliers? Give examples."
+    },
+    {
+      "No.": "35",
+      "Session No": "31",
+      "Name": "HCM_CQ35",
+      "Details": "What are constrained optimization problems?"
+    },
+    {
+      "No.": "36",
+      "Session No": "31",
+      "Name": "HCM_CQ36",
+      "Details": "How are Lagrange multipliers used to solve optimization problem? Give examples."
+    },
+    {
+      "No.": "37",
+      "Session No": "32",
+      "Name": "HCM_CQ37",
+      "Details": "What are convex sets?"
+    },
+    {
+      "No.": "38",
+      "Session No": "32",
+      "Name": "HCM_CQ38",
+      "Details": "Why are convex optimization important?"
+    },
+    {
+      "No.": "39",
+      "Session No": "33",
+      "Name": "HCM_CQ39",
+      "Details": "List some ways you can construct a convex set from two convex sets."
+    },
+    {
+      "No.": "40",
+      "Session No": "34",
+      "Name": "HCM_CQ40",
+      "Details": "What are convex functions?"
+    },
+    {
+      "No.": "41",
+      "Session No": "34",
+      "Name": "HCM_CQ41",
+      "Details": "List some ways you can obtain a convex function from two convex functions."
+    },
+    {
+      "No.": "42",
+      "Session No": "37",
+      "Name": "HCM_CQ42",
+      "Details": "State the problem of simple linear regression."
+    },
+    {
+      "No.": "43",
+      "Session No": "37",
+      "Name": "HCM_CQ43",
+      "Details": "State the multiple linear regression problem in matrix version."
+    },
+    {
+      "No.": "44",
+      "Session No": "38",
+      "Name": "HCM_CQ44",
+      "Details": "What are the assumptions of linear regression?"
+    },
+    {
+      "No.": "45",
+      "Session No": "38",
+      "Name": "HCM_CQ45",
+      "Details": "What does it mean by 'unbiases estimator'?"
+    },
+    {
+      "No.": "46",
+      "Session No": "39",
+      "Name": "HCM_CQ46",
+      "Details": "Find an estimate for linear regression problem using OLS."
+    },
+    {
+      "No.": "47",
+      "Session No": "39",
+      "Name": "HCM_CQ47",
+      "Details": "State the Gauss-Markov theorem."
+    },
+    {
+      "No.": "48",
+      "Session No": "40",
+      "Name": "HCM_CQ48",
+      "Details": "Give a simple example of ML method. Find an estimate of coefficients using ML."
+    },
+    {
+      "No.": "49",
+      "Session No": "41",
+      "Name": "HCM_CQ49",
+      "Details": "What is Bayesian linear regression used for?"
+    },
+    {
+      "No.": "50",
+      "Session No": "43",
+      "Name": "HCM_CQ50",
+      "Details": "State the goal of PCA."
+    },
+    {
+      "No.": "51",
+      "Session No": "43",
+      "Name": "HCM_CQ51",
+      "Details": "Explain the concepts: data covariance matrix, principal components, eigenvalues, eigenvectors."
+    },
+    {
+      "No.": "52",
+      "Session No": "44",
+      "Name": "HCM_CQ52",
+      "Details": "Why 'maximum variance' instead of 'minimum'?"
+    },
+    {
+      "No.": "53",
+      "Session No": "45",
+      "Name": "HCM_CQ53",
+      "Details": "How can we choose the first PC?"
+    },
+    {
+      "No.": "54",
+      "Session No": "45",
+      "Name": "HCM_CQ54",
+      "Details": "How can we choose the second PC?"
+    },
+    {
+      "No.": "55",
+      "Session No": "46",
+      "Name": "HCM_CQ55",
+      "Details": "How can we choose the next PC after we have chosen m-1 PCs?"
+    },
+    {
+      "No.": "56",
+      "Session No": "48",
+      "Name": "HCM_CQ56",
+      "Details": "What is the relationship between PCA and SVD?"
+    },
+    {
+      "No.": "57",
+      "Session No": "48",
+      "Name": "HCM_CQ57",
+      "Details": "How can we apply PCA to the so-called eigenfaces?"
+    },
+    {
+      "No.": "58",
+      "Session No": "49",
+      "Name": "HCM_CQ58",
+      "Details": "Why is large dimensionality a concern in PCA?"
+    },
+    {
+      "No.": "59",
+      "Session No": "50",
+      "Name": "HCM_CQ59",
+      "Details": "What are key steps to perform PCA in practice?"
+    },
+    {
+      "No.": "60",
+      "Session No": "50",
+      "Name": "HCM_CQ60",
+      "Details": "Which step in PCA is the most important?"
+    },
+    {
+      "No.": "61",
+      "Session No": "51",
+      "Name": "HCM_CQ61",
+      "Details": "What are hyperplane? Give examples."
+    },
+    {
+      "No.": "62",
+      "Session No": "52",
+      "Name": "HCM_CQ62",
+      "Details": "State the goal of SVM."
+    },
+    {
+      "No.": "63",
+      "Session No": "52",
+      "Name": "HCM_CQ63",
+      "Details": "Explain the concepts: hyperplane, margin."
+    },
+    {
+      "No.": "64",
+      "Session No": "53",
+      "Name": "HCM_CQ64",
+      "Details": "Is finding SVM a convex optimization problem?"
+    },
+    {
+      "No.": "65",
+      "Session No": "54",
+      "Name": "HCM_CQ65",
+      "Details": "What are hard margin SVMs?"
+    },
+    {
+      "No.": "66",
+      "Session No": "54",
+      "Name": "HCM_CQ66",
+      "Details": "What are soft margin SVMs?"
+    },
+    {
+      "No.": "67",
+      "Session No": "55",
+      "Name": "HCM_CQ67",
+      "Details": "Why dual?"
+    },
+    {
+      "No.": "68",
+      "Session No": "56",
+      "Name": "HCM_CQ68",
+      "Details": "What are support vectors?"
+    },
+    {
+      "No.": "69",
+      "Session No": "56",
+      "Name": "HCM_CQ69",
+      "Details": "How can we find all support vectors?"
+    },
+    {
+      "No.": "70",
+      "Session No": "57",
+      "Name": "HCM_CQ70",
+      "Details": "What are kernel SVMs?"
+    },
+    {
+      "No.": "71",
+      "Session No": "57",
+      "Name": "HCM_CQ71",
+      "Details": "Why are kernel tricks important?"
+    },
+    {
+      "No.": "72",
+      "Session No": "58",
+      "Name": "HCM_CQ72",
+      "Details": "Why are numerical solutions important?"
+    }
+  ],
+  "materials": [
+    {
+      "No.": "1",
+      "Material Description": "Mathematics for Machine Learning",
+      "Author": "M. P. Deisenroth, A. Faisal, Ch. S. Ong",
+      "Publisher": "Cambrige Univeristy Press",
+      "Published Date": "2020",
+      "Edition": "1st",
+      "ISBN": "",
+      "Is Main Material": "True",
+      "Is Hard Copy": "False",
+      "Is Online": "True",
+      "Note": "https://mml-book.github.io/?fbclid=IwAR2WAfBUZe-E6O-pbbGL3k6E7KngL8F9sbOqraZr9LD14PAnHw6Y_e-O6Q4"
+    },
+    {
+      "No.": "2",
+      "Material Description": "PDF Slides",
+      "Author": "Instructors",
+      "Publisher": "",
+      "Published Date": "",
+      "Edition": "",
+      "ISBN": "",
+      "Is Main Material": "False",
+      "Is Hard Copy": "False",
+      "Is Online": "False",
+      "Note": ""
+    },
+    {
+      "No.": "3",
+      "Material Description": "Machine Learning cơ bản",
+      "Author": "Vũ Hữu Tiệp",
+      "Publisher": "",
+      "Published Date": "",
+      "Edition": "",
+      "ISBN": "",
+      "Is Main Material": "False",
+      "Is Hard Copy": "False",
+      "Is Online": "True",
+      "Note": "https://github.com/tiepvupsu/ebookMLCB/blob/master/book_ML.pdf"
+    },
+    {
+      "No.": "4",
+      "Material Description": "Multivariate Calculus",
+      "Author": "Denis Auroux",
+      "Publisher": "MIT OpenCourseWare",
+      "Published Date": "",
+      "Edition": "",
+      "ISBN": "",
+      "Is Main Material": "False",
+      "Is Hard Copy": "False",
+      "Is Online": "True",
+      "Note": "https://ocw.mit.edu/courses/mathematics/18-02sc-multivariable-calculus-fall-2010/index.htm"
+    },
+    {
+      "No.": "5",
+      "Material Description": "Mathematics for machine learning",
+      "Author": "Mirror Neuron Chanel",
+      "Publisher": "",
+      "Published Date": "",
+      "Edition": "",
+      "ISBN": "",
+      "Is Main Material": "False",
+      "Is Hard Copy": "False",
+      "Is Online": "True",
+      "Note": "https://www.youtube.com/playlist?list=PLcQCwsZDEzFmlSc6levE3UV9rZ8yY-D_7"
+    },
+    {
+      "No.": "6",
+      "Material Description": "Mathematics for machine Learning",
+      "Author": "Digital Learning Hub - Imperial College London Chanel",
+      "Publisher": "",
+      "Published Date": "",
+      "Edition": "",
+      "ISBN": "",
+      "Is Main Material": "False",
+      "Is Hard Copy": "False",
+      "Is Online": "True",
+      "Note": "https://www.youtube.com/channel/UCSzae1ITUdw9DCdELMduaQw/playlists"
+    },
+    {
+      "No.": "7",
+      "Material Description": "Linear Algebra Done Right",
+      "Author": "Sheldon Axler",
+      "Publisher": "Springer",
+      "Published Date": "2015",
+      "Edition": "3rd",
+      "ISBN": "",
+      "Is Main Material": "False",
+      "Is Hard Copy": "False",
+      "Is Online": "True",
+      "Note": ""
+    },
+    {
+      "No.": "8",
+      "Material Description": "Machine Learning",
+      "Author": "Andrew Ng",
+      "Publisher": "Stanford Chanel",
+      "Published Date": "",
+      "Edition": "",
+      "ISBN": "",
+      "Is Main Material": "False",
+      "Is Hard Copy": "False",
+      "Is Online": "True",
+      "Note": "https://www.youtube.com/watch?v=UzxYlbK2c7E&list=PLA89DCFA6ADACE599&index=1"
+    },
+    {
+      "No.": "9",
+      "Material Description": "Mathematics for Machine Learning",
+      "Author": "Cousera",
+      "Publisher": "",
+      "Published Date": "",
+      "Edition": "",
+      "ISBN": "",
+      "Is Main Material": "False",
+      "Is Hard Copy": "False",
+      "Is Online": "True",
+      "Note": "https://www.coursera.org/specializations/mathematics-machine-learning"
+    }
+  ],
+  "source_path": "data/raw/syllabi/13133.html",
+  "id": "syllabus:13133"
+}

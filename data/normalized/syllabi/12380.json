@@ -1,0 +1,1127 @@
+{
+  "syllabus_id": 12380,
+  "subject_code": "LOG311",
+  "subject_name": "Customs Operations_Nghiệp vụ Hải quan",
+  "syllabus_name": "Customs Operations - Nghiệp vụ hải quan",
+  "credits": 3,
+  "degree_level": "Bachelor",
+  "time_allocation": "Study hour (150h) = 45h (60 sessions) contact hours + 1h final exam + 104h self-study",
+  "prerequisite": "SCM201 & IEI301/IIP301",
+  "general_information": {
+    "Syllabus ID": "12380",
+    "Syllabus Name": "Customs Operations - Nghiệp vụ hải quan",
+    "Course Name English": "Customs Operation",
+    "Subject Code": "LOG311",
+    "Learning-Teaching Method": "Lecture,Presenting,Practice,discussion,groupwork",
+    "NoCredit": "3",
+    "Degree Level": "Bachelor",
+    "Time Allocation": "Study hour (150h) = 45h (60 sessions) contact hours + 1h final exam + 104h self-study",
+    "Pre-Requisite": "SCM201 & IEI301/IIP301",
+    "Description": "This course is designed to provide students with a comprehensive understanding of the entire customs process and practice in international trade. It is suitable for anyone who needs to know more about the processes involved in getting your goods through customs smoothly and efficiently. AI Tools will be used to support students in (1) generating ideas/structures for their speaking notes and slide structure of important topics of the course. (2) editing the slide set after students have already finished it.",
+    "StudentTasks": "- Attend at least 80% of contact hours in order to be accepted to the final examination - Actively participate in class activities - Fulfill tasks given by instructor after class - Use their own laptop in class only for learning purpose - Read the textbook in advance - Access the course website (www.flm.fpt.edu.vn) for up-to-date information and material of the course, for online supports from teachers and other students and for practicing and assessment.",
+    "Tools": "- Laptop computer - Internet - Class room for lecture sessions",
+    "Scoring Scale": "10",
+    "DecisionNo MM/dd/yyyy": "1363/QĐ-ĐHFPT dated 12/06/2024",
+    "IsApproved": "True",
+    "Note": "",
+    "Is Scored": "True",
+    "MinAvgMarkToPass": "5",
+    "IsActive": "True",
+    "ApprovedDate": "12/6/2024"
+  },
+  "active": true,
+  "approved": true,
+  "decision": "1363/QĐ-ĐHFPT dated 12/06/2024",
+  "description": "This course is designed to provide students with a comprehensive understanding of the entire customs process and practice in international trade. It is suitable for anyone who needs to know more about the processes involved in getting your goods through customs smoothly and efficiently. AI Tools will be used to support students in (1) generating ideas/structures for their speaking notes and slide structure of important topics of the course. (2) editing the slide set after students have already finished it.",
+  "learning_outcomes": [
+    {
+      "No.": "1",
+      "CLO Name": "CLO1",
+      "CLO Details": "To explain the concept and practice of customs procedures"
+    },
+    {
+      "No.": "2",
+      "CLO Name": "CLO2",
+      "CLO Details": "To get insight into globlization, import & export, Incoterm 2010, 2020"
+    },
+    {
+      "No.": "3",
+      "CLO Name": "CLO3",
+      "CLO Details": "To describe customs examination."
+    },
+    {
+      "No.": "4",
+      "CLO Name": "CLO4",
+      "CLO Details": "To understand customs surveillance and control"
+    },
+    {
+      "No.": "5",
+      "CLO Name": "CLO5",
+      "CLO Details": "To summerize and interpret State management on customs"
+    },
+    {
+      "No.": "6",
+      "CLO Name": "CLO6",
+      "CLO Details": "To identify risk management on customs operations."
+    },
+    {
+      "No.": "7",
+      "CLO Name": "CLO7",
+      "CLO Details": "To evaluate the development of customs internationally and in Vietnam"
+    },
+    {
+      "No.": "8",
+      "CLO Name": "CLO8",
+      "CLO Details": "To apply the understanding of customs procedures into customs declaration and taxation"
+    },
+    {
+      "No.": "9",
+      "CLO Name": "CLO9",
+      "CLO Details": "To practice the professional attitude and skills of achieving understanding of customs operation in international business"
+    }
+  ],
+  "assessments": [
+    {
+      "No.": "1",
+      "Category": "Essay test",
+      "Type": "on-going",
+      "Part": "1",
+      "Weight": "15.0%",
+      "Completion Criteria": ">0",
+      "Duration": "45 mins - 60 mins",
+      "CLO": "CLO1, CLO2, CLO3, CLO4, CLO5, CLO6, CLO7",
+      "Question Type": "Comprehensive exercises",
+      "No Question": "2",
+      "Knowledge and Skill": "Chap 1, 2, 3, 4, 5, 6, 7, 8",
+      "Grading Guide": "In class",
+      "Note": ""
+    },
+    {
+      "No.": "2",
+      "Category": "Group Assignment",
+      "Type": "on-going",
+      "Part": "1",
+      "Weight": "20.0%",
+      "Completion Criteria": ">0",
+      "Duration": "4 weeks",
+      "CLO": "CLO1, CLO2, CLO3, CLO4, CLO5, CLO6, CLO7, CLO8, CLO9",
+      "Question Type": "Case study - Report and Presentation in class (end of the course)",
+      "No Question": "",
+      "Knowledge and Skill": "Integration of studied knowledge and skills",
+      "Grading Guide": "Thinking creatively, making decisions, solving problems, Personal qualities: Individual responsibility, self-esteem, sociability, self-management, and integrity.",
+      "Note": "Group's mark considered as related individual's mark"
+    },
+    {
+      "No.": "3",
+      "Category": "Individual Assignment",
+      "Type": "on-going",
+      "Part": "1",
+      "Weight": "15.0%",
+      "Completion Criteria": ">0",
+      "Duration": "4 weeks",
+      "CLO": "CLO1, CLO2, CLO3, CLO4, CLO5, CLO6, CLO7, CLO8, CLO9",
+      "Question Type": "1,500 word - report",
+      "No Question": "",
+      "Knowledge and Skill": "Integration of studied knowledge and skills",
+      "Grading Guide": "Thinking creatively, making decisions, solving problems, Personal qualities: Individual responsibility, self-esteem, sociability, self-management, and integrity.",
+      "Note": ""
+    },
+    {
+      "No.": "4",
+      "Category": "Midterm test",
+      "Type": "on-going",
+      "Part": "1",
+      "Weight": "10.0%",
+      "Completion Criteria": ">0",
+      "Duration": "45 mins",
+      "CLO": "CLO1, CLO2, CLO3, CLO4, CLO5, CLO6, CLO7",
+      "Question Type": "Multiple choice questions and/or comprehensive exercises",
+      "No Question": "50",
+      "Knowledge and Skill": "Chap 1, 2, 3, 4, 5, 6, 7, 8",
+      "Grading Guide": "In class",
+      "Note": "This test will be given at various times during class (beginning, middle or end)."
+    },
+    {
+      "No.": "5",
+      "Category": "Quiz 1",
+      "Type": "on-going",
+      "Part": "1",
+      "Weight": "5.0%",
+      "Completion Criteria": ">0",
+      "Duration": "30 mins - 45 mins",
+      "CLO": "CLO1, CLO2, CLO3, CLO4",
+      "Question Type": "Multiple choice questions and/or exercises",
+      "No Question": "50",
+      "Knowledge and Skill": "Chaps 1, 2, 3, 4",
+      "Grading Guide": "In class",
+      "Note": "These quizzes will be given at various times during class (beginning, middle or end)."
+    },
+    {
+      "No.": "6",
+      "Category": "Quiz 2",
+      "Type": "on-going",
+      "Part": "1",
+      "Weight": "5.0%",
+      "Completion Criteria": ">0",
+      "Duration": "30 mins - 45 mins",
+      "CLO": "CLO5",
+      "Question Type": "Multiple choice questions and/or exercises",
+      "No Question": "50",
+      "Knowledge and Skill": "Chaps 5, 6",
+      "Grading Guide": "In class",
+      "Note": "These quizzes will be given at various times during class (beginning, middle or end)."
+    },
+    {
+      "No.": "7",
+      "Category": "Final exam",
+      "Type": "Final exam",
+      "Part": "1",
+      "Weight": "30.0%",
+      "Completion Criteria": "4",
+      "Duration": "60 minutes",
+      "CLO": "CLO1, CLO2, CLO3, CLO4, CLO5, CLO6, CLO7, CLO8, CLO9",
+      "Question Type": "MCQ",
+      "No Question": "50",
+      "Knowledge and Skill": "By Exam board",
+      "Grading Guide": "",
+      "Note": ""
+    }
+  ],
+  "schedule": [
+    {
+      "Session": "1",
+      "Topic": "Chapter 1 Customs Procedures 1. Customs organization and its roles. 2. Foudamentals of customs procedure. 3. Legal aspects of customs procedure",
+      "Learning-Teaching Type": "offline",
+      "LO": "CLO1",
+      "ITU": "IT",
+      "Student Materials": "Powerpoint, reference books, additional materials",
+      "S-Download": "",
+      "Student's Tasks": "",
+      "URLs": "link"
+    },
+    {
+      "Session": "2",
+      "Topic": "Chapter 1 Customs Procedures 1. Customs organization and its roles. 2. Foudamentals of customs procedure. 3. Legal aspects of customs procedure",
+      "Learning-Teaching Type": "offline",
+      "LO": "CLO1",
+      "ITU": "I,T",
+      "Student Materials": "Powerpoint, reference books, additional materials",
+      "S-Download": "",
+      "Student's Tasks": "",
+      "URLs": ""
+    },
+    {
+      "Session": "3",
+      "Topic": "Chapter 1 Customs Procedures (cont.) 4. Customs declaration. 5. Customs clearance 6. Customs process",
+      "Learning-Teaching Type": "offline",
+      "LO": "CLO1",
+      "ITU": "T",
+      "Student Materials": "Powerpoint, reference books, additional materials",
+      "S-Download": "",
+      "Student's Tasks": "",
+      "URLs": ""
+    },
+    {
+      "Session": "4",
+      "Topic": "Chapter 1 Customs Procedures (cont.) 4. Customs declaration. 5. Customs clearance 6. Customs process",
+      "Learning-Teaching Type": "offline",
+      "LO": "CLO1",
+      "ITU": "T",
+      "Student Materials": "Powerpoint, reference books, additional materials",
+      "S-Download": "",
+      "Student's Tasks": "",
+      "URLs": ""
+    },
+    {
+      "Session": "5",
+      "Topic": "Chapter 1 Globlization, international trade (cont.) 7. Globlization and its impact to world trade and goods movement 8. Internation trade",
+      "Learning-Teaching Type": "offline",
+      "LO": "CLO2",
+      "ITU": "T",
+      "Student Materials": "Powerpoint, reference books, additional materials",
+      "S-Download": "",
+      "Student's Tasks": "",
+      "URLs": ""
+    },
+    {
+      "Session": "6",
+      "Topic": "Chapter 1 Globlization, international trade (cont.) 7. Globlization and its impact to world trade and goods movement 8. Internation trade",
+      "Learning-Teaching Type": "offline",
+      "LO": "CLO2",
+      "ITU": "T",
+      "Student Materials": "Powerpoint, reference books, additional materials",
+      "S-Download": "",
+      "Student's Tasks": "",
+      "URLs": ""
+    },
+    {
+      "Session": "7",
+      "Topic": "Chapter 1 Import-export, Incoterm 2010, 2020 (Cont.) 9. Import and export process",
+      "Learning-Teaching Type": "offline",
+      "LO": "CLO2",
+      "ITU": "T",
+      "Student Materials": "Powerpoint, reference books, additional materials",
+      "S-Download": "",
+      "Student's Tasks": "",
+      "URLs": ""
+    },
+    {
+      "Session": "8",
+      "Topic": "Chapter 1 Import-export, Incoterm 2010, 2020 (Cont.) 9. Import and export process",
+      "Learning-Teaching Type": "offline",
+      "LO": "CLO2",
+      "ITU": "T",
+      "Student Materials": "Powerpoint, reference books, additional materials",
+      "S-Download": "",
+      "Student's Tasks": "",
+      "URLs": ""
+    },
+    {
+      "Session": "9",
+      "Topic": "Chapter 1 Import-export, Incoterm 2010, 2020 10. Incoterm 2010 and incoterm 2020",
+      "Learning-Teaching Type": "offline",
+      "LO": "CLO2",
+      "ITU": "T",
+      "Student Materials": "Powerpoint, reference books, additional materials",
+      "S-Download": "",
+      "Student's Tasks": "",
+      "URLs": ""
+    },
+    {
+      "Session": "10",
+      "Topic": "Chapter 1 Import-export, Incoterm 2010, 2020 10. Incoterm 2010 and incoterm 2020",
+      "Learning-Teaching Type": "offline",
+      "LO": "CLO2",
+      "ITU": "T",
+      "Student Materials": "Powerpoint, reference books, additional materials",
+      "S-Download": "",
+      "Student's Tasks": "",
+      "URLs": ""
+    },
+    {
+      "Session": "11",
+      "Topic": "Chapter 2. Customs Examination 1. Customs examination 2. Customs dossier check 3. Physical check",
+      "Learning-Teaching Type": "offline",
+      "LO": "CLO3",
+      "ITU": "U,T",
+      "Student Materials": "Powerpoint, reference books, additional materials",
+      "S-Download": "",
+      "Student's Tasks": "",
+      "URLs": ""
+    },
+    {
+      "Session": "12",
+      "Topic": "Chapter 2. Customs Examination 1. Customs examination 2. Customs dossier check 3. Physical check",
+      "Learning-Teaching Type": "offline",
+      "LO": "CLO3",
+      "ITU": "U,T",
+      "Student Materials": "Powerpoint, reference books, additional materials",
+      "S-Download": "",
+      "Student's Tasks": "",
+      "URLs": ""
+    },
+    {
+      "Session": "13",
+      "Topic": "Chapter 2. Customs Examination (cont.) 4. Post-clearance audit 5. Customs supporting functions",
+      "Learning-Teaching Type": "offline",
+      "LO": "CLO3",
+      "ITU": "T",
+      "Student Materials": "Powerpoint, reference books, additional materials",
+      "S-Download": "",
+      "Student's Tasks": "",
+      "URLs": ""
+    },
+    {
+      "Session": "14",
+      "Topic": "Chapter 2. Customs Examination (cont.) 4. Post-clearance audit 5. Customs supporting functions",
+      "Learning-Teaching Type": "offline",
+      "LO": "CLO3",
+      "ITU": "T",
+      "Student Materials": "Powerpoint, reference books, additional materials",
+      "S-Download": "",
+      "Student's Tasks": "",
+      "URLs": ""
+    },
+    {
+      "Session": "15",
+      "Topic": "Chapter 3. Customs surveillance 1. Customs surveillance. 2. Legal basis for customs surveillance activities.",
+      "Learning-Teaching Type": "offline",
+      "LO": "CLO4",
+      "ITU": "U,T",
+      "Student Materials": "Powerpoint, reference books, additional materials",
+      "S-Download": "",
+      "Student's Tasks": "",
+      "URLs": ""
+    },
+    {
+      "Session": "16",
+      "Topic": "Chapter 3. Customs surveillance 1. Customs surveillance. 2. Legal basis for customs surveillance activities.",
+      "Learning-Teaching Type": "offline",
+      "LO": "CLO4",
+      "ITU": "U,T",
+      "Student Materials": "Powerpoint, reference books, additional materials",
+      "S-Download": "",
+      "Student's Tasks": "",
+      "URLs": ""
+    },
+    {
+      "Session": "17",
+      "Topic": "Chapter 3. Customs surveillance (cont.) 3. Methos of customs surveillance 4. Responsibilities of customs surveillance.",
+      "Learning-Teaching Type": "offline",
+      "LO": "CLO4",
+      "ITU": "T",
+      "Student Materials": "Powerpoint, reference books, additional materials",
+      "S-Download": "",
+      "Student's Tasks": "",
+      "URLs": ""
+    },
+    {
+      "Session": "18",
+      "Topic": "Chapter 3. Customs surveillance (cont.) 3. Methos of customs surveillance 4. Responsibilities of customs surveillance.",
+      "Learning-Teaching Type": "offline",
+      "LO": "CLO4",
+      "ITU": "T",
+      "Student Materials": "Powerpoint, reference books, additional materials",
+      "S-Download": "",
+      "Student's Tasks": "",
+      "URLs": ""
+    },
+    {
+      "Session": "19",
+      "Topic": "Chapter 4. Customs duty and tariff 1. Customs duty and tariff 2. Legal bindings in customs duty and tariiff",
+      "Learning-Teaching Type": "offline",
+      "LO": "CLO4",
+      "ITU": "T",
+      "Student Materials": "Powerpoint, reference books, additional materials",
+      "S-Download": "",
+      "Student's Tasks": "",
+      "URLs": ""
+    },
+    {
+      "Session": "20",
+      "Topic": "Chapter 4. Customs duty and tariff 1. Customs duty and tariff 2. Legal bindings in customs duty and tariiff",
+      "Learning-Teaching Type": "offline",
+      "LO": "CLO4",
+      "ITU": "T",
+      "Student Materials": "Powerpoint, reference books, additional materials",
+      "S-Download": "",
+      "Student's Tasks": "",
+      "URLs": ""
+    },
+    {
+      "Session": "21",
+      "Topic": "Chapter 4. Customs duty and tariff (cont.) 3. Tax collection 4. Taxation",
+      "Learning-Teaching Type": "offline",
+      "LO": "CLO4",
+      "ITU": "T",
+      "Student Materials": "Powerpoint, reference books, additional materials",
+      "S-Download": "",
+      "Student's Tasks": "",
+      "URLs": ""
+    },
+    {
+      "Session": "22",
+      "Topic": "Chapter 4. Customs duty and tariff (cont.) 3. Tax collection 4. Taxation",
+      "Learning-Teaching Type": "offline",
+      "LO": "CLO4",
+      "ITU": "T",
+      "Student Materials": "Powerpoint, reference books, additional materials",
+      "S-Download": "",
+      "Student's Tasks": "",
+      "URLs": ""
+    },
+    {
+      "Session": "23",
+      "Topic": "Practice Chap 1,2,3,4 Release and Guidelines on Individual assignment",
+      "Learning-Teaching Type": "offline",
+      "LO": "CLO1, CLO2, CLO3, CLO4",
+      "ITU": "U",
+      "Student Materials": "Powerpoint, reference books, additional materials",
+      "S-Download": "",
+      "Student's Tasks": "",
+      "URLs": ""
+    },
+    {
+      "Session": "24",
+      "Topic": "Practice Chap 1,2,3,4 Release and Guidelines on Individual assignment",
+      "Learning-Teaching Type": "offline",
+      "LO": "CLO1, CLO2, CLO3, CLO4",
+      "ITU": "U",
+      "Student Materials": "Powerpoint, reference books, additional materials",
+      "S-Download": "",
+      "Student's Tasks": "",
+      "URLs": ""
+    },
+    {
+      "Session": "25",
+      "Topic": "Review: Chap 1,2,3,4",
+      "Learning-Teaching Type": "offline",
+      "LO": "",
+      "ITU": "U",
+      "Student Materials": "Powerpoint, reference books, additional materials",
+      "S-Download": "",
+      "Student's Tasks": "",
+      "URLs": ""
+    },
+    {
+      "Session": "26",
+      "Topic": "Quiz 1: Chap 1,2,3,4",
+      "Learning-Teaching Type": "offline",
+      "LO": "",
+      "ITU": "U",
+      "Student Materials": "Powerpoint, reference books, additional materials",
+      "S-Download": "",
+      "Student's Tasks": "",
+      "URLs": ""
+    },
+    {
+      "Session": "27",
+      "Topic": "Chapter 5. Customs control 1. Rationel in customs control 2. Legal basis of customs control",
+      "Learning-Teaching Type": "offline",
+      "LO": "CLO4",
+      "ITU": "U,T",
+      "Student Materials": "Powerpoint, reference books, additional materials",
+      "S-Download": "",
+      "Student's Tasks": "",
+      "URLs": ""
+    },
+    {
+      "Session": "28",
+      "Topic": "Chapter 5. Customs control 1. Rationel in customs control 2. Legal basis of customs control",
+      "Learning-Teaching Type": "offline",
+      "LO": "CLO4",
+      "ITU": "U,T",
+      "Student Materials": "Powerpoint, reference books, additional materials",
+      "S-Download": "",
+      "Student's Tasks": "",
+      "URLs": ""
+    },
+    {
+      "Session": "29",
+      "Topic": "Chapter 5. Customs control (cont.) 3. Content, method of customs control 4. Rights and resonsibility of customs controllers",
+      "Learning-Teaching Type": "offline",
+      "LO": "CLO4",
+      "ITU": "T",
+      "Student Materials": "Powerpoint, reference books, additional materials",
+      "S-Download": "",
+      "Student's Tasks": "",
+      "URLs": ""
+    },
+    {
+      "Session": "30",
+      "Topic": "Chapter 5. Customs control (cont.) 3. Content, method of customs control 4. Rights and resonsibility of customs controllers",
+      "Learning-Teaching Type": "offline",
+      "LO": "CLO4",
+      "ITU": "T",
+      "Student Materials": "Powerpoint, reference books, additional materials",
+      "S-Download": "",
+      "Student's Tasks": "",
+      "URLs": ""
+    },
+    {
+      "Session": "31",
+      "Topic": "Chapter 6. State management on Customs 1. State management on customs 2. Forms of state manament",
+      "Learning-Teaching Type": "offline",
+      "LO": "CLO5",
+      "ITU": "U,T",
+      "Student Materials": "Powerpoint, reference books, additional materials",
+      "S-Download": "",
+      "Student's Tasks": "",
+      "URLs": ""
+    },
+    {
+      "Session": "32",
+      "Topic": "Chapter 6. State management on Customs 1. State management on customs 2. Forms of state manament",
+      "Learning-Teaching Type": "offline",
+      "LO": "CLO5",
+      "ITU": "U,T",
+      "Student Materials": "Powerpoint, reference books, additional materials",
+      "S-Download": "",
+      "Student's Tasks": "",
+      "URLs": ""
+    },
+    {
+      "Session": "33",
+      "Topic": "Chapter 6. State management on Customs (cont.) 3. Management policies on import, export 4. Related departments' funcitons",
+      "Learning-Teaching Type": "offline",
+      "LO": "CLO5",
+      "ITU": "T",
+      "Student Materials": "Powerpoint, reference books, additional materials",
+      "S-Download": "",
+      "Student's Tasks": "",
+      "URLs": ""
+    },
+    {
+      "Session": "34",
+      "Topic": "Chapter 6. State management on Customs (cont.) 3. Management policies on import, export 4. Related departments' funcitons",
+      "Learning-Teaching Type": "offline",
+      "LO": "CLO5",
+      "ITU": "T",
+      "Student Materials": "Powerpoint, reference books, additional materials",
+      "S-Download": "",
+      "Student's Tasks": "",
+      "URLs": ""
+    },
+    {
+      "Session": "35",
+      "Topic": "Review: Chap 5,6",
+      "Learning-Teaching Type": "offline",
+      "LO": "",
+      "ITU": "U",
+      "Student Materials": "Powerpoint, reference books, additional materials",
+      "S-Download": "",
+      "Student's Tasks": "",
+      "URLs": ""
+    },
+    {
+      "Session": "36",
+      "Topic": "Quiz 2: Chap 5,6",
+      "Learning-Teaching Type": "offline",
+      "LO": "",
+      "ITU": "U",
+      "Student Materials": "Powerpoint, reference books, additional materials",
+      "S-Download": "",
+      "Student's Tasks": "",
+      "URLs": ""
+    },
+    {
+      "Session": "37",
+      "Topic": "Chapter 7. Risk management on customs activities Release and Guidelines on Group 1. Basics of risk management in costoms operations 2. Legal corridors for risk management",
+      "Learning-Teaching Type": "offline",
+      "LO": "CLO6",
+      "ITU": "T, U",
+      "Student Materials": "Powerpoint, reference books, additional materials",
+      "S-Download": "",
+      "Student's Tasks": "",
+      "URLs": ""
+    },
+    {
+      "Session": "38",
+      "Topic": "Chapter 7. Risk management on customs activities Release and Guidelines on Group 1. Basics of risk management in costoms operations 2. Legal corridors for risk management",
+      "Learning-Teaching Type": "offline",
+      "LO": "CLO6",
+      "ITU": "T, U",
+      "Student Materials": "Powerpoint, reference books, additional materials",
+      "S-Download": "",
+      "Student's Tasks": "",
+      "URLs": ""
+    },
+    {
+      "Session": "39",
+      "Topic": "Chapter 7. Risk management on customs activities(cont.) 3. Risk management process 4. Application of risk management approaches",
+      "Learning-Teaching Type": "offline",
+      "LO": "CLO6",
+      "ITU": "T, U",
+      "Student Materials": "Powerpoint, reference books, additional materials",
+      "S-Download": "",
+      "Student's Tasks": "",
+      "URLs": ""
+    },
+    {
+      "Session": "40",
+      "Topic": "Chapter 7. Risk management on customs activities(cont.) 3. Risk management process 4. Application of risk management approaches",
+      "Learning-Teaching Type": "offline",
+      "LO": "CLO6",
+      "ITU": "T, U",
+      "Student Materials": "Powerpoint, reference books, additional materials",
+      "S-Download": "",
+      "Student's Tasks": "",
+      "URLs": ""
+    },
+    {
+      "Session": "41",
+      "Topic": "Chapter 8. Vietnam Customs modernization 1. Vietnam customs modernization, case studies of developed countries",
+      "Learning-Teaching Type": "offline",
+      "LO": "CLO7",
+      "ITU": "T",
+      "Student Materials": "Powerpoint, reference books, additional materials",
+      "S-Download": "",
+      "Student's Tasks": "",
+      "URLs": ""
+    },
+    {
+      "Session": "42",
+      "Topic": "Chapter 8. Vietnam Customs modernization 1. Vietnam customs modernization, case studies of developed countries",
+      "Learning-Teaching Type": "offline",
+      "LO": "CLO7",
+      "ITU": "T",
+      "Student Materials": "Powerpoint, reference books, additional materials",
+      "S-Download": "",
+      "Student's Tasks": "",
+      "URLs": ""
+    },
+    {
+      "Session": "43",
+      "Topic": "Review chap 7,8",
+      "Learning-Teaching Type": "offline",
+      "LO": "CLO6, CLO7",
+      "ITU": "T",
+      "Student Materials": "Powerpoint, reference books, additional materials",
+      "S-Download": "",
+      "Student's Tasks": "",
+      "URLs": ""
+    },
+    {
+      "Session": "44",
+      "Topic": "Review chap 7,8",
+      "Learning-Teaching Type": "offline",
+      "LO": "CLO6, CLO7",
+      "ITU": "T",
+      "Student Materials": "Powerpoint, reference books, additional materials",
+      "S-Download": "",
+      "Student's Tasks": "",
+      "URLs": ""
+    },
+    {
+      "Session": "45",
+      "Topic": "Review Chap 1,2,3,4,5,6,7,8",
+      "Learning-Teaching Type": "offline",
+      "LO": "",
+      "ITU": "U",
+      "Student Materials": "Powerpoint, reference books, additional materials",
+      "S-Download": "",
+      "Student's Tasks": "",
+      "URLs": ""
+    },
+    {
+      "Session": "46",
+      "Topic": "MIDTERM: Chap 1,2,3,4,5,6,7,8",
+      "Learning-Teaching Type": "offline",
+      "LO": "",
+      "ITU": "U",
+      "Student Materials": "Powerpoint, reference books, additional materials",
+      "S-Download": "",
+      "Student's Tasks": "",
+      "URLs": ""
+    },
+    {
+      "Session": "47",
+      "Topic": "Practice 1. Simulate mock custom process 2. Practice HS code 3. Practice taxation",
+      "Learning-Teaching Type": "offline",
+      "LO": "CLO8, CLO9",
+      "ITU": "U",
+      "Student Materials": "Powerpoint, reference books, additional materials",
+      "S-Download": "",
+      "Student's Tasks": "",
+      "URLs": ""
+    },
+    {
+      "Session": "48",
+      "Topic": "Practice 1. Simulate mock custom process 2. Practice HS code 3. Practice taxation",
+      "Learning-Teaching Type": "offline",
+      "LO": "CLO8, CLO9",
+      "ITU": "U",
+      "Student Materials": "Powerpoint, reference books, additional materials",
+      "S-Download": "",
+      "Student's Tasks": "",
+      "URLs": ""
+    },
+    {
+      "Session": "49",
+      "Topic": "Practice 1. Simulate mock custom process 2. Practice HS code 3. Practice taxation",
+      "Learning-Teaching Type": "offline",
+      "LO": "CLO8, CLO9",
+      "ITU": "U",
+      "Student Materials": "Powerpoint, reference books, additional materials",
+      "S-Download": "",
+      "Student's Tasks": "",
+      "URLs": ""
+    },
+    {
+      "Session": "50",
+      "Topic": "Practice 1. Simulate mock custom process 2. Practice HS code 3. Practice taxation",
+      "Learning-Teaching Type": "offline",
+      "LO": "CLO8, CLO9",
+      "ITU": "U",
+      "Student Materials": "Powerpoint, reference books, additional materials",
+      "S-Download": "",
+      "Student's Tasks": "",
+      "URLs": ""
+    },
+    {
+      "Session": "51",
+      "Topic": "Group presentation & Report submission",
+      "Learning-Teaching Type": "offline",
+      "LO": "CLO8, CLO9",
+      "ITU": "U",
+      "Student Materials": "Powerpoint, reference books, additional materials",
+      "S-Download": "",
+      "Student's Tasks": "",
+      "URLs": ""
+    },
+    {
+      "Session": "52",
+      "Topic": "Group presentation & Report submission",
+      "Learning-Teaching Type": "offline",
+      "LO": "CLO8, CLO9",
+      "ITU": "U",
+      "Student Materials": "Powerpoint, reference books, additional materials",
+      "S-Download": "",
+      "Student's Tasks": "",
+      "URLs": ""
+    },
+    {
+      "Session": "53",
+      "Topic": "Group presentation & Report submission",
+      "Learning-Teaching Type": "offline",
+      "LO": "CLO8, CLO9",
+      "ITU": "U",
+      "Student Materials": "Powerpoint, reference books, additional materials",
+      "S-Download": "",
+      "Student's Tasks": "",
+      "URLs": ""
+    },
+    {
+      "Session": "54",
+      "Topic": "Group presentation & Report submission",
+      "Learning-Teaching Type": "offline",
+      "LO": "CLO8, CLO9",
+      "ITU": "U",
+      "Student Materials": "Powerpoint, reference books, additional materials",
+      "S-Download": "",
+      "Student's Tasks": "",
+      "URLs": ""
+    },
+    {
+      "Session": "55",
+      "Topic": "Group presentation & Report submission",
+      "Learning-Teaching Type": "offline",
+      "LO": "CLO8, CLO9",
+      "ITU": "U",
+      "Student Materials": "Powerpoint, reference books, additional materials",
+      "S-Download": "",
+      "Student's Tasks": "",
+      "URLs": ""
+    },
+    {
+      "Session": "56",
+      "Topic": "Group presentation & Report submission",
+      "Learning-Teaching Type": "offline",
+      "LO": "CLO8, CLO9",
+      "ITU": "U",
+      "Student Materials": "Powerpoint, reference books, additional materials",
+      "S-Download": "",
+      "Student's Tasks": "",
+      "URLs": ""
+    },
+    {
+      "Session": "57",
+      "Topic": "Essay Test",
+      "Learning-Teaching Type": "offline",
+      "LO": "",
+      "ITU": "U",
+      "Student Materials": "Powerpoint, reference books, additional materials",
+      "S-Download": "",
+      "Student's Tasks": "",
+      "URLs": ""
+    },
+    {
+      "Session": "58",
+      "Topic": "Course revision",
+      "Learning-Teaching Type": "offline",
+      "LO": "CLO1, CLO3, CLO4, CLO5, CLO6, CLO7, CLO8, CLO8",
+      "ITU": "U",
+      "Student Materials": "Powerpoint, reference books, additional materials",
+      "S-Download": "",
+      "Student's Tasks": "",
+      "URLs": ""
+    },
+    {
+      "Session": "59",
+      "Topic": "Course revision",
+      "Learning-Teaching Type": "offline",
+      "LO": "CLO1, CLO3, CLO4, CLO5, CLO6, CLO7, CLO8, CLO9",
+      "ITU": "U",
+      "Student Materials": "Powerpoint, reference books, additional materials",
+      "S-Download": "",
+      "Student's Tasks": "",
+      "URLs": ""
+    },
+    {
+      "Session": "60",
+      "Topic": "Course revision",
+      "Learning-Teaching Type": "offline",
+      "LO": "CLO1, CLO3, CLO4, CLO5, CLO6, CLO7, CLO8, CLO9",
+      "ITU": "U",
+      "Student Materials": "Powerpoint, reference books, additional materials",
+      "S-Download": "",
+      "Student's Tasks": "",
+      "URLs": ""
+    }
+  ],
+  "constructive_questions": [
+    {
+      "No.": "1",
+      "Session No": "1",
+      "Name": "CT1.1",
+      "Details": "What is the role of the customs organization of a country’s government?"
+    },
+    {
+      "No.": "2",
+      "Session No": "2",
+      "Name": "CT1.2",
+      "Details": "Analyze the relationship between the subjects carrying out customs procedures?"
+    },
+    {
+      "No.": "3",
+      "Session No": "3",
+      "Name": "CT1.3",
+      "Details": "Present the location for customs clearance? Time limit for customs clearance?"
+    },
+    {
+      "No.": "4",
+      "Session No": "4",
+      "Name": "CT2.1",
+      "Details": "What are the customs documents required in Vietnam?"
+    },
+    {
+      "No.": "5",
+      "Session No": "5",
+      "Name": "CT2.2",
+      "Details": "Distinguish customs clearance with cargo release? present the conditions for customs clearance?"
+    },
+    {
+      "No.": "6",
+      "Session No": "6",
+      "Name": "CT2.3",
+      "Details": "Present the procedure for customs clearance of imported goods"
+    },
+    {
+      "No.": "7",
+      "Session No": "7",
+      "Name": "CT3.1",
+      "Details": "What Are the Benefits of Globalization? What Are the Challenges of Globalization?"
+    },
+    {
+      "No.": "8",
+      "Session No": "7",
+      "Name": "CT3.2",
+      "Details": "Discuss the importance of international trade to national economies."
+    },
+    {
+      "No.": "9",
+      "Session No": "8",
+      "Name": "CT3.3",
+      "Details": "Draw the process of exporting goods. Explain the first step \"Prepare the first stage of payment"
+    },
+    {
+      "No.": "10",
+      "Session No": "9",
+      "Name": "CT3.4",
+      "Details": "Explain the 8th step: Exporting goods to the carrier"
+    },
+    {
+      "No.": "11",
+      "Session No": "10",
+      "Name": "CT4.1",
+      "Details": "Discuss the major differences between CIF and FOB"
+    },
+    {
+      "No.": "12",
+      "Session No": "10",
+      "Name": "CT4.2",
+      "Details": "Explain the reasons for customs inspection"
+    },
+    {
+      "No.": "13",
+      "Session No": "11",
+      "Name": "CT4.3",
+      "Details": "Describe the process of Customs Dossier Inspection"
+    },
+    {
+      "No.": "14",
+      "Session No": "12",
+      "Name": "CT4.4",
+      "Details": "What is physical inspection of goods? Contents of physical inspection of goods?"
+    },
+    {
+      "No.": "15",
+      "Session No": "16",
+      "Name": "CT6.1",
+      "Details": "Present time and subjects of customs surveillance."
+    },
+    {
+      "No.": "16",
+      "Session No": "17",
+      "Name": "CT6.2",
+      "Details": "Analyze principles of customs surveillance?"
+    },
+    {
+      "No.": "17",
+      "Session No": "18",
+      "Name": "CT6.3",
+      "Details": "Present methods of customs surveillance, their advantages and disadvantages?"
+    },
+    {
+      "No.": "18",
+      "Session No": "19",
+      "Name": "CT7.1",
+      "Details": "Present the concept, characteristics, classification of customs tax?"
+    },
+    {
+      "No.": "19",
+      "Session No": "20",
+      "Name": "CT7.2",
+      "Details": "Present the basic contents of customs tax policy in Vietnam today?"
+    },
+    {
+      "No.": "20",
+      "Session No": "21",
+      "Name": "CT7.3",
+      "Details": "On May 15th 2021, Meyer Company signed contract number 7403202 with Casio company, Japan. Imported goods: Casio electronic organ. Quantity: 185 PCE; Unit price: 171 USD/PCE FOB Arimura- Japan. Commercial value: 31,635 USD; Shipping fee to Vietnam: 500 USD; Exchange rate USD/VND= 20,879.; Imported tax: 7%; Value Added tax 10%. Calculate the taxable amount of the Meyer company."
+    },
+    {
+      "No.": "21",
+      "Session No": "22",
+      "Name": "CT8.1",
+      "Details": "On Oct 10th 2020, Saigon Production and Commercial Company signed an import contract with Vin Company, France. Imported goods: wine; quantity: 1.500 PCE; unit price 72 USD/PCE CIF CatLai – Hochiminh City; Method payment: L/C. Commercial value: 108,000 USD; Shipping fee to Vietnam: 3.500 USD;Exchange rate: USD/VND= 21,135; Special preferential Imported tax: 50%; Value Added tax 10%; Excise tax: 25%. Calculate the taxable amount of this company."
+    },
+    {
+      "No.": "22",
+      "Session No": "23",
+      "Name": "CT8.2",
+      "Details": "On Sep 15th 2019, Thanh Phu Company signed contract number TP.19.14 with Ananbond Company, India. Imported goods: polyetylen bag; quantity: 10.500 kgs; unit price 4 USD/kg FOB Delhi – India. Commercial value: 42,000 USD; Shipping fee to Vietnam: 4,500 USD; Insurance fee: 2,500 USD; Exchange rate: USD/VND = 21.450; Imported tax: 15%; Environment protection tax: 40000 dong/kg; Value Added tax 10%. Calculate the taxable amount of this company."
+    },
+    {
+      "No.": "23",
+      "Session No": "28",
+      "Name": "CT10.1",
+      "Details": "Present the object and scope of customs control?"
+    },
+    {
+      "No.": "24",
+      "Session No": "28",
+      "Name": "CT10.2",
+      "Details": "Analyse the basic principles of customs control?"
+    },
+    {
+      "No.": "25",
+      "Session No": "29",
+      "Name": "CT10.3",
+      "Details": "Contents of customs control? What form of customs control?"
+    },
+    {
+      "No.": "26",
+      "Session No": "30",
+      "Name": "CT10.4",
+      "Details": "Analysis of customs control measures?"
+    },
+    {
+      "No.": "27",
+      "Session No": "31",
+      "Name": "CT11.1",
+      "Details": "Distinguish bonded warehouse with CFS warehouse and tax suspension warehouse."
+    },
+    {
+      "No.": "28",
+      "Session No": "32",
+      "Name": "CT11.2",
+      "Details": "Present the forms of state management of customs? What is your opinion on these forms of management?"
+    },
+    {
+      "No.": "29",
+      "Session No": "33",
+      "Name": "CT11.3",
+      "Details": "Vietnam's export and import management policy and principles applied in the process of customs clearance"
+    },
+    {
+      "No.": "30",
+      "Session No": "33",
+      "Name": "CT11.4",
+      "Details": "presenting the State Agencies on Customs of Vietnam"
+    },
+    {
+      "No.": "31",
+      "Session No": "37",
+      "Name": "CT13.1",
+      "Details": "Analyze the role and benefits of risk management in customs operations"
+    },
+    {
+      "No.": "32",
+      "Session No": "38",
+      "Name": "CT13.2",
+      "Details": "Analyze the content of the risk management process?"
+    },
+    {
+      "No.": "33",
+      "Session No": "40",
+      "Name": "CT14.1",
+      "Details": "efforts of vietnam customs in customs reform, development and modernization"
+    },
+    {
+      "No.": "34",
+      "Session No": "41",
+      "Name": "CT14.2",
+      "Details": "Discuss how far Vietnam customs has developed in comparison with neighboring countries?"
+    }
+  ],
+  "materials": [
+    {
+      "No.": "1",
+      "Material Description": "Tài liệu nội bộ",
+      "Author": "",
+      "Publisher": "",
+      "Published Date": "",
+      "Edition": "",
+      "ISBN": "",
+      "Is Main Material": "True",
+      "Is Hard Copy": "True",
+      "Is Online": "False",
+      "Note": ""
+    },
+    {
+      "No.": "2",
+      "Material Description": "Giáo trình Hải quan cơ bản",
+      "Author": "PGS. TS. Hoàng Trần Hậu, PGS, TS Nguyễn Thị Thương Huyền",
+      "Publisher": "NXB Tài chính",
+      "Published Date": "2011",
+      "Edition": "",
+      "ISBN": "",
+      "Is Main Material": "False",
+      "Is Hard Copy": "True",
+      "Is Online": "False",
+      "Note": ""
+    },
+    {
+      "No.": "3",
+      "Material Description": "Giáo trình Thủ tục hải quan",
+      "Author": "ThS. Trần Quang Vũ",
+      "Publisher": "TpHCM",
+      "Published Date": "2000",
+      "Edition": "",
+      "ISBN": "",
+      "Is Main Material": "False",
+      "Is Hard Copy": "True",
+      "Is Online": "False",
+      "Note": ""
+    },
+    {
+      "No.": "4",
+      "Material Description": "https://www.coursera.org/learn/ai-for-everyone",
+      "Author": "",
+      "Publisher": "Coursera",
+      "Published Date": "",
+      "Edition": "",
+      "ISBN": "",
+      "Is Main Material": "True",
+      "Is Hard Copy": "False",
+      "Is Online": "True",
+      "Note": ""
+    },
+    {
+      "No.": "5",
+      "Material Description": "https://www.coursera.org/learn/introduction-to-ai",
+      "Author": "",
+      "Publisher": "Coursera",
+      "Published Date": "",
+      "Edition": "",
+      "ISBN": "",
+      "Is Main Material": "True",
+      "Is Hard Copy": "False",
+      "Is Online": "True",
+      "Note": ""
+    }
+  ],
+  "source_path": "data/raw/syllabi/12380.html",
+  "id": "syllabus:12380"
+}

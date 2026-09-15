@@ -1,0 +1,1190 @@
+{
+  "syllabus_id": 11069,
+  "subject_code": "PRN221",
+  "subject_name": "Advanced Cross-Platform Application Programming With .NET_Lập trình ứng dụng đa nền tảng nâng cao với .NET",
+  "syllabus_name": "Advanced Cross-Platform Application Programming With .NET_Lập trình ứng dụng đa nền tảng nâng cao với .NET",
+  "credits": 3,
+  "degree_level": "Bachelor",
+  "time_allocation": "Study hour (150h) = 49.5h contact hours + 1h final exam + 85' practical exam + 99.5h self-study",
+  "prerequisite": "PRN211 (Basic Cross-Platform Application Programming With .NET)",
+  "general_information": {
+    "Syllabus ID": "11069",
+    "Syllabus Name": "Advanced Cross-Platform Application Programming With .NET_Lập trình ứng dụng đa nền tảng nâng cao với .NET",
+    "Course Name English": "Advanced Cross-Platform Application Programming With .NET",
+    "Subject Code": "PRN221",
+    "Learning-Teaching Method": "Social Constructivism,In-class lecture,Inquiry-based Teaching",
+    "NoCredit": "3",
+    "Degree Level": "Bachelor",
+    "Time Allocation": "Study hour (150h) = 49.5h contact hours + 1h final exam + 85' practical exam + 99.5h self-study",
+    "Pre-Requisite": "PRN211 (Basic Cross-Platform Application Programming With .NET)",
+    "Description": "Upon completion of this course students should: 1. Understand the followings: • Apply C# language for developing Desktop and Web applications; • Fundamental concepts of .NET Core Platform • Basic knowledge of Windows Presentation Foundation (WPF) and ASP.NET Core Razor Page application • Basic knowledge of RESTful API .NET , Signal-R and apply into ASP.NET Core application • Basic knowledge of Asynchronous and Parallel Programming in .NET Core application • Basic knowledge of Dependency Injection apply into .NET Core applications • Basic knowledge of Worker Service and apply to implement Background Tasks 2. Be able to: • Develop Cross - platform Web applications by ASP.NET Core Razor Page • Develop Cross - platform Desktop applications by WPF and support for user experience ( UI & UX ) • Implement Real-time applications by Signal R and ASP.NET Core • Implement Background Tasks with Worker Service 3. Be able to work in a team and present group's results",
+    "StudentTasks": "- Students must attend at least 80% of contact sessions in order to be accepted to the final examination. - Student is responsible to do all assigned exercises given by instructor in class or at home and submit on time - Use laptop in class only for learning purpose - Promptly access https://flm.fpt.edu.vn/ for up-to-date course information",
+    "Tools": "- Internet - Visual Studio.NET 2019 version 16.8.3 or later - MS SQL Server 2014 or later - Platform : .NET 5.0 or later",
+    "Scoring Scale": "10",
+    "DecisionNo MM/dd/yyyy": "358/QĐ-ĐHFPT dated 04/03/2024",
+    "IsApproved": "True",
+    "Note": "",
+    "Is Scored": "True",
+    "MinAvgMarkToPass": "5",
+    "IsActive": "True",
+    "ApprovedDate": "4/3/2024"
+  },
+  "active": true,
+  "approved": true,
+  "decision": "358/QĐ-ĐHFPT dated 04/03/2024",
+  "description": "Upon completion of this course students should: 1. Understand the followings: • Apply C# language for developing Desktop and Web applications; • Fundamental concepts of .NET Core Platform • Basic knowledge of Windows Presentation Foundation (WPF) and ASP.NET Core Razor Page application • Basic knowledge of RESTful API .NET , Signal-R and apply into ASP.NET Core application • Basic knowledge of Asynchronous and Parallel Programming in .NET Core application • Basic knowledge of Dependency Injection apply into .NET Core applications • Basic knowledge of Worker Service and apply to implement Background Tasks 2. Be able to: • Develop Cross - platform Web applications by ASP.NET Core Razor Page • Develop Cross - platform Desktop applications by WPF and support for user experience ( UI & UX ) • Implement Real-time applications by Signal R and ASP.NET Core • Implement Background Tasks with Worker Service 3. Be able to work in a team and present group's results",
+  "learning_outcomes": [
+    {
+      "No.": "1",
+      "CLO Name": "CLO1",
+      "CLO Details": "Describe about .NET Core Platform and Windows Presentation Foundation (WPF)"
+    },
+    {
+      "No.": "2",
+      "CLO Name": "CLO2",
+      "CLO Details": "Demonstrate about Asynchronous & Parallel programming ; Dependency Injection"
+    },
+    {
+      "No.": "3",
+      "CLO Name": "CLO3",
+      "CLO Details": "Demonstrate about Razor Pages in ASP.NET MVC Core"
+    },
+    {
+      "No.": "4",
+      "CLO Name": "CLO4",
+      "CLO Details": "Demonstrate about Real-time communication and Worker Service"
+    }
+  ],
+  "assessments": [
+    {
+      "No.": "1",
+      "Category": "Assignment",
+      "Type": "on-going",
+      "Part": "3",
+      "Weight": "10.0%",
+      "Completion Criteria": ">0",
+      "Duration": "16 slots",
+      "CLO": "All LOs",
+      "Question Type": "",
+      "No Question": "Depend on teachers",
+      "Knowledge and Skill": "",
+      "Grading Guide": "",
+      "Note": ""
+    },
+    {
+      "No.": "2",
+      "Category": "Group Project",
+      "Type": "on-going",
+      "Part": "1",
+      "Weight": "25.0%",
+      "Completion Criteria": ">0",
+      "Duration": "30 slots",
+      "CLO": "All LOs",
+      "Question Type": "",
+      "No Question": "Depend on teachers",
+      "Knowledge and Skill": "",
+      "Grading Guide": "",
+      "Note": "Problem(s) to solve by programming using LO1 - LO4"
+    },
+    {
+      "No.": "3",
+      "Category": "Progress test",
+      "Type": "on-going",
+      "Part": "2",
+      "Weight": "10.0%",
+      "Completion Criteria": ">0",
+      "Duration": "30'",
+      "CLO": "All LOs",
+      "Question Type": "Multiple choices Marked by Computer or a suitable format",
+      "No Question": "20/each",
+      "Knowledge and Skill": "",
+      "Grading Guide": "",
+      "Note": "PT 1: LO1 - LO2 PT 2: LO3- LO4 Number of questions: 3-8 for each LOx"
+    },
+    {
+      "No.": "4",
+      "Category": "Practical Exam",
+      "Type": "practical exam",
+      "Part": "1",
+      "Weight": "25.0%",
+      "Completion Criteria": ">0",
+      "Duration": "80'",
+      "CLO": "All LOs",
+      "Question Type": "",
+      "No Question": "Manual evaluating",
+      "Knowledge and Skill": "",
+      "Grading Guide": "By exam board",
+      "Note": "Problem(s) to solve by programming using LO1 - LO4"
+    },
+    {
+      "No.": "5",
+      "Category": "Final exam",
+      "Type": "Final exam",
+      "Part": "1",
+      "Weight": "30.0%",
+      "Completion Criteria": "4",
+      "Duration": "60'",
+      "CLO": "All LOs",
+      "Question Type": "",
+      "No Question": "50",
+      "Knowledge and Skill": "All subjects in syllabus",
+      "Grading Guide": "",
+      "Note": "questions distribution: LO1.x: 5 - 15 LO2.x: 5 - 15 LO3.x: 5 - 15 LO4.x: 5 - 15"
+    }
+  ],
+  "schedule": [
+    {
+      "Session": "1",
+      "Topic": "Course Introduction",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO1.x",
+      "ITU": "I",
+      "Student Materials": "Student's materials",
+      "S-Download": "PRN221",
+      "Student's Tasks": "Study just learned materials, redo sample examples and do Assignment 01",
+      "URLs": ""
+    },
+    {
+      "Session": "2",
+      "Topic": "Module 01-Chapter 01: Building Desktop Application with Windows Presentation Foundation (WPF)",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO1.x",
+      "ITU": "TU",
+      "Student Materials": "Chapter 01: https://docs.microsoft.com/en-us/dotnet/desktop/wpf/?view=netdesktop-5.0",
+      "S-Download": "PRN221",
+      "Student's Tasks": "Study just learned materials, redo sample examples and do Assignment 01",
+      "URLs": ""
+    },
+    {
+      "Session": "3",
+      "Topic": "Module 01-Chapter 01: Building Desktop Application with Windows Presentation Foundation (cont. )",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO1.x",
+      "ITU": "TU",
+      "Student Materials": "Chapter 01: https://docs.microsoft.com/en-us/dotnet/desktop/wpf/?view=netdesktop-5.0",
+      "S-Download": "",
+      "Student's Tasks": "Study just learned materials, redo sample examples and do Assignment 01",
+      "URLs": ""
+    },
+    {
+      "Session": "4",
+      "Topic": "Module 01-Chapter 01: Building Desktop Application with Windows Presentation Foundation (cont. )",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO1.x",
+      "ITU": "TU",
+      "Student Materials": "Chapter 01: https://docs.microsoft.com/en-us/dotnet/desktop/wpf/?view=netdesktop-5.0",
+      "S-Download": "",
+      "Student's Tasks": "Study just learned materials, redo sample examples and do Assignment 01",
+      "URLs": ""
+    },
+    {
+      "Session": "5",
+      "Topic": "Module 01-Chapter 01: Building Desktop Application with Windows Presentation Foundation (cont. )",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO1.x",
+      "ITU": "TU",
+      "Student Materials": "Chapter 01: https://docs.microsoft.com/en-us/dotnet/desktop/wpf/?view=netdesktop-5.0",
+      "S-Download": "",
+      "Student's Tasks": "Study just learned materials, redo sample examples and do Assignment 01",
+      "URLs": ""
+    },
+    {
+      "Session": "6",
+      "Topic": "Module 01-Chapter 01: Building Desktop Application with Windows Presentation Foundation (cont. )",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO1.x",
+      "ITU": "TU",
+      "Student Materials": "Chapter 01: https://docs.microsoft.com/en-us/dotnet/desktop/wpf/?view=netdesktop-5.0",
+      "S-Download": "",
+      "Student's Tasks": "Study just learned materials, redo sample examples and do Assignment 01",
+      "URLs": ""
+    },
+    {
+      "Session": "7",
+      "Topic": "Module 01-Chapter 01: Building Desktop Application with Windows Presentation Foundation (cont. )",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO1.x",
+      "ITU": "TU",
+      "Student Materials": "Chapter 01: https://docs.microsoft.com/en-us/dotnet/desktop/wpf/?view=netdesktop-5.0",
+      "S-Download": "",
+      "Student's Tasks": "Study just learned materials, redo sample examples and do Assignment 01",
+      "URLs": ""
+    },
+    {
+      "Session": "8",
+      "Topic": "Module 01-Chapter 01: Building Desktop Application with Windows Presentation Foundation (cont. )",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO1.x",
+      "ITU": "TU",
+      "Student Materials": "Chapter 01: https://docs.microsoft.com/en-us/dotnet/desktop/wpf/?view=netdesktop-5.0",
+      "S-Download": "",
+      "Student's Tasks": "Study just learned materials, redo sample examples and do Assignment 01",
+      "URLs": ""
+    },
+    {
+      "Session": "9",
+      "Topic": "Guiding Assignment 01 - Accessing Database by ADO.NET / Entity Framework Core in WPF Application",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO1.x",
+      "ITU": "TU",
+      "Student Materials": "Chapter 01: https://docs.microsoft.com/en-us/dotnet/desktop/wpf/?view=netdesktop-5.0",
+      "S-Download": "",
+      "Student's Tasks": "Study just learned materials, redo sample examples and do Assignment 01",
+      "URLs": ""
+    },
+    {
+      "Session": "10",
+      "Topic": "Guiding Assignment 01 - Accessing Database by ADO.NET / Entity Framework Core in WPF Application (cont.)",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO1.x",
+      "ITU": "TU",
+      "Student Materials": "Chapter 01: https://docs.microsoft.com/en-us/dotnet/desktop/wpf/?view=netdesktop-5.0",
+      "S-Download": "",
+      "Student's Tasks": "Study just learned materials, redo sample examples and do Assignment 01",
+      "URLs": ""
+    },
+    {
+      "Session": "11",
+      "Topic": "Module 01-Chapter 02: Working with XML and JSON Serializing",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO1.x",
+      "ITU": "TU",
+      "Student Materials": "Chapter 02: https://docs.microsoft.com/en-us/aspnet/web-api/overview/formats-and-model-binding/json-and-xml-serialization",
+      "S-Download": "",
+      "Student's Tasks": "Study just learned materials, redo sample examples and do Assignment 01",
+      "URLs": ""
+    },
+    {
+      "Session": "12",
+      "Topic": "Module 01-Chapter 02: Working with XML and JSON Serializing (cont.)",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO1.x",
+      "ITU": "TU",
+      "Student Materials": "Chapter 02: https://docs.microsoft.com/en-us/aspnet/web-api/overview/formats-and-model-binding/json-and-xml-serialization",
+      "S-Download": "",
+      "Student's Tasks": "Study just learned materials, redo sample examples and do Assignment 01",
+      "URLs": ""
+    },
+    {
+      "Session": "13",
+      "Topic": "Module 01-Chapter 02: Working with XML and JSON Serializing (cont.)",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO1.x",
+      "ITU": "TU",
+      "Student Materials": "Chapter 02: https://docs.microsoft.com/en-us/aspnet/web-api/overview/formats-and-model-binding/json-and-xml-serialization",
+      "S-Download": "",
+      "Student's Tasks": "Study just learned materials, redo sample examples and do Assignment 01",
+      "URLs": ""
+    },
+    {
+      "Session": "14",
+      "Topic": "Module 01-Chapter 02: Working with XML and JSON Serializing (cont.)",
+      "Learning-Teaching Type": "Offline",
+      "LO": "CLO1",
+      "ITU": "TU",
+      "Student Materials": "Chapter 02: https://docs.microsoft.com/en-us/aspnet/web-api/overview/formats-and-model-binding/json-and-xml-serialization",
+      "S-Download": "",
+      "Student's Tasks": "Study just learned materials, redo sample examples and do Assignment 01",
+      "URLs": ""
+    },
+    {
+      "Session": "15",
+      "Topic": "Module 02-Chapter 03: Networking Programming",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO2.x",
+      "ITU": "TU",
+      "Student Materials": "Chapter 03: https://docs.microsoft.com/en-us/dotnet/api/system.net.sockets.socket?view=net-5.0",
+      "S-Download": "",
+      "Student's Tasks": "Study just learned materials, redo sample examples and Project Guide 01",
+      "URLs": ""
+    },
+    {
+      "Session": "16",
+      "Topic": "Module 02-Chapter 03: Networking Programming (cont.)",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO2.x",
+      "ITU": "TU",
+      "Student Materials": "Chapter 03: https://docs.microsoft.com/en-us/dotnet/api/system.net.sockets.socket?view=net-5.0",
+      "S-Download": "",
+      "Student's Tasks": "Study just learned materials, redo sample examples and Project Guide 01",
+      "URLs": ""
+    },
+    {
+      "Session": "17",
+      "Topic": "Module 02-Chapter 03: Networking Programming (cont.)",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO2.x",
+      "ITU": "TU",
+      "Student Materials": "Chapter 03: https://docs.microsoft.com/en-us/dotnet/api/system.net.sockets.socket?view=net-5.0",
+      "S-Download": "",
+      "Student's Tasks": "Study just learned materials, redo sample examples and Project Guide 01",
+      "URLs": ""
+    },
+    {
+      "Session": "18",
+      "Topic": "Module 02-Chapter 03: Networking Programming (cont.)",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO2.x",
+      "ITU": "TU",
+      "Student Materials": "Chapter 03: https://docs.microsoft.com/en-us/dotnet/api/system.net.sockets.socket?view=net-5.0",
+      "S-Download": "",
+      "Student's Tasks": "Study just learned materials, redo sample examples and Project Guide 01",
+      "URLs": ""
+    },
+    {
+      "Session": "19",
+      "Topic": "Project Assistant - 01",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO2.x",
+      "ITU": "TU",
+      "Student Materials": "Chapter 03: https://docs.microsoft.com/en-us/dotnet/api/system.net.sockets.socket?view=net-5.0",
+      "S-Download": "",
+      "Student's Tasks": "Study just learned materials, redo sample examples and Project Guide 01",
+      "URLs": ""
+    },
+    {
+      "Session": "20",
+      "Topic": "Project Assistant - 01",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO2.x",
+      "ITU": "TU",
+      "Student Materials": "Chapter 03: https://docs.microsoft.com/en-us/dotnet/api/system.net.sockets.socket?view=net-5.0",
+      "S-Download": "",
+      "Student's Tasks": "Study just learned materials, redo sample examples and Project Guide 01",
+      "URLs": ""
+    },
+    {
+      "Session": "21",
+      "Topic": "Module 02-Chapter 04: Asynchronous and Parallel Programming in .NET",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO2.x",
+      "ITU": "TU",
+      "Student Materials": "Chapter 04: https://docs.microsoft.com/en-us/dotnet/standard/parallel-processing-and-concurrency",
+      "S-Download": "",
+      "Student's Tasks": "Students prepare content according to topics given by lecturers then present and other groups will criticize",
+      "URLs": ""
+    },
+    {
+      "Session": "22",
+      "Topic": "Module 02-Chapter 04: Asynchronous and Parallel Programming in .NET (cont.)",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO2.x",
+      "ITU": "TU",
+      "Student Materials": "Chapter 04: https://docs.microsoft.com/en-us/dotnet/standard/parallel-processing-and-concurrency",
+      "S-Download": "",
+      "Student's Tasks": "Students prepare content according to topics given by lecturers then present and other groups will criticize",
+      "URLs": ""
+    },
+    {
+      "Session": "23",
+      "Topic": "Module 02-Chapter 04: Asynchronous and Parallel Programming in .NET (cont.)",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO2.x",
+      "ITU": "TU",
+      "Student Materials": "Chapter 04: https://docs.microsoft.com/en-us/dotnet/standard/parallel-processing-and-concurrency",
+      "S-Download": "",
+      "Student's Tasks": "Students prepare content according to topics given by lecturers then present and other groups will criticize",
+      "URLs": ""
+    },
+    {
+      "Session": "24",
+      "Topic": "Module 02-Chapter 04: Asynchronous and Parallel Programming in .NET (cont.)",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO2.x",
+      "ITU": "TU",
+      "Student Materials": "Chapter 04: https://docs.microsoft.com/en-us/dotnet/standard/parallel-processing-and-concurrency",
+      "S-Download": "",
+      "Student's Tasks": "Students prepare content according to topics given by lecturers then present and other groups will criticize",
+      "URLs": ""
+    },
+    {
+      "Session": "25",
+      "Topic": "Module 02-Chapter 04: Asynchronous and Parallel Programming in .NET (cont.)",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO2.x",
+      "ITU": "TU",
+      "Student Materials": "Chapter 04: https://docs.microsoft.com/en-us/dotnet/standard/parallel-processing-and-concurrency",
+      "S-Download": "",
+      "Student's Tasks": "Students prepare content according to topics given by lecturers then present and other groups will criticize",
+      "URLs": ""
+    },
+    {
+      "Session": "26",
+      "Topic": "Module 02-Chapter 04: Asynchronous and Parallel Programming in .NET (cont.)",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO2.x",
+      "ITU": "TU",
+      "Student Materials": "Chapter 04: https://docs.microsoft.com/en-us/dotnet/standard/parallel-processing-and-concurrency",
+      "S-Download": "",
+      "Student's Tasks": "Students prepare content according to topics given by lecturers then present and other groups will criticize",
+      "URLs": ""
+    },
+    {
+      "Session": "27",
+      "Topic": "Module 02-Chapter 05: Dependency Injection in .NET",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO2.x",
+      "ITU": "TU",
+      "Student Materials": "Chapter 05: https://docs.microsoft.com/en-us/aspnet/core/fundamentals/dependency-injection?view=aspnetcore-5.0",
+      "S-Download": "",
+      "Student's Tasks": "Students prepare content according to topics given by lecturers then present and other groups will criticize",
+      "URLs": ""
+    },
+    {
+      "Session": "28",
+      "Topic": "Module 02-Chapter 05: Dependency Injection in .NET (cont.)",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO2.x",
+      "ITU": "TU",
+      "Student Materials": "Chapter 05: https://docs.microsoft.com/en-us/aspnet/core/fundamentals/dependency-injection?view=aspnetcore-5.0",
+      "S-Download": "",
+      "Student's Tasks": "Students prepare content according to topics given by lecturers then present and other groups will criticize",
+      "URLs": ""
+    },
+    {
+      "Session": "29",
+      "Topic": "Module 02-Chapter 05: Dependency Injection in .NET (cont.)",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO2.x",
+      "ITU": "TU",
+      "Student Materials": "Chapter 05: https://docs.microsoft.com/en-us/aspnet/core/fundamentals/dependency-injection?view=aspnetcore-5.0",
+      "S-Download": "",
+      "Student's Tasks": "Students prepare content according to topics given by lecturers then present and other groups will criticize",
+      "URLs": ""
+    },
+    {
+      "Session": "30",
+      "Topic": "Module 02-Chapter 05: Dependency Injection in .NET (cont.)",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO2.x",
+      "ITU": "TU",
+      "Student Materials": "Chapter 05: https://docs.microsoft.com/en-us/aspnet/core/fundamentals/dependency-injection?view=aspnetcore-5.0",
+      "S-Download": "",
+      "Student's Tasks": "Students prepare content according to topics given by lecturers then present and other groups will criticize",
+      "URLs": ""
+    },
+    {
+      "Session": "31",
+      "Topic": "Review Progress Test 01",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO3.x",
+      "ITU": "TU",
+      "Student Materials": "Chapter 06: https://docs.microsoft.com/en-us/aspnet/core/razor-pages/?view=aspnetcore-5.0&tabs=visual-studio",
+      "S-Download": "",
+      "Student's Tasks": "-Review & do Progress Test 01 -Study just learned materials, redo sample examples do Assignment 02 and Project Guide 02",
+      "URLs": ""
+    },
+    {
+      "Session": "32",
+      "Topic": "Review Progress Test 01 (cont.)",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO3.x",
+      "ITU": "TU",
+      "Student Materials": "Chapter 06: https://docs.microsoft.com/en-us/aspnet/core/razor-pages/?view=aspnetcore-5.0&tabs=visual-studio",
+      "S-Download": "",
+      "Student's Tasks": "-Review & do Progress Test 01 -Study just learned materials, redo sample examples do Assignment 02 and Project Guide 02",
+      "URLs": ""
+    },
+    {
+      "Session": "33",
+      "Topic": "Module 03-Chapter 06: Building Websites Using ASP.NET Core Razor Pages",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO3.x",
+      "ITU": "TU",
+      "Student Materials": "Chapter 06: https://docs.microsoft.com/en-us/aspnet/core/razor-pages/?view=aspnetcore-5.0&tabs=visual-studio",
+      "S-Download": "",
+      "Student's Tasks": "-Review & do Progress Test 01 -Study just learned materials, redo sample examples do Assignment 02 and Project Guide 02",
+      "URLs": ""
+    },
+    {
+      "Session": "34",
+      "Topic": "Module 03-Chapter 06: Building Websites Using ASP.NET Core Razor Pages (cont.)",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO3.x",
+      "ITU": "TU",
+      "Student Materials": "Chapter 06: https://docs.microsoft.com/en-us/aspnet/core/razor-pages/?view=aspnetcore-5.0&tabs=visual-studio",
+      "S-Download": "",
+      "Student's Tasks": "-Review & do Progress Test 01 -Study just learned materials, redo sample examples do Assignment 02 and Project Guide 02",
+      "URLs": ""
+    },
+    {
+      "Session": "35",
+      "Topic": "Module 03-Chapter 06: Building Websites Using ASP.NET Core Razor Pages (cont.)",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO3.x",
+      "ITU": "TU",
+      "Student Materials": "Chapter 06: https://docs.microsoft.com/en-us/aspnet/core/razor-pages/?view=aspnetcore-5.0&tabs=visual-studio",
+      "S-Download": "",
+      "Student's Tasks": "-Review & do Progress Test 01 -Study just learned materials, redo sample examples do Assignment 02 and Project Guide 02",
+      "URLs": ""
+    },
+    {
+      "Session": "36",
+      "Topic": "Module 03-Chapter 06: Building Websites Using ASP.NET Core Razor Pages (cont.)",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO3.x",
+      "ITU": "TU",
+      "Student Materials": "Chapter 06: https://docs.microsoft.com/en-us/aspnet/core/razor-pages/?view=aspnetcore-5.0&tabs=visual-studio",
+      "S-Download": "",
+      "Student's Tasks": "-Review & do Progress Test 01 -Study just learned materials, redo sample examples do Assignment 02 and Project Guide 02",
+      "URLs": ""
+    },
+    {
+      "Session": "37",
+      "Topic": "Module 03-Chapter 06: Building Websites Using ASP.NET Core Razor Pages (cont.)",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO3.x",
+      "ITU": "TU",
+      "Student Materials": "Chapter 06: https://docs.microsoft.com/en-us/aspnet/core/razor-pages/?view=aspnetcore-5.0&tabs=visual-studio",
+      "S-Download": "",
+      "Student's Tasks": "-Review & do Progress Test 01 -Study just learned materials, redo sample examples do Assignment 02 and Project Guide 02",
+      "URLs": ""
+    },
+    {
+      "Session": "38",
+      "Topic": "Module 03-Chapter 06: Building Websites Using ASP.NET Core Razor Pages (cont.)",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO3.x",
+      "ITU": "TU",
+      "Student Materials": "Chapter 06: https://docs.microsoft.com/en-us/aspnet/core/razor-pages/?view=aspnetcore-5.0&tabs=visual-studio",
+      "S-Download": "",
+      "Student's Tasks": "-Review & do Progress Test 01 -Study just learned materials, redo sample examples do Assignment 02 and Project Guide 02",
+      "URLs": ""
+    },
+    {
+      "Session": "39",
+      "Topic": "Project Assistant - 02",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO3.x",
+      "ITU": "TU",
+      "Student Materials": "Chapter 06: https://docs.microsoft.com/en-us/aspnet/core/razor-pages/?view=aspnetcore-5.0&tabs=visual-studio",
+      "S-Download": "",
+      "Student's Tasks": "-Review & do Progress Test 01 -Study just learned materials, redo sample examples do Assignment 02 and Project Guide 02",
+      "URLs": ""
+    },
+    {
+      "Session": "40",
+      "Topic": "Project Assistant - 02 (cont.)",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO3.x",
+      "ITU": "TU",
+      "Student Materials": "Chapter 06: https://docs.microsoft.com/en-us/aspnet/core/razor-pages/?view=aspnetcore-5.0&tabs=visual-studio",
+      "S-Download": "",
+      "Student's Tasks": "-Review & do Progress Test 01 -Study just learned materials, redo sample examples do Assignment 02 and Project Guide 02",
+      "URLs": ""
+    },
+    {
+      "Session": "41",
+      "Topic": "Guiding Assignment 02 - Building ASP.NET Core Razor Pages with Entity Framework Core",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO3.x",
+      "ITU": "TU",
+      "Student Materials": "Chapter 06: https://docs.microsoft.com/en-us/aspnet/core/razor-pages/?view=aspnetcore-5.0&tabs=visual-studio",
+      "S-Download": "",
+      "Student's Tasks": "-Review & do Progress Test 01 -Study just learned materials, redo sample examples do Assignment 02 and Project Guide 02",
+      "URLs": ""
+    },
+    {
+      "Session": "42",
+      "Topic": "Guiding Assignment 02 - Building ASP.NET Core Razor Pages with Entity Framework Core (cont.)",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO3.x",
+      "ITU": "TU",
+      "Student Materials": "Chapter 06: https://docs.microsoft.com/en-us/aspnet/core/razor-pages/?view=aspnetcore-5.0&tabs=visual-studio",
+      "S-Download": "",
+      "Student's Tasks": "-Review & do Progress Test 01 -Study just learned materials, redo sample examples do Assignment 02 and Project Guide 02",
+      "URLs": ""
+    },
+    {
+      "Session": "43",
+      "Topic": "Module 04-Chapter 07: Real-Time Communication",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO4.x",
+      "ITU": "TU",
+      "Student Materials": "Chapter 06: https://docs.microsoft.com/en-us/aspnet/core/razor-pages/?view=aspnetcore-5.0&tabs=visual-studio",
+      "S-Download": "",
+      "Student's Tasks": "Study just learned materials, redo sample examples, do Progress Test 02 , Assignment 03 and Project Guide 03",
+      "URLs": ""
+    },
+    {
+      "Session": "44",
+      "Topic": "Module 04-Chapter 07: Real-Time Communication (cont.)",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO4.x",
+      "ITU": "TU",
+      "Student Materials": "Chapter 07: https://docs.microsoft.com/vi-vn/aspnet/core/signalr/introduction?view=aspnetcore-5.0",
+      "S-Download": "",
+      "Student's Tasks": "Study just learned materials, redo sample examples, do Progress Test 02 , Assignment 03 and Project Guide 03",
+      "URLs": ""
+    },
+    {
+      "Session": "45",
+      "Topic": "Module 04-Chapter 07: Real-Time Communication (cont.)",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO4.x",
+      "ITU": "TU",
+      "Student Materials": "Chapter 07: https://docs.microsoft.com/vi-vn/aspnet/core/signalr/introduction?view=aspnetcore-5.0",
+      "S-Download": "",
+      "Student's Tasks": "Study just learned materials, redo sample examples, do Progress Test 02 , Assignment 03 and Project Guide 03",
+      "URLs": ""
+    },
+    {
+      "Session": "46",
+      "Topic": "Module 04-Chapter 07: Real-Time Communication (cont.)",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO4.x",
+      "ITU": "TU",
+      "Student Materials": "Chapter 07: https://docs.microsoft.com/vi-vn/aspnet/core/signalr/introduction?view=aspnetcore-5.0",
+      "S-Download": "",
+      "Student's Tasks": "Study just learned materials, redo sample examples, do Progress Test 02 , Assignment 03 and Project Guide 03",
+      "URLs": ""
+    },
+    {
+      "Session": "47",
+      "Topic": "Module 04-Chapter 07: Real-Time Communication (cont.)",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO4.x",
+      "ITU": "TU",
+      "Student Materials": "Chapter 07: https://docs.microsoft.com/vi-vn/aspnet/core/signalr/introduction?view=aspnetcore-5.0",
+      "S-Download": "",
+      "Student's Tasks": "Study just learned materials, redo sample examples, do Progress Test 02 , Assignment 03 and Project Guide 03",
+      "URLs": ""
+    },
+    {
+      "Session": "48",
+      "Topic": "Module 04-Chapter 07: Real-Time Communication (cont.)",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO4.x",
+      "ITU": "TU",
+      "Student Materials": "Chapter 07: https://docs.microsoft.com/vi-vn/aspnet/core/signalr/introduction?view=aspnetcore-5.0",
+      "S-Download": "",
+      "Student's Tasks": "Study just learned materials, redo sample examples, do Progress Test 02 , Assignment 03 and Project Guide 03",
+      "URLs": ""
+    },
+    {
+      "Session": "49",
+      "Topic": "Guiding Assignment 03 - Building ASP.NET Core with Signal-R",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO4.x",
+      "ITU": "TU",
+      "Student Materials": "Chapter 07: https://docs.microsoft.com/vi-vn/aspnet/core/signalr/introduction?view=aspnetcore-5.0",
+      "S-Download": "",
+      "Student's Tasks": "Study just learned materials, redo sample examples, do Progress Test 02 , Assignment 03 and Project Guide 03",
+      "URLs": ""
+    },
+    {
+      "Session": "50",
+      "Topic": "Guiding Assignment 03 - Building ASP.NET Core with Signal-R (cont.)",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO4.x",
+      "ITU": "TU",
+      "Student Materials": "Chapter 07: https://docs.microsoft.com/vi-vn/aspnet/core/signalr/introduction?view=aspnetcore-5.0",
+      "S-Download": "",
+      "Student's Tasks": "Study just learned materials, redo sample examples, do Progress Test 02 , Assignment 03 and Project Guide 03",
+      "URLs": ""
+    },
+    {
+      "Session": "51",
+      "Topic": "Module 04-Chapter 08: Implement Background Tasks with Worker Service",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO4.x",
+      "ITU": "TU",
+      "Student Materials": "Chapter 08: https://docs.microsoft.com/en-us/aspnet/core/fundamentals/host/hosted-services?view=aspnetcore-5.0&tabs=visual-studio",
+      "S-Download": "",
+      "Student's Tasks": "Study just learned materials, redo sample examples, do Progress Test 02 , Assignment 03 and Project Guide 03",
+      "URLs": ""
+    },
+    {
+      "Session": "52",
+      "Topic": "Module 04-Chapter 08: Implement Background Tasks with Worker Service (cont.)",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO4.x",
+      "ITU": "TU",
+      "Student Materials": "Chapter 08: https://docs.microsoft.com/en-us/aspnet/core/fundamentals/host/hosted-services?view=aspnetcore-5.0&tabs=visual-studio",
+      "S-Download": "",
+      "Student's Tasks": "Study just learned materials, redo sample examples, do Progress Test 02 , Assignment 03 and Project Guide 03",
+      "URLs": ""
+    },
+    {
+      "Session": "53",
+      "Topic": "Module 04-Chapter 08: Implement Background Tasks with Worker Service (cont.)",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO4.x",
+      "ITU": "TU",
+      "Student Materials": "Chapter 08: https://docs.microsoft.com/en-us/aspnet/core/fundamentals/host/hosted-services?view=aspnetcore-5.0&tabs=visual-studio",
+      "S-Download": "",
+      "Student's Tasks": "Study just learned materials, redo sample examples, do Progress Test 02 , Assignment 03 and Project Guide 03",
+      "URLs": ""
+    },
+    {
+      "Session": "54",
+      "Topic": "Module 04-Chapter 08: Implement Background Tasks with Worker Service (cont.)",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO4.x",
+      "ITU": "TU",
+      "Student Materials": "Chapter 08: https://docs.microsoft.com/en-us/aspnet/core/fundamentals/host/hosted-services?view=aspnetcore-5.0&tabs=visual-studio",
+      "S-Download": "",
+      "Student's Tasks": "Study just learned materials, redo sample examples, do Progress Test 02 , Assignment 03 and Project Guide 03",
+      "URLs": ""
+    },
+    {
+      "Session": "55",
+      "Topic": "Project Assistant - 03 Progress Test 02",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO4.x",
+      "ITU": "TU",
+      "Student Materials": "Chapter 08: https://docs.microsoft.com/en-us/aspnet/core/fundamentals/host/hosted-services?view=aspnetcore-5.0&tabs=visual-studio",
+      "S-Download": "",
+      "Student's Tasks": "Study just learned materials, redo sample examples, do Progress Test 02 , Assignment 03 and Project Guide 03",
+      "URLs": ""
+    },
+    {
+      "Session": "56",
+      "Topic": "Project Assistant - 03 Progress Test 02",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO4.x",
+      "ITU": "TU",
+      "Student Materials": "Chapter 08: https://docs.microsoft.com/en-us/aspnet/core/fundamentals/host/hosted-services?view=aspnetcore-5.0&tabs=visual-studio",
+      "S-Download": "",
+      "Student's Tasks": "Study just learned materials, redo sample examples, do Progress Test 02 , Assignment 03 and Project Guide 03",
+      "URLs": ""
+    },
+    {
+      "Session": "57",
+      "Topic": "Project Evaluation",
+      "Learning-Teaching Type": "Offline",
+      "LO": "",
+      "ITU": "",
+      "Student Materials": "",
+      "S-Download": "",
+      "Student's Tasks": "",
+      "URLs": ""
+    },
+    {
+      "Session": "58",
+      "Topic": "Project Evaluation",
+      "Learning-Teaching Type": "Offline",
+      "LO": "",
+      "ITU": "",
+      "Student Materials": "",
+      "S-Download": "",
+      "Student's Tasks": "",
+      "URLs": ""
+    },
+    {
+      "Session": "59",
+      "Topic": "Project Evaluation",
+      "Learning-Teaching Type": "Offline",
+      "LO": "",
+      "ITU": "",
+      "Student Materials": "",
+      "S-Download": "",
+      "Student's Tasks": "",
+      "URLs": ""
+    },
+    {
+      "Session": "60",
+      "Topic": "Project Evaluation",
+      "Learning-Teaching Type": "Offline",
+      "LO": "",
+      "ITU": "",
+      "Student Materials": "",
+      "S-Download": "",
+      "Student's Tasks": "",
+      "URLs": ""
+    },
+    {
+      "Session": "61",
+      "Topic": "Project Evaluation (Extra Time)",
+      "Learning-Teaching Type": "Offline",
+      "LO": "",
+      "ITU": "",
+      "Student Materials": "",
+      "S-Download": "",
+      "Student's Tasks": "",
+      "URLs": ""
+    },
+    {
+      "Session": "62",
+      "Topic": "Project Evaluation (Extra Time)",
+      "Learning-Teaching Type": "Offline",
+      "LO": "",
+      "ITU": "",
+      "Student Materials": "",
+      "S-Download": "",
+      "Student's Tasks": "",
+      "URLs": ""
+    },
+    {
+      "Session": "63",
+      "Topic": "Review (Extra Time)",
+      "Learning-Teaching Type": "Offline",
+      "LO": "All LOs",
+      "ITU": "",
+      "Student Materials": "",
+      "S-Download": "",
+      "Student's Tasks": "",
+      "URLs": ""
+    },
+    {
+      "Session": "64",
+      "Topic": "Review (Extra Time)",
+      "Learning-Teaching Type": "Offline",
+      "LO": "All LOs",
+      "ITU": "",
+      "Student Materials": "",
+      "S-Download": "",
+      "Student's Tasks": "",
+      "URLs": ""
+    },
+    {
+      "Session": "65",
+      "Topic": "Review (Extra Time)",
+      "Learning-Teaching Type": "Offline",
+      "LO": "All LOs",
+      "ITU": "TU",
+      "Student Materials": "Chapter 07: https://docs.microsoft.com/vi-vn/aspnet/core/signalr/introduction?view=aspnetcore-5.0",
+      "S-Download": "",
+      "Student's Tasks": "Study just learned materials, redo sample examples, do Progress Test 02 , Assignment 03 and Project Guide 03",
+      "URLs": ""
+    },
+    {
+      "Session": "66",
+      "Topic": "Review (Extra Time)",
+      "Learning-Teaching Type": "Offline",
+      "LO": "All LOs",
+      "ITU": "TU",
+      "Student Materials": "Chapter 07: https://docs.microsoft.com/vi-vn/aspnet/core/signalr/introduction?view=aspnetcore-5.0",
+      "S-Download": "",
+      "Student's Tasks": "Study just learned materials, redo sample examples, do Progress Test 02 , Assignment 03 and Project Guide 03",
+      "URLs": ""
+    }
+  ],
+  "constructive_questions": [
+    {
+      "No.": "1",
+      "Session No": "1",
+      "Name": "CQ1.1",
+      "Details": "What are the main functions and techniques used in your PRN211 subject group project?"
+    },
+    {
+      "No.": "2",
+      "Session No": "1",
+      "Name": "CQ1.2",
+      "Details": "What techniques will be learned in PRN221, which are advanced, which are new to you?"
+    },
+    {
+      "No.": "3",
+      "Session No": "2",
+      "Name": "CQ1.3",
+      "Details": "What's bothering you about changing the way you create UIs with WPF?"
+    },
+    {
+      "No.": "4",
+      "Session No": "3",
+      "Name": "CQ1.4",
+      "Details": "What are the layout tags that a programmer needs to know when using WPF? And why?"
+    },
+    {
+      "No.": "5",
+      "Session No": "4",
+      "Name": "CQ2.1",
+      "Details": "What's the difference between regular winform programming and winform programming using WPF?"
+    },
+    {
+      "No.": "6",
+      "Session No": "5",
+      "Name": "CQ2.2",
+      "Details": "What form tags should a developer know when using WPF? And why?"
+    },
+    {
+      "No.": "7",
+      "Session No": "6",
+      "Name": "CQ2.3",
+      "Details": "Why is binding data necessary and how many types of binding data are there?"
+    },
+    {
+      "No.": "8",
+      "Session No": "13",
+      "Name": "CQ5.1",
+      "Details": "What is the execution mechanism of Serializations?"
+    },
+    {
+      "No.": "9",
+      "Session No": "14",
+      "Name": "CQ5.2",
+      "Details": "What is the Serialization syntax for each data format?"
+    },
+    {
+      "No.": "10",
+      "Session No": "15",
+      "Name": "CQ5.3",
+      "Details": "What are the techniques you learned related to networking?"
+    },
+    {
+      "No.": "11",
+      "Session No": "16",
+      "Name": "CQ6.1",
+      "Details": "How many networking techniques are there?"
+    },
+    {
+      "No.": "12",
+      "Session No": "17",
+      "Name": "CQ6.2",
+      "Details": "Each type of net working will be suitable for which function in an IT application? Why?"
+    },
+    {
+      "No.": "13",
+      "Session No": "18",
+      "Name": "CQ6.3",
+      "Details": "What networking techniques will you apply in your team project, performing what function?"
+    },
+    {
+      "No.": "14",
+      "Session No": "22",
+      "Name": "CQ8.1",
+      "Details": "What is the difference between instruction and data?"
+    },
+    {
+      "No.": "15",
+      "Session No": "23",
+      "Name": "CQ8.2",
+      "Details": "When to apply parallel computing?"
+    },
+    {
+      "No.": "16",
+      "Session No": "24",
+      "Name": "CQ8.3",
+      "Details": "How many task states can be logged? What state transitions are possible?"
+    },
+    {
+      "No.": "17",
+      "Session No": "25",
+      "Name": "CQ9.1",
+      "Details": "What is the effect of async and await? How does asyn and await work?"
+    },
+    {
+      "No.": "18",
+      "Session No": "26",
+      "Name": "CQ9.2",
+      "Details": "What engineering techniques will you apply in your team project, performing what function?"
+    },
+    {
+      "No.": "19",
+      "Session No": "27",
+      "Name": "CQ9.3",
+      "Details": "What specific situations highlight the advantages of S, O, L, I, D?"
+    },
+    {
+      "No.": "20",
+      "Session No": "28",
+      "Name": "CQ10.1",
+      "Details": "What is Inversion of Control and how to organize code in C# .Net"
+    },
+    {
+      "No.": "21",
+      "Session No": "29",
+      "Name": "CQ10.2",
+      "Details": "What are Dependency Injection patterns and how to organize the code in C# .Net"
+    },
+    {
+      "No.": "22",
+      "Session No": "30",
+      "Name": "CQ10.3",
+      "Details": "What is the difference and difference between IoC and DI?"
+    },
+    {
+      "No.": "23",
+      "Session No": "34",
+      "Name": "CQ12.1",
+      "Details": "How many ways are there to pass data between pages in Razor Page? Usage scenario? Pros and cons?"
+    },
+    {
+      "No.": "24",
+      "Session No": "35",
+      "Name": "CQ12.2",
+      "Details": "How many ways to validate data input, how to do it?"
+    },
+    {
+      "No.": "25",
+      "Session No": "36",
+      "Name": "CQ12.3",
+      "Details": "How does Tag Helper work and how does it work?"
+    },
+    {
+      "No.": "26",
+      "Session No": "43",
+      "Name": "CQ15.1",
+      "Details": "What is the difference between “Pushing” and “Pulling” in client-server communication? Advantages and disadvantages? Usage scenario?"
+    },
+    {
+      "No.": "27",
+      "Session No": "44",
+      "Name": "CQ15.2",
+      "Details": "What is the role of SignalR in transport? Compare it with previously learned methods in data transmission between two machines"
+    },
+    {
+      "No.": "28",
+      "Session No": "45",
+      "Name": "CQ15.3",
+      "Details": "What is the Hub's mission? How to organize and operate?"
+    },
+    {
+      "No.": "29",
+      "Session No": "46",
+      "Name": "CQ16.1",
+      "Details": "What are the uses of hub-filters? Distinguish Global hub filters and Local hub filters?"
+    },
+    {
+      "No.": "30",
+      "Session No": "47",
+      "Name": "CQ16.2",
+      "Details": "What are the basic array of functions when using SignalR?"
+    },
+    {
+      "No.": "31",
+      "Session No": "48",
+      "Name": "CQ16.3",
+      "Details": "What functionality of the team project would you apply SignalR to? Why?"
+    },
+    {
+      "No.": "32",
+      "Session No": "55",
+      "Name": "CQ19.1",
+      "Details": "What services do you know? And classify them based on some specific criteria? What service is considered a worker service?"
+    },
+    {
+      "No.": "33",
+      "Session No": "56",
+      "Name": "CQ19.2",
+      "Details": "What techniques have you learned, which can be considered as worker service? Why?"
+    },
+    {
+      "No.": "34",
+      "Session No": "57",
+      "Name": "CQ19.3",
+      "Details": "What are the basic steps when building a worker service?"
+    }
+  ],
+  "materials": [
+    {
+      "No.": "1",
+      "Material Description": "Creating ASP.NET Core Web Applications",
+      "Author": "Dirk Strauss",
+      "Publisher": "Apress",
+      "Published Date": "2021",
+      "Edition": "1st",
+      "ISBN": "978-1-4842-6828-5",
+      "Is Main Material": "False",
+      "Is Hard Copy": "True",
+      "Is Online": "False",
+      "Note": ""
+    },
+    {
+      "No.": "2",
+      "Material Description": "C# 9 and .NET 5 – Modern Cross-Platform Development - Fifth Edition",
+      "Author": "Mark J.Price",
+      "Publisher": "Packt",
+      "Published Date": "2021",
+      "Edition": "5th",
+      "ISBN": "978-1800568105",
+      "Is Main Material": "False",
+      "Is Hard Copy": "True",
+      "Is Online": "False",
+      "Note": ""
+    },
+    {
+      "No.": "3",
+      "Material Description": "Beginning Database Programming Using ASP.NET Core 3",
+      "Author": "Bipin Joshi",
+      "Publisher": "Apress",
+      "Published Date": "2019",
+      "Edition": "1st",
+      "ISBN": "978-1-4842-5509-4",
+      "Is Main Material": "False",
+      "Is Hard Copy": "True",
+      "Is Online": "False",
+      "Note": ""
+    },
+    {
+      "No.": "4",
+      "Material Description": "Exploring Windows Presentation Foundation",
+      "Author": "Taurius LitvinaviciusJonava, Lithuania",
+      "Publisher": "Apress",
+      "Published Date": "2021",
+      "Edition": "1st",
+      "ISBN": "978-1-4842-6637-3",
+      "Is Main Material": "False",
+      "Is Hard Copy": "True",
+      "Is Online": "False",
+      "Note": ""
+    },
+    {
+      "No.": "5",
+      "Material Description": "Pro RESTful APIs",
+      "Author": "Sanjay Patni",
+      "Publisher": "Apress",
+      "Published Date": "2017",
+      "Edition": "1st",
+      "ISBN": "978-1-4842-2665-0",
+      "Is Main Material": "False",
+      "Is Hard Copy": "True",
+      "Is Online": "False",
+      "Note": ""
+    },
+    {
+      "No.": "6",
+      "Material Description": "Real-Time Web Application Development",
+      "Author": "Rami Vemula",
+      "Publisher": "Apress",
+      "Published Date": "2017",
+      "Edition": "1st",
+      "ISBN": "978-1-4842-3270-5",
+      "Is Main Material": "False",
+      "Is Hard Copy": "True",
+      "Is Online": "False",
+      "Note": ""
+    },
+    {
+      "No.": "7",
+      "Material Description": "https://docs.microsoft.com/en-us/dotnet/core/introduction",
+      "Author": "Microsoft",
+      "Publisher": "Microsoft",
+      "Published Date": "N/A",
+      "Edition": "N/A",
+      "ISBN": "",
+      "Is Main Material": "True",
+      "Is Hard Copy": "False",
+      "Is Online": "True",
+      "Note": ""
+    },
+    {
+      "No.": "8",
+      "Material Description": "Course slides (.pptx)",
+      "Author": "",
+      "Publisher": "",
+      "Published Date": "",
+      "Edition": "",
+      "ISBN": "",
+      "Is Main Material": "False",
+      "Is Hard Copy": "False",
+      "Is Online": "False",
+      "Note": ""
+    },
+    {
+      "No.": "9",
+      "Material Description": "Assignments and Hands-on Labs",
+      "Author": "",
+      "Publisher": "",
+      "Published Date": "",
+      "Edition": "",
+      "ISBN": "",
+      "Is Main Material": "False",
+      "Is Hard Copy": "False",
+      "Is Online": "False",
+      "Note": ""
+    }
+  ],
+  "source_path": "data/raw/syllabi/11069.html",
+  "id": "syllabus:11069"
+}

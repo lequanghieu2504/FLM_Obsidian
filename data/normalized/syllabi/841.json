@@ -1,0 +1,552 @@
+{
+  "syllabus_id": 841,
+  "subject_code": "BKG201",
+  "subject_name": "Principles of Banking",
+  "syllabus_name": "PRINCIPLES OF BANKING",
+  "credits": 3,
+  "degree_level": "Bachelor",
+  "time_allocation": "Contact time: 30 sessions; 1 session = 90'",
+  "prerequisite": "FIN201 (Monetary Economics and Global Economy)",
+  "general_information": {
+    "Syllabus ID": "841",
+    "Syllabus Name": "PRINCIPLES OF BANKING",
+    "Course Name English": "",
+    "Subject Code": "BKG201",
+    "Learning-Teaching Method": "",
+    "NoCredit": "3",
+    "Degree Level": "Bachelor",
+    "Time Allocation": "Contact time: 30 sessions; 1 session = 90'",
+    "Pre-Requisite": "FIN201 (Monetary Economics and Global Economy)",
+    "Description": "The course is intended for those undergraduate students in the Finance and Banking major. This course is designed to further develop the student’s understanding of the banking environment. The course introduces basic knowledge of commercial banks and their services and financial statements. It also helps the student obtain a thorough understanding of deposit base, lending, and the policies and procedures of each of these areas. Emphasis is also placed upon the areas of new legislation, regulation, financial market, deposits, and lending.",
+    "StudentTasks": "- Attend more than 80% of contact hours in order to be accepted to the final examination - Actively participate in class activities - Fulfill tasks given by instructor after class - Use their own laptop in class only for learning purpose - Read the textbook in advance - Access the course website (http://cms.fpt.edu.vn) for up-to-date information and material of the course, for online supports from teachers and other students and for practicing and assessment.",
+    "Tools": "",
+    "Scoring Scale": "10",
+    "DecisionNo MM/dd/yyyy": "337/QĐ-ĐHFPT dated 04/12/2017",
+    "IsApproved": "True",
+    "Note": "",
+    "Is Scored": "True",
+    "MinAvgMarkToPass": "5",
+    "IsActive": "True",
+    "ApprovedDate": "4/12/2017"
+  },
+  "active": true,
+  "approved": true,
+  "decision": "337/QĐ-ĐHFPT dated 04/12/2017",
+  "description": "The course is intended for those undergraduate students in the Finance and Banking major. This course is designed to further develop the student’s understanding of the banking environment. The course introduces basic knowledge of commercial banks and their services and financial statements. It also helps the student obtain a thorough understanding of deposit base, lending, and the policies and procedures of each of these areas. Emphasis is also placed upon the areas of new legislation, regulation, financial market, deposits, and lending.",
+  "learning_outcomes": [
+    {
+      "No.": "1",
+      "CLO Name": "CLO1",
+      "CLO Details": ""
+    },
+    {
+      "No.": "2",
+      "CLO Name": "CLO2",
+      "CLO Details": ""
+    },
+    {
+      "No.": "3",
+      "CLO Name": "CLO3",
+      "CLO Details": ""
+    },
+    {
+      "No.": "4",
+      "CLO Name": "CLO4",
+      "CLO Details": ""
+    },
+    {
+      "No.": "5",
+      "CLO Name": "CLO5",
+      "CLO Details": ""
+    },
+    {
+      "No.": "6",
+      "CLO Name": "CLO6",
+      "CLO Details": ""
+    },
+    {
+      "No.": "7",
+      "CLO Name": "CLO7",
+      "CLO Details": ""
+    },
+    {
+      "No.": "8",
+      "CLO Name": "CLO8",
+      "CLO Details": ""
+    },
+    {
+      "No.": "9",
+      "CLO Name": "CLO9",
+      "CLO Details": ""
+    },
+    {
+      "No.": "10",
+      "CLO Name": "CLO10",
+      "CLO Details": ""
+    },
+    {
+      "No.": "11",
+      "CLO Name": "CLO11",
+      "CLO Details": ""
+    },
+    {
+      "No.": "12",
+      "CLO Name": "CLO12",
+      "CLO Details": ""
+    },
+    {
+      "No.": "13",
+      "CLO Name": "CLO13",
+      "CLO Details": ""
+    },
+    {
+      "No.": "14",
+      "CLO Name": "CLO14",
+      "CLO Details": ""
+    }
+  ],
+  "assessments": [
+    {
+      "No.": "1",
+      "Category": "Class participation and preparation",
+      "Type": "on-going",
+      "Part": "1",
+      "Weight": "10.0%",
+      "Completion Criteria": ">0",
+      "Duration": "",
+      "CLO": "LO3, LO4, LO5",
+      "Question Type": "Students should attend all the sessions and actively participate in class discussion for full credit.",
+      "No Question": "Attendance",
+      "Knowledge and Skill": "attendance",
+      "Grading Guide": "Class room",
+      "Note": "Participation grade will be given based on students' preparation, and quantity as well as quality of participation in classroom; quality of participation is demonstrated through asking relevant questions, making statements that add to and facilitate class discussion, and builds upon others’ comments. Class preparation and pre-reading before lecture will be assessed upon individuals' understanding and ability to answer questions in the class. Individuals will be called up randomly to be assessed."
+    },
+    {
+      "No.": "2",
+      "Category": "Essay Test",
+      "Type": "on-going",
+      "Part": "1",
+      "Weight": "15.0%",
+      "Completion Criteria": ">0",
+      "Duration": "40",
+      "CLO": "",
+      "Question Type": "Essay question",
+      "No Question": "Essay question of 2-3 exercises",
+      "Knowledge and Skill": "The question will cover the learned lectures, class discussions, activities, exercises, and textbook.",
+      "Grading Guide": "Class room",
+      "Note": ""
+    },
+    {
+      "No.": "3",
+      "Category": "Final exam",
+      "Type": "on-going",
+      "Part": "1",
+      "Weight": "30.0%",
+      "Completion Criteria": ">0",
+      "Duration": "60",
+      "CLO": "",
+      "Question Type": "Multiple choice",
+      "No Question": "Multiple choice of 50 questions from question bank",
+      "Knowledge and Skill": "The question will cover the lectures, class discussions, activities, exercises, and textbook.",
+      "Grading Guide": "Exam room",
+      "Note": "Not allow to use any document/information in any form in exam room"
+    },
+    {
+      "No.": "4",
+      "Category": "Group assignment",
+      "Type": "on-going",
+      "Part": "1",
+      "Weight": "15.0%",
+      "Completion Criteria": ">0",
+      "Duration": "",
+      "CLO": "",
+      "Question Type": "",
+      "No Question": "Maximum length of the group written report after the presentation should be 15 pages maximum excluding appendices",
+      "Knowledge and Skill": "Based on topics of studied chapters",
+      "Grading Guide": "Group presentation in class room",
+      "Note": "All assignments should be typed and double-spaced with 11-point font, and must be submitted in both soft and hard copy. A deduction of 10% of the assignment mark will be applied for each day of late submission Evaluation will be based on both presentation (10%) and written report (15%)"
+    },
+    {
+      "No.": "5",
+      "Category": "Individual homework assignment",
+      "Type": "on-going",
+      "Part": "1",
+      "Weight": "15.0%",
+      "Completion Criteria": ">0",
+      "Duration": "",
+      "CLO": "LO6, LO7, LO8, LO9",
+      "Question Type": "Students are required to choose a bank in Vietnam to analyse its financial position, risk management system, and investment strategies.",
+      "No Question": "Research Paper",
+      "Knowledge and Skill": "Based on the bank chosen",
+      "Grading Guide": "Paper",
+      "Note": "All assignments should be typed and double-spaced with 11-point font, and must be submitted in both soft and hard copy in about 7-10 pages excluding appendices. A deduction of 10% of the assignment mark will be applied for each day of late submission; The deadline for individual assignment submission is noticed in the syllabus schedule."
+    },
+    {
+      "No.": "6",
+      "Category": "Quizzes",
+      "Type": "on-going",
+      "Part": "1",
+      "Weight": "15.0%",
+      "Completion Criteria": ">0",
+      "Duration": "20",
+      "CLO": "LO1, LO2, LO3, LO4, LO10",
+      "Question Type": "Multiple choice questions or calculation",
+      "No Question": "15 Multiple choice questions or calculation",
+      "Knowledge and Skill": "Quizzes will test for knowledge of subjects in the chapter assigned for that day.",
+      "Grading Guide": "Class room",
+      "Note": "These quizzes will be given at various times during class (beginning, middle or end). Total number of quizzes: 4"
+    }
+  ],
+  "schedule": [
+    {
+      "Session": "1",
+      "Topic": "Chapter 1: An Overview of the Changing Financial Services Sector 1. What is a Bank? 2. Financial System and Competing Financial Services Institutions",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO1",
+      "ITU": "I,T",
+      "Student Materials": "",
+      "S-Download": "BKG201",
+      "Student's Tasks": "Class Syllabus Textbook Chapter 1",
+      "URLs": ""
+    },
+    {
+      "Session": "2",
+      "Topic": "Chapter 1 (Cont) 3. Key Trends Affecting Financial Service firms.",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO2, LO3",
+      "ITU": "I,T",
+      "Student Materials": "",
+      "S-Download": "BKG201 slides",
+      "Student's Tasks": "Class Syllabus Textbook Chapter 1",
+      "URLs": ""
+    },
+    {
+      "Session": "3",
+      "Topic": "Chapter 2: The Impact of Government Policy and Regulation on the Financial Services Industry 1. Banking Regulation",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO2, LO3",
+      "ITU": "I,T",
+      "Student Materials": "",
+      "S-Download": "",
+      "Student's Tasks": "Class Syllabus Textbook Chapter 2",
+      "URLs": ""
+    },
+    {
+      "Session": "4",
+      "Topic": "Chapter 2 (cont) 2. The impact of Government Policy and Regulation on Banking",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO4, LO5",
+      "ITU": "T,U",
+      "Student Materials": "",
+      "S-Download": "",
+      "Student's Tasks": "Class Syllabus Textbook Chapter 2",
+      "URLs": ""
+    },
+    {
+      "Session": "5",
+      "Topic": "Exercise activities: Chapter 1+2 1.The role of Government Policy with Commercial Banks in Vietnam recently 2. Problems in Textbook",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO4, LO5",
+      "ITU": "I,T",
+      "Student Materials": "",
+      "S-Download": "",
+      "Student's Tasks": "Class Syllabus Textbook Chapter 2",
+      "URLs": ""
+    },
+    {
+      "Session": "6",
+      "Topic": "Chapter 3: The Organization and Structure of Banking and the Financial-Services Industry 1. The Organization and Structure of the Commercial Banking Industry 2. Internal Organization of the Banking Firm 3. Interstate Banking Organization",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO4, LO5",
+      "ITU": "I,T",
+      "Student Materials": "",
+      "S-Download": "",
+      "Student's Tasks": "Class Syllabus Textbook Chapter 3",
+      "URLs": ""
+    },
+    {
+      "Session": "7",
+      "Topic": "Chapter 3 (cont) 4. Mergers and Acquisitions - Banking Structure and Organization in Europe and Asia 5. The Changing Organization and Structure of Banking's Principle Competitors 6. Economies of Scale and Scope and Expense Preference Behavior",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO10",
+      "ITU": "U",
+      "Student Materials": "",
+      "S-Download": "",
+      "Student's Tasks": "Class Syllabus Textbook Chapter 3",
+      "URLs": ""
+    },
+    {
+      "Session": "8",
+      "Topic": "Exercise activities: Chapter 3 1. Discussion about Banking Organization in Vietnam 2. Problems in Textbook",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO6",
+      "ITU": "I,T",
+      "Student Materials": "",
+      "S-Download": "",
+      "Student's Tasks": "Class Syllabus Textbook Chapter 3",
+      "URLs": ""
+    },
+    {
+      "Session": "9",
+      "Topic": "Chapter 4: Establishing New Banks, Branches, ATMs, Telephone Services, and Websites 1. Chartering a new Financial-Service Institution 2. Establishing Full-Service Branch Offices",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO6",
+      "ITU": "I,T",
+      "Student Materials": "",
+      "S-Download": "",
+      "Student's Tasks": "Class Syllabus Textbook Chapter 4",
+      "URLs": ""
+    },
+    {
+      "Session": "10",
+      "Topic": "Chapter 4: (Cont) 3. Banking in Homes, Offices, Stores, and on the Street 4. Financial-Service Facilities of the Future",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO10",
+      "ITU": "I,T",
+      "Student Materials": "",
+      "S-Download": "",
+      "Student's Tasks": "Class Syllabus Textbook Chapter 4",
+      "URLs": ""
+    },
+    {
+      "Session": "11",
+      "Topic": "Exercise activities: Chapter 4 1.Discussion about Banking Service Facilities in Vietnam 2.Problems in Textbook",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO3",
+      "ITU": "I,T",
+      "Student Materials": "",
+      "S-Download": "",
+      "Student's Tasks": "Class Syllabus Textbook Chapter 4",
+      "URLs": ""
+    },
+    {
+      "Session": "12",
+      "Topic": "Quiz 1 (Chapter 1, 2,3) Chapter 5: The Financial Statements of Banks and Their Principal Competitors 1. Overview 2. Balance Sheet",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO3, LO5",
+      "ITU": "I,T",
+      "Student Materials": "",
+      "S-Download": "",
+      "Student's Tasks": "Class Syllabus Textbook Chapter 5",
+      "URLs": ""
+    },
+    {
+      "Session": "13",
+      "Topic": "Chapter 5 (cont) 3 Income Statement 4. Key Features of Financial Statements",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO9",
+      "ITU": "I,T",
+      "Student Materials": "",
+      "S-Download": "",
+      "Student's Tasks": "Class Syllabus Textbook Chapter 5",
+      "URLs": ""
+    },
+    {
+      "Session": "14",
+      "Topic": "Exercise activities: Chapter 5 1. Discussion about Financial Statements of Banks in Vietnam 2.Problems in Textbook",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO9",
+      "ITU": "I,T",
+      "Student Materials": "",
+      "S-Download": "",
+      "Student's Tasks": "Class Syllabus Textbook Chapter 5",
+      "URLs": ""
+    },
+    {
+      "Session": "15",
+      "Topic": "Chapter 6: Measuring and Evaluating the Performance of Banks and their Principles Competitors 1. Introduction 2. Evaluating Performance",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO9",
+      "ITU": "I,T",
+      "Student Materials": "",
+      "S-Download": "",
+      "Student's Tasks": "Class Syllabus Textbook Chapter 6",
+      "URLs": ""
+    },
+    {
+      "Session": "16",
+      "Topic": "Chapter 6 (cont) 3.Performance Indicators 4.The Impact of Size on Performance",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO7",
+      "ITU": "I,T",
+      "Student Materials": "",
+      "S-Download": "",
+      "Student's Tasks": "Class Syllabus Textbook Chapter 6",
+      "URLs": ""
+    },
+    {
+      "Session": "17",
+      "Topic": "Exercise activities: Chapter 6 Discussion about Performance of Banks in Vietnam Introduction to individual assignment",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO7, LO6, LO5",
+      "ITU": "T, U",
+      "Student Materials": "",
+      "S-Download": "",
+      "Student's Tasks": "Class Syllabus Textbook Chapter 6",
+      "URLs": ""
+    },
+    {
+      "Session": "18",
+      "Topic": "Quiz 2 (Chapter 4,5,6) Chapter 12: Managing and Pricing Deposit Services",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO3, LO5, LO6, LO7",
+      "ITU": "I,T",
+      "Student Materials": "",
+      "S-Download": "",
+      "Student's Tasks": "Class Syllabus Textbook Chapter 12",
+      "URLs": ""
+    },
+    {
+      "Session": "20",
+      "Topic": "Exercise activities: chapter 12",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO10, LO11",
+      "ITU": "I,T",
+      "Student Materials": "",
+      "S-Download": "",
+      "Student's Tasks": "Class Syllabus Textbook Chapter 12",
+      "URLs": ""
+    },
+    {
+      "Session": "21",
+      "Topic": "Chapter 13: Managing Nondeposit Liabilities",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO12",
+      "ITU": "T,U",
+      "Student Materials": "",
+      "S-Download": "",
+      "Student's Tasks": "Class Syllabus Textbook Chapter 13",
+      "URLs": ""
+    },
+    {
+      "Session": "22",
+      "Topic": "Chapter 13(Cont)",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO14",
+      "ITU": "I,T",
+      "Student Materials": "",
+      "S-Download": "",
+      "Student's Tasks": "Class Syllabus Textbook Chapter 13",
+      "URLs": ""
+    },
+    {
+      "Session": "23",
+      "Topic": "Exercise activities: chapter 13",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO14",
+      "ITU": "I,T",
+      "Student Materials": "",
+      "S-Download": "",
+      "Student's Tasks": "Class Syllabus Textbook Chapter 13",
+      "URLs": ""
+    },
+    {
+      "Session": "24",
+      "Topic": "Group assignment guide Essay Test",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO14",
+      "ITU": "I,T",
+      "Student Materials": "",
+      "S-Download": "",
+      "Student's Tasks": "All chapter so far",
+      "URLs": ""
+    },
+    {
+      "Session": "25",
+      "Topic": "Quiz 3: Chapter 12, 13 Chapter 16: Lending Policies and Procedures: Managing Credit Risk 1. Types of Loans 2.Regulation of Lending 3.Steps in Lending Process",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO10",
+      "ITU": "I,T",
+      "Student Materials": "",
+      "S-Download": "",
+      "Student's Tasks": "Class Syllabus Textbook Chapter 16",
+      "URLs": ""
+    },
+    {
+      "Session": "26",
+      "Topic": "Chapter 16 (cont) 4. Credit Analysis 5. Sources of Information about Loan Customer 6. Part of Typical Loan Agreement 7. Loan Review and Loan Workouts",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO10",
+      "ITU": "I,T",
+      "Student Materials": "",
+      "S-Download": "",
+      "Student's Tasks": "Class Syllabus Textbook Chapter 16",
+      "URLs": ""
+    },
+    {
+      "Session": "27",
+      "Topic": "Exercise activities: Chapter 16 1. Lending Case Study 2. The Process of Lending in a Vietnamese Commercial Bank 3. Problems in Textbook",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO11",
+      "ITU": "I,T",
+      "Student Materials": "",
+      "S-Download": "",
+      "Student's Tasks": "Class Syllabus Textbook Chapter 16",
+      "URLs": ""
+    },
+    {
+      "Session": "28",
+      "Topic": "Review for final exam",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO10",
+      "ITU": "T,U",
+      "Student Materials": "",
+      "S-Download": "",
+      "Student's Tasks": "prepare for Q&A",
+      "URLs": ""
+    },
+    {
+      "Session": "29",
+      "Topic": "Individual assignment submission and Group presentation",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO11",
+      "ITU": "T,U",
+      "Student Materials": "",
+      "S-Download": "",
+      "Student's Tasks": "prepare for Q&A",
+      "URLs": ""
+    },
+    {
+      "Session": "30",
+      "Topic": "Group assignment submission and Group presentation",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO11",
+      "ITU": "T, U",
+      "Student Materials": "",
+      "S-Download": "",
+      "Student's Tasks": "prepare for Q&A",
+      "URLs": ""
+    }
+  ],
+  "constructive_questions": [],
+  "materials": [
+    {
+      "No.": "1",
+      "Material Description": "Commercial banking: the management of risk",
+      "Author": "Gupp, B. E., Avram, K., Beal, D., Lambert, R. & Kolari, J.",
+      "Publisher": "Milton, John Wiley & Sons Australia Ltd",
+      "Published Date": "2007",
+      "Edition": "",
+      "ISBN": "",
+      "Is Main Material": "True",
+      "Is Hard Copy": "True",
+      "Is Online": "False",
+      "Note": ""
+    },
+    {
+      "No.": "2",
+      "Material Description": "Management of banking",
+      "Author": "Scott MacDonald, Timothy w.Koch",
+      "Publisher": "Singapore South - Western",
+      "Published Date": "2006",
+      "Edition": "6th",
+      "ISBN": "",
+      "Is Main Material": "True",
+      "Is Hard Copy": "True",
+      "Is Online": "False",
+      "Note": ""
+    }
+  ],
+  "source_path": "data/raw/syllabi/841.html",
+  "id": "syllabus:841"
+}

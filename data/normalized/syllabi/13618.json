@@ -1,0 +1,994 @@
+{
+  "syllabus_id": 13618,
+  "subject_code": "EVN203",
+  "subject_name": "Special Events and Wedding Production_Sự kiện đặc biêt và tổ chức tiệc cưới",
+  "syllabus_name": "Special Events and Wedding Production_Sự kiện đặc biêt và tổ chức tiệc cưới",
+  "credits": 3,
+  "degree_level": "Bachelor",
+  "time_allocation": "Study hour (150h) = 45h (60 sessions) contact hours + 1h final exam + 104h self-study",
+  "prerequisite": "EVN201/EVP201",
+  "general_information": {
+    "Syllabus ID": "13618",
+    "Syllabus Name": "Special Events and Wedding Production_Sự kiện đặc biêt và tổ chức tiệc cưới",
+    "Course Name English": "Special Events and Wedding Production",
+    "Subject Code": "EVN203",
+    "Learning-Teaching Method": "Lecture,Coaching",
+    "NoCredit": "3",
+    "Degree Level": "Bachelor",
+    "Time Allocation": "Study hour (150h) = 45h (60 sessions) contact hours + 1h final exam + 104h self-study",
+    "Pre-Requisite": "EVN201/EVP201",
+    "Description": "-Objective: To provide an overall and in-depth competence of wedding planning and management -Description: It gives a comprehensive and in-depth knowlodege of different aspects of wedding planning and management, starting from supplying a strong foundation knowledge in the cultural, historical, social, and political influences on weddings and marriage; to accommodating with all of the elements essential to the practice of planning weddings; as well as a clear overview of what it takes to start a wedding consulting business. -Teaching method: lecturing in combination with tutorial classes, case study analysis, real event planning practice",
+    "StudentTasks": "- Class attendance is strongly encouraged. Attend at least 80% of class hours in order to be accepted to the final examination - Actively participate in class activities - Fulfill tasks given by instructor after class - Use their own laptop in class only for learning purpose - Read the textbook in advance - Access the course website (http://flm.fpt.edu.vn) for up-to-date information and material of the course, for online supports from teachers and other students and for practicing and assessment.",
+    "Tools": "Internet",
+    "Scoring Scale": "10",
+    "DecisionNo MM/dd/yyyy": "1318/QĐ-ĐHFPT dated 11/27/2025",
+    "IsApproved": "True",
+    "Note": "",
+    "Is Scored": "True",
+    "MinAvgMarkToPass": "5",
+    "IsActive": "True",
+    "ApprovedDate": "11/27/2025"
+  },
+  "active": true,
+  "approved": true,
+  "decision": "1318/QĐ-ĐHFPT dated 11/27/2025",
+  "description": "-Objective: To provide an overall and in-depth competence of wedding planning and management -Description: It gives a comprehensive and in-depth knowlodege of different aspects of wedding planning and management, starting from supplying a strong foundation knowledge in the cultural, historical, social, and political influences on weddings and marriage; to accommodating with all of the elements essential to the practice of planning weddings; as well as a clear overview of what it takes to start a wedding consulting business. -Teaching method: lecturing in combination with tutorial classes, case study analysis, real event planning practice",
+  "learning_outcomes": [
+    {
+      "No.": "1",
+      "CLO Name": "CLO1",
+      "CLO Details": "To get an insight into the role of the wedding consultants and their appreciation of and sensitivity to the diverse needs of the clients"
+    },
+    {
+      "No.": "2",
+      "CLO Name": "CLO2",
+      "CLO Details": "To establish the cultural, religious, historical, political and social context of the weddings"
+    },
+    {
+      "No.": "3",
+      "CLO Name": "CLO3",
+      "CLO Details": "To examine the individual fundamental elements that together lead to the design and implementation of weddings"
+    },
+    {
+      "No.": "4",
+      "CLO Name": "CLO4",
+      "CLO Details": "To develop procedures for the weddings and manage resources and logistics to ensure weddings are delivered in line with event plans"
+    },
+    {
+      "No.": "5",
+      "CLO Name": "CLO5",
+      "CLO Details": "To monitor and evaluate events to ensure customer and business requirements are met"
+    },
+    {
+      "No.": "6",
+      "CLO Name": "CLO6",
+      "CLO Details": "To achieve and practice a professional manner of an event planner with high sense of responsibility, detail orientedness, servicemind and teamwork spirit"
+    }
+  ],
+  "assessments": [
+    {
+      "No.": "1",
+      "Category": "Participation",
+      "Type": "on-going",
+      "Part": "1",
+      "Weight": "10.0%",
+      "Completion Criteria": ">0",
+      "Duration": "Option 1: During all coursesOption 2 (For Constructivism Approach only): Follow lecturer's proposal",
+      "CLO": "",
+      "Question Type": "Option 1: Each student shoud make at least 1 individual presentation/ case analysis during the course in front of the classOption 2 (For Constructivism Approach only): Follow lecturer's proposal",
+      "No Question": "NA",
+      "Knowledge and Skill": "",
+      "Grading Guide": "Option 1: Participation grade will be given based on students' preparation, and quantity as well as quality of participation in classroom; quality of participation is demonstrated through asking relevant questions, making statements that add to and facilitate class discussion, and builds upon others’ comments. Class preparation and pre-reading before lecture will be assessed upon individuals' understanding and ability to answer questions in the class. Individuals will be called up randomly to be assessed.",
+      "Note": "Option 1: Individual"
+    },
+    {
+      "No.": "2",
+      "Category": "Quizzes (3)",
+      "Type": "on-going",
+      "Part": "3",
+      "Weight": "15.0%",
+      "Completion Criteria": ">0",
+      "Duration": "Option 1:30' in classTest 1: Slot 7Test 2: Slot 13Test 3: Slot 30Option 2 (For Constructivism Approach only): Follow lecturer's proposal",
+      "CLO": "LO1, LO2, LO3, LO4, LO5, LO6",
+      "Question Type": "Option 1: Multiple choicesquestions Essay, Short questionsOption 2 (For Constructivism Approach only): Follow lecturer's proposal",
+      "No Question": "Option 1: 25 MCQs/each",
+      "Knowledge and Skill": "Option 1: Q1: Chapter 1 - 5 Q2: Chapter 6 - 8 Q3: Chapter 9 - 19 Option 2 (For Constructivism Approach only): Follow lecturer's proposal",
+      "Grading Guide": "Option 1: In class, by instructors",
+      "Note": "Option 1: The marking will be based on the understanding and application of the theory (theory review) Q1:LO1, LO2 Q2:LO3, LO4, LO5, LO6 Q3:LO3, LO4, LO5, LO6"
+    },
+    {
+      "No.": "3",
+      "Category": "Wedding Project Presentation (3)",
+      "Type": "on-going",
+      "Part": "3",
+      "Weight": "45.0%",
+      "Completion Criteria": ">0",
+      "Duration": "Option 1:Presentation 1: slots 8,9Presentation 2: slots 14,15Presentation 3: slots 25,26Option 2 (For Constructivism Approach only): Follow lecturer's proposal",
+      "CLO": "LO1, LO2, LO3, LO4, LO5, LO6",
+      "Question Type": "Option 1: 3 Progress presentationsOption 2 (For Constructivism Approach only): Follow lecturer's proposal",
+      "No Question": "Option 1: 30 min presentation",
+      "Knowledge and Skill": "Option 1: Chapters covered in accordance to the lecture of the weeks Option 2 (For Constructivism Approach only): Follow lecturer's proposal",
+      "Grading Guide": "Option 1: -Students working in a team to make wedding plan for a real or potential couple (friends, relatives, celebrities...) - Each team will do the research about the couple, their style, situation to develop a master plan, operational plans, procedure and design for their wedding - The team has to develop different checklists and tools to control and evaluate the wedding and continously update with and get the feedback from the clients - Finally, the team has to present their overall plan with the clients to get the project evaluation. -Each team will briefly present their planning progress (in form of slides ppts) with the instructors to get coaching and on-going assessment. -Presentations with weights: 15%/each",
+      "Note": "Option 1: The project must be guided by the instructor during the first lecture. Students will work in team of 4-6 students; The marking will be based on the application of the theory, the understanding of the clients and situation and ability to meet their requirements, the ability to analyse situations, develop and evaluate plans Evaluation will be based on both presentation and written report."
+    },
+    {
+      "No.": "4",
+      "Category": "Wedding Project Written Report",
+      "Type": "on-going",
+      "Part": "1",
+      "Weight": "10.0%",
+      "Completion Criteria": ">0",
+      "Duration": "Option 1: Submission in slot 30Option 2 (For Constructivism Approach only): Follow lecturer's proposal",
+      "CLO": "LO1, LO2, LO3, LO4, LO5, LO6",
+      "Question Type": "Option 1: Reports and presentationOption 2 (For Constructivism Approach only): Follow lecturer's proposal",
+      "No Question": "Option 1: No limitation of words",
+      "Knowledge and Skill": "Option 1: Specialised aspects of part 2 theory Practical knowledge of real situation Research, problem-solving, planning skills Option 2 (For Constructivism Approach only): Follow lecturer's proposal",
+      "Grading Guide": "Option 1: - The written report is the detailed project version. - The written report should be typed and double-spaced with 11-point font, and can be submitted in soft copy. A deduction of 10% of the assignment mark will be applied for each day of late submission - A 0 (zero) mark will be given to any form of plagiarism detected.",
+      "Note": "Option 1: The project must be guided by the instructor during the first lecture. Students will work in team of 4-6 students; The marking will be based on the application of the theory, the understanding of the clients and situation and ability to meet their requirements, the ability to analyse situations, develop and evaluate plans Evaluation will be based on both presentation and written report."
+    },
+    {
+      "No.": "5",
+      "Category": "Final exam",
+      "Type": "Final exam",
+      "Part": "1",
+      "Weight": "20.0%",
+      "Completion Criteria": "4",
+      "Duration": "60 minutes",
+      "CLO": "LO1, LO2, LO3, LO4, LO5, LO6",
+      "Question Type": "MCs",
+      "No Question": "50 questions",
+      "Knowledge and Skill": "All chapters",
+      "Grading Guide": "In class, on computer",
+      "Note": ""
+    }
+  ],
+  "schedule": [
+    {
+      "Session": "1",
+      "Topic": "-Course Overview PART1 - FOUNDATIONS Chapter 1: Role and Scope of Wedding Consultancy titles, packages, and roles consultant packages comprehensive package Partial wedding packages Day-of packages roles Terminology",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO1",
+      "ITU": "",
+      "Student Materials": "Textbook Event planning (ENV201) Textbook EVN203 Slides",
+      "S-Download": "",
+      "Student's Tasks": "Review EVN201 Discussion.",
+      "URLs": ""
+    },
+    {
+      "Session": "2",
+      "Topic": "Comprehensive package Partial wedding packages Day-of packages Roles Terminology",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO1",
+      "ITU": "",
+      "Student Materials": "Textbook Event planning (ENV201) Textbook EVN203 Slides",
+      "S-Download": "",
+      "Student's Tasks": "Review EVN201 Discussion.",
+      "URLs": ""
+    },
+    {
+      "Session": "3",
+      "Topic": "Wedding project guide and team allocation Musician for the ceremony. DJ/band for the reception. Photographer. Videographer.",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO1",
+      "ITU": "",
+      "Student Materials": "Textbook Slides",
+      "S-Download": "",
+      "Student's Tasks": "Review Chapter 1 Discussion",
+      "URLs": ""
+    },
+    {
+      "Session": "4",
+      "Topic": "Wedding project guide and team allocation Catering service. Hair/makeup. Florist. Officiant.",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO1",
+      "ITU": "",
+      "Student Materials": "Textbook Slides",
+      "S-Download": "",
+      "Student's Tasks": "Review Chapter 1 Discussion",
+      "URLs": ""
+    },
+    {
+      "Session": "5",
+      "Topic": "Chapter 2: Weddings and Culture Wedding planning discussion socialization for marriage mate selection pre-wedding rituals",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO2",
+      "ITU": "",
+      "Student Materials": "Textbook Slides",
+      "S-Download": "",
+      "Student's Tasks": "Review Chapter 2 Discussion",
+      "URLs": ""
+    },
+    {
+      "Session": "6",
+      "Topic": "Chapter 2: Weddings and Culture Wedding planning discussion wedding customs changes in identity due to marriage Terminology",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO2",
+      "ITU": "",
+      "Student Materials": "Textbook Slides",
+      "S-Download": "",
+      "Student's Tasks": "Review Chapter 2 Discussion",
+      "URLs": ""
+    },
+    {
+      "Session": "7",
+      "Topic": "Chapter 3: Consumerism and the Mediated Construction of Weddings Wedding planning discussion invented traditions diamond engagement ring modern engagement ring celebrity weddings",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO1, LO2",
+      "ITU": "",
+      "Student Materials": "Textbook Slides",
+      "S-Download": "",
+      "Student's Tasks": "Review Chapter 2, 3 Discussion",
+      "URLs": ""
+    },
+    {
+      "Session": "8",
+      "Topic": "Chapter 3: Consumerism and the Mediated Construction of Weddings Wedding planning discussion portrayal of weddings in film reality television A Wedding Story the internet Terminology",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO1, LO2",
+      "ITU": "",
+      "Student Materials": "Textbook Slides",
+      "S-Download": "",
+      "Student's Tasks": "Review Chapter 2, 3 Discussion",
+      "URLs": ""
+    },
+    {
+      "Session": "9",
+      "Topic": "Chapter 4: The Changing Family, Politics and Law Wedding planning discussion female workforce dynamics the missing male",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO1, LO2",
+      "ITU": "",
+      "Student Materials": "Textbook Slides",
+      "S-Download": "",
+      "Student's Tasks": "Review Chapter 3, 4 Discussion",
+      "URLs": ""
+    },
+    {
+      "Session": "10",
+      "Topic": "Chapter 4: The Changing Family, Politics and Law Wedding planning discussion cohabitation and divorce same-sex",
+      "Learning-Teaching Type": "Offline",
+      "LO": "",
+      "ITU": "",
+      "Student Materials": "Textbook Event planning (ENV201) Textbook EVN203 Slides",
+      "S-Download": "",
+      "Student's Tasks": "",
+      "URLs": ""
+    },
+    {
+      "Session": "11",
+      "Topic": "Chapter 5: Tourism and Destination Weddings Wedding planning discussion visiting friends and relatives tourism honey moon destination weather",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO2",
+      "ITU": "",
+      "Student Materials": "Textbook Slides",
+      "S-Download": "",
+      "Student's Tasks": "Review Chapter 4, 5 Presentation and discussion",
+      "URLs": ""
+    },
+    {
+      "Session": "12",
+      "Topic": "Chapter 5: Tourism and Destination Weddings Wedding planning discussion destination wedding plan honeymoon",
+      "Learning-Teaching Type": "Offline",
+      "LO": "",
+      "ITU": "",
+      "Student Materials": "Textbook Event planning (ENV201) Textbook EVN203 Slides",
+      "S-Download": "",
+      "Student's Tasks": "",
+      "URLs": ""
+    },
+    {
+      "Session": "13",
+      "Topic": "PART 1 - Review (chapter 1-5)",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO1, LO2",
+      "ITU": "",
+      "Student Materials": "",
+      "S-Download": "",
+      "Student's Tasks": "Review Chapter 1-5 Discussion and Test",
+      "URLs": ""
+    },
+    {
+      "Session": "14",
+      "Topic": "PART 1 - Quiz 1 (chapter 1-5)",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO1, LO2",
+      "ITU": "",
+      "Student Materials": "",
+      "S-Download": "",
+      "Student's Tasks": "Review Chapter 1-5 Discussion and Test",
+      "URLs": ""
+    },
+    {
+      "Session": "15",
+      "Topic": "Students' presentation 1 on wedding context and the clients (group present)",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO1, LO2",
+      "ITU": "",
+      "Student Materials": "",
+      "S-Download": "",
+      "Student's Tasks": "Discussion and presentation",
+      "URLs": ""
+    },
+    {
+      "Session": "16",
+      "Topic": "Students' presentation 1 on wedding context and the clients (group present)",
+      "Learning-Teaching Type": "Offline",
+      "LO": "",
+      "ITU": "",
+      "Student Materials": "",
+      "S-Download": "",
+      "Student's Tasks": "",
+      "URLs": ""
+    },
+    {
+      "Session": "17",
+      "Topic": "Students' presentation 1 on wedding context and the clients (group present)",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO1, LO2",
+      "ITU": "",
+      "Student Materials": "",
+      "S-Download": "",
+      "Student's Tasks": "Discussion and presentation",
+      "URLs": ""
+    },
+    {
+      "Session": "18",
+      "Topic": "Students' presentation 1 on wedding context and the clients (group present)",
+      "Learning-Teaching Type": "Offline",
+      "LO": "",
+      "ITU": "",
+      "Student Materials": "",
+      "S-Download": "",
+      "Student's Tasks": "",
+      "URLs": ""
+    },
+    {
+      "Session": "19",
+      "Topic": "PART 2: PRACTICE Chapter 6: Determining the Vision Wedding planning discussion vision determination wedding themes seasons and holidays calendar year destinations and sites",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO3, LO4, LO5, LO6",
+      "ITU": "",
+      "Student Materials": "Textbook Slides",
+      "S-Download": "",
+      "Student's Tasks": "Review Chapter 6 Discussion",
+      "URLs": ""
+    },
+    {
+      "Session": "20",
+      "Topic": "PART 2: PRACTICE Chapter 6: Determining the Vision Wedding planning discussion wedding venue request for proposal (RFP) Checklist and Reminders Terminology",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO3, LO4, LO5, LO6",
+      "ITU": "",
+      "Student Materials": "Textbook Slides",
+      "S-Download": "",
+      "Student's Tasks": "Review Chapter 6 Discussion",
+      "URLs": ""
+    },
+    {
+      "Session": "21",
+      "Topic": "Chapter 7: Wedding Budgets Wedding planning discussion budget summaries Wedding Budget Categories and Details: Reception and Rentals Shown as Sample Budget Budget Categories and Related Areas of Expenditure Gifts Transportation and Lodging",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO3, LO4, LO5, LO6",
+      "ITU": "",
+      "Student Materials": "Textbook Slides",
+      "S-Download": "",
+      "Student's Tasks": "Review Chapter 6, 7 Wedding project discussion",
+      "URLs": ""
+    },
+    {
+      "Session": "22",
+      "Topic": "Chapter 7: Wedding Budgets Wedding planning discussion Wedding Cake and Other Pastries Ceremony and Legal Issues Wedding Day Preparation budget summaries Checklist and Reminders for Budgets",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO3, LO4, LO5, LO6",
+      "ITU": "",
+      "Student Materials": "Textbook Slides",
+      "S-Download": "",
+      "Student's Tasks": "Review Chapter 6, 7 Wedding project discussion",
+      "URLs": ""
+    },
+    {
+      "Session": "23",
+      "Topic": "Chapter 8: Wedding Timelines Wedding planning discussion The seven phases of wedding timelines (1) research; (2) design; (3) coordination; (4) legal issues;",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO3, LO4, LO5, LO6",
+      "ITU": "",
+      "Student Materials": "Textbook Slides",
+      "S-Download": "",
+      "Student's Tasks": "Review Chapter 7, 8 Discussion",
+      "URLs": ""
+    },
+    {
+      "Session": "24",
+      "Topic": "Chapter 8: Wedding Timelines Wedding planning discussion (5) conﬁrmation and details; (6) implementation; and (7) wrap-up and evaluation",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO3, LO4, LO5, LO6",
+      "ITU": "",
+      "Student Materials": "Textbook Slides",
+      "S-Download": "",
+      "Student's Tasks": "Review Chapter 7, 8 Discussion",
+      "URLs": ""
+    },
+    {
+      "Session": "25",
+      "Topic": "PART 2 - Review (chapter 6-8)",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO3, LO4, LO5, LO6",
+      "ITU": "",
+      "Student Materials": "",
+      "S-Download": "",
+      "Student's Tasks": "Review Chapter 6-8 Discussion",
+      "URLs": ""
+    },
+    {
+      "Session": "26",
+      "Topic": "PART 2 - Quiz 2 (chapter 6-8)",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO3, LO4, LO5, LO6",
+      "ITU": "",
+      "Student Materials": "",
+      "S-Download": "",
+      "Student's Tasks": "Review Chapter 6-8 Discussion",
+      "URLs": ""
+    },
+    {
+      "Session": "27",
+      "Topic": "Students' presentation 2 on wedding vision, timeline and budget",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO3, LO4, LO5, LO6",
+      "ITU": "",
+      "Student Materials": "",
+      "S-Download": "",
+      "Student's Tasks": "Review Chapter 6-8 Wedding project presentation & discussion",
+      "URLs": ""
+    },
+    {
+      "Session": "28",
+      "Topic": "Students' presentation 2 on wedding vision, timeline and budget",
+      "Learning-Teaching Type": "Offline",
+      "LO": "",
+      "ITU": "",
+      "Student Materials": "",
+      "S-Download": "",
+      "Student's Tasks": "",
+      "URLs": ""
+    },
+    {
+      "Session": "29",
+      "Topic": "Students' presentation 2 on wedding vision, timeline and budget",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO3, LO4, LO5, LO6",
+      "ITU": "",
+      "Student Materials": "",
+      "S-Download": "",
+      "Student's Tasks": "Review Chapter 6-8 Wedding project presentation & discussion",
+      "URLs": ""
+    },
+    {
+      "Session": "30",
+      "Topic": "Students' presentation 2 on wedding vision, timeline and budget",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO3, LO4, LO5, LO6",
+      "ITU": "",
+      "Student Materials": "",
+      "S-Download": "",
+      "Student's Tasks": "Review Chapter 6-8 Wedding project presentation & discussion",
+      "URLs": ""
+    },
+    {
+      "Session": "31",
+      "Topic": "Chapter 9: Food, Beverage, and the Wedding Cake Wedding planning discussion food, beverageand the wedding cake food, beverage trends",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO3, LO4, LO5, LO6",
+      "ITU": "",
+      "Student Materials": "Textbook Event planning (ENV201) Textbook EVN203 Slides",
+      "S-Download": "",
+      "Student's Tasks": "Review Chapter 8-9 Discussion",
+      "URLs": ""
+    },
+    {
+      "Session": "32",
+      "Topic": "Chapter 9: Food, Beverage, and the Wedding Cake Wedding planning discussion buffet, plated, and French service food and beverage cost the wedding cake",
+      "Learning-Teaching Type": "Offline",
+      "LO": "",
+      "ITU": "",
+      "Student Materials": "Textbook Event planning (ENV201) Textbook EVN203 Slides",
+      "S-Download": "",
+      "Student's Tasks": "",
+      "URLs": ""
+    },
+    {
+      "Session": "33",
+      "Topic": "Chapter 10: Wedding Attire and the Bridal Party Wedding planning discussion bridal attire Materials Tips perfect look",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO3, LO4, LO5, LO6",
+      "ITU": "",
+      "Student Materials": "Textbook Event planning (ENV201) Textbook EVN203 Slides",
+      "S-Download": "",
+      "Student's Tasks": "Review Chapter 9-10 Wedding project discussion",
+      "URLs": ""
+    },
+    {
+      "Session": "34",
+      "Topic": "Chapter 10: Wedding Attire and the Bridal Party Wedding planning discussion Menswear the wedding party the groom’s attire in scotland pets wardrobe malfunctions Checklist and Reminders for Wedding Attire",
+      "Learning-Teaching Type": "Offline",
+      "LO": "",
+      "ITU": "",
+      "Student Materials": "Textbook Event planning (ENV201) Textbook EVN203 Slides",
+      "S-Download": "",
+      "Student's Tasks": "",
+      "URLs": ""
+    },
+    {
+      "Session": "35",
+      "Topic": "Chapter 11: The Ceremony Wedding planning discussion Identify the celebrant; Understand readings and vows;",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO3, LO4, LO5, LO6",
+      "ITU": "",
+      "Student Materials": "Textbook Event planning (ENV201) Textbook EVN203 Slides",
+      "S-Download": "",
+      "Student's Tasks": "Review Chapter 10-11",
+      "URLs": ""
+    },
+    {
+      "Session": "36",
+      "Topic": "Chapter 11: The Ceremony Wedding planning discussion Understand the exchange of rings and special artifacts; Examine the ceremony program; and guidelines and policies.",
+      "Learning-Teaching Type": "Offline",
+      "LO": "",
+      "ITU": "",
+      "Student Materials": "Textbook Event planning (ENV201) Textbook EVN203 Slides",
+      "S-Download": "",
+      "Student's Tasks": "",
+      "URLs": ""
+    },
+    {
+      "Session": "37",
+      "Topic": "Chapter 12: Floral Décor Wedding planning discussion 4 considerations when selecting floral décor: the recipients and locations that require flowers; selecting flowers;",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO3, LO4, LO5, LO6",
+      "ITU": "",
+      "Student Materials": "Textbook Event planning (ENV201) Textbook EVN203 Slides",
+      "S-Download": "",
+      "Student's Tasks": "Review Chapter 11-12",
+      "URLs": ""
+    },
+    {
+      "Session": "38",
+      "Topic": "Chapter 12: Floral Décor Wedding planning discussion centerpieces and other decorative elements; and installation and removal.",
+      "Learning-Teaching Type": "Offline",
+      "LO": "",
+      "ITU": "",
+      "Student Materials": "Textbook Event planning (ENV201) Textbook EVN203 Slides",
+      "S-Download": "",
+      "Student's Tasks": "",
+      "URLs": ""
+    },
+    {
+      "Session": "39",
+      "Topic": "Chapter 13: Stationary Elements and Etiquette Wedding planning discussion save the date notices invitations calligraphy ceremony seating stationery",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO3, LO4, LO5, LO6",
+      "ITU": "",
+      "Student Materials": "Textbook Event planning (ENV201) Textbook EVN203 Slides",
+      "S-Download": "",
+      "Student's Tasks": "Review Chapter 12-13 Wedding project discussion",
+      "URLs": ""
+    },
+    {
+      "Session": "40",
+      "Topic": "Chapter 13: Stationary Elements and Etiquette Wedding planning discussion menus personalized paper product wwedding announcement thank you notes",
+      "Learning-Teaching Type": "Offline",
+      "LO": "",
+      "ITU": "",
+      "Student Materials": "Textbook Event planning (ENV201) Textbook EVN203 Slides",
+      "S-Download": "",
+      "Student's Tasks": "",
+      "URLs": ""
+    },
+    {
+      "Session": "41",
+      "Topic": "Chapter 14: Photography and Videography Wedding planning discussion Understand the movement from film to digital photography Understand the two primary styles of photography",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO3, LO4, LO5, LO6",
+      "ITU": "",
+      "Student Materials": "Textbook Slides",
+      "S-Download": "",
+      "Student's Tasks": "Review Chapter 13-14 Wedding project discussion",
+      "URLs": ""
+    },
+    {
+      "Session": "42",
+      "Topic": "Chapter 14: Photography and Videography Wedding planning discussion (3) Understand album design and trends in photography.",
+      "Learning-Teaching Type": "Offline",
+      "LO": "",
+      "ITU": "",
+      "Student Materials": "Textbook Slides",
+      "S-Download": "",
+      "Student's Tasks": "",
+      "URLs": ""
+    },
+    {
+      "Session": "43",
+      "Topic": "Chapter 15: Music and Entertainment Wedding planning discussion - Understand the ceremony, - Defines the cocktail hour, - Understand the reception.",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO3, LO4, LO5, LO6",
+      "ITU": "",
+      "Student Materials": "Textbook Slides",
+      "S-Download": "",
+      "Student's Tasks": "Review Chapter 14-15 Wedding project discussion",
+      "URLs": ""
+    },
+    {
+      "Session": "44",
+      "Topic": "Chapter 15: Music and Entertainment Wedding planning discussion a. prelude, b. processional, c. the ceremony itself, d. recessional, e. postlude,",
+      "Learning-Teaching Type": "Offline",
+      "LO": "",
+      "ITU": "",
+      "Student Materials": "Textbook Slides",
+      "S-Download": "",
+      "Student's Tasks": "",
+      "URLs": ""
+    },
+    {
+      "Session": "45",
+      "Topic": "Chapter 16: Rentals and Site Layout Wedding planning discussion tents; tables, chairs, linens, and tableware; lighting",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO3, LO4, LO5, LO6",
+      "ITU": "",
+      "Student Materials": "Textbook Slides",
+      "S-Download": "",
+      "Student's Tasks": "Review Chapter 15-16 Team presentation and discussion",
+      "URLs": ""
+    },
+    {
+      "Session": "46",
+      "Topic": "Chapter 16: Rentals and Site Layout Wedding planning discussion other outdoor considerations; bringing it together with the site layout.",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO3, LO4, LO5, LO6",
+      "ITU": "",
+      "Student Materials": "Textbook Slides",
+      "S-Download": "",
+      "Student's Tasks": "Review Chapter 15-16 Team presentation and discussion",
+      "URLs": ""
+    },
+    {
+      "Session": "47",
+      "Topic": "Field Trip (group 1) -Visit a wedding center or a wedding planner consultancy",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO1, LO2, LO3, LO4, LO5, LO6",
+      "ITU": "",
+      "Student Materials": "",
+      "S-Download": "",
+      "Student's Tasks": "Field trip & Take note",
+      "URLs": ""
+    },
+    {
+      "Session": "48",
+      "Topic": "Field Trip (group 2) -Visit a wedding center or a wedding planner consultancy",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO1, LO2, LO3, LO4, LO5, LO6",
+      "ITU": "",
+      "Student Materials": "",
+      "S-Download": "",
+      "Student's Tasks": "Field trip & Take note",
+      "URLs": ""
+    },
+    {
+      "Session": "49",
+      "Topic": "Students' presentation 3 on wedding implementation",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO3, LO4, LO5, LO6",
+      "ITU": "",
+      "Student Materials": "",
+      "S-Download": "",
+      "Student's Tasks": "Review Chapter 9-16 Wedding project presentation & discussion",
+      "URLs": ""
+    },
+    {
+      "Session": "50",
+      "Topic": "Students' presentation 3 on wedding implementation",
+      "Learning-Teaching Type": "Offline",
+      "LO": "",
+      "ITU": "",
+      "Student Materials": "",
+      "S-Download": "",
+      "Student's Tasks": "",
+      "URLs": ""
+    },
+    {
+      "Session": "51",
+      "Topic": "Students' presentation 3 on wedding implementation",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO3, LO4, LO5, LO6",
+      "ITU": "",
+      "Student Materials": "",
+      "S-Download": "",
+      "Student's Tasks": "Review Chapter 9-16 Wedding project presentation & discussion",
+      "URLs": ""
+    },
+    {
+      "Session": "52",
+      "Topic": "Students' presentation 3 on wedding implementation",
+      "Learning-Teaching Type": "Offline",
+      "LO": "",
+      "ITU": "",
+      "Student Materials": "",
+      "S-Download": "",
+      "Student's Tasks": "",
+      "URLs": ""
+    },
+    {
+      "Session": "53",
+      "Topic": "Chapter 17: Transportation Wedding planning discussion Understand the Getting started List Transportation to the ceremony venue",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO3, LO4, LO5, LO6",
+      "ITU": "",
+      "Student Materials": "Textbook Slides",
+      "S-Download": "",
+      "Student's Tasks": "Review Chapter 16 - 17 Discussion",
+      "URLs": ""
+    },
+    {
+      "Session": "54",
+      "Topic": "Chapter 17: Transportation Wedding planning discussion List Transportation from the ceremony to the reception Identify Transportation from the reception to the final destination List Transportation costs and final details.",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO3, LO4, LO5, LO6",
+      "ITU": "",
+      "Student Materials": "Textbook Slides",
+      "S-Download": "",
+      "Student's Tasks": "Review Chapter 17-18 Discussion",
+      "URLs": ""
+    },
+    {
+      "Session": "55",
+      "Topic": "Chapter 18: Favors and Gift Wedding planning discussion Six major types of favors Packaging options Guest gift baskets Wedding party gifts Gifts for the couple",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO3, LO4, LO5, LO6",
+      "ITU": "",
+      "Student Materials": "Textbook Slides",
+      "S-Download": "",
+      "Student's Tasks": "Review Chapter 17-18 Discussion",
+      "URLs": ""
+    },
+    {
+      "Session": "56",
+      "Topic": "Chapter 18: Favors and Gift Wedding planning discussion Edible favors Lasting favors Part-of-the-décor favors Favors inspired by nature DIY favors Charitable donations",
+      "Learning-Teaching Type": "Offline",
+      "LO": "",
+      "ITU": "",
+      "Student Materials": "Textbook Slides",
+      "S-Download": "",
+      "Student's Tasks": "",
+      "URLs": ""
+    },
+    {
+      "Session": "57",
+      "Topic": "Chapter 19: Wedding Day Details Wedding planning discussion Bridal preparations",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO3, LO4, LO5, LO6",
+      "ITU": "",
+      "Student Materials": "Textbook Slides",
+      "S-Download": "",
+      "Student's Tasks": "Review Chapter 18-19 Discussion",
+      "URLs": ""
+    },
+    {
+      "Session": "58",
+      "Topic": "Chapter 19: Wedding Day Details Wedding planning discussion Consultant preparations.",
+      "Learning-Teaching Type": "Offline",
+      "LO": "",
+      "ITU": "",
+      "Student Materials": "Textbook Slides",
+      "S-Download": "",
+      "Student's Tasks": "",
+      "URLs": ""
+    },
+    {
+      "Session": "59",
+      "Topic": "PART 2 Review (chapter 9 - 19) -Written report (Wedding project) submission",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO1, LO2, LO3, LO4, LO5, LO6",
+      "ITU": "",
+      "Student Materials": "All chapters",
+      "S-Download": "",
+      "Student's Tasks": "Review all chapters",
+      "URLs": ""
+    },
+    {
+      "Session": "60",
+      "Topic": "PART 2 Quiz 3 (chapter 9 - 19) -Written report (Wedding project) submission",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO1, LO2, LO3, LO4, LO5, LO6",
+      "ITU": "",
+      "Student Materials": "All chapters",
+      "S-Download": "",
+      "Student's Tasks": "Review all chapters",
+      "URLs": ""
+    }
+  ],
+  "constructive_questions": [
+    {
+      "No.": "1",
+      "Session No": "3",
+      "Name": "HCM1",
+      "Details": "Explain the idea of mate-choice copying and discuss why you think it does or does not apply to human mate selection ?"
+    },
+    {
+      "No.": "2",
+      "Session No": "3",
+      "Name": "HCM2",
+      "Details": "Name and explain two ways in which one’s change in identity is publicly reflected upon marriage ?"
+    },
+    {
+      "No.": "3",
+      "Session No": "4",
+      "Name": "HCM1",
+      "Details": "What are three ways to add anti-consumptive or organic practices into wedding planning?"
+    },
+    {
+      "No.": "4",
+      "Session No": "4",
+      "Name": "HCM2",
+      "Details": "What three themes that have emerged from plots of films contain an abundance of wedding imagery?"
+    },
+    {
+      "No.": "5",
+      "Session No": "5",
+      "Name": "HCM1",
+      "Details": "Explain the differing legal stance that various states and countries have taken on same-sex partnerships ?"
+    },
+    {
+      "No.": "6",
+      "Session No": "5",
+      "Name": "HCM2",
+      "Details": "What are some of the outcomes that have resulted from changing female workforce dynamics?"
+    },
+    {
+      "No.": "7",
+      "Session No": "6",
+      "Name": "HCM1",
+      "Details": "What are the top three characteristics that most couples search for in a honeymoon destination?"
+    },
+    {
+      "No.": "8",
+      "Session No": "6",
+      "Name": "HCM2",
+      "Details": "As a consultant, what advice would you provide to couples considering getting married on September 11th?"
+    },
+    {
+      "No.": "9",
+      "Session No": "10",
+      "Name": "HCM1",
+      "Details": "What percentage of a wedding budget is generally allocated to reception costs? to photography? to wedding cakes and other pastries?"
+    },
+    {
+      "No.": "10",
+      "Session No": "11",
+      "Name": "HCM1",
+      "Details": "What are three areas of significant expenditure related to weddings that are generally not included in the day-of budget?"
+    },
+    {
+      "No.": "11",
+      "Session No": "12",
+      "Name": "HCM1",
+      "Details": "What are four common types of sites where wedding receptions are held?"
+    },
+    {
+      "No.": "12",
+      "Session No": "13",
+      "Name": "HCM1",
+      "Details": "Explain why it is important to keep taxes, service charges, and other fees in mind when selecting a wedding venue?"
+    },
+    {
+      "No.": "13",
+      "Session No": "14",
+      "Name": "HCM1",
+      "Details": "What are tips for Couples Including Pets in Wedding Ceremonies and explain them?"
+    },
+    {
+      "No.": "14",
+      "Session No": "15",
+      "Name": "HCM1",
+      "Details": "What information is usually represented in a ceremony program?"
+    },
+    {
+      "No.": "15",
+      "Session No": "16",
+      "Name": "HCM1",
+      "Details": "What are the three most important considerations for floral installation and removal?"
+    },
+    {
+      "No.": "16",
+      "Session No": "17",
+      "Name": "HCM1",
+      "Details": "What are the most common bridal bouquet shapes?"
+    },
+    {
+      "No.": "17",
+      "Session No": "18",
+      "Name": "HCM1",
+      "Details": "What are the four types of printing and what are the differences between them?"
+    },
+    {
+      "No.": "18",
+      "Session No": "19",
+      "Name": "HCM1",
+      "Details": "Name one guideline of etiquette that should be followed for each of the following stationery components: a variety of stationery items include save-the-date notices, envelopes, answer cards, announcements, and thank-you letters"
+    },
+    {
+      "No.": "19",
+      "Session No": "20",
+      "Name": "HCM1",
+      "Details": "What are the three main differences between traditional photography and photojournalistic photography?"
+    },
+    {
+      "No.": "20",
+      "Session No": "21",
+      "Name": "HCM1",
+      "Details": "Why do people take engagement photos in the first place?"
+    },
+    {
+      "No.": "21",
+      "Session No": "22",
+      "Name": "HCM1",
+      "Details": "What are the three stages of a wedding day during which music is required?"
+    },
+    {
+      "No.": "22",
+      "Session No": "23",
+      "Name": "HCM1",
+      "Details": "Make a list of three things you may do to assist in obtaining the greatest possible pricing for entertainment and explain each one ?"
+    },
+    {
+      "No.": "23",
+      "Session No": "24",
+      "Name": "HCM1",
+      "Details": "What are three approaches to dealing with bugs at an outdoor wedding?"
+    },
+    {
+      "No.": "24",
+      "Session No": "25",
+      "Name": "HCM1",
+      "Details": "For a wedding ceremony, what information should be included in the site layout?"
+    },
+    {
+      "No.": "25",
+      "Session No": "26",
+      "Name": "HCM1",
+      "Details": "What are the three main time periods on the wedding day when transportation will be necessary? What are the three primary times when transportation will be required on the wedding day?"
+    },
+    {
+      "No.": "26",
+      "Session No": "26",
+      "Name": "HCM2",
+      "Details": "Explain the best way to find out about known street closures and anticipated traffic delays on the day of a wedding is to check the local news?"
+    },
+    {
+      "No.": "27",
+      "Session No": "27",
+      "Name": "HCM1",
+      "Details": "What is one of the most unusual wedding situations you have encountered?"
+    },
+    {
+      "No.": "28",
+      "Session No": "28",
+      "Name": "HCM1",
+      "Details": "Explain the difference between a mini trial run and a main trial run for wedding hairstyles"
+    }
+  ],
+  "materials": [
+    {
+      "No.": "1",
+      "Material Description": "Wedding planning & management: consultancy for diverse clients",
+      "Author": "Daniels, M. & Loveless, C.",
+      "Publisher": "Rouledge",
+      "Published Date": "2014",
+      "Edition": "",
+      "ISBN": "9780415644457",
+      "Is Main Material": "True",
+      "Is Hard Copy": "True",
+      "Is Online": "False",
+      "Note": ""
+    }
+  ],
+  "source_path": "data/raw/syllabi/13618.html",
+  "id": "syllabus:13618"
+}

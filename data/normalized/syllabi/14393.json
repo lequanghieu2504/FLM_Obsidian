@@ -1,0 +1,351 @@
+{
+  "syllabus_id": 14393,
+  "subject_code": "AGA301c",
+  "subject_name": "Advanced Generative AI_TTNT tạo sinh nâng cao",
+  "syllabus_name": "Advanced Generative AI_Trí tuệ Nhân tạo Tạo sinh Nâng cao",
+  "credits": 3,
+  "degree_level": "Bachelor",
+  "time_allocation": "Study hour (150h) = 121h online + 3h offline + 1h TE + 2h PE + 23h self-study",
+  "prerequisite": "AIL303m",
+  "general_information": {
+    "Syllabus ID": "14393",
+    "Syllabus Name": "Advanced Generative AI_Trí tuệ Nhân tạo Tạo sinh Nâng cao",
+    "Course Name English": "Advanced Generative AI",
+    "Subject Code": "AGA301c",
+    "Learning-Teaching Method": "Blended,Online,Active learning, Discussion",
+    "NoCredit": "3",
+    "Degree Level": "Bachelor",
+    "Time Allocation": "Study hour (150h) = 121h online + 3h offline + 1h TE + 2h PE + 23h self-study",
+    "Pre-Requisite": "AIL303m",
+    "Description": "Advanced Generative AI (AGA) studies how modern large language models (LLMs) and the generative-AI stack are built, adapted, evaluated, and deployed. This technology is one of the most rapidly evolving areas of machine learning, and demand is growing for professionals able to construct, fine-tune, align, and ship production-quality LLM-based systems. The course covers transformer architectures and data preparation, foundational and transformer-based language modelling, parameter-efficient fine-tuning (LoRA, QLoRA), advanced alignment (RLHF, PPO, DPO), and the design of LLM-powered applications using Retrieval-Augmented Generation (RAG), LangChain, and AI agents. By the end of this specialization, students will be ready to design generative-AI applications that perform text generation, classification, translation, retrieval-augmented question answering, and build LLM-powered agents.",
+    "StudentTasks": "Student must get the certification of Generative AI Engineering with LLMs Specialization from Coursera to be accepted to the final examination",
+    "Tools": "",
+    "Scoring Scale": "10",
+    "DecisionNo MM/dd/yyyy": "968/QĐ-ĐHFPT dated 08/07/2026",
+    "IsApproved": "True",
+    "Note": "1. Complete the online course to be allowed to take Final Exam 2. Final Exam is included of Final Theory Exam (TE) & Final Practical Exam (PE): 100% 3. Students who complete all MOOCs before the course deadline will receive 1 bonus point; otherwise, no bonus point will be awarded. 4. Completion Criteria: Final TE Score >=4 & Final PE Score >=4 & FR >= 5 (FR = min(10, (Final TE Score + Final PE Score)/2 + bonus)",
+    "Is Scored": "True",
+    "MinAvgMarkToPass": "5",
+    "IsActive": "True",
+    "ApprovedDate": "8/7/2026"
+  },
+  "active": true,
+  "approved": true,
+  "decision": "968/QĐ-ĐHFPT dated 08/07/2026",
+  "description": "Advanced Generative AI (AGA) studies how modern large language models (LLMs) and the generative-AI stack are built, adapted, evaluated, and deployed. This technology is one of the most rapidly evolving areas of machine learning, and demand is growing for professionals able to construct, fine-tune, align, and ship production-quality LLM-based systems. The course covers transformer architectures and data preparation, foundational and transformer-based language modelling, parameter-efficient fine-tuning (LoRA, QLoRA), advanced alignment (RLHF, PPO, DPO), and the design of LLM-powered applications using Retrieval-Augmented Generation (RAG), LangChain, and AI agents. By the end of this specialization, students will be ready to design generative-AI applications that perform text generation, classification, translation, retrieval-augmented question answering, and build LLM-powered agents.",
+  "learning_outcomes": [
+    {
+      "No.": "1",
+      "CLO Name": "CLO1",
+      "CLO Details": "Distinguish the major generative-AI model families and implement tokenization and PyTorch data pipelines."
+    },
+    {
+      "No.": "2",
+      "CLO Name": "CLO2",
+      "CLO Details": "Build NLP systems using foundational language-modelling techniques"
+    },
+    {
+      "No.": "3",
+      "CLO Name": "CLO3",
+      "CLO Details": "Apply transformer LLMs to generation, classification, translation, and understanding tasks."
+    },
+    {
+      "No.": "4",
+      "CLO Name": "CLO4",
+      "CLO Details": "Adapt LLMs for domain tasks using PEFT, instruction tuning, and alignment"
+    },
+    {
+      "No.": "5",
+      "CLO Name": "CLO5",
+      "CLO Details": "Design, build, and deploy production LLM applications using RAG, vector stores, and agent patterns."
+    }
+  ],
+  "assessments": [
+    {
+      "No.": "1",
+      "Category": "PE",
+      "Type": "Final exam",
+      "Part": "1",
+      "Weight": "50.0%",
+      "Completion Criteria": "4",
+      "Duration": "120'",
+      "CLO": "CLO1,CLO3,CLO4,CLO5",
+      "Question Type": "",
+      "No Question": "",
+      "Knowledge and Skill": "All studied courses.",
+      "Grading Guide": "by Exam Board",
+      "Note": "Customized from the Assignment of this specialization"
+    },
+    {
+      "No.": "2",
+      "Category": "TE",
+      "Type": "Final exam",
+      "Part": "1",
+      "Weight": "50.0%",
+      "Completion Criteria": "4",
+      "Duration": "60'",
+      "CLO": "CLO1,CLO2,CLO3,CLO4,CLO5",
+      "Question Type": "Computer gradable",
+      "No Question": "60",
+      "Knowledge and Skill": "All studied courses. Each module of course contributes 2-3 questions.",
+      "Grading Guide": "by Exam Board",
+      "Note": "Customized from the quizzes of this specialization"
+    }
+  ],
+  "schedule": [
+    {
+      "Session": "1",
+      "Topic": "Specialization Introduction Generative AI and LLMs: Architecture and Data Preparation - Generative AI architectures and models (RNNs, transformers, GANs, VAEs, diffusion) Offline 1: Introduction to the online course AGA301c",
+      "Learning-Teaching Type": "Offline,Online",
+      "LO": "LO1",
+      "ITU": "I T",
+      "Student Materials": "MOOC 1: Generative AI and LLMs: Architecture and Data Preparation",
+      "S-Download": "",
+      "Student's Tasks": "- Watch all videos, read all materials in the MOOC - Finish quizzes, self-assessment, assignments and take part in discussion boards (if needed) All students should participate in offline slot (if any question)",
+      "URLs": ""
+    },
+    {
+      "Session": "2",
+      "Topic": "- Tokenization techniques with NLTK, spaCy, Hugging Face - PyTorch data loaders and pipelines for generative AI",
+      "Learning-Teaching Type": "Online",
+      "LO": "LO1",
+      "ITU": "T U",
+      "Student Materials": "MOOC 1: Generative AI and LLMs: Architecture and Data Preparation",
+      "S-Download": "",
+      "Student's Tasks": "- Watch all videos, read all materials in the MOOC - Finish quizzes, self-assessment, assignments and take part in discussion boards (if needed)",
+      "URLs": ""
+    },
+    {
+      "Session": "3",
+      "Topic": "Gen AI Foundational Models for NLP & Language Understanding: - N-gram language models - Word embeddings: Word2Vec, GloVe - Document classification",
+      "Learning-Teaching Type": "Online",
+      "LO": "LO2",
+      "ITU": "I T",
+      "Student Materials": "MOOC 2: Gen AI Foundational Models for NLP & Language Understanding",
+      "S-Download": "",
+      "Student's Tasks": "- Watch all videos, read all materials in the MOOC - Finish quizzes, self-assessment, assignments and take part in discussion boards (if needed)",
+      "URLs": ""
+    },
+    {
+      "Session": "4",
+      "Topic": "- Sequence-to-sequence models - Encoder-decoder RNNs - Introduction to attention mechanisms",
+      "Learning-Teaching Type": "Online",
+      "LO": "LO2",
+      "ITU": "T U",
+      "Student Materials": "MOOC 2: Gen AI Foundational Models for NLP & Language Understanding",
+      "S-Download": "",
+      "Student's Tasks": "- Watch all videos, read all materials in the MOOC - Finish quizzes, self-assessment, assignments and take part in discussion boards (if needed)",
+      "URLs": ""
+    },
+    {
+      "Session": "5",
+      "Topic": "Generative AI Language Modeling with Transformers: - Transformer architecture in depth - Positional encoding; multi-head self-attention - Encoder vs decoder; causal vs masked attention",
+      "Learning-Teaching Type": "Online",
+      "LO": "LO3",
+      "ITU": "I T",
+      "Student Materials": "MOOC 3: Generative AI Language Modeling with Transformers",
+      "S-Download": "",
+      "Student's Tasks": "- Watch all videos, read all materials in the MOOC - Finish quizzes, self-assessment, assignments and take part in discussion boards (if needed)",
+      "URLs": ""
+    },
+    {
+      "Session": "6",
+      "Topic": "- Applying transformers to translation, classification, and text generation - Decoding and sampling strategies",
+      "Learning-Teaching Type": "Online",
+      "LO": "LO3",
+      "ITU": "T U",
+      "Student Materials": "MOOC 3: Generative AI Language Modeling with Transformers",
+      "S-Download": "",
+      "Student's Tasks": "- Watch all videos, read all materials in the MOOC - Finish quizzes, self-assessment, assignments and take part in discussion boards (if needed)",
+      "URLs": ""
+    },
+    {
+      "Session": "7",
+      "Topic": "Generative AI Engineering and Fine-Tuning Transformers: - Pretraining objectives (MLM, CLM) - Transfer learning - Hugging Face fine-tuning pipelines",
+      "Learning-Teaching Type": "Online",
+      "LO": "LO4",
+      "ITU": "I T",
+      "Student Materials": "MOOC 4: Generative AI Engineering and Fine-Tuning Transformers",
+      "S-Download": "",
+      "Student's Tasks": "- Watch all videos, read all materials in the MOOC - Finish quizzes, self-assessment, assignments and take part in discussion boards (if needed)",
+      "URLs": ""
+    },
+    {
+      "Session": "8",
+      "Topic": "- Parameter-efficient fine-tuning: LoRA, QLoRA, adapters - Quantization for fine-tuning on consumer GPUs",
+      "Learning-Teaching Type": "Online",
+      "LO": "LO4",
+      "ITU": "T U",
+      "Student Materials": "MOOC 4: Generative AI Engineering and Fine-Tuning Transformers",
+      "S-Download": "",
+      "Student's Tasks": "- Watch all videos, read all materials in the MOOC - Finish quizzes, self-assessment, assignments and take part in discussion boards (if needed)",
+      "URLs": ""
+    },
+    {
+      "Session": "9",
+      "Topic": "Generative AI Advance Fine-Tuning for LLMs: - LLMs as policies - Instruction tuning; reward modelling; preference data",
+      "Learning-Teaching Type": "Online",
+      "LO": "LO4",
+      "ITU": "I T",
+      "Student Materials": "MOOC 5: Generative AI Advance Fine-Tuning for LLMs",
+      "S-Download": "",
+      "Student's Tasks": "- Watch all videos, read all materials in the MOOC - Finish quizzes, self-assessment, assignments and take part in discussion boards (if needed)",
+      "URLs": ""
+    },
+    {
+      "Session": "10",
+      "Topic": "- Reinforcement Learning from Human Feedback (RLHF) and PPO - Direct Preference Optimization (DPO) - Evaluation of aligned models",
+      "Learning-Teaching Type": "Online",
+      "LO": "LO4",
+      "ITU": "T U",
+      "Student Materials": "MOOC 5: Generative AI Advance Fine-Tuning for LLMs",
+      "S-Download": "",
+      "Student's Tasks": "- Watch all videos, read all materials in the MOOC - Finish quizzes, self-assessment, assignments and take part in discussion boards (if needed)",
+      "URLs": ""
+    },
+    {
+      "Session": "11",
+      "Topic": "Fundamentals of AI Agents Using RAG and LangChain: - In-context learning and advanced prompting - LangChain components, chains, agents - Embeddings, vector stores, and Retrieval-Augmented Generation",
+      "Learning-Teaching Type": "Online",
+      "LO": "LO5",
+      "ITU": "I T U",
+      "Student Materials": "MOOC 6: Fundamentals of AI Agents Using RAG and LangChain",
+      "S-Download": "",
+      "Student's Tasks": "- Watch all videos, read all materials in the MOOC - Finish quizzes, self-assessment, assignments and take part in discussion boards (if needed)",
+      "URLs": ""
+    },
+    {
+      "Session": "12",
+      "Topic": "Project: Generative AI Applications with RAG and LangChain (Capstone RAG-based Q&A system) Offline 2: Review Generative AI Engineering with LLMs Specialization",
+      "Learning-Teaching Type": "Offline,Online",
+      "LO": "LO5",
+      "ITU": "U",
+      "Student Materials": "MOOC 7: Project: Generative AI Applications with RAG and LangChain",
+      "S-Download": "",
+      "Student's Tasks": "- Watch all videos, read all materials in the MOOC - Finish quizzes, self-assessment, assignments and take part in discussion boards (if needed) Deadline of Coursera completion: End of Friday of the week. All students should participate in review slot (if any question)",
+      "URLs": ""
+    }
+  ],
+  "constructive_questions": [],
+  "materials": [
+    {
+      "No.": "1",
+      "Material Description": "MOOC 1: Generative AI and LLMs: Architecture and Data Preparation",
+      "Author": "IBM",
+      "Publisher": "Coursera",
+      "Published Date": "",
+      "Edition": "",
+      "ISBN": "",
+      "Is Main Material": "True",
+      "Is Hard Copy": "False",
+      "Is Online": "True",
+      "Note": "https://www.coursera.org/learn/generative-ai-llm-architecture-data-preparation?specialization=generative-ai-engineering-with-llms"
+    },
+    {
+      "No.": "2",
+      "Material Description": "MOOC 2: Gen AI Foundational Models for NLP & Language Understanding",
+      "Author": "IBM",
+      "Publisher": "Coursera",
+      "Published Date": "",
+      "Edition": "",
+      "ISBN": "",
+      "Is Main Material": "True",
+      "Is Hard Copy": "False",
+      "Is Online": "True",
+      "Note": "https://www.coursera.org/learn/gen-ai-foundational-models-for-nlp-and-language-understanding?specialization=generative-ai-engineering-with-llms"
+    },
+    {
+      "No.": "3",
+      "Material Description": "MOOC 3: Generative AI Language Modeling with Transformers",
+      "Author": "IBM",
+      "Publisher": "Coursera",
+      "Published Date": "",
+      "Edition": "",
+      "ISBN": "",
+      "Is Main Material": "True",
+      "Is Hard Copy": "False",
+      "Is Online": "True",
+      "Note": "https://www.coursera.org/learn/generative-ai-language-modeling-with-transformers?specialization=generative-ai-engineering-with-llms"
+    },
+    {
+      "No.": "4",
+      "Material Description": "MOOC 4: Generative AI Engineering and Fine-Tuning Transformers",
+      "Author": "IBM",
+      "Publisher": "Coursera",
+      "Published Date": "",
+      "Edition": "",
+      "ISBN": "",
+      "Is Main Material": "True",
+      "Is Hard Copy": "False",
+      "Is Online": "True",
+      "Note": "https://www.coursera.org/learn/generative-ai-engineering-and-fine-tuning-transformers?specialization=generative-ai-engineering-with-llms"
+    },
+    {
+      "No.": "5",
+      "Material Description": "MOOC 5: Generative AI Advance Fine-Tuning for LLMs",
+      "Author": "IBM",
+      "Publisher": "Coursera",
+      "Published Date": "",
+      "Edition": "",
+      "ISBN": "",
+      "Is Main Material": "True",
+      "Is Hard Copy": "False",
+      "Is Online": "True",
+      "Note": "https://www.coursera.org/learn/generative-ai-advanced-fine-tuning-for-llms?specialization=generative-ai-engineering-with-llms"
+    },
+    {
+      "No.": "6",
+      "Material Description": "MOOC 6: Fundamentals of AI Agents Using RAG and LangChain",
+      "Author": "IBM",
+      "Publisher": "Coursera",
+      "Published Date": "",
+      "Edition": "",
+      "ISBN": "",
+      "Is Main Material": "True",
+      "Is Hard Copy": "False",
+      "Is Online": "True",
+      "Note": "https://www.coursera.org/learn/fundamentals-of-ai-agents-using-rag-and-langchain?specialization=generative-ai-engineering-with-llms"
+    },
+    {
+      "No.": "7",
+      "Material Description": "MOOC 7: Project: Generative AI Applications with RAG and LangChain",
+      "Author": "IBM",
+      "Publisher": "Coursera",
+      "Published Date": "",
+      "Edition": "",
+      "ISBN": "",
+      "Is Main Material": "True",
+      "Is Hard Copy": "False",
+      "Is Online": "True",
+      "Note": "https://www.coursera.org/learn/project-generative-ai-applications-with-rag-and-langchain?specialization=generative-ai-engineering-with-llms"
+    },
+    {
+      "No.": "8",
+      "Material Description": "SPEC: Generative AI Engineering with LLMs Specialization",
+      "Author": "IBM",
+      "Publisher": "Coursera",
+      "Published Date": "",
+      "Edition": "",
+      "ISBN": "",
+      "Is Main Material": "True",
+      "Is Hard Copy": "False",
+      "Is Online": "True",
+      "Note": "https://www.coursera.org/specializations/generative-ai-engineering-with-llms"
+    },
+    {
+      "No.": "9",
+      "Material Description": "Coursera Code of Conduct",
+      "Author": "",
+      "Publisher": "Coursera",
+      "Published Date": "",
+      "Edition": "",
+      "ISBN": "",
+      "Is Main Material": "False",
+      "Is Hard Copy": "False",
+      "Is Online": "False",
+      "Note": "https://learner.coursera.help/hc/en-us/articles/208280036-Coursera-Code-of-Conduct"
+    }
+  ],
+  "source_path": "data/raw/syllabi/14393.html",
+  "id": "syllabus:14393"
+}

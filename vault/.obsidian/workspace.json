@@ -25,10 +25,14 @@
             "id": "4ca9c333a37d2d25",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "type": "markdown",
+              "state": {
+                "file": "Subjects/PRJ301.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "PRJ301"
             }
           }
         ],
@@ -212,6 +216,7 @@
   },
   "active": "4ca9c333a37d2d25",
   "lastOpenFiles": [
+    "Subjects/ENM211.md",
     "Syllabi/SYL-14177.md",
     "copilot/copilot-conversations/agent__swp391_học_mấy_tín_chỉ@20260913_141657.md",
     "Subjects/SWP391.md",
@@ -246,7 +251,6 @@
     "Index/Home.md",
     "Subjects/OJT202.md",
     "Syllabi/SYL-12016.md",
-    "Subjects/TRS403.md",
-    "Syllabi/SYL-11899.md"
+    "Subjects/TRS403.md"
   ]
 }

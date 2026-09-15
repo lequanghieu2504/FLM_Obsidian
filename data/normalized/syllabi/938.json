@@ -1,0 +1,573 @@
+{
+  "syllabus_id": 938,
+  "subject_code": "FIM301",
+  "subject_name": "Valuation and financial modeling",
+  "syllabus_name": "VALUATION AND FINANCIAL MODELING",
+  "credits": 3,
+  "degree_level": "Bachelor in Business Administration",
+  "time_allocation": "30 sessions; 1 session= 90 minutes",
+  "prerequisite": "FIN303",
+  "general_information": {
+    "Syllabus ID": "938",
+    "Syllabus Name": "VALUATION AND FINANCIAL MODELING",
+    "Course Name English": "",
+    "Subject Code": "FIM301",
+    "Learning-Teaching Method": "",
+    "NoCredit": "3",
+    "Degree Level": "Bachelor in Business Administration",
+    "Time Allocation": "30 sessions; 1 session= 90 minutes",
+    "Pre-Requisite": "FIN303",
+    "Description": "This course is a follow-up to FIN202 and FIN303, in which students touch on fundamental concepts of finance in general and corporate finance in particular. After the theoretical foundation established in FIN202 and FIN303, students now have chance to acquire hand-on experience of how theories are applied in practice through various finanical modelling excercises. MS Excel is chosen to be the modelling platform as this is the most popular one used in practice. Advanced modelling skills with MS Excell will give the students a competitive egde in their job-seeking endevours. Topics include: Analyzing Financial Statements, The Time Value of Money, Cash Flows Forecasting, Stock Valuation, The Cost of Capital, working capital management, Pro Forma Financial Statements, PE Multiple, EBITDA multiple, Bond valuation, Bond portfolio management strategies.",
+    "StudentTasks": "- Class attendance is strongly encouraged. Attend more than 80% of class hours in order to be accepted to the final examination - Actively participate in class activities - Fulfil tasks given by intructor after class - Use their own laptop in class only for learning purpose - Read the textbook in advance - Access the course website (http://cms.fpt.edu.vn) for up-to-date information and material of the course, for online supports from teachers and other students and for practicing and assessment.",
+    "Tools": "",
+    "Scoring Scale": "10",
+    "DecisionNo MM/dd/yyyy": "1465/QĐ-ĐHFPT dated 12/26/2017",
+    "IsApproved": "True",
+    "Note": "",
+    "Is Scored": "True",
+    "MinAvgMarkToPass": "5",
+    "IsActive": "True",
+    "ApprovedDate": "12/26/2017"
+  },
+  "active": true,
+  "approved": true,
+  "decision": "1465/QĐ-ĐHFPT dated 12/26/2017",
+  "description": "This course is a follow-up to FIN202 and FIN303, in which students touch on fundamental concepts of finance in general and corporate finance in particular. After the theoretical foundation established in FIN202 and FIN303, students now have chance to acquire hand-on experience of how theories are applied in practice through various finanical modelling excercises. MS Excel is chosen to be the modelling platform as this is the most popular one used in practice. Advanced modelling skills with MS Excell will give the students a competitive egde in their job-seeking endevours. Topics include: Analyzing Financial Statements, The Time Value of Money, Cash Flows Forecasting, Stock Valuation, The Cost of Capital, working capital management, Pro Forma Financial Statements, PE Multiple, EBITDA multiple, Bond valuation, Bond portfolio management strategies.",
+  "learning_outcomes": [
+    {
+      "No.": "1",
+      "CLO Name": "CLO1",
+      "CLO Details": "Understand and apply fundamental modeling techniques"
+    },
+    {
+      "No.": "2",
+      "CLO Name": "CLO2",
+      "CLO Details": "Be able to build an analytical model for most corporate finance decisions: calculate cost of captial, build a proforma balancesheet, model capital structure choice, model lease contract and other models"
+    },
+    {
+      "No.": "3",
+      "CLO Name": "CLO3",
+      "CLO Details": "Be able to value company based on their financial data"
+    },
+    {
+      "No.": "4",
+      "CLO Name": "CLO4",
+      "CLO Details": "Be able to value bond"
+    }
+  ],
+  "assessments": [
+    {
+      "No.": "1",
+      "Category": "Essay test",
+      "Type": "on-going",
+      "Part": "1",
+      "Weight": "10.0%",
+      "Completion Criteria": ">0",
+      "Duration": "In class (60 minutes)",
+      "CLO": "LO3",
+      "Question Type": "Exercises",
+      "No Question": "2-3 essay questions",
+      "Knowledge and Skill": "Cover Company's valuation and Bond valuation",
+      "Grading Guide": "By instructor",
+      "Note": "Textbook: Learned chapters"
+    },
+    {
+      "No.": "2",
+      "Category": "Group assignment (Phase 1,2,3)",
+      "Type": "on-going",
+      "Part": "3",
+      "Weight": "30.0%",
+      "Completion Criteria": ">0",
+      "Duration": "At home",
+      "CLO": "LO1, LO2, LO3",
+      "Question Type": "Phase1: Report on: - Industry situation - Company's business situation - Company's financial situation; Phase 2: Report on: - Industry situation - Company's business situation - Company's financial situation; Phase 3: Calculate the stock value using Relative valuation",
+      "No Question": "Phase 1: 4,000 - 6,000 word report; Phase 2: 2,000 - 3,000 word report; Phase 3: 2,000 - 3,000 word report",
+      "Knowledge and Skill": "Applied theory",
+      "Grading Guide": "By Instructor",
+      "Note": ""
+    },
+    {
+      "No.": "3",
+      "Category": "Presentation (Individual)",
+      "Type": "on-going",
+      "Part": "1",
+      "Weight": "20.0%",
+      "Completion Criteria": ">0",
+      "Duration": "In class (15 minutes)",
+      "CLO": "LO1, LO2, LO3, LO4",
+      "Question Type": "Group presentation of the Final report Each student answers question(s) The students are marked individually",
+      "No Question": "8,000 - 12,000 word report",
+      "Knowledge and Skill": "Applied theory",
+      "Grading Guide": "By instructor",
+      "Note": ""
+    },
+    {
+      "No.": "4",
+      "Category": "Quiz 1",
+      "Type": "on-going",
+      "Part": "1",
+      "Weight": "10.0%",
+      "Completion Criteria": ">0",
+      "Duration": "In class (30 minutes)",
+      "CLO": "LO2",
+      "Question Type": "Exercises",
+      "No Question": "2 essay questions",
+      "Knowledge and Skill": "Cover DCF valuation",
+      "Grading Guide": "As solution",
+      "Note": "Textbook: Chapter 3 Ref 1: Chapter 7,8,15"
+    },
+    {
+      "No.": "5",
+      "Category": "Final exam",
+      "Type": "Final exam",
+      "Part": "1",
+      "Weight": "30.0%",
+      "Completion Criteria": "4",
+      "Duration": "60 minutes",
+      "CLO": "LO1, LO2, LO3, LO4",
+      "Question Type": "Multiple choice : cover both theory and calculation.",
+      "No Question": "Multiple choice (50 questions)",
+      "Knowledge and Skill": "Company's valuation covers 50% and Bond valuation covers 50% of the total contents in the exam",
+      "Grading Guide": "By Exam board",
+      "Note": "Textbook: Chapter 3, 5, 20, 21 Ref 1: Chapter 1,2,7,8,15,17, 18, 19, 20"
+    }
+  ],
+  "schedule": [
+    {
+      "Session": "1",
+      "Topic": "Introduction to the Project Part 1: Introduction to Valuation and Revision on Financial Statements Analysis Lecture 1: Recap of Financial Statements Analysis Industry Analysis Industry classification Porter's 5 forces analysis Industry statistics Company Analysis Profile and Business Model Supply, Demand and Pricing environment Key Financial ratios Lecture 2: Introduction to Valuation Chapter 1: Introduction to Valuation The role of valuation Chapter 2: Approaches to valuation Discounted cash flows valuation Relative valuation",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO1",
+      "ITU": "",
+      "Student Materials": "I,T",
+      "S-Download": "Teaching slides",
+      "Student's Tasks": "Collect financial statements of the assigned company for the past 3 years",
+      "URLs": ""
+    },
+    {
+      "Session": "2",
+      "Topic": "Introduction to the Project Part 1: Introduction to Valuation and Revision on Financial Statements Analysis Lecture 1: Recap of Financial Statements Analysis Industry Analysis Industry classification Porter's 5 forces analysis Industry statistics Company Analysis Profile and Business Model Supply, Demand and Pricing environment Key Financial ratios Lecture 2: Introduction to Valuation Chapter 1: Introduction to Valuation The role of valuation Chapter 2: Approaches to valuation Discounted cash flows valuation Relative valuation",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO1",
+      "ITU": "",
+      "Student Materials": "I,T",
+      "S-Download": "Teaching slides",
+      "Student's Tasks": "Collect financial statements of the assigned company for the past 3 years",
+      "URLs": ""
+    },
+    {
+      "Session": "3",
+      "Topic": "Apply to Phase 1 Report: Industry and Company analysis",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO1",
+      "ITU": "",
+      "Student Materials": "U",
+      "S-Download": "",
+      "Student's Tasks": "Complete Phase 1 Report",
+      "URLs": ""
+    },
+    {
+      "Session": "4",
+      "Topic": "Apply to Phase 1 Report: Industry and Company analysis",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO1",
+      "ITU": "",
+      "Student Materials": "U",
+      "S-Download": "",
+      "Student's Tasks": "Complete Phase 1 Report",
+      "URLs": ""
+    },
+    {
+      "Session": "5",
+      "Topic": "Part 2: Corporate and stock valuation using DCF Lecture 3: Firm valuation: Cost of capital and Adjusted Present value approaches Chapter 15: Firm valuation: Cost of capital and Adjusted Present value approaches Free cash flow to the firm Firm valuation: the cost of capital approach Firm valuation: the adjusted present value approach Effect of leverage on firm value Adjusted Present Value and Financial Leverage",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO2",
+      "ITU": "",
+      "Student Materials": "I,T",
+      "S-Download": "",
+      "Student's Tasks": "",
+      "URLs": ""
+    },
+    {
+      "Session": "6",
+      "Topic": "Lecture 4: Cost of Capital",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO2",
+      "ITU": "",
+      "Student Materials": "I,T",
+      "S-Download": "",
+      "Student's Tasks": "",
+      "URLs": ""
+    },
+    {
+      "Session": "7",
+      "Topic": "Chapter 7: Riskless rates and risk premiums The risk free rate Equity risk premium Default spreads on Bond Group selection and assignment releases",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO2",
+      "ITU": "",
+      "Student Materials": "I,T",
+      "S-Download": "",
+      "Student's Tasks": "",
+      "URLs": ""
+    },
+    {
+      "Session": "8",
+      "Topic": "Chapter 8: Estimating Risk parameters and Costs of financing The cost of equity and capital Cost of equity From the cost of equity to cost of capital",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO2",
+      "ITU": "",
+      "Student Materials": "I,T",
+      "S-Download": "",
+      "Student's Tasks": "",
+      "URLs": ""
+    },
+    {
+      "Session": "9",
+      "Topic": "Apply in Phase 2 Report: estimate cost of equity, WACC Practice Exercises",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO2",
+      "ITU": "",
+      "Student Materials": "U",
+      "S-Download": "",
+      "Student's Tasks": "Complete Phase 2 Report",
+      "URLs": ""
+    },
+    {
+      "Session": "10",
+      "Topic": "Apply in Phase 2 Report: estimate cost of equity, WACC Practice Exercises",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO2",
+      "ITU": "",
+      "Student Materials": "U",
+      "S-Download": "",
+      "Student's Tasks": "Complete Phase 2 Report",
+      "URLs": ""
+    },
+    {
+      "Session": "11",
+      "Topic": "Apply in Phase 2 Report: estimate cost of equity, WACC Practice Exercises",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO2",
+      "ITU": "",
+      "Student Materials": "U",
+      "S-Download": "",
+      "Student's Tasks": "Complete Phase 2 Report",
+      "URLs": ""
+    },
+    {
+      "Session": "12",
+      "Topic": "Lecture 5: Financial Statement Modelings Chapter 3: Financial Statement Modelings 3.2 How Financial Models Work: Theory and an Initial Example 3.3 Free Cash Flow (FCF): Measuring the Cash Produced by the Business 3.4 Using the FCF to Value the Firm and Its Equity 3.6 Sensitivity analysis 3.7 Debt as a Plug 3.8 Incorporating a Target Debt/Equity Ratio into a Pro Forma 3.9 Project Finance: Debt Repayment Schedules Submission of Phase 1 Report",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO2",
+      "ITU": "",
+      "Student Materials": "I,T",
+      "S-Download": "",
+      "Student's Tasks": "Make forecasts and Assumptions, Develop Valuation Model for Phase 2 Report",
+      "URLs": ""
+    },
+    {
+      "Session": "13",
+      "Topic": "Lecture 5: Financial Statement Modelings Chapter 3: Financial Statement Modelings 3.2 How Financial Models Work: Theory and an Initial Example 3.3 Free Cash Flow (FCF): Measuring the Cash Produced by the Business 3.4 Using the FCF to Value the Firm and Its Equity 3.6 Sensitivity analysis 3.7 Debt as a Plug 3.8 Incorporating a Target Debt/Equity Ratio into a Pro Forma 3.9 Project Finance: Debt Repayment Schedules Submission of Phase 1 Report",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO2",
+      "ITU": "",
+      "Student Materials": "I,T",
+      "S-Download": "",
+      "Student's Tasks": "Make forecasts and Assumptions, Develop Valuation Model for Phase 2 Report",
+      "URLs": ""
+    },
+    {
+      "Session": "14",
+      "Topic": "Apply in Phase 2 Report: prepare FCF projections and firm value calculation Practice Exercises",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO2",
+      "ITU": "",
+      "Student Materials": "T,U",
+      "S-Download": "",
+      "Student's Tasks": "",
+      "URLs": ""
+    },
+    {
+      "Session": "15",
+      "Topic": "Apply in Phase 2 Report: prepare FCF projections and firm value calculation Practice Exercises",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO2",
+      "ITU": "",
+      "Student Materials": "T,U",
+      "S-Download": "",
+      "Student's Tasks": "",
+      "URLs": ""
+    },
+    {
+      "Session": "16",
+      "Topic": "Apply in Phase 2 Report: prepare FCF projections and firm value calculation Practice Exercises",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO2",
+      "ITU": "",
+      "Student Materials": "T,U",
+      "S-Download": "",
+      "Student's Tasks": "",
+      "URLs": ""
+    },
+    {
+      "Session": "17",
+      "Topic": "Part 3: Corporate and stock valuation using Relative valuation Lecture 6: Relative Valuation Chapter 17: Fundamental Principles of Relative Valuation Use of relative valuation Standardized values and multiples Four basic steps to using multiples Reconciling relative and discounted cash flow valuation",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO3",
+      "ITU": "",
+      "Student Materials": "I,T",
+      "S-Download": "",
+      "Student's Tasks": "Collect financial data of the firm and its peer group",
+      "URLs": ""
+    },
+    {
+      "Session": "18",
+      "Topic": "Chapter 18: Earnings multiples Price-earning ratios The PEG ratio Other variants on PEG ratio Chapter 19: Book value Multiples Price to book equity Application of Price-book value ratios Use in investment strategies Value to book ratios",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO3",
+      "ITU": "",
+      "Student Materials": "I,T",
+      "S-Download": "",
+      "Student's Tasks": "Collect financial data of the firm and its peer group",
+      "URLs": ""
+    },
+    {
+      "Session": "19",
+      "Topic": "Chapter 20: Revenue Multiples and Sector-specific Multiples Revenue multiples Sector-specific multiples Phase 2 Report submission",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO3",
+      "ITU": "",
+      "Student Materials": "I,T",
+      "S-Download": "",
+      "Student's Tasks": "Collect financial data of the firm and its peer group",
+      "URLs": ""
+    },
+    {
+      "Session": "20",
+      "Topic": "Apply in Phase 3 Report: Estimate stock price using relative valuation Quiz 1: Textbook Chap 3, Ref 1 Chap 7+8+15",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO3",
+      "ITU": "",
+      "Student Materials": "T,U",
+      "S-Download": "",
+      "Student's Tasks": "Complete Phase 3 Report",
+      "URLs": ""
+    },
+    {
+      "Session": "21",
+      "Topic": "Apply in Phase 3 Report: Estimate stock price using relative valuation Quiz 1: Textbook Chap 3, Ref 1 Chap 7+8+15",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO3",
+      "ITU": "",
+      "Student Materials": "T,U",
+      "S-Download": "",
+      "Student's Tasks": "Complete Phase 3 Report",
+      "URLs": ""
+    },
+    {
+      "Session": "22",
+      "Topic": "Part 4: Bond valuation Lecture 7: Duration Chapter 20: Duration 20.1 Introduction 20.2 Two Examples 20.3 What Does Duration Mean? 20.4 Duration PatternsDuration 20.5 The Duration of a Bond with Uneven Payments (skip 20.5.3) 20.6 Nonflat Term Structures and Duration Practice Exercises Phase 3 Report submission",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO4",
+      "ITU": "",
+      "Student Materials": "I,T,U",
+      "S-Download": "",
+      "Student's Tasks": "",
+      "URLs": ""
+    },
+    {
+      "Session": "23",
+      "Topic": "Part 4: Bond valuation Lecture 7: Duration Chapter 20: Duration 20.1 Introduction 20.2 Two Examples 20.3 What Does Duration Mean? 20.4 Duration PatternsDuration 20.5 The Duration of a Bond with Uneven Payments (skip 20.5.3) 20.6 Nonflat Term Structures and Duration Practice Exercises Phase 3 Report submission",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO4",
+      "ITU": "",
+      "Student Materials": "I,T,U",
+      "S-Download": "",
+      "Student's Tasks": "",
+      "URLs": ""
+    },
+    {
+      "Session": "24",
+      "Topic": "Part 4: Bond valuation Lecture 7: Duration Chapter 20: Duration 20.1 Introduction 20.2 Two Examples 20.3 What Does Duration Mean? 20.4 Duration PatternsDuration 20.5 The Duration of a Bond with Uneven Payments (skip 20.5.3) 20.6 Nonflat Term Structures and Duration Practice Exercises Phase 3 Report submission",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO4",
+      "ITU": "",
+      "Student Materials": "I,T,U",
+      "S-Download": "",
+      "Student's Tasks": "",
+      "URLs": ""
+    },
+    {
+      "Session": "25",
+      "Topic": "Lecture 8: Immunization Strategies Chapter 21 - Immunization Strategies 21.1 Introduction 21.2 A Basic Simple Model of Immunization 21.3 A Numerical Example 21.4 Convexity: A Continuation of Our Immunization Experiment 21.5 Building a Better Mousetrap Group assignment 3 release Essay Test",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO4",
+      "ITU": "",
+      "Student Materials": "I,T,U",
+      "S-Download": "",
+      "Student's Tasks": "",
+      "URLs": ""
+    },
+    {
+      "Session": "26",
+      "Topic": "Lecture 8: Immunization Strategies Chapter 21 - Immunization Strategies 21.1 Introduction 21.2 A Basic Simple Model of Immunization 21.3 A Numerical Example 21.4 Convexity: A Continuation of Our Immunization Experiment 21.5 Building a Better Mousetrap Group assignment 3 release Essay Test",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO4",
+      "ITU": "",
+      "Student Materials": "I,T,U",
+      "S-Download": "",
+      "Student's Tasks": "",
+      "URLs": ""
+    },
+    {
+      "Session": "27",
+      "Topic": "Presentation + Submission of Final Report Review of Theory",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO1, LO2, LO3, LO4",
+      "ITU": "",
+      "Student Materials": "U",
+      "S-Download": "",
+      "Student's Tasks": "Do exercises, self-review, CMS, and prepare for final exam",
+      "URLs": ""
+    },
+    {
+      "Session": "28",
+      "Topic": "Presentation + Submission of Final Report Review of Theory",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO1, LO2, LO3, LO4",
+      "ITU": "",
+      "Student Materials": "U",
+      "S-Download": "",
+      "Student's Tasks": "Do exercises, self-review, CMS, and prepare for final exam",
+      "URLs": ""
+    },
+    {
+      "Session": "29",
+      "Topic": "Presentation + Submission of Final Report Review of Theory",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO1, LO2, LO3, LO4",
+      "ITU": "",
+      "Student Materials": "U",
+      "S-Download": "",
+      "Student's Tasks": "Do exercises, self-review, CMS, and prepare for final exam",
+      "URLs": ""
+    },
+    {
+      "Session": "30",
+      "Topic": "Presentation + Submission of Final Report Review of Theory",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO1, LO2, LO3, LO4",
+      "ITU": "",
+      "Student Materials": "U",
+      "S-Download": "",
+      "Student's Tasks": "Do exercises, self-review, CMS, and prepare for final exam",
+      "URLs": ""
+    }
+  ],
+  "constructive_questions": [
+    {
+      "No.": "1",
+      "Session No": "1",
+      "Name": "CQ1",
+      "Details": "Manipulate logical expressions and use logic for inference"
+    },
+    {
+      "No.": "2",
+      "Session No": "1",
+      "Name": "CQ2",
+      "Details": "Perform basic operations on sets, functions and sequences"
+    },
+    {
+      "No.": "3",
+      "Session No": "2",
+      "Name": "CQ1",
+      "Details": "Analyze basic algorithms written in pseudo codes and determine theirs complexities"
+    },
+    {
+      "No.": "4",
+      "Session No": "3",
+      "Name": "CQ1",
+      "Details": "Discuss applications of modular arithmetic and analyze algorithms on integers"
+    },
+    {
+      "No.": "5",
+      "Session No": "4",
+      "Name": "CQ1",
+      "Details": "Use induction and recursive definition to prove a statement or to describe an object, and write recursive algorithms"
+    },
+    {
+      "No.": "6",
+      "Session No": "4",
+      "Name": "CQ2",
+      "Details": "Solve counting problems"
+    },
+    {
+      "No.": "7",
+      "Session No": "4",
+      "Name": "CQ3",
+      "Details": "Analyze the structure of a graph and find shortest paths in a weighted graph"
+    },
+    {
+      "No.": "8",
+      "Session No": "4",
+      "Name": "CQ4",
+      "Details": "Analyze the structure of a tree and describe algorithms using trees"
+    }
+  ],
+  "materials": [
+    {
+      "No.": "1",
+      "Material Description": "Investment valuation (chapter 1, 2, 7, 8, 15, 17, 18, 19, 20 posted on CMS)",
+      "Author": "Aswath Damodaran",
+      "Publisher": "Wiley",
+      "Published Date": "2011",
+      "Edition": "",
+      "ISBN": "",
+      "Is Main Material": "False",
+      "Is Hard Copy": "True",
+      "Is Online": "False",
+      "Note": ""
+    },
+    {
+      "No.": "2",
+      "Material Description": "Financial Modeling",
+      "Author": "Simon Benninga",
+      "Publisher": "The MIT Press",
+      "Published Date": "2000",
+      "Edition": "2nd",
+      "ISBN": "",
+      "Is Main Material": "True",
+      "Is Hard Copy": "True",
+      "Is Online": "False",
+      "Note": ""
+    },
+    {
+      "No.": "3",
+      "Material Description": "Investment valuation",
+      "Author": "Aswath Damodaran",
+      "Publisher": "Wiley",
+      "Published Date": "2011",
+      "Edition": "2nd",
+      "ISBN": "",
+      "Is Main Material": "False",
+      "Is Hard Copy": "True",
+      "Is Online": "False",
+      "Note": ""
+    },
+    {
+      "No.": "4",
+      "Material Description": "Fundamentals of Corporate Finance",
+      "Author": "Robert Parrino",
+      "Publisher": "John Wiley",
+      "Published Date": "2009",
+      "Edition": "",
+      "ISBN": "",
+      "Is Main Material": "False",
+      "Is Hard Copy": "True",
+      "Is Online": "False",
+      "Note": ""
+    }
+  ],
+  "source_path": "data/raw/syllabi/938.html",
+  "id": "syllabus:938"
+}

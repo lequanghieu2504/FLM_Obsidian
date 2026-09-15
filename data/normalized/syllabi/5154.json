@@ -1,0 +1,1190 @@
+{
+  "syllabus_id": 5154,
+  "subject_code": "IAR401",
+  "subject_name": "Incident Response",
+  "syllabus_name": "Incident Response_Đối phó sự cố",
+  "credits": 3,
+  "degree_level": "Bachelor",
+  "time_allocation": "30 sessions; 1 session = 90' Lectures: 12; Tutorials/Lab: 18",
+  "prerequisite": "FRS401",
+  "general_information": {
+    "Syllabus ID": "5154",
+    "Syllabus Name": "Incident Response_Đối phó sự cố",
+    "Course Name English": "",
+    "Subject Code": "IAR401",
+    "Learning-Teaching Method": "",
+    "NoCredit": "3",
+    "Degree Level": "Bachelor",
+    "Time Allocation": "30 sessions; 1 session = 90' Lectures: 12; Tutorials/Lab: 18",
+    "Pre-Requisite": "FRS401",
+    "Description": "This course will introduce the student to the essential aspects of information security and incident response (IR). The student will be provided with the tools, techniques and industry accepted methodologies so that upon completion of the course the student will be able to describe key concepts of network security and incident response and how those concepts apply to themselves and their organization.",
+    "StudentTasks": "- Students must attend more than 80% of contact sessions in order to be accepted to the final examination. - Students are responsible to do all exercises, assignments and labs given by instructor in class or at home and submit in time - Use laptop in class only for learning purpose - Promptly access to the FPTU cms at http://cms.fpt.edu.vn for up-to-date course information",
+    "Tools": "Internet, VMWare, Kali Linux, FTK, SleuthKit, EnCase, Wireshark, Netwitness Investigator",
+    "Scoring Scale": "10",
+    "DecisionNo MM/dd/yyyy": "1485/QĐ-ĐH-FPT dated 12/31/2021",
+    "IsApproved": "True",
+    "Note": "",
+    "Is Scored": "True",
+    "MinAvgMarkToPass": "5",
+    "IsActive": "True",
+    "ApprovedDate": "12/31/2021"
+  },
+  "active": true,
+  "approved": true,
+  "decision": "1485/QĐ-ĐH-FPT dated 12/31/2021",
+  "description": "This course will introduce the student to the essential aspects of information security and incident response (IR). The student will be provided with the tools, techniques and industry accepted methodologies so that upon completion of the course the student will be able to describe key concepts of network security and incident response and how those concepts apply to themselves and their organization.",
+  "learning_outcomes": [
+    {
+      "No.": "1",
+      "CLO Name": "CLO1",
+      "CLO Details": "Understand the IR process."
+    },
+    {
+      "No.": "2",
+      "CLO Name": "CLO2",
+      "CLO Details": "Build and equip an IR team for success; enhance an infrastructure or organization to facilitate the IR process."
+    },
+    {
+      "No.": "3",
+      "CLO Name": "CLO3",
+      "CLO Details": "Collect initial facts, understand methodical investigation and network evidence."
+    },
+    {
+      "No.": "4",
+      "CLO Name": "CLO4",
+      "CLO Details": "Develop leads, identify indicators of compromise, and determine incident scope."
+    },
+    {
+      "No.": "5",
+      "CLO Name": "CLO5",
+      "CLO Details": "Collect and preserve live data."
+    },
+    {
+      "No.": "6",
+      "CLO Name": "CLO6",
+      "CLO Details": "Perform forensic duplication."
+    },
+    {
+      "No.": "7",
+      "CLO Name": "CLO7",
+      "CLO Details": "Analyze data from networks, enterprise services, and applications."
+    },
+    {
+      "No.": "8",
+      "CLO Name": "CLO8",
+      "CLO Details": "Investigate Windows and Mac OS X systems."
+    },
+    {
+      "No.": "9",
+      "CLO Name": "CLO9",
+      "CLO Details": "Perform malware triage."
+    },
+    {
+      "No.": "10",
+      "CLO Name": "CLO10",
+      "CLO Details": "Write detailed incident response reports."
+    },
+    {
+      "No.": "11",
+      "CLO Name": "CLO11",
+      "CLO Details": "Create and implement comprehensive remediation plans"
+    }
+  ],
+  "assessments": [
+    {
+      "No.": "1",
+      "Category": "Lab",
+      "Type": "on-going",
+      "Part": "16",
+      "Weight": "40.0%",
+      "Completion Criteria": "4",
+      "Duration": "Option 1: 60- 90' in class; Option 2 (For Constructivism Approach only): Follow lecturer's proposal",
+      "CLO": "",
+      "Question Type": "Option 1: practical exercises; Option 2 (For Constructivism Approach only): Follow lecturer's proposal",
+      "No Question": "Option 1: N/A; Option 2 (For Constructivism Approach only): Follow lecturer's proposal",
+      "Knowledge and Skill": "technical aspect of studied topics",
+      "Grading Guide": "- Guided by instructor - 16 Lab-Projects are arranged relevant to the chapter theory - Student must finish labs and submit the results to the lecturer in class. - An average point of all labs could be evaluated and published to students at the end of the semester",
+      "Note": ""
+    },
+    {
+      "No.": "2",
+      "Category": "Midterm",
+      "Type": "on-going",
+      "Part": "1",
+      "Weight": "20.0%",
+      "Completion Criteria": ">0",
+      "Duration": "Option1: 30- 40'; Option 2 (For Constructivism Approach only): Follow lecturer's proposal",
+      "CLO": "",
+      "Question Type": "Option1: Multiple choices Marked by Computer or a suitable format; Option 2 (For Constructivism Approach only): Follow lecturer's proposal",
+      "No Question": "Option1: 20-25; Option 2 (For Constructivism Approach only): Follow lecturer's proposal",
+      "Knowledge and Skill": "cover Lectures 1- 8",
+      "Grading Guide": "in class, by instructor",
+      "Note": "Instruction and schedules for Progress Tests must be presented in the Course Implementation Plan approved by director of the campus. The test must be taken right after the last lectures of required material. Instructor has responsibility to review the test for students after graded."
+    },
+    {
+      "No.": "3",
+      "Category": "Participation in discussion",
+      "Type": "on-going",
+      "Part": "1",
+      "Weight": "10.0%",
+      "Completion Criteria": ">0",
+      "Duration": "Option 1:; Option 2 (For Constructivism Approach only): Follow lecturer's proposal",
+      "CLO": "",
+      "Question Type": "Option 1:; Option 2 (For Constructivism Approach only): Follow lecturer's proposal",
+      "No Question": "Option 1: N/A; Option 2 (For Constructivism Approach only): Follow lecturer's proposal",
+      "Knowledge and Skill": "",
+      "Grading Guide": "",
+      "Note": ""
+    },
+    {
+      "No.": "4",
+      "Category": "Final Exam",
+      "Type": "Final exam",
+      "Part": "1",
+      "Weight": "30.0%",
+      "Completion Criteria": "4",
+      "Duration": "60'",
+      "CLO": "",
+      "Question Type": "Multiple choices Marked by Computer",
+      "No Question": "40-50",
+      "Knowledge and Skill": "concepts, algorithms; all studied Chapters",
+      "Grading Guide": "by exam board, using computer",
+      "Note": "The exam questions must be updated or different at least 70% to the previous ones."
+    }
+  ],
+  "schedule": [
+    {
+      "Session": "1",
+      "Topic": "Lecture 1. Introduction to Incident Response and Handling: CIRT/CERT Overview 1.1 Concept of Computer Security Incident 1.2 The Goals of Incident Response 1.3 Finding Incident Response Talent 1.4 The Incident Response Process (Initial Response, Investigation, Remediation, Reporting)",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO1",
+      "ITU": "T",
+      "Student Materials": "Read Chapter 2",
+      "S-Download": "IAR401",
+      "Student's Tasks": "Study and Review Lecture 1",
+      "URLs": ""
+    },
+    {
+      "Session": "2",
+      "Topic": "Lecture 2. Incident Response Team 2.1 Preparing the Organization for Incident Response 2.2 Preparing the IR Team 2.3 Preparing the Infrastructure for Incident Response 2.4 Case Study #1: Show Me the Money",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO2",
+      "ITU": "T",
+      "Student Materials": "Read Chapter 3 and Case Study #1 (Chapters 1, 18)",
+      "S-Download": "IAR401",
+      "Student's Tasks": "Study and Review Lecture 2",
+      "URLs": ""
+    },
+    {
+      "Session": "3",
+      "Topic": "Lab 1: Using Virtual Machines and How to Add Official Kali Linux Repositories",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO2",
+      "ITU": "U",
+      "Student Materials": "Lecture Slides",
+      "S-Download": "",
+      "Student's Tasks": "Practice and Review Lab 1",
+      "URLs": ""
+    },
+    {
+      "Session": "4",
+      "Topic": "Lecture 3. Network Security Monitoring, Indicators and Leads 3.1 Defining Leads of Value 3.2 Acting on Leads 3.3 Types of Network Monitoring 3.4 Setting Up a Network Monitoring System 3.5 Network Data Analysis 3.6 Collect Logs Generated from Network Events",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO3",
+      "ITU": "T",
+      "Student Materials": "Read Chapters 5, 9",
+      "S-Download": "",
+      "Student's Tasks": "Study and Review Lecture 3",
+      "URLs": ""
+    },
+    {
+      "Session": "5",
+      "Topic": "Lab-Project 2: Capturing a RAM Image",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO3",
+      "ITU": "U",
+      "Student Materials": "Lecture Slides",
+      "S-Download": "",
+      "Student's Tasks": "Practice and Review Lab 2",
+      "URLs": ""
+    },
+    {
+      "Session": "6",
+      "Topic": "Lecture 4. Initial Incident Detection and Facts 4.1 Collecting Initial Facts 4.2 Maintenance of Case Notes 4.3 Understanding Investigative Priorities",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO3, LO4",
+      "ITU": "T",
+      "Student Materials": "Read Chapter 4",
+      "S-Download": "",
+      "Student's Tasks": "Study and Review Lecture 4",
+      "URLs": ""
+    },
+    {
+      "Session": "7",
+      "Topic": "Lecture 5. Enterprise Services 5.1 Network Infrastructure Services 5.2 Enterprise Management Applications 5.3 Antivirus Software 5.4 Web Servers 5.5 Database Servers 5.6 Case Study #2: Certificate of Authenticity",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO2, LO7",
+      "ITU": "T",
+      "Student Materials": "Read Chapter 10 and Case Study #2 of Chapter 1",
+      "S-Download": "",
+      "Student's Tasks": "Study and Review Lecture 5",
+      "URLs": ""
+    },
+    {
+      "Session": "8",
+      "Topic": "Lecture 6. Forensic Duplication and Hashing 6.1 Forensic Image Formats 6.2 Traditional Duplication 6.3 Live System Duplication 6.4 Duplication of Enterprise Assets 6.5 Malware Triage",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO6, LO9",
+      "ITU": "T",
+      "Student Materials": "Read Chapters 8, 15",
+      "S-Download": "",
+      "Student's Tasks": "Study and Review Lecture 6",
+      "URLs": ""
+    },
+    {
+      "Session": "9",
+      "Topic": "Lab-Project 3: Recovering Deleted Photos with PhotoRec",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO6, LO9",
+      "ITU": "U",
+      "Student Materials": "Lecture Slides",
+      "S-Download": "",
+      "Student's Tasks": "Practice and Review Lab 3",
+      "URLs": ""
+    },
+    {
+      "Session": "10",
+      "Topic": "Lab-Project 4: Rebuilding an Image Header",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO6, LO9",
+      "ITU": "U",
+      "Student Materials": "Lecture Slides",
+      "S-Download": "",
+      "Student's Tasks": "Practice and Review Lab 4",
+      "URLs": ""
+    },
+    {
+      "Session": "11",
+      "Topic": "Lab-Project 5: Fixing the Partition Table with TestDisk",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO6, LO9",
+      "ITU": "U",
+      "Student Materials": "Lecture Slides",
+      "S-Download": "",
+      "Student's Tasks": "Practice and Review Lab 5",
+      "URLs": ""
+    },
+    {
+      "Session": "12",
+      "Topic": "Lecture 7. Report Writing and Remediation 7.1 Reporting Standards 7.2 Quality Assurance 7.3 Remediation Pre-Checks 7.4 Eight High-Level Steps of the Remediation Process 7.5 Putting It All Together 7.6 Common Mistakes That Lead to Remediation Failure",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO10, LO11",
+      "ITU": "",
+      "Student Materials": "Read Chapters 16, 17",
+      "S-Download": "",
+      "Student's Tasks": "Study and Review Lecture 7",
+      "URLs": ""
+    },
+    {
+      "Session": "13",
+      "Topic": "Lectures 8. The Incident Scope and Live Data Collection 8.1 Customer Data Loss Scenario 8.2 Automated Clearing House (ACH) Fraud Scenario 8.3 Selecting a Live Response Tool 8.4 Collection Best Practices 8.5 Live Data Collection on Microsoft Windows Systems 8.6 Live Data Collection on Unix-Based Systems",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO4, LO5",
+      "ITU": "T",
+      "Student Materials": "Read Chapters 6, 7",
+      "S-Download": "",
+      "Student's Tasks": "Study and Review Lecture 8",
+      "URLs": ""
+    },
+    {
+      "Session": "14",
+      "Topic": "Lab-Project 6: Analyzing a RAM Image with Bulk Extractor",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO4, LO5",
+      "ITU": "U",
+      "Student Materials": "Lecture Slides",
+      "S-Download": "",
+      "Student's Tasks": "Practice and Review Lab 6",
+      "URLs": ""
+    },
+    {
+      "Session": "15",
+      "Topic": "Lab-Project 7: Analyzing a RAM Image with Volatility",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO4, LO5",
+      "ITU": "U",
+      "Student Materials": "Lecture Slides",
+      "S-Download": "",
+      "Student's Tasks": "Practice and Review Lab 7",
+      "URLs": ""
+    },
+    {
+      "Session": "16",
+      "Topic": "Lab-Project 8: Live Response with Mandiant Redline",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO4, LO5",
+      "ITU": "U",
+      "Student Materials": "Lecture Slides",
+      "S-Download": "",
+      "Student's Tasks": "Practice and Review Lab 8",
+      "URLs": ""
+    },
+    {
+      "Session": "17",
+      "Topic": "Review for Midterm Midterm Test",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO1, LO2, LO3, LO4, LO5, LO6, LO7, LO9, LO10, LO11",
+      "ITU": "U",
+      "Student Materials": "Slides of Lectures 1-8",
+      "S-Download": "",
+      "Student's Tasks": "",
+      "URLs": ""
+    },
+    {
+      "Session": "18",
+      "Topic": "Lectures 9. Analysis Methodology 9.1 Objectives 9.2 Know, Access and Analyze Your Data 9.3 Evaluate Results",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO2, LO3, LO7",
+      "ITU": "T",
+      "Student Materials": "Read Chapter 11",
+      "S-Download": "",
+      "Student's Tasks": "Study and Review Lecture 9",
+      "URLs": ""
+    },
+    {
+      "Session": "19",
+      "Topic": "Lab-Project 9: Using EnCase",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO2, LO3, LO7",
+      "ITU": "U",
+      "Student Materials": "Lecture Slides",
+      "S-Download": "",
+      "Student's Tasks": "Practice and Review Lab 9",
+      "URLs": ""
+    },
+    {
+      "Session": "20",
+      "Topic": "Lab-Project 10: Data Carving with Foremost",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO2, LO3, LO7",
+      "ITU": "U",
+      "Student Materials": "Lecture Slides",
+      "S-Download": "",
+      "Student's Tasks": "Practice and Review Lab 10",
+      "URLs": ""
+    },
+    {
+      "Session": "21",
+      "Topic": "Lectures 10. Investigating Applications (Web Browsers, E-mail, ...) 10.1 Application Data Storage 10.2 General Investigation Methods 10.3 Web Browsers 10.4 E-Mail Clients 10.5 Instant Message Clients",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO7",
+      "ITU": "T",
+      "Student Materials": "Read Chapter 14",
+      "S-Download": "",
+      "Student's Tasks": "Study and Review Lecture 10",
+      "URLs": ""
+    },
+    {
+      "Session": "22",
+      "Topic": "Lab-Project 11: Acquiring a Forensic Image of an Android Phone",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO7",
+      "ITU": "U",
+      "Student Materials": "Chapter Slides",
+      "S-Download": "",
+      "Student's Tasks": "Practice and Review Lab 11",
+      "URLs": ""
+    },
+    {
+      "Session": "23",
+      "Topic": "Lectures 11. 11.1 NTFS and File System Analysis 11.2 Prefetch 11.3 Event Logs and Scheduled Tasks 11.4 The Windows Registry 11.5 Other Artifacts of Interactive Sessions 11.6 Memory Forensics 11.7 Alternative Persistence Mechanisms 11.8 Reviewing Common Investigative Questions",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO8",
+      "ITU": "T",
+      "Student Materials": "Read Chapter 12",
+      "S-Download": "",
+      "Student's Tasks": "Study and Review Lecture 11",
+      "URLs": ""
+    },
+    {
+      "Session": "24",
+      "Topic": "Lab-Project 12: NTFS Data Runs",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO8",
+      "ITU": "U",
+      "Student Materials": "Lecture Slides",
+      "S-Download": "",
+      "Student's Tasks": "Practice and Review Lab 12",
+      "URLs": ""
+    },
+    {
+      "Session": "25",
+      "Topic": "Lab-Project 13: Prefetch",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO8",
+      "ITU": "U",
+      "Student Materials": "Lecture Slides",
+      "S-Download": "",
+      "Student's Tasks": "Practice and Review Lab 13",
+      "URLs": ""
+    },
+    {
+      "Session": "26",
+      "Topic": "Lab-Project 14: Static Acquistition with DEFT",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO8",
+      "ITU": "U",
+      "Student Materials": "Lecture Slides",
+      "S-Download": "",
+      "Student's Tasks": "Practice and review lab 12",
+      "URLs": ""
+    },
+    {
+      "Session": "27",
+      "Topic": "Lab-Project 15: Capturing and Examining the Registry",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO8",
+      "ITU": "U",
+      "Student Materials": "Lecture Slides",
+      "S-Download": "",
+      "Student's Tasks": "Practice and Review Lab 15",
+      "URLs": ""
+    },
+    {
+      "Session": "28",
+      "Topic": "Lab-Project 16: Shadow Copies and CCleaner",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO8",
+      "ITU": "U",
+      "Student Materials": "Lecture Slides",
+      "S-Download": "",
+      "Student's Tasks": "Practice and Review Lab 16",
+      "URLs": ""
+    },
+    {
+      "Session": "29",
+      "Topic": "Lectures 12. 12.1 HFS+ and File System Analysis 12.2 Core Operating System Data 12.3 Reviewing Common Investigative Questions",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO8",
+      "ITU": "T",
+      "Student Materials": "Read Chapter 13",
+      "S-Download": "",
+      "Student's Tasks": "Study and Review Lecture 12",
+      "URLs": ""
+    },
+    {
+      "Session": "30",
+      "Topic": "Course Review",
+      "Learning-Teaching Type": "Offline",
+      "LO": "",
+      "ITU": "U",
+      "Student Materials": "All Lecture Slides",
+      "S-Download": "",
+      "Student's Tasks": "",
+      "URLs": ""
+    }
+  ],
+  "constructive_questions": [
+    {
+      "No.": "1",
+      "Session No": "1",
+      "Name": "CQ1",
+      "Details": "What constitutes an incident?"
+    },
+    {
+      "No.": "2",
+      "Session No": "1",
+      "Name": "CQ2",
+      "Details": "Who should define what constitutes an incident?"
+    },
+    {
+      "No.": "3",
+      "Session No": "1",
+      "Name": "CQ3",
+      "Details": "How many phases are in the attack lifecycle?"
+    },
+    {
+      "No.": "4",
+      "Session No": "1",
+      "Name": "CQ4",
+      "Details": "During an investigation, you discover evidence of malware that is running on a system. Explain how you would respond, and why"
+    },
+    {
+      "No.": "5",
+      "Session No": "1",
+      "Name": "CQ5",
+      "Details": "When does the remediation process start, and why?"
+    },
+    {
+      "No.": "6",
+      "Session No": "2",
+      "Name": "CQ1",
+      "Details": "Discuss some of the challenges related to outsourced IT services as they pertain to conducting an investigation. How can they be dealt with?"
+    },
+    {
+      "No.": "7",
+      "Session No": "2",
+      "Name": "CQ2",
+      "Details": "Why is asset management a critical aspect of preparing for an incident?"
+    },
+    {
+      "No.": "8",
+      "Session No": "2",
+      "Name": "CQ3",
+      "Details": "What forensic tools are acceptable in court? Explain your answer"
+    },
+    {
+      "No.": "9",
+      "Session No": "2",
+      "Name": "CQ4",
+      "Details": "Why is centralized logging important?"
+    },
+    {
+      "No.": "10",
+      "Session No": "3",
+      "Name": "CQ1",
+      "Details": "How to add official Kali Linux Repositories?"
+    },
+    {
+      "No.": "11",
+      "Session No": "3",
+      "Name": "CQ2",
+      "Details": "How to manage the repositories on Kali Linux?"
+    },
+    {
+      "No.": "12",
+      "Session No": "3",
+      "Name": "CQ3",
+      "Details": "How to set the static ip on Kali Linux?"
+    },
+    {
+      "No.": "13",
+      "Session No": "4",
+      "Name": "CQ1",
+      "Details": "In February 2013, Mandiant published a report that detailed the group known as APT 1. This report outlines the typical attack progression observed at numerous victim organizations. In the section titled “APT 1: Attack Lifecycle,” the typical process used for internal reconnaissance is described. Using the methodology described, how to generate a set of indicators that can help your organization identify this type of activity?"
+    },
+    {
+      "No.": "14",
+      "Session No": "4",
+      "Name": "CQ2",
+      "Details": "From the Practical Malware Analysis book (practicalmalwareanalysis.com/labs), How to generate host-based and network-based indicators for the binary file Lab06-02.exe?"
+    },
+    {
+      "No.": "15",
+      "Session No": "4",
+      "Name": "CQ3",
+      "Details": "When architecting a new network monitoring system, what types of questions should be asked of the IT or network staff? How can you help ensure complete visibility into traffic egressing your networks?"
+    },
+    {
+      "No.": "16",
+      "Session No": "4",
+      "Name": "CQ4",
+      "Details": "How can your team detect the following suspicious activities through statistical network monitoring?"
+    },
+    {
+      "No.": "17",
+      "Session No": "4",
+      "Name": "CQ5",
+      "Details": "How would you quickly identify whether a large pcap file with thousands of sessions contained FTP activity? How would you extract the transferred files?"
+    },
+    {
+      "No.": "18",
+      "Session No": "5",
+      "Name": "CQ1",
+      "Details": "What steps do you use to capture ram image?"
+    },
+    {
+      "No.": "19",
+      "Session No": "5",
+      "Name": "CQ2",
+      "Details": "what information can you get from ram image?"
+    },
+    {
+      "No.": "20",
+      "Session No": "5",
+      "Name": "CQ3",
+      "Details": "which cases do you need to capture ram image?"
+    },
+    {
+      "No.": "21",
+      "Session No": "6",
+      "Name": "CQ1",
+      "Details": "What are the five primary checklists you should use to collect initial information about an incident? List two key data points for each, and explain why they are important."
+    },
+    {
+      "No.": "22",
+      "Session No": "6",
+      "Name": "CQ2",
+      "Details": "During an incident, you discover that an attacker conducted a brute force attack against a database server. You record the event in your incident management system. What time zone did you use? Explain why"
+    },
+    {
+      "No.": "23",
+      "Session No": "6",
+      "Name": "CQ3",
+      "Details": "When maintaining a timeline of attacker activity, what four pieces of information should you record for each entry? Pick a file, such as win.ini on a Microsoft Windows computer or /etc/hosts on a Unix-based host, and make as many timerelated entries as you can for just that one file"
+    },
+    {
+      "No.": "24",
+      "Session No": "6",
+      "Name": "CQ4",
+      "Details": "Assume your web server farm was found to be operating as a “drop site” for attackers who were active in other companies. What would your investigative priorities be? How would you demonstrate that the incident was handled in a competent manner?"
+    },
+    {
+      "No.": "25",
+      "Session No": "7",
+      "Name": "CQ1",
+      "Details": "What are some common ways you might discover services or applications that are helpful to an investigation?"
+    },
+    {
+      "No.": "26",
+      "Session No": "7",
+      "Name": "CQ2",
+      "Details": "Are network services such as DHCP critical to incident response? If DHCP logs are not available, how might you still determine what system an IP address was assigned to?"
+    },
+    {
+      "No.": "27",
+      "Session No": "7",
+      "Name": "CQ3",
+      "Details": "Your company recently deployed a new application across the enterprise. The application is a new disaster recovery tool that automatically backs up data from users’ systems to a central server. The backup data is encrypted, but the backup software maintains a local log file in plain text. How might this service be of use to incident responders?"
+    },
+    {
+      "No.": "28",
+      "Session No": "7",
+      "Name": "CQ4",
+      "Details": "In this chapter we mentioned “booting a copy of a forensic image.” What are we talking about? Describe the tools and methods to perform that task."
+    },
+    {
+      "No.": "29",
+      "Session No": "8",
+      "Name": "CQ1",
+      "Details": "If you have connected evidence hard drives to a system for imaging, do you need to use a write blocker if you are going to boot to a Linux-based forensic CD? Explain why or why not"
+    },
+    {
+      "No.": "30",
+      "Session No": "8",
+      "Name": "CQ2",
+      "Details": "You are tasked with establishing the standard hard drive imaging tool and procedure for your organization. What considerations and steps will you take to create the standard?"
+    },
+    {
+      "No.": "31",
+      "Session No": "8",
+      "Name": "CQ3",
+      "Details": "You are attempting to image a hard drive, but the process seems to randomly fail part of the way through. The imaging software reports that it is unable to read from the source drive. How would you approach troubleshooting the issue?"
+    },
+    {
+      "No.": "32",
+      "Session No": "8",
+      "Name": "CQ4",
+      "Details": "What are the primary differences between static and dynamic analysis techniques? What are the advantages of each?"
+    },
+    {
+      "No.": "33",
+      "Session No": "8",
+      "Name": "CQ5",
+      "Details": "On a system you are investigating, you discover a file that you suspect is malware. How would you proceed to safely obtain a copy of the malware and place it in your triage environment? Address investigating both a live system and a forensic image of a hard drive"
+    },
+    {
+      "No.": "34",
+      "Session No": "9",
+      "Name": "CQ1",
+      "Details": "What steps do you use to recovery the deleted photos?"
+    },
+    {
+      "No.": "35",
+      "Session No": "9",
+      "Name": "CQ2",
+      "Details": "What is the working principle of this method?"
+    },
+    {
+      "No.": "36",
+      "Session No": "9",
+      "Name": "CQ3",
+      "Details": "which case studies do you need to to do that?"
+    },
+    {
+      "No.": "37",
+      "Session No": "10",
+      "Name": "CQ1",
+      "Details": "what is the image header?"
+    },
+    {
+      "No.": "38",
+      "Session No": "10",
+      "Name": "CQ2",
+      "Details": "what information do you get from image header?"
+    },
+    {
+      "No.": "39",
+      "Session No": "10",
+      "Name": "CQ3",
+      "Details": "why do we need rebuild the image header?"
+    },
+    {
+      "No.": "40",
+      "Session No": "10",
+      "Name": "CQ4",
+      "Details": "What steps do you use to rebuild the image header?"
+    },
+    {
+      "No.": "41",
+      "Session No": "11",
+      "Name": "CQ1",
+      "Details": "what is the partition table?"
+    },
+    {
+      "No.": "42",
+      "Session No": "11",
+      "Name": "CQ2",
+      "Details": "what information do you get from partition table?"
+    },
+    {
+      "No.": "43",
+      "Session No": "11",
+      "Name": "CQ3",
+      "Details": "why do we need fix the partition table?"
+    },
+    {
+      "No.": "44",
+      "Session No": "11",
+      "Name": "CQ4",
+      "Details": "What steps do you use to fix it?"
+    },
+    {
+      "No.": "45",
+      "Session No": "12",
+      "Name": "CQ1",
+      "Details": "You analyze an image of a hard drive to locate deleted RAR files. You complete your analysis and do not find any deleted RAR files. Your boss tells you not to write a report. What would you do and why?"
+    },
+    {
+      "No.": "46",
+      "Session No": "12",
+      "Name": "CQ2",
+      "Details": "Explain why active voice is the preferred writing style of technical reports. Provide at least three clear examples that illustrate active voice versus passive voice."
+    },
+    {
+      "No.": "47",
+      "Session No": "12",
+      "Name": "CQ3",
+      "Details": "During an analysis, you discover what appears to be credit card numbers in a file. You provide an excerpt of the file in a figure. Are there any special considerations you should take as to how the data is presented in the figure?"
+    },
+    {
+      "No.": "48",
+      "Session No": "12",
+      "Name": "CQ4",
+      "Details": "Define posturing actions. Define containment actions. What are some differences between the two types of actions?"
+    },
+    {
+      "No.": "49",
+      "Session No": "12",
+      "Name": "CQ5",
+      "Details": "What are some common reasons eradication events fail?"
+    },
+    {
+      "No.": "50",
+      "Session No": "13",
+      "Name": "CQ1",
+      "Details": "If your evidence sources do not include multiple independent categories, what steps could you take to increase confidence in your conclusions?"
+    },
+    {
+      "No.": "51",
+      "Session No": "13",
+      "Name": "CQ2",
+      "Details": "In the customer data loss scenario, a number of steps were taken to verify the customers’ complaints. List at least two other useful steps you could have taken to help verify the customers’ complaints or isolate the source of the data loss."
+    },
+    {
+      "No.": "52",
+      "Session No": "13",
+      "Name": "CQ3",
+      "Details": "What investigative questions is a live data collection likely to help answer?"
+    },
+    {
+      "No.": "53",
+      "Session No": "13",
+      "Name": "CQ4",
+      "Details": "In what situations would collecting an image of memory be most useful to the investigation?"
+    },
+    {
+      "No.": "54",
+      "Session No": "13",
+      "Name": "CQ5",
+      "Details": "During an investigation, you identify a suspect system that runs an operating system you have not dealt with before. You are tasked with performing a live data collection. Explain how you should proceed to gather live data?"
+    },
+    {
+      "No.": "55",
+      "Session No": "14",
+      "Name": "CQ1",
+      "Details": "what is bulk extractor?"
+    },
+    {
+      "No.": "56",
+      "Session No": "14",
+      "Name": "CQ2",
+      "Details": "What are advantages and disadvantages of bulk extrartor?"
+    },
+    {
+      "No.": "57",
+      "Session No": "14",
+      "Name": "CQ3",
+      "Details": "What steps do you use to analyze the ram image?"
+    },
+    {
+      "No.": "58",
+      "Session No": "15",
+      "Name": "CQ1",
+      "Details": "what is volatility?"
+    },
+    {
+      "No.": "59",
+      "Session No": "15",
+      "Name": "CQ2",
+      "Details": "What are advantages and disadvantages of volatility?"
+    },
+    {
+      "No.": "60",
+      "Session No": "15",
+      "Name": "CQ3",
+      "Details": "What steps do you use to analyze the ram image?"
+    },
+    {
+      "No.": "61",
+      "Session No": "16",
+      "Name": "CQ1",
+      "Details": "what is Mandiant Redline?"
+    },
+    {
+      "No.": "62",
+      "Session No": "16",
+      "Name": "CQ2",
+      "Details": "What are advantages and disadvantages of Mandiant Redline?"
+    },
+    {
+      "No.": "63",
+      "Session No": "16",
+      "Name": "CQ3",
+      "Details": "What steps do you do to live response with Mandiant Redline?"
+    },
+    {
+      "No.": "64",
+      "Session No": "18",
+      "Name": "CQ1",
+      "Details": "Based on the information presented in this chapter, what do you think is the most challenging part of the analysis process? Explain why."
+    },
+    {
+      "No.": "65",
+      "Session No": "18",
+      "Name": "CQ2",
+      "Details": "Given the following scenario, explain how you would proceed. An investigation stakeholder tells you that one of the most critical objectives is to prove that a file with a specific MD5 hash was not present on a system at the time of analysis. You have a recent forensic disk image for the system"
+    },
+    {
+      "No.": "66",
+      "Session No": "18",
+      "Name": "CQ3",
+      "Details": "A manager at another office lets you know to expect a disk image via courier within the next day. You are tasked with recovering deleted files. What questions would you ask before the image arrives? Why?"
+    },
+    {
+      "No.": "67",
+      "Session No": "19",
+      "Name": "CQ1",
+      "Details": "what is Encase?"
+    },
+    {
+      "No.": "68",
+      "Session No": "19",
+      "Name": "CQ2",
+      "Details": "What are advantages and disadvantages of Encase?"
+    },
+    {
+      "No.": "69",
+      "Session No": "19",
+      "Name": "CQ3",
+      "Details": "What can you do with Encase? Give some examples."
+    },
+    {
+      "No.": "70",
+      "Session No": "20",
+      "Name": "CQ1",
+      "Details": "what is Foremost?"
+    },
+    {
+      "No.": "71",
+      "Session No": "20",
+      "Name": "CQ2",
+      "Details": "What are advantages and disadvantages of Foremost?"
+    },
+    {
+      "No.": "72",
+      "Session No": "20",
+      "Name": "CQ3",
+      "Details": "What can you do with Foremost? Give some examples."
+    },
+    {
+      "No.": "73",
+      "Session No": "21",
+      "Name": "CQ1",
+      "Details": "During an investigation, a database administrator discovers that hundreds of SQL queries with a long execution time were run from a single workstation. The database did not record the specific query—just the date, time, source, and query execution time. You are tasked to determine what queries were executed. How would you proceed?"
+    },
+    {
+      "No.": "74",
+      "Session No": "21",
+      "Name": "CQ2",
+      "Details": "As you are investigating a Windows XP system, you find operating system artifacts that indicate the attacker ran heidisql.exe multiple times. Assuming the file name is the original name of the program, what do you suspect the application was? What registry key or keys would you examine to determine additional information about what the attacker did?"
+    },
+    {
+      "No.": "75",
+      "Session No": "21",
+      "Name": "CQ3",
+      "Details": "You are investigating what artifacts an application creates on a Windows 8 system. You notice that under the AppData directory, the application is storing information in multiple directories: Local, LocalLow, and Roaming. Why would the application do that? What is the purpose of the different AppData directories (Local, LocalLow, and Roaming)?"
+    },
+    {
+      "No.": "76",
+      "Session No": "22",
+      "Name": "CQ1",
+      "Details": "How to create forensic image for Android phone?"
+    },
+    {
+      "No.": "77",
+      "Session No": "22",
+      "Name": "CQ2",
+      "Details": "What steps do you do to forensic on image of Android Phone?"
+    },
+    {
+      "No.": "78",
+      "Session No": "22",
+      "Name": "CQ3",
+      "Details": "what information do you get from this image?"
+    },
+    {
+      "No.": "79",
+      "Session No": "23",
+      "Name": "CQ1",
+      "Details": "Which attribute within the Master File Table (MFT) contains timestamps that cannot be directly manipulated through the Windows API?"
+    },
+    {
+      "No.": "80",
+      "Session No": "23",
+      "Name": "CQ2",
+      "Details": "How could an attacker load and execute malicious code from an alternate data stream on a Windows 7 system?"
+    },
+    {
+      "No.": "81",
+      "Session No": "23",
+      "Name": "CQ3",
+      "Details": "An attacker connects to an unprotected WinVNC screen-sharing service on a workstation. The current user is logged out, so the attacker must supply valid Windows credentials to proceed. What will the logon type be for this authentication?"
+    },
+    {
+      "No.": "82",
+      "Session No": "23",
+      "Name": "CQ4",
+      "Details": "What source of evidence records the username responsible for creating a scheduled task?"
+    },
+    {
+      "No.": "83",
+      "Session No": "23",
+      "Name": "CQ5",
+      "Details": "What distinguishes the evidence in UserAssist keys from that stored in MUICache keys?"
+    },
+    {
+      "No.": "84",
+      "Session No": "24",
+      "Name": "CQ1",
+      "Details": "How to Forensically Cleaning the Disk? which steps?"
+    },
+    {
+      "No.": "85",
+      "Session No": "24",
+      "Name": "CQ2",
+      "Details": "what is winhex?"
+    },
+    {
+      "No.": "86",
+      "Session No": "24",
+      "Name": "CQ3",
+      "Details": "what can you do with winhex?"
+    },
+    {
+      "No.": "87",
+      "Session No": "25",
+      "Name": "CQ1",
+      "Details": "what is superfetch on windows?"
+    },
+    {
+      "No.": "88",
+      "Session No": "25",
+      "Name": "CQ2",
+      "Details": "what roles of superfetch?"
+    },
+    {
+      "No.": "89",
+      "Session No": "25",
+      "Name": "CQ3",
+      "Details": "what should you do with superfetch to improve security?"
+    },
+    {
+      "No.": "90",
+      "Session No": "26",
+      "Name": "CQ1",
+      "Details": "what is DEFT?"
+    },
+    {
+      "No.": "91",
+      "Session No": "26",
+      "Name": "CQ2",
+      "Details": "What are advantages and disadvantages of DEFT?"
+    },
+    {
+      "No.": "92",
+      "Session No": "26",
+      "Name": "CQ3",
+      "Details": "What can you do with DEFT? which steps?"
+    },
+    {
+      "No.": "93",
+      "Session No": "27",
+      "Name": "CQ1",
+      "Details": "How to capute registry?"
+    },
+    {
+      "No.": "94",
+      "Session No": "27",
+      "Name": "CQ2",
+      "Details": "why do you need to capture it?"
+    },
+    {
+      "No.": "95",
+      "Session No": "27",
+      "Name": "CQ3",
+      "Details": "which steps do you do to examine the registry? describe in detail."
+    },
+    {
+      "No.": "96",
+      "Session No": "28",
+      "Name": "CQ1",
+      "Details": "what is shadow copy?"
+    },
+    {
+      "No.": "97",
+      "Session No": "28",
+      "Name": "CQ2",
+      "Details": "What are advantages and disadvantages of Shadow copy?"
+    },
+    {
+      "No.": "98",
+      "Session No": "28",
+      "Name": "CQ3",
+      "Details": "which steps do you create shadow copy? And how to restore the previous version? describe in detail."
+    },
+    {
+      "No.": "99",
+      "Session No": "29",
+      "Name": "CQ1",
+      "Details": "In an investigation, a network administrator notifies you that a Mac OS X system appears to be generating significant traffic that doesn’t correlate with normal activity. How would you identify the source of the traffic on the system?"
+    },
+    {
+      "No.": "100",
+      "Session No": "29",
+      "Name": "CQ2",
+      "Details": "The Unix touch command allows one to update a file’s access and modification times. What other sources of time-based data could one use to establish whether manipulation occurred?"
+    },
+    {
+      "No.": "101",
+      "Session No": "29",
+      "Name": "CQ3",
+      "Details": "Name a few persistence mechanisms that an attacker can use to maintain access to a compromised Mac OS X system. What live response commands can you use to automate a review for those mechanisms?"
+    }
+  ],
+  "materials": [
+    {
+      "No.": "1",
+      "Material Description": "Incident Response & Computer Forensics",
+      "Author": "Jason Luttgens, Matthew Pepe, Kevin Mandia",
+      "Publisher": "McGraw-Hill",
+      "Published Date": "2014",
+      "Edition": "3rd",
+      "ISBN": "",
+      "Is Main Material": "True",
+      "Is Hard Copy": "True",
+      "Is Online": "False",
+      "Note": ""
+    },
+    {
+      "No.": "2",
+      "Material Description": "1. https://samsclass.info/152/152_F18.shtml",
+      "Author": "",
+      "Publisher": "",
+      "Published Date": "",
+      "Edition": "",
+      "ISBN": "",
+      "Is Main Material": "False",
+      "Is Hard Copy": "False",
+      "Is Online": "False",
+      "Note": ""
+    },
+    {
+      "No.": "3",
+      "Material Description": "Computer Incident Response and Forensics Team Management: Conducting a Successful Incident Response",
+      "Author": "Leighton R. Johnson III",
+      "Publisher": "Syngress",
+      "Published Date": "2014",
+      "Edition": "",
+      "ISBN": "",
+      "Is Main Material": "False",
+      "Is Hard Copy": "False",
+      "Is Online": "False",
+      "Note": ""
+    },
+    {
+      "No.": "4",
+      "Material Description": "The Practice of Network Security Monitoring: Understanding Incident Detection and Response",
+      "Author": "Richard Bejtlich",
+      "Publisher": "No Starch",
+      "Published Date": "2013",
+      "Edition": "",
+      "ISBN": "",
+      "Is Main Material": "False",
+      "Is Hard Copy": "False",
+      "Is Online": "False",
+      "Note": ""
+    },
+    {
+      "No.": "5",
+      "Material Description": "Computer Security Handbook",
+      "Author": "Seymour Bosworth, M.E. Kabay, Eric Whyne",
+      "Publisher": "John Wiley & Sons",
+      "Published Date": "2014",
+      "Edition": "6th",
+      "ISBN": "",
+      "Is Main Material": "False",
+      "Is Hard Copy": "False",
+      "Is Online": "False",
+      "Note": ""
+    },
+    {
+      "No.": "6",
+      "Material Description": "Digital Forensics and Incident Response: An Intelligent Way to Respond to Attacks Packt",
+      "Author": "Gerard Johansen",
+      "Publisher": "",
+      "Published Date": "2017",
+      "Edition": "",
+      "ISBN": "",
+      "Is Main Material": "False",
+      "Is Hard Copy": "False",
+      "Is Online": "False",
+      "Note": ""
+    },
+    {
+      "No.": "7",
+      "Material Description": "Lecture slides, Lab Manual, supplementary material.",
+      "Author": "",
+      "Publisher": "",
+      "Published Date": "",
+      "Edition": "",
+      "ISBN": "",
+      "Is Main Material": "False",
+      "Is Hard Copy": "False",
+      "Is Online": "False",
+      "Note": ""
+    }
+  ],
+  "source_path": "data/raw/syllabi/5154.html",
+  "id": "syllabus:5154"
+}

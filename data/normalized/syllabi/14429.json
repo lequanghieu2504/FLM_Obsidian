@@ -1,0 +1,311 @@
+{
+  "syllabus_id": 14429,
+  "subject_code": "PIT490",
+  "subject_name": "Inter-IT Graduation Project_Đồ án tốt nghiệp liên chuyên ngành Công nghệ thông tin",
+  "syllabus_name": "IT Interdisciplinary Graduation Project_Đồ án tốt nghiệp liên chuyên ngành Công nghệ thông tin",
+  "credits": 10,
+  "degree_level": "Bachelor",
+  "time_allocation": "Study hour (500h) = 33.75h contact hours (1newslot/week*15week) + 1.5h capstone project defense + 464.75h self-study",
+  "prerequisite": "- Must pass 80% of total credits (PHE_COM* and OJT excluded) - Pass 60% of total credits of selected combo - Succeed on On-the-Job-Training (OJT) (not apply to international students) - For IA student – Must pass the following subjects: + IAP301; + NWC302/303 (or NWC204); + One of four specialized courses in specified field (IAM302, FRS401(c), HOD401, DBS401). - For SE student – Must pass the following subjects: + Project Management – PMG201c or PMG202c + Software Architecture and Design – SWD391 or SWD392 + Software development project – SWP391 - For AI student – Must pass the following subjects: + Project Management – PMG20x + Deep Learning – DPL30x",
+  "general_information": {
+    "Syllabus ID": "14429",
+    "Syllabus Name": "IT Interdisciplinary Graduation Project_Đồ án tốt nghiệp liên chuyên ngành Công nghệ thông tin",
+    "Course Name English": "IT Interdisciplinary Graduation Project",
+    "Subject Code": "PIT490",
+    "Learning-Teaching Method": "Inquiry-based learning, Experiential learning methods, Project-based training, Research-based learning",
+    "NoCredit": "10",
+    "Degree Level": "Bachelor",
+    "Time Allocation": "Study hour (500h) = 33.75h contact hours (1newslot/week*15week) + 1.5h capstone project defense + 464.75h self-study",
+    "Pre-Requisite": "- Must pass 80% of total credits (PHE_COM* and OJT excluded) - Pass 60% of total credits of selected combo - Succeed on On-the-Job-Training (OJT) (not apply to international students) - For IA student – Must pass the following subjects: + IAP301; + NWC302/303 (or NWC204); + One of four specialized courses in specified field (IAM302, FRS401(c), HOD401, DBS401). - For SE student – Must pass the following subjects: + Project Management – PMG201c or PMG202c + Software Architecture and Design – SWD391 or SWD392 + Software development project – SWP391 - For AI student – Must pass the following subjects: + Project Management – PMG20x + Deep Learning – DPL30x",
+    "Description": "The IT Interdisciplinary Graduation Project is an integrative capstone experience that consolidates the knowledge, skills, and competencies acquired throughout the undergraduate into a practical, research-oriented project. This course challenges students from the disciplines of IT to collaboratively apply their analytical, problem-solving, and technical expertise to address real-world problems. By working across disciplinary boundaries, student teams are expected to design, implement, and evaluate solutions that reflect the convergence of modern IT fields. This course is structured for teams of 3–6 members, drawn from any combination of the IT specializations (IT, IA, SE, AI,...), thereby fostering interdisciplinary collaboration and teamwork. Individual enrollment is permitted under specific conditions approved by the supervising lecturer and head of department/faculty. All projects must incorporate a substantive research component, regardless of specialization. This includes: - Problem Definition: A clear articulation of the research problem and its significance within the IT domain - Literature Review: A critical synthesis of relevant prior work, identifying gaps that the project aims to address - Proposed Solution or Model: A well-justified technical approach (e.g., an AI/ML model, a security mechanism, a software system, or a hybrid combination thereof) - Experimental Evaluation: Rigorous testing and empirical analysis to validate the proposed solution, with quantitative and/or qualitative results - Discussion, Conclusion, and Future Work: Interpretation of findings and directions for further research",
+    "StudentTasks": "- Choose appropriate project - Form group (if need) - Divide and schedule work (among members) - Attend all scheduled meeting with supervisor - Produce document and product according to project requirement and member work share - Defend work infront of examination board, showing both project results and individual responsibility - In case of cheating found, the whole team is not allow to defend - Students are required to attend at least 80% of scheduled meetings with their supervisor(s) to be eligible for the thesis or capstone defense",
+    "Tools": "Appropriate tools for design and implementation",
+    "Scoring Scale": "10",
+    "DecisionNo MM/dd/yyyy": "968/QĐ-ĐHFPT dated 08/07/2026",
+    "IsApproved": "True",
+    "Note": "",
+    "Is Scored": "True",
+    "MinAvgMarkToPass": "5",
+    "IsActive": "True",
+    "ApprovedDate": "8/7/2026"
+  },
+  "active": true,
+  "approved": true,
+  "decision": "968/QĐ-ĐHFPT dated 08/07/2026",
+  "description": "The IT Interdisciplinary Graduation Project is an integrative capstone experience that consolidates the knowledge, skills, and competencies acquired throughout the undergraduate into a practical, research-oriented project. This course challenges students from the disciplines of IT to collaboratively apply their analytical, problem-solving, and technical expertise to address real-world problems. By working across disciplinary boundaries, student teams are expected to design, implement, and evaluate solutions that reflect the convergence of modern IT fields. This course is structured for teams of 3–6 members, drawn from any combination of the IT specializations (IT, IA, SE, AI,...), thereby fostering interdisciplinary collaboration and teamwork. Individual enrollment is permitted under specific conditions approved by the supervising lecturer and head of department/faculty. All projects must incorporate a substantive research component, regardless of specialization. This includes: - Problem Definition: A clear articulation of the research problem and its significance within the IT domain - Literature Review: A critical synthesis of relevant prior work, identifying gaps that the project aims to address - Proposed Solution or Model: A well-justified technical approach (e.g., an AI/ML model, a security mechanism, a software system, or a hybrid combination thereof) - Experimental Evaluation: Rigorous testing and empirical analysis to validate the proposed solution, with quantitative and/or qualitative results - Discussion, Conclusion, and Future Work: Interpretation of findings and directions for further research",
+  "learning_outcomes": [
+    {
+      "No.": "1",
+      "CLO Name": "CLO1",
+      "CLO Details": "Identify, define, and scope a meaningful research or engineering problem within the IT domain"
+    },
+    {
+      "No.": "2",
+      "CLO Name": "CLO2",
+      "CLO Details": "Conduct a systematic literature review and critically evaluate existing knowledge and approaches"
+    },
+    {
+      "No.": "3",
+      "CLO Name": "CLO3",
+      "CLO Details": "Design and implement an integrated IT solution that draws on principles from software engineering, artificial intelligence, and/or information security as appropriate to the project context"
+    },
+    {
+      "No.": "4",
+      "CLO Name": "CLO4",
+      "CLO Details": "Apply the full software development lifecycle, from requirements and design through implementation, testing, and deployment, with appropriate quality assurance practices"
+    },
+    {
+      "No.": "5",
+      "CLO Name": "CLO5",
+      "CLO Details": "Evaluate proposed solutions through rigorous experimental methods and interpret results objectively"
+    },
+    {
+      "No.": "6",
+      "CLO Name": "CLO6",
+      "CLO Details": "Communicate research findings and technical decisions effectively through formal written documentation and an oral presentation before an examination board"
+    }
+  ],
+  "assessments": [
+    {
+      "No.": "1",
+      "Category": "On-going Assessment",
+      "Type": "on-going",
+      "Part": "6",
+      "Weight": "50.0%",
+      "Completion Criteria": "5",
+      "Duration": "During the CP Progress",
+      "CLO": "All LOs",
+      "Question Type": "Report",
+      "No Question": "Topic of CP",
+      "Knowledge and Skill": "",
+      "Grading Guide": "On-going Assessment (OGA): - Report No.1: Introduction (10%) - Report No.2: Research Plan (5%) - Report No.3: Literature Review (20%) - Report No.4: Methodology (30%) - Report No.5: Experimental and Result Discussion (30%) - Report No.6: Conclusion and Future Work (5%)",
+      "Note": "- Require grade >=2 for each part. - Based on the schedule in the syllabus, each group report will be evaluated by the supervisor. This evaluation is called progress assessment. - Individual mark for each progress assessment report is decided by the supervisor and is assessed on the basis of the actual contribution by that individual to the group report. The individual mark can be lower or higher than the group mark and is in the range from 0% to 120% of the group mark where the average score of group members cannot be more than group mark."
+    },
+    {
+      "No.": "2",
+      "Category": "Final Thesis Presentation:",
+      "Type": "Final exam",
+      "Part": "1",
+      "Weight": "50.0%",
+      "Completion Criteria": "4",
+      "Duration": "~ 30 minutes for presentation, ~ 60 minutes for demo and Q&A. Total is 90 minutes.",
+      "CLO": "All LOs",
+      "Question Type": "",
+      "No Question": "CP Thesis Presentation",
+      "Knowledge and Skill": "",
+      "Grading Guide": "Thesis Defense Assessment (TDA): - Project Introduction: 5% - Research Plan: 5% - Literature Review: 15% - Methodology: 25% - Experimental and Result Discussion: 25% - Conclusion, and Future Work: 5% - Presentation Skills: 5% - Q&A: 15% Presentation mark is given by each member of defence committee for each student on final project presentation. Personal mark is the average of all marks given by members of defence committee.",
+      "Note": "One or more specific members of the student team is not allowed to join the thesis defense (and therefore being failed the subject) if he/she has OGA less than 5 or any cheating found from him/her. Before thesis defense, the student team must wait until the second round of thesis defense if the whole team has the OGA less than 5/10 OR they are in one of below cases: Case 1 – Incomplete Research Components The team fails to complete essential research components, including problem definition, literature review, methodology, or experimental evaluation. Case 2 – Insufficient Literature Review The literature review lacks sufficient academic sources (e.g., fewer than the required number of peer-reviewed papers) or fails to provide critical analysis and comparison. Case 3 – Lack of Research Contribution The project does not demonstrate a clear research contribution (e.g., no proposed model, algorithm, framework, or meaningful improvement over existing solutions). Case 4 – Missing or Invalid Experimental Results The team fails to conduct experiments, or the results are invalid due to improper methodology, lack of dataset, or absence of evaluation metrics. Case 5 – Poor Implementation Quality The developed system is incomplete, non-functional, or does not reflect the proposed research solution. Case 6 – Weak Analysis and Discussion The team fails to analyze results critically, lacks justification of findings, or does not discuss limitations and implications. Case 7 – Failure to Submit Required Documents Case 8 – Lack of Traceability Between Research and System There is no clear linkage between the proposed research contribution and the implemented system. Case 9 – Academic Integrity Violation There is considered to occur when similarity exceeds 30%, including any instances of plagiarism, falsification of data, or the use of external sources without appropriate citation. Case 10 – Inadequate Presentation Readiness The team is unable to clearly present and defend their work, including explaining the research problem, methodology, and results. The student(s) has to re-do the capstone project if the above cases occur with the assessments for the second thesis defense OR there is one OGA with grade less than 2/10. After thesis defense, one or more team members are evaluated as failed the capstone project if they are in one of below cases (no matter when the guiding teacher doesn't evaluate that): (1) Student can't demonstrate any function or use case (2) Students can't prove the fact that they prepare any of the project reports or the output software by themselves"
+    }
+  ],
+  "schedule": [
+    {
+      "Session": "1",
+      "Topic": "Introduction to PIT490 Capstone Projects Project Overview",
+      "Learning-Teaching Type": "Offline",
+      "LO": "CLO1",
+      "ITU": "IT",
+      "Student Materials": "Syllabus Guide of Capstone Project",
+      "S-Download": "PIT490",
+      "Student's Tasks": "Understand the course outline Prepare Report #1",
+      "URLs": ""
+    },
+    {
+      "Session": "2",
+      "Topic": "- Introduction to IA Capstone Projects Project Overview (Cont.) - Literature Review",
+      "Learning-Teaching Type": "Offline",
+      "LO": "CLO2",
+      "ITU": "TU",
+      "Student Materials": "Guide of Capstone Project; Students and Groups Progress Notes",
+      "S-Download": "",
+      "Student's Tasks": "Prepare Report #1 & Prepare Report #2",
+      "URLs": ""
+    },
+    {
+      "Session": "3",
+      "Topic": "Literature Review (cont.)",
+      "Learning-Teaching Type": "Offline",
+      "LO": "CLO2",
+      "ITU": "TU",
+      "Student Materials": "Guide of Capstone Project; Students and Groups Progress Notes",
+      "S-Download": "",
+      "Student's Tasks": "Submit Report #1 Submit Report #2",
+      "URLs": ""
+    },
+    {
+      "Session": "4",
+      "Topic": "Methodology - research design, data collection methods, and analysis techniques",
+      "Learning-Teaching Type": "Offline",
+      "LO": "CLO3, CLO4",
+      "ITU": "TU",
+      "Student Materials": "Guide of Capstone Project; Students and Groups Progress Notes",
+      "S-Download": "",
+      "Student's Tasks": "Checkpoint 1: Present Project Intro. & Literature Review Prepare Report #3",
+      "URLs": ""
+    },
+    {
+      "Session": "5",
+      "Topic": "Methodology (cont.) - research design, data collection methods, and analysis techniques - Training and Evaluation Experimental and Results",
+      "Learning-Teaching Type": "Offline",
+      "LO": "CLO3, CLO4",
+      "ITU": "TU",
+      "Student Materials": "Guide of Capstone Project; Students and Groups Progress Notes",
+      "S-Download": "",
+      "Student's Tasks": "Prepare Report #3",
+      "URLs": ""
+    },
+    {
+      "Session": "6",
+      "Topic": "Methodology (cont.) - research design, data collection methods, and analysis techniques - Training and Evaluation Experimental and Results",
+      "Learning-Teaching Type": "Offline",
+      "LO": "CLO3, CLO4",
+      "ITU": "TU",
+      "Student Materials": "Guide of Capstone Project; Students and Groups Progress Notes",
+      "S-Download": "",
+      "Student's Tasks": "Prepare Report #3",
+      "URLs": ""
+    },
+    {
+      "Session": "7",
+      "Topic": "Methodology (cont.) - Implementation Plan Experimental and Results (cont.)",
+      "Learning-Teaching Type": "Offline",
+      "LO": "CLO3, CLO4",
+      "ITU": "TU",
+      "Student Materials": "Guide of Capstone Project; Students and Groups Progress Notes",
+      "S-Download": "",
+      "Student's Tasks": "Submit Report #3",
+      "URLs": ""
+    },
+    {
+      "Session": "8",
+      "Topic": "Experimental and Results (cont.)",
+      "Learning-Teaching Type": "Offline",
+      "LO": "CLO5",
+      "ITU": "TU",
+      "Student Materials": "Guide of Capstone Project; Students and Groups Progress Notes",
+      "S-Download": "",
+      "Student's Tasks": "Checkpoint 2: Present Methodology Prepare Report #4",
+      "URLs": ""
+    },
+    {
+      "Session": "9",
+      "Topic": "Experimental and Results (cont.)",
+      "Learning-Teaching Type": "Offline",
+      "LO": "CLO5",
+      "ITU": "TU",
+      "Student Materials": "Guide of Capstone Project; Students and Groups Progress Notes",
+      "S-Download": "",
+      "Student's Tasks": "Prepare Report #4",
+      "URLs": ""
+    },
+    {
+      "Session": "10",
+      "Topic": "Experimental and Results (cont.)",
+      "Learning-Teaching Type": "Offline",
+      "LO": "CLO5",
+      "ITU": "TU",
+      "Student Materials": "Guide of Capstone Project; Students and Groups Progress Notes",
+      "S-Download": "",
+      "Student's Tasks": "Submit Report #4",
+      "URLs": ""
+    },
+    {
+      "Session": "11",
+      "Topic": "Development Discussion",
+      "Learning-Teaching Type": "Offline",
+      "LO": "CLO6",
+      "ITU": "TU",
+      "Student Materials": "Guide of Capstone Project; Students and Groups Progress Notes",
+      "S-Download": "",
+      "Student's Tasks": "Prepare Report #5 & Prepare Report #6",
+      "URLs": ""
+    },
+    {
+      "Session": "12",
+      "Topic": "Development (cont.) Discussion (cont.) Conclusion and Future Work",
+      "Learning-Teaching Type": "Offline",
+      "LO": "CLO6",
+      "ITU": "TU",
+      "Student Materials": "Guide of Capstone Project; Students and Groups Progress Notes",
+      "S-Download": "",
+      "Student's Tasks": "Checkpoint 3: Present Experimental and Results Prepare Report #5 & Prepare Report #6",
+      "URLs": ""
+    },
+    {
+      "Session": "13",
+      "Topic": "Writing the Final Report",
+      "Learning-Teaching Type": "Offline",
+      "LO": "CLO6",
+      "ITU": "TU",
+      "Student Materials": "Guide of Capstone Project; Students and Groups Progress Notes",
+      "S-Download": "",
+      "Student's Tasks": "Present System Design Submit Report #5 & Submit Report #6 Prepare Presentation",
+      "URLs": ""
+    },
+    {
+      "Session": "14",
+      "Topic": "Writing the Final Report (cont.)",
+      "Learning-Teaching Type": "Offline",
+      "LO": "CLO6",
+      "ITU": "TU",
+      "Student Materials": "Guide of Capstone Project; Students and Groups Progress Notes",
+      "S-Download": "",
+      "Student's Tasks": "Review Report",
+      "URLs": ""
+    },
+    {
+      "Session": "15",
+      "Topic": "Project Presentation Skills",
+      "Learning-Teaching Type": "Offline",
+      "LO": "CLO6",
+      "ITU": "TU",
+      "Student Materials": "Guide of Capstone Project; Students and Groups Progress Notes",
+      "S-Download": "",
+      "Student's Tasks": "Prepare Final Presentation",
+      "URLs": ""
+    }
+  ],
+  "constructive_questions": [],
+  "materials": [
+    {
+      "No.": "1",
+      "Material Description": "Graduated Regulation (Quy che tot nghiep)",
+      "Author": "",
+      "Publisher": "",
+      "Published Date": "",
+      "Edition": "",
+      "ISBN": "",
+      "Is Main Material": "True",
+      "Is Hard Copy": "False",
+      "Is Online": "False",
+      "Note": "Bản mềm, tài liệu xây dựng bởi FU"
+    },
+    {
+      "No.": "2",
+      "Material Description": "Templates",
+      "Author": "",
+      "Publisher": "",
+      "Published Date": "",
+      "Edition": "",
+      "ISBN": "",
+      "Is Main Material": "True",
+      "Is Hard Copy": "False",
+      "Is Online": "False",
+      "Note": "Bản mềm, tài liệu xây dựng bởi FU"
+    },
+    {
+      "No.": "3",
+      "Material Description": "The Student’s Guide of Capstone Project",
+      "Author": "",
+      "Publisher": "",
+      "Published Date": "",
+      "Edition": "",
+      "ISBN": "",
+      "Is Main Material": "True",
+      "Is Hard Copy": "False",
+      "Is Online": "False",
+      "Note": "Bản mềm, tài liệu xây dựng bởi FU"
+    }
+  ],
+  "source_path": "data/raw/syllabi/14429.html",
+  "id": "syllabus:14429"
+}

@@ -1,0 +1,2884 @@
+{
+  "syllabus_id": 13471,
+  "subject_code": "ELT402",
+  "subject_name": "Biên dịch tiếng Anh 2\nEnglish Translation 2",
+  "syllabus_name": "Biên dịch tiếng Anh 2",
+  "credits": 3,
+  "degree_level": "Bachelor",
+  "time_allocation": "Study hour (150h) = 45 contact hours (60 sessions) + 105 hours self-study (including projects preparation)",
+  "prerequisite": "Passed ELT301/ELT302",
+  "general_information": {
+    "Syllabus ID": "13471",
+    "Syllabus Name": "Biên dịch tiếng Anh 2",
+    "Course Name English": "English Translation 2",
+    "Subject Code": "ELT402",
+    "Learning-Teaching Method": "Lecture, Project Based Learning, Active learning, Cooperative Learning, Discovery Learning, Experiential learning methods, Presentation, Practice, Field trip",
+    "NoCredit": "3",
+    "Degree Level": "Bachelor",
+    "Time Allocation": "Study hour (150h) = 45 contact hours (60 sessions) + 105 hours self-study (including projects preparation)",
+    "Pre-Requisite": "Passed ELT301/ELT302",
+    "Description": "This course, adopting project-based learning (PBL), equips students with the skills to apply appropriate translation strategies to various contemporary text types, with a strong emphasis on the integration of generative AI/CAT tools throughout the translation process. Students will engage in the interlingual translation of a range of texts—including administrative (e.g., degrees, certificates, contracts), business (e.g., transaction agreements, financial statements), technical, and socio-cultural materials—between Vietnamese and English. Through real-world translation tasks and projects that require them to combine traditional translation techniques with AI-powered tools, students will: - Develop a clear understanding of different text types, formats, and domains; - Accurately identify and use specialized terminology in administrative, technical, economic, scientific, and socio-cultural contexts; - Translate various documents and texts from Vietnamese into English and vice versa, using both traditional and AI-supported approaches; - Critically evaluate and effectively employ AI/CAT tools (e.g., ChatGPT, Google Translate, Matecat, Smartcat, MemoQ) to improve translation quality, consistency, and efficiency. This course encourages students to adopt a reflective and ethical approach to AI integration, preparing them for the evolving demands of the translation profession.",
+    "StudentTasks": "- Attend at least 80% of contact hours in order to be accepted to the final examination - Actively participate in class activities - Fulfill tasks given by instructor after class - Use their own laptops in class only for learning purposes - Read the theory in advance - Use Gen-AI tools/ CAT tools in an appropriate and ethical manner",
+    "Tools": "Google Translate, ChatGPT, DeepL, Smartcat, Matecat, MemoQ, Trados, etc.",
+    "Scoring Scale": "10",
+    "DecisionNo MM/dd/yyyy": "932/QĐ-ĐHFPT dated 08/22/2025",
+    "IsApproved": "True",
+    "Note": "",
+    "Is Scored": "True",
+    "MinAvgMarkToPass": "5",
+    "IsActive": "True",
+    "ApprovedDate": "8/22/2025"
+  },
+  "active": true,
+  "approved": true,
+  "decision": "932/QĐ-ĐHFPT dated 08/22/2025",
+  "description": "This course, adopting project-based learning (PBL), equips students with the skills to apply appropriate translation strategies to various contemporary text types, with a strong emphasis on the integration of generative AI/CAT tools throughout the translation process. Students will engage in the interlingual translation of a range of texts—including administrative (e.g., degrees, certificates, contracts), business (e.g., transaction agreements, financial statements), technical, and socio-cultural materials—between Vietnamese and English. Through real-world translation tasks and projects that require them to combine traditional translation techniques with AI-powered tools, students will: - Develop a clear understanding of different text types, formats, and domains; - Accurately identify and use specialized terminology in administrative, technical, economic, scientific, and socio-cultural contexts; - Translate various documents and texts from Vietnamese into English and vice versa, using both traditional and AI-supported approaches; - Critically evaluate and effectively employ AI/CAT tools (e.g., ChatGPT, Google Translate, Matecat, Smartcat, MemoQ) to improve translation quality, consistency, and efficiency. This course encourages students to adopt a reflective and ethical approach to AI integration, preparing them for the evolving demands of the translation profession.",
+  "learning_outcomes": [
+    {
+      "No.": "1",
+      "CLO Name": "CLO1",
+      "CLO Details": "enhance student’s linguistic competence in translating administrative documents, and translate those documents with precision, accuracy and consistency."
+    },
+    {
+      "No.": "2",
+      "CLO Name": "CLO2",
+      "CLO Details": "enhance student’s linguistic competence in translating buisness forms and financial documents , and and translate those documents with precision, accuracy and consistency."
+    },
+    {
+      "No.": "3",
+      "CLO Name": "CLO3",
+      "CLO Details": "enhance student’s linguistic competence in translating technical documentation, and translate those documents with precision, accuracy and consistency."
+    },
+    {
+      "No.": "4",
+      "CLO Name": "CLO4",
+      "CLO Details": "analyse and translate a complex using appropriate analytical methods and the ability to synthesise information in socio - cultural news and documents."
+    },
+    {
+      "No.": "5",
+      "CLO Name": "CLO5",
+      "CLO Details": "Exhibit professional working attitudes, effective communication, and teamwork skills through participation in project-based translation tasks that simulate authentic industry practices."
+    },
+    {
+      "No.": "6",
+      "CLO Name": "CLO6",
+      "CLO Details": "ethically and critically use Gen-AI tools to enhance translation quality and facilitate translation processes"
+    }
+  ],
+  "assessments": [
+    {
+      "No.": "1",
+      "Category": "Project 1 - Human-generated translation",
+      "Type": "on-going",
+      "Part": "1",
+      "Weight": "20.0%",
+      "Completion Criteria": ">0",
+      "Duration": "flexible",
+      "CLO": "LO1-LO5",
+      "Question Type": "Students translate 01 English-Vietnamese text and 01 Vietnamese-English text of administrative, business, financial, technical, socio-cultural issues. The text length is 250 words",
+      "No Question": "2",
+      "Knowledge and Skill": "Test the acquainted knowledge and translation skills which student obtained during the courseContent based on topics of studied units",
+      "Grading Guide": "Classwork, individually",
+      "Note": "rubric"
+    },
+    {
+      "No.": "2",
+      "Category": "Project 2 - AI-generated translation editing",
+      "Type": "on-going",
+      "Part": "1",
+      "Weight": "20.0%",
+      "Completion Criteria": ">0",
+      "Duration": "flexible",
+      "CLO": "All LOs",
+      "Question Type": "Groups are assigned with 02 texts (SL: Vietnamese & English) translated by AI/ CAT tools. The topic revolves administration, business, finance, technology and engineering, and socio-culture.They then fully post-edit the AI/CAT-translated text for a target audience, paying attention to the register, style, terminology and context.Finally, they make a declaration of AI/ CAT use (how, where, and why)",
+      "No Question": "2",
+      "Knowledge and Skill": "Test the acquainted knowledge and translation skills, using AI/ CAT tools critically, contextually and ethically(Students are required to evaluate and edit AI-generated translation)",
+      "Grading Guide": "Homework, in groups of 3-4 students",
+      "Note": "rubric"
+    },
+    {
+      "No.": "3",
+      "Category": "Project 3 - Integrated project",
+      "Type": "on-going",
+      "Part": "1",
+      "Weight": "20.0%",
+      "Completion Criteria": ">0",
+      "Duration": "flexible",
+      "CLO": "All LOs",
+      "Question Type": "(Students are assigned a translation project, either an authentic project or a simulation one, using AI/ CAT toolsGroups of 3-4 with different roles in a project: project manager, AI-human collaborative translators/ editors, chief editor)",
+      "No Question": "N/A",
+      "Knowledge and Skill": "Human-in-the-loop editing, project management, cultural literacy, AI ethics",
+      "Grading Guide": "Homework, in groups of 3-4 students",
+      "Note": "rubric"
+    },
+    {
+      "No.": "4",
+      "Category": "Translation",
+      "Type": "Final exam",
+      "Part": "1",
+      "Weight": "40.0%",
+      "Completion Criteria": "4",
+      "Duration": "90'",
+      "CLO": "All LOs",
+      "Question Type": "Translate texts given on the topics covered from Vietnamese to English and vice versa",
+      "No Question": "1 E-V text + 1 V-E text: 1. translating part 1 of each text; 2. full post-editing AI's translation for part 2 of each textLength of each text: 250 words + difficulty level.",
+      "Knowledge and Skill": "Test the acquainted knowledge and translation skills students obtain in the delivered in the course",
+      "Grading Guide": "",
+      "Note": ""
+    }
+  ],
+  "schedule": [
+    {
+      "Session": "1",
+      "Topic": "Session 1: Course Introduction: Specialization in Translation, Literary translation as a form of specialized translation",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO1",
+      "ITU": "ITU",
+      "Student Materials": "Introduction to Translation and Interpreting Studies: pages 131-133, Reference books, PPT presentation, other teaching resources provided",
+      "S-Download": "",
+      "Student's Tasks": "Reference books, PPT presentation, other teaching resources provided",
+      "URLs": ""
+    },
+    {
+      "Session": "2",
+      "Topic": "Session 2: ADMINISTRATIVE FORMS & DOCUMENTS: Familiarizing with administrative forms and documents, Translation of administrative forms and documents: ID card, degrees, certificates - Vietnamese into English",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO1",
+      "ITU": "I, T, U",
+      "Student Materials": "Reference books, PPT presentation, other teaching resources provided",
+      "S-Download": "",
+      "Student's Tasks": "Reference books, PPT presentation, other teaching resources provided",
+      "URLs": ""
+    },
+    {
+      "Session": "3",
+      "Topic": "Session 3: Translation of administrative forms: ID card, degrees, certificates - Vietnamese into English (cont.)",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO1",
+      "ITU": "TU",
+      "Student Materials": "Reference books, PPT presentation, other teaching resources provided",
+      "S-Download": "",
+      "Student's Tasks": "Reference books, PPT presentation, other teaching resources provided",
+      "URLs": ""
+    },
+    {
+      "Session": "4",
+      "Topic": "Session 4: Translation of administrative forms: ID card, degrees, certificates - English into Vietnamese",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO1",
+      "ITU": "TU",
+      "Student Materials": "Reference books, PPT presentation, other teaching resources provided",
+      "S-Download": "",
+      "Student's Tasks": "Reference books, PPT presentation, other teaching resources provided",
+      "URLs": ""
+    },
+    {
+      "Session": "5",
+      "Topic": "Session 5: Translation of administrative documents: transcripts, decisions - Vietnamese into English",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO1",
+      "ITU": "TU",
+      "Student Materials": "Reference books, PPT presentation, other teaching resources provided",
+      "S-Download": "",
+      "Student's Tasks": "Reference books, PPT presentation, other teaching resources provided",
+      "URLs": ""
+    },
+    {
+      "Session": "6",
+      "Topic": "Session 6: Translation of administrative documents: transcripts, decisions - English into Vietnamese",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO1",
+      "ITU": "TU",
+      "Student Materials": "Reference books, PPT presentation, other teaching resources provided",
+      "S-Download": "",
+      "Student's Tasks": "Reference books, PPT presentation, other teaching resources provided",
+      "URLs": ""
+    },
+    {
+      "Session": "7",
+      "Topic": "Session 7: Translation of administrative documents: labor contracts - Vietnamese into English",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO1",
+      "ITU": "TU",
+      "Student Materials": "Reference books, PPT presentation, other teaching resources provided",
+      "S-Download": "",
+      "Student's Tasks": "Reference books, PPT presentation, other teaching resources provided",
+      "URLs": ""
+    },
+    {
+      "Session": "8",
+      "Topic": "Session 8: Translation of administrative documents: labor contracts - English into Vietnamese",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO1",
+      "ITU": "TU",
+      "Student Materials": "Reference books, PPT presentation, other teaching resources provided",
+      "S-Download": "",
+      "Student's Tasks": "Reference books, PPT presentation, other teaching resources provided",
+      "URLs": ""
+    },
+    {
+      "Session": "9",
+      "Topic": "Session 9: LEGAL TRANSLATION, TRANSLATION OF BUSINESS FORMS & DOCUMENTS: Familiarizing with different types of business forms and documents",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO2",
+      "ITU": "ITU",
+      "Student Materials": "Reference books, PPT presentation, other teaching resources provided",
+      "S-Download": "",
+      "Student's Tasks": "Coursebook: page 139, Reference books, PPT presentation, other teaching resources provided",
+      "URLs": ""
+    },
+    {
+      "Session": "10",
+      "Topic": "Session 10: Translation of business transaction agreement - Vietnamese into English",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO2",
+      "ITU": "ITU",
+      "Student Materials": "Reference books, PPT presentation, other teaching resources provided",
+      "S-Download": "",
+      "Student's Tasks": "Reference books, PPT presentation, other teaching resources provided",
+      "URLs": ""
+    },
+    {
+      "Session": "11",
+      "Topic": "Session 11: Translation of business transaction agreement - Vietnamese into English (cont.)",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO2",
+      "ITU": "TU",
+      "Student Materials": "Reference books, PPT presentation, other teaching resources provided",
+      "S-Download": "",
+      "Student's Tasks": "Reference books, PPT presentation, other teaching resources provided",
+      "URLs": ""
+    },
+    {
+      "Session": "12",
+      "Topic": "Session 12: Translation of business transaction agreement - English into Vietnamese AI-ASSISTED LEARNING OUTCOME: AI vs. CAT tools PURPOSE: Differentiate different tools (Machine translation and Computer-assisted translation) and in translation practices",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO2",
+      "ITU": "TU",
+      "Student Materials": "Reference books, PPT presentation, other teaching resources provided",
+      "S-Download": "",
+      "Student's Tasks": "Reference books, PPT presentation, other teaching resources provided",
+      "URLs": ""
+    },
+    {
+      "Session": "13",
+      "Topic": "Session 13: Translation of financial statement (Statement of Financial Position) - Vietnamese into English",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO2",
+      "ITU": "TU",
+      "Student Materials": "Reference books, PPT presentation, other teaching resources provided",
+      "S-Download": "",
+      "Student's Tasks": "Reference books, PPT presentation, other teaching resources provided",
+      "URLs": ""
+    },
+    {
+      "Session": "14",
+      "Topic": "Session 14: Translation of financial statement (Statement of Financial Position) - English into Vietnamese",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO2",
+      "ITU": "TU",
+      "Student Materials": "Reference books, PPT presentation, other teaching resources provided",
+      "S-Download": "",
+      "Student's Tasks": "Reference books, PPT presentation, other teaching resources provided",
+      "URLs": ""
+    },
+    {
+      "Session": "15",
+      "Topic": "Session 15: Translation of financial statements (Statement of Earnings) - Vietnamese into English",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO2",
+      "ITU": "TU",
+      "Student Materials": "Reference books, PPT presentation, other teaching resources provided",
+      "S-Download": "",
+      "Student's Tasks": "Reference books, PPT presentation, other teaching resources provided",
+      "URLs": ""
+    },
+    {
+      "Session": "16",
+      "Topic": "Session 16: Translation of financial statements (Statement of Earnings) - English into Vietnamese",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO2",
+      "ITU": "TU",
+      "Student Materials": "Reference books, PPT presentation, other teaching resources provided",
+      "S-Download": "",
+      "Student's Tasks": "Reference books, PPT presentation, other teaching resources provided",
+      "URLs": ""
+    },
+    {
+      "Session": "17",
+      "Topic": "Session 17: Translation of financial statements (Statement of Change in Equity) - Vietnamese into English",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO2",
+      "ITU": "TU",
+      "Student Materials": "Reference books, PPT presentation, other teaching resources provided",
+      "S-Download": "",
+      "Student's Tasks": "Reference books, PPT presentation, other teaching resources provided",
+      "URLs": ""
+    },
+    {
+      "Session": "18",
+      "Topic": "Session 18: Translation of financial statements (Statement of Change in Equity) - English into Vietnamese",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO2",
+      "ITU": "TU",
+      "Student Materials": "Reference books, PPT presentation, other teaching resources provided",
+      "S-Download": "",
+      "Student's Tasks": "Reference books, PPT presentation, other teaching resources provided",
+      "URLs": ""
+    },
+    {
+      "Session": "19",
+      "Topic": "Session 19: Translation of financial statements (Statement of cash-flow) - Vietnamese into English",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO2, LO5",
+      "ITU": "TU",
+      "Student Materials": "Reference books, PPT presentation, other teaching resources provided",
+      "S-Download": "",
+      "Student's Tasks": "Reference books, PPT presentation, other teaching resources provided",
+      "URLs": ""
+    },
+    {
+      "Session": "20",
+      "Topic": "Session 20: Translation of financial statements (Statement of cash-flow) - English into Vietnamese AI-ASSISTED LEARNING OUTCOME: Professional Post-editing Practice PURPOSE: Edit AI translations of different domains into polished, human-quality versions",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO2, LO5",
+      "ITU": "TU",
+      "Student Materials": "Reference books, PPT presentation, other teaching resources provided",
+      "S-Download": "",
+      "Student's Tasks": "Reference books, PPT presentation, other teaching resources provided",
+      "URLs": ""
+    },
+    {
+      "Session": "21",
+      "Topic": "Session 21: COMPUTER-AIDED TRANSLATION, TRANSLATION OF TECHNICAL NEWS & DOCUMENTS: Familiarizing with Technical English: Translation of news in information technology",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO3",
+      "ITU": "ITU",
+      "Student Materials": "Introduction to Translation and Interpreting Studies: pages 154 - 161, Reference books, PPT presentation, other teaching resources provided",
+      "S-Download": "",
+      "Student's Tasks": "Reference books, PPT presentation, other teaching resources provided",
+      "URLs": ""
+    },
+    {
+      "Session": "22",
+      "Topic": "Session 22: Translation of news in information technology - Vietnamese into English",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO3",
+      "ITU": "ITU",
+      "Student Materials": "Reference books, PPT presentation, other teaching resources provided",
+      "S-Download": "",
+      "Student's Tasks": "Reference books, PPT presentation, other teaching resources provided",
+      "URLs": ""
+    },
+    {
+      "Session": "23",
+      "Topic": "Session 23: Translation of news in information technology - Vietnamese into English (cont.)",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO3",
+      "ITU": "TU",
+      "Student Materials": "Reference books, PPT presentation, other teaching resources provided",
+      "S-Download": "",
+      "Student's Tasks": "Reference books, PPT presentation, other teaching resources provided",
+      "URLs": ""
+    },
+    {
+      "Session": "24",
+      "Topic": "Session 24: Translation of news in information technology - English into Vietnamese",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO3",
+      "ITU": "TU",
+      "Student Materials": "Reference books, PPT presentation, other teaching resources provided",
+      "S-Download": "",
+      "Student's Tasks": "Reference books, PPT presentation, other teaching resources provided",
+      "URLs": ""
+    },
+    {
+      "Session": "25",
+      "Topic": "Session 25: Translation of news in science - Vietnamese into English",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO3",
+      "ITU": "TU",
+      "Student Materials": "Reference books, PPT presentation, other teaching resources provided",
+      "S-Download": "",
+      "Student's Tasks": "Reference books, PPT presentation, other teaching resources provided",
+      "URLs": ""
+    },
+    {
+      "Session": "26",
+      "Topic": "Session 26: Translation of news in science - English into Vietnamese AI-ASSISTED LEARNING OUTCOME: Terminology Management PURPOSE: - build and maintain term bases/glossaries using AI or CAT tools - evaluate consistency and terminology accuracy",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO3",
+      "ITU": "TU",
+      "Student Materials": "Reference books, PPT presentation, other teaching resources provided",
+      "S-Download": "",
+      "Student's Tasks": "Reference books, PPT presentation, other teaching resources provided",
+      "URLs": ""
+    },
+    {
+      "Session": "27",
+      "Topic": "Session 27: Translation of news in food industry - Vietnamese into English",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO3",
+      "ITU": "TU",
+      "Student Materials": "Reference books, PPT presentation, other teaching resources provided",
+      "S-Download": "",
+      "Student's Tasks": "Reference books, PPT presentation, other teaching resources provided",
+      "URLs": ""
+    },
+    {
+      "Session": "28",
+      "Topic": "Session 28: Translation of news in food industry - English into Vietnamese",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO3",
+      "ITU": "TU",
+      "Student Materials": "Reference books, PPT presentation, other teaching resources provided",
+      "S-Download": "",
+      "Student's Tasks": "Reference books, PPT presentation, other teaching resources provided",
+      "URLs": ""
+    },
+    {
+      "Session": "29",
+      "Topic": "Session 29: Translation of news in entertainment industry - Vietnamese into English",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO3",
+      "ITU": "TU",
+      "Student Materials": "Reference books, PPT presentation, other teaching resources provided",
+      "S-Download": "",
+      "Student's Tasks": "Reference books, PPT presentation, other teaching resources provided",
+      "URLs": ""
+    },
+    {
+      "Session": "30",
+      "Topic": "Session 30: Translation of news in entertainment industry - English into Vietnamese",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO3",
+      "ITU": "TU",
+      "Student Materials": "Reference books, PPT presentation, other teaching resources provided",
+      "S-Download": "",
+      "Student's Tasks": "Reference books, PPT presentation, other teaching resources provided",
+      "URLs": ""
+    },
+    {
+      "Session": "31",
+      "Topic": "Session 31: Medical and Bio-sanitary translation, Translation of news in health care - Vietnamese into English",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO3",
+      "ITU": "TU",
+      "Student Materials": "Introduction to Translation and Interpreting Studies: pages 143 - 144, Reference books, PPT presentation, other teaching resources provided",
+      "S-Download": "",
+      "Student's Tasks": "Reference books, PPT presentation, other teaching resources provided",
+      "URLs": ""
+    },
+    {
+      "Session": "32",
+      "Topic": "Session 32: Translation of news in health care - English into Vietnamese AI-ASSISTED LEARNING OUTCOME: Style Guide & Tone Adaptation PURPOSE: Train AI to match tone and register",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO3",
+      "ITU": "TU",
+      "Student Materials": "Reference books, PPT presentation, other teaching resources provided",
+      "S-Download": "",
+      "Student's Tasks": "Reference books, PPT presentation, other teaching resources provided",
+      "URLs": ""
+    },
+    {
+      "Session": "33",
+      "Topic": "Session 33: Translation of news in food industry - Vietnamese into English",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO3",
+      "ITU": "TU",
+      "Student Materials": "Reference books, PPT presentation, other teaching resources provided",
+      "S-Download": "",
+      "Student's Tasks": "Reference books, PPT presentation, other teaching resources provided",
+      "URLs": ""
+    },
+    {
+      "Session": "34",
+      "Topic": "Session 34: Translation of news in food industry - English into Vietnamese",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO3",
+      "ITU": "TU",
+      "Student Materials": "Reference books, PPT presentation, other teaching resources provided",
+      "S-Download": "",
+      "Student's Tasks": "Reference books, PPT presentation, other teaching resources provided",
+      "URLs": ""
+    },
+    {
+      "Session": "35",
+      "Topic": "Session 35: Translation of technical documents (Information Technology) - Vietnamese into English",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO3",
+      "ITU": "TU",
+      "Student Materials": "Reference books, PPT presentation, other teaching resources provided",
+      "S-Download": "",
+      "Student's Tasks": "Reference books, PPT presentation, other teaching resources provided",
+      "URLs": ""
+    },
+    {
+      "Session": "36",
+      "Topic": "Session 36: Translation of technical documents (Information Technology) - English into Vietnamese",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO3",
+      "ITU": "TU",
+      "Student Materials": "Reference books, PPT presentation, other teaching resources provided",
+      "S-Download": "",
+      "Student's Tasks": "Reference books, PPT presentation, other teaching resources provided",
+      "URLs": ""
+    },
+    {
+      "Session": "37",
+      "Topic": "Session 37: Translation of technical documents (Electrical Engineering Technology) - Vietnamese into English",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO3",
+      "ITU": "TU",
+      "Student Materials": "Reference books, PPT presentation, other teaching resources provided",
+      "S-Download": "",
+      "Student's Tasks": "Reference books, PPT presentation, other teaching resources provided",
+      "URLs": ""
+    },
+    {
+      "Session": "38",
+      "Topic": "Session 38: Translation of technical documents (Electrical Engineering Technology) - English into Vietnamese AI-ASSISTED LEARNING OUTCOME: Cultural Adaptation & Localization PURPOSE: Localize content & Learn transcreation techniques (creative translation with cultural change)",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO3",
+      "ITU": "TU",
+      "Student Materials": "Reference books, PPT presentation, other teaching resources provided",
+      "S-Download": "",
+      "Student's Tasks": "Reference books, PPT presentation, other teaching resources provided",
+      "URLs": ""
+    },
+    {
+      "Session": "39",
+      "Topic": "Session 39: Translation of technical documents (Automobile Engineering Technology) - Vietnamese into English",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO3, LO5",
+      "ITU": "TU",
+      "Student Materials": "Reference books, PPT presentation, other teaching resources provided",
+      "S-Download": "",
+      "Student's Tasks": "Reference books, PPT presentation, other teaching resources provided",
+      "URLs": ""
+    },
+    {
+      "Session": "40",
+      "Topic": "Session 40: Translation of technical documents (Automobile Engineering Technology) - English into Vietnamese",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO3, LO5",
+      "ITU": "TU",
+      "Student Materials": "Reference books, PPT presentation, other teaching resources provided",
+      "S-Download": "",
+      "Student's Tasks": "Reference books, PPT presentation, other teaching resources provided",
+      "URLs": ""
+    },
+    {
+      "Session": "41",
+      "Topic": "Session 41: CULTURE, POWER, AND PROFESSIONALISM, TRANSLATION OF SOCIO-CULTURAL NEWS & DOCUMENTS: Familiarizing with socio-cultural news & documents",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO4",
+      "ITU": "ITU",
+      "Student Materials": "Introduction to Translation and Interpreting Studies: pages 221 - 226, Reference books, PPT presentation, other teaching resources provided",
+      "S-Download": "",
+      "Student's Tasks": "Reference books, PPT presentation, other teaching resources provided",
+      "URLs": ""
+    },
+    {
+      "Session": "42",
+      "Topic": "Session 42: Translation of socio-cultural news (Social events) - Vietnamese into English",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO4",
+      "ITU": "ITU",
+      "Student Materials": "Reference books, PPT presentation, other teaching resources provided",
+      "S-Download": "",
+      "Student's Tasks": "Reference books, PPT presentation, other teaching resources provided",
+      "URLs": ""
+    },
+    {
+      "Session": "43",
+      "Topic": "Session 43: Translation of socio-cultural news (Social events) - Vietnamese into English (cont.)",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO4",
+      "ITU": "TU",
+      "Student Materials": "Reference books, PPT presentation, other teaching resources provided",
+      "S-Download": "",
+      "Student's Tasks": "Reference books, PPT presentation, other teaching resources provided",
+      "URLs": ""
+    },
+    {
+      "Session": "44",
+      "Topic": "Session 44: Translation of socio-cultural news (Social events) - English into Vietnamese AI-ASSISTED LEARNING OUTCOME: Translation Project Management PURPOSE: Simulate a real-world translation job using AI tools",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO4",
+      "ITU": "TU",
+      "Student Materials": "Reference books, PPT presentation, other teaching resources provided",
+      "S-Download": "",
+      "Student's Tasks": "Reference books, PPT presentation, other teaching resources provided",
+      "URLs": ""
+    },
+    {
+      "Session": "45",
+      "Topic": "Session 45: Translation of musical texts, Translation of socio-cultural news (Cultural events) - Vietnamese into English",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO4",
+      "ITU": "TU",
+      "Student Materials": "Introduction to Translation and Interpreting Studies: pages 147 - 148, Reference books, PPT presentation, other teaching resources provided",
+      "S-Download": "",
+      "Student's Tasks": "Reference books, PPT presentation, other teaching resources provided",
+      "URLs": ""
+    },
+    {
+      "Session": "46",
+      "Topic": "Session 46: Translation of socio-cultural news (Cultural events) - English into Vietnamese",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO4",
+      "ITU": "TU",
+      "Student Materials": "Reference books, PPT presentation, other teaching resources provided",
+      "S-Download": "",
+      "Student's Tasks": "Reference books, PPT presentation, other teaching resources provided",
+      "URLs": ""
+    },
+    {
+      "Session": "47",
+      "Topic": "Session 47: Translation of socio-cultural news (Sport events) - Vietnamese into English",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO4",
+      "ITU": "TU",
+      "Student Materials": "Reference books, PPT presentation, other teaching resources provided",
+      "S-Download": "",
+      "Student's Tasks": "Reference books, PPT presentation, other teaching resources provided",
+      "URLs": ""
+    },
+    {
+      "Session": "48",
+      "Topic": "Session 48: Translation of socio-cultural news (Sport events) - English into Vietnamese",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO4",
+      "ITU": "TU",
+      "Student Materials": "Reference books, PPT presentation, other teaching resources provided",
+      "S-Download": "",
+      "Student's Tasks": "Reference books, PPT presentation, other teaching resources provided",
+      "URLs": ""
+    },
+    {
+      "Session": "49",
+      "Topic": "Session 49: Translation of socio-cultural news (Diplomatic news) - Vietnamese into English",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO4",
+      "ITU": "TU",
+      "Student Materials": "Reference books, PPT presentation, other teaching resources provided",
+      "S-Download": "",
+      "Student's Tasks": "Reference books, PPT presentation, other teaching resources provided",
+      "URLs": ""
+    },
+    {
+      "Session": "50",
+      "Topic": "Session 50: Translation of socio-cultural news (Diplomatic news) - English into Vietnamese",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO4",
+      "ITU": "TU",
+      "Student Materials": "Reference books, PPT presentation, other teaching resources provided",
+      "S-Download": "",
+      "Student's Tasks": "Reference books, PPT presentation, other teaching resources provided",
+      "URLs": ""
+    },
+    {
+      "Session": "51",
+      "Topic": "Session 51: Religious translation, Translation of socio-cultural documents (Vietnam- customs &traditions) - Vietnamese into English",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO4",
+      "ITU": "TU",
+      "Student Materials": "Introduction to Translation and Interpreting Studies: pages 145 - 146, Reference books, PPT presentation, other teaching resources provided",
+      "S-Download": "",
+      "Student's Tasks": "Reference books, PPT presentation, other teaching resources provided",
+      "URLs": ""
+    },
+    {
+      "Session": "52",
+      "Topic": "Session 52: Translation of socio-cultural documents (Vietnam- customs &traditions) - English into Vietnamese",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO4",
+      "ITU": "TU",
+      "Student Materials": "Reference books, PPT presentation, other teaching resources provided",
+      "S-Download": "",
+      "Student's Tasks": "Reference books, PPT presentation, other teaching resources provided",
+      "URLs": ""
+    },
+    {
+      "Session": "53",
+      "Topic": "Session 53: Translation of socio-cultural documents (Natural values of Vietnam tourism) - Vietnamese into English",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO4",
+      "ITU": "TU",
+      "Student Materials": "Reference books, PPT presentation, other teaching resources provided",
+      "S-Download": "",
+      "Student's Tasks": "Reference books, PPT presentation, other teaching resources provided",
+      "URLs": ""
+    },
+    {
+      "Session": "54",
+      "Topic": "Session 54: Translation of socio-cultural documents (Natural values of Vietnam tourism) - English into Vietnamese",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO4",
+      "ITU": "TU",
+      "Student Materials": "Reference books, PPT presentation, other teaching resources provided",
+      "S-Download": "",
+      "Student's Tasks": "Reference books, PPT presentation, other teaching resources provided",
+      "URLs": ""
+    },
+    {
+      "Session": "55",
+      "Topic": "Session 55: Translation of socio-cultural documents (Education) - Vietnamese into English",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO4",
+      "ITU": "TU",
+      "Student Materials": "Reference books, PPT presentation, other teaching resources provided",
+      "S-Download": "",
+      "Student's Tasks": "Reference books, PPT presentation, other teaching resources provided",
+      "URLs": ""
+    },
+    {
+      "Session": "56",
+      "Topic": "Session 56: Translation of socio-cultural documents (Education) - English into Vietnamese",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO4",
+      "ITU": "TU",
+      "Student Materials": "Reference books, PPT presentation, other teaching resources provided",
+      "S-Download": "",
+      "Student's Tasks": "Reference books, PPT presentation, other teaching resources provided",
+      "URLs": ""
+    },
+    {
+      "Session": "57",
+      "Topic": "Session 57: Translation of socio-cultural documents (History) - Vietnamese into English",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO4",
+      "ITU": "TU",
+      "Student Materials": "Reference books, PPT presentation, other teaching resources provided",
+      "S-Download": "",
+      "Student's Tasks": "Reference books, PPT presentation, other teaching resources provided",
+      "URLs": ""
+    },
+    {
+      "Session": "58",
+      "Topic": "Session 58: Translation of socio-cultural documents (History) - English into Vietnamese",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO4",
+      "ITU": "TU",
+      "Student Materials": "Reference books, PPT presentation, other teaching resources provided",
+      "S-Download": "",
+      "Student's Tasks": "Reference books, PPT presentation, other teaching resources provided",
+      "URLs": ""
+    },
+    {
+      "Session": "59",
+      "Topic": "Session 59: Translation of socio-cultural documents ( Tour commentary) - Vietnamese into English",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO4, LO5",
+      "ITU": "TU",
+      "Student Materials": "Reference books, PPT presentation, other teaching resources provided",
+      "S-Download": "",
+      "Student's Tasks": "Reference books, PPT presentation, other teaching resources provided",
+      "URLs": ""
+    },
+    {
+      "Session": "60",
+      "Topic": "Session 60: Translation of socio-cultural documents ( Tour commentary) - English into Vietnamese",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO4, LO5",
+      "ITU": "TU",
+      "Student Materials": "Reference books, PPT presentation, other teaching resources provided",
+      "S-Download": "",
+      "Student's Tasks": "Reference books, PPT presentation, other teaching resources provided",
+      "URLs": ""
+    }
+  ],
+  "constructive_questions": [
+    {
+      "No.": "1",
+      "Session No": "1",
+      "Name": "HN_CQ1",
+      "Details": "What are typical administrative forms and documents? What are their features?"
+    },
+    {
+      "No.": "2",
+      "Session No": "1",
+      "Name": "HN_CQ2",
+      "Details": "Are the administrative forms and documents (foreign versions) similar to Vietnamese versions? How different are they? Compare 2-3 forms."
+    },
+    {
+      "No.": "3",
+      "Session No": "1",
+      "Name": "HN_CQ3",
+      "Details": "What are some features of ID cards, Degrees, and Certificates? (Vietnamese versions). How can these be translated into English?"
+    },
+    {
+      "No.": "4",
+      "Session No": "1",
+      "Name": "HN_CQ4",
+      "Details": "What are some features of ID cards, Degrees, and Certificates? (English versions). How can these be translated into English?"
+    },
+    {
+      "No.": "5",
+      "Session No": "1",
+      "Name": "HN_CQ5",
+      "Details": "What are typical terms used for the translation of ID cards, Degrees, and Certificates? Make a list of Vietnamese terms and their equivalents. Translate the given documents from Vietnamese into English?"
+    },
+    {
+      "No.": "6",
+      "Session No": "2",
+      "Name": "HN_CQ1",
+      "Details": "What are typical administrative forms and documents? What are their features?"
+    },
+    {
+      "No.": "7",
+      "Session No": "2",
+      "Name": "HN_CQ2",
+      "Details": "Are the administrative forms and documents (foreign versions) similar to Vietnamese versions? How different are they? Compare 2-3 forms."
+    },
+    {
+      "No.": "8",
+      "Session No": "2",
+      "Name": "HN_CQ3",
+      "Details": "What are some features of ID cards, Degrees, and Certificates? (Vietnamese versions). How can these be translated into English?"
+    },
+    {
+      "No.": "9",
+      "Session No": "2",
+      "Name": "HN_CQ4",
+      "Details": "What are some features of ID cards, Degrees, and Certificates? (English versions). How can these be translated into English?"
+    },
+    {
+      "No.": "10",
+      "Session No": "2",
+      "Name": "HN_CQ5",
+      "Details": "What are typical terms used for the translation of ID cards, Degrees, and Certificates? Make a list of Vietnamese terms and their equivalents. Translate the given documents from Vietnamese into English?"
+    },
+    {
+      "No.": "11",
+      "Session No": "3",
+      "Name": "HN_CQ6",
+      "Details": "How are the grading systems of Vietnam different from the ones of UK? How can these be translated in dealing with the translation of degree?"
+    },
+    {
+      "No.": "12",
+      "Session No": "3",
+      "Name": "HN_CQ7",
+      "Details": "What are requirements for the interpretation of administrative forms and documents?"
+    },
+    {
+      "No.": "13",
+      "Session No": "3",
+      "Name": "HN_CQ8",
+      "Details": "Study the given documents. What are the main terms you find? What are their equivalents in Vietnamese? Translate the documents into Vietnamese."
+    },
+    {
+      "No.": "14",
+      "Session No": "3",
+      "Name": "HN_CQ9",
+      "Details": "What are typical majors written in university degrees? Make a list of majors trained at Vietnamese universities and find their equivalents in English. Translate some degrees into English."
+    },
+    {
+      "No.": "15",
+      "Session No": "3",
+      "Name": "HN_CQ10",
+      "Details": "Select a profile including an ID card, a/some degree(s), a/some certificate(s) (English versions), then translate them into Vietnamese. What problems do you face in selecting equivalents? Do you face any non-equivalents and how these are deal with?"
+    },
+    {
+      "No.": "16",
+      "Session No": "4",
+      "Name": "HN_CQ6",
+      "Details": "How are the grading systems of Vietnam different from the ones of UK? How can these be translated in dealing with the translation of degree?"
+    },
+    {
+      "No.": "17",
+      "Session No": "4",
+      "Name": "HN_CQ7",
+      "Details": "What are requirements for the interpretation of administrative forms and documents?"
+    },
+    {
+      "No.": "18",
+      "Session No": "4",
+      "Name": "HN_CQ8",
+      "Details": "Study the given documents. What are the main terms you find? What are their equivalents in Vietnamese? Translate the documents into Vietnamese."
+    },
+    {
+      "No.": "19",
+      "Session No": "4",
+      "Name": "HN_CQ9",
+      "Details": "What are typical majors written in university degrees? Make a list of majors trained at Vietnamese universities and find their equivalents in English. Translate some degrees into English."
+    },
+    {
+      "No.": "20",
+      "Session No": "4",
+      "Name": "HN_CQ10",
+      "Details": "Select a profile including an ID card, a/some degree(s), a/some certificate(s) (English versions), then translate them into Vietnamese. What problems do you face in selecting equivalents? Do you face any non-equivalents and how these are deal with?"
+    },
+    {
+      "No.": "21",
+      "Session No": "5",
+      "Name": "HN_CQ11",
+      "Details": "What are some features of transcripts? What are some requirements of transcripts translation?"
+    },
+    {
+      "No.": "22",
+      "Session No": "5",
+      "Name": "HN_CQ12",
+      "Details": "Study the given transcript. What are the main parts of a transcript? What are the key terms used in the transcript? What are their equivalences? Translate the transcript into English."
+    },
+    {
+      "No.": "23",
+      "Session No": "5",
+      "Name": "HN_CQ13",
+      "Details": "What are the main parts of a decision? What are some features related to language, content, format.. of a decision? What are some key terms and their equivalences of a decision?"
+    },
+    {
+      "No.": "24",
+      "Session No": "5",
+      "Name": "HN_CQ14",
+      "Details": "Study the given decision by a state agency. What are the key words, phrases and their equivalences? How can these be translated? Translate the given document into English."
+    },
+    {
+      "No.": "25",
+      "Session No": "5",
+      "Name": "HN_CQ15",
+      "Details": "Study the given decision by a company What are the key words, phrases and their equivalences? How can these be translated? Translate the given document into English."
+    },
+    {
+      "No.": "26",
+      "Session No": "6",
+      "Name": "HN_CQ11",
+      "Details": "What are some features of transcripts? What are some requirements of transcripts translation?"
+    },
+    {
+      "No.": "27",
+      "Session No": "6",
+      "Name": "HN_CQ12",
+      "Details": "Study the given transcript. What are the main parts of a transcript? What are the key terms used in the transcript? What are their equivalences? Translate the transcript into English."
+    },
+    {
+      "No.": "28",
+      "Session No": "6",
+      "Name": "HN_CQ13",
+      "Details": "What are the main parts of a decision? What are some features related to language, content, format.. of a decision? What are some key terms and their equivalences of a decision?"
+    },
+    {
+      "No.": "29",
+      "Session No": "6",
+      "Name": "HN_CQ14",
+      "Details": "Study the given decision by a state agency. What are the key words, phrases and their equivalences? How can these be translated? Translate the given document into English."
+    },
+    {
+      "No.": "30",
+      "Session No": "6",
+      "Name": "HN_CQ15",
+      "Details": "Study the given decision by a company What are the key words, phrases and their equivalences? How can these be translated? Translate the given document into English."
+    },
+    {
+      "No.": "31",
+      "Session No": "7",
+      "Name": "HN_CQ16",
+      "Details": "What are the main parts of a contract/labor contract? What are the requirements for the translation of a labor contract?"
+    },
+    {
+      "No.": "32",
+      "Session No": "7",
+      "Name": "HN_CQ17",
+      "Details": "What are the key terms found in a labor contract? What are their equivalences?"
+    },
+    {
+      "No.": "33",
+      "Session No": "7",
+      "Name": "HN_CQ18",
+      "Details": "Study a Vietnamese labor contract. Identify the main words, phrases that need to be translated using the terms. Translate the contract into English."
+    },
+    {
+      "No.": "34",
+      "Session No": "7",
+      "Name": "HN_CQ19",
+      "Details": "Study an English business contract. What are the key words, phrases of the contract and their equivlances? Translate the contract into Vietnamese."
+    },
+    {
+      "No.": "35",
+      "Session No": "7",
+      "Name": "HN_CQ20",
+      "Details": "What are some rules drawn out for the translation of contracts? Pay special attention to linguistic and syntax features."
+    },
+    {
+      "No.": "36",
+      "Session No": "8",
+      "Name": "HN_CQ16",
+      "Details": "What are the main parts of a contract/labor contract? What are the requirements for the translation of a labor contract?"
+    },
+    {
+      "No.": "37",
+      "Session No": "8",
+      "Name": "HN_CQ17",
+      "Details": "What are the key terms found in a labor contract? What are their equivalences?"
+    },
+    {
+      "No.": "38",
+      "Session No": "8",
+      "Name": "HN_CQ18",
+      "Details": "Study a Vietnamese labor contract. Identify the main words, phrases that need to be translated using the terms. Translate the contract into English."
+    },
+    {
+      "No.": "39",
+      "Session No": "8",
+      "Name": "HN_CQ19",
+      "Details": "Study an English business contract. What are the key words, phrases of the contract and their equivlances? Translate the contract into Vietnamese."
+    },
+    {
+      "No.": "40",
+      "Session No": "8",
+      "Name": "HN_CQ20",
+      "Details": "What are some rules drawn out for the translation of contracts? Pay special attention to linguistic and syntax features."
+    },
+    {
+      "No.": "41",
+      "Session No": "9",
+      "Name": "HN_CQ21",
+      "Details": "What are typical types of business forms and documents?"
+    },
+    {
+      "No.": "42",
+      "Session No": "9",
+      "Name": "HN_CQ22",
+      "Details": "What are features of business forms and documents?"
+    },
+    {
+      "No.": "43",
+      "Session No": "9",
+      "Name": "HN_CQ23",
+      "Details": "Make a list of business forms and their equivalences in Vietnamese. What are requirements for the translation of these forms?"
+    },
+    {
+      "No.": "44",
+      "Session No": "9",
+      "Name": "HN_CQ24",
+      "Details": "Study a given business transaction agreement in Vietnamese. What are the main parts of a business transaction agreement? What are their equivalences in English?"
+    },
+    {
+      "No.": "45",
+      "Session No": "9",
+      "Name": "HN_CQ25",
+      "Details": "Translate a given business transaction agreement into English. What problems do you face in the translation? How do you deal with these?"
+    },
+    {
+      "No.": "46",
+      "Session No": "10",
+      "Name": "HN_CQ21",
+      "Details": "What are typical types of business forms and documents?"
+    },
+    {
+      "No.": "47",
+      "Session No": "10",
+      "Name": "HN_CQ22",
+      "Details": "What are features of business forms and documents?"
+    },
+    {
+      "No.": "48",
+      "Session No": "10",
+      "Name": "HN_CQ23",
+      "Details": "Make a list of business forms and their equivalences in Vietnamese. What are requirements for the translation of these forms?"
+    },
+    {
+      "No.": "49",
+      "Session No": "10",
+      "Name": "HN_CQ24",
+      "Details": "Study a given business transaction agreement in Vietnamese. What are the main parts of a business transaction agreement? What are their equivalences in English?"
+    },
+    {
+      "No.": "50",
+      "Session No": "10",
+      "Name": "HN_CQ25",
+      "Details": "Translate a given business transaction agreement into English. What problems do you face in the translation? How do you deal with these?"
+    },
+    {
+      "No.": "51",
+      "Session No": "11",
+      "Name": "HN_CQ26",
+      "Details": "Compare and contrast a Vietnamese transaction agreement and an English one based on some criteria."
+    },
+    {
+      "No.": "52",
+      "Session No": "11",
+      "Name": "HN_CQ27",
+      "Details": "Study a given business transaction agreement in English. What are key words, phrases, and terms used in the document? What are their equivalences in Vietnamese?"
+    },
+    {
+      "No.": "53",
+      "Session No": "11",
+      "Name": "HN_CQ28",
+      "Details": "Study a given business transaction agreement in English. What are the linguistic and lexis features of the document? Do these features cause troubles for translation? Demonstrate how you translate these."
+    },
+    {
+      "No.": "54",
+      "Session No": "11",
+      "Name": "HN_CQ29",
+      "Details": "Study a given business transaction agreement in English. Translate it into Vietnamese. Do you face any problems in the translation? How do you deal with those?"
+    },
+    {
+      "No.": "55",
+      "Session No": "11",
+      "Name": "HN_CQ30",
+      "Details": "Which parts of the business transaction agreement do you find the most difficult in translation? How should the difficulties be deal with?"
+    },
+    {
+      "No.": "56",
+      "Session No": "12",
+      "Name": "HN_CQ26",
+      "Details": "Compare and contrast a Vietnamese transaction agreement and an English one based on some criteria."
+    },
+    {
+      "No.": "57",
+      "Session No": "12",
+      "Name": "HN_CQ27",
+      "Details": "Study a given business transaction agreement in English. What are key words, phrases, and terms used in the document? What are their equivalences in Vietnamese?"
+    },
+    {
+      "No.": "58",
+      "Session No": "12",
+      "Name": "HN_CQ28",
+      "Details": "Study a given business transaction agreement in English. What are the linguistic and lexis features of the document? Do these features cause troubles for translation? Demonstrate how you translate these."
+    },
+    {
+      "No.": "59",
+      "Session No": "12",
+      "Name": "HN_CQ29",
+      "Details": "Study a given business transaction agreement in English. Translate it into Vietnamese. Do you face any problems in the translation? How do you deal with those?"
+    },
+    {
+      "No.": "60",
+      "Session No": "12",
+      "Name": "HN_CQ30",
+      "Details": "Which parts of the business transaction agreement do you find the most difficult in translation? How should the difficulties be deal with?"
+    },
+    {
+      "No.": "61",
+      "Session No": "13",
+      "Name": "HN_CQ31",
+      "Details": "What is financial statement? What are typical types of financial statement?"
+    },
+    {
+      "No.": "62",
+      "Session No": "13",
+      "Name": "HN_CQ32",
+      "Details": "What are the main part of a financial statement? What are their equivalences in Vietnamese?"
+    },
+    {
+      "No.": "63",
+      "Session No": "13",
+      "Name": "HN_CQ33",
+      "Details": "What are the keys terms of a financial statement? What are their equivalences in Vietnamese?"
+    },
+    {
+      "No.": "64",
+      "Session No": "13",
+      "Name": "HN_CQ34",
+      "Details": "Study a given financial statement (Statement of Financial Position) in Vietnamese. What are the main parts of the statement? How do you translate them into English?"
+    },
+    {
+      "No.": "65",
+      "Session No": "13",
+      "Name": "HN_CQ35",
+      "Details": "Study a given financial statement (Statement of Financial Position) in Vietnamese. What are the main parts of the statement? How do you translate them into English?"
+    },
+    {
+      "No.": "66",
+      "Session No": "14",
+      "Name": "HN_CQ31",
+      "Details": "What is financial statement? What are typical types of financial statement?"
+    },
+    {
+      "No.": "67",
+      "Session No": "14",
+      "Name": "HN_CQ32",
+      "Details": "What are the main part of a financial statement? What are their equivalences in Vietnamese?"
+    },
+    {
+      "No.": "68",
+      "Session No": "14",
+      "Name": "HN_CQ33",
+      "Details": "What are the keys terms of a financial statement? What are their equivalences in Vietnamese?"
+    },
+    {
+      "No.": "69",
+      "Session No": "14",
+      "Name": "HN_CQ34",
+      "Details": "Study a given financial statement (Statement of Financial Position) in Vietnamese. What are the main parts of the statement? How do you translate them into English?"
+    },
+    {
+      "No.": "70",
+      "Session No": "14",
+      "Name": "HN_CQ35",
+      "Details": "Study a given financial statement (Statement of Financial Position) in Vietnamese. What are the main parts of the statement? How do you translate them into English?"
+    },
+    {
+      "No.": "71",
+      "Session No": "15",
+      "Name": "HN_CQ36",
+      "Details": "Study a financial statement (statement of earnings). What are the main parts of the statement? What are the keys terms used? What are their equivalences?"
+    },
+    {
+      "No.": "72",
+      "Session No": "15",
+      "Name": "HN_CQ37",
+      "Details": "Compare and contrast a Vietnamese financial statement of earnings. What are some notes that can be drawn out for the translation?"
+    },
+    {
+      "No.": "73",
+      "Session No": "15",
+      "Name": "HN_CQ38",
+      "Details": "What will be done with words, phrases, terms appearing in the original document whose equivalences can't be found in Vietnamese?"
+    },
+    {
+      "No.": "74",
+      "Session No": "15",
+      "Name": "HN_CQ39",
+      "Details": "Study a financial statement (Statement of earnings). Which parts cause difficulties for translators? How do you deal with those difficulties?"
+    },
+    {
+      "No.": "75",
+      "Session No": "15",
+      "Name": "HN_CQ40",
+      "Details": "Study a financial statement (Statement of earnings). Translate the statement into Vietnamese."
+    },
+    {
+      "No.": "76",
+      "Session No": "16",
+      "Name": "HN_CQ36",
+      "Details": "Study a financial statement (statement of earnings). What are the main parts of the statement? What are the keys terms used? What are their equivalences?"
+    },
+    {
+      "No.": "77",
+      "Session No": "16",
+      "Name": "HN_CQ37",
+      "Details": "Compare and contrast a Vietnamese financial statement of earnings. What are some notes that can be drawn out for the translation?"
+    },
+    {
+      "No.": "78",
+      "Session No": "16",
+      "Name": "HN_CQ38",
+      "Details": "What will be done with words, phrases, terms appearing in the original document whose equivalences can't be found in Vietnamese?"
+    },
+    {
+      "No.": "79",
+      "Session No": "16",
+      "Name": "HN_CQ39",
+      "Details": "Study a financial statement (Statement of earnings). Which parts cause difficulties for translators? How do you deal with those difficulties?"
+    },
+    {
+      "No.": "80",
+      "Session No": "16",
+      "Name": "HN_CQ40",
+      "Details": "Study a financial statement (Statement of earnings). Translate the statement into Vietnamese."
+    },
+    {
+      "No.": "81",
+      "Session No": "17",
+      "Name": "HN_CQ41",
+      "Details": "What is the equivalence of Statement of Change in Equity in Vietnamese? What are some key terms used in the statement? What are their equivalences in Vietnamese?"
+    },
+    {
+      "No.": "82",
+      "Session No": "17",
+      "Name": "HN_CQ42",
+      "Details": "What are similarities and differences between a Vietnamese statement of change in equity and an English one?"
+    },
+    {
+      "No.": "83",
+      "Session No": "17",
+      "Name": "HN_CQ43",
+      "Details": "Study a given statement of change in equity. What are words, phrases whose equivalences can't be found in Vietnamese translated?"
+    },
+    {
+      "No.": "84",
+      "Session No": "17",
+      "Name": "HN_CQ44",
+      "Details": "Study a given financial statement. (Statement of change in equity). Translate it into Vietnamese. What lessons do you draw out for the translation of this document?"
+    },
+    {
+      "No.": "85",
+      "Session No": "17",
+      "Name": "HN_CQ45",
+      "Details": "Which parts of the statement are more difficult to translate? What are some strategies for the translation of these?"
+    },
+    {
+      "No.": "86",
+      "Session No": "18",
+      "Name": "HN_CQ41",
+      "Details": "What is the equivalence of Statement of Change in Equity in Vietnamese? What are some key terms used in the statement? What are their equivalences in Vietnamese?"
+    },
+    {
+      "No.": "87",
+      "Session No": "18",
+      "Name": "HN_CQ42",
+      "Details": "What are similarities and differences between a Vietnamese statement of change in equity and an English one?"
+    },
+    {
+      "No.": "88",
+      "Session No": "18",
+      "Name": "HN_CQ43",
+      "Details": "Study a given statement of change in equity. What are words, phrases whose equivalences can't be found in Vietnamese translated?"
+    },
+    {
+      "No.": "89",
+      "Session No": "18",
+      "Name": "HN_CQ44",
+      "Details": "Study a given financial statement. (Statement of change in equity). Translate it into Vietnamese. What lessons do you draw out for the translation of this document?"
+    },
+    {
+      "No.": "90",
+      "Session No": "18",
+      "Name": "HN_CQ45",
+      "Details": "Which parts of the statement are more difficult to translate? What are some strategies for the translation of these?"
+    },
+    {
+      "No.": "91",
+      "Session No": "19",
+      "Name": "HN_CQ46",
+      "Details": "What is the equivalence of Statement of Cash flow in Vietnamese? What are the main parts of this kind of statement?"
+    },
+    {
+      "No.": "92",
+      "Session No": "19",
+      "Name": "HN_CQ47",
+      "Details": "What are the keys terms of a statement of cash flow? What are their equivalences in Vietnamese?"
+    },
+    {
+      "No.": "93",
+      "Session No": "19",
+      "Name": "HN_CQ48",
+      "Details": "What problems translators may face in the translation of cash flow statement? What are strategies to deal with these?"
+    },
+    {
+      "No.": "94",
+      "Session No": "19",
+      "Name": "HN_CQ49",
+      "Details": "Study a given statement of cash flow. Translate it into Vietnamese. What lessons do you draw out for the translation of this?"
+    },
+    {
+      "No.": "95",
+      "Session No": "19",
+      "Name": "HN_CQ50",
+      "Details": "Study a given statement of cash flow. Translate it into English. What lessons do you draw out for the translation of this?"
+    },
+    {
+      "No.": "96",
+      "Session No": "20",
+      "Name": "HN_CQ46",
+      "Details": "What is the equivalence of Statement of Cash flow in Vietnamese? What are the main parts of this kind of statement?"
+    },
+    {
+      "No.": "97",
+      "Session No": "20",
+      "Name": "HN_CQ47",
+      "Details": "What are the keys terms of a statement of cash flow? What are their equivalences in Vietnamese?"
+    },
+    {
+      "No.": "98",
+      "Session No": "20",
+      "Name": "HN_CQ48",
+      "Details": "What problems translators may face in the translation of cash flow statement? What are strategies to deal with these?"
+    },
+    {
+      "No.": "99",
+      "Session No": "20",
+      "Name": "HN_CQ49",
+      "Details": "Study a given statement of cash flow. Translate it into Vietnamese. What lessons do you draw out for the translation of this?"
+    },
+    {
+      "No.": "100",
+      "Session No": "20",
+      "Name": "HN_CQ50",
+      "Details": "Study a given statement of cash flow. Translate it into English. What lessons do you draw out for the translation of this?"
+    },
+    {
+      "No.": "101",
+      "Session No": "21",
+      "Name": "HN_CQ51",
+      "Details": "What are features of English technical documents?"
+    },
+    {
+      "No.": "102",
+      "Session No": "21",
+      "Name": "HN_CQ52",
+      "Details": "What are requirements of translation of English technical documents?"
+    },
+    {
+      "No.": "103",
+      "Session No": "21",
+      "Name": "HN_CQ53",
+      "Details": "Which features of English technical documents cause difficulties for translators? What are some strategies to deal with these?"
+    },
+    {
+      "No.": "104",
+      "Session No": "21",
+      "Name": "HN_CQ54",
+      "Details": "Study five different documents (news) related information technology. What are the common words, phrases, structures that can be found in these documents? How can these be translated into English?"
+    },
+    {
+      "No.": "105",
+      "Session No": "21",
+      "Name": "HN_CQ55",
+      "Details": "What are Vietnamese typical terms related to information technology? What are their equivalences in English?"
+    },
+    {
+      "No.": "106",
+      "Session No": "22",
+      "Name": "HN_CQ51",
+      "Details": "What are features of English technical documents?"
+    },
+    {
+      "No.": "107",
+      "Session No": "22",
+      "Name": "HN_CQ52",
+      "Details": "What are requirements of translation of English technical documents?"
+    },
+    {
+      "No.": "108",
+      "Session No": "22",
+      "Name": "HN_CQ53",
+      "Details": "Which features of English technical documents cause difficulties for translators? What are some strategies to deal with these?"
+    },
+    {
+      "No.": "109",
+      "Session No": "22",
+      "Name": "HN_CQ54",
+      "Details": "Study five different documents (news) related information technology. What are the common words, phrases, structures that can be found in these documents? How can these be translated into English?"
+    },
+    {
+      "No.": "110",
+      "Session No": "22",
+      "Name": "HN_CQ55",
+      "Details": "What are typical Vietnamese terms related to information technology? What are their equivalences in English?"
+    },
+    {
+      "No.": "111",
+      "Session No": "23",
+      "Name": "HN_CQ56",
+      "Details": "Study five different documents (news) related to information technology. What are the common words, phrases, structures that can be found in these documents? How can these be translated into Vietnamese?"
+    },
+    {
+      "No.": "112",
+      "Session No": "23",
+      "Name": "HN_CQ57",
+      "Details": "What are typical English terms related to information technology? What are their equivalences in English?"
+    },
+    {
+      "No.": "113",
+      "Session No": "23",
+      "Name": "HN_CQ58",
+      "Details": "Summarize an English article related to information technology. What key words and phrases do you find essential for the translation? How do you translate those into Vietnamese. Translate a passage into Vietnamese?"
+    },
+    {
+      "No.": "114",
+      "Session No": "23",
+      "Name": "HN_CQ59",
+      "Details": "Summarize an English article related to mobile phone technology. What key words and phrases do you find essential for the translation? How do you translate those into Vietnamese. Translate a passage into Vietnamese?"
+    },
+    {
+      "No.": "115",
+      "Session No": "23",
+      "Name": "HN_CQ60",
+      "Details": "Summarize a Vietnamese article related to digital transformation . What key words and phrases do you find essential for the translation? How do you translate those into Vietnamese. Translate a passage into English?"
+    },
+    {
+      "No.": "116",
+      "Session No": "24",
+      "Name": "HN_CQ56",
+      "Details": "Study five different documents (news) related to information technology. What are the common words, phrases, structures that can be found in these documents? How can these be translated into Vietnamese?"
+    },
+    {
+      "No.": "117",
+      "Session No": "24",
+      "Name": "HN_CQ57",
+      "Details": "What are typical English terms related to information technology? What are their equivalences in English?"
+    },
+    {
+      "No.": "118",
+      "Session No": "24",
+      "Name": "HN_CQ58",
+      "Details": "Summarize an English article related to information technology. What key words and phrases do you find essential for the translation? How do you translate those into Vietnamese. Translate a passage into Vietnamese?"
+    },
+    {
+      "No.": "119",
+      "Session No": "24",
+      "Name": "HN_CQ59",
+      "Details": "Summarize an English article related to mobile phone technology. What key words and phrases do you find essential for the translation? How do you translate those into Vietnamese. Translate a passage into Vietnamese?"
+    },
+    {
+      "No.": "120",
+      "Session No": "24",
+      "Name": "HN_CQ60",
+      "Details": "Summarize a Vietnamese article related to digital transformation . What key words and phrases do you find essential for the translation? How do you translate those into Vietnamese. Translate a passage into English?"
+    },
+    {
+      "No.": "121",
+      "Session No": "25",
+      "Name": "HN_CQ61",
+      "Details": "What are some features of science news/ documents?"
+    },
+    {
+      "No.": "122",
+      "Session No": "25",
+      "Name": "HN_CQ62",
+      "Details": "What are some problems for translation of science news/ documents? What strategies can be used to translate these?"
+    },
+    {
+      "No.": "123",
+      "Session No": "25",
+      "Name": "HN_CQ63",
+      "Details": "Study five different documents (news) related to science. What are the common words, phrases, structures that can be found in these documents? How can these be translated into Vietnamese?"
+    },
+    {
+      "No.": "124",
+      "Session No": "25",
+      "Name": "HN_CQ64",
+      "Details": "Study five different documents (news) related to science. What are the common words, phrases, structures that can be found in these documents? How can these be translated into English?"
+    },
+    {
+      "No.": "125",
+      "Session No": "25",
+      "Name": "HN_CQ65",
+      "Details": "Summarize an English article related to science. What key words and phrase do you find essential for the translation? How do you translate these into Vietnamese? Translate a passage into Vietnamese."
+    },
+    {
+      "No.": "126",
+      "Session No": "26",
+      "Name": "HN_CQ61",
+      "Details": "What are some features of science news/ documents?"
+    },
+    {
+      "No.": "127",
+      "Session No": "26",
+      "Name": "HN_CQ62",
+      "Details": "What are some problems for translation of science news/ documents? What strategies can be used to translate these?"
+    },
+    {
+      "No.": "128",
+      "Session No": "26",
+      "Name": "HN_CQ63",
+      "Details": "Study five different documents (news) related to science. What are the common words, phrases, structures that can be found in these documents? How can these be translated into Vietnamese?"
+    },
+    {
+      "No.": "129",
+      "Session No": "26",
+      "Name": "HN_CQ64",
+      "Details": "Study five different documents (news) related to science. What are the common words, phrases, structures that can be found in these documents? How can these be translated into English?"
+    },
+    {
+      "No.": "130",
+      "Session No": "26",
+      "Name": "HN_CQ65",
+      "Details": "Summarize an English article related to science. What key words and phrase do you find essential for the translation? How do you translate these into Vietnamese? Translate a passage into Vietnamese."
+    },
+    {
+      "No.": "131",
+      "Session No": "27",
+      "Name": "HN_CQ66",
+      "Details": "Study 5 different English news, topic: Food Industry. What are the common features of food-industry English?"
+    },
+    {
+      "No.": "132",
+      "Session No": "27",
+      "Name": "HN_CQ67",
+      "Details": "Study 5 different English news, topic: Food Industry. What are some key terms used in the news? What are their equivalences?"
+    },
+    {
+      "No.": "133",
+      "Session No": "27",
+      "Name": "HN_CQ68",
+      "Details": "Summarize an English article, topic: Food Industry. What are some keys terms used in the article? What are their equivalences in Vietnamese?"
+    },
+    {
+      "No.": "134",
+      "Session No": "27",
+      "Name": "HN_CQ69",
+      "Details": "Summarize an English article, topic: Food Industry. Translate the article into Vietnamese. What difficulties you face in the translation?"
+    },
+    {
+      "No.": "135",
+      "Session No": "27",
+      "Name": "HN_CQ70",
+      "Details": "Summarize a Vietnamese article, topic: Food Industry. What are the key terms used in the article? What are their equivalences? Translate the article into English."
+    },
+    {
+      "No.": "136",
+      "Session No": "28",
+      "Name": "HN_CQ66",
+      "Details": "Study 5 different English news, topic: Food Industry. What are the common features of food-industry English?"
+    },
+    {
+      "No.": "137",
+      "Session No": "28",
+      "Name": "HN_CQ67",
+      "Details": "Study 5 different English news, topic: Food Industry. What are some key terms used in the news? What are their equivalences?"
+    },
+    {
+      "No.": "138",
+      "Session No": "28",
+      "Name": "HN_CQ68",
+      "Details": "Summarize an English article, topic: Food Industry. What are some keys terms used in the article? What are their equivalences in Vietnamese?"
+    },
+    {
+      "No.": "139",
+      "Session No": "28",
+      "Name": "HN_CQ69",
+      "Details": "Summarize an English article, topic: Food Industry. Translate the article into Vietnamese. What difficulties you face in the translation?"
+    },
+    {
+      "No.": "140",
+      "Session No": "28",
+      "Name": "HN_CQ70",
+      "Details": "Summarize a Vietnamese article, topic: Food Industry. What are the key terms used in the article? What are their equivalences? Translate the article into English."
+    },
+    {
+      "No.": "141",
+      "Session No": "29",
+      "Name": "HN_CQ71",
+      "Details": "What are different kinds of entertainment? What are their equivalences in Vietnamese?"
+    },
+    {
+      "No.": "142",
+      "Session No": "29",
+      "Name": "HN_CQ72",
+      "Details": "What are some common features of language used in entertainment?"
+    },
+    {
+      "No.": "143",
+      "Session No": "29",
+      "Name": "HN_CQ73",
+      "Details": "Study 5 different English news, topic: entertainment. What are key words, phrases do you find in the 5 news? What are their equivalences?"
+    },
+    {
+      "No.": "144",
+      "Session No": "29",
+      "Name": "HN_CQ74",
+      "Details": "Summarize an English article about entertainment. What are key words, phrases used in the article? How do you translate these? Translate the article into Vietnamese?"
+    },
+    {
+      "No.": "145",
+      "Session No": "29",
+      "Name": "HN_CQ75",
+      "Details": "Summarize a Vietnamese article about entertainment. What are key words, phrases used in the article? How do you translate these? Translate the article into Vietnamese?"
+    },
+    {
+      "No.": "146",
+      "Session No": "30",
+      "Name": "HN_CQ71",
+      "Details": "What are different kinds of entertainment? What are their equivalences in Vietnamese?"
+    },
+    {
+      "No.": "147",
+      "Session No": "30",
+      "Name": "HN_CQ72",
+      "Details": "What are some common features of language used in entertainment?"
+    },
+    {
+      "No.": "148",
+      "Session No": "30",
+      "Name": "HN_CQ73",
+      "Details": "Study 5 different English news, topic: entertainment. What are key words, phrases do you find in the 5 news? What are their equivalences?"
+    },
+    {
+      "No.": "149",
+      "Session No": "30",
+      "Name": "HN_CQ74",
+      "Details": "Summarize an English article about entertainment. What are key words, phrases used in the article? How do you translate these? Translate the article into Vietnamese?"
+    },
+    {
+      "No.": "150",
+      "Session No": "30",
+      "Name": "HN_CQ75",
+      "Details": "Summarize a Vietnamese article about entertainment. What are key words, phrases used in the article? How do you translate these? Translate the article into Vietnamese?"
+    },
+    {
+      "No.": "151",
+      "Session No": "31",
+      "Name": "HN_CQ76",
+      "Details": "What are typical terms used in the field of health care? What are their equivalences in Vietnamese?"
+    },
+    {
+      "No.": "152",
+      "Session No": "31",
+      "Name": "HN_CQ77",
+      "Details": "Study 5 different news about health care. What are common things/features do you find in the news? How are these interpreted into Vietnamese?"
+    },
+    {
+      "No.": "153",
+      "Session No": "31",
+      "Name": "HN_CQ78",
+      "Details": "What are typical words, phrase, terms used in the news/ writing about vaccine? How are they interpreted into Vietnamese?"
+    },
+    {
+      "No.": "154",
+      "Session No": "31",
+      "Name": "HN_CQ79",
+      "Details": "Study 5 different news about vaccines. What are common words, phrases, terms do you find in the news? Translate these news into Vietnamese?"
+    },
+    {
+      "No.": "155",
+      "Session No": "31",
+      "Name": "HN_CQ80",
+      "Details": "What typical words, phrases, terms are used in the news about diseases? How are these interpreted into Vietnamese? Translate 5 disease-related news into Vietnamese? Do you face any problems in the translation? How should problems be solved?"
+    },
+    {
+      "No.": "156",
+      "Session No": "32",
+      "Name": "HN_CQ76",
+      "Details": "What are typical terms used in the field of health care? What are their equivalences in Vietnamese?"
+    },
+    {
+      "No.": "157",
+      "Session No": "32",
+      "Name": "HN_CQ77",
+      "Details": "Study 5 different news about health care. What are common things/features do you find in the news? How are these interpreted into Vietnamese?"
+    },
+    {
+      "No.": "158",
+      "Session No": "32",
+      "Name": "HN_CQ78",
+      "Details": "What are typical words, phrase, terms used in the news/ writing about vaccine? How are they interpreted into Vietnamese?"
+    },
+    {
+      "No.": "159",
+      "Session No": "32",
+      "Name": "HN_CQ79",
+      "Details": "Study 5 different news about vaccines. What are common words, phrases, terms do you find in the news? Translate these news into Vietnamese?"
+    },
+    {
+      "No.": "160",
+      "Session No": "32",
+      "Name": "HN_CQ80",
+      "Details": "What typical words, phrases, terms are used in the news about diseases? How are these interpreted into Vietnamese? Translate 5 disease-related news into Vietnamese? Do you face any problems in the translation? How should problems be solved?"
+    },
+    {
+      "No.": "161",
+      "Session No": "33",
+      "Name": "HN_CQ81",
+      "Details": "Based on a given article, topic: food manufacturing industry. What are the key words, phrases, terms, structures used in the article? What are their equivalences?"
+    },
+    {
+      "No.": "162",
+      "Session No": "33",
+      "Name": "HN_CQ82",
+      "Details": "Based on a given article, topic: food manufacturing industry. Translate the article into Vietnamese? What problems do you face in the translation? How are these problems solved?"
+    },
+    {
+      "No.": "163",
+      "Session No": "33",
+      "Name": "HN_CQ83",
+      "Details": "What may be non-equivalences in food-industry English? What are some strategies to deal with these?"
+    },
+    {
+      "No.": "164",
+      "Session No": "33",
+      "Name": "HN_CQ84",
+      "Details": "How do you find about English used in description of food ingredients? Is it easy to find their equivalences? Analyze 5 examples of description of food ingredients and translate these into Vietnamese? Do you find any problems in the translation?"
+    },
+    {
+      "No.": "165",
+      "Session No": "33",
+      "Name": "HN_CQ85",
+      "Details": "Summarize an article about Vietnamese cuisines. What are key words, phrases, terms used in the article? What are their equivalences in English. Translate the article into Vietnamese. What problems do you face when translating about cuisines? How are these solved?"
+    },
+    {
+      "No.": "166",
+      "Session No": "34",
+      "Name": "HN_CQ81",
+      "Details": "Based on a given article, topic: food manufacturing industry. What are the key words, phrases, terms, structures used in the article? What are their equivalences?"
+    },
+    {
+      "No.": "167",
+      "Session No": "34",
+      "Name": "HN_CQ82",
+      "Details": "Based on a given article, topic: food manufacturing industry. Translate the article into Vietnamese? What problems do you face in the translation? How are these problems solved?"
+    },
+    {
+      "No.": "168",
+      "Session No": "34",
+      "Name": "HN_CQ83",
+      "Details": "What may be non-equivalences in food-industry English? What are some strategies to deal with these?"
+    },
+    {
+      "No.": "169",
+      "Session No": "34",
+      "Name": "HN_CQ84",
+      "Details": "How do you find about English used in description of food ingredients? Is it easy to find their equivalences? Analyze 5 examples of description of food ingredients and translate these into Vietnamese? Do you find any problems in the translation?"
+    },
+    {
+      "No.": "170",
+      "Session No": "34",
+      "Name": "HN_CQ85",
+      "Details": "Summarize an article about Vietnamese cuisines. What are key words, phrases, terms used in the article? What are their equivalences in English. Translate the article into Vietnamese. What problems do you face when translating about cuisines? How are these solved?"
+    },
+    {
+      "No.": "171",
+      "Session No": "35",
+      "Name": "HN_CQ86",
+      "Details": "What are common features of technical documents? (Books, magazines, journals...)"
+    },
+    {
+      "No.": "172",
+      "Session No": "35",
+      "Name": "HN_CQ87",
+      "Details": "What problems do translators face in the translation of these?"
+    },
+    {
+      "No.": "173",
+      "Session No": "35",
+      "Name": "HN_CQ88",
+      "Details": "How are technical terms translated? What are the basis for the translation?"
+    },
+    {
+      "No.": "174",
+      "Session No": "35",
+      "Name": "HN_CQ89",
+      "Details": "Review a technical book (Information Technology). What are major terms, words, phrases you find in the book? How are these translated?"
+    },
+    {
+      "No.": "175",
+      "Session No": "35",
+      "Name": "HN_CQ90",
+      "Details": "Review a technical book (Information Technology). Translate a chapter. Do you find any problems in the translation? How do you solve these problems?"
+    },
+    {
+      "No.": "176",
+      "Session No": "36",
+      "Name": "HN_CQ86",
+      "Details": "What are common features of technical documents? (Books, magazines, journals...)"
+    },
+    {
+      "No.": "177",
+      "Session No": "36",
+      "Name": "HN_CQ87",
+      "Details": "What problems do translators face in the translation of these?"
+    },
+    {
+      "No.": "178",
+      "Session No": "36",
+      "Name": "HN_CQ88",
+      "Details": "How are technical terms translated? What are the basis for the translation?"
+    },
+    {
+      "No.": "179",
+      "Session No": "36",
+      "Name": "HN_CQ89",
+      "Details": "Review a technical book (Information Technology). What are major terms, words, phrases you find in the book? How are these translated?"
+    },
+    {
+      "No.": "180",
+      "Session No": "36",
+      "Name": "HN_CQ90",
+      "Details": "Review a technical book (Information Technology). Translate a chapter. Do you find any problems in the translation? How do you solve these problems?"
+    },
+    {
+      "No.": "181",
+      "Session No": "37",
+      "Name": "HN_CQ91",
+      "Details": "Study a given English article, topic: Electrical Engineering Technology. What are key words, phrases, terms? How are these translated into Vietnamese?"
+    },
+    {
+      "No.": "182",
+      "Session No": "37",
+      "Name": "HN_CQ92",
+      "Details": "What problems do translators face in the translation of Electrical Engineering Technology articles, documents? What are requirements for translators?"
+    },
+    {
+      "No.": "183",
+      "Session No": "37",
+      "Name": "HN_CQ93",
+      "Details": "Summarize an English article about Electrical Engineering Technology. What key words, phrases, terms used in the article? How do you translate these? Translate a passage. What problems do you face in the translation? How do you deal with those problems?"
+    },
+    {
+      "No.": "184",
+      "Session No": "37",
+      "Name": "HN_CQ94",
+      "Details": "What are common features of guide books for electrical equipment? How is the language used in those documents?"
+    },
+    {
+      "No.": "185",
+      "Session No": "37",
+      "Name": "HN_CQ95",
+      "Details": "Analyze a guide book for electrical Equipements? Select 2-3 parts to translate them into Vietnamese. What lessons do you draw out after translation?"
+    },
+    {
+      "No.": "186",
+      "Session No": "38",
+      "Name": "HN_CQ91",
+      "Details": "Study a given English article, topic: Electrical Engineering Technology. What are key words, phrases, terms? How are these translated into Vietnamese?"
+    },
+    {
+      "No.": "187",
+      "Session No": "38",
+      "Name": "HN_CQ92",
+      "Details": "What problems do translators face in the translation of Electrical Engineering Technology articles, documents? What are requirements for translators?"
+    },
+    {
+      "No.": "188",
+      "Session No": "38",
+      "Name": "HN_CQ93",
+      "Details": "Summarize an English article about Electrical Engineering Technology. What key words, phrases, terms used in the article? How do you translate these? Translate a passage. What problems do you face in the translation? How do you deal with those problems?"
+    },
+    {
+      "No.": "189",
+      "Session No": "38",
+      "Name": "HN_CQ94",
+      "Details": "What are common features of guide books for electrical equipment? How is the language used in those documents?"
+    },
+    {
+      "No.": "190",
+      "Session No": "38",
+      "Name": "HN_CQ95",
+      "Details": "Analyze a guide book for electrical Equipements? Select 2-3 parts to translate them into Vietnamese. What lessons do you draw out after translation?"
+    },
+    {
+      "No.": "191",
+      "Session No": "39",
+      "Name": "HN_CQ96",
+      "Details": "What are common features of English used in automobile engineering technology?"
+    },
+    {
+      "No.": "192",
+      "Session No": "39",
+      "Name": "HN_CQ97",
+      "Details": "What problems translators face when translating automobile English?"
+    },
+    {
+      "No.": "193",
+      "Session No": "39",
+      "Name": "HN_CQ98",
+      "Details": "What are typical terms, words, phrases used in automobile English documents? What are their equivalences?"
+    },
+    {
+      "No.": "194",
+      "Session No": "39",
+      "Name": "HN_CQ99",
+      "Details": "Study a given English article, topic: Automobile Engineering Technology. What are key words, phrases, terms used in the article? What are their equivalences in Vietnamese? Translate the article into Vietnamese."
+    },
+    {
+      "No.": "195",
+      "Session No": "39",
+      "Name": "HN_CQ100",
+      "Details": "What are some strategies in dealing with the translation of automobile English?"
+    },
+    {
+      "No.": "196",
+      "Session No": "40",
+      "Name": "HN_CQ96",
+      "Details": "What are common features of English used in automobile engineering technology?"
+    },
+    {
+      "No.": "197",
+      "Session No": "40",
+      "Name": "HN_CQ97",
+      "Details": "What problems translators face when translating automobile English?"
+    },
+    {
+      "No.": "198",
+      "Session No": "40",
+      "Name": "HN_CQ98",
+      "Details": "What are typical terms, words, phrases used in automobile English documents? What are their equivalences?"
+    },
+    {
+      "No.": "199",
+      "Session No": "40",
+      "Name": "HN_CQ99",
+      "Details": "Study a given English article, topic: Automobile Engineering Technology. What are key words, phrases, terms used in the article? What are their equivalences in Vietnamese? Translate the article into Vietnamese."
+    },
+    {
+      "No.": "200",
+      "Session No": "40",
+      "Name": "HN_CQ100",
+      "Details": "What are some strategies in dealing with the translation of automobile English?"
+    },
+    {
+      "No.": "201",
+      "Session No": "41",
+      "Name": "HN_CQ101",
+      "Details": "Study 5 given socio-cultural news. What are their common features?"
+    },
+    {
+      "No.": "202",
+      "Session No": "41",
+      "Name": "HN_CQ102",
+      "Details": "What are some strategies of translating headlines of the news (socio-cultural news)?"
+    },
+    {
+      "No.": "203",
+      "Session No": "41",
+      "Name": "HN_CQ103",
+      "Details": "What figures of speech may occur in socio-cultural news? How are they dealt with?"
+    },
+    {
+      "No.": "204",
+      "Session No": "41",
+      "Name": "HN_CQ104",
+      "Details": "What are some common features of social events news?"
+    },
+    {
+      "No.": "205",
+      "Session No": "41",
+      "Name": "HN_CQ105",
+      "Details": "Study 5 different news about social events. What key words, phrases, terms used in these news? How are they translated into Vietnamese? Translate the news into Vietnamese."
+    },
+    {
+      "No.": "206",
+      "Session No": "42",
+      "Name": "HN_CQ101",
+      "Details": "Study 5 given socio-cultural news. What are their common features?"
+    },
+    {
+      "No.": "207",
+      "Session No": "42",
+      "Name": "HN_CQ102",
+      "Details": "What are some strategies of translating headlines of the news (socio-cultural news)?"
+    },
+    {
+      "No.": "208",
+      "Session No": "42",
+      "Name": "HN_CQ103",
+      "Details": "What figures of speech may occur in socio-cultural news? How are they dealt with?"
+    },
+    {
+      "No.": "209",
+      "Session No": "42",
+      "Name": "HN_CQ104",
+      "Details": "What are some common features of social events news?"
+    },
+    {
+      "No.": "210",
+      "Session No": "42",
+      "Name": "HN_CQ105",
+      "Details": "Study 5 different news about social events. What key words, phrases, terms used in these news? How are they translated into Vietnamese? Translate the news into Vietnamese."
+    },
+    {
+      "No.": "211",
+      "Session No": "43",
+      "Name": "HN_CQ106",
+      "Details": "Study 5 given cultural events news. What are the common features?"
+    },
+    {
+      "No.": "212",
+      "Session No": "43",
+      "Name": "HN_CQ107",
+      "Details": "Analyze 10 different headlines of social events. What are the common features? Translate these into Vietnamese? Do you face any problems in the translation of these?"
+    },
+    {
+      "No.": "213",
+      "Session No": "43",
+      "Name": "HN_CQ108",
+      "Details": "What figures of speech may be found in the news about social events? What are some strategies in dealing with these?"
+    },
+    {
+      "No.": "214",
+      "Session No": "43",
+      "Name": "HN_CQ109",
+      "Details": "Summarize a given English article, topic: social values. What are main words, phrases, terms used in the article? Translate the article into Vietnamese."
+    },
+    {
+      "No.": "215",
+      "Session No": "43",
+      "Name": "HN_CQ110",
+      "Details": "Summarize a given Vietnamese article, topic: social events. What are main words, phrases, terms used in the article? Translate the article into English. What are problems in the translation? How are the problems dealt with?"
+    },
+    {
+      "No.": "216",
+      "Session No": "44",
+      "Name": "HN_CQ106",
+      "Details": "Study 5 given cultural events news. What are the common features?"
+    },
+    {
+      "No.": "217",
+      "Session No": "44",
+      "Name": "HN_CQ107",
+      "Details": "Analyze 10 different headlines of social events. What are the common features? Translate these into Vietnamese? Do you face any problems in the translation of these?"
+    },
+    {
+      "No.": "218",
+      "Session No": "44",
+      "Name": "HN_CQ108",
+      "Details": "What figures of speech may be found in the news about social events? What are some strategies in dealing with these?"
+    },
+    {
+      "No.": "219",
+      "Session No": "44",
+      "Name": "HN_CQ109",
+      "Details": "Summarize a given English article, topic: social values. What are main words, phrases, terms used in the article? Translate the article into Vietnamese."
+    },
+    {
+      "No.": "220",
+      "Session No": "44",
+      "Name": "HN_CQ110",
+      "Details": "Summarize a given Vietnamese article, topic: social events. What are main words, phrases, terms used in the article? Translate the article into English. What are problems in the translation? How are the problems dealt with?"
+    },
+    {
+      "No.": "221",
+      "Session No": "45",
+      "Name": "HN_CQ111",
+      "Details": "Study 5 given news of cultural events. How are news of cultural events reported? What are common features of these news?"
+    },
+    {
+      "No.": "222",
+      "Session No": "45",
+      "Name": "HN_CQ112",
+      "Details": "What language styles are used in cultural events?"
+    },
+    {
+      "No.": "223",
+      "Session No": "45",
+      "Name": "HN_CQ113",
+      "Details": "What problems translators may face in the translation of cultural events?"
+    },
+    {
+      "No.": "224",
+      "Session No": "45",
+      "Name": "HN_CQ114",
+      "Details": "Study an English article, topic: cultural events. What key words, phrases, terms are used in the article? How are these translated? Translate the article into Vietnamese."
+    },
+    {
+      "No.": "225",
+      "Session No": "45",
+      "Name": "HN_CQ115",
+      "Details": "Study an Vietnamese article, topic: cultural events. What key words, phrases, terms are used in the article? How are these translated? Translate the article into Vietnamese."
+    },
+    {
+      "No.": "226",
+      "Session No": "46",
+      "Name": "HN_CQ111",
+      "Details": "Study 5 given news of cultural events. How are news of cultural events reported? What are common features of these news?"
+    },
+    {
+      "No.": "227",
+      "Session No": "46",
+      "Name": "HN_CQ112",
+      "Details": "What language styles are used in cultural events?"
+    },
+    {
+      "No.": "228",
+      "Session No": "46",
+      "Name": "HN_CQ113",
+      "Details": "What problems translators may face in the translation of cultural events?"
+    },
+    {
+      "No.": "229",
+      "Session No": "46",
+      "Name": "HN_CQ114",
+      "Details": "Study an English article, topic: cultural events. What key words, phrases, terms are used in the article? How are these translated? Translate the article into Vietnamese."
+    },
+    {
+      "No.": "230",
+      "Session No": "46",
+      "Name": "HN_CQ115",
+      "Details": "Study an Vietnamese article, topic: cultural events. What key words, phrases, terms are used in the article? How are these translated? Translate the article into Vietnamese."
+    },
+    {
+      "No.": "231",
+      "Session No": "47",
+      "Name": "HN_CQ116",
+      "Details": "Study 5 different news about sports events. What are the common features of the language used in describing sports events news?"
+    },
+    {
+      "No.": "232",
+      "Session No": "47",
+      "Name": "HN_CQ117",
+      "Details": "What are typical terms, words, phrases used in reporting sports events? What are their equivalences?"
+    },
+    {
+      "No.": "233",
+      "Session No": "47",
+      "Name": "HN_CQ118",
+      "Details": "Based on the 5 different news about sports events, what are main words, phrases, structures used in describing sports events? What are their equivalences? Translate the 5 news into Vietnamese."
+    },
+    {
+      "No.": "234",
+      "Session No": "47",
+      "Name": "HN_CQ119",
+      "Details": "What are some problems in the translation of sports news? How to deal with those problems?"
+    },
+    {
+      "No.": "235",
+      "Session No": "47",
+      "Name": "HN_CQ120",
+      "Details": "Study an English article about sports. What are key words, phrases, terms used in the article? What are their equivalences? Translate the article into Vietnamese."
+    },
+    {
+      "No.": "236",
+      "Session No": "48",
+      "Name": "HN_CQ116",
+      "Details": "Study 5 different news about sports events. What are the common features of the language used in describing sports events news?"
+    },
+    {
+      "No.": "237",
+      "Session No": "48",
+      "Name": "HN_CQ117",
+      "Details": "What are typical terms, words, phrases used in reporting sports events? What are their equivalences?"
+    },
+    {
+      "No.": "238",
+      "Session No": "48",
+      "Name": "HN_CQ118",
+      "Details": "Based on the 5 different news about sports events, what are main words, phrases, structures used in describing sports events? What are their equivalences? Translate the 5 news into Vietnamese."
+    },
+    {
+      "No.": "239",
+      "Session No": "48",
+      "Name": "HN_CQ119",
+      "Details": "What are some problems in the translation of sports news? How to deal with those problems?"
+    },
+    {
+      "No.": "240",
+      "Session No": "48",
+      "Name": "HN_CQ120",
+      "Details": "Study an English article about sports. What are key words, phrases, terms used in the article? What are their equivalences? Translate the article into Vietnamese."
+    },
+    {
+      "No.": "241",
+      "Session No": "49",
+      "Name": "HN_CQ121",
+      "Details": "Study 5 different diplomatic news. What are common features of these news?"
+    },
+    {
+      "No.": "242",
+      "Session No": "49",
+      "Name": "HN_CQ122",
+      "Details": "What are some requirements of diplomatic news translation?"
+    },
+    {
+      "No.": "243",
+      "Session No": "49",
+      "Name": "HN_CQ123",
+      "Details": "What are typical terms, words, phrases used in diplomatic news? What are their equivalences?"
+    },
+    {
+      "No.": "244",
+      "Session No": "49",
+      "Name": "HN_CQ124",
+      "Details": "Study an English article, topic: relation between 2 countries. What are key words, phrases used in the article? How do you translate these key words?"
+    },
+    {
+      "No.": "245",
+      "Session No": "49",
+      "Name": "HN_CQ125",
+      "Details": "Study an English article, topic: relations between 2 countries. How do you translate the text? What problems do you face in the translation? How do you deal with those problems?"
+    },
+    {
+      "No.": "246",
+      "Session No": "50",
+      "Name": "HN_CQ121",
+      "Details": "Study 5 different diplomatic news. What are common features of these news?"
+    },
+    {
+      "No.": "247",
+      "Session No": "50",
+      "Name": "HN_CQ122",
+      "Details": "What are some requirements of diplomatic news translation?"
+    },
+    {
+      "No.": "248",
+      "Session No": "50",
+      "Name": "HN_CQ123",
+      "Details": "What are typical terms, words, phrases used in diplomatic news? What are their equivalences?"
+    },
+    {
+      "No.": "249",
+      "Session No": "50",
+      "Name": "HN_CQ124",
+      "Details": "Study an English article, topic: relation between 2 countries. What are key words, phrases used in the article? How do you translate these key words?"
+    },
+    {
+      "No.": "250",
+      "Session No": "50",
+      "Name": "HN_CQ125",
+      "Details": "Study an English article, topic: relations between 2 countries. How do you translate the text? What problems do you face in the translation? How do you deal with those problems?"
+    },
+    {
+      "No.": "251",
+      "Session No": "51",
+      "Name": "HN_CQ126",
+      "Details": "Study a Vietnamese article about customs and traditions. What are some features of the language used in the article?"
+    },
+    {
+      "No.": "252",
+      "Session No": "51",
+      "Name": "HN_CQ127",
+      "Details": "What words, phrases, structures, terms may be problems for translators? How are these translated?"
+    },
+    {
+      "No.": "253",
+      "Session No": "51",
+      "Name": "HN_CQ128",
+      "Details": "What are some non-equivalences that may be found in customs-traditions documents? What are some strategies in dealing with these?"
+    },
+    {
+      "No.": "254",
+      "Session No": "51",
+      "Name": "HN_CQ129",
+      "Details": "What figures of speech may be found in an article about customs, traditions? What are strategies to deal with these?"
+    },
+    {
+      "No.": "255",
+      "Session No": "51",
+      "Name": "HN_CQ130",
+      "Details": "Translate a given English article about customs and traditions of a country in the world. What are the key words, phrases and their equivalences? Demonstrate how you translate the text."
+    },
+    {
+      "No.": "256",
+      "Session No": "52",
+      "Name": "HN_CQ126",
+      "Details": "Study a Vietnamese article about customs and traditions. What are some features of the language used in the article?"
+    },
+    {
+      "No.": "257",
+      "Session No": "52",
+      "Name": "HN_CQ127",
+      "Details": "What words, phrases, structures, terms may be problems for translators? How are these translated?"
+    },
+    {
+      "No.": "258",
+      "Session No": "52",
+      "Name": "HN_CQ128",
+      "Details": "What are some non-equivalences that may be found in customs-traditions documents? What are some strategies in dealing with these?"
+    },
+    {
+      "No.": "259",
+      "Session No": "52",
+      "Name": "HN_CQ129",
+      "Details": "What figures of speech may be found in an article about customs, traditions? What are strategies to deal with these?"
+    },
+    {
+      "No.": "260",
+      "Session No": "52",
+      "Name": "HN_CQ130",
+      "Details": "Translate a given English article about customs and traditions of a country in the world. What are the key words, phrases and their equivalences? Demonstrate how you translate the text."
+    },
+    {
+      "No.": "261",
+      "Session No": "53",
+      "Name": "HN_CQ131",
+      "Details": "What are common features of the language used in articles, documents about natural values of tourism? How are they translated?"
+    },
+    {
+      "No.": "262",
+      "Session No": "53",
+      "Name": "HN_CQ132",
+      "Details": "What are some terms used in documents about natural values of tourism? What are their equivalences?"
+    },
+    {
+      "No.": "263",
+      "Session No": "53",
+      "Name": "HN_CQ133",
+      "Details": "Study a given English article about natural values of tourism. What are key words, phrase, terms used in the article? What are their equivalences in Vietnamese?"
+    },
+    {
+      "No.": "264",
+      "Session No": "53",
+      "Name": "HN_CQ134",
+      "Details": "Study a given English article about natural values of tourism. Translate the text into Vietnamese. What are some problems and what strategies are used to deal with those problems?"
+    },
+    {
+      "No.": "265",
+      "Session No": "53",
+      "Name": "HN_CQ135",
+      "Details": "Study a given Vietnamese article about natural values of tourism. Translate the text into Vietnamese. What are some problems and what strategies are used to deal with those problems?"
+    },
+    {
+      "No.": "266",
+      "Session No": "54",
+      "Name": "HN_CQ131",
+      "Details": "What are common features of the language used in articles, documents about natural values of tourism? How are they translated?"
+    },
+    {
+      "No.": "267",
+      "Session No": "54",
+      "Name": "HN_CQ132",
+      "Details": "What are some terms used in documents about natural values of tourism? What are their equivalences?"
+    },
+    {
+      "No.": "268",
+      "Session No": "54",
+      "Name": "HN_CQ133",
+      "Details": "Study a given English article about natural values of tourism. What are key words, phrase, terms used in the article? What are their equivalences in Vietnamese?"
+    },
+    {
+      "No.": "269",
+      "Session No": "54",
+      "Name": "HN_CQ134",
+      "Details": "Study a given English article about natural values of tourism. Translate the text into Vietnamese. What are some problems and what strategies are used to deal with those problems?"
+    },
+    {
+      "No.": "270",
+      "Session No": "54",
+      "Name": "HN_CQ135",
+      "Details": "Study a given Vietnamese article about natural values of tourism. Translate the text into Vietnamese. What are some problems and what strategies are used to deal with those problems?"
+    },
+    {
+      "No.": "271",
+      "Session No": "55",
+      "Name": "HN_CQ136",
+      "Details": "What are common features of the language used education documents? What are key words, phrases, terms used in English documents about education? What are their equivalences?"
+    },
+    {
+      "No.": "272",
+      "Session No": "55",
+      "Name": "HN_CQ137",
+      "Details": "What are English key words, phrases used in documents about education systems? What are their equivalences in Vietnamese?"
+    },
+    {
+      "No.": "273",
+      "Session No": "55",
+      "Name": "HN_CQ138",
+      "Details": "Summarize an English article on education problems. What are key words and their equivalences? Translate the article into Vietnamese. How do you deal with some non-equivalences?"
+    },
+    {
+      "No.": "274",
+      "Session No": "55",
+      "Name": "HN_CQ139",
+      "Details": "Summarize a Vietnamese article on education problems. What are key words and their equivalences? Translate the article into English. How do you deal with some non-equivalences?"
+    },
+    {
+      "No.": "275",
+      "Session No": "55",
+      "Name": "HN_CQ140",
+      "Details": "Summarize an English article on some changes in education. What are key words and phrases and what are their equivalences? Translate the article into Vietnamese."
+    },
+    {
+      "No.": "276",
+      "Session No": "56",
+      "Name": "HN_CQ136",
+      "Details": "What are common features of the language used education documents? What are key words, phrases, terms used in English documents about education? What are their equivalences?"
+    },
+    {
+      "No.": "277",
+      "Session No": "56",
+      "Name": "HN_CQ137",
+      "Details": "What are English key words, phrases used in documents about education systems? What are their equivalences in Vietnamese?"
+    },
+    {
+      "No.": "278",
+      "Session No": "56",
+      "Name": "HN_CQ138",
+      "Details": "Summarize an English article on education problems. What are key words and their equivalences? Translate the article into Vietnamese. How do you deal with some non-equivalences?"
+    },
+    {
+      "No.": "279",
+      "Session No": "56",
+      "Name": "HN_CQ139",
+      "Details": "Summarize a Vietnamese article on education problems. What are key words and their equivalences? Translate the article into English. How do you deal with some non-equivalences?"
+    },
+    {
+      "No.": "280",
+      "Session No": "56",
+      "Name": "HN_CQ140",
+      "Details": "Summarize an English article on some changes in education. What are key words and phrases and what are their equivalences? Translate the article into Vietnamese."
+    },
+    {
+      "No.": "281",
+      "Session No": "57",
+      "Name": "HN_CQ141",
+      "Details": "What are common features of the language used in history documents?"
+    },
+    {
+      "No.": "282",
+      "Session No": "57",
+      "Name": "HN_CQ142",
+      "Details": "What are common key words, phrases, structures used in history documents? What are their equivalences?"
+    },
+    {
+      "No.": "283",
+      "Session No": "57",
+      "Name": "HN_CQ143",
+      "Details": "What are problems translators may face in the translation of history documents? What are some requirements in the translation of these documents?"
+    },
+    {
+      "No.": "284",
+      "Session No": "57",
+      "Name": "HN_CQ144",
+      "Details": "Study a given English history document. What are key words, phrases, structures? What are their equivalences? How do you translate the document into Vietnamese?"
+    },
+    {
+      "No.": "285",
+      "Session No": "57",
+      "Name": "HN_CQ145",
+      "Details": "Study a given English history document. What problems do you face in the translation of the given documents? How are those dealt with?"
+    },
+    {
+      "No.": "286",
+      "Session No": "58",
+      "Name": "HN_CQ141",
+      "Details": "What are common features of the language used in history documents?"
+    },
+    {
+      "No.": "287",
+      "Session No": "58",
+      "Name": "HN_CQ142",
+      "Details": "What are common key words, phrases, structures used in history documents? What are their equivalences?"
+    },
+    {
+      "No.": "288",
+      "Session No": "58",
+      "Name": "HN_CQ143",
+      "Details": "What are problems translators may face in the translation of history documents? What are some requirements in the translation of these documents?"
+    },
+    {
+      "No.": "289",
+      "Session No": "58",
+      "Name": "HN_CQ144",
+      "Details": "Study a given English history document. What are key words, phrases, structures? What are their equivalences? How do you translate the document into Vietnamese?"
+    },
+    {
+      "No.": "290",
+      "Session No": "58",
+      "Name": "HN_CQ145",
+      "Details": "Study a given English history document. What problems do you face in the translation of the given documents? How are those dealt with?"
+    },
+    {
+      "No.": "291",
+      "Session No": "59",
+      "Name": "HN_CQ146",
+      "Details": "Study an example of tour commentary. What are some features of the language used in the commentary?"
+    },
+    {
+      "No.": "292",
+      "Session No": "59",
+      "Name": "HN_CQ147",
+      "Details": "What problems translators may face in the translation of tour commentary? What strategies are used?"
+    },
+    {
+      "No.": "293",
+      "Session No": "59",
+      "Name": "HN_CQ148",
+      "Details": "Study a given tour commentary in Vietnamese on natural place. What are key words, phrases, ,structures used in the commentary? How are these translated into English?"
+    },
+    {
+      "No.": "294",
+      "Session No": "59",
+      "Name": "HN_CQ149",
+      "Details": "Study a given tour commentary in Vietnamese on historical place. What are key words, phrases, ,structures used in the commentary? How are these translated into English?"
+    },
+    {
+      "No.": "295",
+      "Session No": "59",
+      "Name": "HN_CQ150",
+      "Details": "Study a given tour commentary in Vietnamese on a coach. What are key words, phrases, ,structures used in the commentary? How are these translated into English?"
+    },
+    {
+      "No.": "296",
+      "Session No": "60",
+      "Name": "HN_CQ146",
+      "Details": "Study an example of tour commentary. What are some features of the language used in the commentary?"
+    },
+    {
+      "No.": "297",
+      "Session No": "60",
+      "Name": "HN_CQ147",
+      "Details": "What problems translators may face in the translation of tour commentary? What strategies are used?"
+    },
+    {
+      "No.": "298",
+      "Session No": "60",
+      "Name": "HN_CQ148",
+      "Details": "Study a given tour commentary in Vietnamese on natural place. What are key words, phrases, ,structures used in the commentary? How are these translated into English?"
+    },
+    {
+      "No.": "299",
+      "Session No": "60",
+      "Name": "HN_CQ149",
+      "Details": "Study a given tour commentary in Vietnamese on historical place. What are key words, phrases, ,structures used in the commentary? How are these translated into English?"
+    },
+    {
+      "No.": "300",
+      "Session No": "60",
+      "Name": "HN_CQ150",
+      "Details": "Study a given tour commentary in Vietnamese on a coach. What are key words, phrases, ,structures used in the commentary? How are these translated into English?"
+    }
+  ],
+  "materials": [
+    {
+      "No.": "1",
+      "Material Description": "Introduction to Translation and Interpreting Studies",
+      "Author": "Aline Ferreira (Editor) & John W. Schwieter (Editor)",
+      "Publisher": "Wiley-Blackwell",
+      "Published Date": "2022",
+      "Edition": "",
+      "ISBN": "9781119685326",
+      "Is Main Material": "True",
+      "Is Hard Copy": "False",
+      "Is Online": "True",
+      "Note": ""
+    },
+    {
+      "No.": "2",
+      "Material Description": "Tài liệu giảng dạy về phòng, chống tham nhũng dùng cho các trường đại học, cao đẳng không chuyên về luật",
+      "Author": "",
+      "Publisher": "BỘ GIÁO DỤC VÀ ĐÀO TẠO",
+      "Published Date": "2014",
+      "Edition": "",
+      "ISBN": "",
+      "Is Main Material": "False",
+      "Is Hard Copy": "False",
+      "Is Online": "True",
+      "Note": ""
+    },
+    {
+      "No.": "3",
+      "Material Description": "Tài liệu giảng dạy về phòng, chống tham nhũng dùng cho các trường đại học, cao đẳng không chuyên về luật (Phê duyệt kèm theo Quyết định số 3468/QĐ-BGDĐT ngày 06 tháng 9 năm 2014 của Bộ trưởng Bộ Giáo dục và Đào tạo)",
+      "Author": "Chủ biên et al.",
+      "Publisher": "BỘ GIÁO DỤC VÀ ĐÀO TẠO",
+      "Published Date": "2014",
+      "Edition": "",
+      "ISBN": "",
+      "Is Main Material": "False",
+      "Is Hard Copy": "False",
+      "Is Online": "True",
+      "Note": "https://drive.google.com/file/d/1Tf3Fyybs8puDEnp5JGw3zqezIfreh6H2/view?usp=drive_link"
+    },
+    {
+      "No.": "4",
+      "Material Description": "Hướng dẫn kỹ thuật biên dịch tiếng Anh (Anh-Việt, Việt-Anh)",
+      "Author": "Nguyễn Quốc Hùng (MA)",
+      "Publisher": "NXB Tổng hợp Hồ Chí Minh",
+      "Published Date": "2012",
+      "Edition": "",
+      "ISBN": "0000000323779",
+      "Is Main Material": "False",
+      "Is Hard Copy": "True",
+      "Is Online": "False",
+      "Note": ""
+    },
+    {
+      "No.": "5",
+      "Material Description": "Training the Translator",
+      "Author": "Paul Kussmaul",
+      "Publisher": "John Benjamins Publishing Company",
+      "Published Date": "1995",
+      "Edition": "",
+      "ISBN": "9789027216236",
+      "Is Main Material": "False",
+      "Is Hard Copy": "False",
+      "Is Online": "False",
+      "Note": "Download online at: https://www.academia.edu/26514605/TRAINING_THE_TRANSLATOR"
+    },
+    {
+      "No.": "6",
+      "Material Description": "http://dichthuatpro.com/cac-bieu-mau-tai-lieu-dich-thuat.html",
+      "Author": "",
+      "Publisher": "",
+      "Published Date": "",
+      "Edition": "",
+      "ISBN": "",
+      "Is Main Material": "False",
+      "Is Hard Copy": "False",
+      "Is Online": "True",
+      "Note": ""
+    },
+    {
+      "No.": "7",
+      "Material Description": "Introducing Translation Studies",
+      "Author": "Jeremy Munday",
+      "Publisher": "Routledge",
+      "Published Date": "",
+      "Edition": "",
+      "ISBN": "978-1-315-69186-2",
+      "Is Main Material": "False",
+      "Is Hard Copy": "True",
+      "Is Online": "False",
+      "Note": ""
+    },
+    {
+      "No.": "8",
+      "Material Description": "A textbook for Translation",
+      "Author": "Peter Newmark",
+      "Publisher": "Prentice Hall International",
+      "Published Date": "",
+      "Edition": "",
+      "ISBN": "0-13-912593-0",
+      "Is Main Material": "False",
+      "Is Hard Copy": "True",
+      "Is Online": "False",
+      "Note": ""
+    },
+    {
+      "No.": "9",
+      "Material Description": "https://edition.cnn.com",
+      "Author": "",
+      "Publisher": "",
+      "Published Date": "",
+      "Edition": "",
+      "ISBN": "",
+      "Is Main Material": "False",
+      "Is Hard Copy": "False",
+      "Is Online": "True",
+      "Note": ""
+    },
+    {
+      "No.": "10",
+      "Material Description": "https://news.cengage.com/in-the-news/",
+      "Author": "",
+      "Publisher": "",
+      "Published Date": "",
+      "Edition": "",
+      "ISBN": "",
+      "Is Main Material": "False",
+      "Is Hard Copy": "False",
+      "Is Online": "True",
+      "Note": ""
+    },
+    {
+      "No.": "11",
+      "Material Description": "https://vnanet.vn/",
+      "Author": "",
+      "Publisher": "",
+      "Published Date": "",
+      "Edition": "",
+      "ISBN": "",
+      "Is Main Material": "False",
+      "Is Hard Copy": "False",
+      "Is Online": "True",
+      "Note": ""
+    },
+    {
+      "No.": "12",
+      "Material Description": "https://www.bbc.com/news",
+      "Author": "",
+      "Publisher": "",
+      "Published Date": "",
+      "Edition": "",
+      "ISBN": "",
+      "Is Main Material": "False",
+      "Is Hard Copy": "False",
+      "Is Online": "True",
+      "Note": ""
+    },
+    {
+      "No.": "13",
+      "Material Description": "Guide on using Gen-AI tools to support translation: https://www.machinetranslation.com/blog/using-ai-to-translate",
+      "Author": "",
+      "Publisher": "",
+      "Published Date": "",
+      "Edition": "",
+      "ISBN": "",
+      "Is Main Material": "False",
+      "Is Hard Copy": "False",
+      "Is Online": "True",
+      "Note": ""
+    },
+    {
+      "No.": "14",
+      "Material Description": "Project-Based Learning and Competence Assessment in Translation Training (pp 207 -228). In Technology Implementation in Second Language Teaching and Translation Studies",
+      "Author": "Marı´a Luisa Carrio-Pastor",
+      "Publisher": "Springer",
+      "Published Date": "https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&q=Project-Based+Learning+and+Competence+Assessment+in+Translation+Training&btnG=",
+      "Edition": "2016",
+      "ISBN": "",
+      "Is Main Material": "False",
+      "Is Hard Copy": "False",
+      "Is Online": "True",
+      "Note": ""
+    },
+    {
+      "No.": "15",
+      "Material Description": "Adopting Project Based Learning in Translation Class to Facilitate Translator Emergent Competences",
+      "Author": "Hariyanto et al.",
+      "Publisher": "https://www.researchgate.net/publication/376171453_Adopting_Project_Based_Learning_in_Translation_Class_to_Facilitate_Translator_Emergent_Competences",
+      "Published Date": "",
+      "Edition": "2023",
+      "ISBN": "",
+      "Is Main Material": "False",
+      "Is Hard Copy": "False",
+      "Is Online": "True",
+      "Note": ""
+    },
+    {
+      "No.": "16",
+      "Material Description": "Overview and challenges of machine translation for contextually appropriate translations",
+      "Author": "Naveen & Trojovsky´",
+      "Publisher": "https://www.sciencedirect.com/science/article/pii/S2589004224021035",
+      "Published Date": "",
+      "Edition": "2024",
+      "ISBN": "",
+      "Is Main Material": "False",
+      "Is Hard Copy": "False",
+      "Is Online": "True",
+      "Note": ""
+    },
+    {
+      "No.": "17",
+      "Material Description": "Prompt engineering in translation: How do student translators leverage GenAI tools for translation tasks",
+      "Author": "Zhang et al.",
+      "Publisher": "https://www.researchgate.net/publication/392164811_Prompt_engineering_in_translation_How_do_student_translators_leverage_GenAI_tools_for_translation_tasks",
+      "Published Date": "",
+      "Edition": "2025",
+      "ISBN": "",
+      "Is Main Material": "False",
+      "Is Hard Copy": "False",
+      "Is Online": "True",
+      "Note": ""
+    },
+    {
+      "No.": "18",
+      "Material Description": "Optimizing Machine Translation through Prompt Engineering: An Investigation into ChatGPT's Customizability",
+      "Author": "Yamada",
+      "Publisher": "https://arxiv.org/abs/2308.01391",
+      "Published Date": "",
+      "Edition": "2024",
+      "ISBN": "",
+      "Is Main Material": "False",
+      "Is Hard Copy": "False",
+      "Is Online": "True",
+      "Note": ""
+    },
+    {
+      "No.": "19",
+      "Material Description": "Guiding Large Language Models to Post-Edit Machine Translation with Error Annotations",
+      "Author": "Ki & Carpuat",
+      "Publisher": "https://arxiv.org/abs/2404.07851",
+      "Published Date": "",
+      "Edition": "2024",
+      "ISBN": "",
+      "Is Main Material": "False",
+      "Is Hard Copy": "False",
+      "Is Online": "True",
+      "Note": ""
+    },
+    {
+      "No.": "20",
+      "Material Description": "Training in machine translation post-editing for foreign language students",
+      "Author": "Zhang & Torres-Hostench",
+      "Publisher": "https://www.lltjournal.org/item/1012/?utm_source=chatgpt.com",
+      "Published Date": "",
+      "Edition": "2022",
+      "ISBN": "",
+      "Is Main Material": "False",
+      "Is Hard Copy": "False",
+      "Is Online": "True",
+      "Note": ""
+    },
+    {
+      "No.": "21",
+      "Material Description": "An Adaptive Methodology to Overcome Localization Translation Challenges",
+      "Author": "Brashi",
+      "Publisher": "https://www.researchgate.net/publication/353339838_An_Adaptive_Methodology_to_Overcome_Localization_Translation_Challenges",
+      "Published Date": "",
+      "Edition": "2021",
+      "ISBN": "",
+      "Is Main Material": "False",
+      "Is Hard Copy": "False",
+      "Is Online": "True",
+      "Note": ""
+    },
+    {
+      "No.": "22",
+      "Material Description": "Towards a definition of transcreation: a systematic literature review",
+      "Author": "Díaz-Millón & Olvera-Lobo",
+      "Publisher": "https://doi.org/10.1080/0907676X.2021.2004177",
+      "Published Date": "",
+      "Edition": "2023",
+      "ISBN": "",
+      "Is Main Material": "False",
+      "Is Hard Copy": "False",
+      "Is Online": "True",
+      "Note": ""
+    }
+  ],
+  "source_path": "data/raw/syllabi/13471.html",
+  "id": "syllabus:13471"
+}

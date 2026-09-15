@@ -1,0 +1,1823 @@
+{
+  "syllabus_id": 11905,
+  "subject_code": "ENM401",
+  "subject_name": "BUSINESS ENGLISH - Level: Upper- Intermediate_Tiếng anh thương mại",
+  "syllabus_name": "BUSINESS ENGLISH - Level: Upper- Intermediate_Tiếng anh thương mại",
+  "credits": 3,
+  "degree_level": "Bachelor",
+  "time_allocation": "Study hour (150h) = 45 contact hours (60 sessions) + 1.6 hours final exam + 103.4 hours self-study",
+  "prerequisite": "ENM301",
+  "general_information": {
+    "Syllabus ID": "11905",
+    "Syllabus Name": "BUSINESS ENGLISH - Level: Upper- Intermediate_Tiếng anh thương mại",
+    "Course Name English": "",
+    "Subject Code": "ENM401",
+    "Learning-Teaching Method": "",
+    "NoCredit": "3",
+    "Degree Level": "Bachelor",
+    "Time Allocation": "Study hour (150h) = 45 contact hours (60 sessions) + 1.6 hours final exam + 103.4 hours self-study",
+    "Pre-Requisite": "ENM301",
+    "Description": "This course is designed to help students further enhance their ability to communicate in English in an almost real business and business-related situations. It covers not only general business administration area but also deals with more complex issues such as management style and crisis management. It also helps students develop necessary knowledge and skills to excell in their future career. In addition to the business-focused contents, the course is enhanced with supplementary activities corresponding to the Common European Framework of Reference for Languages, with a focus on developing students' own style in communication as a plus in their professional communication strategy. In particular the course will help students: * Enhance confidence, accuracy and fluency to communicate professionally and effectively in business-like contexts e.g. discussions, meetings, negotiations for the best business results; * acquire and practice professional communication skills at a higher level of complexity, including dealing with complaints, persuading for loan, negotiating for the best terms in M&A , information-based decision making and problem solving. * expand knowledge of business concepts and business trends in the fast-changing world Teaching and Learning Methodology This course applies instructional, communicative and interactive methods which *provides inducive environment for communication between teacher and students as well as between students themselves *develops confidence and fluency through participation in case studies as simulations of business scenarios; *enhances skills and knowledge application through individual and group works and self-study",
+    "StudentTasks": "* be punctual for all the lessons * attend at least 80% of contact hours in order to be accepted to the final examination. * take an active role in class activities. * fullfil tasks and assignments given by instructor",
+    "Tools": "- Internet - Net-Challenge Simulation Software (CD accompany with the textbook)",
+    "Scoring Scale": "10",
+    "DecisionNo MM/dd/yyyy": "862/QĐ-ĐHFPT dated 08/16/2024",
+    "IsApproved": "True",
+    "Note": "The course applies an on-going assessment scheme with progress tests, mid-term test and final examination structured as follows 1) On-going assessment '- Progress Test: 2*15% = 30% - Assignment: 2*10% = 20% 2) Final Examination (FE) 50% 3) Final Result 100% 4) Completion Criteria: Every on-going assessment component >0, each part of the final exam must be >0, Final Exam Score >=4/10 & Final Result >=5/10.",
+    "Is Scored": "True",
+    "MinAvgMarkToPass": "5",
+    "IsActive": "True",
+    "ApprovedDate": "8/16/2024"
+  },
+  "active": true,
+  "approved": true,
+  "decision": "862/QĐ-ĐHFPT dated 08/16/2024",
+  "description": "This course is designed to help students further enhance their ability to communicate in English in an almost real business and business-related situations. It covers not only general business administration area but also deals with more complex issues such as management style and crisis management. It also helps students develop necessary knowledge and skills to excell in their future career. In addition to the business-focused contents, the course is enhanced with supplementary activities corresponding to the Common European Framework of Reference for Languages, with a focus on developing students' own style in communication as a plus in their professional communication strategy. In particular the course will help students: * Enhance confidence, accuracy and fluency to communicate professionally and effectively in business-like contexts e.g. discussions, meetings, negotiations for the best business results; * acquire and practice professional communication skills at a higher level of complexity, including dealing with complaints, persuading for loan, negotiating for the best terms in M&A , information-based decision making and problem solving. * expand knowledge of business concepts and business trends in the fast-changing world Teaching and Learning Methodology This course applies instructional, communicative and interactive methods which *provides inducive environment for communication between teacher and students as well as between students themselves *develops confidence and fluency through participation in case studies as simulations of business scenarios; *enhances skills and knowledge application through individual and group works and self-study",
+  "learning_outcomes": [
+    {
+      "No.": "1",
+      "CLO Name": "CLO1",
+      "CLO Details": "* employ key grammar items(of upper-intermediate level) and business collocation and idiomatic vocabulary to present information, to express and exchange opinions and ideas on a certain number of business-related topics in both spoken and written contexts so as to achieve the set communication targets."
+    },
+    {
+      "No.": "2",
+      "CLO Name": "CLO2",
+      "CLO Details": "* give out rational judgement, comments and arguments, using data supports, in various business-like contexts (meetings, negotiations, complain handling, networking, etc.) with higher level of accuracy and etiquet in both oral and written forms;"
+    },
+    {
+      "No.": "3",
+      "CLO Name": "CLO3",
+      "CLO Details": "* solve simulated business problems using knowledge and information presented in verbal, numerical or graphical form;"
+    },
+    {
+      "No.": "4",
+      "CLO Name": "CLO4",
+      "CLO Details": "* listen to and understand others' talks so as to have appropriate responses that help maintain and develop conversations and other oral exchanges for 10 - 15 minutes on the learnt topics then maneuver well in spontaneous situations"
+    },
+    {
+      "No.": "5",
+      "CLO Name": "CLO5",
+      "CLO Details": "* organize and present ideas and statements in a clear, logical and appropriate form of presentation within 15 minutes to achieve the set business communication targets."
+    },
+    {
+      "No.": "6",
+      "CLO Name": "CLO6",
+      "CLO Details": "* read and understand various business-related texts including articles and reports of upto 1,000 words as well as commercial articles"
+    },
+    {
+      "No.": "7",
+      "CLO Name": "CLO7",
+      "CLO Details": "* write e-mails, letters, memo, brief reports (upto 1,500 words) and other creative commercials to serve different business purposes."
+    }
+  ],
+  "assessments": [
+    {
+      "No.": "1",
+      "Category": "Assigments",
+      "Type": "on-going",
+      "Part": "2",
+      "Weight": "20.0%",
+      "Completion Criteria": ">0",
+      "Duration": "OP1: Whole semester OP2: (For Constructivism Approach only): Follow lecturer's proposal",
+      "CLO": "LO1, LO2, LO3, LO5",
+      "Question Type": "OP1: Reading, Group work, Speaking, Writing and Presentation OP2: (For Constructivism Approach only): Follow lecturer's proposal",
+      "No Question": "",
+      "Knowledge and Skill": "Relevant knowledge and skills learnt from each unit",
+      "Grading Guide": "OP1: Teacher assigns homework to students at the end of every class and check for fullfilment randomly OP2: (For Constructivism Approach only): Follow lecturer's proposal",
+      "Note": "Students absent for more than 20% of classes are not allowed to take final examination"
+    },
+    {
+      "No.": "2",
+      "Category": "Progress tests",
+      "Type": "on-going",
+      "Part": "2",
+      "Weight": "30.0%",
+      "Completion Criteria": ">0",
+      "Duration": "OP1: ~10' Listening 15' Reading ~ 25' Writing OP2: (For Constructivism Approach only): Follow lecturer's proposal",
+      "CLO": "LO1, LO2, LO4, LO6, LO7",
+      "Question Type": "OP1: Multiple choice , gap filling, matching writing an e-mail or a memo OP2: (For Constructivism Approach only): Follow lecturer's proposal",
+      "No Question": "OP1: 10 Listening Questions 15-20 Reading questions Writing ~100-150 words OP2: (For Constructivism Approach only): Follow lecturer's proposal",
+      "Knowledge and Skill": "Based on topics of studied units",
+      "Grading Guide": "",
+      "Note": ""
+    },
+    {
+      "No.": "3",
+      "Category": "Final exam",
+      "Type": "Final exam",
+      "Part": "4",
+      "Weight": "50.0%",
+      "Completion Criteria": "4",
+      "Duration": "Reading 40', Writing 40', Listening 15-25', Speaking 10'",
+      "CLO": "LO1, LO2, LO3, LO4, LO6, LO7",
+      "Question Type": "Multiple choicesMarked by Computer",
+      "No Question": "Reading: 16-20 questions, Listening: 16-20 questions",
+      "Knowledge and Skill": "concepts, algorithms; all studied chapters",
+      "Grading Guide": "Reading + Writing + Listening: By exam board Speaking: Students are tested individually and in pairs or in a panel discussion; Topics for discussion are the topics covered during the course",
+      "Note": "20% Reading 10% Writing 10% Listening 10% Speaking"
+    }
+  ],
+  "schedule": [
+    {
+      "Session": "1",
+      "Topic": "Unit 1: Communication Starting up Vocabulary: Good communicators",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO1, LO4",
+      "ITU": "ITU",
+      "Student Materials": "Online Vocabulary Game, Course Book, Practice File",
+      "S-Download": "",
+      "Student's Tasks": "Students discuss and learn new words which related to \"Good communication\"",
+      "URLs": ""
+    },
+    {
+      "Session": "2",
+      "Topic": "Unit 1: Communication Listening: An interview with an expert on communication",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO1, LO4",
+      "ITU": "TU",
+      "Student Materials": "Online Vocabulary Game, Course Book, Practice File",
+      "S-Download": "",
+      "Student's Tasks": "Students listen to expert on communications talking about good practice in the area.",
+      "URLs": ""
+    },
+    {
+      "Session": "3",
+      "Topic": "Unit 1: Communication Reading: A quiet world beats sending e-mail - Fnancial Times",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO3, LO5, LO6",
+      "ITU": "TU",
+      "Student Materials": "Online Vocabulary Game, Course Book, Practice File",
+      "S-Download": "",
+      "Student's Tasks": "Students read an article about the good and bad aspects of e-mail.",
+      "URLs": ""
+    },
+    {
+      "Session": "4",
+      "Topic": "Unit 1: Communication Language review: Idioms",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO3, LO5, LO6",
+      "ITU": "TU",
+      "Student Materials": "Online Vocabulary Game, Course Book, Practice File",
+      "S-Download": "",
+      "Student's Tasks": "Ss do language awareness and practice activities on some common idioms.",
+      "URLs": ""
+    },
+    {
+      "Session": "5",
+      "Topic": "Unit 1: Communication Skills: Dealing with communication breakdown",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO3, LO5, LO6",
+      "ITU": "TU",
+      "Student Materials": "Online Vocabulary Game, Course Book, Practice File",
+      "S-Download": "",
+      "Student's Tasks": "Students listen and practice skills involved in dealing with breakdowns in communication.",
+      "URLs": ""
+    },
+    {
+      "Session": "6",
+      "Topic": "Unit 1: Communication Writing: Email",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO7",
+      "ITU": "TU",
+      "Student Materials": "Online Vocabulary Game, Course Book, Practice File",
+      "S-Download": "",
+      "Student's Tasks": "Ss practice writing an email.",
+      "URLs": ""
+    },
+    {
+      "Session": "7",
+      "Topic": "Unit 1: Communication Case Study: The price of success: Make recommendations to improve communications within an electronics company",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO3, LO5, LO7",
+      "ITU": "TU",
+      "Student Materials": "Online Vocabulary Game, Course Book, Practice File",
+      "S-Download": "",
+      "Student's Tasks": "Group work and finish tasks on case study",
+      "URLs": ""
+    },
+    {
+      "Session": "8",
+      "Topic": "Unit 1: Communication Case Study: The price of success: Make recommendations to improve communications within an electronics company (cont.)",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO3, LO5, LO7",
+      "ITU": "TU",
+      "Student Materials": "Online Vocabulary Game, Course Book, Practice File",
+      "S-Download": "",
+      "Student's Tasks": "Group work and finish tasks on case study",
+      "URLs": ""
+    },
+    {
+      "Session": "9",
+      "Topic": "Unit 2: International Marketing Starting up Vocabulary: Marketing word partnerships",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO1, LO4",
+      "ITU": "ITU",
+      "Student Materials": "Online Vocabulary Game, Course Book, Practice File",
+      "S-Download": "",
+      "Student's Tasks": "Students discuss and learn new words which related to \"Marketing\"",
+      "URLs": ""
+    },
+    {
+      "Session": "10",
+      "Topic": "Unit 2: International Marketing Reading: Diego Della Valle: Italian atmosphere is central to Tod’s global expansion – Financial Times",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO1, LO4",
+      "ITU": "TU",
+      "Student Materials": "Online Vocabulary Game, Course Book, Practice File",
+      "S-Download": "",
+      "Student's Tasks": "Students listen to two marketing specialists",
+      "URLs": ""
+    },
+    {
+      "Session": "11",
+      "Topic": "Unit 2: International Marketing Listening: An interview with a professor of international marketing and the CEO of a training organisation",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO3, LO5, LO6",
+      "ITU": "TU",
+      "Student Materials": "Online Vocabulary Game, Course Book, Practice File",
+      "S-Download": "",
+      "Student's Tasks": "Students read an article about Italian luxury brands.",
+      "URLs": ""
+    },
+    {
+      "Session": "12",
+      "Topic": "Unit 2: International Marketing Language review: noun compounds and noun phrases",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO3, LO5, LO6",
+      "ITU": "TU",
+      "Student Materials": "Online Vocabulary Game, Course Book, Practice File",
+      "S-Download": "",
+      "Student's Tasks": "Ss work on the structure of nouns compounds and noun phrases.",
+      "URLs": ""
+    },
+    {
+      "Session": "13",
+      "Topic": "Unit 2: International Marketing Skills: Brainstorming",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO3, LO5, LO6",
+      "ITU": "TU",
+      "Student Materials": "Online Vocabulary Game, Course Book, Practice File",
+      "S-Download": "",
+      "Student's Tasks": "Students listen and practice skills involved brainstorming.",
+      "URLs": ""
+    },
+    {
+      "Session": "14",
+      "Topic": "Unit 2: International Marketing Case Study: Henri-Claude Cosmetics – creating a global brand: Devise a TV commercial for a new eau-de-cologne",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO3, LO5, LO7",
+      "ITU": "TU",
+      "Student Materials": "Online Vocabulary Game, Course Book, Practice File",
+      "S-Download": "",
+      "Student's Tasks": "Group work and finish tasks on case study",
+      "URLs": ""
+    },
+    {
+      "Session": "15",
+      "Topic": "Unit 2: International Marketing Case Study: Henri-Claude Cosmetics – creating a global brand: Devise a TV commercial for a new eau-de-cologne (cont.)",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO3, LO5, LO7",
+      "ITU": "TU",
+      "Student Materials": "Online Vocabulary Game, Course Book, Practice File",
+      "S-Download": "",
+      "Student's Tasks": "Group work and finish tasks on case study",
+      "URLs": ""
+    },
+    {
+      "Session": "16",
+      "Topic": "Unit 2: International Marketing Writing: Action minutes",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO7",
+      "ITU": "TU",
+      "Student Materials": "Online Vocabulary Game, Course Book, Practice File",
+      "S-Download": "",
+      "Student's Tasks": "Ss practice writing action minutes",
+      "URLs": ""
+    },
+    {
+      "Session": "17",
+      "Topic": "Unit 3: Building Relationships Starting up Vocabulary: Describing relations",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO1, LO4",
+      "ITU": "ITU",
+      "Student Materials": "Online Vocabulary Game, Course Book, Practice File",
+      "S-Download": "",
+      "Student's Tasks": "Students discuss and learn new words which related to \"Describing relations\"",
+      "URLs": ""
+    },
+    {
+      "Session": "18",
+      "Topic": "Unit 3: Building Relationships Listening: An interview with the Head of Global Corporate Responsibility of a major company",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO1, LO4",
+      "ITU": "TU",
+      "Student Materials": "Online Vocabulary Game, Course Book, Practice File",
+      "S-Download": "",
+      "Student's Tasks": "Students listen to expert on building good relationships.",
+      "URLs": ""
+    },
+    {
+      "Session": "19",
+      "Topic": "Unit 3: Building Relationships Reading: How East is meeting West – Business Week",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO3, LO5, LO6",
+      "ITU": "TU",
+      "Student Materials": "Online Vocabulary Game, Course Book, Practice File",
+      "S-Download": "",
+      "Student's Tasks": "Students read about the importance of connections when doing business in China.",
+      "URLs": ""
+    },
+    {
+      "Session": "20",
+      "Topic": "Unit 3: Building Relationships Language Review: Multi-word verbs",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO3, LO5, LO6",
+      "ITU": "TU",
+      "Student Materials": "Online Vocabulary Game, Course Book, Practice File",
+      "S-Download": "",
+      "Student's Tasks": "Ss practice multi-words verbs in context.",
+      "URLs": ""
+    },
+    {
+      "Session": "21",
+      "Topic": "Unit 3: Building Relationships Skills: Networking",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO3, LO5, LO6",
+      "ITU": "TU",
+      "Student Materials": "Online Vocabulary Game, Course Book, Practice File",
+      "S-Download": "",
+      "Student's Tasks": "Students study networking language.",
+      "URLs": ""
+    },
+    {
+      "Session": "22",
+      "Topic": "Unit 3: Building Relationships Writing: letter",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO7",
+      "ITU": "TU",
+      "Student Materials": "Online Vocabulary Game, Course Book, Practice File",
+      "S-Download": "",
+      "Student's Tasks": "Ss practice writing a letter.",
+      "URLs": ""
+    },
+    {
+      "Session": "23",
+      "Topic": "Unit 3: Building Relationships Case study: Al-Munir Hotel and Spa Group: Come up with a plan for improving customer satisfaction and loyalty",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO3, LO5, LO7",
+      "ITU": "TU",
+      "Student Materials": "Online Vocabulary Game, Course Book, Practice File",
+      "S-Download": "",
+      "Student's Tasks": "Group work and finish tasks on case study",
+      "URLs": ""
+    },
+    {
+      "Session": "24",
+      "Topic": "Unit 3: Building Relationships Case study: Al-Munir Hotel and Spa Group: Come up with a plan for improving customer satisfaction and loyalty (cont.)",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO3, LO5, LO7",
+      "ITU": "TU",
+      "Student Materials": "Online Vocabulary Game, Course Book, Practice File",
+      "S-Download": "",
+      "Student's Tasks": "Group work and finish tasks on case study",
+      "URLs": ""
+    },
+    {
+      "Session": "25",
+      "Topic": "Unit 5: Job Satisfaction - Starting up Vocabulary: Synonyms and word building",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO1, LO4",
+      "ITU": "ITU",
+      "Student Materials": "Online Vocabulary Game, Course Book, Practice File",
+      "S-Download": "",
+      "Student's Tasks": "Students discuss and learn new words which related to \"Synonyms and word-bulding\"",
+      "URLs": ""
+    },
+    {
+      "Session": "26",
+      "Topic": "Unit 5: Job Satisfaction Discussion: Discuss motivational factors and do a quiz",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO1, LO4",
+      "ITU": "TU",
+      "Student Materials": "Online Vocabulary Game, Course Book, Practice File",
+      "S-Download": "",
+      "Student's Tasks": "Ss discuss \"motivational factors\".",
+      "URLs": ""
+    },
+    {
+      "Session": "27",
+      "Topic": "Unit 5: Job Satisfaction Listening: An interview with the Director of HR at a major company",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO3, LO5, LO6",
+      "ITU": "TU",
+      "Student Materials": "Online Vocabulary Game, Course Book, Practice File",
+      "S-Download": "",
+      "Student's Tasks": "Students listen to expert on job satisfaction.",
+      "URLs": ""
+    },
+    {
+      "Session": "28",
+      "Topic": "Unit 5: Job Satisfaction Reading: Marriott Hotels International/KPMG – The Sunday Times",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO3, LO5, LO6",
+      "ITU": "TU",
+      "Student Materials": "Online Vocabulary Game, Course Book, Practice File",
+      "S-Download": "",
+      "Student's Tasks": "Students read about two companies that are very good to work for.",
+      "URLs": ""
+    },
+    {
+      "Session": "29",
+      "Topic": "Unit 5: Job Satisfaction Language review: Passives",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO3, LO5, LO6",
+      "ITU": "TU",
+      "Student Materials": "Online Vocabulary Game, Course Book, Practice File",
+      "S-Download": "",
+      "Student's Tasks": "Ss work on the passive forms.",
+      "URLs": ""
+    },
+    {
+      "Session": "30",
+      "Topic": "Unit 5: Job Satisfaction Skills: Cold-calling",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO7",
+      "ITU": "TU",
+      "Student Materials": "Online Vocabulary Game, Course Book, Practice File",
+      "S-Download": "",
+      "Student's Tasks": "Students listen and practice skills involved in cold-calling.",
+      "URLs": ""
+    },
+    {
+      "Session": "31",
+      "Topic": "Unit 5: Job Satisfaction Case study: Just good friends? Decide how to deal with in-house personal relationships",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO3, LO5, LO7",
+      "ITU": "TU",
+      "Student Materials": "Online Vocabulary Game, Course Book, Practice File",
+      "S-Download": "",
+      "Student's Tasks": "Group work and finish tasks on case study",
+      "URLs": ""
+    },
+    {
+      "Session": "32",
+      "Topic": "Unit 5: Job Satisfaction Case study: Just good friends? Decide how to deal with in-house personal relationships (cont.)",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO3, LO5, LO7",
+      "ITU": "TU",
+      "Student Materials": "Online Vocabulary Game, Course Book, Practice File",
+      "S-Download": "",
+      "Student's Tasks": "Group work and finish tasks on case study",
+      "URLs": ""
+    },
+    {
+      "Session": "33",
+      "Topic": "Unit 5: Job Satisfaction Writing: Guidelines",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO7",
+      "ITU": "TU",
+      "Student Materials": "Online Vocabulary Game, Course Book, Practice File",
+      "S-Download": "",
+      "Student's Tasks": "Ss practice writing an email.",
+      "URLs": ""
+    },
+    {
+      "Session": "34",
+      "Topic": "Progress test and Test Review 1",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO1, LO2, LO7",
+      "ITU": "U",
+      "Student Materials": "Online Vocabulary Game, Course Book, Practice File",
+      "S-Download": "",
+      "Student's Tasks": "Ss review and do PT1",
+      "URLs": ""
+    },
+    {
+      "Session": "35",
+      "Topic": "Unit 6: Risk Starting up Vocabulary:Describing risk",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO1, LO4",
+      "ITU": "ITU",
+      "Student Materials": "Online Vocabulary Game, Course Book, Practice File",
+      "S-Download": "",
+      "Student's Tasks": "Students discuss and learn new words which related to \"Describing risk\"",
+      "URLs": ""
+    },
+    {
+      "Session": "36",
+      "Topic": "Unit 6: Risk Listening: An interview with the MD of the Institute of Risk Management",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO1, LO4",
+      "ITU": "TU",
+      "Student Materials": "Online Vocabulary Game, Course Book, Practice File",
+      "S-Download": "",
+      "Student's Tasks": "Students listen to expert on managing different types of risk.",
+      "URLs": ""
+    },
+    {
+      "Session": "37",
+      "Topic": "Unit 6: Risk Reading: Internationalisation – risk or opportunity? – Financial Times",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO3, LO5, LO6",
+      "ITU": "TU",
+      "Student Materials": "Online Vocabulary Game, Course Book, Practice File",
+      "S-Download": "",
+      "Student's Tasks": "Students read an article about business insurance.",
+      "URLs": ""
+    },
+    {
+      "Session": "38",
+      "Topic": "Unit 6: Risk Language review: Adverbs of degree",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO3, LO5, LO6",
+      "ITU": "TU",
+      "Student Materials": "Online Vocabulary Game, Course Book, Practice File",
+      "S-Download": "",
+      "Student's Tasks": "Ss study adverb of degree.",
+      "URLs": ""
+    },
+    {
+      "Session": "39",
+      "Topic": "Unit 6: Risk Skills: Reaching agreement",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO3, LO5, LO6",
+      "ITU": "TU",
+      "Student Materials": "Online Vocabulary Game, Course Book, Practice File",
+      "S-Download": "",
+      "Student's Tasks": "Students listen and practice skills involved in language of agreement.",
+      "URLs": ""
+    },
+    {
+      "Session": "40",
+      "Topic": "Unit 6: Risk Writing: Report",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO7",
+      "ITU": "TU",
+      "Student Materials": "Online Vocabulary Game, Course Book, Practice File",
+      "S-Download": "",
+      "Student's Tasks": "Ss practice writing a report.",
+      "URLs": ""
+    },
+    {
+      "Session": "41",
+      "Topic": "Unit 6: Risk Case study: Winton Carter Mining: Evaluate the risks of a new mining venture",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO3, LO5, LO7",
+      "ITU": "TU",
+      "Student Materials": "Online Vocabulary Game, Course Book, Practice File",
+      "S-Download": "",
+      "Student's Tasks": "Group work and finish tasks on case study",
+      "URLs": ""
+    },
+    {
+      "Session": "42",
+      "Topic": "Unit 6: Risk Case study: Winton Carter Mining: Evaluate the risks of a new mining venture (cont)",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO3, LO5, LO7",
+      "ITU": "TU",
+      "Student Materials": "Online Vocabulary Game, Course Book, Practice File",
+      "S-Download": "",
+      "Student's Tasks": "Group work and finish tasks on case study",
+      "URLs": ""
+    },
+    {
+      "Session": "43",
+      "Topic": "Unit 9: Raising finance Starting up",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO1, LO4",
+      "ITU": "ITU",
+      "Student Materials": "Online Vocabulary Game, Course Book, Practice File",
+      "S-Download": "",
+      "Student's Tasks": "Students discuss and learn new words which related to \"Financial terms\".",
+      "URLs": ""
+    },
+    {
+      "Session": "44",
+      "Topic": "Unit 9: Raising finance Listening: An interview with the MD of a private equity firm",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO1, LO4",
+      "ITU": "TU",
+      "Student Materials": "Online Vocabulary Game, Course Book, Practice File",
+      "S-Download": "",
+      "Student's Tasks": "Students listen to expert on different ways of raising finance.",
+      "URLs": ""
+    },
+    {
+      "Session": "45",
+      "Topic": "Unit 9: Raising finance Vocabulary: Financial terms",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO3, LO5, LO6",
+      "ITU": "TU",
+      "Student Materials": "Online Vocabulary Game, Course Book, Practice File",
+      "S-Download": "",
+      "Student's Tasks": "Students discuss and learn new words which related to \"Financial terms\"",
+      "URLs": ""
+    },
+    {
+      "Session": "46",
+      "Topic": "Unit 9: Raising finance Language review: Dependent prepositions",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO3, LO5, LO6",
+      "ITU": "TU",
+      "Student Materials": "Online Vocabulary Game, Course Book, Practice File",
+      "S-Download": "",
+      "Student's Tasks": "Ss do language awareness and practice \"Dependent prepositions\" in context.",
+      "URLs": ""
+    },
+    {
+      "Session": "47",
+      "Topic": "Unit 9: Raising finance Reading: No more easy money – Financial Times",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO3, LO5, LO6",
+      "ITU": "TU",
+      "Student Materials": "Online Vocabulary Game, Course Book, Practice File",
+      "S-Download": "",
+      "Student's Tasks": "Students read about different ways of obtaining new business finance.",
+      "URLs": ""
+    },
+    {
+      "Session": "48",
+      "Topic": "Unit 9: Raising finance Skills: Negotiating",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO7",
+      "ITU": "TU",
+      "Student Materials": "Online Vocabulary Game, Course Book, Practice File",
+      "S-Download": "",
+      "Student's Tasks": "Ss discuss negotiating tips.",
+      "URLs": ""
+    },
+    {
+      "Session": "49",
+      "Topic": "Unit 9: Raising finance Case Study: Last throw of the dice: Negotiate finance for a new flrm",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO3, LO5, LO7",
+      "ITU": "TU",
+      "Student Materials": "Online Vocabulary Game, Course Book, Practice File",
+      "S-Download": "",
+      "Student's Tasks": "Group work and finish tasks on case study",
+      "URLs": ""
+    },
+    {
+      "Session": "50",
+      "Topic": "Unit 9: Raising finance Case Study: Last throw of the dice: Negotiate finance for a new flrm (cont.) Writing: Summary",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO3, LO5, LO7",
+      "ITU": "TU",
+      "Student Materials": "Online Vocabulary Game, Course Book, Practice File",
+      "S-Download": "",
+      "Student's Tasks": "Group work and finish tasks on case study./ Practice more writing",
+      "URLs": ""
+    },
+    {
+      "Session": "51",
+      "Topic": "Unit 10: Customer Service Starting up Discussion: Discuss factors in and importance of customer service",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO1, LO4",
+      "ITU": "ITU",
+      "Student Materials": "Online Vocabulary Game, Course Book, Practice File",
+      "S-Download": "",
+      "Student's Tasks": "Students discuss and learn new words which related to customer service.",
+      "URLs": ""
+    },
+    {
+      "Session": "52",
+      "Topic": "Unit 10: Customer Service Listening: An interview with the manager of a top restaurant",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO1, LO4",
+      "ITU": "TU",
+      "Student Materials": "Online Vocabulary Game, Course Book, Practice File",
+      "S-Download": "",
+      "Student's Tasks": "Students listen to a manager talking about key customer service issues.",
+      "URLs": ""
+    },
+    {
+      "Session": "53",
+      "Topic": "Unit 10: Customer Service Vocabulary: Complaints",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO3, LO5, LO6",
+      "ITU": "TU",
+      "Student Materials": "Online Vocabulary Game, Course Book, Practice File",
+      "S-Download": "",
+      "Student's Tasks": "Students learn new words relating to \"Complaint\".",
+      "URLs": ""
+    },
+    {
+      "Session": "54",
+      "Topic": "Unit 10: Customer Service Reading: Customer service is changing the world: Up close and global – Financial Times",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO3, LO5, LO6",
+      "ITU": "TU",
+      "Student Materials": "Online Vocabulary Game, Course Book, Practice File",
+      "S-Download": "",
+      "Student's Tasks": "Ss read about modern customer service.",
+      "URLs": ""
+    },
+    {
+      "Session": "55",
+      "Topic": "Unit 10: Customer Service Language review: Gerunds Skills: Active Listening",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO3, LO5, LO6",
+      "ITU": "TU",
+      "Student Materials": "Online Vocabulary Game, Course Book, Practice File",
+      "S-Download": "",
+      "Student's Tasks": "Students study gerunds and study listening skills in the context of customer service.",
+      "URLs": ""
+    },
+    {
+      "Session": "56",
+      "Topic": "Unit 10: Customer Service Writing: Report",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO7",
+      "ITU": "TU",
+      "Student Materials": "Online Vocabulary Game, Course Book, Practice File",
+      "S-Download": "",
+      "Student's Tasks": "Ss practice writing a report.",
+      "URLs": ""
+    },
+    {
+      "Session": "57",
+      "Topic": "Unit 10: Customer Service Case study: Hurrah Airlines: Deal with customer complaints",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO3, LO5, LO7",
+      "ITU": "TU",
+      "Student Materials": "Online Vocabulary Game, Course Book, Practice File",
+      "S-Download": "",
+      "Student's Tasks": "Group work and finish tasks on case study",
+      "URLs": ""
+    },
+    {
+      "Session": "58",
+      "Topic": "Unit 10: Customer Service Case study: Hurrah Airlines: Deal with customer complaints (cont.)",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO3, LO5, LO7",
+      "ITU": "TU",
+      "Student Materials": "Online Vocabulary Game, Course Book, Practice File",
+      "S-Download": "",
+      "Student's Tasks": "Group work and finish tasks on case study",
+      "URLs": ""
+    },
+    {
+      "Session": "59",
+      "Topic": "Revision",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO1->LO7",
+      "ITU": "U",
+      "Student Materials": "Online Vocabulary Game, Course Book, Practice File",
+      "S-Download": "",
+      "Student's Tasks": "Ss review and prepare for the exam.",
+      "URLs": ""
+    },
+    {
+      "Session": "60",
+      "Topic": "Progress test and Test Review 2",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO1->LO7",
+      "ITU": "U",
+      "Student Materials": "Online Vocabulary Game, Course Book, Practice File",
+      "S-Download": "",
+      "Student's Tasks": "Ss review and do PT1",
+      "URLs": ""
+    }
+  ],
+  "constructive_questions": [
+    {
+      "No.": "1",
+      "Session No": "1",
+      "Name": "HCM_CQ1.1",
+      "Details": "What are the main qualities of a good communicator?"
+    },
+    {
+      "No.": "2",
+      "Session No": "1",
+      "Name": "HN_CQ1",
+      "Details": "Think of a good communicator you've met in your life. What impressions did you have on him/her? What are the main qualities of a good communicator?"
+    },
+    {
+      "No.": "3",
+      "Session No": "1",
+      "Name": "CT_CQ1.1",
+      "Details": "Think of a good communicator you know in. What qualities make him/her a good communicator?"
+    },
+    {
+      "No.": "4",
+      "Session No": "2",
+      "Name": "HCM_CQ1.2",
+      "Details": "How to become a good communicator in business?"
+    },
+    {
+      "No.": "5",
+      "Session No": "2",
+      "Name": "HN_CQ2",
+      "Details": "List main forms of communication people can use. Rank them from the best to the worst and explain why."
+    },
+    {
+      "No.": "6",
+      "Session No": "2",
+      "Name": "CT_CQ1.2",
+      "Details": "What factors are important for effective communication in a) virtual meetings and b) in person meetings?"
+    },
+    {
+      "No.": "7",
+      "Session No": "3",
+      "Name": "HCM_CQ1.3",
+      "Details": "Imagine you are a leader of a company which are faced with some communication problems. How can communication be improved in your company?"
+    },
+    {
+      "No.": "8",
+      "Session No": "3",
+      "Name": "HN_CQ3",
+      "Details": "Many companies now consider it a norm to use instant messenging apps for communication at office and even non-office hours. Should companies use instant messenging apps for communication ? Why?"
+    },
+    {
+      "No.": "9",
+      "Session No": "3",
+      "Name": "CT_CQ1.3",
+      "Details": "Do you think the advantages of online meetings and training conducted by many companies nowadays outweigh the disadvantages?"
+    },
+    {
+      "No.": "10",
+      "Session No": "4",
+      "Name": "HCM_CQ2.1",
+      "Details": "Do research on how to become a good communicator. Present some short role-play situations to demonstrate characteristics of a good communicator based on your findings."
+    },
+    {
+      "No.": "11",
+      "Session No": "4",
+      "Name": "HN_CQ4",
+      "Details": "What are advantages and disadvantages of using emails, mobile phones, and conference callings? Do you agree that face-to-face meeting is the best form of communication in business? Why?"
+    },
+    {
+      "No.": "12",
+      "Session No": "4",
+      "Name": "CT_CQ2.1",
+      "Details": "What could be done in the future in the workforce to improve communication in business?"
+    },
+    {
+      "No.": "13",
+      "Session No": "5",
+      "Name": "HCM_CQ2.2",
+      "Details": "How will communication change in the future? Do you think communication is getting better thanks to new technologies?"
+    },
+    {
+      "No.": "14",
+      "Session No": "5",
+      "Name": "HN_CQ5",
+      "Details": "Imagine you are a leader of a company which are faced with some communication problems. How can communication be improved in your company?"
+    },
+    {
+      "No.": "15",
+      "Session No": "5",
+      "Name": "CT_CQ2.2",
+      "Details": "What could be done to deal with communication breakdown in the workplace?"
+    },
+    {
+      "No.": "16",
+      "Session No": "6",
+      "Name": "HCM_CQ2.3",
+      "Details": "Do you think the advantages of online meetings and training conducted by many companies nowadays outweigh the disadvantages?"
+    },
+    {
+      "No.": "17",
+      "Session No": "6",
+      "Name": "HN_CQ6",
+      "Details": "How will communication change in the future? Do you think communication is getting better thanks to new technologies?"
+    },
+    {
+      "No.": "18",
+      "Session No": "6",
+      "Name": "CT_CQ2.3",
+      "Details": "What changes could be found in communication at workplace?"
+    },
+    {
+      "No.": "19",
+      "Session No": "7",
+      "Name": "HCM_CQ3.1",
+      "Details": "Read the section \"The new Communications Director\" and the extract from the report. You are a member of Board of Directors. Decide whether you agree or disagree with each recommendation and explain why."
+    },
+    {
+      "No.": "20",
+      "Session No": "7",
+      "Name": "HN_CQ7",
+      "Details": "Read the Background of WCH. Read the section \"A product defect\". Imagine you are the leader of WCH. What mistakes do you think were made in the way the problem was handled? How could the mistake be remedied?"
+    },
+    {
+      "No.": "21",
+      "Session No": "7",
+      "Name": "CT_CQ3.1",
+      "Details": "What do you think about this statement of Juan Carlos castillo, American academic: \"In marketing, there are those who satisfy needs and those who create wants\"?"
+    },
+    {
+      "No.": "22",
+      "Session No": "8",
+      "Name": "HCM_CQ3.2",
+      "Details": "Present an example of a good communicator. Reflect on yourself: what do you need to do to become a good communicator like that in the future?"
+    },
+    {
+      "No.": "23",
+      "Session No": "8",
+      "Name": "HN_CQ8",
+      "Details": "Read the section \"The new Communications Director\" and the extract from the report. You are a member of Board of Directors. Decide whether you agree or disagree with each recommendation and explain why. As Communications Director at WCH, write a follow-up email to the CEO, summarizing the decisions you have taken. Give reasons."
+    },
+    {
+      "No.": "24",
+      "Session No": "8",
+      "Name": "CT_CQ3.2",
+      "Details": "In what ways could a company build good relationship with its customers? Give an example of a company you know which is good at building relationships with its customers."
+    },
+    {
+      "No.": "25",
+      "Session No": "9",
+      "Name": "HCM_CQ3.3",
+      "Details": "What do you think about this statement of Juan Carlos castillo, American academic: \"In marketing, there are those who satisfy needs and those who create wants\"?"
+    },
+    {
+      "No.": "26",
+      "Session No": "9",
+      "Name": "HN_CQ9",
+      "Details": "What do you think about this statement of Juan Carlos castillo, American academic: \"In marketing, there are those who satisfy needs and those who create wants\"?"
+    },
+    {
+      "No.": "27",
+      "Session No": "9",
+      "Name": "CT_CQ3.3",
+      "Details": "How important is commuication to business success? Give examples."
+    },
+    {
+      "No.": "28",
+      "Session No": "10",
+      "Name": "HCM_CQ4.1",
+      "Details": "What are some of the problems companies may face when internationalizing a brand?"
+    },
+    {
+      "No.": "29",
+      "Session No": "10",
+      "Name": "HN_CQ10",
+      "Details": "Search and Present a brand which is marketed internationally: its country of origin, brand image, key products, target market, sorts of advertising campaign, current slogans, problems of internationalization."
+    },
+    {
+      "No.": "30",
+      "Session No": "10",
+      "Name": "CT_CQ4.1",
+      "Details": "Which brand is marketed internationally: its country of origin, brand image, key products, target market, sorts of advertising campaign, current slogans, problems of internationalization."
+    },
+    {
+      "No.": "31",
+      "Session No": "11",
+      "Name": "HCM_CQ4.2",
+      "Details": "Search and Present a brand which is marketed internationally: its country of origin, brand image, key products, target market, sorts of advertising campaign, current slogans, problems of internationalization."
+    },
+    {
+      "No.": "32",
+      "Session No": "11",
+      "Name": "HN_CQ11",
+      "Details": "Search and make comparisons among these international brands: Apple, Samsung and Oppo. Comparions are based on key products, target markets, advertising campaigns, new markets and objectives.."
+    },
+    {
+      "No.": "33",
+      "Session No": "11",
+      "Name": "CT_CQ4.2",
+      "Details": "What are the advantages and disadvantages of working in an international company?"
+    },
+    {
+      "No.": "34",
+      "Session No": "12",
+      "Name": "HCM_CQ4.3",
+      "Details": "What are some expected challenges of FPT University's opening a new campus in Thailand? How to overcome such obstacles?"
+    },
+    {
+      "No.": "35",
+      "Session No": "12",
+      "Name": "HN_CQ12",
+      "Details": "What are some problems companies of Vietnam may face when they enter international market? Give examples of Vietnamese companies expanding market successfully and unsuccessfully"
+    },
+    {
+      "No.": "36",
+      "Session No": "12",
+      "Name": "CT_CQ4.3",
+      "Details": "What are some of the problems companies may face when they try to internationalise a brand?"
+    },
+    {
+      "No.": "37",
+      "Session No": "13",
+      "Name": "HCM_CQ5.1",
+      "Details": "What are some problems companies of Vietnam may face when they enter international market? Give examples of Vietnamese companies expanding market successfully and unsuccessfully."
+    },
+    {
+      "No.": "38",
+      "Session No": "13",
+      "Name": "HN_CQ13",
+      "Details": "What are some marketing strategies? What can be advantages and/or drawbacks of standardised and adapted marketing? Give examples of standardised and adapted marketing."
+    },
+    {
+      "No.": "39",
+      "Session No": "13",
+      "Name": "CT_CQ5.1",
+      "Details": "What are some problems companies of Vietnam may face when they enter international market? Give examples of Vietnamese companies expanding market successfully and unsuccessfully"
+    },
+    {
+      "No.": "40",
+      "Session No": "14",
+      "Name": "HCM_CQ5.2",
+      "Details": "Organise a meeting to brainstorm ideas for global marketing strategy of Physicque"
+    },
+    {
+      "No.": "41",
+      "Session No": "14",
+      "Name": "HN_CQ14",
+      "Details": "Present information about Physicque product of Henri-Claude Cosmetics: key features, products detalls, target audience, brand image, posittioning, packaging, slogan."
+    },
+    {
+      "No.": "42",
+      "Session No": "14",
+      "Name": "CT_CQ5.2",
+      "Details": "What can be advantages of standardised and adapted marketing?Give examples of standardised and adapted marketing."
+    },
+    {
+      "No.": "43",
+      "Session No": "15",
+      "Name": "HCM_CQ5.3",
+      "Details": "What are some pros and cons of working for an international company? What can you do to prepare yourself for future jobs in international organizations?"
+    },
+    {
+      "No.": "44",
+      "Session No": "15",
+      "Name": "HN_CQ15",
+      "Details": "Organise a meeting to brainstoem ideas for global marketing strategy of Physicque: 1. Which countries should be chosen for the launch? 2. Does Physique need a new name? If so, what? 3. Should Physique continue be targeted at the 30-40 age group? If not, what age group should it target? 4. Should Physique continue to be positioned as a premium fragrance, or should HCC market it as a mass fragrance, with a different pricing structure? 5. The container of Physique must be changed. How should the new container look? Plan the new packaging (shape, design, materials). 6. Price: Are the present pricing levels appropriate? Should HCC offer a cheaper version of Physique for emerging markets? 7. Distribution: Should HCC continue to sell the fragrance in exclusive outlets in overseas markets, or should it use a wider variety of outlets? If so, what sort of outlets should it choose? 8. Promotion: Who should be the international ambassador(s) for the brand? What special promotions could HCC organise in the overseas markets? 9. Physique needs a new slogan. Ideas? 10. Manufacture: Is it now time to manufacture the fragrance in low-cost countries? If so, which countries would be suitable?"
+    },
+    {
+      "No.": "45",
+      "Session No": "15",
+      "Name": "CT_CQ5.3",
+      "Details": "What can be drawbacks of standardised and adapted marketing?Give examples of standardised and adapted marketing."
+    },
+    {
+      "No.": "46",
+      "Session No": "16",
+      "Name": "HCM_CQ6.1",
+      "Details": "How can a company build strong relatioships with customers/Clients/other companies? Present an example of (TPB/Dienmayxanh/Mobifone ...)"
+    },
+    {
+      "No.": "47",
+      "Session No": "16",
+      "Name": "HN_CQ16",
+      "Details": "As a member of the Marketing Department of HCC, write an email to your Managing Director to summarise the ideas for global marketing strategy of Physicque,"
+    },
+    {
+      "No.": "48",
+      "Session No": "16",
+      "Name": "CT_CQ6.1",
+      "Details": "Which is an example of a company which is good at building relationships with its customers. How can this company achieve it?"
+    },
+    {
+      "No.": "49",
+      "Session No": "17",
+      "Name": "HCM_CQ6.2",
+      "Details": "In what way can you think of to cement or sour relationships?"
+    },
+    {
+      "No.": "50",
+      "Session No": "17",
+      "Name": "HN_CQ17",
+      "Details": "In what way can you think of to cement or sour relationships?"
+    },
+    {
+      "No.": "51",
+      "Session No": "17",
+      "Name": "CT_CQ6.2",
+      "Details": "What can be several key factors to successful business relationships?"
+    },
+    {
+      "No.": "52",
+      "Session No": "18",
+      "Name": "HCM_CQ6.3",
+      "Details": "What do you know about guanxi in China? What is the importance of guanxi in Chinese business settings and how can Chinese businessmen build good relationships with the Western ones? Which one do you prefer? The Asian business style or the Western business style?"
+    },
+    {
+      "No.": "53",
+      "Session No": "18",
+      "Name": "HN_CQ18",
+      "Details": "How can a company build strong relatioships with customers/Clients/other companies? Present an example of (TPB/Dienmayxanh/Mobifone ...)"
+    },
+    {
+      "No.": "54",
+      "Session No": "18",
+      "Name": "CT_CQ6.3",
+      "Details": "What could be good ways of creating relationships with foreign business partners?"
+    },
+    {
+      "No.": "55",
+      "Session No": "19",
+      "Name": "HCM_CQ7.1",
+      "Details": "What are some common conflicts between managers and employees? What can you do to avoid these conflicts when going to work in the future?"
+    },
+    {
+      "No.": "56",
+      "Session No": "19",
+      "Name": "HN_CQ19",
+      "Details": "Where can Asian and Western people meet to build business relationships?"
+    },
+    {
+      "No.": "57",
+      "Session No": "19",
+      "Name": "CT_CQ7.1",
+      "Details": "What advice would you give to someone trying to develop business relationships in China/Japan/ Vietnam?"
+    },
+    {
+      "No.": "58",
+      "Session No": "20",
+      "Name": "HCM_CQ7.2",
+      "Details": "Do research on how to improve a relationship. Based on your findings, present the ways you would take to improve your relationship with your friends and teachers."
+    },
+    {
+      "No.": "59",
+      "Session No": "20",
+      "Name": "HN_CQ20",
+      "Details": "What do you know about guanxi in China? What is the importance of guanxi in Chinese business settings and how can Chinese businessmen build good relationships with the Western ones? Which one do you prefer? The Asian business style or the Western business style?"
+    },
+    {
+      "No.": "60",
+      "Session No": "20",
+      "Name": "CT_CQ7.2",
+      "Details": "Why are business relationships the key to successful growth?"
+    },
+    {
+      "No.": "61",
+      "Session No": "21",
+      "Name": "HCM_CQ7.3",
+      "Details": "What do you think will be the main reasons why guests do not return to a hotel?"
+    },
+    {
+      "No.": "62",
+      "Session No": "21",
+      "Name": "CT_CQ7.3",
+      "Details": "How can internal networking can help employees and organizations?"
+    },
+    {
+      "No.": "63",
+      "Session No": "22",
+      "Name": "HCM_CQ8.1",
+      "Details": "How do you think Al-Munir Hotel and Spa Group build a long - term relationship with guests?"
+    },
+    {
+      "No.": "64",
+      "Session No": "23",
+      "Name": "HCM_CQ8.2",
+      "Details": "For what reasons might people change their jobs? Compare your generations' reasons and your parents'."
+    },
+    {
+      "No.": "65",
+      "Session No": "23",
+      "Name": "HN_CQ21",
+      "Details": "What do you think will be the main reasons why guests do not return to a hotel?"
+    },
+    {
+      "No.": "66",
+      "Session No": "24",
+      "Name": "HCM_CQ8.3",
+      "Details": "What factors would motivate you to work harder? Which one is the most important?"
+    },
+    {
+      "No.": "67",
+      "Session No": "24",
+      "Name": "HN_CQ22",
+      "Details": "How do you think Al-Munir Hotel and Spa Group build a long - term relationship with guests?"
+    },
+    {
+      "No.": "68",
+      "Session No": "25",
+      "Name": "HCM_CQ9.1",
+      "Details": "What do you know about Protect and Gamble? How do you think it encourages job satisfaction among its staff?"
+    },
+    {
+      "No.": "69",
+      "Session No": "25",
+      "Name": "HN_CQ23",
+      "Details": "For what reasons might people change their jobs? Compare your generations' reasons and your parents'."
+    },
+    {
+      "No.": "70",
+      "Session No": "25",
+      "Name": "CT_CQ9.1",
+      "Details": "What common factors make employees decide to switch jobs?"
+    },
+    {
+      "No.": "71",
+      "Session No": "26",
+      "Name": "HCM_CQ9.2",
+      "Details": "What do you know about Marriott Hotels International and KPMG? And Which one would you prefer to work for? - Why, pay more attention to job satisfaction you may gain when working for it."
+    },
+    {
+      "No.": "72",
+      "Session No": "26",
+      "Name": "HN_CQ24",
+      "Details": "What factors would motivate you to work harder? Which one is the most important?"
+    },
+    {
+      "No.": "73",
+      "Session No": "26",
+      "Name": "CT_CQ9.2",
+      "Details": "What is the importance of employee job security for business success?"
+    },
+    {
+      "No.": "74",
+      "Session No": "27",
+      "Name": "HCM_CQ9.3",
+      "Details": "Simulate a job interview. Present the position, company and related information before the simulation."
+    },
+    {
+      "No.": "75",
+      "Session No": "27",
+      "Name": "HN_CQ25",
+      "Details": "Do you like working for a male or female boss? - Why?"
+    },
+    {
+      "No.": "76",
+      "Session No": "27",
+      "Name": "CT_CQ9.3",
+      "Details": "What factors motivate employees to emain their job loyalty and job satisfaction?"
+    },
+    {
+      "No.": "77",
+      "Session No": "28",
+      "Name": "HCM_CQ10.1",
+      "Details": "What job do you think is suitable for you? What should you equip yourself with to do the job well?"
+    },
+    {
+      "No.": "78",
+      "Session No": "28",
+      "Name": "HN_CQ26",
+      "Details": "What do you know about Protect and Gamble? How do you think it encourages job satisfaction among its staff?"
+    },
+    {
+      "No.": "79",
+      "Session No": "28",
+      "Name": "CT_CQ10.1",
+      "Details": "What do you find satisfying and frustrating about your work or studies?"
+    },
+    {
+      "No.": "80",
+      "Session No": "29",
+      "Name": "HCM_CQ10.2",
+      "Details": "What are the advantages and disadvantages when you work in the environment of a “long-hours” culture?"
+    },
+    {
+      "No.": "81",
+      "Session No": "29",
+      "Name": "HN_CQ27",
+      "Details": "What do you know about Marriott Hotels International and KPMG? And Which one would you prefer to work for? - Why, pay more attention to job satisfaction you may gain when working for it."
+    },
+    {
+      "No.": "82",
+      "Session No": "29",
+      "Name": "CT_CQ10.2",
+      "Details": "Among flexibility, the drive for personal learning and growth and working for socially responsible organisations, which factor appleals to your working loyalty in a company?"
+    },
+    {
+      "No.": "83",
+      "Session No": "30",
+      "Name": "HCM_CQ10.3",
+      "Details": "What problems concerning behaviors at work might you face in the environment of a “long-hours” culture? Choose one and present some solutions to it?"
+    },
+    {
+      "No.": "84",
+      "Session No": "30",
+      "Name": "HN_CQ28",
+      "Details": "What is the importance of employee job security for business success?"
+    },
+    {
+      "No.": "85",
+      "Session No": "30",
+      "Name": "CT_CQ10.3",
+      "Details": "What can be some appealing qualities to work for a particular company, (leave policy, culture, praisal, incentives or perks,..)"
+    },
+    {
+      "No.": "86",
+      "Session No": "31",
+      "Name": "HCM_CQ11.1",
+      "Details": "Choose one in studied topics: Communication, International Marketing, Building Relationships and Job Satisfaction and present your new findings or interests"
+    },
+    {
+      "No.": "87",
+      "Session No": "31",
+      "Name": "HN_CQ29",
+      "Details": "What are the advantages and disadvantages when you work in the environment of a “long-hours” culture?"
+    },
+    {
+      "No.": "88",
+      "Session No": "32",
+      "Name": "HCM_CQ11.2",
+      "Details": "Choose one in studied topics: Communication, International Marketing, Building Relationships and Job Satisfaction and present your new findings or interests"
+    },
+    {
+      "No.": "89",
+      "Session No": "32",
+      "Name": "HN_CQ30",
+      "Details": "What problems concerning behaviors at work might you face in the environment of a “long-hours” culture? Choose one and present some solutions to it?"
+    },
+    {
+      "No.": "90",
+      "Session No": "33",
+      "Name": "HCM_CQ11.3",
+      "Details": "Identify internal and external risks businesses face? Choose ONE INDUSTRY in your country and analyse the types and levels of risk the industry might face?"
+    },
+    {
+      "No.": "91",
+      "Session No": "33",
+      "Name": "HN_CQ31",
+      "Details": "Choose one in studied topics: Communication, International Marketing, Building Relationships and Job Satisfaction and present your new findings or interests"
+    },
+    {
+      "No.": "92",
+      "Session No": "34",
+      "Name": "HCM_CQ12.1",
+      "Details": "As a business executive, what are the key steps to risk management would you apply? Choose ONE BUSINESS and analyse the measures the business has applied to manage risks?"
+    },
+    {
+      "No.": "93",
+      "Session No": "34",
+      "Name": "HN_CQ32",
+      "Details": "Choose one in studied topics: Communication, International Marketing, Building Relationships and Job Satisfaction and present your new findings or interests"
+    },
+    {
+      "No.": "94",
+      "Session No": "34",
+      "Name": "CT_CQ12.1",
+      "Details": "What sort of risks do businesses face (for example: financial risks, environmental risks)? Give some examples."
+    },
+    {
+      "No.": "95",
+      "Session No": "35",
+      "Name": "HCM_CQ12.2",
+      "Details": "Choose one business or industry that failed to manage risk and analyze the consequences that the business or industry has faced?"
+    },
+    {
+      "No.": "96",
+      "Session No": "35",
+      "Name": "HN_CQ33",
+      "Details": "Identify internal and external risks businesses face? Choose ONE INDUSTRY in your country and analyse the types and levels of risk the industry might face?"
+    },
+    {
+      "No.": "97",
+      "Session No": "35",
+      "Name": "CT_CQ12.2",
+      "Details": "What are several key challenges facing the insurance industry in Viet Nam?"
+    },
+    {
+      "No.": "98",
+      "Session No": "36",
+      "Name": "HCM_CQ12.3",
+      "Details": "What risks do you think you may face when doing a start-up? How to deal with those problems?"
+    },
+    {
+      "No.": "99",
+      "Session No": "36",
+      "Name": "HN_CQ34",
+      "Details": "As a business executive, what are the key steps to risk management would you apply? Choose ONE BUSINESS and analyse the measures the business has applied to manage risks?"
+    },
+    {
+      "No.": "100",
+      "Session No": "36",
+      "Name": "CT_CQ12.3",
+      "Details": "What sort of things do big international companies need to insure against?"
+    },
+    {
+      "No.": "101",
+      "Session No": "37",
+      "Name": "HCM_CQ13.1",
+      "Details": "What types of insurance are popular in Vietnam? What are possible reasons why a high percentage of Vietnamese people and businesses refuse to take out insurance for their properties?. What are consequences of low insurance density? What benefits do risk carriers bring to sufferers? (For each case, take one example for analysis)."
+    },
+    {
+      "No.": "102",
+      "Session No": "37",
+      "Name": "HN_CQ35",
+      "Details": "Choose one business or industry that failed to manage risk and analyze the consequences that the business or industry has faced?"
+    },
+    {
+      "No.": "103",
+      "Session No": "37",
+      "Name": "CT_CQ13.1",
+      "Details": "What types of risks will the insurance industry have to cover in the future? As a risk manager in the finance, banking, or logistics fields, anticipate possible risks facing the field."
+    },
+    {
+      "No.": "104",
+      "Session No": "38",
+      "Name": "HCM_CQ13.2",
+      "Details": "Choose one area/thing you are planning to do. Analyze the risks and ways to mitigate them."
+    },
+    {
+      "No.": "105",
+      "Session No": "38",
+      "Name": "HN_CQ36",
+      "Details": "What types of insurance are popular in Vietnam? What are possible reasons why a high percentage of Vietnamese people and businesses refuse to take out insurance for their properties?. What are consequences of low insurance density? What benefits do risk carriers bring to sufferers? (For each case, take one example for analysis)."
+    },
+    {
+      "No.": "106",
+      "Session No": "38",
+      "Name": "CT_CQ13.2",
+      "Details": "What can be internal and external risks businesses face? Choose ONE INDUSTRY in your country and analyse the types and levels of risk the industry might face?"
+    },
+    {
+      "No.": "107",
+      "Session No": "39",
+      "Name": "HCM_CQ13.3",
+      "Details": "Imagine that you were the managers of Winton Carton Mining, how would you manage the risks that your business were facing when investing in Africa? What should be done to balance the risks and the benefits?"
+    },
+    {
+      "No.": "108",
+      "Session No": "39",
+      "Name": "HN_CQ37",
+      "Details": "What types of risks will the insurance industry have to cover in the future? As a risk manager in the finance, banking, or logistics ... fields, anticipate possible risks facing the field?"
+    },
+    {
+      "No.": "109",
+      "Session No": "39",
+      "Name": "CT_CQ13.3",
+      "Details": "What can cause a business fail to manage risks? What are consequences of risk failure that the business or industry has faced?"
+    },
+    {
+      "No.": "110",
+      "Session No": "40",
+      "Name": "HCM_CQ14.1",
+      "Details": "What are risks and hazards that foreign mining companies could face when exploiting deposits in Africa? (for example, political instability)"
+    },
+    {
+      "No.": "111",
+      "Session No": "40",
+      "Name": "HN_CQ38",
+      "Details": "What sort of things do big international companies need to insure against?"
+    },
+    {
+      "No.": "112",
+      "Session No": "41",
+      "Name": "HCM_CQ14.2",
+      "Details": "What are possible ways businesses raise finance? What are advantages and disadvantages of each? Choose a business in Vietnam and analyze the measures the company applies to mobilize capital."
+    },
+    {
+      "No.": "113",
+      "Session No": "41",
+      "Name": "HN_CQ39",
+      "Details": "What are risks and hazards that foreign mining companies could face when exploiting deposits in Africa? (for example, political instability)"
+    },
+    {
+      "No.": "114",
+      "Session No": "42",
+      "Name": "HCM_CQ14.3",
+      "Details": "You are planning to organize an event (specify what it is) at FPT University and you would like to raise funds. Present how you can raise funds for the event."
+    },
+    {
+      "No.": "115",
+      "Session No": "42",
+      "Name": "HN_CQ40",
+      "Details": "Imagine that you were the managers of Winton Carton Mining, how would you manage the risks that your business were facing when investing in Africa? What should be done to balance the risks and the benefits?"
+    },
+    {
+      "No.": "116",
+      "Session No": "43",
+      "Name": "HCM_CQ15.1",
+      "Details": "Watch a Shark Tank case (in Vietnamese) and evaluate the strong points and weak points the presenter made (in your opinion)."
+    },
+    {
+      "No.": "117",
+      "Session No": "43",
+      "Name": "HN_CQ41",
+      "Details": "Imagine you need to borrow money, which of these sources (a bank, a friend or colleague, a loan shark, a member of your family, a pawnbroker, a credit-card company) will be your first choice? Explain."
+    },
+    {
+      "No.": "118",
+      "Session No": "43",
+      "Name": "CT_CQ15.1",
+      "Details": "How can start-up companies raise money?"
+    },
+    {
+      "No.": "119",
+      "Session No": "44",
+      "Name": "HCM_CQ15.2",
+      "Details": "What are the difficulties you may face when raising finance? Propose some solutions"
+    },
+    {
+      "No.": "120",
+      "Session No": "44",
+      "Name": "HN_CQ42",
+      "Details": "Borrowing money from a loan shark used to be very popular financial activity in many different countries. What are the advantages and disadvantages of this activity in comparison with other sources of borrowing (bank, a friend or colleague, credit-card company)?"
+    },
+    {
+      "No.": "121",
+      "Session No": "44",
+      "Name": "CT_CQ15.2",
+      "Details": "Why is raising finance important in business?"
+    },
+    {
+      "No.": "122",
+      "Session No": "45",
+      "Name": "HCM_CQ15.3",
+      "Details": "Choose a \"Shark Tank\" show on VTV and analyze: (1) The business plan that the start-up businssess presented (strengths, weaknesses, reasons the business won or failed). If you were in that situations, what would your solutions be? (2) The requirements given by the business angles. Base on these requirements, analyze the advantages and disadvantages of mobilizing funds from business angles."
+    },
+    {
+      "No.": "123",
+      "Session No": "45",
+      "Name": "HN_CQ43",
+      "Details": "Give an overview on the \"usury\" (the illegal action or practice of lending money at unreasonably high rates of interest) in your country? Should it be banned or not?"
+    },
+    {
+      "No.": "124",
+      "Session No": "45",
+      "Name": "CT_CQ15.3",
+      "Details": "What are possible ways businesses raise finance? Choose a business in Vietnam and analyze the measures the company applies to mobilize capital."
+    },
+    {
+      "No.": "125",
+      "Session No": "46",
+      "Name": "HCM_CQ16.1",
+      "Details": "How to become a good negotiator?"
+    },
+    {
+      "No.": "126",
+      "Session No": "46",
+      "Name": "HN_CQ44",
+      "Details": "What are possible ways businesses raise finance? What are advantages and disadvantages of each?"
+    },
+    {
+      "No.": "127",
+      "Session No": "46",
+      "Name": "CT_CQ16.1",
+      "Details": "What can be typical requirements given by the business angles? What are advantages and disadvantages of mobilizing funds from business angles?"
+    },
+    {
+      "No.": "128",
+      "Session No": "47",
+      "Name": "HCM_CQ16.2",
+      "Details": "Hold a meeting to negotiate a draft agreement on making a feature film between the film makers and the film distributor, Concordia. Refer to the Case Study for your preparation."
+    },
+    {
+      "No.": "129",
+      "Session No": "47",
+      "Name": "HN_CQ45",
+      "Details": "Choose a business in Vietnam and analyze the measures the company applies to mobilize capital."
+    },
+    {
+      "No.": "130",
+      "Session No": "47",
+      "Name": "CT_CQ16.2",
+      "Details": "Which of these sources (a bank, a friend or colleague, a loan shark, a member of your family, a pawnbroker, a credit-card company) will be your first choice of borrowing money?"
+    },
+    {
+      "No.": "131",
+      "Session No": "48",
+      "Name": "HCM_CQ16.3",
+      "Details": "Write an email: As a director of the film or as Chief Executive of Concordia, write an email to the film maker to summarize the main points you agreed during the negotiation and indicate how the project will proceed."
+    },
+    {
+      "No.": "132",
+      "Session No": "48",
+      "Name": "HN_CQ46",
+      "Details": "Choose a \"Shark Tank\" show on VTV and analyze: (1) The business plan that the start-up businssess presented (strengths, weaknesses, reasons the business won or failed). If you were in that situations, what would your solutions be? (2) The requirements given by the business angles. Base on these requirements, analyze the advantages and disadvantages of mobilizing funds from business angles."
+    },
+    {
+      "No.": "133",
+      "Session No": "48",
+      "Name": "CT_CQ16.3",
+      "Details": "Borrowing money from a loan shark used to be very popular financial activity in many different countries. What are the advantages and disadvantages of this activity in comparison with other sources of borrowing (bank, a friend or colleague, credit-card company)?"
+    },
+    {
+      "No.": "134",
+      "Session No": "49",
+      "Name": "HCM_CQ17.1",
+      "Details": "It's said that customer is never wrong. How true is it in your country? What irritates you the most when dealing with customer service departments? Choose a business whose customer service satisfied you and another one that made you feel frustrated, describe the incidents and explain."
+    },
+    {
+      "No.": "135",
+      "Session No": "49",
+      "Name": "HN_CQ47",
+      "Details": "Hold a meeting to negotiate a draft agreement on making a feature film between the film makers and the film distributor, Concordia. Refer to the Case Study for your preparation."
+    },
+    {
+      "No.": "136",
+      "Session No": "49",
+      "Name": "CT_CQ17.1",
+      "Details": "How important to a company's success is customer care?"
+    },
+    {
+      "No.": "137",
+      "Session No": "50",
+      "Name": "HCM_CQ17.2",
+      "Details": "How important is customer care to a company’s success? Should companies have too much customer service?"
+    },
+    {
+      "No.": "138",
+      "Session No": "50",
+      "Name": "HN_CQ48",
+      "Details": "Write an email: As a director of the film or as Chief Executive of Concordia, write an email to the film maker to summarize the main points you agreed during the negotiation and indicate how the project will proceed."
+    },
+    {
+      "No.": "139",
+      "Session No": "50",
+      "Name": "CT_CQ17.2",
+      "Details": "In which situations can too much customer service become a problem? Get one situation you have experienced and explain how it drove you annoyed."
+    },
+    {
+      "No.": "140",
+      "Session No": "51",
+      "Name": "HCM_CQ17.3",
+      "Details": "What is the worst and the best customer service you have had in a restaurant? Imagine you own a restaurant, what customer expectations would you consider and how would you deal with customers' complaints? What is a demanding customer in your opinion? Explain the reasons why customers are becoming more and more demanding nowadays."
+    },
+    {
+      "No.": "141",
+      "Session No": "51",
+      "Name": "HN_CQ49",
+      "Details": "It's said that customer is never wrong. How true is it in your country? What irritates you the most when dealing with customer service departments? Choose a business whose customer service satisfied you and another one that made you feel frustrated, describe the incidents and explain."
+    },
+    {
+      "No.": "142",
+      "Session No": "51",
+      "Name": "CT_CQ17.3",
+      "Details": "A.It's said that customer is never wrong. B. The customer is not always right, but they are always the customer. Which one (A or B) is encouraged when it comes to customer services in your country?"
+    },
+    {
+      "No.": "143",
+      "Session No": "52",
+      "Name": "HCM_CQ18.1",
+      "Details": "How has customer service changed? What are the reasons for these changes?"
+    },
+    {
+      "No.": "144",
+      "Session No": "52",
+      "Name": "HN_CQ50",
+      "Details": "How important is customer care to a company’s success? Should companies have too much customer service? In which situations can too much customer service become a problem? Get one situation you have experienced and explain how it drove you crazy."
+    },
+    {
+      "No.": "145",
+      "Session No": "52",
+      "Name": "CT_CQ18.1",
+      "Details": "How important is customer care to a company’s success? Should companies have too much customer service?"
+    },
+    {
+      "No.": "146",
+      "Session No": "53",
+      "Name": "HCM_CQ18.2",
+      "Details": "Why is customer service important?"
+    },
+    {
+      "No.": "147",
+      "Session No": "53",
+      "Name": "HN_CQ51",
+      "Details": "What is the worst and the best customer service you have had in a restaurant? Imagine you own a restaurant, what customer expectations would you consider and how would you deal with customers' complaints? What is a demanding customer in your opinion? Explain the reasons why customers are becoming more and more demanding nowadays."
+    },
+    {
+      "No.": "148",
+      "Session No": "53",
+      "Name": "CT_CQ18.2",
+      "Details": "What is the worst and the best customer service you have had in a restaurant? What is a demanding customer in your opinion? Explain the reasons why customers are becoming more and more demanding nowadays."
+    },
+    {
+      "No.": "149",
+      "Session No": "54",
+      "Name": "HCM_CQ18.3",
+      "Details": "What are some pieces of advice for companies that want to improve their customer service nowadays?"
+    },
+    {
+      "No.": "150",
+      "Session No": "54",
+      "Name": "HN_CQ52",
+      "Details": "How has customer service changed? What are the reasons for these changes? What are some pieces of advice for companies that want to improve their customer service nowadays?"
+    },
+    {
+      "No.": "151",
+      "Session No": "54",
+      "Name": "CT_CQ18.3",
+      "Details": "How has customer service changed? What are the reasons for these changes?"
+    },
+    {
+      "No.": "152",
+      "Session No": "55",
+      "Name": "HCM_CQ19.1",
+      "Details": "In which situations can too much customer service become a problem? Get one situation you have experienced and explain how it drove you crazy."
+    },
+    {
+      "No.": "153",
+      "Session No": "55",
+      "Name": "HN_CQ53",
+      "Details": "Think about the retail chain Vinmart and Vinmart+ of Vingroup that has been sold to Masan recently. Explain the reasons why a lot of customers now prefer Vinmart to traditional markets, department stores, groceries or even other supermarkets such as Big C, Circle K and so on. What is speacial about their customer service?"
+    },
+    {
+      "No.": "154",
+      "Session No": "55",
+      "Name": "CT_CQ19.1",
+      "Details": "What are some pieces of advice for companies that want to improve their customer service nowadays?"
+    },
+    {
+      "No.": "155",
+      "Session No": "56",
+      "Name": "HCM_CQ19.2",
+      "Details": "Look at the Case Study about Hurrah Airlines. Read the background and four complaints from customers. Work in groups to decide which complaints you will handle now as a priority and which you will leave until later. Discuss how you deal with the complaints you have prioritised. Then discuss how you could improve the service you offer to your customers."
+    },
+    {
+      "No.": "156",
+      "Session No": "56",
+      "Name": "HN_CQ54",
+      "Details": "Do you agree that good customer service means always being able to speak to a person?"
+    },
+    {
+      "No.": "157",
+      "Session No": "56",
+      "Name": "CT_CQ19.2",
+      "Details": "Do you agree that good customer service means always being able to speak to a person?"
+    },
+    {
+      "No.": "158",
+      "Session No": "57",
+      "Name": "HCM_CQ19.3",
+      "Details": "Write an email to the Director of Customer Services summaring the problems that customers have expreienced and make recommendations for improving the service to customers."
+    },
+    {
+      "No.": "159",
+      "Session No": "57",
+      "Name": "HN_CQ55",
+      "Details": "Look at the Case Study about Hurrah Airlines. Read the background and four complaints from customers. Work in groups to decide which complaints you will handle now as a priority and which you will leave until later. Discuss how you deal with the complaints you have prioritised. Then discuss how you could improve the service you offer to your customers."
+    },
+    {
+      "No.": "160",
+      "Session No": "57",
+      "Name": "CT_CQ19.3",
+      "Details": "Which complaints from customers will be handled as a priority and how to solve it?"
+    },
+    {
+      "No.": "161",
+      "Session No": "58",
+      "Name": "HCM_CQ20.1",
+      "Details": "A.It's said that customer is never wrong. B. the customer is not always right, but they are always the customer. Which one (A or B) is encouraged when it comes to customer services in your country?"
+    },
+    {
+      "No.": "162",
+      "Session No": "58",
+      "Name": "HN_CQ56",
+      "Details": "Write an email to the Director of Customer Services summaring the problems that customers have expreienced and make recommendations for improving the service to customers."
+    },
+    {
+      "No.": "163",
+      "Session No": "59",
+      "Name": "HCM_CQ20.2",
+      "Details": "Choose one in studied topics: Risks, Raising Finance, Customer Service and present your new findings or interests"
+    },
+    {
+      "No.": "164",
+      "Session No": "59",
+      "Name": "HN_CQ57",
+      "Details": "Choose one in studied topics: Risks, Raising Finance, Customer Service and present your new findings or interests"
+    },
+    {
+      "No.": "165",
+      "Session No": "60",
+      "Name": "HCM_CQ20.3",
+      "Details": "Choose one in studied topics: Risks, Raising Finance, Customer Service and present your new findings or interests"
+    },
+    {
+      "No.": "166",
+      "Session No": "60",
+      "Name": "HN_CQ58",
+      "Details": "Choose one in studied topics: Risks, Raising Finance, Customer Service and present your new findings or interests"
+    }
+  ],
+  "materials": [
+    {
+      "No.": "1",
+      "Material Description": "Market leader Upper-Intermediate (Coursebook with DVD-ROM)",
+      "Author": "David Cotton et al",
+      "Publisher": "Pearson.",
+      "Published Date": "2012",
+      "Edition": "3rd",
+      "ISBN": "9781408237090",
+      "Is Main Material": "True",
+      "Is Hard Copy": "True",
+      "Is Online": "False",
+      "Note": ""
+    },
+    {
+      "No.": "2",
+      "Material Description": "Market leader Upper-Intermediate (Practice File with Audio CD),",
+      "Author": "David Cotton et al",
+      "Publisher": "Pearson.",
+      "Published Date": "2012",
+      "Edition": "3rd",
+      "ISBN": "9781408237106",
+      "Is Main Material": "True",
+      "Is Hard Copy": "True",
+      "Is Online": "False",
+      "Note": ""
+    },
+    {
+      "No.": "3",
+      "Material Description": "Market leader Upper-Intermediate (Teacher's Resource Book with Test Master CD-ROM),",
+      "Author": "David Cotton et al",
+      "Publisher": "Pearson.",
+      "Published Date": "2012",
+      "Edition": "3rd",
+      "ISBN": "9781408268032",
+      "Is Main Material": "False",
+      "Is Hard Copy": "False",
+      "Is Online": "False",
+      "Note": ""
+    }
+  ],
+  "source_path": "data/raw/syllabi/11905.html",
+  "id": "syllabus:11905"
+}

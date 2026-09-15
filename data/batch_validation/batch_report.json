@@ -1,0 +1,1176 @@
+{
+  "summary": {
+    "total_attempted": 30,
+    "successfully_fetched": 30,
+    "successfully_normalized": 30,
+    "pass": 28,
+    "warn": 2,
+    "fail": 0
+  },
+  "metrics": [
+    {
+      "syllabus_id": 14047,
+      "subject_code": "ACC305",
+      "syllabus_name": "Financial Statement Analysis_Phân tích báo cáo tài chính",
+      "active": true,
+      "approved": true,
+      "credits": 3,
+      "clo_count": 7,
+      "assessment_count": 5,
+      "schedule_count": 60,
+      "material_count": 4,
+      "prerequisite_state": "non-empty",
+      "status": "PASS",
+      "issues": []
+    },
+    {
+      "syllabus_id": 14449,
+      "subject_code": "AIC211",
+      "syllabus_name": "AI for Cybersecurity_Trí tuệ nhân tạo cho An ninh mạng",
+      "active": true,
+      "approved": true,
+      "credits": 3,
+      "clo_count": 10,
+      "assessment_count": 4,
+      "schedule_count": 60,
+      "material_count": 5,
+      "prerequisite_state": "non-empty",
+      "status": "PASS",
+      "issues": []
+    },
+    {
+      "syllabus_id": 12630,
+      "subject_code": "AID301c",
+      "syllabus_name": "AI in Production_Thiết kế sản phẩm TTNT",
+      "active": true,
+      "approved": true,
+      "credits": 3,
+      "clo_count": 5,
+      "assessment_count": 1,
+      "schedule_count": 12,
+      "material_count": 8,
+      "prerequisite_state": "non-empty",
+      "status": "PASS",
+      "issues": []
+    },
+    {
+      "syllabus_id": 11703,
+      "subject_code": "AIE301m",
+      "syllabus_name": "AI for Trading_Ứng dụng TTNT cho giao dịch",
+      "active": true,
+      "approved": true,
+      "credits": 3,
+      "clo_count": 9,
+      "assessment_count": 8,
+      "schedule_count": 60,
+      "material_count": 6,
+      "prerequisite_state": "non-empty",
+      "status": "PASS",
+      "issues": []
+    },
+    {
+      "syllabus_id": 12551,
+      "subject_code": "AIG202c",
+      "syllabus_name": "Artificial Intelligence_Trí tuệ nhân tạo",
+      "active": true,
+      "approved": true,
+      "credits": 3,
+      "clo_count": 5,
+      "assessment_count": 1,
+      "schedule_count": 12,
+      "material_count": 6,
+      "prerequisite_state": "empty",
+      "status": "PASS",
+      "issues": []
+    },
+    {
+      "syllabus_id": 14111,
+      "subject_code": "AIH301m",
+      "syllabus_name": "AI in Healthcare_Ứng dụng TTNT trong chăm sóc sức khỏe",
+      "active": true,
+      "approved": true,
+      "credits": 3,
+      "clo_count": 8,
+      "assessment_count": 6,
+      "schedule_count": 60,
+      "material_count": 11,
+      "prerequisite_state": "non-empty",
+      "status": "PASS",
+      "issues": []
+    },
+    {
+      "syllabus_id": 12035,
+      "subject_code": "AIL304m",
+      "syllabus_name": "Machine Learning_Học máy",
+      "active": true,
+      "approved": true,
+      "credits": 3,
+      "clo_count": 5,
+      "assessment_count": 4,
+      "schedule_count": 60,
+      "material_count": 8,
+      "prerequisite_state": "non-empty",
+      "status": "PASS",
+      "issues": []
+    },
+    {
+      "syllabus_id": 11175,
+      "subject_code": "AIM301m",
+      "syllabus_name": "AI for Medicine_Ứng dụng TTNT cho y học",
+      "active": true,
+      "approved": true,
+      "credits": 3,
+      "clo_count": 9,
+      "assessment_count": 10,
+      "schedule_count": 60,
+      "material_count": 7,
+      "prerequisite_state": "non-empty",
+      "status": "PASS",
+      "issues": []
+    },
+    {
+      "syllabus_id": 14069,
+      "subject_code": "AIP491",
+      "syllabus_name": "AI Capstone Project_Đồ án tốt nghiệp TTNT",
+      "active": true,
+      "approved": true,
+      "credits": 10,
+      "clo_count": 10,
+      "assessment_count": 2,
+      "schedule_count": 16,
+      "material_count": 3,
+      "prerequisite_state": "non-empty",
+      "status": "PASS",
+      "issues": []
+    },
+    {
+      "syllabus_id": 14352,
+      "subject_code": "AIS301c",
+      "syllabus_name": "AI for Cybersecurity_ Trí tuệ nhân tạo cho an toàn thông tin",
+      "active": true,
+      "approved": true,
+      "credits": 3,
+      "clo_count": 5,
+      "assessment_count": 1,
+      "schedule_count": 12,
+      "material_count": 5,
+      "prerequisite_state": "non-empty",
+      "status": "PASS",
+      "issues": []
+    },
+    {
+      "syllabus_id": 10224,
+      "subject_code": "AIT301",
+      "syllabus_name": "AI with Tensorflow_AI với Tensorflow",
+      "active": true,
+      "approved": true,
+      "credits": 3,
+      "clo_count": 10,
+      "assessment_count": 3,
+      "schedule_count": 60,
+      "material_count": 12,
+      "prerequisite_state": "non-empty",
+      "status": "PASS",
+      "issues": []
+    },
+    {
+      "syllabus_id": 13245,
+      "subject_code": "CEA201",
+      "syllabus_name": "Computer Organization and Architecture_Tổ chức và Kiến trúc máy tính",
+      "active": true,
+      "approved": true,
+      "credits": 3,
+      "clo_count": 10,
+      "assessment_count": 3,
+      "schedule_count": 60,
+      "material_count": 7,
+      "prerequisite_state": "empty",
+      "status": "PASS",
+      "issues": []
+    },
+    {
+      "syllabus_id": 14134,
+      "subject_code": "CHN132c",
+      "syllabus_name": "Hán ngữ sơ cấp 3",
+      "active": true,
+      "approved": true,
+      "credits": 3,
+      "clo_count": 3,
+      "assessment_count": 3,
+      "schedule_count": 12,
+      "material_count": 2,
+      "prerequisite_state": "empty",
+      "status": "PASS",
+      "issues": []
+    },
+    {
+      "syllabus_id": 11585,
+      "subject_code": "CSI106",
+      "syllabus_name": "Introduction to Computer Science_Nhập môn khoa học máy tính",
+      "active": true,
+      "approved": true,
+      "credits": 3,
+      "clo_count": 13,
+      "assessment_count": 4,
+      "schedule_count": 60,
+      "material_count": 4,
+      "prerequisite_state": "empty",
+      "status": "PASS",
+      "issues": []
+    },
+    {
+      "syllabus_id": 11835,
+      "subject_code": "DBA103",
+      "syllabus_name": "Nhạc cụ truyền thống - Đàn Bầu",
+      "active": true,
+      "approved": true,
+      "credits": 3,
+      "clo_count": 2,
+      "assessment_count": 3,
+      "schedule_count": 30,
+      "material_count": 3,
+      "prerequisite_state": "non-empty",
+      "status": "PASS",
+      "issues": []
+    },
+    {
+      "syllabus_id": 872,
+      "subject_code": "DBD301",
+      "syllabus_name": "Advanced Databases_Cơ sở dữ liệu nâng cao",
+      "active": true,
+      "approved": true,
+      "credits": 3,
+      "clo_count": 0,
+      "assessment_count": 3,
+      "schedule_count": 30,
+      "material_count": 3,
+      "prerequisite_state": "non-empty",
+      "status": "WARN",
+      "issues": [
+        {
+          "subject_code": "DBD301",
+          "syllabus_id": 872,
+          "stage": "validate",
+          "severity": "WARN",
+          "reason": "CLO count = 0"
+        }
+      ]
+    },
+    {
+      "syllabus_id": 12039,
+      "subject_code": "DBI202",
+      "syllabus_name": "Database Systems_Các hệ cơ sở dữ liệu",
+      "active": true,
+      "approved": true,
+      "credits": 3,
+      "clo_count": 7,
+      "assessment_count": 5,
+      "schedule_count": 60,
+      "material_count": 5,
+      "prerequisite_state": "empty",
+      "status": "PASS",
+      "issues": []
+    },
+    {
+      "syllabus_id": 11218,
+      "subject_code": "DBM302m",
+      "syllabus_name": "Data Mining_Khai phá dữ liệu",
+      "active": true,
+      "approved": true,
+      "credits": 3,
+      "clo_count": 4,
+      "assessment_count": 5,
+      "schedule_count": 60,
+      "material_count": 4,
+      "prerequisite_state": "empty",
+      "status": "PASS",
+      "issues": []
+    },
+    {
+      "syllabus_id": 10023,
+      "subject_code": "DBP391",
+      "syllabus_name": "Data Mining Project_Dự án khai phá dữ liệu",
+      "active": true,
+      "approved": true,
+      "credits": 3,
+      "clo_count": 12,
+      "assessment_count": 8,
+      "schedule_count": 60,
+      "material_count": 4,
+      "prerequisite_state": "empty",
+      "status": "PASS",
+      "issues": []
+    },
+    {
+      "syllabus_id": 11199,
+      "subject_code": "DBS401",
+      "syllabus_name": "Database Security_An ninh cơ sở dữ liệu",
+      "active": true,
+      "approved": true,
+      "credits": 3,
+      "clo_count": 16,
+      "assessment_count": 6,
+      "schedule_count": 60,
+      "material_count": 3,
+      "prerequisite_state": "non-empty",
+      "status": "PASS",
+      "issues": []
+    },
+    {
+      "syllabus_id": 10029,
+      "subject_code": "DBW301",
+      "syllabus_name": "Data Warehouse_Kho dữ liệu",
+      "active": true,
+      "approved": true,
+      "credits": 3,
+      "clo_count": 0,
+      "assessment_count": 4,
+      "schedule_count": 30,
+      "material_count": 1,
+      "prerequisite_state": "non-empty",
+      "status": "WARN",
+      "issues": [
+        {
+          "subject_code": "DBW301",
+          "syllabus_id": 10029,
+          "stage": "validate",
+          "severity": "WARN",
+          "reason": "CLO count = 0"
+        }
+      ]
+    },
+    {
+      "syllabus_id": 14481,
+      "subject_code": "ECO201",
+      "syllabus_name": "International Economics_Kinh tế quốc tế",
+      "active": true,
+      "approved": true,
+      "credits": 3,
+      "clo_count": 13,
+      "assessment_count": 6,
+      "schedule_count": 60,
+      "material_count": 4,
+      "prerequisite_state": "non-empty",
+      "status": "PASS",
+      "issues": []
+    },
+    {
+      "syllabus_id": 13756,
+      "subject_code": "ENG303",
+      "syllabus_name": "Advanced English Grammar_Ngữ pháp tiếng Anh nâng cao",
+      "active": true,
+      "approved": true,
+      "credits": 3,
+      "clo_count": 5,
+      "assessment_count": 8,
+      "schedule_count": 60,
+      "material_count": 4,
+      "prerequisite_state": "non-empty",
+      "status": "PASS",
+      "issues": []
+    },
+    {
+      "syllabus_id": 14329,
+      "subject_code": "FIN306c",
+      "syllabus_name": "Financial Reporting_Báo cáo tài chính",
+      "active": true,
+      "approved": true,
+      "credits": 3,
+      "clo_count": 12,
+      "assessment_count": 1,
+      "schedule_count": 12,
+      "material_count": 7,
+      "prerequisite_state": "non-empty",
+      "status": "PASS",
+      "issues": []
+    },
+    {
+      "syllabus_id": 14467,
+      "subject_code": "HCM202",
+      "syllabus_name": "Ho Chi Minh Ideology - Tư tưởng Hồ Chí Minh",
+      "active": true,
+      "approved": true,
+      "credits": 2,
+      "clo_count": 10,
+      "assessment_count": 4,
+      "schedule_count": 40,
+      "material_count": 8,
+      "prerequisite_state": "non-empty",
+      "status": "PASS",
+      "issues": []
+    },
+    {
+      "syllabus_id": 13036,
+      "subject_code": "IBC201",
+      "syllabus_name": "Cross Cultural Management and Negotiation_Quản trị và đàm phán trong môi trường đa văn hóa",
+      "active": true,
+      "approved": true,
+      "credits": 3,
+      "clo_count": 10,
+      "assessment_count": 6,
+      "schedule_count": 60,
+      "material_count": 3,
+      "prerequisite_state": "non-empty",
+      "status": "PASS",
+      "issues": []
+    },
+    {
+      "syllabus_id": 12817,
+      "subject_code": "IBF301",
+      "syllabus_name": "International Finance_Tài chính quốc tế",
+      "active": true,
+      "approved": true,
+      "credits": 3,
+      "clo_count": 5,
+      "assessment_count": 5,
+      "schedule_count": 60,
+      "material_count": 11,
+      "prerequisite_state": "non-empty",
+      "status": "PASS",
+      "issues": []
+    },
+    {
+      "syllabus_id": 13459,
+      "subject_code": "IBI101",
+      "syllabus_name": "Introduction to International Business_Nhập môn kinh doanh quốc tế",
+      "active": true,
+      "approved": true,
+      "credits": 3,
+      "clo_count": 10,
+      "assessment_count": 6,
+      "schedule_count": 60,
+      "material_count": 4,
+      "prerequisite_state": "non-empty",
+      "status": "PASS",
+      "issues": []
+    },
+    {
+      "syllabus_id": 12375,
+      "subject_code": "IBS301m",
+      "syllabus_name": "International Business Strategy_Chiến lược kinh doanh quốc tế",
+      "active": true,
+      "approved": true,
+      "credits": 3,
+      "clo_count": 8,
+      "assessment_count": 6,
+      "schedule_count": 60,
+      "material_count": 3,
+      "prerequisite_state": "non-empty",
+      "status": "PASS",
+      "issues": []
+    },
+    {
+      "syllabus_id": 7803,
+      "subject_code": "IBSTPI001",
+      "syllabus_name": "Kỹ năng sư phạm theo chuẩn IBSTPI",
+      "active": true,
+      "approved": true,
+      "credits": 0,
+      "clo_count": 15,
+      "assessment_count": 2,
+      "schedule_count": 5,
+      "material_count": 6,
+      "prerequisite_state": "non-empty",
+      "status": "PASS",
+      "issues": []
+    }
+  ],
+  "issues": [
+    {
+      "subject_code": "BUS",
+      "syllabus_id": null,
+      "stage": "resolve",
+      "severity": "WARN",
+      "reason": "no syllabus rows found"
+    },
+    {
+      "subject_code": "PHE",
+      "syllabus_id": null,
+      "stage": "resolve",
+      "severity": "WARN",
+      "reason": "no syllabus rows found"
+    },
+    {
+      "subject_code": "DBD301",
+      "syllabus_id": 872,
+      "stage": "validate",
+      "severity": "WARN",
+      "reason": "CLO count = 0"
+    },
+    {
+      "subject_code": "DBW301",
+      "syllabus_id": 10029,
+      "stage": "validate",
+      "severity": "WARN",
+      "reason": "CLO count = 0"
+    }
+  ],
+  "unseen_table_structures": [],
+  "sqlite": {
+    "total_syllabus_count": 30,
+    "total_chunk_count": 1541,
+    "total_schedule_chunks": 1351,
+    "total_normalized_session_count": 1351,
+    "schedule_chunks_equal_sessions": true,
+    "every_normalized_syllabus_has_chunks": true,
+    "missing_chunk_syllabus_ids": [],
+    "schedule_count_mismatches": []
+  },
+  "retrieval_tests": [
+    {
+      "query": "IBSTPI001 assessment",
+      "subject_code_filter": "IBSTPI001",
+      "section_filter": "assessment",
+      "session_filter": null,
+      "result_count": 1,
+      "top_results": [
+        {
+          "subject_code": "IBSTPI001",
+          "syllabus_id": 7803,
+          "section": "assessment",
+          "session_number": null,
+          "title": "Assessment"
+        }
+      ]
+    },
+    {
+      "query": "IBSTPI001 prerequisite",
+      "subject_code_filter": "IBSTPI001",
+      "section_filter": "prerequisite",
+      "session_filter": null,
+      "result_count": 1,
+      "top_results": [
+        {
+          "subject_code": "IBSTPI001",
+          "syllabus_id": 7803,
+          "section": "prerequisite",
+          "session_number": null,
+          "title": "Prerequisite"
+        }
+      ]
+    },
+    {
+      "query": "IBSTPI001 session 1",
+      "subject_code_filter": "IBSTPI001",
+      "section_filter": "schedule",
+      "session_filter": 1,
+      "result_count": 1,
+      "top_results": [
+        {
+          "subject_code": "IBSTPI001",
+          "syllabus_id": 7803,
+          "section": "schedule",
+          "session_number": 1,
+          "title": "Session 1"
+        }
+      ]
+    },
+    {
+      "query": "IBSTPI001 học bao nhiêu tín chỉ",
+      "subject_code_filter": "IBSTPI001",
+      "section_filter": "general_information",
+      "session_filter": null,
+      "result_count": 1,
+      "top_results": [
+        {
+          "subject_code": "IBSTPI001",
+          "syllabus_id": 7803,
+          "section": "general_information",
+          "session_number": null,
+          "title": "General Information"
+        }
+      ]
+    },
+    {
+      "query": "ECO201 assessment",
+      "subject_code_filter": "ECO201",
+      "section_filter": "assessment",
+      "session_filter": null,
+      "result_count": 1,
+      "top_results": [
+        {
+          "subject_code": "ECO201",
+          "syllabus_id": 14481,
+          "section": "assessment",
+          "session_number": null,
+          "title": "Assessment"
+        }
+      ]
+    },
+    {
+      "query": "ECO201 prerequisite",
+      "subject_code_filter": "ECO201",
+      "section_filter": "prerequisite",
+      "session_filter": null,
+      "result_count": 1,
+      "top_results": [
+        {
+          "subject_code": "ECO201",
+          "syllabus_id": 14481,
+          "section": "prerequisite",
+          "session_number": null,
+          "title": "Prerequisite"
+        }
+      ]
+    },
+    {
+      "query": "ECO201 session 1",
+      "subject_code_filter": "ECO201",
+      "section_filter": "schedule",
+      "session_filter": 1,
+      "result_count": 1,
+      "top_results": [
+        {
+          "subject_code": "ECO201",
+          "syllabus_id": 14481,
+          "section": "schedule",
+          "session_number": 1,
+          "title": "Session 1"
+        }
+      ]
+    },
+    {
+      "query": "ECO201 học bao nhiêu tín chỉ",
+      "subject_code_filter": "ECO201",
+      "section_filter": "general_information",
+      "session_filter": null,
+      "result_count": 1,
+      "top_results": [
+        {
+          "subject_code": "ECO201",
+          "syllabus_id": 14481,
+          "section": "general_information",
+          "session_number": null,
+          "title": "General Information"
+        }
+      ]
+    },
+    {
+      "query": "DBM302m assessment",
+      "subject_code_filter": "DBM302M",
+      "section_filter": "assessment",
+      "session_filter": null,
+      "result_count": 1,
+      "top_results": [
+        {
+          "subject_code": "DBM302m",
+          "syllabus_id": 11218,
+          "section": "assessment",
+          "session_number": null,
+          "title": "Assessment"
+        }
+      ]
+    },
+    {
+      "query": "DBM302m prerequisite",
+      "subject_code_filter": "DBM302M",
+      "section_filter": "prerequisite",
+      "session_filter": null,
+      "result_count": 1,
+      "top_results": [
+        {
+          "subject_code": "DBM302m",
+          "syllabus_id": 11218,
+          "section": "prerequisite",
+          "session_number": null,
+          "title": "Prerequisite"
+        }
+      ]
+    },
+    {
+      "query": "DBM302m session 1",
+      "subject_code_filter": "DBM302M",
+      "section_filter": "schedule",
+      "session_filter": 1,
+      "result_count": 1,
+      "top_results": [
+        {
+          "subject_code": "DBM302m",
+          "syllabus_id": 11218,
+          "section": "schedule",
+          "session_number": 1,
+          "title": "Session 1"
+        }
+      ]
+    },
+    {
+      "query": "DBM302m học bao nhiêu tín chỉ",
+      "subject_code_filter": "DBM302M",
+      "section_filter": "general_information",
+      "session_filter": null,
+      "result_count": 1,
+      "top_results": [
+        {
+          "subject_code": "DBM302m",
+          "syllabus_id": 11218,
+          "section": "general_information",
+          "session_number": null,
+          "title": "General Information"
+        }
+      ]
+    },
+    {
+      "query": "AIL304m assessment",
+      "subject_code_filter": "AIL304M",
+      "section_filter": "assessment",
+      "session_filter": null,
+      "result_count": 1,
+      "top_results": [
+        {
+          "subject_code": "AIL304m",
+          "syllabus_id": 12035,
+          "section": "assessment",
+          "session_number": null,
+          "title": "Assessment"
+        }
+      ]
+    },
+    {
+      "query": "AIL304m prerequisite",
+      "subject_code_filter": "AIL304M",
+      "section_filter": "prerequisite",
+      "session_filter": null,
+      "result_count": 1,
+      "top_results": [
+        {
+          "subject_code": "AIL304m",
+          "syllabus_id": 12035,
+          "section": "prerequisite",
+          "session_number": null,
+          "title": "Prerequisite"
+        }
+      ]
+    },
+    {
+      "query": "AIL304m session 1",
+      "subject_code_filter": "AIL304M",
+      "section_filter": "schedule",
+      "session_filter": 1,
+      "result_count": 1,
+      "top_results": [
+        {
+          "subject_code": "AIL304m",
+          "syllabus_id": 12035,
+          "section": "schedule",
+          "session_number": 1,
+          "title": "Session 1"
+        }
+      ]
+    },
+    {
+      "query": "AIL304m học bao nhiêu tín chỉ",
+      "subject_code_filter": "AIL304M",
+      "section_filter": "general_information",
+      "session_filter": null,
+      "result_count": 1,
+      "top_results": [
+        {
+          "subject_code": "AIL304m",
+          "syllabus_id": 12035,
+          "section": "general_information",
+          "session_number": null,
+          "title": "General Information"
+        }
+      ]
+    },
+    {
+      "query": "IBI101 assessment",
+      "subject_code_filter": "IBI101",
+      "section_filter": "assessment",
+      "session_filter": null,
+      "result_count": 1,
+      "top_results": [
+        {
+          "subject_code": "IBI101",
+          "syllabus_id": 13459,
+          "section": "assessment",
+          "session_number": null,
+          "title": "Assessment"
+        }
+      ]
+    },
+    {
+      "query": "IBI101 prerequisite",
+      "subject_code_filter": "IBI101",
+      "section_filter": "prerequisite",
+      "session_filter": null,
+      "result_count": 1,
+      "top_results": [
+        {
+          "subject_code": "IBI101",
+          "syllabus_id": 13459,
+          "section": "prerequisite",
+          "session_number": null,
+          "title": "Prerequisite"
+        }
+      ]
+    },
+    {
+      "query": "IBI101 session 1",
+      "subject_code_filter": "IBI101",
+      "section_filter": "schedule",
+      "session_filter": 1,
+      "result_count": 1,
+      "top_results": [
+        {
+          "subject_code": "IBI101",
+          "syllabus_id": 13459,
+          "section": "schedule",
+          "session_number": 1,
+          "title": "Session 1"
+        }
+      ]
+    },
+    {
+      "query": "IBI101 học bao nhiêu tín chỉ",
+      "subject_code_filter": "IBI101",
+      "section_filter": "general_information",
+      "session_filter": null,
+      "result_count": 1,
+      "top_results": [
+        {
+          "subject_code": "IBI101",
+          "syllabus_id": 13459,
+          "section": "general_information",
+          "session_number": null,
+          "title": "General Information"
+        }
+      ]
+    },
+    {
+      "query": "DBD301 assessment",
+      "subject_code_filter": "DBD301",
+      "section_filter": "assessment",
+      "session_filter": null,
+      "result_count": 1,
+      "top_results": [
+        {
+          "subject_code": "DBD301",
+          "syllabus_id": 872,
+          "section": "assessment",
+          "session_number": null,
+          "title": "Assessment"
+        }
+      ]
+    },
+    {
+      "query": "DBD301 prerequisite",
+      "subject_code_filter": "DBD301",
+      "section_filter": "prerequisite",
+      "session_filter": null,
+      "result_count": 1,
+      "top_results": [
+        {
+          "subject_code": "DBD301",
+          "syllabus_id": 872,
+          "section": "prerequisite",
+          "session_number": null,
+          "title": "Prerequisite"
+        }
+      ]
+    },
+    {
+      "query": "DBD301 session 1",
+      "subject_code_filter": "DBD301",
+      "section_filter": "schedule",
+      "session_filter": 1,
+      "result_count": 1,
+      "top_results": [
+        {
+          "subject_code": "DBD301",
+          "syllabus_id": 872,
+          "section": "schedule",
+          "session_number": 1,
+          "title": "Session 1"
+        }
+      ]
+    },
+    {
+      "query": "DBD301 học bao nhiêu tín chỉ",
+      "subject_code_filter": "DBD301",
+      "section_filter": "general_information",
+      "session_filter": null,
+      "result_count": 1,
+      "top_results": [
+        {
+          "subject_code": "DBD301",
+          "syllabus_id": 872,
+          "section": "general_information",
+          "session_number": null,
+          "title": "General Information"
+        }
+      ]
+    },
+    {
+      "query": "AIS301c assessment",
+      "subject_code_filter": "AIS301C",
+      "section_filter": "assessment",
+      "session_filter": null,
+      "result_count": 1,
+      "top_results": [
+        {
+          "subject_code": "AIS301c",
+          "syllabus_id": 14352,
+          "section": "assessment",
+          "session_number": null,
+          "title": "Assessment"
+        }
+      ]
+    },
+    {
+      "query": "AIS301c prerequisite",
+      "subject_code_filter": "AIS301C",
+      "section_filter": "prerequisite",
+      "session_filter": null,
+      "result_count": 1,
+      "top_results": [
+        {
+          "subject_code": "AIS301c",
+          "syllabus_id": 14352,
+          "section": "prerequisite",
+          "session_number": null,
+          "title": "Prerequisite"
+        }
+      ]
+    },
+    {
+      "query": "AIS301c session 1",
+      "subject_code_filter": "AIS301C",
+      "section_filter": "schedule",
+      "session_filter": 1,
+      "result_count": 1,
+      "top_results": [
+        {
+          "subject_code": "AIS301c",
+          "syllabus_id": 14352,
+          "section": "schedule",
+          "session_number": 1,
+          "title": "Session 1"
+        }
+      ]
+    },
+    {
+      "query": "AIS301c học bao nhiêu tín chỉ",
+      "subject_code_filter": "AIS301C",
+      "section_filter": "general_information",
+      "session_filter": null,
+      "result_count": 1,
+      "top_results": [
+        {
+          "subject_code": "AIS301c",
+          "syllabus_id": 14352,
+          "section": "general_information",
+          "session_number": null,
+          "title": "General Information"
+        }
+      ]
+    },
+    {
+      "query": "DBI202 assessment",
+      "subject_code_filter": "DBI202",
+      "section_filter": "assessment",
+      "session_filter": null,
+      "result_count": 1,
+      "top_results": [
+        {
+          "subject_code": "DBI202",
+          "syllabus_id": 12039,
+          "section": "assessment",
+          "session_number": null,
+          "title": "Assessment"
+        }
+      ]
+    },
+    {
+      "query": "DBI202 prerequisite",
+      "subject_code_filter": "DBI202",
+      "section_filter": "prerequisite",
+      "session_filter": null,
+      "result_count": 1,
+      "top_results": [
+        {
+          "subject_code": "DBI202",
+          "syllabus_id": 12039,
+          "section": "prerequisite",
+          "session_number": null,
+          "title": "Prerequisite"
+        }
+      ]
+    },
+    {
+      "query": "DBI202 session 1",
+      "subject_code_filter": "DBI202",
+      "section_filter": "schedule",
+      "session_filter": 1,
+      "result_count": 1,
+      "top_results": [
+        {
+          "subject_code": "DBI202",
+          "syllabus_id": 12039,
+          "section": "schedule",
+          "session_number": 1,
+          "title": "Session 1"
+        }
+      ]
+    },
+    {
+      "query": "DBI202 học bao nhiêu tín chỉ",
+      "subject_code_filter": "DBI202",
+      "section_filter": "general_information",
+      "session_filter": null,
+      "result_count": 1,
+      "top_results": [
+        {
+          "subject_code": "DBI202",
+          "syllabus_id": 12039,
+          "section": "general_information",
+          "session_number": null,
+          "title": "General Information"
+        }
+      ]
+    },
+    {
+      "query": "IBC201 assessment",
+      "subject_code_filter": "IBC201",
+      "section_filter": "assessment",
+      "session_filter": null,
+      "result_count": 1,
+      "top_results": [
+        {
+          "subject_code": "IBC201",
+          "syllabus_id": 13036,
+          "section": "assessment",
+          "session_number": null,
+          "title": "Assessment"
+        }
+      ]
+    },
+    {
+      "query": "IBC201 prerequisite",
+      "subject_code_filter": "IBC201",
+      "section_filter": "prerequisite",
+      "session_filter": null,
+      "result_count": 1,
+      "top_results": [
+        {
+          "subject_code": "IBC201",
+          "syllabus_id": 13036,
+          "section": "prerequisite",
+          "session_number": null,
+          "title": "Prerequisite"
+        }
+      ]
+    },
+    {
+      "query": "IBC201 session 1",
+      "subject_code_filter": "IBC201",
+      "section_filter": "schedule",
+      "session_filter": 1,
+      "result_count": 1,
+      "top_results": [
+        {
+          "subject_code": "IBC201",
+          "syllabus_id": 13036,
+          "section": "schedule",
+          "session_number": 1,
+          "title": "Session 1"
+        }
+      ]
+    },
+    {
+      "query": "IBC201 học bao nhiêu tín chỉ",
+      "subject_code_filter": "IBC201",
+      "section_filter": "general_information",
+      "session_filter": null,
+      "result_count": 1,
+      "top_results": [
+        {
+          "subject_code": "IBC201",
+          "syllabus_id": 13036,
+          "section": "general_information",
+          "session_number": null,
+          "title": "General Information"
+        }
+      ]
+    },
+    {
+      "query": "IBS301m assessment",
+      "subject_code_filter": "IBS301M",
+      "section_filter": "assessment",
+      "session_filter": null,
+      "result_count": 1,
+      "top_results": [
+        {
+          "subject_code": "IBS301m",
+          "syllabus_id": 12375,
+          "section": "assessment",
+          "session_number": null,
+          "title": "Assessment"
+        }
+      ]
+    },
+    {
+      "query": "IBS301m prerequisite",
+      "subject_code_filter": "IBS301M",
+      "section_filter": "prerequisite",
+      "session_filter": null,
+      "result_count": 1,
+      "top_results": [
+        {
+          "subject_code": "IBS301m",
+          "syllabus_id": 12375,
+          "section": "prerequisite",
+          "session_number": null,
+          "title": "Prerequisite"
+        }
+      ]
+    },
+    {
+      "query": "IBS301m session 1",
+      "subject_code_filter": "IBS301M",
+      "section_filter": "schedule",
+      "session_filter": 1,
+      "result_count": 1,
+      "top_results": [
+        {
+          "subject_code": "IBS301m",
+          "syllabus_id": 12375,
+          "section": "schedule",
+          "session_number": 1,
+          "title": "Session 1"
+        }
+      ]
+    },
+    {
+      "query": "IBS301m học bao nhiêu tín chỉ",
+      "subject_code_filter": "IBS301M",
+      "section_filter": "general_information",
+      "session_filter": null,
+      "result_count": 1,
+      "top_results": [
+        {
+          "subject_code": "IBS301m",
+          "syllabus_id": 12375,
+          "section": "general_information",
+          "session_number": null,
+          "title": "General Information"
+        }
+      ]
+    }
+  ],
+  "crawl_stats": {
+    "subjects_discovered": 32,
+    "syllabus_rows_found": 218,
+    "active_syllabi_selected": 30,
+    "inactive_syllabi_skipped": 0,
+    "subjects_without_active_syllabus": 0,
+    "detail_pages_fetched": 30
+  },
+  "outputs": {
+    "raw_dir": "/data/qtram/FPT_UNI/K8_FU_26FA/PRM393/FLM_Obsidian/data/batch_validation/raw/syllabi",
+    "normalized_dir": "/data/qtram/FPT_UNI/K8_FU_26FA/PRM393/FLM_Obsidian/data/batch_validation/normalized/syllabi",
+    "graph_dir": "/data/qtram/FPT_UNI/K8_FU_26FA/PRM393/FLM_Obsidian/data/batch_validation/graph",
+    "vault_dir": "/data/qtram/FPT_UNI/K8_FU_26FA/PRM393/FLM_Obsidian/data/batch_validation/vault",
+    "db_path": "/data/qtram/FPT_UNI/K8_FU_26FA/PRM393/FLM_Obsidian/data/batch_validation/knowledge.db"
+  }
+}

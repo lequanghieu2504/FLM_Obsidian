@@ -1,0 +1,1081 @@
+{
+  "syllabus_id": 13377,
+  "subject_code": "ADT401",
+  "subject_name": "Mobility Applications Design 2 _ Thiết kế ứng dụng cho các thiết bị di động 2",
+  "syllabus_name": "Mobility Applications Design 2 _ Thiết kế ứng dụng cho các thiết bị di động 2",
+  "credits": 3,
+  "degree_level": "Bachelor",
+  "time_allocation": "Study hour (150h) = 45h contact hours + 105h self-study",
+  "prerequisite": "ADH301",
+  "general_information": {
+    "Syllabus ID": "13377",
+    "Syllabus Name": "Mobility Applications Design 2 _ Thiết kế ứng dụng cho các thiết bị di động 2",
+    "Course Name English": "Mobility Applications Design 2",
+    "Subject Code": "ADT401",
+    "Learning-Teaching Method": "Lecture,Practice, Discussion, Group work",
+    "NoCredit": "3",
+    "Degree Level": "Bachelor",
+    "Time Allocation": "Study hour (150h) = 45h contact hours + 105h self-study",
+    "Pre-Requisite": "ADH301",
+    "Description": "This course aims to provide student understanding on techniques, tools and skills to do a practical application design project. To study this course, student must have basic knowledge related to Interaction and UX Design, understanding principles and agile process applied in a mobile design project. In this course, student will perform a design project individually and have to work with programmer to transform an idea to a product. They will learn how to do from a research to design and implement an application project. They will learn about how to run a study of domain interested, how to make use-case list and draw flow diagram. They will be taught about the way to write a proposal for a project. In design phase, there are alot of things student must aware about, so they will be taught about them including rules, principles and good practices such as Realism, Fitts's Law, Animation, Speed and etc.. Testing techniques such as A/B Testing, Usability Testing will also be explained in this course. Student will be evaluated according to how his/her applied knowledge gained from this course to the course's project.",
+    "StudentTasks": "- Attend at least 80% of contact hours in order to be accepted to the final examination - Follow instructions from teachers in class - Actively participate in class activities - Fulfill tasks given by instructor after class - Read the textbook in advance - Access the course website (www.cms.fpt.edu.vn) for up-to-date information and material of the course, for online supports from teachers and other students and for practicing and assessment. - Complete course's Portfolio with full contents of exercises and submit to the teacher 1 day after the course",
+    "Tools": "",
+    "Scoring Scale": "10",
+    "DecisionNo MM/dd/yyyy": "932/QĐ-ĐHFPT dated 08/22/2025",
+    "IsApproved": "True",
+    "Note": "",
+    "Is Scored": "True",
+    "MinAvgMarkToPass": "5",
+    "IsActive": "True",
+    "ApprovedDate": "8/22/2025"
+  },
+  "active": true,
+  "approved": true,
+  "decision": "932/QĐ-ĐHFPT dated 08/22/2025",
+  "description": "This course aims to provide student understanding on techniques, tools and skills to do a practical application design project. To study this course, student must have basic knowledge related to Interaction and UX Design, understanding principles and agile process applied in a mobile design project. In this course, student will perform a design project individually and have to work with programmer to transform an idea to a product. They will learn how to do from a research to design and implement an application project. They will learn about how to run a study of domain interested, how to make use-case list and draw flow diagram. They will be taught about the way to write a proposal for a project. In design phase, there are alot of things student must aware about, so they will be taught about them including rules, principles and good practices such as Realism, Fitts's Law, Animation, Speed and etc.. Testing techniques such as A/B Testing, Usability Testing will also be explained in this course. Student will be evaluated according to how his/her applied knowledge gained from this course to the course's project.",
+  "learning_outcomes": [
+    {
+      "No.": "1",
+      "CLO Name": "CLO1",
+      "CLO Details": "Discuss key aspects of mobile application design and development, including process stages, platform differences, and user interaction models."
+    },
+    {
+      "No.": "2",
+      "CLO Name": "CLO2",
+      "CLO Details": "Conduct domain-specific research to identify real user problems and develop a research-backed proposal for a mobile application solution."
+    },
+    {
+      "No.": "3",
+      "CLO Name": "CLO3",
+      "CLO Details": "Create sketches and paper prototypes to explore and communicate early-stage design ideas and user flows."
+    },
+    {
+      "No.": "4",
+      "CLO Name": "CLO4",
+      "CLO Details": "Build interactive digital prototypes using up-to-date design tools (e.g., Figma, ProtoPie, Framer, or similar), representing realistic app behavior."
+    },
+    {
+      "No.": "5",
+      "CLO Name": "CLO5",
+      "CLO Details": "Enhance design solutions by applying UI/UX principles, mobile-specific best practices, and visual design guidelines."
+    },
+    {
+      "No.": "6",
+      "CLO Name": "CLO6",
+      "CLO Details": "Explain and apply evaluation methods in the implementation phase, including usability testing, A/B testing, and remote testing techniques."
+    },
+    {
+      "No.": "7",
+      "CLO Name": "CLO7",
+      "CLO Details": "Conduct usability testing on mobile prototypes, gather feedback, and derive actionable insights to improve the product."
+    },
+    {
+      "No.": "8",
+      "CLO Name": "CLO8",
+      "CLO Details": "Manage project tasks collaboratively throughout the full mobile app design process, including coordination with developers and team members."
+    },
+    {
+      "No.": "9",
+      "CLO Name": "CLO9",
+      "CLO Details": "Present the design process and outcome effectively through well-structured documentation, visual storytelling presentations."
+    }
+  ],
+  "assessments": [
+    {
+      "No.": "1",
+      "Category": "Assignment 1",
+      "Type": "on-going",
+      "Part": "1",
+      "Weight": "20.0%",
+      "Completion Criteria": ">0",
+      "Duration": "2 Weeks (Week 1 - 2)",
+      "CLO": "CLO1, CLO2, CLO3, CLO4, CLO5, CLO9",
+      "Question Type": "Practical Exercise",
+      "No Question": "",
+      "Knowledge and Skill": "Conduct Litertature review in order to Identify potential problems, technologies and other solutions on market",
+      "Grading Guide": "Conduct Literature review to understand the chosen domain, identify potentials problems from users, technologies research and competitor research",
+      "Note": "GroupWork Submission: - Report in A4 format (PDF) - AI declaration and Log"
+    },
+    {
+      "No.": "2",
+      "Category": "Assignment 2",
+      "Type": "on-going",
+      "Part": "1",
+      "Weight": "10.0%",
+      "Completion Criteria": ">0",
+      "Duration": "1 Week (Week 6)",
+      "CLO": "CLO3, CLO4",
+      "Question Type": "Practical Exercise",
+      "No Question": "",
+      "Knowledge and Skill": "Propose Information Architecture for a full solutions",
+      "Grading Guide": "Propose IA and user flows for full app that can present the whole data flow and hierachy of the app",
+      "Note": "GroupWork Submission: - Report in 16:9 format (PDF)"
+    },
+    {
+      "No.": "3",
+      "Category": "Attendance and Participation",
+      "Type": "on-going",
+      "Part": "1",
+      "Weight": "10.0%",
+      "Completion Criteria": ">0",
+      "Duration": "10 weeks",
+      "CLO": "-",
+      "Question Type": "-",
+      "No Question": "-",
+      "Knowledge and Skill": "-",
+      "Grading Guide": "Attendance Percentage and Attitude in class - Teacher gives marks on student's Class participation and preparation only after the Portfolio submission.",
+      "Note": ""
+    },
+    {
+      "No.": "4",
+      "Category": "Project Phase 1",
+      "Type": "on-going",
+      "Part": "1",
+      "Weight": "20.0%",
+      "Completion Criteria": ">0",
+      "Duration": "4 Weeks (Week 1 - 4)",
+      "CLO": "CLO1, CLO2, CLO3, CLO6, CLO7",
+      "Question Type": "Practical Exercise",
+      "No Question": "",
+      "Knowledge and Skill": "Conduct desk research and field research to identify user problems of a domain Understand how technologies and a mobile application can enhance user experience and solve the problems",
+      "Grading Guide": "Conduct Desk Research and Field Research to identify user problems from a domain",
+      "Note": "GroupWork Submission: - Report in A4 format (PDF) - AI declaration and Log"
+    },
+    {
+      "No.": "5",
+      "Category": "Project Phase 2",
+      "Type": "on-going",
+      "Part": "1",
+      "Weight": "20.0%",
+      "Completion Criteria": ">0",
+      "Duration": "3 Weeks (Week 5 - 7)",
+      "CLO": "CLO3, CLO4, CLO5, CLO7",
+      "Question Type": "Practical Exercise",
+      "No Question": "",
+      "Knowledge and Skill": "Ideate and propose features. Using tools like IA, user flows and wireframes to demontrate ideas. Conduct usability testing to verify solutions",
+      "Grading Guide": "Ideate ideas to solve the solutions. Develop wireframes and conduct usability testing to verify solutions",
+      "Note": "GroupWork Submission: - Report in 16:9 format (PDF) - Testing Results (.xls or PDF) - Wireframes (.fig)"
+    },
+    {
+      "No.": "6",
+      "Category": "Project Phase 3",
+      "Type": "on-going",
+      "Part": "1",
+      "Weight": "20.0%",
+      "Completion Criteria": ">0",
+      "Duration": "3 Weeks (Week 7 - 10)",
+      "CLO": "CLO4,CLO5,CLO7,CLO8,CLO9",
+      "Question Type": "Practical Exercise",
+      "No Question": "",
+      "Knowledge and Skill": "Finalize UI for the solutions Present case study",
+      "Grading Guide": "Finalize UI. Conduct Heuristic evaluation with expertises and present case studies",
+      "Note": "GroupWork Submission: - Report in A4 format (PDF) - Design files (.fig) - AI declaration and Log"
+    }
+  ],
+  "schedule": [
+    {
+      "Session": "1",
+      "Topic": "Topic 1 : Run a Study in the interest domain (Chapter 1-3)",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO1, LO2",
+      "ITU": "TU",
+      "Student Materials": "- Text book - Chapter 1-3 - Reference 3. Chapter 6 - 85-111 - PPT Slides - Lecturer's material",
+      "S-Download": "ADT401_Phần 1",
+      "Student's Tasks": "Review Discussion Class Practice",
+      "URLs": ""
+    },
+    {
+      "Session": "2",
+      "Topic": "Topic 1 : Introducing Domain 01: Social Network",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO1, LO2",
+      "ITU": "",
+      "Student Materials": "Text book - Chapter 1-3 - Reference 1. Chapter 6 - section 4 - P.182-195 - Reference 3. Chapter 4 - PPT Slides - Lecturer's material",
+      "S-Download": "ADT401_Phần 2",
+      "Student's Tasks": "Review Discussion Class Practice",
+      "URLs": ""
+    },
+    {
+      "Session": "3",
+      "Topic": "Study the domain and Analyze data from the study",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO2, LO8",
+      "ITU": "U",
+      "Student Materials": "Text book - Chapter 1-3 - Reference 1. Chapter 6 - section 4 - P.182-195 - Reference 3. Chapter 4 - PPT Slides - Lecturer's material",
+      "S-Download": "",
+      "Student's Tasks": "Review Discussion Class Practice",
+      "URLs": ""
+    },
+    {
+      "Session": "4",
+      "Topic": "Study the domain and Analyze data from the study",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO2, LO8",
+      "ITU": "U",
+      "Student Materials": "Text book - Chapter 1-3 - Reference 1. Chapter 6 - section 4 - P.182-195 - Reference 3. Chapter 4 - PPT Slides - Lecturer's material",
+      "S-Download": "",
+      "Student's Tasks": "Review Discussion Class Practice",
+      "URLs": ""
+    },
+    {
+      "Session": "5",
+      "Topic": "Market Research on Domain 01",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO2, LO8",
+      "ITU": "",
+      "Student Materials": "Text book - Chapter 1-3 - Reference 1. Chapter 6 - section 4 - P.182-195 - Reference 3. Chapter 4 - PPT Slides - Lecturer's material",
+      "S-Download": "",
+      "Student's Tasks": "Review Discussion Class Practice",
+      "URLs": ""
+    },
+    {
+      "Session": "6",
+      "Topic": "User Research on Domain 01",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO2, LO8",
+      "ITU": "",
+      "Student Materials": "Text book - Chapter 1-3 - Reference 1. Chapter 6 - section 4 - P.182-195 - Reference 3. Chapter 4 - PPT Slides - Lecturer's material",
+      "S-Download": "",
+      "Student's Tasks": "Review Discussion Class Practice",
+      "URLs": ""
+    },
+    {
+      "Session": "7",
+      "Topic": "Topic 2: Activity-Centered Design approach (Chapter 4-7)",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO1, LO2",
+      "ITU": "IT",
+      "Student Materials": "- Text book - Chapter 4-7 - Reference 1. Chapter 6 - section 4 - P.182-195 - Reference 3. Chapter 4 - PPT Slides - Lecturer's material",
+      "S-Download": "",
+      "Student's Tasks": "Review Discussion Class Practice",
+      "URLs": ""
+    },
+    {
+      "Session": "8",
+      "Topic": "Design Process Retro",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO1, LO2",
+      "ITU": "",
+      "Student Materials": "'- Text book - Chapter 4-7 - Reference 1. Chapter 6 - section 4 - P.182-195 - Reference 3. Chapter 4 - PPT Slides - Lecturer's material",
+      "S-Download": "",
+      "Student's Tasks": "Review Discussion Class Practice",
+      "URLs": ""
+    },
+    {
+      "Session": "9",
+      "Topic": "Make use case list and flow diagrams",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO2, LO8",
+      "ITU": "U",
+      "Student Materials": "- Text book - Chapter 4-7 - Reference 1. Chapter 6 - section 4 - P.182-195 - Reference 3. Chapter 4 - PPT Slides - Lecturer's material",
+      "S-Download": "",
+      "Student's Tasks": "Review Discussion Class Practice",
+      "URLs": ""
+    },
+    {
+      "Session": "10",
+      "Topic": "Make use case list and flow diagrams",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO2, LO8",
+      "ITU": "U",
+      "Student Materials": "- Text book - Chapter 4-7 - Reference 1. Chapter 6 - section 4 - P.182-195 - Reference 3. Chapter 4 - PPT Slides - Lecturer's material",
+      "S-Download": "",
+      "Student's Tasks": "Review Discussion Class Practice",
+      "URLs": ""
+    },
+    {
+      "Session": "11",
+      "Topic": "Introducing Domain 02: Mobile Games",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO2, LO8",
+      "ITU": "",
+      "Student Materials": "- Text book - Chapter 4-7 - Reference 1. Chapter 6 - section 4 - P.182-195 - Reference 3. Chapter 4 - PPT Slides - Lecturer's material",
+      "S-Download": "",
+      "Student's Tasks": "Review Discussion Class Practice",
+      "URLs": ""
+    },
+    {
+      "Session": "12",
+      "Topic": "Market Research on Domain 02",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO2, LO8",
+      "ITU": "",
+      "Student Materials": "- Text book - Chapter 4-7 - Reference 1. Chapter 6 - section 4 - P.182-195 - Reference 3. Chapter 4 - PPT Slides - Lecturer's material",
+      "S-Download": "",
+      "Student's Tasks": "Review Discussion Class Practice",
+      "URLs": ""
+    },
+    {
+      "Session": "13",
+      "Topic": "User Research on Domain 02",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO2, LO8",
+      "ITU": "",
+      "Student Materials": "- Text book - Chapter 4-7 - Reference 1. Chapter 6 - section 4 - P.182-195 - Reference 3. Chapter 4 - PPT Slides - Lecturer's material",
+      "S-Download": "",
+      "Student's Tasks": "Review Discussion Class Practice",
+      "URLs": ""
+    },
+    {
+      "Session": "14",
+      "Topic": "Topic 3: Card Sorting technique and Mental Model (Chapter 8-9)",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO1, LO2",
+      "ITU": "U",
+      "Student Materials": "- Text book - Chapter 8-9 - PPT Slides - Lecturer's material",
+      "S-Download": "",
+      "Student's Tasks": "Review Discussion Class Practice",
+      "URLs": ""
+    },
+    {
+      "Session": "15",
+      "Topic": "Topic 3: Data Analysis",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO1, LO2",
+      "ITU": "",
+      "Student Materials": "- Text book - Chapter 8-9 - PPT Slides - Lecturer's material",
+      "S-Download": "",
+      "Student's Tasks": "Review Discussion Class Practice",
+      "URLs": ""
+    },
+    {
+      "Session": "16",
+      "Topic": "Introducing proposal structure",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO2, LO8",
+      "ITU": "U",
+      "Student Materials": "- Text book - Chapter 8-9 - PPT Slides - Lecturer's material",
+      "S-Download": "",
+      "Student's Tasks": "Review Discussion Class Practice",
+      "URLs": ""
+    },
+    {
+      "Session": "17",
+      "Topic": "Write proposal of the application",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO2, LO8",
+      "ITU": "U",
+      "Student Materials": "- Text book - Chapter 8-9 - PPT Slides - Lecturer's material",
+      "S-Download": "",
+      "Student's Tasks": "Review Discussion Class Practice",
+      "URLs": ""
+    },
+    {
+      "Session": "18",
+      "Topic": "Introducing Domain 03: Public Transport",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO2, LO8",
+      "ITU": "",
+      "Student Materials": "- Text book - Chapter 8-9 - PPT Slides - Lecturer's material",
+      "S-Download": "",
+      "Student's Tasks": "Review Discussion Class Practice",
+      "URLs": ""
+    },
+    {
+      "Session": "19",
+      "Topic": "Running Researach for Domain 03",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO2, LO8",
+      "ITU": "",
+      "Student Materials": "- Text book - Chapter 8-9 - PPT Slides - Lecturer's material",
+      "S-Download": "",
+      "Student's Tasks": "Review Discussion Class Practice",
+      "URLs": ""
+    },
+    {
+      "Session": "20",
+      "Topic": "Topic 4: Sketching and Prototyping techniques (Chapter 10-11)",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO1, LO3",
+      "ITU": "TU",
+      "Student Materials": "- Text book - Chapter 10-11 - PPT Slides - Lecturer's material",
+      "S-Download": "",
+      "Student's Tasks": "Review Discussion Class Practice",
+      "URLs": ""
+    },
+    {
+      "Session": "21",
+      "Topic": "Generate Sketching and Prototypes Progress Test 1 (lecturer self-organize)",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO4, LO8, LO1",
+      "ITU": "U",
+      "Student Materials": "- Text book - Chapter 10-11 - PPT Slides - Lecturer's material",
+      "S-Download": "",
+      "Student's Tasks": "Review Discussion Class Practice",
+      "URLs": ""
+    },
+    {
+      "Session": "22",
+      "Topic": "Evaluation Phase 1 of the project",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO8, LO9",
+      "ITU": "",
+      "Student Materials": "- Text book - Chapter 10-11 - PPT Slides - Lecturer's material",
+      "S-Download": "",
+      "Student's Tasks": "Class Presentation, Discussion",
+      "URLs": ""
+    },
+    {
+      "Session": "23",
+      "Topic": "Class Pitching: Group Project Introduction",
+      "Learning-Teaching Type": "Offline",
+      "LO": "",
+      "ITU": "",
+      "Student Materials": "- Text book - Chapter 10-11 - PPT Slides - Lecturer's material",
+      "S-Download": "",
+      "Student's Tasks": "Class Presentation, Discussion",
+      "URLs": ""
+    },
+    {
+      "Session": "24",
+      "Topic": "Introducing Domain 04: Healthcare & Health Tech",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO2, LO8",
+      "ITU": "",
+      "Student Materials": "- Text book - Chapter 10-11 - PPT Slides - Lecturer's material",
+      "S-Download": "",
+      "Student's Tasks": "Review Discussion Class Practice",
+      "URLs": ""
+    },
+    {
+      "Session": "25",
+      "Topic": "Running Researach for Domain 04",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO2, LO8",
+      "ITU": "",
+      "Student Materials": "- Text book - Chapter 10-11 - PPT Slides - Lecturer's material",
+      "S-Download": "",
+      "Student's Tasks": "Review Discussion Class Practice",
+      "URLs": ""
+    },
+    {
+      "Session": "26",
+      "Topic": "Topic 5: Realism, Natural User Interfaces and Fitts's Law (Chapter 12-14)",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO1, LO5, LO8",
+      "ITU": "T",
+      "Student Materials": "- Text book - Chapter 12-14 - PPT Slides - Lecturer's material",
+      "S-Download": "",
+      "Student's Tasks": "Review Discussion Class Practice",
+      "URLs": ""
+    },
+    {
+      "Session": "27",
+      "Topic": "UX Principles for Mobile Application",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO2, LO8",
+      "ITU": "",
+      "Student Materials": "- Text book - Chapter 12-14 - PPT Slides - Lecturer's material",
+      "S-Download": "",
+      "Student's Tasks": "Review Discussion Class Practice",
+      "URLs": ""
+    },
+    {
+      "Session": "28",
+      "Topic": "Design Practice: Class Domain 01/02/03/04",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO1, LO5, LO8",
+      "ITU": "",
+      "Student Materials": "- Text book - Chapter 12-14 - PPT Slides - Lecturer's material",
+      "S-Download": "",
+      "Student's Tasks": "Review Discussion Class Practice",
+      "URLs": ""
+    },
+    {
+      "Session": "29",
+      "Topic": "Introducing Domain 05: Fintech",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO5",
+      "ITU": "",
+      "Student Materials": "- Text book - Chapter 12-14 - PPT Slides - Lecturer's material",
+      "S-Download": "",
+      "Student's Tasks": "Review Discussion Class Practice",
+      "URLs": ""
+    },
+    {
+      "Session": "30",
+      "Topic": "Running Researach for Domain 05",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO5",
+      "ITU": "U",
+      "Student Materials": "- Text book - Chapter 12-14 - PPT Slides - Lecturer's material",
+      "S-Download": "",
+      "Student's Tasks": "Review Discussion Class Practice",
+      "URLs": ""
+    },
+    {
+      "Session": "31",
+      "Topic": "Improve the Prototype by knowledge from topic 5",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO5",
+      "ITU": "U",
+      "Student Materials": "- Text book - Chapter 12-14 - PPT Slides - Lecturer's material",
+      "S-Download": "",
+      "Student's Tasks": "Review Discussion Class Practice",
+      "URLs": ""
+    },
+    {
+      "Session": "32",
+      "Topic": "Topic 6: Animations, Consistency and Discoverability (Chapter 15-17)",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO1, LO5, LO8",
+      "ITU": "T",
+      "Student Materials": "- Text book - Chapter 15-17 - PPT Slides - Lecturer's material",
+      "S-Download": "",
+      "Student's Tasks": "Review Discussion Class Practice",
+      "URLs": ""
+    },
+    {
+      "Session": "33",
+      "Topic": "UI Definition for Project Design",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO1, LO5, LO8",
+      "ITU": "",
+      "Student Materials": "- Text book - Chapter 15-17 - PPT Slides - Lecturer's material",
+      "S-Download": "",
+      "Student's Tasks": "Review Discussion Class Practice",
+      "URLs": ""
+    },
+    {
+      "Session": "34",
+      "Topic": "Project Scenario",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO1, LO5, LO8",
+      "ITU": "",
+      "Student Materials": "- Text book - Chapter 15-17 - PPT Slides - Lecturer's material",
+      "S-Download": "",
+      "Student's Tasks": "Review Discussion Class Practice",
+      "URLs": ""
+    },
+    {
+      "Session": "35",
+      "Topic": "Improve the Prototype by knowledge from topic 6 and working with programer to develop application prototype",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO5",
+      "ITU": "U",
+      "Student Materials": "- Reference 2. Chapter 7 - P127-149",
+      "S-Download": "",
+      "Student's Tasks": "Review Discussion Class Practice",
+      "URLs": ""
+    },
+    {
+      "Session": "36",
+      "Topic": "Progress Test 2 (lecturer self-organize)",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO1",
+      "ITU": "",
+      "Student Materials": "- Reference 2. Chapter 7 - P127-149",
+      "S-Download": "",
+      "Student's Tasks": "",
+      "URLs": ""
+    },
+    {
+      "Session": "37",
+      "Topic": "Progress Test 2 (lecturer self-organize)",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO1",
+      "ITU": "",
+      "Student Materials": "- Reference 2. Chapter 7 - P127-149",
+      "S-Download": "",
+      "Student's Tasks": "",
+      "URLs": ""
+    },
+    {
+      "Session": "38",
+      "Topic": "Topic 7: Don't interrupt, Offer Undo and Modes, Have Options, Hierachies, Space, Time… (Chapter 18-22)",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO5, LO8",
+      "ITU": "T",
+      "Student Materials": "- Text book - Chapter 18-22 - PPT Slides - Lecturer's material",
+      "S-Download": "",
+      "Student's Tasks": "Review Discussion Class Practice",
+      "URLs": ""
+    },
+    {
+      "Session": "39",
+      "Topic": "Introduce Project Flow: userflows, screenflow, sitemap, screenmap",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO5, LO8",
+      "ITU": "",
+      "Student Materials": "- Text book - Chapter 18-22 - PPT Slides - Lecturer's material",
+      "S-Download": "",
+      "Student's Tasks": "Review Discussion Class Practice",
+      "URLs": ""
+    },
+    {
+      "Session": "40",
+      "Topic": "Evaluation Phase 2 of the project",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO8, LO9",
+      "ITU": "",
+      "Student Materials": "- Text book - Chapter 18-22 - PPT Slides - Lecturer's material",
+      "S-Download": "",
+      "Student's Tasks": "Review Discussion Class Practice",
+      "URLs": ""
+    },
+    {
+      "Session": "41",
+      "Topic": "Class Pitching: Group Project Research Report",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO8, LO9",
+      "ITU": "",
+      "Student Materials": "- Text book - Chapter 18-22 - PPT Slides - Lecturer's material",
+      "S-Download": "",
+      "Student's Tasks": "Class Presentation, Discussion",
+      "URLs": ""
+    },
+    {
+      "Session": "42",
+      "Topic": "Class Pitching: Group Project Research Report",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO8, LO9",
+      "ITU": "",
+      "Student Materials": "- Text book - Chapter 18-22 - PPT Slides - Lecturer's material",
+      "S-Download": "",
+      "Student's Tasks": "Class Presentation, Discussion",
+      "URLs": ""
+    },
+    {
+      "Session": "43",
+      "Topic": "Topic 8: Speed, Avoiding Features, Removing Features, Learning from Video Games (Chapter 23-26)",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO5, LO8",
+      "ITU": "T",
+      "Student Materials": "- Text book - Chapter 23-26 - PPT Slides - Lecturer's material",
+      "S-Download": "",
+      "Student's Tasks": "Review Discussion Class Practice",
+      "URLs": ""
+    },
+    {
+      "Session": "44",
+      "Topic": "Class Activity: another Design of the product",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO5, LO8",
+      "ITU": "",
+      "Student Materials": "- Text book - Chapter 23-26 - PPT Slides - Lecturer's material",
+      "S-Download": "",
+      "Student's Tasks": "Review Discussion Class Practice",
+      "URLs": ""
+    },
+    {
+      "Session": "45",
+      "Topic": "Topic 9: Guerilla Usability Testing, Usability Testing, Testing in Person and Remote Testing (Chapter 26-30)",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO6, LO8",
+      "ITU": "U",
+      "Student Materials": "- Text book - Chapter 26-30 - PPT Slides - Lecturer's material",
+      "S-Download": "",
+      "Student's Tasks": "Review Discussion Class Practice",
+      "URLs": ""
+    },
+    {
+      "Session": "46",
+      "Topic": "Define Test Audience and Test Plan",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO6, LO8",
+      "ITU": "",
+      "Student Materials": "- Text book - Chapter 26-30 - PPT Slides - Lecturer's material",
+      "S-Download": "",
+      "Student's Tasks": "Review Discussion Class Practice",
+      "URLs": ""
+    },
+    {
+      "Session": "47",
+      "Topic": "Improve the prototype by knowledge from Topic 7,8 and working with programer to develop application prototype",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO5",
+      "ITU": "U",
+      "Student Materials": "- Reference 2. Chapter 7 - P127-149",
+      "S-Download": "",
+      "Student's Tasks": "Review Discussion Class Practice",
+      "URLs": ""
+    },
+    {
+      "Session": "48",
+      "Topic": "Topic 10: How not to test, User Error is Design Error, A/B Testing, Collect Usage data, Dealing with User Feedback (Chapter 31-35)",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO6, LO8",
+      "ITU": "T",
+      "Student Materials": "- Text book - Chapter 31-35 - PPT Slides - Lecturer's material",
+      "S-Download": "",
+      "Student's Tasks": "Review Discussion Class Practice",
+      "URLs": ""
+    },
+    {
+      "Session": "49",
+      "Topic": "Test Result Analysis & Breakdown",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO6, LO8",
+      "ITU": "",
+      "Student Materials": "- Text book - Chapter 31-35 - PPT Slides - Lecturer's material",
+      "S-Download": "",
+      "Student's Tasks": "Review Discussion Class Practice",
+      "URLs": ""
+    },
+    {
+      "Session": "50",
+      "Topic": "Introducing Domain 06: Workplace",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO5",
+      "ITU": "",
+      "Student Materials": "- Text book - Chapter 31-35 - PPT Slides - Lecturer's material",
+      "S-Download": "",
+      "Student's Tasks": "Review Discussion Class Practice",
+      "URLs": ""
+    },
+    {
+      "Session": "51",
+      "Topic": "Running Researach for Domain 06",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO5",
+      "ITU": "",
+      "Student Materials": "- Text book - Chapter 31-35 - PPT Slides - Lecturer's material",
+      "S-Download": "",
+      "Student's Tasks": "Review Discussion Class Practice",
+      "URLs": ""
+    },
+    {
+      "Session": "52",
+      "Topic": "Improve the prototype by knowledge from Topic 7,8 and working with programer to develop application prototype",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO7",
+      "ITU": "U",
+      "Student Materials": "- Reference 2. Chapter 7 - P127-149",
+      "S-Download": "",
+      "Student's Tasks": "Review Discussion Class Practice",
+      "URLs": ""
+    },
+    {
+      "Session": "53",
+      "Topic": "Improve the prototype by knowledge from Topic 7,8 and working with programer to develop application prototype",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO7",
+      "ITU": "U",
+      "Student Materials": "- Reference 2. Chapter 7 - P127-149",
+      "S-Download": "",
+      "Student's Tasks": "Review Discussion Class Practice",
+      "URLs": ""
+    },
+    {
+      "Session": "54",
+      "Topic": "Improve the prototype by knowledge from Topic 7,8 and working with programer to develop application prototype",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO7",
+      "ITU": "U",
+      "Student Materials": "- Reference 2. Chapter 7 - P127-149",
+      "S-Download": "",
+      "Student's Tasks": "Review Discussion Class Practice",
+      "URLs": ""
+    },
+    {
+      "Session": "55",
+      "Topic": "Improve the prototype by knowledge from Topic 7,8 and working with programer to develop application prototype",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO7",
+      "ITU": "U",
+      "Student Materials": "- Reference 2. Chapter 7 - P127-149",
+      "S-Download": "",
+      "Student's Tasks": "Review Discussion Class Practice",
+      "URLs": ""
+    },
+    {
+      "Session": "56",
+      "Topic": "Progress Test 3 (Examination Department organize)",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO1",
+      "ITU": "U",
+      "Student Materials": "- Reference 2. Chapter 7 - P127-149",
+      "S-Download": "",
+      "Student's Tasks": "",
+      "URLs": ""
+    },
+    {
+      "Session": "57",
+      "Topic": "Evaluation Phase 3 of the Project",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO8, LO9",
+      "ITU": "",
+      "Student Materials": "- Reference 2. Chapter 7 - P127-149",
+      "S-Download": "",
+      "Student's Tasks": "",
+      "URLs": ""
+    },
+    {
+      "Session": "58",
+      "Topic": "Class Pitching: Group Project Final Report",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO8, LO9",
+      "ITU": "",
+      "Student Materials": "- Reference 2. Chapter 7 - P127-149",
+      "S-Download": "",
+      "Student's Tasks": "Class Presentation, Discussion",
+      "URLs": ""
+    },
+    {
+      "Session": "59",
+      "Topic": "Class Pitching: Group Project Final Report",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO8, LO9",
+      "ITU": "",
+      "Student Materials": "- Reference 2. Chapter 7 - P127-149",
+      "S-Download": "",
+      "Student's Tasks": "Class Presentation, Discussion",
+      "URLs": ""
+    },
+    {
+      "Session": "60",
+      "Topic": "Class Pitching: Group Project Final Report",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO8, LO9",
+      "ITU": "",
+      "Student Materials": "- Reference 2. Chapter 7 - P127-149",
+      "S-Download": "",
+      "Student's Tasks": "Class Presentation, Discussion",
+      "URLs": ""
+    }
+  ],
+  "constructive_questions": [
+    {
+      "No.": "1",
+      "Session No": "1",
+      "Name": "QN1",
+      "Details": "In yỏur point of view, what is the interaction design?"
+    },
+    {
+      "No.": "2",
+      "Session No": "2",
+      "Name": "QN1",
+      "Details": "What are the differences between design-led and user-led?"
+    },
+    {
+      "No.": "3",
+      "Session No": "3",
+      "Name": "QN1",
+      "Details": "Why we should use user-led in making product from scratch?"
+    },
+    {
+      "No.": "4",
+      "Session No": "4",
+      "Name": "QN1",
+      "Details": "What is your design process that you will follow in order to run your project?"
+    },
+    {
+      "No.": "5",
+      "Session No": "5",
+      "Name": "QN1",
+      "Details": "What is your design process that you will follow in order to run your project?"
+    },
+    {
+      "No.": "6",
+      "Session No": "6",
+      "Name": "QN1",
+      "Details": "What is your design process that you will follow in order to run your project?"
+    },
+    {
+      "No.": "7",
+      "Session No": "9",
+      "Name": "QN1",
+      "Details": "What are the similarities/differences between user experience and game feeling?"
+    },
+    {
+      "No.": "8",
+      "Session No": "10",
+      "Name": "QN1",
+      "Details": "What is the user-flow for a digital game?"
+    },
+    {
+      "No.": "9",
+      "Session No": "11",
+      "Name": "QN1",
+      "Details": "What is the user-flow for a digital game?"
+    },
+    {
+      "No.": "10",
+      "Session No": "12",
+      "Name": "QN1",
+      "Details": "What is your game idea? Sketch several screens to show the main flow of it?"
+    },
+    {
+      "No.": "11",
+      "Session No": "13",
+      "Name": "QN1",
+      "Details": "What is your game idea? Sketch several screens to show the main flow of it?"
+    },
+    {
+      "No.": "12",
+      "Session No": "14",
+      "Name": "QN1",
+      "Details": "What kind of typo and branding you will use for your game idea? Provide several hifi based on the screen flow above?"
+    },
+    {
+      "No.": "13",
+      "Session No": "15",
+      "Name": "QN1",
+      "Details": "How to conduct a digital technology product analysis?"
+    },
+    {
+      "No.": "14",
+      "Session No": "16",
+      "Name": "QN1",
+      "Details": "How can you apply sensemaking process to build your wireframe?"
+    },
+    {
+      "No.": "15",
+      "Session No": "17",
+      "Name": "QN1",
+      "Details": "How to design a product focusing on social issue?"
+    },
+    {
+      "No.": "16",
+      "Session No": "24",
+      "Name": "QN1",
+      "Details": "What can you do to improve your hifi supporting disable people?"
+    },
+    {
+      "No.": "17",
+      "Session No": "25",
+      "Name": "QN1",
+      "Details": "What is your approach for developing your idea?"
+    },
+    {
+      "No.": "18",
+      "Session No": "26",
+      "Name": "QN1",
+      "Details": "What are your product continuous experience?"
+    },
+    {
+      "No.": "19",
+      "Session No": "30",
+      "Name": "QN1",
+      "Details": "What are the limitation of your wireframe? How can you improve it?"
+    },
+    {
+      "No.": "20",
+      "Session No": "31",
+      "Name": "QN1",
+      "Details": "What are the limitation of your wireframe? How can you improve it?"
+    },
+    {
+      "No.": "21",
+      "Session No": "33",
+      "Name": "QN1",
+      "Details": "What are the limitation of your wireframe? How can you improve it?"
+    },
+    {
+      "No.": "22",
+      "Session No": "34",
+      "Name": "QN1",
+      "Details": "What are the limitation of your wireframe? How can you improve it?"
+    },
+    {
+      "No.": "23",
+      "Session No": "45",
+      "Name": "QN1",
+      "Details": "What are your test methods? Please provide the criteria with the test plans?"
+    },
+    {
+      "No.": "24",
+      "Session No": "46",
+      "Name": "QN1",
+      "Details": "What are your test methods? Please provide the criteria with the test plans?"
+    },
+    {
+      "No.": "25",
+      "Session No": "49",
+      "Name": "QN1",
+      "Details": "What are your test methods? Please provide the criteria with the test plans?"
+    },
+    {
+      "No.": "26",
+      "Session No": "52",
+      "Name": "QN1",
+      "Details": "What is your project branding and typography? How can it make user feel better?"
+    },
+    {
+      "No.": "27",
+      "Session No": "53",
+      "Name": "QN1",
+      "Details": "What is your project branding and typography? How can it make user feel better?"
+    },
+    {
+      "No.": "28",
+      "Session No": "54",
+      "Name": "QN1",
+      "Details": "What is your project branding and typography? How can it make user feel better?"
+    },
+    {
+      "No.": "29",
+      "Session No": "60",
+      "Name": "QN1",
+      "Details": "What make your idea stand out comparing to your teammate's hifi and actual products in the market?"
+    },
+    {
+      "No.": "30",
+      "Session No": "60",
+      "Name": "QN2",
+      "Details": "What make your idea stand out comparing to your teammate's hifi and actual products in the market?"
+    },
+    {
+      "No.": "31",
+      "Session No": "60",
+      "Name": "QN3",
+      "Details": "What make your idea stand out comparing to your teammate's hifi and actual products in the market?"
+    }
+  ],
+  "materials": [
+    {
+      "No.": "1",
+      "Material Description": "A Project Guide to UX Design - For User Experience Designers in the field or in the making",
+      "Author": "Russ Unger and Carolyn Chandler",
+      "Publisher": "PeachPit Press",
+      "Published Date": "2009",
+      "Edition": "978-0-321-60737-9",
+      "ISBN": "978-0-321-60737-9",
+      "Is Main Material": "False",
+      "Is Hard Copy": "True",
+      "Is Online": "False",
+      "Note": ""
+    },
+    {
+      "No.": "2",
+      "Material Description": "Design For Use - Create Usable Interfaces for Applications and the Web",
+      "Author": "Lukas Mathis - The Pragmatic Programmers",
+      "Publisher": "LLC",
+      "Published Date": "2011",
+      "Edition": "",
+      "ISBN": "978-1-680-50160-5",
+      "Is Main Material": "True",
+      "Is Hard Copy": "True",
+      "Is Online": "False",
+      "Note": ""
+    },
+    {
+      "No.": "3",
+      "Material Description": "Essential Mobile Interaction Design - Perfecting Interface Design in Mobile Apps",
+      "Author": "Cameron Banga and Josh Weinhold",
+      "Publisher": "Pearson",
+      "Published Date": "2014",
+      "Edition": "",
+      "ISBN": "978-0-321-96157-0",
+      "Is Main Material": "False",
+      "Is Hard Copy": "True",
+      "Is Online": "False",
+      "Note": ""
+    },
+    {
+      "No.": "4",
+      "Material Description": "Interaction Design - Beyond Human Computer Interaction",
+      "Author": "Jenny Preece, Helen Sharp, Yvonne Rogers",
+      "Publisher": "Wiley",
+      "Published Date": "2019",
+      "Edition": "5th",
+      "ISBN": "9781119547259",
+      "Is Main Material": "False",
+      "Is Hard Copy": "False",
+      "Is Online": "True",
+      "Note": "https://library.books24x7.com/toc.aspx?bookid=146076"
+    }
+  ],
+  "source_path": "data/raw/syllabi/13377.html",
+  "id": "syllabus:13377"
+}

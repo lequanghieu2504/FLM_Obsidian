@@ -1,0 +1,2786 @@
+<!DOCTYPE html><html lang="en"><head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin="">
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700&amp;family=Source+Sans+Pro:wght@300;400;600;700&amp;display=swap" rel="stylesheet">
+    <link href="/Content/bootstrap.min.css" rel="stylesheet">
+    <link href="/fonts/css/Bootstrap-select-v1.13.14.css" rel="stylesheet">
+    <link href="/Content/common.css" rel="stylesheet">
+    <link href="/fonts/css/font-awesome.min.css" rel="stylesheet">
+    <link href="/Content/toastr.min.css" rel="stylesheet">
+    <script src="/Scripts/jquery-1.10.2.min.js"></script>
+    <script src="/Scripts/popper.js"></script>
+    <script src="/Scripts/bootstrap.min.js"></script>
+    <script src="/Scripts/Bootstrap-select-v1.13.14.js"></script>
+    <script src="/Scripts/jquery.validate.min.js"></script>
+    <script src="/Scripts/toastr.min.js"></script>
+    <link href="/fonts/css/font-awesome.min.css" rel="stylesheet">
+    <script src="/Scripts/jquery-ui.min.js"></script>
+    <link href="/Content/jquery-ui.css" rel="stylesheet">
+    <script>
+        var a = 'Student';
+        if (!a) {
+            window.location.replace('/Login');
+        }
+    </script>
+    <title id="pageTitle">T University Learning Materials •</title>
+    <style>
+        h1 {
+            font-size: 2em;
+        }
+
+        h2 {
+            font-size: 1.5em;
+        }
+
+        .btn-light {
+            border: 1px solid #d9cfcf;
+        }
+
+        /*.btn{
+            color:white;
+            font-weight:bold;
+        }*/
+
+
+        * {
+            font-family: 'Inter', 'Source Sans Pro', 'Segoe UI', 'Tahoma', 'Arial', 'Helvetica', sans-serif;
+            font-size: 16px;
+            font-weight: 400;
+            line-height: 1.5em;
+        }
+
+        body {
+            background: #fafafa;
+            padding: 0;
+        }
+
+
+
+        #sidebar a,
+        #sidebar a:hover,
+        #sidebar a:focus {
+            color: inherit;
+            text-decoration: none;
+            transition: all 0.3s;
+        }
+
+
+        #sidebar.sb-active {
+            margin-left: -300px;
+        }
+
+        .wrapper {
+            display: flex;
+            text-decoration: none;
+            transition: all 0.3s;
+            margin-top: -75px;
+            width: 100%;
+        }
+
+        /* Mobile wrapper fix */
+        @media (max-width: 768px) {
+            .wrapper {
+                margin-top: 0;
+            }
+        }
+
+        .btn-default {
+            background-color: #F2994A;
+            color: white;
+            font-weight: bold;
+        }
+
+        .btn-default:hover {
+            background-color: #fd7e14;
+        }
+
+        input,
+        select {
+            font-size: inherit !important;
+            /*height: 33.5px !important;*/
+        }
+
+
+        .tbl-data {
+            border: 1px solid rgba(0, 0, 0, .05);
+        }
+
+        .tbl-data th {
+            font-weight: bold;
+            background-color: #F2994A !important;
+            color: white;
+        }
+
+        .tbl-data input[type=checkbox] {
+            width: 20px;
+        }
+
+        .tbl-detail tr td {
+            padding: 4px 5px 4px 5px;
+            border: 1px solid rgba(0, 0, 0, .05);
+        }
+
+        .tbl-checkbox label {
+            position: relative;
+            top: -11px;
+            left: 2px;
+        }
+
+        .max-with-fit {
+            max-width: fit-content;
+        }
+
+        textarea {
+            font-size: inherit !important;
+        }
+
+        #sidebar {
+            min-width: 300px;
+            max-width: 300px;
+            margin-top: 85px;
+            margin-left: 10px;
+            color: #fff;
+            transition: all 0.3s;
+            overflow-y: scroll;
+            height: 800px;
+            border-radius: 5px;
+            background-color: #F2994A;
+        }
+
+        /* Mobile Responsive Styles */
+        @media (max-width: 1200px) {
+            #sidebar {
+                min-width: 260px;
+                max-width: 260px;
+            }
+        }
+
+        @media (max-width: 992px) {
+            h1 {
+                font-size: 1.6em;
+            }
+
+            .page-title {
+                position: static !important;
+                width: 100%;
+                text-align: center;
+                margin: 8px 0 0 0;
+                left: 0 !important;
+                transform: none !important;
+            }
+
+            #btn-home {
+                height: 36px;
+                min-width: 70px;
+                max-width: 100px;
+                padding: 6px 10px;
+                gap: 5px;
+            }
+
+            #btn-home span {
+                font-size: 13px;
+                line-height: 1;
+            }
+
+            #btn-home i {
+                font-size: 14px;
+                line-height: 1;
+            }
+
+            #language {
+                width: 110px !important;
+                height: 32px !important;
+            }
+
+            #ProfileImage {
+                width: 40px !important;
+                height: 40px !important;
+            }
+
+            #sidebar {
+                position: fixed;
+                top: 97px;
+                left: 0;
+                height: calc(100vh - 97px);
+                z-index: 1030;
+                margin-left: 0;
+                margin-top: 0;
+            }
+
+            #content {
+                height: auto;
+                margin-top: 97px;
+                padding: 10px;
+            }
+
+            .wrapper {
+                margin-top: 0;
+            }
+        }
+
+        @media (max-width: 768px) {
+            h1 {
+                font-size: 1.3em;
+            }
+
+            .page-title {
+                position: static !important;
+                width: 100%;
+                text-align: center;
+                margin: 6px 0 0 0;
+                left: 0 !important;
+                transform: none !important;
+            }
+
+            .navbar .container-fluid {
+                flex-direction: row !important;
+                justify-content: space-between !important;
+                align-items: center !important;
+            }
+
+            #language {
+                width: 100px !important;
+                height: 30px !important;
+                font-size: 12px !important;
+            }
+
+            #ProfileImage {
+                width: 35px !important;
+                height: 35px !important;
+            }
+
+            .dropdown-arrow {
+                right: -12px !important;
+                font-size: 10px !important;
+            }
+
+            #btn-home {
+                height: 34px;
+                min-width: 60px;
+                max-width: 90px;
+                padding: 5px 8px;
+                gap: 4px;
+            }
+
+            #btn-home span {
+                font-size: 12px;
+                line-height: 1;
+            }
+
+            #btn-home i {
+                font-size: 13px;
+                line-height: 1;
+            }
+
+            /* Make long tables scrollable on small screens */
+            #content table {
+                display: block;
+                width: 100%;
+                overflow-x: auto;
+                -webkit-overflow-scrolling: touch;
+                white-space: nowrap;
+            }
+
+            #sidebar {
+                display: none !important;
+            }
+
+            #btn-home {
+                height: 35px;
+                width: 70px;
+                padding: 5px;
+            }
+
+            #btn-home span {
+                font-size: 12px;
+            }
+
+            #btn-home i {
+                font-size: 14px;
+            }
+
+            .navbar-toggler {
+                display: block;
+            }
+
+            .navbar-nav {
+                flex-direction: column;
+            }
+        }
+
+        @media (max-width: 576px) {
+            h1 {
+                font-size: 1.1em;
+            }
+
+            .page-title {
+                font-size: 1.1em !important;
+                margin: 4px 0 0 0;
+            }
+
+            .navbar .container-fluid {
+                flex-direction: row !important;
+                justify-content: space-between !important;
+                align-items: center !important;
+            }
+
+            #language {
+                width: 90px !important;
+                height: 28px !important;
+                font-size: 11px !important;
+            }
+
+            #ProfileImage {
+                width: 30px !important;
+                height: 30px !important;
+            }
+
+            .dropdown-arrow {
+                right: -10px !important;
+                font-size: 9px !important;
+            }
+
+            #btn-home {
+                height: 30px;
+                min-width: 50px;
+                max-width: 80px;
+                padding: 4px 6px;
+                gap: 3px;
+            }
+
+            #btn-home span {
+                font-size: 11px;
+                line-height: 1;
+            }
+
+            #btn-home i {
+                font-size: 12px;
+                line-height: 1;
+            }
+
+            .navbar {
+                padding: 0.25rem 0.5rem;
+                height: 85px !important;
+            }
+
+            /* Ensure navbar elements are always visible */
+            .navbar .container-fluid {
+                display: flex;
+                justify-content: space-between;
+                align-items: center;
+                flex-wrap: nowrap;
+            }
+
+            .navbar .d-flex {
+                flex-shrink: 0;
+            }
+
+            #content {
+                padding: 5px;
+                margin-top: 85px !important;
+            }
+
+            #sidebar {
+                top: 85px !important;
+                height: calc(100vh - 85px) !important;
+            }
+        }
+
+        #sidebar::-webkit-scrollbar {
+            width: 0;
+        }
+
+        #sidebar p {
+            padding: 15px;
+            background: #F2994A;
+            font-weight: bold;
+            font-size: 20px;
+        }
+
+        #sidebar ul.components {
+            padding: 20px 0;
+        }
+
+
+        #sidebar ul li a {
+            padding: 10px;
+            font-size: 1em;
+            display: block;
+            background-color: #f4a158;
+        }
+
+        #sidebar ul li a:hover {
+            background: #d06e17;
+        }
+
+        #sidebar ul li.sb-active>a,
+        a[aria-expanded="true"] {
+            color: #fff;
+        }
+
+        a[data-toggle="collapse"] {
+            position: relative;
+        }
+
+        #navbarSupportedContent .dropdown-toggle::after {
+            display: block;
+            position: absolute;
+            top: 50%;
+            right: -15%;
+            transform: translateY(-50%);
+        }
+
+        .dropdown-toggle::after {
+            display: none !important;
+        }
+
+        /* Custom dropdown arrow */
+        .dropdown-toggle .dropdown-arrow {
+            position: absolute;
+            right: -15px;
+            top: 50%;
+            transform: translateY(-50%);
+            color: white;
+            font-size: 12px;
+        }
+
+        #sidebar ul ul a {
+            font-size: 0.9em !important;
+            padding-left: 30px !important;
+            background: #d29a68;
+        }
+
+        #content {
+            width: 100%;
+            padding: 20px;
+            transition: all 0.3s;
+            margin-top: 90px;
+        }
+
+        #ui-datepicker-div {
+            width: fit-content;
+        }
+
+        .mat-2 {
+            position: relative;
+            left: -30px;
+        }
+
+        table {
+            /* Set "my-sec-counter" to 0 */
+            counter-reset: my-sec-counter;
+        }
+
+        .counter::before {
+            /* Increment "my-sec-counter" by 1 */
+            counter-increment: my-sec-counter;
+            content: counter(my-sec-counter);
+        }
+
+        .menu-btn:focus {
+            outline: none;
+            box-shadow: none;
+        }
+
+        .required-field:after {
+            content: "    *";
+            color: red;
+            font-size: 20px;
+        }
+
+        .table .thead-dark th {
+            color: #fff;
+            background-color: #F2994A;
+            border-color: #fff;
+        }
+
+        .dropdown-toggle::after {
+            right: 20px;
+        }
+
+        #btn-home {
+            padding: 8px 12px;
+            background-color: #28a745;
+            color: white;
+            font-weight: bold;
+            min-width: 80px;
+            max-width: 120px;
+            height: 40px;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            white-space: nowrap;
+            transition: all 0.3s ease;
+            gap: 6px;
+        }
+
+        #btn-home:hover {
+            background-color: #218838;
+            transform: translateY(-1px);
+        }
+
+        #btn-home span {
+            font-size: 15px;
+            line-height: 1;
+        }
+
+        #btn-home i {
+            font-size: 16px;
+            line-height: 1;
+        }
+
+        label[class=error] {
+            color: red
+        }
+
+        #lbtnSignOut {
+            color: #08c
+        }
+
+        #lbtnSignOut:hover {
+            text-decoration: underline;
+            cursor: pointer;
+        }
+
+        /* Navbar responsive improvements */
+        .navbar .container-fluid {
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+            flex-wrap: nowrap;
+        }
+
+        .navbar .d-flex {
+            flex-shrink: 0;
+        }
+
+        /* Mobile navbar improvements */
+        @media (max-width: 768px) {
+            .navbar .container-fluid {
+                padding: 0.5rem;
+            }
+
+            .navbar .d-flex:first-child {
+                flex: 0 0 auto;
+            }
+
+            .navbar .d-flex:last-child {
+                flex: 0 0 auto;
+            }
+
+            /* Dropdown menu mobile positioning */
+            .dropdown-menu {
+                right: 0 !important;
+                left: auto !important;
+                max-width: 90vw !important;
+                min-width: 200px !important;
+            }
+        }
+    </style>
+
+</head>
+
+<body style="">
+
+    <nav class="navbar navbar-expand-lg px-0 pb-2 m-0 nav-fix" style="background-color: #F2994A ; color: white; height:97px;" aria-label="Main navigation">
+        <div class="container-fluid p-0">
+            <!-- Left side: Menu button and Home button -->
+            <div class="d-flex align-items-center">
+                <button type="button" id="sidebarCollapse" class="menu-btn btn " style="background-color: rgb(242, 153, 74); display: none;">
+                    <img class="img-home" src="/Images/menu1.png" alt="Alternate Text" style="width:35px">
+                </button>
+
+                <a id="btn-home" class="btn btn-success btn-lg ml-2" href="/Home">
+                    <i class="fa fa-home fa-lg" aria-hidden="true"></i>
+                    <span style="font-weight:bold;">Home</span>
+                </a>
+            </div>
+
+            <!-- Center: Title -->
+            <h1 class="text-center page-title mx-auto" style="position: absolute; left: 50%; transform: translateX(-50%);" aria-label="Page title">
+                FPT University Learning Materials</h1>
+
+            <!-- Right side: Language and Profile -->
+            <div class="d-flex align-items-center">
+                <!-- Language Selector -->
+                <div class="mr-3">
+                    <select id="language" style="z-index: 1; width: 130px;height:34.5px" class="form-control" aria-label="Select language">
+                        <option value="en">English</option>
+                        <option value="vi">Vietnamese</option>
+                    </select>
+                </div>
+
+                <!-- User Profile Dropdown -->
+                <div class="dropdown">
+                    <button class="btn btn-link nav-link dropdown-toggle p-0 position-relative" id="navbarDropdown" type="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false" aria-label="User profile menu">
+                        <img id="ProfileImage" class="rounded-circle" width="50" height="50" alt="User profile" src="/Images/avatar_reviewer.jpg">
+                        <i class="fa fa-chevron-down dropdown-arrow"></i>
+                    </button>
+                    <div class="dropdown-menu dropdown-menu-right" aria-labelledby="navbarDropdown" style="right: 0; left: auto; max-width: 90vw;">
+                        <div id="pnlProfile">
+                            <span class="dropdown-item">
+                                Name:
+                                <span id="lblName" style="font-weight: bold">lequanghieu2504@gmail.com</span>
+                            </span>
+                            <span class="dropdown-item">
+                                <span id="pnlEmail">
+                                    Email:
+                                    <span id="lblEmail" style="font-weight: bold">lequanghieu2504@gmail.com</span>
+                                </span>
+                            </span>
+                            <span class="dropdown-item">
+                                User's role:
+                                <span id="lblRole" style="font-weight: bold">Student</span>
+                            </span>
+                            <span class="dropdown-item">
+                                Education level:
+                                <span id="lblEduLevel" style="font-weight: bold">FPTU</span>
+                            </span>
+                            <div class="dropdown-item ">
+                                <button id="lbtnSignOut" class="btn btn-link p-0 text-left" style="color: #08c; text-decoration: none;" onclick="lbtnSignOut_Click">
+                                    Sign out
+                                    FLM
+                                </button>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </nav>
+
+    <div class="wrapper">
+        <nav id="sidebar" class="sb-active" style="padding-bottom: 60px;" aria-label="Main navigation">
+            <ul class="lisst-unstyled components p-0" id="panelHeadFeatures" style="display: none;">
+                <li>
+                    <a href="#pageSubmenu2" data-toggle="collapse" aria-expanded="false" class="dropdown-toggle">
+                        -
+                        Curriculum
+                    </a>
+                    <ul class="collapse list-unstyled" id="pageSubmenu2">
+                        <li>
+                            <a href="/gui/curriculum/CurHomepage.aspx">+ Search</a>
+                        </li>
+                        <li>
+                            <a href="/gui/curriculum/AddCurri.aspx">+ Add New Curriculum</a>
+                        </li>
+                        <li>
+                            <a href="/gui/PLO/AddPLO.aspx">+ Add New PLO</a>
+                        </li>
+                        
+                        <li>
+                            <a href="/gui/curriculum/CurSubHomepage.aspx">+ Curriculum Subjects Management</a>
+                            
+                            
+                        </li><li>
+                            <a href="/gui/assignedCurriculum/AssignCurriculumManagement.aspx">
+                                + Assign Curriculum
+                                Management
+                            </a>
+                        </li>
+                    </ul>
+                </li>
+                <li>
+                    <a href="#pageSubmenu3" data-toggle="collapse" aria-expanded="false" class="dropdown-toggle">
+                        -
+                        Curriculum Subject
+                    </a>
+                    <ul class="collapse list-unstyled" id="pageSubmenu3">
+                        <li>
+                            <a href="/gui/curriculum/CurSubHomepage.aspx">+ Manage</a>
+                        </li>
+                        <li>
+                            <a href="/gui/curriculum/AddCurri.aspx">+ Add Curriculum</a>
+                        </li>
+                    </ul>
+                </li>
+                <li>
+                    <a href="#pageSubmenu4" data-toggle="collapse" aria-expanded="false" class="dropdown-toggle">
+                        -
+                        Syllabus
+                    </a>
+                    <ul class="collapse list-unstyled" id="pageSubmenu4">
+                        <li>
+                            <a href="/gui/syllabus/SyllabusManagement.aspx">+ Search</a>
+                        </li>
+                        <li>
+                            <a href="/gui/assignedSyllabus/AssignedSyllabusManagement">
+                                + Assigned Syllabus
+                                Management
+                            </a>
+                        </li>
+                        <li>
+                            <a id="hpImportSyl" href="/gui/syllabus/ImportSyllabus.aspx">
+                                + Import syllabus from Excel
+                                file
+                            </a>
+                        </li>
+                    </ul>
+                </li>
+                <li>
+                    <a href="#pageSubmenu5" data-toggle="collapse" aria-expanded="false" class="dropdown-toggle">
+                        -
+                        Required Knowledge and Skills
+                    </a>
+                    <ul class="collapse list-unstyled" id="pageSubmenu5">
+                        <li>
+                            <a href="/gui/subjectGroup/SubCurGroupManagement.aspx">+ Curriculum Subject Grouping</a>
+                        </li>
+                        <li>
+                            <a id="HyperLink2" href="/gui/subjectGroup/SubjectGroupManagent.aspx">
+                                + Subject Group
+                                Management
+                            </a>
+                        </li>
+                    </ul>
+                </li>
+                <li>
+                    <a href="#pageSubmenu6" data-toggle="collapse" aria-expanded="false" class="dropdown-toggle">
+                        -
+                        Assessment Type
+                    </a>
+                    <ul class="collapse list-unstyled" id="pageSubmenu6">
+                        <li>
+                            <a href="/gui/assessmentType/AssessmentTypeHomepage.aspx">+ Manage</a>
+                        </li>
+                        <li>
+                            <a id="hpLinkAddAst" href="/gui/assessmentType/AddAst.aspx">+ Add New Assessment Type</a>
+                        </li>
+                    </ul>
+                </li>
+                <li>
+                    <a href="#pageSubmenu7" data-toggle="collapse" aria-expanded="false" class="dropdown-toggle">
+                        -
+                        Subject
+                    </a>
+                    <ul class="collapse list-unstyled" id="pageSubmenu7">
+                        <li>
+                            <a href="/gui/subject/SubjectHomepage.aspx">+ Manage</a>
+                        </li>
+                        <li>
+                            <a id="hpLinkAddSub" href="/gui/subject/AddSub.aspx">+ Add New Subject</a>
+                        </li>
+                        <li>
+                            <a id="hpLinkImportSub" href="/gui/subject/ImportSubject.aspx">+ Import Subjects</a>
+                        </li>
+                    </ul>
+                </li>
+                <li>
+                    <a href="#pageSubmenu8" data-toggle="collapse" aria-expanded="false" class="dropdown-toggle">
+                        -
+                        User
+                    </a>
+                    <ul class="collapse list-unstyled" id="pageSubmenu8">
+                        <li>
+                            <a href="/gui/user/UserManagement.aspx">+ Search</a>
+                        </li>
+                        <li>
+                            <a id="hpLinkAddUser" href="/gui/user/AddUser.aspx">+ Add New User</a>
+                        </li>
+                    </ul>
+                </li>
+                <li>
+                    <a href="#pageSubmenu9" data-toggle="collapse" aria-expanded="false" class="dropdown-toggle">
+                        -
+                        Tools
+                    </a>
+                    <ul class="collapse list-unstyled" id="pageSubmenu9">
+                        <li>
+                            <a id="HyperLink3" href="/gui/tool/UpdateCurWithNewSyl.aspx">
+                                + Update curriculums with new
+                                syllabus version
+                            </a>
+                        </li>
+                        <li>
+                            <a id="HyperLink4" href="/gui/tool/SubjectReporting.aspx">+ Subject Reporting</a>
+                        </li>
+                        <li>
+                            <a id="hpExportTextBookToOrder" href="/gui/tool/ExportTextbookToOrder.aspx">
+                                + Export
+                                Textbook to Order
+                            </a>
+                        </li>
+                        <li>
+                            <a id="HyperLink6" href="/gui/tool/ExportGradingStructure.aspx">
+                                + Export Grading
+                                Structure
+                            </a>
+                        </li>
+                        <li>
+                            <a id="HyperLink7" href="/gui/tool/ExportMaterialsOfCur.aspx">
+                                + Export Materials of
+                                Curriculum
+                            </a>
+                        </li>
+                        <li>
+                            <a id="hpSyllabusReporting" href="/gui/tool/SyllabusReporting.aspx">
+                                + Syllabus
+                                Reporting
+                            </a>
+                        </li>
+                        <li>
+                            <a id="hpCurriculumReporting" href="/gui/tool/CurriculumReporting.aspx">
+                                + Curriculum
+                                Reporting
+                            </a>
+                        </li>
+                        <li>
+                            <a id="hpMaterialReporting" href="/gui/tool/MaterialReporting.aspx">
+                                + Material
+                                Reporting
+                            </a>
+                        </li>
+                        <li>
+                            <a id="hpLOReporting" href="/gui/tool/LOReporting.aspx">+ CLO Reporting</a>
+                        </li>
+                        <li>
+                            <a id="hpScheduleReporting" href="/gui/tool/ScheduleReporting.aspx">
+                                + Schedule
+                                Reporting
+                            </a>
+                        </li>
+                        <li>
+                            <a id="hpFinalCheck" href="/gui/tool/FinalCheck.aspx">+ Final Check</a>
+                        </li>
+                    </ul>
+                </li>
+                <li>
+                    <a href="#pageSubmenu10" data-toggle="collapse" aria-expanded="false" class="dropdown-toggle">
+                        -
+                        Campus
+                    </a>
+                    <ul class="collapse list-unstyled" id="pageSubmenu10">
+                        <li>
+                            <a href="/gui/campus/CampusManagement.aspx">+ Manage</a>
+                        </li>
+                        <li>
+                            <a id="hpLinkAddCampus" cssclass="auto-style-1" href="/gui/campus/AddCampus.aspx">
+                                + Add New
+                                Campus
+                            </a>
+                        </li>
+                    </ul>
+                </li>
+                <li>
+                    <a href="/gui/reportSemester/DownloadReportFile.aspx">- Download report file</a>
+                </li>
+                <li>
+                    <a href="/gui/tool/CurriculumOfSubject.aspx">- Show Curriculum of a Subject</a>
+                </li>
+                <li>
+                    <a href="/gui/tool/AllPrequisiteSubject.aspx">- Show Learning Path of a Subject</a>
+                </li>
+                <li>
+                    <a href="/gui/tool/AllCorollarySubject.aspx">- A subject is the pre-requisite of</a>
+                </li>
+                <li>
+                    <a href="#pageSubmenu11" data-toggle="collapse" aria-expanded="false" class="dropdown-toggle">
+                        -
+                        Decision
+                    </a>
+                    <ul class="collapse list-unstyled" id="pageSubmenu11">
+                        <li>
+                            <a href="/decision">+ Manage</a>
+                        </li>
+                        <li>
+                            <a href="/decision/Create">+ Add New Campus</a>
+                        </li>
+                        <li>
+                            <a href="/decision/ImportDecision">+ Import Decision from Excel file</a>
+
+                        </li>
+                        
+                        
+                        
+                    </ul>
+                </li>
+                <li>
+                    <a href="#pageSubmenu12" data-toggle="collapse" aria-expanded="false" class="dropdown-toggle">
+                        -
+                        Learning &amp; Teaching method
+                    </a>
+                    <ul class="collapse list-unstyled" id="pageSubmenu12">
+                        <li>
+                            <a href="/LTMethod">+ Manage</a>
+                        </li>
+                        <li>
+                            <a href="/LTMethod/Create">+ Add New Learnig &amp; Teaching method</a>
+                        </li>
+
+
+                    </ul>
+                </li>
+                <li>
+                    <a href="#pageSubmenu13" data-toggle="collapse" aria-expanded="false" class="dropdown-toggle">
+                        -
+                        SemesterPlan
+                    </a>
+                    <ul class="collapse list-unstyled" id="pageSubmenu13">
+                        <li>
+                            <a href="/SemesterPlans">+ Manage</a>
+                        </li>
+                        <li>
+                            <a href="/SemesterPlans/Create">+ Add new SemesterPlans</a>
+                        </li>
+
+                    </ul>
+                </li>
+                <li>
+                    <a href="/syllabusPlan">- Syllabus Plans Management</a>
+                </li>
+                <li>
+                    <a href="/CurriculumPlan">- Curriculum Plans Management</a>
+                </li>
+
+
+            </ul>
+            <ul class="lisst-unstyled components p-0" id="panelStaffFeatures" style="display: none;">
+                <li>
+                    <a href="#pageSubmenu14" data-toggle="collapse" aria-expanded="false" class="dropdown-toggle">
+                        -
+                        Curriculum
+                    </a>
+                    <ul class="collapse list-unstyled" id="pageSubmenu14">
+                        <li>
+                            <a href="/gui/curriculum/CurHomepage.aspx">+ Search</a>
+                        </li>
+                        <li>
+                            <a href="/gui/curriculum/AddCurri.aspx">+ Add New Curriculum</a>
+                        </li>
+                        <li>
+                            <a href="/gui/PLO/AddPLO.aspx">+ Add New PLO</a>
+                        </li>
+                        
+                        <li visible="False" runat="server">
+                            <a href="/gui/assignedCurriculum/MyCurriculums.aspx">+ My Curriculums</a>
+                        </li>
+                        <li>
+                            <a href="/gui/curriculum/CurSubHomepage.aspx">+ Curriculum Subjects Management</a>
+                        </li>
+                        <li>
+                            <a href="/gui/assignedCurriculum/AssignCurriculumManagement.aspx">
+                                + Assign Curriculum
+                                Management
+                            </a>
+                        </li>
+                    </ul>
+                </li>
+                <li>
+                    <a href="#pageSubmenu15" data-toggle="collapse" aria-expanded="false" class="dropdown-toggle">
+                        -
+                        Curriculum Subject
+                    </a>
+                    <ul class="collapse list-unstyled" id="pageSubmenu15">
+                        <li>
+                            <a href="/gui/curriculum/CurSubHomepage.aspx">+ Manage</a>
+                        </li>
+                        <li>
+                            <a href="/gui/curriculum/AddCurri.aspx">+ Add Curriculum</a>
+                        </li>
+                    </ul>
+                </li>
+                <li>
+                    <a href="#pageSubmenu16" data-toggle="collapse" aria-expanded="false" class="dropdown-toggle">
+                        -
+                        Syllabus
+                    </a>
+                    <ul class="collapse list-unstyled" id="pageSubmenu16">
+                        <li>
+                            <a href="/gui/syllabus/SyllabusManagement.aspx">+ Search</a>
+                        </li>
+                        <li>
+                            <a href="/gui/assignedSyllabus/AssignedSyllabusManagement">
+                                + Assigned Syllabus
+                                Management
+                            </a>
+                        </li>
+                        <li>
+                            <a id="HyperLink1" href="/gui/syllabus/ImportSyllabus.aspx">
+                                + Import syllabus from Excel
+                                file
+                            </a>
+                        </li>
+                    </ul>
+                </li>
+                <li>
+                    <a href="#pageSubmenu17" data-toggle="collapse" aria-expanded="false" class="dropdown-toggle">
+                        -
+                        Required Knowledge and Skills
+                    </a>
+                    <ul class="collapse list-unstyled" id="pageSubmenu17">
+                        <li>
+                            <a href="/gui/subjectGroup/SubCurGroupManagement.aspx">+ Curriculum Subject Grouping</a>
+                        </li>
+                        <li>
+                            <a id="HyperLink5" href="/gui/subjectGroup/SubjectGroupManagent.aspx">
+                                + Subject Group
+                                Management
+                            </a>
+                        </li>
+                    </ul>
+                </li>
+                <li>
+                    <a href="#pageSubmenu18" data-toggle="collapse" aria-expanded="false" class="dropdown-toggle">
+                        -
+                        Assessment Type
+                    </a>
+                    <ul class="collapse list-unstyled" id="pageSubmenu18">
+                        <li>
+                            <a href="/gui/assessmentType/AssessmentTypeHomepage.aspx">+ Manage</a>
+                        </li>
+                        <li>
+                            <a id="HyperLink8" href="/gui/assessmentType/AddAst.aspx">+ Add New Assessment Type</a>
+                        </li>
+                    </ul>
+                </li>
+                <li>
+                    <a href="#pageSubmenu19" data-toggle="collapse" aria-expanded="false" class="dropdown-toggle">
+                        -
+                        Subject
+                    </a>
+                    <ul class="collapse list-unstyled" id="pageSubmenu19">
+                        <li>
+                            <a href="/gui/subject/SubjectHomepage.aspx">+ Manage</a>
+                        </li>
+                        <li>
+                            <a id="HyperLink9" href="/gui/subject/AddSub.aspx">+ Add New Subject</a>
+                        </li>
+                        <li>
+                            <a id="HyperLink10" href="/gui/subject/ImportSubject.aspx">+ Import Subjects</a>
+                        </li>
+                    </ul>
+                </li>
+
+                <li>
+                    <a href="#pageSubmenu20" data-toggle="collapse" aria-expanded="false" class="dropdown-toggle">
+                        -
+                        Tools
+                    </a>
+                    <ul class="collapse list-unstyled" id="pageSubmenu20">
+                        <li>
+                            <a href="/gui/tool/AllTools.aspx">+ Manage</a>
+                        </li>
+                        <li>
+                            <a id="HyperLink12" href="/gui/tool/UpdateCurWithNewSyl.aspx">
+                                + Update curriculums with new
+                                syllabus version
+                            </a>
+                        </li>
+                        <li>
+                            <a id="HyperLink13" href="/gui/tool/SubjectReporting.aspx">+ Subject Reporting</a>
+                        </li>
+                        <li>
+                            <a id="HyperLink14" href="/gui/tool/ExportTextbookToOrder.aspx">
+                                + Export Textbook to
+                                Order
+                            </a>
+                        </li>
+                        <li>
+                            <a id="HyperLink15" href="/gui/tool/ExportGradingStructure.aspx">
+                                + Export Grading
+                                Structure
+                            </a>
+                        </li>
+                        <li>
+                            <a id="HyperLink16" href="/gui/tool/ExportMaterialsOfCur.aspx">
+                                + Export Materials of
+                                Curriculum
+                            </a>
+                        </li>
+                        <li>
+                            <a id="HyperLink17" href="/gui/tool/SyllabusReporting.aspx">+ Syllabus Reporting</a>
+                        </li>
+                        <li>
+                            <a id="HyperLink18" href="/gui/tool/CurriculumReporting.aspx">+ Curriculum Reporting</a>
+                        </li>
+                        <li>
+                            <a id="HyperLink19" href="/gui/tool/MaterialReporting.aspx">+ Material Reporting</a>
+                        </li>
+                        <li>
+                            <a id="HyperLink20" href="/gui/tool/LOReporting.aspx">+ CLO Reporting</a>
+                        </li>
+                        <li>
+                            <a id="HyperLink21" href="/gui/tool/ScheduleReporting.aspx">+ Schedule Reporting</a>
+                        </li>
+                        <li>
+                            <a id="HyperLink22" href="/gui/tool/FinalCheck.aspx">+ Final Check</a>
+                        </li>
+                    </ul>
+                </li>
+
+                <li>
+                    <a href="/gui/reportSemester/DownloadReportFile.aspx">- Download report file</a>
+                </li>
+                <li>
+                    <a href="/gui/tool/CurriculumOfSubject.aspx">- Show Curriculum of a Subject</a>
+                </li>
+                <li>
+                    <a href="/gui/tool/AllPrequisiteSubject.aspx">- Show Learning Path of a Subject</a>
+                </li>
+                <li>
+                    <a href="/gui/tool/AllCorollarySubject.aspx">- A subject is the pre-requisite of</a>
+                </li>
+                <li>
+                    <a href="#pageSubmenu21" data-toggle="collapse" aria-expanded="false" class="dropdown-toggle">
+                        -
+                        Decision
+                    </a>
+                    <ul class="collapse list-unstyled" id="pageSubmenu21">
+                        <li>
+                            <a href="/decision">+ Manage</a>
+                        </li>
+                        <li>
+                            <a href="/decision/Create">+ Add New Campus</a>
+                        </li>
+                        <li>
+                            <a href="/decision/ImportDecision">+ Import Decision from Excel file</a>
+
+                        </li>
+                        
+                        
+                        
+                    </ul>
+                </li>
+                <li>
+                    <a href="#pageSubmenu22" data-toggle="collapse" aria-expanded="false" class="dropdown-toggle">
+                        -
+                        Learning &amp; Teaching method
+                    </a>
+                    <ul class="collapse list-unstyled" id="pageSubmenu22">
+                        <li>
+                            <a href="/LTMethod">+ Manage</a>
+                        </li>
+                        <li>
+                            <a href="/LTMethod/Create">+ Add New Learnig &amp; Teaching Method</a>
+                        </li>
+
+
+                    </ul>
+                </li>
+                <li>
+                    <a href="#pageSubmenu23" data-toggle="collapse" aria-expanded="false" class="dropdown-toggle">
+                        -
+                        SemesterPlan
+                    </a>
+                    <ul class="collapse list-unstyled" id="pageSubmenu23">
+                        <li>
+                            <a href="/SemesterPlans">+ Manage</a>
+                        </li>
+                        <li>
+                            <a href="/SemesterPlans/Create">+ Add new SemesterPlans</a>
+                        </li>
+
+                    </ul>
+                </li>
+                <li>
+                    <a href="/Template/Guideline_Using_FLM_ver2.0.pdf" target="_blank">- View FLM guideline</a>
+                </li>
+            </ul>
+        </nav>
+        <div id="content" class="p-2">
+
+            <div class="mx-3">
+                
+
+<style type="text/css">
+    .auto-style2 {
+        width: 155px;
+    }
+
+    .auto-style3 {
+        width: 155px;
+        height: 24px;
+    }
+
+    #gvSubs,
+    #table-detail,
+    #gvMaterial,
+    #gvLO,
+    #gvSchedule,
+    #gvAssessment,
+    #gvCQ {
+        border: 1px solid rgba(0, 0, 0, .05);
+    }
+
+    #gvSubs th,
+    #gvMaterial th,
+    #gvLO th,
+    #gvSchedule th,
+    #gvAssessment th,
+    #gvCQ th {
+        font-weight: bold;
+        background-color: #F2994A;
+        color: white;
+    }
+
+    .table-detail tr td {
+        padding: 6px 10px 6px 10px;
+    }
+</style>
+
+<div>
+    <h1 class="mb-4">Syllabus Details</h1>
+
+
+        <table id="table-detail" class="tbl-detail" cellspacing="0" rules="all" border="1" style="border-collapse: collapse; width: 100%;">
+            <tbody><tr>
+                <td class="auto-style2" align="right" style="text-align: right;">Syllabus ID:</td>
+                <td>10023</td>
+            </tr>
+            <tr>
+                <td class="auto-style3" align="right" style="text-align: right;">Syllabus Name:</td>
+                <td><b>Data Mining Project_Dự án khai phá dữ liệu</b></td>
+            </tr>
+            <tr>
+                <td class="auto-style3 text-right">Course Name English:</td>
+                <td><b>Data Mining Project</b></td>
+            </tr>
+            <tr>
+                <td class="auto-style2" align="right" style="text-align: right;">Subject Code:</td>
+                <td><b>DBP391</b></td>
+            </tr>
+            <tr>
+                <td class="auto-style2" align="right" style="text-align: right;">Learning-Teaching Method:</td>
+                <td>Inquiry-based Teaching,Project Based Training</td>
+            </tr>
+            <tr>
+                <td class="auto-style2" align="right" style="text-align: right;">NoCredit:</td>
+                <td>3</td>
+            </tr>
+            <tr>
+                <td class="auto-style2" align="right" style="text-align: right;">Degree Level:</td>
+                <td>Bachelor</td>
+            </tr>
+            <tr>
+                <td class="auto-style2" align="right" style="text-align: right;">Time Allocation:</td>
+                <td>Study hour (150h) = 46h contact hours + 104h self-study</td>
+            </tr>
+            <tr>
+                <td class="auto-style2" align="right" style="text-align: right;">Pre-Requisite:</td>
+                <td></td>
+            </tr>
+            <tr>
+                <td class="auto-style2" align="right" style="text-align: right;">Description:</td>
+                <td>The objective of the course is to help students apply the knowledge about data mining to apply in practice to solve problems to ensure requirements such as:
+<br>- Use the discussed data mining techniques in practice,
+<br>- Identify relevant data mining techniques from research articles for a given problem,
+<br>- Formulate a methodological description on how a problem ought to be solved using data mining,
+<br>- Analyse results and models from a data mining project.
+<br>- Identify problems for which data mining is appropriate to use,
+<br>- Select appropriate evaluation methods based on the data mining task at hand.
+<br>- Learn about the legal and ethical aspects of data collection and use.
+<br>- Analyze&nbsp;data&nbsp;mining problems and reason about the most appropriate methods to apply to a given dataset and knowledge extraction need.
+<br>- Implement basic pre-processing, association mining, classification and clustering algorithms.
+<br>- Apply and reflect on advanced pre-processing, association mining, classification and clustering algorithms.
+<br>- Work efficiently in groups and evaluate the algorithms on real-world problems.</td>
+            </tr>
+            <tr>
+                <td class="auto-style2" align="right" style="text-align: right;">StudentTasks:</td>
+                <td># Choose appropriate project and form group.
+<br># Divide and schedule work among members.
+<br># Produce document and product according to project requirement and member work share.
+<br># Defend work infront of examination board, showing both project results and individual responsibility.</td>
+            </tr>
+            <tr>
+                <td class="auto-style2" align="right" style="text-align: right;">Tools:</td>
+                <td>#Programming language: Python, R,…
+<br>#Tools: Rapid Miner, Weka, Apache Spark
+<br>#Database: o Kaggle: https://www.kaggle.com/
+<br>o Data Mining Cup: http://www.data-mining-cup.de
+<br>o KDD Cup: https://www.kdd.org/kdd-cup</td>
+            </tr>
+                <tr>
+                    <td class="auto-style2" align="right" style="text-align: right;">Scoring Scale:</td>
+                    <td>10</td>
+        </tr>
+            <tr>
+                <td class="auto-style2" align="right" style="text-align: right;">DecisionNo MM/dd/yyyy:</td>
+                <td>808/QĐ-ĐHFPT dated 08/03/2023</td>
+            </tr>
+            <tr>
+                <td class="auto-style2" align="right" style="text-align: right;">IsApproved:</td>
+                <td><b>True</b></td>
+            </tr>
+            <tr>
+                <td class="auto-style2" align="right" style="text-align: right;">Note:</td>
+                <td>Completion Criteria (in addition to grade criteria): 
+<br>   * Students can prove that they create the product themselves
+<br>   * No fatal defect in software product (the students can't demonstrate)</td>
+            </tr>
+            <tr>
+                <td class="auto-style2" align="right" style="text-align: right;">Is Scored:</td>
+                <td><b>True</b></td>
+            </tr>
+                <tr>
+                    <td class="auto-style3" align="right" style="text-align: right;">MinAvgMarkToPass:
+                    </td>
+                    <td>
+                        5
+            </td>
+        </tr>
+            <tr>
+                <td class="auto-style3" align="right" style="text-align: right;">IsActive:</td>
+                <td>True</td>
+            </tr>
+            <tr>
+                <td class="auto-style2" align="right" style="text-align: right;">ApprovedDate:</td>
+                <td>8/3/2023</td>
+            </tr>
+        </tbody></table>
+        <br>
+        <!-- Materials Section -->
+        <label style="color: #23ac68;">4 material(s)</label>
+        <br>
+            <table id="gvMaterial" class="table table-striped tbl-data">
+                <thead>
+                    <tr>
+                        <th style="width: 3%; text-align: center;">No.</th>
+                        <th>Material Description</th>
+                        <th>Author</th>
+                        <th>Publisher</th>
+                        <th>Published Date</th>
+                        <th>Edition</th>
+                        <th>ISBN</th>
+                        <th>Is Main Material</th>
+                        <th>Is Hard Copy</th>
+                        <th>Is Online</th>
+                        <th>Note</th>
+                    </tr>
+                </thead>
+                <tbody>
+                        <tr>
+                            <td style="text-align: center;">1</td>
+                            <td>DBP391 Project Template</td>
+                            <td></td>
+                            <td></td>
+                            <td></td>
+                            <td></td>
+                            <td>                                                                                                    </td>
+                            <td>True</td>
+                            <td>False</td>
+                            <td>False</td>
+                            <td>Bản mềm do FU biên soạn</td>
+                        </tr>
+                        <tr>
+                            <td style="text-align: center;">2</td>
+                            <td>https://www.coursera.org/specializations/data-mining?</td>
+                            <td></td>
+                            <td>Courera</td>
+                            <td></td>
+                            <td></td>
+                            <td>                                                                                                    </td>
+                            <td>False</td>
+                            <td>False</td>
+                            <td>True</td>
+                            <td>SPEC: Data mining</td>
+                        </tr>
+                        <tr>
+                            <td style="text-align: center;">3</td>
+                            <td>Data Mining: Concepts and Techniques
+<br>http://library.books24x7.com/toc.aspx?bookid=44712</td>
+                            <td>Jiawei Han, Micheline Kamber, and Jian Pei,</td>
+                            <td>Morgan Kaufmann</td>
+                            <td>2011</td>
+                            <td>3rd</td>
+                            <td>978-0-12-381479-1                                                                                   </td>
+                            <td>False</td>
+                            <td>False</td>
+                            <td>True</td>
+                            <td></td>
+                        </tr>
+                        <tr>
+                            <td style="text-align: center;">4</td>
+                            <td>Data Mining: Practical Machine Learning Tools and Techniques
+<br>http://library.books24x7.com/toc.aspx?bookid=41846</td>
+                            <td>Ian H. Witten, Eibe Frank and Mark A. Hall</td>
+                            <td>Morgan Kaufmann</td>
+                            <td>2011</td>
+                            <td>3rd</td>
+                            <td>978-0123748560                                                                                      </td>
+                            <td>False</td>
+                            <td>False</td>
+                            <td>True</td>
+                            <td></td>
+                        </tr>
+                </tbody>
+            </table>
+        <br>
+        <!-- LOs Section -->
+        <label style="color: #23ac68;">12 LO(s)</label>
+            <table id="gvLO" class="table table-striped tbl-data">
+                <thead>
+                    <tr>
+                        <th style="width: 3%; text-align: center;">No.</th>
+                        <th style="width: 5%;">CLO Name</th>
+                        <th>CLO Details</th>
+                    </tr>
+                </thead>
+                <tbody>
+                        <tr>
+                            <td style="text-align: center;">1</td>
+                            <td>CLO1</td>
+                            <td>Use the discussed data mining techniques in practice,</td>
+                        </tr>
+                        <tr>
+                            <td style="text-align: center;">2</td>
+                            <td>CLO2</td>
+                            <td>Collect data, with consideration of techical &amp; other factors.</td>
+                        </tr>
+                        <tr>
+                            <td style="text-align: center;">3</td>
+                            <td>CLO3</td>
+                            <td>Identify relevant data mining techniques from research articles for a given problem,</td>
+                        </tr>
+                        <tr>
+                            <td style="text-align: center;">4</td>
+                            <td>CLO4</td>
+                            <td>Formulate a methodological description on how a problem ought to be solved using data mining,</td>
+                        </tr>
+                        <tr>
+                            <td style="text-align: center;">5</td>
+                            <td>CLO5</td>
+                            <td>Analyse results and models from a data mining project.</td>
+                        </tr>
+                        <tr>
+                            <td style="text-align: center;">6</td>
+                            <td>CLO6</td>
+                            <td>Identify problems for which data mining is appropriate to use,</td>
+                        </tr>
+                        <tr>
+                            <td style="text-align: center;">7</td>
+                            <td>CLO7</td>
+                            <td>Select appropriate evaluation methods based on the data mining task at hand.</td>
+                        </tr>
+                        <tr>
+                            <td style="text-align: center;">8</td>
+                            <td>CLO8</td>
+                            <td>Learn about the legal and ethical aspects of data collection and use.</td>
+                        </tr>
+                        <tr>
+                            <td style="text-align: center;">9</td>
+                            <td>CLO9</td>
+                            <td>Work efficiently in groups.</td>
+                        </tr>
+                        <tr>
+                            <td style="text-align: center;">10</td>
+                            <td>CLO10</td>
+                            <td>Write a professional research report.</td>
+                        </tr>
+                        <tr>
+                            <td style="text-align: center;">11</td>
+                            <td>CLO11</td>
+                            <td>Practice oral presentation and inter-personal communications.</td>
+                        </tr>
+                        <tr>
+                            <td style="text-align: center;">12</td>
+                            <td>CLO12</td>
+                            <td>Exhibit professional working attitudes</td>
+                        </tr>
+                </tbody>
+            </table>
+        <a href="/CLOMapping/View?syllabusID=10023" target="_blank">View mapping of CLOs to PLOs</a>
+        <br>
+        <br>
+        <!-- Download Buttons & Schedule Section (student: no teacher materials / T-download) -->
+        <button class="margin-bot-10 btn btn-primary btn-blue ml-1 fs-inherit" id="btnDownloadAllStudentMaterial">
+            Download All Student Material
+        </button>
+        <label style="color: #23ac68;">
+        </label>
+            <table id="gvSchedule" class="auto-style2 table table-striped tbl-data" style="width: 100%;">
+                <thead>
+                    <tr>
+                        <th>Session</th>
+                        <th>Topic</th>
+                        <th>Learning-Teaching Type</th>
+                        <th>LO</th>
+                        <th>ITU</th>
+                        <th>Student Materials</th>
+                        <th>S-Download</th>
+                        <th>Student's Tasks</th>
+                        <th>URLs</th>
+                    </tr>
+                </thead>
+                <tbody>
+                        <tr>
+                            <td>1</td>
+                            <td>Discussion on the CP topic</td>
+                            <td>Offline</td>
+                            <td>LO3, LO4, LO12</td>
+                            <td>TU</td>
+                            <td class="product">Report 1</td>
+                            <td>
+                                        <a href="/download/5722/S/1_DBP391.zip" class="ContainSLink">DBP391</a>
+
+                            </td>
+                            <td>Do tasks in Section No.1</td>
+                            <td>
+                            </td>
+                        </tr>
+                        <tr>
+                            <td>2</td>
+                            <td>Discussion on the CP Structure, create team (group)</td>
+                            <td>Offline</td>
+                            <td>LO3, LO4, LO12</td>
+                            <td>TU</td>
+                            <td class="product">Report 1</td>
+                            <td>
+                                        <a href="/download/5722/S/2_DBP391.zip" class="ContainSLink">DBP391</a>
+
+                            </td>
+                            <td>Do tasks in Section No.1</td>
+                            <td>
+                            </td>
+                        </tr>
+                        <tr>
+                            <td>3</td>
+                            <td>Introduction sample topics of the course</td>
+                            <td>Offline</td>
+                            <td>LO03, LO04, LO12</td>
+                            <td>TU</td>
+                            <td class="product">Report 1</td>
+                            <td>
+
+                            </td>
+                            <td>Do tasks in Section No.1</td>
+                            <td>
+                            </td>
+                        </tr>
+                        <tr>
+                            <td>4</td>
+                            <td>Discuss and choose a topic</td>
+                            <td>Offline</td>
+                            <td>LO03, LO04, LO12</td>
+                            <td>TU</td>
+                            <td class="product">Report 1</td>
+                            <td>
+
+                            </td>
+                            <td>Do tasks in Section No.1</td>
+                            <td>
+                            </td>
+                        </tr>
+                        <tr>
+                            <td>5</td>
+                            <td>Guide Report  No.1: Project Introduction</td>
+                            <td>Offline</td>
+                            <td>CLO03,CLO04, CLO12</td>
+                            <td>TU</td>
+                            <td class="product">Report 1</td>
+                            <td>
+
+                            </td>
+                            <td>Do tasks in Section No.1</td>
+                            <td>
+                            </td>
+                        </tr>
+                        <tr>
+                            <td>6</td>
+                            <td>Report  No.1: Project Introduction (Discussion)</td>
+                            <td>Offline</td>
+                            <td>CLO03,CLO04, CLO12</td>
+                            <td>TU</td>
+                            <td class="product">Report 1</td>
+                            <td>
+
+                            </td>
+                            <td>Do tasks in Section No.1</td>
+                            <td>
+                            </td>
+                        </tr>
+                        <tr>
+                            <td>7</td>
+                            <td>Report No.1 Submission: Section 1. Introduction</td>
+                            <td>Offline</td>
+                            <td>CLO03,CLO04, CLO12</td>
+                            <td>TU</td>
+                            <td class="product">Report 1</td>
+                            <td>
+
+                            </td>
+                            <td>Do tasks in Section No.1</td>
+                            <td>
+                            </td>
+                        </tr>
+                        <tr>
+                            <td>8</td>
+                            <td>References related to Section 1</td>
+                            <td>Offline</td>
+                            <td>CLO03,CLO04, CLO12</td>
+                            <td>TU</td>
+                            <td class="product">Report 1</td>
+                            <td>
+
+                            </td>
+                            <td>Do tasks in Section No.1</td>
+                            <td>
+                            </td>
+                        </tr>
+                        <tr>
+                            <td>9</td>
+                            <td>Team Meeting: CP Topic Review &amp; Group Division</td>
+                            <td>Offline</td>
+                            <td>CLO03,CLO04, CLO12</td>
+                            <td>TU</td>
+                            <td class="product">Report 1</td>
+                            <td>
+
+                            </td>
+                            <td>Do tasks in Section No.1</td>
+                            <td>
+                            </td>
+                        </tr>
+                        <tr>
+                            <td>10</td>
+                            <td>CP Topic Review &amp; Group Division (Discussion)</td>
+                            <td>Offline</td>
+                            <td>CLO03,CLO04, CLO12</td>
+                            <td>TU</td>
+                            <td class="product">Report 1</td>
+                            <td>
+
+                            </td>
+                            <td>Do tasks in Section No.1</td>
+                            <td>
+                            </td>
+                        </tr>
+                        <tr>
+                            <td>11</td>
+                            <td>Guide Report No.2: Project Management Plan</td>
+                            <td>Offline</td>
+                            <td>CLO06, CLO12</td>
+                            <td>TU</td>
+                            <td class="product">Report 2</td>
+                            <td>
+
+                            </td>
+                            <td>Appendix A. Project Plan management</td>
+                            <td>
+                            </td>
+                        </tr>
+                        <tr>
+                            <td>12</td>
+                            <td>References related to  Report No.2: Project Management Plan</td>
+                            <td>Offline</td>
+                            <td>CLO06, CLO12</td>
+                            <td>TU</td>
+                            <td class="product">Report 2</td>
+                            <td>
+
+                            </td>
+                            <td>Appendix A. Project Plan management</td>
+                            <td>
+                            </td>
+                        </tr>
+                        <tr>
+                            <td>13</td>
+                            <td>Report No.2 Submission: Appendix A. Project Management Plan</td>
+                            <td>Offline</td>
+                            <td>CLO06, CLO12</td>
+                            <td>TU</td>
+                            <td class="product">Report 2</td>
+                            <td>
+
+                            </td>
+                            <td>Appendix A. Project Plan management</td>
+                            <td>
+                            </td>
+                        </tr>
+                        <tr>
+                            <td>14</td>
+                            <td>References related to Report No.2 Submission: Appendix A. Project Management Plan</td>
+                            <td>Offline</td>
+                            <td>CLO06, CLO12</td>
+                            <td>TU</td>
+                            <td class="product">Report 2</td>
+                            <td>
+
+                            </td>
+                            <td>Appendix A. Project Plan management</td>
+                            <td>
+                            </td>
+                        </tr>
+                        <tr>
+                            <td>15</td>
+                            <td>Team Meeting: Project Management Plan</td>
+                            <td>Offline</td>
+                            <td>CLO06, CLO12</td>
+                            <td>TU</td>
+                            <td class="product">Report 2</td>
+                            <td>
+
+                            </td>
+                            <td>Appendix A. Project Plan management</td>
+                            <td>
+                            </td>
+                        </tr>
+                        <tr>
+                            <td>16</td>
+                            <td>Team Meeting: Project Management Plan (Present the issues discussed and agreed upon by the group)</td>
+                            <td>Offline</td>
+                            <td>CLO06, CLO12</td>
+                            <td>TU</td>
+                            <td class="product">Report 2</td>
+                            <td>
+
+                            </td>
+                            <td>Appendix A. Project Plan management</td>
+                            <td>
+                            </td>
+                        </tr>
+                        <tr>
+                            <td>17</td>
+                            <td>Guide Report No.3: Review Related Works &amp; Bibliography</td>
+                            <td>Offline</td>
+                            <td>CLO03,CLO07, CLO08, CLO09, CLO12</td>
+                            <td>TU</td>
+                            <td class="product">Report 3</td>
+                            <td>
+
+                            </td>
+                            <td>Do tasks in Section No.2 and References</td>
+                            <td>
+                            </td>
+                        </tr>
+                        <tr>
+                            <td>18</td>
+                            <td>References related to Report No.3: Review Related Works &amp; Bibliography</td>
+                            <td>Offline</td>
+                            <td>CLO03,CLO07, CLO08, CLO09, CLO12</td>
+                            <td>TU</td>
+                            <td class="product">Report 3</td>
+                            <td>
+
+                            </td>
+                            <td>Do tasks in Section No.2 and References</td>
+                            <td>
+                            </td>
+                        </tr>
+                        <tr>
+                            <td>19</td>
+                            <td>Report No.3 Submission: Section 2. Review Related Works &amp; Bibliography</td>
+                            <td>Offline</td>
+                            <td>CLO03,CLO07, CLO08, CLO09, CLO12</td>
+                            <td>TU</td>
+                            <td class="product">Report 3</td>
+                            <td>
+
+                            </td>
+                            <td>Do tasks in Section No.2 and References</td>
+                            <td>
+                            </td>
+                        </tr>
+                        <tr>
+                            <td>20</td>
+                            <td>References related to Report No.3 Submission: Section 2. Review Related Works &amp; Bibliography</td>
+                            <td>Offline</td>
+                            <td>CLO03,CLO07, CLO08, CLO09, CLO12</td>
+                            <td>TU</td>
+                            <td class="product">Report 3</td>
+                            <td>
+
+                            </td>
+                            <td>Do tasks in Section No.2 and References</td>
+                            <td>
+                            </td>
+                        </tr>
+                        <tr>
+                            <td>21</td>
+                            <td>Team Meeting: Review Related Works</td>
+                            <td>Offline</td>
+                            <td>CLO03,CLO07, CLO08, CLO09, CLO12</td>
+                            <td>TU</td>
+                            <td class="product">Report 3</td>
+                            <td>
+
+                            </td>
+                            <td>Do tasks in Section No.3</td>
+                            <td>
+                            </td>
+                        </tr>
+                        <tr>
+                            <td>22</td>
+                            <td>Team Meeting: Review Related Works (Present the issues discussed and agreed upon by the group)</td>
+                            <td>Offline</td>
+                            <td>CLO03,CLO07, CLO08, CLO09, CLO12</td>
+                            <td>TU</td>
+                            <td class="product">Report 3</td>
+                            <td>
+
+                            </td>
+                            <td>Do tasks in Section No.3</td>
+                            <td>
+                            </td>
+                        </tr>
+                        <tr>
+                            <td>23</td>
+                            <td>Guide Report No.4: Data Preparation</td>
+                            <td>Offline</td>
+                            <td>CLO02,CLO06,CLO07, CLO08, CLO09, CLO12</td>
+                            <td>TU</td>
+                            <td class="product">Report 4</td>
+                            <td>
+
+                            </td>
+                            <td>Do tasks in Section No.3</td>
+                            <td>
+                            </td>
+                        </tr>
+                        <tr>
+                            <td>24</td>
+                            <td>Reference related to Report No.4: Data Preparation</td>
+                            <td>Offline</td>
+                            <td>CLO02,CLO06,CLO07, CLO08, CLO09, CLO12</td>
+                            <td>TU</td>
+                            <td class="product">Report 4</td>
+                            <td>
+
+                            </td>
+                            <td>Do tasks in Section No.3</td>
+                            <td>
+                            </td>
+                        </tr>
+                        <tr>
+                            <td>25</td>
+                            <td>Report No.4 Submission: Section 3. Data Preparation</td>
+                            <td>Offline</td>
+                            <td>CLO02,CLO06,CLO07, CLO08, CLO09, CLO12</td>
+                            <td>TU</td>
+                            <td class="product">Report 4</td>
+                            <td>
+
+                            </td>
+                            <td>Do tasks in Section No.3</td>
+                            <td>
+                            </td>
+                        </tr>
+                        <tr>
+                            <td>26</td>
+                            <td>Reference related to Report No.4 Submission: Section 3. Data Preparation</td>
+                            <td>Offline</td>
+                            <td>CLO02,CLO06,CLO07, CLO08, CLO09, CLO12</td>
+                            <td>TU</td>
+                            <td class="product">Report 4</td>
+                            <td>
+
+                            </td>
+                            <td>Do tasks in Section No.3</td>
+                            <td>
+                            </td>
+                        </tr>
+                        <tr>
+                            <td>27</td>
+                            <td>Team Meeting: Data Preparation</td>
+                            <td>Offline</td>
+                            <td>CLO02,CLO06,CLO07, CLO08, CLO09, CLO12</td>
+                            <td>TU</td>
+                            <td class="product">Report 4</td>
+                            <td>
+
+                            </td>
+                            <td>Do tasks in Section No.4 and 5</td>
+                            <td>
+                            </td>
+                        </tr>
+                        <tr>
+                            <td>28</td>
+                            <td>Team Meeting: Data Preparation (Present the issues discussed and agreed upon by the group)</td>
+                            <td>Offline</td>
+                            <td>CLO02,CLO06,CLO07, CLO08, CLO09, CLO12</td>
+                            <td>TU</td>
+                            <td class="product">Report 4</td>
+                            <td>
+
+                            </td>
+                            <td>Do tasks in Section No.4 and 5</td>
+                            <td>
+                            </td>
+                        </tr>
+                        <tr>
+                            <td>29</td>
+                            <td>Guide Report No.5: Methods, System Design &amp; Implementation</td>
+                            <td>Offline</td>
+                            <td>CLO03, CLO04, CLO06, CLO07, CLO12</td>
+                            <td>TU</td>
+                            <td class="product">Report 5</td>
+                            <td>
+
+                            </td>
+                            <td>Do tasks in Section No.4 and 5</td>
+                            <td>
+                            </td>
+                        </tr>
+                        <tr>
+                            <td>30</td>
+                            <td>Reference related to Report No.5: Methods, System Design &amp; Implementation</td>
+                            <td>Offline</td>
+                            <td>CLO03, CLO04, CLO06, CLO07, CLO12</td>
+                            <td>TU</td>
+                            <td class="product">Report 5</td>
+                            <td>
+
+                            </td>
+                            <td>Do tasks in Section No.4 and 5</td>
+                            <td>
+                            </td>
+                        </tr>
+                        <tr>
+                            <td>31</td>
+                            <td>Guide Report No.5: Methods, System Design &amp; Implementation</td>
+                            <td>Offline</td>
+                            <td>CLO03, CLO04, CLO06, CLO07, CLO12</td>
+                            <td>TU</td>
+                            <td class="product">Report 5</td>
+                            <td>
+
+                            </td>
+                            <td>Do tasks in Section No.4 and 5</td>
+                            <td>
+                            </td>
+                        </tr>
+                        <tr>
+                            <td>32</td>
+                            <td>Reference related to Report No.5: Methods, System Design &amp; Implementation</td>
+                            <td>Offline</td>
+                            <td>CLO03, CLO04, CLO06, CLO07, CLO12</td>
+                            <td>TU</td>
+                            <td class="product">Report 5</td>
+                            <td>
+
+                            </td>
+                            <td>Do tasks in Section No.4 and 5</td>
+                            <td>
+                            </td>
+                        </tr>
+                        <tr>
+                            <td>33</td>
+                            <td>Guide Report No.5: Methods, System Design &amp; Implementation</td>
+                            <td>Offline</td>
+                            <td>CLO03, CLO04, CLO06, CLO07, CLO12</td>
+                            <td>TU</td>
+                            <td class="product">Report 5</td>
+                            <td>
+
+                            </td>
+                            <td>Do tasks in Section No.4 and 5</td>
+                            <td>
+                            </td>
+                        </tr>
+                        <tr>
+                            <td>34</td>
+                            <td>Reference related to Report No.5: Methods, System Design &amp; Implementation</td>
+                            <td>Offline</td>
+                            <td>CLO03, CLO04, CLO06, CLO07, CLO12</td>
+                            <td>TU</td>
+                            <td class="product">Report 5</td>
+                            <td>
+
+                            </td>
+                            <td>Do tasks in Section No.4 and 5</td>
+                            <td>
+                            </td>
+                        </tr>
+                        <tr>
+                            <td>35</td>
+                            <td>Report No.5 Submission: Section 4. Methods; Section 5. System Design &amp; Implementation</td>
+                            <td>Offline</td>
+                            <td>CLO03, CLO04, CLO06, CLO07, CLO12</td>
+                            <td>TU</td>
+                            <td class="product">Report 5</td>
+                            <td>
+
+                            </td>
+                            <td>Do tasks in Section No.4 and 5</td>
+                            <td>
+                            </td>
+                        </tr>
+                        <tr>
+                            <td>36</td>
+                            <td>Reference related to Report No.5 Submission: Section 4. Methods; Section 5. System Design &amp; Implementation</td>
+                            <td>Offline</td>
+                            <td>CLO03, CLO04, CLO06, CLO07, CLO12</td>
+                            <td>TU</td>
+                            <td class="product">Report 5</td>
+                            <td>
+
+                            </td>
+                            <td>Do tasks in Section No.4 and 5</td>
+                            <td>
+                            </td>
+                        </tr>
+                        <tr>
+                            <td>37</td>
+                            <td>Team Meeting : Methods, System Design &amp; Implementation</td>
+                            <td>Offline</td>
+                            <td>CLO03, CLO04, CLO06, CLO07, CLO12</td>
+                            <td>TU</td>
+                            <td class="product">Report 5</td>
+                            <td>
+
+                            </td>
+                            <td>Do tasks in Section No.6</td>
+                            <td>
+                            </td>
+                        </tr>
+                        <tr>
+                            <td>38</td>
+                            <td>Team Meeting : Methods, System Design &amp; Implementation (Present the issues discussed and agreed upon by the group)</td>
+                            <td>Offline</td>
+                            <td>CLO03, CLO04, CLO06, CLO07, CLO12</td>
+                            <td>TU</td>
+                            <td class="product">Report 5</td>
+                            <td>
+
+                            </td>
+                            <td>Do tasks in Section No.6</td>
+                            <td>
+                            </td>
+                        </tr>
+                        <tr>
+                            <td>39</td>
+                            <td>Guide Report No.6: Results and Discussion</td>
+                            <td>Offline</td>
+                            <td>CLO05, CLO06, CLO07, CLO09</td>
+                            <td>TU</td>
+                            <td class="product">Report 6</td>
+                            <td>
+
+                            </td>
+                            <td>Do tasks in Section No.6</td>
+                            <td>
+                            </td>
+                        </tr>
+                        <tr>
+                            <td>40</td>
+                            <td>Reference related to Report No.6: Results and Discussion</td>
+                            <td>Offline</td>
+                            <td>CLO05, CLO06, CLO07, CLO09</td>
+                            <td>TU</td>
+                            <td class="product">Report 6</td>
+                            <td>
+
+                            </td>
+                            <td>Do tasks in Section No.6</td>
+                            <td>
+                            </td>
+                        </tr>
+                        <tr>
+                            <td>41</td>
+                            <td>Report No.6 Submission: Section 6. Results and Discussion</td>
+                            <td>Offline</td>
+                            <td>CLO05, CLO06, CLO07, CLO09</td>
+                            <td>TU</td>
+                            <td class="product">Report 6</td>
+                            <td>
+
+                            </td>
+                            <td>Do tasks in Section No.6</td>
+                            <td>
+                            </td>
+                        </tr>
+                        <tr>
+                            <td>42</td>
+                            <td>Reference related to Report No.6 Submission: Section 6. Results and Discussion</td>
+                            <td>Offline</td>
+                            <td>CLO05, CLO06, CLO07, CLO09</td>
+                            <td>TU</td>
+                            <td class="product">Report 6</td>
+                            <td>
+
+                            </td>
+                            <td>Do tasks in Section No.6</td>
+                            <td>
+                            </td>
+                        </tr>
+                        <tr>
+                            <td>43</td>
+                            <td>Team Meeting : Results and Discussion</td>
+                            <td>Offline</td>
+                            <td>CLO05, CLO06, CLO07, CLO09</td>
+                            <td>TU</td>
+                            <td class="product">Report 6</td>
+                            <td>
+
+                            </td>
+                            <td>Do tasks in Section No.7</td>
+                            <td>
+                            </td>
+                        </tr>
+                        <tr>
+                            <td>44</td>
+                            <td>Team Meeting : Results and Discussion (Present the issues discussed and agreed upon by the group)</td>
+                            <td>Offline</td>
+                            <td>CLO05, CLO06, CLO07, CLO09</td>
+                            <td>TU</td>
+                            <td class="product">Report 6</td>
+                            <td>
+
+                            </td>
+                            <td>Do tasks in Section No.7</td>
+                            <td>
+                            </td>
+                        </tr>
+                        <tr>
+                            <td>45</td>
+                            <td>Guide Report No.7: Conclusion and Perspectives</td>
+                            <td>Offline</td>
+                            <td>CLO5, CLO7, CLO9, CLO10, CLO12</td>
+                            <td>TU</td>
+                            <td class="product">Report 7</td>
+                            <td>
+
+                            </td>
+                            <td>Do tasks in Section No.7</td>
+                            <td>
+                            </td>
+                        </tr>
+                        <tr>
+                            <td>46</td>
+                            <td>Reference related to Report No.7: Conclusion and Perspectives</td>
+                            <td>Offline</td>
+                            <td>CLO5, CLO7, CLO9, CLO10, CLO12</td>
+                            <td>TU</td>
+                            <td class="product">Report 7</td>
+                            <td>
+
+                            </td>
+                            <td>Do tasks in Section No.7</td>
+                            <td>
+                            </td>
+                        </tr>
+                        <tr>
+                            <td>47</td>
+                            <td>Report No.7 Submission: Section 7. Conclusion and Perspectives</td>
+                            <td>Offline</td>
+                            <td>CLO5, CLO7, CLO9, CLO10, CLO12</td>
+                            <td>TU</td>
+                            <td class="product">Report 7</td>
+                            <td>
+
+                            </td>
+                            <td>Do tasks in Section No.7</td>
+                            <td>
+                            </td>
+                        </tr>
+                        <tr>
+                            <td>48</td>
+                            <td>Reference related to Report No.7 Submission: Section 7. Conclusion and Perspectives</td>
+                            <td>Offline</td>
+                            <td>CLO5, CLO7, CLO9, CLO10, CLO12</td>
+                            <td>TU</td>
+                            <td class="product">Report 7</td>
+                            <td>
+
+                            </td>
+                            <td>Do tasks in Section No.7</td>
+                            <td>
+                            </td>
+                        </tr>
+                        <tr>
+                            <td>49</td>
+                            <td>Team Meeting: Conclusion and Perspectives</td>
+                            <td>Offline</td>
+                            <td>CLO5, CLO7, CLO9, CLO10, CLO12</td>
+                            <td>TU</td>
+                            <td class="product">Report 7</td>
+                            <td>
+
+                            </td>
+                            <td>Final Report with Abstract</td>
+                            <td>
+                            </td>
+                        </tr>
+                        <tr>
+                            <td>50</td>
+                            <td>Team Meeting: Conclusion and Perspectives (Present the issues discussed and agreed upon by the group)</td>
+                            <td>Offline</td>
+                            <td>CLO5, CLO7, CLO9, CLO10, CLO12</td>
+                            <td>TU</td>
+                            <td class="product">Report 7</td>
+                            <td>
+
+                            </td>
+                            <td>Final Report with Abstract</td>
+                            <td>
+                            </td>
+                        </tr>
+                        <tr>
+                            <td>51</td>
+                            <td>Guide Final Report</td>
+                            <td>Offline</td>
+                            <td>All Los</td>
+                            <td>TU</td>
+                            <td class="product">Final Report</td>
+                            <td>
+
+                            </td>
+                            <td>Final Report with Abstract</td>
+                            <td>
+                            </td>
+                        </tr>
+                        <tr>
+                            <td>52</td>
+                            <td>Discussion related to Final Report</td>
+                            <td>Offline</td>
+                            <td></td>
+                            <td>TU</td>
+                            <td class="product"></td>
+                            <td>
+
+                            </td>
+                            <td></td>
+                            <td>
+                            </td>
+                        </tr>
+                        <tr>
+                            <td>53</td>
+                            <td>Final Report Submission: Final Report</td>
+                            <td>Offline</td>
+                            <td>All Los</td>
+                            <td>TU</td>
+                            <td class="product">Final Report</td>
+                            <td>
+
+                            </td>
+                            <td>Final Report with Abstract</td>
+                            <td>
+                            </td>
+                        </tr>
+                        <tr>
+                            <td>54</td>
+                            <td>Submit the final project presentation</td>
+                            <td>Offline</td>
+                            <td>CLO9, CLO10, CLO12</td>
+                            <td>TU</td>
+                            <td class="product">Final Report</td>
+                            <td>
+
+                            </td>
+                            <td>Revise Final Report,ppt &amp; Source Code</td>
+                            <td>
+                            </td>
+                        </tr>
+                        <tr>
+                            <td>55</td>
+                            <td>Team Meeting: Practice for Presentation of Capstone Project</td>
+                            <td>Offline</td>
+                            <td>CLO9, CLO11, CLO12</td>
+                            <td>TU</td>
+                            <td class="product">Final Report, Slides</td>
+                            <td>
+
+                            </td>
+                            <td>Revise Final Report,ppt &amp; Source Code</td>
+                            <td>
+                            </td>
+                        </tr>
+                        <tr>
+                            <td>56</td>
+                            <td>Presentation</td>
+                            <td>Offline</td>
+                            <td>CLO9, CLO11, CLO12</td>
+                            <td>TU</td>
+                            <td class="product">Final Report, Slides</td>
+                            <td>
+
+                            </td>
+                            <td></td>
+                            <td>
+                            </td>
+                        </tr>
+                        <tr>
+                            <td>57</td>
+                            <td>Presentation</td>
+                            <td>Offline</td>
+                            <td>CLO9, CLO11, CLO12</td>
+                            <td>TU</td>
+                            <td class="product">Final Report, Slides</td>
+                            <td>
+
+                            </td>
+                            <td></td>
+                            <td>
+                            </td>
+                        </tr>
+                        <tr>
+                            <td>58</td>
+                            <td>Presentation</td>
+                            <td>Offline</td>
+                            <td>CLO9, CLO11, CLO12</td>
+                            <td>TU</td>
+                            <td class="product">Final Report, Slides</td>
+                            <td>
+
+                            </td>
+                            <td></td>
+                            <td>
+                            </td>
+                        </tr>
+                        <tr>
+                            <td>59</td>
+                            <td>Presentation</td>
+                            <td>Offline</td>
+                            <td>CLO9, CLO11, CLO12</td>
+                            <td>TU</td>
+                            <td class="product">Final Report, Slides</td>
+                            <td>
+
+                            </td>
+                            <td></td>
+                            <td>
+                            </td>
+                        </tr>
+                        <tr>
+                            <td>60</td>
+                            <td>Presentation</td>
+                            <td>Offline</td>
+                            <td>CLO9, CLO11, CLO12</td>
+                            <td>TU</td>
+                            <td class="product">Final Report, Slides</td>
+                            <td>
+
+                            </td>
+                            <td></td>
+                            <td>
+                            </td>
+                        </tr>
+                </tbody>
+            </table>
+        <br>
+        <!-- Constructivist Questions Section -->
+        <label style="color: #23ac68;">0 Constructive question(s)</label>
+        <br>
+        <!-- Assessments Section -->
+        <label style="color: #23ac68;">8 assessment(s)</label>
+            <table id="gvAssessment" class="table table-striped tbl-data">
+                <thead>
+                    <tr>
+                        <th style="width: 3%; text-align: center;">No.</th>
+                        <th>Category</th>
+                        <th>Type</th>
+                        <th>Part</th>
+                        <th>Weight</th>
+                        <th>Completion Criteria</th>
+                        <th>Duration</th>
+                        <th>CLO</th>
+                        <th>Question Type</th>
+                        <th>No Question</th>
+                        <th>Knowledge and Skill</th>
+                        <th>Grading Guide</th>
+                        <th>Note</th>
+                    </tr>
+                </thead>
+                <tbody>
+                        <tr>
+                            <td style="text-align: center;">1</td>
+                            <td>Final Project Presentation</td>
+                            <td>
+
+                                on-going
+                            </td>
+                            <td>1</td>
+                            <td>
+50.0%                            </td>
+                            <td>
+4                            </td>
+                            <td>~ 30 minutes for presentation,~ 60 minutes for demo and Q&amp;A. Total is 90 minutes.</td>
+                            <td>All LOs</td>
+                            <td>ProjectPresentation</td>
+                            <td>N/A</td>
+                            <td></td>
+                            <td>     Individual &amp; Group evaluation (see Assesstment Matrix sheet in materials for teacher)
+<br>By instructor</td>
+                            <td>1. Final Project Presentation component:
+<br>- Documentation: 10%
+<br>- Analysis and evaluation results of the project: 10%
+<br>- Soft Skills: 10%
+<br>- Mastery of Assigned works: 20%
+<br>2. Final Project Presentation Attending Criteria:
+<br>* On-going Assessment Grade &gt;=5/10
+<br>* All detailed assessment item's grades &gt; 0/10</td>
+                        </tr>
+                        <tr>
+                            <td style="text-align: center;">2</td>
+                            <td>On-going Assessment</td>
+                            <td>
+
+                                on-going
+                            </td>
+                            <td>6</td>
+                            <td>
+50.0%                            </td>
+                            <td>
+5                            </td>
+                            <td>During the Project Progress</td>
+                            <td>All LOs</td>
+                            <td></td>
+                            <td>N/A</td>
+                            <td></td>
+                            <td>Group evaluation (see Assesstment Matrix sheet in materials for teacher)
+<br>By instructor</td>
+                            <td></td>
+                        </tr>
+                        <tr>
+                            <td style="text-align: center;">3</td>
+                            <td>On-going Assessment: Data Preparation</td>
+                            <td>
+
+                                on-going
+                            </td>
+                            <td>1</td>
+                            <td>
+10.0%                            </td>
+                            <td>
+&gt;0                            </td>
+                            <td>During the Project Progress</td>
+                            <td>CLO2, CLO6, CLO7, CLO8, CLO9, CLO12</td>
+                            <td></td>
+                            <td>N/A</td>
+                            <td></td>
+                            <td>Group evaluation (see Assesstment Matrix sheet in materials for teacher)
+<br>By instructor</td>
+                            <td></td>
+                        </tr>
+                        <tr>
+                            <td style="text-align: center;">4</td>
+                            <td>On-going Assessment: Methods, Analysis and evaluation</td>
+                            <td>
+
+                                on-going
+                            </td>
+                            <td>1</td>
+                            <td>
+10.0%                            </td>
+                            <td>
+&gt;0                            </td>
+                            <td>During the Project Progress</td>
+                            <td>CLO3, CLO4, CLO6, CLO7, CLO12</td>
+                            <td></td>
+                            <td>N/A</td>
+                            <td></td>
+                            <td>Group evaluation (see Assesstment Matrix sheet in materials for teacher)
+<br>By instructor</td>
+                            <td></td>
+                        </tr>
+                        <tr>
+                            <td style="text-align: center;">5</td>
+                            <td>On-going Assessment: Project Introduction</td>
+                            <td>
+
+                                on-going
+                            </td>
+                            <td>1</td>
+                            <td>
+5.0%                            </td>
+                            <td>
+&gt;0                            </td>
+                            <td>During the Project Progress</td>
+                            <td>CLO3, CLO4, CLO12</td>
+                            <td></td>
+                            <td>N/A</td>
+                            <td></td>
+                            <td>Group evaluation (see Assesstment Matrix sheet in materials for teacher)
+<br>By instructor</td>
+                            <td></td>
+                        </tr>
+                        <tr>
+                            <td style="text-align: center;">6</td>
+                            <td>On-going Assessment: Project Management Plan</td>
+                            <td>
+
+                                on-going
+                            </td>
+                            <td>1</td>
+                            <td>
+5.0%                            </td>
+                            <td>
+&gt;0                            </td>
+                            <td>During the Project Progress</td>
+                            <td>CLO6, CLO12</td>
+                            <td></td>
+                            <td>N/A</td>
+                            <td></td>
+                            <td>Group evaluation (see Assesstment Matrix sheet in materials for teacher)
+<br>By instructor</td>
+                            <td></td>
+                        </tr>
+                        <tr>
+                            <td style="text-align: center;">7</td>
+                            <td>On-going Assessment: Results and Discussion</td>
+                            <td>
+
+                                on-going
+                            </td>
+                            <td>1</td>
+                            <td>
+10.0%                            </td>
+                            <td>
+&gt;0                            </td>
+                            <td>During the Project Progress</td>
+                            <td>CLO5, CLO6, CLO7, CLO9</td>
+                            <td></td>
+                            <td>N/A</td>
+                            <td></td>
+                            <td>Group evaluation (see Assesstment Matrix sheet in materials for teacher)
+<br>By instructor</td>
+                            <td></td>
+                        </tr>
+                        <tr>
+                            <td style="text-align: center;">8</td>
+                            <td>On-going Assessment: Review Related Works and Bibliograph</td>
+                            <td>
+
+                                on-going
+                            </td>
+                            <td>1</td>
+                            <td>
+10.0%                            </td>
+                            <td>
+&gt;0                            </td>
+                            <td>During the Project Progress</td>
+                            <td>CLO3, CLO7, CLO8, CLO9, CLO12</td>
+                            <td></td>
+                            <td>N/A</td>
+                            <td></td>
+                            <td>Group evaluation (see Assesstment Matrix sheet in materials for teacher)
+<br>By instructor</td>
+                            <td></td>
+                        </tr>
+                </tbody>
+            </table>
+        <br>
+</div>
+
+<script src="/bundles/customjs"></script>
+<script>
+    $(document).ready(() => {
+        if ($("tbody tr a.ContainSLink").toArray().length == 0) {
+            $("#btnDownloadAllStudentMaterial").prop("disabled", true);
+        } else {
+            $("#btnDownloadAllStudentMaterial").prop("disabled", false);
+        }
+    });
+
+    function downloadLoop(i, urls) {
+        setTimeout(() => {
+            urls[i].click();
+            i++;
+            if (i < urls.length) {
+                downloadLoop(i, urls);
+            }
+        }, 10456);
+    }
+
+    $('#btnDownloadAllStudentMaterial').on('click', function (e) {
+        e.preventDefault();
+        var downloadLinks = $("tbody tr a.ContainSLink").toArray();
+        var result = confirm("Do you want to download all materials??");
+        if (result) {
+            downloadLoop(0, downloadLinks);
+        }
+    });
+
+    if (window.history.replaceState) {
+        window.history.replaceState(null, null, window.location.href);
+    }
+</script>
+
+            </div>
+        </div>
+    </div>
+
+    <script>
+        $('#language').change(function () {
+            $.ajax({
+                url: '/Language', // comma here instead of semicolon
+                data: { language: $(this).val() },
+                success: function () {
+                    window.location.reload();
+                }
+
+            });
+        });
+        (function loadLanguage() {
+            let dt = JSON.stringify({
+                'ssName': 'language'
+            });
+            $.ajax({
+                contentType: 'application/json; charset=utf-8',
+                dataType: 'json',
+                type: 'POST',
+                url: '/ajax/getCookie/',
+                data: dt
+            }).done(function (data) {
+                $('#language').val(data);
+            })
+        })();
+
+        function showToastRedirectPage(type, mess) {
+            window.localStorage.setItem('typeToast', type);
+            window.localStorage.setItem('messToast', mess);
+        }
+
+        $(document).ready(function () {
+            // Animated title effect - Marquee style
+            function animateTitle() {
+                const title = document.getElementById('pageTitle');
+                const originalText = 'FPT University Learning Materials';
+                const separator = ' • ';
+                const fullText = originalText + separator + originalText + separator;
+
+                let position = 0;
+                let animationId;
+                const speed = 300; // milliseconds between each character shift
+                const maxPosition = originalText.length + separator.length;
+
+                function updateTitle() {
+                    const displayText = fullText.substring(position, position + originalText.length);
+                    title.textContent = displayText;
+
+                    position++;
+                    if (position >= maxPosition) {
+                        position = 0;
+                    }
+
+                    // Continue animation
+                    animationId = setTimeout(updateTitle, speed);
+                }
+
+                // Check if user prefers reduced motion
+                if (window.matchMedia && window.matchMedia('(prefers-reduced-motion: reduce)').matches) {
+                    // Don't animate if user prefers reduced motion
+                    title.textContent = originalText;
+                    return;
+                }
+
+                // Start the animation
+                updateTitle();
+
+                // Pause animation when tab is not visible (performance optimization)
+                document.addEventListener('visibilitychange', function () {
+                    if (document.hidden) {
+                        clearTimeout(animationId);
+                    } else {
+                        updateTitle();
+                    }
+                });
+            }
+
+            // Start title animation
+            animateTitle();
+
+            toastr.options = {
+                "closeButton": true,
+                "newestOnTop": false,
+                "progressBar": true,
+                "positionClass": "toast-top-right",
+                "preventDuplicates": false,
+                "onclick": null,
+                "showDuration": "300",
+                "hideDuration": "1000",
+                "timeOut": "5000",
+                "extendedTimeOut": "1000",
+                "showEasing": "swing",
+                "hideEasing": "linear",
+                "showMethod": "fadeIn",
+                "hideMethod": "fadeOut"
+            }
+
+
+            if (window.localStorage.getItem('typeToast') == 1) {
+                toastr.success(window.localStorage.getItem('messToast'));
+                window.localStorage.setItem('typeToast', 0);
+            }
+            if (window.localStorage.getItem('typeToast') == 2) {
+                toastr.error(window.localStorage.getItem('messToast'));
+                window.localStorage.setItem('typeToast', 0);
+            }
+
+            $(".preventDefault").click(function (event) {
+                event.preventDefault();
+            });
+            $.get("/ajax/permission", function (data) {
+                loadData(data)
+            })
+
+            $('#sidebarCollapse').on('click', function () {
+                $('#sidebar').toggleClass('sb-active');
+            });
+
+        });
+        function loadData(data) {
+            if (typeof (data) != 'string') {
+                $("#lblRole").html(data[0]);
+                $("#lblName").html(data[1]);
+                $("#lblEmail").html(data[2]);
+                $("#lblEduLevel").html(data[4]);
+                if (data[0] == 'Syl Reviewer' || data[0] == 'Syl Designer') {
+                    data[3] = data[3].replace('~', '..');
+                    $("#pnlEmail").css({ display: 'none' });
+                } else {
+                    $("#pnlEmail").css({ display: '' });
+                }
+                $("#ProfileImage").attr({ src: data[3] });
+                //Why index is 4???
+                //if (data[4]) {
+                //    $("#pnlEmail").css({ display: 'none' });
+                //} else {
+                //    $("#lblEmail").html(data[2]);
+                //}
+                if (data[0] === "Head") {
+                    $("#panelStaffFeatures").css({ display: 'none' });
+                } else if (data[0] === "Staff") {
+                    $("#panelHeadFeatures").css({ display: 'none' });
+                } else {
+                    $("#panelStaffFeatures").css({ display: 'none' });
+                    $("#panelHeadFeatures").css({ display: 'none' });
+                    $("#sidebarCollapse").css({ display: 'none' });
+                }
+            } else {
+                window.location.replace(data);
+            }
+        }
+        $('#lbtnSignOut').click(() => {
+            // Check if user is logged in with FEID
+            var isLoginWithFEID = true;
+
+            if (isLoginWithFEID) {
+                // For FEID users, redirect to proper logout endpoint
+                // This will clear all authentication and redirect to regular login
+                window.location.href = '/Home/LogoutWithFEId';
+            } else {
+                // For regular users, use AJAX signout
+                $.get("/ajax/signOut", function (data) {
+                    window.location.replace('/Home/Login');
+                })
+            }
+        })
+        $('#lbtnAlumni').click(() => {
+            $.get("/UserAlumni/StudentAlumni", function (data) {
+
+            })
+        })
+
+        // Handle button clicks for accessibility
+        $('#lbtnSignOut').on('keydown', function (e) {
+            if (e.key === 'Enter' || e.key === ' ') {
+                e.preventDefault();
+                $(this).click();
+            }
+        });
+
+        $('#lbtnAlumni').on('keydown', function (e) {
+            if (e.key === 'Enter' || e.key === ' ') {
+                e.preventDefault();
+                $(this).click();
+            }
+        });
+
+    </script>
+<script type="module" src="https://static.cloudflareinsights.com/beacon.min.js/v31edd6df95cf4e85bb4c19e7a9bdbcba1788362987495" integrity="sha512-iIg7k2xntmwu6/uSb5tpc/hySgZc4eoL31yB29W6tJFo2akwjPWcEqnCEdJvGexCL0KEQwVYv5BlowfhVz26hg==" data-cf-beacon="{&quot;version&quot;:&quot;2024.11.0&quot;,&quot;token&quot;:&quot;56c6dd7e4ecf4947aa540f48289e45af&quot;,&quot;spa&quot;:2}" crossorigin="anonymous"></script>
+
+
+
+</body></html>

@@ -1,0 +1,307 @@
+{
+  "syllabus_id": 12536,
+  "subject_code": "ANO301c",
+  "subject_name": "Visual development for digital design_Phát triển hình ảnh cho thiết kế kỹ thuật số",
+  "syllabus_name": "Visual development for digital design_Phát triển hình ảnh cho thiết kế kỹ thuật số",
+  "credits": 3,
+  "degree_level": "Bachelor",
+  "time_allocation": "Study hour (150h) = 49h Online study + 1h final exam+ 3h offline + 97h self-study",
+  "prerequisite": "None",
+  "general_information": {
+    "Syllabus ID": "12536",
+    "Syllabus Name": "Visual development for digital design_Phát triển hình ảnh cho thiết kế kỹ thuật số",
+    "Course Name English": "Visual development for digital design",
+    "Subject Code": "ANO301c",
+    "Learning-Teaching Method": "online",
+    "NoCredit": "3",
+    "Degree Level": "Bachelor",
+    "Time Allocation": "Study hour (150h) = 49h Online study + 1h final exam+ 3h offline + 97h self-study",
+    "Pre-Requisite": "None",
+    "Description": "This Specialization lays a primary foundation for experimentation and exploration of video game design, story, character development, and winning gameplay before programming begins. These four courses emphasize the self-reliance and personal expression of the gaming artist, and encourage you to take conceptual risks and develop new modes of expression and form through gaming. In the final Capstone Project, you’ll put your creative skills to work by generating an engaging game design document for a personal game project, outlining the conceptual, narrative and aesthetic elements of your game.",
+    "StudentTasks": "1. Join the online course (spec.) when being invited by the admin. 2. Enroll in each MOOC of spec., regularly study MOOCs at least 5hrs/week by watching videos, reading materials, taking quizzes, doing assignments... as required 3. Respect the Coursera Code of Conduct, at https://learner.coursera.help/hc/en-us/articles/208280036-Coursera-Code-of-Conduct 3. Keep online learning progress promptly (bonus will be awarded) 4. Communicate and discuss in forum 5. Attend off-line sessions in the Campus (Optional) 6. Must complete all MOOCs of spec. with certification in order to take the Final Exam at Campus",
+    "Tools": "",
+    "Scoring Scale": "10",
+    "DecisionNo MM/dd/yyyy": "359/QĐ-ĐHFPT dated 04/09/2025",
+    "IsApproved": "True",
+    "Note": "1) Ongoing assessment: Students who complete all MOOCs before the course deadline will receive 1 bonus point; otherwise, no bonus point will be awarded. 2) Final Exam (Presentation) 3) Final Result (TE) =min (10, (TE+Bonus)) 4) Completion Criteria: TE>=4 and FR>=5",
+    "Is Scored": "True",
+    "MinAvgMarkToPass": "5",
+    "IsActive": "True",
+    "ApprovedDate": "4/9/2025"
+  },
+  "active": true,
+  "approved": true,
+  "decision": "359/QĐ-ĐHFPT dated 04/09/2025",
+  "description": "This Specialization lays a primary foundation for experimentation and exploration of video game design, story, character development, and winning gameplay before programming begins. These four courses emphasize the self-reliance and personal expression of the gaming artist, and encourage you to take conceptual risks and develop new modes of expression and form through gaming. In the final Capstone Project, you’ll put your creative skills to work by generating an engaging game design document for a personal game project, outlining the conceptual, narrative and aesthetic elements of your game.",
+  "learning_outcomes": [
+    {
+      "No.": "1",
+      "CLO Name": "CLO1",
+      "CLO Details": "Understand primary concepts of gaming, and an exploration of how these basic concepts affect the way gamers interact with our games."
+    },
+    {
+      "No.": "2",
+      "CLO Name": "CLO2",
+      "CLO Details": "Understand what defines a “game” and the mechanics and rules behind different types of games."
+    },
+    {
+      "No.": "3",
+      "CLO Name": "CLO3",
+      "CLO Details": "Examine how storytelling acts as a vital mechanism for driving video gameplay forward."
+    },
+    {
+      "No.": "4",
+      "CLO Name": "CLO4",
+      "CLO Details": "Understand game story flows and the strategic elements of gameplay."
+    },
+    {
+      "No.": "5",
+      "CLO Name": "CLO5",
+      "CLO Details": "Investigate key components of environment and level design."
+    },
+    {
+      "No.": "6",
+      "CLO Name": "CLO6",
+      "CLO Details": "Create successful character designs that can be applied to video games"
+    },
+    {
+      "No.": "7",
+      "CLO Name": "CLO7",
+      "CLO Details": "Gameplay & game demo"
+    }
+  ],
+  "assessments": [
+    {
+      "No.": "1",
+      "Category": "TE",
+      "Type": "Final exam",
+      "Part": "1",
+      "Weight": "100.0%",
+      "Completion Criteria": "4",
+      "Duration": "60'",
+      "CLO": "All LOs",
+      "Question Type": "essay",
+      "No Question": "",
+      "Knowledge and Skill": "All studied courses.",
+      "Grading Guide": "A student is writing an essay, describing the creative process of how a game works based on the available data of an exam. This includes a description of the characters' features, the development of the storyline, and how the game operates",
+      "Note": "Students are not allowed to use document/information in any form in exam room"
+    }
+  ],
+  "schedule": [
+    {
+      "Session": "1",
+      "Topic": "Introduction to the online course ANO301c (Off-line 1.5h) Course overview & introduction Overview of course assessment Module 1: Introduction to Game Design - The Simplest Games - Rules and Discovery - Tell a Story - The Friend and the Enemy",
+      "Learning-Teaching Type": "Online, offline",
+      "LO": "CLO1 CLO2 CLO3",
+      "ITU": "I,T",
+      "Student Materials": "Mooc 1: Introduction to Game Design",
+      "S-Download": "",
+      "Student's Tasks": "- Enroll to the spec on Coursera for FPT University Platform - Watch all videos, read all materials in the module",
+      "URLs": ""
+    },
+    {
+      "Session": "2",
+      "Topic": "Module 2: Story and Narrative Development for Video Games (1) - An Introduction to Story - Game Story Structure",
+      "Learning-Teaching Type": "Online",
+      "LO": "CLO1 CLO2 CLO3",
+      "ITU": "I,T",
+      "Student Materials": "Mooc 2: Story and Narrative Development for Video Games",
+      "S-Download": "",
+      "Student's Tasks": "- Watch all videos, read all materials in the module - Finish Final Project Prep Assignment",
+      "URLs": ""
+    },
+    {
+      "Session": "3",
+      "Topic": "Module 2: Story and Narrative Development for Video Games (2) - Story Workshop - From Story to Game",
+      "Learning-Teaching Type": "Online",
+      "LO": "CLO1 CLO2 CLO3",
+      "ITU": "I,T",
+      "Student Materials": "Mooc 2: Story and Narrative Development for Video Games",
+      "S-Download": "",
+      "Student's Tasks": "- Watch all videos, read all materials in the module - Finish Final Project Prep Assignment",
+      "URLs": ""
+    },
+    {
+      "Session": "4",
+      "Topic": "Module 3: World Design for Video Games - Introduction to World Design - Do Your Research",
+      "Learning-Teaching Type": "Online",
+      "LO": "CLO1 CLO4 CLO5",
+      "ITU": "I,T",
+      "Student Materials": "Mooc 3: World Design for Video Games",
+      "S-Download": "",
+      "Student's Tasks": "- Watch all videos, read all materials in the module - Finish Final Project Prep Assignment",
+      "URLs": ""
+    },
+    {
+      "Session": "5",
+      "Topic": "Module 3: World Design for Video Games - The Way You Move - A Whole World Online Deadline of Course 3",
+      "Learning-Teaching Type": "Online",
+      "LO": "CLO1 CLO4 CLO5",
+      "ITU": "I,T",
+      "Student Materials": "Mooc 3: World Design for Video Games",
+      "S-Download": "",
+      "Student's Tasks": "- Watch all videos, read all materials in the module - Finish Final Project Prep Assignment",
+      "URLs": ""
+    },
+    {
+      "Session": "6",
+      "Topic": "Module 3: World Design for Video Games - The Way You Move - A Whole World",
+      "Learning-Teaching Type": "Online",
+      "LO": "CLO1 CLO4 CLO5",
+      "ITU": "I,T",
+      "Student Materials": "Mooc 3: World Design for Video Games",
+      "S-Download": "",
+      "Student's Tasks": "- Watch all videos, read all materials in the module - Finish Final Project Prep Assignment",
+      "URLs": ""
+    },
+    {
+      "Session": "7",
+      "Topic": "Module 4: Character Design for Video Games - About Character - Technical Challenges",
+      "Learning-Teaching Type": "Online",
+      "LO": "CLO2 CLO6",
+      "ITU": "I,T",
+      "Student Materials": "Mooc 4: Character Design for Video Games",
+      "S-Download": "",
+      "Student's Tasks": "- Watch all videos, read all materials in the module - Finish Final Project Prep Assignment",
+      "URLs": ""
+    },
+    {
+      "Session": "8",
+      "Topic": "Module 4: Character Design for Video Games - Design with Purpose - Find Your Character",
+      "Learning-Teaching Type": "Online",
+      "LO": "CLO2 CLO6",
+      "ITU": "I,T",
+      "Student Materials": "Mooc 4: Character Design for Video Games",
+      "S-Download": "",
+      "Student's Tasks": "- Watch all videos, read all materials in the module - Finish Final Project Prep Assignment",
+      "URLs": ""
+    },
+    {
+      "Session": "9",
+      "Topic": "Module 5: Game Design Document: Define the Art & Concepts - Ideation - Prototyping and Playtesting - Prototyping and Playtesting continued",
+      "Learning-Teaching Type": "Online",
+      "LO": "CLO1, CLO2, CLO3, CLO4, CLO5, CLO6, CLO7",
+      "ITU": "I,T",
+      "Student Materials": "Mooc 5: Game Design Document: Define the Art & Concepts",
+      "S-Download": "",
+      "Student's Tasks": "- Watch all videos, read all materials in the module - Finish Final Project Prep Assignment",
+      "URLs": ""
+    },
+    {
+      "Session": "10",
+      "Topic": "Module 5: Game Design Document: Define the Art & Concepts - Visualization - Visualization continued",
+      "Learning-Teaching Type": "Online",
+      "LO": "CLO1, CLO2, CLO3, CLO4, CLO5, CLO6, CLO7",
+      "ITU": "I,T",
+      "Student Materials": "Mooc 5: Game Design Document: Define the Art & Concepts",
+      "S-Download": "",
+      "Student's Tasks": "- Watch all videos, read all materials in the module - Finish Final Project Prep Assignment",
+      "URLs": ""
+    },
+    {
+      "Session": "11",
+      "Topic": "Module 5: Game Design Document: Define the Art & Concepts - Presentation - Final Review",
+      "Learning-Teaching Type": "Online",
+      "LO": "CLO1, CLO2, CLO3, CLO4, CLO5, CLO6, CLO8",
+      "ITU": "I,T",
+      "Student Materials": "Mooc 5: Game Design Document: Define the Art & Concepts",
+      "S-Download": "",
+      "Student's Tasks": "- Watch all videos, read all materials in the module - Finish Final Project Prep Assignment",
+      "URLs": ""
+    },
+    {
+      "Session": "12",
+      "Topic": "Review MOOC 1,2,3,4,5 Deadline of Coursera Completion: End of Friday of the week.",
+      "Learning-Teaching Type": "Offline",
+      "LO": "CLO1, CLO2, CLO3, CLO4, CLO5, CLO6, CLO7",
+      "ITU": "I,T",
+      "Student Materials": "Game Design: Art and Concepts Specialization",
+      "S-Download": "",
+      "Student's Tasks": "- All Students should participate in review slot (if any question)",
+      "URLs": ""
+    }
+  ],
+  "constructive_questions": [],
+  "materials": [
+    {
+      "No.": "1",
+      "Material Description": "https://www.coursera.org/learn/game-design?specialization=game-design",
+      "Author": "",
+      "Publisher": "Coursera",
+      "Published Date": "",
+      "Edition": "",
+      "ISBN": "",
+      "Is Main Material": "True",
+      "Is Hard Copy": "False",
+      "Is Online": "True",
+      "Note": "Mooc 1: Introduction to Game Design"
+    },
+    {
+      "No.": "2",
+      "Material Description": "https://www.coursera.org/learn/video-game-story?specialization=game-design",
+      "Author": "",
+      "Publisher": "Coursera",
+      "Published Date": "",
+      "Edition": "",
+      "ISBN": "",
+      "Is Main Material": "True",
+      "Is Hard Copy": "False",
+      "Is Online": "True",
+      "Note": "Mooc 2: Story and Narrative Development for Video Games"
+    },
+    {
+      "No.": "3",
+      "Material Description": "https://www.coursera.org/learn/video-game-world?specialization=game-design",
+      "Author": "",
+      "Publisher": "Coursera",
+      "Published Date": "",
+      "Edition": "",
+      "ISBN": "",
+      "Is Main Material": "True",
+      "Is Hard Copy": "False",
+      "Is Online": "True",
+      "Note": "Mooc 3: World Design for Video Games"
+    },
+    {
+      "No.": "4",
+      "Material Description": "https://www.coursera.org/learn/game-character-design?specialization=game-design",
+      "Author": "",
+      "Publisher": "Coursera",
+      "Published Date": "",
+      "Edition": "",
+      "ISBN": "",
+      "Is Main Material": "True",
+      "Is Hard Copy": "False",
+      "Is Online": "True",
+      "Note": "Mooc 4: Character Design for Video Games"
+    },
+    {
+      "No.": "5",
+      "Material Description": "https://www.coursera.org/learn/game-design-document?specialization=game-design",
+      "Author": "",
+      "Publisher": "Coursera",
+      "Published Date": "",
+      "Edition": "",
+      "ISBN": "",
+      "Is Main Material": "True",
+      "Is Hard Copy": "False",
+      "Is Online": "True",
+      "Note": "Mooc 5: Game Design Document: Define the Art & Concepts"
+    },
+    {
+      "No.": "6",
+      "Material Description": "https://www.coursera.org/specializations/game-design",
+      "Author": "",
+      "Publisher": "Coursera",
+      "Published Date": "",
+      "Edition": "",
+      "ISBN": "",
+      "Is Main Material": "True",
+      "Is Hard Copy": "False",
+      "Is Online": "True",
+      "Note": "Game Design: Art and Concepts Specialization (49h)"
+    }
+  ],
+  "source_path": "data/raw/syllabi/12536.html",
+  "id": "syllabus:12536"
+}

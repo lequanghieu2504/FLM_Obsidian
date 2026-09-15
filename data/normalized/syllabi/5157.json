@@ -1,0 +1,1045 @@
+{
+  "syllabus_id": 5157,
+  "subject_code": "IAA301",
+  "subject_name": "Intelligence Analysics",
+  "syllabus_name": "Intelligence Analysis_Phân tích thông tin",
+  "credits": 3,
+  "degree_level": "Bachelor",
+  "time_allocation": "30 slots (1 slot = 90')",
+  "prerequisite": "Students in IA, the period of specialized, fully attended the courses of the base period.",
+  "general_information": {
+    "Syllabus ID": "5157",
+    "Syllabus Name": "Intelligence Analysis_Phân tích thông tin",
+    "Course Name English": "",
+    "Subject Code": "IAA301",
+    "Learning-Teaching Method": "",
+    "NoCredit": "3",
+    "Degree Level": "Bachelor",
+    "Time Allocation": "30 slots (1 slot = 90')",
+    "Pre-Requisite": "Students in IA, the period of specialized, fully attended the courses of the base period.",
+    "Description": "The course focuses on process intelligence gathering and intelligence analysis with target-centric approach method. Describe some ways to increase the effectiveness of the of predict analysis. The course provides a general guide to help students understand the technical intelligence analysis. Assessment scheme: 1. On-going assessment: + Quiz: 4 quizzes, 20% (5% per each) + Project review: 10% + Assignment: 30% + Presentation: 10% 2. Final exam: 30% 3. Total: 100% Evaluation criteria: Completion Criteria: Every on-going assessment component > 0, Final Result >=5 & Final Exam Score >=4",
+    "StudentTasks": "",
+    "Tools": "1. Jigsaw: http://www.cc.gatech.edu/gvu/ii/jigsaw/ 2. NodeXL: nodexl.codeplex.com 3. Microsoft Excel 2013",
+    "Scoring Scale": "10",
+    "DecisionNo MM/dd/yyyy": "1485/QĐ-ĐH-FPT dated 12/31/2021",
+    "IsApproved": "True",
+    "Note": "",
+    "Is Scored": "True",
+    "MinAvgMarkToPass": "5",
+    "IsActive": "True",
+    "ApprovedDate": "12/31/2021"
+  },
+  "active": true,
+  "approved": true,
+  "decision": "1485/QĐ-ĐH-FPT dated 12/31/2021",
+  "description": "The course focuses on process intelligence gathering and intelligence analysis with target-centric approach method. Describe some ways to increase the effectiveness of the of predict analysis. The course provides a general guide to help students understand the technical intelligence analysis. Assessment scheme: 1. On-going assessment: + Quiz: 4 quizzes, 20% (5% per each) + Project review: 10% + Assignment: 30% + Presentation: 10% 2. Final exam: 30% 3. Total: 100% Evaluation criteria: Completion Criteria: Every on-going assessment component > 0, Final Result >=5 & Final Exam Score >=4",
+  "learning_outcomes": [],
+  "assessments": [
+    {
+      "No.": "1",
+      "Category": "Assignment",
+      "Type": "on-going",
+      "Part": "1",
+      "Weight": "30.0%",
+      "Completion Criteria": ">0",
+      "Duration": "Option 1: N/A Option2: (For Constructivism Approach only): Follow lecturer's proposal",
+      "CLO": "",
+      "Question Type": "Option 1: N/A Option2: (For Constructivism Approach only): Follow lecturer's proposal",
+      "No Question": "Option 1: N/A Option2: (For Constructivism Approach only): Follow lecturer's proposal",
+      "Knowledge and Skill": "",
+      "Grading Guide": "",
+      "Note": ""
+    },
+    {
+      "No.": "2",
+      "Category": "Presentation",
+      "Type": "on-going",
+      "Part": "1",
+      "Weight": "10.0%",
+      "Completion Criteria": ">0",
+      "Duration": "Option 1: N/A Option2: (For Constructivism Approach only): Follow lecturer's proposal",
+      "CLO": "",
+      "Question Type": "Option 1: N/A Option2: (For Constructivism Approach only): Follow lecturer's proposal",
+      "No Question": "Option 1: N/A Option2: (For Constructivism Approach only): Follow lecturer's proposal",
+      "Knowledge and Skill": "",
+      "Grading Guide": "",
+      "Note": ""
+    },
+    {
+      "No.": "3",
+      "Category": "Project Review",
+      "Type": "on-going",
+      "Part": "1",
+      "Weight": "10.0%",
+      "Completion Criteria": ">0",
+      "Duration": "Option 1: N/A Option2: (For Constructivism Approach only): Follow lecturer's proposal",
+      "CLO": "",
+      "Question Type": "Option 1: N/A Option2: (For Constructivism Approach only): Follow lecturer's proposal",
+      "No Question": "Option 1: N/A Option2: (For Constructivism Approach only): Follow lecturer's proposal",
+      "Knowledge and Skill": "",
+      "Grading Guide": "",
+      "Note": ""
+    },
+    {
+      "No.": "4",
+      "Category": "Quiz",
+      "Type": "on-going",
+      "Part": "4",
+      "Weight": "20.0%",
+      "Completion Criteria": ">0",
+      "Duration": "Option 1: N/A Option2: (For Constructivism Approach only): Follow lecturer's proposal",
+      "CLO": "",
+      "Question Type": "Option 1: N/A Option2: (For Constructivism Approach only): Follow lecturer's proposal",
+      "No Question": "Option 1: N/A Option2: (For Constructivism Approach only): Follow lecturer's proposal",
+      "Knowledge and Skill": "",
+      "Grading Guide": "",
+      "Note": ""
+    },
+    {
+      "No.": "5",
+      "Category": "Final exam",
+      "Type": "Final exam",
+      "Part": "1",
+      "Weight": "30.0%",
+      "Completion Criteria": "4",
+      "Duration": "",
+      "CLO": "",
+      "Question Type": "",
+      "No Question": "",
+      "Knowledge and Skill": "",
+      "Grading Guide": "",
+      "Note": ""
+    }
+  ],
+  "schedule": [
+    {
+      "Session": "1",
+      "Topic": "Giới thiệu môn học",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO1990",
+      "ITU": "",
+      "Student Materials": "Robert M. Clark - Intelligence analysis : a target-centric approach, Fourth Edition - CQ Press, 2013. ISBN 978-1-4522-0612-7",
+      "S-Download": "IAA301",
+      "Student's Tasks": "Introducing the subject, mode of teaching and learning, course evaluation criterias. Introduction to the nature of Intelligence.",
+      "URLs": ""
+    },
+    {
+      "Session": "2",
+      "Topic": "The Intelligence Process",
+      "Learning-Teaching Type": "Offline",
+      "LO": "Applying",
+      "ITU": "",
+      "Student Materials": "Robert M. Clark - Intelligence analysis : a target-centric approach, Fourth Edition - CQ Press, 2013. ISBN 978-1-4522-0612-7",
+      "S-Download": "IAA301",
+      "Student's Tasks": "Explain the process of intelligence. Introduce to the traditional intelligence cycle and the target-centric process. Classification of targets: complex systems and networks.",
+      "URLs": ""
+    },
+    {
+      "Session": "3",
+      "Topic": "Defining the Intelligence Problem",
+      "Learning-Teaching Type": "Offline",
+      "LO": "Understanding",
+      "ITU": "",
+      "Student Materials": "Robert M. Clark - Intelligence analysis : a target-centric approach, Fourth Edition - CQ Press, 2013. ISBN 978-1-4522-0612-7",
+      "S-Download": "",
+      "Student's Tasks": "Defining the intelligence problems (customers, product, target, …)",
+      "URLs": ""
+    },
+    {
+      "Session": "4",
+      "Topic": "Defining the Intelligence Problem",
+      "Learning-Teaching Type": "Offline",
+      "LO": "Applying",
+      "ITU": "",
+      "Student Materials": "Robert M. Clark - Intelligence analysis : a target-centric approach, Fourth Edition - CQ Press, 2013. ISBN 978-1-4522-0612-7",
+      "S-Download": "",
+      "Student's Tasks": "Explain the approach method Strategies- to-Task and counterintelligence problem.",
+      "URLs": ""
+    },
+    {
+      "Session": "5",
+      "Topic": "An Analysis Approach to the Target",
+      "Learning-Teaching Type": "Offline",
+      "LO": "Understanding",
+      "ITU": "",
+      "Student Materials": "Robert M. Clark - Intelligence analysis : a target-centric approach, Fourth Edition - CQ Press, 2013. ISBN 978-1-4522-0612-7",
+      "S-Download": "",
+      "Student's Tasks": "Explain the analysis approach to the target. Explain the concept of a model and the method using target models for analysis.",
+      "URLs": ""
+    },
+    {
+      "Session": "6",
+      "Topic": "An Analysis Approach to the Target",
+      "Learning-Teaching Type": "Offline",
+      "LO": "Applying",
+      "ITU": "",
+      "Student Materials": "Robert M. Clark - Intelligence analysis : a target-centric approach, Fourth Edition - CQ Press, 2013. ISBN 978-1-4522-0612-7",
+      "S-Download": "",
+      "Student's Tasks": "Introduce to the counterintelligence analysis model and the target model combinations.",
+      "URLs": ""
+    },
+    {
+      "Session": "7",
+      "Topic": "The Analytic Spectrum",
+      "Learning-Teaching Type": "Offline",
+      "LO": "Understanding",
+      "ITU": "",
+      "Student Materials": "Robert M. Clark - Intelligence analysis : a target-centric approach, Fourth Edition - CQ Press, 2013. ISBN 978-1-4522-0612-7",
+      "S-Download": "",
+      "Student's Tasks": "Presentation of the analytic spectrum, shows the results of the analysis. The indications and warnings may result from information analysis.",
+      "URLs": ""
+    },
+    {
+      "Session": "8",
+      "Topic": "Overview of Models in Intelligence",
+      "Learning-Teaching Type": "Offline",
+      "LO": "Understanding",
+      "ITU": "",
+      "Student Materials": "Robert M. Clark - Intelligence analysis : a target-centric approach, Fourth Edition - CQ Press, 2013. ISBN 978-1-4522-0612-7",
+      "S-Download": "",
+      "Student's Tasks": "Quiz 1 Explain the methods to create a conceptual model. Introduce the generic models: Lists, Curves, Comparative Modeling, Pattern Models, Relationship Models, Profiles, Process Models, Simulation Models.",
+      "URLs": ""
+    },
+    {
+      "Session": "9",
+      "Topic": "Overview of Models in Intelligence",
+      "Learning-Teaching Type": "Offline",
+      "LO": "Applying",
+      "ITU": "",
+      "Student Materials": "Robert M. Clark - Intelligence analysis : a target-centric approach, Fourth Edition - CQ Press, 2013. ISBN 978-1-4522-0612-7",
+      "S-Download": "",
+      "Student's Tasks": "Introduce the combination models: Geospatial Models, Human Terrain Models, Space-Time Models. Introduce the Geographic Profiling, a kind of the Geospatial Model.",
+      "URLs": ""
+    },
+    {
+      "Session": "10",
+      "Topic": "Sources of Intelligence Information",
+      "Learning-Teaching Type": "Offline",
+      "LO": "Understanding",
+      "ITU": "",
+      "Student Materials": "Robert M. Clark - Intelligence analysis : a target-centric approach, Fourth Edition - CQ Press, 2013. ISBN 978-1-4522-0612-7",
+      "S-Download": "",
+      "Student's Tasks": "Classification the sources of intellignece information. Literal sources: Open Source, Human Intelligence, Communications Intelligence, Cyber Collection.",
+      "URLs": ""
+    },
+    {
+      "Session": "11",
+      "Topic": "Sources of Intelligence Information",
+      "Learning-Teaching Type": "Offline",
+      "LO": "Applying",
+      "ITU": "",
+      "Student Materials": "Robert M. Clark - Intelligence analysis : a target-centric approach, Fourth Edition - CQ Press, 2013. ISBN 978-1-4522-0612-7",
+      "S-Download": "",
+      "Student's Tasks": "Nonliteral sources: Remote and In Situ Sensing, Imaging and Spectral Sensing, Passive Radiofrequency Intelligence, Radar Intelligence, Geophysical and Nuclear Intelligence, Materiel and Materials Collection, Biometrics.",
+      "URLs": ""
+    },
+    {
+      "Session": "12",
+      "Topic": "Evaluating and Collating Data",
+      "Learning-Teaching Type": "Offline",
+      "LO": "Understanding",
+      "ITU": "",
+      "Student Materials": "Robert M. Clark - Intelligence analysis : a target-centric approach, Fourth Edition - CQ Press, 2013. ISBN 978-1-4522-0612-7",
+      "S-Download": "",
+      "Student's Tasks": "Explain the evaluating and collating data. Evaluating evidence using evaluating the source and evaluating the communications channel through which the information arrived.",
+      "URLs": ""
+    },
+    {
+      "Session": "13",
+      "Topic": "Evaluating and Collating Data",
+      "Learning-Teaching Type": "Offline",
+      "LO": "Understanding",
+      "ITU": "",
+      "Student Materials": "Robert M. Clark - Intelligence analysis : a target-centric approach, Fourth Edition - CQ Press, 2013. ISBN 978-1-4522-0612-7",
+      "S-Download": "",
+      "Student's Tasks": "Evaluating by using combining evidence, collating between them, considering the degree of convergent and divergent. Project (deployment - guide)",
+      "URLs": ""
+    },
+    {
+      "Session": "14",
+      "Topic": "Collection Strategies",
+      "Learning-Teaching Type": "Offline",
+      "LO": "Applying",
+      "ITU": "",
+      "Student Materials": "Robert M. Clark - Intelligence analysis : a target-centric approach, Fourth Edition - CQ Press, 2013. ISBN 978-1-4522-0612-7",
+      "S-Download": "",
+      "Student's Tasks": "Introduce the collection strategies. Four steps to develop the collection strategies: 1. The Problem Breakdown and Target Model Relationship 2. Identifying Gaps",
+      "URLs": ""
+    },
+    {
+      "Session": "15",
+      "Topic": "Collection Strategies",
+      "Learning-Teaching Type": "Offline",
+      "LO": "Applying",
+      "ITU": "",
+      "Student Materials": "Robert M. Clark - Intelligence analysis : a target-centric approach, Fourth Edition - CQ Press, 2013. ISBN 978-1-4522-0612-7",
+      "S-Download": "",
+      "Student's Tasks": "3. Developing the Collection Strategy 4. Planning for Future Collection",
+      "URLs": ""
+    },
+    {
+      "Session": "16",
+      "Topic": "Denial, Deception, and Signaling",
+      "Learning-Teaching Type": "Offline",
+      "LO": "Understanding",
+      "ITU": "",
+      "Student Materials": "Robert M. Clark - Intelligence analysis : a target-centric approach, Fourth Edition - CQ Press, 2013. ISBN 978-1-4522-0612-7",
+      "S-Download": "",
+      "Student's Tasks": "Denial and deception (called D&D) are major weapons in the counterintelligence arsenal of a country or organization.",
+      "URLs": ""
+    },
+    {
+      "Session": "17",
+      "Topic": "Denial, Deception, and Signaling",
+      "Learning-Teaching Type": "Offline",
+      "LO": "Applying",
+      "ITU": "",
+      "Student Materials": "Robert M. Clark - Intelligence analysis : a target-centric approach, Fourth Edition - CQ Press, 2013. ISBN 978-1-4522-0612-7",
+      "S-Download": "",
+      "Student's Tasks": "Signaling is the opposite of D&D. It is the process of deliberately sending a message, usually to an opposing intelligence service. Recognizing and interpreting an opponent’s signals is one of the more difficult challenges an analyst must face.",
+      "URLs": ""
+    },
+    {
+      "Session": "18",
+      "Topic": "Analytic Methodologies",
+      "Learning-Teaching Type": "Offline",
+      "LO": "Applying",
+      "ITU": "",
+      "Student Materials": "Robert M. Clark - Intelligence analysis : a target-centric approach, Fourth Edition - CQ Press, 2013. ISBN 978-1-4522-0612-7",
+      "S-Download": "",
+      "Student's Tasks": "Quiz 2 Presented a large number of analytical methodologies are available to the analyst. Some of the most useful fall into the two broad categories of structured argumentation and alternative or competitive analysis.",
+      "URLs": ""
+    },
+    {
+      "Session": "19",
+      "Topic": "Predictive",
+      "Learning-Teaching Type": "Offline",
+      "LO": "Understanding",
+      "ITU": "",
+      "Student Materials": "Robert M. Clark - Intelligence analysis : a target-centric approach, Fourth Edition - CQ Press, 2013. ISBN 978-1-4522-0612-7",
+      "S-Download": "",
+      "Student's Tasks": "A third category of analytical methodologies, predictive methodologies, is disscused here.The highest form of intelligence analysis requires structured thinking that results in a prediction of what is likely to happen.",
+      "URLs": ""
+    },
+    {
+      "Session": "20",
+      "Topic": "Predictive",
+      "Learning-Teaching Type": "Offline",
+      "LO": "Understanding",
+      "ITU": "",
+      "Student Materials": "Robert M. Clark - Intelligence analysis : a target-centric approach, Fourth Edition - CQ Press, 2013. ISBN 978-1-4522-0612-7",
+      "S-Download": "",
+      "Student's Tasks": "Introduce the preditive approach. Intelligence scenarios, the result of preditive, are descriptions in story form of a future target model.",
+      "URLs": ""
+    },
+    {
+      "Session": "21",
+      "Topic": "Predictive Techniques",
+      "Learning-Teaching Type": "Offline",
+      "LO": "Understanding",
+      "ITU": "",
+      "Student Materials": "Robert M. Clark - Intelligence analysis : a target-centric approach, Fourth Edition - CQ Press, 2013. ISBN 978-1-4522-0612-7",
+      "S-Download": "",
+      "Student's Tasks": "Analysis involves predicting the future state of a target by using one of three means—extrapolation (unchanging forces), projection (changing forces), and forecasting (changing and new forces).",
+      "URLs": ""
+    },
+    {
+      "Session": "22",
+      "Topic": "Shaping Forces",
+      "Learning-Teaching Type": "Offline",
+      "LO": "Understanding",
+      "ITU": "",
+      "Student Materials": "Robert M. Clark - Intelligence analysis : a target-centric approach, Fourth Edition - CQ Press, 2013. ISBN 978-1-4522-0612-7",
+      "S-Download": "",
+      "Student's Tasks": "Predictive analysis relies on assessing the impact of forces that shape organizations, lead to new developments, and motivate people. Explain the forces: inertia, countervailing forces, contamination.",
+      "URLs": ""
+    },
+    {
+      "Session": "23",
+      "Topic": "Shaping Forces",
+      "Learning-Teaching Type": "Offline",
+      "LO": "Understanding",
+      "ITU": "",
+      "Student Materials": "Robert M. Clark - Intelligence analysis : a target-centric approach, Fourth Edition - CQ Press, 2013. ISBN 978-1-4522-0612-7",
+      "S-Download": "",
+      "Student's Tasks": "Explain the forces: synergy, feedback, regulation. Review Project",
+      "URLs": ""
+    },
+    {
+      "Session": "24",
+      "Topic": "Organizational Analysis",
+      "Learning-Teaching Type": "Offline",
+      "LO": "Understanding",
+      "ITU": "",
+      "Student Materials": "Robert M. Clark - Intelligence analysis : a target-centric approach, Fourth Edition - CQ Press, 2013. ISBN 978-1-4522-0612-7",
+      "S-Download": "",
+      "Student's Tasks": "Quiz 3 To analyze an organization, one must examine its structure, function, and process. Structure analysis focus on relationship of most interest to the intelligence customer. Functional analysis focus on behavior, specifically on the decision-making process. Process analysis focus the flows and vulnerable points within system.",
+      "URLs": ""
+    },
+    {
+      "Session": "25",
+      "Topic": "Technology and Systems Analysis",
+      "Learning-Teaching Type": "Offline",
+      "LO": "Understanding",
+      "ITU": "",
+      "Student Materials": "Robert M. Clark - Intelligence analysis : a target-centric approach, Fourth Edition - CQ Press, 2013. ISBN 978-1-4522-0612-7",
+      "S-Download": "",
+      "Student's Tasks": "Technology analysis is used in business intelligence, where it can provide companies with a competitive advantage, and in military intelligence, where it is of value in assessing the performance of current and future weapons systems. It can be used to assess the future performance of a technology, the use or transfer of the technology, or in forecasts of technology breakthroughs. Most simulation models are systems of equations that must be solved for different input assumptions.",
+      "URLs": ""
+    },
+    {
+      "Session": "26",
+      "Topic": "The Intelligence Customer",
+      "Learning-Teaching Type": "Offline",
+      "LO": "Understanding",
+      "ITU": "",
+      "Student Materials": "Robert M. Clark - Intelligence analysis : a target-centric approach, Fourth Edition - CQ Press, 2013. ISBN 978-1-4522-0612-7",
+      "S-Download": "",
+      "Student's Tasks": "Focus on the customers and purposes of analysis. It describes the intelligence requirements of various clients in government and the private sector, and the purposes/objectives that intelligence has in serving those clients. Classification the different customers (policymakers, congress, business leaders, …). Explain the preparing and presenting analysis results.",
+      "URLs": ""
+    },
+    {
+      "Session": "27",
+      "Topic": "Managing Analysis",
+      "Learning-Teaching Type": "Offline",
+      "LO": "Understanding",
+      "ITU": "",
+      "Student Materials": "Robert M. Clark - Intelligence analysis : a target-centric approach, Fourth Edition - CQ Press, 2013. ISBN 978-1-4522-0612-7",
+      "S-Download": "",
+      "Student's Tasks": "Focus on two types of management. The principles also apply to analysts who must manage the target-centric process. The increasing collaboration among analysts, customers, and collectors requires that someone manage the effort. Focus on the structure and function of the analytic unit. Then we take up the management of the process including tradecraft and analytic methodologies.",
+      "URLs": ""
+    },
+    {
+      "Session": "28",
+      "Topic": "Presentation (30 mins/group, max: 9 groups)",
+      "Learning-Teaching Type": "Offline",
+      "LO": "Analyzing",
+      "ITU": "",
+      "Student Materials": "",
+      "S-Download": "",
+      "Student's Tasks": "Quiz 4 Presented in groups (3-4 students). Topics in the part \"After class activities\". Evaluating the results of students applying knowledge from the course.",
+      "URLs": ""
+    },
+    {
+      "Session": "29",
+      "Topic": "Presentation (30 mins/group, max: 9 groups)",
+      "Learning-Teaching Type": "Offline",
+      "LO": "Analyzing",
+      "ITU": "",
+      "Student Materials": "",
+      "S-Download": "",
+      "Student's Tasks": "",
+      "URLs": ""
+    },
+    {
+      "Session": "30",
+      "Topic": "Presentation (30 mins/group, max: 9 groups)",
+      "Learning-Teaching Type": "Offline",
+      "LO": "Analyzing",
+      "ITU": "",
+      "Student Materials": "",
+      "S-Download": "",
+      "Student's Tasks": "",
+      "URLs": ""
+    }
+  ],
+  "constructive_questions": [
+    {
+      "No.": "1",
+      "Session No": "2",
+      "Name": "CQ1",
+      "Details": "What is a typical goal of intelligence?"
+    },
+    {
+      "No.": "2",
+      "Session No": "2",
+      "Name": "CQ2",
+      "Details": "What are the key differences between intelligence research and research in other fields?"
+    },
+    {
+      "No.": "3",
+      "Session No": "2",
+      "Name": "CQ3",
+      "Details": "Why is the traditional intelligence cycle less relevant in the evolving world of information technology?"
+    },
+    {
+      "No.": "4",
+      "Session No": "3",
+      "Name": "CQ1",
+      "Details": "What is Matthew Herbert's definition of framing effect? Give an example?"
+    },
+    {
+      "No.": "5",
+      "Session No": "3",
+      "Name": "CQ2",
+      "Details": "What should analysts do before beginning intelligence analysis?"
+    },
+    {
+      "No.": "6",
+      "Session No": "3",
+      "Name": "CQ3",
+      "Details": "How to define an intelligence analysis problem?"
+    },
+    {
+      "No.": "7",
+      "Session No": "4",
+      "Name": "CQ1",
+      "Details": "What is Strategies-to-Task?"
+    },
+    {
+      "No.": "8",
+      "Session No": "4",
+      "Name": "CQ2",
+      "Details": "What is a complex problem?"
+    },
+    {
+      "No.": "9",
+      "Session No": "4",
+      "Name": "CQ3",
+      "Details": "Why CounterIntelligence is a complex problem?"
+    },
+    {
+      "No.": "10",
+      "Session No": "5",
+      "Name": "CQ1",
+      "Details": "What does the Target-centric approach and definition process lead to?"
+    },
+    {
+      "No.": "11",
+      "Session No": "5",
+      "Name": "CQ2",
+      "Details": "Why is the target presented as a model?"
+    },
+    {
+      "No.": "12",
+      "Session No": "5",
+      "Name": "CQ3",
+      "Details": "What are common features of Conceptual model?"
+    },
+    {
+      "No.": "13",
+      "Session No": "6",
+      "Name": "CQ1",
+      "Details": "When to use Submodels and/or Collateral models?"
+    },
+    {
+      "No.": "14",
+      "Session No": "6",
+      "Name": "CQ2",
+      "Details": "What is Submodels and Collateral models?"
+    },
+    {
+      "No.": "15",
+      "Session No": "6",
+      "Name": "CQ3",
+      "Details": "How does an Iterative analysis process work?"
+    },
+    {
+      "No.": "16",
+      "Session No": "7",
+      "Name": "CQ1",
+      "Details": "What levels of conflict are there? What are the successive action levels?"
+    },
+    {
+      "No.": "17",
+      "Session No": "7",
+      "Name": "CQ2",
+      "Details": "What does Strategic, Operational and Tactical intelligence deal with?"
+    },
+    {
+      "No.": "18",
+      "Session No": "7",
+      "Name": "CQ3",
+      "Details": "What are roles of Indications and Warning in Intelligence?"
+    },
+    {
+      "No.": "19",
+      "Session No": "8",
+      "Name": "CQ1",
+      "Details": "What are some common model types commonly used in Intelligence?"
+    },
+    {
+      "No.": "20",
+      "Session No": "8",
+      "Name": "CQ2",
+      "Details": "What are some of the main types of pattern models used by intelligence analysts?"
+    },
+    {
+      "No.": "21",
+      "Session No": "8",
+      "Name": "CQ3",
+      "Details": "How many levels of Relationship models? What are there?"
+    },
+    {
+      "No.": "22",
+      "Session No": "9",
+      "Name": "CQ1",
+      "Details": "What are profiles? What is the purpose of profiles creation?"
+    },
+    {
+      "No.": "23",
+      "Session No": "9",
+      "Name": "CQ2",
+      "Details": "Which case is the association model usually used? What are the names of some popular combination models?"
+    },
+    {
+      "No.": "24",
+      "Session No": "9",
+      "Name": "CQ3",
+      "Details": "What is Geographic profiling? What is its role in law enforcement?"
+    },
+    {
+      "No.": "25",
+      "Session No": "10",
+      "Name": "CQ1",
+      "Details": "What's the danger in conducting a search when an analyst already has Existing Reports?"
+    },
+    {
+      "No.": "26",
+      "Session No": "10",
+      "Name": "CQ2",
+      "Details": "What are intelligence sources?"
+    },
+    {
+      "No.": "27",
+      "Session No": "10",
+      "Name": "CQ3",
+      "Details": "Based on the nature of the material collected, what are major types of intelligence collection?"
+    },
+    {
+      "No.": "28",
+      "Session No": "10",
+      "Name": "CQ4",
+      "Details": "What is the most valuable source of intelligence material?"
+    },
+    {
+      "No.": "29",
+      "Session No": "11",
+      "Name": "CQ1",
+      "Details": "What resources does HUMINT include?"
+    },
+    {
+      "No.": "30",
+      "Session No": "11",
+      "Name": "CQ2",
+      "Details": "What is COMINT? What role does it play in intelligence?"
+    },
+    {
+      "No.": "31",
+      "Session No": "11",
+      "Name": "CQ3",
+      "Details": "What are general types of cyber collection? What are popularly techniques used?"
+    },
+    {
+      "No.": "32",
+      "Session No": "11",
+      "Name": "CQ4",
+      "Details": "What are the main techniques used in Nonliteral Intelligence?"
+    },
+    {
+      "No.": "33",
+      "Session No": "12",
+      "Name": "CQ1",
+      "Details": "What are steps to weigh evidence?"
+    },
+    {
+      "No.": "34",
+      "Session No": "12",
+      "Name": "CQ2",
+      "Details": "What are two ways of stating Occam’s razor?"
+    },
+    {
+      "No.": "35",
+      "Session No": "12",
+      "Name": "CQ3",
+      "Details": "What are the steps in Evaluating the Source of evidence?"
+    },
+    {
+      "No.": "36",
+      "Session No": "12",
+      "Name": "CQ4",
+      "Details": "How is the principle of Evaluating the Communications Channel stated?"
+    },
+    {
+      "No.": "37",
+      "Session No": "13",
+      "Name": "CQ1",
+      "Details": "What criterias are used for evaluating the Credentials of Evidence?"
+    },
+    {
+      "No.": "38",
+      "Session No": "13",
+      "Name": "CQ2",
+      "Details": "What are Pitfalls in Evaluating Evidence?"
+    },
+    {
+      "No.": "39",
+      "Session No": "13",
+      "Name": "CQ3",
+      "Details": "What is Convergent Evidence, Divergent Evidence, Redundant Evidence?"
+    },
+    {
+      "No.": "40",
+      "Session No": "14",
+      "Name": "CQ1",
+      "Details": "What are four steps of the Collection strategy?"
+    },
+    {
+      "No.": "41",
+      "Session No": "14",
+      "Name": "CQ2",
+      "Details": "What role does the analyst play for the collectors?"
+    },
+    {
+      "No.": "42",
+      "Session No": "14",
+      "Name": "CQ3",
+      "Details": "Why use combination of The Problem Breakdown and Target Model Relationship in Collection Strategies?"
+    },
+    {
+      "No.": "43",
+      "Session No": "15",
+      "Name": "CQ1",
+      "Details": "What are the main steps of money laundering? Which stage is most effective to aim with money laundering?"
+    },
+    {
+      "No.": "44",
+      "Session No": "15",
+      "Name": "CQ2",
+      "Details": "What is a Gap?"
+    },
+    {
+      "No.": "45",
+      "Session No": "15",
+      "Name": "CQ3",
+      "Details": "How is Data gap analysis performed?"
+    },
+    {
+      "No.": "46",
+      "Session No": "16",
+      "Name": "CQ1",
+      "Details": "What is D&D?"
+    },
+    {
+      "No.": "47",
+      "Session No": "16",
+      "Name": "CQ2",
+      "Details": "What are some Denial techniques, some Deception techniques?"
+    },
+    {
+      "No.": "48",
+      "Session No": "16",
+      "Name": "CQ3",
+      "Details": "What is a Double agent in intelligence?"
+    },
+    {
+      "No.": "49",
+      "Session No": "17",
+      "Name": "CQ1",
+      "Details": "What are the methods of Defense against D&D?"
+    },
+    {
+      "No.": "50",
+      "Session No": "17",
+      "Name": "CQ2",
+      "Details": "How to counter Denial and Deception?"
+    },
+    {
+      "No.": "51",
+      "Session No": "17",
+      "Name": "CQ3",
+      "Details": "Why Intelligence analysis is in fact analogous to poker?"
+    },
+    {
+      "No.": "52",
+      "Session No": "18",
+      "Name": "CQ1",
+      "Details": "What are several types of analytical methodologies useful to the analyst?"
+    },
+    {
+      "No.": "53",
+      "Session No": "18",
+      "Name": "CQ2",
+      "Details": "What is Structured argumentation? What is the disadvantage of this method?"
+    },
+    {
+      "No.": "54",
+      "Session No": "18",
+      "Name": "CQ3",
+      "Details": "What are the roles of Alternative target models?"
+    },
+    {
+      "No.": "55",
+      "Session No": "18",
+      "Name": "CQ4",
+      "Details": "What are the roles of information technology in analyst productivity and the quality of analysis?"
+    },
+    {
+      "No.": "56",
+      "Session No": "19",
+      "Name": "CQ1",
+      "Details": "What is the trend of policymaking customers with predictive analysis? What should an analyst do to against this trend?"
+    },
+    {
+      "No.": "57",
+      "Session No": "19",
+      "Name": "CQ2",
+      "Details": "What is the scope of the intelligence predictions?"
+    },
+    {
+      "No.": "58",
+      "Session No": "19",
+      "Name": "CQ3",
+      "Details": "What are Convergence and Divergence phenomena used for?"
+    },
+    {
+      "No.": "59",
+      "Session No": "20",
+      "Name": "CQ1",
+      "Details": "What analytical means are involved in predicting the future state of a target?"
+    },
+    {
+      "No.": "60",
+      "Session No": "20",
+      "Name": "CQ2",
+      "Details": "What two scenarios are most used in intelligence?"
+    },
+    {
+      "No.": "61",
+      "Session No": "20",
+      "Name": "CQ3",
+      "Details": "What are four steps of creating a scenario?"
+    },
+    {
+      "No.": "62",
+      "Session No": "20",
+      "Name": "CQ4",
+      "Details": "What is the role of intelligence in two scenarios?"
+    },
+    {
+      "No.": "63",
+      "Session No": "21",
+      "Name": "CQ1",
+      "Details": "What three predictive techniques are used in intelligence?"
+    },
+    {
+      "No.": "64",
+      "Session No": "21",
+      "Name": "CQ2",
+      "Details": "What are advantages and disadvantages of Extrapolation?"
+    },
+    {
+      "No.": "65",
+      "Session No": "21",
+      "Name": "CQ3",
+      "Details": "What do Projection and Forecasting have in common? What are new features of Forecasting?"
+    },
+    {
+      "No.": "66",
+      "Session No": "21",
+      "Name": "CQ4",
+      "Details": "What are characteristics of forces in the three types of Predictive techniques (Extrapolation, Projection, Forecasting)?"
+    },
+    {
+      "No.": "67",
+      "Session No": "22",
+      "Name": "CQ1",
+      "Details": "What is inertia? How does it affect organizations?"
+    },
+    {
+      "No.": "68",
+      "Session No": "22",
+      "Name": "CQ2",
+      "Details": "When will Countervailing forces appear? Which law of physics summarizes the principle of countervailing forces?"
+    },
+    {
+      "No.": "69",
+      "Session No": "22",
+      "Name": "CQ3",
+      "Details": "What is Contamination in this context? How does contamination phenomena affect a nation or an organization?"
+    },
+    {
+      "No.": "70",
+      "Session No": "23",
+      "Name": "CQ1",
+      "Details": "What is Synergy? What role does synergy play for organizations?"
+    },
+    {
+      "No.": "71",
+      "Session No": "23",
+      "Name": "CQ2",
+      "Details": "What is Feedback? What are the two types of feedback?"
+    },
+    {
+      "No.": "72",
+      "Session No": "23",
+      "Name": "CQ3",
+      "Details": "Where should shaping forces be stopped in any predictive analysis about the target model?"
+    },
+    {
+      "No.": "73",
+      "Session No": "24",
+      "Name": "CQ1",
+      "Details": "How to give a more complete organization’s structure picture?"
+    },
+    {
+      "No.": "74",
+      "Session No": "24",
+      "Name": "CQ2",
+      "Details": "What is the output of analyzing an organization?"
+    },
+    {
+      "No.": "75",
+      "Session No": "24",
+      "Name": "CQ3",
+      "Details": "Which is the dominant aspect of functional analysis?"
+    },
+    {
+      "No.": "76",
+      "Session No": "24",
+      "Name": "CQ4",
+      "Details": "What is the role of cost-utility analysis in making major decisions?"
+    },
+    {
+      "No.": "77",
+      "Session No": "25",
+      "Name": "CQ1",
+      "Details": "What are the roles of technology analysis?"
+    },
+    {
+      "No.": "78",
+      "Session No": "25",
+      "Name": "CQ2",
+      "Details": "What are general types of technology predictions?"
+    },
+    {
+      "No.": "79",
+      "Session No": "25",
+      "Name": "CQ3",
+      "Details": "Which information source does technology assessment rely on the most?"
+    },
+    {
+      "No.": "80",
+      "Session No": "25",
+      "Name": "CQ4",
+      "Details": "Which case is simulation used? What is the nature of most simulation models?"
+    },
+    {
+      "No.": "81",
+      "Session No": "26",
+      "Name": "CQ1",
+      "Details": "According to Sherman Kent, what are the wishes of an analyst?"
+    },
+    {
+      "No.": "82",
+      "Session No": "26",
+      "Name": "CQ2",
+      "Details": "Who are Intelligence customers? Which types of customer group are the most difficult (least receptive)?"
+    },
+    {
+      "No.": "83",
+      "Session No": "26",
+      "Name": "CQ3",
+      "Details": "Why do analysts and customers need to interact so closely?"
+    },
+    {
+      "No.": "84",
+      "Session No": "26",
+      "Name": "CQ4",
+      "Details": "What are two ways of presenting intelligence analysis results?"
+    },
+    {
+      "No.": "85",
+      "Session No": "27",
+      "Name": "CQ1",
+      "Details": "What are the seven key challenges that managers must deal with?"
+    },
+    {
+      "No.": "86",
+      "Session No": "27",
+      "Name": "CQ2",
+      "Details": "What should a manager do when setting up an analytics unit or or assuming charge of one?"
+    },
+    {
+      "No.": "87",
+      "Session No": "27",
+      "Name": "CQ3",
+      "Details": "What are some root causes of failed analysis?"
+    },
+    {
+      "No.": "88",
+      "Session No": "27",
+      "Name": "CQ4",
+      "Details": "What are some essential attributes in a top-rate analyst?"
+    }
+  ],
+  "materials": [
+    {
+      "No.": "1",
+      "Material Description": "Intelligence analysis : a target-centric approach",
+      "Author": "Robert M. Clark",
+      "Publisher": "CQ Press",
+      "Published Date": "2013",
+      "Edition": "4th",
+      "ISBN": "",
+      "Is Main Material": "True",
+      "Is Hard Copy": "True",
+      "Is Online": "False",
+      "Note": ""
+    },
+    {
+      "No.": "2",
+      "Material Description": "Analyzing social media networks with NodeXL : insights from a connected world",
+      "Author": "Derek L. Hansen,, Ben Shneiderman, Marc A. Smith",
+      "Publisher": "Morgan Kaufmann",
+      "Published Date": "2011",
+      "Edition": "",
+      "ISBN": "",
+      "Is Main Material": "False",
+      "Is Hard Copy": "False",
+      "Is Online": "False",
+      "Note": ""
+    },
+    {
+      "No.": "3",
+      "Material Description": "Applied Microsoft Business Intelligence",
+      "Author": "Patrick LeBlanc, Jessica M. Moss, Dejan Sarka, Dustin Ryan",
+      "Publisher": "Wiley",
+      "Published Date": "2015",
+      "Edition": "",
+      "ISBN": "",
+      "Is Main Material": "False",
+      "Is Hard Copy": "False",
+      "Is Online": "False",
+      "Note": ""
+    },
+    {
+      "No.": "4",
+      "Material Description": "Doing Bayesian Data Analysis",
+      "Author": "John K. Kruschke",
+      "Publisher": "Elsevier Inc",
+      "Published Date": "2015",
+      "Edition": "2nd",
+      "ISBN": "",
+      "Is Main Material": "False",
+      "Is Hard Copy": "False",
+      "Is Online": "False",
+      "Note": ""
+    },
+    {
+      "No.": "5",
+      "Material Description": "Information Technology Auditing and Assurance",
+      "Author": "James A. Hall",
+      "Publisher": "Cengage Learning",
+      "Published Date": "2011",
+      "Edition": "3rd",
+      "ISBN": "",
+      "Is Main Material": "False",
+      "Is Hard Copy": "False",
+      "Is Online": "False",
+      "Note": ""
+    }
+  ],
+  "source_path": "data/raw/syllabi/5157.html",
+  "id": "syllabus:5157"
+}

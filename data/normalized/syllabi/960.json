@@ -1,0 +1,541 @@
+{
+  "syllabus_id": 960,
+  "subject_code": "HMO101",
+  "subject_name": "Introduction to Hospitality Management",
+  "syllabus_name": "Introduction to Hospitality Management",
+  "credits": 3,
+  "degree_level": "Bachelor in Hotel Management",
+  "time_allocation": "1 course = 30 sessions 1 session= 90 minutes",
+  "prerequisite": "",
+  "general_information": {
+    "Syllabus ID": "960",
+    "Syllabus Name": "Introduction to Hospitality Management",
+    "Course Name English": "",
+    "Subject Code": "HMO101",
+    "Learning-Teaching Method": "",
+    "NoCredit": "3",
+    "Degree Level": "Bachelor in Hotel Management",
+    "Time Allocation": "1 course = 30 sessions 1 session= 90 minutes",
+    "Pre-Requisite": "",
+    "Description": "The course address to the structure, scope and measurement of tourism and hospitality industry. The students will be exposed to the roles of industry business players and governments. This course addresses the knowledge and skill needed for students to understand the development of the hospitality and tourism industry as well as its challenges.",
+    "StudentTasks": "- Class attendance is strongly encouraged. Attend more than 80% of class hours in order to be accepted to the final examination - Actively participate in class activities - Fulfill tasks given by instructor after class - Use their own laptop in class only for learning purpose - Read the textbook in advance - Access the course website (http://cms.fpt.edu.vn) for up-to-date information and material of the course, for online supports from teachers and other students and for practicing and assessment.",
+    "Tools": "",
+    "Scoring Scale": "10",
+    "DecisionNo MM/dd/yyyy": "1042/QĐ-ĐHFPT dated 08/10/2018",
+    "IsApproved": "True",
+    "Note": "",
+    "Is Scored": "True",
+    "MinAvgMarkToPass": "5",
+    "IsActive": "True",
+    "ApprovedDate": "8/10/2018"
+  },
+  "active": true,
+  "approved": true,
+  "decision": "1042/QĐ-ĐHFPT dated 08/10/2018",
+  "description": "The course address to the structure, scope and measurement of tourism and hospitality industry. The students will be exposed to the roles of industry business players and governments. This course addresses the knowledge and skill needed for students to understand the development of the hospitality and tourism industry as well as its challenges.",
+  "learning_outcomes": [
+    {
+      "No.": "1",
+      "CLO Name": "CLO1",
+      "CLO Details": "Describe the definition, charateristics of the hospitality and tourism industry"
+    },
+    {
+      "No.": "2",
+      "CLO Name": "CLO2",
+      "CLO Details": "Describe and classify different hotel businesses"
+    },
+    {
+      "No.": "3",
+      "CLO Name": "CLO3",
+      "CLO Details": "Identify main duties and responsibilities of the room division function (operations)"
+    },
+    {
+      "No.": "4",
+      "CLO Name": "CLO4",
+      "CLO Details": "Describe the duties and responsibilities of the food and beverage function (operations)"
+    },
+    {
+      "No.": "5",
+      "CLO Name": "CLO5",
+      "CLO Details": "Classify wine, beer, spirits, nonalcoholic beverages and describe bar & beverage operations."
+    },
+    {
+      "No.": "6",
+      "CLO Name": "CLO6",
+      "CLO Details": "Classify and differentiate characteristics of the restaurant business"
+    },
+    {
+      "No.": "7",
+      "CLO Name": "CLO7",
+      "CLO Details": "Describe restaurant operations and its functional areas."
+    },
+    {
+      "No.": "8",
+      "CLO Name": "CLO8",
+      "CLO Details": "Outline and distinguish different managed services."
+    },
+    {
+      "No.": "9",
+      "CLO Name": "CLO9",
+      "CLO Details": "Explain the importance of tourism and describe key impacts on tourism organizations."
+    },
+    {
+      "No.": "10",
+      "CLO Name": "CLO10",
+      "CLO Details": "Identify future trends in the hospitality and tourism industry (Chapter 10-13)"
+    }
+  ],
+  "assessments": [
+    {
+      "No.": "1",
+      "Category": "Quizzes",
+      "Type": "quiz",
+      "Part": "1",
+      "Weight": "15.0%",
+      "Completion Criteria": ">0",
+      "Duration": "- Session 6 - Session 14 - Session 23",
+      "CLO": "LO3, LO4, LO5, LO6, LO7, LO8",
+      "Question Type": "Multiple choice, exercises or essay questions",
+      "No Question": "Appx. 15",
+      "Knowledge and Skill": "Quizzes will test for knowledge of subjects in the chapter assigned for that day.",
+      "Grading Guide": "Class room",
+      "Note": "These quizzes will be given at various times during class (beginning, middle or end). Total number of quizzes: 3"
+    },
+    {
+      "No.": "2",
+      "Category": "Class participation and preparation",
+      "Type": "on-going",
+      "Part": "1",
+      "Weight": "10.0%",
+      "Completion Criteria": ">0",
+      "Duration": "During all course",
+      "CLO": "LO11, LO12, LO13, LO14, LO15, LO16, LO17",
+      "Question Type": "",
+      "No Question": "",
+      "Knowledge and Skill": "",
+      "Grading Guide": "",
+      "Note": "Participation grade will be given based on students' preparation, and quantity as well as quality of participation in classroom; quality of participation is demonstrated through asking relevant questions, making statements that add to and facilitate class discussion, and builds upon others’ comments. Class preparation and pre-reading before lecture will be assessed upon individuals' understanding and ability to answer questions in the class. Individuals will be called up randomly to be assessed."
+    },
+    {
+      "No.": "3",
+      "Category": "Group assignment",
+      "Type": "on-going",
+      "Part": "1",
+      "Weight": "30.0%",
+      "Completion Criteria": ">0",
+      "Duration": "Submit session 26, Present on session 27,28,29",
+      "CLO": "LO10, LO11, LO12, LO13, LO14, LO15, LO16, LO17",
+      "Question Type": "",
+      "No Question": "Minimum length of the group assignment should be 10 pages, excluding appendices",
+      "Knowledge and Skill": "Based on topics of studied units",
+      "Grading Guide": "Group presentation in class room",
+      "Note": "All assignments should be typed and double-spaced with 11-point font, and must be submitted in both soft and hard copy. A deduction of 10% of the assignment mark will be applied for each day of late submission Evaluation will be based on both presentation and written report (reccommded 30%, 70% accordingly)"
+    },
+    {
+      "No.": "4",
+      "Category": "Individual assignment",
+      "Type": "on-going",
+      "Part": "1",
+      "Weight": "15.0%",
+      "Completion Criteria": ">0",
+      "Duration": "Session 21",
+      "CLO": "LO18, LO19",
+      "Question Type": "",
+      "No Question": "Various",
+      "Knowledge and Skill": "Based on the given exercise or case study at the beginning of the course.",
+      "Grading Guide": "",
+      "Note": "All assignments should be typed and double-spaced with 11-point font, and must be submitted in both soft and hard copy. A deduction of 10% of the assignment mark will be applied for each day of late submission; Individual assignments are expected to be submitted in the middle of the course."
+    },
+    {
+      "No.": "5",
+      "Category": "Final exam",
+      "Type": "Final exam",
+      "Part": "1",
+      "Weight": "30.0%",
+      "Completion Criteria": "4",
+      "Duration": "60'",
+      "CLO": "",
+      "Question Type": "50 Multiple choice . Other types of questions may be included.",
+      "No Question": "",
+      "Knowledge and Skill": "The questions/ exercises will cover the lectures, class discussions, activities, exercises, and textbook.",
+      "Grading Guide": "Exam room",
+      "Note": "Not allow to use any document/information in any form in exam room"
+    }
+  ],
+  "schedule": [
+    {
+      "Session": "1",
+      "Topic": "Chapter 1 - Introducing Hospitality - Hospitality through the Ages - The Interrelated Nature of Hospitality and Tourism - Characteristics of the Hospitality Industry",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO1.1, LO1.2",
+      "ITU": "",
+      "Student Materials": "",
+      "S-Download": "HMO101",
+      "Student's Tasks": "- Introduction (Lecturer and Students introduce themselve) - Introduce about Learning outcomes of this subject",
+      "URLs": ""
+    },
+    {
+      "Session": "2",
+      "Topic": "Chapter 1 - Introducing Hospitality (cont) - Hospitality Industry Philosophy - Success in Service - Trends in Hospitality and Tourism",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO1.3, LO1.4, LO1.5",
+      "ITU": "",
+      "Student Materials": "",
+      "S-Download": "HMO101",
+      "Student's Tasks": "",
+      "URLs": ""
+    },
+    {
+      "Session": "3",
+      "Topic": "Defining group and group's projects Teams Assigned Teams Select Ideas",
+      "Learning-Teaching Type": "Offline",
+      "LO": "",
+      "ITU": "",
+      "Student Materials": "",
+      "S-Download": "",
+      "Student's Tasks": "Various ideas are open to discussion by team members",
+      "URLs": ""
+    },
+    {
+      "Session": "4",
+      "Topic": "Chapter 2 - The Hotel Business - A Brief History of Innkeeping in the United States - Hotel Development and Ownership - Hotel Development",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO2.1, LO2.2, LO2.3",
+      "ITU": "",
+      "Student Materials": "",
+      "S-Download": "",
+      "Student's Tasks": "",
+      "URLs": ""
+    },
+    {
+      "Session": "5",
+      "Topic": "Chapter 2 - The Hotel Business (cont) - Classification of Hotels - Best, Biggest, and Most Unusual Hotels and Chains - International Perspective",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO2.4, LO2.5, LO2.6",
+      "ITU": "",
+      "Student Materials": "",
+      "S-Download": "",
+      "Student's Tasks": "",
+      "URLs": ""
+    },
+    {
+      "Session": "6",
+      "Topic": "Progess Group Assignment 1",
+      "Learning-Teaching Type": "Offline",
+      "LO": "",
+      "ITU": "",
+      "Student Materials": "",
+      "S-Download": "",
+      "Student's Tasks": "\"Present your group's products\" Quiz 1: Chapter 1,2",
+      "URLs": ""
+    },
+    {
+      "Session": "7",
+      "Topic": "Chapter 3 - Rooms Division Operations - The Functions and Departments of a Hotel - Management Structure - Role of the Hotel General Manager - The Departments: rooms devision, front office, night auditor, revenue management",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO3.1, LO3.2, LO3.3",
+      "ITU": "",
+      "Student Materials": "",
+      "S-Download": "",
+      "Student's Tasks": "",
+      "URLs": ""
+    },
+    {
+      "Session": "8",
+      "Topic": "Chapter 3 - Rooms Division Operations(Cont) - Reservations - Communications CBX or PBX - Guest Services/ Uniformed Services - Concierge - Housekeeping - Sustainable Lodging - Security/Loss Prevention - Trends in Hotel and Rooms Division Operations",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO3.4, LO3.5, LO3.6, LO3.7",
+      "ITU": "",
+      "Student Materials": "",
+      "S-Download": "",
+      "Student's Tasks": "",
+      "URLs": ""
+    },
+    {
+      "Session": "9",
+      "Topic": "Chapter 4: Food and Beverage Operations - Food and Beverage Management - Kitchen - Food Operations - Bars - Stewarding Department - Catering Department - Room Service/In-Room Dining - Trends in Food and Beverage Operations",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO4.1, LO4.2, LO4.3, LO4.4",
+      "ITU": "",
+      "Student Materials": "",
+      "S-Download": "",
+      "Student's Tasks": "",
+      "URLs": ""
+    },
+    {
+      "Session": "10",
+      "Topic": "Progess Group Assignment 2",
+      "Learning-Teaching Type": "Offline",
+      "LO": "",
+      "ITU": "",
+      "Student Materials": "",
+      "S-Download": "",
+      "Student's Tasks": "Present your group's products",
+      "URLs": ""
+    },
+    {
+      "Session": "11",
+      "Topic": "Individual assignment topic release Chapter 5: Beverages - Wines + Light Wine + Sparkling wine + Fortified Wines + Aromatic Wines + The History of Wine + Making Wine + Matching Wine with Food - Beer + The brewing Process + Organic and craft beers, Microbreweries, and brewpubs",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO5.1, LO5.2, LO5.3, LO5.4, LO5.5",
+      "ITU": "",
+      "Student Materials": "",
+      "S-Download": "",
+      "Student's Tasks": "",
+      "URLs": ""
+    },
+    {
+      "Session": "12",
+      "Topic": "Chapter 5: Beverages (cont) - Spirits + Whisky + White Spirit + Cocktail - Nonalcoholic Beverages + Nonalcoholic beer + Coffee + Tea + Carbonated soft drinks and energy drinks - Bar and Beverage Operations + Bar setup + Inventory control",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO5.6, LO5.7, LO5.8",
+      "ITU": "",
+      "Student Materials": "",
+      "S-Download": "",
+      "Student's Tasks": "",
+      "URLs": ""
+    },
+    {
+      "Session": "13",
+      "Topic": "Chapter 6: The Restaurant Business - The restaurant business Classical Cuisine Food Trends and Practices - Developing a Restaurant - Sustainable Restaurants - Menu Planning - Classifications of Restaurants - Trends in Restaurant Business",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO6.1, LO6.2, LO6.3, LO6.4",
+      "ITU": "",
+      "Student Materials": "",
+      "S-Download": "",
+      "Student's Tasks": "",
+      "URLs": ""
+    },
+    {
+      "Session": "14",
+      "Topic": "Progess Group Assignment 3",
+      "Learning-Teaching Type": "Offline",
+      "LO": "",
+      "ITU": "",
+      "Student Materials": "",
+      "S-Download": "",
+      "Student's Tasks": "Pricing strategies presentation Quiz 2: Chapter 3, 4, 5 , 6",
+      "URLs": ""
+    },
+    {
+      "Session": "15",
+      "Topic": "Chapter 7: Restaurant Operations - Front of the House + Restaurant Forecasting + Service + Suggestive Selling + Front of the House Restaurant Systems + Back of the House Restaurant Systems - Back of the house + Food Production + Kitchen",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO7.1, LO7.2, LO7.3",
+      "ITU": "",
+      "Student Materials": "",
+      "S-Download": "",
+      "Student's Tasks": "",
+      "URLs": ""
+    },
+    {
+      "Session": "16",
+      "Topic": "Chapter 7: Restaurant Operations (cont) - Back of the house (cont) + Management involvement and Follow-up + Employee Recognition + Purchasing+ + Storing + Budgeting + Restaurant accounting - Lease and Controllable Expenses - Restaurant Manager Job Analysis - Trends in Restaurant Operations",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO7.4, LO7.5, LO7.6",
+      "ITU": "",
+      "Student Materials": "",
+      "S-Download": "",
+      "Student's Tasks": "",
+      "URLs": ""
+    },
+    {
+      "Session": "17",
+      "Topic": "Chapter 8: Manged Services - Airlines and Airports - Military - Elementary and Secondary Schools - Colleges and Universities - Health Care Facilities - Business and Industry (B&I) - Leisure and Recreation - Trends in Managed Services",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO8.1, LO8.2, LO8.3, LO8.4, LO8.5",
+      "ITU": "",
+      "Student Materials": "",
+      "S-Download": "",
+      "Student's Tasks": "",
+      "URLs": ""
+    },
+    {
+      "Session": "18",
+      "Topic": "Individual Assignment submission Tourist activities day",
+      "Learning-Teaching Type": "Offline",
+      "LO": "",
+      "ITU": "",
+      "Student Materials": "",
+      "S-Download": "",
+      "Student's Tasks": "",
+      "URLs": ""
+    },
+    {
+      "Session": "19",
+      "Topic": "Chapter 9: Tourism - What Is Tourism? - Benefits of Tourism - The Five Ages of Tourism + Pre–industrial Revolution + The railway age + The automobile age + The jet aircraft age + The cruise ship age",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO9.1, LO9.2, LO9.3",
+      "ITU": "",
+      "Student Materials": "",
+      "S-Download": "",
+      "Student's Tasks": "",
+      "URLs": ""
+    },
+    {
+      "Session": "20",
+      "Topic": "Chapter 9: Tourism (cont) - An exciting destination - The Economic Impact of Tourism - Promoters of Tourism - Business Travel - Social and Cultural Impact of Tourism - Ecotourism",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO9.4, LO9.5, LO9.6, LO9.7, LO9.8",
+      "ITU": "",
+      "Student Materials": "",
+      "S-Download": "",
+      "Student's Tasks": "",
+      "URLs": ""
+    },
+    {
+      "Session": "21",
+      "Topic": "Chapter 10: Recreation, Attractions and Clubs - Recreation, Leisure, and Wellness - Government-Sponsored Recreation - Commercial Recreation - Attractions - Regional Theme Parks - Animal Attractions - Historic Places and Sites",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO10.1, LO10.2, LO10.3",
+      "ITU": "",
+      "Student Materials": "",
+      "S-Download": "",
+      "Student's Tasks": "",
+      "URLs": ""
+    },
+    {
+      "Session": "22",
+      "Topic": "Chapter 10: Recreation, Attractions and Clubs (cont) - Museums - Performance Arts - Destinations - Managing Attractions - Clubs - Sustainable Golf Course Management - Noncommercial Recreation - Trends in Recreation and Leisure",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO10.4, LO10.5, LO10.6",
+      "ITU": "",
+      "Student Materials": "",
+      "S-Download": "",
+      "Student's Tasks": "",
+      "URLs": ""
+    },
+    {
+      "Session": "23",
+      "Topic": "Progess Group Assignment 4",
+      "Learning-Teaching Type": "Offline",
+      "LO": "",
+      "ITU": "",
+      "Student Materials": "",
+      "S-Download": "",
+      "Student's Tasks": "Quiz 3: 7,8,9,10",
+      "URLs": ""
+    },
+    {
+      "Session": "24",
+      "Topic": "Chapter 11: Gaming Entertainment - The Casino Resort: A Hospitality Buffet - Evolution of Gambling and Casinos - Working in a Casino Resort - Sustainability in gaming Entertainment - Career Information - Trends in the Gaming Entertainment Industry",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO10.7.10.8, LO10.8, LO10.10, LO10.11, LO10.12",
+      "ITU": "",
+      "Student Materials": "",
+      "S-Download": "",
+      "Student's Tasks": "",
+      "URLs": ""
+    },
+    {
+      "Session": "25",
+      "Topic": "Chapter 12: Meetings, Conventions, and Expositions - Development of the Meetings, Conventions, and Expositions Industry - Size and Scope of the Industry - Key Players in the Industry - Types of Meetings, Conventions, and Expositions - Historical Associations - Venues for Meetings, Conventions, and Expositions - Sustainable Meetings, Conventions, and Expositions - Trends in Meetings, Conventions, and Expositions",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO10.13, LO10.14, LO10.15, LO10.16, LO10.17, LO10.18",
+      "ITU": "",
+      "Student Materials": "",
+      "S-Download": "",
+      "Student's Tasks": "",
+      "URLs": ""
+    },
+    {
+      "Session": "26",
+      "Topic": "Group Assignment submission Chapter 13: Special Events - What Event Planners Do - Challenges and Tools for Event Planners and Managers - Classification of Special Events - Required Skills and Abilities for Event Management - Special Event Organizations - The Special Events Job Market - Trends in the Special Events Industry",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO10.19, LO10.20, LO10.21, LO10.22, LO10.23",
+      "ITU": "",
+      "Student Materials": "",
+      "S-Download": "",
+      "Student's Tasks": "",
+      "URLs": ""
+    },
+    {
+      "Session": "27",
+      "Topic": "Presentation day",
+      "Learning-Teaching Type": "Offline",
+      "LO": "",
+      "ITU": "",
+      "Student Materials": "",
+      "S-Download": "",
+      "Student's Tasks": "Presentation of final project • Limit presentations to 15 minutes. • Limit Q&A to 7-10 minutes (alternate, 1 question per judge). • Hold feedback until the end for everyone.",
+      "URLs": ""
+    },
+    {
+      "Session": "28",
+      "Topic": "Presentation day",
+      "Learning-Teaching Type": "Offline",
+      "LO": "",
+      "ITU": "",
+      "Student Materials": "",
+      "S-Download": "",
+      "Student's Tasks": "Presentation of final project • Limit presentations to 15 minutes. • Limit Q&A to 7-10 minutes (alternate, 1 question per judge). • Hold feedback until the end for everyone.",
+      "URLs": ""
+    },
+    {
+      "Session": "29",
+      "Topic": "Group Presentation and report submission",
+      "Learning-Teaching Type": "Offline",
+      "LO": "",
+      "ITU": "",
+      "Student Materials": "",
+      "S-Download": "",
+      "Student's Tasks": "",
+      "URLs": ""
+    },
+    {
+      "Session": "30",
+      "Topic": "Group Presentation and report submission",
+      "Learning-Teaching Type": "Offline",
+      "LO": "",
+      "ITU": "",
+      "Student Materials": "",
+      "S-Download": "",
+      "Student's Tasks": "",
+      "URLs": ""
+    }
+  ],
+  "constructive_questions": [],
+  "materials": [
+    {
+      "No.": "1",
+      "Material Description": "Introduction to Hospitality Management",
+      "Author": "John R. Walker",
+      "Publisher": "Perarson Publisher",
+      "Published Date": "2013",
+      "Edition": "4th",
+      "ISBN": "",
+      "Is Main Material": "True",
+      "Is Hard Copy": "True",
+      "Is Online": "False",
+      "Note": ""
+    },
+    {
+      "No.": "2",
+      "Material Description": "https://www.pearson.com/us/higher-education/program/Walker-Introduction-to-Hospitality-Management-Plus-My-Lab-Hospitality-with-Pearson-e-Text-Access-Card-Package-5th-Edition/PGM334782.html?tab=resources",
+      "Author": "",
+      "Publisher": "",
+      "Published Date": "",
+      "Edition": "",
+      "ISBN": "",
+      "Is Main Material": "False",
+      "Is Hard Copy": "False",
+      "Is Online": "False",
+      "Note": ""
+    },
+    {
+      "No.": "3",
+      "Material Description": "Harvard Business Review",
+      "Author": "",
+      "Publisher": "",
+      "Published Date": "",
+      "Edition": "",
+      "ISBN": "",
+      "Is Main Material": "False",
+      "Is Hard Copy": "False",
+      "Is Online": "False",
+      "Note": ""
+    }
+  ],
+  "source_path": "data/raw/syllabi/960.html",
+  "id": "syllabus:960"
+}

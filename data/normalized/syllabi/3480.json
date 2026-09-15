@@ -1,0 +1,271 @@
+{
+  "syllabus_id": 3480,
+  "subject_code": "NLP301",
+  "subject_name": "Natural Language Processing",
+  "syllabus_name": "Natural Language Processing",
+  "credits": 3,
+  "degree_level": "Bachelor",
+  "time_allocation": "Online: 106 hours+6 slot offline",
+  "prerequisite": "",
+  "general_information": {
+    "Syllabus ID": "3480",
+    "Syllabus Name": "Natural Language Processing",
+    "Course Name English": "",
+    "Subject Code": "NLP301",
+    "Learning-Teaching Method": "",
+    "NoCredit": "3",
+    "Degree Level": "Bachelor",
+    "Time Allocation": "Online: 106 hours+6 slot offline",
+    "Pre-Requisite": "",
+    "Description": "Natural Language Processing (NLP) uses algorithms to understand and manipulate human language. This technology is one of the most broadly applied areas of machine learning. As AI continues to expand, so will the demand for professionals skilled at building models that analyze speech and language, uncover contextual patterns, and produce insights from text and audio. By the end of this Specialization, students will be ready to design NLP applications that perform question-answering and sentiment analysis, create tools to translate languages and summarize text, and even build chatbots.",
+    "StudentTasks": "Student must get the certification of Natural Language Processing Specialization from Coursera to be accepted to the final examination",
+    "Tools": "",
+    "Scoring Scale": "0",
+    "DecisionNo MM/dd/yyyy": "378/QĐ-ĐHFPT dated 04/02/2021",
+    "IsApproved": "True",
+    "Note": "1. Complete the online course to be allowed to take Final Exam 2. Final Exam is included of Final Theory Exam (TE) & Final Practical Exam (PE): 100% 3. Student gets 0.2 bonus points for each course completed on time. The total bonus point is not greater than 1. 4. Completion Criteria: Final TE Score >=4 & Final PE Score >=4 & ((Final TE Score + Final PE Score)/2 + bonus) >= 5 5. In the case: (5 > Final TE Score >=4) & (5 > Final PE Score >=4) & ((Final TE Score + Final PE Score)/2 + bonus) < 5, the student can choose to take the resit of both TE & PE OR just either TE or PE.",
+    "Is Scored": "True",
+    "MinAvgMarkToPass": "5",
+    "IsActive": "True",
+    "ApprovedDate": "4/2/2021"
+  },
+  "active": true,
+  "approved": true,
+  "decision": "378/QĐ-ĐHFPT dated 04/02/2021",
+  "description": "Natural Language Processing (NLP) uses algorithms to understand and manipulate human language. This technology is one of the most broadly applied areas of machine learning. As AI continues to expand, so will the demand for professionals skilled at building models that analyze speech and language, uncover contextual patterns, and produce insights from text and audio. By the end of this Specialization, students will be ready to design NLP applications that perform question-answering and sentiment analysis, create tools to translate languages and summarize text, and even build chatbots.",
+  "learning_outcomes": [
+    {
+      "No.": "1",
+      "CLO Name": "CLO1",
+      "CLO Details": "Use logistic regression, naïve Bayes, and word vectors to implement sentiment analysis, complete analogies, and translate words."
+    },
+    {
+      "No.": "2",
+      "CLO Name": "CLO2",
+      "CLO Details": "Use locality sensitive hashing for approximate nearest neighbors."
+    },
+    {
+      "No.": "3",
+      "CLO Name": "CLO3",
+      "CLO Details": "Use dynamic programming, hidden Markov models, and word embeddings to autocorrect misspelled words, autocomplete partial sentences, and identify part-of-speech tags for words."
+    },
+    {
+      "No.": "4",
+      "CLO Name": "CLO4",
+      "CLO Details": "Use dense and recurrent neural networks, LSTMs, GRUs, and Siamese networks in TensorFlow and Trax to perform advanced sentiment analysis, text generation, named entity recognition, and to identify duplicate questions."
+    },
+    {
+      "No.": "5",
+      "CLO Name": "CLO5",
+      "CLO Details": "Use encoder-decoder, causal, and self-attention to perform advanced machine translation of complete sentences, text summarization, question-answering and to build chatbots."
+    }
+  ],
+  "assessments": [
+    {
+      "No.": "1",
+      "Category": "PE",
+      "Type": "Final exam",
+      "Part": "1",
+      "Weight": "50.0%",
+      "Completion Criteria": "4",
+      "Duration": "120'",
+      "CLO": "",
+      "Question Type": "",
+      "No Question": "",
+      "Knowledge and Skill": "All studied courses.",
+      "Grading Guide": "by Exam Board",
+      "Note": "Customized from the Assignment of this specialization"
+    },
+    {
+      "No.": "2",
+      "Category": "TE",
+      "Type": "Final exam",
+      "Part": "1",
+      "Weight": "50.0%",
+      "Completion Criteria": "4",
+      "Duration": "60'",
+      "CLO": "",
+      "Question Type": "Computer gradable",
+      "No Question": "60",
+      "Knowledge and Skill": "All studied courses. Each module of course contributes 2-3 questions.",
+      "Grading Guide": "by Exam Board",
+      "Note": "Customized from the quizzes of this specialization"
+    }
+  ],
+  "schedule": [
+    {
+      "Session": "1",
+      "Topic": "Specialization Introduction Natural Language Processing with Classification and Vector Spaces - Sentiment Analysis with Logistic Regression Offline 1: Guide learning and review of the specialization",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO1",
+      "ITU": "",
+      "Student Materials": "",
+      "S-Download": "",
+      "Student's Tasks": "Complete Week 1 of the course \"Natural Language Processing with Classification and Vector Spaces\" All Students should participate in review slot to disscus about the problems you miss",
+      "URLs": ""
+    },
+    {
+      "Session": "2",
+      "Topic": "- Sentiment Analysis with Naïve Bayes",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO1",
+      "ITU": "",
+      "Student Materials": "",
+      "S-Download": "",
+      "Student's Tasks": "Complete Week 2 of the course \"Natural Language Processing with Classification and Vector Spaces\"",
+      "URLs": ""
+    },
+    {
+      "Session": "3",
+      "Topic": "- Vector Space Models",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO1",
+      "ITU": "",
+      "Student Materials": "",
+      "S-Download": "",
+      "Student's Tasks": "Complete Week 3 of the course \"Natural Language Processing with Classification and Vector Spaces\"",
+      "URLs": ""
+    },
+    {
+      "Session": "4",
+      "Topic": "- Machine Translation and Document Search Offline 2: Course 1 Review",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO2",
+      "ITU": "",
+      "Student Materials": "",
+      "S-Download": "",
+      "Student's Tasks": "Complete Week 4 of the course \"Natural Language Processing with Classification and Vector Spaces\" - Deadline of Course 1 Completion: End of Friday of the week. All Students should participate in review slot (if any question)",
+      "URLs": ""
+    },
+    {
+      "Session": "5",
+      "Topic": "Natural Language Processing with Probabilistic Models: - Autocorrect - Part of Speech Tagging and Hidden Markov Models",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO3",
+      "ITU": "",
+      "Student Materials": "",
+      "S-Download": "",
+      "Student's Tasks": "Complete Week 1, 2 of the course \"Natural Language Processing with Probabilistic Models\"",
+      "URLs": ""
+    },
+    {
+      "Session": "6",
+      "Topic": "- Autocomplete and Language Models",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO3",
+      "ITU": "",
+      "Student Materials": "",
+      "S-Download": "",
+      "Student's Tasks": "Complete Week 3 of the course \"Natural Language Processing with Probabilistic Models\"",
+      "URLs": ""
+    },
+    {
+      "Session": "7",
+      "Topic": "- Word embeddings with neural networks Offline 3: Course 2 Review",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO3",
+      "ITU": "",
+      "Student Materials": "",
+      "S-Download": "",
+      "Student's Tasks": "Complete Week 4 of the course \"Natural Language Processing with Probabilistic Models\" - Deadline of Course 2 Completion: End of Friday of the week. All Students should participate in review slot (if any question)",
+      "URLs": ""
+    },
+    {
+      "Session": "8",
+      "Topic": "Natural Language Processing with Sequence Models: '- Neural Networks for Sentiment Analysis - Recurrent Neural Networks for Language Modeling",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO4",
+      "ITU": "",
+      "Student Materials": "",
+      "S-Download": "",
+      "Student's Tasks": "Complete Week 1 of the course \"Natural Language Processing with Sequence Models\"",
+      "URLs": ""
+    },
+    {
+      "Session": "9",
+      "Topic": "- Recurrent Neural Networks for Language Modeling - LSTMs and Named Entity Recognition",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO4",
+      "ITU": "",
+      "Student Materials": "",
+      "S-Download": "",
+      "Student's Tasks": "Complete Week 2, 3 of the course \"Natural Language Processing with Sequence Models\"",
+      "URLs": ""
+    },
+    {
+      "Session": "10",
+      "Topic": "- Siamese Networks Offline 4: Course 3 Review",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO4",
+      "ITU": "",
+      "Student Materials": "",
+      "S-Download": "",
+      "Student's Tasks": "Complete Week 4 of the course \"Natural Language Processing with Sequence Models\" - Deadline of Course 3 Completion: End of Friday of the week. All Students should participate in review slot (if any question)",
+      "URLs": ""
+    },
+    {
+      "Session": "13",
+      "Topic": "- Question Answering Offline 5: Review Course 4",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO5",
+      "ITU": "",
+      "Student Materials": "",
+      "S-Download": "",
+      "Student's Tasks": "Complete Week 3 of the course \"Natural Language Processing with Attention Models\"",
+      "URLs": ""
+    },
+    {
+      "Session": "14",
+      "Topic": "- Chatbot Offline 6: Course 4 Review",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO5",
+      "ITU": "",
+      "Student Materials": "",
+      "S-Download": "",
+      "Student's Tasks": "Complete Week 4 of the course \"Natural Language Processing with Attention Models\" - Deadline of Course 4 Completion: End of Friday of the week. All Students should participate in review slot (if any question)",
+      "URLs": ""
+    },
+    {
+      "Session": "15",
+      "Topic": "Final Exam (For students completed & got Coursera's specialization certificates)",
+      "Learning-Teaching Type": "Offline",
+      "LO": "",
+      "ITU": "",
+      "Student Materials": "",
+      "S-Download": "",
+      "Student's Tasks": "- Do TE quizzes and PE assignments",
+      "URLs": ""
+    }
+  ],
+  "constructive_questions": [],
+  "materials": [
+    {
+      "No.": "1",
+      "Material Description": "- https://www.coursera.org/specializations/natural-language-processing - https://www.coursera.org/learn/classification-vector-spaces-in-nlp - https://www.coursera.org/learn/probabilistic-models-in-nlp - https://www.coursera.org/learn/sequence-models-in-nlp - https://www.coursera.org/learn/attention-models-in-nlp",
+      "Author": "",
+      "Publisher": "Coursera",
+      "Published Date": "",
+      "Edition": "",
+      "ISBN": "",
+      "Is Main Material": "False",
+      "Is Hard Copy": "False",
+      "Is Online": "True",
+      "Note": ""
+    },
+    {
+      "No.": "2",
+      "Material Description": "https://learner.coursera.help/hc/en-us/articles/208280036-Coursera-Code-of-Conduct",
+      "Author": "",
+      "Publisher": "Coursera",
+      "Published Date": "",
+      "Edition": "",
+      "ISBN": "",
+      "Is Main Material": "False",
+      "Is Hard Copy": "False",
+      "Is Online": "True",
+      "Note": ""
+    }
+  ],
+  "source_path": "data/raw/syllabi/3480.html",
+  "id": "syllabus:3480"
+}

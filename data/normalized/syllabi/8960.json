@@ -1,0 +1,233 @@
+{
+  "syllabus_id": 8960,
+  "subject_code": "KPS301",
+  "subject_name": "Korean language Pedagogical Skills_Kỹ năng sư phạm tiếng Hàn",
+  "syllabus_name": "Kỹ năng sư phạm tiếng Hàn",
+  "credits": 3,
+  "degree_level": "Bachelor",
+  "time_allocation": "Study hour (150h) = 45h contact hours + 1h final exam + 104h self-study",
+  "prerequisite": "KRL421",
+  "general_information": {
+    "Syllabus ID": "8960",
+    "Syllabus Name": "Kỹ năng sư phạm tiếng Hàn",
+    "Course Name English": "Korean Language Pedagogical Skills",
+    "Subject Code": "KPS301",
+    "Learning-Teaching Method": "Active learning, Lecture",
+    "NoCredit": "3",
+    "Degree Level": "Bachelor",
+    "Time Allocation": "Study hour (150h) = 45h contact hours + 1h final exam + 104h self-study",
+    "Pre-Requisite": "KRL421",
+    "Description": "The course provides the nesessary knowledge and skills for students to be able to participate in the training field after completion of their study program. It follows the key compentencies for effective classroom training defined by the International Board of Standards for Training, Performance and Instruction (IBSTPI) and recognized throughout the technical training industry. Mastery of these skills together with expertise in the course subject area will ensure a high quality of training.",
+    "StudentTasks": "- Students work in groups in order to elaborate the contents of the course, then present, counter-argument during class hours under instructor's guidance and peer feedback by using Edunext. - Students must attend more than 80% of class hours in order to be accepted to the final examination.",
+    "Tools": "Internet, Laptop, Edunext, EOS",
+    "Scoring Scale": "10",
+    "DecisionNo MM/dd/yyyy": "973/QĐ-ĐHFPT dated 10/26/2022",
+    "IsApproved": "True",
+    "Note": "On-going assessment (Average SC Grade): 60% SC Grade = Team Presentation (max 4) + Team Counter-argument (max 3) + Individual learning in team (max 3) Final Exam: 40% Final Final must >=4/10 and Final Result must >=5/10 to pass the course",
+    "Is Scored": "True",
+    "MinAvgMarkToPass": "5",
+    "IsActive": "True",
+    "ApprovedDate": "10/26/2022"
+  },
+  "active": true,
+  "approved": true,
+  "decision": "973/QĐ-ĐHFPT dated 10/26/2022",
+  "description": "The course provides the nesessary knowledge and skills for students to be able to participate in the training field after completion of their study program. It follows the key compentencies for effective classroom training defined by the International Board of Standards for Training, Performance and Instruction (IBSTPI) and recognized throughout the technical training industry. Mastery of these skills together with expertise in the course subject area will ensure a high quality of training.",
+  "learning_outcomes": [
+    {
+      "No.": "1",
+      "CLO Name": "CLO1",
+      "CLO Details": "Aware of responsibilities of instructors"
+    },
+    {
+      "No.": "2",
+      "CLO Name": "CLO2",
+      "CLO Details": "Be able to describe how to analyze course materials and learner information."
+    },
+    {
+      "No.": "3",
+      "CLO Name": "CLO3",
+      "CLO Details": "Be able to describe how to assure preparation of the instructional site."
+    },
+    {
+      "No.": "4",
+      "CLO Name": "CLO4",
+      "CLO Details": "Be able to describe how to establish and maintain instructor credibility."
+    },
+    {
+      "No.": "5",
+      "CLO Name": "CLO5",
+      "CLO Details": "Be able to describe how to manage the learning environment."
+    },
+    {
+      "No.": "6",
+      "CLO Name": "CLO6",
+      "CLO Details": "Be able to describe how to demonstrate effective communication skills."
+    },
+    {
+      "No.": "7",
+      "CLO Name": "CLO7",
+      "CLO Details": "Be able to describe how to demonstrate questioning skills and techniques."
+    },
+    {
+      "No.": "8",
+      "CLO Name": "CLO8",
+      "CLO Details": "Be able to describe how to demonstrate effective presentation skills."
+    },
+    {
+      "No.": "9",
+      "CLO Name": "CLO9",
+      "CLO Details": "Be able to describe how to respond appropriately to learners’ needs for clarification or feedback."
+    },
+    {
+      "No.": "10",
+      "CLO Name": "CLO10",
+      "CLO Details": "Be able to describe how to provide positive reinforcement and motivational incentives."
+    },
+    {
+      "No.": "11",
+      "CLO Name": "CLO11",
+      "CLO Details": "Be able to describe how to use instructional methods appropriately."
+    },
+    {
+      "No.": "12",
+      "CLO Name": "CLO12",
+      "CLO Details": "Be able to describe how to use media effectively."
+    },
+    {
+      "No.": "13",
+      "CLO Name": "CLO13",
+      "CLO Details": "Be able to describe how to evaluate learner performance."
+    },
+    {
+      "No.": "14",
+      "CLO Name": "CLO14",
+      "CLO Details": "Be able to describe how to evaluate delivery of instruction."
+    },
+    {
+      "No.": "15",
+      "CLO Name": "CLO15",
+      "CLO Details": "Be able to describe how to report evaluation information."
+    }
+  ],
+  "assessments": [
+    {
+      "No.": "1",
+      "Category": "SC Grade",
+      "Type": "on-going",
+      "Part": "4",
+      "Weight": "60.0%",
+      "Completion Criteria": ">0",
+      "Duration": "",
+      "CLO": "",
+      "Question Type": "",
+      "No Question": "",
+      "Knowledge and Skill": "",
+      "Grading Guide": "- via Edunext - SC Grade = Team Presentation (max 4) + Team Counter-argument (max 3) + Individual learning in team (max 3)",
+      "Note": ""
+    },
+    {
+      "No.": "2",
+      "Category": "Final exam",
+      "Type": "Final exam",
+      "Part": "1",
+      "Weight": "40.0%",
+      "Completion Criteria": "4",
+      "Duration": "60'",
+      "CLO": "",
+      "Question Type": "Multiple choices by EOS",
+      "No Question": "",
+      "Knowledge and Skill": "Textbook 1, App.B Textbook 2",
+      "Grading Guide": "",
+      "Note": ""
+    }
+  ],
+  "schedule": [
+    {
+      "Session": "1",
+      "Topic": "- Course Intro - IBTSP_IC Intro - Guide to organise Social Constructivist activities in the current class - IBTSP Code of ethics for Instructors - IBTSP Code of ethics for Instructors - Summary and Assignment for the next",
+      "Learning-Teaching Type": "Offline",
+      "LO": "CLO1, CLO2, CLO4-CLO8",
+      "ITU": "I,T,U",
+      "Student Materials": "- syllabus - slide - instructor plan - Appendix B, Textbook 2 - Appendix B, Textbook 2 - instructor slide",
+      "S-Download": "",
+      "Student's Tasks": "",
+      "URLs": ""
+    },
+    {
+      "Session": "2",
+      "Topic": "Topic 1: Preparation and management - Topic introduction 1. Analyzing course materials and learner information 2. Assuring preparation of the instructional site 3. Establishing and maintaining instructor credibility 4. Managing the learning environment - Topic Summary and Assignment for the next topic SC Grading",
+      "Learning-Teaching Type": "Offline",
+      "LO": "CLO1, CLO2, CLO5-CLO8",
+      "ITU": "I,T,U",
+      "Student Materials": "- slide - Ch1, Textbook 1 - Ch2, Textbook 1 - Ch3, Textbook 1 - Ch4, Textbook 1 - instructor slide",
+      "S-Download": "",
+      "Student's Tasks": "",
+      "URLs": ""
+    },
+    {
+      "Session": "3",
+      "Topic": "Topic 2: Instructor Essential Skills - Topic introduction 5. Demonstrating effective communication skills 6. Demonstrating questioning skills and techniques 7. Demonstrating effective presentation skills 8. Responding appropriately to learners’ needs for clarification or feedback Extending (if posible): Demonstrating effective facilitation skills Topic Summary and Assignment for the next topic SC Grading",
+      "Learning-Teaching Type": "Offline",
+      "LO": "CLO1, CLO2, CLO4-CLO8",
+      "ITU": "I,T,U",
+      "Student Materials": "- Ch5 Textbook 1 - Ch6 Textbook 1 - Ch7 Textbook 1 - Ch8 Textbook 1 - Ch4 Textbook 2 - instructor slide",
+      "S-Download": "",
+      "Student's Tasks": "",
+      "URLs": ""
+    },
+    {
+      "Session": "4",
+      "Topic": "Topic 3: Teaching Strategies - Topic introduction 9. Providing positive reinforcement and motivational incentives 10. Using instructional methods appropriately 11. Using media (and technology) effectively - Extending (if posible): Promote retention and tranfer of knowledge and skills - Topic Summary and Assignment for the next topic - SC Grading",
+      "Learning-Teaching Type": "Offline",
+      "LO": "CLO1, CLO2, CLO4-CLO8",
+      "ITU": "I,T,U",
+      "Student Materials": "- Ch9 Textbook 1 - Ch10 Textbook 1 - Ch11 Textbook 1, Ch4 Textbook 2 - Ch4 Textbook 2 - instructor slide",
+      "S-Download": "",
+      "Student's Tasks": "",
+      "URLs": ""
+    },
+    {
+      "Session": "5",
+      "Topic": "Topic 4: Assessment and Evaluation - Topic introduction 12. Evaluating learner performance 13. Evaluating delivery of instruction 14. Reporting evaluation information - Topic and course summary - SC Grading",
+      "Learning-Teaching Type": "Offline",
+      "LO": "CLO1, CLO2, CLO4-CLO8",
+      "ITU": "I,T,U",
+      "Student Materials": "",
+      "S-Download": "",
+      "Student's Tasks": "",
+      "URLs": ""
+    }
+  ],
+  "constructive_questions": [],
+  "materials": [
+    {
+      "No.": "1",
+      "Material Description": "IBSTPI Instructor Compentencies: Standards for Face-to-face, Online, Blended Settings",
+      "Author": "James D. Klein, J. Michael Spector, Barbara Grabowski, Ileana de la Teja",
+      "Publisher": "Information Age Publishing",
+      "Published Date": "2004",
+      "Edition": "3",
+      "ISBN": "159311236X (978-1593112363)",
+      "Is Main Material": "True",
+      "Is Hard Copy": "False",
+      "Is Online": "False",
+      "Note": ""
+    },
+    {
+      "No.": "2",
+      "Material Description": "EC-Council Instructor Handbook",
+      "Author": "EC- Council",
+      "Publisher": "Official Course Material of CEP",
+      "Published Date": "2000",
+      "Edition": "",
+      "ISBN": "0-07-213033-4",
+      "Is Main Material": "True",
+      "Is Hard Copy": "False",
+      "Is Online": "False",
+      "Note": ""
+    }
+  ],
+  "source_path": "data/raw/syllabi/8960.html",
+  "id": "syllabus:8960"
+}

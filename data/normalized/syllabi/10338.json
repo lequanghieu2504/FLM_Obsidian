@@ -1,0 +1,1918 @@
+{
+  "syllabus_id": 10338,
+  "subject_code": "PRN211",
+  "subject_name": "Basic Cross-Platform Application Programming With .NET_Lập trình ứng dụng đa nền tảng cơ bản với .NET",
+  "syllabus_name": "Basis Cross-Platform Application Programming With .NET_Lập trình ứng dụng đa nền tảng cơ bản với .NET",
+  "credits": 3,
+  "degree_level": "Bachelor",
+  "time_allocation": "Study hour (150h) = 49.5h contact hours + 1h final exam + 85' practical exam + 99.5h self-study",
+  "prerequisite": "PRO192 & DBI202",
+  "general_information": {
+    "Syllabus ID": "10338",
+    "Syllabus Name": "Basis Cross-Platform Application Programming With .NET_Lập trình ứng dụng đa nền tảng cơ bản với .NET",
+    "Course Name English": "Basis Cross-Platform Application Programming With .NET",
+    "Subject Code": "PRN211",
+    "Learning-Teaching Method": "Social Constructivism,In-class lecture,Inquiry-based Teaching",
+    "NoCredit": "3",
+    "Degree Level": "Bachelor",
+    "Time Allocation": "Study hour (150h) = 49.5h contact hours + 1h final exam + 85' practical exam + 99.5h self-study",
+    "Pre-Requisite": "PRO192 & DBI202",
+    "Description": "Upon completion of this course students should: 1. Understand the followings: • C# language for developing .NET applications; • Fundamental concepts of .NET Platform • Basic knowledge of Window Forms in .NET • Basic knowledge of ASP.NET Core MVC • Basic knowledge of RESTful API .NET 2. Be able to: • Develop Cross-platform Desktop applications and support for user experience ( UI & UX ) • Develop Back-end applications by ASP.NET Core Web API • Develop Distributed applications by Windows Forms and REST APIs • Develop Distributed applications by ASP.NET MVC Core and REST APIs 3. Be able to work in a team and present group's results",
+    "StudentTasks": "- Students must attend more than 80% of contact sessions in order to be accepted to the final examination. - Student is responsible to do all assigned exercises given by instructor in class or at home and submit on time - Use laptop in class only for learning purpose - Promptly access https://flm.fpt.edu.vn/ for up-to-date course information",
+    "Tools": "- Internet - Visual Studio.NET 2019 version 16.8.3 or later - MS SQL Server 2014 or later - Platform : .NET 5.0 or later",
+    "Scoring Scale": "10",
+    "DecisionNo MM/dd/yyyy": "871/QĐ-ĐHFPT dated 08/25/2023",
+    "IsApproved": "True",
+    "Note": "",
+    "Is Scored": "True",
+    "MinAvgMarkToPass": "5",
+    "IsActive": "True",
+    "ApprovedDate": "8/25/2023"
+  },
+  "active": true,
+  "approved": true,
+  "decision": "871/QĐ-ĐHFPT dated 08/25/2023",
+  "description": "Upon completion of this course students should: 1. Understand the followings: • C# language for developing .NET applications; • Fundamental concepts of .NET Platform • Basic knowledge of Window Forms in .NET • Basic knowledge of ASP.NET Core MVC • Basic knowledge of RESTful API .NET 2. Be able to: • Develop Cross-platform Desktop applications and support for user experience ( UI & UX ) • Develop Back-end applications by ASP.NET Core Web API • Develop Distributed applications by Windows Forms and REST APIs • Develop Distributed applications by ASP.NET MVC Core and REST APIs 3. Be able to work in a team and present group's results",
+  "learning_outcomes": [
+    {
+      "No.": "1",
+      "CLO Name": "CLO1",
+      "CLO Details": "Describe about .NET Core Platform, and more new features of C# language ."
+    },
+    {
+      "No.": "2",
+      "CLO Name": "CLO2",
+      "CLO Details": "Demonstrate about OOP , Generic, Delegate & Event , LINQ and Design Pattern in C#"
+    },
+    {
+      "No.": "3",
+      "CLO Name": "CLO3",
+      "CLO Details": "Explain about Concurrency programming, Stream I/O and demonstrate about Windows Forms"
+    },
+    {
+      "No.": "4",
+      "CLO Name": "CLO4",
+      "CLO Details": "Demonstrate about accessing to the database by ADO.NET and Entity Framework ( ORM )"
+    },
+    {
+      "No.": "5",
+      "CLO Name": "CLO5",
+      "CLO Details": "Demonstrate about ASP.NET Core MVC and Back-end applicaiton with RESTful API"
+    }
+  ],
+  "assessments": [
+    {
+      "No.": "1",
+      "Category": "Assignment",
+      "Type": "on-going",
+      "Part": "3",
+      "Weight": "10.0%",
+      "Completion Criteria": ">0",
+      "Duration": "16 slots",
+      "CLO": "LO1, LO2, LO3, LO4, LO5",
+      "Question Type": "Option 1: N/A, Option 2: Questions or Activities proposed by lecturer",
+      "No Question": "Option 1: N/A, Option 2: Follow lecturer's proposal",
+      "Knowledge and Skill": "",
+      "Grading Guide": "",
+      "Note": "Asm1: LO1 & 2 Asm2: LO3 & 4 Asm3: LO5"
+    },
+    {
+      "No.": "2",
+      "Category": "Group Project",
+      "Type": "on-going",
+      "Part": "1",
+      "Weight": "25.0%",
+      "Completion Criteria": ">0",
+      "Duration": "30 slots",
+      "CLO": "LO1, LO2, LO3, LO4, LO5",
+      "Question Type": "Option 1: N/A, Option 2: Questions or Activities proposed by lecturer",
+      "No Question": "Option 1: N/A, Option 2: Follow lecturer's proposal",
+      "Knowledge and Skill": "",
+      "Grading Guide": "",
+      "Note": "problem(s) to solve by programming using LO1 - LO5"
+    },
+    {
+      "No.": "3",
+      "Category": "Practical Exam",
+      "Type": "on-going",
+      "Part": "1",
+      "Weight": "25.0%",
+      "Completion Criteria": ">0",
+      "Duration": "80'",
+      "CLO": "LO1, LO2, LO3, LO4, LO5",
+      "Question Type": "",
+      "No Question": "Manual evaluating",
+      "Knowledge and Skill": "",
+      "Grading Guide": "By exam board",
+      "Note": "problem(s) to solve by programming using LO1 - LO5"
+    },
+    {
+      "No.": "4",
+      "Category": "Progress test",
+      "Type": "on-going",
+      "Part": "2",
+      "Weight": "10.0%",
+      "Completion Criteria": ">0",
+      "Duration": "30'",
+      "CLO": "LO1, LO2, LO3, LO4, LO5",
+      "Question Type": "Option 1: Multiple choices, Option 2: Marked by Computer or a suitable format",
+      "No Question": "Option 1: 20/each, Option 2: Follow lecturer's proposal",
+      "Knowledge and Skill": "",
+      "Grading Guide": "",
+      "Note": "PT 1: LO1 - LO3 PT 2: LO4- LO5 Number of questions: 3-8 for each LOx"
+    },
+    {
+      "No.": "5",
+      "Category": "Final exam",
+      "Type": "Final exam",
+      "Part": "1",
+      "Weight": "30.0%",
+      "Completion Criteria": "4",
+      "Duration": "60'",
+      "CLO": "LO1, LO2, LO3, LO4, LO5",
+      "Question Type": "",
+      "No Question": "50",
+      "Knowledge and Skill": "All subjects in syllabus",
+      "Grading Guide": "",
+      "Note": "questions distribution: LO1.x: 5 - 10 LO2.x: 5 - 15 LO3.x: 5 - 15 LO4.x: 3 - 10 LO5.x: 3 - 10"
+    }
+  ],
+  "schedule": [
+    {
+      "Session": "1",
+      "Topic": "Course Introduction Module 01-Chapter 01: Introduction to .NET Platform & Visual Studio.NET",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO1",
+      "ITU": "IT",
+      "Student Materials": "Chapter 01: https://docs.microsoft.com/en-us/dotnet/core/introduction Chapter 02: https://docs.microsoft.com/en-us/dotnet/csharp/programming-guide/concepts/",
+      "S-Download": "PRN211",
+      "Student's Tasks": "Study just learned materials, redo sample examples",
+      "URLs": ""
+    },
+    {
+      "Session": "2",
+      "Topic": "Module 01-Chapter 01: Introduction to .NET Platform & Visual Studio.NET and Create and Run demo cross-platform Console application with C# (cont.)",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO1",
+      "ITU": "TU",
+      "Student Materials": "Chapter 01: https://docs.microsoft.com/en-us/dotnet/core/introduction Chapter 02: https://docs.microsoft.com/en-us/dotnet/csharp/programming-guide/concepts/",
+      "S-Download": "PRN211",
+      "Student's Tasks": "Study just learned materials, view demo and redo sample examples",
+      "URLs": ""
+    },
+    {
+      "Session": "3",
+      "Topic": "Module 01-Chapter 02: C# Programming",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO1",
+      "ITU": "TU",
+      "Student Materials": "Chapter 01: https://docs.microsoft.com/en-us/dotnet/core/introduction Chapter 02: https://docs.microsoft.com/en-us/dotnet/csharp/programming-guide/concepts/",
+      "S-Download": "",
+      "Student's Tasks": "Study just learned materials, view demo and redo sample examples",
+      "URLs": ""
+    },
+    {
+      "Session": "4",
+      "Topic": "Module 01-Chapter 02: C# Programming (cont.)",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO1",
+      "ITU": "TU",
+      "Student Materials": "Chapter 01: https://docs.microsoft.com/en-us/dotnet/core/introduction Chapter 02: https://docs.microsoft.com/en-us/dotnet/csharp/programming-guide/concepts/",
+      "S-Download": "",
+      "Student's Tasks": "Study just learned materials, view demo and redo sample examples",
+      "URLs": ""
+    },
+    {
+      "Session": "5",
+      "Topic": "Module 01-Chapter 02: C# Programming(cont. )",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO1",
+      "ITU": "TU",
+      "Student Materials": "Chapter 01: https://docs.microsoft.com/en-us/dotnet/core/introduction Chapter 02: https://docs.microsoft.com/en-us/dotnet/csharp/programming-guide/concepts/",
+      "S-Download": "",
+      "Student's Tasks": "Study just learned materials, view demo and redo sample examples",
+      "URLs": ""
+    },
+    {
+      "Session": "6",
+      "Topic": "Module 01-Chapter 02: C# Programming and demo sample(cont. )",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO1",
+      "ITU": "TU",
+      "Student Materials": "Chapter 01: https://docs.microsoft.com/en-us/dotnet/core/introduction Chapter 02: https://docs.microsoft.com/en-us/dotnet/csharp/programming-guide/concepts/",
+      "S-Download": "",
+      "Student's Tasks": "Study just learned materials, view demo and redo sample examples",
+      "URLs": ""
+    },
+    {
+      "Session": "7",
+      "Topic": "Module 02-Chapter 03: Object-Oriented Programming with C#",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO2",
+      "ITU": "TU",
+      "Student Materials": "Chapter 03: https://docs.microsoft.com/en-us/dotnet/csharp/tutorials/intro-to-csharp/object-oriented-programming Chapter 04: https://docs.microsoft.com/en-us/dotnet/standard/generics/ Chapter 05: eBook \"Design Pattern .NET\" or reference to: https://www.dofactory.com/net/design-patterns Chapter 06: https://docs.microsoft.com/en-us/dotnet/csharp/programming-guide/delegates/how-to-declare-instantiate-and-use-a-delegate",
+      "S-Download": "",
+      "Student's Tasks": "Study just learned materials, redo sample examples and Review",
+      "URLs": ""
+    },
+    {
+      "Session": "8",
+      "Topic": "Module 02-Chapter 03: Object-Oriented Programming with C# (cont. )",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO2",
+      "ITU": "TU",
+      "Student Materials": "Chapter 03: https://docs.microsoft.com/en-us/dotnet/csharp/tutorials/intro-to-csharp/object-oriented-programming Chapter 04: https://docs.microsoft.com/en-us/dotnet/standard/generics/ Chapter 05: eBook \"Design Pattern .NET\" or reference to: https://www.dofactory.com/net/design-patterns Chapter 06: https://docs.microsoft.com/en-us/dotnet/csharp/programming-guide/delegates/how-to-declare-instantiate-and-use-a-delegate",
+      "S-Download": "",
+      "Student's Tasks": "Study just learned materials, redo sample examples and Review",
+      "URLs": ""
+    },
+    {
+      "Session": "9",
+      "Topic": "Module 02-Chapter 03: Object-Oriented Programming with C# (cont. )",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO2",
+      "ITU": "TU",
+      "Student Materials": "Chapter 03: https://docs.microsoft.com/en-us/dotnet/csharp/tutorials/intro-to-csharp/object-oriented-programming Chapter 04: https://docs.microsoft.com/en-us/dotnet/standard/generics/ Chapter 05: eBook \"Design Pattern .NET\" or reference to: https://www.dofactory.com/net/design-patterns Chapter 06: https://docs.microsoft.com/en-us/dotnet/csharp/programming-guide/delegates/how-to-declare-instantiate-and-use-a-delegate",
+      "S-Download": "",
+      "Student's Tasks": "Study just learned materials, redo sample examples and Review",
+      "URLs": ""
+    },
+    {
+      "Session": "10",
+      "Topic": "Module 02-Chapter 03: Object-Oriented Programming with C# (cont. )",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO2",
+      "ITU": "TU",
+      "Student Materials": "Chapter 03: https://docs.microsoft.com/en-us/dotnet/csharp/tutorials/intro-to-csharp/object-oriented-programming Chapter 04: https://docs.microsoft.com/en-us/dotnet/standard/generics/ Chapter 05: eBook \"Design Pattern .NET\" or reference to: https://www.dofactory.com/net/design-patterns Chapter 06: https://docs.microsoft.com/en-us/dotnet/csharp/programming-guide/delegates/how-to-declare-instantiate-and-use-a-delegate",
+      "S-Download": "",
+      "Student's Tasks": "Study just learned materials, redo sample examples and Review",
+      "URLs": ""
+    },
+    {
+      "Session": "11",
+      "Topic": "Module 02-Chapter 04: Generic in C#",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO2",
+      "ITU": "TU",
+      "Student Materials": "Chapter 03: https://docs.microsoft.com/en-us/dotnet/csharp/tutorials/intro-to-csharp/object-oriented-programming Chapter 04: https://docs.microsoft.com/en-us/dotnet/standard/generics/ Chapter 05: eBook \"Design Pattern .NET\" or reference to: https://www.dofactory.com/net/design-patterns Chapter 06: https://docs.microsoft.com/en-us/dotnet/csharp/programming-guide/delegates/how-to-declare-instantiate-and-use-a-delegate",
+      "S-Download": "",
+      "Student's Tasks": "Study just learned materials, redo sample examples and Review",
+      "URLs": ""
+    },
+    {
+      "Session": "12",
+      "Topic": "Module 02-Chapter 04: Collections in C#",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO2",
+      "ITU": "TU",
+      "Student Materials": "Chapter 03: https://docs.microsoft.com/en-us/dotnet/csharp/tutorials/intro-to-csharp/object-oriented-programming Chapter 04: https://docs.microsoft.com/en-us/dotnet/standard/generics/ Chapter 05: eBook \"Design Pattern .NET\" or reference to: https://www.dofactory.com/net/design-patterns Chapter 06: https://docs.microsoft.com/en-us/dotnet/csharp/programming-guide/delegates/how-to-declare-instantiate-and-use-a-delegate",
+      "S-Download": "",
+      "Student's Tasks": "Study just learned materials, redo sample examples and Review",
+      "URLs": ""
+    },
+    {
+      "Session": "13",
+      "Topic": "Module 02-Chapter 05: Design Pattern in .NET",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO2",
+      "ITU": "TU",
+      "Student Materials": "Chapter 03: https://docs.microsoft.com/en-us/dotnet/csharp/tutorials/intro-to-csharp/object-oriented-programming Chapter 04: https://docs.microsoft.com/en-us/dotnet/standard/generics/ Chapter 05: eBook \"Design Pattern .NET\" or reference to: https://www.dofactory.com/net/design-patterns Chapter 06: https://docs.microsoft.com/en-us/dotnet/csharp/programming-guide/delegates/how-to-declare-instantiate-and-use-a-delegate",
+      "S-Download": "",
+      "Student's Tasks": "Students prepare content according to topics given by lecturers then present and other groups will criticize",
+      "URLs": ""
+    },
+    {
+      "Session": "14",
+      "Topic": "Module 02-Chapter 05: Design Pattern (cont.) and demo sample",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO2",
+      "ITU": "TU",
+      "Student Materials": "Chapter 03: https://docs.microsoft.com/en-us/dotnet/csharp/tutorials/intro-to-csharp/object-oriented-programming Chapter 04: https://docs.microsoft.com/en-us/dotnet/standard/generics/ Chapter 05: eBook \"Design Pattern .NET\" or reference to: https://www.dofactory.com/net/design-patterns Chapter 06: https://docs.microsoft.com/en-us/dotnet/csharp/programming-guide/delegates/how-to-declare-instantiate-and-use-a-delegate",
+      "S-Download": "",
+      "Student's Tasks": "Students prepare content according to topics given by lecturers then present and other groups will criticize and view to understand code demo",
+      "URLs": ""
+    },
+    {
+      "Session": "15",
+      "Topic": "Module 02-Chapter 06: Delegate in C#",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO2",
+      "ITU": "TU",
+      "Student Materials": "Chapter 03: https://docs.microsoft.com/en-us/dotnet/csharp/tutorials/intro-to-csharp/object-oriented-programming Chapter 04: https://docs.microsoft.com/en-us/dotnet/standard/generics/ Chapter 05: eBook \"Design Pattern .NET\" or reference to: https://www.dofactory.com/net/design-patterns Chapter 06: https://docs.microsoft.com/en-us/dotnet/csharp/programming-guide/delegates/how-to-declare-instantiate-and-use-a-delegate",
+      "S-Download": "",
+      "Student's Tasks": "Students prepare content according to topics given by lecturers then present and other groups will criticize and view to understand code demo",
+      "URLs": ""
+    },
+    {
+      "Session": "16",
+      "Topic": "Module 02-Chapter 06: Event & LINQ",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO2",
+      "ITU": "TU",
+      "Student Materials": "Chapter 03: https://docs.microsoft.com/en-us/dotnet/csharp/tutorials/intro-to-csharp/object-oriented-programming Chapter 04: https://docs.microsoft.com/en-us/dotnet/standard/generics/ Chapter 05: eBook \"Design Pattern .NET\" or reference to: https://www.dofactory.com/net/design-patterns Chapter 06: https://docs.microsoft.com/en-us/dotnet/csharp/programming-guide/delegates/how-to-declare-instantiate-and-use-a-delegate",
+      "S-Download": "",
+      "Student's Tasks": "Students prepare content according to topics given by lecturers then present and other groups will criticize and view to understand code demo",
+      "URLs": ""
+    },
+    {
+      "Session": "17",
+      "Topic": "Review",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO2",
+      "ITU": "TU",
+      "Student Materials": "Chapter 03: https://docs.microsoft.com/en-us/dotnet/csharp/tutorials/intro-to-csharp/object-oriented-programming Chapter 04: https://docs.microsoft.com/en-us/dotnet/standard/generics/ Chapter 05: eBook \"Design Pattern .NET\" or reference to: https://www.dofactory.com/net/design-patterns Chapter 06: https://docs.microsoft.com/en-us/dotnet/csharp/programming-guide/delegates/how-to-declare-instantiate-and-use-a-delegate",
+      "S-Download": "",
+      "Student's Tasks": "Students prepare content according to topics given by lecturers then present and other groups will criticize and view to understand code demo",
+      "URLs": ""
+    },
+    {
+      "Session": "18",
+      "Topic": "Review",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO2",
+      "ITU": "TU",
+      "Student Materials": "Chapter 03: https://docs.microsoft.com/en-us/dotnet/csharp/tutorials/intro-to-csharp/object-oriented-programming Chapter 04: https://docs.microsoft.com/en-us/dotnet/standard/generics/ Chapter 05: eBook \"Design Pattern .NET\" or reference to: https://www.dofactory.com/net/design-patterns Chapter 06: https://docs.microsoft.com/en-us/dotnet/csharp/programming-guide/delegates/how-to-declare-instantiate-and-use-a-delegate",
+      "S-Download": "",
+      "Student's Tasks": "Students prepare content according to topics given by lecturers then present and other groups will criticize and view to understand code demo",
+      "URLs": ""
+    },
+    {
+      "Session": "19",
+      "Topic": "Module 03-Chapter 07: Introduction to Concurrency Programming",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO3",
+      "ITU": "TU",
+      "Student Materials": "Chapter 07: https://docs.microsoft.com/en-us/dotnet/standard/threading/ Chapter 08: https://docs.microsoft.com/en-us/dotnet/standard/assembly/ Chapter 09: https://docs.microsoft.com/en-us/dotnet/api/system.io?view=net-5.0 Chapter 10: https://docs.microsoft.com/en-us/dotnet/desktop/winforms/?view=netdesktop-5.0",
+      "S-Download": "",
+      "Student's Tasks": "Study just learned materials, redo sample examples",
+      "URLs": ""
+    },
+    {
+      "Session": "20",
+      "Topic": "Module 03-Chapter 07: Introduction to Concurrency Programming (cont.)",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO3",
+      "ITU": "TU",
+      "Student Materials": "Chapter 07: https://docs.microsoft.com/en-us/dotnet/standard/threading/ Chapter 08: https://docs.microsoft.com/en-us/dotnet/standard/assembly/ Chapter 09: https://docs.microsoft.com/en-us/dotnet/api/system.io?view=net-5.0 Chapter 10: https://docs.microsoft.com/en-us/dotnet/desktop/winforms/?view=netdesktop-5.0",
+      "S-Download": "",
+      "Student's Tasks": "Study just learned materials, redo sample examples",
+      "URLs": ""
+    },
+    {
+      "Session": "21",
+      "Topic": "Module 03-Chapter 08: Introduction to Assemblies .NET",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO3",
+      "ITU": "TU",
+      "Student Materials": "Chapter 07: https://docs.microsoft.com/en-us/dotnet/standard/threading/ Chapter 08: https://docs.microsoft.com/en-us/dotnet/standard/assembly/ Chapter 09: https://docs.microsoft.com/en-us/dotnet/api/system.io?view=net-5.0 Chapter 10: https://docs.microsoft.com/en-us/dotnet/desktop/winforms/?view=netdesktop-5.0",
+      "S-Download": "",
+      "Student's Tasks": "Students prepare content according to topics given by lecturers then present and other groups will criticize",
+      "URLs": ""
+    },
+    {
+      "Session": "22",
+      "Topic": "Module 03-Chapter 08: Introduction to Assemblies .NET and Demo sample by Code",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO3",
+      "ITU": "TU",
+      "Student Materials": "Chapter 07: https://docs.microsoft.com/en-us/dotnet/standard/threading/ Chapter 08: https://docs.microsoft.com/en-us/dotnet/standard/assembly/ Chapter 09: https://docs.microsoft.com/en-us/dotnet/api/system.io?view=net-5.0 Chapter 10: https://docs.microsoft.com/en-us/dotnet/desktop/winforms/?view=netdesktop-5.0",
+      "S-Download": "",
+      "Student's Tasks": "Students prepare content according to topics given by lecturers then present and other groups will criticize",
+      "URLs": ""
+    },
+    {
+      "Session": "23",
+      "Topic": "Module 03-Chapter 09: Working with Files, Directory and System.IO",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO3",
+      "ITU": "TU",
+      "Student Materials": "Chapter 07: https://docs.microsoft.com/en-us/dotnet/standard/threading/ Chapter 08: https://docs.microsoft.com/en-us/dotnet/standard/assembly/ Chapter 09: https://docs.microsoft.com/en-us/dotnet/api/system.io?view=net-5.0 Chapter 10: https://docs.microsoft.com/en-us/dotnet/desktop/winforms/?view=netdesktop-5.0",
+      "S-Download": "",
+      "Student's Tasks": "Study just learned materials, redo sample examples and do Assignment 01 & Progress Test 01",
+      "URLs": ""
+    },
+    {
+      "Session": "24",
+      "Topic": "Module 03-Chapter 09: Working with Files, Directory and System.IO (cont.)",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO3",
+      "ITU": "TU",
+      "Student Materials": "Chapter 07: https://docs.microsoft.com/en-us/dotnet/standard/threading/ Chapter 08: https://docs.microsoft.com/en-us/dotnet/standard/assembly/ Chapter 09: https://docs.microsoft.com/en-us/dotnet/api/system.io?view=net-5.0 Chapter 10: https://docs.microsoft.com/en-us/dotnet/desktop/winforms/?view=netdesktop-5.0",
+      "S-Download": "",
+      "Student's Tasks": "Study just learned materials, redo sample examples and do Assignment 01 & Progress Test 01",
+      "URLs": ""
+    },
+    {
+      "Session": "25",
+      "Topic": "Module 03-Chapter 10: Building Windows Forms Application",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO3",
+      "ITU": "TU",
+      "Student Materials": "Chapter 07: https://docs.microsoft.com/en-us/dotnet/standard/threading/ Chapter 08: https://docs.microsoft.com/en-us/dotnet/standard/assembly/ Chapter 09: https://docs.microsoft.com/en-us/dotnet/api/system.io?view=net-5.0 Chapter 10: https://docs.microsoft.com/en-us/dotnet/desktop/winforms/?view=netdesktop-5.0",
+      "S-Download": "",
+      "Student's Tasks": "Study just learned materials, redo sample examples and do Assignment 01 & Progress Test 01",
+      "URLs": ""
+    },
+    {
+      "Session": "26",
+      "Topic": "Module 03-Chapter 10: Building Windows Forms Application(cont.)",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO3",
+      "ITU": "TU",
+      "Student Materials": "Chapter 07: https://docs.microsoft.com/en-us/dotnet/standard/threading/ Chapter 08: https://docs.microsoft.com/en-us/dotnet/standard/assembly/ Chapter 09: https://docs.microsoft.com/en-us/dotnet/api/system.io?view=net-5.0 Chapter 10: https://docs.microsoft.com/en-us/dotnet/desktop/winforms/?view=netdesktop-5.0",
+      "S-Download": "",
+      "Student's Tasks": "Study just learned materials, redo sample examples and do Assignment 01 & Progress Test 01",
+      "URLs": ""
+    },
+    {
+      "Session": "27",
+      "Topic": "Module 03-Chapter 10: Building Windows Forms Application(cont.)",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO3",
+      "ITU": "TU",
+      "Student Materials": "Chapter 07: https://docs.microsoft.com/en-us/dotnet/standard/threading/ Chapter 08: https://docs.microsoft.com/en-us/dotnet/standard/assembly/ Chapter 09: https://docs.microsoft.com/en-us/dotnet/api/system.io?view=net-5.0 Chapter 10: https://docs.microsoft.com/en-us/dotnet/desktop/winforms/?view=netdesktop-5.0",
+      "S-Download": "",
+      "Student's Tasks": "Study just learned materials, redo sample examples and do Assignment 01 & Progress Test 01",
+      "URLs": ""
+    },
+    {
+      "Session": "28",
+      "Topic": "Module 03-Chapter 10: Building Windows Forms Application(cont.)",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO3",
+      "ITU": "TU",
+      "Student Materials": "Chapter 07: https://docs.microsoft.com/en-us/dotnet/standard/threading/ Chapter 08: https://docs.microsoft.com/en-us/dotnet/standard/assembly/ Chapter 09: https://docs.microsoft.com/en-us/dotnet/api/system.io?view=net-5.0 Chapter 10: https://docs.microsoft.com/en-us/dotnet/desktop/winforms/?view=netdesktop-5.0",
+      "S-Download": "",
+      "Student's Tasks": "Study just learned materials, redo sample examples and do Assignment 01 & Progress Test 01",
+      "URLs": ""
+    },
+    {
+      "Session": "29",
+      "Topic": "Module 03-Chapter 10: Building Windows Forms Application(cont.)",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO3",
+      "ITU": "TU",
+      "Student Materials": "Chapter 07: https://docs.microsoft.com/en-us/dotnet/standard/threading/ Chapter 08: https://docs.microsoft.com/en-us/dotnet/standard/assembly/ Chapter 09: https://docs.microsoft.com/en-us/dotnet/api/system.io?view=net-5.0 Chapter 10: https://docs.microsoft.com/en-us/dotnet/desktop/winforms/?view=netdesktop-5.0",
+      "S-Download": "",
+      "Student's Tasks": "Study just learned materials, redo sample examples and do Assignment 01 & Progress Test 01",
+      "URLs": ""
+    },
+    {
+      "Session": "30",
+      "Topic": "Module 03-Chapter 10: Building Windows Forms Application and Demo App Windows Forms (cont.)",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO3",
+      "ITU": "TU",
+      "Student Materials": "Chapter 07: https://docs.microsoft.com/en-us/dotnet/standard/threading/ Chapter 08: https://docs.microsoft.com/en-us/dotnet/standard/assembly/ Chapter 09: https://docs.microsoft.com/en-us/dotnet/api/system.io?view=net-5.0 Chapter 10: https://docs.microsoft.com/en-us/dotnet/desktop/winforms/?view=netdesktop-5.0",
+      "S-Download": "",
+      "Student's Tasks": "Study just learned materials, redo sample examples and do Assignment 01 & Progress Test 01",
+      "URLs": ""
+    },
+    {
+      "Session": "31",
+      "Topic": "Guiding Assignment 01 - OOP , Collections , LINQ to Object & Assemblies Progress Test 01",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO3",
+      "ITU": "TU",
+      "Student Materials": "Chapter 07: https://docs.microsoft.com/en-us/dotnet/standard/threading/ Chapter 08: https://docs.microsoft.com/en-us/dotnet/standard/assembly/ Chapter 09: https://docs.microsoft.com/en-us/dotnet/api/system.io?view=net-5.0 Chapter 10: https://docs.microsoft.com/en-us/dotnet/desktop/winforms/?view=netdesktop-5.0",
+      "S-Download": "",
+      "Student's Tasks": "Study just learned materials, redo sample examples and do Assignment 01 & Progress Test 01",
+      "URLs": ""
+    },
+    {
+      "Session": "32",
+      "Topic": "Guiding Assignment 01 - OOP , Collections , LINQ to Object & Assemblies Progress Test 01",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO3",
+      "ITU": "TU",
+      "Student Materials": "Chapter 07: https://docs.microsoft.com/en-us/dotnet/standard/threading/ Chapter 08: https://docs.microsoft.com/en-us/dotnet/standard/assembly/ Chapter 09: https://docs.microsoft.com/en-us/dotnet/api/system.io?view=net-5.0 Chapter 10: https://docs.microsoft.com/en-us/dotnet/desktop/winforms/?view=netdesktop-5.0",
+      "S-Download": "",
+      "Student's Tasks": "Study just learned materials, redo sample examples and do Assignment 01 & Progress Test 01",
+      "URLs": ""
+    },
+    {
+      "Session": "33",
+      "Topic": "Project Assistant",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO4",
+      "ITU": "TU",
+      "Student Materials": "Chapter 11: https://docs.microsoft.com/en-us/dotnet/framework/data/adonet/ado-net-overview Chapter 12: https://docs.microsoft.com/en-us/ef/core/",
+      "S-Download": "",
+      "Student's Tasks": "Study just learned materials, redo sample examples and do Project Assistant",
+      "URLs": ""
+    },
+    {
+      "Session": "34",
+      "Topic": "Project Assistant (cont.)",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO4",
+      "ITU": "TU",
+      "Student Materials": "Chapter 11: https://docs.microsoft.com/en-us/dotnet/framework/data/adonet/ado-net-overview Chapter 12: https://docs.microsoft.com/en-us/ef/core/",
+      "S-Download": "",
+      "Student's Tasks": "Study just learned materials, redo sample examples and do Project Assistant",
+      "URLs": ""
+    },
+    {
+      "Session": "35",
+      "Topic": "Module 04-Chapter 11: Accessing Database with ADO.NET",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO4",
+      "ITU": "TU",
+      "Student Materials": "Chapter 11: https://docs.microsoft.com/en-us/dotnet/framework/data/adonet/ado-net-overview Chapter 12: https://docs.microsoft.com/en-us/ef/core/",
+      "S-Download": "",
+      "Student's Tasks": "Study just learned materials, redo sample examples and do Project Assistant",
+      "URLs": ""
+    },
+    {
+      "Session": "36",
+      "Topic": "Module 04-Chapter 11: Accessing Database with ADO.NET (cont. )",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO4",
+      "ITU": "TU",
+      "Student Materials": "Chapter 11: https://docs.microsoft.com/en-us/dotnet/framework/data/adonet/ado-net-overview Chapter 12: https://docs.microsoft.com/en-us/ef/core/",
+      "S-Download": "",
+      "Student's Tasks": "Study just learned materials, redo sample examples and do Project Assistant",
+      "URLs": ""
+    },
+    {
+      "Session": "37",
+      "Topic": "Module 04-Chapter 11: Accessing Database with ADO.NET (cont. )",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO4",
+      "ITU": "TU",
+      "Student Materials": "Chapter 11: https://docs.microsoft.com/en-us/dotnet/framework/data/adonet/ado-net-overview Chapter 12: https://docs.microsoft.com/en-us/ef/core/",
+      "S-Download": "",
+      "Student's Tasks": "Study just learned materials, redo sample examples and do Project Assistant",
+      "URLs": ""
+    },
+    {
+      "Session": "38",
+      "Topic": "Module 04-Chapter 11: Accessing Database with ADO.NET (cont. )",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO4",
+      "ITU": "TU",
+      "Student Materials": "Chapter 11: https://docs.microsoft.com/en-us/dotnet/framework/data/adonet/ado-net-overview Chapter 12: https://docs.microsoft.com/en-us/ef/core/",
+      "S-Download": "",
+      "Student's Tasks": "Study just learned materials, redo sample examples and do Project Assistant",
+      "URLs": ""
+    },
+    {
+      "Session": "39",
+      "Topic": "Module 04-Chapter 11: Accessing Database with ADO.NET (cont. )",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO4",
+      "ITU": "TU",
+      "Student Materials": "Chapter 11: https://docs.microsoft.com/en-us/dotnet/framework/data/adonet/ado-net-overview Chapter 12: https://docs.microsoft.com/en-us/ef/core/",
+      "S-Download": "",
+      "Student's Tasks": "Study just learned materials, redo sample examples and do Project Assistant",
+      "URLs": ""
+    },
+    {
+      "Session": "40",
+      "Topic": "Module 04-Chapter 11: Accessing Database with ADO.NET (cont. )",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO4",
+      "ITU": "TU",
+      "Student Materials": "Chapter 11: https://docs.microsoft.com/en-us/dotnet/framework/data/adonet/ado-net-overview Chapter 12: https://docs.microsoft.com/en-us/ef/core/",
+      "S-Download": "",
+      "Student's Tasks": "Study just learned materials, redo sample examples and do Project Assistant",
+      "URLs": ""
+    },
+    {
+      "Session": "41",
+      "Topic": "Module 04-Chapter 12: Working with Databases Using Entity Framework Core",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO4",
+      "ITU": "TU",
+      "Student Materials": "Chapter 11: https://docs.microsoft.com/en-us/dotnet/framework/data/adonet/ado-net-overview Chapter 12: https://docs.microsoft.com/en-us/ef/core/",
+      "S-Download": "",
+      "Student's Tasks": "Study just learned materials, redo sample examples and do Project Assistant",
+      "URLs": ""
+    },
+    {
+      "Session": "42",
+      "Topic": "Module 04-Chapter 12: Working with Databases Using Entity Framework Core (cont.)",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO4",
+      "ITU": "TU",
+      "Student Materials": "Chapter 11: https://docs.microsoft.com/en-us/dotnet/framework/data/adonet/ado-net-overview Chapter 12: https://docs.microsoft.com/en-us/ef/core/",
+      "S-Download": "",
+      "Student's Tasks": "Study just learned materials, redo sample examples and do Project Assistant",
+      "URLs": ""
+    },
+    {
+      "Session": "43",
+      "Topic": "Module 04-Chapter 12: Working with Databases Using Entity Framework Core (cont.)",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO4",
+      "ITU": "TU",
+      "Student Materials": "Chapter 11: https://docs.microsoft.com/en-us/dotnet/framework/data/adonet/ado-net-overview Chapter 12: https://docs.microsoft.com/en-us/ef/core/",
+      "S-Download": "",
+      "Student's Tasks": "Study just learned materials, redo sample examples and do Project Assistant",
+      "URLs": ""
+    },
+    {
+      "Session": "44",
+      "Topic": "Module 04-Chapter 12: Working with Databases Using Entity Framework Core (cont.)",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO4",
+      "ITU": "TU",
+      "Student Materials": "Chapter 11: https://docs.microsoft.com/en-us/dotnet/framework/data/adonet/ado-net-overview Chapter 12: https://docs.microsoft.com/en-us/ef/core/",
+      "S-Download": "",
+      "Student's Tasks": "Study just learned materials, redo sample examples and do Project Assistant",
+      "URLs": ""
+    },
+    {
+      "Session": "45",
+      "Topic": "Guiding Assignment 02 - Accessing Database by ADO.NET / Entity Framework Core",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO5",
+      "ITU": "TU",
+      "Student Materials": "Chapter 13: https://docs.microsoft.com/en-us/aspnet/core/mvc/overview?view=aspnetcore-5.0 Chapter 14: https://docs.microsoft.com/en-us/aspnet/core/?view=aspnetcore-5.0",
+      "S-Download": "",
+      "Student's Tasks": "Study just learned materials, redo sample examples and",
+      "URLs": ""
+    },
+    {
+      "Session": "46",
+      "Topic": "Guiding Assignment 02 - Accessing Database by ADO.NET / Entity Framework Core",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO5",
+      "ITU": "TU",
+      "Student Materials": "Chapter 13: https://docs.microsoft.com/en-us/aspnet/core/mvc/overview?view=aspnetcore-5.0 Chapter 14: https://docs.microsoft.com/en-us/aspnet/core/?view=aspnetcore-5.0",
+      "S-Download": "",
+      "Student's Tasks": "Study just learned materials, redo sample examples and",
+      "URLs": ""
+    },
+    {
+      "Session": "47",
+      "Topic": "Project Assistant",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO5",
+      "ITU": "TU",
+      "Student Materials": "Chapter 13: https://docs.microsoft.com/en-us/aspnet/core/mvc/overview?view=aspnetcore-5.0 Chapter 14: https://docs.microsoft.com/en-us/aspnet/core/?view=aspnetcore-5.0",
+      "S-Download": "",
+      "Student's Tasks": "Study just learned materials, redo sample examples and",
+      "URLs": ""
+    },
+    {
+      "Session": "48",
+      "Topic": "Project Assistant (cont.)",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO5",
+      "ITU": "TU",
+      "Student Materials": "Chapter 13: https://docs.microsoft.com/en-us/aspnet/core/mvc/overview?view=aspnetcore-5.0 Chapter 14: https://docs.microsoft.com/en-us/aspnet/core/?view=aspnetcore-5.0",
+      "S-Download": "",
+      "Student's Tasks": "Study just learned materials, redo sample examples and",
+      "URLs": ""
+    },
+    {
+      "Session": "49",
+      "Topic": "Module 05-Chapter 13: Building Web Application using ASP.NET Core MVC",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO5",
+      "ITU": "TU",
+      "Student Materials": "Chapter 13: https://docs.microsoft.com/en-us/aspnet/core/mvc/overview?view=aspnetcore-5.0 Chapter 14: https://docs.microsoft.com/en-us/aspnet/core/?view=aspnetcore-5.0",
+      "S-Download": "",
+      "Student's Tasks": "Study just learned materials, redo sample examples and",
+      "URLs": ""
+    },
+    {
+      "Session": "50",
+      "Topic": "Module 05-Chapter 13: Building Web Application using ASP.NET Core MVC (cont.)",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO5",
+      "ITU": "TU",
+      "Student Materials": "Chapter 13: https://docs.microsoft.com/en-us/aspnet/core/mvc/overview?view=aspnetcore-5.0 Chapter 14: https://docs.microsoft.com/en-us/aspnet/core/?view=aspnetcore-5.0",
+      "S-Download": "",
+      "Student's Tasks": "Study just learned materials, redo sample examples and",
+      "URLs": ""
+    },
+    {
+      "Session": "51",
+      "Topic": "Module 05-Chapter 13: Building Web Application using ASP.NET Core MVC (cont.)",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO5",
+      "ITU": "TU",
+      "Student Materials": "Chapter 13: https://docs.microsoft.com/en-us/aspnet/core/mvc/overview?view=aspnetcore-5.0 Chapter 14: https://docs.microsoft.com/en-us/aspnet/core/?view=aspnetcore-5.0",
+      "S-Download": "",
+      "Student's Tasks": "Study just learned materials, redo sample examples and",
+      "URLs": ""
+    },
+    {
+      "Session": "52",
+      "Topic": "Module 05-Chapter 13: Building Web Application using ASP.NET Core MVC (cont.)",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO5",
+      "ITU": "TU",
+      "Student Materials": "Chapter 13: https://docs.microsoft.com/en-us/aspnet/core/mvc/overview?view=aspnetcore-5.0 Chapter 14: https://docs.microsoft.com/en-us/aspnet/core/?view=aspnetcore-5.0",
+      "S-Download": "",
+      "Student's Tasks": "Study just learned materials, redo sample examples and",
+      "URLs": ""
+    },
+    {
+      "Session": "53",
+      "Topic": "Module 05-Chapter 14: Working with ASP.NET Core Web API",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO5",
+      "ITU": "TU",
+      "Student Materials": "Chapter 13: https://docs.microsoft.com/en-us/aspnet/core/mvc/overview?view=aspnetcore-5.0 Chapter 14: https://docs.microsoft.com/en-us/aspnet/core/?view=aspnetcore-5.0",
+      "S-Download": "",
+      "Student's Tasks": "Students prepare content according to topics given by lecturers then present and other groups will criticize",
+      "URLs": ""
+    },
+    {
+      "Session": "54",
+      "Topic": "Module 05-Chapter 14: Working with ASP.NET Core Web API (cont.) and Demo App Using APIs",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO5",
+      "ITU": "TU",
+      "Student Materials": "Chapter 13: https://docs.microsoft.com/en-us/aspnet/core/mvc/overview?view=aspnetcore-5.0 Chapter 14: https://docs.microsoft.com/en-us/aspnet/core/?view=aspnetcore-5.0",
+      "S-Download": "",
+      "Student's Tasks": "Students prepare content according to topics given by lecturers then present and other groups will criticize",
+      "URLs": ""
+    },
+    {
+      "Session": "55",
+      "Topic": "Guiding Assignment 03 - Building ASP.NET MVC Core Application and Web API Progress Test 02",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO5",
+      "ITU": "TU",
+      "Student Materials": "Chapter 13: https://docs.microsoft.com/en-us/aspnet/core/mvc/overview?view=aspnetcore-5.0 Chapter 14: https://docs.microsoft.com/en-us/aspnet/core/?view=aspnetcore-5.0",
+      "S-Download": "",
+      "Student's Tasks": "Do Assignment 02 & 03 and Progress Test 02",
+      "URLs": ""
+    },
+    {
+      "Session": "56",
+      "Topic": "Guiding Assignment 03 - Building ASP.NET MVC Core Application and Web API Progress Test 02 (cont.)",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO5",
+      "ITU": "TU",
+      "Student Materials": "Chapter 13: https://docs.microsoft.com/en-us/aspnet/core/mvc/overview?view=aspnetcore-5.0 Chapter 14: https://docs.microsoft.com/en-us/aspnet/core/?view=aspnetcore-5.0",
+      "S-Download": "",
+      "Student's Tasks": "Do Assignment 02 & 03 and Progress Test 02",
+      "URLs": ""
+    },
+    {
+      "Session": "57",
+      "Topic": "Project Evaluation",
+      "Learning-Teaching Type": "Offline",
+      "LO": "",
+      "ITU": "",
+      "Student Materials": "",
+      "S-Download": "",
+      "Student's Tasks": "",
+      "URLs": ""
+    },
+    {
+      "Session": "58",
+      "Topic": "Project Evaluation",
+      "Learning-Teaching Type": "Offline",
+      "LO": "",
+      "ITU": "",
+      "Student Materials": "",
+      "S-Download": "",
+      "Student's Tasks": "",
+      "URLs": ""
+    },
+    {
+      "Session": "59",
+      "Topic": "Project Evaluation",
+      "Learning-Teaching Type": "Offline",
+      "LO": "",
+      "ITU": "",
+      "Student Materials": "",
+      "S-Download": "",
+      "Student's Tasks": "",
+      "URLs": ""
+    },
+    {
+      "Session": "60",
+      "Topic": "Project Evaluation",
+      "Learning-Teaching Type": "Offline",
+      "LO": "",
+      "ITU": "",
+      "Student Materials": "",
+      "S-Download": "",
+      "Student's Tasks": "",
+      "URLs": ""
+    },
+    {
+      "Session": "61",
+      "Topic": "Project Evaluation (Extra Time)",
+      "Learning-Teaching Type": "Offline",
+      "LO": "",
+      "ITU": "",
+      "Student Materials": "",
+      "S-Download": "",
+      "Student's Tasks": "",
+      "URLs": ""
+    },
+    {
+      "Session": "62",
+      "Topic": "Project Evaluation (Extra Time)",
+      "Learning-Teaching Type": "Offline",
+      "LO": "",
+      "ITU": "",
+      "Student Materials": "",
+      "S-Download": "",
+      "Student's Tasks": "",
+      "URLs": ""
+    },
+    {
+      "Session": "63",
+      "Topic": "Review (Extra Time)",
+      "Learning-Teaching Type": "Offline",
+      "LO": "All LOs",
+      "ITU": "",
+      "Student Materials": "",
+      "S-Download": "",
+      "Student's Tasks": "",
+      "URLs": ""
+    },
+    {
+      "Session": "64",
+      "Topic": "Review (Extra Time)",
+      "Learning-Teaching Type": "Offline",
+      "LO": "All LOs",
+      "ITU": "",
+      "Student Materials": "",
+      "S-Download": "",
+      "Student's Tasks": "",
+      "URLs": ""
+    },
+    {
+      "Session": "65",
+      "Topic": "Review (Extra Time)",
+      "Learning-Teaching Type": "Offline",
+      "LO": "All LOs",
+      "ITU": "",
+      "Student Materials": "",
+      "S-Download": "",
+      "Student's Tasks": "",
+      "URLs": ""
+    },
+    {
+      "Session": "66",
+      "Topic": "Review (Extra Time)",
+      "Learning-Teaching Type": "Offline",
+      "LO": "All LOs",
+      "ITU": "",
+      "Student Materials": "",
+      "S-Download": "",
+      "Student's Tasks": "",
+      "URLs": ""
+    }
+  ],
+  "constructive_questions": [
+    {
+      "No.": "1",
+      "Session No": "1",
+      "Name": "CQ1",
+      "Details": "What is .Net Framework? How many versions are there at now?"
+    },
+    {
+      "No.": "2",
+      "Session No": "1",
+      "Name": "CQ2",
+      "Details": "How many components are there in .Net Framework architecture? Describe about them."
+    },
+    {
+      "No.": "3",
+      "Session No": "1",
+      "Name": "CQ3",
+      "Details": "What is Cross-platform application? benefit of it?"
+    },
+    {
+      "No.": "4",
+      "Session No": "1",
+      "Name": "CQ4",
+      "Details": "What are new feature in .NET 5/6? Benefit of it?"
+    },
+    {
+      "No.": "5",
+      "Session No": "1",
+      "Name": "CQ5",
+      "Details": "What are differrent between Visual Studio and Visual Code?"
+    },
+    {
+      "No.": "6",
+      "Session No": "1",
+      "Name": "CQ6",
+      "Details": "What is Nuget? How to install nuget package in .Net Core?"
+    },
+    {
+      "No.": "7",
+      "Session No": "2",
+      "Name": "CQ1",
+      "Details": "What is .Net Framework? How many versions are there at now?"
+    },
+    {
+      "No.": "8",
+      "Session No": "2",
+      "Name": "CQ2",
+      "Details": "How many components are there in .Net Framework architecture? Describe about them."
+    },
+    {
+      "No.": "9",
+      "Session No": "2",
+      "Name": "CQ3",
+      "Details": "What is Cross-platform application? benefit of it?"
+    },
+    {
+      "No.": "10",
+      "Session No": "2",
+      "Name": "CQ4",
+      "Details": "What are new feature in .NET 5/6? Benefit of it?"
+    },
+    {
+      "No.": "11",
+      "Session No": "2",
+      "Name": "CQ5",
+      "Details": "What are differrent between Visual Studio and Visual Code?"
+    },
+    {
+      "No.": "12",
+      "Session No": "2",
+      "Name": "CQ6",
+      "Details": "What is Nuget? How to install nuget package in .Net Core?"
+    },
+    {
+      "No.": "13",
+      "Session No": "3",
+      "Name": "CQ1",
+      "Details": "What is C#? Descibe some advantages of it? Demo for how to create a Console Application?"
+    },
+    {
+      "No.": "14",
+      "Session No": "3",
+      "Name": "CQ2",
+      "Details": "What is namespace? Roles of it? give some examples?"
+    },
+    {
+      "No.": "15",
+      "Session No": "3",
+      "Name": "CQ3",
+      "Details": "What are differrent between Value Type and Reference Type in C#?"
+    },
+    {
+      "No.": "16",
+      "Session No": "3",
+      "Name": "CQ4",
+      "Details": "What is boxing and unboxing in C#? give some examples?"
+    },
+    {
+      "No.": "17",
+      "Session No": "3",
+      "Name": "CQ5",
+      "Details": "What is dynamic type in C#? give some examples in code?"
+    },
+    {
+      "No.": "18",
+      "Session No": "4",
+      "Name": "CQ1",
+      "Details": "What is C#? Descibe some advantages of it? Demo for how to create a Console Application?"
+    },
+    {
+      "No.": "19",
+      "Session No": "4",
+      "Name": "CQ2",
+      "Details": "What is namespace? Roles of it? give some examples?"
+    },
+    {
+      "No.": "20",
+      "Session No": "4",
+      "Name": "CQ3",
+      "Details": "What are differrent between Value Type and Reference Type in C#?"
+    },
+    {
+      "No.": "21",
+      "Session No": "4",
+      "Name": "CQ4",
+      "Details": "What is boxing and unboxing in C#? give some examples?"
+    },
+    {
+      "No.": "22",
+      "Session No": "4",
+      "Name": "CQ5",
+      "Details": "What is dynamic type in C#? give some examples in code?"
+    },
+    {
+      "No.": "23",
+      "Session No": "5",
+      "Name": "CQ1",
+      "Details": "What are var keyword, string interpolation and numeric literal? give some examples in code?"
+    },
+    {
+      "No.": "24",
+      "Session No": "5",
+      "Name": "CQ2",
+      "Details": "What are different between ref and out keyword? give an example in code?"
+    },
+    {
+      "No.": "25",
+      "Session No": "5",
+      "Name": "CQ3",
+      "Details": "What are ref local, ref return, local function and static local function? give some examples in code?"
+    },
+    {
+      "No.": "26",
+      "Session No": "5",
+      "Name": "CQ4",
+      "Details": "What are tuples, discard, pattern matching, null-conditional operator and nullable? give some examples in code?"
+    },
+    {
+      "No.": "27",
+      "Session No": "6",
+      "Name": "CQ1",
+      "Details": "What are var keyword, string interpolation and numeric literal? give some examples in code?"
+    },
+    {
+      "No.": "28",
+      "Session No": "6",
+      "Name": "CQ2",
+      "Details": "What are different between ref and out keyword? give an example in code?"
+    },
+    {
+      "No.": "29",
+      "Session No": "6",
+      "Name": "CQ3",
+      "Details": "What are ref local, ref return, local function and static local function? give some examples in code?"
+    },
+    {
+      "No.": "30",
+      "Session No": "6",
+      "Name": "CQ4",
+      "Details": "What are tuples, discard, pattern matching, null-conditional operator and nullable? give some examples in code?"
+    },
+    {
+      "No.": "31",
+      "Session No": "7",
+      "Name": "CQ1",
+      "Details": "What is object-oriented programming? Befefits and drawbacks of it? What are features of it?"
+    },
+    {
+      "No.": "32",
+      "Session No": "7",
+      "Name": "CQ2",
+      "Details": "What is class and object? give an example."
+    },
+    {
+      "No.": "33",
+      "Session No": "7",
+      "Name": "CQ3",
+      "Details": "What is access specifier? how many types of it? features of them? Give some examples."
+    },
+    {
+      "No.": "34",
+      "Session No": "7",
+      "Name": "CQ4",
+      "Details": "What is encapsulation, inheritance, polymophism, and abstraction in C#? give some examples in code?"
+    },
+    {
+      "No.": "35",
+      "Session No": "8",
+      "Name": "CQ1",
+      "Details": "What is object-oriented programming? Befefits and drawbacks of it? What are features of it?"
+    },
+    {
+      "No.": "36",
+      "Session No": "8",
+      "Name": "CQ2",
+      "Details": "What is class and object? give an example."
+    },
+    {
+      "No.": "37",
+      "Session No": "8",
+      "Name": "CQ3",
+      "Details": "What is access specifier? how many types of it? features of them? Give some examples."
+    },
+    {
+      "No.": "38",
+      "Session No": "8",
+      "Name": "CQ4",
+      "Details": "What is encapsulation, inheritance, polymophism, and abstraction in C#? give some examples in code?"
+    },
+    {
+      "No.": "39",
+      "Session No": "9",
+      "Name": "CQ1",
+      "Details": "What is interface? why we need it? features of it? give some examples in code?"
+    },
+    {
+      "No.": "40",
+      "Session No": "9",
+      "Name": "CQ2",
+      "Details": "What are is, as, readonly, const and using keyword? how to use them?"
+    },
+    {
+      "No.": "41",
+      "Session No": "9",
+      "Name": "CQ3",
+      "Details": "what are extension method, expression body and anonymous type? give some examples in code?"
+    },
+    {
+      "No.": "42",
+      "Session No": "9",
+      "Name": "CQ4",
+      "Details": "what are property and record type? how to use them?"
+    },
+    {
+      "No.": "43",
+      "Session No": "10",
+      "Name": "CQ1",
+      "Details": "What is interface? why we need it? features of it? give some examples in code?"
+    },
+    {
+      "No.": "44",
+      "Session No": "10",
+      "Name": "CQ2",
+      "Details": "What are is, as, readonly, const and using keyword? how to use them?"
+    },
+    {
+      "No.": "45",
+      "Session No": "10",
+      "Name": "CQ3",
+      "Details": "what are extension method, expression body and anonymous type? give some examples in code?"
+    },
+    {
+      "No.": "46",
+      "Session No": "10",
+      "Name": "CQ4",
+      "Details": "what are property and record type? how to use them?"
+    },
+    {
+      "No.": "47",
+      "Session No": "11",
+      "Name": "CQ1",
+      "Details": "What are some problems about performance in C#? What is Generic? Benefits of it?"
+    },
+    {
+      "No.": "48",
+      "Session No": "11",
+      "Name": "CQ2",
+      "Details": "How to use Generic classess, generic methods and generic interfaces? Give some examples in code."
+    },
+    {
+      "No.": "49",
+      "Session No": "11",
+      "Name": "CQ3",
+      "Details": "What are constrant with Type Parameters in Generic?"
+    },
+    {
+      "No.": "50",
+      "Session No": "12",
+      "Name": "CQ1",
+      "Details": "What are some problems about performance in C#? What is Generic? Benefits of it?"
+    },
+    {
+      "No.": "51",
+      "Session No": "12",
+      "Name": "CQ2",
+      "Details": "How to use Generic classess, generic methods and generic interfaces? Give some examples in code."
+    },
+    {
+      "No.": "52",
+      "Session No": "12",
+      "Name": "CQ3",
+      "Details": "What are constrant with Type Parameters in Generic?"
+    },
+    {
+      "No.": "53",
+      "Session No": "13",
+      "Name": "CQ1",
+      "Details": "What is collection? Introduction to some interfaces and classes of collection?"
+    },
+    {
+      "No.": "54",
+      "Session No": "13",
+      "Name": "CQ2",
+      "Details": "What are List, SortedList and Dictionary? How to use them? Demo."
+    },
+    {
+      "No.": "55",
+      "Session No": "13",
+      "Name": "CQ3",
+      "Details": "How to define a custom sort method for collection? Demo"
+    },
+    {
+      "No.": "56",
+      "Session No": "13",
+      "Name": "CQ4",
+      "Details": "What is yield keyword? How to use it? Demo."
+    },
+    {
+      "No.": "57",
+      "Session No": "14",
+      "Name": "CQ1",
+      "Details": "What is collection? Introduction to some interfaces and classes of collection?"
+    },
+    {
+      "No.": "58",
+      "Session No": "14",
+      "Name": "CQ2",
+      "Details": "What are List, SortedList and Dictionary? How to use them? Demo."
+    },
+    {
+      "No.": "59",
+      "Session No": "14",
+      "Name": "CQ3",
+      "Details": "How to define a custom sort method for collection? Demo"
+    },
+    {
+      "No.": "60",
+      "Session No": "14",
+      "Name": "CQ4",
+      "Details": "What is yield keyword? How to use it? Demo."
+    },
+    {
+      "No.": "61",
+      "Session No": "15",
+      "Name": "CQ1",
+      "Details": "What is design pattern? why do we need them?"
+    },
+    {
+      "No.": "62",
+      "Session No": "15",
+      "Name": "CQ2",
+      "Details": "What is singleton pattern? give some case-studies and demo."
+    },
+    {
+      "No.": "63",
+      "Session No": "15",
+      "Name": "CQ3",
+      "Details": "What is factoriespattern? give some case-studies and demo."
+    },
+    {
+      "No.": "64",
+      "Session No": "16",
+      "Name": "CQ1",
+      "Details": "What is design pattern? why do we need them?"
+    },
+    {
+      "No.": "65",
+      "Session No": "16",
+      "Name": "CQ2",
+      "Details": "What is singleton pattern? give some case-studies and demo."
+    },
+    {
+      "No.": "66",
+      "Session No": "16",
+      "Name": "CQ3",
+      "Details": "What is factoriespattern? give some case-studies and demo."
+    },
+    {
+      "No.": "67",
+      "Session No": "17",
+      "Name": "CQ1",
+      "Details": "What is abstract factory pattern? give some case-studies and demo."
+    },
+    {
+      "No.": "68",
+      "Session No": "17",
+      "Name": "CQ2",
+      "Details": "What is builder pattern? give some case-studies and demo."
+    },
+    {
+      "No.": "69",
+      "Session No": "17",
+      "Name": "CQ3",
+      "Details": "What is prototype pattern? give some case-studies and demo."
+    },
+    {
+      "No.": "70",
+      "Session No": "18",
+      "Name": "CQ1",
+      "Details": "What is abstract factory pattern? give some case-studies and demo."
+    },
+    {
+      "No.": "71",
+      "Session No": "18",
+      "Name": "CQ2",
+      "Details": "What is builder pattern? give some case-studies and demo."
+    },
+    {
+      "No.": "72",
+      "Session No": "18",
+      "Name": "CQ3",
+      "Details": "What is prototype pattern? give some case-studies and demo."
+    },
+    {
+      "No.": "73",
+      "Session No": "21",
+      "Name": "CQ1",
+      "Details": "What are delegate, multicast delegate and anonymous method? roles of them? Demo"
+    },
+    {
+      "No.": "74",
+      "Session No": "21",
+      "Name": "CQ2",
+      "Details": "What is event? How to use? Demo"
+    },
+    {
+      "No.": "75",
+      "Session No": "21",
+      "Name": "CQ3",
+      "Details": "What is Lambda expression, standard query opertor? How to use? Demo"
+    },
+    {
+      "No.": "76",
+      "Session No": "21",
+      "Name": "CQ4",
+      "Details": "What is LinQ? features of it? Demo"
+    },
+    {
+      "No.": "77",
+      "Session No": "22",
+      "Name": "CQ1",
+      "Details": "What are delegate, multicast delegate and anonymous method? roles of them? Demo"
+    },
+    {
+      "No.": "78",
+      "Session No": "22",
+      "Name": "CQ2",
+      "Details": "What is event? How to use? Demo"
+    },
+    {
+      "No.": "79",
+      "Session No": "22",
+      "Name": "CQ3",
+      "Details": "What is Lambda expression, standard query opertor? How to use? Demo"
+    },
+    {
+      "No.": "80",
+      "Session No": "22",
+      "Name": "CQ4",
+      "Details": "What is LinQ? features of it? Demo"
+    },
+    {
+      "No.": "81",
+      "Session No": "23",
+      "Name": "CQ1",
+      "Details": "What is concurrency programming? Features of it? problems of concurrency?"
+    },
+    {
+      "No.": "82",
+      "Session No": "23",
+      "Name": "CQ2",
+      "Details": "What is Thread in C#? Demo"
+    },
+    {
+      "No.": "83",
+      "Session No": "23",
+      "Name": "CQ3",
+      "Details": "What is ThreadStart in C#? Demo"
+    },
+    {
+      "No.": "84",
+      "Session No": "23",
+      "Name": "CQ4",
+      "Details": "What is ParameterizedThreadStart in C#? Demo"
+    },
+    {
+      "No.": "85",
+      "Session No": "24",
+      "Name": "CQ1",
+      "Details": "What is concurrency programming? Features of it? problems of concurrency?"
+    },
+    {
+      "No.": "86",
+      "Session No": "24",
+      "Name": "CQ2",
+      "Details": "What is Thread in C#? Demo"
+    },
+    {
+      "No.": "87",
+      "Session No": "24",
+      "Name": "CQ3",
+      "Details": "What is ThreadStart in C#? Demo"
+    },
+    {
+      "No.": "88",
+      "Session No": "24",
+      "Name": "CQ4",
+      "Details": "What is ParameterizedThreadStart in C#? Demo"
+    },
+    {
+      "No.": "89",
+      "Session No": "25",
+      "Name": "CQ1",
+      "Details": "What is race condition in C#? Demo"
+    },
+    {
+      "No.": "90",
+      "Session No": "25",
+      "Name": "CQ2",
+      "Details": "What is Timer callback in C#? Demo"
+    },
+    {
+      "No.": "91",
+      "Session No": "25",
+      "Name": "CQ3",
+      "Details": "What is ThreadPool in C#? Demo"
+    },
+    {
+      "No.": "92",
+      "Session No": "26",
+      "Name": "CQ1",
+      "Details": "What is race condition in C#? Demo"
+    },
+    {
+      "No.": "93",
+      "Session No": "26",
+      "Name": "CQ2",
+      "Details": "What is Timer callback in C#? Demo"
+    },
+    {
+      "No.": "94",
+      "Session No": "26",
+      "Name": "CQ3",
+      "Details": "What is ThreadPool in C#? Demo"
+    },
+    {
+      "No.": "95",
+      "Session No": "27",
+      "Name": "CQ1",
+      "Details": "What is Assemblies in C#? roles of it. Demo"
+    },
+    {
+      "No.": "96",
+      "Session No": "27",
+      "Name": "CQ2",
+      "Details": "What are roles of .NET Assemblies?"
+    },
+    {
+      "No.": "97",
+      "Session No": "27",
+      "Name": "CQ3",
+      "Details": "What are format of .NET Assemblies?"
+    },
+    {
+      "No.": "98",
+      "Session No": "27",
+      "Name": "CQ4",
+      "Details": "How to create a .NET Assemblies and consume Assemblies with C# Console Application?"
+    },
+    {
+      "No.": "99",
+      "Session No": "28",
+      "Name": "CQ1",
+      "Details": "What is Assemblies in C#? roles of it. Demo"
+    },
+    {
+      "No.": "100",
+      "Session No": "28",
+      "Name": "CQ2",
+      "Details": "What are roles of .NET Assemblies?"
+    },
+    {
+      "No.": "101",
+      "Session No": "28",
+      "Name": "CQ3",
+      "Details": "What are format of .NET Assemblies?"
+    },
+    {
+      "No.": "102",
+      "Session No": "28",
+      "Name": "CQ4",
+      "Details": "How to create a .NET Assemblies and consume Assemblies with C# Console Application?"
+    },
+    {
+      "No.": "103",
+      "Session No": "29",
+      "Name": "CQ1",
+      "Details": "What is FileStream in C#? roles of it. Demo"
+    },
+    {
+      "No.": "104",
+      "Session No": "29",
+      "Name": "CQ2",
+      "Details": "What is File in C#? Demo"
+    },
+    {
+      "No.": "105",
+      "Session No": "29",
+      "Name": "CQ3",
+      "Details": "What is Directory Class in C#? How to create, delete a directory and list everything in a directory?"
+    },
+    {
+      "No.": "106",
+      "Session No": "29",
+      "Name": "CQ4",
+      "Details": "What are StreamWriter and StreamReader in C#? Demo"
+    },
+    {
+      "No.": "107",
+      "Session No": "29",
+      "Name": "CQ5",
+      "Details": "What are BinaryWriter and BinaryReader in C#? Demo"
+    },
+    {
+      "No.": "108",
+      "Session No": "30",
+      "Name": "CQ1",
+      "Details": "What is FileStream in C#? roles of it. Demo"
+    },
+    {
+      "No.": "109",
+      "Session No": "30",
+      "Name": "CQ2",
+      "Details": "What is File in C#? Demo"
+    },
+    {
+      "No.": "110",
+      "Session No": "30",
+      "Name": "CQ3",
+      "Details": "What is Directory Class in C#? How to create, delete a directory and list everything in a directory?"
+    },
+    {
+      "No.": "111",
+      "Session No": "30",
+      "Name": "CQ4",
+      "Details": "What are StreamWriter and StreamReader in C#? Demo"
+    },
+    {
+      "No.": "112",
+      "Session No": "30",
+      "Name": "CQ5",
+      "Details": "What are BinaryWriter and BinaryReader in C#? Demo"
+    },
+    {
+      "No.": "113",
+      "Session No": "31",
+      "Name": "CQ1",
+      "Details": "What is Windows Form? Why do we need it? Benefits and drawbacks of it?"
+    },
+    {
+      "No.": "114",
+      "Session No": "31",
+      "Name": "CQ2",
+      "Details": "How to create an WF application? Explain all components in the project?"
+    },
+    {
+      "No.": "115",
+      "Session No": "31",
+      "Name": "CQ3",
+      "Details": "what types of control in Windows Form and how to use it?"
+    },
+    {
+      "No.": "116",
+      "Session No": "32",
+      "Name": "CQ1",
+      "Details": "What is Windows Form? Why do we need it? Benefits and drawbacks of it?"
+    },
+    {
+      "No.": "117",
+      "Session No": "32",
+      "Name": "CQ2",
+      "Details": "How to create an WF application? Explain all components in the project?"
+    },
+    {
+      "No.": "118",
+      "Session No": "32",
+      "Name": "CQ3",
+      "Details": "what types of control in Windows Form and how to use it?"
+    },
+    {
+      "No.": "119",
+      "Session No": "33",
+      "Name": "CQ1",
+      "Details": "How to design a GUI for login form? UI? Controls?"
+    },
+    {
+      "No.": "120",
+      "Session No": "33",
+      "Name": "CQ2",
+      "Details": "How to design a GUI TextEditor? UI? Controls?"
+    },
+    {
+      "No.": "121",
+      "Session No": "33",
+      "Name": "CQ3",
+      "Details": "How to design a GUI menu, menustrip,...? UI? Controls?"
+    },
+    {
+      "No.": "122",
+      "Session No": "34",
+      "Name": "CQ1",
+      "Details": "How to design a GUI for login form? UI? Controls?"
+    },
+    {
+      "No.": "123",
+      "Session No": "34",
+      "Name": "CQ2",
+      "Details": "How to design a GUI TextEditor? UI? Controls?"
+    },
+    {
+      "No.": "124",
+      "Session No": "34",
+      "Name": "CQ3",
+      "Details": "How to design a GUI menu, menustrip,...? UI? Controls?"
+    },
+    {
+      "No.": "125",
+      "Session No": "35",
+      "Name": "CQ1",
+      "Details": "How to design a GUI for MDI application? UI? Controls?"
+    },
+    {
+      "No.": "126",
+      "Session No": "35",
+      "Name": "CQ2",
+      "Details": "How to design a GUI for CRUD using Data gridview? UI? Controls?"
+    },
+    {
+      "No.": "127",
+      "Session No": "36",
+      "Name": "CQ1",
+      "Details": "How to design a GUI for MDI application? UI? Controls?"
+    },
+    {
+      "No.": "128",
+      "Session No": "36",
+      "Name": "CQ2",
+      "Details": "How to design a GUI for CRUD using Data gridview? UI? Controls?"
+    },
+    {
+      "No.": "129",
+      "Session No": "41",
+      "Name": "CQ1",
+      "Details": "What is ADO.NET? Features? Benefits? Architecture?"
+    },
+    {
+      "No.": "130",
+      "Session No": "41",
+      "Name": "CQ2",
+      "Details": "What is .NET data provider? how many types are there? What are they?"
+    },
+    {
+      "No.": "131",
+      "Session No": "41",
+      "Name": "CQ3",
+      "Details": "What is ADO.NET Data Provider Factory Model? Demo"
+    },
+    {
+      "No.": "132",
+      "Session No": "42",
+      "Name": "CQ1",
+      "Details": "What is ADO.NET? Features? Benefits? Architecture?"
+    },
+    {
+      "No.": "133",
+      "Session No": "42",
+      "Name": "CQ2",
+      "Details": "What is .NET data provider? how many types are there? What are they?"
+    },
+    {
+      "No.": "134",
+      "Session No": "42",
+      "Name": "CQ3",
+      "Details": "What is ADO.NET Data Provider Factory Model? Demo"
+    },
+    {
+      "No.": "135",
+      "Session No": "43",
+      "Name": "CQ1",
+      "Details": "What is Entity Framework Core? Features? Benefits? Components in it?"
+    },
+    {
+      "No.": "136",
+      "Session No": "43",
+      "Name": "CQ2",
+      "Details": "What are different between Code-First and Database-First? Give some examples?"
+    },
+    {
+      "No.": "137",
+      "Session No": "43",
+      "Name": "CQ3",
+      "Details": "How to manipulate data with Entity Framework Core?"
+    },
+    {
+      "No.": "138",
+      "Session No": "44",
+      "Name": "CQ1",
+      "Details": "What is Entity Framework Core? Features? Benefits? Components in it?"
+    },
+    {
+      "No.": "139",
+      "Session No": "44",
+      "Name": "CQ2",
+      "Details": "What are different between Code-First and Database-First? Give some examples?"
+    },
+    {
+      "No.": "140",
+      "Session No": "44",
+      "Name": "CQ3",
+      "Details": "How to manipulate data with Entity Framework Core?"
+    },
+    {
+      "No.": "141",
+      "Session No": "45",
+      "Name": "CQ1",
+      "Details": "How to access database by EF Core using DB-First?"
+    },
+    {
+      "No.": "142",
+      "Session No": "45",
+      "Name": "CQ2",
+      "Details": "How to access database by EF Core using Code-First?"
+    },
+    {
+      "No.": "143",
+      "Session No": "45",
+      "Name": "CQ3",
+      "Details": "How to use LINQ queries in EF Core?"
+    },
+    {
+      "No.": "144",
+      "Session No": "46",
+      "Name": "CQ1",
+      "Details": "How to access database by EF Core using DB-First?"
+    },
+    {
+      "No.": "145",
+      "Session No": "46",
+      "Name": "CQ2",
+      "Details": "How to access database by EF Core using Code-First?"
+    },
+    {
+      "No.": "146",
+      "Session No": "46",
+      "Name": "CQ3",
+      "Details": "How to use LINQ queries in EF Core?"
+    },
+    {
+      "No.": "147",
+      "Session No": "49",
+      "Name": "CQ1",
+      "Details": "What is ASP.NET Core? Features? Benefits?"
+    },
+    {
+      "No.": "148",
+      "Session No": "49",
+      "Name": "CQ2",
+      "Details": "What are advantages of ASP.NET Core?"
+    },
+    {
+      "No.": "149",
+      "Session No": "49",
+      "Name": "CQ3",
+      "Details": "What is WebServer? How many types? Roles of it?"
+    },
+    {
+      "No.": "150",
+      "Session No": "49",
+      "Name": "CQ4",
+      "Details": "What is architecture of ASP.NET Core? Explain everything in it."
+    },
+    {
+      "No.": "151",
+      "Session No": "49",
+      "Name": "CQ5",
+      "Details": "What are roles of Model, View and Controller?"
+    },
+    {
+      "No.": "152",
+      "Session No": "50",
+      "Name": "CQ1",
+      "Details": "What is ASP.NET Core? Features? Benefits?"
+    },
+    {
+      "No.": "153",
+      "Session No": "50",
+      "Name": "CQ2",
+      "Details": "What are advantages of ASP.NET Core?"
+    },
+    {
+      "No.": "154",
+      "Session No": "50",
+      "Name": "CQ3",
+      "Details": "What is WebServer? How many types? Roles of it?"
+    },
+    {
+      "No.": "155",
+      "Session No": "50",
+      "Name": "CQ4",
+      "Details": "What is architecture of ASP.NET Core? Explain everything in it."
+    },
+    {
+      "No.": "156",
+      "Session No": "50",
+      "Name": "CQ5",
+      "Details": "What are roles of Model, View and Controller?"
+    },
+    {
+      "No.": "157",
+      "Session No": "51",
+      "Name": "CQ1",
+      "Details": "What are different between ViewBag, ViewData, TempData and Session?"
+    },
+    {
+      "No.": "158",
+      "Session No": "51",
+      "Name": "CQ2",
+      "Details": "What is HTML Helper? Benefits? How to use?"
+    },
+    {
+      "No.": "159",
+      "Session No": "51",
+      "Name": "CQ3",
+      "Details": "What are Model Binding and Model Validation? Benefits? How to use?"
+    },
+    {
+      "No.": "160",
+      "Session No": "51",
+      "Name": "CQ4",
+      "Details": "How to make an ASP.NET MVC Core with EF?"
+    },
+    {
+      "No.": "161",
+      "Session No": "52",
+      "Name": "CQ1",
+      "Details": "What are different between ViewBag, ViewData, TempData and Session?"
+    }
+  ],
+  "materials": [
+    {
+      "No.": "1",
+      "Material Description": "Pro C# 9 with .NET 5",
+      "Author": "Andrew TroelsenPhilip Japikse",
+      "Publisher": "Apress",
+      "Published Date": "2021",
+      "Edition": "10th",
+      "ISBN": "978-1-4842-6939-8",
+      "Is Main Material": "False",
+      "Is Hard Copy": "True",
+      "Is Online": "False",
+      "Note": ""
+    },
+    {
+      "No.": "2",
+      "Material Description": "Practical Entity Framework",
+      "Author": "Brian Gorman",
+      "Publisher": "Apress",
+      "Published Date": "2021",
+      "Edition": "1st",
+      "ISBN": "978-1-4842-6044-9",
+      "Is Main Material": "False",
+      "Is Hard Copy": "True",
+      "Is Online": "False",
+      "Note": ""
+    },
+    {
+      "No.": "3",
+      "Material Description": "Developing multi-platform desktop applications with .NET Core 3 and Visual Studio 2019. Build C# GUI application for macOS, Linux and Windows",
+      "Author": "Dimitri Laslo",
+      "Publisher": "Dimitri Laslo",
+      "Published Date": "2019",
+      "Edition": "1st",
+      "ISBN": "978-1705936221",
+      "Is Main Material": "False",
+      "Is Hard Copy": "True",
+      "Is Online": "False",
+      "Note": ""
+    },
+    {
+      "No.": "4",
+      "Material Description": "https://docs.microsoft.com/en-us/dotnet/core/introduction",
+      "Author": "Microsoft",
+      "Publisher": "Microsoft",
+      "Published Date": "N/A",
+      "Edition": "N/A",
+      "ISBN": "",
+      "Is Main Material": "True",
+      "Is Hard Copy": "False",
+      "Is Online": "True",
+      "Note": ""
+    },
+    {
+      "No.": "5",
+      "Material Description": "Course slides (.pptx)",
+      "Author": "",
+      "Publisher": "",
+      "Published Date": "",
+      "Edition": "",
+      "ISBN": "",
+      "Is Main Material": "False",
+      "Is Hard Copy": "False",
+      "Is Online": "False",
+      "Note": ""
+    },
+    {
+      "No.": "6",
+      "Material Description": "Assignment",
+      "Author": "",
+      "Publisher": "",
+      "Published Date": "",
+      "Edition": "",
+      "ISBN": "",
+      "Is Main Material": "False",
+      "Is Hard Copy": "False",
+      "Is Online": "False",
+      "Note": ""
+    }
+  ],
+  "source_path": "data/raw/syllabi/10338.html",
+  "id": "syllabus:10338"
+}

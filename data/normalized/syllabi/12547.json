@@ -1,0 +1,284 @@
+{
+  "syllabus_id": 12547,
+  "subject_code": "ENW493c",
+  "subject_name": "Research Methods & Academic Writing Skills_Phương pháp nghiên cứu & Kỹ năng viết học thuật",
+  "syllabus_name": "Research method and academic writing skills_Phương pháp nghiên cứu và kỹ năng viết học thuật",
+  "credits": 3,
+  "degree_level": "Bachelor",
+  "time_allocation": "Study hour (150h) = 58h online + 3h offline + 100' PE + 87.3 h self-study",
+  "prerequisite": "",
+  "general_information": {
+    "Syllabus ID": "12547",
+    "Syllabus Name": "Research method and academic writing skills_Phương pháp nghiên cứu và kỹ năng viết học thuật",
+    "Course Name English": "Research method and academic writing skills",
+    "Subject Code": "ENW493c",
+    "Learning-Teaching Method": "",
+    "NoCredit": "3",
+    "Degree Level": "Bachelor",
+    "Time Allocation": "Study hour (150h) = 58h online + 3h offline + 100' PE + 87.3 h self-study",
+    "Pre-Requisite": "",
+    "Description": "This specialization provides a comprehensive framework for mastering academic research methods and writing skills. The five courses progressively guide learners through the entire research process, from understanding fundamental research methods to conducting independent research. You will develop critical skills in forming research questions, choosing appropriate methodologies, and gathering and analyzing data. Additionally, you will learn how to structure your research findings and present them in a clear, academic format.",
+    "StudentTasks": "1. Join the online course (spec.) when being invited by the admin. 2. Enroll in each MOOC, regularly study MOOCs at least 5hrs/week by watching videos, reading materials, taking quizzes, doing assgnments... as required 3. Keep online learning progress promptly (bonus will be awarded) 4. Communicate and discuss in forum 5. Attend off-line sessions in the Campus (Optional) 6. Must complete all MOOCs with certification in order to take the Final Exam at Campus",
+    "Tools": "- Internet",
+    "Scoring Scale": "10",
+    "DecisionNo MM/dd/yyyy": "359/QĐ-ĐHFPT dated 04/09/2025",
+    "IsApproved": "True",
+    "Note": "1. Complete the online courses and get certifications to be allowed to take Final Exam 2. Final Exam included Practical Exam (PE): 100% 3. Students who complete all MOOCs before the course deadline will receive 1 bonus point; otherwise, no bonus point will be awarded. 4. Completion Criteria: Final PE Score >=4 & (Final PE Score + bonus) >= 5",
+    "Is Scored": "True",
+    "MinAvgMarkToPass": "5",
+    "IsActive": "True",
+    "ApprovedDate": "4/9/2025"
+  },
+  "active": true,
+  "approved": true,
+  "decision": "359/QĐ-ĐHFPT dated 04/09/2025",
+  "description": "This specialization provides a comprehensive framework for mastering academic research methods and writing skills. The five courses progressively guide learners through the entire research process, from understanding fundamental research methods to conducting independent research. You will develop critical skills in forming research questions, choosing appropriate methodologies, and gathering and analyzing data. Additionally, you will learn how to structure your research findings and present them in a clear, academic format.",
+  "learning_outcomes": [
+    {
+      "No.": "1",
+      "CLO Name": "CLO1",
+      "CLO Details": "Explain the fundamental research methods and approaches and how they can be applied in academic or professional contexts."
+    },
+    {
+      "No.": "2",
+      "CLO Name": "CLO2",
+      "CLO Details": "Compare and contrast qualitative and quantitative research methodologies, including sampling methods and data collection techniques, to assess their suitability for different research contexts."
+    },
+    {
+      "No.": "3",
+      "CLO Name": "CLO3",
+      "CLO Details": "Develop a comprehensive research proposal that integrates historical perspectives, appropriate methodologies, ethical considerations, and strategies for publication and evaluation in Information and Communication Science and Technology."
+    },
+    {
+      "No.": "4",
+      "CLO Name": "CLO4",
+      "CLO Details": "Develop sophisticated argument essays through critical analysis, ethical sourcing, and anti-plagiarism, forming well-founded opinions and thesis statements"
+    },
+    {
+      "No.": "5",
+      "CLO Name": "CLO5",
+      "CLO Details": "Plan and conduct research on an academic topic, following these steps: topic selection, outlining, source gathering, note-taking, maintaining an academic tone, citing sources in MLA format, and avoiding plagiarism. Write a 7-8 page research paper demonstrating proper MLA formatting for source material."
+    }
+  ],
+  "assessments": [
+    {
+      "No.": "1",
+      "Category": "Final exam PE",
+      "Type": "Final exam",
+      "Part": "1",
+      "Weight": "100.0%",
+      "Completion Criteria": "4",
+      "Duration": "90'",
+      "CLO": "All Los",
+      "Question Type": "MCQ, Writing",
+      "No Question": "30 MCQs; 1 Writing",
+      "Knowledge and Skill": "All learned content",
+      "Grading Guide": "Part 1: Multiple choices Marked by Computer 30' (30% - 30 questions) Part 2: Writing - 60' (70%) Write 450-500 words on a given topic",
+      "Note": "By the exam board"
+    }
+  ],
+  "schedule": [
+    {
+      "Session": "1",
+      "Topic": "MOOC 1: Understanding Research Methods - What is research and what makes a good research question? - What is a literature review and why do we need to do one? Offline 1: Introduction to the online course ENW493c",
+      "Learning-Teaching Type": "Offline,Online",
+      "LO": "CLO1",
+      "ITU": "ITU",
+      "Student Materials": "",
+      "S-Download": "",
+      "Student's Tasks": "- Watch all videos, read all materials in the MOOC - Finish quizzes, self-assessment, assignments and take part in discussion boards (if needed) All students should participate in offline slot (if any question)",
+      "URLs": ""
+    },
+    {
+      "Session": "2",
+      "Topic": "MOOC 1: - Why are planning and management skills important for research? - How do you know you have been a good researcher at the end of a project?",
+      "Learning-Teaching Type": "Online",
+      "LO": "CLO1",
+      "ITU": "TU",
+      "Student Materials": "",
+      "S-Download": "",
+      "Student's Tasks": "- Watch all videos, read all materials in the MOOC - Finish quizzes, self-assessment, assignments and take part in discussion boards (if needed)",
+      "URLs": ""
+    },
+    {
+      "Session": "3",
+      "Topic": "MOOC 2: Research Methodologies Week 1: - Qualitative Research Approaches - Qualitative Research: Methods for Data Collection - Quantitative Research: Experimental and Survey Methods",
+      "Learning-Teaching Type": "Online",
+      "LO": "CLO2",
+      "ITU": "ITU",
+      "Student Materials": "",
+      "S-Download": "",
+      "Student's Tasks": "- Watch all videos, read all materials in the MOOC - Finish quizzes, self-assessment, assignments and take part in discussion boards (if needed)",
+      "URLs": ""
+    },
+    {
+      "Session": "4",
+      "Topic": "Week 2: - Sampling Design Process - Sampling techniques: Probability sampling - Sampling Techniques: Non-probability Sampling - Sample Size and Non-Response Issues",
+      "Learning-Teaching Type": "Online",
+      "LO": "CLO2",
+      "ITU": "TU",
+      "Student Materials": "",
+      "S-Download": "",
+      "Student's Tasks": "- Watch all videos, read all materials in the MOOC - Finish quizzes, self-assessment, assignments and take part in discussion boards (if needed)",
+      "URLs": ""
+    },
+    {
+      "Session": "5",
+      "Topic": "Week 3: - Using Secondary Data - Internal Secondary Data and Implications of Market Research - Using Primary Data and Measurementx - The Role of Internet in Market Research & Non-Comparative Scaling Techniques",
+      "Learning-Teaching Type": "Online",
+      "LO": "CLO2",
+      "ITU": "TU",
+      "Student Materials": "",
+      "S-Download": "",
+      "Student's Tasks": "- Watch all videos, read all materials in the MOOC - Finish quizzes, self-assessment, assignments and take part in discussion boards (if needed)",
+      "URLs": ""
+    },
+    {
+      "Session": "6",
+      "Topic": "Week 4: - Conducting Different Data Collection Approaches I - Conducting Different Data Collection Approaches II - Conducting Different Data Collection Approaches III - Conducting Different Data Collection Approaches IV MOOC 3: Being a researcher - The products of research: publications and beyond",
+      "Learning-Teaching Type": "Online",
+      "LO": "CLO2",
+      "ITU": "TU",
+      "Student Materials": "",
+      "S-Download": "",
+      "Student's Tasks": "- Watch all videos, read all materials in the MOOC - Finish quizzes, self-assessment, assignments and take part in discussion boards (if needed)",
+      "URLs": ""
+    },
+    {
+      "Session": "7",
+      "Topic": "MOOC 3: Being a researcher - The researcher's progress - Evaluating research - Research ethics",
+      "Learning-Teaching Type": "Online",
+      "LO": "CLO3",
+      "ITU": "ITU",
+      "Student Materials": "",
+      "S-Download": "",
+      "Student's Tasks": "- Watch all videos, read all materials in the MOOC - Finish quizzes, self-assessment, assignments and take part in discussion boards (if needed)",
+      "URLs": ""
+    },
+    {
+      "Session": "8",
+      "Topic": "MOOC 4: Advanced Writing - Week 1: Course Introduction - Week 2: Advanced Argument Essays",
+      "Learning-Teaching Type": "Online",
+      "LO": "CLO3",
+      "ITU": "ITU",
+      "Student Materials": "",
+      "S-Download": "",
+      "Student's Tasks": "- Watch all videos, read all materials in the MOOC - Finish quizzes, self-assessment, assignments and take part in discussion boards (if needed)",
+      "URLs": ""
+    },
+    {
+      "Session": "9",
+      "Topic": "MOOC 4: Advanced Writing - Week 3: Avoiding Plagiarism - Week 4: Synthesis Essay - Week 5: Documented Essay",
+      "Learning-Teaching Type": "Online",
+      "LO": "CLO3",
+      "ITU": "TU",
+      "Student Materials": "",
+      "S-Download": "",
+      "Student's Tasks": "- Watch all videos, read all materials in the MOOC - Finish quizzes, self-assessment, assignments and take part in discussion boards (if needed)",
+      "URLs": ""
+    },
+    {
+      "Session": "10",
+      "Topic": "MOOC 5: Introduction to Research for Essay Writing - Doing Research and Planning the Paper - Language for Research Writing",
+      "Learning-Teaching Type": "Online",
+      "LO": "CLO4",
+      "ITU": "ITU",
+      "Student Materials": "",
+      "S-Download": "",
+      "Student's Tasks": "- Watch all videos, read all materials in the MOOC - Finish quizzes, self-assessment, assignments and take part in discussion boards (if needed)",
+      "URLs": ""
+    },
+    {
+      "Session": "11",
+      "Topic": "MOOC 5: Introduction to Research for Essay Writing - Citing sources and Formatting - First Draft",
+      "Learning-Teaching Type": "Online",
+      "LO": "CLO4",
+      "ITU": "TU",
+      "Student Materials": "",
+      "S-Download": "",
+      "Student's Tasks": "- Watch all videos, read all materials in the MOOC - Finish quizzes, self-assessment, assignments and take part in discussion boards (if needed)",
+      "URLs": ""
+    },
+    {
+      "Session": "12",
+      "Topic": "MOOC 5: Introduction to Research for Essay Writing - Revise and Rewrite the Final Draft Offline 2: Review MOOC 1 - MOOC 5",
+      "Learning-Teaching Type": "Offline,Online",
+      "LO": "CLO5",
+      "ITU": "TU",
+      "Student Materials": "",
+      "S-Download": "",
+      "Student's Tasks": "- Watch all videos, read all materials in the MOOC - Finish quizzes, self-assessment, assignments and take part in discussion boards (if needed All students should participate in review slot (if any question) Deadline of Coursera completion: End of Friday of the week.",
+      "URLs": ""
+    }
+  ],
+  "constructive_questions": [],
+  "materials": [
+    {
+      "No.": "1",
+      "Material Description": "Mooc 1: Understanding Research Methods",
+      "Author": "",
+      "Publisher": "Coursera",
+      "Published Date": "",
+      "Edition": "",
+      "ISBN": "",
+      "Is Main Material": "True",
+      "Is Hard Copy": "False",
+      "Is Online": "True",
+      "Note": "https://www.coursera.org/learn/research-methods"
+    },
+    {
+      "No.": "2",
+      "Material Description": "Mooc 2: Research Methodologies",
+      "Author": "",
+      "Publisher": "Coursera",
+      "Published Date": "",
+      "Edition": "",
+      "ISBN": "",
+      "Is Main Material": "True",
+      "Is Hard Copy": "False",
+      "Is Online": "True",
+      "Note": "https://www.coursera.org/learn/research-methodologies"
+    },
+    {
+      "No.": "3",
+      "Material Description": "Mooc 3: Being a reseacher (in Information Science and Technology)",
+      "Author": "",
+      "Publisher": "Coursera",
+      "Published Date": "",
+      "Edition": "",
+      "ISBN": "",
+      "Is Main Material": "True",
+      "Is Hard Copy": "False",
+      "Is Online": "True",
+      "Note": "https://www.coursera.org/learn/being-researcher"
+    },
+    {
+      "No.": "4",
+      "Material Description": "Mooc 4: Advanced Writing",
+      "Author": "",
+      "Publisher": "Coursera",
+      "Published Date": "",
+      "Edition": "",
+      "ISBN": "",
+      "Is Main Material": "True",
+      "Is Hard Copy": "False",
+      "Is Online": "True",
+      "Note": "https://www.coursera.org/learn/advanced-writing?specialization=academic-english"
+    },
+    {
+      "No.": "5",
+      "Material Description": "Mooc 5: Introduction to Research for Essay Writing",
+      "Author": "",
+      "Publisher": "Coursera",
+      "Published Date": "",
+      "Edition": "",
+      "ISBN": "",
+      "Is Main Material": "True",
+      "Is Hard Copy": "False",
+      "Is Online": "True",
+      "Note": "https://www.coursera.org/learn/introduction-to-research-for-essay-writing?specialization=academic-english"
+    }
+  ],
+  "source_path": "data/raw/syllabi/12547.html",
+  "id": "syllabus:12547"
+}

@@ -1,0 +1,620 @@
+{
+  "syllabus_id": 1086,
+  "subject_code": "SSG101",
+  "subject_name": "Working in Group Skills",
+  "syllabus_name": "WORKING IN GROUPS",
+  "credits": 3,
+  "degree_level": "Bachelor in Business Administration",
+  "time_allocation": "1 course = 30 sessions; 1 session = 90 minutes",
+  "prerequisite": "",
+  "general_information": {
+    "Syllabus ID": "1086",
+    "Syllabus Name": "WORKING IN GROUPS",
+    "Course Name English": "",
+    "Subject Code": "SSG101",
+    "Learning-Teaching Method": "",
+    "NoCredit": "3",
+    "Degree Level": "Bachelor in Business Administration",
+    "Time Allocation": "1 course = 30 sessions; 1 session = 90 minutes",
+    "Pre-Requisite": "",
+    "Description": "This course will cover both classic and current theories of group communication that focus on \"how groups work\" and include practical information on group communication strategies and skills that emphasize \"how to work in groups\". Topics included: group development, group membership, group diversity, group leadership, group motivation, conflict and cohesion in groups, planning and conducting meetings and making presentations in groups. Learning in the class will be facilitated through the use of vehicles such as textbook readings, class discussion, exercises/in-class activities, cases and lectures.",
+    "StudentTasks": "- Attend more than 80% of contact hours in order to be accepted to the final examination - Actively participate in class activities - Fulfill tasks given by instructor after class - Use their own laptop in class only for learning purpose - Read the textbook in advance - Access the course website (www.cms.fpt.edu.vn) for up-to-date information and material of the course.",
+    "Tools": "",
+    "Scoring Scale": "10",
+    "DecisionNo MM/dd/yyyy": "474/QĐ-ĐHFPT dated 04/19/2018",
+    "IsApproved": "True",
+    "Note": "",
+    "Is Scored": "True",
+    "MinAvgMarkToPass": "5",
+    "IsActive": "True",
+    "ApprovedDate": "4/19/2018"
+  },
+  "active": true,
+  "approved": true,
+  "decision": "474/QĐ-ĐHFPT dated 04/19/2018",
+  "description": "This course will cover both classic and current theories of group communication that focus on \"how groups work\" and include practical information on group communication strategies and skills that emphasize \"how to work in groups\". Topics included: group development, group membership, group diversity, group leadership, group motivation, conflict and cohesion in groups, planning and conducting meetings and making presentations in groups. Learning in the class will be facilitated through the use of vehicles such as textbook readings, class discussion, exercises/in-class activities, cases and lectures.",
+  "learning_outcomes": [
+    {
+      "No.": "1",
+      "CLO Name": "CLO1",
+      "CLO Details": "LO1: Define common teamwork skills such as group communication, membership, leadership, listening, planning and conducting meeting, verbal and nonverbal communication, conflict and cohesion, problem solving."
+    },
+    {
+      "No.": "2",
+      "CLO Name": "CLO2",
+      "CLO Details": "LO2: Identify key elements, advantages, disavantages and the nature of group communication."
+    },
+    {
+      "No.": "3",
+      "CLO Name": "CLO3",
+      "CLO Details": "LO3: Recognise the principles that help balance the group's activities and ethical issues."
+    },
+    {
+      "No.": "4",
+      "CLO Name": "CLO4",
+      "CLO Details": "LO4: Describe stages of group development and types of group norms."
+    },
+    {
+      "No.": "5",
+      "CLO Name": "CLO5",
+      "CLO Details": "LO5: Discuss the goals of the group and how to encourage effective group work"
+    },
+    {
+      "No.": "6",
+      "CLO Name": "CLO6",
+      "CLO Details": "LO6: Explain why member join, stay or leave groups through theory of needs."
+    },
+    {
+      "No.": "7",
+      "CLO Name": "CLO7",
+      "CLO Details": "LO7: Determine group roles and how each role helps hinders groups from achieving a common goal."
+    },
+    {
+      "No.": "8",
+      "CLO Name": "CLO8",
+      "CLO Details": "LO8: Describe and apply strategies for reducing communication apprehensions."
+    },
+    {
+      "No.": "9",
+      "CLO Name": "CLO9",
+      "CLO Details": "LO9: Understand how to become an assertive members and learn how to balance between passivity and aggression."
+    },
+    {
+      "No.": "10",
+      "CLO Name": "CLO10",
+      "CLO Details": "LO10: Analyse ways to become effective and powerful leaders."
+    },
+    {
+      "No.": "11",
+      "CLO Name": "CLO11",
+      "CLO Details": "LO11: Understand leadership theories and model of leadership effectiveness."
+    },
+    {
+      "No.": "12",
+      "CLO Name": "CLO12",
+      "CLO Details": "LO12: Describe importance of verbal and nonverbal in teamwork and how to use them effectiveness."
+    },
+    {
+      "No.": "13",
+      "CLO Name": "CLO13",
+      "CLO Details": "LO13: Identify differences the use of nonverbal communication with gender and culture."
+    },
+    {
+      "No.": "14",
+      "CLO Name": "CLO14",
+      "CLO Details": "LO14: Discriminate defensive and supportive behaviors and the way to create a supportive communication climate."
+    },
+    {
+      "No.": "15",
+      "CLO Name": "CLO15",
+      "CLO Details": "LO15: Identify the challenges and types of listening in groups."
+    },
+    {
+      "No.": "16",
+      "CLO Name": "CLO16",
+      "CLO Details": "LO16: Describe skills and strategies to effective listening in group."
+    },
+    {
+      "No.": "17",
+      "CLO Name": "CLO17",
+      "CLO Details": "LO17: Discuss differences of listening with factors that gender, personality, cultural, hearing ability."
+    },
+    {
+      "No.": "18",
+      "CLO Name": "CLO18",
+      "CLO Details": "LO18: Understand how conflicts appear in groups and how to manage them in cohesion."
+    },
+    {
+      "No.": "19",
+      "CLO Name": "CLO19",
+      "CLO Details": "LO19: Identify decision making skills and problem solving theories"
+    },
+    {
+      "No.": "20",
+      "CLO Name": "CLO20",
+      "CLO Details": "LO20:Apply structured and creative problem solving skills to solve group problems."
+    },
+    {
+      "No.": "21",
+      "CLO Name": "CLO21",
+      "CLO Details": "LO21: Illustrate and analyze problem solving by critical thinking skills with cooperative argumentations."
+    },
+    {
+      "No.": "22",
+      "CLO Name": "CLO22",
+      "CLO Details": "LO22: Develop a professtional meeting and practice dealing the behavior problems of members in the meeting time."
+    },
+    {
+      "No.": "23",
+      "CLO Name": "CLO23",
+      "CLO Details": "LO23: Identify the nature of vitural groups, synchronous and ayhchronous goupware"
+    },
+    {
+      "No.": "24",
+      "CLO Name": "CLO24",
+      "CLO Details": "LO24: Discuss group diversity demensions affect to virtual groups, such as age, geography, income."
+    },
+    {
+      "No.": "25",
+      "CLO Name": "CLO25",
+      "CLO Details": "LO25: Apply of parliamentary principles and summary the basic procedures when organizing the meeting."
+    }
+  ],
+  "assessments": [
+    {
+      "No.": "1",
+      "Category": "Class participation",
+      "Type": "on-going",
+      "Part": "1",
+      "Weight": "8.0%",
+      "Completion Criteria": ">0",
+      "Duration": "All the time course",
+      "CLO": "",
+      "Question Type": "",
+      "No Question": "",
+      "Knowledge and Skill": "Based on student's class participation",
+      "Grading Guide": "practice writing skill and understand keys content of course (at home)",
+      "Note": ""
+    },
+    {
+      "No.": "2",
+      "Category": "Group Assignment",
+      "Type": "on-going",
+      "Part": "1",
+      "Weight": "10.0%",
+      "Completion Criteria": ">0",
+      "Duration": "90'",
+      "CLO": "LO1, LO2, LO3, LO4, LO5, LO6, LO7, LO8, LO9, LO10, LO11, LO12, LO13, LO14, LO15, LO16, LO17, LO18",
+      "Question Type": "",
+      "No Question": "one topic for each group",
+      "Knowledge and Skill": "Based on all the chapter in the textbook",
+      "Grading Guide": "writing repot at home; presentation in class room",
+      "Note": "all of students must presentation"
+    },
+    {
+      "No.": "3",
+      "Category": "In-class Activities (5)",
+      "Type": "on-going",
+      "Part": "1",
+      "Weight": "15.0%",
+      "Completion Criteria": ">0",
+      "Duration": "",
+      "CLO": "LO1, LO2, LO3, LO4, LO5, LO6, LO7, LO8, LO9, LO10, LO11, LO12, LO13, LO14, LO15, LO16, LO17, LO18, LO19, LO20, LO21, LO22, LO23, LO24, LO25",
+      "Question Type": "",
+      "No Question": "5 exercises/games/role plays/cases/mini-assignment/theoretical check",
+      "Knowledge and Skill": "Based on topics of studied units",
+      "Grading Guide": "on paper or using computer. in exam room",
+      "Note": ""
+    },
+    {
+      "No.": "4",
+      "Category": "Practical Group Project (1)",
+      "Type": "on-going",
+      "Part": "1",
+      "Weight": "25.0%",
+      "Completion Criteria": ">0",
+      "Duration": "All the time course",
+      "CLO": "The products (10%), the 500 word reports on the working process (5%), the presentations (5%)",
+      "Question Type": "",
+      "No Question": "",
+      "Knowledge and Skill": "group products, reports on paper, and oral presentations in class room",
+      "Grading Guide": "using computer in exam room",
+      "Note": ""
+    },
+    {
+      "No.": "5",
+      "Category": "Quiz 2",
+      "Type": "on-going",
+      "Part": "1",
+      "Weight": "6.0%",
+      "Completion Criteria": ">0",
+      "Duration": "30'-60'",
+      "CLO": "LO14, LO15, LO16, LO17, LO18, LO19, LO20, LO21, LO22, LO23, LO24, LO25",
+      "Question Type": "Multiple choice or Essay",
+      "No Question": "MC: 30- 50 questions; Essay: 1-2 questions",
+      "Knowledge and Skill": "Test the acquainted knowledge which student obtained in the delivered chapters (6-12).",
+      "Grading Guide": "These quizzes will be given at various times during class (beginning, middle or end). Total number of quizzes: 3 using Paper in class room",
+      "Note": ""
+    },
+    {
+      "No.": "6",
+      "Category": "Quiz1",
+      "Type": "on-going",
+      "Part": "1",
+      "Weight": "6.0%",
+      "Completion Criteria": ">0",
+      "Duration": "30'-60'",
+      "CLO": "LO1, LO2, LO3, LO4, LO5, LO6, LO7, LO8, LO9, LO10, LO11, LO12, LO13, LO14",
+      "Question Type": "Multiple choice or Essay",
+      "No Question": "MC: 30- 50 questions; Essay: 1-2 questions",
+      "Knowledge and Skill": "Test the acquainted knowledge which student obtained in the delivered chapters (1-5).",
+      "Grading Guide": "evaluate in class room",
+      "Note": "activities discuss & presentation teamwork; big game"
+    },
+    {
+      "No.": "7",
+      "Category": "Final Exam",
+      "Type": "Final exam",
+      "Part": "1",
+      "Weight": "30.0%",
+      "Completion Criteria": "4",
+      "Duration": "60'",
+      "CLO": "Multiple choice questions",
+      "Question Type": "50 multiple choice questions",
+      "No Question": "Cover materials from the textbook, class discussions/lectures. All chapters covered in class.",
+      "Knowledge and Skill": "",
+      "Grading Guide": "",
+      "Note": ""
+    }
+  ],
+  "schedule": [
+    {
+      "Session": "1",
+      "Topic": "Initial class meeting 1. Introduce the content and methodology 2. Warm up 3. Guide students the course project and support them to set up group project ideas (*)",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO1",
+      "ITU": "I,T",
+      "Student Materials": "Instructor's Manual, PPT presentation, and other resources",
+      "S-Download": "SSG101",
+      "Student's Tasks": "Teacher's Presentation, Discussion, Case study, Role play",
+      "URLs": ""
+    },
+    {
+      "Session": "2",
+      "Topic": "Chapter 1. Introduction to Group Communication 1.1 Succeeding in groups 1.2 Defining Group Communication 1.3 The nature of group communication 1.4 Types of groups 1.5 Advantages and disadvantages of working in groups. 1.6 Balance: The guiding principle of group work",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO1, LO2, LO3",
+      "ITU": "I,T,U",
+      "Student Materials": "Textbook 1 or 2 (chapter 1), Instructor's Manual, , PPT presentation, and other resources",
+      "S-Download": "SSG101",
+      "Student's Tasks": "Teacher's Presentation, Discussion, Case study, Role play",
+      "URLs": ""
+    },
+    {
+      "Session": "3",
+      "Topic": "Chapter 1. Introduction to Group Communication (cont) 1.7 Ethics and Group Communication Group presentation: the group project plans from slot 1",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO1, LO2, LO3",
+      "ITU": "T,U",
+      "Student Materials": "PPT presentation, and other resources",
+      "S-Download": "SSG101",
+      "Student's Tasks": "Teacher's Presentation, Discussion, Case study, Role play",
+      "URLs": ""
+    },
+    {
+      "Session": "4",
+      "Topic": "Chapter 2. Group Development 2.1 Group development stages 2.2 Group goals",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO4, LO5",
+      "ITU": "T,U",
+      "Student Materials": "Textbook 1 (chapter 2), textbook 2 (chapter 2 and 6), Instructor's Manual, PPT presentation, and other resources",
+      "S-Download": "SSG101",
+      "Student's Tasks": "Teacher's Presentation, Discussion, Case study, Role play",
+      "URLs": ""
+    },
+    {
+      "Session": "5",
+      "Topic": "Chapter 2. Group Development (cont) 2.3 Group norms 2.4 Group motivation",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO4, LO5",
+      "ITU": "T,U",
+      "Student Materials": "Textbook 1 (chapter 2), textbook 2 (chapter 2 and 6), workbooks, PPT presentation, and other resources",
+      "S-Download": "SSG101",
+      "Student's Tasks": "Teacher's Presentation, Discussion, Case study, Role play",
+      "URLs": ""
+    },
+    {
+      "Session": "6",
+      "Topic": "Chapter 3. Group Membership 3.1 Member needs 3.2 Member roles",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO1, LO6, LO7",
+      "ITU": "T,U",
+      "Student Materials": "Textbook 1 or 2 (chapter 3), Instructor's Manual, PPT presentation, and other resources",
+      "S-Download": "SSG101",
+      "Student's Tasks": "Teacher's Presentation, Discussion, Case study, Role play",
+      "URLs": ""
+    },
+    {
+      "Session": "7",
+      "Topic": "Chapter 3. Group Membership (cont) 3.3 Member confidence 3.4 Member assertiveness",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO1, LO8, LO9",
+      "ITU": "T,U",
+      "Student Materials": "Textbook 1 or 2 (chapter 3), Instructor's Manual, PPT presentation, and other resources",
+      "S-Download": "SSG101",
+      "Student's Tasks": "Teacher's Presentation, Discussion, Case study, Role play",
+      "URLs": ""
+    },
+    {
+      "Session": "8",
+      "Topic": "Chapter 4. Group leadership 4.1 What is leadership 4.2 Leadership and Power 4.3 Becoming a leader",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO1, LO10, LO11",
+      "ITU": "T,U",
+      "Student Materials": "Textbook 1 (chapter 4), or textbook 2 (chapter 5), Instructor's Manual, PPT presentation, and other resources",
+      "S-Download": "SSG101",
+      "Student's Tasks": "Teacher's Presentation, Discussion, Case study, Role play",
+      "URLs": ""
+    },
+    {
+      "Session": "9",
+      "Topic": "Chapter 4. Group leadership (cont) 4.4 Leadership theories 4.5 The 5M model of Leadership effectiveness 4.6 Diversity and leadership",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO1, LO10, LO11",
+      "ITU": "T,U",
+      "Student Materials": "Textbook 1 (chapter 4), or textbook 2 (chapter 5), Instructor's Manual, PPT presentation, and other resources",
+      "S-Download": "SSG101",
+      "Student's Tasks": "Teacher's Presentation, Discussion, Case study, Role play",
+      "URLs": ""
+    },
+    {
+      "Session": "10",
+      "Topic": "Chapter 5. Verbal and non-verbal communication 5.1. Two essential tools 5.2. Team talk 5.3. Language challenges 5.4 Language differences",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO1, LO2, LO3, LO4, LO5, LO6, LO7, LO8, LO9, LO10, LO11",
+      "ITU": "T,U",
+      "Student Materials": "Textbook 1 (chapter 5), or textbook 2 (chapter 7), Instructor's Manual, PPT presentation, and other resources",
+      "S-Download": "SSG101",
+      "Student's Tasks": "Teacher's Presentation, Discussion, Case study, Role play",
+      "URLs": ""
+    },
+    {
+      "Session": "11",
+      "Topic": "Chapter 5. Verbal and non-verbal communication (cont) 7.5. Importance of nonverbal communication 7.6. Nonverbal behavior 7.8. Nonverbal communication and Culture 7.9. Creating a supportive communication climate",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO1, LO12",
+      "ITU": "T,U",
+      "Student Materials": "Textbook 1 (chapter 5), or textbook 2 (chapter 7), Instructor's Manual, PPT presentation, and other resources",
+      "S-Download": "SSG101",
+      "Student's Tasks": "Teacher's Presentation, Discussion, Case study, Role play",
+      "URLs": ""
+    },
+    {
+      "Session": "12",
+      "Topic": "Chapter 5. Verbal and non-verbal communication (cont) Practice verbal and non-verbal communication skills",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO12, LO13, LO14",
+      "ITU": "T,U",
+      "Student Materials": "Textbook 1 (chapter 5), or textbook 2 (chapter 7), Instructor's Manual, PPT presentation, and other resources",
+      "S-Download": "SSG101",
+      "Student's Tasks": "Teacher's Presentation, Discussion, Case study, Role play",
+      "URLs": ""
+    },
+    {
+      "Session": "13",
+      "Topic": "Review and Quiz 1: Chapter 1 to chapter 5",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO1, LO2, LO3, LO4, LO5, LO6, LO7, LO8, LO9, LO10, LO11, LO12, LO13, LO14",
+      "ITU": "U",
+      "Student Materials": "Textbooks, Instructor's Manual, PPT presentation, and other resources",
+      "S-Download": "SSG101",
+      "Student's Tasks": "Teacher's Presentation, Discussion, Case study, Role play",
+      "URLs": ""
+    },
+    {
+      "Session": "14",
+      "Topic": "Chapter 6. Listening in groups 6.1. The challenge of listening in groups 6.2. Types of listening",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO1, LO15, LO16",
+      "ITU": "T,U",
+      "Student Materials": "Textbook 1 (chapter 6), workbooks or textbook 2 (chapter 8), PPT presentation, and other resources",
+      "S-Download": "SSG101",
+      "Student's Tasks": "Teacher's Presentation, Discussion, Case study, Role play",
+      "URLs": ""
+    },
+    {
+      "Session": "15",
+      "Topic": "Chapter 6. Listening in groups (cont) 6.3. Key listening strategies and skills 6.4. Listening to difference",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO1, LO16, LO17",
+      "ITU": "T,U",
+      "Student Materials": "Textbook 1 (chapter 6),or textbook 2 (chapter 8), Instructor's Manual, PPT presentation, and other resources",
+      "S-Download": "",
+      "Student's Tasks": "Teacher's Presentation, Discussion, Case study, Role play",
+      "URLs": ""
+    },
+    {
+      "Session": "16",
+      "Topic": "Group presentation: the group project progress",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO1, LO2, LO3, LO4, LO5, LO6, LO7, LO8, LO9, LO10, LO11, LO12, LO13, LO14, LO15, LO16, LO17",
+      "ITU": "U",
+      "Student Materials": "Textbooks, workbooks, PPT presentation, and other resources",
+      "S-Download": "",
+      "Student's Tasks": "Teacher's Presentation, Discussion, Case study,",
+      "URLs": ""
+    },
+    {
+      "Session": "17",
+      "Topic": "Chapter 7. Conflict and cohesion in groups 7.1 Conflict in groups 7.2 Constructive and destructive conflict 7.3 Conflict styles",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO1, LO18",
+      "ITU": "T,U",
+      "Student Materials": "Textbook 1 (chapter 7), or textbook 2 (chapter 9), Instructor's Manual, PPT presentation, and other resources",
+      "S-Download": "",
+      "Student's Tasks": "Teacher's Presentation, Discussion, Case study, Role play",
+      "URLs": ""
+    },
+    {
+      "Session": "18",
+      "Topic": "Chapter 7. Conflict and cohesion in groups (cont) 7.4 Conflict management strategies 7.5 Conflict and member diversity 7.6 Group cohesion",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO1, LO18",
+      "ITU": "T,U",
+      "Student Materials": "Textbook 1 (chapter 7), or textbook 2 (chapter 9), Instructor's Manual, PPT presentation, and other resources",
+      "S-Download": "",
+      "Student's Tasks": "Teacher's Presentation, Discussion, Case study, Role play",
+      "URLs": ""
+    },
+    {
+      "Session": "19",
+      "Topic": "Group Assignment",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO1, LO2, LO3, LO4, LO5, LO6, LO7, LO8, LO9, LO10, LO11, LO12, LO13, LO14, LO15, LO16, LO17, LO18",
+      "ITU": "U",
+      "Student Materials": "Textbooks, workbooks, PPT presentation, and other resources",
+      "S-Download": "",
+      "Student's Tasks": "Teacher's Presentation, Discussion, Case study, Role play",
+      "URLs": ""
+    },
+    {
+      "Session": "20",
+      "Topic": "Chapter 8: Structured and creative problem solving in Groups 8.1 Group decision making 8.2 Structured problem solving",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO1, LO19, LO20",
+      "ITU": "T,U",
+      "Student Materials": "Textbook 1 (chapter 8), or textbook 2 (chapter 10), Instructor's Manual, PPT presentation, and other resources",
+      "S-Download": "",
+      "Student's Tasks": "Teacher's Presentation, Discussion, Case study, Role play",
+      "URLs": ""
+    },
+    {
+      "Session": "21",
+      "Topic": "Chapter 8: Structured and creative problem solving in Groups (cont) 10.3 Creative problem solving 10.4 Problem-solving realities",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO1, LO19, LO20",
+      "ITU": "T,U",
+      "Student Materials": "Textbook 1 (chapter 8), or textbook 2 (chapter 10), Instructor's Manual, PPT presentation, and other resources",
+      "S-Download": "",
+      "Student's Tasks": "Teacher's Presentation, Discussion, Case study, Role play",
+      "URLs": ""
+    },
+    {
+      "Session": "22",
+      "Topic": "Chapter 8: Structured and creative problem solving in Groups (cont) Practice problem solving skills",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO15, LO16, LO17, LO18, LO19, LO20",
+      "ITU": "U",
+      "Student Materials": "Textbooks, workbooks, PPT presentation, and other resources",
+      "S-Download": "",
+      "Student's Tasks": "Teacher's Presentation, Discussion, Case study, Role play",
+      "URLs": ""
+    },
+    {
+      "Session": "23",
+      "Topic": "Chapter 9. Critical Thinking and Argumentation in Groups 9.1. Critical thinking and argumentation 9.2. Structuring arguments 9.3. Supporting arguments",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO1, LO21",
+      "ITU": "T,U",
+      "Student Materials": "Textbook 1 (chapter 9),or textbook 2 (chapter 11), Instructor's ManualPPT presentation, and other resources",
+      "S-Download": "",
+      "Student's Tasks": "Teacher's Presentation, Discussion, Case study, Role play",
+      "URLs": ""
+    },
+    {
+      "Session": "24",
+      "Topic": "Chapter 9. Critical Thinking and Argumentation in Groups (cont) 9.4. Presenting arguments 9.5 Refuting arguments 9.6. Adapting to argumentation styles",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO1, LO21",
+      "ITU": "T,U",
+      "Student Materials": "Textbook 1 (chapter 9),or textbook 2 (chapter 11), Instructor's Manual, PPT presentation, and other resources",
+      "S-Download": "",
+      "Student's Tasks": "Teacher's Presentation, Discussion, Case study, Role play",
+      "URLs": ""
+    },
+    {
+      "Session": "25",
+      "Topic": "Chapter 10. Planning and conducting meetings 10.1 Meetings 10.2 Planning and chairing meetings 10.3 Adapting to member behavior 10.4 Preparing the minute 10.5 Evaluating the meeting",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO1, LO22",
+      "ITU": "T,U",
+      "Student Materials": "Textbook 1 (chapter 10), workbooks or textbook 2 (chapter 12), PPT presentation, and other resources",
+      "S-Download": "",
+      "Student's Tasks": "Teacher's Presentation, Discussion, Case study, Role play",
+      "URLs": ""
+    },
+    {
+      "Session": "26",
+      "Topic": "Chapter 11. Technology and Virtual Groups 11.1 The nature of virtual groups 11.2 Synchronous groupware 11.3 Asynchronous groupware 11.4 Group Diversity and the digital divide",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO23, LO24",
+      "ITU": "T,U",
+      "Student Materials": "Textbook 1 (chapter 11), or textbook 2 (chapter 14 & chapter 4), Instructor's Manual, PPT presentation, and other resources",
+      "S-Download": "",
+      "Student's Tasks": "Teacher's Presentation, Discussion, Case study, Role play",
+      "URLs": ""
+    },
+    {
+      "Session": "27",
+      "Topic": "Chapter 12. Parliamentary Procedure 12.1 What is parliamentary procedure 12.2 The guiding principles of parliamentary 12.3 The parliamentary players 12.4 The basic rules of parliamentary procedure 12.5 Informal rules 12.6 A balanced approach to parliamentary procedure",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO25",
+      "ITU": "I,T",
+      "Student Materials": "Textbook 1 (chapter 12), or textbook 2 (chapter 15), Instructor's Manual,PPT presentation, and other resources",
+      "S-Download": "",
+      "Student's Tasks": "Teacher's Presentation, Discussion, Case study, Role play",
+      "URLs": ""
+    },
+    {
+      "Session": "28",
+      "Topic": "Group Project Presentation: The final report",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO1, LO2, LO3, LO4, LO5, LO6, LO7, LO8, LO9, LO10, LO11, LO12, LO13, LO14, LO15, LO16, LO17, LO18, LO19, LO20, LO21, LO22, LO23, LO24, LO25",
+      "ITU": "U",
+      "Student Materials": "",
+      "S-Download": "",
+      "Student's Tasks": "Teacher's Presentation, Discussion, Case study",
+      "URLs": ""
+    },
+    {
+      "Session": "29",
+      "Topic": "Group Project Presentation: The final report",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO1, LO2, LO3, LO4, LO5, LO6, LO7, LO8, LO9, LO10, LO11, LO12, LO13, LO14, LO15, LO16, LO17, LO18, LO19, LO20, LO21, LO22, LO23, LO24, LO25",
+      "ITU": "U",
+      "Student Materials": "",
+      "S-Download": "",
+      "Student's Tasks": "Teacher's Presentation, Discussion, Case study",
+      "URLs": ""
+    },
+    {
+      "Session": "30",
+      "Topic": "Review all the knowledge to prepare for the final exam and quiz 2",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO12, LO13, LO14",
+      "ITU": "U",
+      "Student Materials": "",
+      "S-Download": "",
+      "Student's Tasks": "Teacher's Presentation, Discussion,",
+      "URLs": ""
+    }
+  ],
+  "constructive_questions": [],
+  "materials": [
+    {
+      "No.": "1",
+      "Material Description": "Working in Groups",
+      "Author": "Isa N.Engleberg and Dianna R.Wynn",
+      "Publisher": "Pearson/Allyn & Bacon",
+      "Published Date": "2010",
+      "Edition": "6th",
+      "ISBN": "",
+      "Is Main Material": "True",
+      "Is Hard Copy": "True",
+      "Is Online": "False",
+      "Note": ""
+    }
+  ],
+  "source_path": "data/raw/syllabi/1086.html",
+  "id": "syllabus:1086"
+}

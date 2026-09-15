@@ -1,0 +1,647 @@
+{
+  "syllabus_id": 5177,
+  "subject_code": "DGT201",
+  "subject_name": "Digital Fundamentals",
+  "syllabus_name": "Digital fundamentals_Cơ sở số hóa",
+  "credits": 3,
+  "degree_level": "Bachelor",
+  "time_allocation": "Contact time: 30 sesions Lectures: 15 Tutorials : 15 1 sessions = 90'",
+  "prerequisite": "",
+  "general_information": {
+    "Syllabus ID": "5177",
+    "Syllabus Name": "Digital fundamentals_Cơ sở số hóa",
+    "Course Name English": "",
+    "Subject Code": "DGT201",
+    "Learning-Teaching Method": "",
+    "NoCredit": "3",
+    "Degree Level": "Bachelor",
+    "Time Allocation": "Contact time: 30 sesions Lectures: 15 Tutorials : 15 1 sessions = 90'",
+    "Pre-Requisite": "",
+    "Description": "This course covering basic to advanced digital concepts with an emphasis on problem solving, troubleshooting, and applications. Assessment scheme: 1) On-going asessment: - 03 Quizzes: 30% - 01 Assignment: 20% - Excercises: 10% 2) Final exam: 40% 3) Final Result: 100% Completion Criteria: 1) Every on-going assessment component >0 2) Final Exam Score >=4 & Final Result >=5",
+    "StudentTasks": "- Students must attend more than 80% of contact slots in order to be accepted to the final examination. - Student is responsible to do all exercises, assignments and labs given by instructor in class or at home and submit on time - Use laptop in class only for learning purpose - Usually access http://bigdatauniversity.com/ for downloading materials and reading",
+    "Tools": "Technical facilities: Electronics basic components, Logic gates, Combinational Digital Ics",
+    "Scoring Scale": "10",
+    "DecisionNo MM/dd/yyyy": "1485/QĐ-ĐH-FPT dated 12/31/2021",
+    "IsApproved": "True",
+    "Note": "",
+    "Is Scored": "True",
+    "MinAvgMarkToPass": "5",
+    "IsActive": "True",
+    "ApprovedDate": "12/31/2021"
+  },
+  "active": true,
+  "approved": true,
+  "decision": "1485/QĐ-ĐH-FPT dated 12/31/2021",
+  "description": "This course covering basic to advanced digital concepts with an emphasis on problem solving, troubleshooting, and applications. Assessment scheme: 1) On-going asessment: - 03 Quizzes: 30% - 01 Assignment: 20% - Excercises: 10% 2) Final exam: 40% 3) Final Result: 100% Completion Criteria: 1) Every on-going assessment component >0 2) Final Exam Score >=4 & Final Result >=5",
+  "learning_outcomes": [],
+  "assessments": [
+    {
+      "No.": "1",
+      "Category": "Assignment",
+      "Type": "on-going",
+      "Part": "1",
+      "Weight": "20.0%",
+      "Completion Criteria": ">0",
+      "Duration": "At home and in class",
+      "CLO": "",
+      "Question Type": "Open",
+      "No Question": "",
+      "Knowledge and Skill": "studied knowledge and skills of digital system; participation into activities",
+      "Grading Guide": "by instructor",
+      "Note": "20% of total progress mark"
+    },
+    {
+      "No.": "2",
+      "Category": "Chapter Quiz",
+      "Type": "on-going",
+      "Part": "1",
+      "Weight": "30.0%",
+      "Completion Criteria": ">0",
+      "Duration": "15'",
+      "CLO": "",
+      "Question Type": "Multi-Choice",
+      "No Question": "15",
+      "Knowledge and Skill": "studied chapters knowledge and skills",
+      "Grading Guide": "by instructor",
+      "Note": "3 x 10% =30% of total progress mark"
+    },
+    {
+      "No.": "3",
+      "Category": "Excercises",
+      "Type": "on-going",
+      "Part": "1",
+      "Weight": "10.0%",
+      "Completion Criteria": ">0",
+      "Duration": "",
+      "CLO": "",
+      "Question Type": "Textbook problems",
+      "No Question": "",
+      "Knowledge and Skill": "studied chapters; problem solving",
+      "Grading Guide": "by instructor",
+      "Note": "10% of total progress mark"
+    },
+    {
+      "No.": "4",
+      "Category": "Final exam",
+      "Type": "Final exam",
+      "Part": "1",
+      "Weight": "40.0%",
+      "Completion Criteria": "4",
+      "Duration": "60'",
+      "CLO": "",
+      "Question Type": "Computer gradable",
+      "No Question": "40-50",
+      "Knowledge and Skill": "All chapters; knowledge and skills of digital system;",
+      "Grading Guide": "by Exam board",
+      "Note": "40% of total progress mark"
+    }
+  ],
+  "schedule": [
+    {
+      "Session": "1",
+      "Topic": "Course introduction Introductory concept of Digital Electronics",
+      "Learning-Teaching Type": "Offline",
+      "LO": "",
+      "ITU": "",
+      "Student Materials": "Book Chapter 1",
+      "S-Download": "",
+      "Student's Tasks": "Do exercises, practical and selft-review, CMS.",
+      "URLs": ""
+    },
+    {
+      "Session": "2",
+      "Topic": "Introductory concept of Digital Electronics Guide Exercises + practice",
+      "Learning-Teaching Type": "Offline",
+      "LO": "",
+      "ITU": "",
+      "Student Materials": "Book Chapter 1",
+      "S-Download": "",
+      "Student's Tasks": "Do exercises, practical and selft-review, CMS.",
+      "URLs": ""
+    },
+    {
+      "Session": "3",
+      "Topic": "Chapter and Exercises Review Number systems",
+      "Learning-Teaching Type": "Offline",
+      "LO": "",
+      "ITU": "",
+      "Student Materials": "Book Chapter 2",
+      "S-Download": "",
+      "Student's Tasks": "Do exercises, practical and selft-review, CMS.",
+      "URLs": ""
+    },
+    {
+      "Session": "4",
+      "Topic": "Number systems Guide Exercises + practice",
+      "Learning-Teaching Type": "Offline",
+      "LO": "",
+      "ITU": "",
+      "Student Materials": "Book Chapter 2",
+      "S-Download": "",
+      "Student's Tasks": "Do exercises, practical and selft-review, CMS.",
+      "URLs": ""
+    },
+    {
+      "Session": "5",
+      "Topic": "Chapter and Exercises Review Logic Gates",
+      "Learning-Teaching Type": "Offline",
+      "LO": "",
+      "ITU": "",
+      "Student Materials": "Book Chapter 3",
+      "S-Download": "",
+      "Student's Tasks": "Do exercises, practical and selft-review, CMS.",
+      "URLs": ""
+    },
+    {
+      "Session": "6",
+      "Topic": "Logic Gates Guide Exercises + practice",
+      "Learning-Teaching Type": "Offline",
+      "LO": "",
+      "ITU": "",
+      "Student Materials": "Book Chapter 3",
+      "S-Download": "",
+      "Student's Tasks": "Do exercises, practical and selft-review, CMS.",
+      "URLs": ""
+    },
+    {
+      "Session": "7",
+      "Topic": "Chapter and Exercises Review Boolean Algebra and Logic Simplification.",
+      "Learning-Teaching Type": "Offline",
+      "LO": "",
+      "ITU": "",
+      "Student Materials": "Book Chapter 4",
+      "S-Download": "",
+      "Student's Tasks": "Do exercises, practical and selft-review, CMS.",
+      "URLs": ""
+    },
+    {
+      "Session": "8",
+      "Topic": "Boolean Algebra and Logic Simplification. Guide Exercises + practice",
+      "Learning-Teaching Type": "Offline",
+      "LO": "",
+      "ITU": "",
+      "Student Materials": "Book Chapter 4",
+      "S-Download": "",
+      "Student's Tasks": "Do exercises, practical and selft-review, CMS.",
+      "URLs": ""
+    },
+    {
+      "Session": "9",
+      "Topic": "Chapter and Exercises Review + Quiz 1 Combinational Logic Analysis",
+      "Learning-Teaching Type": "Offline",
+      "LO": "",
+      "ITU": "",
+      "Student Materials": "Book Chapter 5",
+      "S-Download": "",
+      "Student's Tasks": "Do exercises, practical and selft-review, CMS.",
+      "URLs": ""
+    },
+    {
+      "Session": "10",
+      "Topic": "Combinational Logic Analysis Guide Exercises + practice",
+      "Learning-Teaching Type": "Offline",
+      "LO": "",
+      "ITU": "",
+      "Student Materials": "Book Chapter 5",
+      "S-Download": "",
+      "Student's Tasks": "Do exercises, practical and selft-review, CMS.",
+      "URLs": ""
+    },
+    {
+      "Session": "11",
+      "Topic": "Chapter and Exercises Review Functions of Combinational Logic. Functions of Combinational Logic.",
+      "Learning-Teaching Type": "Offline",
+      "LO": "",
+      "ITU": "",
+      "Student Materials": "Book Chapter 6",
+      "S-Download": "",
+      "Student's Tasks": "Do exercises, practical and selft-review, CMS.",
+      "URLs": ""
+    },
+    {
+      "Session": "12",
+      "Topic": "Functions of Combinational Logic. Guide Exercises + practice",
+      "Learning-Teaching Type": "Offline",
+      "LO": "",
+      "ITU": "",
+      "Student Materials": "Book Chapter 6",
+      "S-Download": "",
+      "Student's Tasks": "Do exercises, practical and selft-review, CMS.",
+      "URLs": ""
+    },
+    {
+      "Session": "13",
+      "Topic": "Chapter and Exercises Review Basic components and logic circuits Solder Lab activities 1 + Start assignment",
+      "Learning-Teaching Type": "Offline",
+      "LO": "",
+      "ITU": "",
+      "Student Materials": "Datasheets, schematics",
+      "S-Download": "",
+      "Student's Tasks": "Do exercises, practical and selft-review, CMS.",
+      "URLs": ""
+    },
+    {
+      "Session": "14",
+      "Topic": "Basic components and logic circuits Solder Lab activities 1 + Start assignment",
+      "Learning-Teaching Type": "Offline",
+      "LO": "",
+      "ITU": "",
+      "Student Materials": "Datasheets, schematics",
+      "S-Download": "",
+      "Student's Tasks": "Do exercises, practical and selft-review, CMS.",
+      "URLs": ""
+    },
+    {
+      "Session": "15",
+      "Topic": "Basic components and logic circuits Solder Lab activities 1 + Start assignment Guide Exercises + practice",
+      "Learning-Teaching Type": "Offline",
+      "LO": "",
+      "ITU": "",
+      "Student Materials": "Datasheets, schematics",
+      "S-Download": "",
+      "Student's Tasks": "Do exercises, practical and selft-review, CMS.",
+      "URLs": ""
+    },
+    {
+      "Session": "16",
+      "Topic": "Chapter and Exercises Review Latches, Flip-Flops, and Timers",
+      "Learning-Teaching Type": "Offline",
+      "LO": "",
+      "ITU": "",
+      "Student Materials": "Book Chapter 7",
+      "S-Download": "",
+      "Student's Tasks": "Do exercises, practical and selft-review, CMS.",
+      "URLs": ""
+    },
+    {
+      "Session": "17",
+      "Topic": "Latches, Flip-Flops, and Timers Guide Exercises + practice",
+      "Learning-Teaching Type": "Offline",
+      "LO": "",
+      "ITU": "",
+      "Student Materials": "Book Chapter 7",
+      "S-Download": "",
+      "Student's Tasks": "Do exercises, practical and selft-review, CMS.",
+      "URLs": ""
+    },
+    {
+      "Session": "18",
+      "Topic": "Chapter and Exercises Review + Quiz 2 Counters",
+      "Learning-Teaching Type": "Offline",
+      "LO": "",
+      "ITU": "",
+      "Student Materials": "Book Chapter 8",
+      "S-Download": "",
+      "Student's Tasks": "Do exercises, practical and selft-review, CMS.",
+      "URLs": ""
+    },
+    {
+      "Session": "19",
+      "Topic": "Counters Guide Exercises + practice",
+      "Learning-Teaching Type": "Offline",
+      "LO": "",
+      "ITU": "",
+      "Student Materials": "Book Chapter 8",
+      "S-Download": "",
+      "Student's Tasks": "Do exercises, practical and selft-review, CMS.",
+      "URLs": ""
+    },
+    {
+      "Session": "20",
+      "Topic": "Chapter and Exercises Review Shift Registers",
+      "Learning-Teaching Type": "Offline",
+      "LO": "",
+      "ITU": "",
+      "Student Materials": "Book Chapter 9",
+      "S-Download": "",
+      "Student's Tasks": "Do exercises, practical and selft-review, CMS.",
+      "URLs": ""
+    },
+    {
+      "Session": "21",
+      "Topic": "Shift Registers Guide Exercises + practice",
+      "Learning-Teaching Type": "Offline",
+      "LO": "",
+      "ITU": "",
+      "Student Materials": "Book Chapter 9",
+      "S-Download": "",
+      "Student's Tasks": "Do exercises, practical and selft-review, CMS.",
+      "URLs": ""
+    },
+    {
+      "Session": "22",
+      "Topic": "Chapter and Exercises Review Memory and Storages",
+      "Learning-Teaching Type": "Offline",
+      "LO": "",
+      "ITU": "",
+      "Student Materials": "Book Chapter 10",
+      "S-Download": "",
+      "Student's Tasks": "Do exercises, practical and selft-review, CMS.",
+      "URLs": ""
+    },
+    {
+      "Session": "23",
+      "Topic": "Memory and Storages Guide Exercises + practice",
+      "Learning-Teaching Type": "Offline",
+      "LO": "",
+      "ITU": "",
+      "Student Materials": "Book Chapter 10",
+      "S-Download": "",
+      "Student's Tasks": "Do exercises, practical and selft-review, CMS.",
+      "URLs": ""
+    },
+    {
+      "Session": "24",
+      "Topic": "Chapter and Exercises Review + Quiz 3 Introduction to Computers",
+      "Learning-Teaching Type": "Offline",
+      "LO": "",
+      "ITU": "",
+      "Student Materials": "Book Chapter 13",
+      "S-Download": "",
+      "Student's Tasks": "Do exercises, practical and selft-review, CMS.",
+      "URLs": ""
+    },
+    {
+      "Session": "25",
+      "Topic": "Introduction to Computers Guide Exercises + practice",
+      "Learning-Teaching Type": "Offline",
+      "LO": "",
+      "ITU": "",
+      "Student Materials": "Book Chapter 13",
+      "S-Download": "",
+      "Student's Tasks": "Do exercises, practical and selft-review, CMS.",
+      "URLs": ""
+    },
+    {
+      "Session": "26",
+      "Topic": "Chapter and Exercises Review Practice in class for doing assignment",
+      "Learning-Teaching Type": "Offline",
+      "LO": "",
+      "ITU": "",
+      "Student Materials": "Datasheets, schematics",
+      "S-Download": "",
+      "Student's Tasks": "Do exercises, practical and selft-review, CMS.",
+      "URLs": ""
+    },
+    {
+      "Session": "27",
+      "Topic": "Practice in class for doing assignment",
+      "Learning-Teaching Type": "Offline",
+      "LO": "",
+      "ITU": "",
+      "Student Materials": "Datasheets, schematics",
+      "S-Download": "",
+      "Student's Tasks": "Do exercises, practical and selft-review, CMS.",
+      "URLs": ""
+    },
+    {
+      "Session": "28",
+      "Topic": "Practice in class for doing assignment",
+      "Learning-Teaching Type": "Offline",
+      "LO": "",
+      "ITU": "",
+      "Student Materials": "Datasheets, schematics",
+      "S-Download": "",
+      "Student's Tasks": "Do exercises, practical and selft-review, CMS.",
+      "URLs": ""
+    },
+    {
+      "Session": "29",
+      "Topic": "Practice in class for doing assignment",
+      "Learning-Teaching Type": "Offline",
+      "LO": "",
+      "ITU": "",
+      "Student Materials": "Datasheets, schematics",
+      "S-Download": "",
+      "Student's Tasks": "Do exercises, practical and selft-review, CMS.",
+      "URLs": ""
+    },
+    {
+      "Session": "30",
+      "Topic": "Finish assignment Review",
+      "Learning-Teaching Type": "Offline",
+      "LO": "",
+      "ITU": "",
+      "Student Materials": "",
+      "S-Download": "",
+      "Student's Tasks": "",
+      "URLs": ""
+    }
+  ],
+  "constructive_questions": [
+    {
+      "No.": "1",
+      "Session No": "1",
+      "Name": "3",
+      "Details": "What do you know about the Digital and Analog systems? What is the Binary system? Why do we need to use it? What are basis logic function?"
+    },
+    {
+      "No.": "2",
+      "Session No": "2",
+      "Name": "3",
+      "Details": "Can you tell the difference of the programable logic device and the Fixed fuction logic devices? Why do we need the test and measurement instruments? Can you name some of them? Why do we need the trouble shooting process? How does it deployed?"
+    },
+    {
+      "No.": "3",
+      "Session No": "3",
+      "Name": "3",
+      "Details": "What are the decimal numbers? Binary numbers? How can we change a number from decimal to binary? How can we oprate binary arithmetic? How many forms of complemetnts of binary number? How to describe sign numbers?"
+    },
+    {
+      "No.": "4",
+      "Session No": "4",
+      "Name": "3",
+      "Details": "How can we deploy Arithmetic Operations with Signed Numbers in binary system? What do you know about hexadecimal numbers? octal numbers? BCD? What are digital codes? Error codes?"
+    },
+    {
+      "No.": "5",
+      "Session No": "5",
+      "Name": "3",
+      "Details": "What is the inverter? How do the And, and Or gate operate? How do the NAnd, and NOr gate operate?"
+    },
+    {
+      "No.": "6",
+      "Session No": "6",
+      "Name": "3",
+      "Details": "What is the difference of The Exclusive-OR and Exclusive-NOR Gates? How do them operate? How can we create progrmable logic devices? Can you describes the main techs of programable devices? Could you descirbed the properties of the Fixed function logic gates?"
+    },
+    {
+      "No.": "7",
+      "Session No": "7",
+      "Name": "3",
+      "Details": "Why do we need the bool operations and expresstions? What are Laws and Rules of Boolean Algebra? What are DeMorgan’s Theorems? How can we analysis of logic circuits? How to simplify the bool algebra? What is the standart form?"
+    },
+    {
+      "No.": "8",
+      "Session No": "8",
+      "Name": "4",
+      "Details": "What is the truth table? What is it use for? How to use it? How to minimize Karnaugh map using POS? SOP? What is the McCluskey method? How to apply it? What is VHDL"
+    },
+    {
+      "No.": "9",
+      "Session No": "9",
+      "Name": "2",
+      "Details": "What are the basic Combinational Logic Circuits? How to implement them? Can we use one logic gate to describe the others? If yes, listing them? How to do that?"
+    },
+    {
+      "No.": "10",
+      "Session No": "10",
+      "Name": "3",
+      "Details": "What is the pulse wave form operation? How to describe combination logic using VHDL? What is Trobleshooting?"
+    },
+    {
+      "No.": "11",
+      "Session No": "11",
+      "Name": "4",
+      "Details": "How can we do the add operation in the binary system? What is the difference of half and full adder? How can we operate parallel binary adding? Why are Ripple Carry and Look-Ahead Carry Adders important? How can we compare number in the binary system? What is a comparator? How does it operate? What are decoders and encoders? Why do we need them?"
+    },
+    {
+      "No.": "12",
+      "Session No": "12",
+      "Name": "3",
+      "Details": "What are code converters? Why do we need them? Why do we use multiplexers and demuntiplexers? How to describe them ? Why do we use parity? What are odd and even parity? How to create them?"
+    },
+    {
+      "No.": "13",
+      "Session No": "15",
+      "Name": "2",
+      "Details": "What are latches? What are they used for? How many kind of them? What are FFs? How are they differrence from the latches? How many kind of them? What are they used for?"
+    },
+    {
+      "No.": "14",
+      "Session No": "16",
+      "Name": "3",
+      "Details": "What is oneshot? What is the anstable multivibratior? How do they differ? What are the appliacitons of oneshots? anstable multivibrator? How can we construct a timer?"
+    },
+    {
+      "No.": "15",
+      "Session No": "17",
+      "Name": "3",
+      "Details": "What are finite state machines? What are asyncronos counter? whay do we need sychonous counters? What are up-down sychronous counters? how to design them?"
+    },
+    {
+      "No.": "16",
+      "Session No": "18",
+      "Name": "2",
+      "Details": "What are cascaded counters? How to decode counters? Why do we need counters?"
+    },
+    {
+      "No.": "17",
+      "Session No": "19",
+      "Name": "3",
+      "Details": "What are Shift Register Operations? Types of Shift Register Data I/Os? How do Bidirectional Shift Registers work ? What are Shift Register Counters?"
+    },
+    {
+      "No.": "18",
+      "Session No": "20",
+      "Name": "2",
+      "Details": "Why do we need shift register? How to describe Logic Symbols with Dependency Notation"
+    },
+    {
+      "No.": "19",
+      "Session No": "21",
+      "Name": "3",
+      "Details": "Why do we need the data storage devices? What do you know about RAM,? How many kinds of Rams? What are the pros and cons of them?"
+    },
+    {
+      "No.": "20",
+      "Session No": "22",
+      "Name": "3",
+      "Details": "What are the differeces of ROM and RAM? What do you know about others storage devices? Which fieds do we use storage devices?"
+    },
+    {
+      "No.": "21",
+      "Session No": "23",
+      "Name": "3",
+      "Details": "What do you know about computers? What are they constructed of? What is a cpu? What are CPU architectures?"
+    },
+    {
+      "No.": "22",
+      "Session No": "24",
+      "Name": "3",
+      "Details": "How can a Microprocessors execute programs ? What do you know about 8088? Why do we need to lear about it? How can a 8088 operate?"
+    }
+  ],
+  "materials": [
+    {
+      "No.": "1",
+      "Material Description": "Digital Fundamentals",
+      "Author": "Thomas L. Floyd",
+      "Publisher": "",
+      "Published Date": "",
+      "Edition": "10th",
+      "ISBN": "ISBN-10: 0132359235, ISBN-13: 9780132359238",
+      "Is Main Material": "True",
+      "Is Hard Copy": "True",
+      "Is Online": "False",
+      "Note": ""
+    },
+    {
+      "No.": "2",
+      "Material Description": "- Textbook slides CD-ROM - Instructor Resource manuals - TestGen (900 question)'",
+      "Author": "",
+      "Publisher": "",
+      "Published Date": "",
+      "Edition": "",
+      "ISBN": "",
+      "Is Main Material": "False",
+      "Is Hard Copy": "False",
+      "Is Online": "False",
+      "Note": ""
+    },
+    {
+      "No.": "3",
+      "Material Description": "www. prenhall.com/floyd",
+      "Author": "",
+      "Publisher": "",
+      "Published Date": "",
+      "Edition": "",
+      "ISBN": "",
+      "Is Main Material": "False",
+      "Is Hard Copy": "False",
+      "Is Online": "False",
+      "Note": ""
+    },
+    {
+      "No.": "4",
+      "Material Description": "Digital Electronics: Principles and Applications",
+      "Author": "Roger L. Tokheim",
+      "Publisher": "",
+      "Published Date": "",
+      "Edition": "7th",
+      "ISBN": "73126349",
+      "Is Main Material": "False",
+      "Is Hard Copy": "False",
+      "Is Online": "False",
+      "Note": ""
+    },
+    {
+      "No.": "5",
+      "Material Description": "http://highered.mcgraw-hill.com/sites/0073126349/student_view0/index.html",
+      "Author": "",
+      "Publisher": "",
+      "Published Date": "",
+      "Edition": "",
+      "ISBN": "",
+      "Is Main Material": "False",
+      "Is Hard Copy": "False",
+      "Is Online": "False",
+      "Note": ""
+    },
+    {
+      "No.": "6",
+      "Material Description": "Lab manuals by Dave Buchla",
+      "Author": "",
+      "Publisher": "",
+      "Published Date": "",
+      "Edition": "",
+      "ISBN": "",
+      "Is Main Material": "False",
+      "Is Hard Copy": "False",
+      "Is Online": "False",
+      "Note": ""
+    }
+  ],
+  "source_path": "data/raw/syllabi/5177.html",
+  "id": "syllabus:5177"
+}

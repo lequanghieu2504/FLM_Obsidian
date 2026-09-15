@@ -1,0 +1,3957 @@
+<!DOCTYPE html><html lang="en"><head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin="">
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700&amp;family=Source+Sans+Pro:wght@300;400;600;700&amp;display=swap" rel="stylesheet">
+    <link href="/Content/bootstrap.min.css" rel="stylesheet">
+    <link href="/fonts/css/Bootstrap-select-v1.13.14.css" rel="stylesheet">
+    <link href="/Content/common.css" rel="stylesheet">
+    <link href="/fonts/css/font-awesome.min.css" rel="stylesheet">
+    <link href="/Content/toastr.min.css" rel="stylesheet">
+    <script src="/Scripts/jquery-1.10.2.min.js"></script>
+    <script src="/Scripts/popper.js"></script>
+    <script src="/Scripts/bootstrap.min.js"></script>
+    <script src="/Scripts/Bootstrap-select-v1.13.14.js"></script>
+    <script src="/Scripts/jquery.validate.min.js"></script>
+    <script src="/Scripts/toastr.min.js"></script>
+    <link href="/fonts/css/font-awesome.min.css" rel="stylesheet">
+    <script src="/Scripts/jquery-ui.min.js"></script>
+    <link href="/Content/jquery-ui.css" rel="stylesheet">
+    <script>
+        var a = 'Student';
+        if (!a) {
+            window.location.replace('/Login');
+        }
+    </script>
+    <title id="pageTitle">T University Learning Materials •</title>
+    <style>
+        h1 {
+            font-size: 2em;
+        }
+
+        h2 {
+            font-size: 1.5em;
+        }
+
+        .btn-light {
+            border: 1px solid #d9cfcf;
+        }
+
+        /*.btn{
+            color:white;
+            font-weight:bold;
+        }*/
+
+
+        * {
+            font-family: 'Inter', 'Source Sans Pro', 'Segoe UI', 'Tahoma', 'Arial', 'Helvetica', sans-serif;
+            font-size: 16px;
+            font-weight: 400;
+            line-height: 1.5em;
+        }
+
+        body {
+            background: #fafafa;
+            padding: 0;
+        }
+
+
+
+        #sidebar a,
+        #sidebar a:hover,
+        #sidebar a:focus {
+            color: inherit;
+            text-decoration: none;
+            transition: all 0.3s;
+        }
+
+
+        #sidebar.sb-active {
+            margin-left: -300px;
+        }
+
+        .wrapper {
+            display: flex;
+            text-decoration: none;
+            transition: all 0.3s;
+            margin-top: -75px;
+            width: 100%;
+        }
+
+        /* Mobile wrapper fix */
+        @media (max-width: 768px) {
+            .wrapper {
+                margin-top: 0;
+            }
+        }
+
+        .btn-default {
+            background-color: #F2994A;
+            color: white;
+            font-weight: bold;
+        }
+
+        .btn-default:hover {
+            background-color: #fd7e14;
+        }
+
+        input,
+        select {
+            font-size: inherit !important;
+            /*height: 33.5px !important;*/
+        }
+
+
+        .tbl-data {
+            border: 1px solid rgba(0, 0, 0, .05);
+        }
+
+        .tbl-data th {
+            font-weight: bold;
+            background-color: #F2994A !important;
+            color: white;
+        }
+
+        .tbl-data input[type=checkbox] {
+            width: 20px;
+        }
+
+        .tbl-detail tr td {
+            padding: 4px 5px 4px 5px;
+            border: 1px solid rgba(0, 0, 0, .05);
+        }
+
+        .tbl-checkbox label {
+            position: relative;
+            top: -11px;
+            left: 2px;
+        }
+
+        .max-with-fit {
+            max-width: fit-content;
+        }
+
+        textarea {
+            font-size: inherit !important;
+        }
+
+        #sidebar {
+            min-width: 300px;
+            max-width: 300px;
+            margin-top: 85px;
+            margin-left: 10px;
+            color: #fff;
+            transition: all 0.3s;
+            overflow-y: scroll;
+            height: 800px;
+            border-radius: 5px;
+            background-color: #F2994A;
+        }
+
+        /* Mobile Responsive Styles */
+        @media (max-width: 1200px) {
+            #sidebar {
+                min-width: 260px;
+                max-width: 260px;
+            }
+        }
+
+        @media (max-width: 992px) {
+            h1 {
+                font-size: 1.6em;
+            }
+
+            .page-title {
+                position: static !important;
+                width: 100%;
+                text-align: center;
+                margin: 8px 0 0 0;
+                left: 0 !important;
+                transform: none !important;
+            }
+
+            #btn-home {
+                height: 36px;
+                min-width: 70px;
+                max-width: 100px;
+                padding: 6px 10px;
+                gap: 5px;
+            }
+
+            #btn-home span {
+                font-size: 13px;
+                line-height: 1;
+            }
+
+            #btn-home i {
+                font-size: 14px;
+                line-height: 1;
+            }
+
+            #language {
+                width: 110px !important;
+                height: 32px !important;
+            }
+
+            #ProfileImage {
+                width: 40px !important;
+                height: 40px !important;
+            }
+
+            #sidebar {
+                position: fixed;
+                top: 97px;
+                left: 0;
+                height: calc(100vh - 97px);
+                z-index: 1030;
+                margin-left: 0;
+                margin-top: 0;
+            }
+
+            #content {
+                height: auto;
+                margin-top: 97px;
+                padding: 10px;
+            }
+
+            .wrapper {
+                margin-top: 0;
+            }
+        }
+
+        @media (max-width: 768px) {
+            h1 {
+                font-size: 1.3em;
+            }
+
+            .page-title {
+                position: static !important;
+                width: 100%;
+                text-align: center;
+                margin: 6px 0 0 0;
+                left: 0 !important;
+                transform: none !important;
+            }
+
+            .navbar .container-fluid {
+                flex-direction: row !important;
+                justify-content: space-between !important;
+                align-items: center !important;
+            }
+
+            #language {
+                width: 100px !important;
+                height: 30px !important;
+                font-size: 12px !important;
+            }
+
+            #ProfileImage {
+                width: 35px !important;
+                height: 35px !important;
+            }
+
+            .dropdown-arrow {
+                right: -12px !important;
+                font-size: 10px !important;
+            }
+
+            #btn-home {
+                height: 34px;
+                min-width: 60px;
+                max-width: 90px;
+                padding: 5px 8px;
+                gap: 4px;
+            }
+
+            #btn-home span {
+                font-size: 12px;
+                line-height: 1;
+            }
+
+            #btn-home i {
+                font-size: 13px;
+                line-height: 1;
+            }
+
+            /* Make long tables scrollable on small screens */
+            #content table {
+                display: block;
+                width: 100%;
+                overflow-x: auto;
+                -webkit-overflow-scrolling: touch;
+                white-space: nowrap;
+            }
+
+            #sidebar {
+                display: none !important;
+            }
+
+            #btn-home {
+                height: 35px;
+                width: 70px;
+                padding: 5px;
+            }
+
+            #btn-home span {
+                font-size: 12px;
+            }
+
+            #btn-home i {
+                font-size: 14px;
+            }
+
+            .navbar-toggler {
+                display: block;
+            }
+
+            .navbar-nav {
+                flex-direction: column;
+            }
+        }
+
+        @media (max-width: 576px) {
+            h1 {
+                font-size: 1.1em;
+            }
+
+            .page-title {
+                font-size: 1.1em !important;
+                margin: 4px 0 0 0;
+            }
+
+            .navbar .container-fluid {
+                flex-direction: row !important;
+                justify-content: space-between !important;
+                align-items: center !important;
+            }
+
+            #language {
+                width: 90px !important;
+                height: 28px !important;
+                font-size: 11px !important;
+            }
+
+            #ProfileImage {
+                width: 30px !important;
+                height: 30px !important;
+            }
+
+            .dropdown-arrow {
+                right: -10px !important;
+                font-size: 9px !important;
+            }
+
+            #btn-home {
+                height: 30px;
+                min-width: 50px;
+                max-width: 80px;
+                padding: 4px 6px;
+                gap: 3px;
+            }
+
+            #btn-home span {
+                font-size: 11px;
+                line-height: 1;
+            }
+
+            #btn-home i {
+                font-size: 12px;
+                line-height: 1;
+            }
+
+            .navbar {
+                padding: 0.25rem 0.5rem;
+                height: 85px !important;
+            }
+
+            /* Ensure navbar elements are always visible */
+            .navbar .container-fluid {
+                display: flex;
+                justify-content: space-between;
+                align-items: center;
+                flex-wrap: nowrap;
+            }
+
+            .navbar .d-flex {
+                flex-shrink: 0;
+            }
+
+            #content {
+                padding: 5px;
+                margin-top: 85px !important;
+            }
+
+            #sidebar {
+                top: 85px !important;
+                height: calc(100vh - 85px) !important;
+            }
+        }
+
+        #sidebar::-webkit-scrollbar {
+            width: 0;
+        }
+
+        #sidebar p {
+            padding: 15px;
+            background: #F2994A;
+            font-weight: bold;
+            font-size: 20px;
+        }
+
+        #sidebar ul.components {
+            padding: 20px 0;
+        }
+
+
+        #sidebar ul li a {
+            padding: 10px;
+            font-size: 1em;
+            display: block;
+            background-color: #f4a158;
+        }
+
+        #sidebar ul li a:hover {
+            background: #d06e17;
+        }
+
+        #sidebar ul li.sb-active>a,
+        a[aria-expanded="true"] {
+            color: #fff;
+        }
+
+        a[data-toggle="collapse"] {
+            position: relative;
+        }
+
+        #navbarSupportedContent .dropdown-toggle::after {
+            display: block;
+            position: absolute;
+            top: 50%;
+            right: -15%;
+            transform: translateY(-50%);
+        }
+
+        .dropdown-toggle::after {
+            display: none !important;
+        }
+
+        /* Custom dropdown arrow */
+        .dropdown-toggle .dropdown-arrow {
+            position: absolute;
+            right: -15px;
+            top: 50%;
+            transform: translateY(-50%);
+            color: white;
+            font-size: 12px;
+        }
+
+        #sidebar ul ul a {
+            font-size: 0.9em !important;
+            padding-left: 30px !important;
+            background: #d29a68;
+        }
+
+        #content {
+            width: 100%;
+            padding: 20px;
+            transition: all 0.3s;
+            margin-top: 90px;
+        }
+
+        #ui-datepicker-div {
+            width: fit-content;
+        }
+
+        .mat-2 {
+            position: relative;
+            left: -30px;
+        }
+
+        table {
+            /* Set "my-sec-counter" to 0 */
+            counter-reset: my-sec-counter;
+        }
+
+        .counter::before {
+            /* Increment "my-sec-counter" by 1 */
+            counter-increment: my-sec-counter;
+            content: counter(my-sec-counter);
+        }
+
+        .menu-btn:focus {
+            outline: none;
+            box-shadow: none;
+        }
+
+        .required-field:after {
+            content: "    *";
+            color: red;
+            font-size: 20px;
+        }
+
+        .table .thead-dark th {
+            color: #fff;
+            background-color: #F2994A;
+            border-color: #fff;
+        }
+
+        .dropdown-toggle::after {
+            right: 20px;
+        }
+
+        #btn-home {
+            padding: 8px 12px;
+            background-color: #28a745;
+            color: white;
+            font-weight: bold;
+            min-width: 80px;
+            max-width: 120px;
+            height: 40px;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            white-space: nowrap;
+            transition: all 0.3s ease;
+            gap: 6px;
+        }
+
+        #btn-home:hover {
+            background-color: #218838;
+            transform: translateY(-1px);
+        }
+
+        #btn-home span {
+            font-size: 15px;
+            line-height: 1;
+        }
+
+        #btn-home i {
+            font-size: 16px;
+            line-height: 1;
+        }
+
+        label[class=error] {
+            color: red
+        }
+
+        #lbtnSignOut {
+            color: #08c
+        }
+
+        #lbtnSignOut:hover {
+            text-decoration: underline;
+            cursor: pointer;
+        }
+
+        /* Navbar responsive improvements */
+        .navbar .container-fluid {
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+            flex-wrap: nowrap;
+        }
+
+        .navbar .d-flex {
+            flex-shrink: 0;
+        }
+
+        /* Mobile navbar improvements */
+        @media (max-width: 768px) {
+            .navbar .container-fluid {
+                padding: 0.5rem;
+            }
+
+            .navbar .d-flex:first-child {
+                flex: 0 0 auto;
+            }
+
+            .navbar .d-flex:last-child {
+                flex: 0 0 auto;
+            }
+
+            /* Dropdown menu mobile positioning */
+            .dropdown-menu {
+                right: 0 !important;
+                left: auto !important;
+                max-width: 90vw !important;
+                min-width: 200px !important;
+            }
+        }
+    </style>
+
+</head>
+
+<body style="">
+
+    <nav class="navbar navbar-expand-lg px-0 pb-2 m-0 nav-fix" style="background-color: #F2994A ; color: white; height:97px;" aria-label="Main navigation">
+        <div class="container-fluid p-0">
+            <!-- Left side: Menu button and Home button -->
+            <div class="d-flex align-items-center">
+                <button type="button" id="sidebarCollapse" class="menu-btn btn " style="background-color: rgb(242, 153, 74); display: none;">
+                    <img class="img-home" src="/Images/menu1.png" alt="Alternate Text" style="width:35px">
+                </button>
+
+                <a id="btn-home" class="btn btn-success btn-lg ml-2" href="/Home">
+                    <i class="fa fa-home fa-lg" aria-hidden="true"></i>
+                    <span style="font-weight:bold;">Home</span>
+                </a>
+            </div>
+
+            <!-- Center: Title -->
+            <h1 class="text-center page-title mx-auto" style="position: absolute; left: 50%; transform: translateX(-50%);" aria-label="Page title">
+                FPT University Learning Materials</h1>
+
+            <!-- Right side: Language and Profile -->
+            <div class="d-flex align-items-center">
+                <!-- Language Selector -->
+                <div class="mr-3">
+                    <select id="language" style="z-index: 1; width: 130px;height:34.5px" class="form-control" aria-label="Select language">
+                        <option value="en">English</option>
+                        <option value="vi">Vietnamese</option>
+                    </select>
+                </div>
+
+                <!-- User Profile Dropdown -->
+                <div class="dropdown">
+                    <button class="btn btn-link nav-link dropdown-toggle p-0 position-relative" id="navbarDropdown" type="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false" aria-label="User profile menu">
+                        <img id="ProfileImage" class="rounded-circle" width="50" height="50" alt="User profile" src="/Images/avatar_reviewer.jpg">
+                        <i class="fa fa-chevron-down dropdown-arrow"></i>
+                    </button>
+                    <div class="dropdown-menu dropdown-menu-right" aria-labelledby="navbarDropdown" style="right: 0; left: auto; max-width: 90vw;">
+                        <div id="pnlProfile">
+                            <span class="dropdown-item">
+                                Name:
+                                <span id="lblName" style="font-weight: bold">lequanghieu2504@gmail.com</span>
+                            </span>
+                            <span class="dropdown-item">
+                                <span id="pnlEmail">
+                                    Email:
+                                    <span id="lblEmail" style="font-weight: bold">lequanghieu2504@gmail.com</span>
+                                </span>
+                            </span>
+                            <span class="dropdown-item">
+                                User's role:
+                                <span id="lblRole" style="font-weight: bold">Student</span>
+                            </span>
+                            <span class="dropdown-item">
+                                Education level:
+                                <span id="lblEduLevel" style="font-weight: bold">FPTU</span>
+                            </span>
+                            <div class="dropdown-item ">
+                                <button id="lbtnSignOut" class="btn btn-link p-0 text-left" style="color: #08c; text-decoration: none;" onclick="lbtnSignOut_Click">
+                                    Sign out
+                                    FLM
+                                </button>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </nav>
+
+    <div class="wrapper">
+        <nav id="sidebar" class="sb-active" style="padding-bottom: 60px;" aria-label="Main navigation">
+            <ul class="lisst-unstyled components p-0" id="panelHeadFeatures" style="display: none;">
+                <li>
+                    <a href="#pageSubmenu2" data-toggle="collapse" aria-expanded="false" class="dropdown-toggle">
+                        -
+                        Curriculum
+                    </a>
+                    <ul class="collapse list-unstyled" id="pageSubmenu2">
+                        <li>
+                            <a href="/gui/curriculum/CurHomepage.aspx">+ Search</a>
+                        </li>
+                        <li>
+                            <a href="/gui/curriculum/AddCurri.aspx">+ Add New Curriculum</a>
+                        </li>
+                        <li>
+                            <a href="/gui/PLO/AddPLO.aspx">+ Add New PLO</a>
+                        </li>
+                        
+                        <li>
+                            <a href="/gui/curriculum/CurSubHomepage.aspx">+ Curriculum Subjects Management</a>
+                            
+                            
+                        </li><li>
+                            <a href="/gui/assignedCurriculum/AssignCurriculumManagement.aspx">
+                                + Assign Curriculum
+                                Management
+                            </a>
+                        </li>
+                    </ul>
+                </li>
+                <li>
+                    <a href="#pageSubmenu3" data-toggle="collapse" aria-expanded="false" class="dropdown-toggle">
+                        -
+                        Curriculum Subject
+                    </a>
+                    <ul class="collapse list-unstyled" id="pageSubmenu3">
+                        <li>
+                            <a href="/gui/curriculum/CurSubHomepage.aspx">+ Manage</a>
+                        </li>
+                        <li>
+                            <a href="/gui/curriculum/AddCurri.aspx">+ Add Curriculum</a>
+                        </li>
+                    </ul>
+                </li>
+                <li>
+                    <a href="#pageSubmenu4" data-toggle="collapse" aria-expanded="false" class="dropdown-toggle">
+                        -
+                        Syllabus
+                    </a>
+                    <ul class="collapse list-unstyled" id="pageSubmenu4">
+                        <li>
+                            <a href="/gui/syllabus/SyllabusManagement.aspx">+ Search</a>
+                        </li>
+                        <li>
+                            <a href="/gui/assignedSyllabus/AssignedSyllabusManagement">
+                                + Assigned Syllabus
+                                Management
+                            </a>
+                        </li>
+                        <li>
+                            <a id="hpImportSyl" href="/gui/syllabus/ImportSyllabus.aspx">
+                                + Import syllabus from Excel
+                                file
+                            </a>
+                        </li>
+                    </ul>
+                </li>
+                <li>
+                    <a href="#pageSubmenu5" data-toggle="collapse" aria-expanded="false" class="dropdown-toggle">
+                        -
+                        Required Knowledge and Skills
+                    </a>
+                    <ul class="collapse list-unstyled" id="pageSubmenu5">
+                        <li>
+                            <a href="/gui/subjectGroup/SubCurGroupManagement.aspx">+ Curriculum Subject Grouping</a>
+                        </li>
+                        <li>
+                            <a id="HyperLink2" href="/gui/subjectGroup/SubjectGroupManagent.aspx">
+                                + Subject Group
+                                Management
+                            </a>
+                        </li>
+                    </ul>
+                </li>
+                <li>
+                    <a href="#pageSubmenu6" data-toggle="collapse" aria-expanded="false" class="dropdown-toggle">
+                        -
+                        Assessment Type
+                    </a>
+                    <ul class="collapse list-unstyled" id="pageSubmenu6">
+                        <li>
+                            <a href="/gui/assessmentType/AssessmentTypeHomepage.aspx">+ Manage</a>
+                        </li>
+                        <li>
+                            <a id="hpLinkAddAst" href="/gui/assessmentType/AddAst.aspx">+ Add New Assessment Type</a>
+                        </li>
+                    </ul>
+                </li>
+                <li>
+                    <a href="#pageSubmenu7" data-toggle="collapse" aria-expanded="false" class="dropdown-toggle">
+                        -
+                        Subject
+                    </a>
+                    <ul class="collapse list-unstyled" id="pageSubmenu7">
+                        <li>
+                            <a href="/gui/subject/SubjectHomepage.aspx">+ Manage</a>
+                        </li>
+                        <li>
+                            <a id="hpLinkAddSub" href="/gui/subject/AddSub.aspx">+ Add New Subject</a>
+                        </li>
+                        <li>
+                            <a id="hpLinkImportSub" href="/gui/subject/ImportSubject.aspx">+ Import Subjects</a>
+                        </li>
+                    </ul>
+                </li>
+                <li>
+                    <a href="#pageSubmenu8" data-toggle="collapse" aria-expanded="false" class="dropdown-toggle">
+                        -
+                        User
+                    </a>
+                    <ul class="collapse list-unstyled" id="pageSubmenu8">
+                        <li>
+                            <a href="/gui/user/UserManagement.aspx">+ Search</a>
+                        </li>
+                        <li>
+                            <a id="hpLinkAddUser" href="/gui/user/AddUser.aspx">+ Add New User</a>
+                        </li>
+                    </ul>
+                </li>
+                <li>
+                    <a href="#pageSubmenu9" data-toggle="collapse" aria-expanded="false" class="dropdown-toggle">
+                        -
+                        Tools
+                    </a>
+                    <ul class="collapse list-unstyled" id="pageSubmenu9">
+                        <li>
+                            <a id="HyperLink3" href="/gui/tool/UpdateCurWithNewSyl.aspx">
+                                + Update curriculums with new
+                                syllabus version
+                            </a>
+                        </li>
+                        <li>
+                            <a id="HyperLink4" href="/gui/tool/SubjectReporting.aspx">+ Subject Reporting</a>
+                        </li>
+                        <li>
+                            <a id="hpExportTextBookToOrder" href="/gui/tool/ExportTextbookToOrder.aspx">
+                                + Export
+                                Textbook to Order
+                            </a>
+                        </li>
+                        <li>
+                            <a id="HyperLink6" href="/gui/tool/ExportGradingStructure.aspx">
+                                + Export Grading
+                                Structure
+                            </a>
+                        </li>
+                        <li>
+                            <a id="HyperLink7" href="/gui/tool/ExportMaterialsOfCur.aspx">
+                                + Export Materials of
+                                Curriculum
+                            </a>
+                        </li>
+                        <li>
+                            <a id="hpSyllabusReporting" href="/gui/tool/SyllabusReporting.aspx">
+                                + Syllabus
+                                Reporting
+                            </a>
+                        </li>
+                        <li>
+                            <a id="hpCurriculumReporting" href="/gui/tool/CurriculumReporting.aspx">
+                                + Curriculum
+                                Reporting
+                            </a>
+                        </li>
+                        <li>
+                            <a id="hpMaterialReporting" href="/gui/tool/MaterialReporting.aspx">
+                                + Material
+                                Reporting
+                            </a>
+                        </li>
+                        <li>
+                            <a id="hpLOReporting" href="/gui/tool/LOReporting.aspx">+ CLO Reporting</a>
+                        </li>
+                        <li>
+                            <a id="hpScheduleReporting" href="/gui/tool/ScheduleReporting.aspx">
+                                + Schedule
+                                Reporting
+                            </a>
+                        </li>
+                        <li>
+                            <a id="hpFinalCheck" href="/gui/tool/FinalCheck.aspx">+ Final Check</a>
+                        </li>
+                    </ul>
+                </li>
+                <li>
+                    <a href="#pageSubmenu10" data-toggle="collapse" aria-expanded="false" class="dropdown-toggle">
+                        -
+                        Campus
+                    </a>
+                    <ul class="collapse list-unstyled" id="pageSubmenu10">
+                        <li>
+                            <a href="/gui/campus/CampusManagement.aspx">+ Manage</a>
+                        </li>
+                        <li>
+                            <a id="hpLinkAddCampus" cssclass="auto-style-1" href="/gui/campus/AddCampus.aspx">
+                                + Add New
+                                Campus
+                            </a>
+                        </li>
+                    </ul>
+                </li>
+                <li>
+                    <a href="/gui/reportSemester/DownloadReportFile.aspx">- Download report file</a>
+                </li>
+                <li>
+                    <a href="/gui/tool/CurriculumOfSubject.aspx">- Show Curriculum of a Subject</a>
+                </li>
+                <li>
+                    <a href="/gui/tool/AllPrequisiteSubject.aspx">- Show Learning Path of a Subject</a>
+                </li>
+                <li>
+                    <a href="/gui/tool/AllCorollarySubject.aspx">- A subject is the pre-requisite of</a>
+                </li>
+                <li>
+                    <a href="#pageSubmenu11" data-toggle="collapse" aria-expanded="false" class="dropdown-toggle">
+                        -
+                        Decision
+                    </a>
+                    <ul class="collapse list-unstyled" id="pageSubmenu11">
+                        <li>
+                            <a href="/decision">+ Manage</a>
+                        </li>
+                        <li>
+                            <a href="/decision/Create">+ Add New Campus</a>
+                        </li>
+                        <li>
+                            <a href="/decision/ImportDecision">+ Import Decision from Excel file</a>
+
+                        </li>
+                        
+                        
+                        
+                    </ul>
+                </li>
+                <li>
+                    <a href="#pageSubmenu12" data-toggle="collapse" aria-expanded="false" class="dropdown-toggle">
+                        -
+                        Learning &amp; Teaching method
+                    </a>
+                    <ul class="collapse list-unstyled" id="pageSubmenu12">
+                        <li>
+                            <a href="/LTMethod">+ Manage</a>
+                        </li>
+                        <li>
+                            <a href="/LTMethod/Create">+ Add New Learnig &amp; Teaching method</a>
+                        </li>
+
+
+                    </ul>
+                </li>
+                <li>
+                    <a href="#pageSubmenu13" data-toggle="collapse" aria-expanded="false" class="dropdown-toggle">
+                        -
+                        SemesterPlan
+                    </a>
+                    <ul class="collapse list-unstyled" id="pageSubmenu13">
+                        <li>
+                            <a href="/SemesterPlans">+ Manage</a>
+                        </li>
+                        <li>
+                            <a href="/SemesterPlans/Create">+ Add new SemesterPlans</a>
+                        </li>
+
+                    </ul>
+                </li>
+                <li>
+                    <a href="/syllabusPlan">- Syllabus Plans Management</a>
+                </li>
+                <li>
+                    <a href="/CurriculumPlan">- Curriculum Plans Management</a>
+                </li>
+
+
+            </ul>
+            <ul class="lisst-unstyled components p-0" id="panelStaffFeatures" style="display: none;">
+                <li>
+                    <a href="#pageSubmenu14" data-toggle="collapse" aria-expanded="false" class="dropdown-toggle">
+                        -
+                        Curriculum
+                    </a>
+                    <ul class="collapse list-unstyled" id="pageSubmenu14">
+                        <li>
+                            <a href="/gui/curriculum/CurHomepage.aspx">+ Search</a>
+                        </li>
+                        <li>
+                            <a href="/gui/curriculum/AddCurri.aspx">+ Add New Curriculum</a>
+                        </li>
+                        <li>
+                            <a href="/gui/PLO/AddPLO.aspx">+ Add New PLO</a>
+                        </li>
+                        
+                        <li visible="False" runat="server">
+                            <a href="/gui/assignedCurriculum/MyCurriculums.aspx">+ My Curriculums</a>
+                        </li>
+                        <li>
+                            <a href="/gui/curriculum/CurSubHomepage.aspx">+ Curriculum Subjects Management</a>
+                        </li>
+                        <li>
+                            <a href="/gui/assignedCurriculum/AssignCurriculumManagement.aspx">
+                                + Assign Curriculum
+                                Management
+                            </a>
+                        </li>
+                    </ul>
+                </li>
+                <li>
+                    <a href="#pageSubmenu15" data-toggle="collapse" aria-expanded="false" class="dropdown-toggle">
+                        -
+                        Curriculum Subject
+                    </a>
+                    <ul class="collapse list-unstyled" id="pageSubmenu15">
+                        <li>
+                            <a href="/gui/curriculum/CurSubHomepage.aspx">+ Manage</a>
+                        </li>
+                        <li>
+                            <a href="/gui/curriculum/AddCurri.aspx">+ Add Curriculum</a>
+                        </li>
+                    </ul>
+                </li>
+                <li>
+                    <a href="#pageSubmenu16" data-toggle="collapse" aria-expanded="false" class="dropdown-toggle">
+                        -
+                        Syllabus
+                    </a>
+                    <ul class="collapse list-unstyled" id="pageSubmenu16">
+                        <li>
+                            <a href="/gui/syllabus/SyllabusManagement.aspx">+ Search</a>
+                        </li>
+                        <li>
+                            <a href="/gui/assignedSyllabus/AssignedSyllabusManagement">
+                                + Assigned Syllabus
+                                Management
+                            </a>
+                        </li>
+                        <li>
+                            <a id="HyperLink1" href="/gui/syllabus/ImportSyllabus.aspx">
+                                + Import syllabus from Excel
+                                file
+                            </a>
+                        </li>
+                    </ul>
+                </li>
+                <li>
+                    <a href="#pageSubmenu17" data-toggle="collapse" aria-expanded="false" class="dropdown-toggle">
+                        -
+                        Required Knowledge and Skills
+                    </a>
+                    <ul class="collapse list-unstyled" id="pageSubmenu17">
+                        <li>
+                            <a href="/gui/subjectGroup/SubCurGroupManagement.aspx">+ Curriculum Subject Grouping</a>
+                        </li>
+                        <li>
+                            <a id="HyperLink5" href="/gui/subjectGroup/SubjectGroupManagent.aspx">
+                                + Subject Group
+                                Management
+                            </a>
+                        </li>
+                    </ul>
+                </li>
+                <li>
+                    <a href="#pageSubmenu18" data-toggle="collapse" aria-expanded="false" class="dropdown-toggle">
+                        -
+                        Assessment Type
+                    </a>
+                    <ul class="collapse list-unstyled" id="pageSubmenu18">
+                        <li>
+                            <a href="/gui/assessmentType/AssessmentTypeHomepage.aspx">+ Manage</a>
+                        </li>
+                        <li>
+                            <a id="HyperLink8" href="/gui/assessmentType/AddAst.aspx">+ Add New Assessment Type</a>
+                        </li>
+                    </ul>
+                </li>
+                <li>
+                    <a href="#pageSubmenu19" data-toggle="collapse" aria-expanded="false" class="dropdown-toggle">
+                        -
+                        Subject
+                    </a>
+                    <ul class="collapse list-unstyled" id="pageSubmenu19">
+                        <li>
+                            <a href="/gui/subject/SubjectHomepage.aspx">+ Manage</a>
+                        </li>
+                        <li>
+                            <a id="HyperLink9" href="/gui/subject/AddSub.aspx">+ Add New Subject</a>
+                        </li>
+                        <li>
+                            <a id="HyperLink10" href="/gui/subject/ImportSubject.aspx">+ Import Subjects</a>
+                        </li>
+                    </ul>
+                </li>
+
+                <li>
+                    <a href="#pageSubmenu20" data-toggle="collapse" aria-expanded="false" class="dropdown-toggle">
+                        -
+                        Tools
+                    </a>
+                    <ul class="collapse list-unstyled" id="pageSubmenu20">
+                        <li>
+                            <a href="/gui/tool/AllTools.aspx">+ Manage</a>
+                        </li>
+                        <li>
+                            <a id="HyperLink12" href="/gui/tool/UpdateCurWithNewSyl.aspx">
+                                + Update curriculums with new
+                                syllabus version
+                            </a>
+                        </li>
+                        <li>
+                            <a id="HyperLink13" href="/gui/tool/SubjectReporting.aspx">+ Subject Reporting</a>
+                        </li>
+                        <li>
+                            <a id="HyperLink14" href="/gui/tool/ExportTextbookToOrder.aspx">
+                                + Export Textbook to
+                                Order
+                            </a>
+                        </li>
+                        <li>
+                            <a id="HyperLink15" href="/gui/tool/ExportGradingStructure.aspx">
+                                + Export Grading
+                                Structure
+                            </a>
+                        </li>
+                        <li>
+                            <a id="HyperLink16" href="/gui/tool/ExportMaterialsOfCur.aspx">
+                                + Export Materials of
+                                Curriculum
+                            </a>
+                        </li>
+                        <li>
+                            <a id="HyperLink17" href="/gui/tool/SyllabusReporting.aspx">+ Syllabus Reporting</a>
+                        </li>
+                        <li>
+                            <a id="HyperLink18" href="/gui/tool/CurriculumReporting.aspx">+ Curriculum Reporting</a>
+                        </li>
+                        <li>
+                            <a id="HyperLink19" href="/gui/tool/MaterialReporting.aspx">+ Material Reporting</a>
+                        </li>
+                        <li>
+                            <a id="HyperLink20" href="/gui/tool/LOReporting.aspx">+ CLO Reporting</a>
+                        </li>
+                        <li>
+                            <a id="HyperLink21" href="/gui/tool/ScheduleReporting.aspx">+ Schedule Reporting</a>
+                        </li>
+                        <li>
+                            <a id="HyperLink22" href="/gui/tool/FinalCheck.aspx">+ Final Check</a>
+                        </li>
+                    </ul>
+                </li>
+
+                <li>
+                    <a href="/gui/reportSemester/DownloadReportFile.aspx">- Download report file</a>
+                </li>
+                <li>
+                    <a href="/gui/tool/CurriculumOfSubject.aspx">- Show Curriculum of a Subject</a>
+                </li>
+                <li>
+                    <a href="/gui/tool/AllPrequisiteSubject.aspx">- Show Learning Path of a Subject</a>
+                </li>
+                <li>
+                    <a href="/gui/tool/AllCorollarySubject.aspx">- A subject is the pre-requisite of</a>
+                </li>
+                <li>
+                    <a href="#pageSubmenu21" data-toggle="collapse" aria-expanded="false" class="dropdown-toggle">
+                        -
+                        Decision
+                    </a>
+                    <ul class="collapse list-unstyled" id="pageSubmenu21">
+                        <li>
+                            <a href="/decision">+ Manage</a>
+                        </li>
+                        <li>
+                            <a href="/decision/Create">+ Add New Campus</a>
+                        </li>
+                        <li>
+                            <a href="/decision/ImportDecision">+ Import Decision from Excel file</a>
+
+                        </li>
+                        
+                        
+                        
+                    </ul>
+                </li>
+                <li>
+                    <a href="#pageSubmenu22" data-toggle="collapse" aria-expanded="false" class="dropdown-toggle">
+                        -
+                        Learning &amp; Teaching method
+                    </a>
+                    <ul class="collapse list-unstyled" id="pageSubmenu22">
+                        <li>
+                            <a href="/LTMethod">+ Manage</a>
+                        </li>
+                        <li>
+                            <a href="/LTMethod/Create">+ Add New Learnig &amp; Teaching Method</a>
+                        </li>
+
+
+                    </ul>
+                </li>
+                <li>
+                    <a href="#pageSubmenu23" data-toggle="collapse" aria-expanded="false" class="dropdown-toggle">
+                        -
+                        SemesterPlan
+                    </a>
+                    <ul class="collapse list-unstyled" id="pageSubmenu23">
+                        <li>
+                            <a href="/SemesterPlans">+ Manage</a>
+                        </li>
+                        <li>
+                            <a href="/SemesterPlans/Create">+ Add new SemesterPlans</a>
+                        </li>
+
+                    </ul>
+                </li>
+                <li>
+                    <a href="/Template/Guideline_Using_FLM_ver2.0.pdf" target="_blank">- View FLM guideline</a>
+                </li>
+            </ul>
+        </nav>
+        <div id="content" class="p-2">
+
+            <div class="mx-3">
+                
+
+<style type="text/css">
+    .auto-style2 {
+        width: 155px;
+    }
+
+    .auto-style3 {
+        width: 155px;
+        height: 24px;
+    }
+
+    #gvSubs,
+    #table-detail,
+    #gvMaterial,
+    #gvLO,
+    #gvSchedule,
+    #gvAssessment,
+    #gvCQ {
+        border: 1px solid rgba(0, 0, 0, .05);
+    }
+
+    #gvSubs th,
+    #gvMaterial th,
+    #gvLO th,
+    #gvSchedule th,
+    #gvAssessment th,
+    #gvCQ th {
+        font-weight: bold;
+        background-color: #F2994A;
+        color: white;
+    }
+
+    .table-detail tr td {
+        padding: 6px 10px 6px 10px;
+    }
+</style>
+
+<div>
+    <h1 class="mb-4">Syllabus Details</h1>
+
+
+        <table id="table-detail" class="tbl-detail" cellspacing="0" rules="all" border="1" style="border-collapse: collapse; width: 100%;">
+            <tbody><tr>
+                <td class="auto-style2" align="right" style="text-align: right;">Syllabus ID:</td>
+                <td>12375</td>
+            </tr>
+            <tr>
+                <td class="auto-style3" align="right" style="text-align: right;">Syllabus Name:</td>
+                <td><b>International Business Strategy_Chiến lược kinh doanh quốc tế</b></td>
+            </tr>
+            <tr>
+                <td class="auto-style3 text-right">Course Name English:</td>
+                <td><b>International Business Strategy</b></td>
+            </tr>
+            <tr>
+                <td class="auto-style2" align="right" style="text-align: right;">Subject Code:</td>
+                <td><b>IBS301m</b></td>
+            </tr>
+            <tr>
+                <td class="auto-style2" align="right" style="text-align: right;">Learning-Teaching Method:</td>
+                <td>Blended,Lecture</td>
+            </tr>
+            <tr>
+                <td class="auto-style2" align="right" style="text-align: right;">NoCredit:</td>
+                <td>3</td>
+            </tr>
+            <tr>
+                <td class="auto-style2" align="right" style="text-align: right;">Degree Level:</td>
+                <td>Bachelor</td>
+            </tr>
+            <tr>
+                <td class="auto-style2" align="right" style="text-align: right;">Time Allocation:</td>
+                <td>Study hour (150h) = 45h (60 sessions) contact hours + 105h self-study</td>
+            </tr>
+            <tr>
+                <td class="auto-style2" align="right" style="text-align: right;">Pre-Requisite:</td>
+                <td>IBI101</td>
+            </tr>
+            <tr>
+                <td class="auto-style2" align="right" style="text-align: right;">Description:</td>
+                <td>This Course is based on the Coursera Specialization "Business Strategy", which covers both the dynamics and the global aspects of strategic management. Students will learn how to evaluate industry evolution, build and sustain competitive advantage, formulate and assess business strategies, and align efforts to organizational strategy. 
+<br>
+<br>The course is divided into two parts. In the first part, students will develop their ability to think strategically, analyze the competitive environment, and recommend firm positioning and value creation. The course will explore the underlying theory and frameworks that provide the foundations of a successful business strategy and provide the tools students need to understand that strategy: SWOT, Competitor, Environmental, Five Forces, and Capabilities Analyses, as well as Strategy Maps. 
+<br>
+<br>In the second part, students will advance their strategic analysis skills, by learning the tools to analyze strategy across time (competitive dynamics), industries (corporate strategy), geographies (international strategy), and institutions (non-market strategy). The course will introduce the tools students need to complete a comprehensive evaluation and understand the strategy dynamics of an industry: Competitive Lifecycle, Internationalization and Stakeholder Analyses, and Diversification Matrices.
+<br>
+<br>A key feature of this course is the integration of artificial intelligence (AI) tools and applications, enabling students to generate ideas or structure for their analysis and assist with editing and enhancing clarity while maintaining the student's critical thingking and originality.</td>
+            </tr>
+            <tr>
+                <td class="auto-style2" align="right" style="text-align: right;">StudentTasks:</td>
+                <td>- Must attend at least 80% of contact slots in order to be accepted to the final examination.
+<br>- Responsible to do all exercises, assignments and labs given by instructor in class or at home and submit on time
+<br>- Use laptop in class only for learning purpose 
+<br>- Promptly  access to the FU CMS at http://flm.fpt.edu.vn for up-to-date course information</td>
+            </tr>
+            <tr>
+                <td class="auto-style2" align="right" style="text-align: right;">Tools:</td>
+                <td>- Internet connexion, laptop</td>
+            </tr>
+                <tr>
+                    <td class="auto-style2" align="right" style="text-align: right;">Scoring Scale:</td>
+                    <td>10</td>
+        </tr>
+            <tr>
+                <td class="auto-style2" align="right" style="text-align: right;">DecisionNo MM/dd/yyyy:</td>
+                <td>1363/QĐ-ĐHFPT dated 12/06/2024</td>
+            </tr>
+            <tr>
+                <td class="auto-style2" align="right" style="text-align: right;">IsApproved:</td>
+                <td><b>True</b></td>
+            </tr>
+            <tr>
+                <td class="auto-style2" align="right" style="text-align: right;">Note:</td>
+                <td></td>
+            </tr>
+            <tr>
+                <td class="auto-style2" align="right" style="text-align: right;">Is Scored:</td>
+                <td><b>True</b></td>
+            </tr>
+                <tr>
+                    <td class="auto-style3" align="right" style="text-align: right;">MinAvgMarkToPass:
+                    </td>
+                    <td>
+                        5
+            </td>
+        </tr>
+            <tr>
+                <td class="auto-style3" align="right" style="text-align: right;">IsActive:</td>
+                <td>True</td>
+            </tr>
+            <tr>
+                <td class="auto-style2" align="right" style="text-align: right;">ApprovedDate:</td>
+                <td>12/6/2024</td>
+            </tr>
+        </tbody></table>
+        <br>
+        <!-- Materials Section -->
+        <label style="color: #23ac68;">3 material(s)</label>
+        <br>
+            <table id="gvMaterial" class="table table-striped tbl-data">
+                <thead>
+                    <tr>
+                        <th style="width: 3%; text-align: center;">No.</th>
+                        <th>Material Description</th>
+                        <th>Author</th>
+                        <th>Publisher</th>
+                        <th>Published Date</th>
+                        <th>Edition</th>
+                        <th>ISBN</th>
+                        <th>Is Main Material</th>
+                        <th>Is Hard Copy</th>
+                        <th>Is Online</th>
+                        <th>Note</th>
+                    </tr>
+                </thead>
+                <tbody>
+                        <tr>
+                            <td style="text-align: center;">1</td>
+                            <td>Foundations of Business Strategy
+<br>'https://www.coursera.org/learn/uva-darden-foundations-business-strategy</td>
+                            <td></td>
+                            <td></td>
+                            <td></td>
+                            <td></td>
+                            <td>                                                                                                    </td>
+                            <td>True</td>
+                            <td>False</td>
+                            <td>True</td>
+                            <td></td>
+                        </tr>
+                        <tr>
+                            <td style="text-align: center;">2</td>
+                            <td>Advanced Business Strategy
+<br>https://www.coursera.org/learn/uva-darden-advanced-business-strategy?specialization=business-strategy</td>
+                            <td></td>
+                            <td></td>
+                            <td></td>
+                            <td></td>
+                            <td>                                                                                                    </td>
+                            <td>True</td>
+                            <td>False</td>
+                            <td>True</td>
+                            <td></td>
+                        </tr>
+                        <tr>
+                            <td style="text-align: center;">3</td>
+                            <td>IBS301m-AI Use Guidelines</td>
+                            <td></td>
+                            <td></td>
+                            <td></td>
+                            <td></td>
+                            <td>                                                                                                    </td>
+                            <td>True</td>
+                            <td>True</td>
+                            <td>False</td>
+                            <td>Available at Schedule sheet</td>
+                        </tr>
+                </tbody>
+            </table>
+        <br>
+        <!-- LOs Section -->
+        <label style="color: #23ac68;">8 LO(s)</label>
+            <table id="gvLO" class="table table-striped tbl-data">
+                <thead>
+                    <tr>
+                        <th style="width: 3%; text-align: center;">No.</th>
+                        <th style="width: 5%;">CLO Name</th>
+                        <th>CLO Details</th>
+                    </tr>
+                </thead>
+                <tbody>
+                        <tr>
+                            <td style="text-align: center;">1</td>
+                            <td>CLO1</td>
+                            <td>Make use of the SWOT, competitor and environmental analysis tools</td>
+                        </tr>
+                        <tr>
+                            <td style="text-align: center;">2</td>
+                            <td>CLO2</td>
+                            <td>Assess an industry's structure and how the competitive dynamics in an industry affect profitability</td>
+                        </tr>
+                        <tr>
+                            <td style="text-align: center;">3</td>
+                            <td>CLO3</td>
+                            <td>Create a capabilities analysis and apply this analysis in decision making</td>
+                        </tr>
+                        <tr>
+                            <td style="text-align: center;">4</td>
+                            <td>CLO4</td>
+                            <td>Analyze the advantages and disadvantages of four generic competitive positions</td>
+                        </tr>
+                        <tr>
+                            <td style="text-align: center;">5</td>
+                            <td>CLO5</td>
+                            <td>Define the dynamics of competition, the competitive life cycle, and strategies to survive and thrive through industry disruption</td>
+                        </tr>
+                        <tr>
+                            <td style="text-align: center;">6</td>
+                            <td>CLO6</td>
+                            <td>Explain internationalization strategies, how, where and when to enter foreign markets, and foreign direct investment</td>
+                        </tr>
+                        <tr>
+                            <td style="text-align: center;">7</td>
+                            <td>CLO7</td>
+                            <td>Explain how businesses compete across industries, the value of being in different markets, and the right degree of diversification</td>
+                        </tr>
+                        <tr>
+                            <td style="text-align: center;">8</td>
+                            <td>CLO8</td>
+                            <td>Assess stakeholder management and understand how engaging with non capital stakeholders can create value</td>
+                        </tr>
+                </tbody>
+            </table>
+        <a href="/CLOMapping/View?syllabusID=12375" target="_blank">View mapping of CLOs to PLOs</a>
+        <br>
+        <br>
+        <!-- Download Buttons & Schedule Section (student: no teacher materials / T-download) -->
+        <button class="margin-bot-10 btn btn-primary btn-blue ml-1 fs-inherit" id="btnDownloadAllStudentMaterial" disabled="">
+            Download All Student Material
+        </button>
+        <label style="color: #23ac68;">
+        </label>
+            <table id="gvSchedule" class="auto-style2 table table-striped tbl-data" style="width: 100%;">
+                <thead>
+                    <tr>
+                        <th>Session</th>
+                        <th>Topic</th>
+                        <th>Learning-Teaching Type</th>
+                        <th>LO</th>
+                        <th>ITU</th>
+                        <th>Student Materials</th>
+                        <th>S-Download</th>
+                        <th>Student's Tasks</th>
+                        <th>URLs</th>
+                    </tr>
+                </thead>
+                <tbody>
+                        <tr>
+                            <td>1</td>
+                            <td>Course Introduction
+<br>Course 1: Foundations of Business Strategy
+<br>Introduction to Strategic Analysis</td>
+                            <td>Offline</td>
+                            <td>LO1</td>
+                            <td></td>
+                            <td class="product">Coursera materials:
+<br>https://www.coursera.org/learn/uva-darden-foundations-business-strategy/home/week/1
+<br>https://www.coursera.org/learn/uva-darden-foundations-business-strategy/supplement/7zMIt/course-requirements
+<br>https://www.coursera.org/learn/uva-darden-foundations-business-strategy/supplement/66qMQ/get-to-know-your-classmates
+<br>https://www.coursera.org/learn/uva-darden-foundations-business-strategy/supplement/Cqem9/using-the-discussion-forums</td>
+                            <td>
+
+                            </td>
+                            <td>- Read materials
+<br>- Provide introduction to the course as a whole
+<br>- Introduce students to the format of the course
+<br>- Students are divided into groups of up to 5 people to work on the final project
+<br>- Introduce students to the format and requirements of the final project</td>
+                            <td>
+                            </td>
+                        </tr>
+                        <tr>
+                            <td>2</td>
+                            <td>Reading: Course Overview
+<br>Reading: Course Requirements
+<br>Reading: Get to know your classmates
+<br>Reading: Using the Discussion Forums</td>
+                            <td>Offline</td>
+                            <td>LO1</td>
+                            <td></td>
+                            <td class="product">Coursera materials:
+<br>https://www.coursera.org/learn/uva-darden-foundations-business-strategy/home/week/1
+<br>https://www.coursera.org/learn/uva-darden-foundations-business-strategy/supplement/7zMIt/course-requirements
+<br>https://www.coursera.org/learn/uva-darden-foundations-business-strategy/supplement/66qMQ/get-to-know-your-classmates
+<br>https://www.coursera.org/learn/uva-darden-foundations-business-strategy/supplement/Cqem9/using-the-discussion-forums</td>
+                            <td>
+
+                            </td>
+                            <td>- Read materials
+<br>- Provide introduction to the course as a whole
+<br>- Introduce students to the format of the course
+<br>- Students are divided into groups of up to 5 people to work on the final project
+<br>- Introduce students to the format and requirements of the final project</td>
+                            <td>
+                            </td>
+                        </tr>
+                        <tr>
+                            <td>3</td>
+                            <td>Lessons
+<br>Video: An introduction to strategic analysis
+<br>Video: Strategic Analysis
+<br>Video: The strategist's challenge</td>
+                            <td>Offline</td>
+                            <td>LO1</td>
+                            <td></td>
+                            <td class="product">https://www.coursera.org/learn/uva-darden-foundations-business-strategy/lecture/tkSkY/an-introduction-to-strategic-analysis
+<br>https://www.coursera.org/learn/uva-darden-foundations-business-strategy/lecture/2U1pb/strategic-analysis
+<br>https://www.coursera.org/learn/uva-darden-foundations-business-strategy/lecture/nHh81/the-strategists-challenge</td>
+                            <td>
+
+                            </td>
+                            <td>- Watch/rewatch videos
+<br>- Read materials/transcripts for further understanding
+<br>- Do in-lesson quizzes
+<br>- Discuss key concepts</td>
+                            <td>
+                            </td>
+                        </tr>
+                        <tr>
+                            <td>4</td>
+                            <td>Video: Fundamental Principle of Business Strategy
+<br>Video: Competitive Markets</td>
+                            <td>Offline</td>
+                            <td>LO1</td>
+                            <td></td>
+                            <td class="product"></td>
+                            <td>
+
+                            </td>
+                            <td>- Watch/rewatch videos
+<br>- Read materials/transcripts for further understanding
+<br>- Do in-lesson quizzes
+<br>- Discuss key concepts</td>
+                            <td>
+                            </td>
+                        </tr>
+                        <tr>
+                            <td>5</td>
+                            <td>Video: A little calculus
+<br>Video: Two perspectives on economic rents</td>
+                            <td>Offline</td>
+                            <td>LO1</td>
+                            <td></td>
+                            <td class="product"></td>
+                            <td>
+
+                            </td>
+                            <td>- Watch/rewatch videos
+<br>- Read materials/transcripts for further understanding
+<br>- Do in-lesson quizzes
+<br>- Discuss key concepts</td>
+                            <td>
+                            </td>
+                        </tr>
+                        <tr>
+                            <td>6</td>
+                            <td>Video: Module Lessons
+<br>Tools:
+<br>Video: Strategist's toolkit: SWOT</td>
+                            <td>Offline</td>
+                            <td>LO1</td>
+                            <td></td>
+                            <td class="product"></td>
+                            <td>
+
+                            </td>
+                            <td>- Watch/rewatch videos
+<br>- Read materials/transcripts for further understanding
+<br>- Do in-lesson quizzes
+<br>- Discuss key concepts</td>
+                            <td>
+                            </td>
+                        </tr>
+                        <tr>
+                            <td>7</td>
+                            <td>Video: Strategist's toolkit: Competitor Analysis
+<br>Video: Strategist's toolkit: Environmental Analysis</td>
+                            <td>Offline</td>
+                            <td>LO1</td>
+                            <td></td>
+                            <td class="product"></td>
+                            <td>
+
+                            </td>
+                            <td>- Watch/rewatch videos
+<br>- Read materials/transcripts for further understanding
+<br>- Do in-lesson quizzes
+<br>- Discuss key concepts</td>
+                            <td>
+                            </td>
+                        </tr>
+                        <tr>
+                            <td>8</td>
+                            <td>Case study: Google Inc: Buy, Sell, or Hold?
+<br>Case Study Debrief: Video: Google Case study debrief</td>
+                            <td>Offline</td>
+                            <td>LO1</td>
+                            <td></td>
+                            <td class="product"></td>
+                            <td>
+
+                            </td>
+                            <td>- Read materials/transcripts for further understanding
+<br>- Work on case study</td>
+                            <td>
+                            </td>
+                        </tr>
+                        <tr>
+                            <td>9</td>
+                            <td>Course 1: Foundations of Business Strategy
+<br>Analyzing Industry Structure Lessons
+<br>Video: Analyzing Industry Structure
+<br>Video: Threat of Entry, Part 1</td>
+                            <td>Offline</td>
+                            <td>LO2</td>
+                            <td></td>
+                            <td class="product"></td>
+                            <td>
+
+                            </td>
+                            <td>- Watch/rewatch videos
+<br>- Read materials/transcripts for further understanding
+<br>- Do in-lesson quizzes
+<br>- Discuss key concepts</td>
+                            <td>
+                            </td>
+                        </tr>
+                        <tr>
+                            <td>10</td>
+                            <td>Video: Threat of Entry, Part 2
+<br>Video: Threat of Substitutes</td>
+                            <td>Offline</td>
+                            <td>LO2</td>
+                            <td></td>
+                            <td class="product"></td>
+                            <td>
+
+                            </td>
+                            <td>- Watch/rewatch videos
+<br>- Read materials/transcripts for further understanding
+<br>- Do in-lesson quizzes
+<br>- Discuss key concepts</td>
+                            <td>
+                            </td>
+                        </tr>
+                        <tr>
+                            <td>11</td>
+                            <td>Video: 
+<br>Barganining Power of Buyers, Part 1
+<br>Bargaining Power of Buyers, Part 2
+<br>Bargaining Power of Suppliers</td>
+                            <td>Offline</td>
+                            <td>LO2</td>
+                            <td></td>
+                            <td class="product"></td>
+                            <td>
+
+                            </td>
+                            <td>- Watch/rewatch videos
+<br>- Read materials/transcripts for further understanding
+<br>- Do in-lesson quizzes
+<br>- Discuss key concepts</td>
+                            <td>
+                            </td>
+                        </tr>
+                        <tr>
+                            <td>12</td>
+                            <td>Intensity of Rivalry
+<br>Module lessons
+<br>Group submit selection of company for the final project to instructor to be approved</td>
+                            <td>Offline</td>
+                            <td>LO2</td>
+                            <td></td>
+                            <td class="product"></td>
+                            <td>
+
+                            </td>
+                            <td>- Watch/rewatch videos
+<br>- Read materials/transcripts for further understanding
+<br>- Do in-lesson quizzes
+<br>- Discuss key concepts</td>
+                            <td>
+                            </td>
+                        </tr>
+                        <tr>
+                            <td>13</td>
+                            <td>Tools
+<br>Video: Strategist's toolkit: 5 forces analysis</td>
+                            <td>Offline</td>
+                            <td>LO2</td>
+                            <td></td>
+                            <td class="product"></td>
+                            <td>
+
+                            </td>
+                            <td>- Watch/rewatch videos
+<br>- Read materials/transcripts for further understanding
+<br>- Do in-lesson quizzes
+<br>- Discuss key concepts</td>
+                            <td>
+                            </td>
+                        </tr>
+                        <tr>
+                            <td>14</td>
+                            <td>Case study: Redhook Brewing Company
+<br>Video: Redhook Brewing company case study debrief</td>
+                            <td>Offline</td>
+                            <td>LO2</td>
+                            <td></td>
+                            <td class="product"></td>
+                            <td>
+
+                            </td>
+                            <td>- Read materials/transcripts for further understanding
+<br>- Work on case study</td>
+                            <td>
+                            </td>
+                        </tr>
+                        <tr>
+                            <td>15</td>
+                            <td>Course 1: Foundation of Business Strategy
+<br>Analyzing Firm Capabilities 
+<br>Lessons
+<br>Video: Analyzing Firm Capabilities</td>
+                            <td>Offline</td>
+                            <td>LO3</td>
+                            <td></td>
+                            <td class="product"></td>
+                            <td>
+
+                            </td>
+                            <td>- Watch/rewatch videos
+<br>- Read materials/transcripts for further understanding
+<br>- Do in-lesson quizzes
+<br>- Discuss key concepts</td>
+                            <td>
+                            </td>
+                        </tr>
+                        <tr>
+                            <td>16</td>
+                            <td>Video: Value Chain
+<br>Video: Alignment</td>
+                            <td>Offline</td>
+                            <td>LO3</td>
+                            <td></td>
+                            <td class="product"></td>
+                            <td>
+
+                            </td>
+                            <td>- Watch/rewatch videos
+<br>- Read materials/transcripts for further understanding
+<br>- Do in-lesson quizzes
+<br>- Discuss key concepts</td>
+                            <td>
+                            </td>
+                        </tr>
+                        <tr>
+                            <td>17</td>
+                            <td>Video: Sustainability: Imitation
+<br>Video: Sustainability: Durability</td>
+                            <td>Offline</td>
+                            <td>LO3</td>
+                            <td></td>
+                            <td class="product"></td>
+                            <td>
+
+                            </td>
+                            <td>- Watch/rewatch videos
+<br>- Read materials/transcripts for further understanding
+<br>- Do in-lesson quizzes
+<br>- Discuss key concepts</td>
+                            <td>
+                            </td>
+                        </tr>
+                        <tr>
+                            <td>18</td>
+                            <td>Video: 
+<br>Building Capabilities
+<br>Module Lessons</td>
+                            <td>Offline</td>
+                            <td>LO3</td>
+                            <td></td>
+                            <td class="product"></td>
+                            <td>
+
+                            </td>
+                            <td>- Watch/rewatch videos
+<br>- Read materials/transcripts for further understanding
+<br>- Do in-lesson quizzes
+<br>- Discuss key concepts</td>
+                            <td>
+                            </td>
+                        </tr>
+                        <tr>
+                            <td>19</td>
+                            <td>Tools
+<br>Video: Strategist's Toolkit: Capabilities Analysis</td>
+                            <td>Offline</td>
+                            <td>LO3</td>
+                            <td></td>
+                            <td class="product"></td>
+                            <td>
+
+                            </td>
+                            <td>- Watch/rewatch videos
+<br>- Read materials/transcripts for further understanding
+<br>- Do in-lesson quizzes
+<br>- Discuss key concepts</td>
+                            <td>
+                            </td>
+                        </tr>
+                        <tr>
+                            <td>20</td>
+                            <td>Case study: Apple (Computer) Inc
+<br>Case study Debrief: Video Apple Case study debrief</td>
+                            <td>Offline</td>
+                            <td>LO3</td>
+                            <td></td>
+                            <td class="product"></td>
+                            <td>
+
+                            </td>
+                            <td>- Read materials/transcripts for further understanding
+<br>- Work on case study</td>
+                            <td>
+                            </td>
+                        </tr>
+                        <tr>
+                            <td>21</td>
+                            <td>Course 1: Foundations of Business Strategy
+<br>Determining Competitive Position Lessons
+<br>Video:
+<br>Determining Competitive Positioning</td>
+                            <td>Offline</td>
+                            <td>LO4</td>
+                            <td></td>
+                            <td class="product"></td>
+                            <td>
+
+                            </td>
+                            <td>- Watch/rewatch videos
+<br>- Read materials/transcripts for further understanding
+<br>- Do in-lesson quizzes
+<br>- Discuss key concepts</td>
+                            <td>
+                            </td>
+                        </tr>
+                        <tr>
+                            <td>22</td>
+                            <td>Video:
+<br>Generic Competitive Positions, Part 1
+<br>Generic Competitive Positions, Part 2</td>
+                            <td>Offline</td>
+                            <td>LO4</td>
+                            <td></td>
+                            <td class="product"></td>
+                            <td>
+
+                            </td>
+                            <td>- Watch/rewatch videos
+<br>- Read materials/transcripts for further understanding
+<br>- Do in-lesson quizzes
+<br>- Discuss key concepts</td>
+                            <td>
+                            </td>
+                        </tr>
+                        <tr>
+                            <td>23</td>
+                            <td>Video:
+<br>Mapping Competitive Positions
+<br>Which position is best?</td>
+                            <td>Offline</td>
+                            <td>LO4</td>
+                            <td></td>
+                            <td class="product"></td>
+                            <td>
+
+                            </td>
+                            <td>- Watch/rewatch videos
+<br>- Read materials/transcripts for further understanding
+<br>- Do in-lesson quizzes
+<br>- Discuss key concepts</td>
+                            <td>
+                            </td>
+                        </tr>
+                        <tr>
+                            <td>24</td>
+                            <td>Video: Module lessons
+<br>Tools
+<br>Video: Strategist's toolkit: Strategy maps</td>
+                            <td>Offline</td>
+                            <td>LO4</td>
+                            <td></td>
+                            <td class="product"></td>
+                            <td>
+
+                            </td>
+                            <td>- Watch/rewatch videos
+<br>- Read materials/transcripts for further understanding
+<br>- Do in-lesson quizzes
+<br>- Discuss key concepts</td>
+                            <td>
+                            </td>
+                        </tr>
+                        <tr>
+                            <td>25</td>
+                            <td>Case study: Piaggio</td>
+                            <td>Offline</td>
+                            <td>LO1, LO2, LO3, LO4</td>
+                            <td></td>
+                            <td class="product"></td>
+                            <td>
+
+                            </td>
+                            <td>- Read materials/transcripts for further understanding
+<br>- Work on case study</td>
+                            <td>
+                            </td>
+                        </tr>
+                        <tr>
+                            <td>26</td>
+                            <td>Submit Course 1 Assignment
+<br>Review</td>
+                            <td>Offline</td>
+                            <td>LO1, LO2, LO3, LO4</td>
+                            <td></td>
+                            <td class="product"></td>
+                            <td>
+
+                            </td>
+                            <td>Complete the assignment according to the instructions on Coursera. Then, submit the work to the instructor to be graded.</td>
+                            <td>
+                            </td>
+                        </tr>
+                        <tr>
+                            <td>27</td>
+                            <td>Progress Test 1</td>
+                            <td>Offline</td>
+                            <td>LO1, LO2, LO3, LO4</td>
+                            <td></td>
+                            <td class="product"></td>
+                            <td>
+
+                            </td>
+                            <td>-Take the test in-class</td>
+                            <td>
+                            </td>
+                        </tr>
+                        <tr>
+                            <td>28</td>
+                            <td>Course 2: Advanced Business Strategy
+<br>Course Introduction
+<br>Dynamic Strategy
+<br>Reading: Course Overview
+<br>Reading: Course Requirements
+<br>Reading: Get to know your classmates
+<br>Reading: Using the Discussion Forums</td>
+                            <td>Offline</td>
+                            <td>LO5</td>
+                            <td></td>
+                            <td class="product"></td>
+                            <td>
+
+                            </td>
+                            <td>- Watch/rewatch videos
+<br>- Read materials/transcripts for further understanding
+<br>- Do in-lesson quizzes
+<br>- Discuss key concepts</td>
+                            <td>
+                            </td>
+                        </tr>
+                        <tr>
+                            <td>29</td>
+                            <td>Lessons:
+<br>Video:
+<br>Introduction to strategy over time
+<br>The dynamic capabilities perspective</td>
+                            <td>Offline</td>
+                            <td>LO5</td>
+                            <td></td>
+                            <td class="product"></td>
+                            <td>
+
+                            </td>
+                            <td>- Watch/rewatch videos
+<br>- Read materials/transcripts for further understanding
+<br>- Do in-lesson quizzes
+<br>- Discuss key concepts</td>
+                            <td>
+                            </td>
+                        </tr>
+                        <tr>
+                            <td>30</td>
+                            <td>Video:
+<br>Introduction to the competitive life cycle
+<br>Competitive life cycle: common patterns</td>
+                            <td>Offline</td>
+                            <td>LO5</td>
+                            <td></td>
+                            <td class="product"></td>
+                            <td>
+
+                            </td>
+                            <td>- Watch/rewatch videos
+<br>- Read materials/transcripts for further understanding
+<br>- Do in-lesson quizzes
+<br>- Discuss key concepts</td>
+                            <td>
+                            </td>
+                        </tr>
+                        <tr>
+                            <td>31</td>
+                            <td>Video:
+<br>Why incumbent firms fail or survive
+<br>Competitive life cycle analysis</td>
+                            <td>Offline</td>
+                            <td>LO5</td>
+                            <td></td>
+                            <td class="product"></td>
+                            <td>
+
+                            </td>
+                            <td>- Watch/rewatch videos
+<br>- Read materials/transcripts for further understanding
+<br>- Do in-lesson quizzes
+<br>- Discuss key concepts</td>
+                            <td>
+                            </td>
+                        </tr>
+                        <tr>
+                            <td>32</td>
+                            <td>Video: Module lessons
+<br>Tools: Strategist's toolkit: Competitive life cycle analysis</td>
+                            <td>Offline</td>
+                            <td>LO5</td>
+                            <td></td>
+                            <td class="product"></td>
+                            <td>
+
+                            </td>
+                            <td>- Watch/rewatch videos
+<br>- Read materials/transcripts for further understanding
+<br>- Do in-lesson quizzes
+<br>- Discuss key concepts</td>
+                            <td>
+                            </td>
+                        </tr>
+                        <tr>
+                            <td>33</td>
+                            <td>Case study: Reading: Sony Playstation 4: Aim and fire
+<br>Case study debrief: Video: Sony Playstation 4 Case Debrief</td>
+                            <td>Offline</td>
+                            <td>LO5</td>
+                            <td></td>
+                            <td class="product"></td>
+                            <td>
+
+                            </td>
+                            <td>- Read materials/transcripts for further understanding
+<br>- Work on case study</td>
+                            <td>
+                            </td>
+                        </tr>
+                        <tr>
+                            <td>34</td>
+                            <td>Course 2: Advanced Business Strategy
+<br>International Strategy
+<br>Lessons
+<br>Video: Introduction to International Strategy</td>
+                            <td>Offline</td>
+                            <td>LO6</td>
+                            <td></td>
+                            <td class="product"></td>
+                            <td>
+
+                            </td>
+                            <td>- Watch/rewatch videos
+<br>- Read materials/transcripts for further understanding
+<br>- Do in-lesson quizzes
+<br>- Discuss key concepts</td>
+                            <td>
+                            </td>
+                        </tr>
+                        <tr>
+                            <td>35</td>
+                            <td>Video:
+<br>Patterns of Internationalization
+<br>Where to compete</td>
+                            <td>Offline</td>
+                            <td>LO6</td>
+                            <td></td>
+                            <td class="product"></td>
+                            <td>
+
+                            </td>
+                            <td>- Watch/rewatch videos
+<br>- Read materials/transcripts for further understanding
+<br>- Do in-lesson quizzes
+<br>- Discuss key concepts</td>
+                            <td>
+                            </td>
+                        </tr>
+                        <tr>
+                            <td>36</td>
+                            <td>Video
+<br>Entering Foreign Markets: Exporting
+<br>Entering foreign markets: Licensing and Alliances</td>
+                            <td>Offline</td>
+                            <td>LO6</td>
+                            <td></td>
+                            <td class="product"></td>
+                            <td>
+
+                            </td>
+                            <td>- Watch/rewatch videos
+<br>- Read materials/transcripts for further understanding
+<br>- Do in-lesson quizzes
+<br>- Discuss key concepts</td>
+                            <td>
+                            </td>
+                        </tr>
+                        <tr>
+                            <td>37</td>
+                            <td>Entering foreign markets: Foreign direct investment
+<br>Foreign direct investment: Entry mode</td>
+                            <td>Offline</td>
+                            <td>LO6</td>
+                            <td></td>
+                            <td class="product"></td>
+                            <td>
+
+                            </td>
+                            <td>- Watch/rewatch videos
+<br>- Read materials/transcripts for further understanding
+<br>- Do in-lesson quizzes
+<br>- Discuss key concepts</td>
+                            <td>
+                            </td>
+                        </tr>
+                        <tr>
+                            <td>38</td>
+                            <td>Module lessons
+<br>Tools:
+<br>Video: strategist's tookit: Internationalization Analysis</td>
+                            <td>Offline</td>
+                            <td>LO6</td>
+                            <td></td>
+                            <td class="product"></td>
+                            <td>
+
+                            </td>
+                            <td>- Watch/rewatch videos
+<br>- Read materials/transcripts for further understanding
+<br>- Do in-lesson quizzes
+<br>- Discuss key concepts</td>
+                            <td>
+                            </td>
+                        </tr>
+                        <tr>
+                            <td>39</td>
+                            <td>Case study: Reading: Orascom Telecom Holding: Wind and Weather</td>
+                            <td>Offline</td>
+                            <td>LO6</td>
+                            <td></td>
+                            <td class="product"></td>
+                            <td>
+
+                            </td>
+                            <td>- Read materials/transcripts for further understanding
+<br>- Work on case study</td>
+                            <td>
+                            </td>
+                        </tr>
+                        <tr>
+                            <td>40</td>
+                            <td>Course 2: Advanced Business Strategy
+<br>Diversification Strategy 
+<br>Lessons
+<br>Video:
+<br>Introduction to competing across industries</td>
+                            <td>Offline</td>
+                            <td>LO7</td>
+                            <td></td>
+                            <td class="product"></td>
+                            <td>
+
+                            </td>
+                            <td>- Watch/rewatch videos
+<br>- Read materials/transcripts for further understanding
+<br>- Do in-lesson quizzes
+<br>- Discuss key concepts</td>
+                            <td>
+                            </td>
+                        </tr>
+                        <tr>
+                            <td>41</td>
+                            <td>Video:
+<br>Financial reasons to diversify
+<br>Operational reasons to diversify
+<br>Strategic reasons to diversify</td>
+                            <td>Offline</td>
+                            <td>LO7</td>
+                            <td></td>
+                            <td class="product"></td>
+                            <td>
+
+                            </td>
+                            <td>- Watch/rewatch videos
+<br>- Read materials/transcripts for further understanding
+<br>- Do in-lesson quizzes
+<br>- Discuss key concepts</td>
+                            <td>
+                            </td>
+                        </tr>
+                        <tr>
+                            <td>42</td>
+                            <td>Video:
+<br>Why firms exist: theory of the firm
+<br>Limits on firm scope</td>
+                            <td>Offline</td>
+                            <td>LO7</td>
+                            <td></td>
+                            <td class="product"></td>
+                            <td>
+
+                            </td>
+                            <td>- Watch/rewatch videos
+<br>- Read materials/transcripts for further understanding
+<br>- Do in-lesson quizzes
+<br>- Discuss key concepts</td>
+                            <td>
+                            </td>
+                        </tr>
+                        <tr>
+                            <td>43</td>
+                            <td>Video:
+<br>The right degree of diversification
+<br>Module lessons</td>
+                            <td>Offline</td>
+                            <td>LO7</td>
+                            <td></td>
+                            <td class="product"></td>
+                            <td>
+
+                            </td>
+                            <td>- Watch/rewatch videos
+<br>- Read materials/transcripts for further understanding
+<br>- Do in-lesson quizzes
+<br>- Discuss key concepts</td>
+                            <td>
+                            </td>
+                        </tr>
+                        <tr>
+                            <td>44</td>
+                            <td>Tools
+<br>Video: Strategist's toolkit: Diversification Matrices</td>
+                            <td>Offline</td>
+                            <td>LO7</td>
+                            <td></td>
+                            <td class="product"></td>
+                            <td>
+
+                            </td>
+                            <td>- Watch/rewatch videos
+<br>- Read materials/transcripts for further understanding
+<br>- Do in-lesson quizzes
+<br>- Discuss key concepts</td>
+                            <td>
+                            </td>
+                        </tr>
+                        <tr>
+                            <td>45</td>
+                            <td>Case study: Reading: Walt Disney Co: Mickey Mouse or Media Mammoth?
+<br>Video: Walt Disney Co Case Debrieft</td>
+                            <td>Offline</td>
+                            <td>LO7</td>
+                            <td></td>
+                            <td class="product"></td>
+                            <td>
+
+                            </td>
+                            <td>- Read materials/transcripts for further understanding
+<br>- Work on case study</td>
+                            <td>
+                            </td>
+                        </tr>
+                        <tr>
+                            <td>46</td>
+                            <td>Course 2: Advanced Business Strategy
+<br>Stakeholder Strategy
+<br>Lessons: 
+<br>Video: Introduction to Stakeholder Strategy
+<br>Creating value for stakeholders</td>
+                            <td>Offline</td>
+                            <td>LO8</td>
+                            <td></td>
+                            <td class="product"></td>
+                            <td>
+
+                            </td>
+                            <td>- Watch/rewatch videos
+<br>- Read materials/transcripts for further understanding
+<br>- Do in-lesson quizzes
+<br>- Discuss key concepts</td>
+                            <td>
+                            </td>
+                        </tr>
+                        <tr>
+                            <td>47</td>
+                            <td>Video:
+<br>Aligning key stakeholders
+<br>Aligning secondary stakeholders</td>
+                            <td>Offline</td>
+                            <td>LO8</td>
+                            <td></td>
+                            <td class="product"></td>
+                            <td>
+
+                            </td>
+                            <td>- Watch/rewatch videos
+<br>- Read materials/transcripts for further understanding
+<br>- Do in-lesson quizzes
+<br>- Discuss key concepts</td>
+                            <td>
+                            </td>
+                        </tr>
+                        <tr>
+                            <td>48</td>
+                            <td>Video:
+<br>Value creation and your values
+<br>Module lessons</td>
+                            <td>Offline</td>
+                            <td>LO8</td>
+                            <td></td>
+                            <td class="product"></td>
+                            <td>
+
+                            </td>
+                            <td>- Watch/rewatch videos
+<br>- Read materials/transcripts for further understanding
+<br>- Do in-lesson quizzes
+<br>- Discuss key concepts</td>
+                            <td>
+                            </td>
+                        </tr>
+                        <tr>
+                            <td>49</td>
+                            <td>Tools
+<br>Video: Strategist’s Toolkit: Stakeholder Analysis</td>
+                            <td>Offline</td>
+                            <td>LO8</td>
+                            <td></td>
+                            <td class="product"></td>
+                            <td>
+
+                            </td>
+                            <td>Complete the assignment according to the instructions on Coursera. Then, submit the work to the instructor to be graded.</td>
+                            <td>
+                            </td>
+                        </tr>
+                        <tr>
+                            <td>50</td>
+                            <td>Case study: Reading
+<br>GE Healthcare in India: An (Ultra) Sound Strategy?
+<br>Case study Debrief: Video: GE Healthcare India Case Debrief</td>
+                            <td>Offline</td>
+                            <td>LO8</td>
+                            <td></td>
+                            <td class="product"></td>
+                            <td>
+
+                            </td>
+                            <td>- Read materials/transcripts for further understanding
+<br>- Work on case study</td>
+                            <td>
+                            </td>
+                        </tr>
+                        <tr>
+                            <td>51</td>
+                            <td>Submit Course 2 Assignment
+<br>Review</td>
+                            <td>Offline</td>
+                            <td>LO5, LO6, LO7, LO8</td>
+                            <td></td>
+                            <td class="product"></td>
+                            <td>
+
+                            </td>
+                            <td>- Review key concepts introduced throughout the course</td>
+                            <td>
+                            </td>
+                        </tr>
+                        <tr>
+                            <td>52</td>
+                            <td>Progress Test 2</td>
+                            <td>Offline</td>
+                            <td>LO5, LO6, LO7, LO9</td>
+                            <td></td>
+                            <td class="product"></td>
+                            <td>
+
+                            </td>
+                            <td>-Take the test in-class</td>
+                            <td>
+                            </td>
+                        </tr>
+                        <tr>
+                            <td>53</td>
+                            <td>Review and Preparation for Final Project</td>
+                            <td>Offline</td>
+                            <td></td>
+                            <td></td>
+                            <td class="product"></td>
+                            <td>
+
+                            </td>
+                            <td>- Submit presentation outline to instructor for review and feedback</td>
+                            <td>
+                            </td>
+                        </tr>
+                        <tr>
+                            <td>54</td>
+                            <td>Review and Preparation for Final Project</td>
+                            <td>Offline</td>
+                            <td></td>
+                            <td></td>
+                            <td class="product"></td>
+                            <td>
+
+                            </td>
+                            <td>- Submit presentation outline to instructor for review and feedback</td>
+                            <td>
+                            </td>
+                        </tr>
+                        <tr>
+                            <td>55</td>
+                            <td>Final Project Presentation</td>
+                            <td>Offline</td>
+                            <td>LO1, LO2, LO3, LO4, LO5, LO6, LO7, LO6</td>
+                            <td></td>
+                            <td class="product"></td>
+                            <td>
+
+                            </td>
+                            <td>Students conduct the presentation in groups of 3 to 5</td>
+                            <td>
+                            </td>
+                        </tr>
+                        <tr>
+                            <td>56</td>
+                            <td>Final Project Presentation</td>
+                            <td>Offline</td>
+                            <td>LO1, LO2, LO3, LO4, LO5, LO6, LO7, LO7</td>
+                            <td></td>
+                            <td class="product"></td>
+                            <td>
+
+                            </td>
+                            <td>Students conduct the presentation in groups of 3 to 5</td>
+                            <td>
+                            </td>
+                        </tr>
+                        <tr>
+                            <td>57</td>
+                            <td>Final Project Presentation</td>
+                            <td>Offline</td>
+                            <td>LO1, LO2, LO3, LO4, LO5, LO6, LO7, LO8</td>
+                            <td></td>
+                            <td class="product"></td>
+                            <td>
+
+                            </td>
+                            <td>Students conduct the presentation in groups of 3 to 5</td>
+                            <td>
+                            </td>
+                        </tr>
+                        <tr>
+                            <td>58</td>
+                            <td>Final Project Presentation</td>
+                            <td>Offline</td>
+                            <td>LO1, LO2, LO3, LO4, LO5, LO6, LO7, LO9</td>
+                            <td></td>
+                            <td class="product"></td>
+                            <td>
+
+                            </td>
+                            <td>Students conduct the presentation in groups of 3 to 5</td>
+                            <td>
+                            </td>
+                        </tr>
+                        <tr>
+                            <td>59</td>
+                            <td>Final Project Presentation</td>
+                            <td>Offline</td>
+                            <td>LO1, LO2, LO3, LO4, LO5, LO6, LO7, LO8</td>
+                            <td></td>
+                            <td class="product"></td>
+                            <td>
+
+                            </td>
+                            <td>Students conduct the presentation in groups of 3 to 5</td>
+                            <td>
+                            </td>
+                        </tr>
+                        <tr>
+                            <td>60</td>
+                            <td>Final Project Presentation</td>
+                            <td>Offline</td>
+                            <td>LO1, LO2, LO3, LO4, LO5, LO6, LO7, LO9</td>
+                            <td></td>
+                            <td class="product"></td>
+                            <td>
+
+                            </td>
+                            <td>Students conduct the presentation in groups of 3 to 5</td>
+                            <td>
+                            </td>
+                        </tr>
+                </tbody>
+            </table>
+        <br>
+        <!-- Constructivist Questions Section -->
+        <label style="color: #23ac68;">169 Constructive question(s)</label>
+            <table id="gvCQ" class="table table-striped">
+                <thead>
+                    <tr>
+                        <th style="width: 3%; text-align: center;">No.</th>
+                        <th style="width: 7%; text-align: center;">Session No</th>
+                        <th style="width: 15%;">Name</th>
+                        <th style="width: 75%;">Details</th>
+                    </tr>
+                </thead>
+                <tbody>
+                        <tr>
+                            <td style="text-align: center;">1</td>
+                            <td style="text-align: center;">3</td>
+                            <td>CT1</td>
+                            <td>What is the definition of business strategy? Where can we find the business strategy of a firm? Is it important for assessing the viability of a business strategy?</td>
+                        </tr>
+                        <tr>
+                            <td style="text-align: center;">2</td>
+                            <td style="text-align: center;">3</td>
+                            <td>CT2</td>
+                            <td>Can you describe a simple strategy Schema (how many steps? What is the main issue of each step?)</td>
+                        </tr>
+                        <tr>
+                            <td style="text-align: center;">3</td>
+                            <td style="text-align: center;">3</td>
+                            <td>ĐN1</td>
+                            <td>How to conduct a strategic analysis?</td>
+                        </tr>
+                        <tr>
+                            <td style="text-align: center;">4</td>
+                            <td style="text-align: center;">3</td>
+                            <td>ĐN2</td>
+                            <td>How to do strategic analysis effectively? Give an example</td>
+                        </tr>
+                        <tr>
+                            <td style="text-align: center;">5</td>
+                            <td style="text-align: center;">4</td>
+                            <td>CT1</td>
+                            <td>What is strategic analysis? Who will do that?</td>
+                        </tr>
+                        <tr>
+                            <td style="text-align: center;">6</td>
+                            <td style="text-align: center;">4</td>
+                            <td>CT2</td>
+                            <td>What is strategist's challenge? How to briefly understand the strategist challenge?</td>
+                        </tr>
+                        <tr>
+                            <td style="text-align: center;">7</td>
+                            <td style="text-align: center;">4</td>
+                            <td>ĐN1</td>
+                            <td>Why  business strategy is important?</td>
+                        </tr>
+                        <tr>
+                            <td style="text-align: center;">8</td>
+                            <td style="text-align: center;">4</td>
+                            <td>ĐN2</td>
+                            <td>How does the competitive market work? Give an example</td>
+                        </tr>
+                        <tr>
+                            <td style="text-align: center;">9</td>
+                            <td style="text-align: center;">5</td>
+                            <td>CT1</td>
+                            <td>What is the definition of fundamental principle of business strategy?</td>
+                        </tr>
+                        <tr>
+                            <td style="text-align: center;">10</td>
+                            <td style="text-align: center;">5</td>
+                            <td>CT2</td>
+                            <td>How do you understand the economic profit? And how to measure it?</td>
+                        </tr>
+                        <tr>
+                            <td style="text-align: center;">11</td>
+                            <td style="text-align: center;">5</td>
+                            <td>ĐN1</td>
+                            <td>Use the two perspectives on economic rents, choose a company/industry and find out the company position in the market. Explain</td>
+                        </tr>
+                        <tr>
+                            <td style="text-align: center;">12</td>
+                            <td style="text-align: center;">5</td>
+                            <td>ĐN2</td>
+                            <td>Why the two perspectives on economic rents are importantt for company/industry?</td>
+                        </tr>
+                        <tr>
+                            <td style="text-align: center;">13</td>
+                            <td style="text-align: center;">6</td>
+                            <td>CT1</td>
+                            <td>How a market can be regarded as competitive market? If a competitive market exist in the real world?</td>
+                        </tr>
+                        <tr>
+                            <td style="text-align: center;">14</td>
+                            <td style="text-align: center;">6</td>
+                            <td>CT2</td>
+                            <td>How to calculate profits in a simple calculus?</td>
+                        </tr>
+                        <tr>
+                            <td style="text-align: center;">15</td>
+                            <td style="text-align: center;">6</td>
+                            <td>CT3</td>
+                            <td>What are the two perspective on economic rents?</td>
+                        </tr>
+                        <tr>
+                            <td style="text-align: center;">16</td>
+                            <td style="text-align: center;">6</td>
+                            <td>ĐN1</td>
+                            <td>What is the role of strategist toolkit?</td>
+                        </tr>
+                        <tr>
+                            <td style="text-align: center;">17</td>
+                            <td style="text-align: center;">6</td>
+                            <td>ĐN2</td>
+                            <td>Choose a company, use SWOT model and explain the current situation of the company's competitive market.</td>
+                        </tr>
+                        <tr>
+                            <td style="text-align: center;">18</td>
+                            <td style="text-align: center;">7</td>
+                            <td>CT1</td>
+                            <td>What is the SWOT analysis? What SWOT stands for? And how useful SWOT is?</td>
+                        </tr>
+                        <tr>
+                            <td style="text-align: center;">19</td>
+                            <td style="text-align: center;">7</td>
+                            <td>CT2</td>
+                            <td>What is competitor analysis? How can it be used in the real world?</td>
+                        </tr>
+                        <tr>
+                            <td style="text-align: center;">20</td>
+                            <td style="text-align: center;">7</td>
+                            <td>ĐN1</td>
+                            <td>Choose a company, use competitor analysis model and explain the current situation of the company's competitive market.</td>
+                        </tr>
+                        <tr>
+                            <td style="text-align: center;">21</td>
+                            <td style="text-align: center;">7</td>
+                            <td>ĐN2</td>
+                            <td>Analyze the current environment of the selected company and explain why.</td>
+                        </tr>
+                        <tr>
+                            <td style="text-align: center;">22</td>
+                            <td style="text-align: center;">8</td>
+                            <td>CT1</td>
+                            <td>What is the environmental analysis?</td>
+                        </tr>
+                        <tr>
+                            <td style="text-align: center;">23</td>
+                            <td style="text-align: center;">8</td>
+                            <td>CT2</td>
+                            <td>What components that we can considered in environmental analysis? Name 3 of them?</td>
+                        </tr>
+                        <tr>
+                            <td style="text-align: center;">24</td>
+                            <td style="text-align: center;">8</td>
+                            <td>CT3</td>
+                            <td>Should we combine two or all of strategist's toolkits (SWOT, competitor and environmental analysis)? Why?</td>
+                        </tr>
+                        <tr>
+                            <td style="text-align: center;">25</td>
+                            <td style="text-align: center;">8</td>
+                            <td>ĐN1</td>
+                            <td>Based on the case of Google, choose a company and find out the current situation of that company. Compare with Google case and explain.</td>
+                        </tr>
+                        <tr>
+                            <td style="text-align: center;">26</td>
+                            <td style="text-align: center;">9</td>
+                            <td>CT1</td>
+                            <td>What is the fundamental principle of business strategy?</td>
+                        </tr>
+                        <tr>
+                            <td style="text-align: center;">27</td>
+                            <td style="text-align: center;">9</td>
+                            <td>CT2</td>
+                            <td>What is the principle of industry structure? How to analyse the industry structure?</td>
+                        </tr>
+                        <tr>
+                            <td style="text-align: center;">28</td>
+                            <td style="text-align: center;">9</td>
+                            <td>ĐN1</td>
+                            <td>Show and analyze the selected company's structure</td>
+                        </tr>
+                        <tr>
+                            <td style="text-align: center;">29</td>
+                            <td style="text-align: center;">9</td>
+                            <td>ĐN2</td>
+                            <td>Choose a company and analyze the threat of new entry. Explain</td>
+                        </tr>
+                        <tr>
+                            <td style="text-align: center;">30</td>
+                            <td style="text-align: center;">10</td>
+                            <td>CT3</td>
+                            <td>What is the threat of enty?</td>
+                        </tr>
+                        <tr>
+                            <td style="text-align: center;">31</td>
+                            <td style="text-align: center;">10</td>
+                            <td>CT1</td>
+                            <td>What can be regrded as Competitive advantages of business?</td>
+                        </tr>
+                        <tr>
+                            <td style="text-align: center;">32</td>
+                            <td style="text-align: center;">10</td>
+                            <td>CT2</td>
+                            <td>Can you define the retalitation in international business? What type of retaliation we may have?</td>
+                        </tr>
+                        <tr>
+                            <td style="text-align: center;">33</td>
+                            <td style="text-align: center;">10</td>
+                            <td>CT4</td>
+                            <td>Can you provide an example of the threat of substitutes?</td>
+                        </tr>
+                        <tr>
+                            <td style="text-align: center;">34</td>
+                            <td style="text-align: center;">10</td>
+                            <td>ĐN1</td>
+                            <td>Choose a company and analyze the threat of substitutes. Explain</td>
+                        </tr>
+                        <tr>
+                            <td style="text-align: center;">35</td>
+                            <td style="text-align: center;">11</td>
+                            <td>CT1</td>
+                            <td>What is the bargaining power of buyers? Can you make an example about this?</td>
+                        </tr>
+                        <tr>
+                            <td style="text-align: center;">36</td>
+                            <td style="text-align: center;">11</td>
+                            <td>CT2</td>
+                            <td>When will the buyers have less power? And when will they have more power?</td>
+                        </tr>
+                        <tr>
+                            <td style="text-align: center;">37</td>
+                            <td style="text-align: center;">11</td>
+                            <td>ĐN1</td>
+                            <td>Select one industry. For the chosen industry, evaluate bargaining power of buyers and bargaining of power suppliers based on Porter's five forces model. Explain why.</td>
+                        </tr>
+                        <tr>
+                            <td style="text-align: center;">38</td>
+                            <td style="text-align: center;">11</td>
+                            <td>ĐN2</td>
+                            <td>When Bargaining Power of Buyers stronger?</td>
+                        </tr>
+                        <tr>
+                            <td style="text-align: center;">39</td>
+                            <td style="text-align: center;">12</td>
+                            <td>CT1</td>
+                            <td>How do you understand the price discrimination?</td>
+                        </tr>
+                        <tr>
+                            <td style="text-align: center;">40</td>
+                            <td style="text-align: center;">12</td>
+                            <td>CT2</td>
+                            <td>When will the suppliers are less of threat?</td>
+                        </tr>
+                        <tr>
+                            <td style="text-align: center;">41</td>
+                            <td style="text-align: center;">12</td>
+                            <td>ĐN1</td>
+                            <td>Analyze the intensity of rivalry of a choosen company/industry. Explain</td>
+                        </tr>
+                        <tr>
+                            <td style="text-align: center;">42</td>
+                            <td style="text-align: center;">13</td>
+                            <td>CT1</td>
+                            <td>What is the five forces analysis?</td>
+                        </tr>
+                        <tr>
+                            <td style="text-align: center;">43</td>
+                            <td style="text-align: center;">13</td>
+                            <td>ĐN1</td>
+                            <td>Why 5 forces analysis is important for company? Give an example</td>
+                        </tr>
+                        <tr>
+                            <td style="text-align: center;">44</td>
+                            <td style="text-align: center;">14</td>
+                            <td>CT1</td>
+                            <td>What five forces analysis can offer to us?</td>
+                        </tr>
+                        <tr>
+                            <td style="text-align: center;">45</td>
+                            <td style="text-align: center;">14</td>
+                            <td>CT2</td>
+                            <td>What are the purposes of five forces analysis?</td>
+                        </tr>
+                        <tr>
+                            <td style="text-align: center;">46</td>
+                            <td style="text-align: center;">14</td>
+                            <td>ĐN1</td>
+                            <td>Select one industry. For the chosen industry, evaluate the rivalry among competitors based on Porter's five forces model. Explain why.</td>
+                        </tr>
+                        <tr>
+                            <td style="text-align: center;">47</td>
+                            <td style="text-align: center;">14</td>
+                            <td>ĐN2</td>
+                            <td>Select one industry. For the chosen industry, evaluate the rivalry among complementors based on Porter's five forces model. Explain why.</td>
+                        </tr>
+                        <tr>
+                            <td style="text-align: center;">48</td>
+                            <td style="text-align: center;">15</td>
+                            <td>CT1</td>
+                            <td>How many steps in analyzing your firm's capabilities?</td>
+                        </tr>
+                        <tr>
+                            <td style="text-align: center;">49</td>
+                            <td style="text-align: center;">15</td>
+                            <td>CT2</td>
+                            <td>What is the value chain? How does it works?</td>
+                        </tr>
+                        <tr>
+                            <td style="text-align: center;">50</td>
+                            <td style="text-align: center;">15</td>
+                            <td>ĐN1</td>
+                            <td>What is factors belong to firm capability?</td>
+                        </tr>
+                        <tr>
+                            <td style="text-align: center;">51</td>
+                            <td style="text-align: center;">15</td>
+                            <td>ĐN2</td>
+                            <td>Select a company, find out the important capabilities and explain why?</td>
+                        </tr>
+                        <tr>
+                            <td style="text-align: center;">52</td>
+                            <td style="text-align: center;">16</td>
+                            <td>CT1</td>
+                            <td>What is the difference between the intenal alignment and external alignment?</td>
+                        </tr>
+                        <tr>
+                            <td style="text-align: center;">53</td>
+                            <td style="text-align: center;">16</td>
+                            <td>CT2</td>
+                            <td>What is business sustainability? What are dimentions mearsuring sustainability?</td>
+                        </tr>
+                        <tr>
+                            <td style="text-align: center;">54</td>
+                            <td style="text-align: center;">16</td>
+                            <td>ĐN1</td>
+                            <td>Why value chain is important? Give an example</td>
+                        </tr>
+                        <tr>
+                            <td style="text-align: center;">55</td>
+                            <td style="text-align: center;">16</td>
+                            <td>ĐN2</td>
+                            <td>How do you use the value chain? Explain</td>
+                        </tr>
+                        <tr>
+                            <td style="text-align: center;">56</td>
+                            <td style="text-align: center;">16</td>
+                            <td>ĐN3</td>
+                            <td>Select a company/industry, show the Value Chain Alignment of that company/industry and analyze it.</td>
+                        </tr>
+                        <tr>
+                            <td style="text-align: center;">57</td>
+                            <td style="text-align: center;">17</td>
+                            <td>CT1</td>
+                            <td>What is durability?</td>
+                        </tr>
+                        <tr>
+                            <td style="text-align: center;">58</td>
+                            <td style="text-align: center;">17</td>
+                            <td>CT2</td>
+                            <td>What are the challenges to business durability?</td>
+                        </tr>
+                        <tr>
+                            <td style="text-align: center;">59</td>
+                            <td style="text-align: center;">17</td>
+                            <td>ĐN1</td>
+                            <td>Choose a company/industry, what have company done for sustainability? Analyze it.</td>
+                        </tr>
+                        <tr>
+                            <td style="text-align: center;">60</td>
+                            <td style="text-align: center;">17</td>
+                            <td>ĐN2</td>
+                            <td>Why does company choose imitation strategy for sustainability? Give an example</td>
+                        </tr>
+                        <tr>
+                            <td style="text-align: center;">61</td>
+                            <td style="text-align: center;">17</td>
+                            <td>ĐN3</td>
+                            <td>Why does company choose durability strategy for sustainability? Give an example</td>
+                        </tr>
+                        <tr>
+                            <td style="text-align: center;">62</td>
+                            <td style="text-align: center;">18</td>
+                            <td>CT1</td>
+                            <td>What are the sources to capabilities?</td>
+                        </tr>
+                        <tr>
+                            <td style="text-align: center;">63</td>
+                            <td style="text-align: center;">18</td>
+                            <td>CT2</td>
+                            <td>Define 2 alternative that you can use to build your firm capabilities?</td>
+                        </tr>
+                        <tr>
+                            <td style="text-align: center;">64</td>
+                            <td style="text-align: center;">18</td>
+                            <td>ĐN1</td>
+                            <td>How to build capabilities for firm sustainability?</td>
+                        </tr>
+                        <tr>
+                            <td style="text-align: center;">65</td>
+                            <td style="text-align: center;">19</td>
+                            <td>CT1</td>
+                            <td>What is capability analysis?</td>
+                        </tr>
+                        <tr>
+                            <td style="text-align: center;">66</td>
+                            <td style="text-align: center;">19</td>
+                            <td>CT2</td>
+                            <td>What are the purpose of capability analysis?</td>
+                        </tr>
+                        <tr>
+                            <td style="text-align: center;">67</td>
+                            <td style="text-align: center;">19</td>
+                            <td>ĐN1</td>
+                            <td>List strategist tool kit for analyzing capabilities</td>
+                        </tr>
+                        <tr>
+                            <td style="text-align: center;">68</td>
+                            <td style="text-align: center;">19</td>
+                            <td>ĐN2</td>
+                            <td>In order to evaluate the way of creating the customers’ value, how does the company use the capabilities analysis to reach it?</td>
+                        </tr>
+                        <tr>
+                            <td style="text-align: center;">69</td>
+                            <td style="text-align: center;">20</td>
+                            <td>CT1</td>
+                            <td>Can your demonstrate an example where we need capability analysis in business making decision?</td>
+                        </tr>
+                        <tr>
+                            <td style="text-align: center;">70</td>
+                            <td style="text-align: center;">20</td>
+                            <td>CT2</td>
+                            <td>List strategist tool kit for analyzing capabilities</td>
+                        </tr>
+                        <tr>
+                            <td style="text-align: center;">71</td>
+                            <td style="text-align: center;">20</td>
+                            <td>ĐN1</td>
+                            <td>Analyze the Apple case, how has Apple used the capabilities for competitive advantage? Explain</td>
+                        </tr>
+                        <tr>
+                            <td style="text-align: center;">72</td>
+                            <td style="text-align: center;">20</td>
+                            <td>ĐN2</td>
+                            <td>Choose a company, analyze company's capabilities for sustainability and competitive advantage. Explain</td>
+                        </tr>
+                        <tr>
+                            <td style="text-align: center;">73</td>
+                            <td style="text-align: center;">21</td>
+                            <td>CT1</td>
+                            <td>How to determined your business competition in the market?</td>
+                        </tr>
+                        <tr>
+                            <td style="text-align: center;">74</td>
+                            <td style="text-align: center;">21</td>
+                            <td>CT2</td>
+                            <td>What is the idea of generic competitive positions?</td>
+                        </tr>
+                        <tr>
+                            <td style="text-align: center;">75</td>
+                            <td style="text-align: center;">21</td>
+                            <td>ĐN1</td>
+                            <td>Why does company need to determine the competitive position? Give an example</td>
+                        </tr>
+                        <tr>
+                            <td style="text-align: center;">76</td>
+                            <td style="text-align: center;">21</td>
+                            <td>ĐN2</td>
+                            <td>How to determine competitive position on market? (Focus on the selected company)</td>
+                        </tr>
+                        <tr>
+                            <td style="text-align: center;">77</td>
+                            <td style="text-align: center;">22</td>
+                            <td>CT1</td>
+                            <td>What is the competitive scope and how to identify?</td>
+                        </tr>
+                        <tr>
+                            <td style="text-align: center;">78</td>
+                            <td style="text-align: center;">22</td>
+                            <td>CT2</td>
+                            <td>Present an example of cost leadership strategy?</td>
+                        </tr>
+                        <tr>
+                            <td style="text-align: center;">79</td>
+                            <td style="text-align: center;">22</td>
+                            <td>ĐN1</td>
+                            <td>Choose a company, analyze the competitive position of that company in the market. Explain</td>
+                        </tr>
+                        <tr>
+                            <td style="text-align: center;">80</td>
+                            <td style="text-align: center;">22</td>
+                            <td>ĐN2</td>
+                            <td>Compare the competitive position of analyzed company with others. Explain why.</td>
+                        </tr>
+                        <tr>
+                            <td style="text-align: center;">81</td>
+                            <td style="text-align: center;">23</td>
+                            <td>CT1</td>
+                            <td>How to map the competitive elements in your business strategy?</td>
+                        </tr>
+                        <tr>
+                            <td style="text-align: center;">82</td>
+                            <td style="text-align: center;">23</td>
+                            <td>CT2</td>
+                            <td>What are the advantages of mapping competitive positions?</td>
+                        </tr>
+                        <tr>
+                            <td style="text-align: center;">83</td>
+                            <td style="text-align: center;">23</td>
+                            <td>ĐN1</td>
+                            <td>How to determine catergories for axises on Map</td>
+                        </tr>
+                        <tr>
+                            <td style="text-align: center;">84</td>
+                            <td style="text-align: center;">23</td>
+                            <td>ĐN2</td>
+                            <td>Why do you choose these critical factors to analyze the firm’s strategy?</td>
+                        </tr>
+                        <tr>
+                            <td style="text-align: center;">85</td>
+                            <td style="text-align: center;">24</td>
+                            <td>CT1</td>
+                            <td>Which positions are best after mapping your competitive positions?</td>
+                        </tr>
+                        <tr>
+                            <td style="text-align: center;">86</td>
+                            <td style="text-align: center;">24</td>
+                            <td>CT2</td>
+                            <td>How to determine catergories for axises on Map</td>
+                        </tr>
+                        <tr>
+                            <td style="text-align: center;">87</td>
+                            <td style="text-align: center;">24</td>
+                            <td>ĐN1</td>
+                            <td>Write strategy map for selected project</td>
+                        </tr>
+                        <tr>
+                            <td style="text-align: center;">88</td>
+                            <td style="text-align: center;">24</td>
+                            <td>ĐN2</td>
+                            <td>Draw the strategy roadmap to the specific industry. Explain this strategy roadmap.</td>
+                        </tr>
+                        <tr>
+                            <td style="text-align: center;">89</td>
+                            <td style="text-align: center;">25</td>
+                            <td>CT1</td>
+                            <td>What defined your business positions in the matket?</td>
+                        </tr>
+                        <tr>
+                            <td style="text-align: center;">90</td>
+                            <td style="text-align: center;">25</td>
+                            <td>CT2</td>
+                            <td>Present your understanding about the strategic maps? How can it help in making business decision?</td>
+                        </tr>
+                        <tr>
+                            <td style="text-align: center;">91</td>
+                            <td style="text-align: center;">25</td>
+                            <td>ĐN1</td>
+                            <td>Analyze the Piaggio case, what do you find out from this case? Explain</td>
+                        </tr>
+                        <tr>
+                            <td style="text-align: center;">92</td>
+                            <td style="text-align: center;">25</td>
+                            <td>ĐN2</td>
+                            <td>Compare the selected company with Piaggio case, what do you find out from this comparison? Explain</td>
+                        </tr>
+                        <tr>
+                            <td style="text-align: center;">93</td>
+                            <td style="text-align: center;">26</td>
+                            <td>CT1</td>
+                            <td>Can you demonstrate an examples of using strategic map in making decision?</td>
+                        </tr>
+                        <tr>
+                            <td style="text-align: center;">94</td>
+                            <td style="text-align: center;">26</td>
+                            <td>CT2</td>
+                            <td>Write strategy map for selected project</td>
+                        </tr>
+                        <tr>
+                            <td style="text-align: center;">95</td>
+                            <td style="text-align: center;">28</td>
+                            <td>ĐN1</td>
+                            <td>What is Dynamic Strategy course?</td>
+                        </tr>
+                        <tr>
+                            <td style="text-align: center;">96</td>
+                            <td style="text-align: center;">28</td>
+                            <td>ĐN2</td>
+                            <td>Choose a specific industry/company and figure out the strategy of that industry/company. Explain why does that industry/company uses that strategy to reach a competitive advantage?</td>
+                        </tr>
+                        <tr>
+                            <td style="text-align: center;">97</td>
+                            <td style="text-align: center;">29</td>
+                            <td>CT1</td>
+                            <td>Describe some of the difficulties existing companies often face when they are faced with new technologies disrupting their markets?</td>
+                        </tr>
+                        <tr>
+                            <td style="text-align: center;">98</td>
+                            <td style="text-align: center;">29</td>
+                            <td>CT2</td>
+                            <td>Suggest some solutions that can help companies deal with these disruptions and analyze which disruptions they may have to endure?</td>
+                        </tr>
+                        <tr>
+                            <td style="text-align: center;">99</td>
+                            <td style="text-align: center;">29</td>
+                            <td>ĐN1</td>
+                            <td>Why dynamic strategy is important for company/industry? Give an example</td>
+                        </tr>
+                        <tr>
+                            <td style="text-align: center;">100</td>
+                            <td style="text-align: center;">30</td>
+                            <td>CT1</td>
+                            <td>How useful are the fundamentals of business strategy to companies that have fallen on hard times after a period of great success?</td>
+                        </tr>
+                        <tr>
+                            <td style="text-align: center;">101</td>
+                            <td style="text-align: center;">30</td>
+                            <td>CT2</td>
+                            <td>In your opinion, the view "Past success does not guarantee future success" is the right or wrong argument about the current market volatility?</td>
+                        </tr>
+                        <tr>
+                            <td style="text-align: center;">102</td>
+                            <td style="text-align: center;">30</td>
+                            <td>ĐN1</td>
+                            <td>List competitive life cycle stage?</td>
+                        </tr>
+                        <tr>
+                            <td style="text-align: center;">103</td>
+                            <td style="text-align: center;">31</td>
+                            <td>CT1</td>
+                            <td>How do you understand the Competitive Life Cycle? What is its application in practice?</td>
+                        </tr>
+                        <tr>
+                            <td style="text-align: center;">104</td>
+                            <td style="text-align: center;">31</td>
+                            <td>CT2</td>
+                            <td>Why in today's business environment, the phase of experimentation and trying new things, is often led by small business companies?</td>
+                        </tr>
+                        <tr>
+                            <td style="text-align: center;">105</td>
+                            <td style="text-align: center;">31</td>
+                            <td>ĐN1</td>
+                            <td>How is the importance of each strategic phase with the company’s strategic direction?</td>
+                        </tr>
+                        <tr>
+                            <td style="text-align: center;">106</td>
+                            <td style="text-align: center;">32</td>
+                            <td>CT1</td>
+                            <td>Why do we often see today's companies fail in the face of disruption to competition, technology, and new business models?</td>
+                        </tr>
+                        <tr>
+                            <td style="text-align: center;">107</td>
+                            <td style="text-align: center;">32</td>
+                            <td>CT2</td>
+                            <td>Describe the possible effects of the competitive life cycle on established companies and their future success? Give an example of a typical case?</td>
+                        </tr>
+                        <tr>
+                            <td style="text-align: center;">108</td>
+                            <td style="text-align: center;">32</td>
+                            <td>ĐN1</td>
+                            <td>How to evaluate competition in different life cycle stage?</td>
+                        </tr>
+                        <tr>
+                            <td style="text-align: center;">109</td>
+                            <td style="text-align: center;">33</td>
+                            <td>CT1</td>
+                            <td>Please tell how many stages in the competitive life cycle? Describe and give examples of these stages?</td>
+                        </tr>
+                        <tr>
+                            <td style="text-align: center;">110</td>
+                            <td style="text-align: center;">33</td>
+                            <td>CT2</td>
+                            <td>PlayStation 4: Aim and Fire" abridged case study. Who do you think will win in the next generation of the home video game industry? Why?</td>
+                        </tr>
+                        <tr>
+                            <td style="text-align: center;">111</td>
+                            <td style="text-align: center;">33</td>
+                            <td>ĐN1</td>
+                            <td>Choose a specific industry then determine which phase of the industry’s current situation? Explain why.</td>
+                        </tr>
+                        <tr>
+                            <td style="text-align: center;">112</td>
+                            <td style="text-align: center;">34</td>
+                            <td>CT1</td>
+                            <td>PlayStation 4: Aim and Fire" abridged case study. What factors contribute to a competitor becoming the market leader? To what extent does being a first mover matter?</td>
+                        </tr>
+                        <tr>
+                            <td style="text-align: center;">113</td>
+                            <td style="text-align: center;">34</td>
+                            <td>CT2</td>
+                            <td>PlayStation 4: Aim and Fire" abridged case study. What features and capabilities should Sony incorporate into the Sony PlayStation 4 in your opinion? Is Sony's decision to launch the PS4 in December 2013 well timed?</td>
+                        </tr>
+                        <tr>
+                            <td style="text-align: center;">114</td>
+                            <td style="text-align: center;">34</td>
+                            <td>ĐN1</td>
+                            <td>Why does firms enter foreign market?</td>
+                        </tr>
+                        <tr>
+                            <td style="text-align: center;">115</td>
+                            <td style="text-align: center;">35</td>
+                            <td>CT1</td>
+                            <td>Describe a trend that you feel is important to your international business strategy in the near future?</td>
+                        </tr>
+                        <tr>
+                            <td style="text-align: center;">116</td>
+                            <td style="text-align: center;">35</td>
+                            <td>CT2</td>
+                            <td>Describe the benefits and disadvantages of an internationalization strategy for a company or organization to enter a foreign market and compete there?</td>
+                        </tr>
+                        <tr>
+                            <td style="text-align: center;">117</td>
+                            <td style="text-align: center;">35</td>
+                            <td>ĐN1</td>
+                            <td>Why does the company join the international market?</td>
+                        </tr>
+                        <tr>
+                            <td style="text-align: center;">118</td>
+                            <td style="text-align: center;">36</td>
+                            <td>CT1</td>
+                            <td>Describe the benefits and disadvantages of an internationalization strategy for a foreign company or organization to enter our country's market and compete there?</td>
+                        </tr>
+                        <tr>
+                            <td style="text-align: center;">119</td>
+                            <td style="text-align: center;">36</td>
+                            <td>CT2</td>
+                            <td>Once you've decided where you want to enter, the foreign market you want to expand into, you now have a really important question, which is how are you going to enter that market?</td>
+                        </tr>
+                        <tr>
+                            <td style="text-align: center;">120</td>
+                            <td style="text-align: center;">36</td>
+                            <td>ĐN1</td>
+                            <td>Why exporting is important for company? Give an example</td>
+                        </tr>
+                        <tr>
+                            <td style="text-align: center;">121</td>
+                            <td style="text-align: center;">36</td>
+                            <td>ĐN2</td>
+                            <td>What is disadvantageous of Licensing ?</td>
+                        </tr>
+                        <tr>
+                            <td style="text-align: center;">122</td>
+                            <td style="text-align: center;">37</td>
+                            <td>CT1</td>
+                            <td>Please tell us once you have decided on the foreign market you want to enter and compete in, how will you enter that market?</td>
+                        </tr>
+                        <tr>
+                            <td style="text-align: center;">123</td>
+                            <td style="text-align: center;">37</td>
+                            <td>CT2</td>
+                            <td>Please indicate the strengths and weaknesses of the two Licensing and Alliances approaches?</td>
+                        </tr>
+                        <tr>
+                            <td style="text-align: center;">124</td>
+                            <td style="text-align: center;">37</td>
+                            <td>ĐN1</td>
+                            <td>In order to expand the market to be global, how does the company do to be successful?</td>
+                        </tr>
+                        <tr>
+                            <td style="text-align: center;">125</td>
+                            <td style="text-align: center;">37</td>
+                            <td>ĐN2</td>
+                            <td>Why FDI is important for company/industry? Give an example</td>
+                        </tr>
+                        <tr>
+                            <td style="text-align: center;">126</td>
+                            <td style="text-align: center;">38</td>
+                            <td>CT1</td>
+                            <td>Please describe the different ways an organization can approach foreign direct investment? Give specific examples of these approaches.</td>
+                        </tr>
+                        <tr>
+                            <td style="text-align: center;">127</td>
+                            <td style="text-align: center;">38</td>
+                            <td>CT2</td>
+                            <td>Describe a few different ways an organization can approach foreign direct investment?</td>
+                        </tr>
+                        <tr>
+                            <td style="text-align: center;">128</td>
+                            <td style="text-align: center;">38</td>
+                            <td>ĐN1</td>
+                            <td>Use any firm and analyze its international strategy</td>
+                        </tr>
+                        <tr>
+                            <td style="text-align: center;">129</td>
+                            <td style="text-align: center;">39</td>
+                            <td>CT1</td>
+                            <td>Please tell me what is the purpose of the Internationalization Analysis tool?</td>
+                        </tr>
+                        <tr>
+                            <td style="text-align: center;">130</td>
+                            <td style="text-align: center;">39</td>
+                            <td>CT2</td>
+                            <td>Practice your business strategy skills as you consider the "Orascom Telecom Holding: Wind and Weather" abridged case. Why would M&amp;A be a viable strategy for expansion in the telecom industry? Why go outside one’s home-country borders</td>
+                        </tr>
+                        <tr>
+                            <td style="text-align: center;">131</td>
+                            <td style="text-align: center;">39</td>
+                            <td>ĐN1</td>
+                            <td>Which current international strategy is used by the company? Describe and explain.</td>
+                        </tr>
+                        <tr>
+                            <td style="text-align: center;">132</td>
+                            <td style="text-align: center;">40</td>
+                            <td>CT1</td>
+                            <td>Practice your business strategy skills as you consider the "Orascom Telecom Holding: Wind and Weather" abridged case. How would you characterize OTH’s historical M&amp;A strategy and its acquisition approach? What are the main characteristics?</td>
+                        </tr>
+                        <tr>
+                            <td style="text-align: center;">133</td>
+                            <td style="text-align: center;">40</td>
+                            <td>CT2</td>
+                            <td>Practice your business strategy skills as you consider the "Orascom Telecom Holding: Wind and Weather" abridged case. What are the potential problems with OTH’s investment approach?</td>
+                        </tr>
+                        <tr>
+                            <td style="text-align: center;">134</td>
+                            <td style="text-align: center;">40</td>
+                            <td>ĐN1</td>
+                            <td>List of diversification strategy?</td>
+                        </tr>
+                        <tr>
+                            <td style="text-align: center;">135</td>
+                            <td style="text-align: center;">41</td>
+                            <td>CT1</td>
+                            <td>Please tell me how important it is for the business to position itself, and in many markets?</td>
+                        </tr>
+                        <tr>
+                            <td style="text-align: center;">136</td>
+                            <td style="text-align: center;">41</td>
+                            <td>CT2</td>
+                            <td>Discuss why your company can diversify?</td>
+                        </tr>
+                        <tr>
+                            <td style="text-align: center;">137</td>
+                            <td style="text-align: center;">41</td>
+                            <td>ĐN1</td>
+                            <td>Why does company refer to have the business strategy is as  diversified co-operation?</td>
+                        </tr>
+                        <tr>
+                            <td style="text-align: center;">138</td>
+                            <td style="text-align: center;">42</td>
+                            <td>CT1</td>
+                            <td>In your opinion, how many key areas can you organize the reasons that your company wants to diversify?</td>
+                        </tr>
+                        <tr>
+                            <td style="text-align: center;">139</td>
+                            <td style="text-align: center;">42</td>
+                            <td>CT2</td>
+                            <td>List of diversification strategy?</td>
+                        </tr>
+                        <tr>
+                            <td style="text-align: center;">140</td>
+                            <td style="text-align: center;">42</td>
+                            <td>ĐN1</td>
+                            <td>What is reason why firm exist industry</td>
+                        </tr>
+                        <tr>
+                            <td style="text-align: center;">141</td>
+                            <td style="text-align: center;">43</td>
+                            <td>CT1</td>
+                            <td>Please indicate the pros and cons of the Diversification Matrix derived from a matrix developed by McKinsey and General Electric?</td>
+                        </tr>
+                        <tr>
+                            <td style="text-align: center;">142</td>
+                            <td style="text-align: center;">43</td>
+                            <td>CT2</td>
+                            <td>Practice your business strategy skills as you consider the "Walt Disney Co: Mickey Mouse or Media Mammoth?" case. What are Disney’s capabilities and to what extent do they provide a sustainable competitive advantage?</td>
+                        </tr>
+                        <tr>
+                            <td style="text-align: center;">143</td>
+                            <td style="text-align: center;">43</td>
+                            <td>ĐN1</td>
+                            <td>Figure out the current situation of a specific company that they are in diversification and unrelated diversification. Explain why.</td>
+                        </tr>
+                        <tr>
+                            <td style="text-align: center;">144</td>
+                            <td style="text-align: center;">44</td>
+                            <td>CT1</td>
+                            <td>Practice your business strategy skills as you consider the "Walt Disney Co: Mickey Mouse or Media Mammoth?" case. Disney claims that its business segments are well-integrated, well-connected businesses. What is the glue that holds these businesses together? How does each of these businesses add value to the other businesses in the enterprise?</td>
+                        </tr>
+                        <tr>
+                            <td style="text-align: center;">145</td>
+                            <td style="text-align: center;">44</td>
+                            <td>CT2</td>
+                            <td>Practice your business strategy skills as you consider the "Walt Disney Co: Mickey Mouse or Media Mammoth?" case. Based on your analysis, which businesses would you recommend that Disney invest in and which should they divest (if any)?</td>
+                        </tr>
+                        <tr>
+                            <td style="text-align: center;">146</td>
+                            <td style="text-align: center;">44</td>
+                            <td>ĐN1</td>
+                            <td>How to evaluate porfolio of firm effectively?</td>
+                        </tr>
+                        <tr>
+                            <td style="text-align: center;">147</td>
+                            <td style="text-align: center;">44</td>
+                            <td>ĐN2</td>
+                            <td>Choose a specific industry and determine their standard strategy and explain why are they in that current standard strategy for a business unit?</td>
+                        </tr>
+                        <tr>
+                            <td style="text-align: center;">148</td>
+                            <td style="text-align: center;">45</td>
+                            <td>CT1</td>
+                            <td>Please indicate the pros and cons of the Diversification Matrix derived from a matrix developed by McKinsey and General Electric?</td>
+                        </tr>
+                        <tr>
+                            <td style="text-align: center;">149</td>
+                            <td style="text-align: center;">45</td>
+                            <td>CT2</td>
+                            <td>Practice your business strategy skills as you consider the "Walt Disney Co: Mickey Mouse or Media Mammoth?" case. What are Disney’s capabilities and to what extent do they provide a sustainable competitive advantage?</td>
+                        </tr>
+                        <tr>
+                            <td style="text-align: center;">150</td>
+                            <td style="text-align: center;">45</td>
+                            <td>ĐN1</td>
+                            <td>Explain the case of Walt Disney Co: Mickey Mouse or Media Mammoth. Compare with the case of selected company and explain</td>
+                        </tr>
+                        <tr>
+                            <td style="text-align: center;">151</td>
+                            <td style="text-align: center;">45</td>
+                            <td>ĐN2</td>
+                            <td>Explain the case of Walt Disney Co Case Debrieft. Compare with the case of selected company and explain</td>
+                        </tr>
+                        <tr>
+                            <td style="text-align: center;">152</td>
+                            <td style="text-align: center;">46</td>
+                            <td>CT1</td>
+                            <td>Practice your business strategy skills as you consider the "Walt Disney Co: Mickey Mouse or Media Mammoth?" case. Disney claims that its business segments are well-integrated, well-connected businesses. What is the glue that holds these businesses together? How does each of these businesses add value to the other businesses in the enterprise?</td>
+                        </tr>
+                        <tr>
+                            <td style="text-align: center;">153</td>
+                            <td style="text-align: center;">46</td>
+                            <td>CT2</td>
+                            <td>Practice your business strategy skills as you consider the "Walt Disney Co: Mickey Mouse or Media Mammoth?" case. Based on your analysis, which businesses would you recommend that Disney invest in and which should they divest (if any)?</td>
+                        </tr>
+                        <tr>
+                            <td style="text-align: center;">154</td>
+                            <td style="text-align: center;">46</td>
+                            <td>ĐN1</td>
+                            <td>How do we creating Value for Stakeholders?</td>
+                        </tr>
+                        <tr>
+                            <td style="text-align: center;">155</td>
+                            <td style="text-align: center;">47</td>
+                            <td>CT1</td>
+                            <td>Give examples of stakeholder strategies, or what is commonly referred to as stakeholder management?</td>
+                        </tr>
+                        <tr>
+                            <td style="text-align: center;">156</td>
+                            <td style="text-align: center;">47</td>
+                            <td>CT2</td>
+                            <td>The goal of an effective strategy is to create value. It is to find, and occupy, and defend a valuable competitive position that allows you to create that value. Please tell me, who does your company create that value for? Who benefits?</td>
+                        </tr>
+                        <tr>
+                            <td style="text-align: center;">157</td>
+                            <td style="text-align: center;">47</td>
+                            <td>ĐN1</td>
+                            <td>Determine which value is created for stakeholders of a specific industry and explain why.</td>
+                        </tr>
+                        <tr>
+                            <td style="text-align: center;">158</td>
+                            <td style="text-align: center;">48</td>
+                            <td>CT1</td>
+                            <td>In your opinion, what are the stakeholders of an organization? Give specific examples?</td>
+                        </tr>
+                        <tr>
+                            <td style="text-align: center;">159</td>
+                            <td style="text-align: center;">48</td>
+                            <td>CT2</td>
+                            <td>How do we creating Value for Stakeholders?</td>
+                        </tr>
+                        <tr>
+                            <td style="text-align: center;">160</td>
+                            <td style="text-align: center;">48</td>
+                            <td>ĐN1</td>
+                            <td>Apply value chain for specific firm. Analyze and explain</td>
+                        </tr>
+                        <tr>
+                            <td style="text-align: center;">161</td>
+                            <td style="text-align: center;">49</td>
+                            <td>CT1</td>
+                            <td>In your opinion, in which case do the secondary stakeholders of an organization play an important role that strongly influences an organization's strategy?</td>
+                        </tr>
+                        <tr>
+                            <td style="text-align: center;">162</td>
+                            <td style="text-align: center;">49</td>
+                            <td>CT2</td>
+                            <td>According to you, the secondary stakeholders of an organization can create significant institutional pressures to companies in any case? Give specific examples?</td>
+                        </tr>
+                        <tr>
+                            <td style="text-align: center;">163</td>
+                            <td style="text-align: center;">49</td>
+                            <td>ĐN1</td>
+                            <td>Use strategy's toolkit as stakeholder analysis, analyze the stakeholders of a specific company and explain</td>
+                        </tr>
+                        <tr>
+                            <td style="text-align: center;">164</td>
+                            <td style="text-align: center;">50</td>
+                            <td>CT1</td>
+                            <td>Please tell us what do you value as an organization? What is your mission? What's your purpose? What is the way you do business?</td>
+                        </tr>
+                        <tr>
+                            <td style="text-align: center;">165</td>
+                            <td style="text-align: center;">50</td>
+                            <td>CT2</td>
+                            <td>Apply value chain for specific firm</td>
+                        </tr>
+                        <tr>
+                            <td style="text-align: center;">166</td>
+                            <td style="text-align: center;">50</td>
+                            <td>ĐN1</td>
+                            <td>Explain the case of GE Healthcare in India: An (Ultra) Sound Strategy. Compare with the case of selected company and explain</td>
+                        </tr>
+                        <tr>
+                            <td style="text-align: center;">167</td>
+                            <td style="text-align: center;">51</td>
+                            <td>CT1</td>
+                            <td>Please indicate that the stakeholder analysis is first and foremost to better understand who your stakeholders are and what tools do your business organizations usually use?</td>
+                        </tr>
+                        <tr>
+                            <td style="text-align: center;">168</td>
+                            <td style="text-align: center;">51</td>
+                            <td>CT2</td>
+                            <td>Practice your business strategy skills as you consider the "GE Healthcare in India: An (Ultra)Sound Strategy?" abridged case. How should Raja think about the situation? What are the most important considerations for him to weigh? How should they factor into his course of action?</td>
+                        </tr>
+                        <tr>
+                            <td style="text-align: center;">169</td>
+                            <td style="text-align: center;">52</td>
+                            <td>CT1</td>
+                            <td>Practice your business strategy skills as you consider the "GE Healthcare in India: An (Ultra)Sound Strategy?" abridged case. Who are the key stakeholder groups, and how would you characterize their various perspectives? What would each stakeholder like to see GE do in this case?</td>
+                        </tr>
+                </tbody>
+            </table>
+        <br>
+        <!-- Assessments Section -->
+        <label style="color: #23ac68;">6 assessment(s)</label>
+            <table id="gvAssessment" class="table table-striped tbl-data">
+                <thead>
+                    <tr>
+                        <th style="width: 3%; text-align: center;">No.</th>
+                        <th>Category</th>
+                        <th>Type</th>
+                        <th>Part</th>
+                        <th>Weight</th>
+                        <th>Completion Criteria</th>
+                        <th>Duration</th>
+                        <th>CLO</th>
+                        <th>Question Type</th>
+                        <th>No Question</th>
+                        <th>Knowledge and Skill</th>
+                        <th>Grading Guide</th>
+                        <th>Note</th>
+                    </tr>
+                </thead>
+                <tbody>
+                        <tr>
+                            <td style="text-align: center;">1</td>
+                            <td>Assignment 1</td>
+                            <td>
+
+                                on-going
+                            </td>
+                            <td>1</td>
+                            <td>
+15.0%                            </td>
+                            <td>
+&gt;0                            </td>
+                            <td></td>
+                            <td>1,2,3,4</td>
+                            <td>Option 1: written report
+<br>Option 2 (For Constructivism Approach only): Follow lecturer's proposal</td>
+                            <td>Option 1: 1
+<br>Option 2 (For Constructivism Approach only): Follow lecturer's proposal</td>
+                            <td>Option 1: Test students' ability to understand and apply the skills and knowledge of the delivered units</td>
+                            <td></td>
+                            <td>Option 1: Coursera-based
+<br>Option 2 (For Constructivism Approach only): Follow lecturer's proposal</td>
+                        </tr>
+                        <tr>
+                            <td style="text-align: center;">2</td>
+                            <td>Assignment 2</td>
+                            <td>
+
+                                on-going
+                            </td>
+                            <td>1</td>
+                            <td>
+15.0%                            </td>
+                            <td>
+&gt;0                            </td>
+                            <td></td>
+                            <td>5,6,7,8</td>
+                            <td>Option 1: written report
+<br>Option 2 (For Constructivism Approach only): Follow lecturer's proposal</td>
+                            <td>Option 1: 1
+<br>Option 2 (For Constructivism Approach only): Follow lecturer's proposal</td>
+                            <td>Option 1: Test students' ability to understand and apply the skills and knowledge of the delivered units</td>
+                            <td></td>
+                            <td>Option 1: Coursera-based
+<br>Option 2 (For Constructivism Approach only): Follow lecturer's proposal</td>
+                        </tr>
+                        <tr>
+                            <td style="text-align: center;">3</td>
+                            <td>Class participation and preparation</td>
+                            <td>
+
+                                on-going
+                            </td>
+                            <td>1</td>
+                            <td>
+10.0%                            </td>
+                            <td>
+&gt;0                            </td>
+                            <td></td>
+                            <td></td>
+                            <td></td>
+                            <td>Option 1: 1
+<br>Option 2 (For Constructivism Approach only): Follow lecturer's proposal</td>
+                            <td>Option 1: Test students' ability to understand and apply the skills and knowledge of the delivered units</td>
+                            <td></td>
+                            <td>Option 1: Participation grade will be given based on students'  preparation, quantity as well as group performance
+<br>Option 2 (For Constructivism Approach only): Follow lecturer's proposal</td>
+                        </tr>
+                        <tr>
+                            <td style="text-align: center;">4</td>
+                            <td>Progress test 1</td>
+                            <td>
+
+                                on-going
+                            </td>
+                            <td>1</td>
+                            <td>
+15.0%                            </td>
+                            <td>
+&gt;0                            </td>
+                            <td>45</td>
+                            <td>1,2,3,4</td>
+                            <td>Option 1: multiple choice
+<br>Option 2 (For Constructivism Approach only): Follow lecturer's proposal</td>
+                            <td>Option 1: 40
+<br>Option 2 (For Constructivism Approach only): Follow lecturer's proposal</td>
+                            <td>Option 1: Test the acquainted knowledge which student obtained in the delivered chapters.</td>
+                            <td></td>
+                            <td>Option 1: Teacher is allowed to select which unit content (topic or learning outcome) to focus on each examination session. The questions are based on the Coursera quizzes.
+<br>Option 2 (For Constructivism Approach only): Follow lecturer's proposal</td>
+                        </tr>
+                        <tr>
+                            <td style="text-align: center;">5</td>
+                            <td>Progress test 2</td>
+                            <td>
+
+                                on-going
+                            </td>
+                            <td>1</td>
+                            <td>
+15.0%                            </td>
+                            <td>
+&gt;0                            </td>
+                            <td>45</td>
+                            <td>5,6,7,8</td>
+                            <td>
+<br>Option 1: multiple choice
+<br>Option 2 (For Constructivism Approach only): Follow lecturer's proposal</td>
+                            <td>Option 1: 40
+<br>Option 2 (For Constructivism Approach only): Follow lecturer's proposal</td>
+                            <td>Option 1: Test the acquainted knowledge which student obtained in the delivered chapters.</td>
+                            <td></td>
+                            <td>Option 1: Teacher is allowed to select which unit content (topic or learning outcome) to focus on each examination session. The questions are based on the Coursera quizzes.
+<br>Option 2 (For Constructivism Approach only): Follow lecturer's proposal</td>
+                        </tr>
+                        <tr>
+                            <td style="text-align: center;">6</td>
+                            <td>Final project group presentation</td>
+                            <td>
+
+                                Final exam
+                            </td>
+                            <td>1</td>
+                            <td>
+30.0%                            </td>
+                            <td>
+4                            </td>
+                            <td>17-20</td>
+                            <td>1,2,3,4,5,6,7,8</td>
+                            <td>Case study</td>
+                            <td>1</td>
+                            <td>Test students' ability to understand and apply the skills and knowledge of the delivered units</td>
+                            <td></td>
+                            <td>Students are divided into groups of up to 5 people to work on a real-life case study (selected by the students and approved by the instructor)</td>
+                        </tr>
+                </tbody>
+            </table>
+        <br>
+</div>
+
+<script src="/bundles/customjs"></script>
+<script>
+    $(document).ready(() => {
+        if ($("tbody tr a.ContainSLink").toArray().length == 0) {
+            $("#btnDownloadAllStudentMaterial").prop("disabled", true);
+        } else {
+            $("#btnDownloadAllStudentMaterial").prop("disabled", false);
+        }
+    });
+
+    function downloadLoop(i, urls) {
+        setTimeout(() => {
+            urls[i].click();
+            i++;
+            if (i < urls.length) {
+                downloadLoop(i, urls);
+            }
+        }, 10456);
+    }
+
+    $('#btnDownloadAllStudentMaterial').on('click', function (e) {
+        e.preventDefault();
+        var downloadLinks = $("tbody tr a.ContainSLink").toArray();
+        var result = confirm("Do you want to download all materials??");
+        if (result) {
+            downloadLoop(0, downloadLinks);
+        }
+    });
+
+    if (window.history.replaceState) {
+        window.history.replaceState(null, null, window.location.href);
+    }
+</script>
+
+            </div>
+        </div>
+    </div>
+
+    <script>
+        $('#language').change(function () {
+            $.ajax({
+                url: '/Language', // comma here instead of semicolon
+                data: { language: $(this).val() },
+                success: function () {
+                    window.location.reload();
+                }
+
+            });
+        });
+        (function loadLanguage() {
+            let dt = JSON.stringify({
+                'ssName': 'language'
+            });
+            $.ajax({
+                contentType: 'application/json; charset=utf-8',
+                dataType: 'json',
+                type: 'POST',
+                url: '/ajax/getCookie/',
+                data: dt
+            }).done(function (data) {
+                $('#language').val(data);
+            })
+        })();
+
+        function showToastRedirectPage(type, mess) {
+            window.localStorage.setItem('typeToast', type);
+            window.localStorage.setItem('messToast', mess);
+        }
+
+        $(document).ready(function () {
+            // Animated title effect - Marquee style
+            function animateTitle() {
+                const title = document.getElementById('pageTitle');
+                const originalText = 'FPT University Learning Materials';
+                const separator = ' • ';
+                const fullText = originalText + separator + originalText + separator;
+
+                let position = 0;
+                let animationId;
+                const speed = 300; // milliseconds between each character shift
+                const maxPosition = originalText.length + separator.length;
+
+                function updateTitle() {
+                    const displayText = fullText.substring(position, position + originalText.length);
+                    title.textContent = displayText;
+
+                    position++;
+                    if (position >= maxPosition) {
+                        position = 0;
+                    }
+
+                    // Continue animation
+                    animationId = setTimeout(updateTitle, speed);
+                }
+
+                // Check if user prefers reduced motion
+                if (window.matchMedia && window.matchMedia('(prefers-reduced-motion: reduce)').matches) {
+                    // Don't animate if user prefers reduced motion
+                    title.textContent = originalText;
+                    return;
+                }
+
+                // Start the animation
+                updateTitle();
+
+                // Pause animation when tab is not visible (performance optimization)
+                document.addEventListener('visibilitychange', function () {
+                    if (document.hidden) {
+                        clearTimeout(animationId);
+                    } else {
+                        updateTitle();
+                    }
+                });
+            }
+
+            // Start title animation
+            animateTitle();
+
+            toastr.options = {
+                "closeButton": true,
+                "newestOnTop": false,
+                "progressBar": true,
+                "positionClass": "toast-top-right",
+                "preventDuplicates": false,
+                "onclick": null,
+                "showDuration": "300",
+                "hideDuration": "1000",
+                "timeOut": "5000",
+                "extendedTimeOut": "1000",
+                "showEasing": "swing",
+                "hideEasing": "linear",
+                "showMethod": "fadeIn",
+                "hideMethod": "fadeOut"
+            }
+
+
+            if (window.localStorage.getItem('typeToast') == 1) {
+                toastr.success(window.localStorage.getItem('messToast'));
+                window.localStorage.setItem('typeToast', 0);
+            }
+            if (window.localStorage.getItem('typeToast') == 2) {
+                toastr.error(window.localStorage.getItem('messToast'));
+                window.localStorage.setItem('typeToast', 0);
+            }
+
+            $(".preventDefault").click(function (event) {
+                event.preventDefault();
+            });
+            $.get("/ajax/permission", function (data) {
+                loadData(data)
+            })
+
+            $('#sidebarCollapse').on('click', function () {
+                $('#sidebar').toggleClass('sb-active');
+            });
+
+        });
+        function loadData(data) {
+            if (typeof (data) != 'string') {
+                $("#lblRole").html(data[0]);
+                $("#lblName").html(data[1]);
+                $("#lblEmail").html(data[2]);
+                $("#lblEduLevel").html(data[4]);
+                if (data[0] == 'Syl Reviewer' || data[0] == 'Syl Designer') {
+                    data[3] = data[3].replace('~', '..');
+                    $("#pnlEmail").css({ display: 'none' });
+                } else {
+                    $("#pnlEmail").css({ display: '' });
+                }
+                $("#ProfileImage").attr({ src: data[3] });
+                //Why index is 4???
+                //if (data[4]) {
+                //    $("#pnlEmail").css({ display: 'none' });
+                //} else {
+                //    $("#lblEmail").html(data[2]);
+                //}
+                if (data[0] === "Head") {
+                    $("#panelStaffFeatures").css({ display: 'none' });
+                } else if (data[0] === "Staff") {
+                    $("#panelHeadFeatures").css({ display: 'none' });
+                } else {
+                    $("#panelStaffFeatures").css({ display: 'none' });
+                    $("#panelHeadFeatures").css({ display: 'none' });
+                    $("#sidebarCollapse").css({ display: 'none' });
+                }
+            } else {
+                window.location.replace(data);
+            }
+        }
+        $('#lbtnSignOut').click(() => {
+            // Check if user is logged in with FEID
+            var isLoginWithFEID = true;
+
+            if (isLoginWithFEID) {
+                // For FEID users, redirect to proper logout endpoint
+                // This will clear all authentication and redirect to regular login
+                window.location.href = '/Home/LogoutWithFEId';
+            } else {
+                // For regular users, use AJAX signout
+                $.get("/ajax/signOut", function (data) {
+                    window.location.replace('/Home/Login');
+                })
+            }
+        })
+        $('#lbtnAlumni').click(() => {
+            $.get("/UserAlumni/StudentAlumni", function (data) {
+
+            })
+        })
+
+        // Handle button clicks for accessibility
+        $('#lbtnSignOut').on('keydown', function (e) {
+            if (e.key === 'Enter' || e.key === ' ') {
+                e.preventDefault();
+                $(this).click();
+            }
+        });
+
+        $('#lbtnAlumni').on('keydown', function (e) {
+            if (e.key === 'Enter' || e.key === ' ') {
+                e.preventDefault();
+                $(this).click();
+            }
+        });
+
+    </script>
+<script type="module" src="https://static.cloudflareinsights.com/beacon.min.js/v31edd6df95cf4e85bb4c19e7a9bdbcba1788362987495" integrity="sha512-iIg7k2xntmwu6/uSb5tpc/hySgZc4eoL31yB29W6tJFo2akwjPWcEqnCEdJvGexCL0KEQwVYv5BlowfhVz26hg==" data-cf-beacon="{&quot;version&quot;:&quot;2024.11.0&quot;,&quot;token&quot;:&quot;56c6dd7e4ecf4947aa540f48289e45af&quot;,&quot;spa&quot;:2}" crossorigin="anonymous"></script>
+
+
+
+</body></html>

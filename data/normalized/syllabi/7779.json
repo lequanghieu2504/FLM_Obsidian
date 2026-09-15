@@ -1,0 +1,1000 @@
+{
+  "syllabus_id": 7779,
+  "subject_code": "JFE301",
+  "subject_name": "Japanese IT Fundamentals_Kỹ năng CNTT cơ bản của Nhật Bản",
+  "syllabus_name": "Japanese fundamental information technologyskill standards_Kỹ năng CNTT cơ bản của Nhật Bản",
+  "credits": 3,
+  "degree_level": "Bachelor",
+  "time_allocation": "Study hour (150h) = 45h contact hours + 1h final exam + 104h self-study",
+  "prerequisite": "",
+  "general_information": {
+    "Syllabus ID": "7779",
+    "Syllabus Name": "Japanese fundamental information technologyskill standards_Kỹ năng CNTT cơ bản của Nhật Bản",
+    "Course Name English": "",
+    "Subject Code": "JFE301",
+    "Learning-Teaching Method": "",
+    "NoCredit": "3",
+    "Degree Level": "Bachelor",
+    "Time Allocation": "Study hour (150h) = 45h contact hours + 1h final exam + 104h self-study",
+    "Pre-Requisite": "",
+    "Description": "Students will proactive review with the guidance and support from lecturers. This course is arranged in form of tutorial sessions, not focus on lectures.",
+    "StudentTasks": "1. Students must attend at least 80% of contact sessions in order to be accepted to the final examination. 2. Student is responsible to learn on Internet CMS system by your-self 3. Student is responsible to do all exercises and practical given by instructor in class or at home and submit them on time. 4. Constantly follow announcements on intranet/CMS at http://cms.fpt.edu.vn for up-to-date course information.",
+    "Tools": "",
+    "Scoring Scale": "10",
+    "DecisionNo MM/dd/yyyy": "1485/QĐ-ĐHFPT dated 12/31/2021",
+    "IsApproved": "True",
+    "Note": "",
+    "Is Scored": "True",
+    "MinAvgMarkToPass": "5",
+    "IsActive": "True",
+    "ApprovedDate": "12/31/2021"
+  },
+  "active": true,
+  "approved": true,
+  "decision": "1485/QĐ-ĐHFPT dated 12/31/2021",
+  "description": "Students will proactive review with the guidance and support from lecturers. This course is arranged in form of tutorial sessions, not focus on lectures.",
+  "learning_outcomes": [
+    {
+      "No.": "1",
+      "CLO Name": "CLO1",
+      "CLO Details": "Understand the importance, applications and basic concepts of ITSS, IT career development"
+    },
+    {
+      "No.": "2",
+      "CLO Name": "CLO2",
+      "CLO Details": "Understand the basic bridge engineer to exchange with IT expert from Japan following Japanese ITSS Frameworks"
+    },
+    {
+      "No.": "3",
+      "CLO Name": "CLO3",
+      "CLO Details": "Review, summarize and systematize knowledge of Computer Science Fundamentals"
+    },
+    {
+      "No.": "4",
+      "CLO Name": "CLO4",
+      "CLO Details": "Review, summarize and systematize knowledge of Computer Systems"
+    },
+    {
+      "No.": "5",
+      "CLO Name": "CLO5",
+      "CLO Details": "Review, summarize and systematize knowledge of System Development"
+    },
+    {
+      "No.": "6",
+      "CLO Name": "CLO6",
+      "CLO Details": "Review, summarize and systematize knowledge of Network Technology"
+    },
+    {
+      "No.": "7",
+      "CLO Name": "CLO7",
+      "CLO Details": "Review, summarize and systematize knowledge of Database Technology"
+    },
+    {
+      "No.": "8",
+      "CLO Name": "CLO8",
+      "CLO Details": "Review, summarize and systematized knowledge of Security and Standardization"
+    },
+    {
+      "No.": "9",
+      "CLO Name": "CLO9",
+      "CLO Details": "Review, summarize and systematize knowledge of Computerization and Management"
+    }
+  ],
+  "assessments": [
+    {
+      "No.": "1",
+      "Category": "Chapter Quiz",
+      "Type": "on-going",
+      "Part": "6",
+      "Weight": "60.0%",
+      "Completion Criteria": ">0",
+      "Duration": "Option 1: 30'; Option 2 (For Constructivism Approach only): Follow lecturer's proposal",
+      "CLO": "",
+      "Question Type": "Option 1: Multi-Choice; Option 2 (For Constructivism Approach only): Follow lecturer's proposal",
+      "No Question": "Option 1: 20; Option 2 (For Constructivism Approach only): Follow lecturer's proposal 1: 20 Option 2: Follow lecturer's proposal",
+      "Knowledge and Skill": "Quiz 1 focus on Major Categories 1, 2 Quiz 2: Major Categories 2, 3 Quiz 3: Major Categories 3, 4 Quiz 4: Major Categories 5, 6 Quiz 5: Major Categories 7, 8, 9 Quiz 6: PM problems",
+      "Grading Guide": "by Instructor",
+      "Note": "6 x 10% =60% of total progress mark"
+    },
+    {
+      "No.": "2",
+      "Category": "Final exam",
+      "Type": "Final exam",
+      "Part": "1",
+      "Weight": "40.0%",
+      "Completion Criteria": "4",
+      "Duration": "90'",
+      "CLO": "",
+      "Question Type": "Computer gradable",
+      "No Question": "60",
+      "Knowledge and Skill": "All chapters; knowledge and skills of digital system;",
+      "Grading Guide": "by Exam board",
+      "Note": "40% of total progress mark"
+    }
+  ],
+  "schedule": [
+    {
+      "Session": "1",
+      "Topic": "INTRODUCTION TO: 1. Course JFE301 2. ITSS: Information technology Skills Standards, 3. ITEE: Information Technology Engineer Examinations 4. FE: IT Fundamental Exam (Structure, Knowledge and Skills Required for FE)",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO01, LO02",
+      "ITU": "",
+      "Student Materials": "Access http://www.ipa.go.jp/index-e.html Japanese ITEE",
+      "S-Download": "",
+      "Student's Tasks": "Able to access to the main books and resources (at least 1, 2, 3, 4) for the course;",
+      "URLs": ""
+    },
+    {
+      "Session": "2",
+      "Topic": "INTRODUCTION TO: 1. Course JFE301 2. ITSS: Information technology Skills Standards, 3. ITEE: Information Technology Engineer Examinations 4. FE: IT Fundamental Exam (Structure, Knowledge and Skills Required for FE)",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO01, LO02",
+      "ITU": "",
+      "Student Materials": "Access http://www.ipa.go.jp/index-e.html Japanese ITEE",
+      "S-Download": "",
+      "Student's Tasks": "Able to access to the main books and resources (at least 1, 2, 3, 4) for the course;",
+      "URLs": ""
+    },
+    {
+      "Session": "3",
+      "Topic": "TECHNOLOGY MAJOR CATEGORY 1: BASIC THEORY MIDDLE CATEGORY 1: BASIC THEORY 1. Discrete mathematics 2. Applied mathematics 3. Theory of information 4. Theory of communications 5. Theory of measurement and control",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO03",
+      "ITU": "",
+      "Student Materials": "Textbook 2, new category",
+      "S-Download": "",
+      "Student's Tasks": "Do exercises, practical and selft-review, CMS. based on Textbook 3 and E-learning on CMS (4)",
+      "URLs": ""
+    },
+    {
+      "Session": "4",
+      "Topic": "TECHNOLOGY MAJOR CATEGORY 1: BASIC THEORY MIDDLE CATEGORY 1: BASIC THEORY 1. Discrete mathematics 2. Applied mathematics 3. Theory of information 4. Theory of communications 5. Theory of measurement and control",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO03",
+      "ITU": "",
+      "Student Materials": "Textbook 2, new category",
+      "S-Download": "",
+      "Student's Tasks": "Do exercises, practical and selft-review, CMS. based on Textbook 3 and E-learning on CMS (4)",
+      "URLs": ""
+    },
+    {
+      "Session": "5",
+      "Topic": "Review Exercises and Guide MIDDLE CATEGORY 2: ALGORITHM AND PROGRAMMING 1. Data structure 2. Algorithm",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO03",
+      "ITU": "",
+      "Student Materials": "Textbook 2, new category",
+      "S-Download": "",
+      "Student's Tasks": "Do exercises, practical and selft-review, CMS. based on Textbook 3 and E-learning on CMS (4)",
+      "URLs": ""
+    },
+    {
+      "Session": "6",
+      "Topic": "Review Exercises and Guide MIDDLE CATEGORY 2: ALGORITHM AND PROGRAMMING 1. Data structure 2. Algorithm",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO03",
+      "ITU": "",
+      "Student Materials": "Textbook 2, new category",
+      "S-Download": "",
+      "Student's Tasks": "Do exercises, practical and selft-review, CMS. based on Textbook 3 and E-learning on CMS (4)",
+      "URLs": ""
+    },
+    {
+      "Session": "7",
+      "Topic": "2. Algorithm (cont.) 3. Programming languages 4. Other languages",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO03",
+      "ITU": "",
+      "Student Materials": "Textbook 2, new category",
+      "S-Download": "",
+      "Student's Tasks": "Do exercises, practical and selft-review, CMS. based on Textbook 3 and E-learning on CMS (4)",
+      "URLs": ""
+    },
+    {
+      "Session": "8",
+      "Topic": "2. Algorithm (cont.) 3. Programming languages 4. Other languages",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO03",
+      "ITU": "",
+      "Student Materials": "Textbook 2, new category",
+      "S-Download": "",
+      "Student's Tasks": "Do exercises, practical and selft-review, CMS. based on Textbook 3 and E-learning on CMS (4)",
+      "URLs": ""
+    },
+    {
+      "Session": "9",
+      "Topic": "MAJOR CATEGORY 2: COMPUTER SYSTEM MIDDLE CATEGORY 3: COMPUTER COMPONENT 1. Processor 2. Memory 3. Bus 4. Input/output interface 5. Input/output device",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO04",
+      "ITU": "",
+      "Student Materials": "Textbook 2, new category",
+      "S-Download": "",
+      "Student's Tasks": "Do exercises, practical and selft-review, CMS. based on Textbook 3 and E-learning on CMS (4)",
+      "URLs": ""
+    },
+    {
+      "Session": "10",
+      "Topic": "MAJOR CATEGORY 2: COMPUTER SYSTEM MIDDLE CATEGORY 3: COMPUTER COMPONENT 1. Processor 2. Memory 3. Bus 4. Input/output interface 5. Input/output device",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO04",
+      "ITU": "",
+      "Student Materials": "Textbook 2, new category",
+      "S-Download": "",
+      "Student's Tasks": "Do exercises, practical and selft-review, CMS. based on Textbook 3 and E-learning on CMS (4)",
+      "URLs": ""
+    },
+    {
+      "Session": "11",
+      "Topic": "3. Bus 4. Input/output interface 5. Input/output device",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO04, LO05",
+      "ITU": "",
+      "Student Materials": "Textbook 2, new category",
+      "S-Download": "",
+      "Student's Tasks": "Do exercises, practical and selft-review, CMS. based on Textbook 3 and E-learning on CMS (4)",
+      "URLs": ""
+    },
+    {
+      "Session": "12",
+      "Topic": "3. Bus 4. Input/output interface 5. Input/output device",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO04, LO05",
+      "ITU": "",
+      "Student Materials": "Textbook 2, new category",
+      "S-Download": "",
+      "Student's Tasks": "Do exercises, practical and selft-review, CMS. based on Textbook 3 and E-learning on CMS (4)",
+      "URLs": ""
+    },
+    {
+      "Session": "13",
+      "Topic": "MIDDLE CATEGORY 5: SOFTWARE 1. Operating system 2. Middleware 3. File system MIDDLE CATEGORY 6: HARDWARE 1. Hardware",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO05",
+      "ITU": "",
+      "Student Materials": "Textbook 2, new category",
+      "S-Download": "",
+      "Student's Tasks": "Do exercises, practical and selft-review, CMS. based on Textbook 3 and E-learning on CMS (4)",
+      "URLs": ""
+    },
+    {
+      "Session": "14",
+      "Topic": "MIDDLE CATEGORY 5: SOFTWARE 1. Operating system 2. Middleware 3. File system MIDDLE CATEGORY 6: HARDWARE 1. Hardware",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO05",
+      "ITU": "",
+      "Student Materials": "Textbook 2, new category",
+      "S-Download": "",
+      "Student's Tasks": "Do exercises, practical and selft-review, CMS. based on Textbook 3 and E-learning on CMS (4)",
+      "URLs": ""
+    },
+    {
+      "Session": "15",
+      "Topic": "MIDDLE CATEGORY 6: HARDWARE 1. Hardware",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO04, LO05, LO07",
+      "ITU": "",
+      "Student Materials": "Textbook 2, new category",
+      "S-Download": "",
+      "Student's Tasks": "Do exercises, practical and selft-review, CMS. based on Textbook 3 and E-learning on CMS (4)",
+      "URLs": ""
+    },
+    {
+      "Session": "16",
+      "Topic": "MIDDLE CATEGORY 6: HARDWARE 1. Hardware",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO04, LO05, LO07",
+      "ITU": "",
+      "Student Materials": "Textbook 2, new category",
+      "S-Download": "",
+      "Student's Tasks": "Do exercises, practical and selft-review, CMS. based on Textbook 3 and E-learning on CMS (4)",
+      "URLs": ""
+    },
+    {
+      "Session": "17",
+      "Topic": "3. Data manipulation 4. Transaction processing 5. Database application",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO07",
+      "ITU": "",
+      "Student Materials": "Textbook 2, new category",
+      "S-Download": "",
+      "Student's Tasks": "Do exercises, practical and selft-review, CMS. based on Textbook 3 and E-learning on CMS (4)",
+      "URLs": ""
+    },
+    {
+      "Session": "18",
+      "Topic": "3. Data manipulation 4. Transaction processing 5. Database application",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO07",
+      "ITU": "",
+      "Student Materials": "Textbook 2, new category",
+      "S-Download": "",
+      "Student's Tasks": "Do exercises, practical and selft-review, CMS. based on Textbook 3 and E-learning on CMS (4)",
+      "URLs": ""
+    },
+    {
+      "Session": "19",
+      "Topic": "4. Transaction processing 5. Database application PM questions",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO07",
+      "ITU": "",
+      "Student Materials": "Textbook 2, new category",
+      "S-Download": "",
+      "Student's Tasks": "Do exercises, practical and selft-review, CMS. based on Textbook 3 and E-learning on CMS (4)",
+      "URLs": ""
+    },
+    {
+      "Session": "20",
+      "Topic": "4. Transaction processing 5. Database application PM questions",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO07",
+      "ITU": "",
+      "Student Materials": "Textbook 2, new category",
+      "S-Download": "",
+      "Student's Tasks": "Do exercises, practical and selft-review, CMS. based on Textbook 3 and E-learning on CMS (4)",
+      "URLs": ""
+    },
+    {
+      "Session": "21",
+      "Topic": "MIDDLE CATEGORY 10: NETWORK 1. Network architecture 2. Data communication and control 3. Communications protocols PM questions",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO06, LO08",
+      "ITU": "",
+      "Student Materials": "Textbook 2, new category",
+      "S-Download": "",
+      "Student's Tasks": "Do exercises, practical and selft-review, CMS. based on Textbook 3 and E-learning on CMS (4)",
+      "URLs": ""
+    },
+    {
+      "Session": "22",
+      "Topic": "MIDDLE CATEGORY 10: NETWORK 1. Network architecture 2. Data communication and control 3. Communications protocols PM questions",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO06, LO08",
+      "ITU": "",
+      "Student Materials": "Textbook 2, new category",
+      "S-Download": "",
+      "Student's Tasks": "Do exercises, practical and selft-review, CMS. based on Textbook 3 and E-learning on CMS (4)",
+      "URLs": ""
+    },
+    {
+      "Session": "23",
+      "Topic": "3. Communications protocols PM questions MIDDLE CATEGORY 11: SECURITY 1. Information security 2. Information security management",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO06, LO08",
+      "ITU": "",
+      "Student Materials": "Textbook 2, new category",
+      "S-Download": "",
+      "Student's Tasks": "Do exercises, practical and selft-review, CMS.",
+      "URLs": ""
+    },
+    {
+      "Session": "24",
+      "Topic": "3. Communications protocols PM questions MIDDLE CATEGORY 11: SECURITY 1. Information security 2. Information security management",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO06, LO08",
+      "ITU": "",
+      "Student Materials": "Textbook 2, new category",
+      "S-Download": "",
+      "Student's Tasks": "Do exercises, practical and selft-review, CMS.",
+      "URLs": ""
+    },
+    {
+      "Session": "25",
+      "Topic": "MAJOR CATEGORY 4: DEVELOPMENT TECHNOLOGY MIDDLE CATEGORY 12: SYSTEM DEVELOPMENT TECHNOLOGY 1. System requirements definition 2. System architecture design 3. Software requirements definition 4. Software architecture design and software detailed design 5. Software coding and testing 6. Software integration and software qualification tests",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO05",
+      "ITU": "",
+      "Student Materials": "Textbook 2, new category",
+      "S-Download": "",
+      "Student's Tasks": "Do exercises, practical and selft-review, CMS. based on Textbook 3 and E-learning on CMS (4)",
+      "URLs": ""
+    },
+    {
+      "Session": "26",
+      "Topic": "MAJOR CATEGORY 4: DEVELOPMENT TECHNOLOGY MIDDLE CATEGORY 12: SYSTEM DEVELOPMENT TECHNOLOGY 1. System requirements definition 2. System architecture design 3. Software requirements definition 4. Software architecture design and software detailed design 5. Software coding and testing 6. Software integration and software qualification tests",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO05",
+      "ITU": "",
+      "Student Materials": "Textbook 2, new category",
+      "S-Download": "",
+      "Student's Tasks": "Do exercises, practical and selft-review, CMS. based on Textbook 3 and E-learning on CMS (4)",
+      "URLs": ""
+    },
+    {
+      "Session": "27",
+      "Topic": "4. Software architecture design and software detailed design 5. Software coding and testing 6. Software integration and software qualification tests",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO05",
+      "ITU": "",
+      "Student Materials": "Textbook 2, new category",
+      "S-Download": "",
+      "Student's Tasks": "Do exercises, practical and selft-review, CMS. based on Textbook 3 and E-learning on CMS (4)",
+      "URLs": ""
+    },
+    {
+      "Session": "28",
+      "Topic": "4. Software architecture design and software detailed design 5. Software coding and testing 6. Software integration and software qualification tests",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO05",
+      "ITU": "",
+      "Student Materials": "Textbook 2, new category",
+      "S-Download": "",
+      "Student's Tasks": "Do exercises, practical and selft-review, CMS. based on Textbook 3 and E-learning on CMS (4)",
+      "URLs": ""
+    },
+    {
+      "Session": "29",
+      "Topic": "7. System integration and system qualification tests 8. Software installation 9. Software acceptance 10. Software maintenance PM questions",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO05",
+      "ITU": "",
+      "Student Materials": "Textbook 2, new category",
+      "S-Download": "",
+      "Student's Tasks": "Do exercises, practical and selft-review, CMS.",
+      "URLs": ""
+    },
+    {
+      "Session": "30",
+      "Topic": "7. System integration and system qualification tests 8. Software installation 9. Software acceptance 10. Software maintenance PM questions",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO05",
+      "ITU": "",
+      "Student Materials": "Textbook 2, new category",
+      "S-Download": "",
+      "Student's Tasks": "Do exercises, practical and selft-review, CMS.",
+      "URLs": ""
+    },
+    {
+      "Session": "31",
+      "Topic": "MIDDLE CATEGORY 13: SOFTWARE DEVELOPMENT MANAGEMENT TECHNIQUES 1. Development process and methods 2. Intellectual property application management MANAGEMENT MAJOR CATEGORY 5: PROJECT MANAGEMENT MIDDLE CATEGORY 14: PROJECT MANAGEMENT 1. Project integration management 2. Project scope management 3. Project time management",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO04, LO05, LO09",
+      "ITU": "",
+      "Student Materials": "Textbook 2, new category",
+      "S-Download": "",
+      "Student's Tasks": "Do exercises, practical and selft-review, CMS. based on Textbook 3 and E-learning on CMS (4)",
+      "URLs": ""
+    },
+    {
+      "Session": "32",
+      "Topic": "MIDDLE CATEGORY 13: SOFTWARE DEVELOPMENT MANAGEMENT TECHNIQUES 1. Development process and methods 2. Intellectual property application management MANAGEMENT MAJOR CATEGORY 5: PROJECT MANAGEMENT MIDDLE CATEGORY 14: PROJECT MANAGEMENT 1. Project integration management 2. Project scope management 3. Project time management",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO04, LO05, LO09",
+      "ITU": "",
+      "Student Materials": "Textbook 2, new category",
+      "S-Download": "",
+      "Student's Tasks": "Do exercises, practical and selft-review, CMS. based on Textbook 3 and E-learning on CMS (4)",
+      "URLs": ""
+    },
+    {
+      "Session": "33",
+      "Topic": "MANAGEMENT MAJOR CATEGORY 5: PROJECT MANAGEMENT MIDDLE CATEGORY 14: PROJECT MANAGEMENT 1. Project integration management 2. Project scope management 3. Project time management 4. Project cost management 5. Project quality management",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO09",
+      "ITU": "",
+      "Student Materials": "Textbook 2, new category",
+      "S-Download": "",
+      "Student's Tasks": "Do exercises, practical and selft-review, CMS.",
+      "URLs": ""
+    },
+    {
+      "Session": "34",
+      "Topic": "MANAGEMENT MAJOR CATEGORY 5: PROJECT MANAGEMENT MIDDLE CATEGORY 14: PROJECT MANAGEMENT 1. Project integration management 2. Project scope management 3. Project time management 4. Project cost management 5. Project quality management",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO09",
+      "ITU": "",
+      "Student Materials": "Textbook 2, new category",
+      "S-Download": "",
+      "Student's Tasks": "Do exercises, practical and selft-review, CMS.",
+      "URLs": ""
+    },
+    {
+      "Session": "35",
+      "Topic": "MAJOR CATEGORY 6: SERVICE MANAGEMENT MIDDLE CATEGORY 15: SERVICE MANAGEMENT 1. Service management 2. Operations design and tools 3. Service support 4. Service delivery 5. Service management foundation 6. Facility management",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO09",
+      "ITU": "",
+      "Student Materials": "Textbook 2, new category",
+      "S-Download": "",
+      "Student's Tasks": "Do exercises, practical and selft-review, CMS. based on Textbook 3 and E-learning on CMS (4)",
+      "URLs": ""
+    },
+    {
+      "Session": "36",
+      "Topic": "MAJOR CATEGORY 6: SERVICE MANAGEMENT MIDDLE CATEGORY 15: SERVICE MANAGEMENT 1. Service management 2. Operations design and tools 3. Service support 4. Service delivery 5. Service management foundation 6. Facility management",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO09",
+      "ITU": "",
+      "Student Materials": "Textbook 2, new category",
+      "S-Download": "",
+      "Student's Tasks": "Do exercises, practical and selft-review, CMS. based on Textbook 3 and E-learning on CMS (4)",
+      "URLs": ""
+    },
+    {
+      "Session": "37",
+      "Topic": "4. Service delivery 5. Service management foundation 6. Facility management MIDDLE CATEGORY 16: SYSTEM AUDIT 1. System audit 2. Internal control",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO08",
+      "ITU": "",
+      "Student Materials": "Textbook 2, new category",
+      "S-Download": "",
+      "Student's Tasks": "Do exercises, practical and selft-review, CMS.",
+      "URLs": ""
+    },
+    {
+      "Session": "38",
+      "Topic": "4. Service delivery 5. Service management foundation 6. Facility management MIDDLE CATEGORY 16: SYSTEM AUDIT 1. System audit 2. Internal control",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO08",
+      "ITU": "",
+      "Student Materials": "Textbook 2, new category",
+      "S-Download": "",
+      "Student's Tasks": "Do exercises, practical and selft-review, CMS.",
+      "URLs": ""
+    },
+    {
+      "Session": "39",
+      "Topic": "2. Requirements definition 3. Procurement planning and implementation",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO8, LO9",
+      "ITU": "",
+      "Student Materials": "Textbook 2, new category",
+      "S-Download": "",
+      "Student's Tasks": "Do exercises, practical and selft-review, CMS. based on Textbook 3 and E-learning on CMS (4)",
+      "URLs": ""
+    },
+    {
+      "Session": "40",
+      "Topic": "2. Requirements definition 3. Procurement planning and implementation",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO8, LO9",
+      "ITU": "",
+      "Student Materials": "Textbook 2, new category",
+      "S-Download": "",
+      "Student's Tasks": "Do exercises, practical and selft-review, CMS. based on Textbook 3 and E-learning on CMS (4)",
+      "URLs": ""
+    },
+    {
+      "Session": "41",
+      "Topic": "MAJOR CATEGORY 8: BUSINESS STRATEGY MIDDLE CATEGORY 19: BUSINESS STRATEGY MANAGEMENT 1. Business strategy techniques 2. Marketing 3. Business strategy and goal/evaluation 4. Business management system",
+      "Learning-Teaching Type": "Offline",
+      "LO": "",
+      "ITU": "",
+      "Student Materials": "Textbook 2, new category",
+      "S-Download": "",
+      "Student's Tasks": "Do exercises, practical and selft-review, CMS. based on Textbook 3 and E-learning on CMS (4)",
+      "URLs": ""
+    },
+    {
+      "Session": "42",
+      "Topic": "MAJOR CATEGORY 8: BUSINESS STRATEGY MIDDLE CATEGORY 19: BUSINESS STRATEGY MANAGEMENT 1. Business strategy techniques 2. Marketing 3. Business strategy and goal/evaluation 4. Business management system",
+      "Learning-Teaching Type": "Offline",
+      "LO": "",
+      "ITU": "",
+      "Student Materials": "Textbook 2, new category",
+      "S-Download": "",
+      "Student's Tasks": "Do exercises, practical and selft-review, CMS. based on Textbook 3 and E-learning on CMS (4)",
+      "URLs": ""
+    },
+    {
+      "Session": "43",
+      "Topic": "MIDDLE CATEGORY 21: BUSINESS INDUSTRY 1. Business system 2. Engineering system 3. E-Business",
+      "Learning-Teaching Type": "Offline",
+      "LO": "",
+      "ITU": "",
+      "Student Materials": "Textbook 2, new category",
+      "S-Download": "",
+      "Student's Tasks": "Do exercises, practical and selft-review, CMS. based on Textbook 3 and E-learning on CMS (4)",
+      "URLs": ""
+    },
+    {
+      "Session": "44",
+      "Topic": "MIDDLE CATEGORY 21: BUSINESS INDUSTRY 1. Business system 2. Engineering system 3. E-Business",
+      "Learning-Teaching Type": "Offline",
+      "LO": "",
+      "ITU": "",
+      "Student Materials": "Textbook 2, new category",
+      "S-Download": "",
+      "Student's Tasks": "Do exercises, practical and selft-review, CMS. based on Textbook 3 and E-learning on CMS (4)",
+      "URLs": ""
+    },
+    {
+      "Session": "45",
+      "Topic": "4. Consumer appliances 5. Industrial devices",
+      "Learning-Teaching Type": "Offline",
+      "LO": "",
+      "ITU": "",
+      "Student Materials": "Textbook 2, new category",
+      "S-Download": "",
+      "Student's Tasks": "Do exercises, practical and selft-review, CMS. based on Textbook 3 and E-learning on CMS (4)",
+      "URLs": ""
+    },
+    {
+      "Session": "46",
+      "Topic": "4. Consumer appliances 5. Industrial devices",
+      "Learning-Teaching Type": "Offline",
+      "LO": "",
+      "ITU": "",
+      "Student Materials": "Textbook 2, new category",
+      "S-Download": "",
+      "Student's Tasks": "Do exercises, practical and selft-review, CMS. based on Textbook 3 and E-learning on CMS (4)",
+      "URLs": ""
+    },
+    {
+      "Session": "47",
+      "Topic": "MIDDLE CATEGORY 23: LEGAL AFFAIRS 1. Intellectual property rights 2. Laws on security 3. Standardization",
+      "Learning-Teaching Type": "Offline",
+      "LO": "",
+      "ITU": "",
+      "Student Materials": "Textbook 2, new category ; Textbook 3 (Vol.2), Chapter 7, 5",
+      "S-Download": "",
+      "Student's Tasks": "Do exercises, practical and selft-review, CMS. based on Textbook 3 and E-learning on CMS (4)",
+      "URLs": ""
+    },
+    {
+      "Session": "48",
+      "Topic": "MIDDLE CATEGORY 23: LEGAL AFFAIRS 1. Intellectual property rights 2. Laws on security 3. Standardization",
+      "Learning-Teaching Type": "Offline",
+      "LO": "",
+      "ITU": "",
+      "Student Materials": "Textbook 2, new category ; Textbook 3 (Vol.2), Chapter 7, 5",
+      "S-Download": "",
+      "Student's Tasks": "Do exercises, practical and selft-review, CMS. based on Textbook 3 and E-learning on CMS (4)",
+      "URLs": ""
+    },
+    {
+      "Session": "49",
+      "Topic": "PM questions Program design Information processing",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO3, LO4",
+      "ITU": "",
+      "Student Materials": "Textbook 2, new category ; Textbook 3 (Vol.2), Chapter 7, 5",
+      "S-Download": "",
+      "Student's Tasks": "Do exercises, practical and selft-review, CMS. based on Textbook 3 and E-learning on CMS (4)",
+      "URLs": ""
+    },
+    {
+      "Session": "50",
+      "Topic": "PM questions Program design Information processing",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO3, LO4",
+      "ITU": "",
+      "Student Materials": "Textbook 2, new category ; Textbook 3 (Vol.2), Chapter 7, 5",
+      "S-Download": "",
+      "Student's Tasks": "Do exercises, practical and selft-review, CMS. based on Textbook 3 and E-learning on CMS (4)",
+      "URLs": ""
+    },
+    {
+      "Session": "51",
+      "Topic": "PM Software Algorithm",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO3, LO4, LO7",
+      "ITU": "",
+      "Student Materials": "Textbook 3 (Vol.2), Chapter 2, 6",
+      "S-Download": "",
+      "Student's Tasks": "Do exercises, practical and selft-review, CMS. based on Textbook 3 and E-learning on CMS (4)",
+      "URLs": ""
+    },
+    {
+      "Session": "52",
+      "Topic": "PM Software Algorithm",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO3, LO4, LO7",
+      "ITU": "",
+      "Student Materials": "Textbook 3 (Vol.2), Chapter 2, 6",
+      "S-Download": "",
+      "Student's Tasks": "Do exercises, practical and selft-review, CMS. based on Textbook 3 and E-learning on CMS (4)",
+      "URLs": ""
+    },
+    {
+      "Session": "53",
+      "Topic": "PM Hardware Communication Network",
+      "Learning-Teaching Type": "Offline",
+      "LO": "",
+      "ITU": "",
+      "Student Materials": "Textbook 3 (Vol.2), Chapter 1, 4",
+      "S-Download": "",
+      "Student's Tasks": "Do exercises, practical and selft-review, CMS. based on Textbook 3 and E-learning on CMS (4)",
+      "URLs": ""
+    },
+    {
+      "Session": "54",
+      "Topic": "PM Hardware Communication Network",
+      "Learning-Teaching Type": "Offline",
+      "LO": "",
+      "ITU": "",
+      "Student Materials": "Textbook 3 (Vol.2), Chapter 1, 4",
+      "S-Download": "",
+      "Student's Tasks": "Do exercises, practical and selft-review, CMS. based on Textbook 3 and E-learning on CMS (4)",
+      "URLs": ""
+    },
+    {
+      "Session": "55",
+      "Topic": "PM C Programming",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO3, LO4, LO5",
+      "ITU": "",
+      "Student Materials": "Textbook 3 (Vol.2), Chapter 8",
+      "S-Download": "",
+      "Student's Tasks": "Do exercises, practical and selft-review, CMS. based on Textbook 3 and E-learning on CMS (4)",
+      "URLs": ""
+    },
+    {
+      "Session": "56",
+      "Topic": "PM C Programming",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO3, LO4, LO5",
+      "ITU": "",
+      "Student Materials": "Textbook 3 (Vol.2), Chapter 8",
+      "S-Download": "",
+      "Student's Tasks": "Do exercises, practical and selft-review, CMS. based on Textbook 3 and E-learning on CMS (4)",
+      "URLs": ""
+    },
+    {
+      "Session": "57",
+      "Topic": "PM Java programming",
+      "Learning-Teaching Type": "Offline",
+      "LO": "",
+      "ITU": "",
+      "Student Materials": "Textbook 3 (Vol.2), Chapter 8",
+      "S-Download": "",
+      "Student's Tasks": "Do exercises, practical and selft-review, CMS. based on Textbook 3 and E-learning on CMS (4)",
+      "URLs": ""
+    },
+    {
+      "Session": "58",
+      "Topic": "PM Java programming",
+      "Learning-Teaching Type": "Offline",
+      "LO": "",
+      "ITU": "",
+      "Student Materials": "Textbook 3 (Vol.2), Chapter 8",
+      "S-Download": "",
+      "Student's Tasks": "Do exercises, practical and selft-review, CMS. based on Textbook 3 and E-learning on CMS (4)",
+      "URLs": ""
+    },
+    {
+      "Session": "59",
+      "Topic": "PM Database",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO7",
+      "ITU": "",
+      "Student Materials": "Textbook 3 (Vol.2), Chapter 3",
+      "S-Download": "",
+      "Student's Tasks": "Do exercises, practical and selft-review, CMS. based on Textbook 3 and E-learning on CMS (4)",
+      "URLs": ""
+    },
+    {
+      "Session": "60",
+      "Topic": "PM Database",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO7",
+      "ITU": "",
+      "Student Materials": "Textbook 3 (Vol.2), Chapter 3",
+      "S-Download": "",
+      "Student's Tasks": "Do exercises, practical and selft-review, CMS. based on Textbook 3 and E-learning on CMS (4)",
+      "URLs": ""
+    }
+  ],
+  "constructive_questions": [
+    {
+      "No.": "1",
+      "Session No": "4",
+      "Name": "CQ1",
+      "Details": "In binary search, when the number of sorted data values is quadrupled, how much does the maximum number of comparisons increase by. Explain the characteristics of each of the sorting methods: shell sort, bubble sort, quick sort, and heap sort?"
+    },
+    {
+      "No.": "2",
+      "Session No": "5",
+      "Name": "CQ1",
+      "Details": "Compare DRAM and SRAM. Among the components that compose a computer, which ones compose the central processing unit (CPU)?"
+    },
+    {
+      "No.": "3",
+      "Session No": "6",
+      "Name": "CQ1",
+      "Details": "Explain the role of cache memory. Describe the characteristics of RAID. Is USB a serial interface or a parallel interface, why?"
+    },
+    {
+      "No.": "4",
+      "Session No": "7",
+      "Name": "CQ1",
+      "Details": "Explain the roles of task management. What type of file organization is this? Sequential organization files are grouped into units called memebers, each of which is given a name. A directory is created, including these names and leading addresses, and access is allowed to these members. Explain swapping. What is the unit of loading into the main memory in the page method?"
+    },
+    {
+      "No.": "5",
+      "Session No": "8",
+      "Name": "CQ1",
+      "Details": "Explain the roles of clients and servers in a client/server system. What is the difference between batch processing and real-time processing?"
+    },
+    {
+      "No.": "6",
+      "Session No": "9",
+      "Name": "CQ1",
+      "Details": "Explain the meanings of the following terms: \"MIPS\", \"response time\", \"throughput\" and \"turn-around time\". Explain the maining of RASIS. Explain the meanings of MTBF and MTTR. Express the availability using MTBF and MTTR?"
+    },
+    {
+      "No.": "7",
+      "Session No": "10",
+      "Name": "CQ1",
+      "Details": "What is an intranet. What is a data warehouse?"
+    },
+    {
+      "No.": "8",
+      "Session No": "11",
+      "Name": "CQ1",
+      "Details": "List programming languages that are each classified as \"procedural\", \"functional\", \"logic\", and \"object-oriented\". Explain \"reentrant\". What are the types of language processor. List three typical process models and explain the characteristics of each. List two differences between inspection and walk-through?"
+    },
+    {
+      "No.": "9",
+      "Session No": "12",
+      "Name": "CQ1",
+      "Details": "List the types of tasks done in external and internal design. To increase the level of independence of modules, what should one do with module strength and module coupling, also, name the thype of strength and coupling referred to here?"
+    },
+    {
+      "No.": "10",
+      "Session No": "13",
+      "Name": "CQ1",
+      "Details": "Describe briefly each of the following checking methods: numeric check, format check, limit check, range check, and sequence check. Describe the characteristics of a black box and a white box test?"
+    },
+    {
+      "No.": "11",
+      "Session No": "14",
+      "Name": "CQ1",
+      "Details": "List the mothods of synchronization control. Describe the characteristics of packet exchange?"
+    },
+    {
+      "No.": "12",
+      "Session No": "15",
+      "Name": "CQ1",
+      "Details": "Explain the CSMA/CD method. List three basic services of the Internet and explain each. Describe the channel structure of the basic interface of ISDN?"
+    },
+    {
+      "No.": "13",
+      "Session No": "16",
+      "Name": "CQ1",
+      "Details": "List the three-layer schema and explain the roles of each schema. List logical data models and explain briefly the characteristics of each. Describe the characteristics of first, second and third normal forms. List the types of relational operations and explain the process of each?"
+    },
+    {
+      "No.": "14",
+      "Session No": "17",
+      "Name": "CQ1",
+      "Details": "Explain the roles of DDL and DML. Explain the cursor function?"
+    },
+    {
+      "No.": "15",
+      "Session No": "18",
+      "Name": "CQ1",
+      "Details": "List what is necessary for recovery when a database fails due to a transaction failure. What is this recovery method called. Explain the two-phase commitment?"
+    },
+    {
+      "No.": "16",
+      "Session No": "19",
+      "Name": "CQ1",
+      "Details": "Explain the differences between private key and public key cryptography. In general, a computer virus is defined as having at least one of three functions. List the three functions?"
+    },
+    {
+      "No.": "17",
+      "Session No": "20",
+      "Name": "CQ1",
+      "Details": "Describe the contents of the ISO 9000 series. What is the compression format for color still images and moving pictures?"
+    },
+    {
+      "No.": "18",
+      "Session No": "21",
+      "Name": "CQ1",
+      "Details": "Explain what CIO is. Give the general procedure of the KJ method. List the four principles of brainstorming and explain BPR?"
+    },
+    {
+      "No.": "19",
+      "Session No": "22",
+      "Name": "CQ1",
+      "Details": "Explain ABC analysis. Explain CAD. What is the name of the card system whereby payments can be made by a bank-issued cash card and the money is immediately paid?"
+    },
+    {
+      "No.": "20",
+      "Session No": "23",
+      "Name": "CQ1",
+      "Details": "Explain the types and characteristics of typical information systems used in business area?"
+    },
+    {
+      "No.": "21",
+      "Session No": "24",
+      "Name": "CQ1",
+      "Details": "Explain the purposes and basic mechanisms of automatic production control, production systems, production management, and computer-aided systems?"
+    }
+  ],
+  "materials": [
+    {
+      "No.": "1",
+      "Material Description": "1) Introduction to ITSS (.pdf)",
+      "Author": "",
+      "Publisher": "",
+      "Published Date": "",
+      "Edition": "",
+      "ISBN": "",
+      "Is Main Material": "True",
+      "Is Hard Copy": "False",
+      "Is Online": "True",
+      "Note": ""
+    },
+    {
+      "No.": "2",
+      "Material Description": "2) Fundamental Information Technology Engineer Examination 'Syllabus Version 1.0 (pdf.)",
+      "Author": "",
+      "Publisher": "",
+      "Published Date": "",
+      "Edition": "",
+      "ISBN": "",
+      "Is Main Material": "True",
+      "Is Hard Copy": "False",
+      "Is Online": "True",
+      "Note": ""
+    },
+    {
+      "No.": "3",
+      "Material Description": "3) FE Exam Preparation Book - Vol 1. Preparation for Morning Exam and Trial Exam Set (448 pages) - Vol 2. Preparation for Afternoon Exam (151 pages)",
+      "Author": "",
+      "Publisher": "",
+      "Published Date": "",
+      "Edition": "",
+      "ISBN": "",
+      "Is Main Material": "True",
+      "Is Hard Copy": "False",
+      "Is Online": "True",
+      "Note": ""
+    },
+    {
+      "No.": "4",
+      "Material Description": "ITSS V3 2008 at http://www.ipa.go.jp/index-e.html",
+      "Author": "",
+      "Publisher": "",
+      "Published Date": "",
+      "Edition": "",
+      "ISBN": "",
+      "Is Main Material": "False",
+      "Is Hard Copy": "False",
+      "Is Online": "True",
+      "Note": ""
+    },
+    {
+      "No.": "5",
+      "Material Description": "Textbook for Fundamental Information Technology Engineers - No 1. Introduction to Computer Systems (323 pages) - No 2. System development and operations (143 pages) - No 3. Internal design and programming (196 pages) - No 4. Network and database technologies (220 pages) - No 5. Current IT topics (105 pages) by METI (Ministry of Economy, Trade and Industry), 3rd edition, Aug 2003 (pdf.files)",
+      "Author": "",
+      "Publisher": "",
+      "Published Date": "",
+      "Edition": "",
+      "ISBN": "",
+      "Is Main Material": "False",
+      "Is Hard Copy": "False",
+      "Is Online": "False",
+      "Note": ""
+    },
+    {
+      "No.": "6",
+      "Material Description": "Elearning \"Fundamental Information Technology\" course on CMS at: http://cms.fpt.edu.vn/elearning/course/view.php?id=1735",
+      "Author": "",
+      "Publisher": "",
+      "Published Date": "",
+      "Edition": "",
+      "ISBN": "",
+      "Is Main Material": "False",
+      "Is Hard Copy": "False",
+      "Is Online": "True",
+      "Note": ""
+    },
+    {
+      "No.": "7",
+      "Material Description": "4) Elearning \"FE Exam Preparation\" course on CMS at http://cms.fpt.edu.vn/elearning/course/view.php?id=1734",
+      "Author": "",
+      "Publisher": "",
+      "Published Date": "",
+      "Edition": "",
+      "ISBN": "",
+      "Is Main Material": "True",
+      "Is Hard Copy": "False",
+      "Is Online": "True",
+      "Note": ""
+    }
+  ],
+  "source_path": "data/raw/syllabi/7779.html",
+  "id": "syllabus:7779"
+}

@@ -1,0 +1,537 @@
+{
+  "syllabus_id": 806,
+  "subject_code": "ENR201",
+  "subject_name": "Reading 2",
+  "syllabus_name": "SKILLFUL 2 - READING 2",
+  "credits": 3,
+  "degree_level": "Bachelor level",
+  "time_allocation": "Hours Per Course: 30 sessions 1 session = 90 minutes",
+  "prerequisite": "Passed ENR101",
+  "general_information": {
+    "Syllabus ID": "806",
+    "Syllabus Name": "SKILLFUL 2 - READING 2",
+    "Course Name English": "",
+    "Subject Code": "ENR201",
+    "Learning-Teaching Method": "",
+    "NoCredit": "3",
+    "Degree Level": "Bachelor level",
+    "Time Allocation": "Hours Per Course: 30 sessions 1 session = 90 minutes",
+    "Pre-Requisite": "Passed ENR101",
+    "Description": "This is Skillful Reading 2 course, extracted from Skillful reading and writing 2 and intended to use for Upper-intermediate students. After the course, students can be able to use reading techniques (previewing, scanning, skimming, etc.) to comprehend reading passages related to academic topics such as psychology, Sociology, Biology, Chemistry, Business Studies.",
+    "StudentTasks": "- Attend more than 80% of contact hours in order to be accepted to the final examination - Actively participate in class activities - Fulfill tasks given by instructor after class - Use their own laptop in class only for learning purpose - Read the textbook in advance - Access the course website (www.cms.fpt.edu.vn) for up-to-date information and material of the course, for online supports from teachers and other students and for practicing and assessment.",
+    "Tools": "",
+    "Scoring Scale": "10",
+    "DecisionNo MM/dd/yyyy": "1043/QĐ-ĐHFPT dated 08/10/2018",
+    "IsApproved": "True",
+    "Note": "",
+    "Is Scored": "True",
+    "MinAvgMarkToPass": "5",
+    "IsActive": "True",
+    "ApprovedDate": "8/10/2018"
+  },
+  "active": true,
+  "approved": true,
+  "decision": "1043/QĐ-ĐHFPT dated 08/10/2018",
+  "description": "This is Skillful Reading 2 course, extracted from Skillful reading and writing 2 and intended to use for Upper-intermediate students. After the course, students can be able to use reading techniques (previewing, scanning, skimming, etc.) to comprehend reading passages related to academic topics such as psychology, Sociology, Biology, Chemistry, Business Studies.",
+  "learning_outcomes": [
+    {
+      "No.": "1",
+      "CLO Name": "CLO1",
+      "CLO Details": "Identify the purpose of parts of the text"
+    },
+    {
+      "No.": "2",
+      "CLO Name": "CLO2",
+      "CLO Details": "Skim, take-note and map the information"
+    },
+    {
+      "No.": "3",
+      "CLO Name": "CLO3",
+      "CLO Details": "Identify definitions"
+    },
+    {
+      "No.": "4",
+      "CLO Name": "CLO4",
+      "CLO Details": "Summarize the information"
+    },
+    {
+      "No.": "5",
+      "CLO Name": "CLO5",
+      "CLO Details": "Identify main ideas, causes and effects"
+    },
+    {
+      "No.": "6",
+      "CLO Name": "CLO6",
+      "CLO Details": "Take note with their own words"
+    },
+    {
+      "No.": "7",
+      "CLO Name": "CLO7",
+      "CLO Details": "Identify supporting details"
+    },
+    {
+      "No.": "8",
+      "CLO Name": "CLO8",
+      "CLO Details": "Identify reasons, facts, opinions"
+    },
+    {
+      "No.": "9",
+      "CLO Name": "CLO9",
+      "CLO Details": "Identify supporting evidence for main ideas"
+    },
+    {
+      "No.": "10",
+      "CLO Name": "CLO10",
+      "CLO Details": "Identify types of supporting details"
+    }
+  ],
+  "assessments": [
+    {
+      "No.": "1",
+      "Category": "Progress Test",
+      "Type": "on-going",
+      "Part": "2",
+      "Weight": "20.0%",
+      "Completion Criteria": ">0",
+      "Duration": "30'",
+      "CLO": "LO1, LO2, LO3, LO4, LO5, LO6, LO7, LO8, LO9, LO10",
+      "Question Type": "Multiple choice, short answer questions, embedded questions",
+      "No Question": "30 questions",
+      "Knowledge and Skill": "Test the acquainted knowledge which student obtained in the delivered units (6-10).",
+      "Grading Guide": "Paper test sheets/ Tests on cms",
+      "Note": "Teacher is allowed to select which units content (topic or learning outcome) to focus on each examination session."
+    },
+    {
+      "No.": "2",
+      "Category": "Project/Assignment",
+      "Type": "on-going",
+      "Part": "5",
+      "Weight": "50.0%",
+      "Completion Criteria": ">0",
+      "Duration": "",
+      "CLO": "LO1, LO2, LO3, LO4, LO5, LO6, LO7, LO8, LO9, LO10",
+      "Question Type": "Each student chooses one book/novel in English (supposed to be a masterpiece in English) to read and write a report following the format provided by teacher.",
+      "No Question": "Following the format of book report provided by the teacher.",
+      "Knowledge and Skill": "The whole report is about 500 words long.",
+      "Grading Guide": "",
+      "Note": "Teachers give topics, start and finish time for each Project/Assignment by themself."
+    },
+    {
+      "No.": "3",
+      "Category": "Final exam",
+      "Type": "Final exam",
+      "Part": "1",
+      "Weight": "30.0%",
+      "Completion Criteria": "4",
+      "Duration": "40'",
+      "CLO": "LO1, LO2, LO3, LO4, LO5, LO6, LO7, LO8, LO9, LO10",
+      "Question Type": "Multiple choice. Other types of questions may be included. 50 questions.",
+      "No Question": "",
+      "Knowledge and Skill": "The question will cover the lectures, class discussions, activities, exercises, and textbook.",
+      "Grading Guide": "Exam room",
+      "Note": "Not allow to use any document/information in any form in exam room"
+    }
+  ],
+  "schedule": [
+    {
+      "Session": "1",
+      "Topic": "Course Introduction + book report assignment details UNIT 1 - Nourishment Discussion point Vocabulary preview",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO1",
+      "ITU": "I,T, U",
+      "Student Materials": "Textbook (P.7 & 8) Additional materials",
+      "S-Download": "",
+      "Student's Tasks": "Teacher's presentation Class discussion, group work, pair work, games, exercises",
+      "URLs": ""
+    },
+    {
+      "Session": "2",
+      "Topic": "UNIT 1 - Nourishment Reading 1 + Developing critical thinking",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO1",
+      "ITU": "T, U",
+      "Student Materials": "Video + Worksheets, Skillful Practice, Additional resources",
+      "S-Download": "",
+      "Student's Tasks": "Class discussion, group work, pair work, games, exercises",
+      "URLs": ""
+    },
+    {
+      "Session": "3",
+      "Topic": "UNIT 1 - Nourishment Reading 2 + Developing critical thinking",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO1",
+      "ITU": "T, U",
+      "Student Materials": "Video + Worksheet, Skillful Practice, Additional resources",
+      "S-Download": "",
+      "Student's Tasks": "Class discussion, group work, pair work, games, exercises",
+      "URLs": ""
+    },
+    {
+      "Session": "4",
+      "Topic": "UNIT 2 - Community Discussion point Vocabulary preview Reading 1 + Developing critical thinking",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO2",
+      "ITU": "I,T, U",
+      "Student Materials": "Video + Worksheet, Skillful Practice, Additional resources",
+      "S-Download": "",
+      "Student's Tasks": "Class discussion, group work, pair work, games, exercises",
+      "URLs": ""
+    },
+    {
+      "Session": "5",
+      "Topic": "UNIT 2 - Community Reading 2 + Developing critical thinking",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO2",
+      "ITU": "T, U",
+      "Student Materials": "Video + Worksheet, Skillful Practice, Additional resources",
+      "S-Download": "",
+      "Student's Tasks": "Class discussion, group work, pair work, games, exercises",
+      "URLs": ""
+    },
+    {
+      "Session": "6",
+      "Topic": "UNIT 3 - Space Discussion point Vocabulary preview Reading 1 + Developing critical thinking",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO3",
+      "ITU": "I,T, U",
+      "Student Materials": "Video + Worksheet, Skillful Practice, Additional resources",
+      "S-Download": "",
+      "Student's Tasks": "Class discussion, group work, pair work, games, exercises",
+      "URLs": ""
+    },
+    {
+      "Session": "7",
+      "Topic": "UNIT 3 - Space Reading 2 + Developing critical thinking",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO3",
+      "ITU": "T, U",
+      "Student Materials": "Video + Worksheet, Skillful Practice, Additional resources",
+      "S-Download": "",
+      "Student's Tasks": "Class discussion, group work, pair work, games, exercises",
+      "URLs": ""
+    },
+    {
+      "Session": "8",
+      "Topic": "Further Practice",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO1, LO2, LO3",
+      "ITU": "T, U",
+      "Student Materials": "Video + Worksheet, Skillful Practice, Additional resources",
+      "S-Download": "",
+      "Student's Tasks": "Class discussion, group work, pair work, games, exercises",
+      "URLs": ""
+    },
+    {
+      "Session": "9",
+      "Topic": "Further Practice",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO1, LO2, LO3",
+      "ITU": "T, U",
+      "Student Materials": "Video + Worksheet, Skillful Practice, Additional resources",
+      "S-Download": "",
+      "Student's Tasks": "Class discussion, group work, pair work, games, exercises",
+      "URLs": ""
+    },
+    {
+      "Session": "10",
+      "Topic": "UNIT 4 - Scale Discussion point Vocabulary preview Reading 1 + Developing critical thinking",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO4",
+      "ITU": "I,T, U",
+      "Student Materials": "Video + Worksheet, Skillful Practice, Additional resources",
+      "S-Download": "",
+      "Student's Tasks": "Class discussion, group work, pair work, games, exercises",
+      "URLs": ""
+    },
+    {
+      "Session": "11",
+      "Topic": "UNIT 4 - Scale Reading 2 + Developing critical thinking",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO4",
+      "ITU": "",
+      "Student Materials": "Video + Worksheet, Skillful Practice, Additional resources",
+      "S-Download": "",
+      "Student's Tasks": "Class discussion, group work, pair work, games, exercises",
+      "URLs": ""
+    },
+    {
+      "Session": "12",
+      "Topic": "UNIT 5 - Success Discussion point Vocabulary preview More practice on vocabulary and discussing topic.",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO5",
+      "ITU": "I,T, U",
+      "Student Materials": "Video + Worksheet, Skillful Practice, Additional resources",
+      "S-Download": "",
+      "Student's Tasks": "Class discussion, group work, pair work, games, exercises",
+      "URLs": ""
+    },
+    {
+      "Session": "13",
+      "Topic": "UNIT 5 - Success Reading 1 + Developing critical thinking",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO5",
+      "ITU": "T, U",
+      "Student Materials": "Video + Worksheet, Skillful Practice, Additional resources",
+      "S-Download": "",
+      "Student's Tasks": "Class discussion, group work, pair work, games, exercises",
+      "URLs": ""
+    },
+    {
+      "Session": "14",
+      "Topic": "UNIT 5 - Success Reading 2 + Developing critical thinking",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO5",
+      "ITU": "T, U",
+      "Student Materials": "Video + Worksheet, Skillful Practice, Additional resources",
+      "S-Download": "",
+      "Student's Tasks": "Class discussion, group work, pair work, games, exercises",
+      "URLs": ""
+    },
+    {
+      "Session": "15",
+      "Topic": "Review (Units 1-5) Progress Test 1 (Units 1-5)",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO1, LO2, LO3, LO4, LO5",
+      "ITU": "",
+      "Student Materials": "Video + Worksheet, Skillful Practice, Additional resources",
+      "S-Download": "",
+      "Student's Tasks": "Class discussion, group work, pair work, games, exercises",
+      "URLs": ""
+    },
+    {
+      "Session": "16",
+      "Topic": "UNIT 6 - Pressure Discussion point Vocabulary preview More practice on vocabulary and discussing topic.",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO6",
+      "ITU": "I,T, U",
+      "Student Materials": "Video + Worksheet, Skillful Practice, Additional resources",
+      "S-Download": "",
+      "Student's Tasks": "Class discussion, group work, pair work, games, exercises",
+      "URLs": ""
+    },
+    {
+      "Session": "17",
+      "Topic": "UNIT 6 - Pressure Reading 1 + Developing critical thinking",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO6",
+      "ITU": "T, U",
+      "Student Materials": "Video + Worksheet, Skillful Practice, Additional resources",
+      "S-Download": "",
+      "Student's Tasks": "Class discussion, group work, pair work, games, exercises",
+      "URLs": ""
+    },
+    {
+      "Session": "18",
+      "Topic": "UNIT 6 - Pressure Reading 2 + Developing critical thinking",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO6",
+      "ITU": "T, U",
+      "Student Materials": "Video + Worksheet, Skillful Practice, Additional resources",
+      "S-Download": "",
+      "Student's Tasks": "Class discussion, group work, pair work, games, exercises",
+      "URLs": ""
+    },
+    {
+      "Session": "19",
+      "Topic": "Further Practice",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO4, LO5, LO6",
+      "ITU": "T, U",
+      "Student Materials": "Video + Worksheet, Skillful Practice, Additional resources",
+      "S-Download": "",
+      "Student's Tasks": "Class discussion, group work, pair work, games, exercises",
+      "URLs": ""
+    },
+    {
+      "Session": "20",
+      "Topic": "UNIT 7 - Fear Discussion point Vocabulary preview Reading 1 + Developing critical thinking",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO7",
+      "ITU": "I,T, U",
+      "Student Materials": "Video + Worksheet, Skillful Practice, Additional resources",
+      "S-Download": "",
+      "Student's Tasks": "Class discussion, group work, pair work, games, exercises",
+      "URLs": ""
+    },
+    {
+      "Session": "21",
+      "Topic": "UNIT 7 - Fear Reading 2 + Developing critical thinking",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO7",
+      "ITU": "T, U",
+      "Student Materials": "Video + Worksheet, Skillful Practice, Additional resources",
+      "S-Download": "",
+      "Student's Tasks": "Class discussion, group work, pair work, games, exercises",
+      "URLs": ""
+    },
+    {
+      "Session": "22",
+      "Topic": "UNIT 8 - Stories Discussion point Vocabulary preview Reading 1 + Developing critical thinking",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO8",
+      "ITU": "I,T, U",
+      "Student Materials": "Video + Worksheet, Skillful Practice, Additional resources",
+      "S-Download": "",
+      "Student's Tasks": "Class discussion, group work, pair work, games, exercises",
+      "URLs": ""
+    },
+    {
+      "Session": "23",
+      "Topic": "UNIT 8 - Stories Reading 2 + Developing critical thinking",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO8",
+      "ITU": "",
+      "Student Materials": "Video + Worksheet, Skillful Practice, Additional resources",
+      "S-Download": "",
+      "Student's Tasks": "Class discussion, group work, pair work, games, exercises",
+      "URLs": ""
+    },
+    {
+      "Session": "24",
+      "Topic": "UNIT 9 - Water Discussion point Vocabulary preview Reading 1 + Developing critical thinking",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO9",
+      "ITU": "I,T, U",
+      "Student Materials": "Video + Worksheet, Skillful Practice, Additional resources",
+      "S-Download": "",
+      "Student's Tasks": "Class discussion, group work, pair work, games, exercises",
+      "URLs": ""
+    },
+    {
+      "Session": "25",
+      "Topic": "UNIT 9 - Water Reading 2 + Developing critical thinking",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO9",
+      "ITU": "T, U",
+      "Student Materials": "Video + Worksheet, Skillful Practice, Additional resources",
+      "S-Download": "",
+      "Student's Tasks": "Class discussion, group work, pair work, games, exercises",
+      "URLs": ""
+    },
+    {
+      "Session": "26",
+      "Topic": "Further Practice",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO7, LO8, LO9",
+      "ITU": "T, U",
+      "Student Materials": "Video + Worksheet, Skillful Practice, Additional resources",
+      "S-Download": "",
+      "Student's Tasks": "Class discussion, group work, pair work, games, exercises",
+      "URLs": ""
+    },
+    {
+      "Session": "27",
+      "Topic": "UNIT 10 - Persuation Discussion point Vocabulary preview Reading 1 + Developing critical thinking",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO10",
+      "ITU": "I,T, U",
+      "Student Materials": "Video + Worksheet, Skillful Practice, Additional resources",
+      "S-Download": "",
+      "Student's Tasks": "Class discussion, group work, pair work, games, exercises",
+      "URLs": ""
+    },
+    {
+      "Session": "28",
+      "Topic": "UNIT 10 - Persuation Reading 2 + Developing critical thinking",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO10",
+      "ITU": "T, U",
+      "Student Materials": "Video + Worksheet, Skillful Practice, Additional resources",
+      "S-Download": "",
+      "Student's Tasks": "Class discussion, group work, pair work, games, exercises",
+      "URLs": ""
+    },
+    {
+      "Session": "29",
+      "Topic": "Review (Units 6-10) Progress Test 2 (Units 6-10)",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO6, LO7, LO8, LO9, LO10",
+      "ITU": "",
+      "Student Materials": "Video + Worksheet, Skillful Practice, Additional resources",
+      "S-Download": "",
+      "Student's Tasks": "Class discussion, group work, pair work, games, exercises",
+      "URLs": ""
+    },
+    {
+      "Session": "30",
+      "Topic": "Revision Units 1-10",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO1, LO2, LO3, LO4, LO5, LO6, LO7, LO8, LO9, LO10",
+      "ITU": "T, U",
+      "Student Materials": "Video + Worksheet, Skillful Practice, Additional resources",
+      "S-Download": "",
+      "Student's Tasks": "Class discussion, group work, pair work, games, exercises",
+      "URLs": ""
+    }
+  ],
+  "constructive_questions": [],
+  "materials": [
+    {
+      "No.": "1",
+      "Material Description": "Skillful Reading and Writing 2 Student's book",
+      "Author": "",
+      "Publisher": "",
+      "Published Date": "",
+      "Edition": "",
+      "ISBN": "",
+      "Is Main Material": "True",
+      "Is Hard Copy": "True",
+      "Is Online": "False",
+      "Note": ""
+    },
+    {
+      "No.": "2",
+      "Material Description": "Skillful Reading and Writing 2 workbook",
+      "Author": "",
+      "Publisher": "",
+      "Published Date": "",
+      "Edition": "",
+      "ISBN": "",
+      "Is Main Material": "True",
+      "Is Hard Copy": "True",
+      "Is Online": "False",
+      "Note": ""
+    },
+    {
+      "No.": "3",
+      "Material Description": "Successful 10 FCE Practice Tests – GlobalEL",
+      "Author": "",
+      "Publisher": "",
+      "Published Date": "",
+      "Edition": "",
+      "ISBN": "",
+      "Is Main Material": "False",
+      "Is Hard Copy": "False",
+      "Is Online": "False",
+      "Note": ""
+    },
+    {
+      "No.": "4",
+      "Material Description": "Cambridge English First Practice Tests",
+      "Author": "Mark Harrison",
+      "Publisher": "Oxford University Press",
+      "Published Date": "",
+      "Edition": "",
+      "ISBN": "",
+      "Is Main Material": "False",
+      "Is Hard Copy": "False",
+      "Is Online": "False",
+      "Note": ""
+    },
+    {
+      "No.": "5",
+      "Material Description": "Longman iBT TOEFL – CDROM",
+      "Author": "",
+      "Publisher": "Pearson",
+      "Published Date": "",
+      "Edition": "",
+      "ISBN": "",
+      "Is Main Material": "False",
+      "Is Hard Copy": "False",
+      "Is Online": "False",
+      "Note": ""
+    }
+  ],
+  "source_path": "data/raw/syllabi/806.html",
+  "id": "syllabus:806"
+}

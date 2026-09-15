@@ -1,0 +1,473 @@
+{
+  "syllabus_id": 1092,
+  "subject_code": "SWM301b",
+  "subject_name": "Software project management",
+  "syllabus_name": "SOFTWARE PROJECT MANAGEMENT (BLOC)",
+  "credits": 3,
+  "degree_level": "Bachelor",
+  "time_allocation": "45 hours (3 credits): - 29 online sessions (1 session = 90 minutes) - 1 offline session for Course Introduction - 1 final exam includes Theoretical Exam (60 minutes) and Practical Exam (120 minutes)",
+  "prerequisite": "Knowledge of basic professional skills in the field of IT and software Know how to use office computing tools such as Microsoft Word, Excel",
+  "general_information": {
+    "Syllabus ID": "1092",
+    "Syllabus Name": "SOFTWARE PROJECT MANAGEMENT (BLOC)",
+    "Course Name English": "",
+    "Subject Code": "SWM301b",
+    "Learning-Teaching Method": "",
+    "NoCredit": "3",
+    "Degree Level": "Bachelor",
+    "Time Allocation": "45 hours (3 credits): - 29 online sessions (1 session = 90 minutes) - 1 offline session for Course Introduction - 1 final exam includes Theoretical Exam (60 minutes) and Practical Exam (120 minutes)",
+    "Pre-Requisite": "Knowledge of basic professional skills in the field of IT and software Know how to use office computing tools such as Microsoft Word, Excel",
+    "Description": "After studying this subject, you will know the basic concepts in IT project management. The course will lead you step by step to complete an IT project. As a project administrator, you will be instructed to take steps from Project Startup, Planning, Performing monitoring and control and finally Project Completion Management. Students who can finish their studies can: - Understand the concepts of projects, project management - Implement all project stages from beginning to end - Participate in implementation of start-up, planning, implementation, control and completion of projects.",
+    "StudentTasks": "- Students should self-study all lessons on LMS in time - Pass all conditions before taking final exam in campus",
+    "Tools": "",
+    "Scoring Scale": "10",
+    "DecisionNo MM/dd/yyyy": "625/QĐ-ĐHFPT dated 09/05/2019",
+    "IsApproved": "True",
+    "Note": "",
+    "Is Scored": "True",
+    "MinAvgMarkToPass": "5",
+    "IsActive": "True",
+    "ApprovedDate": "9/5/2019"
+  },
+  "active": true,
+  "approved": true,
+  "decision": "625/QĐ-ĐHFPT dated 09/05/2019",
+  "description": "After studying this subject, you will know the basic concepts in IT project management. The course will lead you step by step to complete an IT project. As a project administrator, you will be instructed to take steps from Project Startup, Planning, Performing monitoring and control and finally Project Completion Management. Students who can finish their studies can: - Understand the concepts of projects, project management - Implement all project stages from beginning to end - Participate in implementation of start-up, planning, implementation, control and completion of projects.",
+  "learning_outcomes": [
+    {
+      "No.": "1",
+      "CLO Name": "CLO1",
+      "CLO Details": "Understand the basic concepts of projects and project management"
+    },
+    {
+      "No.": "2",
+      "CLO Name": "CLO2",
+      "CLO Details": "Know how to prepare and create a project"
+    },
+    {
+      "No.": "3",
+      "CLO Name": "CLO3",
+      "CLO Details": "Ability to identify constraints, project scope from which to estimate and schedule work"
+    },
+    {
+      "No.": "4",
+      "CLO Name": "CLO4",
+      "CLO Details": "Understand and determine costs, budget for project implementation"
+    },
+    {
+      "No.": "5",
+      "CLO Name": "CLO5",
+      "CLO Details": "Understand the requirements of resources and project quality"
+    },
+    {
+      "No.": "6",
+      "CLO Name": "CLO6",
+      "CLO Details": "Can identify and control project risks as well as change requirements"
+    },
+    {
+      "No.": "7",
+      "CLO Name": "CLO7",
+      "CLO Details": "It is possible to deploy, monitor, monitor and complete project work according to plan and schedule"
+    },
+    {
+      "No.": "8",
+      "CLO Name": "CLO8",
+      "CLO Details": "Understanding of IT projects, project management cycles and common project implementation approaches (Waterfall, Agile)"
+    }
+  ],
+  "assessments": [
+    {
+      "No.": "1",
+      "Category": "Final Exam: Practical Exam (PE)",
+      "Type": "practical exam",
+      "Part": "1",
+      "Weight": "50.0%",
+      "Completion Criteria": ">0",
+      "Duration": "120'",
+      "CLO": "",
+      "Question Type": "Practical",
+      "No Question": "1-4 assignment",
+      "Knowledge and Skill": "The whole course content",
+      "Grading Guide": "",
+      "Note": "In campus"
+    },
+    {
+      "No.": "2",
+      "Category": "Final Exam: Theoretical Exam (TE)",
+      "Type": "Final exam",
+      "Part": "1",
+      "Weight": "50.0%",
+      "Completion Criteria": ">0",
+      "Duration": "60'",
+      "CLO": "",
+      "Question Type": "Multiple choices",
+      "No Question": "40 questions",
+      "Knowledge and Skill": "The whole course content",
+      "Grading Guide": "",
+      "Note": "In campus"
+    }
+  ],
+  "schedule": [
+    {
+      "Session": "1",
+      "Topic": "Offline session 1: Course Introduction",
+      "Learning-Teaching Type": "Offline",
+      "LO": "",
+      "ITU": "",
+      "Student Materials": "",
+      "S-Download": "",
+      "Student's Tasks": "",
+      "URLs": ""
+    },
+    {
+      "Session": "2",
+      "Topic": "Lesson 1: Exploring Project Management Encoding",
+      "Learning-Teaching Type": "Offline",
+      "LO": "",
+      "ITU": "",
+      "Student Materials": "",
+      "S-Download": "",
+      "Student's Tasks": "",
+      "URLs": ""
+    },
+    {
+      "Session": "3",
+      "Topic": "Lesson 2: IT Project Management",
+      "Learning-Teaching Type": "Offline",
+      "LO": "",
+      "ITU": "",
+      "Student Materials": "",
+      "S-Download": "",
+      "Student's Tasks": "",
+      "URLs": ""
+    },
+    {
+      "Session": "4",
+      "Topic": "Lesson 3: Project Stages & Starting Project",
+      "Learning-Teaching Type": "Offline",
+      "LO": "",
+      "ITU": "",
+      "Student Materials": "",
+      "S-Download": "",
+      "Student's Tasks": "",
+      "URLs": ""
+    },
+    {
+      "Session": "5",
+      "Topic": "Lesson 4: Project Software & Tools",
+      "Learning-Teaching Type": "Offline",
+      "LO": "",
+      "ITU": "",
+      "Student Materials": "",
+      "S-Download": "",
+      "Student's Tasks": "",
+      "URLs": ""
+    },
+    {
+      "Session": "6",
+      "Topic": "Lesson 5: Developing Project Charter",
+      "Learning-Teaching Type": "Offline",
+      "LO": "",
+      "ITU": "",
+      "Student Materials": "",
+      "S-Download": "",
+      "Student's Tasks": "",
+      "URLs": ""
+    },
+    {
+      "Session": "7",
+      "Topic": "Assignment 1",
+      "Learning-Teaching Type": "Offline",
+      "LO": "",
+      "ITU": "",
+      "Student Materials": "",
+      "S-Download": "",
+      "Student's Tasks": "",
+      "URLs": ""
+    },
+    {
+      "Session": "8",
+      "Topic": "Assignment 1",
+      "Learning-Teaching Type": "Offline",
+      "LO": "",
+      "ITU": "",
+      "Student Materials": "",
+      "S-Download": "",
+      "Student's Tasks": "",
+      "URLs": ""
+    },
+    {
+      "Session": "9",
+      "Topic": "Lesson 6: Planning Overview",
+      "Learning-Teaching Type": "Offline",
+      "LO": "",
+      "ITU": "",
+      "Student Materials": "",
+      "S-Download": "",
+      "Student's Tasks": "",
+      "URLs": ""
+    },
+    {
+      "Session": "10",
+      "Topic": "Lesson 7: Scope Planning & Defining",
+      "Learning-Teaching Type": "Offline",
+      "LO": "",
+      "ITU": "",
+      "Student Materials": "",
+      "S-Download": "",
+      "Student's Tasks": "",
+      "URLs": ""
+    },
+    {
+      "Session": "11",
+      "Topic": "Lesson 8: Project Estimating & Costing",
+      "Learning-Teaching Type": "Offline",
+      "LO": "",
+      "ITU": "",
+      "Student Materials": "",
+      "S-Download": "",
+      "Student's Tasks": "",
+      "URLs": ""
+    },
+    {
+      "Session": "12",
+      "Topic": "Lesson 9: Creating Project Schedule",
+      "Learning-Teaching Type": "Offline",
+      "LO": "",
+      "ITU": "",
+      "Student Materials": "",
+      "S-Download": "",
+      "Student's Tasks": "",
+      "URLs": ""
+    },
+    {
+      "Session": "13",
+      "Topic": "Lesson 10: Resource & Quality Planning",
+      "Learning-Teaching Type": "Offline",
+      "LO": "",
+      "ITU": "",
+      "Student Materials": "",
+      "S-Download": "",
+      "Student's Tasks": "",
+      "URLs": ""
+    },
+    {
+      "Session": "14",
+      "Topic": "Lesson 11: Project Schedule with Project Libre",
+      "Learning-Teaching Type": "Offline",
+      "LO": "",
+      "ITU": "",
+      "Student Materials": "",
+      "S-Download": "",
+      "Student's Tasks": "",
+      "URLs": ""
+    },
+    {
+      "Session": "15",
+      "Topic": "Assignment 2",
+      "Learning-Teaching Type": "Offline",
+      "LO": "",
+      "ITU": "",
+      "Student Materials": "",
+      "S-Download": "",
+      "Student's Tasks": "",
+      "URLs": ""
+    },
+    {
+      "Session": "16",
+      "Topic": "Assignment 2",
+      "Learning-Teaching Type": "Offline",
+      "LO": "",
+      "ITU": "",
+      "Student Materials": "",
+      "S-Download": "",
+      "Student's Tasks": "",
+      "URLs": ""
+    },
+    {
+      "Session": "17",
+      "Topic": "Lesson 12: Project Communication",
+      "Learning-Teaching Type": "Offline",
+      "LO": "",
+      "ITU": "",
+      "Student Materials": "",
+      "S-Download": "",
+      "Student's Tasks": "",
+      "URLs": ""
+    },
+    {
+      "Session": "18",
+      "Topic": "Lesson 13: Direct & Manage Project Works",
+      "Learning-Teaching Type": "Offline",
+      "LO": "",
+      "ITU": "",
+      "Student Materials": "",
+      "S-Download": "",
+      "Student's Tasks": "",
+      "URLs": ""
+    },
+    {
+      "Session": "19",
+      "Topic": "Lesson 14: Quality, Risk & Change Management",
+      "Learning-Teaching Type": "Offline",
+      "LO": "",
+      "ITU": "",
+      "Student Materials": "",
+      "S-Download": "",
+      "Student's Tasks": "",
+      "URLs": ""
+    },
+    {
+      "Session": "20",
+      "Topic": "Lesson 15: Project Monitoring & Controlling",
+      "Learning-Teaching Type": "Offline",
+      "LO": "",
+      "ITU": "",
+      "Student Materials": "",
+      "S-Download": "",
+      "Student's Tasks": "",
+      "URLs": ""
+    },
+    {
+      "Session": "21",
+      "Topic": "Lesson 16: Tracking Project Progress with Project Libre",
+      "Learning-Teaching Type": "Offline",
+      "LO": "",
+      "ITU": "",
+      "Student Materials": "",
+      "S-Download": "",
+      "Student's Tasks": "",
+      "URLs": ""
+    },
+    {
+      "Session": "22",
+      "Topic": "Assignment 3",
+      "Learning-Teaching Type": "Offline",
+      "LO": "",
+      "ITU": "",
+      "Student Materials": "",
+      "S-Download": "",
+      "Student's Tasks": "",
+      "URLs": ""
+    },
+    {
+      "Session": "23",
+      "Topic": "Assignment 3",
+      "Learning-Teaching Type": "Offline",
+      "LO": "",
+      "ITU": "",
+      "Student Materials": "",
+      "S-Download": "",
+      "Student's Tasks": "",
+      "URLs": ""
+    },
+    {
+      "Session": "24",
+      "Topic": "Lesson 17: Agile Project Management",
+      "Learning-Teaching Type": "Offline",
+      "LO": "",
+      "ITU": "",
+      "Student Materials": "",
+      "S-Download": "",
+      "Student's Tasks": "",
+      "URLs": ""
+    },
+    {
+      "Session": "25",
+      "Topic": "Lesson 18: The Agile Scrum Methodology",
+      "Learning-Teaching Type": "Offline",
+      "LO": "",
+      "ITU": "",
+      "Student Materials": "",
+      "S-Download": "",
+      "Student's Tasks": "",
+      "URLs": ""
+    },
+    {
+      "Session": "26",
+      "Topic": "Lesson 19: Closing the Project",
+      "Learning-Teaching Type": "Offline",
+      "LO": "",
+      "ITU": "",
+      "Student Materials": "",
+      "S-Download": "",
+      "Student's Tasks": "",
+      "URLs": ""
+    },
+    {
+      "Session": "27",
+      "Topic": "Assignment 4",
+      "Learning-Teaching Type": "Offline",
+      "LO": "",
+      "ITU": "",
+      "Student Materials": "",
+      "S-Download": "",
+      "Student's Tasks": "",
+      "URLs": ""
+    },
+    {
+      "Session": "28",
+      "Topic": "Assignment 4",
+      "Learning-Teaching Type": "Offline",
+      "LO": "",
+      "ITU": "",
+      "Student Materials": "",
+      "S-Download": "",
+      "Student's Tasks": "",
+      "URLs": ""
+    },
+    {
+      "Session": "29",
+      "Topic": "Course review",
+      "Learning-Teaching Type": "Offline",
+      "LO": "",
+      "ITU": "",
+      "Student Materials": "",
+      "S-Download": "",
+      "Student's Tasks": "",
+      "URLs": ""
+    },
+    {
+      "Session": "30",
+      "Topic": "Course review",
+      "Learning-Teaching Type": "Offline",
+      "LO": "",
+      "ITU": "",
+      "Student Materials": "",
+      "S-Download": "",
+      "Student's Tasks": "",
+      "URLs": ""
+    }
+  ],
+  "constructive_questions": [],
+  "materials": [
+    {
+      "No.": "1",
+      "Material Description": "https://www.udemy.com/the-project-management-course-beginner-to-project-manager/learn/v4/content",
+      "Author": "",
+      "Publisher": "",
+      "Published Date": "",
+      "Edition": "",
+      "ISBN": "",
+      "Is Main Material": "True",
+      "Is Hard Copy": "False",
+      "Is Online": "True",
+      "Note": "The Project Management Course: Beginner to PROject Manager. The curriculum of this course is developed based on this lecture series"
+    },
+    {
+      "No.": "2",
+      "Material Description": "A Guide to the SCRUM BODY OF KNOWLEDGE (SBOK™ Guide)",
+      "Author": "",
+      "Publisher": "",
+      "Published Date": "",
+      "Edition": "",
+      "ISBN": "",
+      "Is Main Material": "True",
+      "Is Hard Copy": "False",
+      "Is Online": "False",
+      "Note": ""
+    }
+  ],
+  "source_path": "data/raw/syllabi/1092.html",
+  "id": "syllabus:1092"
+}

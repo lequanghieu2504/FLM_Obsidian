@@ -1,0 +1,299 @@
+{
+  "syllabus_id": 14330,
+  "subject_code": "IMO301c",
+  "subject_name": "IT Service Management and Operations_Quản lý và Vận hành Dịch vụ Công nghệ Thông tin",
+  "syllabus_name": "IT Service Management and System Operations_Quản lý Dịch vụ IT và Vận hành Hệ thống",
+  "credits": 3,
+  "degree_level": "Bachelor",
+  "time_allocation": "Study hour (150h) = 54h online + 3h offline + 1h TE + 2h PE + 90h self-study",
+  "prerequisite": "NWC204 , SWE201c",
+  "general_information": {
+    "Syllabus ID": "14330",
+    "Syllabus Name": "IT Service Management and System Operations_Quản lý Dịch vụ IT và Vận hành Hệ thống",
+    "Course Name English": "IT Service Management and System Operations",
+    "Subject Code": "IMO301c",
+    "Learning-Teaching Method": "Online",
+    "NoCredit": "3",
+    "Degree Level": "Bachelor",
+    "Time Allocation": "Study hour (150h) = 54h online + 3h offline + 1h TE + 2h PE + 90h self-study",
+    "Pre-Requisite": "NWC204 , SWE201c",
+    "Description": "This course introduces fundamental concepts of IT service management and system operations, preparing students for professional practice and industrial internships. Students learn service-oriented thinking, basic operational processes, and the roles of IT services in organizational contexts. Core principles from ITIL, Agile, and DevOps are introduced as conceptual frameworks to help students understand incident handling, change management, service delivery, and operational collaboration. The course emphasizes practical awareness, communication, and operational readiness rather than advanced management or certification-oriented training.",
+    "StudentTasks": "Student must get the certifications of all 5 Coursera courses (as listed in the Materials section to be accepted to the final examination",
+    "Tools": "",
+    "Scoring Scale": "10",
+    "DecisionNo MM/dd/yyyy": "377/QĐ-ĐHFPT dated 04/09/2026",
+    "IsApproved": "True",
+    "Note": "1. Complete the online course to be allowed to take Final Exam 2. Final Exam is included of Final Theory Exam (TE) & Final Practical Exam (PE): 100% 3. Students who complete all MOOCs before the course deadline will receive 1 bonus point; otherwise, no bonus point will be awarded.",
+    "Is Scored": "True",
+    "MinAvgMarkToPass": "5",
+    "IsActive": "True",
+    "ApprovedDate": "4/9/2026"
+  },
+  "active": true,
+  "approved": true,
+  "decision": "377/QĐ-ĐHFPT dated 04/09/2026",
+  "description": "This course introduces fundamental concepts of IT service management and system operations, preparing students for professional practice and industrial internships. Students learn service-oriented thinking, basic operational processes, and the roles of IT services in organizational contexts. Core principles from ITIL, Agile, and DevOps are introduced as conceptual frameworks to help students understand incident handling, change management, service delivery, and operational collaboration. The course emphasizes practical awareness, communication, and operational readiness rather than advanced management or certification-oriented training.",
+  "learning_outcomes": [
+    {
+      "No.": "1",
+      "CLO Name": "CLO1",
+      "CLO Details": "Explain core IT service management principles (ITIL framework, service lifecycle, incident/problem/change management) and describe how IT services support organisational goals."
+    },
+    {
+      "No.": "2",
+      "CLO Name": "CLO2",
+      "CLO Details": "Apply basic system administration and IT infrastructure operations — including user management, network services, backup strategies, and cloud infrastructure — to support a functional IT environment."
+    },
+    {
+      "No.": "3",
+      "CLO Name": "CLO3",
+      "CLO Details": "Use Agile/Scrum practices — including user stories, sprint planning, backlog management, and collaborative ceremonies — to plan and track iterative work in a team setting."
+    },
+    {
+      "No.": "4",
+      "CLO Name": "CLO4",
+      "CLO Details": "Describe DevOps cultural principles and practices (CI/CD, Infrastructure as Code, cross-functional collaboration, actionable metrics) and explain how they improve service delivery and operational reliability."
+    },
+    {
+      "No.": "5",
+      "CLO Name": "CLO5",
+      "CLO Details": "Use a modern ITSM platform (ServiceNow) to automate service workflows — including incident logging, change management, and AI-assisted operations — demonstrating readiness for entry-level IT service roles."
+    }
+  ],
+  "assessments": [
+    {
+      "No.": "1",
+      "Category": "PE",
+      "Type": "Final exam",
+      "Part": "1",
+      "Weight": "50.0%",
+      "Completion Criteria": "4",
+      "Duration": "120'",
+      "CLO": "ALL CLOs",
+      "Question Type": "Essay questions",
+      "No Question": "3-4 questions",
+      "Knowledge and Skill": "All studied courses.",
+      "Grading Guide": "by exam board, using computer",
+      "Note": "Customized from the Assignment & Project Capstone in the courses"
+    },
+    {
+      "No.": "2",
+      "Category": "TE",
+      "Type": "Final exam",
+      "Part": "1",
+      "Weight": "50.0%",
+      "Completion Criteria": "4",
+      "Duration": "60'",
+      "CLO": "ALL CLOs",
+      "Question Type": "Multiple choices. Marked by Computer or a suitable format",
+      "No Question": "50",
+      "Knowledge and Skill": "All studied courses. Each module of course contributes 2-3 questions.",
+      "Grading Guide": "by exam board, using computer",
+      "Note": "Customized from the quizzes of this specialization"
+    }
+  ],
+  "schedule": [
+    {
+      "Session": "1",
+      "Topic": "[MOOC 01 — ITSM Foundations] ITSM, ITIL & Core Service Operations • ITSM concepts & ITIL framework • ServiceNow PDI setup • Incident, Problem, Service Request lifecycle • Major Incident handling Offline 1: Introduction to the course IMO301c",
+      "Learning-Teaching Type": "Online/Offline",
+      "LO": "CLO1",
+      "ITU": "ITU",
+      "Student Materials": "M1 – ITSM Foundations M2 – Core Service Operations",
+      "S-Download": "",
+      "Student's Tasks": "- Watch M1 & M2 lectures - Set up ServiceNow PDI; log and resolve a sample Incident ticket - Note differences: Incident vs Problem vs Service Request in your own words",
+      "URLs": ""
+    },
+    {
+      "Session": "2",
+      "Topic": "[MOOC 01 — ITSM Foundations] Change & Release Management • Standard / Normal / Emergency Change • CAB process & approval workflow • Release Management basics • End-to-end ITSM review",
+      "Learning-Teaching Type": "Online",
+      "LO": "CLO1, CLO5",
+      "ITU": "U",
+      "Student Materials": "M3 – Service Transitions",
+      "S-Download": "",
+      "Student's Tasks": "- Watch M3 lectures - Log a Normal Change request in PDI; simulate CAB approval - Write a 1-page summary: how Incident → Problem → Change connects - Complete all MOOC 01 graded quizzes",
+      "URLs": ""
+    },
+    {
+      "Session": "3",
+      "Topic": "[MOOC 02 — System Administration] Network Services, Cloud & Platform Services • SysAdmin responsibilities (skim — prior knowledge) • DNS, DHCP, NTP, FTP/SFTP on Linux/Windows • IaaS / PaaS / SaaS cloud models • Email, web server, database services • Load balancers overview",
+      "Learning-Teaching Type": "Online",
+      "LO": "CLO2, CLO1",
+      "ITU": "U",
+      "Student Materials": "M1 – SysAdmin Role (fast skim) M2 – Network & Infra M3 – Platform Services",
+      "S-Download": "",
+      "Student's Tasks": "- Skim M1 quickly; focus time on M2 & M3 - Practice: configure DNS & DHCP in your existing Linux/Windows environment - Map IaaS/PaaS/SaaS examples to ITIL service categories from Week 1",
+      "URLs": ""
+    },
+    {
+      "Session": "4",
+      "Topic": "[MOOC 02 — System Administration] Directory Services, Backup & Disaster Recovery • Active Directory, OpenLDAP, GPO • Centralized user/password management • Backup strategies: on-site vs off-site • RAID levels & disaster recovery plan • Post-mortem documentation • Final Project (all 3 company scenarios)",
+      "Learning-Teaching Type": "Online",
+      "LO": "CLO2",
+      "ITU": "U",
+      "Student Materials": "M4 – Directory Services M5 – Backup & Recovery M6 – Final Project",
+      "S-Download": "",
+      "Student's Tasks": "- Watch M4 & M5 lectures - Set up a basic Active Directory OU structure (lab/VM) - Write a short Disaster Recovery Plan for one fictional company - Complete MOOC 02 Final Project (3 company consulting scenarios)",
+      "URLs": ""
+    },
+    {
+      "Session": "5",
+      "Topic": "[MOOC 03 — Agile & Scrum] Agile Philosophy & Scrum Framework • Agile Manifesto & 12 principles • Agile vs Waterfall vs Kanban vs XP • Scrum roles, artifacts & events • Common Agile anti-patterns",
+      "Learning-Teaching Type": "Online",
+      "LO": "CLO3",
+      "ITU": "U",
+      "Student Materials": "M1 – Intro to Agile & Scrum",
+      "S-Download": "",
+      "Student's Tasks": "- Watch all M1 lectures - Read the Agile Manifesto (agilemanifesto.org) - Write a comparison: Waterfall vs Agile for an IT service delivery scenario - Identify 2–3 anti-patterns in a fictional team case (e.g. 'ScrumBut')",
+      "URLs": ""
+    },
+    {
+      "Session": "6",
+      "Topic": "[MOOC 03 — Agile & Scrum] Agile Planning & Backlog Management • Writing User Stories (INVEST criteria) • Story Points & estimation • Product Backlog creation & refinement • Sprint Planning • Kanban board setup on GitHub Projects / ZenHub",
+      "Learning-Teaching Type": "Online",
+      "LO": "CLO3, CLO5",
+      "ITU": "U",
+      "Student Materials": "M2 – Agile Planning",
+      "S-Download": "",
+      "Student's Tasks": "- Watch all M2 lectures - Create a GitHub Projects board for a sample IT support project - Write 5 User Stories with acceptance criteria for an internship-realistic scenario - Mock Sprint Planning: select stories from backlog, assign story points",
+      "URLs": ""
+    },
+    {
+      "Session": "7",
+      "Topic": "[MOOC 03 — Agile & Scrum] Sprint Execution, Metrics, Final Project + Integration Exercise • Daily Stand-up, Burndown charts • Sprint Review & Retrospective • Final Project: full Agile plan in ZenHub • Integration: map Agile sprint to ITSM Change workflow (MOOC 01 + MOOC 03)",
+      "Learning-Teaching Type": "Online",
+      "LO": "CLO3, CLO1",
+      "ITU": "U",
+      "Student Materials": "M3 – Daily Execution M4 – Final Project",
+      "S-Download": "",
+      "Student's Tasks": "- Watch M3 lectures on ceremonies & metrics - Submit MOOC 03 Final Project: full Agile plan using ZenHub or GitHub Projects - Integration task: describe how a Sprint Release would be submitted as a Change Request in ServiceNow",
+      "URLs": ""
+    },
+    {
+      "Session": "8",
+      "Topic": "[MOOC 04 — Introduction to DevOps] DevOps Culture & Mindset • Business case for DevOps • DevOps origins: XP & Agile lineage • Social coding, small batches, MVP mindset • TDD & BDD (conceptual) • Cloud-native microservices; design for failure",
+      "Learning-Teaching Type": "Online",
+      "LO": "CLO4, CLO3",
+      "ITU": "U",
+      "Student Materials": "M1 – Overview of DevOps M2 – Thinking DevOps",
+      "S-Download": "",
+      "Student's Tasks": "- Watch M1 & M2 lectures - Compare Agile (MOOC 03) vs DevOps: where they overlap and diverge - Read DORA 'Accelerate' key findings (free summary online) - Find one real company and map their DevOps practices to M2 concepts",
+      "URLs": ""
+    },
+    {
+      "Session": "9",
+      "Topic": "[MOOC 04 — Introduction to DevOps] Working DevOps: CI/CD & IaC • Avoiding silos; shared ownership • Infrastructure as Code (IaC) concepts • CI pipeline & CD pipeline • DevOps team structure",
+      "Learning-Teaching Type": "Online",
+      "LO": "CLO4, CLO2",
+      "ITU": "U",
+      "Student Materials": "M3 – Working DevOps M4 – Organizing for DevOps",
+      "S-Download": "",
+      "Student's Tasks": "- Watch M3 & M4 lectures - Sketch a CI/CD pipeline diagram for a simple web service (draw.io or paper) - Review a simple Ansible or Terraform snippet to understand IaC concept (no need to run) - Describe how CI/CD pipeline connects to Change Management from MOOC 01",
+      "URLs": ""
+    },
+    {
+      "Session": "10",
+      "Topic": "[MOOC 04 — Introduction to DevOps] Measuring DevOps, SRE & Integration Review • Vanity vs actionable metrics • DORA 4 key metrics • DevOps vs SRE • Case studies & final exam • Integration review: connect ITSM + Agile + DevOps into one workflow picture",
+      "Learning-Teaching Type": "Online",
+      "LO": "CLO4, CLO1, CLO3",
+      "ITU": "U",
+      "Student Materials": "M5 – Measuring DevOps M6 – Case Studies & Exam",
+      "S-Download": "",
+      "Student's Tasks": "- Watch M5 & M6; study case studies carefully - Analyse one case study: identify DevOps practices used and outcomes - Complete MOOC 04 Final Exam - Draw a 1-page diagram: ITSM (C1) → Agile Sprint (C3) → CI/CD pipeline (C4) — use as interview prep material",
+      "URLs": ""
+    },
+    {
+      "Session": "11",
+      "Topic": "[MOOC 05 — ServiceNow & AI Workflows] ServiceNow Automation & AI Features • ServiceNow platform recap • Automating Incident, Request & Change workflows • Predictive Intelligence & Virtual Agent • AIOps & Performance Analytics",
+      "Learning-Teaching Type": "Online",
+      "LO": "CLO5, CLO1",
+      "ITU": "U",
+      "Student Materials": "M1 – Full module (videos 1–8)",
+      "S-Download": "",
+      "Student's Tasks": "- Watch first 8 videos of MOOC 05 - Re-open PDI from MOOC 01; explore Predictive Intelligence and Virtual Agent features - Compare AI-assisted ITSM (MOOC 05) with manual ITSM workflows (MOOC 01)",
+      "URLs": ""
+    },
+    {
+      "Session": "12",
+      "Topic": "[MOOC 05 — ServiceNow & AI Workflows] Capstone: AI-Powered ITSM Workflow + Full MOOC 0Reflection • Best practices for scalable ServiceNow deployment • Real-world implementations & case studies • Peer Review: AI-Enhanced Change Management workflow • Capstone project submission • Self-assessment across all 5 CLOs Offline 2: Courses Revision & FE Preparation",
+      "Learning-Teaching Type": "Online/Offline",
+      "LO": "CLO1, CLO4, CLO5",
+      "ITU": "TU",
+      "Student Materials": "M1 – Videos 9–12 Peer Review Projects",
+      "S-Download": "",
+      "Student's Tasks": "- Watch remaining videos (9–12) and all case studies - Build: Incident workflow + Virtual Agent use case in PDI - Submit Capstone: AI-Powered ITSM Workflow design document (peer review) - Write self-assessment: one concrete example per CLO — use as internship CV talking points -Deadline of Coursera completion: End of Friday of the week. - All students should participate in offline slot (if any question)",
+      "URLs": ""
+    }
+  ],
+  "constructive_questions": [],
+  "materials": [
+    {
+      "No.": "1",
+      "Material Description": "MOOC 01: ITSM Foundations: Optimizing IT Service Management",
+      "Author": "Ali Saghaeian",
+      "Publisher": "Coursera",
+      "Published Date": "",
+      "Edition": "",
+      "ISBN": "",
+      "Is Main Material": "True",
+      "Is Hard Copy": "False",
+      "Is Online": "True",
+      "Note": "https://www.coursera.org/learn/itsm-foundations-optimizing-it-service-management"
+    },
+    {
+      "No.": "2",
+      "Material Description": "MOOC 02: System Administration and IT Infrastructure Services",
+      "Author": "Google Career Certificates",
+      "Publisher": "Coursera",
+      "Published Date": "",
+      "Edition": "",
+      "ISBN": "",
+      "Is Main Material": "True",
+      "Is Hard Copy": "False",
+      "Is Online": "True",
+      "Note": "https://www.coursera.org/learn/system-administration-it-infrastructure-services"
+    },
+    {
+      "No.": "3",
+      "Material Description": "MOOC 03: Introduction to Agile Development and Scrum",
+      "Author": "John Rofrano",
+      "Publisher": "Coursera",
+      "Published Date": "",
+      "Edition": "",
+      "ISBN": "",
+      "Is Main Material": "True",
+      "Is Hard Copy": "False",
+      "Is Online": "True",
+      "Note": "https://www.coursera.org/learn/agile-development-and-scrum"
+    },
+    {
+      "No.": "4",
+      "Material Description": "MOOC 04: Introduction to DevOps",
+      "Author": "John Rofrano",
+      "Publisher": "Coursera",
+      "Published Date": "",
+      "Edition": "",
+      "ISBN": "",
+      "Is Main Material": "True",
+      "Is Hard Copy": "False",
+      "Is Online": "True",
+      "Note": "https://www.coursera.org/learn/intro-to-devops"
+    },
+    {
+      "No.": "5",
+      "Material Description": "MOOC 05: ServiceNow Basics",
+      "Author": "Luca Berton",
+      "Publisher": "Coursera",
+      "Published Date": "",
+      "Edition": "",
+      "ISBN": "",
+      "Is Main Material": "True",
+      "Is Hard Copy": "False",
+      "Is Online": "True",
+      "Note": "https://www.coursera.org/learn/servicenow-basics-it-automation--ai-powered-workflows"
+    }
+  ],
+  "source_path": "data/raw/syllabi/14330.html",
+  "id": "syllabus:14330"
+}

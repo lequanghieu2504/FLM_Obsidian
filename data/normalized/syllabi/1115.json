@@ -1,0 +1,453 @@
+{
+  "syllabus_id": 1115,
+  "subject_code": "EIT491",
+  "subject_name": "ENGLISH FOR STANDARDIZED TESTS",
+  "syllabus_name": "ENGLISH FOR STANDARDIZED TESTS",
+  "credits": 3,
+  "degree_level": "Bachelor",
+  "time_allocation": "Hours per course: 30 sessions (including 6 self practical monitored sessions) 1 session = 90 minutes",
+  "prerequisite": "ENS411, ENS421, ENR401, ENW401, ENG301, ENP101",
+  "general_information": {
+    "Syllabus ID": "1115",
+    "Syllabus Name": "ENGLISH FOR STANDARDIZED TESTS",
+    "Course Name English": "",
+    "Subject Code": "EIT491",
+    "Learning-Teaching Method": "",
+    "NoCredit": "3",
+    "Degree Level": "Bachelor",
+    "Time Allocation": "Hours per course: 30 sessions (including 6 self practical monitored sessions) 1 session = 90 minutes",
+    "Pre-Requisite": "ENS411, ENS421, ENR401, ENW401, ENG301, ENP101",
+    "Description": "This course of study is for students of advanced level learners who need to be able to understand and use the English in the academic context. The units are organized thematically linked sections and cover a wide range of subjects while introducing various testaking skills.",
+    "StudentTasks": "Regularly attend class-meeting hours and complete assignments and homeworks For BBA students: must attend at least 80% of the total course time in order to be admitted to the final exam - Actively participate in class activities - Fulfill tasks given by instructor after class - Use their own laptop in class only for learning purpose - Read the textbook in advance - Access the course website (www.fap.fpt.edu.vn) for up-to-date information and material of the course, for online supports from teachers and other students and for practicing and assessment. - Computer with Autodesk Maya 2018 software and Video editing software (Adobe Premiere, Adobe AfterEffects, ...) - Complete course's Portfolio with full contents of exercises and submit to the teacher 1 day after the course.",
+    "Tools": "",
+    "Scoring Scale": "10",
+    "DecisionNo MM/dd/yyyy": "1049/QĐ-ĐHFPT dated 08/12/2019",
+    "IsApproved": "True",
+    "Note": "",
+    "Is Scored": "True",
+    "MinAvgMarkToPass": "5",
+    "IsActive": "True",
+    "ApprovedDate": "8/12/2019"
+  },
+  "active": true,
+  "approved": true,
+  "decision": "1049/QĐ-ĐHFPT dated 08/12/2019",
+  "description": "This course of study is for students of advanced level learners who need to be able to understand and use the English in the academic context. The units are organized thematically linked sections and cover a wide range of subjects while introducing various testaking skills.",
+  "learning_outcomes": [
+    {
+      "No.": "1",
+      "CLO Name": "CLO1",
+      "CLO Details": "Get familiar with IELTS test format."
+    },
+    {
+      "No.": "2",
+      "CLO Name": "CLO2",
+      "CLO Details": "Be ready to achieve their top score on the IELTS."
+    },
+    {
+      "No.": "3",
+      "CLO Name": "CLO3",
+      "CLO Details": "Use the language knowledge and skills they have learned for effective study in an English-speaking environment."
+    },
+    {
+      "No.": "4",
+      "CLO Name": "CLO4",
+      "CLO Details": "Apply integrated learning skills acquired from the process of language learning in their further study."
+    }
+  ],
+  "assessments": [
+    {
+      "No.": "1",
+      "Category": "Practice Tests",
+      "Type": "on-going",
+      "Part": "3",
+      "Weight": "30.0%",
+      "Completion Criteria": ">0",
+      "Duration": "90'/time",
+      "CLO": "",
+      "Question Type": "Various questions in IELTS format",
+      "No Question": "varies",
+      "Knowledge and Skill": "Students answer various skill questions of progress test papers covering respective units.",
+      "Grading Guide": "In classroom, supervised by class instructor/s",
+      "Note": ""
+    },
+    {
+      "No.": "2",
+      "Category": "Final exam",
+      "Type": "Final exam",
+      "Part": "4",
+      "Weight": "70.0%",
+      "Completion Criteria": "6",
+      "Duration": "",
+      "CLO": "",
+      "Question Type": "IELTS format",
+      "No Question": "IELTS format",
+      "Knowledge and Skill": "IELTS standard test",
+      "Grading Guide": "by university",
+      "Note": "Do not allow to use any document/information in any form in exam room"
+    }
+  ],
+  "schedule": [
+    {
+      "Session": "1",
+      "Topic": "Introduction to the course Unit 1: Learn to succeed Reading Skills",
+      "Learning-Teaching Type": "Offline",
+      "LO": "",
+      "ITU": "",
+      "Student Materials": "",
+      "S-Download": "",
+      "Student's Tasks": "Student's book and CD, Online resource",
+      "URLs": ""
+    },
+    {
+      "Session": "2",
+      "Topic": "Unit 1: Learn to succeed Writing Skills Speaking Skills",
+      "Learning-Teaching Type": "Offline",
+      "LO": "",
+      "ITU": "",
+      "Student Materials": "",
+      "S-Download": "",
+      "Student's Tasks": "Student's book and CD, Online resource",
+      "URLs": ""
+    },
+    {
+      "Session": "3",
+      "Topic": "Unit 1: Learn to succeed Listening Skills + Language Focus & Vocabulary Study Skills",
+      "Learning-Teaching Type": "Offline",
+      "LO": "",
+      "ITU": "",
+      "Student Materials": "",
+      "S-Download": "",
+      "Student's Tasks": "Student's book and CD, Online resource",
+      "URLs": ""
+    },
+    {
+      "Session": "4",
+      "Topic": "Unit 2: Living together Reading Skills",
+      "Learning-Teaching Type": "Offline",
+      "LO": "",
+      "ITU": "",
+      "Student Materials": "",
+      "S-Download": "",
+      "Student's Tasks": "Student's book and CD, Online resource",
+      "URLs": ""
+    },
+    {
+      "Session": "5",
+      "Topic": "Unit 2: Living together Writing Skills & Speaking Skills",
+      "Learning-Teaching Type": "Offline",
+      "LO": "",
+      "ITU": "",
+      "Student Materials": "",
+      "S-Download": "",
+      "Student's Tasks": "Student's book and CD, Online resource",
+      "URLs": ""
+    },
+    {
+      "Session": "6",
+      "Topic": "Unit 2: Living together Listening Skill Study Skills",
+      "Learning-Teaching Type": "Offline",
+      "LO": "",
+      "ITU": "",
+      "Student Materials": "",
+      "S-Download": "",
+      "Student's Tasks": "Student's book and CD, Online resource",
+      "URLs": ""
+    },
+    {
+      "Session": "7",
+      "Topic": "Unit 2: Living together Language Focus & Vocabulary",
+      "Learning-Teaching Type": "Offline",
+      "LO": "",
+      "ITU": "",
+      "Student Materials": "",
+      "S-Download": "",
+      "Student's Tasks": "Student's book and CD, Online resource",
+      "URLs": ""
+    },
+    {
+      "Session": "8",
+      "Topic": "Unit 3: Costing the earth Reading Skills",
+      "Learning-Teaching Type": "Offline",
+      "LO": "",
+      "ITU": "",
+      "Student Materials": "",
+      "S-Download": "",
+      "Student's Tasks": "Student's book and CD, Online resource",
+      "URLs": ""
+    },
+    {
+      "Session": "9",
+      "Topic": "Unit 3: Costing the earth Writing",
+      "Learning-Teaching Type": "Offline",
+      "LO": "",
+      "ITU": "",
+      "Student Materials": "",
+      "S-Download": "",
+      "Student's Tasks": "Student's book and CD, Online resource",
+      "URLs": ""
+    },
+    {
+      "Session": "10",
+      "Topic": "Unit 4: Healthy body, healthy mind Reading Skills & Speaking Skills",
+      "Learning-Teaching Type": "Offline",
+      "LO": "",
+      "ITU": "",
+      "Student Materials": "",
+      "S-Download": "",
+      "Student's Tasks": "Student's book and CD, Online resource",
+      "URLs": ""
+    },
+    {
+      "Session": "11",
+      "Topic": "Unit 4: Healthy body, healthy mind Writing Skills",
+      "Learning-Teaching Type": "Offline",
+      "LO": "",
+      "ITU": "",
+      "Student Materials": "",
+      "S-Download": "",
+      "Student's Tasks": "Student's book and CD, Online resource",
+      "URLs": ""
+    },
+    {
+      "Session": "12",
+      "Topic": "Practice Test 1 IELTS Test Format",
+      "Learning-Teaching Type": "Offline",
+      "LO": "",
+      "ITU": "",
+      "Student Materials": "",
+      "S-Download": "",
+      "Student's Tasks": "Self-reflection on testing points and test taking experience",
+      "URLs": ""
+    },
+    {
+      "Session": "13",
+      "Topic": "Unit 5: The world we live in Reading Skills",
+      "Learning-Teaching Type": "Offline",
+      "LO": "",
+      "ITU": "",
+      "Student Materials": "",
+      "S-Download": "",
+      "Student's Tasks": "Student's book and CD, Online resource",
+      "URLs": ""
+    },
+    {
+      "Session": "14",
+      "Topic": "Unit 5: The world we live in Listening & Speaking Skills",
+      "Learning-Teaching Type": "Offline",
+      "LO": "",
+      "ITU": "",
+      "Student Materials": "",
+      "S-Download": "",
+      "Student's Tasks": "Student's book and CD, Online resource",
+      "URLs": ""
+    },
+    {
+      "Session": "15",
+      "Topic": "Unit 6: Going places Reading Skills",
+      "Learning-Teaching Type": "Offline",
+      "LO": "",
+      "ITU": "",
+      "Student Materials": "",
+      "S-Download": "",
+      "Student's Tasks": "Student's book and CD, Online resource",
+      "URLs": ""
+    },
+    {
+      "Session": "16",
+      "Topic": "Unit 6: Going places Listening Skills",
+      "Learning-Teaching Type": "Offline",
+      "LO": "",
+      "ITU": "",
+      "Student Materials": "",
+      "S-Download": "",
+      "Student's Tasks": "Student's book and CD, Online resource",
+      "URLs": ""
+    },
+    {
+      "Session": "17",
+      "Topic": "Unit 6: Going places Writing Skills",
+      "Learning-Teaching Type": "Offline",
+      "LO": "",
+      "ITU": "",
+      "Student Materials": "",
+      "S-Download": "",
+      "Student's Tasks": "Student's book and CD, Online resource",
+      "URLs": ""
+    },
+    {
+      "Session": "18",
+      "Topic": "Unit 7: The world of work Listening & Speaking Skills",
+      "Learning-Teaching Type": "Offline",
+      "LO": "",
+      "ITU": "",
+      "Student Materials": "",
+      "S-Download": "",
+      "Student's Tasks": "Student's book and CD, Online resource",
+      "URLs": ""
+    },
+    {
+      "Session": "19",
+      "Topic": "Unit 7: The world of work Writing Skills & Language Focus & Vocabulary",
+      "Learning-Teaching Type": "Offline",
+      "LO": "",
+      "ITU": "",
+      "Student Materials": "",
+      "S-Download": "",
+      "Student's Tasks": "Student's book and CD, Online resource",
+      "URLs": ""
+    },
+    {
+      "Session": "20",
+      "Topic": "Practice Test 2 IELTS Test Format",
+      "Learning-Teaching Type": "Offline",
+      "LO": "",
+      "ITU": "",
+      "Student Materials": "",
+      "S-Download": "",
+      "Student's Tasks": "Self-reflection on testing points and test taking experience",
+      "URLs": ""
+    },
+    {
+      "Session": "21",
+      "Topic": "Unit 8: Art and the city Reading & Listening Skills",
+      "Learning-Teaching Type": "Offline",
+      "LO": "",
+      "ITU": "",
+      "Student Materials": "",
+      "S-Download": "",
+      "Student's Tasks": "Student's book and CD, Online resource",
+      "URLs": ""
+    },
+    {
+      "Session": "22",
+      "Topic": "Unit 8: Art and the city Writing Skills",
+      "Learning-Teaching Type": "Offline",
+      "LO": "",
+      "ITU": "",
+      "Student Materials": "",
+      "S-Download": "",
+      "Student's Tasks": "Student's book and CD, Online resource",
+      "URLs": ""
+    },
+    {
+      "Session": "23",
+      "Topic": "Unit 9: Tomorrow's world Reading & Listening Skills",
+      "Learning-Teaching Type": "Offline",
+      "LO": "",
+      "ITU": "",
+      "Student Materials": "",
+      "S-Download": "",
+      "Student's Tasks": "Student's book and CD, Online resource",
+      "URLs": ""
+    },
+    {
+      "Session": "24",
+      "Topic": "Unit 9: Tomorrow's world Speaking Skills & Language Focus & Vocabulary",
+      "Learning-Teaching Type": "Offline",
+      "LO": "",
+      "ITU": "",
+      "Student Materials": "",
+      "S-Download": "",
+      "Student's Tasks": "Student's book and CD, Online resource",
+      "URLs": ""
+    },
+    {
+      "Session": "25",
+      "Topic": "Unit 9: Tomorrow's world Writing Skills",
+      "Learning-Teaching Type": "Offline",
+      "LO": "",
+      "ITU": "",
+      "Student Materials": "",
+      "S-Download": "",
+      "Student's Tasks": "Student's book and CD, Online resource",
+      "URLs": ""
+    },
+    {
+      "Session": "26",
+      "Topic": "Unit 10: From me to you Reading & Listening Skills",
+      "Learning-Teaching Type": "Offline",
+      "LO": "",
+      "ITU": "",
+      "Student Materials": "",
+      "S-Download": "",
+      "Student's Tasks": "Student's book and CD, Online resource",
+      "URLs": ""
+    },
+    {
+      "Session": "27",
+      "Topic": "Unit 10: From me to you Speaking Skills & Language Focus & Vocabulary",
+      "Learning-Teaching Type": "Offline",
+      "LO": "",
+      "ITU": "",
+      "Student Materials": "",
+      "S-Download": "",
+      "Student's Tasks": "Student's book and CD, Online resource",
+      "URLs": ""
+    },
+    {
+      "Session": "28",
+      "Topic": "Unit 10: From me to you Writing Skills",
+      "Learning-Teaching Type": "Offline",
+      "LO": "",
+      "ITU": "",
+      "Student Materials": "",
+      "S-Download": "",
+      "Student's Tasks": "Student's book and CD, Online resource",
+      "URLs": ""
+    },
+    {
+      "Session": "29",
+      "Topic": "Practice Test 3 IELTS Test format",
+      "Learning-Teaching Type": "Offline",
+      "LO": "",
+      "ITU": "",
+      "Student Materials": "",
+      "S-Download": "",
+      "Student's Tasks": "Self-reflection on testing points and test taking experience",
+      "URLs": ""
+    },
+    {
+      "Session": "30",
+      "Topic": "Feedback on Practice Test 3",
+      "Learning-Teaching Type": "Offline",
+      "LO": "",
+      "ITU": "",
+      "Student Materials": "",
+      "S-Download": "",
+      "Student's Tasks": "Self-reflection on testing points and test taking experience",
+      "URLs": ""
+    }
+  ],
+  "constructive_questions": [],
+  "materials": [
+    {
+      "No.": "1",
+      "Material Description": "IELTS Graduation.",
+      "Author": "Mark Allen, Debra Powell and Dickie Dolby",
+      "Publisher": "MacMillan",
+      "Published Date": "2007",
+      "Edition": "",
+      "ISBN": "",
+      "Is Main Material": "True",
+      "Is Hard Copy": "True",
+      "Is Online": "False",
+      "Note": ""
+    },
+    {
+      "No.": "2",
+      "Material Description": "Focus on IELTS English Writing Academic",
+      "Author": "",
+      "Publisher": "",
+      "Published Date": "",
+      "Edition": "",
+      "ISBN": "",
+      "Is Main Material": "False",
+      "Is Hard Copy": "False",
+      "Is Online": "False",
+      "Note": ""
+    }
+  ],
+  "source_path": "data/raw/syllabi/1115.html",
+  "id": "syllabus:1115"
+}

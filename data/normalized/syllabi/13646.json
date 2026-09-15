@@ -1,0 +1,227 @@
+{
+  "syllabus_id": 13646,
+  "subject_code": "MED201c",
+  "subject_name": "New Media Technology_Các loại hình Truyền thông đương đại",
+  "syllabus_name": "New Media Technology_Các loại hình Truyền thông đương đại",
+  "credits": 3,
+  "degree_level": "Bachelor",
+  "time_allocation": "Study hour (150h) = 40h online + 3h offline + 1h Final exam + 106 self-study",
+  "prerequisite": "None",
+  "general_information": {
+    "Syllabus ID": "13646",
+    "Syllabus Name": "New Media Technology_Các loại hình Truyền thông đương đại",
+    "Course Name English": "New Media Technology",
+    "Subject Code": "MED201c",
+    "Learning-Teaching Method": "Online",
+    "NoCredit": "3",
+    "Degree Level": "Bachelor",
+    "Time Allocation": "Study hour (150h) = 40h online + 3h offline + 1h Final exam + 106 self-study",
+    "Pre-Requisite": "None",
+    "Description": "This course explores how media technologies evolve, function, and impact society, helping students think critically about media and culture. It introduces the global media landscape and the ongoing shifts in technology, culture, and critical theory. Emphasis is placed on how new media shape power relations and social connections through communication. Topics include social media trends, digital publishing, Internet governance, privacy protection, online advertising, and the video game industry. Students will engage with real-world issues in a fast-changing media environment.",
+    "StudentTasks": "1. Join the online course (spec.) when being invited by the admin. 2. Enroll in each MOOC of spec., regularly study MOOCs at least 5hrs/week by watching videos, reading materials, taking quizzes, doing assignments... as required 3. Respect the Coursera Code of Conduct, at https://learner.coursera.help/hc/en-us/articles/208280036-Coursera-Code-of-Conduct 3. Keep online learning progress promptly (bonus will be awarded) 4. Communicate and discuss in forum 5. Attend offline sessions in the Campus (Optional) 6. Must complete all MOOCs of spec. with certification in order to take the Final Exam at Campus",
+    "Tools": "",
+    "Scoring Scale": "10",
+    "DecisionNo MM/dd/yyyy": "1318/QĐ-ĐHFPT dated 11/27/2025",
+    "IsApproved": "True",
+    "Note": "1) Ongoing assessment: Students who complete all MOOCs before the course deadline will receive 1 bonus point; otherwise, no bonus point will be awarded. 2) Theoretical Exam (TE) 3) Final Result (FR) =min (10, TE + Bonus) 4) Completion Criteria: TE>=4 and FR>=5",
+    "Is Scored": "True",
+    "MinAvgMarkToPass": "5",
+    "IsActive": "True",
+    "ApprovedDate": "11/27/2025"
+  },
+  "active": true,
+  "approved": true,
+  "decision": "1318/QĐ-ĐHFPT dated 11/27/2025",
+  "description": "This course explores how media technologies evolve, function, and impact society, helping students think critically about media and culture. It introduces the global media landscape and the ongoing shifts in technology, culture, and critical theory. Emphasis is placed on how new media shape power relations and social connections through communication. Topics include social media trends, digital publishing, Internet governance, privacy protection, online advertising, and the video game industry. Students will engage with real-world issues in a fast-changing media environment.",
+  "learning_outcomes": [
+    {
+      "No.": "1",
+      "CLO Name": "CLO1",
+      "CLO Details": "Remember key terminology and concepts related to media technologies, digital communication, and the global media environment."
+    },
+    {
+      "No.": "2",
+      "CLO Name": "CLO2",
+      "CLO Details": "Understand the role of media in shaping cultural norms, societal values, and communication practices."
+    },
+    {
+      "No.": "3",
+      "CLO Name": "CLO3",
+      "CLO Details": "Apply foundational media concepts to interpret developments in social media, online privacy, and digital publishing."
+    },
+    {
+      "No.": "4",
+      "CLO Name": "CLO4",
+      "CLO Details": "Analyze how shifts in technology and media practices influence power structures and social connectivity in contemporary society."
+    }
+  ],
+  "assessments": [
+    {
+      "No.": "1",
+      "Category": "Theoretical Exam (TE)",
+      "Type": "Final exam",
+      "Part": "1",
+      "Weight": "100.0%",
+      "Completion Criteria": "4",
+      "Duration": "60'",
+      "CLO": "All LOs",
+      "Question Type": "Multiple choice and case study",
+      "No Question": "50",
+      "Knowledge and Skill": "The whole course content.",
+      "Grading Guide": "by Exam Board",
+      "Note": ""
+    }
+  ],
+  "schedule": [
+    {
+      "Session": "1",
+      "Topic": "Introduction to the online course MODULE 1: Introduction to New Media Technology LESSON 1: Course Introduction LESSON 2: Ethics in media practices LESSON 3: Global media industries",
+      "Learning-Teaching Type": "Offline",
+      "LO": "CLO1_CLO2",
+      "ITU": "IT",
+      "Student Materials": "MODULE 1",
+      "S-Download": "",
+      "Student's Tasks": "- Watch all videos, read all materials in the MOOC - Finish quizzes, self-assessment, assignments and take part in discussion boards (if needed)",
+      "URLs": ""
+    },
+    {
+      "Session": "2",
+      "Topic": "MODULE 1: Introduction to New Media Technology LESSON 1: Course Introduction LESSON 2: Ethics in media practices LESSON 3: Global media industries",
+      "Learning-Teaching Type": "Online",
+      "LO": "CLO1_CLO2",
+      "ITU": "I,T",
+      "Student Materials": "MODULE 1",
+      "S-Download": "",
+      "Student's Tasks": "- Watch all videos, read all materials in the MOOC - Finish quizzes, self-assessment, assignments and take part in discussion boards (if needed)",
+      "URLs": ""
+    },
+    {
+      "Session": "3",
+      "Topic": "MODULE 2: Print Media LESSON 1: Print Media LESSON 2: Newspaper LESSON 3: Print media issues in the Digital Age",
+      "Learning-Teaching Type": "Online",
+      "LO": "CLO3_CLO4",
+      "ITU": "I,T,U",
+      "Student Materials": "MODULE 2",
+      "S-Download": "",
+      "Student's Tasks": "Enroll to the spec on Coursera for FPT University Platform '- Watch all videos, read all materials in the MOOC - Finish quizzes, self-assessment, assignments and take part in discussion boards (if needed)",
+      "URLs": ""
+    },
+    {
+      "Session": "4",
+      "Topic": "MODULE 2: Print Media LESSON 1: Print Media LESSON 2: Newspaper LESSON 3: Print media issues in the Digital Age",
+      "Learning-Teaching Type": "Online",
+      "LO": "CLO3_CLO4",
+      "ITU": "I,T,U",
+      "Student Materials": "MODULE 2",
+      "S-Download": "",
+      "Student's Tasks": "- Watch all videos, read all materials in the MOOC - Finish quizzes, self-assessment, assignments and take part in discussion boards (if needed)",
+      "URLs": ""
+    },
+    {
+      "Session": "5",
+      "Topic": "MODULE 3: Broadcasting Media LESSON 1: Recording LESSON 2: Radio LESSON 3: Film LESSON 4: Television",
+      "Learning-Teaching Type": "Online",
+      "LO": "CLO3_CLO4",
+      "ITU": "I,T,U",
+      "Student Materials": "MODULE 3",
+      "S-Download": "",
+      "Student's Tasks": "- Watch all videos, read all materials in the MOOC - Finish quizzes, self-assessment, assignments and take part in discussion boards (if needed)",
+      "URLs": ""
+    },
+    {
+      "Session": "6",
+      "Topic": "MODULE 3: Broadcasting Media LESSON 1: Recording LESSON 2: Radio LESSON 3: Film LESSON 4: Television",
+      "Learning-Teaching Type": "Online",
+      "LO": "CLO3_CLO4",
+      "ITU": "I,T,U",
+      "Student Materials": "MODULE 3",
+      "S-Download": "",
+      "Student's Tasks": "- Watch all videos, read all materials in the MOOC - Finish quizzes, self-assessment, assignments and take part in discussion boards (if needed)",
+      "URLs": ""
+    },
+    {
+      "Session": "7",
+      "Topic": "MODULE 4: New Media and Digital Communities LESSON 1: What is New Media? LESSON 2: Social Media LESSON 3: Digital Communities",
+      "Learning-Teaching Type": "Online",
+      "LO": "CLO3_CLO4",
+      "ITU": "I,T,U",
+      "Student Materials": "MODULE 4",
+      "S-Download": "",
+      "Student's Tasks": "- Watch all videos, read all materials in the MOOC - Finish quizzes, self-assessment, assignments and take part in discussion boards (if needed)",
+      "URLs": ""
+    },
+    {
+      "Session": "8",
+      "Topic": "MODULE 4: New Media and Digital Communities LESSON 1: What is New Media? LESSON 2: Social Media LESSON 3: Digital Communities",
+      "Learning-Teaching Type": "Online",
+      "LO": "CLO3_CLO4",
+      "ITU": "I,T,U",
+      "Student Materials": "MODULE 4",
+      "S-Download": "",
+      "Student's Tasks": "- Watch all videos, read all materials in the MOOC - Finish quizzes, self-assessment, assignments and take part in discussion boards (if needed)",
+      "URLs": ""
+    },
+    {
+      "Session": "9",
+      "Topic": "MODULE 5: Advertising, Public Relation and Media LESSON 1: Public Relations LESSON 2: Advertising LESSON 3: Issues in Promotional Culture",
+      "Learning-Teaching Type": "Online",
+      "LO": "CLO3_CLO4",
+      "ITU": "I,T,U",
+      "Student Materials": "MODULE 5",
+      "S-Download": "",
+      "Student's Tasks": "- Watch all videos, read all materials in the MOOC - Finish quizzes, self-assessment, assignments and take part in discussion boards (if needed)",
+      "URLs": ""
+    },
+    {
+      "Session": "10",
+      "Topic": "MODULE 5: Advertising, Public Relation and Media LESSON 1: Public Relations LESSON 2: Advertising LESSON 3: Issues in Promotional Culture",
+      "Learning-Teaching Type": "Online",
+      "LO": "CLO3_CLO4",
+      "ITU": "I,T,U",
+      "Student Materials": "MODULE 5",
+      "S-Download": "",
+      "Student's Tasks": "- Watch all videos, read all materials in the MOOC - Finish quizzes, self-assessment, assignments and take part in discussion boards (if needed)",
+      "URLs": ""
+    },
+    {
+      "Session": "11",
+      "Topic": "MODULE 6: Media Issues LESSON 1: Studying Media, Media usage and impact LESSON 2: Ethics in media practices LESSON 3: Global media industries",
+      "Learning-Teaching Type": "Online",
+      "LO": "CLO3_CLO4",
+      "ITU": "I,T,U",
+      "Student Materials": "MODULE 6",
+      "S-Download": "",
+      "Student's Tasks": "- Watch all videos, read all materials in the MOOC - Finish quizzes, self-assessment, assignments and take part in discussion boards (if needed)",
+      "URLs": ""
+    },
+    {
+      "Session": "12",
+      "Topic": "MODULE 6: Media Issues LESSON 1: Studying Media, Media usage and impact LESSON 2: Ethics in media practices LESSON 3: Global media industries Review Modules 1,2,3,4,5,6 Deadline of Coursera completion: End of Friday of the week.",
+      "Learning-Teaching Type": "Offline",
+      "LO": "CLO3_CLO4",
+      "ITU": "ITU",
+      "Student Materials": "MODULE 6",
+      "S-Download": "",
+      "Student's Tasks": "- All students should participate in review slot (if any question)",
+      "URLs": ""
+    }
+  ],
+  "constructive_questions": [],
+  "materials": [
+    {
+      "No.": "1",
+      "Material Description": "https://www.coursera.org/teach/med201c/course/overview",
+      "Author": "FPT",
+      "Publisher": "Coursera",
+      "Published Date": "",
+      "Edition": "",
+      "ISBN": "",
+      "Is Main Material": "True",
+      "Is Hard Copy": "False",
+      "Is Online": "True",
+      "Note": ""
+    }
+  ],
+  "source_path": "data/raw/syllabi/13646.html",
+  "id": "syllabus:13646"
+}

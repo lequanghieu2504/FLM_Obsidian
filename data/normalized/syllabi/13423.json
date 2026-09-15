@@ -1,0 +1,284 @@
+{
+  "syllabus_id": 13423,
+  "subject_code": "ADA201c",
+  "subject_name": "AI in data analysis_Công nghệ AI trong phân tích dữ liệu",
+  "syllabus_name": "AI in data analysis_Công nghệ AI trong phân tích dữ liệu",
+  "credits": 3,
+  "degree_level": "Bachelor",
+  "time_allocation": "Study hour (150h) = 48h online + 3h offline + 1h Final exam + 98 self-study",
+  "prerequisite": "None",
+  "general_information": {
+    "Syllabus ID": "13423",
+    "Syllabus Name": "AI in data analysis_Công nghệ AI trong phân tích dữ liệu",
+    "Course Name English": "AI in data analysis",
+    "Subject Code": "ADA201c",
+    "Learning-Teaching Method": "Online",
+    "NoCredit": "3",
+    "Degree Level": "Bachelor",
+    "Time Allocation": "Study hour (150h) = 48h online + 3h offline + 1h Final exam + 98 self-study",
+    "Pre-Requisite": "None",
+    "Description": "This course provides essential knowledge and practical skills to apply Artificial Intelligence in optimizing communication strategies in data-rich environments. Students will learn to collect, organize, and analyze structured and unstructured data using generative AI tools and prompt engineering techniques. The course emphasizes extracting actionable insights, visualizing data, and developing custom GPT-based assistants to support analytical and communication tasks. Ethical considerations and best practices in AI-assisted analysis are also addressed, preparing students to implement data-driven, AI-enhanced strategies across diverse communication contexts.",
+    "StudentTasks": "1. Join the online course (spec.) when being invited by the admin. 2. Enroll in each MOOC of spec., regularly study MOOCs at least 5hrs/week by watching videos, reading materials, taking quizzes, doing assignments... as required 3. Respect the Coursera Code of Conduct, at https://learner.coursera.help/hc/en-us/articles/208280036-Coursera-Code-of-Conduct 4. Keep online learning progress promptly (bonus will be awarded) 5. Communicate and discuss in forum 6. Attend offline sessions in the Campus (Optional) 7. Must complete all MOOCs of spec. with certification in order to take the Final Exam at Campus",
+    "Tools": "Computer Internet",
+    "Scoring Scale": "10",
+    "DecisionNo MM/dd/yyyy": "932/QĐ-ĐHFPT dated 08/22/2025",
+    "IsApproved": "True",
+    "Note": "1) Ongoing assessment: Students who complete all MOOCs before the course deadline will receive 1 bonus point; otherwise, no bonus point will be awarded. 2) Theoretical Exam (TE) 3) Final Result (FR) =min (10, TE + Bonus) 4) Completion Criteria: TE>=4 and FR>=5",
+    "Is Scored": "True",
+    "MinAvgMarkToPass": "5",
+    "IsActive": "True",
+    "ApprovedDate": "8/22/2025"
+  },
+  "active": true,
+  "approved": true,
+  "decision": "932/QĐ-ĐHFPT dated 08/22/2025",
+  "description": "This course provides essential knowledge and practical skills to apply Artificial Intelligence in optimizing communication strategies in data-rich environments. Students will learn to collect, organize, and analyze structured and unstructured data using generative AI tools and prompt engineering techniques. The course emphasizes extracting actionable insights, visualizing data, and developing custom GPT-based assistants to support analytical and communication tasks. Ethical considerations and best practices in AI-assisted analysis are also addressed, preparing students to implement data-driven, AI-enhanced strategies across diverse communication contexts.",
+  "learning_outcomes": [
+    {
+      "No.": "1",
+      "CLO Name": "CLO1",
+      "CLO Details": "Integrate generative AI into data analysis workflows by selecting appropriate tools, optimizing prompt strategies, and ensuring responsible and ethical use."
+    },
+    {
+      "No.": "2",
+      "CLO Name": "CLO2",
+      "CLO Details": "Develop effective prompts to generate accurate, context-specific outputs for AI-powered communication and analytical tasks."
+    },
+    {
+      "No.": "3",
+      "CLO Name": "CLO3",
+      "CLO Details": "Design customized generative AI assistants using the OpenAI platform to meet specific use case requirements."
+    },
+    {
+      "No.": "4",
+      "CLO Name": "CLO4",
+      "CLO Details": "Apply prompt engineering and problem framing to use generative AI ethically, reliably, and creatively."
+    },
+    {
+      "No.": "5",
+      "CLO Name": "CLO5",
+      "CLO Details": "Demonstrate autonomous learning and lifelong learning skills to adapt to rapid technological and societal changes."
+    }
+  ],
+  "assessments": [
+    {
+      "No.": "1",
+      "Category": "Theoretical Exam (TE)",
+      "Type": "Final exam",
+      "Part": "1",
+      "Weight": "100.0%",
+      "Completion Criteria": "4",
+      "Duration": "60'",
+      "CLO": "All LOs",
+      "Question Type": "Multiple choice",
+      "No Question": "50",
+      "Knowledge and Skill": "The whole course content.",
+      "Grading Guide": "by Exam Board",
+      "Note": ""
+    }
+  ],
+  "schedule": [
+    {
+      "Session": "1",
+      "Topic": "Introduction to the online course ADA201c Introduction to Generative AI for Data Analysis Introduction to Generative AI",
+      "Learning-Teaching Type": "Offline, Online",
+      "LO": "CLO1, CLO5",
+      "ITU": "I,T",
+      "Student Materials": "https://www.coursera.org/learn/introduction-to-generative-ai-for-data-analysis/paidmedia?specialization=microsoft-genai-for-data-analysis",
+      "S-Download": "",
+      "Student's Tasks": "- Watch all videos, read all materials in the MOOC - Finish quizzes, self-assessment, assignments and take part in discussion boards (if needed)",
+      "URLs": ""
+    },
+    {
+      "Session": "2",
+      "Topic": "Introduction to Generative AI for Data Analysis cont.) Data exploration with GenAI Data cleaning with GenAI",
+      "Learning-Teaching Type": "Online",
+      "LO": "CLO1, CLO5",
+      "ITU": "I,T",
+      "Student Materials": "https://www.coursera.org/learn/introduction-to-generative-ai-for-data-analysis/paidmedia?specialization=microsoft-genai-for-data-analysis",
+      "S-Download": "",
+      "Student's Tasks": "- Watch all videos, read all materials in the MOOC - Finish quizzes, self-assessment, assignments and take part in discussion boards (if needed)",
+      "URLs": ""
+    },
+    {
+      "Session": "3",
+      "Topic": "Introduction to Generative AI for Data Analysis (cont.) Prompt Engineering Fundamentals Ethical and Safe Use of GenAI",
+      "Learning-Teaching Type": "Online",
+      "LO": "CLO1, CLO5",
+      "ITU": "I,T",
+      "Student Materials": "https://www.coursera.org/learn/introduction-to-generative-ai-for-data-analysis/paidmedia?specialization=microsoft-genai-for-data-analysis",
+      "S-Download": "",
+      "Student's Tasks": "Enroll in the specialization on Coursera for FPT University Platform '- Watch all videos, read all materials in the MOOC - Finish quizzes, self-assessment, assignments and take part in discussion boards (if needed)",
+      "URLs": ""
+    },
+    {
+      "Session": "4",
+      "Topic": "MOOC 1 : Prompt Engineering for ChatGPT (in Generative AI Assistants Specialization)- cont. Course Introduction Introduction to Prompts",
+      "Learning-Teaching Type": "Online",
+      "LO": "CLO2, CLO5",
+      "ITU": "I,T",
+      "Student Materials": "https://www.coursera.org/learn/prompt-engineering?specialization=generative-ai-assistants",
+      "S-Download": "",
+      "Student's Tasks": "- Watch all videos, read all materials in the MOOC - Finish quizzes, self-assessment, assignments and take part in discussion boards (if needed)",
+      "URLs": ""
+    },
+    {
+      "Session": "5",
+      "Topic": "MOOC 1 : Prompt Engineering for ChatGPT (in Generative AI Assistants Specialization) - cont. Prompt Patterns I Few-Shot Examples",
+      "Learning-Teaching Type": "Online",
+      "LO": "CLO2, CLO5",
+      "ITU": "I,T",
+      "Student Materials": "https://www.coursera.org/learn/prompt-engineering?specialization=generative-ai-assistants",
+      "S-Download": "",
+      "Student's Tasks": "- Watch all videos, read all materials in the MOOC - Finish quizzes, self-assessment, assignments and take part in discussion boards (if needed)",
+      "URLs": ""
+    },
+    {
+      "Session": "6",
+      "Topic": "MOOC 1 : Prompt Engineering for ChatGPT (in Generative AI Assistants Specialization)- cont. Prompt Patterns II Prompt Patterns III",
+      "Learning-Teaching Type": "Online",
+      "LO": "CLO2, CLO5",
+      "ITU": "I,T",
+      "Student Materials": "https://www.coursera.org/learn/prompt-engineering?specialization=generative-ai-assistants",
+      "S-Download": "",
+      "Student's Tasks": "- Watch all videos, read all materials in the MOOC - Finish quizzes, self-assessment, assignments and take part in discussion boards (if needed)",
+      "URLs": ""
+    },
+    {
+      "Session": "7",
+      "Topic": "MOOC 1 : Prompt Engineering for ChatGPT (in Generative AI Assistants Specialization)- cont. Prompt Patternss II Prompt Patternss III",
+      "Learning-Teaching Type": "Online",
+      "LO": "CLO1, CLO2",
+      "ITU": "I,T",
+      "Student Materials": "https://www.coursera.org/learn/prompt-engineering?specialization=generative-ai-assistants",
+      "S-Download": "",
+      "Student's Tasks": "- Watch all videos, read all materials in the MOOC - Finish quizzes, self-assessment, assignments and take part in discussion boards (if needed)",
+      "URLs": ""
+    },
+    {
+      "Session": "8",
+      "Topic": "MOOC 2 : OpenAI GPTs: Creating Your Own Custom AI Assistants (in Generative AI Assistants Specialization) Custom GPTs Fundamentals THINK: Create Great GPTs (Part I)",
+      "Learning-Teaching Type": "Online",
+      "LO": "CLO3, CLO5",
+      "ITU": "I,T",
+      "Student Materials": "https://www.coursera.org/learn/openai-custom-gpts?specialization=generative-ai-assistants",
+      "S-Download": "",
+      "Student's Tasks": "- Watch all videos, read all materials in the MOOC - Finish quizzes, self-assessment, assignments and take part in discussion boards (if needed)",
+      "URLs": ""
+    },
+    {
+      "Session": "9",
+      "Topic": "MOOC 2 : OpenAI GPTs: Creating Your Own Custom AI Assistants (in Generative AI Assistants Specialization)- cont. THINK: Create Great GPTs (Part II)",
+      "Learning-Teaching Type": "Online",
+      "LO": "CLO3, CLO5",
+      "ITU": "I,T",
+      "Student Materials": "https://www.coursera.org/learn/openai-custom-gpts?specialization=generative-ai-assistants",
+      "S-Download": "",
+      "Student's Tasks": "- Watch all videos, read all materials in the MOOC - Finish quizzes, self-assessment, assignments and take part in discussion boards (if needed)",
+      "URLs": ""
+    },
+    {
+      "Session": "10",
+      "Topic": "MOOC 3 : Trustworthy Generative AI (in Generative AI Assistants Specialization) - Trustworthy Generative AI",
+      "Learning-Teaching Type": "Online",
+      "LO": "CLO4, CLO5",
+      "ITU": "I,T",
+      "Student Materials": "https://www.coursera.org/learn/trustworthy-generative-ai?specialization=generative-ai-assistants",
+      "S-Download": "",
+      "Student's Tasks": "- Watch all videos, read all materials in the MOOC - Finish quizzes, self-assessment, assignments and take part in discussion boards (if needed)",
+      "URLs": ""
+    },
+    {
+      "Session": "11",
+      "Topic": "MOOC 3 : Trustworthy Generative AI (in Generative AI Assistants Specialization)- cont. - Trustworthy Generative AI (cont.)",
+      "Learning-Teaching Type": "Online",
+      "LO": "CLO4, CLO5",
+      "ITU": "I,T",
+      "Student Materials": "https://www.coursera.org/learn/trustworthy-generative-ai?specialization=generative-ai-assistants",
+      "S-Download": "",
+      "Student's Tasks": "- Watch all videos, read all materials in the MOOC - Finish quizzes, self-assessment, assignments and take part in discussion boards (if needed)",
+      "URLs": ""
+    },
+    {
+      "Session": "12",
+      "Topic": "Review Spec \"Generative AI Assistants Specialization\" and course \"Introduction to Generative AI for Data Analysis\" Deadline of this course completion: End of Friday of the week.",
+      "Learning-Teaching Type": "Offline, Online",
+      "LO": "CLO3, CLO4",
+      "ITU": "U",
+      "Student Materials": "Generative AI Assistants Specialization Introduction to Generative AI for Data Analysis",
+      "S-Download": "",
+      "Student's Tasks": "- All students should participate in review slot (if any question)",
+      "URLs": ""
+    }
+  ],
+  "constructive_questions": [],
+  "materials": [
+    {
+      "No.": "1",
+      "Material Description": "https://www.coursera.org/learn/introduction-to-generative-ai-for-data-analysis/paidmedia?specialization=microsoft-genai-for-data-analysis",
+      "Author": "",
+      "Publisher": "Coursera",
+      "Published Date": "",
+      "Edition": "",
+      "ISBN": "",
+      "Is Main Material": "True",
+      "Is Hard Copy": "False",
+      "Is Online": "True",
+      "Note": "Introduction to Generative AI for Data Analysis (course, 15h)."
+    },
+    {
+      "No.": "2",
+      "Material Description": "https://www.coursera.org/learn/prompt-engineering?specialization=generative-ai-assistants",
+      "Author": "",
+      "Publisher": "Coursera",
+      "Published Date": "",
+      "Edition": "",
+      "ISBN": "",
+      "Is Main Material": "True",
+      "Is Hard Copy": "False",
+      "Is Online": "True",
+      "Note": "MOOC 1 : Prompt Engineering for ChatGPT (in Generative AI Assistants Specialization)"
+    },
+    {
+      "No.": "3",
+      "Material Description": "https://www.coursera.org/learn/openai-custom-gpts?specialization=generative-ai-assistants",
+      "Author": "",
+      "Publisher": "Coursera",
+      "Published Date": "",
+      "Edition": "",
+      "ISBN": "",
+      "Is Main Material": "True",
+      "Is Hard Copy": "False",
+      "Is Online": "True",
+      "Note": "MOOC 2: OpenAI GPTs: Creating Your Own Custom AI Assistants (in Generative AI Assistants Specialization)"
+    },
+    {
+      "No.": "4",
+      "Material Description": "https://www.coursera.org/learn/trustworthy-generative-ai?specialization=generative-ai-assistants",
+      "Author": "",
+      "Publisher": "Coursera",
+      "Published Date": "",
+      "Edition": "",
+      "ISBN": "",
+      "Is Main Material": "True",
+      "Is Hard Copy": "False",
+      "Is Online": "True",
+      "Note": "MOOC 3: Trustworthy Generative AI (in Generative AI Assistants Specialization)"
+    },
+    {
+      "No.": "5",
+      "Material Description": "https://www.coursera.org/specializations/generative-ai-assistants",
+      "Author": "",
+      "Publisher": "Coursera",
+      "Published Date": "",
+      "Edition": "",
+      "ISBN": "",
+      "Is Main Material": "True",
+      "Is Hard Copy": "False",
+      "Is Online": "True",
+      "Note": "Generative AI Assistants Specialization (Spec,33h)"
+    }
+  ],
+  "source_path": "data/raw/syllabi/13423.html",
+  "id": "syllabus:13423"
+}

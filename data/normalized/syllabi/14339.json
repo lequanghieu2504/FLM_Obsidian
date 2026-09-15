@@ -1,0 +1,1186 @@
+{
+  "syllabus_id": 14339,
+  "subject_code": "IAM302",
+  "subject_name": "Malware Analysis and Reverse Engineering_Phân tích mã độc và kỹ thuật dịch ngược",
+  "syllabus_name": "Malware Analysis and Reverse Engineering_Phân tích mã độc và kỹ thuật dịch ngược",
+  "credits": 3,
+  "degree_level": "Bachelor",
+  "time_allocation": "45h (60 sessions) contact hours + 1h final exam + 104h self-study",
+  "prerequisite": "ITE303 or ITE302c, APO201c",
+  "general_information": {
+    "Syllabus ID": "14339",
+    "Syllabus Name": "Malware Analysis and Reverse Engineering_Phân tích mã độc và kỹ thuật dịch ngược",
+    "Course Name English": "Malware Analysis and Reverse Engineering",
+    "Subject Code": "IAM302",
+    "Learning-Teaching Method": "Lecture,Active learning,Social Constructivism, Discussion",
+    "NoCredit": "3",
+    "Degree Level": "Bachelor",
+    "Time Allocation": "45h (60 sessions) contact hours + 1h final exam + 104h self-study",
+    "Pre-Requisite": "ITE303 or ITE302c, APO201c",
+    "Description": "Information Assurance (IA) is a primary example of a field that can benefit greatly from malware analysis. IA aims to protect and defend information and information systems by ensuring their confidentiality, integrity, authentication, availability, and nonrepudiation. This is mostly based on designing measures that would ensure the protection of such systems and their associated data. This makes malware analysis an essential component of IA. This course provides students with an effective immersion into the realm of Malware Analysis and Reverse Engineering. It follows a progressive approach that introduces relevant concepts and techniques while preparing students to become effective malware analysts that can use a standard methodology for detecting, analyzing, reverse engineering and eradicating malware. Some of the key aspects of this course include reverse engineering malware from various sources and using various programming languages, including Web-based languages such as JavaScript as well as Document-based ones such as VBScript. This is accomplished by using a standard methodology that involves setting up an inexpensive laboratory, isolating it from production environments, and utilizing a selected set of forensic tools in order to dissect the malware, discover its characteristics, and neutralize its effects. Scope: The scope of this course includes: 1. Introduction to Malware Analysis. 2. Malware Analysis Labs 3. Methodology to detect, analyze, reverse-engineer, and eradicate malware. 4. Malware Analysis Applications. 5. Forensics tools used for Malware Analysis. Course Objectives: This course will equip students with the necessary background knowledge in order to become effective Malware Analysis & Reverse Engineering practitioners.",
+    "StudentTasks": "Students must attend at least 80% of contact sessions in order to be accepted to the final examination. - Students are responsible to do all exercises, assignments and labs given by instructor in class or at home and submit on time - Use laptop in class only for learning purpose - Promptly access to the https://flm.fpt.edu.vn/ for up-to-date course information",
+    "Tools": "",
+    "Scoring Scale": "10",
+    "DecisionNo MM/dd/yyyy": "1028/QĐ-ĐHFPT dated 08/21/2026",
+    "IsApproved": "True",
+    "Note": "For Pre-requisite: From K20B onwards: ITE303 or ITE302c, APO201c; Previous courses: ITE303 or ITE302c, PRO192.",
+    "Is Scored": "True",
+    "MinAvgMarkToPass": "5",
+    "IsActive": "True",
+    "ApprovedDate": "8/21/2026"
+  },
+  "active": true,
+  "approved": true,
+  "decision": "1028/QĐ-ĐHFPT dated 08/21/2026",
+  "description": "Information Assurance (IA) is a primary example of a field that can benefit greatly from malware analysis. IA aims to protect and defend information and information systems by ensuring their confidentiality, integrity, authentication, availability, and nonrepudiation. This is mostly based on designing measures that would ensure the protection of such systems and their associated data. This makes malware analysis an essential component of IA. This course provides students with an effective immersion into the realm of Malware Analysis and Reverse Engineering. It follows a progressive approach that introduces relevant concepts and techniques while preparing students to become effective malware analysts that can use a standard methodology for detecting, analyzing, reverse engineering and eradicating malware. Some of the key aspects of this course include reverse engineering malware from various sources and using various programming languages, including Web-based languages such as JavaScript as well as Document-based ones such as VBScript. This is accomplished by using a standard methodology that involves setting up an inexpensive laboratory, isolating it from production environments, and utilizing a selected set of forensic tools in order to dissect the malware, discover its characteristics, and neutralize its effects. Scope: The scope of this course includes: 1. Introduction to Malware Analysis. 2. Malware Analysis Labs 3. Methodology to detect, analyze, reverse-engineer, and eradicate malware. 4. Malware Analysis Applications. 5. Forensics tools used for Malware Analysis. Course Objectives: This course will equip students with the necessary background knowledge in order to become effective Malware Analysis & Reverse Engineering practitioners.",
+  "learning_outcomes": [
+    {
+      "No.": "1",
+      "CLO Name": "CLO1",
+      "CLO Details": "Develop a good understanding of Malware Analysis: today’s greatly increasing malware threats, malware activity mechanism and behavior, malware classification, building an environment to do static and dynamic malware analysis, methods and tools to detect, analyze, reverse-engineer, and eradicate malware."
+    },
+    {
+      "No.": "2",
+      "CLO Name": "CLO2",
+      "CLO Details": "Identify the different types of Malware Analysis methods: static (ASCII, binary, logical signature detection), dynamic (network traffic analysis, memory forensics, dynamic reverse engineering) and hybrid."
+    },
+    {
+      "No.": "3",
+      "CLO Name": "CLO3",
+      "CLO Details": "Gain a broad exposure to real world applications of Malware Analysis: take control of the incident, incident response, analyze the threat, examine interactions with the environment, mitigate the risks of malware attempting to escape from the lab,"
+    },
+    {
+      "No.": "4",
+      "CLO Name": "CLO4",
+      "CLO Details": "Set up a relatively inexpensive lab for Malware Analysis activities."
+    },
+    {
+      "No.": "5",
+      "CLO Name": "CLO5",
+      "CLO Details": "Utilize a standard methodology for detecting, analyzing, reverse engineering, and eradicating malware."
+    },
+    {
+      "No.": "6",
+      "CLO Name": "CLO6",
+      "CLO Details": "Use a Malware Analysis-based approach in order to resolve real world problems."
+    },
+    {
+      "No.": "7",
+      "CLO Name": "CLO7",
+      "CLO Details": "Recognize common malware characteristics: propagation, infection, self-defense, capabilities, …"
+    },
+    {
+      "No.": "8",
+      "CLO Name": "CLO8",
+      "CLO Details": "Bypass some of the advanced malware techniques, such as packing, obfuscation and anti-analysis of armored malware breeds."
+    }
+  ],
+  "assessments": [
+    {
+      "No.": "1",
+      "Category": "Lab",
+      "Type": "on-going",
+      "Part": "19",
+      "Weight": "40.0%",
+      "Completion Criteria": "4",
+      "Duration": "60-90'/each",
+      "CLO": "LO1, LO2, LO4, LO5, LO6, LO7, LO8",
+      "Question Type": "practical exercises",
+      "No Question": "N/A",
+      "Knowledge and Skill": "technical aspect of studied topics",
+      "Grading Guide": "in class - Guided by instructor - 19 Lab sessions are arranged relevant to the chapter theory - Student must finish labs and submit the results to the instructor in class. - An average point of all labs could be evaluated and published to students at the end of the semesters",
+      "Note": ""
+    },
+    {
+      "No.": "2",
+      "Category": "Participation in Discussions",
+      "Type": "on-going",
+      "Part": "1",
+      "Weight": "10.0%",
+      "Completion Criteria": ">0",
+      "Duration": "",
+      "CLO": "",
+      "Question Type": "",
+      "No Question": "N/A",
+      "Knowledge and Skill": "",
+      "Grading Guide": "",
+      "Note": ""
+    },
+    {
+      "No.": "3",
+      "Category": "Progress Test",
+      "Type": "on-going",
+      "Part": "2",
+      "Weight": "20.0%",
+      "Completion Criteria": ">0",
+      "Duration": "30'/each",
+      "CLO": "LO1, LO1, LO2, LO3, LO4, LO5, LO6, LO7, LO8, LO9, LO10, LO11, LO12, LO13, LO14, LO15, LO16, LO17, LO18, LO19, LO20, LO21, LO22, LO23, LO24, LO25, LO26, LO27, LO28, LO29, LO30, LO31, LO32, LO33, LO34, LO35, LO36, LO37, LO38, LO39, LO40, LO41, LO42, LO5, LO6, LO7, LO8",
+      "Question Type": "Multiple choices Marked by Computer or a suitable format",
+      "No Question": "20/each",
+      "Knowledge and Skill": "Test 1: cover Topics 1-4 - Test 2: cover Topics 5-7",
+      "Grading Guide": "in class, by instructor",
+      "Note": "Instruction and schedules for Progress Tests must be presented in the Course Implementation Plan approved by director of the campus. Progress test must be taken right after the last lectures of required material. Instructor has responsibility to review the test for students after graded."
+    },
+    {
+      "No.": "4",
+      "Category": "Final Exam",
+      "Type": "Final exam",
+      "Part": "1",
+      "Weight": "30.0%",
+      "Completion Criteria": "4",
+      "Duration": "60'",
+      "CLO": "LO1, LO2, LO3, LO4, LO5, LO6, LO7, LO8",
+      "Question Type": "Multiple choicesMarked by Computer",
+      "No Question": "50",
+      "Knowledge and Skill": "concepts, algorithms; all studied topics",
+      "Grading Guide": "by exam board, using computer",
+      "Note": "The exam questions must be updated or different at least 70% to the previous ones."
+    }
+  ],
+  "schedule": [
+    {
+      "Session": "1",
+      "Topic": "Topic 1. Introduction 1.1 Course Expectations",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO1",
+      "ITU": "IT",
+      "Student Materials": "Course syllabus, Textbook, Lab Manual, Slides",
+      "S-Download": "mat1",
+      "Student's Tasks": "Read Materials, Discussion, Review Lecture",
+      "URLs": ""
+    },
+    {
+      "Session": "2",
+      "Topic": "Topic 1. Introduction (cont.) 1.2 Course Introduction",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO1",
+      "ITU": "IT",
+      "Student Materials": "Course syllabus, Textbook, Lab Manual, Slides",
+      "S-Download": "mat2",
+      "Student's Tasks": "Read Materials, Discussion, Review Lecture",
+      "URLs": ""
+    },
+    {
+      "Session": "3",
+      "Topic": "Topic 2. Fundamentals of Malware Analysis 2.1 Reverse Engineering Malware (REM) Methodology 2.2 Brief Overview of Malware analysis lab setup and configuration",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO1, LO2, LO3",
+      "ITU": "T",
+      "Student Materials": "Ref [2] , Slides",
+      "S-Download": "",
+      "Student's Tasks": "Review Lecture",
+      "URLs": ""
+    },
+    {
+      "Session": "4",
+      "Topic": "Topic 2. Fundamentals of Malware Analysis (cont.) 2.3 Introduction to key MA tools and techniques 2.4 Behavioral Analysis vs. Code Analysis",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO1, LO2, LO3",
+      "ITU": "T",
+      "Student Materials": "Ref [2] , Slides",
+      "S-Download": "",
+      "Student's Tasks": "Review Lecture",
+      "URLs": ""
+    },
+    {
+      "Session": "5",
+      "Topic": "Lab 1: Setting Up Environment",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO1, LO4",
+      "ITU": "TU",
+      "Student Materials": "Textbook, Introduction Lab Manual",
+      "S-Download": "",
+      "Student's Tasks": "Review Lab 1",
+      "URLs": ""
+    },
+    {
+      "Session": "6",
+      "Topic": "Lab 1: Setting Up Environment (cont.)",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO1, LO4",
+      "ITU": "TU",
+      "Student Materials": "Textbook, Introduction Lab Manual",
+      "S-Download": "",
+      "Student's Tasks": "Review Lab 1",
+      "URLs": ""
+    },
+    {
+      "Session": "7",
+      "Topic": "Topic 3. Malware Classification 3.1 Understanding Malware Threats 3.2 Malware indicators",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO2, LO3",
+      "ITU": "T",
+      "Student Materials": "Slides Chapter 3",
+      "S-Download": "",
+      "Student's Tasks": "Review Lecture",
+      "URLs": ""
+    },
+    {
+      "Session": "8",
+      "Topic": "Topic 3. Malware Classification (cont.) 3.3 Malware Classification",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO2, LO3",
+      "ITU": "T",
+      "Student Materials": "Slides Chapter 3",
+      "S-Download": "",
+      "Student's Tasks": "Review Lecture",
+      "URLs": ""
+    },
+    {
+      "Session": "9",
+      "Topic": "Lab 2: Examining ClamAV Signature",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO2, LO5",
+      "ITU": "U",
+      "Student Materials": "Recipe 3.1 Lab Manual",
+      "S-Download": "",
+      "Student's Tasks": "Review Lab 2",
+      "URLs": ""
+    },
+    {
+      "Session": "10",
+      "Topic": "Lab 2: Examining ClamAV Signature (cont.)",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO2, LO5",
+      "ITU": "U",
+      "Student Materials": "Recipe 3.1 Lab Manual",
+      "S-Download": "",
+      "Student's Tasks": "Review Lab 2",
+      "URLs": ""
+    },
+    {
+      "Session": "11",
+      "Topic": "Lab 3: Creating Custom ClamAV Databases",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO2, LO5",
+      "ITU": "U",
+      "Student Materials": "Recipe 3.2 Lab Manual",
+      "S-Download": "",
+      "Student's Tasks": "Review Lab 3",
+      "URLs": ""
+    },
+    {
+      "Session": "12",
+      "Topic": "Lab 3: Creating Custom ClamAV Databases (cont.)",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO2, LO5",
+      "ITU": "U",
+      "Student Materials": "Recipe 3.2 Lab Manual",
+      "S-Download": "",
+      "Student's Tasks": "Review Lab 3",
+      "URLs": ""
+    },
+    {
+      "Session": "13",
+      "Topic": "Lab 4: Detect Malware Capabilities with YARA (a difference with ClamAV)",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO2, LO5",
+      "ITU": "TU",
+      "Student Materials": "Recipe 3.5 Lab Manual",
+      "S-Download": "",
+      "Student's Tasks": "Review Lab 4",
+      "URLs": ""
+    },
+    {
+      "Session": "14",
+      "Topic": "Lab 4: Detect Malware Capabilities with YARA (a difference with ClamAV) (cont.)",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO2, LO5",
+      "ITU": "TU",
+      "Student Materials": "Recipe 3.5 Lab Manual",
+      "S-Download": "",
+      "Student's Tasks": "Review Lab 4",
+      "URLs": ""
+    },
+    {
+      "Session": "15",
+      "Topic": "Topic 4. Malware Labs 4.1. Introduction to MA Sandboxes 4.1.1 Ubuntu",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO4, LO6",
+      "ITU": "T",
+      "Student Materials": "Overview Chapter 4 Slides",
+      "S-Download": "",
+      "Student's Tasks": "Review Lecture",
+      "URLs": ""
+    },
+    {
+      "Session": "16",
+      "Topic": "Topic 4. Malware Labs (cont.) 4.1. Introduction to MA Sandboxes (cont.) 4.1.2 Zeltser’s REMnux 4.1.3 SANS SIFT",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO4, LO6",
+      "ITU": "T",
+      "Student Materials": "Overview Chapter 4 Slides",
+      "S-Download": "",
+      "Student's Tasks": "Review Lecture",
+      "URLs": ""
+    },
+    {
+      "Session": "17",
+      "Topic": "Lab 5: Sandbox Setup and Configuration",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO4, LO6",
+      "ITU": "TU",
+      "Student Materials": "Slides, Lab Manual",
+      "S-Download": "",
+      "Student's Tasks": "Review Lab 5",
+      "URLs": ""
+    },
+    {
+      "Session": "18",
+      "Topic": "Lab 5: Sandbox Setup and Configuration (cont.)",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO4, LO6",
+      "ITU": "TU",
+      "Student Materials": "Slides, Lab Manual",
+      "S-Download": "",
+      "Student's Tasks": "Review Lab 5",
+      "URLs": ""
+    },
+    {
+      "Session": "19",
+      "Topic": "Lab 6: Public AV Scanners (VirusTotal, Jotti)",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO4, LO6",
+      "ITU": "TU",
+      "Student Materials": "Recipes 4.1, 4.2 Lab Manual",
+      "S-Download": "",
+      "Student's Tasks": "Review Lab 6",
+      "URLs": ""
+    },
+    {
+      "Session": "20",
+      "Topic": "Lab 6: Public AV Scanners (VirusTotal, Jotti) (cont.)",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO4, LO6",
+      "ITU": "TU",
+      "Student Materials": "Recipes 4.1, 4.2 Lab Manual",
+      "S-Download": "",
+      "Student's Tasks": "Review Lab 6",
+      "URLs": ""
+    },
+    {
+      "Session": "21",
+      "Topic": "Lab 7: MA with CWSandbox, Anubis",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO4, LO6",
+      "ITU": "TU",
+      "Student Materials": "Recipes 4.6, 4.7 Lab Manual",
+      "S-Download": "",
+      "Student's Tasks": "Review Lab 7",
+      "URLs": ""
+    },
+    {
+      "Session": "22",
+      "Topic": "Lab 7: MA with CWSandbox, Anubis (cont.)",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO4, LO6",
+      "ITU": "TU",
+      "Student Materials": "Recipes 4.6, 4.7 Lab Manual",
+      "S-Download": "",
+      "Student's Tasks": "Review Lab 7",
+      "URLs": ""
+    },
+    {
+      "Session": "23",
+      "Topic": "Review Topics 1-4 (Guiding Problems)",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO4, LO6",
+      "ITU": "",
+      "Student Materials": "Review Topics 1-4",
+      "S-Download": "",
+      "Student's Tasks": "",
+      "URLs": ""
+    },
+    {
+      "Session": "24",
+      "Topic": "Progress Test 1 (30’)",
+      "Learning-Teaching Type": "Offline",
+      "LO": "",
+      "ITU": "",
+      "Student Materials": "",
+      "S-Download": "",
+      "Student's Tasks": "",
+      "URLs": ""
+    },
+    {
+      "Session": "25",
+      "Topic": "Topic 5. Malware Lab Integrity 5.1 Routing TCP/IP Connections 5.2 Capturing and Analyzing Network Traffic 5.3 Internet simulation using INetSim",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO4, LO6",
+      "ITU": "TU",
+      "Student Materials": "Recipes 7.1, 7.2, 7.3 Lab Manual",
+      "S-Download": "",
+      "Student's Tasks": "Review Lecture",
+      "URLs": ""
+    },
+    {
+      "Session": "26",
+      "Topic": "Lab 8: Configuring a Malware Lab",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO4, LO6",
+      "ITU": "TU",
+      "Student Materials": "Recipes 7.1, 7.2, 7.3 Lab Manual",
+      "S-Download": "",
+      "Student's Tasks": "Review Lab 8",
+      "URLs": ""
+    },
+    {
+      "Session": "27",
+      "Topic": "Lab 9: Recipe Manipulating HTTP/HTTPS with Burp Suite Reading: Recipe 7-5 - Using Joe Stewart’s Truman",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO4, LO6",
+      "ITU": "TU",
+      "Student Materials": "Recipe 7.4 Lab Manual",
+      "S-Download": "",
+      "Student's Tasks": "Review Lab 9",
+      "URLs": ""
+    },
+    {
+      "Session": "28",
+      "Topic": "Lab 9: Recipe Manipulating HTTP/HTTPS with Burp Suite Reading: Recipe 7-5 - Using Joe Stewart’s Truman (cont.)",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO4, LO6",
+      "ITU": "TU",
+      "Student Materials": "Recipe 7.4 Lab Manual",
+      "S-Download": "",
+      "Student's Tasks": "Review Lab 9",
+      "URLs": ""
+    },
+    {
+      "Session": "29",
+      "Topic": "Lab 10: Using Deep Freeze to Preserve Physical Systems",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO4, LO6",
+      "ITU": "U",
+      "Student Materials": "Recipe 7.6 Lab Manual",
+      "S-Download": "",
+      "Student's Tasks": "Review Lab 10",
+      "URLs": ""
+    },
+    {
+      "Session": "30",
+      "Topic": "Lab 10: Using Deep Freeze to Preserve Physical Systems (cont.)",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO4, LO6",
+      "ITU": "U",
+      "Student Materials": "Recipe 7.6 Lab Manual",
+      "S-Download": "",
+      "Student's Tasks": "Review Lab 10",
+      "URLs": ""
+    },
+    {
+      "Session": "31",
+      "Topic": "Lab 11: Using FOG for Cloning and Imaging Disks",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO4, LO6",
+      "ITU": "U",
+      "Student Materials": "Recipe 7.7 Lab Manual",
+      "S-Download": "",
+      "Student's Tasks": "Review Lab 11",
+      "URLs": ""
+    },
+    {
+      "Session": "32",
+      "Topic": "Lab 11: Using FOG for Cloning and Imaging Disks (cont.)",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO4, LO6",
+      "ITU": "U",
+      "Student Materials": "Recipe 7.7 Lab Manual",
+      "S-Download": "",
+      "Student's Tasks": "Review Lab 11",
+      "URLs": ""
+    },
+    {
+      "Session": "33",
+      "Topic": "Topic 6. Malware Analysis Tools 6.1 Introduction to Python 6.2 Introduction to x86 Intel assembly language",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO4, LO6",
+      "ITU": "T",
+      "Student Materials": "Python, x86 references, Recipe 4-4 Slides",
+      "S-Download": "",
+      "Student's Tasks": "Review Lecture",
+      "URLs": ""
+    },
+    {
+      "Session": "34",
+      "Topic": "Topic 6. Malware Analysis Tools (cont.) 6.3 Database-Enabled Multi-AV Uploader in Python",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO4, LO6",
+      "ITU": "T",
+      "Student Materials": "Python, x86 references, Recipe 4-4 Slides",
+      "S-Download": "",
+      "Student's Tasks": "Review Lecture",
+      "URLs": ""
+    },
+    {
+      "Session": "35",
+      "Topic": "Lab 12: Dynamic Analysis Tools (Process Monitor, Regshot, HandleDiff)",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO5, LO7",
+      "ITU": "TU",
+      "Student Materials": "Recipes 9.1, 9.2, 9.6 Lab Manual",
+      "S-Download": "",
+      "Student's Tasks": "Review Lab 12",
+      "URLs": ""
+    },
+    {
+      "Session": "36",
+      "Topic": "Lab 12: Dynamic Analysis Tools (Process Monitor, Regshot, HandleDiff) (cont.)",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO5, LO7",
+      "ITU": "TU",
+      "Student Materials": "Recipes 9.1, 9.2, 9.6 Lab Manual",
+      "S-Download": "",
+      "Student's Tasks": "Review Lab 12",
+      "URLs": ""
+    },
+    {
+      "Session": "37",
+      "Topic": "Lab 13: Analysis Automation Tools: VirtualBox, VMWare, TShark, …",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO5, LO7",
+      "ITU": "TU",
+      "Student Materials": "Recipes 8.1-8.4 Lab Manual",
+      "S-Download": "",
+      "Student's Tasks": "Review Lab 13",
+      "URLs": ""
+    },
+    {
+      "Session": "38",
+      "Topic": "Lab 13: Analysis Automation Tools: VirtualBox, VMWare, TShark, … (cont.)",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO5, LO7",
+      "ITU": "TU",
+      "Student Materials": "Recipes 8.1-8.4 Lab Manual",
+      "S-Download": "",
+      "Student's Tasks": "Review Lab 13",
+      "URLs": ""
+    },
+    {
+      "Session": "39",
+      "Topic": "Topic 7. Malware Forensics",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO8",
+      "ITU": "TU",
+      "Student Materials": "Recipes 10.1 - 10.3 Lab Manual",
+      "S-Download": "",
+      "Student's Tasks": "Review Lab 14",
+      "URLs": ""
+    },
+    {
+      "Session": "40",
+      "Topic": "Lab 14: Using TSK for Network and Host",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO8",
+      "ITU": "TU",
+      "Student Materials": "Recipes 10.1 - 10.3 Lab Manual",
+      "S-Download": "",
+      "Student's Tasks": "Review Lab 14",
+      "URLs": ""
+    },
+    {
+      "Session": "41",
+      "Topic": "Lab 15: Identifying Packers using PEiD",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO8",
+      "ITU": "U",
+      "Student Materials": "Recipe 3.4 Lab Manual",
+      "S-Download": "",
+      "Student's Tasks": "Review Lab 15",
+      "URLs": ""
+    },
+    {
+      "Session": "42",
+      "Topic": "Lab 15: Identifying Packers using PEiD (cont.)",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO8",
+      "ITU": "U",
+      "Student Materials": "Recipe 3.4 Lab Manual",
+      "S-Download": "",
+      "Student's Tasks": "Review Lab 15",
+      "URLs": ""
+    },
+    {
+      "Session": "43",
+      "Topic": "Lab16: Registry Forensics with RegRipper Plug-ins",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO8",
+      "ITU": "U",
+      "Student Materials": "Recipe 10.8 Lab Manual",
+      "S-Download": "",
+      "Student's Tasks": "Review Lab 16",
+      "URLs": ""
+    },
+    {
+      "Session": "44",
+      "Topic": "Lab16: Registry Forensics with RegRipper Plug-ins (cont.)",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO8",
+      "ITU": "U",
+      "Student Materials": "Recipe 10.8 Lab Manual",
+      "S-Download": "",
+      "Student's Tasks": "Review Lab 16",
+      "URLs": ""
+    },
+    {
+      "Session": "45",
+      "Topic": "7.A Case Studies (discussion): 7.A.1 Bypassing Poison Ivy’s Locked Files",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO8",
+      "ITU": "U",
+      "Student Materials": "Recipes 10.4, 10.5, 10.9",
+      "S-Download": "",
+      "Student's Tasks": "Review Chapter 10.4, 10.5, 10.9",
+      "URLs": ""
+    },
+    {
+      "Session": "46",
+      "Topic": "7.A Case Studies (discussion): (cont.) 7.A.2 Bypassing Conficker’s File System ACL Restrictions 7.A.3 Detecting Rogue PKI Certificates",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO8",
+      "ITU": "U",
+      "Student Materials": "Recipes 10.4, 10.5, 10.9",
+      "S-Download": "",
+      "Student's Tasks": "Review Chapter 10.4, 10.5, 10.9",
+      "URLs": ""
+    },
+    {
+      "Session": "47",
+      "Topic": "Review Topics 5-7 (Guiding Problems)",
+      "Learning-Teaching Type": "Offline",
+      "LO": "",
+      "ITU": "",
+      "Student Materials": "Review Topics 5-7",
+      "S-Download": "",
+      "Student's Tasks": "",
+      "URLs": ""
+    },
+    {
+      "Session": "48",
+      "Topic": "Progress Test 2 (30’)",
+      "Learning-Teaching Type": "Offline",
+      "LO": "",
+      "ITU": "",
+      "Student Materials": "",
+      "S-Download": "",
+      "Student's Tasks": "",
+      "URLs": ""
+    },
+    {
+      "Session": "49",
+      "Topic": "Topic 8. Malware Debugging 8.1 Overview of Malware Debuggers (OllyDbg,…)",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO5, LO7",
+      "ITU": "T",
+      "Student Materials": "Recipes 11.1-11.9 Chapter 11",
+      "S-Download": "",
+      "Student's Tasks": "Review Chapter 11.1-11.9",
+      "URLs": ""
+    },
+    {
+      "Session": "50",
+      "Topic": "Topic 8. Malware Debugging (cont.) 8.1 Overview of Malware Debuggers (OllyDbg,…) (cont.)",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO5, LO7",
+      "ITU": "T",
+      "Student Materials": "Recipes 11.1-11.9 Chapter 11",
+      "S-Download": "",
+      "Student's Tasks": "Review Chapter 11.1-11.9",
+      "URLs": ""
+    },
+    {
+      "Session": "51",
+      "Topic": "Lab 17: Implementing a JIT (just-in-time) Debugger for Shellcode Analysis",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO5, LO7",
+      "ITU": "U",
+      "Student Materials": "Recipe 11.2 Lab Manual",
+      "S-Download": "",
+      "Student's Tasks": "Review Lab 17",
+      "URLs": ""
+    },
+    {
+      "Session": "52",
+      "Topic": "Lab 17: Implementing a JIT (just-in-time) Debugger for Shellcode Analysis (cont.)",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO5, LO7",
+      "ITU": "U",
+      "Student Materials": "Recipe 11.2 Lab Manual",
+      "S-Download": "",
+      "Student's Tasks": "Review Lab 17",
+      "URLs": ""
+    },
+    {
+      "Session": "53",
+      "Topic": "Topic 9. Memory Forensics with Volatility 9.1 Memory Acquisition",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO5, LO7",
+      "ITU": "T",
+      "Student Materials": "Slides Chapter 15.1 – 15.4",
+      "S-Download": "",
+      "Student's Tasks": "Review Lecture",
+      "URLs": ""
+    },
+    {
+      "Session": "54",
+      "Topic": "Topic 9. Memory Forensics with Volatility (cont.) 9.2 Accessing VM Memory Files 9.3 Preparing a Volatility Install",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO5, LO7",
+      "ITU": "T",
+      "Student Materials": "Slides Chapter 15.1 – 15.4",
+      "S-Download": "",
+      "Student's Tasks": "Review Lecture",
+      "URLs": ""
+    },
+    {
+      "Session": "55",
+      "Topic": "Lab 18: Memory Dump Tool (MoonSols Windows Memory Toolkit)",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO5, LO7",
+      "ITU": "U",
+      "Student Materials": "Recipe 15.1 Lab Manual",
+      "S-Download": "",
+      "Student's Tasks": "Review Lab 18",
+      "URLs": ""
+    },
+    {
+      "Session": "56",
+      "Topic": "Lab 18: Memory Dump Tool (MoonSols Windows Memory Toolkit) (cont.)",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO5, LO7",
+      "ITU": "U",
+      "Student Materials": "Recipe 15.1 Lab Manual",
+      "S-Download": "",
+      "Student's Tasks": "Review Lab 18",
+      "URLs": ""
+    },
+    {
+      "Session": "57",
+      "Topic": "Lab 19: Memory Analysis Tool (Volatility Framework)",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO5, LO7",
+      "ITU": "U",
+      "Student Materials": "Recipe 15.4 Lab Manual",
+      "S-Download": "",
+      "Student's Tasks": "Review Lab 19",
+      "URLs": ""
+    },
+    {
+      "Session": "58",
+      "Topic": "Lab 19: Memory Analysis Tool (Volatility Framework) (cont.)",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO5, LO7",
+      "ITU": "U",
+      "Student Materials": "Recipe 15.4 Lab Manual",
+      "S-Download": "",
+      "Student's Tasks": "Review Lab 19",
+      "URLs": ""
+    },
+    {
+      "Session": "59",
+      "Topic": "Course Review",
+      "Learning-Teaching Type": "Offline",
+      "LO": "",
+      "ITU": "",
+      "Student Materials": "Topics 1 - 9",
+      "S-Download": "",
+      "Student's Tasks": "",
+      "URLs": ""
+    },
+    {
+      "Session": "60",
+      "Topic": "Course Review (cont.)",
+      "Learning-Teaching Type": "Offline",
+      "LO": "",
+      "ITU": "",
+      "Student Materials": "Topics 1 - 9",
+      "S-Download": "",
+      "Student's Tasks": "",
+      "URLs": ""
+    }
+  ],
+  "constructive_questions": [
+    {
+      "No.": "1",
+      "Session No": "11",
+      "Name": "CQ1",
+      "Details": "How to logging API calls with Process Monitor?"
+    },
+    {
+      "No.": "2",
+      "Session No": "11",
+      "Name": "CQ2",
+      "Details": "How to change detection with Regshot?"
+    },
+    {
+      "No.": "3",
+      "Session No": "11",
+      "Name": "CQ3",
+      "Details": "How to receive File System change Notifications?"
+    },
+    {
+      "No.": "4",
+      "Session No": "11",
+      "Name": "CQ4",
+      "Details": "How to receive Registry change notifications?"
+    },
+    {
+      "No.": "5",
+      "Session No": "11",
+      "Name": "CQ5",
+      "Details": "How to handle Table Diffing?"
+    },
+    {
+      "No.": "6",
+      "Session No": "12",
+      "Name": "CQ1",
+      "Details": "How to discover Alternate Data Streams with TSK?"
+    },
+    {
+      "No.": "7",
+      "Session No": "12",
+      "Name": "CQ2",
+      "Details": "How to detect Hidden Files and Directories with TSK?"
+    },
+    {
+      "No.": "8",
+      "Session No": "12",
+      "Name": "CQ3",
+      "Details": "How to find Hiddent Registry Data with Microsoft's Offline API?"
+    },
+    {
+      "No.": "9",
+      "Session No": "12",
+      "Name": "CQ4",
+      "Details": "How to bypass Poison Ivy's Locked Files?"
+    },
+    {
+      "No.": "10",
+      "Session No": "12",
+      "Name": "CQ5",
+      "Details": "How to bypass Conficker's File System ACL restrictions?"
+    },
+    {
+      "No.": "11",
+      "Session No": "13",
+      "Name": "CQ1",
+      "Details": "How top open and attach to Processes?"
+    },
+    {
+      "No.": "12",
+      "Session No": "13",
+      "Name": "CQ2",
+      "Details": "How to configure a JIT debugger for Shellcode Analysis?"
+    },
+    {
+      "No.": "13",
+      "Session No": "13",
+      "Name": "CQ3",
+      "Details": "How to get familiar with the Debugger GUI?"
+    },
+    {
+      "No.": "14",
+      "Session No": "13",
+      "Name": "CQ4",
+      "Details": "How to explore Process Memory and resources?"
+    },
+    {
+      "No.": "15",
+      "Session No": "13",
+      "Name": "CQ5",
+      "Details": "How to control Program Execution?"
+    },
+    {
+      "No.": "16",
+      "Session No": "14",
+      "Name": "CQ1",
+      "Details": "How to reverse XOR algorithms in Python?"
+    },
+    {
+      "No.": "17",
+      "Session No": "14",
+      "Name": "CQ2",
+      "Details": "How to detect XOR Encoded Data with yaratize?"
+    },
+    {
+      "No.": "18",
+      "Session No": "14",
+      "Name": "CQ3",
+      "Details": "How to Decode Base64 with Special Alphabets?"
+    },
+    {
+      "No.": "19",
+      "Session No": "14",
+      "Name": "CQ4",
+      "Details": "How to isolate Encrypted Data in Packet Captures?"
+    },
+    {
+      "No.": "20",
+      "Session No": "14",
+      "Name": "CQ5",
+      "Details": "How to find Crypto with SnD Reverser Tool, FindCrypt, and Kanal?"
+    },
+    {
+      "No.": "21",
+      "Session No": "15",
+      "Name": "CQ1",
+      "Details": "How enumerate DLL exports?"
+    },
+    {
+      "No.": "22",
+      "Session No": "15",
+      "Name": "CQ2",
+      "Details": "How to execute DLLs with rundll32.exe?"
+    },
+    {
+      "No.": "23",
+      "Session No": "15",
+      "Name": "CQ3",
+      "Details": "How to bypass Host Process Restrictions?"
+    },
+    {
+      "No.": "24",
+      "Session No": "15",
+      "Name": "CQ4",
+      "Details": "How to call DLL Exports remotely with rundll32ex?"
+    },
+    {
+      "No.": "25",
+      "Session No": "15",
+      "Name": "CQ5",
+      "Details": "How to debug DLLs with LOADDLL.EXE?"
+    },
+    {
+      "No.": "26",
+      "Session No": "16",
+      "Name": "CQ1",
+      "Details": "How to debug with LiveKd?"
+    },
+    {
+      "No.": "27",
+      "Session No": "16",
+      "Name": "CQ2",
+      "Details": "How to enable the Kernel's Debug Boot Switch?"
+    },
+    {
+      "No.": "28",
+      "Session No": "16",
+      "Name": "CQ3",
+      "Details": "How to debug a VMware Workstation Guest on Windows?"
+    },
+    {
+      "No.": "29",
+      "Session No": "16",
+      "Name": "CQ4",
+      "Details": "How to debug a Parallels Guest on Mac OS X?"
+    },
+    {
+      "No.": "30",
+      "Session No": "16",
+      "Name": "CQ5",
+      "Details": "How to use WinDbg commands and Controls?"
+    },
+    {
+      "No.": "31",
+      "Session No": "17",
+      "Name": "CQ1",
+      "Details": "How to dump memory with MoonSols Windows Memory Toolkit?"
+    },
+    {
+      "No.": "32",
+      "Session No": "17",
+      "Name": "CQ2",
+      "Details": "How to remote, read-only memory accquisition with F-Response?"
+    },
+    {
+      "No.": "33",
+      "Session No": "17",
+      "Name": "CQ3",
+      "Details": "How to access Virtual Machine Memory files?"
+    },
+    {
+      "No.": "34",
+      "Session No": "17",
+      "Name": "CQ4",
+      "Details": "How to volatite in a Nutshell?"
+    },
+    {
+      "No.": "35",
+      "Session No": "17",
+      "Name": "CQ5",
+      "Details": "How to investigate process in Memory Dumps?"
+    },
+    {
+      "No.": "36",
+      "Session No": "18",
+      "Name": "CQ1",
+      "Details": "How to hunt Suspicious Loaded DLLs?"
+    },
+    {
+      "No.": "37",
+      "Session No": "18",
+      "Name": "CQ2",
+      "Details": "How to detect Unlinked DLLs with ldr_modules?"
+    },
+    {
+      "No.": "38",
+      "Session No": "18",
+      "Name": "CQ3",
+      "Details": "How to explore Virtual Address Descriptors (VAD)?"
+    },
+    {
+      "No.": "39",
+      "Session No": "18",
+      "Name": "CQ4",
+      "Details": "How to translate Page Protections?"
+    },
+    {
+      "No.": "40",
+      "Session No": "18",
+      "Name": "CQ5",
+      "Details": "How to find Artifacts in Process Memory?"
+    },
+    {
+      "No.": "41",
+      "Session No": "19",
+      "Name": "CQ1",
+      "Details": "How to detect IAT Hooks?"
+    },
+    {
+      "No.": "42",
+      "Session No": "19",
+      "Name": "CQ2",
+      "Details": "how to detect EAT Hooks?"
+    },
+    {
+      "No.": "43",
+      "Session No": "19",
+      "Name": "CQ3",
+      "Details": "How to detect Inline API hooks?"
+    },
+    {
+      "No.": "44",
+      "Session No": "19",
+      "Name": "CQ4",
+      "Details": "How to detect Interrupt Descriptor Table (IDT) Hooks?"
+    },
+    {
+      "No.": "45",
+      "Session No": "19",
+      "Name": "CQ5",
+      "Details": "How to detect Driver IRP hooks?"
+    },
+    {
+      "No.": "46",
+      "Session No": "20",
+      "Name": "CQ1",
+      "Details": "How to explore Socket and Connection Objects?"
+    },
+    {
+      "No.": "47",
+      "Session No": "20",
+      "Name": "CQ2",
+      "Details": "How to analyze network Artifacts Left by Zeus?"
+    },
+    {
+      "No.": "48",
+      "Session No": "20",
+      "Name": "CQ3",
+      "Details": "How to detect Attempts to Hide TCP/IP Activity?"
+    },
+    {
+      "No.": "49",
+      "Session No": "20",
+      "Name": "CQ4",
+      "Details": "How to detect Raw sockets and promiscuous NICs?"
+    },
+    {
+      "No.": "50",
+      "Session No": "20",
+      "Name": "CQ5",
+      "Details": "How to analyze Registry Artifacts with Memory Registry Tools?"
+    }
+  ],
+  "materials": [
+    {
+      "No.": "1",
+      "Material Description": "Malware Analyst’s Cookbook and DVD: Tools and Techniques for fighting malicious code",
+      "Author": "Michael Hale Ligh, Steven Adair, Blake Hartstein, and Matthew Richard",
+      "Publisher": "Wiley Publishing",
+      "Published Date": "2011",
+      "Edition": "",
+      "ISBN": "978-0470613030",
+      "Is Main Material": "True",
+      "Is Hard Copy": "False",
+      "Is Online": "True",
+      "Note": "Hardcopy version is in the FPTU library as well."
+    },
+    {
+      "No.": "2",
+      "Material Description": "Introduction to Malware Analysis (whitepaper)",
+      "Author": "Lenny Zeltser",
+      "Publisher": "SANS Institute",
+      "Published Date": "2010",
+      "Edition": "",
+      "ISBN": "",
+      "Is Main Material": "False",
+      "Is Hard Copy": "True",
+      "Is Online": "False",
+      "Note": ""
+    },
+    {
+      "No.": "3",
+      "Material Description": "Malware Forensics: Investigating and Analyzing Malicious Code (online: http://library.fpt.edu.vn/book24x7.html).",
+      "Author": "James Aquilina, Cameron Malin, Eoghan Casey",
+      "Publisher": "Syngress Publing",
+      "Published Date": "2008",
+      "Edition": "",
+      "ISBN": "",
+      "Is Main Material": "False",
+      "Is Hard Copy": "False",
+      "Is Online": "True",
+      "Note": ""
+    },
+    {
+      "No.": "4",
+      "Material Description": "https://samsclass.info/126/126_S17.shtml",
+      "Author": "",
+      "Publisher": "",
+      "Published Date": "",
+      "Edition": "",
+      "ISBN": "",
+      "Is Main Material": "False",
+      "Is Hard Copy": "False",
+      "Is Online": "True",
+      "Note": ""
+    },
+    {
+      "No.": "5",
+      "Material Description": "Learning Python",
+      "Author": "Mark Lutz",
+      "Publisher": "O’Reilly",
+      "Published Date": "2013",
+      "Edition": "",
+      "ISBN": "",
+      "Is Main Material": "False",
+      "Is Hard Copy": "True",
+      "Is Online": "False",
+      "Note": ""
+    },
+    {
+      "No.": "6",
+      "Material Description": "Lecture slides, Lab manual (ppt)",
+      "Author": "",
+      "Publisher": "",
+      "Published Date": "",
+      "Edition": "",
+      "ISBN": "",
+      "Is Main Material": "False",
+      "Is Hard Copy": "False",
+      "Is Online": "False",
+      "Note": ""
+    }
+  ],
+  "source_path": "data/raw/syllabi/14339.html",
+  "id": "syllabus:14339"
+}

@@ -1,0 +1,1337 @@
+{
+  "syllabus_id": 10039,
+  "subject_code": "NWC302",
+  "subject_name": "Network Connetivity",
+  "syllabus_name": "Network Connectivity_Kết nối mạng",
+  "credits": 3,
+  "degree_level": "Bachelor",
+  "time_allocation": "45h (60 sessions) contact hours + 1h final exam + 104h self-study",
+  "prerequisite": "OSP201",
+  "general_information": {
+    "Syllabus ID": "10039",
+    "Syllabus Name": "Network Connectivity_Kết nối mạng",
+    "Course Name English": "Network Connectivity",
+    "Subject Code": "NWC302",
+    "Learning-Teaching Method": "Lecture,Active learning,Social Constructivism,Practice, Discussion",
+    "NoCredit": "3",
+    "Degree Level": "Bachelor",
+    "Time Allocation": "45h (60 sessions) contact hours + 1h final exam + 104h self-study",
+    "Pre-Requisite": "OSP201",
+    "Description": "You learn what networks are and how they work. You also learn about planning, designing, and installing networks in many different situations. The course introduces you to networking theory and makes the theory come alive through interactive Hands-On Activities. An important element of the hands-on approach is the ability to immediately apply and reinforce what you have learned. You can use just one operating system to practice the concepts, or you can use a combination of operating systems for broader learning. You learn why security is important and how to make security preparations. The anatomy of specific kinds of network attacks is discussed so you will know how to block them. You learn how to secure networks through many approaches, such as updating operating systems, using IPSec, and creating border and firewall security",
+    "StudentTasks": "- Students must attend more than 80% of contact slots in order to be accepted to the final examination. - Student is responsible to do all exercises, assignments and labs given by instructor in class or at home and submit on time - Use laptop in class only for learning purpose - Promptly access to the FU LMS at https://flm.fpt.edu.vn/ for up-to-date course information",
+    "Tools": "Vmware workstation, Wireshark",
+    "Scoring Scale": "10",
+    "DecisionNo MM/dd/yyyy": "808/QĐ-ĐHFPT dated 08/03/2023",
+    "IsApproved": "True",
+    "Note": "",
+    "Is Scored": "True",
+    "MinAvgMarkToPass": "5",
+    "IsActive": "True",
+    "ApprovedDate": "8/3/2023"
+  },
+  "active": true,
+  "approved": true,
+  "decision": "808/QĐ-ĐHFPT dated 08/03/2023",
+  "description": "You learn what networks are and how they work. You also learn about planning, designing, and installing networks in many different situations. The course introduces you to networking theory and makes the theory come alive through interactive Hands-On Activities. An important element of the hands-on approach is the ability to immediately apply and reinforce what you have learned. You can use just one operating system to practice the concepts, or you can use a combination of operating systems for broader learning. You learn why security is important and how to make security preparations. The anatomy of specific kinds of network attacks is discussed so you will know how to block them. You learn how to secure networks through many approaches, such as updating operating systems, using IPSec, and creating border and firewall security",
+  "learning_outcomes": [
+    {
+      "No.": "1",
+      "CLO Name": "CLO1",
+      "CLO Details": "Networking: An Overview"
+    },
+    {
+      "No.": "2",
+      "CLO Name": "CLO2",
+      "CLO Details": "How LAN And WAN Communications Work"
+    },
+    {
+      "No.": "3",
+      "CLO Name": "CLO3",
+      "CLO Details": "Using Network Communication Protocols"
+    },
+    {
+      "No.": "4",
+      "CLO Name": "CLO4",
+      "CLO Details": "Devices for Connecting Networks"
+    },
+    {
+      "No.": "5",
+      "CLO Name": "CLO5",
+      "CLO Details": "Connecting Through A Wireless Network"
+    },
+    {
+      "No.": "6",
+      "CLO Name": "CLO6",
+      "CLO Details": "Sharing Resources on A Network"
+    },
+    {
+      "No.": "7",
+      "CLO Name": "CLO7",
+      "CLO Details": "Using A Server"
+    },
+    {
+      "No.": "8",
+      "CLO Name": "CLO8",
+      "CLO Details": "Basic Network Design"
+    },
+    {
+      "No.": "9",
+      "CLO Name": "CLO9",
+      "CLO Details": "Securing Your Network"
+    },
+    {
+      "No.": "10",
+      "CLO Name": "CLO10",
+      "CLO Details": "Maintaining And Troubleshooting Your Network"
+    }
+  ],
+  "assessments": [
+    {
+      "No.": "1",
+      "Category": "Participation in discussions",
+      "Type": "on-going",
+      "Part": "1",
+      "Weight": "10.0%",
+      "Completion Criteria": ">0",
+      "Duration": "",
+      "CLO": "",
+      "Question Type": "",
+      "No Question": "N/A",
+      "Knowledge and Skill": "",
+      "Grading Guide": "",
+      "Note": ""
+    },
+    {
+      "No.": "2",
+      "Category": "Lab",
+      "Type": "on-going",
+      "Part": "12",
+      "Weight": "40.0%",
+      "Completion Criteria": "4",
+      "Duration": "Option 1: 90' in class; Option 2 (For Constructivism Approach only): Follow lecturer's proposal",
+      "CLO": "",
+      "Question Type": "Option 1: practical exercises; Option 2 (For Constructivism Approach only): Follow lecturer's proposal",
+      "No Question": "Option 1: N/A ;Option 2 (For Constructivism Approach only): Follow lecturer's proposal",
+      "Knowledge and Skill": "Technical aspect of studied topics",
+      "Grading Guide": "- Guided by instructor - 10 lab sessions are arranged relevant to the chapter theory - Student must finish labs and submit the results to the lecturer in class. - An average point of all labs could be evaluated and publised to students at the end of the semesters",
+      "Note": ""
+    },
+    {
+      "No.": "3",
+      "Category": "Progress test",
+      "Type": "on-going",
+      "Part": "3",
+      "Weight": "20.0%",
+      "Completion Criteria": ">0",
+      "Duration": "Option 1: 30'; Option 2 (For Constructivism Approach only): Follow lecturer's proposal",
+      "CLO": "",
+      "Question Type": "Option 1: Multiple choices Marked by Computer or a suitable format; Option 2 (For Constructivism Approach only): Follow lecturer's proposal",
+      "No Question": "Option 1: '15-20; Option 2 (For Constructivism Approach only): Follow lecturer's proposal",
+      "Knowledge and Skill": "- Test 1: cover chapter 1,2,3- Test 2: cover chapters 4,5- Test 3: cover chapters 8,10",
+      "Grading Guide": "in class, by instructor",
+      "Note": "Instruction and shedules for Progress tests must be presented in the Course Implementation Plan approved by director of the campus. Progress test must be taken right after the last lectures of required material. Instructor has resposibility to review the test for students after graded."
+    },
+    {
+      "No.": "4",
+      "Category": "Final exam",
+      "Type": "Final exam",
+      "Part": "1",
+      "Weight": "30.0%",
+      "Completion Criteria": "4",
+      "Duration": "60'",
+      "CLO": "Multiple choicesMarked by Computer",
+      "Question Type": "Multiple choices Marked by Computer",
+      "No Question": "60",
+      "Knowledge and Skill": "concepts, algorithms; all studied chapters",
+      "Grading Guide": "by exam board, using computer",
+      "Note": "The exam questions must be updated or different at least 70% to the previous ones."
+    }
+  ],
+  "schedule": [
+    {
+      "Session": "1",
+      "Topic": "1. Course overview 1.1 What a network is 1.2 Basic networking concepts and terms 1.3 Advantages of using a network in a home",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO1",
+      "ITU": "",
+      "Student Materials": "Chapter 1: Networking - An Overview",
+      "S-Download": "mat1",
+      "Student's Tasks": "\"Teacher: - Introduce Course objectives - Introduce Casestudy, Assignment - Introduce Syllabus - Introduce teaching method - Introduce Labs Student: - Listen to the teacher about the introduction - Ask and listen to the answers\"",
+      "URLs": ""
+    },
+    {
+      "Session": "2",
+      "Topic": "1.4 Advantages of using a network in an office 1.5 Boundaries between networks",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO1",
+      "ITU": "",
+      "Student Materials": "Chapter 1: Networking - An Overview",
+      "S-Download": "",
+      "Student's Tasks": "\"Teacher: - Introduce Course objectives - Introduce Casestudy, Assignment - Introduce Syllabus - Introduce teaching method - Introduce Labs Student: - Listen to the teacher about the introduction - Ask and listen to the answers\"",
+      "URLs": ""
+    },
+    {
+      "Session": "3",
+      "Topic": "1.6 Network topologies 1.7 Network design concepts 1.8 Design a simple LAN",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO1",
+      "ITU": "",
+      "Student Materials": "Chapter 1: Networking - An Overview",
+      "S-Download": "",
+      "Student's Tasks": "Teacher: - Introduce lesson - Check last lession knowledge - Linking knowledge with classroom current lecture - Lecturing follow slides - Organize discussing activities - Guidance and conclude discussion - Teaching the external content (if any) - Summary of lecture - Review lessons - Assign homework (if any) Student: - Answer the question from teacher when requested - Linking knowledge with classroom current lecture - Do homework, discussion - Listen to the evaluation sessions and receive homework (if any)",
+      "URLs": ""
+    },
+    {
+      "Session": "4",
+      "Topic": "Guide Lab 01",
+      "Learning-Teaching Type": "Offline",
+      "LO": "",
+      "ITU": "",
+      "Student Materials": "Chapter 1: Networking - An Overview",
+      "S-Download": "",
+      "Student's Tasks": "\"Teacher: - Introduce lesson - Check last lession knowledge - Linking knowledge with classroom current lecture - Lecturing follow slides - Organize discussing activities - Guidance and conclude discussion - Teaching the external content (if any) - Summary of lecture - Review lessons - Assign homework (if any) Student: - Answer the question from teacher when requested - Linking knowledge with classroom current lecture - Do homework, discussion - Listen to the evaluation sessions and receive homework (if any) \"",
+      "URLs": ""
+    },
+    {
+      "Session": "5",
+      "Topic": "Lab 01",
+      "Learning-Teaching Type": "Offline",
+      "LO": "",
+      "ITU": "",
+      "Student Materials": "Lab 01: Networking - An Overview",
+      "S-Download": "",
+      "Student's Tasks": "Teacher: - Introduce the lab - Instruct and discuss the lab Student - Listen the instruction teacher's lab - Do and discuss with other",
+      "URLs": ""
+    },
+    {
+      "Session": "6",
+      "Topic": "2. How LAN And WAN Communications Work 2.1 Standards for LAN and WAN communications 2.2 Communicating Between Stacks",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO2",
+      "ITU": "",
+      "Student Materials": "Chapter2: How LAN And WAN Communications Work",
+      "S-Download": "",
+      "Student's Tasks": "Teacher: - Introduce lesson - Check last lession knowledge - Linking knowledge with classroom current lecture - Lecturing follow slides - Organize discussing activities - Guidance and conclude discussion - Teaching the external content (if any) - Summary of lecture - Review lessons - Assign homework (if any) Student: - Answer the question from teacher when requested - Linking knowledge with classroom current lecture - Do homework, discussion - Listen to the evaluation sessions and receive homework (if any)",
+      "URLs": ""
+    },
+    {
+      "Session": "7",
+      "Topic": "2.3 Applying the OSI Model 2.4 Understanding the Role of Requests for Comments",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO2",
+      "ITU": "",
+      "Student Materials": "Chapter2: How LAN And WAN Communications Work",
+      "S-Download": "",
+      "Student's Tasks": "\"Teacher: - Introduce lesson - Check last lession knowledge - Linking knowledge with classroom current lecture - Lecturing follow slides - Organize discussing activities - Guidance and conclude discussion - Teaching the external content (if any) - Summary of lecture - Review lessons - Assign homework (if any) Student: - Answer the question from teacher when requested - Linking knowledge with classroom current lecture - Do homework, discussion - Listen to the evaluation sessions and receive homework (if any) \"",
+      "URLs": ""
+    },
+    {
+      "Session": "8",
+      "Topic": "2.5 Basic WAN network communications 2.6 Advantages of using Ethernet in network designs",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO2",
+      "ITU": "",
+      "Student Materials": "Chapter2: How LAN And WAN Communications Work",
+      "S-Download": "",
+      "Student's Tasks": "\"Teacher: - Introduce lesson - Check last lession knowledge - Linking knowledge with classroom current lecture - Lecturing follow slides - Organize discussing activities - Guidance and conclude discussion - Teaching the external content (if any) - Summary of lecture - Review lessons - Assign homework (if any) Student: - Answer the question from teacher when requested - Linking knowledge with classroom current lecture - Do homework, discussion - Listen to the evaluation sessions and receive homework (if any) \"",
+      "URLs": ""
+    },
+    {
+      "Session": "9",
+      "Topic": "Guide Lab 02",
+      "Learning-Teaching Type": "Offline",
+      "LO": "",
+      "ITU": "",
+      "Student Materials": "Lab 02: How LAN And WAN Communications Work",
+      "S-Download": "",
+      "Student's Tasks": "Teacher: - Introduce the lab - Instruct and discuss the lab Student - Listen the instruction teacher's lab - Do and discuss with other",
+      "URLs": ""
+    },
+    {
+      "Session": "10",
+      "Topic": "Lab 02",
+      "Learning-Teaching Type": "Offline",
+      "LO": "",
+      "ITU": "",
+      "Student Materials": "Lab 02: How LAN And WAN Communications Work",
+      "S-Download": "",
+      "Student's Tasks": "Teacher: - Introduce the lab - Instruct and discuss the lab Student - Listen the instruction teacher's lab - Do and discuss with other",
+      "URLs": ""
+    },
+    {
+      "Session": "11",
+      "Topic": "3. Using Network Communication Protocols 3.1 Network protocols including TCP, UDP, and IP 3.2 IP addressing",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO3",
+      "ITU": "",
+      "Student Materials": "Chapter 3: Using Network Communication Protocols",
+      "S-Download": "",
+      "Student's Tasks": "Teacher: - Introduce lesson - Check last lession knowledge - Linking knowledge with classroom current lecture - Lecturing follow slides - Organize discussing activities - Guidance and conclude discussion - Teaching the external content (if any) - Summary of lecture - Review lessons - Assign homework (if any) Student: - Answer the question from teacher when requested - Linking knowledge with classroom current lecture - Do homework, discussion - Listen to the evaluation sessions and receive homework (if any)",
+      "URLs": ""
+    },
+    {
+      "Session": "12",
+      "Topic": "3.3 IPv4 and IPv6 3.4 Application protocols in the TCP/IP suite",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO3",
+      "ITU": "",
+      "Student Materials": "Chapter 3: Using Network Communication Protocols",
+      "S-Download": "",
+      "Student's Tasks": "\"Teacher: - Introduce lesson - Check last lession knowledge - Linking knowledge with classroom current lecture - Lecturing follow slides - Organize discussing activities - Guidance and conclude discussion - Teaching the external content (if any) - Summary of lecture - Review lessons - Assign homework (if any) Student: - Answer the question from teacher when requested - Linking knowledge with classroom current lecture - Do homework, discussion - Listen to the evaluation sessions and receive homework (if any) \"",
+      "URLs": ""
+    },
+    {
+      "Session": "13",
+      "Topic": "3.5 VoIP 3.6 Compare TCP/IP to the OSI model",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO3",
+      "ITU": "",
+      "Student Materials": "Chapter 3: Using Network Communication Protocols",
+      "S-Download": "",
+      "Student's Tasks": "\"Teacher: - Introduce lesson - Check last lession knowledge - Linking knowledge with classroom current lecture - Lecturing follow slides - Organize discussing activities - Guidance and conclude discussion - Teaching the external content (if any) - Summary of lecture - Review lessons - Assign homework (if any) Student: - Answer the question from teacher when requested - Linking knowledge with classroom current lecture - Do homework, discussion - Listen to the evaluation sessions and receive homework (if any) \"",
+      "URLs": ""
+    },
+    {
+      "Session": "14",
+      "Topic": "3.7 WAN protocols used for remote communications 3.8 Design a network to use TCP/IP and application protocols",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO3",
+      "ITU": "",
+      "Student Materials": "Chapter 3: Using Network Communication Protocols",
+      "S-Download": "",
+      "Student's Tasks": "\"Teacher: - Introduce lesson - Check last lession knowledge - Linking knowledge with classroom current lecture - Lecturing follow slides - Organize discussing activities - Guidance and conclude discussion - Teaching the external content (if any) - Summary of lecture - Review lessons - Assign homework (if any) Student: - Answer the question from teacher when requested - Linking knowledge with classroom current lecture - Do homework, discussion - Listen to the evaluation sessions and receive homework (if any) \"",
+      "URLs": ""
+    },
+    {
+      "Session": "15",
+      "Topic": "Guide Lab 03",
+      "Learning-Teaching Type": "Offline",
+      "LO": "",
+      "ITU": "",
+      "Student Materials": "Lab 03: Using Network Communication Protocols",
+      "S-Download": "",
+      "Student's Tasks": "Teacher: - Introduce the lab - Instruct and discuss the lab Student - Listen the instruction teacher's lab - Do and discuss with other",
+      "URLs": ""
+    },
+    {
+      "Session": "16",
+      "Topic": "Lab 03",
+      "Learning-Teaching Type": "Offline",
+      "LO": "",
+      "ITU": "",
+      "Student Materials": "Lab 03: Using Network Communication Protocols",
+      "S-Download": "",
+      "Student's Tasks": "Teacher: - Introduce the lab - Instruct and discuss the lab Student - Listen the instruction teacher's lab - Do and discuss with other",
+      "URLs": ""
+    },
+    {
+      "Session": "17",
+      "Topic": "Guide Lab 04",
+      "Learning-Teaching Type": "Offline",
+      "LO": "",
+      "ITU": "",
+      "Student Materials": "Lab 03: Using Network Communication Protocols",
+      "S-Download": "",
+      "Student's Tasks": "Teacher: - Introduce the lab - Instruct and discuss the lab Student - Listen the instruction teacher's lab - Do and discuss with other Progress test 1",
+      "URLs": ""
+    },
+    {
+      "Session": "18",
+      "Topic": "Lab 04",
+      "Learning-Teaching Type": "Offline",
+      "LO": "",
+      "ITU": "",
+      "Student Materials": "Lab 03: Using Network Communication Protocols",
+      "S-Download": "",
+      "Student's Tasks": "Teacher: - Introduce the lab - Instruct and discuss the lab Student - Listen the instruction teacher's lab - Do and discuss with other Progress test 1",
+      "URLs": ""
+    },
+    {
+      "Session": "19",
+      "Topic": "4. Devices For Connecting Networks 4.1 LAN network transmission 4.2 WAN network equipment",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO4",
+      "ITU": "",
+      "Student Materials": "Chapter 4: Devices For Connecting Networks",
+      "S-Download": "",
+      "Student's Tasks": "Teacher: - Introduce lesson - Check last lession knowledge - Linking knowledge with classroom current lecture - Lecturing follow slides - Organize discussing activities - Guidance and conclude discussion - Teaching the external content (if any) - Summary of lecture - Review lessons - Assign homework (if any) Student: - Answer the question from teacher when requested - Linking knowledge with classroom current lecture - Do homework, discussion - Listen to the evaluation sessions and receive homework (if any)",
+      "URLs": ""
+    },
+    {
+      "Session": "20",
+      "Topic": "4.3 Design a router-based network",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO4",
+      "ITU": "",
+      "Student Materials": "Chapter 4: Devices For Connecting Networks",
+      "S-Download": "",
+      "Student's Tasks": "Teacher: - Introduce lesson - Check last lession knowledge - Linking knowledge with classroom current lecture - Lecturing follow slides - Organize discussing activities - Guidance and conclude discussion - Teaching the external content (if any) - Summary of lecture - Review lessons - Assign homework (if any) Student: - Answer the question from teacher when requested - Linking knowledge with classroom current lecture - Do homework, discussion - Listen to the evaluation sessions and receive homework (if any)",
+      "URLs": ""
+    },
+    {
+      "Session": "21",
+      "Topic": "Guide Lab 05",
+      "Learning-Teaching Type": "Offline",
+      "LO": "",
+      "ITU": "",
+      "Student Materials": "Lab 05: Devices For Connecting Networks",
+      "S-Download": "",
+      "Student's Tasks": "Teacher: - Introduce the lab - Instruct and discuss the lab Student - Listen the instruction teacher's lab - Do and discuss with other",
+      "URLs": ""
+    },
+    {
+      "Session": "22",
+      "Topic": "Lab 05",
+      "Learning-Teaching Type": "Offline",
+      "LO": "",
+      "ITU": "",
+      "Student Materials": "Lab 05: Devices For Connecting Networks",
+      "S-Download": "",
+      "Student's Tasks": "Teacher: - Introduce the lab - Instruct and discuss the lab Student - Listen the instruction teacher's lab - Do and discuss with other",
+      "URLs": ""
+    },
+    {
+      "Session": "23",
+      "Topic": "5. Connecting Through a Wireless Network 5.1 Introduction wireless networking technologies 5.2 History of wireless networks and their advantages",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO5",
+      "ITU": "",
+      "Student Materials": "Chapter 5: Connecting Through a Wireless Network",
+      "S-Download": "",
+      "Student's Tasks": "Teacher: - Introduce lesson - Check last lession knowledge - Linking knowledge with classroom current lecture - Lecturing follow slides - Organize discussing activities - Guidance and conclude discussion - Teaching the external content (if any) - Summary of lecture - Review lessons - Assign homework (if any) Student: - Answer the question from teacher when requested - Linking knowledge with classroom current lecture - Do homework, discussion - Listen to the evaluation sessions and receive homework (if any)",
+      "URLs": ""
+    },
+    {
+      "Session": "24",
+      "Topic": "5.3 Radio wave technologies 5.4 802.11 radio wave networking",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO5",
+      "ITU": "",
+      "Student Materials": "Chapter 5: Connecting Through a Wireless Network",
+      "S-Download": "",
+      "Student's Tasks": "Teacher: - Introduce lesson - Check last lession knowledge - Linking knowledge with classroom current lecture - Lecturing follow slides - Organize discussing activities - Guidance and conclude discussion - Teaching the external content (if any) - Summary of lecture - Review lessons - Assign homework (if any) Student: - Answer the question from teacher when requested - Linking knowledge with classroom current lecture - Do homework, discussion - Listen to the evaluation sessions and receive homework (if any)",
+      "URLs": ""
+    },
+    {
+      "Session": "25",
+      "Topic": "5.5 Bluetooth and HiperLAN radio wave technologies 5.6 802.11 radio wave networking",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO5",
+      "ITU": "",
+      "Student Materials": "Chapter 5: Connecting Through a Wireless Network",
+      "S-Download": "",
+      "Student's Tasks": "Teacher: - Introduce lesson - Check last lession knowledge - Linking knowledge with classroom current lecture - Lecturing follow slides - Organize discussing activities - Guidance and conclude discussion - Teaching the external content (if any) - Summary of lecture - Review lessons - Assign homework (if any) Student: - Answer the question from teacher when requested - Linking knowledge with classroom current lecture - Do homework, discussion - Listen to the evaluation sessions and receive homework (if any)",
+      "URLs": ""
+    },
+    {
+      "Session": "26",
+      "Topic": "5.7 Wireless MAN networking through WiMAX and HiperMAN 5.8 Cellular phone communications 5.9 Design options for wireless network",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO5",
+      "ITU": "",
+      "Student Materials": "Chapter 5: Connecting Through a Wireless Network",
+      "S-Download": "",
+      "Student's Tasks": "Teacher: - Introduce lesson - Check last lession knowledge - Linking knowledge with classroom current lecture - Lecturing follow slides - Organize discussing activities - Guidance and conclude discussion - Teaching the external content (if any) - Summary of lecture - Review lessons - Assign homework (if any) Student: - Answer the question from teacher when requested - Linking knowledge with classroom current lecture - Do homework, discussion - Listen to the evaluation sessions and receive homework (if any)",
+      "URLs": ""
+    },
+    {
+      "Session": "27",
+      "Topic": "Guide Lab 06",
+      "Learning-Teaching Type": "Offline",
+      "LO": "",
+      "ITU": "",
+      "Student Materials": "Lab 06: Connecting Through a Wireless Network",
+      "S-Download": "",
+      "Student's Tasks": "Teacher: - Introduce the lab - Instruct and discuss the lab Student - Listen the instruction teacher's lab - Do and discuss with other",
+      "URLs": ""
+    },
+    {
+      "Session": "28",
+      "Topic": "Lab 06",
+      "Learning-Teaching Type": "Offline",
+      "LO": "",
+      "ITU": "",
+      "Student Materials": "Lab 06: Connecting Through a Wireless Network",
+      "S-Download": "",
+      "Student's Tasks": "Teacher: - Introduce the lab - Instruct and discuss the lab Student - Listen the instruction teacher's lab - Do and discuss with other",
+      "URLs": ""
+    },
+    {
+      "Session": "29",
+      "Topic": "6. Sharing Resources on a Network 6.1 Peer-to-Peer networking in a home or office",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO6",
+      "ITU": "",
+      "Student Materials": "Chapter 6: Sharing Resources on a Network",
+      "S-Download": "",
+      "Student's Tasks": "Teacher: - Introduce lesson - Check last lession knowledge - Linking knowledge with classroom current lecture - Lecturing follow slides - Organize discussing activities - Guidance and conclude discussion - Teaching the external content (if any) - Summary of lecture - Review lessons - Assign homework (if any) Student: - Answer the question from teacher when requested - Linking knowledge with classroom current lecture - Do homework, discussion - Listen to the evaluation sessions and receive homework (if any)",
+      "URLs": ""
+    },
+    {
+      "Session": "30",
+      "Topic": "6.2 Configure Windows 7 UNIX/Linux and Mac OS X for peer-to-peer networking 6.3 Design a peer-to-peer office network to share resources",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO6",
+      "ITU": "",
+      "Student Materials": "Chapter 6: Sharing Resources on a Network",
+      "S-Download": "",
+      "Student's Tasks": "\"Teacher: - Introduce lesson - Check last lession knowledge - Linking knowledge with classroom current lecture - Lecturing follow slides - Organize discussing activities - Guidance and conclude discussion - Teaching the external content (if any) - Summary of lecture - Review lessons - Assign homework (if any) Student: - Answer the question from teacher when requested - Linking knowledge with classroom current lecture - Do homework, discussion - Listen to the evaluation sessions and receive homework (if any) \"",
+      "URLs": ""
+    },
+    {
+      "Session": "31",
+      "Topic": "Guide Lab 07",
+      "Learning-Teaching Type": "Offline",
+      "LO": "",
+      "ITU": "",
+      "Student Materials": "Lab 07: Sharing Resources on a Network",
+      "S-Download": "",
+      "Student's Tasks": "Teacher: - Introduce the lab - Instruct and discuss the lab Student - Listen the instruction teacher's lab - Do and discuss with other Progress test 2",
+      "URLs": ""
+    },
+    {
+      "Session": "32",
+      "Topic": "Lab 07",
+      "Learning-Teaching Type": "Offline",
+      "LO": "",
+      "ITU": "",
+      "Student Materials": "Lab 07: Sharing Resources on a Network",
+      "S-Download": "",
+      "Student's Tasks": "Teacher: - Introduce the lab - Instruct and discuss the lab Student - Listen the instruction teacher's lab - Do and discuss with other Progress test 2",
+      "URLs": ""
+    },
+    {
+      "Session": "33",
+      "Topic": "7. Using a Server 7.1 Server in a home or office network",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO7",
+      "ITU": "",
+      "Student Materials": "Chapter 7: Using a Server",
+      "S-Download": "",
+      "Student's Tasks": "Teacher: - Introduce lesson - Check last lession knowledge - Linking knowledge with classroom current lecture - Lecturing follow slides - Organize discussing activities - Guidance and conclude discussion - Teaching the external content (if any) - Summary of lecture - Review lessons - Assign homework (if any) Student: - Answer the question from teacher when requested - Linking knowledge with classroom current lecture - Do homework, discussion - Listen to the evaluation sessions and receive homework (if any)",
+      "URLs": ""
+    },
+    {
+      "Session": "34",
+      "Topic": "7.2 Server virtualization and virtual networks 7.3 Management services provided by a server",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO7",
+      "ITU": "",
+      "Student Materials": "Chapter 7: Using a Server",
+      "S-Download": "",
+      "Student's Tasks": "Teacher: - Introduce lesson - Check last lession knowledge - Linking knowledge with classroom current lecture - Lecturing follow slides - Organize discussing activities - Guidance and conclude discussion - Teaching the external content (if any) - Summary of lecture - Review lessons - Assign homework (if any) Student: - Answer the question from teacher when requested - Linking knowledge with classroom current lecture - Do homework, discussion - Listen to the evaluation sessions and receive homework (if any)",
+      "URLs": ""
+    },
+    {
+      "Session": "35",
+      "Topic": "7.4 Networking features for Windows Server",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO7",
+      "ITU": "",
+      "Student Materials": "Chapter 7: Using a Server",
+      "S-Download": "",
+      "Student's Tasks": "Teacher: - Introduce lesson - Check last lession knowledge - Linking knowledge with classroom current lecture - Lecturing follow slides - Organize discussing activities - Guidance and conclude discussion - Teaching the external content (if any) - Summary of lecture - Review lessons - Assign homework (if any) Student: - Answer the question from teacher when requested - Linking knowledge with classroom current lecture - Do homework, discussion - Listen to the evaluation sessions and receive homework (if any)",
+      "URLs": ""
+    },
+    {
+      "Session": "36",
+      "Topic": "7.5 Manage and monitor a server 7.6 Design a server-based office network",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO7",
+      "ITU": "",
+      "Student Materials": "Chapter 7: Using a Server",
+      "S-Download": "",
+      "Student's Tasks": "Teacher: - Introduce lesson - Check last lession knowledge - Linking knowledge with classroom current lecture - Lecturing follow slides - Organize discussing activities - Guidance and conclude discussion - Teaching the external content (if any) - Summary of lecture - Review lessons - Assign homework (if any) Student: - Answer the question from teacher when requested - Linking knowledge with classroom current lecture - Do homework, discussion - Listen to the evaluation sessions and receive homework (if any)",
+      "URLs": ""
+    },
+    {
+      "Session": "37",
+      "Topic": "Guide Lab 08",
+      "Learning-Teaching Type": "Offline",
+      "LO": "",
+      "ITU": "",
+      "Student Materials": "Lab 08: Using a Server",
+      "S-Download": "",
+      "Student's Tasks": "Teacher: - Introduce the lab - Instruct and discuss the lab Student - Listen the instruction teacher's lab - Do and discuss with other",
+      "URLs": ""
+    },
+    {
+      "Session": "38",
+      "Topic": "Lab 08",
+      "Learning-Teaching Type": "Offline",
+      "LO": "",
+      "ITU": "",
+      "Student Materials": "Lab 08: Using a Server",
+      "S-Download": "",
+      "Student's Tasks": "Teacher: - Introduce the lab - Instruct and discuss the lab Student - Listen the instruction teacher's lab - Do and discuss with other",
+      "URLs": ""
+    },
+    {
+      "Session": "39",
+      "Topic": "8. Basic Network Design 8.1 Introduction network design",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO8",
+      "ITU": "",
+      "Student Materials": "Chapter 8: Basic Network Design",
+      "S-Download": "",
+      "Student's Tasks": "Teacher: - Introduce lesson - Check last lession knowledge - Linking knowledge with classroom current lecture - Lecturing follow slides - Organize discussing activities - Guidance and conclude discussion - Teaching the external content (if any) - Summary of lecture - Review lessons - Assign homework (if any) Student: - Answer the question from teacher when requested - Linking knowledge with classroom current lecture - Do homework, discussion - Listen to the evaluation sessions and receive homework (if any)",
+      "URLs": ""
+    },
+    {
+      "Session": "40",
+      "Topic": "8.2 Guidelines for installing cable",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO8",
+      "ITU": "",
+      "Student Materials": "Chapter 8: Basic Network Design",
+      "S-Download": "",
+      "Student's Tasks": "Teacher: - Introduce lesson - Check last lession knowledge - Linking knowledge with classroom current lecture - Lecturing follow slides - Organize discussing activities - Guidance and conclude discussion - Teaching the external content (if any) - Summary of lecture - Review lessons - Assign homework (if any) Student: - Answer the question from teacher when requested - Linking knowledge with classroom current lecture - Do homework, discussion - Listen to the evaluation sessions and receive homework (if any)",
+      "URLs": ""
+    },
+    {
+      "Session": "41",
+      "Topic": "8.3 Structured wiring and networking in your network designs",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO8",
+      "ITU": "",
+      "Student Materials": "Chapter 8: Basic Network Design",
+      "S-Download": "",
+      "Student's Tasks": "Teacher: - Introduce lesson - Check last lession knowledge - Linking knowledge with classroom current lecture - Lecturing follow slides - Organize discussing activities - Guidance and conclude discussion - Teaching the external content (if any) - Summary of lecture - Review lessons - Assign homework (if any) Student: - Answer the question from teacher when requested - Linking knowledge with classroom current lecture - Do homework, discussion - Listen to the evaluation sessions and receive homework (if any)",
+      "URLs": ""
+    },
+    {
+      "Session": "42",
+      "Topic": "8.4 Design a network for a home 8.5 Design a network for an office or organization",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO8",
+      "ITU": "",
+      "Student Materials": "Chapter 8: Basic Network Design",
+      "S-Download": "",
+      "Student's Tasks": "Teacher: - Introduce lesson - Check last lession knowledge - Linking knowledge with classroom current lecture - Lecturing follow slides - Organize discussing activities - Guidance and conclude discussion - Teaching the external content (if any) - Summary of lecture - Review lessons - Assign homework (if any) Student: - Answer the question from teacher when requested - Linking knowledge with classroom current lecture - Do homework, discussion - Listen to the evaluation sessions and receive homework (if any)",
+      "URLs": ""
+    },
+    {
+      "Session": "43",
+      "Topic": "Guide Lab 09",
+      "Learning-Teaching Type": "Offline",
+      "LO": "",
+      "ITU": "",
+      "Student Materials": "Lab 10: Basic Network Design",
+      "S-Download": "",
+      "Student's Tasks": "Teacher: - Introduce the lab - Instruct and discuss the lab Student - Listen the instruction teacher's lab - Do and discuss with other",
+      "URLs": ""
+    },
+    {
+      "Session": "44",
+      "Topic": "Lab 09",
+      "Learning-Teaching Type": "Offline",
+      "LO": "",
+      "ITU": "",
+      "Student Materials": "Lab 10: Basic Network Design",
+      "S-Download": "",
+      "Student's Tasks": "Teacher: - Introduce the lab - Instruct and discuss the lab Student - Listen the instruction teacher's lab - Do and discuss with other",
+      "URLs": ""
+    },
+    {
+      "Session": "45",
+      "Topic": "9. Securing Your Network 9.1 Introduction networking security",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO9",
+      "ITU": "",
+      "Student Materials": "Chapter 9: Securing Your Network",
+      "S-Download": "",
+      "Student's Tasks": "Teacher: - Introduce lesson - Check last lession knowledge - Linking knowledge with classroom current lecture - Lecturing follow slides - Organize discussing activities - Guidance and conclude discussion - Teaching the external content (if any) - Summary of lecture - Review lessons - Assign homework (if any) Student: - Answer the question from teacher when requested - Linking knowledge with classroom current lecture - Do homework, discussion - Listen to the evaluation sessions and receive homework (if any)",
+      "URLs": ""
+    },
+    {
+      "Session": "46",
+      "Topic": "9.2 Practical security preparations",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO9",
+      "ITU": "",
+      "Student Materials": "Chapter 9: Securing Your Network",
+      "S-Download": "",
+      "Student's Tasks": "\"Teacher: - Introduce lesson - Check last lession knowledge - Linking knowledge with classroom current lecture - Lecturing follow slides - Organize discussing activities - Guidance and conclude discussion - Teaching the external content (if any) - Summary of lecture - Review lessons - Assign homework (if any) Student: - Answer the question from teacher when requested - Linking knowledge with classroom current lecture - Do homework, discussion - Listen to the evaluation sessions and receive homework (if any) \"",
+      "URLs": ""
+    },
+    {
+      "Session": "47",
+      "Topic": "9.3 Malicious attacks occur",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO9",
+      "ITU": "",
+      "Student Materials": "Chapter 9: Securing Your Network",
+      "S-Download": "",
+      "Student's Tasks": "\"Teacher: - Introduce lesson - Check last lession knowledge - Linking knowledge with classroom current lecture - Lecturing follow slides - Organize discussing activities - Guidance and conclude discussion - Teaching the external content (if any) - Summary of lecture - Review lessons - Assign homework (if any) Student: - Answer the question from teacher when requested - Linking knowledge with classroom current lecture - Do homework, discussion - Listen to the evaluation sessions and receive homework (if any) \"",
+      "URLs": ""
+    },
+    {
+      "Session": "48",
+      "Topic": "9.4 Techniques to protect a network",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO9",
+      "ITU": "",
+      "Student Materials": "Chapter 9: Securing Your Network",
+      "S-Download": "",
+      "Student's Tasks": "\"Teacher: - Introduce lesson - Check last lession knowledge - Linking knowledge with classroom current lecture - Lecturing follow slides - Organize discussing activities - Guidance and conclude discussion - Teaching the external content (if any) - Summary of lecture - Review lessons - Assign homework (if any) Student: - Answer the question from teacher when requested - Linking knowledge with classroom current lecture - Do homework, discussion - Listen to the evaluation sessions and receive homework (if any) \"",
+      "URLs": ""
+    },
+    {
+      "Session": "49",
+      "Topic": "9.5 Design security into home and office networks",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO9",
+      "ITU": "",
+      "Student Materials": "Chapter 9: Securing Your Network",
+      "S-Download": "",
+      "Student's Tasks": "\"Teacher: - Introduce lesson - Check last lession knowledge - Linking knowledge with classroom current lecture - Lecturing follow slides - Organize discussing activities - Guidance and conclude discussion - Teaching the external content (if any) - Summary of lecture - Review lessons - Assign homework (if any) Student: - Answer the question from teacher when requested - Linking knowledge with classroom current lecture - Do homework, discussion - Listen to the evaluation sessions and receive homework (if any) \"",
+      "URLs": ""
+    },
+    {
+      "Session": "50",
+      "Topic": "Guide Lab 10",
+      "Learning-Teaching Type": "Offline",
+      "LO": "",
+      "ITU": "",
+      "Student Materials": "Lab 11: Securing Your Network",
+      "S-Download": "",
+      "Student's Tasks": "Teacher: - Introduce the lab - Instruct and discuss the lab Student - Listen the instruction teacher's lab - Do and discuss with other",
+      "URLs": ""
+    },
+    {
+      "Session": "51",
+      "Topic": "Lab 10",
+      "Learning-Teaching Type": "Offline",
+      "LO": "",
+      "ITU": "",
+      "Student Materials": "Lab 11: Securing Your Network",
+      "S-Download": "",
+      "Student's Tasks": "Teacher: - Introduce the lab - Instruct and discuss the lab Student - Listen the instruction teacher's lab - Do and discuss with other",
+      "URLs": ""
+    },
+    {
+      "Session": "52",
+      "Topic": "Guide Lab 11",
+      "Learning-Teaching Type": "Offline",
+      "LO": "",
+      "ITU": "",
+      "Student Materials": "Lab 11: Securing Your Network",
+      "S-Download": "",
+      "Student's Tasks": "Teacher: - Introduce the lab - Instruct and discuss the lab Student - Listen the instruction teacher's lab - Do and discuss with other Progress test 3",
+      "URLs": ""
+    },
+    {
+      "Session": "53",
+      "Topic": "Lab 11",
+      "Learning-Teaching Type": "Offline",
+      "LO": "",
+      "ITU": "",
+      "Student Materials": "Lab 11: Securing Your Network",
+      "S-Download": "",
+      "Student's Tasks": "Teacher: - Introduce the lab - Instruct and discuss the lab Student - Listen the instruction teacher's lab - Do and discuss with other Progress test 3",
+      "URLs": ""
+    },
+    {
+      "Session": "54",
+      "Topic": "10. Maintaining And Troubleshooting Your Network 10.1 Hardware and software methods to monitor a network",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO10",
+      "ITU": "",
+      "Student Materials": "Chapter 10: Maintaining And Troubleshooting Your Network",
+      "S-Download": "",
+      "Student's Tasks": "Teacher: - Introduce lesson - Check last lession knowledge - Linking knowledge with classroom current lecture - Lecturing follow slides - Organize discussing activities - Guidance and conclude discussion - Teaching the external content (if any) - Summary of lecture - Review lessons - Assign homework (if any) Student: - Answer the question from teacher when requested - Linking knowledge with classroom current lecture - Do homework, discussion - Listen to the evaluation sessions and receive homework (if any)",
+      "URLs": ""
+    },
+    {
+      "Session": "55",
+      "Topic": "10.2 Backups over a network",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO10",
+      "ITU": "",
+      "Student Materials": "Chapter 10: Maintaining And Troubleshooting Your Network",
+      "S-Download": "",
+      "Student's Tasks": "Teacher: - Introduce lesson - Check last lession knowledge - Linking knowledge with classroom current lecture - Lecturing follow slides - Organize discussing activities - Guidance and conclude discussion - Teaching the external content (if any) - Summary of lecture - Review lessons - Assign homework (if any) Student: - Answer the question from teacher when requested - Linking knowledge with classroom current lecture - Do homework, discussion - Listen to the evaluation sessions and receive homework (if any)",
+      "URLs": ""
+    },
+    {
+      "Session": "56",
+      "Topic": "10.3 Solve a broad range of network problems 10.4 Design a solutions strategy for network troubleshooting",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO10",
+      "ITU": "",
+      "Student Materials": "Chapter 10: Maintaining And Troubleshooting Your Network",
+      "S-Download": "",
+      "Student's Tasks": "Teacher: - Introduce lesson - Check last lession knowledge - Linking knowledge with classroom current lecture - Lecturing follow slides - Organize discussing activities - Guidance and conclude discussion - Teaching the external content (if any) - Summary of lecture - Review lessons - Assign homework (if any) Student: - Answer the question from teacher when requested - Linking knowledge with classroom current lecture - Do homework, discussion - Listen to the evaluation sessions and receive homework (if any)",
+      "URLs": ""
+    },
+    {
+      "Session": "57",
+      "Topic": "Guide Lab 12",
+      "Learning-Teaching Type": "Offline",
+      "LO": "",
+      "ITU": "",
+      "Student Materials": "Lab 12: Maintaining And Troubleshooting Your Network",
+      "S-Download": "",
+      "Student's Tasks": "Teacher: - Introduce the lab - Instruct and discuss the lab Student - Listen the instruction teacher's lab - Do and discuss with other",
+      "URLs": ""
+    },
+    {
+      "Session": "58",
+      "Topic": "Lab 12",
+      "Learning-Teaching Type": "Offline",
+      "LO": "",
+      "ITU": "",
+      "Student Materials": "Lab 12: Maintaining And Troubleshooting Your Network",
+      "S-Download": "",
+      "Student's Tasks": "Teacher: - Introduce the lab - Instruct and discuss the lab Student - Listen the instruction teacher's lab - Do and discuss with other",
+      "URLs": ""
+    },
+    {
+      "Session": "59",
+      "Topic": "Review",
+      "Learning-Teaching Type": "Offline",
+      "LO": "",
+      "ITU": "",
+      "Student Materials": "",
+      "S-Download": "",
+      "Student's Tasks": "",
+      "URLs": ""
+    },
+    {
+      "Session": "60",
+      "Topic": "Review",
+      "Learning-Teaching Type": "Offline",
+      "LO": "",
+      "ITU": "",
+      "Student Materials": "",
+      "S-Download": "",
+      "Student's Tasks": "",
+      "URLs": ""
+    }
+  ],
+  "constructive_questions": [
+    {
+      "No.": "1",
+      "Session No": "1",
+      "Name": "CQ1.1",
+      "Details": "A computer device manufacturer owns four buildings in downtown Raleigh, North Carolina, and the LANs in each building are connected together for integrated communications and resource sharing. What type of network is an example in this case? Explain your answer."
+    },
+    {
+      "No.": "2",
+      "Session No": "1",
+      "Name": "CQ1.2",
+      "Details": "What advice might a new network designer receive when just starting out? Explain your answer?"
+    },
+    {
+      "No.": "3",
+      "Session No": "2",
+      "Name": "CQ1.3",
+      "Details": "A large company has many computer resources including computers, servers, mainframes, network devices, computer development labs, computer databases, shared disk arrays, and so on. What type of network is an example in this case? Explain your answer."
+    },
+    {
+      "No.": "4",
+      "Session No": "3",
+      "Name": "CQ1.4",
+      "Details": "Assume you have been hired to design a network for a bank. When you determine the factors that affect the network design, what should you look at? Explain your answer"
+    },
+    {
+      "No.": "5",
+      "Session No": "3",
+      "Name": "CQ1.5",
+      "Details": "Which network topology is no longer used much in modern LANs? Why?"
+    },
+    {
+      "No.": "6",
+      "Session No": "4",
+      "Name": "CQ2.1",
+      "Details": "What will be possible in the future using the network as the platform?"
+    },
+    {
+      "No.": "7",
+      "Session No": "4",
+      "Name": "CQ2.2",
+      "Details": "When you design a network that has a bus or star-bus hybrid design, what organization’s specifications should you check to make sure you follow the bus segment length requirements?"
+    },
+    {
+      "No.": "8",
+      "Session No": "5",
+      "Name": "CQ2.3",
+      "Details": "Your organization has a network that uses the star-bus hybrid topology. A new network associate is in the process of ordering spare network parts and has included 20 terminators in the order. What is your advice?"
+    },
+    {
+      "No.": "9",
+      "Session No": "6",
+      "Name": "CQ2.4",
+      "Details": "What kinds of equipment have on their home networks?"
+    },
+    {
+      "No.": "10",
+      "Session No": "6",
+      "Name": "CQ2.5",
+      "Details": "What kind of physical connection do you use in your home or work?"
+    },
+    {
+      "No.": "11",
+      "Session No": "7",
+      "Name": "CQ3.1",
+      "Details": "You run a machine shop that houses many electrical machines, fans, and an air conditioning unit. Which devices can contribute to design a LAN?"
+    },
+    {
+      "No.": "12",
+      "Session No": "7",
+      "Name": "CQ3.2",
+      "Details": "On your network there is a NIC that is malfunctioning by transmitting many extra frames each time it communicates. What will help you identify which NIC is having problems so that you can replace it?"
+    },
+    {
+      "No.": "13",
+      "Session No": "8",
+      "Name": "CQ3.3",
+      "Details": "What are the benefits of using Packet Tracer as a learning tool used in many Cisco Networking Academy courses?"
+    },
+    {
+      "No.": "14",
+      "Session No": "9",
+      "Name": "CQ3.4",
+      "Details": "When your computer communicates with a server through the Physical layer (Physical layer to Physical layer), it uses what? Explain your answer."
+    },
+    {
+      "No.": "15",
+      "Session No": "9",
+      "Name": "CQ3.5",
+      "Details": "When you configure a computer’s operating system to use data encryption for network communications, Which osi layer will this happen?"
+    },
+    {
+      "No.": "16",
+      "Session No": "10",
+      "Name": "CQ4.1",
+      "Details": "How do you know that computer technologies purchased from a store will be compatible with each other?"
+    },
+    {
+      "No.": "17",
+      "Session No": "10",
+      "Name": "CQ4.2",
+      "Details": "Why are protocol suites important?"
+    },
+    {
+      "No.": "18",
+      "Session No": "11",
+      "Name": "CQ4.3",
+      "Details": "Why are open standards are important?"
+    },
+    {
+      "No.": "19",
+      "Session No": "11",
+      "Name": "CQ4.4",
+      "Details": "What methods are used in LAN transmission?"
+    },
+    {
+      "No.": "20",
+      "Session No": "12",
+      "Name": "CQ4.5",
+      "Details": "What are the advantages of using Ethernet in network designs?"
+    },
+    {
+      "No.": "21",
+      "Session No": "12",
+      "Name": "CQ4.6",
+      "Details": "You are working on an older network that still uses FDDI on the backbone to connect servers and network devices. What type of cable do you expect to see on the FDDI backbone?"
+    },
+    {
+      "No.": "22",
+      "Session No": "13",
+      "Name": "CQ5.1",
+      "Details": "What are the differences between ping and traceroute?"
+    },
+    {
+      "No.": "23",
+      "Session No": "13",
+      "Name": "CQ5.2",
+      "Details": "Why do you use ping and traceroute?"
+    },
+    {
+      "No.": "24",
+      "Session No": "14",
+      "Name": "CQ5.3",
+      "Details": "What is the apr protocol?"
+    },
+    {
+      "No.": "25",
+      "Session No": "14",
+      "Name": "CQ5.4",
+      "Details": "What do you use the netstart Utility for?"
+    },
+    {
+      "No.": "26",
+      "Session No": "15",
+      "Name": "CQ5.5",
+      "Details": "Why TCP/IP is the primary suite for today?"
+    },
+    {
+      "No.": "27",
+      "Session No": "15",
+      "Name": "CQ5.6",
+      "Details": "What are the differences between TCP/IP and OSI model?"
+    },
+    {
+      "No.": "28",
+      "Session No": "16",
+      "Name": "CQ6.1",
+      "Details": "What would be the consequences on upper layer protocols if there was no data link layer?"
+    },
+    {
+      "No.": "29",
+      "Session No": "16",
+      "Name": "CQ6.2",
+      "Details": "What applications do we use TCP or UDP with? and, Why do we choose them?"
+    },
+    {
+      "No.": "30",
+      "Session No": "17",
+      "Name": "CQ6.3",
+      "Details": "What features of TCP are most important?"
+    },
+    {
+      "No.": "31",
+      "Session No": "18",
+      "Name": "CQ6.4",
+      "Details": "What’s the difference between a socket and a port?"
+    },
+    {
+      "No.": "32",
+      "Session No": "18",
+      "Name": "CQ6.5",
+      "Details": "You have a new computer and a newly released NIC, but when you try to connect to your school’s network, your computer frequently loses the network connection. What happen?"
+    },
+    {
+      "No.": "33",
+      "Session No": "19",
+      "Name": "CQ7.1",
+      "Details": "Why subnetting can waste host IP addresses?"
+    },
+    {
+      "No.": "34",
+      "Session No": "19",
+      "Name": "CQ7.2",
+      "Details": "How could the above problem be solved?"
+    },
+    {
+      "No.": "35",
+      "Session No": "20",
+      "Name": "CQ7.3",
+      "Details": "Why is it recommended to use DHCP on larger networks?"
+    },
+    {
+      "No.": "36",
+      "Session No": "20",
+      "Name": "CQ7.4",
+      "Details": "Based on your knowledge of DHCPv4 server configuration options, what options do you think most service providers make sure to provide to home router DHCPv4 clients?"
+    },
+    {
+      "No.": "37",
+      "Session No": "21",
+      "Name": "CQ7.5",
+      "Details": "Your network currently uses four unmanaged workgroup switches. There is an unmet need to periodically deactivate specific ports on the switches and also to monitor network activity at the switches. What will you do?"
+    },
+    {
+      "No.": "38",
+      "Session No": "21",
+      "Name": "CQ7.6",
+      "Details": "You have purchased a new router. When you implement it on your network, which routing protocol would you use on the router to ensure the most efficient router communications?"
+    },
+    {
+      "No.": "39",
+      "Session No": "22",
+      "Name": "CQ8.1",
+      "Details": "Your small five-person company needs Internet access for each employee. All of the employees’ Windows 7 computers are connected to a small network; however, only your computer has a DSL adapter installed inside the computer. Which is the most economical step you can take to extend DSL Internet access to your employees?"
+    },
+    {
+      "No.": "40",
+      "Session No": "22",
+      "Name": "CQ8.2",
+      "Details": "You have determined that there is network congestion caused by the portion of your organization’s network that is used by research engineers. What device can help you reduce the congestion between the research engineers’ network and the rest of the organization’s network?"
+    },
+    {
+      "No.": "41",
+      "Session No": "23",
+      "Name": "CQ8.3",
+      "Details": "Why do switches flood frames addressed to unknown destinations?"
+    },
+    {
+      "No.": "42",
+      "Session No": "24",
+      "Name": "CQ8.4",
+      "Details": "How does a router build its table?"
+    },
+    {
+      "No.": "43",
+      "Session No": "24",
+      "Name": "CQ8.5",
+      "Details": "Why are static routes a necessity in modern networks?"
+    },
+    {
+      "No.": "44",
+      "Session No": "25",
+      "Name": "CQ9.1",
+      "Details": "You are consulting for a small office of field biologists who are experiencing intermittent problems with accessing their network. You notice that the wireless access point they all use for connectivity is located on the floor next to a wall in their office. Also, the access point has two antennas. What do you recommend to help address their intermittent access problems?"
+    },
+    {
+      "No.": "45",
+      "Session No": "26",
+      "Name": "CQ9.2",
+      "Details": "As you set up a wireless network, you are concerned about having the ability to monitor your wireless network. Which protocols can you use over a wireless network for network management and monitoring?"
+    },
+    {
+      "No.": "46",
+      "Session No": "27",
+      "Name": "CQ9.3",
+      "Details": "You are designing a new network and want to go wireless for part of the network. Your design specifications call for a wireless technology that can use the 5 GHz band at up to 100 Mbps. Which is the best fit for your network?"
+    },
+    {
+      "No.": "47",
+      "Session No": "28",
+      "Name": "CQ10.1",
+      "Details": "You are planning to work while on a business trip to a college campus in Germany. When you ask about wireless connectivity, you are told that the college uses HiperMAN. What technology offered in North America can interoperate with HiperMAN?"
+    },
+    {
+      "No.": "48",
+      "Session No": "29",
+      "Name": "CQ10.2",
+      "Details": "An automotive trade school maintains a staff of 15 professional recruiters who travel throughout the South to recruit students. The staff needs a secure way to access the school’s network through the Internet while they are on the road. Which of the following do you recommend?"
+    },
+    {
+      "No.": "49",
+      "Session No": "30",
+      "Name": "CQ10.3",
+      "Details": "You are designing a SAN for your company and are considering the design options. Which of the following are examples of technologies that can be used for the SAN?"
+    },
+    {
+      "No.": "50",
+      "Session No": "31",
+      "Name": "CQ11.1",
+      "Details": "A small office of 19 hydrologists who provide water testing to help cities manage and protect their water sources needs to set up a network for file sharing. All of the hydrologists use Windows 7 Professional computers. What setting should they use for the network location when they set up the network for sharing resources?"
+    },
+    {
+      "No.": "51",
+      "Session No": "32",
+      "Name": "CQ11.2",
+      "Details": "Which of the following can enable file sharing on a network that has both Windows 7 and Fedora computers?"
+    },
+    {
+      "No.": "52",
+      "Session No": "33",
+      "Name": "CQ11.3",
+      "Details": "You are hired to consult for a new pharmaceutical company that will have 82 employees. The company plans to have a Web site and to use a database for tracking data on drug research. What do you recommend for this company?"
+    },
+    {
+      "No.": "53",
+      "Session No": "34",
+      "Name": "CQ12.1",
+      "Details": "Before you purchase and install a new computer for your company, What should you consider?"
+    },
+    {
+      "No.": "54",
+      "Session No": "35",
+      "Name": "CQ12.2",
+      "Details": "Before you purchase and install a new computer for your company, which of the following should you consider?"
+    },
+    {
+      "No.": "55",
+      "Session No": "36",
+      "Name": "CQ12.3",
+      "Details": "Your boss has purchased an Intel computer to use as a virtual server. However, when you attempt to install Hyper-V, there is a hardware error message. What is likely to be the cause?"
+    },
+    {
+      "No.": "56",
+      "Session No": "37",
+      "Name": "CQ13.1",
+      "Details": "The applications development manager for your company wants the programmers to develop a network time-card system to be used by 250 workers and the payroll office staff of 10. Because his budget is tight, he asks you to install Windows Server 2008 R2 on an older Intel computer that just meets the basic requirements for Windows Server 2008 R2 and to use this as the production server for the new time-card system. What is your reaction?"
+    },
+    {
+      "No.": "57",
+      "Session No": "38",
+      "Name": "CQ13.2",
+      "Details": "You are the server administrator for a company that relies on its Windows Server 2008 R2 server-based network. Because security is very important to this company, which of the following do you ensure is configured when you install a new server?"
+    },
+    {
+      "No.": "58",
+      "Session No": "39",
+      "Name": "CQ13.3",
+      "Details": "You have been hired to install cable in a three-story house near the downtown that has been converted into a small business building. As part of the installation, you will be running cable through the attic. What kind of cable should you use in the attic?"
+    },
+    {
+      "No.": "59",
+      "Session No": "40",
+      "Name": "CQ14.1",
+      "Details": "As you are monitoring the progress of a contractor who is constructing your new office building, you are not convinced he is assuring the proper installation of grounding for the cable plant in the building. When you talk with him, what guidelines do you ask him to consult for proper grounding of the cable plant?"
+    },
+    {
+      "No.": "60",
+      "Session No": "41",
+      "Name": "CQ14.2",
+      "Details": "You are creating a wireless network for a small firm of graphic artists. Which of the following wireless technologies should you use for the most modern standards and longest reach?"
+    },
+    {
+      "No.": "61",
+      "Session No": "42",
+      "Name": "CQ14.3",
+      "Details": "The electric company in your part of the city is continually replacing old transformers and other equipment that can no longer assure high-quality power. What extra equipment should you consider for the room containing your company’s server farm?"
+    },
+    {
+      "No.": "62",
+      "Session No": "43",
+      "Name": "CQ15.1",
+      "Details": "You are having problems accessing the Internet from your desktop computer at work that is networked through a cabled connection. Which of the following can you do to check the network connection?"
+    },
+    {
+      "No.": "63",
+      "Session No": "44",
+      "Name": "CQ15.2",
+      "Details": "You are designing a cable-based network to replace an old one already installed in a large professional building. What factors should you consider?"
+    },
+    {
+      "No.": "64",
+      "Session No": "45",
+      "Name": "CQ15.3",
+      "Details": "You and your business partner are planning to set up a small downtown office that will have six employees, all of whom need Internet access. You intend to use DSL and a wireless modem/router. As a way to shield the actual IP addresses on your business network from Internet outsiders, what capability should be a feature of the wireless modem/router?"
+    },
+    {
+      "No.": "65",
+      "Session No": "46",
+      "Name": "CQ16.1",
+      "Details": "Your specialized firewall software on a router enables you to close specific TCP and UDP ports. The company security policy states that employees are not to download files using FTP. What port or ports should you close via the firewall?"
+    },
+    {
+      "No.": "66",
+      "Session No": "47",
+      "Name": "CQ16.2",
+      "Details": "Your friend has sent you a CD containing a fun free game he downloaded from the Internet. However, you have seen an alert that this game, although lots of fun, also contains malicious software. Which are best describes this gaming software?"
+    },
+    {
+      "No.": "67",
+      "Session No": "48",
+      "Name": "CQ16.3",
+      "Details": "Some of the staff in the warehouse building of a company like to end the day playing games over the Internet. However, none of their job duties necessitates access to the Internet, and playing the games exposes the computers in their building to unnecessary security risks. Which offers the best solution?"
+    },
+    {
+      "No.": "68",
+      "Session No": "49",
+      "Name": "CQ17.1",
+      "Details": "Your company has been the target of industrial spying, which is often performed by a company insider. What is a simple way to help discourage industrial spying to make it harder for an insider to access someone’s computer when he or she is away from his or her desk?"
+    },
+    {
+      "No.": "69",
+      "Session No": "50",
+      "Name": "CQ17.2",
+      "Details": "As you monitor switches on your network, what should you be aware of in terms of a potential attack?"
+    },
+    {
+      "No.": "70",
+      "Session No": "50",
+      "Name": "CQ17.3",
+      "Details": "Your network design team is currently focusing on security issues. Which are “borders” the team should consider for border security?"
+    },
+    {
+      "No.": "71",
+      "Session No": "51",
+      "Name": "CQ17.4",
+      "Details": "Your colleague is configuring packet filtering on a router. Which is the best method to use for firewall purposes?"
+    },
+    {
+      "No.": "72",
+      "Session No": "52",
+      "Name": "CQ18.1",
+      "Details": "You are setting up a proxy to create a secure tunnel for communications between the proxy, which is on the internal network, and another company’s external Web server that is accessed every day by company employees to order raw materials for manufacturing. Which proxy is used in this case?"
+    },
+    {
+      "No.": "73",
+      "Session No": "53",
+      "Name": "CQ18.2",
+      "Details": "Your university maintains a public affairs Web server to provide general information about the university, university programs, outreach schools, and college sports events. This Web server is on a part of the university’s network that is less secure than the internal network used for academics and administrative functions. Which describes the Web server’s portion of the network?"
+    },
+    {
+      "No.": "74",
+      "Session No": "54",
+      "Name": "CQ18.3",
+      "Details": "In an office at your company, a printer shared from a workstation does not print the last several pages of large print jobs. What might be the problem?"
+    },
+    {
+      "No.": "75",
+      "Session No": "55",
+      "Name": "CQ19.1",
+      "Details": "Your investment company is required to archive fiscal year end files for at least 10 years. Which is a sound choice as an archival medium in this situation, which requires 1.4 TB of storage capacity?"
+    },
+    {
+      "No.": "76",
+      "Session No": "56",
+      "Name": "CQ19.2",
+      "Details": "You are considering the use of SNMP on your network. What elements should you be prepared to implement to effectively use SNMP?"
+    },
+    {
+      "No.": "77",
+      "Session No": "57",
+      "Name": "CQ19.3",
+      "Details": "You have employed a cable installation company to install fiber-optic cable for your network backbone. After the cable is installed, you require that the company test and certify the fiber-optic cable installation. What device will the cable installation company use to do the testing?"
+    },
+    {
+      "No.": "78",
+      "Session No": "58",
+      "Name": "CQ20.1",
+      "Details": "Network access to a database server is particularly slow. In a meeting, several high-level network users have asked you to upgrade the network to make it faster to the server. What is your response?"
+    },
+    {
+      "No.": "79",
+      "Session No": "59",
+      "Name": "CQ20.2",
+      "Details": "A contractor has installed UTP cable in a new wing of your company’s manufacturing plant. The cable is unmarked, and so to gain information about its fitness for network communications you decide to test the cable resistance. What tool do you use to test the resistance?"
+    },
+    {
+      "No.": "80",
+      "Session No": "60",
+      "Name": "CQ20.3",
+      "Details": "A user calls to say his workstation has lost its connection to the network. How can you quickly test the workstation’s network connection from your office when you already know the host name of the computer?"
+    }
+  ],
+  "materials": [
+    {
+      "No.": "1",
+      "Material Description": "Hands-On Networking Fundamentals",
+      "Author": "Michael Palmer",
+      "Publisher": "Course Tehnology Cengage Learning",
+      "Published Date": "2013",
+      "Edition": "2nd Edition",
+      "ISBN": "9781111306748",
+      "Is Main Material": "True",
+      "Is Hard Copy": "True",
+      "Is Online": "False",
+      "Note": ""
+    },
+    {
+      "No.": "2",
+      "Material Description": "Computer Networking: A Top-Down Approach",
+      "Author": "James F. Kurose",
+      "Publisher": "Pearson Education",
+      "Published Date": "2012",
+      "Edition": "6th",
+      "ISBN": "",
+      "Is Main Material": "False",
+      "Is Hard Copy": "True",
+      "Is Online": "False",
+      "Note": ""
+    },
+    {
+      "No.": "3",
+      "Material Description": "Principles Of Computer Security CompTIA Security Plus And Beyond Lab Manual",
+      "Author": "Vincent Nestler",
+      "Publisher": "McGraw Hill",
+      "Published Date": "2010",
+      "Edition": "2nd Edition",
+      "ISBN": "",
+      "Is Main Material": "False",
+      "Is Hard Copy": "True",
+      "Is Online": "False",
+      "Note": ""
+    }
+  ],
+  "source_path": "data/raw/syllabi/10039.html",
+  "id": "syllabus:10039"
+}

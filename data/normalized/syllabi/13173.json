@@ -1,0 +1,248 @@
+{
+  "syllabus_id": 13173,
+  "subject_code": "LAB221c",
+  "subject_name": "Thực hành Desktop Java",
+  "syllabus_name": "Thực hành Desktop Java",
+  "credits": 3,
+  "degree_level": "Bachelor",
+  "time_allocation": "Online: 45 hours + 4 slot offline",
+  "prerequisite": "PRO192",
+  "general_information": {
+    "Syllabus ID": "13173",
+    "Syllabus Name": "Thực hành Desktop Java",
+    "Course Name English": "Desktop Java lab",
+    "Subject Code": "LAB221c",
+    "Learning-Teaching Method": "Online",
+    "NoCredit": "3",
+    "Degree Level": "Bachelor",
+    "Time Allocation": "Online: 45 hours + 4 slot offline",
+    "Pre-Requisite": "PRO192",
+    "Description": "Students will learn to code in Java and improve their programming and problem-solving skills. Students will learn to design algorithms as well as develop and debug programs. Using custom open-source classes, you will write programs that access and transform images, websites, and other types of data Use the data structures to build more complex programs that use Java’s object-oriented features After class students can solve real world problems with Java using multiple classes. Learn how to create programming solutions that scale using Java interfaces. Recognize that software engineering is more than writing code - it also involves logical thinking and design.",
+    "StudentTasks": "Students complete the online courses MOOC1-MOOC3 (see details in the Materials page) and get certifications for MOOC1-MOOC3 to be allowed to take Final Exam",
+    "Tools": "- Internet",
+    "Scoring Scale": "10",
+    "DecisionNo MM/dd/yyyy": "932/QĐ-ĐHFPT dated 08/22/2025",
+    "IsApproved": "True",
+    "Note": "1. Students complete the online courses MOOC1-MOOC3 (see details in the Materials sheet) and get certifications for MOOC1 - MOOC3 to be allowed to take Final Exam 2. Final Exam: 100% 3. Bonus 1 point when complete the courses before deadline 4. Completion Criteria: Final Exam Score+ bonus >= 5",
+    "Is Scored": "True",
+    "MinAvgMarkToPass": "5",
+    "IsActive": "True",
+    "ApprovedDate": "8/22/2025"
+  },
+  "active": true,
+  "approved": true,
+  "decision": "932/QĐ-ĐHFPT dated 08/22/2025",
+  "description": "Students will learn to code in Java and improve their programming and problem-solving skills. Students will learn to design algorithms as well as develop and debug programs. Using custom open-source classes, you will write programs that access and transform images, websites, and other types of data Use the data structures to build more complex programs that use Java’s object-oriented features After class students can solve real world problems with Java using multiple classes. Learn how to create programming solutions that scale using Java interfaces. Recognize that software engineering is more than writing code - it also involves logical thinking and design.",
+  "learning_outcomes": [
+    {
+      "No.": "1",
+      "CLO Name": "LO1",
+      "CLO Details": "Can using Java language to create, debug, test and design the problem"
+    },
+    {
+      "No.": "2",
+      "CLO Name": "LO2",
+      "CLO Details": "Understanding and using the Arrays, Lists, and Structured Data"
+    },
+    {
+      "No.": "3",
+      "CLO Name": "LO3",
+      "CLO Details": "Understanding the Principles of Software Design"
+    }
+  ],
+  "assessments": [
+    {
+      "No.": "1",
+      "Category": "FE",
+      "Type": "Final exam",
+      "Part": "1",
+      "Weight": "100.0%",
+      "Completion Criteria": "4",
+      "Duration": "60'",
+      "CLO": "\"questions distribution: LO1.x: 5 - 15 LO2.x: 5 - 20 LO3.x: 5 - 15",
+      "Question Type": "",
+      "No Question": "50",
+      "Knowledge and Skill": "All studied courses.",
+      "Grading Guide": "",
+      "Note": ""
+    }
+  ],
+  "schedule": [
+    {
+      "Session": "1",
+      "Topic": "Course Introduction : setup environment, history Edit, compile, and run a Java program; Use conditionals and loops in a Java program; Mentor Session 1:Course introduction",
+      "Learning-Teaching Type": "Offline,Online",
+      "LO": "LO1",
+      "ITU": "ITU",
+      "Student Materials": "MOOC1",
+      "S-Download": "",
+      "Student's Tasks": "\"Enroll to the spec on Coursera for FPT University Platform - Watch all videos, read all materials in the module - Finish quiz and assignment All Students should participate in review slot (if any question)",
+      "URLs": ""
+    },
+    {
+      "Session": "2",
+      "Topic": "Use Java API documentation in writing programs. Debug a Java program using the scientific method;",
+      "Learning-Teaching Type": "Online",
+      "LO": "LO1",
+      "ITU": "TU",
+      "Student Materials": "MOOC1",
+      "S-Download": "",
+      "Student's Tasks": "\"Enroll to the spec on Coursera for FPT University Platform - Watch all videos, read all materials in the module - Finish quiz and assignment",
+      "URLs": ""
+    },
+    {
+      "Session": "3",
+      "Topic": "Write a Java method to solve a specific problem; Develop a set of test cases as part of developing a program;",
+      "Learning-Teaching Type": "Online",
+      "LO": "LO1",
+      "ITU": "ITU",
+      "Student Materials": "MOOC1",
+      "S-Download": "",
+      "Student's Tasks": "\"Enroll to the spec on Coursera for FPT University Platform - Watch all videos, read all materials in the module - Finish quiz and assignment",
+      "URLs": ""
+    },
+    {
+      "Session": "4",
+      "Topic": "Create a class with multiple methods that work together to solve a problem; Use divide-and-conquer design techniques for a program that uses multiple methods.",
+      "Learning-Teaching Type": "Online",
+      "LO": "LO1",
+      "ITU": "ITU",
+      "Student Materials": "MOOC1",
+      "S-Download": "",
+      "Student's Tasks": "\"Enroll to the spec on Coursera for FPT University Platform - Watch all videos, read all materials in the module - Finish quiz and assignment",
+      "URLs": ""
+    },
+    {
+      "Session": "5",
+      "Topic": "MiniProject: Baby Names Mentor Session 2: MOOC 1 Review",
+      "Learning-Teaching Type": "Offline,Online",
+      "LO": "LO1",
+      "ITU": "TU",
+      "Student Materials": "MOOC1",
+      "S-Download": "",
+      "Student's Tasks": "\"Enroll to the spec on Coursera for FPT University Platform - Watch all videos, read all materials in the module - Finish quiz and assignment All Students should participate in review slot (if any question).",
+      "URLs": ""
+    },
+    {
+      "Session": "6",
+      "Topic": "Read and write data from/to files; Solve problems involving data files; Perform quantitative analyses of data (e.g., finding maximums, minimums, averages);",
+      "Learning-Teaching Type": "Online",
+      "LO": "LO2",
+      "ITU": "ITU",
+      "Student Materials": "MOOC2",
+      "S-Download": "",
+      "Student's Tasks": "\"Enroll to the spec on Coursera for FPT University Platform - Watch all videos, read all materials in the module - Finish quiz and assignment",
+      "URLs": ""
+    },
+    {
+      "Session": "7",
+      "Topic": "Store and manipulate data in an array or ArrayList; Combine multiple classes to solve larger problems; Use iterables and collections (including maps) in Java.",
+      "Learning-Teaching Type": "Online",
+      "LO": "LO2",
+      "ITU": "ITU",
+      "Student Materials": "MOOC2",
+      "S-Download": "",
+      "Student's Tasks": "\"Enroll to the spec on Coursera for FPT University Platform - Watch all videos, read all materials in the module - Finish quiz and assignment",
+      "URLs": ""
+    },
+    {
+      "Session": "8",
+      "Topic": "MiniProject: Vigenère Cipher Mentor Session 3: MOOC 2 Review",
+      "Learning-Teaching Type": "Offline,Online",
+      "LO": "LO2",
+      "ITU": "TU",
+      "Student Materials": "MOOC2",
+      "S-Download": "",
+      "Student's Tasks": "\"Enroll to the spec on Coursera for FPT University Platform - Watch all videos, read all materials in the module - Finish quiz and assignment All Students should participate in review slot (if any question).",
+      "URLs": ""
+    },
+    {
+      "Session": "9",
+      "Topic": "Use sorting appropriately in solving problems; Develop classes that implement the Comparable interface; Use timing data to analyze empirical performance; Break problems into multiple classes, each with their own methods;",
+      "Learning-Teaching Type": "Online",
+      "LO": "LO3",
+      "ITU": "ITU",
+      "Student Materials": "MOOC3",
+      "S-Download": "",
+      "Student's Tasks": "\"Enroll to the spec on Coursera for FPT University Platform - Watch all videos, read all materials in the module - Finish quiz and assignment",
+      "URLs": ""
+    },
+    {
+      "Session": "10",
+      "Topic": "Determine if a class from the Java API can be used in solving a particular problem; Implement programming solutions using multiple approaches and recognize tradeoffs; Use object-oriented concepts including interfaces and abstract classes when developing programs;",
+      "Learning-Teaching Type": "Online",
+      "LO": "LO3",
+      "ITU": "TU",
+      "Student Materials": "MOOC3",
+      "S-Download": "",
+      "Student's Tasks": "\"Enroll to the spec on Coursera for FPT University Platform - Watch all videos, read all materials in the module - Finish quiz and assignment",
+      "URLs": ""
+    },
+    {
+      "Session": "11",
+      "Topic": "Appropriately hide implementation decisions so they are not visible in public methods; and Recognize the limitations of algorithms and Java programs in solving problems.",
+      "Learning-Teaching Type": "Online",
+      "LO": "LO3",
+      "ITU": "ITU",
+      "Student Materials": "MOOC3",
+      "S-Download": "",
+      "Student's Tasks": "\"Enroll to the spec on Coursera for FPT University Platform - Watch all videos, read all materials in the module - Finish quiz and assignment",
+      "URLs": ""
+    },
+    {
+      "Session": "12",
+      "Topic": "Recognize standard Java classes and idioms including exception-handling, static methods, java.net, and java.io packages.' Complete final peer review and take Final Exam Mentor Session 4: MOOC 3 Review",
+      "Learning-Teaching Type": "Offline,Online",
+      "LO": "LO3",
+      "ITU": "TU",
+      "Student Materials": "MOOC3",
+      "S-Download": "",
+      "Student's Tasks": "\"Enroll to the spec on Coursera for FPT University Platform - Watch all videos, read all materials in the module - Finish quiz and assignment All Students should participate in review slot (if any question) Deadline of Course Completion: End of Friday of the 12th week.",
+      "URLs": ""
+    }
+  ],
+  "constructive_questions": [],
+  "materials": [
+    {
+      "No.": "1",
+      "Material Description": "https://www.coursera.org/learn/java-programming/home/info",
+      "Author": "",
+      "Publisher": "Coursera",
+      "Published Date": "",
+      "Edition": "",
+      "ISBN": "",
+      "Is Main Material": "True",
+      "Is Hard Copy": "False",
+      "Is Online": "True",
+      "Note": "MOOC 1: Java Programming: Solving Problems with Software"
+    },
+    {
+      "No.": "2",
+      "Material Description": "https://www.coursera.org/learn/java-programming-arrays-lists-data/home/info",
+      "Author": "",
+      "Publisher": "Coursera",
+      "Published Date": "",
+      "Edition": "",
+      "ISBN": "",
+      "Is Main Material": "True",
+      "Is Hard Copy": "False",
+      "Is Online": "True",
+      "Note": "MOOC 2: Java Programming: Arrays, Lists, and Structured Data"
+    },
+    {
+      "No.": "3",
+      "Material Description": "https://www.coursera.org/learn/java-programming-design-principles",
+      "Author": "",
+      "Publisher": "Coursera",
+      "Published Date": "",
+      "Edition": "",
+      "ISBN": "",
+      "Is Main Material": "True",
+      "Is Hard Copy": "False",
+      "Is Online": "True",
+      "Note": "MOOC 3: Java Programming: Principles of Software Design"
+    }
+  ],
+  "source_path": "data/raw/syllabi/13173.html",
+  "id": "syllabus:13173"
+}

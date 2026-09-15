@@ -1,0 +1,345 @@
+{
+  "syllabus_id": 14329,
+  "subject_code": "FIN306c",
+  "subject_name": "Financial Reporting_Báo cáo tài chính",
+  "syllabus_name": "Financial Reporting_Báo cáo tài chính",
+  "credits": 3,
+  "degree_level": "Bachelor",
+  "time_allocation": "Online 49 hours+ 2 slots offline (optional)+108 hours self study",
+  "prerequisite": "Passed ACC101",
+  "general_information": {
+    "Syllabus ID": "14329",
+    "Syllabus Name": "Financial Reporting_Báo cáo tài chính",
+    "Course Name English": "Financial Reporting",
+    "Subject Code": "FIN306c",
+    "Learning-Teaching Method": "Online",
+    "NoCredit": "3",
+    "Degree Level": "Bachelor",
+    "Time Allocation": "Online 49 hours+ 2 slots offline (optional)+108 hours self study",
+    "Pre-Requisite": "Passed ACC101",
+    "Description": "The Financial Reporting Specialization focuses on the role of financial accounting principles and processes in creating and reporting an organization’s financial statements. Learners who complete this specialization will be able to (1) use financial accounting principles to create and/or process an organization’s financial statements and (2) analyze financial statements to assess an organization’s financial position. Note: Students who complete all MOOCs before the course deadline will receive 1 bonus point; otherwise, no bonus point will be awarded.",
+    "StudentTasks": "1. Join the online course (spec.) when being invited by the admin. 2. Enroll in each MOOC of spec., regularly study MOOCs at least 5hrs/week by watching videos, reading materials, taking quizzes, doing assgnments... as required 3. Respect the Coursera Code of Conduct, at https://learner.coursera.help/hc/en-us/articles/208280036-Coursera-Code-of-Conduct 3. Keep online learning progress promptly (bonus will be awarded) 4. Communicate and discuss in forum 5. Attend off-line sessions in the Campus (Optional) 6. Must complete all MOOCs of spec. with certification in order to take the Final Exam at Campus",
+    "Tools": "- Internet access",
+    "Scoring Scale": "10",
+    "DecisionNo MM/dd/yyyy": "359/QĐ-ĐHFPT dated 04/09/2025",
+    "IsApproved": "True",
+    "Note": "",
+    "Is Scored": "True",
+    "MinAvgMarkToPass": "5",
+    "IsActive": "True",
+    "ApprovedDate": "4/9/2025"
+  },
+  "active": true,
+  "approved": true,
+  "decision": "359/QĐ-ĐHFPT dated 04/09/2025",
+  "description": "The Financial Reporting Specialization focuses on the role of financial accounting principles and processes in creating and reporting an organization’s financial statements. Learners who complete this specialization will be able to (1) use financial accounting principles to create and/or process an organization’s financial statements and (2) analyze financial statements to assess an organization’s financial position. Note: Students who complete all MOOCs before the course deadline will receive 1 bonus point; otherwise, no bonus point will be awarded.",
+  "learning_outcomes": [
+    {
+      "No.": "1",
+      "CLO Name": "CLO1",
+      "CLO Details": "Using financial accounting principles to create and/or process an organization’s financial statements."
+    },
+    {
+      "No.": "2",
+      "CLO Name": "CLO2",
+      "CLO Details": "Analyzing financial statements to assess an organization’s financial position."
+    },
+    {
+      "No.": "3",
+      "CLO Name": "CLO3",
+      "CLO Details": "Explain the accounting concepts, principles and theory with an emphasis on problems that arise in applying these concepts for external reporting purposes."
+    },
+    {
+      "No.": "4",
+      "CLO Name": "CLO4",
+      "CLO Details": "Measuring of assets, liabilities, equities and income, as well as disclosure of additional information that may assist users understand the financial reports."
+    },
+    {
+      "No.": "5",
+      "CLO Name": "CLO5",
+      "CLO Details": "Identify the current liabilities and contingencies and continues with long-term debt and bonds."
+    },
+    {
+      "No.": "6",
+      "CLO Name": "CLO6",
+      "CLO Details": "Explain the accounting model for leases, both lessees and lessors."
+    },
+    {
+      "No.": "7",
+      "CLO Name": "CLO7",
+      "CLO Details": "Explain the deferred tax assets and liabilities."
+    },
+    {
+      "No.": "8",
+      "CLO Name": "CLO8",
+      "CLO Details": "Explain the recognition, measurement and subsequent accounting for equity, pensions, share-based compensation."
+    },
+    {
+      "No.": "9",
+      "CLO Name": "CLO9",
+      "CLO Details": "Explain the cash flows utilizing the FASB Accounting Standards Codification and other resources"
+    },
+    {
+      "No.": "10",
+      "CLO Name": "CLO10",
+      "CLO Details": "Ability to combine the concepts and techniques obtained through all the courses in this specialization."
+    },
+    {
+      "No.": "11",
+      "CLO Name": "CLO11",
+      "CLO Details": "Apply the concepts and techniques obtained through all the courses in this specialization to a real world accounting project."
+    },
+    {
+      "No.": "12",
+      "CLO Name": "CLO12",
+      "CLO Details": "Practising the project"
+    }
+  ],
+  "assessments": [
+    {
+      "No.": "1",
+      "Category": "Final exam",
+      "Type": "Final exam",
+      "Part": "1",
+      "Weight": "100.0%",
+      "Completion Criteria": "4",
+      "Duration": "60'",
+      "CLO": "All LO",
+      "Question Type": "Multiple choicesMarked by Computer",
+      "No Question": "50",
+      "Knowledge and Skill": "5 Courses",
+      "Grading Guide": "by exam board, using computer",
+      "Note": "Final Result (FR) = min (10, TE + Bonus)"
+    }
+  ],
+  "schedule": [
+    {
+      "Session": "1",
+      "Topic": "Introduction Course Review - Offline (optional)",
+      "Learning-Teaching Type": "Online,Offline",
+      "LO": "All LOs",
+      "ITU": "IT",
+      "Student Materials": "Course 1 - 5",
+      "S-Download": "",
+      "Student's Tasks": "- See the syllabus of All the courses in the specialization - Participate in offline slot (optional)",
+      "URLs": ""
+    },
+    {
+      "Session": "2",
+      "Topic": "Course 1: Accounting Analysis I: The Role of Accounting as an Information System Lesson 1: Course Orientation and Financial Accounting Structure/Environment Lesson 2: Review of Accounting Process Lesson 3: Balance Sheet & Financial Disclosures Lesson 4: Income Statement and Accounting Changes",
+      "Learning-Teaching Type": "Online",
+      "LO": "LO1",
+      "ITU": "U",
+      "Student Materials": "Videos, reading, quizzes",
+      "S-Download": "",
+      "Student's Tasks": "- Watch the videos - Read the materials - Do the quizzes",
+      "URLs": ""
+    },
+    {
+      "Session": "3",
+      "Topic": "Course 1:Accounting Analysis I: The Role of Accounting as an Information System Lesson 5: Time Value of Money, Ethics, & Other Financial Statements Lesson 6: Revenue Recognition Lesson 7: Revenue & Ratio Analysis Lesson 8: Course Wrap-Up & Case Study",
+      "Learning-Teaching Type": "Online",
+      "LO": "LO2",
+      "ITU": "U",
+      "Student Materials": "Videos, reading, quizzes",
+      "S-Download": "",
+      "Student's Tasks": "- Watch the videos - Read the materials - Do the quizzes",
+      "URLs": ""
+    },
+    {
+      "Session": "4",
+      "Topic": "Course 1:Accounting Analysis I: The Role of Accounting as an Information System Lesson 5: Time Value of Money, Ethics, & Other Financial Statements Lesson 6: Revenue Recognition Lesson 7: Revenue & Ratio Analysis Lesson 8: Course Wrap-Up & Case Study",
+      "Learning-Teaching Type": "Online",
+      "LO": "LO2",
+      "ITU": "U",
+      "Student Materials": "Videos, reading, quizzes",
+      "S-Download": "",
+      "Student's Tasks": "- Watch the videos - Read the materials - Do the quizzes",
+      "URLs": ""
+    },
+    {
+      "Session": "5",
+      "Topic": "Course 2: Accounting Analysis I: Measurement and Disclosure of Assets Lesson 1: Course Orientation and Cash & Accounts Receivable Lesson 2: Inventory - Measurement Lesson 3: Inventory - Additional Issues Lesson 4: PP&E - Acquisition & Disposition",
+      "Learning-Teaching Type": "Online",
+      "LO": "LO3, LO4",
+      "ITU": "U",
+      "Student Materials": "Videos, reading, quizzes",
+      "S-Download": "",
+      "Student's Tasks": "- Watch the videos - Read the materials - Do the quizzes",
+      "URLs": ""
+    },
+    {
+      "Session": "6",
+      "Topic": "Course 2: Accounting Analysis I: Measurement and Disclosure of Assets Lesson 5: PP&E - Utilization & Impairment Lesson 6: Issues of Long-Lived Assets Lesson 7: Investments Lesson 8: Course Wrap-Up & Case Study",
+      "Learning-Teaching Type": "Online",
+      "LO": "LO3, LO4",
+      "ITU": "TU",
+      "Student Materials": "Videos, reading, quizzes",
+      "S-Download": "",
+      "Student's Tasks": "- Watch the videos - Read the materials - Do the quizzes - See all videos, Read all materials in the modules",
+      "URLs": ""
+    },
+    {
+      "Session": "7",
+      "Topic": "Course 3: Accounting Analysis II: Measurement and Disclosure of Liabilities Lesson 1: About the Course and Current Liabilities and Contingencies Lesson 2: Long-Term Debt Part 1 Lesson 3: Long-Term Debt Part 2 Lesson 4: Lease Accounting Part 1",
+      "Learning-Teaching Type": "Online",
+      "LO": "LO5, LO6",
+      "ITU": "IT",
+      "Student Materials": "Videos, reading, quizzes",
+      "S-Download": "",
+      "Student's Tasks": "- Watch the videos - Read the materials - Do the quizzes",
+      "URLs": ""
+    },
+    {
+      "Session": "8",
+      "Topic": "Course 3: Accounting Analysis II: Measurement and Disclosure of Liabilities Lesson 5: Lease Accounting Part 2 Lesson 6: Deferred Taxes Part 1 Lesson 7: Deferred Taxes Part 2 Lesson 8: Review and Evaluation",
+      "Learning-Teaching Type": "Online",
+      "LO": "LO6, LO7",
+      "ITU": "",
+      "Student Materials": "Videos, reading, quizzes",
+      "S-Download": "",
+      "Student's Tasks": "- Watch the videos - Read the materials - Do the quizzes",
+      "URLs": ""
+    },
+    {
+      "Session": "9",
+      "Topic": "Course 3: Accounting Analysis II: Measurement and Disclosure of Liabilities Lesson 5: Lease Accounting Part 2 Lesson 6: Deferred Taxes Part 1 Lesson 7: Deferred Taxes Part 2 Lesson 8: Review and Evaluation",
+      "Learning-Teaching Type": "Online",
+      "LO": "LO6, LO7",
+      "ITU": "",
+      "Student Materials": "Videos, reading, quizzes",
+      "S-Download": "",
+      "Student's Tasks": "- Watch the videos - Read the materials - Do the quizzes",
+      "URLs": ""
+    },
+    {
+      "Session": "10",
+      "Topic": "Course 4: Accounting Analysis II: Accounting for Liabilities and Equity Lesson 1: About the Course and Postretirement Benefits Part 1 Lesson 2: Postretirement Benefits Part 2 Lesson 3: Equity Lesson 4: Share-Based Payments Lesson 5: Earnings Per Share Lesson 6: Accounting Changes Lesson 7: Statement of Cash Flows",
+      "Learning-Teaching Type": "Online",
+      "LO": "LO8, LO9",
+      "ITU": "U",
+      "Student Materials": "Videos, reading, quizzes",
+      "S-Download": "",
+      "Student's Tasks": "- Watch the videos - Read the materials - Do the quizzes",
+      "URLs": ""
+    },
+    {
+      "Session": "11",
+      "Topic": "Course 5: Financial Reporting Capstone Lesson 1: About the Course and Accrual Accounting for Assets and Contingencies Lesson 2: Accrual Accounting for Liabilities and Equity Lesson 3: Balance Sheet and Income Statement (including EPS)",
+      "Learning-Teaching Type": "Online",
+      "LO": "LO10, LO11, LO12",
+      "ITU": "U",
+      "Student Materials": "Videos, reading, quizzes",
+      "S-Download": "",
+      "Student's Tasks": "- Watch the videos - Read the materials - Do the quizzes",
+      "URLs": ""
+    },
+    {
+      "Session": "12",
+      "Topic": "-Review - Offline (optional) -Deadline of Coursera completion: End of Friday of the week",
+      "Learning-Teaching Type": "Online,Offline",
+      "LO": "LO8, LO9, LO10, LO11, LO12",
+      "ITU": "T",
+      "Student Materials": "Videos, reading, quizzes",
+      "S-Download": "",
+      "Student's Tasks": "- See all videos, Read all materials in the modules - Participate in offline review slot (optional) - review - offline (optional) - Deadline of Coursera completion: End of Friday of the week",
+      "URLs": ""
+    }
+  ],
+  "constructive_questions": [],
+  "materials": [
+    {
+      "No.": "1",
+      "Material Description": "https://www.coursera.org/specializations/financial-reporting",
+      "Author": "",
+      "Publisher": "Coursera",
+      "Published Date": "",
+      "Edition": "",
+      "ISBN": "",
+      "Is Main Material": "True",
+      "Is Hard Copy": "False",
+      "Is Online": "True",
+      "Note": ""
+    },
+    {
+      "No.": "2",
+      "Material Description": "https://learner.coursera.help/hc/en-us/articles/208280036-Coursera-Code-of-Conduct",
+      "Author": "",
+      "Publisher": "",
+      "Published Date": "",
+      "Edition": "",
+      "ISBN": "",
+      "Is Main Material": "False",
+      "Is Hard Copy": "False",
+      "Is Online": "False",
+      "Note": ""
+    },
+    {
+      "No.": "3",
+      "Material Description": "https://www.coursera.org/learn/accounting-information-system",
+      "Author": "",
+      "Publisher": "Coursera",
+      "Published Date": "",
+      "Edition": "",
+      "ISBN": "",
+      "Is Main Material": "True",
+      "Is Hard Copy": "False",
+      "Is Online": "True",
+      "Note": "MOOC 1: Accounting Analysis I: The Role of Accounting as an Information System"
+    },
+    {
+      "No.": "4",
+      "Material Description": "https://www.coursera.org/learn/asset-measurement-disclosure",
+      "Author": "",
+      "Publisher": "Coursera",
+      "Published Date": "",
+      "Edition": "",
+      "ISBN": "",
+      "Is Main Material": "True",
+      "Is Hard Copy": "False",
+      "Is Online": "True",
+      "Note": "MOOC 2: Accounting Analysis I: Measurement and Disclosure of Assets"
+    },
+    {
+      "No.": "5",
+      "Material Description": "https://www.coursera.org/learn/accounting-analysis-2-liabilities",
+      "Author": "",
+      "Publisher": "Coursera",
+      "Published Date": "",
+      "Edition": "",
+      "ISBN": "",
+      "Is Main Material": "True",
+      "Is Hard Copy": "False",
+      "Is Online": "True",
+      "Note": "MOOC 3: Accounting Analysis II: Measurement and Disclosure of Liabilities"
+    },
+    {
+      "No.": "6",
+      "Material Description": "https://www.coursera.org/learn/accounting-analysis-2-equity",
+      "Author": "",
+      "Publisher": "Coursera",
+      "Published Date": "",
+      "Edition": "",
+      "ISBN": "",
+      "Is Main Material": "True",
+      "Is Hard Copy": "False",
+      "Is Online": "True",
+      "Note": "MOOC 4: Accounting Analysis II: Accounting for Liabilities and Equity"
+    },
+    {
+      "No.": "7",
+      "Material Description": "https://www.coursera.org/learn/financial-reporting-capstone",
+      "Author": "",
+      "Publisher": "Coursera",
+      "Published Date": "",
+      "Edition": "",
+      "ISBN": "",
+      "Is Main Material": "True",
+      "Is Hard Copy": "False",
+      "Is Online": "True",
+      "Note": "MOOC 5: Financial Reporting Capstone"
+    }
+  ],
+  "source_path": "data/batch_validation/raw/syllabi/14329.html",
+  "id": "syllabus:14329"
+}

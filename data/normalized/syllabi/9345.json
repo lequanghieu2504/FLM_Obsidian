@@ -1,0 +1,1098 @@
+{
+  "syllabus_id": 9345,
+  "subject_code": "PRU221m",
+  "subject_name": "Object-Oriented Programming for Unity Games_Lập trình hướng đối tượng cho Unity Games",
+  "syllabus_name": "Object-Oriented Programming for Unity Games _Lập trình hướng đối tượng cho Unity Games",
+  "credits": 3,
+  "degree_level": "Bachelor",
+  "time_allocation": "Study hour (150h) = 45h contact hours + 1h final exam + 104h self-study",
+  "prerequisite": "PRU211m",
+  "general_information": {
+    "Syllabus ID": "9345",
+    "Syllabus Name": "Object-Oriented Programming for Unity Games _Lập trình hướng đối tượng cho Unity Games",
+    "Course Name English": "",
+    "Subject Code": "PRU221m",
+    "Learning-Teaching Method": "Project based learning,Active learning,In-class lecture",
+    "NoCredit": "3",
+    "Degree Level": "Bachelor",
+    "Time Allocation": "Study hour (150h) = 45h contact hours + 1h final exam + 104h self-study",
+    "Pre-Requisite": "PRU211m",
+    "Description": "This course is a course that builds on the knowledge included in the C# Programming for Unity Game Development Specialization, so the course assumes you have the prerequisite knowledge from the PRU211m. You should make sure you have that knowledge, either by taking those previous courses or from personal experience, before tackling this course. You should make sure you have that knowledge, either by taking those courses or from personal experience, before tackling this course. Throughout this course you'll build on your foundational C# and Unity knowledge by developing more robust games with better object-oriented designs using file input and output, inheritance and polymorphism, event handling and various data structures and design patterns. Data structures and design patterns are both general programming and software architecture topics that span all software, not just games. Although we'll discuss these ideas in the game domain, they also apply if you're writing a web app in ASP.NET, building a tool using WinForms, or any other software you decide to build.",
+    "StudentTasks": "- Students must attend more than 80% of contact slots in order to be accepted to the final examination. - Student is responsible to do all exercises, assignments and labs given by instructor in class or at home and submit on time - Use laptop in class only for learning purpose - Promptly access to the FU CMS at https://lms-hcmuni.fpt.edu.vn/ for up-to-date course information",
+    "Tools": "- Internet - Visual Studio 2019 or later (C# programming language) - Unity",
+    "Scoring Scale": "10",
+    "DecisionNo MM/dd/yyyy": "1189/QĐ-ĐHFPT dated 12/22/2022",
+    "IsApproved": "True",
+    "Note": "1) Ongoing assessment: 60%: 04 Progress test: 20% 02 Project: 40% 2) Final Exam: 40% 3) Final Result: 100% Completion Criteria: 1) Average Progress test score > 0 2) Average Project score >=5 2) Final Exam score >=4 & Final Result >= 5",
+    "Is Scored": "True",
+    "MinAvgMarkToPass": "5",
+    "IsActive": "True",
+    "ApprovedDate": "12/22/2022"
+  },
+  "active": true,
+  "approved": true,
+  "decision": "1189/QĐ-ĐHFPT dated 12/22/2022",
+  "description": "This course is a course that builds on the knowledge included in the C# Programming for Unity Game Development Specialization, so the course assumes you have the prerequisite knowledge from the PRU211m. You should make sure you have that knowledge, either by taking those previous courses or from personal experience, before tackling this course. You should make sure you have that knowledge, either by taking those courses or from personal experience, before tackling this course. Throughout this course you'll build on your foundational C# and Unity knowledge by developing more robust games with better object-oriented designs using file input and output, inheritance and polymorphism, event handling and various data structures and design patterns. Data structures and design patterns are both general programming and software architecture topics that span all software, not just games. Although we'll discuss these ideas in the game domain, they also apply if you're writing a web app in ASP.NET, building a tool using WinForms, or any other software you decide to build.",
+  "learning_outcomes": [
+    {
+      "No.": "1",
+      "CLO Name": "CLO1",
+      "CLO Details": "Able to use and implement exception handlers"
+    },
+    {
+      "No.": "2",
+      "CLO Name": "CLO2",
+      "CLO Details": "Able to read and write a text file"
+    },
+    {
+      "No.": "3",
+      "CLO Name": "CLO3",
+      "CLO Details": "Able to use and develop inheritance"
+    },
+    {
+      "No.": "4",
+      "CLO Name": "CLO4",
+      "CLO Details": "Able to develop game functionality using events and event handlers"
+    },
+    {
+      "No.": "5",
+      "CLO Name": "CLO5",
+      "CLO Details": "Able to develop a full menu system in a game"
+    },
+    {
+      "No.": "6",
+      "CLO Name": "CLO6",
+      "CLO Details": "Able to build a game that use event manager and event handling."
+    },
+    {
+      "No.": "7",
+      "CLO Name": "CLO7",
+      "CLO Details": "Able to build a game that use a single game audio source for all sound effects."
+    },
+    {
+      "No.": "8",
+      "CLO Name": "CLO8",
+      "CLO Details": "Able to describe how to implement a generic class"
+    },
+    {
+      "No.": "9",
+      "CLO Name": "CLO9",
+      "CLO Details": "Able to develop a class that implements an interface"
+    },
+    {
+      "No.": "10",
+      "CLO Name": "CLO10",
+      "CLO Details": "Able to complete algorithm analysis and use different data structures in developing games with Unity Games"
+    },
+    {
+      "No.": "11",
+      "CLO Name": "CLO11",
+      "CLO Details": "Able to describe the Component pattern and how it relates to the Unity engine"
+    },
+    {
+      "No.": "12",
+      "CLO Name": "CLO12",
+      "CLO Details": "Able to describe how the event managers implement the Mediator pattern"
+    }
+  ],
+  "assessments": [
+    {
+      "No.": "1",
+      "Category": "Group Project",
+      "Type": "on-going",
+      "Part": "2",
+      "Weight": "40.0%",
+      "Completion Criteria": "5",
+      "Duration": "21 days",
+      "CLO": "",
+      "Question Type": "Theory presentation or project",
+      "No Question": "",
+      "Knowledge and Skill": "technical aspect of studied topics",
+      "Grading Guide": "- Guided by instructor - Application or Theory - Work in group",
+      "Note": ""
+    },
+    {
+      "No.": "2",
+      "Category": "Quiz",
+      "Type": "on-going",
+      "Part": "4",
+      "Weight": "20.0%",
+      "Completion Criteria": ">0",
+      "Duration": "30'",
+      "CLO": "",
+      "Question Type": "Multiple choices Marked by Computer",
+      "No Question": "20",
+      "Knowledge and Skill": "concepts, algorithms; all studied chapters",
+      "Grading Guide": "by exam board, using computer",
+      "Note": ""
+    },
+    {
+      "No.": "3",
+      "Category": "Final exam",
+      "Type": "Final exam",
+      "Part": "1",
+      "Weight": "40.0%",
+      "Completion Criteria": "4",
+      "Duration": "60'",
+      "CLO": "",
+      "Question Type": "Multiple choices Marked by Computer",
+      "No Question": "50",
+      "Knowledge and Skill": "concepts, algorithms; all studied chapters",
+      "Grading Guide": "by exam board, using computer",
+      "Note": "The exam questions must be updated or different at least 70% to the previous ones."
+    }
+  ],
+  "schedule": [
+    {
+      "Session": "1",
+      "Topic": "Course Introduction",
+      "Learning-Teaching Type": "Offline",
+      "LO": "",
+      "ITU": "",
+      "Student Materials": "Slide, Video (Link download học liệu: https://drive.google.com/drive/folders/18ehh52Mx6TfGrMwjktH8Kw036p2CrKOj?usp=sharing)",
+      "S-Download": "",
+      "Student's Tasks": "",
+      "URLs": ""
+    },
+    {
+      "Session": "2",
+      "Topic": "Module 1: Exceptions and File IO",
+      "Learning-Teaching Type": "Offline",
+      "LO": "CLO1, CLO2",
+      "ITU": "",
+      "Student Materials": "Slide, Video",
+      "S-Download": "",
+      "Student's Tasks": "Read Slide Watch Video Do quizzes and assignments (if any)",
+      "URLs": ""
+    },
+    {
+      "Session": "3",
+      "Topic": "Module 1: Exceptions and File IO",
+      "Learning-Teaching Type": "Offline",
+      "LO": "CLO1, CLO2",
+      "ITU": "",
+      "Student Materials": "Slide, Video",
+      "S-Download": "",
+      "Student's Tasks": "Read Slide Watch Video Do quizzes and assignments (if any)",
+      "URLs": ""
+    },
+    {
+      "Session": "4",
+      "Topic": "Module 1: Exceptions and File IO",
+      "Learning-Teaching Type": "Offline",
+      "LO": "CLO1, CLO2",
+      "ITU": "",
+      "Student Materials": "Slide, Video",
+      "S-Download": "",
+      "Student's Tasks": "Read Slide Watch Video Do quizzes and assignments (if any)",
+      "URLs": ""
+    },
+    {
+      "Session": "5",
+      "Topic": "Lab Exercise",
+      "Learning-Teaching Type": "Offline",
+      "LO": "",
+      "ITU": "",
+      "Student Materials": "",
+      "S-Download": "",
+      "Student's Tasks": "Do Lab Exercise",
+      "URLs": ""
+    },
+    {
+      "Session": "6",
+      "Topic": "Lab Exercise",
+      "Learning-Teaching Type": "Offline",
+      "LO": "",
+      "ITU": "",
+      "Student Materials": "",
+      "S-Download": "",
+      "Student's Tasks": "Do Lab Exercise",
+      "URLs": ""
+    },
+    {
+      "Session": "7",
+      "Topic": "Group Project 1 Introduction",
+      "Learning-Teaching Type": "Offline",
+      "LO": "",
+      "ITU": "",
+      "Student Materials": "",
+      "S-Download": "",
+      "Student's Tasks": "",
+      "URLs": ""
+    },
+    {
+      "Session": "8",
+      "Topic": "Group Project 1 Introduction",
+      "Learning-Teaching Type": "Offline",
+      "LO": "",
+      "ITU": "",
+      "Student Materials": "",
+      "S-Download": "",
+      "Student's Tasks": "",
+      "URLs": ""
+    },
+    {
+      "Session": "9",
+      "Topic": "Module 2: Inheritance and Polymorphism",
+      "Learning-Teaching Type": "Offline",
+      "LO": "CLO3",
+      "ITU": "",
+      "Student Materials": "Slide, Video",
+      "S-Download": "",
+      "Student's Tasks": "Read Slide Watch Video Do quizzes and assignments (if any)",
+      "URLs": ""
+    },
+    {
+      "Session": "10",
+      "Topic": "Module 2: Inheritance and Polymorphism",
+      "Learning-Teaching Type": "Offline",
+      "LO": "CLO3",
+      "ITU": "",
+      "Student Materials": "Slide, Video",
+      "S-Download": "",
+      "Student's Tasks": "Read Slide Watch Video Do quizzes and assignments (if any)",
+      "URLs": ""
+    },
+    {
+      "Session": "11",
+      "Topic": "Module 2: Inheritance and Polymorphism",
+      "Learning-Teaching Type": "Offline",
+      "LO": "CLO3",
+      "ITU": "",
+      "Student Materials": "Slide, Video",
+      "S-Download": "",
+      "Student's Tasks": "Read Slide Watch Video Do quizzes and assignments (if any)",
+      "URLs": ""
+    },
+    {
+      "Session": "12",
+      "Topic": "Module 2: Inheritance and Polymorphism",
+      "Learning-Teaching Type": "Offline",
+      "LO": "CLO3",
+      "ITU": "",
+      "Student Materials": "Slide, Video",
+      "S-Download": "",
+      "Student's Tasks": "Read Slide Watch Video Do quizzes and assignments (if any)",
+      "URLs": ""
+    },
+    {
+      "Session": "13",
+      "Topic": "Lab Exercise",
+      "Learning-Teaching Type": "Offline",
+      "LO": "",
+      "ITU": "",
+      "Student Materials": "",
+      "S-Download": "",
+      "Student's Tasks": "Do Lab Exercise",
+      "URLs": ""
+    },
+    {
+      "Session": "14",
+      "Topic": "Lab Exercise",
+      "Learning-Teaching Type": "Offline",
+      "LO": "",
+      "ITU": "",
+      "Student Materials": "",
+      "S-Download": "",
+      "Student's Tasks": "",
+      "URLs": ""
+    },
+    {
+      "Session": "15",
+      "Topic": "Quiz 1",
+      "Learning-Teaching Type": "Offline",
+      "LO": "",
+      "ITU": "",
+      "Student Materials": "",
+      "S-Download": "",
+      "Student's Tasks": "",
+      "URLs": ""
+    },
+    {
+      "Session": "16",
+      "Topic": "Module 3: Event Handling and Menus",
+      "Learning-Teaching Type": "Offline",
+      "LO": "CLO4, CLO5",
+      "ITU": "",
+      "Student Materials": "Slide, Video",
+      "S-Download": "",
+      "Student's Tasks": "Read Slide Watch Video Do quizzes and assignments (if any)",
+      "URLs": ""
+    },
+    {
+      "Session": "17",
+      "Topic": "Module 3: Event Handling and Menus",
+      "Learning-Teaching Type": "Offline",
+      "LO": "CLO4, CLO5",
+      "ITU": "",
+      "Student Materials": "Slide, Video",
+      "S-Download": "",
+      "Student's Tasks": "Read Slide Watch Video Do quizzes and assignments (if any)",
+      "URLs": ""
+    },
+    {
+      "Session": "18",
+      "Topic": "Module 3: Event Handling and Menus",
+      "Learning-Teaching Type": "Offline",
+      "LO": "CLO4, CLO5",
+      "ITU": "",
+      "Student Materials": "Slide, Video",
+      "S-Download": "",
+      "Student's Tasks": "Read Slide Watch Video Do quizzes and assignments (if any)",
+      "URLs": ""
+    },
+    {
+      "Session": "19",
+      "Topic": "Lab Exercise",
+      "Learning-Teaching Type": "Offline",
+      "LO": "",
+      "ITU": "",
+      "Student Materials": "",
+      "S-Download": "",
+      "Student's Tasks": "Do Lab Exercise",
+      "URLs": ""
+    },
+    {
+      "Session": "20",
+      "Topic": "Lab Exercise",
+      "Learning-Teaching Type": "Offline",
+      "LO": "",
+      "ITU": "",
+      "Student Materials": "",
+      "S-Download": "",
+      "Student's Tasks": "Do Lab Exercise",
+      "URLs": ""
+    },
+    {
+      "Session": "21",
+      "Topic": "Module 4: Feed the Teddies",
+      "Learning-Teaching Type": "Offline",
+      "LO": "CLO6, CLO7",
+      "ITU": "",
+      "Student Materials": "Slide, Video",
+      "S-Download": "",
+      "Student's Tasks": "Read Slide Watch Video Do quizzes and assignments (if any)",
+      "URLs": ""
+    },
+    {
+      "Session": "22",
+      "Topic": "Module 4: Feed the Teddies",
+      "Learning-Teaching Type": "Offline",
+      "LO": "CLO6, CLO7",
+      "ITU": "",
+      "Student Materials": "Slide, Video",
+      "S-Download": "",
+      "Student's Tasks": "Read Slide Watch Video Do quizzes and assignments (if any)",
+      "URLs": ""
+    },
+    {
+      "Session": "23",
+      "Topic": "Module 4: Feed the Teddies",
+      "Learning-Teaching Type": "Offline",
+      "LO": "CLO6, CLO7",
+      "ITU": "",
+      "Student Materials": "Slide, Video",
+      "S-Download": "",
+      "Student's Tasks": "Read Slide Watch Video Do quizzes and assignments (if any)",
+      "URLs": ""
+    },
+    {
+      "Session": "24",
+      "Topic": "Module 4: Feed the Teddies",
+      "Learning-Teaching Type": "Offline",
+      "LO": "CLO6, CLO7",
+      "ITU": "",
+      "Student Materials": "Slide, Video",
+      "S-Download": "",
+      "Student's Tasks": "Read Slide Watch Video Do quizzes and assignments (if any)",
+      "URLs": ""
+    },
+    {
+      "Session": "25",
+      "Topic": "Lab Exercise",
+      "Learning-Teaching Type": "Offline",
+      "LO": "",
+      "ITU": "",
+      "Student Materials": "",
+      "S-Download": "",
+      "Student's Tasks": "Do Lab Exercise",
+      "URLs": ""
+    },
+    {
+      "Session": "26",
+      "Topic": "Lab Exercise",
+      "Learning-Teaching Type": "Offline",
+      "LO": "",
+      "ITU": "",
+      "Student Materials": "",
+      "S-Download": "",
+      "Student's Tasks": "Do Lab Exercise",
+      "URLs": ""
+    },
+    {
+      "Session": "27",
+      "Topic": "Check Group Project 1",
+      "Learning-Teaching Type": "Offline",
+      "LO": "",
+      "ITU": "",
+      "Student Materials": "",
+      "S-Download": "",
+      "Student's Tasks": "Do presentation",
+      "URLs": ""
+    },
+    {
+      "Session": "28",
+      "Topic": "Check Group Project 1",
+      "Learning-Teaching Type": "Offline",
+      "LO": "",
+      "ITU": "",
+      "Student Materials": "",
+      "S-Download": "",
+      "Student's Tasks": "Do presentation",
+      "URLs": ""
+    },
+    {
+      "Session": "29",
+      "Topic": "Check Group Project 1",
+      "Learning-Teaching Type": "Offline",
+      "LO": "",
+      "ITU": "",
+      "Student Materials": "",
+      "S-Download": "",
+      "Student's Tasks": "Do presentation",
+      "URLs": ""
+    },
+    {
+      "Session": "30",
+      "Topic": "Check Group Project 1",
+      "Learning-Teaching Type": "Offline",
+      "LO": "",
+      "ITU": "",
+      "Student Materials": "",
+      "S-Download": "",
+      "Student's Tasks": "Do presentation",
+      "URLs": ""
+    },
+    {
+      "Session": "31",
+      "Topic": "Group Project 2 Introduction",
+      "Learning-Teaching Type": "Offline",
+      "LO": "",
+      "ITU": "",
+      "Student Materials": "",
+      "S-Download": "",
+      "Student's Tasks": "",
+      "URLs": ""
+    },
+    {
+      "Session": "32",
+      "Topic": "Group Project 2 Introduction",
+      "Learning-Teaching Type": "Offline",
+      "LO": "",
+      "ITU": "",
+      "Student Materials": "",
+      "S-Download": "",
+      "Student's Tasks": "",
+      "URLs": ""
+    },
+    {
+      "Session": "33",
+      "Topic": "Quiz 2",
+      "Learning-Teaching Type": "Offline",
+      "LO": "",
+      "ITU": "",
+      "Student Materials": "",
+      "S-Download": "",
+      "Student's Tasks": "",
+      "URLs": ""
+    },
+    {
+      "Session": "34",
+      "Topic": "Module 5: Dynamic Arrays and Algorithm Analysis",
+      "Learning-Teaching Type": "Offline",
+      "LO": "CLO8, CLO9, CLO10",
+      "ITU": "",
+      "Student Materials": "Slide, Video",
+      "S-Download": "",
+      "Student's Tasks": "Read Slide Watch Video Do quizzes and assignments (if any)",
+      "URLs": ""
+    },
+    {
+      "Session": "35",
+      "Topic": "Module 5: Dynamic Arrays and Algorithm Analysis",
+      "Learning-Teaching Type": "Offline",
+      "LO": "CLO8, CLO9, CLO10",
+      "ITU": "",
+      "Student Materials": "Slide, Video",
+      "S-Download": "",
+      "Student's Tasks": "Read Slide Watch Video Do quizzes and assignments (if any)",
+      "URLs": ""
+    },
+    {
+      "Session": "36",
+      "Topic": "Module 5: Dynamic Arrays and Algorithm Analysis",
+      "Learning-Teaching Type": "Offline",
+      "LO": "CLO8, CLO9, CLO10",
+      "ITU": "",
+      "Student Materials": "Slide, Video",
+      "S-Download": "",
+      "Student's Tasks": "Read Slide Watch Video Do quizzes and assignments (if any)",
+      "URLs": ""
+    },
+    {
+      "Session": "37",
+      "Topic": "Lab Exercise",
+      "Learning-Teaching Type": "Offline",
+      "LO": "",
+      "ITU": "",
+      "Student Materials": "",
+      "S-Download": "",
+      "Student's Tasks": "",
+      "URLs": ""
+    },
+    {
+      "Session": "38",
+      "Topic": "Lab Exercise",
+      "Learning-Teaching Type": "Offline",
+      "LO": "",
+      "ITU": "",
+      "Student Materials": "",
+      "S-Download": "",
+      "Student's Tasks": "",
+      "URLs": ""
+    },
+    {
+      "Session": "39",
+      "Topic": "Module 6: Linked Lists and Graphs",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO10",
+      "ITU": "",
+      "Student Materials": "Slide, Video",
+      "S-Download": "",
+      "Student's Tasks": "Read Slide Watch Video Do quizzes and assignments (if any)",
+      "URLs": ""
+    },
+    {
+      "Session": "40",
+      "Topic": "Module 6: Linked Lists and Graphs",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO10",
+      "ITU": "",
+      "Student Materials": "Slide, Video",
+      "S-Download": "",
+      "Student's Tasks": "Read Slide Watch Video Do quizzes and assignments (if any)",
+      "URLs": ""
+    },
+    {
+      "Session": "41",
+      "Topic": "Module 6: Linked Lists and Graphs",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO10",
+      "ITU": "",
+      "Student Materials": "Slide, Video",
+      "S-Download": "",
+      "Student's Tasks": "Read Slide Watch Video Do quizzes and assignments (if any)",
+      "URLs": ""
+    },
+    {
+      "Session": "42",
+      "Topic": "Module 6: Linked Lists and Graphs",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO10",
+      "ITU": "",
+      "Student Materials": "Slide, Video",
+      "S-Download": "",
+      "Student's Tasks": "Read Slide Watch Video Do quizzes and assignments (if any)",
+      "URLs": ""
+    },
+    {
+      "Session": "43",
+      "Topic": "Lab Exercise",
+      "Learning-Teaching Type": "Offline",
+      "LO": "",
+      "ITU": "",
+      "Student Materials": "",
+      "S-Download": "",
+      "Student's Tasks": "",
+      "URLs": ""
+    },
+    {
+      "Session": "44",
+      "Topic": "Lab Exercise",
+      "Learning-Teaching Type": "Offline",
+      "LO": "",
+      "ITU": "",
+      "Student Materials": "",
+      "S-Download": "",
+      "Student's Tasks": "",
+      "URLs": ""
+    },
+    {
+      "Session": "45",
+      "Topic": "Quiz 3",
+      "Learning-Teaching Type": "Offline",
+      "LO": "",
+      "ITU": "",
+      "Student Materials": "",
+      "S-Download": "",
+      "Student's Tasks": "",
+      "URLs": ""
+    },
+    {
+      "Session": "46",
+      "Topic": "Module 7: Stacks, Queues, and Trees",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO10",
+      "ITU": "",
+      "Student Materials": "Slide, Video",
+      "S-Download": "",
+      "Student's Tasks": "Read Slide Watch Video Do quizzes and assignments (if any)",
+      "URLs": ""
+    },
+    {
+      "Session": "47",
+      "Topic": "Module 7: Stacks, Queues, and Trees",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO10",
+      "ITU": "",
+      "Student Materials": "Slide, Video",
+      "S-Download": "",
+      "Student's Tasks": "Read Slide Watch Video Do quizzes and assignments (if any)",
+      "URLs": ""
+    },
+    {
+      "Session": "48",
+      "Topic": "Module 7: Stacks, Queues, and Trees",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO10",
+      "ITU": "",
+      "Student Materials": "Slide, Video",
+      "S-Download": "",
+      "Student's Tasks": "Read Slide Watch Video Do quizzes and assignments (if any)",
+      "URLs": ""
+    },
+    {
+      "Session": "49",
+      "Topic": "Lab Exercise",
+      "Learning-Teaching Type": "Offline",
+      "LO": "",
+      "ITU": "",
+      "Student Materials": "",
+      "S-Download": "",
+      "Student's Tasks": "Do Lab Exercise",
+      "URLs": ""
+    },
+    {
+      "Session": "50",
+      "Topic": "Lab Exercise",
+      "Learning-Teaching Type": "Offline",
+      "LO": "",
+      "ITU": "",
+      "Student Materials": "",
+      "S-Download": "",
+      "Student's Tasks": "",
+      "URLs": ""
+    },
+    {
+      "Session": "51",
+      "Topic": "Module 8: Design Patterns",
+      "Learning-Teaching Type": "Offline",
+      "LO": "CLO11, CLO12",
+      "ITU": "",
+      "Student Materials": "Slide, Video",
+      "S-Download": "",
+      "Student's Tasks": "Read Slide Watch Video Do quizzes and assignments (if any)",
+      "URLs": ""
+    },
+    {
+      "Session": "52",
+      "Topic": "Module 8: Design Patterns",
+      "Learning-Teaching Type": "Offline",
+      "LO": "CLO11, CLO12",
+      "ITU": "",
+      "Student Materials": "Slide, Video",
+      "S-Download": "",
+      "Student's Tasks": "Read Slide Watch Video Do quizzes and assignments (if any)",
+      "URLs": ""
+    },
+    {
+      "Session": "53",
+      "Topic": "Module 8: Design Patterns",
+      "Learning-Teaching Type": "Offline",
+      "LO": "CLO11, CLO12",
+      "ITU": "",
+      "Student Materials": "Slide, Video",
+      "S-Download": "",
+      "Student's Tasks": "Read Slide Watch Video Do quizzes and assignments (if any)",
+      "URLs": ""
+    },
+    {
+      "Session": "54",
+      "Topic": "Module 8: Design Patterns",
+      "Learning-Teaching Type": "Offline",
+      "LO": "CLO11, CLO12",
+      "ITU": "",
+      "Student Materials": "Slide, Video",
+      "S-Download": "",
+      "Student's Tasks": "Read Slide Watch Video Do quizzes and assignments (if any)",
+      "URLs": ""
+    },
+    {
+      "Session": "55",
+      "Topic": "Quiz 4",
+      "Learning-Teaching Type": "Offline",
+      "LO": "",
+      "ITU": "",
+      "Student Materials": "",
+      "S-Download": "",
+      "Student's Tasks": "Do quiz 4 Do Lab Exercise",
+      "URLs": ""
+    },
+    {
+      "Session": "56",
+      "Topic": "Lab Exercise",
+      "Learning-Teaching Type": "Offline",
+      "LO": "",
+      "ITU": "",
+      "Student Materials": "",
+      "S-Download": "",
+      "Student's Tasks": "",
+      "URLs": ""
+    },
+    {
+      "Session": "57",
+      "Topic": "Check Group Project 2",
+      "Learning-Teaching Type": "Offline",
+      "LO": "",
+      "ITU": "",
+      "Student Materials": "",
+      "S-Download": "",
+      "Student's Tasks": "",
+      "URLs": ""
+    },
+    {
+      "Session": "58",
+      "Topic": "Check Group Project 2",
+      "Learning-Teaching Type": "Offline",
+      "LO": "",
+      "ITU": "",
+      "Student Materials": "",
+      "S-Download": "",
+      "Student's Tasks": "",
+      "URLs": ""
+    },
+    {
+      "Session": "59",
+      "Topic": "Check Group Project 2",
+      "Learning-Teaching Type": "Offline",
+      "LO": "",
+      "ITU": "",
+      "Student Materials": "",
+      "S-Download": "",
+      "Student's Tasks": "",
+      "URLs": ""
+    },
+    {
+      "Session": "60",
+      "Topic": "Check Group Project 2",
+      "Learning-Teaching Type": "Offline",
+      "LO": "",
+      "ITU": "",
+      "Student Materials": "",
+      "S-Download": "",
+      "Student's Tasks": "",
+      "URLs": ""
+    }
+  ],
+  "constructive_questions": [
+    {
+      "No.": "1",
+      "Session No": "4",
+      "Name": "CQ2.1",
+      "Details": "What are exceptions? Why use Exception?"
+    },
+    {
+      "No.": "2",
+      "Session No": "5",
+      "Name": "CQ2.2",
+      "Details": "What types of exceptions are there? Give an illustrative example."
+    },
+    {
+      "No.": "3",
+      "Session No": "6",
+      "Name": "CQ2.3",
+      "Details": "What is Stream? Why use stream in reading and writing files? Give an illustrative example."
+    },
+    {
+      "No.": "4",
+      "Session No": "7",
+      "Name": "CQ3.1",
+      "Details": "What is PlayerPrefs Class? Why use it? How to use it? Give an illustrative example."
+    },
+    {
+      "No.": "5",
+      "Session No": "8",
+      "Name": "CQ3.2",
+      "Details": "On the game screen, the teddybears are blue and purple, when the fish eats any color fish, the screen will display the statistics of the number of fish that have been eaten. How to solve the above problem?"
+    },
+    {
+      "No.": "6",
+      "Session No": "9",
+      "Name": "CQ3.3",
+      "Details": "How to store parameters in the game during play?"
+    },
+    {
+      "No.": "7",
+      "Session No": "10",
+      "Name": "CQ4.1",
+      "Details": "What is Inheritance? Explain the concept of superclass, subclass? How to use inheritance effectively in Unity programming?"
+    },
+    {
+      "No.": "8",
+      "Session No": "11",
+      "Name": "CQ4.2",
+      "Details": "How to solve Exercise 4? What can be learned from this concept?"
+    },
+    {
+      "No.": "9",
+      "Session No": "12",
+      "Name": "CQ4.3",
+      "Details": "What is polymorphism? build a list of 3 family members where one is a FamilyMember, one is a Geek, and one is a Gamer."
+    },
+    {
+      "No.": "10",
+      "Session No": "16",
+      "Name": "CQ6.1",
+      "Details": "Build the BankAccount, CheckingAccount and SavingsAccount classes as described. What meaning is drawn between the Inheritance and Fields relationship?"
+    },
+    {
+      "No.": "11",
+      "Session No": "17",
+      "Name": "CQ6.2",
+      "Details": "In Exercise 5, how do I fulfill the requirements of this exercise?"
+    },
+    {
+      "No.": "12",
+      "Session No": "18",
+      "Name": "CQ6.3",
+      "Details": "In Exercise 6, how do I fulfill the requirements of this exercise?"
+    },
+    {
+      "No.": "13",
+      "Session No": "19",
+      "Name": "CQ7.1",
+      "Details": "What Are Delegates? How to customize behaviors with delegates?"
+    },
+    {
+      "No.": "14",
+      "Session No": "20",
+      "Name": "CQ7.2",
+      "Details": "How to build a game by specifying behaviours for balls, here are requirements like 4 different coloured balls with red balls moving left, green balls moving right, blue balls moving up, and yellow balls moving down?"
+    },
+    {
+      "No.": "15",
+      "Session No": "21",
+      "Name": "CQ7.3",
+      "Details": "What are Events and Event Handling? How to build events for the fish eat bear game? Need to determine the fish will eat at the beginning, and each time the score will increase."
+    },
+    {
+      "No.": "16",
+      "Session No": "25",
+      "Name": "CQ9.1",
+      "Details": "What are Events and Event HanWhat is UnityEvent and UnityAction? How can I use it in the game?"
+    },
+    {
+      "No.": "17",
+      "Session No": "26",
+      "Name": "CQ9.2",
+      "Details": "How to use UnityEvent and UnityAction in the fish-eating bear game problems?"
+    },
+    {
+      "No.": "18",
+      "Session No": "27",
+      "Name": "CQ9.3",
+      "Details": "What are Menu Buttons? In what situations are menu buttons usually used? To create a menu for the user to choose to start playing the game or exit the game, how will we do it?"
+    },
+    {
+      "No.": "19",
+      "Session No": "28",
+      "Name": "CQ10.1",
+      "Details": "What are Exception Handlers? How to use exceptions in game? What is the purpose of using exceptions in the game?"
+    },
+    {
+      "No.": "20",
+      "Session No": "29",
+      "Name": "CQ10.2",
+      "Details": "Feed the Teddies game: How to create a menu, where the user can choose the difficulty of the game like Easy, Medium or Hard to determine how smart the teddy bears are, how fast they move and how fast they spawn?"
+    },
+    {
+      "No.": "21",
+      "Session No": "30",
+      "Name": "CQ10.3",
+      "Details": "Feed the Teddies game: After the user selects the level of the game, the player moves the burger avatar around the screen, shooting fries at the teddy bear. How to handle the above problem?"
+    },
+    {
+      "No.": "22",
+      "Session No": "31",
+      "Name": "CQ11.1",
+      "Details": "Continuing with this game, teddy bears are not able to defend themselves, however, the player can be affected by colliding with teddy bears or bullets from teddy bears. When the game is over, either due to the player running out of health or due to game time running out, the player will know if they have hit a new high. How to handle the above problem?"
+    },
+    {
+      "No.": "23",
+      "Session No": "32",
+      "Name": "CQ11.2",
+      "Details": "Feed the Teddies game: When the game finishes, either because the player ran out of health or because the game timer expired, the player discovers whether or not they just achieved a new high score. How to handle the above problem?"
+    },
+    {
+      "No.": "24",
+      "Session No": "33",
+      "Name": "CQ11.3",
+      "Details": "Feed the Teddies game: With the functions in the game, how many test cases will we define and how will the testing take place?"
+    },
+    {
+      "No.": "25",
+      "Session No": "34",
+      "Name": "CQ12.1",
+      "Details": "What is a Data Structure? What is the effect of using data structures in the game?"
+    },
+    {
+      "No.": "26",
+      "Session No": "35",
+      "Name": "CQ12.2",
+      "Details": "What is Abstract Base Class and An Unordered Concrete Class? What is the difference between these 2 classes?"
+    },
+    {
+      "No.": "27",
+      "Session No": "36",
+      "Name": "CQ12.3",
+      "Details": "How to solve exercise 9 and 10?"
+    },
+    {
+      "No.": "28",
+      "Session No": "37",
+      "Name": "CQ13.1",
+      "Details": "What is Computational and Asymptotic Complexity? How does this affect the game?"
+    },
+    {
+      "No.": "29",
+      "Session No": "38",
+      "Name": "CQ13.2",
+      "Details": "What are Ω and Θ Notations? How will they be implemented? And what is their difference? Give some example."
+    },
+    {
+      "No.": "30",
+      "Session No": "39",
+      "Name": "CQ13.3",
+      "Details": "What is Asymptotic Complexity? How to determine Asymptotic bounds? Give some examples."
+    },
+    {
+      "No.": "31",
+      "Session No": "40",
+      "Name": "CQ14.1",
+      "Details": "What are Linked Lists? What are the benefits of using a linked list in Unity?"
+    },
+    {
+      "No.": "32",
+      "Session No": "41",
+      "Name": "CQ14.2",
+      "Details": "What are Singly Linked Lists? What are the benefits of using a linked list? How to implement singly linked lists?"
+    },
+    {
+      "No.": "33",
+      "Session No": "46",
+      "Name": "CQ16.1",
+      "Details": "What are graphs? What are the benefits of using graphs in Unity?"
+    },
+    {
+      "No.": "34",
+      "Session No": "47",
+      "Name": "CQ16.2",
+      "Details": "What are some ways to represent graphs? What are the pros and cons of each representation?"
+    },
+    {
+      "No.": "35",
+      "Session No": "48",
+      "Name": "CQ16.3",
+      "Details": "How to implement a basic graph?"
+    },
+    {
+      "No.": "36",
+      "Session No": "49",
+      "Name": "CQ17.1",
+      "Details": "What are stack? What are the basic functions in the stack? What are the benefits of using stack? How to implement a stack?"
+    },
+    {
+      "No.": "37",
+      "Session No": "50",
+      "Name": "CQ17.2",
+      "Details": "What are queue? What are the basic functions in the queue? What are the benefits of using stacks? How to implement a stack?"
+    },
+    {
+      "No.": "38",
+      "Session No": "51",
+      "Name": "CQ17.3",
+      "Details": "What are tree? What are the basic functions in the tree? What are the benefits of using tree? How to implement a tree?"
+    },
+    {
+      "No.": "39",
+      "Session No": "52",
+      "Name": "CQ18.1",
+      "Details": "What are Doubly Linked Lists? What are the benefits of using a linked list? How to implement doubly linked lists?"
+    },
+    {
+      "No.": "40",
+      "Session No": "53",
+      "Name": "CQ18.2",
+      "Details": "Describe the Component pattern and how it relates to the Unity engine?"
+    },
+    {
+      "No.": "41",
+      "Session No": "54",
+      "Name": "CQ18.3",
+      "Details": "Describe how the event managers we've discussed implement the Mediator pattern?"
+    }
+  ],
+  "materials": [
+    {
+      "No.": "1",
+      "Material Description": "https://www.coursera.org/learn/intermediate-object-oriented-programming-unity-games/home/welcome",
+      "Author": "",
+      "Publisher": "Coursera",
+      "Published Date": "",
+      "Edition": "",
+      "ISBN": "",
+      "Is Main Material": "True",
+      "Is Hard Copy": "False",
+      "Is Online": "True",
+      "Note": ""
+    },
+    {
+      "No.": "2",
+      "Material Description": "https://www.coursera.org/learn/data-structures-design-patterns/home/welcome",
+      "Author": "",
+      "Publisher": "Coursera",
+      "Published Date": "",
+      "Edition": "",
+      "ISBN": "",
+      "Is Main Material": "True",
+      "Is Hard Copy": "False",
+      "Is Online": "True",
+      "Note": ""
+    },
+    {
+      "No.": "3",
+      "Material Description": "Beginning C# Programming with Unity Visual Studio Edition",
+      "Author": "A.T. Chamillard",
+      "Publisher": "Burning Teddy",
+      "Published Date": "2016",
+      "Edition": "",
+      "ISBN": "",
+      "Is Main Material": "False",
+      "Is Hard Copy": "False",
+      "Is Online": "False",
+      "Note": "eBook"
+    }
+  ],
+  "source_path": "data/raw/syllabi/9345.html",
+  "id": "syllabus:9345"
+}

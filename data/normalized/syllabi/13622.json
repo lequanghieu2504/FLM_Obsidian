@@ -1,0 +1,894 @@
+{
+  "syllabus_id": 13622,
+  "subject_code": "TTO301",
+  "subject_name": "Tour Operations Management_Quản trị điều hành tour",
+  "syllabus_name": "Tour Operations Management_Quản trị điều hành tour",
+  "credits": 3,
+  "degree_level": "Bachelor",
+  "time_allocation": "Study hour (150h) = 45h (60 sessions) contact hours + 1h final exam + 104h self-study",
+  "prerequisite": "TTM201",
+  "general_information": {
+    "Syllabus ID": "13622",
+    "Syllabus Name": "Tour Operations Management_Quản trị điều hành tour",
+    "Course Name English": "Tour Operations Management",
+    "Subject Code": "TTO301",
+    "Learning-Teaching Method": "Lecture,Project Based Training,Presentation,Practice,discussion,groupwork",
+    "NoCredit": "3",
+    "Degree Level": "Bachelor",
+    "Time Allocation": "Study hour (150h) = 45h (60 sessions) contact hours + 1h final exam + 104h self-study",
+    "Pre-Requisite": "TTM201",
+    "Description": "Objectives: This course cultivates a comprehensive skillset for students aspiring to thrive in the dynamic field of tour operations. Graduates will emerge proficient in crafting compelling itineraries, implementing effective marketing and sales strategies, and navigating the intricacies of financial management and risk mitigation. Furthermore, the course fosters the development of critical thinking and problem-solving abilities, alongside strong communication skills and a commitment to ethical conduct – all essential for a flourishing career in the ever-evolving tourism industry. Description: This course provides a comprehensive introduction to tour operations and management. Students will gain a thorough understanding of the key concepts and practical skills involved in crafting, organizing, and executing successful tours for travelers.",
+    "StudentTasks": "- Class attendance is strongly encouraged. Attend at least 80% of contact hours in order to be accepted to the final examination - Actively participate in class activities - Fulfill tasks given by the instructor after class - Use laptop in class only for learning purposes - Read the textbook in advance - Access the course website (http://flm.fpt.edu.vn) for up-to-date information and material of the course, for online support from teachers and other students, and for practicing and assessment.",
+    "Tools": "Internet",
+    "Scoring Scale": "10",
+    "DecisionNo MM/dd/yyyy": "1318/QĐ-ĐHFPT dated 11/27/2025",
+    "IsApproved": "True",
+    "Note": "",
+    "Is Scored": "True",
+    "MinAvgMarkToPass": "5",
+    "IsActive": "True",
+    "ApprovedDate": "11/27/2025"
+  },
+  "active": true,
+  "approved": true,
+  "decision": "1318/QĐ-ĐHFPT dated 11/27/2025",
+  "description": "Objectives: This course cultivates a comprehensive skillset for students aspiring to thrive in the dynamic field of tour operations. Graduates will emerge proficient in crafting compelling itineraries, implementing effective marketing and sales strategies, and navigating the intricacies of financial management and risk mitigation. Furthermore, the course fosters the development of critical thinking and problem-solving abilities, alongside strong communication skills and a commitment to ethical conduct – all essential for a flourishing career in the ever-evolving tourism industry. Description: This course provides a comprehensive introduction to tour operations and management. Students will gain a thorough understanding of the key concepts and practical skills involved in crafting, organizing, and executing successful tours for travelers.",
+  "learning_outcomes": [
+    {
+      "No.": "1",
+      "CLO Name": "CLO1",
+      "CLO Details": "To articulate the core principles and evolving landscape of tour management within the tourism industry (combines concepts, roles, importance & trends)."
+    },
+    {
+      "No.": "2",
+      "CLO Name": "CLO2",
+      "CLO Details": "Craft comprehensive tour itineraries through a strategic selection of destinations, transportation, accommodation, dining, and sightseeing experiences."
+    },
+    {
+      "No.": "3",
+      "CLO Name": "CLO3",
+      "CLO Details": "Employ effective sales techniques to captivate potential clients in tourism industry"
+    },
+    {
+      "No.": "4",
+      "CLO Name": "CLO4",
+      "CLO Details": "Deliver exceptional customer service by adeptly handling feedback and resolving complaints with professionalism."
+    },
+    {
+      "No.": "5",
+      "CLO Name": "CLO5",
+      "CLO Details": "Master tour budgeting, cost management, and cash flow control to ensure financial viability."
+    },
+    {
+      "No.": "6",
+      "CLO Name": "CLO6",
+      "CLO Details": "Develop superior communication and problem-solving skills to navigate tour operations effectively."
+    },
+    {
+      "No.": "7",
+      "CLO Name": "CLO7",
+      "CLO Details": "Think critically and adapt by proposing creative solutions to unforeseen challenges and making decisive actions during tours."
+    }
+  ],
+  "assessments": [
+    {
+      "No.": "1",
+      "Category": "Class participation and preparation",
+      "Type": "on-going",
+      "Part": "1",
+      "Weight": "10.0%",
+      "Completion Criteria": ">0",
+      "Duration": "During all courses",
+      "CLO": "CLO7",
+      "Question Type": "",
+      "No Question": "",
+      "Knowledge and Skill": "",
+      "Grading Guide": "Participation grade will be given based on students' preparation, and quantity as well as quality of participation in classroom; quality of participation is demonstrated through asking relevant questions, making statements that add to and facilitate class discussion, and builds upon others’ comments. Class preparation and pre-reading before lecture will be assessed upon individuals' understanding and ability to answer questions in the class. Individuals will be called up randomly to be assessed.",
+      "Note": ""
+    },
+    {
+      "No.": "2",
+      "Category": "Quiz",
+      "Type": "on-going",
+      "Part": "1",
+      "Weight": "5.0%",
+      "Completion Criteria": ">0",
+      "Duration": "45 minutes in class",
+      "CLO": "CLO1, CLO2, CLO3, CLO4, CLO6,CLO7",
+      "Question Type": "MCQs",
+      "No Question": "30 MCQs / 45 minutes",
+      "Knowledge and Skill": "All knowledge which belong to every single block.",
+      "Grading Guide": "in class, by instructor",
+      "Note": "Instruction and shedules for Quiz must be presented in the Course Implementation Plan approved by director of the campus.Quiz must be taken right after the last lecture of required material."
+    },
+    {
+      "No.": "3",
+      "Category": "Tour Project Practical/ Report",
+      "Type": "on-going",
+      "Part": "1",
+      "Weight": "35.0%",
+      "Completion Criteria": ">0",
+      "Duration": "slot 55 -> slot 60",
+      "CLO": "All CLOs",
+      "Question Type": "1/Performance during the tour 2/Written report",
+      "No Question": "1/Evaluation sheet 2/Written report: limitation of 4000 words",
+      "Knowledge and Skill": "Practical knowledge of real situation Research, problem-solving, planning skills, financial analysis, marketing plan, human resources management, crisis management",
+      "Grading Guide": "1/ Students are required to complete a practical project that they have self-designed (based on what student got from tour project presentation 1 & 2) as part of the practical assessment, which is based on the requirements of the lecturer. All point components of the practical project will be evaluated by lectures of the faculty as well as industry specialists. Should students choose to go the practical way, the evaluation will be based on totally the activities of students in tour, which guided in the \"evaluation of Tour practical form.\" 2/ If students do not want to have Tour project practical, they can choose \"Tour project report\" instead, the written report is the detailed project version. - The written report should be typed and double-spaced with 11-point font, and can be submitted in soft copy. A deduction of 10% of the assignment mark will be applied for each day of late submission - A 0 (zero) mark will be given to any form of plagiarism detected.",
+      "Note": ""
+    },
+    {
+      "No.": "4",
+      "Category": "Tour Project Presentation (1)",
+      "Type": "on-going",
+      "Part": "1",
+      "Weight": "10.0%",
+      "Completion Criteria": ">0",
+      "Duration": "Slot 25, slot 26, slot 27",
+      "CLO": "CLO2, CLO3, CLO4, CLO5, CLO6",
+      "Question Type": "Progress Presentation",
+      "No Question": "20 minutes presentation/group",
+      "Knowledge and Skill": "Chapters covered in accordance to the lecture of the weeks",
+      "Grading Guide": "- Students must work in groups (5-6 students/ group) to figure out basic content for a practical tour that they will submit to their instructor. - The student's presentation content in the first session must include several key elements such as: 1/ Students need to comprehend what type of tour they wish to construct (for example: sightseeing tour, green tourism, eco-tourism, etc.), students must also examine which market will be suitable for the tour (use market analysis models such as Pestel, micro environment, macro environment, etc) 2/ Students must submit general tour information (e.g, outbound or inbound, total trip cost, packages/combos/travel products included). Furthermore, in this part, students might include a sample brochure explaining their tour to boost its vividness and appeal. - After groups have finished presenting, the lecturer should provide relevant comments so that student groups can benefit from their experiences and be prepared to go on to the next stages.",
+      "Note": "The tour project must be guided by the instructor during the first lecture. Students will work in team of 5-6 students; The marking will be based on the application of the theory, the understanding of the potential customer and situation and ability to meet their requirements, the ability to analyse situations, develop and evaluate plans Evaluation will be based on the presentation only"
+    },
+    {
+      "No.": "5",
+      "Category": "Tour Project Presentation (2)",
+      "Type": "on-going",
+      "Part": "1",
+      "Weight": "20.0%",
+      "Completion Criteria": ">0",
+      "Duration": "Slot 43, slot 44, slot 45",
+      "CLO": "CLO2, CLO3, CLO4, CLO5, CLO6",
+      "Question Type": "Progress Presentation",
+      "No Question": "30 minutes presentation /group",
+      "Knowledge and Skill": "Chapters covered in accordance to the lecture of the weeks",
+      "Grading Guide": "- In this section, after obtaining crucial feedback from the lecturer in Part 1, student groups continue to learn and deliver the remaining content of a full tour. - Student groups must present valuable knowledge as well as an in-depth study of a variety of essential elements in a tour program, including: 1. General information (trip name, type of tour, destination, duration, number of guests, price) 2/ Tour itinerary (detailed daily schedule, accommodation, transport, tourist attractions, experiential activities, meals, tour guide) 3/ Tour cost estimate (travel, hotel, sightseeing, food, operational, and other charges) 4) Tour marketing and communication plan (marketing channels, target customers, pricing strategy, promotion plan) 5/ Risk assessment and solutions (unnoticed risks, treatment options)",
+      "Note": "The tour project must be guided by the instructor during the first lecture. Students will work in team of 5-6 students; The marking will be based on the application of the theory, the understanding of the potential customer and situation and ability to meet their requirements, the ability to analyse situations, develop and evaluate plans Evaluation will be based on the presentation only"
+    },
+    {
+      "No.": "6",
+      "Category": "Final Exam",
+      "Type": "Final exam",
+      "Part": "1",
+      "Weight": "20.0%",
+      "Completion Criteria": ">0",
+      "Duration": "60'",
+      "CLO": "All CLOs",
+      "Question Type": "MCQs",
+      "No Question": "50 MCQs",
+      "Knowledge and Skill": "All Topics",
+      "Grading Guide": "Not allow to use any document/information in any form in exam room Organized by Exam Board",
+      "Note": ""
+    }
+  ],
+  "schedule": [
+    {
+      "Session": "1",
+      "Topic": "-Course Overview -Introduction to AI Integration in the course -Overview of course assessment CHAPTER 1: INTRODUCTION 1.1 The two key terms 1.2 Fundemental Conditions 1.3 Transportation",
+      "Learning-Teaching Type": "Offline",
+      "LO": "CLO1",
+      "ITU": "IT",
+      "Student Materials": "- Review TTO301 - Read textbook Chapter 1 - Read slides",
+      "S-Download": "TTO301",
+      "Student's Tasks": "Review Chapter Discussion",
+      "URLs": "link"
+    },
+    {
+      "Session": "2",
+      "Topic": "CHAPTER 1: INTRODUCTION 1.4 The Rise of Air Travel 1.5 Ease of Access 1.6 The Developments and Expansion",
+      "Learning-Teaching Type": "Offline",
+      "LO": "CLO1",
+      "ITU": "T",
+      "Student Materials": "- Review TTO301 - Read textbook Chapter 1 - Read slides",
+      "S-Download": "TTO301",
+      "Student's Tasks": "Review Chapter Discussion",
+      "URLs": ""
+    },
+    {
+      "Session": "3",
+      "Topic": "CHAPTER 1: INTRODUCTION 1.7 International Tourist flows 1.8 Tourists Resorts come under scrutiny 1.9 A lack of attention to Tour Operators",
+      "Learning-Teaching Type": "Offline",
+      "LO": "CLO1",
+      "ITU": "T",
+      "Student Materials": "- Review TTO301 - Read textbook Chapter 1 - Read slides",
+      "S-Download": "",
+      "Student's Tasks": "Review Chapter Discussion",
+      "URLs": ""
+    },
+    {
+      "Session": "4",
+      "Topic": "CHAPTER 2: THE PACKAGE HOLIDAY AND THE RISE OF THE TOUR OPERATOR 2.1 The Early Developments 2.2 The Rise of the Package holiday 2.3 The convenience of Package holidays 2.4 Customer Protection",
+      "Learning-Teaching Type": "Offline",
+      "LO": "CLO1",
+      "ITU": "T",
+      "Student Materials": "- Review TTO301 - Read textbook Chapter 2 - Read slides",
+      "S-Download": "",
+      "Student's Tasks": "Review Chapter Discussion",
+      "URLs": ""
+    },
+    {
+      "Session": "5",
+      "Topic": "CHAPTER 2: THE PACKAGE HOLIDAY AND THE RISE OF THE TOUR OPERATOR 2.5 The global developments 2.6 Classification of Package Holidays 2.7 A competitive operating environment 2.8 Types of Tour Operator",
+      "Learning-Teaching Type": "Offline",
+      "LO": "CLO1",
+      "ITU": "T",
+      "Student Materials": "- Review TTO301 - Read textbook Chapter 2 - Read slides",
+      "S-Download": "",
+      "Student's Tasks": "Review Chapter Discussion",
+      "URLs": ""
+    },
+    {
+      "Session": "6",
+      "Topic": "CHAPTER 2: THE PACKAGE HOLIDAY AND THE RISE OF THE TOUR OPERATOR 2.9 Influence of Tour operators 2.10 Opportunities contunie to increase 2.11 Major players in New destination developments 2.12 The observe perspective",
+      "Learning-Teaching Type": "Offline",
+      "LO": "CLO1",
+      "ITU": "T",
+      "Student Materials": "- Review TTO301 - Read textbook Chapter 2 - Read slides",
+      "S-Download": "",
+      "Student's Tasks": "Review Chapter Discussion",
+      "URLs": ""
+    },
+    {
+      "Session": "7",
+      "Topic": "CHAPTER 3: THE OPERATING ENVIROMENT 3.1 External Operating Environment 3.2 Macro environment 3.3Pestel analysis 3.4 Micro environment",
+      "Learning-Teaching Type": "Offline",
+      "LO": "CLO1, CLO2, CLO3",
+      "ITU": "T",
+      "Student Materials": "- Review TTO301 - Read textbook Chapter 3 - Read slides",
+      "S-Download": "",
+      "Student's Tasks": "Review Chapter Discussion",
+      "URLs": ""
+    },
+    {
+      "Session": "8",
+      "Topic": "CHAPTER 3: THE OPERATING ENVIROMENT 3.5 Porter's Five Forces 3.6 Porter's Generic Strategies 3.7 Opportunities for growth",
+      "Learning-Teaching Type": "Offline",
+      "LO": "CLO1, CLO2, CLO3",
+      "ITU": "T",
+      "Student Materials": "- Review TTO301 - Read textbook Chapter 3 - Read slides",
+      "S-Download": "",
+      "Student's Tasks": "Review Chapter Discussion",
+      "URLs": ""
+    },
+    {
+      "Session": "9",
+      "Topic": "CHAPTER 3: THE OPERATING ENVIROMENT 3.8 Ansoff's Matrix 3.9 Chain of Distribution 3.10 Horizontal integration 3.11 Vertical integration TOUR PROJECT ASSIGNMENT/PRATICAL GUIDELINE",
+      "Learning-Teaching Type": "Offline",
+      "LO": "CLO1, CLO2, CLO3",
+      "ITU": "T",
+      "Student Materials": "- Review TTO301 - Read textbook Chapter 3 - Read slides",
+      "S-Download": "",
+      "Student's Tasks": "Review Chapter Discussion",
+      "URLs": ""
+    },
+    {
+      "Session": "10",
+      "Topic": "QUIZ 1",
+      "Learning-Teaching Type": "Offline",
+      "LO": "CLO1, CLO2, CLO3",
+      "ITU": "U",
+      "Student Materials": "- Review TTO301 - Read textbook Chapter 1,2,3 - Read slides",
+      "S-Download": "",
+      "Student's Tasks": "Review Chapter Discussion",
+      "URLs": ""
+    },
+    {
+      "Session": "11",
+      "Topic": "QUIZ 1",
+      "Learning-Teaching Type": "Offline",
+      "LO": "CLO1, CLO2, CLO3",
+      "ITU": "U",
+      "Student Materials": "- Review TTO301 - Read textbook Chapter 1,2,3 - Read slides",
+      "S-Download": "",
+      "Student's Tasks": "Review Chapter Discussion",
+      "URLs": ""
+    },
+    {
+      "Session": "12",
+      "Topic": "QUIZ 1 - REVIEW",
+      "Learning-Teaching Type": "Offline",
+      "LO": "CLO1, CLO2, CLO3",
+      "ITU": "U",
+      "Student Materials": "- Review TTO301 - Read textbook Chapter 1,2,3 - Read slides",
+      "S-Download": "",
+      "Student's Tasks": "Review Chapter Discussion",
+      "URLs": ""
+    },
+    {
+      "Session": "13",
+      "Topic": "CHAPTER 4: PRODUCT DEVELOPMENT 4.1 Itinerary Devlopmet (Or review) 4.2 Planning a Packaged Holiday",
+      "Learning-Teaching Type": "Offline",
+      "LO": "CLO1, CLO2, CLO4, CLO5",
+      "ITU": "IT",
+      "Student Materials": "- Review TTO301 - Read textbook Chapter 4 - Read slides",
+      "S-Download": "",
+      "Student's Tasks": "Review Chapter Discussion",
+      "URLs": ""
+    },
+    {
+      "Session": "14",
+      "Topic": "CHAPTER 4: PRODUCT DEVELOPMENT 4.3 Stages in Product Development 4.3.1 Review, research and planning 4.3.2 Second stage of research 4.3.3 Product planning 4.3.4 Contracting",
+      "Learning-Teaching Type": "Offline",
+      "LO": "CLO1, CLO2, CLO4, CLO5",
+      "ITU": "T",
+      "Student Materials": "- Review TTO301 - Read textbook Chapter 4 - Read slides",
+      "S-Download": "",
+      "Student's Tasks": "Review Chapter Discussion",
+      "URLs": ""
+    },
+    {
+      "Session": "15",
+      "Topic": "CHAPTER 4: PRODUCT DEVELOPMENT 4.3 Stages in Product Development 4.3.5 Brochure production 4.3.6 Finalize sales and marketing plan 4.3.7 Operations and administrative staff training 4.3.8 Product launch and subsequent evaluation of sales",
+      "Learning-Teaching Type": "Offline",
+      "LO": "CLO1, CLO2, CLO4, CLO5",
+      "ITU": "T",
+      "Student Materials": "- Review TTO301 - Read textbook Chapter 4 - Read slides",
+      "S-Download": "",
+      "Student's Tasks": "Review Chapter Discussion",
+      "URLs": ""
+    },
+    {
+      "Session": "16",
+      "Topic": "CHAPTER 5: SMALL AND MEDIUM-SIZED TOUR OPERATORS 5.1 Group Handling agents 5.2 Niche Tourism",
+      "Learning-Teaching Type": "Offline",
+      "LO": "CLO2, CLO5, CLO7",
+      "ITU": "IT",
+      "Student Materials": "- Review TTO301 - Read textbook Chapter 5 - Read slides",
+      "S-Download": "",
+      "Student's Tasks": "Review Chapter Discussion",
+      "URLs": ""
+    },
+    {
+      "Session": "17",
+      "Topic": "CHAPTER 5: SMALL AND MEDIUM-SIZED TOUR OPERATORS 5.3 Adventure Tourism Products 5.3.1 Operations 5.3.2 Accomodation 5.3.3 Transport 5.3.4 Adventure tour managers and guides 5.3.4 Itinerary 5.3.5 Costing",
+      "Learning-Teaching Type": "Offline",
+      "LO": "CLO2, CLO5, CLO7",
+      "ITU": "T",
+      "Student Materials": "- Review TTO301 - Read textbook Chapter 5 - Read slides",
+      "S-Download": "",
+      "Student's Tasks": "Review Chapter Discussion",
+      "URLs": ""
+    },
+    {
+      "Session": "18",
+      "Topic": "CHAPTER 5: SMALL AND MEDIUM-SIZED TOUR OPERATORS 5.4 Tailor-Made Itineraries 5.5 Coach Tours",
+      "Learning-Teaching Type": "Offline",
+      "LO": "CLO2, CLO5, CLO7",
+      "ITU": "T",
+      "Student Materials": "- Review TTO301 - Read textbook Chapter 5 - Read slides",
+      "S-Download": "",
+      "Student's Tasks": "Review Chapter Discussion",
+      "URLs": ""
+    },
+    {
+      "Session": "19",
+      "Topic": "CHAPTER 6: CUSTOMER SERVICE 6.1 Customer service and Satisfaction 6.2 Managing the Service encounter 6.3 Moments of Truth 6.4 Measuring Service Quality",
+      "Learning-Teaching Type": "Offline",
+      "LO": "CLO1, CLO2, CLO4, CLO5, CLO7",
+      "ITU": "IT",
+      "Student Materials": "- Review TTO301 - Read textbook Chapter 6 - Read slides",
+      "S-Download": "",
+      "Student's Tasks": "Review Chapter Discussion",
+      "URLs": ""
+    },
+    {
+      "Session": "20",
+      "Topic": "CHAPTER 6: CUSTOMER SERVICE 6.5 Qualitative Data Collection 6.6 Quantitative Methods of Data collection 6.7 Improving services quality 6.8 Customer Loyalty",
+      "Learning-Teaching Type": "Offline",
+      "LO": "CLO1, CLO2, CLO4, CLO5, CLO7",
+      "ITU": "T",
+      "Student Materials": "- Review TTO301 - Read textbook Chapter 6 - Read slides",
+      "S-Download": "",
+      "Student's Tasks": "Review Chapter Discussion",
+      "URLs": ""
+    },
+    {
+      "Session": "21",
+      "Topic": "CHAPTER 6: CUSTOMER SERVICE 6.9 Maintaining Loyalty 6.10 Customer Relationship Management 6.11 Service Recovery 6.12 Customer satisfaction and Profitability",
+      "Learning-Teaching Type": "Offline",
+      "LO": "CLO1, CLO2, CLO4, CLO5, CLO7",
+      "ITU": "T",
+      "Student Materials": "- Review TTO301 - Read textbook Chapter 6 - Read slides",
+      "S-Download": "",
+      "Student's Tasks": "Review Chapter Discussion",
+      "URLs": ""
+    },
+    {
+      "Session": "22",
+      "Topic": "CHAPTER 7: FINANCIAL PLANNING: PRICING THE PACKAGE 7.1 Operating and Operational costs 7.2 Load factor 7.3 Empty leg 7.4 Distribution costs",
+      "Learning-Teaching Type": "Offline",
+      "LO": "CLO3, CLO4, CLO5, CLO6",
+      "ITU": "T",
+      "Student Materials": "- Review TTO301 - Read textbook Chapter 7 - Read slides",
+      "S-Download": "",
+      "Student's Tasks": "Review Chapter Discussion",
+      "URLs": ""
+    },
+    {
+      "Session": "23",
+      "Topic": "CHAPTER 7: FINANCIAL PLANNING: PRICING THE PACKAGE 7.5 Forecasting and Capacity Management 7.6 Bonds, Insurance and Membership Fees 7.7 Cash managemen and Cash Flow 7.8 Additional Sources of Income",
+      "Learning-Teaching Type": "Offline",
+      "LO": "CLO3, CLO4, CLO5, CLO6",
+      "ITU": "T",
+      "Student Materials": "- Review TTO301 - Read textbook Chapter 7 - Read slides",
+      "S-Download": "",
+      "Student's Tasks": "Review Chapter Discussion",
+      "URLs": ""
+    },
+    {
+      "Session": "24",
+      "Topic": "CHAPTER 7: FINANCIAL PLANNING: PRICING THE PACKAGE 7.9 Currency Considerations 7.10 Pricing factors 7.11 Company Pricing Strategies 7.12 Pricing Tactics",
+      "Learning-Teaching Type": "Offline",
+      "LO": "CLO3, CLO4, CLO5, CLO6",
+      "ITU": "T",
+      "Student Materials": "- Review TTO301 - Read textbook Chapter 7 - Read slides",
+      "S-Download": "",
+      "Student's Tasks": "Review Chapter Discussion",
+      "URLs": ""
+    },
+    {
+      "Session": "25",
+      "Topic": "Tour Project Presentation: Session 1",
+      "Learning-Teaching Type": "Offline",
+      "LO": "CLO2, CLO3, CLO4, CLO5, CLO6",
+      "ITU": "U",
+      "Student Materials": "- Review TTO301 - Read textbook CHAPTER 1,2,3,4,5,6,7 - Read slides",
+      "S-Download": "",
+      "Student's Tasks": "Review Chapter Discussion",
+      "URLs": ""
+    },
+    {
+      "Session": "26",
+      "Topic": "Tour Project Presentation: Session 1",
+      "Learning-Teaching Type": "Offline",
+      "LO": "CLO2, CLO3, CLO4, CLO5, CLO6",
+      "ITU": "U",
+      "Student Materials": "- Review TTO301 - Read textbook CHAPTER 1,2,3,4,5,6,7 - Read slides",
+      "S-Download": "",
+      "Student's Tasks": "Review Chapter Discussion",
+      "URLs": ""
+    },
+    {
+      "Session": "27",
+      "Topic": "Tour Project Presentation: Session 1 - Review and Feedback",
+      "Learning-Teaching Type": "Offline",
+      "LO": "CLO2, CLO3, CLO4, CLO5, CLO6",
+      "ITU": "U",
+      "Student Materials": "- Review TTO301 - Read textbook CHAPTER 1,2,3,4,5,6,7 - Read slides",
+      "S-Download": "",
+      "Student's Tasks": "Review Chapter Discussion",
+      "URLs": ""
+    },
+    {
+      "Session": "28",
+      "Topic": "CHAPTER 8: TOUR OPERATORS AND KEY TRAVEL REGULATIONS 8.1 The Scope of the Package Travel Regulations 8.2 Upon whom is Liability imposed 8.3 In whose favour is liability imposed",
+      "Learning-Teaching Type": "Offline",
+      "LO": "CLO3, CLO4, CLO5, CLO6, CLO7",
+      "ITU": "IT",
+      "Student Materials": "- Review TTO301 - Read textbook CHAPTER 8 - Read slides",
+      "S-Download": "",
+      "Student's Tasks": "Review Chapter Discussion",
+      "URLs": ""
+    },
+    {
+      "Session": "29",
+      "Topic": "CHAPTER 8: TOUR OPERATORS AND KEY TRAVEL REGULATIONS 8.4 Pre-departure changes 8.5 Post-departure changes 8.6 Liability under regulation 8.7 Damages",
+      "Learning-Teaching Type": "Offline",
+      "LO": "CLO3, CLO4, CLO5, CLO6, CLO7",
+      "ITU": "T",
+      "Student Materials": "- Review TTO301 - Read textbook CHAPTER 8 - Read slides",
+      "S-Download": "",
+      "Student's Tasks": "Review Chapter Discussion",
+      "URLs": ""
+    },
+    {
+      "Session": "30",
+      "Topic": "CHAPTER 8: TOUR OPERATORS AND KEY TRAVEL REGULATIONS 8.8 Protection against insolvency 8.9 Asia Pacific region and Legislation 8.9.1 Hong Kong 8.9.2 Singapore 8.9.3 Viet Nam",
+      "Learning-Teaching Type": "Offline",
+      "LO": "CLO3, CLO4, CLO5, CLO6, CLO7",
+      "ITU": "T",
+      "Student Materials": "- Review TTO301 - Read textbook CHAPTER 8 - Read slides",
+      "S-Download": "",
+      "Student's Tasks": "Review Chapter Discussion",
+      "URLs": ""
+    },
+    {
+      "Session": "31",
+      "Topic": "Chapter 9: DISTRIBUTION (PLACE) 9.1 Changes in Traditional Distribution 9.1.1 Global distrubtion systems",
+      "Learning-Teaching Type": "Offline",
+      "LO": "CLO3, CLO4, CLO5, CLO6, CLO7",
+      "ITU": "IT",
+      "Student Materials": "- Review TTO301 - Read textbook CHAPTER 9 - Read slides",
+      "S-Download": "",
+      "Student's Tasks": "Review Chapter Discussion",
+      "URLs": ""
+    },
+    {
+      "Session": "32",
+      "Topic": "Chapter 9: DISTRIBUTION (PLACE) 9.2 Distribution channels 9.2.1 Channel choice 9.2.2 Travel agents 9.2.3 Types of retail travel agent 9.2.4 Leisure travel agent",
+      "Learning-Teaching Type": "Offline",
+      "LO": "CLO3, CLO4, CLO5, CLO6, CLO7",
+      "ITU": "T",
+      "Student Materials": "- Review TTO301 - Read textbook CHAPTER 9 - Read slides",
+      "S-Download": "",
+      "Student's Tasks": "Review Chapter Discussion",
+      "URLs": ""
+    },
+    {
+      "Session": "33",
+      "Topic": "Chapter 9: DISTRIBUTION (PLACE) 9.3 Dynamic Packaging 9.4 Travel Agency Selection 9.4.1 Direct distribution 9.4.2 Call centres 9.4.3 Web-based distribution 9.5 Distribution resources",
+      "Learning-Teaching Type": "Offline",
+      "LO": "CLO3, CLO4, CLO5, CLO6, CLO7",
+      "ITU": "T",
+      "Student Materials": "- Review TTO301 - Read textbook CHAPTER 9 - Read slides",
+      "S-Download": "",
+      "Student's Tasks": "Review Chapter Discussion",
+      "URLs": ""
+    },
+    {
+      "Session": "34",
+      "Topic": "CHAPTER 10: MARKETING IN TOUR OPERATION 10.1 Essential characteristics of Tour operators and Products 10.2 Ease of Entry/ Exit 10.3 Marketing planning",
+      "Learning-Teaching Type": "Offline",
+      "LO": "CLO3, CLO4, CLO5, CLO6, CLO7",
+      "ITU": "IT",
+      "Student Materials": "- Review TTO301 - Read textbook CHAPTER 10 - Read slides",
+      "S-Download": "",
+      "Student's Tasks": "Review Chapter Discussion",
+      "URLs": ""
+    },
+    {
+      "Session": "35",
+      "Topic": "CHAPTER 10: MARKETING IN TOUR OPERATION 10.4 Situation analysis 10.5 Market Research",
+      "Learning-Teaching Type": "Offline",
+      "LO": "CLO1, CLO2, CLO3",
+      "ITU": "T",
+      "Student Materials": "- Review TTO301 - Read textbook CHAPTER 10 - Read slides",
+      "S-Download": "",
+      "Student's Tasks": "Review Chapter Discussion",
+      "URLs": ""
+    },
+    {
+      "Session": "36",
+      "Topic": "CHAPTER 10: MARKETING IN TOUR OPERATION 10.6 Competitor Analysis 10.7 Customer Analysis and Behavior 10.8 Preparation of the Marketing plan",
+      "Learning-Teaching Type": "Offline",
+      "LO": "CLO3, CLO4, CLO5, CLO6, CLO7",
+      "ITU": "T",
+      "Student Materials": "- Review TTO301 - Read textbook CHAPTER 10 - Read slides",
+      "S-Download": "",
+      "Student's Tasks": "Review Chapter Discussion",
+      "URLs": ""
+    },
+    {
+      "Session": "37",
+      "Topic": "CHAPTER 10: MARKETING IN TOUR OPERATION 10.9 Segmentation, targeting and Positioning 10.10 The promotional Mix",
+      "Learning-Teaching Type": "Offline",
+      "LO": "CLO3, CLO4, CLO5, CLO6, CLO7",
+      "ITU": "T",
+      "Student Materials": "- Review TTO301 - Read textbook CHAPTER 10 - Read slides",
+      "S-Download": "",
+      "Student's Tasks": "Review Chapter Discussion",
+      "URLs": ""
+    },
+    {
+      "Session": "38",
+      "Topic": "CHAPTER 10: MARKETING IN TOUR OPERATION 10.11 Advertising 10.12 Public relations 10.13 Sales promotion",
+      "Learning-Teaching Type": "Offline",
+      "LO": "CLO3, CLO4, CLO5, CLO6, CLO7",
+      "ITU": "T",
+      "Student Materials": "- Review TTO301 - Read textbook CHAPTER 10 - Read slides",
+      "S-Download": "",
+      "Student's Tasks": "Review Chapter Discussion",
+      "URLs": ""
+    },
+    {
+      "Session": "39",
+      "Topic": "CHAPTER 10: MARKETING IN TOUR OPERATION 10.14 Personal selling 10.15 Direct marketing 10.16 Digital media",
+      "Learning-Teaching Type": "Offline",
+      "LO": "CLO3, CLO4, CLO5, CLO6, CLO7",
+      "ITU": "T",
+      "Student Materials": "- Review TTO301 - Read textbook CHAPTER 10 - Read slides",
+      "S-Download": "",
+      "Student's Tasks": "Review Chapter Discussion",
+      "URLs": ""
+    },
+    {
+      "Session": "40",
+      "Topic": "CHAPTER 11: HUMAN RESOURCES AND MANAGING THE WORKFORCE 11.1 Strategic Human resource management 11.2 What is workforce planning?",
+      "Learning-Teaching Type": "Offline",
+      "LO": "CLO3, CLO4, CLO5, CLO6, CLO7",
+      "ITU": "IT",
+      "Student Materials": "- Review TTO301 - Read textbook CHAPTER 11 - Read slides",
+      "S-Download": "",
+      "Student's Tasks": "Review Chapter Discussion",
+      "URLs": ""
+    },
+    {
+      "Session": "41",
+      "Topic": "CHAPTER 11: HUMAN RESOURCES AND MANAGING THE WORKFORCE 11.3 Recruitment 11.4 Training and Development",
+      "Learning-Teaching Type": "Offline",
+      "LO": "CLO3, CLO4, CLO5, CLO6, CLO7",
+      "ITU": "T",
+      "Student Materials": "- Review TTO301 - Read textbook CHAPTER 11 - Read slides",
+      "S-Download": "",
+      "Student's Tasks": "Review Chapter Discussion",
+      "URLs": ""
+    },
+    {
+      "Session": "42",
+      "Topic": "CHAPTER 11: HUMAN RESOURCES AND MANAGING THE WORKFORCE 11.5 Managing Employee performance and Learning 11.6 Employee Reward/ Benefits 11.7 Career Opportunities",
+      "Learning-Teaching Type": "Offline",
+      "LO": "CLO3, CLO4, CLO5, CLO6, CLO7",
+      "ITU": "T",
+      "Student Materials": "- Review TTO301 - Read textbook CHAPTER 11 - Read slides",
+      "S-Download": "",
+      "Student's Tasks": "Review Chapter Discussion",
+      "URLs": ""
+    },
+    {
+      "Session": "43",
+      "Topic": "Tour Project Presentation: Session 2",
+      "Learning-Teaching Type": "Offline",
+      "LO": "CLO3, CLO4, CLO5, CLO6, CLO7",
+      "ITU": "U",
+      "Student Materials": "- Review TTO301 - Read textbook CHAPTER 8,9,10,11 - Read slides",
+      "S-Download": "",
+      "Student's Tasks": "Review Chapter Discussion",
+      "URLs": ""
+    },
+    {
+      "Session": "44",
+      "Topic": "Tour Project Presentation: Session 2",
+      "Learning-Teaching Type": "Offline",
+      "LO": "CLO2, CLO5, CLO7",
+      "ITU": "U",
+      "Student Materials": "- Review TTO301 - Read textbook CHAPTER 8,9,10,11 - Read slides",
+      "S-Download": "",
+      "Student's Tasks": "Review Chapter Discussion",
+      "URLs": ""
+    },
+    {
+      "Session": "45",
+      "Topic": "Tour Project Presentation: Session 2 - Review and Feedback",
+      "Learning-Teaching Type": "Offline",
+      "LO": "CLO2, CLO5, CLO7",
+      "ITU": "U",
+      "Student Materials": "- Review TTO301 - Read textbook CHAPTER 8,9,10,11 - Read slides",
+      "S-Download": "",
+      "Student's Tasks": "Review Chapter Discussion",
+      "URLs": ""
+    },
+    {
+      "Session": "46",
+      "Topic": "CHAPTER 12: CRISIS MANAGEMENT 12.1 Definition of Crisis 12.2 Internal Crisis 12.3 External Crisis",
+      "Learning-Teaching Type": "Offline",
+      "LO": "CLO2, CLO5, CLO7",
+      "ITU": "IT",
+      "Student Materials": "- Review TTO301 - Read textbook CHAPTER 12 - Read slides",
+      "S-Download": "",
+      "Student's Tasks": "Review Chapter Discussion",
+      "URLs": ""
+    },
+    {
+      "Session": "47",
+      "Topic": "CHAPTER 12: CRISIS MANAGEMENT 12.4 Scale of Crises 12.5 Risk assessment",
+      "Learning-Teaching Type": "Offline",
+      "LO": "CLO2, CLO5, CLO7",
+      "ITU": "T",
+      "Student Materials": "- Review TTO301 - Read textbook CHAPTER 12 - Read slides",
+      "S-Download": "",
+      "Student's Tasks": "Review Chapter Discussion",
+      "URLs": ""
+    },
+    {
+      "Session": "48",
+      "Topic": "CHAPTER 12: CRISIS MANAGEMENT 12.6 Crisis management plan 12.7 The reality of an Incident",
+      "Learning-Teaching Type": "Offline",
+      "LO": "CLO2, CLO5, CLO7",
+      "ITU": "T",
+      "Student Materials": "- Review TTO301 - Read textbook CHAPTER 12 - Read slides",
+      "S-Download": "",
+      "Student's Tasks": "Review Chapter Discussion",
+      "URLs": ""
+    },
+    {
+      "Session": "49",
+      "Topic": "CHAPTER 13: CHALLENGES AND ISSUES: A LOOK A HEAD 13.1 Where are we now? 13.1.1 Demographics 13.1.2 Tour Operations 13.1.3. Destinations",
+      "Learning-Teaching Type": "Offline",
+      "LO": "CLO2, CLO5, CLO7",
+      "ITU": "IT",
+      "Student Materials": "- Review TTO301 - Read textbook CHAPTER 13 - Read slides",
+      "S-Download": "",
+      "Student's Tasks": "Review Chapter Discussion",
+      "URLs": ""
+    },
+    {
+      "Session": "50",
+      "Topic": "CHAPTER 13: CHALLENGES AND ISSUES: A LOOK A HEAD 13.2 Competition 13.3 Turbulent times 13.4 Transportation",
+      "Learning-Teaching Type": "Offline",
+      "LO": "CLO2, CLO5, CLO7",
+      "ITU": "T",
+      "Student Materials": "- Review TTO301 - Read textbook CHAPTER 13 - Read slides",
+      "S-Download": "",
+      "Student's Tasks": "Review Chapter Discussion",
+      "URLs": ""
+    },
+    {
+      "Session": "51",
+      "Topic": "CHAPTER 13: CHALLENGES AND ISSUES: A LOOK A HEAD 13.5 ICT 13.6 Consumer concerns and Protection 13.7 Issues",
+      "Learning-Teaching Type": "Offline",
+      "LO": "CLO2, CLO5, CLO7",
+      "ITU": "T",
+      "Student Materials": "- Review TTO301 - Read textbook CHAPTER 13 - Read slides",
+      "S-Download": "",
+      "Student's Tasks": "Review Chapter Discussion",
+      "URLs": ""
+    },
+    {
+      "Session": "52",
+      "Topic": "QUIZ 2",
+      "Learning-Teaching Type": "Offline",
+      "LO": "CLO2, CLO5, CLO7",
+      "ITU": "U",
+      "Student Materials": "- Review TTO301 - Read textbook CHAPTER 11,12,13 - Read slides",
+      "S-Download": "",
+      "Student's Tasks": "Review Chapter Discussion",
+      "URLs": ""
+    },
+    {
+      "Session": "53",
+      "Topic": "QUIZ 2",
+      "Learning-Teaching Type": "Offline",
+      "LO": "CLO2, CLO5, CLO7",
+      "ITU": "U",
+      "Student Materials": "- Review TTO301 - Read textbook CHAPTER 11,12,13 - Read slides",
+      "S-Download": "",
+      "Student's Tasks": "Review Chapter Discussion",
+      "URLs": ""
+    },
+    {
+      "Session": "54",
+      "Topic": "QUIZ 2 - REVIEW",
+      "Learning-Teaching Type": "Offline",
+      "LO": "CLO2, CLO5, CLO7",
+      "ITU": "U",
+      "Student Materials": "- Review TTO301 - Read textbook CHAPTER 11,12,13 - Read slides",
+      "S-Download": "",
+      "Student's Tasks": "Review Chapter Discussion",
+      "URLs": ""
+    },
+    {
+      "Session": "55",
+      "Topic": "Tour Project Presentation/ Practical",
+      "Learning-Teaching Type": "Offline",
+      "LO": "All CLOs",
+      "ITU": "TU",
+      "Student Materials": "Implement plan",
+      "S-Download": "",
+      "Student's Tasks": "Review Chapter Discussion",
+      "URLs": ""
+    },
+    {
+      "Session": "56",
+      "Topic": "Tour Project Presentation/ Practical",
+      "Learning-Teaching Type": "Offline",
+      "LO": "All CLOs",
+      "ITU": "TU",
+      "Student Materials": "Implement plan",
+      "S-Download": "",
+      "Student's Tasks": "Review all topic Discussion Presentation",
+      "URLs": ""
+    },
+    {
+      "Session": "57",
+      "Topic": "Tour Project Presentation/ Practical",
+      "Learning-Teaching Type": "Offline",
+      "LO": "All CLOs",
+      "ITU": "TU",
+      "Student Materials": "Implement plan",
+      "S-Download": "",
+      "Student's Tasks": "Review all topic Discussion Presentation",
+      "URLs": ""
+    },
+    {
+      "Session": "58",
+      "Topic": "Tour Project Presentation/ Practical",
+      "Learning-Teaching Type": "Offline",
+      "LO": "All CLOs",
+      "ITU": "TU",
+      "Student Materials": "Implement plan",
+      "S-Download": "",
+      "Student's Tasks": "Review all topic Discussion Presentation",
+      "URLs": ""
+    },
+    {
+      "Session": "59",
+      "Topic": "Tour Project Presentation/ Practical",
+      "Learning-Teaching Type": "Offline",
+      "LO": "All CLOs",
+      "ITU": "TU",
+      "Student Materials": "Implement plan",
+      "S-Download": "",
+      "Student's Tasks": "Review all topic Discussion Presentation",
+      "URLs": ""
+    },
+    {
+      "Session": "60",
+      "Topic": "REVIEW ALL THE KNOWLEDGE TO PREPARE FOR THE FINAL EXAM",
+      "Learning-Teaching Type": "Offline",
+      "LO": "All CLOs",
+      "ITU": "TU",
+      "Student Materials": "",
+      "S-Download": "",
+      "Student's Tasks": "Review all topics",
+      "URLs": ""
+    }
+  ],
+  "constructive_questions": [
+    {
+      "No.": "1",
+      "Session No": "1",
+      "Name": "CQ1",
+      "Details": "Manipulate logical expressions and use logic for inference"
+    },
+    {
+      "No.": "2",
+      "Session No": "1",
+      "Name": "CQ2",
+      "Details": "Perform basic operations on sets, functions and sequences"
+    },
+    {
+      "No.": "3",
+      "Session No": "2",
+      "Name": "CQ1",
+      "Details": "Analyze basic algorithms written in pseudo codes and determine theirs complexities"
+    },
+    {
+      "No.": "4",
+      "Session No": "3",
+      "Name": "CQ1",
+      "Details": "Discuss applications of modular arithmetic and analyze algorithms on integers"
+    },
+    {
+      "No.": "5",
+      "Session No": "4",
+      "Name": "CQ1",
+      "Details": "Use induction and recursive definition to prove a statement or to describe an object, and write recursive algorithms"
+    },
+    {
+      "No.": "6",
+      "Session No": "4",
+      "Name": "CQ2",
+      "Details": "Solve counting problems"
+    },
+    {
+      "No.": "7",
+      "Session No": "4",
+      "Name": "CQ3",
+      "Details": "Analyze the structure of a graph and find shortest paths in a weighted graph"
+    },
+    {
+      "No.": "8",
+      "Session No": "4",
+      "Name": "CQ4",
+      "Details": "Analyze the structure of a tree and describe algorithms using trees"
+    }
+  ],
+  "materials": [
+    {
+      "No.": "1",
+      "Material Description": "Tour operators and operations: development, management and responsibility",
+      "Author": "J. Holland, D. Leslie",
+      "Publisher": "Cabi",
+      "Published Date": "2018",
+      "Edition": "",
+      "ISBN": "978-1-78064-823-1",
+      "Is Main Material": "True",
+      "Is Hard Copy": "True",
+      "Is Online": "False",
+      "Note": ""
+    }
+  ],
+  "source_path": "data/raw/syllabi/13622.html",
+  "id": "syllabus:13622"
+}

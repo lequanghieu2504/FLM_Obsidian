@@ -1,0 +1,327 @@
+{
+  "syllabus_id": 12553,
+  "subject_code": "NWC203c",
+  "subject_name": "Computer Networking_Mạng máy tính",
+  "syllabus_name": "Computer Networking_Mạng máy tính",
+  "credits": 3,
+  "degree_level": "Bachelor",
+  "time_allocation": "Study hour (150h) = 50h online + 3h offline + 1h TE + 2h PE + 94h self-study",
+  "prerequisite": "",
+  "general_information": {
+    "Syllabus ID": "12553",
+    "Syllabus Name": "Computer Networking_Mạng máy tính",
+    "Course Name English": "",
+    "Subject Code": "NWC203c",
+    "Learning-Teaching Method": "Blended,Online,Active learning,Inquiry-based Teaching",
+    "NoCredit": "3",
+    "Degree Level": "Bachelor",
+    "Time Allocation": "Study hour (150h) = 50h online + 3h offline + 1h TE + 2h PE + 94h self-study",
+    "Pre-Requisite": "",
+    "Description": "This specialization is developed for seniors and fresh graduate students to understand fundamental network architecture concepts and their impacts on cyber security, to develop skills and techniques required for network protocol design, and prepare for a future of constant change through exposure to network design alternatives. Students will require a prior knowledge of C programming, an understanding of math probability and a computer science background is a plus.",
+    "StudentTasks": "1. Student must get the certification of Computer Communication specialization from Coursera to be accepted to the final examination. 2. Complete the online course to be allowed to take Final Exam",
+    "Tools": "- Internet",
+    "Scoring Scale": "10",
+    "DecisionNo MM/dd/yyyy": "359/QĐ-ĐHFPT dated 04/09/2025",
+    "IsApproved": "True",
+    "Note": "1. Final Exam is included of Final Theory Exam (TE) & Final Practical Exam (PE): 100% 2. Students who complete all MOOCs before the course deadline will receive 1 bonus point; otherwise, no bonus point will be awarded. 3. Completion Criteria: Final TE Score >=4 & Final PE Score >=4 & FR >= 5 (FR = min(10, (Final TE Score + Final PE Score)/2 + bonus)",
+    "Is Scored": "True",
+    "MinAvgMarkToPass": "5",
+    "IsActive": "True",
+    "ApprovedDate": "4/9/2025"
+  },
+  "active": true,
+  "approved": true,
+  "decision": "359/QĐ-ĐHFPT dated 04/09/2025",
+  "description": "This specialization is developed for seniors and fresh graduate students to understand fundamental network architecture concepts and their impacts on cyber security, to develop skills and techniques required for network protocol design, and prepare for a future of constant change through exposure to network design alternatives. Students will require a prior knowledge of C programming, an understanding of math probability and a computer science background is a plus.",
+  "learning_outcomes": [
+    {
+      "No.": "1",
+      "CLO Name": "CLO1",
+      "CLO Details": "Trace the evolution of networks and identify the key concepts and functions that form the basis for layered architecture"
+    },
+    {
+      "No.": "2",
+      "CLO Name": "CLO2",
+      "CLO Details": "Explain fundamental concepts in digital communication, and focus on error control techniques that include parity check, polynomial code, and Internet checksum"
+    },
+    {
+      "No.": "3",
+      "CLO Name": "CLO3",
+      "CLO Details": "Describe peer-to-peer protocols and local area networks, how does a peer-to-peer protocol deliver reliable data transfer service across unreliable transmission lines or networks"
+    },
+    {
+      "No.": "4",
+      "CLO Name": "CLO4",
+      "CLO Details": "Describe how medium access control protocols coordinate the access to the communication channel so that information gets through from a source to a destination in the same broadcast local area network"
+    },
+    {
+      "No.": "5",
+      "CLO Name": "CLO5",
+      "CLO Details": "Describe packet networks from two perspectives, concerned with services that the network provides to the transport layer that operates above it at the end systems"
+    },
+    {
+      "No.": "6",
+      "CLO Name": "CLO6",
+      "CLO Details": "Describe addressing and routing procedures, as well as congestion control inside the network."
+    },
+    {
+      "No.": "7",
+      "CLO Name": "CLO7",
+      "CLO Details": "Explaine how IP enables communications across a collection of networks, hierarchical structure of IP addresses and explain their role in ensuring scalability of the Internet"
+    },
+    {
+      "No.": "8",
+      "CLO Name": "CLO8",
+      "CLO Details": "Explain role of address prefixes and the uses of masks, TCP three-way handshake, flow control, and congestion control, Multicast, SDN and security"
+    }
+  ],
+  "assessments": [
+    {
+      "No.": "1",
+      "Category": "PE",
+      "Type": "Final exam",
+      "Part": "1",
+      "Weight": "50.0%",
+      "Completion Criteria": "4",
+      "Duration": "120'",
+      "CLO": "",
+      "Question Type": "",
+      "No Question": "",
+      "Knowledge and Skill": "All studied courses.",
+      "Grading Guide": "by Exam Board",
+      "Note": "Customized from the exercises of this specialization."
+    },
+    {
+      "No.": "2",
+      "Category": "TE",
+      "Type": "Final exam",
+      "Part": "1",
+      "Weight": "50.0%",
+      "Completion Criteria": "4",
+      "Duration": "60'",
+      "CLO": "",
+      "Question Type": "Computer gradable",
+      "No Question": "50",
+      "Knowledge and Skill": "All studied courses. Each module of course contributes 2-3 questions.",
+      "Grading Guide": "by Exam Board",
+      "Note": "Customized from the quizzes of this specialization."
+    }
+  ],
+  "schedule": [
+    {
+      "Session": "1",
+      "Topic": "Fundamentals of Network Communication: - Communication Networks and Services - Layered Architecture - Socket API & Digital Transmissions Offline 1: Introduction to the online course NWC203c",
+      "Learning-Teaching Type": "Offline,Online",
+      "LO": "LO1",
+      "ITU": "",
+      "Student Materials": "",
+      "S-Download": "",
+      "Student's Tasks": "- Watch all videos, read all materials in the MOOC - Finish quizzes, self-assessment, assignments and take part in discussion boards (if needed) All students should participate in offline slot (if any question)",
+      "URLs": ""
+    },
+    {
+      "Session": "2",
+      "Topic": "Fundamentals of Network Communication: - Error Control - Course Project",
+      "Learning-Teaching Type": "Online",
+      "LO": "LO1, LO2",
+      "ITU": "",
+      "Student Materials": "",
+      "S-Download": "",
+      "Student's Tasks": "- Watch all videos, read all materials in the MOOC - Finish quizzes, self-assessment, assignments and take part in discussion boards (if needed)",
+      "URLs": ""
+    },
+    {
+      "Session": "3",
+      "Topic": "Peer-to-Peer Protocols and Local Area Networks - Peer-to-Peer Protocols - Reliable Services and Data Link Controls",
+      "Learning-Teaching Type": "Online",
+      "LO": "LO3",
+      "ITU": "",
+      "Student Materials": "",
+      "S-Download": "",
+      "Student's Tasks": "- Watch all videos, read all materials in the MOOC - Finish quizzes, self-assessment, assignments and take part in discussion boards (if needed)",
+      "URLs": ""
+    },
+    {
+      "Session": "4",
+      "Topic": "Peer-to-Peer Protocols and Local Area Networks - Medium Access Control - Local Area Networks",
+      "Learning-Teaching Type": "Online",
+      "LO": "LO4",
+      "ITU": "",
+      "Student Materials": "",
+      "S-Download": "",
+      "Student's Tasks": "- Watch all videos, read all materials in the MOOC - Finish quizzes, self-assessment, assignments and take part in discussion boards (if needed)",
+      "URLs": ""
+    },
+    {
+      "Session": "5",
+      "Topic": "Peer-to-Peer Protocols and Local Area Networks - Local Area Networks - Course Project",
+      "Learning-Teaching Type": "Online",
+      "LO": "LO3, LO4",
+      "ITU": "",
+      "Student Materials": "",
+      "S-Download": "",
+      "Student's Tasks": "- Watch all videos, read all materials in the MOOC - Finish quizzes, self-assessment, assignments and take part in discussion boards (if needed)",
+      "URLs": ""
+    },
+    {
+      "Session": "6",
+      "Topic": "Packet Switching Networks and Algorithms - Frame Switching and Packet Switching",
+      "Learning-Teaching Type": "Online",
+      "LO": "LO5",
+      "ITU": "",
+      "Student Materials": "",
+      "S-Download": "",
+      "Student's Tasks": "- Watch all videos, read all materials in the MOOC - Finish quizzes, self-assessment, assignments and take part in discussion boards (if needed)",
+      "URLs": ""
+    },
+    {
+      "Session": "7",
+      "Topic": "Packet Switching Networks and Algorithms - Routing in Packet Networks - Shortest-Path Routing",
+      "Learning-Teaching Type": "Online",
+      "LO": "LO6",
+      "ITU": "",
+      "Student Materials": "",
+      "S-Download": "",
+      "Student's Tasks": "- Watch all videos, read all materials in the MOOC - Finish quizzes, self-assessment, assignments and take part in discussion boards (if needed)",
+      "URLs": ""
+    },
+    {
+      "Session": "8",
+      "Topic": "Packet Switching Networks and Algorithms - Traffic Management - Course Project - Packet Switching Networks and Algorithms",
+      "Learning-Teaching Type": "Online",
+      "LO": "LO5, LO6",
+      "ITU": "",
+      "Student Materials": "",
+      "S-Download": "",
+      "Student's Tasks": "- Watch all videos, read all materials in the MOOC - Finish quizzes, self-assessment, assignments and take part in discussion boards (if needed)",
+      "URLs": ""
+    },
+    {
+      "Session": "9",
+      "Topic": "TCP/IP and Advanced Topics - The Internet Protocol (IP)",
+      "Learning-Teaching Type": "Online",
+      "LO": "LO7",
+      "ITU": "",
+      "Student Materials": "",
+      "S-Download": "",
+      "Student's Tasks": "- Watch all videos, read all materials in the MOOC - Finish quizzes, self-assessment, assignments and take part in discussion boards (if needed)",
+      "URLs": ""
+    },
+    {
+      "Session": "10",
+      "Topic": "TCP/IP and Advanced Topics - IP Addressing - Transmission Control Protocol",
+      "Learning-Teaching Type": "Online",
+      "LO": "LO7",
+      "ITU": "",
+      "Student Materials": "",
+      "S-Download": "",
+      "Student's Tasks": "- Watch all videos, read all materials in the MOOC - Finish quizzes, self-assessment, assignments and take part in discussion boards (if needed)",
+      "URLs": ""
+    },
+    {
+      "Session": "11",
+      "Topic": "TCP/IP and Advanced Topics - Advanced Topics",
+      "Learning-Teaching Type": "Online",
+      "LO": "LO7, LO8",
+      "ITU": "",
+      "Student Materials": "",
+      "S-Download": "",
+      "Student's Tasks": "- Watch all videos, read all materials in the MOOC - Finish quizzes, self-assessment, assignments and take part in discussion boards (if needed)",
+      "URLs": ""
+    },
+    {
+      "Session": "12",
+      "Topic": "TCP/IP and Advanced Topics - Course Project Offline 2: Review Computer Communications Specialization (Spec)",
+      "Learning-Teaching Type": "Offline,Online",
+      "LO": "LO7, LO8",
+      "ITU": "",
+      "Student Materials": "",
+      "S-Download": "",
+      "Student's Tasks": "- Watch all videos, read all materials in the MOOC - Finish quizzes, self-assessment, assignments and take part in discussion boards (if needed) Deadline of Coursera completion: End of Friday of the week. All students should participate in review slot (if any question)",
+      "URLs": ""
+    }
+  ],
+  "constructive_questions": [],
+  "materials": [
+    {
+      "No.": "1",
+      "Material Description": "https://www.coursera.org/specializations/computer-communications",
+      "Author": "",
+      "Publisher": "Coursera",
+      "Published Date": "",
+      "Edition": "",
+      "ISBN": "",
+      "Is Main Material": "True",
+      "Is Hard Copy": "False",
+      "Is Online": "True",
+      "Note": "SPEC: Computer Communications Specialization"
+    },
+    {
+      "No.": "2",
+      "Material Description": "https://learner.coursera.help/hc/en-us/articles/208280036-Coursera-Code-of-Conduct",
+      "Author": "",
+      "Publisher": "Coursera",
+      "Published Date": "",
+      "Edition": "",
+      "ISBN": "",
+      "Is Main Material": "False",
+      "Is Hard Copy": "False",
+      "Is Online": "True",
+      "Note": "Help Articles"
+    },
+    {
+      "No.": "3",
+      "Material Description": "https://www.coursera.org/learn/fundamentals-network-communications?specialization=computer-communications",
+      "Author": "",
+      "Publisher": "Coursera",
+      "Published Date": "",
+      "Edition": "",
+      "ISBN": "",
+      "Is Main Material": "True",
+      "Is Hard Copy": "False",
+      "Is Online": "True",
+      "Note": "MOOC 1: Fundamentals of Network Communication"
+    },
+    {
+      "No.": "4",
+      "Material Description": "https://www.coursera.org/learn/peer-to-peer-protocols-local-area-networks?specialization=computer-communications",
+      "Author": "",
+      "Publisher": "Coursera",
+      "Published Date": "",
+      "Edition": "",
+      "ISBN": "",
+      "Is Main Material": "True",
+      "Is Hard Copy": "False",
+      "Is Online": "True",
+      "Note": "MOOC 2: Peer-to-Peer Protocols and Local Area Networks"
+    },
+    {
+      "No.": "5",
+      "Material Description": "https://www.coursera.org/learn/packet-switching-networks-algorithms?specialization=computer-communications",
+      "Author": "",
+      "Publisher": "Coursera",
+      "Published Date": "",
+      "Edition": "",
+      "ISBN": "",
+      "Is Main Material": "True",
+      "Is Hard Copy": "False",
+      "Is Online": "True",
+      "Note": "MOOC 3: Packet Switching Networks and Algorithms"
+    },
+    {
+      "No.": "6",
+      "Material Description": "https://www.coursera.org/learn/tcp-ip-advanced?specialization=computer-communications",
+      "Author": "",
+      "Publisher": "Coursera",
+      "Published Date": "",
+      "Edition": "",
+      "ISBN": "",
+      "Is Main Material": "True",
+      "Is Hard Copy": "False",
+      "Is Online": "True",
+      "Note": "MOOC 4: TCP/IP and Advanced Topics"
+    }
+  ],
+  "source_path": "data/raw/syllabi/12553.html",
+  "id": "syllabus:12553"
+}

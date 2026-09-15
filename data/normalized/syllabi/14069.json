@@ -1,0 +1,342 @@
+{
+  "syllabus_id": 14069,
+  "subject_code": "AIP491",
+  "subject_name": "AI Capstone Project_Đồ án tốt nghiệp TTNT",
+  "syllabus_name": "AI Capstone Project_Đồ án tốt nghiệp TTNT",
+  "credits": 10,
+  "degree_level": "Bachelor",
+  "time_allocation": "Study hour (500h) = 33.75h contact hours (1newslot/week*15week) + 1.5h capstone project defense + 464.75h self-study",
+  "prerequisite": "- Student must pass Deep Learning (DPL30x). - Pass OJT202 - Pass PMG20x - Pass 60% of total credits of selected combo - Pass 80% of total credits (PHE_COM* and OJT excluded)",
+  "general_information": {
+    "Syllabus ID": "14069",
+    "Syllabus Name": "AI Capstone Project_Đồ án tốt nghiệp TTNT",
+    "Course Name English": "",
+    "Subject Code": "AIP491",
+    "Learning-Teaching Method": "Inquiry-Based Learning, Experiential learning methods, Project Based Training",
+    "NoCredit": "10",
+    "Degree Level": "Bachelor",
+    "Time Allocation": "Study hour (500h) = 33.75h contact hours (1newslot/week*15week) + 1.5h capstone project defense + 464.75h self-study",
+    "Pre-Requisite": "- Student must pass Deep Learning (DPL30x). - Pass OJT202 - Pass PMG20x - Pass 60% of total credits of selected combo - Pass 80% of total credits (PHE_COM* and OJT excluded)",
+    "Description": "The AI Capstone Project course is an integrative experience that consolidates the knowledge and skills acquired from the undergraduate AI curriculum into a practical, real-world application. The design of this course challenges students to apply their analytical, problem-solving, and technical skills to solve complex problems using AI technologies. Throughout this course, students will engage with all facets of the AI project development lifecycle, including problem identification, data collection and preprocessing, model design and implementation, evaluation, and deployment. Students will gain a comprehensive understanding of the professional standards and expectations required to successfully execute a project of this nature. This course is structured to be completed by small groups of 3-4 students, fostering collaboration and teamwork. Each group will be assigned a supervisor, who will offer critical support and guidance throughout the research and development process. The supervisor will assist students in refining their project ideas, conducting thorough research, developing and implementing AI solutions, composing a report on their capstone project, and preparing for the final presentation in front of the examination board. By the end of the course, students will have not only deepened their understanding of AI principles and techniques but also demonstrated their ability to apply these concepts effectively in a team-based project. This capstone project not only serves as a significant portfolio piece but also prepares students for professional careers in the field of artificial intelligence.",
+    "StudentTasks": "(1) Select a project within the chosen AI concentration: Teams should choose a project that aligns with their interests and the scope of the AI concentration. This may involve identifying a real-world problem that can be addressed with AI solutions. (2) Divide and schedule work: Once the project is chosen, teams should allocate tasks among members based on each individual's strengths and skills. A detailed schedule should be created, outlining milestones and deadlines to ensure timely progress. (3) Attend all scheduled meetings with supervisor: Teams must commit to regular meetings with their assigned supervisor. These sessions are crucial for receiving guidance, discussing progress, resolving any issues, and making necessary adjustments to the project plan. (4) Produce document and product according to project requirements: Teams are expected to produce comprehensive documentation and develop the AI product according to the specified requirements. This includes but is not limited to, designing algorithms, coding, testing, and validating the AI model(s). Documentation should detail the problem, methodology, implementation, results, and conclusions. (5) Present and defend individual contributions in front of the examination board: Each team member must be prepared to present and individually defend their specific contributions to the project in front of the examination board. This includes explaining the rationale behind their approach, the challenges faced, and the solutions implemented. (6) Students are required to attend at least 80% of scheduled meetings with their supervisor(s) to be eligible for the thesis or capstone defense.",
+    "Tools": "Appropriate tools for design and implementation",
+    "Scoring Scale": "10",
+    "DecisionNo MM/dd/yyyy": "377/QĐ-ĐHFPT dated 04/09/2026",
+    "IsApproved": "True",
+    "Note": "",
+    "Is Scored": "True",
+    "MinAvgMarkToPass": "5",
+    "IsActive": "True",
+    "ApprovedDate": "4/9/2026"
+  },
+  "active": true,
+  "approved": true,
+  "decision": "377/QĐ-ĐHFPT dated 04/09/2026",
+  "description": "The AI Capstone Project course is an integrative experience that consolidates the knowledge and skills acquired from the undergraduate AI curriculum into a practical, real-world application. The design of this course challenges students to apply their analytical, problem-solving, and technical skills to solve complex problems using AI technologies. Throughout this course, students will engage with all facets of the AI project development lifecycle, including problem identification, data collection and preprocessing, model design and implementation, evaluation, and deployment. Students will gain a comprehensive understanding of the professional standards and expectations required to successfully execute a project of this nature. This course is structured to be completed by small groups of 3-4 students, fostering collaboration and teamwork. Each group will be assigned a supervisor, who will offer critical support and guidance throughout the research and development process. The supervisor will assist students in refining their project ideas, conducting thorough research, developing and implementing AI solutions, composing a report on their capstone project, and preparing for the final presentation in front of the examination board. By the end of the course, students will have not only deepened their understanding of AI principles and techniques but also demonstrated their ability to apply these concepts effectively in a team-based project. This capstone project not only serves as a significant portfolio piece but also prepares students for professional careers in the field of artificial intelligence.",
+  "learning_outcomes": [
+    {
+      "No.": "1",
+      "CLO Name": "CLO1",
+      "CLO Details": "Identify and Analyze Contemporary AI Issues"
+    },
+    {
+      "No.": "2",
+      "CLO Name": "CLO2",
+      "CLO Details": "Data Collection and Analysis"
+    },
+    {
+      "No.": "3",
+      "CLO Name": "CLO3",
+      "CLO Details": "AI Solution Development"
+    },
+    {
+      "No.": "4",
+      "CLO Name": "CLO4",
+      "CLO Details": "Project Management in AI Development"
+    },
+    {
+      "No.": "5",
+      "CLO Name": "CLO5",
+      "CLO Details": "Professional Research and Reporting"
+    },
+    {
+      "No.": "6",
+      "CLO Name": "CLO6",
+      "CLO Details": "Effective Communication and Presentation Skills"
+    },
+    {
+      "No.": "7",
+      "CLO Name": "CLO7",
+      "CLO Details": "Professionalism and Ethical Conduct in AI"
+    },
+    {
+      "No.": "8",
+      "CLO Name": "CLO8",
+      "CLO Details": "Innovation and Creative Problem Solving"
+    },
+    {
+      "No.": "9",
+      "CLO Name": "CLO9",
+      "CLO Details": "Critical Evaluation and Self-Reflection"
+    },
+    {
+      "No.": "10",
+      "CLO Name": "CLO10",
+      "CLO Details": "Adaptation to Technological Advancements"
+    }
+  ],
+  "assessments": [
+    {
+      "No.": "1",
+      "Category": "On-going Assessment",
+      "Type": "on-going",
+      "Part": "6",
+      "Weight": "50.0%",
+      "Completion Criteria": "5",
+      "Duration": "During the CP Progress",
+      "CLO": "All CLOs",
+      "Question Type": "Report",
+      "No Question": "",
+      "Knowledge and Skill": "AI, Project management, Research, Teamwork",
+      "Grading Guide": "On-going Assessment (OGA): - Project Introduction (Report 1): 10% - Project Management Plan (Report 2): 10% - Existing systems (Report 3): 10% - Methodology (Report 4): 35% - System Design (Report 5): 20% - Results/Discussion & Conclusion (Report 6 & 7): 15%",
+      "Note": "- Require grade >=2 for each part. - Based on the schedule in the syllabus, each group report will be evaluated by the supervisor. This evaluation is called progress assessment. - Individual mark for each progress assessment report is decided by the supervisor and is assessed on the basis of the actual contribution by that individual to the group report. The individual mark can be lower or higher than the group mark and is in the range from 0% to 120% of the group mark where the average score of group members cannot be more than group mark."
+    },
+    {
+      "No.": "2",
+      "Category": "Final Project Presentation",
+      "Type": "Final exam",
+      "Part": "1",
+      "Weight": "50.0%",
+      "Completion Criteria": "4",
+      "Duration": "90 minutes for each group",
+      "CLO": "All CLOs",
+      "Question Type": "",
+      "No Question": "",
+      "Knowledge and Skill": "AI, Project management, Research, Teamwork, Presentation",
+      "Grading Guide": "- Project Introduction: 5% - Project Management Plan: 5% - Existing Systems: 5% - Methodology: 35% - System Design & Implementation: 20% - Resullts/Discussion & Conclusion: 15% - Presentation Skills: 5% - Q&A: 10%",
+      "Note": "- One or more specific members of the student team is not allowed to join the thesis defense (and therefore being failed the subject) if he/she has OGA less than 5. - Capstone project defense mark is given by each member of referee committee for each student on capstone project defense. This personal mark is the average of all member of referee committee. - Each student must make his or her own presentation. - Presentation mark is given by each member of defence committee for each student on final project presentation. Personal mark is the average of all marks given by members of defence committee."
+    }
+  ],
+  "schedule": [
+    {
+      "Session": "-1",
+      "Topic": "",
+      "Learning-Teaching Type": "",
+      "LO": "CLO4,CLO6",
+      "ITU": "",
+      "Student Materials": "",
+      "S-Download": "",
+      "Student's Tasks": "",
+      "URLs": ""
+    },
+    {
+      "Session": "1",
+      "Topic": "Introduction to AI Capstone Projects Project Overview",
+      "Learning-Teaching Type": "Offline",
+      "LO": "CLO1",
+      "ITU": "IT",
+      "Student Materials": "Syllabus Guide of Capstone Project",
+      "S-Download": "mat1",
+      "Student's Tasks": "Understand the course outline Prepare Report section #1",
+      "URLs": ""
+    },
+    {
+      "Session": "2",
+      "Topic": "Project Management",
+      "Learning-Teaching Type": "Offline",
+      "LO": "CLO4, CLO6",
+      "ITU": "TU",
+      "Student Materials": "Guide of Capstone Project; Students and Groups Progress Notes",
+      "S-Download": "",
+      "Student's Tasks": "Prepare Report section #2",
+      "URLs": ""
+    },
+    {
+      "Session": "3",
+      "Topic": "Overview of the Field Existing Systems",
+      "Learning-Teaching Type": "Offline",
+      "LO": "CLO1, CLO8",
+      "ITU": "TU",
+      "Student Materials": "Guide of Capstone Project; Students and Groups Progress Notes",
+      "S-Download": "",
+      "Student's Tasks": "Submit Report section #1 & #2 Prepare Report section #3",
+      "URLs": ""
+    },
+    {
+      "Session": "4",
+      "Topic": "Existing Systems (cont.)",
+      "Learning-Teaching Type": "Offline",
+      "LO": "CLO1, CLO8",
+      "ITU": "TU",
+      "Student Materials": "Guide of Capstone Project; Students and Groups Progress Notes",
+      "S-Download": "",
+      "Student's Tasks": "Present Existing Systems Submit Report section #3",
+      "URLs": ""
+    },
+    {
+      "Session": "5",
+      "Topic": "Methodology - Understanding AI Ethics and Data Privacy",
+      "Learning-Teaching Type": "Offline",
+      "LO": "CLO2, CLO7",
+      "ITU": "TU",
+      "Student Materials": "Guide of Capstone Project; Students and Groups Progress Notes",
+      "S-Download": "",
+      "Student's Tasks": "Prepare Report section #4",
+      "URLs": ""
+    },
+    {
+      "Session": "6",
+      "Topic": "Methodology (cont.) - Data Management",
+      "Learning-Teaching Type": "Offline",
+      "LO": "CLO2, CLO7",
+      "ITU": "TU",
+      "Student Materials": "Guide of Capstone Project; Students and Groups Progress Notes",
+      "S-Download": "",
+      "Student's Tasks": "Prepare Report section #4",
+      "URLs": ""
+    },
+    {
+      "Session": "7",
+      "Topic": "Methodology (cont.) - Training and Evaluation",
+      "Learning-Teaching Type": "Offline",
+      "LO": "CLO3, CLO10",
+      "ITU": "TU",
+      "Student Materials": "Guide of Capstone Project; Students and Groups Progress Notes",
+      "S-Download": "",
+      "Student's Tasks": "Prepare Report section #4",
+      "URLs": ""
+    },
+    {
+      "Session": "8",
+      "Topic": "Methodology (cont.) - Implementation Plan",
+      "Learning-Teaching Type": "Offline",
+      "LO": "CLO3, CLO10",
+      "ITU": "TU",
+      "Student Materials": "Guide of Capstone Project; Students and Groups Progress Notes",
+      "S-Download": "",
+      "Student's Tasks": "Prepare Report section #4",
+      "URLs": ""
+    },
+    {
+      "Session": "9",
+      "Topic": "Methodology (cont.)",
+      "Learning-Teaching Type": "Offline",
+      "LO": "CLO2, CLO3, CLO7, CLO10",
+      "ITU": "TU",
+      "Student Materials": "Guide of Capstone Project; Students and Groups Progress Notes",
+      "S-Download": "",
+      "Student's Tasks": "Present Methodology Submit Report section #4",
+      "URLs": ""
+    },
+    {
+      "Session": "10",
+      "Topic": "System Design and Implementation",
+      "Learning-Teaching Type": "Offline",
+      "LO": "CLO3",
+      "ITU": "TU",
+      "Student Materials": "Guide of Capstone Project; Students and Groups Progress Notes",
+      "S-Download": "",
+      "Student's Tasks": "Prepare Report section #5",
+      "URLs": ""
+    },
+    {
+      "Session": "11",
+      "Topic": "System Design and Implementation (cont.)",
+      "Learning-Teaching Type": "Offline",
+      "LO": "CLO3",
+      "ITU": "TU",
+      "Student Materials": "Guide of Capstone Project; Students and Groups Progress Notes",
+      "S-Download": "",
+      "Student's Tasks": "Prepare Report section #5",
+      "URLs": ""
+    },
+    {
+      "Session": "12",
+      "Topic": "System Design and Implementation (cont.) - Finalizing AI Solution",
+      "Learning-Teaching Type": "Offline",
+      "LO": "CLO3",
+      "ITU": "TU",
+      "Student Materials": "Guide of Capstone Project; Students and Groups Progress Notes",
+      "S-Download": "",
+      "Student's Tasks": "Present System Design Submit Report section #5",
+      "URLs": ""
+    },
+    {
+      "Session": "13",
+      "Topic": "Results and Dicussion",
+      "Learning-Teaching Type": "Offline",
+      "LO": "CLO5, CLO9",
+      "ITU": "TU",
+      "Student Materials": "Guide of Capstone Project; Students and Groups Progress Notes",
+      "S-Download": "",
+      "Student's Tasks": "Prepare Report section #6 & #7 Present Results",
+      "URLs": ""
+    },
+    {
+      "Session": "14",
+      "Topic": "Writing the Final Report",
+      "Learning-Teaching Type": "Offline",
+      "LO": "CLO5",
+      "ITU": "TU",
+      "Student Materials": "Guide of Capstone Project; Students and Groups Progress Notes",
+      "S-Download": "",
+      "Student's Tasks": "Review Report",
+      "URLs": ""
+    },
+    {
+      "Session": "15",
+      "Topic": "Project Presentation Skills",
+      "Learning-Teaching Type": "Offline",
+      "LO": "CLO6",
+      "ITU": "TU",
+      "Student Materials": "Guide of Capstone Project; Students and Groups Progress Notes",
+      "S-Download": "",
+      "Student's Tasks": "Prepare Presentation",
+      "URLs": ""
+    }
+  ],
+  "constructive_questions": [],
+  "materials": [
+    {
+      "No.": "1",
+      "Material Description": "The Student’s Guide of Capstone Project (Template_AIP491_CP_StudentsGuide)",
+      "Author": "",
+      "Publisher": "",
+      "Published Date": "",
+      "Edition": "",
+      "ISBN": "",
+      "Is Main Material": "True",
+      "Is Hard Copy": "False",
+      "Is Online": "False",
+      "Note": "FPTU Material"
+    },
+    {
+      "No.": "2",
+      "Material Description": "Graduated Regulation (Quy che tot nghiep)",
+      "Author": "",
+      "Publisher": "",
+      "Published Date": "",
+      "Edition": "",
+      "ISBN": "",
+      "Is Main Material": "True",
+      "Is Hard Copy": "False",
+      "Is Online": "False",
+      "Note": "FPTU Material"
+    },
+    {
+      "No.": "3",
+      "Material Description": "Project Templates (on CMS/LMS, FLM)",
+      "Author": "",
+      "Publisher": "",
+      "Published Date": "",
+      "Edition": "",
+      "ISBN": "",
+      "Is Main Material": "True",
+      "Is Hard Copy": "False",
+      "Is Online": "False",
+      "Note": "FPTU Material"
+    }
+  ],
+  "source_path": "data/raw/syllabi/14069.html",
+  "id": "syllabus:14069"
+}

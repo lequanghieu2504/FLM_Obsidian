@@ -1,0 +1,533 @@
+{
+  "syllabus_id": 974,
+  "subject_code": "IBS301",
+  "subject_name": "International Business Strategy",
+  "syllabus_name": "International Business Strategy",
+  "credits": 3,
+  "degree_level": "Bachelor in Business Administration",
+  "time_allocation": "30 sessions; 1 session= 90 minutes",
+  "prerequisite": "IBI101",
+  "general_information": {
+    "Syllabus ID": "974",
+    "Syllabus Name": "International Business Strategy",
+    "Course Name English": "",
+    "Subject Code": "IBS301",
+    "Learning-Teaching Method": "",
+    "NoCredit": "3",
+    "Degree Level": "Bachelor in Business Administration",
+    "Time Allocation": "30 sessions; 1 session= 90 minutes",
+    "Pre-Requisite": "IBI101",
+    "Description": "This Course is based on the Coursera Specialization \"Business Strategy\", which covers both the dynamics and the global aspects of strategic management. You'll learn how to evaluate industry evolution, build and sustain competitive advantage, formulate and assess business strategies, and align efforts to organizational strategy. The course is divided into two parts. In the first part, you will develop your ability to think strategically, analyze the competitive environment, and recommend firm positioning and value creation. We will explore the underlying theory and frameworks that provide the foundations of a successful business strategy and provide the tools you need to understand that strategy: SWOT, Competitor, Environmental, Five Forces, and Capabilities Analyses, as well as Strategy Maps. In the second part, you will advance your strategic analysis skills, by learning the tools to analyze strategy across time (competitive dynamics), industries (corporate strategy), geographies (international strategy), and institutions (non-market strategy). We'll introduce the tools you need to complete a comprehensive evaluation and understand the strategy dynamics of an industry: Competitive Lifecycle, Internationalization and Stakeholder Analyses, and Diversification Matrices.",
+    "StudentTasks": "- Access the learning materials on Coursera for self-study purposes - Attend more than 80% of contact hours in order to be eligible for the final assessment - Actively participate in class activities - Fulfill tasks given by instructor after class - Use their own laptop in class only for learning purpose - Access FU CMS at http://cms.fpt.edu.vn for up-to-date course information",
+    "Tools": "",
+    "Scoring Scale": "10",
+    "DecisionNo MM/dd/yyyy": "485/QĐ-ĐHFPT dated 04/12/2019",
+    "IsApproved": "True",
+    "Note": "",
+    "Is Scored": "True",
+    "MinAvgMarkToPass": "5",
+    "IsActive": "True",
+    "ApprovedDate": "4/12/2019"
+  },
+  "active": true,
+  "approved": true,
+  "decision": "485/QĐ-ĐHFPT dated 04/12/2019",
+  "description": "This Course is based on the Coursera Specialization \"Business Strategy\", which covers both the dynamics and the global aspects of strategic management. You'll learn how to evaluate industry evolution, build and sustain competitive advantage, formulate and assess business strategies, and align efforts to organizational strategy. The course is divided into two parts. In the first part, you will develop your ability to think strategically, analyze the competitive environment, and recommend firm positioning and value creation. We will explore the underlying theory and frameworks that provide the foundations of a successful business strategy and provide the tools you need to understand that strategy: SWOT, Competitor, Environmental, Five Forces, and Capabilities Analyses, as well as Strategy Maps. In the second part, you will advance your strategic analysis skills, by learning the tools to analyze strategy across time (competitive dynamics), industries (corporate strategy), geographies (international strategy), and institutions (non-market strategy). We'll introduce the tools you need to complete a comprehensive evaluation and understand the strategy dynamics of an industry: Competitive Lifecycle, Internationalization and Stakeholder Analyses, and Diversification Matrices.",
+  "learning_outcomes": [
+    {
+      "No.": "1",
+      "CLO Name": "CLO1",
+      "CLO Details": "Make use of the SWOT, competitor, and environmental analysis tools"
+    },
+    {
+      "No.": "2",
+      "CLO Name": "CLO2",
+      "CLO Details": "Assess an industry's structure and how the competitive dynamics in an industry affect profitability"
+    },
+    {
+      "No.": "3",
+      "CLO Name": "CLO3",
+      "CLO Details": "Create a capabilities analysis and apply this analysis in decision making"
+    },
+    {
+      "No.": "4",
+      "CLO Name": "CLO4",
+      "CLO Details": "Analyze the advantages and disadvantages of four generic competitive positions"
+    },
+    {
+      "No.": "5",
+      "CLO Name": "CLO5",
+      "CLO Details": "Define the dynamics of competition, the competitive life cycle, and strategies to survive and thrive through industry disruption"
+    },
+    {
+      "No.": "6",
+      "CLO Name": "CLO6",
+      "CLO Details": "Explain internationalization strategies, how, where, and when to enter foreign markets, and foreign direct investment"
+    },
+    {
+      "No.": "7",
+      "CLO Name": "CLO7",
+      "CLO Details": "Explain how businesses compete across industries, the value of being in different markets, and the right degree of diversification"
+    },
+    {
+      "No.": "8",
+      "CLO Name": "CLO8",
+      "CLO Details": "Assess stakeholder management and how engaging with non-capital stakeholders can create value"
+    }
+  ],
+  "assessments": [
+    {
+      "No.": "1",
+      "Category": "Assignment 1",
+      "Type": "on-going",
+      "Part": "1",
+      "Weight": "15.0%",
+      "Completion Criteria": ">0",
+      "Duration": "at home",
+      "CLO": "LO1, LO2, LO3, LO4",
+      "Question Type": "Written report",
+      "No Question": "",
+      "Knowledge and Skill": "Test students' ability to understand and apply the skills and knowledge of the delivered units",
+      "Grading Guide": "Complete the assignment according to the instructions on Coursera. Then, submit the work to the instructor to be graded.",
+      "Note": "Coursera-based"
+    },
+    {
+      "No.": "2",
+      "Category": "Assignment 2",
+      "Type": "on-going",
+      "Part": "1",
+      "Weight": "15.0%",
+      "Completion Criteria": ">0",
+      "Duration": "at home",
+      "CLO": "LO5, LO6, LO7, LO8",
+      "Question Type": "Written report",
+      "No Question": "",
+      "Knowledge and Skill": "Test students' ability to understand and apply the skills and knowledge of the delivered units",
+      "Grading Guide": "Complete the assignment according to the instructions on Coursera. Then, submit the work to the instructor to be graded.",
+      "Note": "Coursera-based"
+    },
+    {
+      "No.": "3",
+      "Category": "Class participation and preparation",
+      "Type": "on-going",
+      "Part": "1",
+      "Weight": "10.0%",
+      "Completion Criteria": ">0",
+      "Duration": "",
+      "CLO": "",
+      "Question Type": "",
+      "No Question": "",
+      "Knowledge and Skill": "",
+      "Grading Guide": "",
+      "Note": "Participation grade will be given based on students' preparation, quantity as well as group performance"
+    },
+    {
+      "No.": "4",
+      "Category": "Final Project Group Presentation",
+      "Type": "on-going",
+      "Part": "1",
+      "Weight": "30.0%",
+      "Completion Criteria": "4",
+      "Duration": "17 - 20'/group",
+      "CLO": "LO1, LO2, LO3, LO4, LO5, LO6, LO7, LO8",
+      "Question Type": "Case Study",
+      "No Question": "",
+      "Knowledge and Skill": "Test students' ability to understand and apply the skills and knowledge of the delivered units",
+      "Grading Guide": "Conducted on campus",
+      "Note": "Students are divided into groups of up to 5 people to work on a real-life case study (selected by the students and approved by the instructor)"
+    },
+    {
+      "No.": "5",
+      "Category": "Progress Test 1",
+      "Type": "on-going",
+      "Part": "1",
+      "Weight": "15.0%",
+      "Completion Criteria": ">0",
+      "Duration": "45'",
+      "CLO": "LO1, LO2, LO3, LO4",
+      "Question Type": "Multiple choice",
+      "No Question": "40",
+      "Knowledge and Skill": "Test the acquainted knowledge which student obtained in the delivered chapters.",
+      "Grading Guide": "In-class test",
+      "Note": "Teacher is allowed to select which unit content (topic or learning outcome) to focus on each examination session. The questions are based on the Coursera quizzes."
+    },
+    {
+      "No.": "6",
+      "Category": "Progress Test 2",
+      "Type": "on-going",
+      "Part": "1",
+      "Weight": "15.0%",
+      "Completion Criteria": ">0",
+      "Duration": "45'",
+      "CLO": "LO5, LO6, LO7, LO8",
+      "Question Type": "Multiple choice",
+      "No Question": "40",
+      "Knowledge and Skill": "Test the acquainted knowledge which student obtained in the delivered chapters.",
+      "Grading Guide": "In-class test",
+      "Note": "Teacher is allowed to select which unit content (topic or learning outcome) to focus on each examination session. The questions are based on the Coursera quizzes."
+    }
+  ],
+  "schedule": [
+    {
+      "Session": "1",
+      "Topic": "Course 1: Foundations of Business Strategy Introduction to Strategic Analysis Course Introduction Reading: Course Overview Reading: Course Requirements Reading: Get to Know Your Classmates Reading: Using the Discussion Forums",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO1",
+      "ITU": "",
+      "Student Materials": "\"Coursera materials: https://www.coursera.org/learn/uva-darden-foundations-business-strategy/home/week/1\" https://www.coursera.org/learn/uva-darden-foundations-business-strategy/supplement/7zMIt/course-requirements https://www.coursera.org/learn/uva-darden-foundations-business-strategy/supplement/66qMQ/get-to-know-your-classmates https://www.coursera.org/learn/uva-darden-foundations-business-strategy/supplement/Cqem9/using-the-discussion-forums",
+      "S-Download": "",
+      "Student's Tasks": "\"- Read materials - Provide introduction to the course as a whole - Introduce students to the format of the course - Students are divided into groups of up to 5 people to work on the final project - Introduce students to the format and requirements of the final project\" Read materials",
+      "URLs": ""
+    },
+    {
+      "Session": "2",
+      "Topic": "Lessons Video: An Introduction to Strategic Analysis Video: Strategic Analysis Video: The Strategist’s Challenge",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO1",
+      "ITU": "",
+      "Student Materials": "https://www.coursera.org/learn/uva-darden-foundations-business-strategy/lecture/tkSkY/an-introduction-to-strategic-analysis https://www.coursera.org/learn/uva-darden-foundations-business-strategy/lecture/2U1pb/strategic-analysis https://www.coursera.org/learn/uva-darden-foundations-business-strategy/lecture/nHh81/the-strategists-challenge",
+      "S-Download": "",
+      "Student's Tasks": "- Watch/rewatch videos - Read materials/transcripts for further understanding - Do in-lesson quizzes - Discuss key concepts",
+      "URLs": ""
+    },
+    {
+      "Session": "3",
+      "Topic": "Video: Fundamental Principle of Business Strategy Video: Competitive Markets Video: Two Perspectives on Economic Rents Video: Module Lessons",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO1",
+      "ITU": "",
+      "Student Materials": "https://www.coursera.org/learn/uva-darden-foundations-business-strategy/lecture/aCJa6/fundamental-principle-of-business-strategy https://www.coursera.org/learn/uva-darden-foundations-business-strategy/lecture/JuCk3/competitive-markets https://www.coursera.org/learn/uva-darden-foundations-business-strategy/lecture/DS3Wn/a-little-calculus https://www.coursera.org/learn/uva-darden-foundations-business-strategy/lecture/vWGtg/two-perspectives-on-economic-rents https://www.coursera.org/learn/uva-darden-foundations-business-strategy/lecture/WBZxa/module-lessons",
+      "S-Download": "",
+      "Student's Tasks": "- Watch/rewatch videos - Read materials/transcripts for further understanding - Do in-lesson quizzes - Discuss key concepts",
+      "URLs": ""
+    },
+    {
+      "Session": "4",
+      "Topic": "Tools Video: Strategist’s Toolkit: SWOT Analysis Video: Strategist’s Toolkit: Competitor Analysis Video: Strategist’s Toolkit: Environmental Analysis Case Study: Google Inc: Buy, Sell, or Hold? Case Study Debrief Video: Google Case Study Debrief",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO1",
+      "ITU": "",
+      "Student Materials": "https://www.coursera.org/learn/uva-darden-foundations-business-strategy/lecture/IoW8S/strategists-toolkit-swot-analysis https://www.coursera.org/learn/uva-darden-foundations-business-strategy/lecture/bTra9/strategists-toolkit-competitor-analysis https://www.coursera.org/learn/uva-darden-foundations-business-strategy/lecture/629w2/strategists-toolkit-environmental-analysis https://www.coursera.org/learn/uva-darden-foundations-business-strategy/supplement/RMIIu/google-inc-buy-sell-or-hold https://www.coursera.org/learn/uva-darden-foundations-business-strategy/lecture/1N2GL/google-case-debrief",
+      "S-Download": "",
+      "Student's Tasks": "- Watch/rewatch videos - Read materials/transcripts for further understanding - Do in-lesson quizzes - Discuss key concepts",
+      "URLs": ""
+    },
+    {
+      "Session": "5",
+      "Topic": "Course 1: Foundations of Business Strategy Analyzing Industry Structure Lessons Video: Analyzing Industry Structure Video: Threat of Entry, Part 1 Video: Threat of Entry, Part 2 Video: Threat of Substitutes",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO2",
+      "ITU": "",
+      "Student Materials": "https://www.coursera.org/learn/uva-darden-foundations-business-strategy/lecture/gtc74/analyzing-industry-structurehttps://www.coursera.org/learn/uva-darden-foundations-business-strategy/lecture/cynIG/threat-of-entry-part-1https://www.coursera.org/learn/uva-darden-foundations-business-strategy/lecture/5lUKS/threat-of-entry-part-2https://www.coursera.org/learn/uva-darden-foundations-business-strategy/lecture/oYkF4/threat-of-substitutes",
+      "S-Download": "",
+      "Student's Tasks": "- Watch/rewatch videos - Read materials/transcripts for further understanding - Do in-lesson quizzes - Discuss key concepts",
+      "URLs": ""
+    },
+    {
+      "Session": "6",
+      "Topic": "Video: Bargaining Power of Buyers, Part 1 Video: Bargaining Power of Buyers, Part 2 Video: Bargaining Power of Suppliers Video: Intensity of Rivalry Video: Module Lessons Groups submit selection of company for the final project to instructor to be approved",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO2",
+      "ITU": "",
+      "Student Materials": "https://www.coursera.org/learn/uva-darden-foundations-business-strategy/lecture/RhIMa/bargaining-power-of-buyers-part-1https://www.coursera.org/learn/uva-darden-foundations-business-strategy/lecture/KWQah/bargaining-power-of-buyers-part-2https://www.coursera.org/learn/uva-darden-foundations-business-strategy/lecture/plwBu/bargaining-power-of-suppliershttps://www.coursera.org/learn/uva-darden-foundations-business-strategy/lecture/9oars/intensity-of-rivalryhttps://www.coursera.org/learn/uva-darden-foundations-business-strategy/lecture/DdQAC/module-lessons",
+      "S-Download": "",
+      "Student's Tasks": "- Watch/rewatch videos - Read materials/transcripts for further understanding - Do in-lesson quizzes - Discuss key concepts",
+      "URLs": ""
+    },
+    {
+      "Session": "7",
+      "Topic": "Tools Video: Strategist’s Toolkit: Five Forces Analysis Case Study: Redhook Brewing Company Video: Redhook Brewing Company Case Study Debrief",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO2",
+      "ITU": "",
+      "Student Materials": "https://www.coursera.org/learn/uva-darden-foundations-business-strategy/lecture/dG8FJ/strategists-toolkit-five-forces-analysishttps://www.coursera.org/learn/uva-darden-foundations-business-strategy/supplement/OXFWC/redhook-brewing-companyhttps://www.coursera.org/learn/uva-darden-foundations-business-strategy/lecture/d7MLM/red-hook-brewing-case-debrief",
+      "S-Download": "",
+      "Student's Tasks": "- Watch/rewatch videos - Read materials/transcripts for further understanding - Do in-lesson quizzes - Discuss key concepts",
+      "URLs": ""
+    },
+    {
+      "Session": "8",
+      "Topic": "Course 1: Foundations of Business Strategy Analyzing Firm Capabilities Lessons Video: Analyzing Firm Capabilities Video: Value Chain Video: Value Chain Video: Sustainability: Imitation",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO3",
+      "ITU": "",
+      "Student Materials": "https://www.coursera.org/learn/uva-darden-foundations-business-strategy/lecture/HXQtv/analyzing-firm-capabilities https://www.coursera.org/learn/uva-darden-foundations-business-strategy/lecture/KEUPJ/value-chain https://www.coursera.org/learn/uva-darden-foundations-business-strategy/lecture/xGjnV/alignment https://www.coursera.org/learn/uva-darden-foundations-business-strategy/lecture/zY3Ym/sustainability-imitation",
+      "S-Download": "",
+      "Student's Tasks": "- Watch/rewatch videos - Read materials/transcripts for further understanding - Do in-lesson quizzes - Discuss key concepts",
+      "URLs": ""
+    },
+    {
+      "Session": "9",
+      "Topic": "Video: Sustainability: Durability Video: Building Capabilities Video: Module Lessons",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO3",
+      "ITU": "",
+      "Student Materials": "https://www.coursera.org/learn/uva-darden-foundations-business-strategy/lecture/R1pQ1/sustainability-durability https://www.coursera.org/learn/uva-darden-foundations-business-strategy/lecture/FAOGd/building-capabilities https://www.coursera.org/learn/uva-darden-foundations-business-strategy/lecture/5ptbz/module-lessons",
+      "S-Download": "",
+      "Student's Tasks": "- Watch/rewatch videos - Read materials/transcripts for further understanding - Do in-lesson quizzes - Discuss key concepts",
+      "URLs": ""
+    },
+    {
+      "Session": "10",
+      "Topic": "Tools Video: Strategist’s Toolkit: Capabilities Analysis Case Study: Apple (Computer) Inc. Case Study Debrief Video: Apple Case Study Debrief",
+      "Learning-Teaching Type": "Offline",
+      "LO": "",
+      "ITU": "",
+      "Student Materials": "https://www.coursera.org/learn/uva-darden-foundations-business-strategy/lecture/kUim8/strategists-toolkit-capabilities-analysishttps://www.coursera.org/learn/uva-darden-foundations-business-strategy/supplement/Jk4J4/apple-computer-inchttps://www.coursera.org/learn/uva-darden-foundations-business-strategy/lecture/Xer0d/apple-case-debrief",
+      "S-Download": "",
+      "Student's Tasks": "- Watch/rewatch videos - Read materials/transcripts for further understanding - Do in-lesson quizzes - Discuss key concepts",
+      "URLs": ""
+    },
+    {
+      "Session": "11",
+      "Topic": "Course 1: Foundations of Business Strategy Determining Competitive Position Lessons Video: Determining Competitive Positioning Video: Generic Competitive Positions, Part 1 Video: Generic Competitive Positions, Part 2",
+      "Learning-Teaching Type": "Offline",
+      "LO": "",
+      "ITU": "",
+      "Student Materials": "https://www.coursera.org/learn/uva-darden-foundations-business-strategy/lecture/s6EA2/determining-competitive-positioninghttps://www.coursera.org/learn/uva-darden-foundations-business-strategy/lecture/K0iic/generic-competitive-positions-part-1https://www.coursera.org/learn/uva-darden-foundations-business-strategy/lecture/Y4TvK/generic-competitive-positions-part-2",
+      "S-Download": "",
+      "Student's Tasks": "- Watch/rewatch videos - Read materials/transcripts for further understanding - Do in-lesson quizzes - Discuss key concepts",
+      "URLs": ""
+    },
+    {
+      "Session": "12",
+      "Topic": "Video: Mapping Competitive Positions Video: Which Position Is Best? Video: Module Lessons",
+      "Learning-Teaching Type": "Offline",
+      "LO": "",
+      "ITU": "",
+      "Student Materials": "https://www.coursera.org/learn/uva-darden-foundations-business-strategy/lecture/NL1ky/mapping-competitive-positionshttps://www.coursera.org/learn/uva-darden-foundations-business-strategy/lecture/WlfdF/which-position-is-besthttps://www.coursera.org/learn/uva-darden-foundations-business-strategy/lecture/hozW5/module-lessons",
+      "S-Download": "",
+      "Student's Tasks": "- Watch/rewatch videos - Read materials/transcripts for further understanding - Do in-lesson quizzes - Discuss key concepts",
+      "URLs": ""
+    },
+    {
+      "Session": "13",
+      "Topic": "Tools Video: Strategist’s Toolkit: Strategy Maps Case Study: Piaggio Video: Piaggio Case Study Debrief Submit Course 1 Assignment",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO1, LO2, LO3, LO4",
+      "ITU": "",
+      "Student Materials": "https://www.coursera.org/learn/uva-darden-foundations-business-strategy/lecture/qvZyB/strategists-toolkit-strategy-mapshttps://www.coursera.org/learn/uva-darden-foundations-business-strategy/supplement/uxDHK/piaggiohttps://www.coursera.org/learn/uva-darden-foundations-business-strategy/lecture/ua7Hl/piaggio-case-debriefhttps://www.coursera.org/learn/uva-darden-foundations-business-strategy/peer/TUleL/competitive-position-assignment/submit",
+      "S-Download": "",
+      "Student's Tasks": "- Watch/rewatch videos - Read materials/transcripts for further understanding - Do in-lesson quizzes - Discuss key concepts",
+      "URLs": ""
+    },
+    {
+      "Session": "14",
+      "Topic": "Review and Progress Test 1",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO1, LO2, LO3, LO4",
+      "ITU": "",
+      "Student Materials": "",
+      "S-Download": "",
+      "Student's Tasks": "- Watch/rewatch videos - Read materials/transcripts for further understanding - Do in-lesson quizzes - Discuss key concepts",
+      "URLs": ""
+    },
+    {
+      "Session": "15",
+      "Topic": "Course 2: Advanced Business Strategy Dynamic Strategy Course Introduction Reading: Course Overview Reading: Course Requirements Reading: Get to Know Your Classmates Reading: Using the Discussion Forums Lessons Video: Introduction to Strategy over Time Video: The Dynamic Capabilities Perspective",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO5",
+      "ITU": "",
+      "Student Materials": "\"Coursera Materials: https://www.coursera.org/learn/uva-darden-advanced-business-strategy/home/welcome https://www.coursera.org/learn/uva-darden-advanced-business-strategy/home/week/1\" https://www.coursera.org/learn/uva-darden-advanced-business-strategy/supplement/ytk20/course-overview https://www.coursera.org/learn/uva-darden-advanced-business-strategy/supplement/q5kON/course-requirements https://www.coursera.org/learn/uva-darden-advanced-business-strategy/supplement/oxrP7/get-to-know-your-classmates https://www.coursera.org/learn/uva-darden-advanced-business-strategy/supplement/zGKAA/using-the-discussion-forums https://www.coursera.org/learn/uva-darden-advanced-business-strategy/lecture/Fjg4u/introduction-to-strategy-over-time https://www.coursera.org/learn/uva-darden-advanced-business-strategy/lecture/WZOmC/the-dynamic-capabilities-perspective",
+      "S-Download": "",
+      "Student's Tasks": "- Watch/rewatch videos - Read materials/transcripts for further understanding - Do in-lesson quizzes - Discuss key concepts",
+      "URLs": ""
+    },
+    {
+      "Session": "16",
+      "Topic": "Video: Introduction to the Competitive Life Cycle Video: Competitive Life Cycle: Common Patterns Video: Why Incumbent Firms Fail or Survive Video: Competitive Life Cycle Analysis Video: Module Lessons",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO5",
+      "ITU": "",
+      "Student Materials": "https://www.coursera.org/learn/uva-darden-advanced-business-strategy/lecture/5oe07/introduction-to-the-competitive-life-cyclehttps://www.coursera.org/learn/uva-darden-advanced-business-strategy/lecture/kuRoP/competitive-life-cycle-common-patternshttps://www.coursera.org/learn/uva-darden-advanced-business-strategy/lecture/fW0Xk/why-incumbent-firms-fail-or-survivehttps://www.coursera.org/learn/uva-darden-advanced-business-strategy/lecture/aidja/competitive-life-cycle-analysishttps://www.coursera.org/learn/uva-darden-advanced-business-strategy/lecture/vxtz1/module-lessons",
+      "S-Download": "",
+      "Student's Tasks": "- Watch/rewatch videos - Read materials/transcripts for further understanding - Do in-lesson quizzes - Discuss key concepts",
+      "URLs": ""
+    },
+    {
+      "Session": "17",
+      "Topic": "Tools: Strategist’s Toolkit: Competitive Life Cycle Analysis Case Study Reading: Sony PlayStation 4: Aim and Fire Case Study Debrief Video: Sony PlayStation 4 Case Debrief",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO5",
+      "ITU": "",
+      "Student Materials": "https://www.coursera.org/learn/uva-darden-advanced-business-strategy/lecture/OziGl/strategists-toolkit-competitive-life-cycle-analysishttps://www.coursera.org/learn/uva-darden-advanced-business-strategy/supplement/Ura3n/sony-playstation-4-aim-and-firehttps://www.coursera.org/learn/uva-darden-advanced-business-strategy/lecture/6lmIW/sony-playstation-4-case-debrief",
+      "S-Download": "",
+      "Student's Tasks": "- Watch/rewatch videos - Read materials/transcripts for further understanding - Do in-lesson quizzes - Discuss key concepts",
+      "URLs": ""
+    },
+    {
+      "Session": "18",
+      "Topic": "Course 2: Advanced Business Strategy International Strategy Lessons Video: Introduction to International Strategy Video: Patterns of Internationalization Video: Where to Compete Video: Entering Foreign Markets: Exporting",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO6",
+      "ITU": "",
+      "Student Materials": "https://www.coursera.org/learn/uva-darden-advanced-business-strategy/lecture/P70b1/introduction-to-international-strategyhttps://www.coursera.org/learn/uva-darden-advanced-business-strategy/lecture/RWybP/patterns-of-internationalizationhttps://www.coursera.org/learn/uva-darden-advanced-business-strategy/lecture/6JKHz/where-to-competehttps://www.coursera.org/learn/uva-darden-advanced-business-strategy/lecture/eMH1b/entering-foreign-markets-exporting",
+      "S-Download": "",
+      "Student's Tasks": "- Watch/rewatch videos - Read materials/transcripts for further understanding - Do in-lesson quizzes - Discuss key concepts",
+      "URLs": ""
+    },
+    {
+      "Session": "19",
+      "Topic": "Video: Entering Foreign Markets: Licensing and Alliances Video: Entering Foreign Markets: Foreign Direct Investment Video: Foreign Direct Investment: Entry Mode Video: Module Lessons",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO7",
+      "ITU": "",
+      "Student Materials": "https://www.coursera.org/learn/uva-darden-advanced-business-strategy/lecture/vXowC/entering-foreign-markets-licensing-and-allianceshttps://www.coursera.org/learn/uva-darden-advanced-business-strategy/lecture/W4y2u/entering-foreign-markets-foreign-direct-investmenthttps://www.coursera.org/learn/uva-darden-advanced-business-strategy/lecture/kKzrx/foreign-direct-investment-entry-modehttps://www.coursera.org/learn/uva-darden-advanced-business-strategy/lecture/exIE9/module-lessons",
+      "S-Download": "",
+      "Student's Tasks": "- Watch/rewatch videos - Read materials/transcripts for further understanding - Do in-lesson quizzes - Discuss key concepts",
+      "URLs": ""
+    },
+    {
+      "Session": "20",
+      "Topic": "Tools Video: Strategist’s Toolkit: Internationalization Analysis Case Study Reading: Orascom Telecom Holding: Wind and Weather Video: Orascom Telecom Holding Case Debrief",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO6",
+      "ITU": "",
+      "Student Materials": "https://www.coursera.org/learn/uva-darden-advanced-business-strategy/lecture/lipaN/strategists-toolkit-internationalization-analysishttps://www.coursera.org/learn/uva-darden-advanced-business-strategy/supplement/xe5At/orascom-telecom-holding-wind-and-weatherhttps://www.coursera.org/learn/uva-darden-advanced-business-strategy/lecture/tNBcC/orascom-telecom-holding-case-debrief",
+      "S-Download": "",
+      "Student's Tasks": "- Watch/rewatch videos - Read materials/transcripts for further understanding - Do in-lesson quizzes - Discuss key concepts",
+      "URLs": ""
+    },
+    {
+      "Session": "21",
+      "Topic": "Course 2: Advanced Business Strategy Diversification Strategy Lessons Video: Introduction to Competing across Industries Video: Financial Reasons to Diversify Video: Operational Reasons to Diversify Video: Strategic Reasons to Diversify",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO7",
+      "ITU": "",
+      "Student Materials": "https://www.coursera.org/learn/uva-darden-advanced-business-strategy/lecture/J9Wuz/introduction-to-competing-across-industrieshttps://www.coursera.org/learn/uva-darden-advanced-business-strategy/lecture/x94Qw/financial-reasons-to-diversifyhttps://www.coursera.org/learn/uva-darden-advanced-business-strategy/lecture/dPvNg/operational-reasons-to-diversifyhttps://www.coursera.org/learn/uva-darden-advanced-business-strategy/lecture/zTnhJ/strategic-reasons-to-diversify",
+      "S-Download": "",
+      "Student's Tasks": "- Watch/rewatch videos - Read materials/transcripts for further understanding - Do in-lesson quizzes - Discuss key concepts",
+      "URLs": ""
+    },
+    {
+      "Session": "22",
+      "Topic": "Video: Why Firms Exist: Theory of the Firm Video: Limits on Firm Scope Video: The Right Degree of Diversification Video: Module Lessons",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO7",
+      "ITU": "",
+      "Student Materials": "https://www.coursera.org/learn/uva-darden-advanced-business-strategy/lecture/hLG0I/why-firms-exist-theory-of-the-firmhttps://www.coursera.org/learn/uva-darden-advanced-business-strategy/lecture/E9eBv/limits-on-firm-scopehttps://www.coursera.org/learn/uva-darden-advanced-business-strategy/lecture/0pHDP/the-right-degree-of-diversificationhttps://www.coursera.org/learn/uva-darden-advanced-business-strategy/lecture/FdYKT/module-lessons",
+      "S-Download": "",
+      "Student's Tasks": "- Watch/rewatch videos - Read materials/transcripts for further understanding - Do in-lesson quizzes - Discuss key concepts",
+      "URLs": ""
+    },
+    {
+      "Session": "23",
+      "Topic": "Tools Video: Strategist’s Toolkit: Diversification Matrices Case Study Reading: Walt Disney Co: Mickey Mouse or Media Mammoth? Video: Walt Disney Co Case Debrief",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO7",
+      "ITU": "",
+      "Student Materials": "https://www.coursera.org/learn/uva-darden-advanced-business-strategy/lecture/p2Vpu/strategists-toolkit-diversification-matriceshttps://www.coursera.org/learn/uva-darden-advanced-business-strategy/supplement/s6PSS/walt-disney-co-mickey-mouse-or-media-mammothhttps://www.coursera.org/learn/uva-darden-advanced-business-strategy/lecture/WtND6/walt-disney-co-case-debrief",
+      "S-Download": "",
+      "Student's Tasks": "- Watch/rewatch videos - Read materials/transcripts for further understanding - Do in-lesson quizzes - Discuss key concepts",
+      "URLs": ""
+    },
+    {
+      "Session": "24",
+      "Topic": "Course 2: Advanced Business Strategy Stakeholder Strategy Lessons Video: Introduction to Stakeholder Strategy Video: Creating Value for Stakeholders Video: Aligning Key Stakeholders Video: Aligning Secondary Stakeholders",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO8",
+      "ITU": "",
+      "Student Materials": "https://www.coursera.org/learn/uva-darden-advanced-business-strategy/lecture/BgyNu/introduction-to-stakeholder-strategyhttps://www.coursera.org/learn/uva-darden-advanced-business-strategy/lecture/9Ulfc/creating-value-for-stakeholdershttps://www.coursera.org/learn/uva-darden-advanced-business-strategy/lecture/xwPk8/aligning-key-stakeholdershttps://www.coursera.org/learn/uva-darden-advanced-business-strategy/lecture/J8EOJ/aligning-secondary-stakeholders",
+      "S-Download": "",
+      "Student's Tasks": "- Watch/rewatch videos - Read materials/transcripts for further understanding - Do in-lesson quizzes - Discuss key concepts",
+      "URLs": ""
+    },
+    {
+      "Session": "25",
+      "Topic": "Video: Sources of Institutional Pressure Video: Value Creation and Your Values Video: Module Lessons",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO8",
+      "ITU": "",
+      "Student Materials": "https://www.coursera.org/learn/uva-darden-advanced-business-strategy/lecture/2p8A3/sources-of-institutional-pressurehttps://www.coursera.org/learn/uva-darden-advanced-business-strategy/lecture/NQu5M/value-creation-and-your-valueshttps://www.coursera.org/learn/uva-darden-advanced-business-strategy/lecture/n9zuv/module-lessons",
+      "S-Download": "",
+      "Student's Tasks": "- Watch/rewatch videos - Read materials/transcripts for further understanding - Do in-lesson quizzes - Discuss key concepts",
+      "URLs": ""
+    },
+    {
+      "Session": "26",
+      "Topic": "Tools Video: Strategist’s Toolkit: Stakeholder Analysis Case Study Reading: GE Healthcare in India: An (Ultra)Sound Strategy? Case Study Debrief Video: GE Healthcare India Case Debrief Submit Course 2 Assignment",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO8",
+      "ITU": "",
+      "Student Materials": "https://www.coursera.org/learn/uva-darden-advanced-business-strategy/lecture/g6IQU/strategists-toolkit-stakeholder-analysishttps://www.coursera.org/learn/uva-darden-advanced-business-strategy/supplement/KZF3y/ge-healthcare-in-india-an-ultra-sound-strategyhttps://www.coursera.org/learn/uva-darden-advanced-business-strategy/lecture/GRJwQ/ge-healthcare-india-case-debriefhttps://www.coursera.org/learn/uva-darden-advanced-business-strategy/peer/gCZ2b/advanced-competitive-position/submit",
+      "S-Download": "",
+      "Student's Tasks": "- Watch/rewatch videos - Read materials/transcripts for further understanding - Do in-lesson quizzes - Discuss key concepts",
+      "URLs": ""
+    },
+    {
+      "Session": "27",
+      "Topic": "Review and Preparation for Final Project",
+      "Learning-Teaching Type": "Offline",
+      "LO": "",
+      "ITU": "",
+      "Student Materials": "",
+      "S-Download": "",
+      "Student's Tasks": "- Review key concepts introduced throughout the course - Submit presentation outline to instructor for review and feedback",
+      "URLs": ""
+    },
+    {
+      "Session": "28",
+      "Topic": "Review and Progress Test 1",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO5, LO6, LO7, LO8",
+      "ITU": "",
+      "Student Materials": "",
+      "S-Download": "",
+      "Student's Tasks": "",
+      "URLs": ""
+    },
+    {
+      "Session": "29",
+      "Topic": "Final Project Presentation",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO1, LO2, LO3, LO4, LO5, LO6, LO7, LO8",
+      "ITU": "",
+      "Student Materials": "",
+      "S-Download": "",
+      "Student's Tasks": "Students conduct the presentation in groups of 3 to 5",
+      "URLs": ""
+    },
+    {
+      "Session": "30",
+      "Topic": "Final Project Presentation",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO1, LO2, LO3, LO4, LO5, LO6, LO7, LO8",
+      "ITU": "",
+      "Student Materials": "",
+      "S-Download": "",
+      "Student's Tasks": "Students conduct the presentation in groups of 3 to 5",
+      "URLs": ""
+    }
+  ],
+  "constructive_questions": [],
+  "materials": [
+    {
+      "No.": "1",
+      "Material Description": "https://www.coursera.org/learn/uva-darden-foundations-business-strategy",
+      "Author": "",
+      "Publisher": "",
+      "Published Date": "",
+      "Edition": "",
+      "ISBN": "",
+      "Is Main Material": "True",
+      "Is Hard Copy": "False",
+      "Is Online": "True",
+      "Note": ""
+    },
+    {
+      "No.": "2",
+      "Material Description": "https://www.coursera.org/learn/uva-darden-advanced-business-strategy?specialization=business-strategy",
+      "Author": "",
+      "Publisher": "",
+      "Published Date": "",
+      "Edition": "",
+      "ISBN": "",
+      "Is Main Material": "True",
+      "Is Hard Copy": "False",
+      "Is Online": "True",
+      "Note": ""
+    }
+  ],
+  "source_path": "data/raw/syllabi/974.html",
+  "id": "syllabus:974"
+}

@@ -1,0 +1,626 @@
+{
+  "syllabus_id": 838,
+  "subject_code": "BDM201",
+  "subject_name": "Business Decision Making",
+  "syllabus_name": "BUSINESS DECISION MAKING",
+  "credits": 3,
+  "degree_level": "Bachelor",
+  "time_allocation": "Contact time: 30 sessions; 1 session = 90'",
+  "prerequisite": "",
+  "general_information": {
+    "Syllabus ID": "838",
+    "Syllabus Name": "BUSINESS DECISION MAKING",
+    "Course Name English": "",
+    "Subject Code": "BDM201",
+    "Learning-Teaching Method": "",
+    "NoCredit": "3",
+    "Degree Level": "Bachelor",
+    "Time Allocation": "Contact time: 30 sessions; 1 session = 90'",
+    "Pre-Requisite": "",
+    "Description": "In business, good decision making requires the effective use of information. This unit gives learners the opportunity to examine a variety of sources and develop techniques in relation to four aspects of information: data gathering, data storage, and the tools available to create and present useful information. Specifically, learners will use spreadsheets and other software for data analysis and the preparation of information. The use of spreadsheets to manipulate of numbers, and understanding how to apply the results, are seen as more important than the mathematical derivation of formulae used. Learners wil lgain an appreciation of information systems currently used at all levels in an organisation as aids to decision making.",
+    "StudentTasks": "- Attend more than 80% of contact hours in order to be accepted to the final examination - Actively participate in class activities - Fulfill tasks given by instructor after class - Use their own laptop in class only for learning purpose - Read the textbook in advance - Access the course website (www.lms.fpt.edu.vn) for up-to-date information and material of the course, for online supports from teachers and other students and for practicing and assessment.",
+    "Tools": "",
+    "Scoring Scale": "10",
+    "DecisionNo MM/dd/yyyy": "1465/QĐ-ĐHFPT dated 12/26/2017",
+    "IsApproved": "True",
+    "Note": "",
+    "Is Scored": "True",
+    "MinAvgMarkToPass": "5",
+    "IsActive": "True",
+    "ApprovedDate": "12/26/2017"
+  },
+  "active": true,
+  "approved": true,
+  "decision": "1465/QĐ-ĐHFPT dated 12/26/2017",
+  "description": "In business, good decision making requires the effective use of information. This unit gives learners the opportunity to examine a variety of sources and develop techniques in relation to four aspects of information: data gathering, data storage, and the tools available to create and present useful information. Specifically, learners will use spreadsheets and other software for data analysis and the preparation of information. The use of spreadsheets to manipulate of numbers, and understanding how to apply the results, are seen as more important than the mathematical derivation of formulae used. Learners wil lgain an appreciation of information systems currently used at all levels in an organisation as aids to decision making.",
+  "learning_outcomes": [
+    {
+      "No.": "1",
+      "CLO Name": "CLO1",
+      "CLO Details": "create a plan for the collection of primary and secondary data for a given business problem"
+    },
+    {
+      "No.": "2",
+      "CLO Name": "CLO2",
+      "CLO Details": "present the survey methodology and sampling frame used"
+    },
+    {
+      "No.": "3",
+      "CLO Name": "CLO3",
+      "CLO Details": "design a questionnaire for a given business problem"
+    },
+    {
+      "No.": "4",
+      "CLO Name": "CLO4",
+      "CLO Details": "create information for decision making by summarising data using representative values"
+    },
+    {
+      "No.": "5",
+      "CLO Name": "CLO5",
+      "CLO Details": "analyse the results to draw valid conclusions in a business context"
+    },
+    {
+      "No.": "6",
+      "CLO Name": "CLO6",
+      "CLO Details": "analyse data using measures of dispersion to inform a given business scenario"
+    },
+    {
+      "No.": "7",
+      "CLO Name": "CLO7",
+      "CLO Details": "explain how quartiles, percentiles and the correlation coefficient are used to draw useful conclusions in a business context"
+    },
+    {
+      "No.": "8",
+      "CLO Name": "CLO8",
+      "CLO Details": "produce graphs using spreadsheets and draw valid conclusions based on the information derived"
+    },
+    {
+      "No.": "9",
+      "CLO Name": "CLO9",
+      "CLO Details": "create trend lines in spreadsheet graphs to assist in forecasting for specified business information"
+    },
+    {
+      "No.": "10",
+      "CLO Name": "CLO10",
+      "CLO Details": "prepare a business presentation using suitable software and techniques to disseminate information effectively"
+    },
+    {
+      "No.": "11",
+      "CLO Name": "CLO11",
+      "CLO Details": "produce a formal business report"
+    },
+    {
+      "No.": "12",
+      "CLO Name": "CLO12",
+      "CLO Details": "use appropriate information processing tools"
+    },
+    {
+      "No.": "13",
+      "CLO Name": "CLO13",
+      "CLO Details": "prepare a project plan for an activity and determine the critical path"
+    },
+    {
+      "No.": "14",
+      "CLO Name": "CLO14",
+      "CLO Details": "use financial tools for decision making."
+    }
+  ],
+  "assessments": [
+    {
+      "No.": "1",
+      "Category": "Group Assigment 1",
+      "Type": "on-going",
+      "Part": "1",
+      "Weight": "30.0%",
+      "Completion Criteria": ">0",
+      "Duration": "",
+      "CLO": "LO1, LO2, LO3, LO4, LO10",
+      "Question Type": "Report + Presentation",
+      "No Question": "Each memberwill be asked atleast 4 questions from teacher",
+      "Knowledge and Skill": "• Be able to use a variety of sources for the collection of data, both primary and secondary • Understand a range of techniques to analyse data effectively for business purposes",
+      "Grading Guide": "Evaluating the student's understanding and contribution in the groupwork.",
+      "Note": "Students will be given a business scenario and are required to make a plan of survey and collect data about the issue of interest. Besides, students are also asked to use some simple statistical methods to summarize and provide the comments."
+    },
+    {
+      "No.": "2",
+      "Category": "Class participation and preparation",
+      "Type": "on-going",
+      "Part": "1",
+      "Weight": "10.0%",
+      "Completion Criteria": ">0",
+      "Duration": "",
+      "CLO": "",
+      "Question Type": "",
+      "No Question": "",
+      "Knowledge and Skill": "",
+      "Grading Guide": "",
+      "Note": "Participation grade will be given based on students' preparation, quantity as well as group performance"
+    },
+    {
+      "No.": "3",
+      "Category": "Group Assigment 2",
+      "Type": "on-going",
+      "Part": "1",
+      "Weight": "30.0%",
+      "Completion Criteria": ">0",
+      "Duration": "",
+      "CLO": "LO3, LO4, LO5",
+      "Question Type": "Report + Presentation",
+      "No Question": "Each memberwill be asked atleast 4 questions from teacher",
+      "Knowledge and Skill": "• Understand a range of techniques to analyse data effectively for business purposes • Be able to produce information in appropriate formats for decision making in an organisational context",
+      "Grading Guide": "Evaluating the student's understanding and contribution in the groupwork.",
+      "Note": "Students are required to analyze the given data with appropriate methods and produce information in appropriate formats for decision making in a real-life context."
+    },
+    {
+      "No.": "4",
+      "Category": "Group Assigment 3",
+      "Type": "on-going",
+      "Part": "1",
+      "Weight": "30.0%",
+      "Completion Criteria": ">0",
+      "Duration": "",
+      "CLO": "LO6, LO7, LO8, LO9",
+      "Question Type": "Report + Presentation",
+      "No Question": "Each memberwill be asked atleast 4 questions from teacher",
+      "Knowledge and Skill": "Be able to use software-generated information to make decisions in an organisation",
+      "Grading Guide": "Evaluating the student's understanding and contribution in the groupwork.",
+      "Note": "Students are required to use appropriate information processing tools (Microsoft Project, Microsoft Excel) and project tools (Gantt chart, critical path) to generate needed financial indicators supporting for making decision."
+    }
+  ],
+  "schedule": [
+    {
+      "Session": "1",
+      "Topic": "Introdution and Assignment discussion, group arrangement and assignment topic building",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO1",
+      "ITU": "I,T",
+      "Student Materials": "",
+      "S-Download": "BDM201",
+      "Student's Tasks": "- Participate in activities: ask and answer the questions",
+      "URLs": ""
+    },
+    {
+      "Session": "2",
+      "Topic": "Chapter 1: The collection and storage of data",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO2, LO3",
+      "ITU": "I,T",
+      "Student Materials": "",
+      "S-Download": "BDM201",
+      "Student's Tasks": "- Participate in activities: ask and answer the questions",
+      "URLs": ""
+    },
+    {
+      "Session": "3",
+      "Topic": "Chapter 1: The collection and storage of data (con’t)",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO2, LO3",
+      "ITU": "I,T",
+      "Student Materials": "",
+      "S-Download": "",
+      "Student's Tasks": "- Participate in activities: ask and answer the questions",
+      "URLs": ""
+    },
+    {
+      "Session": "4",
+      "Topic": "Chapter 2: Data presentation",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO4, LO5",
+      "ITU": "T,U",
+      "Student Materials": "",
+      "S-Download": "",
+      "Student's Tasks": "- Participate in activities: ask and answer the questions - Remind students of the upcoming test - Progress Test 1",
+      "URLs": ""
+    },
+    {
+      "Session": "5",
+      "Topic": "Chapter 2: (con’t) Data presentation - Frequency distribution",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO4, LO5",
+      "ITU": "I,T",
+      "Student Materials": "",
+      "S-Download": "",
+      "Student's Tasks": "- Participate in activities: ask and answer the questions - Remind students of the upcoming test - Progress Test 1",
+      "URLs": ""
+    },
+    {
+      "Session": "6",
+      "Topic": "Chapter 2: (con’t)Data presentation - Measures of central tendency",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO4, LO5",
+      "ITU": "I,T",
+      "Student Materials": "",
+      "S-Download": "",
+      "Student's Tasks": "- Participate in activities: ask and answer the questions",
+      "URLs": ""
+    },
+    {
+      "Session": "7",
+      "Topic": "Assignment 1 presentation + Assignment 2 instruction",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO10",
+      "ITU": "U",
+      "Student Materials": "",
+      "S-Download": "",
+      "Student's Tasks": "- Participate in activities: ask and answer the questions - Remind students of the upcoming test - Progress Test 2",
+      "URLs": ""
+    },
+    {
+      "Session": "8",
+      "Topic": "Chapter 3: Dispersion and skewness",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO6",
+      "ITU": "I,T",
+      "Student Materials": "",
+      "S-Download": "",
+      "Student's Tasks": "- Participate in activities: ask and answer the questions",
+      "URLs": ""
+    },
+    {
+      "Session": "9",
+      "Topic": "Chapter 3: Dispersion and skewness (con’t)",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO6",
+      "ITU": "I,T",
+      "Student Materials": "",
+      "S-Download": "",
+      "Student's Tasks": "- Participate in activities: ask and answer the questions - Remind students of the upcoming test - Progress Test 2",
+      "URLs": ""
+    },
+    {
+      "Session": "10",
+      "Topic": "Chapter 4: Correlation and regression",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO10",
+      "ITU": "I,T",
+      "Student Materials": "",
+      "S-Download": "",
+      "Student's Tasks": "- Participate in activities: ask, answer the questions and work in groups",
+      "URLs": ""
+    },
+    {
+      "Session": "11",
+      "Topic": "Chapter 4: Correlation and regression (con’t)",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO3",
+      "ITU": "I,T",
+      "Student Materials": "",
+      "S-Download": "",
+      "Student's Tasks": "- Participate in activities: ask, answer the questions and work in groups",
+      "URLs": ""
+    },
+    {
+      "Session": "12",
+      "Topic": "Chapter 4: Using linear regression for forecasting (con’t)",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO3, LO5",
+      "ITU": "I,T",
+      "Student Materials": "",
+      "S-Download": "",
+      "Student's Tasks": "- Participate in activities: ask and answer the questions - Group Project Preparation: Form groups and work in groups",
+      "URLs": ""
+    },
+    {
+      "Session": "13",
+      "Topic": "Chapter 4: Using linear regression for forecasting (con’t)",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO9",
+      "ITU": "I,T",
+      "Student Materials": "",
+      "S-Download": "",
+      "Student's Tasks": "- Participate in activities: ask, answer the questions and work in groups",
+      "URLs": ""
+    },
+    {
+      "Session": "14",
+      "Topic": "Chapter 5: Time series analysis",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO9",
+      "ITU": "I,T",
+      "Student Materials": "",
+      "S-Download": "",
+      "Student's Tasks": "- Participate in activities: ask, answer the questions and work in groups",
+      "URLs": ""
+    },
+    {
+      "Session": "15",
+      "Topic": "Chapter 5: Time series analysis (con’t)",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO9",
+      "ITU": "I,T",
+      "Student Materials": "",
+      "S-Download": "",
+      "Student's Tasks": "- Participate in activities: ask, answer the questions and work in groups - Group Project Preparation: Group Discussion",
+      "URLs": ""
+    },
+    {
+      "Session": "16",
+      "Topic": "Chapter 5: Trends and seasonal components",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO7",
+      "ITU": "I,T",
+      "Student Materials": "",
+      "S-Download": "",
+      "Student's Tasks": "- Participate in activities: ask, answer the questions and work in groups",
+      "URLs": ""
+    },
+    {
+      "Session": "17",
+      "Topic": "Assignment 2 presentation + Assignment 3 instruction",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO7, LO6, LO5",
+      "ITU": "T, U",
+      "Student Materials": "",
+      "S-Download": "",
+      "Student's Tasks": "- Learn and practice",
+      "URLs": ""
+    },
+    {
+      "Session": "18",
+      "Topic": "Chapter 6: Producing information with spreadsheets",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO3, LO5, LO6, LO7",
+      "ITU": "I,T",
+      "Student Materials": "",
+      "S-Download": "",
+      "Student's Tasks": "- Learn and practice",
+      "URLs": ""
+    },
+    {
+      "Session": "20",
+      "Topic": "Chapter 7: Reporting",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO10, LO11",
+      "ITU": "I,T",
+      "Student Materials": "",
+      "S-Download": "",
+      "Student's Tasks": "- Learn and practice - Group Project Preparation: Group Discussion",
+      "URLs": ""
+    },
+    {
+      "Session": "21",
+      "Topic": "SPSS Practice",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO12",
+      "ITU": "T,U",
+      "Student Materials": "",
+      "S-Download": "",
+      "Student's Tasks": "- Do the presentation",
+      "URLs": ""
+    },
+    {
+      "Session": "22",
+      "Topic": "Chapter 9: Stock (inventory) control",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO14",
+      "ITU": "I,T",
+      "Student Materials": "",
+      "S-Download": "",
+      "Student's Tasks": "- Do the presentation",
+      "URLs": ""
+    },
+    {
+      "Session": "23",
+      "Topic": "Chapter 9: Stock (inventory) control (con't)",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO14",
+      "ITU": "I,T",
+      "Student Materials": "",
+      "S-Download": "",
+      "Student's Tasks": "-Learn and practice - Introduction to the Individual Project",
+      "URLs": ""
+    },
+    {
+      "Session": "24",
+      "Topic": "Chapter 10: Project management tools and techniques",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO14",
+      "ITU": "I,T",
+      "Student Materials": "",
+      "S-Download": "",
+      "Student's Tasks": "- Learn and practice",
+      "URLs": ""
+    },
+    {
+      "Session": "25",
+      "Topic": "Chapter 10: Project management tools and techniques (con’t)",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO10",
+      "ITU": "I,T",
+      "Student Materials": "",
+      "S-Download": "",
+      "Student's Tasks": "- Learn and practice",
+      "URLs": ""
+    },
+    {
+      "Session": "26",
+      "Topic": "Chapter 11: Investment appraisal",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO10",
+      "ITU": "I,T",
+      "Student Materials": "",
+      "S-Download": "",
+      "Student's Tasks": "- Learn and practice",
+      "URLs": ""
+    },
+    {
+      "Session": "27",
+      "Topic": "Chapter 11: Investment appraisal (con’t)",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO11",
+      "ITU": "I,T",
+      "Student Materials": "",
+      "S-Download": "",
+      "Student's Tasks": "- Learn and practice - A quick reminder of Individual Project",
+      "URLs": ""
+    },
+    {
+      "Session": "28",
+      "Topic": "Assignment 3 presentation",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO10",
+      "ITU": "T,U",
+      "Student Materials": "",
+      "S-Download": "",
+      "Student's Tasks": "- Do the presentation",
+      "URLs": ""
+    },
+    {
+      "Session": "29",
+      "Topic": "Report consulting",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO11",
+      "ITU": "T,U",
+      "Student Materials": "",
+      "S-Download": "",
+      "Student's Tasks": "- Do the presentation",
+      "URLs": ""
+    },
+    {
+      "Session": "30",
+      "Topic": "Presentation and report submission",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO11",
+      "ITU": "T, U",
+      "Student Materials": "",
+      "S-Download": "",
+      "Student's Tasks": "- Do the presentation",
+      "URLs": ""
+    }
+  ],
+  "constructive_questions": [],
+  "materials": [
+    {
+      "No.": "1",
+      "Material Description": "Essentials of Marketing Research",
+      "Author": "Hair, Wolfinbarger, Ortinau, and Bush",
+      "Publisher": "McGraw Hill",
+      "Published Date": "2010",
+      "Edition": "2nd",
+      "ISBN": "",
+      "Is Main Material": "False",
+      "Is Hard Copy": "True",
+      "Is Online": "False",
+      "Note": ""
+    },
+    {
+      "No.": "2",
+      "Material Description": "Managerial accounting",
+      "Author": "Ray H. Garrison, Eric W. Norreen & Peter C. Brewer",
+      "Publisher": "Mc GrawHill",
+      "Published Date": "2009",
+      "Edition": "13th",
+      "ISBN": "",
+      "Is Main Material": "False",
+      "Is Hard Copy": "True",
+      "Is Online": "False",
+      "Note": ""
+    },
+    {
+      "No.": "3",
+      "Material Description": "Statistics for Business and Economics",
+      "Author": "Newbold",
+      "Publisher": "Pearson",
+      "Published Date": "2010",
+      "Edition": "7th",
+      "ISBN": "",
+      "Is Main Material": "False",
+      "Is Hard Copy": "False",
+      "Is Online": "False",
+      "Note": ""
+    },
+    {
+      "No.": "4",
+      "Material Description": "Business Statistics: A decision-making approach",
+      "Author": "Groebner",
+      "Publisher": "Pearson",
+      "Published Date": "2010",
+      "Edition": "8th",
+      "ISBN": "",
+      "Is Main Material": "False",
+      "Is Hard Copy": "True",
+      "Is Online": "False",
+      "Note": ""
+    },
+    {
+      "No.": "5",
+      "Material Description": "Business Statistics: For Contemporary Decision Making",
+      "Author": "Black",
+      "Publisher": "New Jersey: Wiley & Sons Inc",
+      "Published Date": "2011",
+      "Edition": "7th",
+      "ISBN": "",
+      "Is Main Material": "False",
+      "Is Hard Copy": "True",
+      "Is Online": "False",
+      "Note": ""
+    },
+    {
+      "No.": "6",
+      "Material Description": "Business Research Methods",
+      "Author": "Bryman, A. and Bell",
+      "Publisher": "New York: Oxford",
+      "Published Date": "2011",
+      "Edition": "3th",
+      "ISBN": "",
+      "Is Main Material": "False",
+      "Is Hard Copy": "True",
+      "Is Online": "False",
+      "Note": ""
+    },
+    {
+      "No.": "7",
+      "Material Description": "Journal of Statistics Education (http://www.amstat.org/publications/jse/)",
+      "Author": "",
+      "Publisher": "",
+      "Published Date": "",
+      "Edition": "",
+      "ISBN": "",
+      "Is Main Material": "False",
+      "Is Hard Copy": "False",
+      "Is Online": "True",
+      "Note": ""
+    },
+    {
+      "No.": "8",
+      "Material Description": "www.mindtools.com",
+      "Author": "",
+      "Publisher": "",
+      "Published Date": "",
+      "Edition": "",
+      "ISBN": "",
+      "Is Main Material": "False",
+      "Is Hard Copy": "False",
+      "Is Online": "True",
+      "Note": ""
+    },
+    {
+      "No.": "9",
+      "Material Description": "http://ccforum.com/series/CC_Medical",
+      "Author": "",
+      "Publisher": "",
+      "Published Date": "",
+      "Edition": "",
+      "ISBN": "",
+      "Is Main Material": "False",
+      "Is Hard Copy": "False",
+      "Is Online": "True",
+      "Note": ""
+    },
+    {
+      "No.": "10",
+      "Material Description": "Business Essentials: Business Decision Making",
+      "Author": "BPP Learning Media",
+      "Publisher": "BPP Learning Media",
+      "Published Date": "2015",
+      "Edition": "",
+      "ISBN": "9781472734822",
+      "Is Main Material": "True",
+      "Is Hard Copy": "False",
+      "Is Online": "False",
+      "Note": ""
+    }
+  ],
+  "source_path": "data/raw/syllabi/838.html",
+  "id": "syllabus:838"
+}

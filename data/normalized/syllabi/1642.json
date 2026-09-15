@@ -1,0 +1,703 @@
+{
+  "syllabus_id": 1642,
+  "subject_code": "PRJ321",
+  "subject_name": "Web-Based Java Applications",
+  "syllabus_name": "Java Web Application Development",
+  "credits": 3,
+  "degree_level": "Bachelor",
+  "time_allocation": "1 course = 30 sessions 1 session= 90 minutes",
+  "prerequisite": "PRJ311",
+  "general_information": {
+    "Syllabus ID": "1642",
+    "Syllabus Name": "Java Web Application Development",
+    "Course Name English": "",
+    "Subject Code": "PRJ321",
+    "Learning-Teaching Method": "",
+    "NoCredit": "3",
+    "Degree Level": "Bachelor",
+    "Time Allocation": "1 course = 30 sessions 1 session= 90 minutes",
+    "Pre-Requisite": "PRJ311",
+    "Description": "The course is Designed to enhance the practical ability of Students. In each session, There are 2 parts of the lecture will be delivered. The theoretical part, given in the form of short-slide, which only focus on the introduction and the key-ideas. The paractical part are given in form of the classworks (exercise in class) will help students understand the introduced topic by a practical approach. During the course, students will learn based on an assignment (given in the form of individual project). Student will decide the topic of the assignment under the supervision of the lecturer. The classworks provide the basic knowledge for the students. Students must investigate them-self and discuss with lecturer to complete the assignment. Beside the assignment (here we consider as long-homework) , there are few given workshops (short-homework). The workshops aim to help the lecturer to evaluate the learning progress of students. Based on that stackholders can recognize the shortcomings of skills and knowledge of the students.",
+    "StudentTasks": "- Attend more than 80% of contact hours in order to be accepted to the final examination - Actively participate in class activities - Fulfill tasks given by instructor after class - Use their own laptop in class only for learning purpose - Read the textbook in advance - Access the course website (www.cms.fpt.edu.vn) for up-to-date information and material of the course, for online supports from teachers and other students and for practicing and assessment.",
+    "Tools": "Web server application : Glassfish 4.0 or Tomcat 7 or higher IDE: Netbeans 8.1 or higher Java EE: 1.6 or higher MS SQL Server 2008 R2 or higher",
+    "Scoring Scale": "10",
+    "DecisionNo MM/dd/yyyy": "365/QĐ-ĐHFPT dated 04/01/2021",
+    "IsApproved": "True",
+    "Note": "",
+    "Is Scored": "True",
+    "MinAvgMarkToPass": "5",
+    "IsActive": "True",
+    "ApprovedDate": "4/1/2021"
+  },
+  "active": true,
+  "approved": true,
+  "decision": "365/QĐ-ĐHFPT dated 04/01/2021",
+  "description": "The course is Designed to enhance the practical ability of Students. In each session, There are 2 parts of the lecture will be delivered. The theoretical part, given in the form of short-slide, which only focus on the introduction and the key-ideas. The paractical part are given in form of the classworks (exercise in class) will help students understand the introduced topic by a practical approach. During the course, students will learn based on an assignment (given in the form of individual project). Student will decide the topic of the assignment under the supervision of the lecturer. The classworks provide the basic knowledge for the students. Students must investigate them-self and discuss with lecturer to complete the assignment. Beside the assignment (here we consider as long-homework) , there are few given workshops (short-homework). The workshops aim to help the lecturer to evaluate the learning progress of students. Based on that stackholders can recognize the shortcomings of skills and knowledge of the students.",
+  "learning_outcomes": [
+    {
+      "No.": "1",
+      "CLO Name": "CLO1.1",
+      "CLO Details": "review the static web page design"
+    },
+    {
+      "No.": "2",
+      "CLO Name": "CLO1.2",
+      "CLO Details": "understand basic java web application"
+    },
+    {
+      "No.": "3",
+      "CLO Name": "CLO1.3",
+      "CLO Details": "perform installing development environment components: JDK, IDE, Web server"
+    },
+    {
+      "No.": "4",
+      "CLO Name": "CLO2.1",
+      "CLO Details": "understand the concept of Servlet and how to use it"
+    },
+    {
+      "No.": "5",
+      "CLO Name": "CLO2.2",
+      "CLO Details": "perform defining and writting the servlets."
+    },
+    {
+      "No.": "6",
+      "CLO Name": "CLO2.3",
+      "CLO Details": "understand the basic servlet structure and request / response headers."
+    },
+    {
+      "No.": "7",
+      "CLO Name": "CLO2.4",
+      "CLO Details": "apply the servlet to handle form data."
+    },
+    {
+      "No.": "8",
+      "CLO Name": "CLO2.5",
+      "CLO Details": "understand the File and Directory Structure, Deployment Descriptor Elements and war file"
+    },
+    {
+      "No.": "9",
+      "CLO Name": "CLO3.1",
+      "CLO Details": "understand MVC 1 and MVC 2 design pattern, and using Servlet in MVC2 design Pattern using Servlet as Controller"
+    },
+    {
+      "No.": "10",
+      "CLO Name": "CLO3.2",
+      "CLO Details": "understand how and why to use JSP."
+    },
+    {
+      "No.": "11",
+      "CLO Name": "CLO3.3",
+      "CLO Details": "discover the JSP Page."
+    },
+    {
+      "No.": "12",
+      "CLO Name": "CLO3.4",
+      "CLO Details": "understand how JSP works and JSP life cycle"
+    },
+    {
+      "No.": "13",
+      "CLO Name": "CLO3.5",
+      "CLO Details": "gives an example of JSP Elements."
+    },
+    {
+      "No.": "14",
+      "CLO Name": "CLO3.6",
+      "CLO Details": "understand JSP Predefined Variable – Implicit Objects."
+    },
+    {
+      "No.": "15",
+      "CLO Name": "CLO4.1",
+      "CLO Details": "review the concept of JDBC"
+    },
+    {
+      "No.": "16",
+      "CLO Name": "CLO4.2",
+      "CLO Details": "Implement CRUD java web application using MS SQL Server"
+    },
+    {
+      "No.": "17",
+      "CLO Name": "CLO5.1",
+      "CLO Details": "understand the servlet container"
+    },
+    {
+      "No.": "18",
+      "CLO Name": "CLO5.2",
+      "CLO Details": "understand the servlet context and innitialization parameters."
+    },
+    {
+      "No.": "19",
+      "CLO Name": "CLO5.3",
+      "CLO Details": "understand the servlet config and innitialization parameters"
+    },
+    {
+      "No.": "20",
+      "CLO Name": "CLO5.4",
+      "CLO Details": "understand to the session lifecycle"
+    },
+    {
+      "No.": "21",
+      "CLO Name": "CLO5.5",
+      "CLO Details": "discuss about the methods to manage session: cookie exchange and url rewrite."
+    },
+    {
+      "No.": "22",
+      "CLO Name": "CLO6.1",
+      "CLO Details": "understand what and why use Expression Language."
+    },
+    {
+      "No.": "23",
+      "CLO Name": "CLO6.2",
+      "CLO Details": "knows the EL syntax"
+    },
+    {
+      "No.": "24",
+      "CLO Name": "CLO6.3",
+      "CLO Details": "understand how to use scoped variables and implicit variables in EL expressions"
+    },
+    {
+      "No.": "25",
+      "CLO Name": "CLO6.4",
+      "CLO Details": "Comprehends the conditional evaluation."
+    },
+    {
+      "No.": "26",
+      "CLO Name": "CLO7.1",
+      "CLO Details": "understand the custom tags"
+    },
+    {
+      "No.": "27",
+      "CLO Name": "CLO7.2",
+      "CLO Details": "Comprehends the Tag Extension Mechanism"
+    },
+    {
+      "No.": "28",
+      "CLO Name": "CLO7.3",
+      "CLO Details": "Comprehends the Custom Tag Development Process"
+    },
+    {
+      "No.": "29",
+      "CLO Name": "CLO7.5",
+      "CLO Details": "Understand to The “Classic” Custom Tag Event Model."
+    },
+    {
+      "No.": "30",
+      "CLO Name": "CLO7.6",
+      "CLO Details": "Knows the Tags and Implicit Variables."
+    },
+    {
+      "No.": "31",
+      "CLO Name": "CLO8.1",
+      "CLO Details": "Understands what and why use JSTL"
+    },
+    {
+      "No.": "32",
+      "CLO Name": "CLO8.2",
+      "CLO Details": "Knows about the Tag libraries included in jstl."
+    },
+    {
+      "No.": "33",
+      "CLO Name": "CLO8.3",
+      "CLO Details": "practice with detailed glance to the jstl-core library"
+    },
+    {
+      "No.": "34",
+      "CLO Name": "CLO9.1",
+      "CLO Details": "understands the purpose of Filter"
+    },
+    {
+      "No.": "35",
+      "CLO Name": "CLO9.2",
+      "CLO Details": "create, declaring and mapping Filter"
+    },
+    {
+      "No.": "36",
+      "CLO Name": "CLO10.1",
+      "CLO Details": "applies Filter to build dynamic web application with MVC2 design pattern using Filter as Controller"
+    },
+    {
+      "No.": "37",
+      "CLO Name": "CLO10.2",
+      "CLO Details": "Understands to struts framework?"
+    },
+    {
+      "No.": "38",
+      "CLO Name": "CLO10.3",
+      "CLO Details": "Knows to create a simple web application uses Struts2"
+    },
+    {
+      "No.": "39",
+      "CLO Name": "CLO10.4",
+      "CLO Details": "Knows some Struts components such as : Struts Action, Struts Validation Framework and Struts HTML tags"
+    }
+  ],
+  "assessments": [
+    {
+      "No.": "1",
+      "Category": "Progress Test 1",
+      "Type": "quiz",
+      "Part": "1",
+      "Weight": "5.0%",
+      "Completion Criteria": ">0",
+      "Duration": "1 hour",
+      "CLO": "LO1.1, LO1.2, LO1.3, LO2.1, LO2.2, LO2.3, LO2.4, LO2.5, LO3.1, LO3.2, LO3.3, LO3.4, LO3.5, LO3.6, LO4.1, LO4.2, LO5.1, LO5.2, LO5.3, LO5.4, LO5.5, LO6.1, LO6.2, LO6.3, LO6.4, LO7.1, LO7.2, LO7.3, LO7.5, LO7.6, LO8.1, LO8.2, LO8.3, LO9.1, LO9.2",
+      "Question Type": "Multiple Choice",
+      "No Question": "30",
+      "Knowledge and Skill": "Basic features of Java Web",
+      "Grading Guide": "",
+      "Note": ""
+    },
+    {
+      "No.": "2",
+      "Category": "Progress Test 2",
+      "Type": "quiz",
+      "Part": "2",
+      "Weight": "5.0%",
+      "Completion Criteria": ">0",
+      "Duration": "1 hour",
+      "CLO": "LO1.1, LO1.2, LO1.3, LO2.1, LO2.2, LO2.3, LO2.4, LO2.5, LO3.1, LO3.2, LO3.3, LO3.4, LO3.5, LO3.6, LO4.1, LO4.2, LO5.1, LO5.2, LO5.3, LO5.4, LO5.5, LO6.1, LO6.2, LO6.3, LO6.4, LO7.1, LO7.2, LO7.3, LO7.5, LO7.6, LO8.1, LO8.2, LO8.3, LO9.1, LO9.2, LO10.1, LO10.2, LO10.3, LO10.4",
+      "Question Type": "Multiple Choice",
+      "No Question": "30",
+      "Knowledge and Skill": "Other components in java web",
+      "Grading Guide": "",
+      "Note": ""
+    },
+    {
+      "No.": "3",
+      "Category": "Assignment",
+      "Type": "on-going",
+      "Part": "1",
+      "Weight": "30.0%",
+      "Completion Criteria": ">0",
+      "Duration": "5 weeks",
+      "CLO": "LO1.1, LO1.2, LO1.3, LO2.1, LO2.2, LO2.3, LO2.4, LO2.5, LO3.1, LO3.2, LO3.3, LO3.4, LO3.5, LO4.1, LO4.2, LO5.1, LO5.2, LO5.3, LO5.4, LO5.5, LO6.1, LO6.2, LO6.3, LO6.4, LO7.1, LO7.2, LO7.3, LO7.4, LO7.5, LO7.6, LO8.1, LO8.2, LO8.3, LO9.1, LO9.2, LO10.1, LO10.2, LO10.3, LO10.4",
+      "Question Type": "Case study",
+      "No Question": "30",
+      "Knowledge and Skill": "Front end , back end development",
+      "Grading Guide": "-Teacher gives a requirements -Student implements a web application based on the requirements. The application must consider the aspects of uses (not only back-end but also front-end)",
+      "Note": ""
+    },
+    {
+      "No.": "4",
+      "Category": "Workshop 1",
+      "Type": "on-going",
+      "Part": "1",
+      "Weight": "5.0%",
+      "Completion Criteria": ">0",
+      "Duration": "1 week",
+      "CLO": "LO1.1, LO1.2, LO1.3, LO2.1, LO2.2, LO2.3, LO2.4, LO2.5, LO3.1, LO3.2, LO3.3, LO3.4, LO3.5, LO4.1, LO4.2",
+      "Question Type": "Case study",
+      "No Question": "1",
+      "Knowledge and Skill": "Basic features of Java Web",
+      "Grading Guide": "-Teacher gives a short requirements -Student implements a web application based on the requirements",
+      "Note": ""
+    },
+    {
+      "No.": "5",
+      "Category": "Workshop 2",
+      "Type": "on-going",
+      "Part": "2",
+      "Weight": "5.0%",
+      "Completion Criteria": ">0",
+      "Duration": "1 week",
+      "CLO": "LO6.1, LO6.2, LO6.3, LO6.4, LO7.1, LO7.2, LO7.3, LO7.5, LO7.6, LO8.1, LO8.2, LO8.3, LO9.1, LO9.2, LO10.1, LO10.2, LO10.3, LO10.4",
+      "Question Type": "Case study",
+      "No Question": "1",
+      "Knowledge and Skill": "apply MVC architech to create a java web application",
+      "Grading Guide": "-Teacher gives a short requirements -Student implements a web application based on the requirements",
+      "Note": ""
+    },
+    {
+      "No.": "6",
+      "Category": "Practical Exam",
+      "Type": "practical exam",
+      "Part": "1",
+      "Weight": "20.0%",
+      "Completion Criteria": ">0",
+      "Duration": "90 minutes",
+      "CLO": "LO1.1, LO1.2, LO1.3, LO2.1, LO2.2, LO2.3, LO2.4, LO2.5, LO3.1, LO3.2, LO3.3, LO3.4, LO3.5, LO4.1, LO4.2, LO5.1, LO5.2, LO5.3, LO5.4, LO5.5, LO6.1, LO6.2, LO6.3, LO6.4, LO7.1, LO7.2, LO7.3, LO7.4, LO7.5, LO7.6, LO8.1, LO8.2, LO8.3, LO9.1, LO9.2",
+      "Question Type": "Practical Exam",
+      "No Question": "",
+      "Knowledge and Skill": "Coding in short time",
+      "Grading Guide": "",
+      "Note": ""
+    },
+    {
+      "No.": "7",
+      "Category": "Final Exam",
+      "Type": "Final exam",
+      "Part": "1",
+      "Weight": "30.0%",
+      "Completion Criteria": "4",
+      "Duration": "60 minute",
+      "CLO": "LO1.1, LO1.2, LO1.3, LO2.1, LO2.2, LO2.3, LO2.4, LO2.5, LO3.1, LO3.2, LO3.3, LO3.4, LO3.5, LO4.1, LO4.2, LO5.1, LO5.2, LO5.3, LO5.4, LO5.5, LO6.1, LO6.2, LO6.3, LO6.4, LO7.1, LO7.2, LO7.3, LO7.4, LO7.5, LO7.6, LO8.1, LO8.2, LO8.3, LO9.1, LO9.2, LO10.1, LO10.2, LO10.3, LO10.4",
+      "Question Type": "Multiple Choice60",
+      "No Question": "50",
+      "Knowledge and Skill": "Components of Java Web",
+      "Grading Guide": "",
+      "Note": ""
+    }
+  ],
+  "schedule": [
+    {
+      "Session": "1",
+      "Topic": "Introduction to java web application",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO1.1, LO1.2",
+      "ITU": "IT",
+      "Student Materials": "text book: Chapter 1 & 2",
+      "S-Download": "",
+      "Student's Tasks": "",
+      "URLs": ""
+    },
+    {
+      "Session": "2",
+      "Topic": "Setup Environment",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO1.3",
+      "ITU": "TU",
+      "Student Materials": "text book: Chapter 1 & 2",
+      "S-Download": "",
+      "Student's Tasks": "",
+      "URLs": ""
+    },
+    {
+      "Session": "3",
+      "Topic": "Creating/Building the first application",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO2.1, LO2.2, LO2.3, LO2.4",
+      "ITU": "ITU",
+      "Student Materials": "text book: Chapter 3",
+      "S-Download": "",
+      "Student's Tasks": "",
+      "URLs": ""
+    },
+    {
+      "Session": "4",
+      "Topic": "Creating/Building the first application",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO2.1, LO2.2, LO2.3",
+      "ITU": "TU",
+      "Student Materials": "text book: Chapter 3",
+      "S-Download": "",
+      "Student's Tasks": "",
+      "URLs": ""
+    },
+    {
+      "Session": "5",
+      "Topic": "Deploy web application",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO2.1, LO2.2, LO2.5",
+      "ITU": "IT",
+      "Student Materials": "text book: Chapter 3",
+      "S-Download": "",
+      "Student's Tasks": "",
+      "URLs": ""
+    },
+    {
+      "Session": "6",
+      "Topic": "Introduction to MVC Architecture Using JSP to display content",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO3.1, LO3.2, LO3.3, LO3.4, LO3.5",
+      "ITU": "ITU",
+      "Student Materials": "text book: Chapter 4",
+      "S-Download": "",
+      "Student's Tasks": "",
+      "URLs": ""
+    },
+    {
+      "Session": "7",
+      "Topic": "Practice Classwork 2",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO3",
+      "ITU": "U",
+      "Student Materials": "text book: Chapter 4",
+      "S-Download": "",
+      "Student's Tasks": "",
+      "URLs": ""
+    },
+    {
+      "Session": "8",
+      "Topic": "EXPLAIN WORKSHOP 1",
+      "Learning-Teaching Type": "Offline",
+      "LO": "",
+      "ITU": "",
+      "Student Materials": "text book: Chapter 4",
+      "S-Download": "",
+      "Student's Tasks": "",
+      "URLs": ""
+    },
+    {
+      "Session": "9",
+      "Topic": "REVIEW WORKSHOP 1",
+      "Learning-Teaching Type": "Offline",
+      "LO": "",
+      "ITU": "",
+      "Student Materials": "Review PRJ211 : topic JDBC",
+      "S-Download": "",
+      "Student's Tasks": "",
+      "URLs": ""
+    },
+    {
+      "Session": "10",
+      "Topic": "Web Application Interacting with Database",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO4.1, LO4.2",
+      "ITU": "TU",
+      "Student Materials": "Review PRJ211 : topic JDBC",
+      "S-Download": "",
+      "Student's Tasks": "",
+      "URLs": ""
+    },
+    {
+      "Session": "11",
+      "Topic": "Practice Classwork 3",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO4",
+      "ITU": "U",
+      "Student Materials": "Review PRJ211 : topic JDBC",
+      "S-Download": "",
+      "Student's Tasks": "",
+      "URLs": ""
+    },
+    {
+      "Session": "12",
+      "Topic": "Maintaining state using session",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO5.1, LO5.2, LO5.3, LO5.4, LO5.5",
+      "ITU": "ITU",
+      "Student Materials": "text book: Chapter 5",
+      "S-Download": "",
+      "Student's Tasks": "",
+      "URLs": ""
+    },
+    {
+      "Session": "13",
+      "Topic": "Practice Classwork 4",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO5.4, LO5.5",
+      "ITU": "U",
+      "Student Materials": "text book: Chapter 5",
+      "S-Download": "",
+      "Student's Tasks": "",
+      "URLs": ""
+    },
+    {
+      "Session": "14",
+      "Topic": "Expression Language",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO6.1, LO6.2, LO6.3, LO6.4",
+      "ITU": "ITU",
+      "Student Materials": "text book: Chapter 6",
+      "S-Download": "",
+      "Student's Tasks": "",
+      "URLs": ""
+    },
+    {
+      "Session": "15",
+      "Topic": "Practice Classwork 5",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO6",
+      "ITU": "U",
+      "Student Materials": "text book: Chapter 6",
+      "S-Download": "",
+      "Student's Tasks": "",
+      "URLs": ""
+    },
+    {
+      "Session": "16",
+      "Topic": "Using Java Standard Tag Lib",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO8.1, LO8.2, LO8.3",
+      "ITU": "ITU",
+      "Student Materials": "text book: Chapter 7",
+      "S-Download": "",
+      "Student's Tasks": "",
+      "URLs": ""
+    },
+    {
+      "Session": "17",
+      "Topic": "Using Java Standard Tag Lib",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO8.1, LO8.2, LO8.3",
+      "ITU": "ITU",
+      "Student Materials": "text book: Chapter 7",
+      "S-Download": "",
+      "Student's Tasks": "",
+      "URLs": ""
+    },
+    {
+      "Session": "18",
+      "Topic": "JSP Custom Tags",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO7.1, LO7.2, LO7.3, LO7.4, LO7.5, LO7.6",
+      "ITU": "ITU",
+      "Student Materials": "text book: Chapter 8",
+      "S-Download": "",
+      "Student's Tasks": "",
+      "URLs": ""
+    },
+    {
+      "Session": "19",
+      "Topic": "Practice Classwork 6",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO7",
+      "ITU": "U",
+      "Student Materials": "text book: Chapter 8",
+      "S-Download": "",
+      "Student's Tasks": "",
+      "URLs": ""
+    },
+    {
+      "Session": "20",
+      "Topic": "Introduction to Filter",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO9.1, LO9.2",
+      "ITU": "ITU",
+      "Student Materials": "text book: Chapter 9",
+      "S-Download": "",
+      "Student's Tasks": "",
+      "URLs": ""
+    },
+    {
+      "Session": "21",
+      "Topic": "Practice Classwork 7 Explain Workshop 2",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO9",
+      "ITU": "U",
+      "Student Materials": "text book: Chapter 9",
+      "S-Download": "",
+      "Student's Tasks": "",
+      "URLs": ""
+    },
+    {
+      "Session": "22",
+      "Topic": "Review Workshop 2 Progress Test 1",
+      "Learning-Teaching Type": "Offline",
+      "LO": "",
+      "ITU": "",
+      "Student Materials": "e-book: + Basic MVC Architechture (1-3) + Basic Overview(3-4) + Architecture (10,11) +Examples (12- 19) +Configurations (22-27)",
+      "S-Download": "",
+      "Student's Tasks": "",
+      "URLs": ""
+    },
+    {
+      "Session": "23",
+      "Topic": "Introduction to Struts 2 Framework Guide Assignment",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO10.2, LO10.3",
+      "ITU": "",
+      "Student Materials": "e-book: + Basic MVC Architechture (1-3) + Basic Overview(3-4) + Architecture (10,11) +Examples (12- 19) +Configurations (22-27)",
+      "S-Download": "",
+      "Student's Tasks": "",
+      "URLs": ""
+    },
+    {
+      "Session": "24",
+      "Topic": "Introduction to Struts 2 Framework Guide Assignment",
+      "Learning-Teaching Type": "Offline",
+      "LO": "",
+      "ITU": "ITU",
+      "Student Materials": "e-book: + Basic MVC Architechture (1-3) + Basic Overview(3-4) + Architecture (10,11) +Examples (12- 19) +Configurations (22-27)",
+      "S-Download": "",
+      "Student's Tasks": "",
+      "URLs": ""
+    },
+    {
+      "Session": "25",
+      "Topic": "Struts2: Create Action (Model) Mapping Action with struts configuration file",
+      "Learning-Teaching Type": "Offline",
+      "LO": "",
+      "ITU": "TU",
+      "Student Materials": "e-book: + Actions (29-35) + Interceptors (38 - 48) + Result Type (50-53)",
+      "S-Download": "",
+      "Student's Tasks": "",
+      "URLs": ""
+    },
+    {
+      "Session": "26",
+      "Topic": "Struts2: How to use session in Actions",
+      "Learning-Teaching Type": "Offline",
+      "LO": "",
+      "ITU": "TU",
+      "Student Materials": "e-book: + Actions (29-35) + Interceptors (38 - 48) + Result Type (50-53)",
+      "S-Download": "",
+      "Student's Tasks": "",
+      "URLs": ""
+    },
+    {
+      "Session": "27",
+      "Topic": "Struts2: Validation (Struts2 Validation Framework) Struts2: Using Annotation in Struts2",
+      "Learning-Teaching Type": "Offline",
+      "LO": "",
+      "ITU": "ITU",
+      "Student Materials": "e-book: + Actions (29-35) + Interceptors (38 - 48) + Result Type (50-53)",
+      "S-Download": "",
+      "Student's Tasks": "",
+      "URLs": ""
+    },
+    {
+      "Session": "28",
+      "Topic": "Evaluate the Assignment",
+      "Learning-Teaching Type": "Offline",
+      "LO": "",
+      "ITU": "",
+      "Student Materials": "",
+      "S-Download": "",
+      "Student's Tasks": "",
+      "URLs": ""
+    },
+    {
+      "Session": "29",
+      "Topic": "Evaluate the Assignment",
+      "Learning-Teaching Type": "Offline",
+      "LO": "",
+      "ITU": "",
+      "Student Materials": "",
+      "S-Download": "",
+      "Student's Tasks": "",
+      "URLs": ""
+    },
+    {
+      "Session": "30",
+      "Topic": "PROGRESS TEST 2",
+      "Learning-Teaching Type": "Offline",
+      "LO": "",
+      "ITU": "",
+      "Student Materials": "text-book e-book",
+      "S-Download": "",
+      "Student's Tasks": "",
+      "URLs": ""
+    }
+  ],
+  "constructive_questions": [],
+  "materials": [
+    {
+      "No.": "1",
+      "Material Description": "Professional Java® forWebApplications",
+      "Author": "",
+      "Publisher": "",
+      "Published Date": "",
+      "Edition": "",
+      "ISBN": "1118656466",
+      "Is Main Material": "True",
+      "Is Hard Copy": "True",
+      "Is Online": "False",
+      "Note": ""
+    },
+    {
+      "No.": "2",
+      "Material Description": "https://struts.apache.org/docs/getting-started.html",
+      "Author": "",
+      "Publisher": "",
+      "Published Date": "",
+      "Edition": "",
+      "ISBN": "",
+      "Is Main Material": "False",
+      "Is Hard Copy": "False",
+      "Is Online": "True",
+      "Note": ""
+    }
+  ],
+  "source_path": "data/raw/syllabi/1642.html",
+  "id": "syllabus:1642"
+}

@@ -1,0 +1,643 @@
+{
+  "syllabus_id": 11285,
+  "subject_code": "HOD102",
+  "subject_name": "Design History_Lịch sử thiết kế",
+  "syllabus_name": "Design history_Lịch sử thiết kế",
+  "credits": 2,
+  "degree_level": "Bachelor level",
+  "time_allocation": "Study hour (100h) = 22.5h contact hours + 1h final exam + 76.5h self-study",
+  "prerequisite": "None",
+  "general_information": {
+    "Syllabus ID": "11285",
+    "Syllabus Name": "Design history_Lịch sử thiết kế",
+    "Course Name English": "Design history",
+    "Subject Code": "HOD102",
+    "Learning-Teaching Method": "Lecture,Social Constructivism,discussion,groupwork",
+    "NoCredit": "2",
+    "Degree Level": "Bachelor level",
+    "Time Allocation": "Study hour (100h) = 22.5h contact hours + 1h final exam + 76.5h self-study",
+    "Pre-Requisite": "None",
+    "Description": "This course provides knowledge of Design History: The milestones of achievements in Design History with understanding of contexts; The relationship between design history and the development of technical capabilities, materials, and other social issues; The information of representative designers, characteristics of design styles and movements. This course also provides some basic skills such as research methods, critical thinking, and mind mapping in the study of design history. In addition, this subject requires teamwork skills, oral presentation and writing skills in the process of assessment.",
+    "StudentTasks": "- Attend at least 80% of contact hours in order to be accepted to the final examination - Actively participate in class activities - Fulfill tasks given by instructor after class - Use their own laptop in class only for learning purpose - Read the textbook in advance - Access the course website (https://flm.fpt.edu.vn) for up-to-date information and material of the course, for online supports from teachers and other students and for practicing and assessment.",
+    "Tools": "",
+    "Scoring Scale": "10",
+    "DecisionNo MM/dd/yyyy": "358/QĐ-ĐHFPT dated 04/03/2024",
+    "IsApproved": "True",
+    "Note": "",
+    "Is Scored": "True",
+    "MinAvgMarkToPass": "5",
+    "IsActive": "True",
+    "ApprovedDate": "4/3/2024"
+  },
+  "active": true,
+  "approved": true,
+  "decision": "358/QĐ-ĐHFPT dated 04/03/2024",
+  "description": "This course provides knowledge of Design History: The milestones of achievements in Design History with understanding of contexts; The relationship between design history and the development of technical capabilities, materials, and other social issues; The information of representative designers, characteristics of design styles and movements. This course also provides some basic skills such as research methods, critical thinking, and mind mapping in the study of design history. In addition, this subject requires teamwork skills, oral presentation and writing skills in the process of assessment.",
+  "learning_outcomes": [
+    {
+      "No.": "1",
+      "CLO Name": "CLO1",
+      "CLO Details": "(Basic Knowledge) Summarize the development process of Design History; Identify and describe the main stakes concerned with design styles and movements."
+    },
+    {
+      "No.": "2",
+      "CLO Name": "CLO2",
+      "CLO Details": "(Research Skills) Understand the contexts of the main styles and movements in Design History, which related to important inventions in manufacture, significant events on the market, talented and pioneering designers."
+    },
+    {
+      "No.": "3",
+      "CLO Name": "CLO3",
+      "CLO Details": "(Critical Thinking) Analyze and evaluate critically the records of the past in Design History."
+    },
+    {
+      "No.": "4",
+      "CLO Name": "CLO4",
+      "CLO Details": "(Communication Skills): Study optional cases in Design History, organize and express the individual thoughts clearly and coherently both in orally (presentations) and writing (assignments/essays)."
+    }
+  ],
+  "assessments": [
+    {
+      "No.": "1",
+      "Category": "Group Presentation",
+      "Type": "on-going",
+      "Part": "1",
+      "Weight": "30.0%",
+      "Completion Criteria": ">0",
+      "Duration": "45 mins",
+      "CLO": "LO1, LO2, LO3, LO4",
+      "Question Type": "Option1: Presentation; Option 2: (For Constructivism Approach only): Follow lecturer's proposal",
+      "No Question": "Option1:1; Option 2: (For Constructivism Approach only): Follow lecturer's proposal",
+      "Knowledge and Skill": "Option1: Knowledge: General knowledge based on lessons and further research Skill: Presentation & Teamwork Option 2: (For Constructivism Approach only): Follow lecturer's proposal",
+      "Grading Guide": "Option1: Total members divides into 12 groups. Each group gives a presentation on a stage of Design History. Students must prepare the presentation on powerpoint or other softwares (or mindmap) before class. Presentation duration: 15-20 minutes/team; Time for Q&A, discussion between students: 10-15 minnutes Time for conclusion and evaluation: 5-10 minutes Evaluation structure for criteria: - The accuracy of the content: 40% - Visual effect of the file or mind map: 30% - Presentation Skill 20% - Q&A: 10% Option 2: (For Constructivism Approach only): Follow lecturer's proposal",
+      "Note": "Option1: Other skills: Skill of generalize knowledge and look up for extending details; Analysis, critical thinking, mind map drawing. Option 2: (For Constructivism Approach only): Follow lecturer's proposal"
+    },
+    {
+      "No.": "2",
+      "Category": "Participation",
+      "Type": "on-going",
+      "Part": "1",
+      "Weight": "10.0%",
+      "Completion Criteria": ">0",
+      "Duration": "During course",
+      "CLO": "",
+      "Question Type": "",
+      "No Question": "",
+      "Knowledge and Skill": "",
+      "Grading Guide": "- Participation grade will be given based on students' attendance, preparation, contribution of discussions - Teachers give marks on student's Class participation and preparation only after the Portfolio submission.",
+      "Note": ""
+    },
+    {
+      "No.": "3",
+      "Category": "Progress Test 1",
+      "Type": "on-going",
+      "Part": "1",
+      "Weight": "15.0%",
+      "Completion Criteria": ">0",
+      "Duration": "30 mins",
+      "CLO": "LO1",
+      "Question Type": "Option1: Multiple-choice; Option 2: (For Constructivism Approach only): Follow lecturer's proposal",
+      "No Question": "Option1: 25; Option 2: (For Constructivism Approach only): Follow lecturer's proposal",
+      "Knowledge and Skill": "Option1: Knowledge: Lessons from slot 1->9 Skill: Using computer Option 2: (For Constructivism Approach only): Follow lecturer's proposal",
+      "Grading Guide": "Option1: Choose the correct answers Option 2: (For Constructivism Approach only): Follow lecturer's proposal",
+      "Note": ""
+    },
+    {
+      "No.": "4",
+      "Category": "Progress Test 2",
+      "Type": "on-going",
+      "Part": "1",
+      "Weight": "15.0%",
+      "Completion Criteria": ">0",
+      "Duration": "30 mins",
+      "CLO": "LO1",
+      "Question Type": "Option1: Multiple-choice; Option 2: (For Constructivism Approach only): Follow lecturer's proposal",
+      "No Question": "25",
+      "Knowledge and Skill": "Option1: Knowledge: Lessons from slot 10->12 Skill: Using computer Option 2: (For Constructivism Approach only): Follow lecturer's proposal",
+      "Grading Guide": "Option1: Choose the correct answers Option 2: (For Constructivism Approach only): Follow lecturer's proposal",
+      "Note": ""
+    },
+    {
+      "No.": "5",
+      "Category": "Final Exam",
+      "Type": "Final exam",
+      "Part": "1",
+      "Weight": "30.0%",
+      "Completion Criteria": "5",
+      "Duration": "60 mins",
+      "CLO": "LO1, LO2, LO3, LO4",
+      "Question Type": "Multiple-choice",
+      "No Question": "50",
+      "Knowledge and Skill": "Knowledge: Detail knowledge based on lessons and further research Skill: Using computer",
+      "Grading Guide": "Choose the correct answers",
+      "Note": ""
+    }
+  ],
+  "schedule": [
+    {
+      "Session": "1",
+      "Topic": "1. Course Introduction 2. Study Methods in HOD: - Factors influencing History of Design: Social needs, material and technology, personal excellence,... - Learning HOD with Comparative Analysis and Mind Map. 3. Terms: - Design, Arts and Crafts - Trends, Movements, Styles Timeline of Design History",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO2, LO3, LO1",
+      "ITU": "IT",
+      "Student Materials": "Download toàn bộ tài liệu tại đây: https://drive.google.com/drive/folders/1qfQN_PfpOUoXMSyVkIjdXiXnyempJyNK?usp=sharing Topic 1: FPT Academic Portal Topic 2&3: Main book: Page 7-11, 4-5 Reference book: - Page 8-9; 79-85 - Page 90-135 (read carefully pages: 91, 93, 111, 119, 127; a quick view at the remains) Slides by lecturers",
+      "S-Download": "",
+      "Student's Tasks": "Topic 1: FPT Academic Portal Topic 2&3: Main book: Page 7-11, 4-5 Reference book: - Page 8-9; 79-85 - Page 90-135 (read carefully pages: 91, 93, 111, 119, 127; a quick view at the remains) Slides by lecturers",
+      "URLs": ""
+    },
+    {
+      "Session": "2",
+      "Topic": "1. Course Introduction 2. Study Methods in HOD: - Factors influencing History of Design: Social needs, material and technology, personal excellence,... - Learning HOD with Comparative Analysis and Mind Map. 3. Terms: - Design, Arts and Crafts - Trends, Movements, Styles Timeline of Design History",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO2, LO3, LO1",
+      "ITU": "IT",
+      "Student Materials": "Download toàn bộ tài liệu tại đây: https://drive.google.com/drive/folders/1Dp5YMKe-ztmOdneXfYfrRbASnygVZ9FX?usp=sharing Topic 1: FPT Academic Portal Topic 2&3: Main book: Page 7-11, 4-5 Reference book: - Page 8-9; 79-85 - Page 90-135 (read carefully pages: 91, 93, 111, 119, 127; a quick view at the remains) Slides by lecturers",
+      "S-Download": "",
+      "Student's Tasks": "Topic 1: FPT Academic Portal Topic 2&3: Main book: Page 7-11, 4-5 Reference book: - Page 8-9; 79-85 - Page 90-135 (read carefully pages: 91, 93, 111, 119, 127; a quick view at the remains) Slides by lecturers",
+      "URLs": ""
+    },
+    {
+      "Session": "3",
+      "Topic": "Part 1: HOD before The Industrial Revolution 1. The early origins of Design The Prehistoric tools of the Three Ages; The ancient world and the birth of mass production; China's first Emperor and the power of mass production.",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO1",
+      "ITU": "T",
+      "Student Materials": "M.book: Page 13-32 Slides by lecturers",
+      "S-Download": "",
+      "Student's Tasks": "M.book: Page 13-32 Slides by lecturers",
+      "URLs": ""
+    },
+    {
+      "Session": "4",
+      "Topic": "Part 1: HOD before The Industrial Revolution 1. The early origins of Design The Prehistoric tools of the Three Ages; The ancient world and the birth of mass production; China's first Emperor and the power of mass production.",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO1",
+      "ITU": "T",
+      "Student Materials": "M.book: Page 13-32 Slides by lecturers",
+      "S-Download": "",
+      "Student's Tasks": "M.book: Page 13-32 Slides by lecturers",
+      "URLs": ""
+    },
+    {
+      "Session": "5",
+      "Topic": "Part 1: (continue) 2. Design and craftmanship from the Middle Ages to the eighteenth century Medieval inventions and the guilde system; Renaissance men: The design thinker, the printer, and the goldsmith; Functional wares and basic tools; The high styles of the eighteenth century: from Chippendale to Adam. Discuss: Discussion topics (proposed by lecturers) should be expanded from the main content of the lessons. Conclusion: Review, Q&A.",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO1, LO2, LO3",
+      "ITU": "T",
+      "Student Materials": "M.book: Page 33-55 Slides by lecturers",
+      "S-Download": "",
+      "Student's Tasks": "M.book: Page 33-55 Slides by lecturers",
+      "URLs": ""
+    },
+    {
+      "Session": "6",
+      "Topic": "Part 1: (continue) 2. Design and craftmanship from the Middle Ages to the eighteenth century Medieval inventions and the guilde system; Renaissance men: The design thinker, the printer, and the goldsmith; Functional wares and basic tools; The high styles of the eighteenth century: from Chippendale to Adam. Discuss: Discussion topics (proposed by lecturers) should be expanded from the main content of the lessons. Conclusion: Review, Q&A.",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO1, LO2, LO3",
+      "ITU": "T",
+      "Student Materials": "M.book: Page 33-55 Slides by lecturers",
+      "S-Download": "",
+      "Student's Tasks": "M.book: Page 33-55 Slides by lecturers",
+      "URLs": ""
+    },
+    {
+      "Session": "7",
+      "Topic": "GROUP PRESENTATION Part 2: HOD from The Industrial Revolution to the World War II 3. The age of reason and the Industrial Revolution The Enlightenment and Neoclassicism; William Hogarth and The Analysis of Beauty; Steam power and the engines of change; Improved materials and precision tooling; The Portsmouth Block Mills; Coalbrookdale and Wedgwood; Biedermeier and Micheal Thonet. GROUP PRESENTATION Part 2: (continue) 4. Armory practice and a new system of rationalized productionz Eli Whitney, standardization and interchangeability; The Springfield Armory and the American Civil War; Samuel Colt and the art of marketing; The American system, from sewing machines to bicycles. Conclusion: Review, Q&A.",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO1, LO2, LO3",
+      "ITU": "T",
+      "Student Materials": "M.book: Page 57-85, 87-106 Presentation of Students Slides by lecturers",
+      "S-Download": "",
+      "Student's Tasks": "M.book: Page 57-85, 87-106 Presentation of Students Slides by lecturers",
+      "URLs": ""
+    },
+    {
+      "Session": "8",
+      "Topic": "GROUP PRESENTATION Part 2: HOD from The Industrial Revolution to the World War II 3. The age of reason and the Industrial Revolution The Enlightenment and Neoclassicism; William Hogarth and The Analysis of Beauty; Steam power and the engines of change; Improved materials and precision tooling; The Portsmouth Block Mills; Coalbrookdale and Wedgwood; Biedermeier and Micheal Thonet. GROUP PRESENTATION Part 2: (continue) 4. Armory practice and a new system of rationalized productionz Eli Whitney, standardization and interchangeability; The Springfield Armory and the American Civil War; Samuel Colt and the art of marketing; The American system, from sewing machines to bicycles. Conclusion: Review, Q&A.",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO1, LO2, LO3",
+      "ITU": "T",
+      "Student Materials": "M.book: Page 57-85, 87-106 Presentation of Students Slides by lecturers",
+      "S-Download": "",
+      "Student's Tasks": "M.book: Page 57-85, 87-106 Presentation of Students Slides by lecturers",
+      "URLs": ""
+    },
+    {
+      "Session": "9",
+      "Topic": "GROUP PRESENTATION Part 2: (continue) 5. The new Industrial Age and the Great Exhibition An exhibition of all nations; Joseph Paxton's Crystal Palace; The High Victorian style and dishonest design. Conclusion: Review, Q&A. GROUP PRESENTATION Part 2: (continue) 6. The winds of reform A.W.N. Pugin and the Gothic Revival; Pre-Raphaelitism and the decorative arts; William Morris and the birth of the Arts and Crafts movement; the Aesthetics Movement; Christopher Dresser: truth, beauty, power. Conclusion: Review, Q&A.",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO1, LO2, LO3",
+      "ITU": "T",
+      "Student Materials": "M.book: Page 109-126, 129-158 Presentation of Students Slides by lecturers",
+      "S-Download": "",
+      "Student's Tasks": "M.book: Page 109-126, 129-158 Presentation of Students Slides by lecturers",
+      "URLs": ""
+    },
+    {
+      "Session": "10",
+      "Topic": "GROUP PRESENTATION Part 2: (continue) 5. The new Industrial Age and the Great Exhibition An exhibition of all nations; Joseph Paxton's Crystal Palace; The High Victorian style and dishonest design. Conclusion: Review, Q&A. GROUP PRESENTATION Part 2: (continue) 6. The winds of reform A.W.N. Pugin and the Gothic Revival; Pre-Raphaelitism and the decorative arts; William Morris and the birth of the Arts and Crafts movement; the Aesthetics Movement; Christopher Dresser: truth, beauty, power. Conclusion: Review, Q&A.",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO1, LO2, LO3",
+      "ITU": "T",
+      "Student Materials": "M.book: Page 109-126, 129-158 Presentation of Students Slides by lecturers",
+      "S-Download": "",
+      "Student's Tasks": "M.book: Page 109-126, 129-158 Presentation of Students Slides by lecturers",
+      "URLs": ""
+    },
+    {
+      "Session": "11",
+      "Topic": "GROUP PRESENTATION Part 2: (continue) 7. The New Art National Romanticism; The Arts and Crafts movement in Britain; The Arts and Crafts movement in America Conclusion: Review, Q&A. GROUP PRESENTATION Part 2: (continue) 8. Art Nouveau The Art Nouveau Style; Jugendstil; The Vienna Secession and the Wiener Werkstatte Conclusion: Review, Q&A.",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO1, LO2, LO3",
+      "ITU": "T",
+      "Student Materials": "M.book: Page 161-191, 193-219 Presentation of Students Slides by lecturers",
+      "S-Download": "",
+      "Student's Tasks": "M.book: Page 161-191, 193-219 Presentation of Students Slides by lecturers",
+      "URLs": ""
+    },
+    {
+      "Session": "12",
+      "Topic": "GROUP PRESENTATION Part 2: (continue) 7. The New Art National Romanticism; The Arts and Crafts movement in Britain; The Arts and Crafts movement in America Conclusion: Review, Q&A. GROUP PRESENTATION Part 2: (continue) 8. Art Nouveau The Art Nouveau Style; Jugendstil; The Vienna Secession and the Wiener Werkstatte Conclusion: Review, Q&A.",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO1, LO2, LO3",
+      "ITU": "T",
+      "Student Materials": "M.book: Page 161-191, 193-219 Presentation of Students Slides by lecturers",
+      "S-Download": "",
+      "Student's Tasks": "M.book: Page 161-191, 193-219 Presentation of Students Slides by lecturers",
+      "URLs": ""
+    },
+    {
+      "Session": "13",
+      "Topic": "Part 2: (continue) 9. Putting theory into practice, from art manufactures to industrial products Adolf Loos, \"Ornament and crime\"; The Deutscher Werkbund; Peter Behrens and AEG Part 2: (continue) 10. The American System and Fordism Thomas Edition and the birth of electric age; The Wright brothers, Henry Ford, and the moving assembly line; Design in World War I.",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO1",
+      "ITU": "T",
+      "Student Materials": "M.book: Page 221-239, 241-257 Slides by lecturers",
+      "S-Download": "",
+      "Student's Tasks": "M.book: Page 221-239, 241-257 Slides by lecturers",
+      "URLs": ""
+    },
+    {
+      "Session": "14",
+      "Topic": "Part 2: (continue) 9. Putting theory into practice, from art manufactures to industrial products Adolf Loos, \"Ornament and crime\"; The Deutscher Werkbund; Peter Behrens and AEG Part 2: (continue) 10. The American System and Fordism Thomas Edition and the birth of electric age; The Wright brothers, Henry Ford, and the moving assembly line; Design in World War I.",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO1",
+      "ITU": "T",
+      "Student Materials": "M.book: Page 221-239, 241-257 Slides by lecturers",
+      "S-Download": "",
+      "Student's Tasks": "M.book: Page 221-239, 241-257 Slides by lecturers",
+      "URLs": ""
+    },
+    {
+      "Session": "15",
+      "Topic": "Part 2: (continue) 11. Reductivism, Expressionism, and Rationalism De Stijl; Russian Constructivism; The Weimar Bauhaus; The Dessau Bauhaus and a New Objectivity; The Weissenhof exhibition Part 2: (continue) 12. Art Decor and interpretations of Modernism The 1925 Paris Exposition, from Art Deco to Modernism; The Maison de Verre and tubular metal; Scandinavian Modernism and Alvar Aalto; British modernism and its social agenda; Italy: Futurism, Novecento, Rationalism",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO1",
+      "ITU": "T",
+      "Student Materials": "M.book: Page 259-279, 281-305 Slides by lecturers",
+      "S-Download": "",
+      "Student's Tasks": "M.book: Page 259-279, 281-305 Slides by lecturers",
+      "URLs": ""
+    },
+    {
+      "Session": "16",
+      "Topic": "Part 2: (continue) 11. Reductivism, Expressionism, and Rationalism De Stijl; Russian Constructivism; The Weimar Bauhaus; The Dessau Bauhaus and a New Objectivity; The Weissenhof exhibition Part 2: (continue) 12. Art Decor and interpretations of Modernism The 1925 Paris Exposition, from Art Deco to Modernism; The Maison de Verre and tubular metal; Scandinavian Modernism and Alvar Aalto; British modernism and its social agenda; Italy: Futurism, Novecento, Rationalism",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO1",
+      "ITU": "T",
+      "Student Materials": "M.book: Page 259-279, 281-305 Slides by lecturers",
+      "S-Download": "",
+      "Student's Tasks": "M.book: Page 259-279, 281-305 Slides by lecturers",
+      "URLs": ""
+    },
+    {
+      "Session": "17",
+      "Topic": "Part 2: (continue) 13. The Great Depression and the Moderne Style Art Deco: from boom to burst; Moderne in the Design Decade; Restyling, planned obsolence, and the world of tomorrow Part 2: (continue) 14. Design for war Military designs of World War II; Design on the British home front and Organic Design in home furnishings; The American war efforts. Discuss: Discussion topics (proposed by lecturers) should be expanded from the main content of the lessons. Conclusion: Review, Q&A.",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO1, LO2, LO3",
+      "ITU": "T",
+      "Student Materials": "M.book: Page 307-323, 325-345 Slides by lecturers",
+      "S-Download": "",
+      "Student's Tasks": "M.book: Page 307-323, 325-345 Slides by lecturers",
+      "URLs": ""
+    },
+    {
+      "Session": "18",
+      "Topic": "Part 2: (continue) 13. The Great Depression and the Moderne Style Art Deco: from boom to burst; Moderne in the Design Decade; Restyling, planned obsolence, and the world of tomorrow Part 2: (continue) 14. Design for war Military designs of World War II; Design on the British home front and Organic Design in home furnishings; The American war efforts. Discuss: Discussion topics (proposed by lecturers) should be expanded from the main content of the lessons. Conclusion: Review, Q&A.",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO1, LO2, LO3",
+      "ITU": "T",
+      "Student Materials": "M.book: Page 307-323, 325-345 Slides by lecturers",
+      "S-Download": "",
+      "Student's Tasks": "M.book: Page 307-323, 325-345 Slides by lecturers",
+      "URLs": ""
+    },
+    {
+      "Session": "19",
+      "Topic": "PROGRESS TEST 1 (in 30 minutes) GROUP PRESENTATION Part 3: History of Design after the World War II to The Electronics Age 15. The American Dream and Good Design Homemaking and the designed American Dream; Good Design; Anthropometrics and Organic Design. Conclusion: Review, Q&A. GROUP PRESENTATION Part 3: (continue) 16. Reconstruction and a spirit of Optimism The reconstruction of Italy and the flowering of Italian design; Good Form and the West German economic miracle; Japanese postwar design; Postwar Britain and the Festival of Britain; The Scandinavian approaches. Conclusion: Review, Q&A.",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO1, LO2, LO3",
+      "ITU": "T, U",
+      "Student Materials": "M.book: Page 347-365, 367-401 Presentation of Students Slides by lecturers",
+      "S-Download": "",
+      "Student's Tasks": "M.book: Page 347-365, 367-401 Presentation of Students Slides by lecturers",
+      "URLs": ""
+    },
+    {
+      "Session": "20",
+      "Topic": "PROGRESS TEST 1 (in 30 minutes) GROUP PRESENTATION Part 3: History of Design after the World War II to The Electronics Age 15. The American Dream and Good Design Homemaking and the designed American Dream; Good Design; Anthropometrics and Organic Design. Conclusion: Review, Q&A. GROUP PRESENTATION Part 3: (continue) 16. Reconstruction and a spirit of Optimism The reconstruction of Italy and the flowering of Italian design; Good Form and the West German economic miracle; Japanese postwar design; Postwar Britain and the Festival of Britain; The Scandinavian approaches. Conclusion: Review, Q&A.",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO1, LO2, LO3",
+      "ITU": "T, U",
+      "Student Materials": "M.book: Page 347-365, 367-401 Presentation of Students Slides by lecturers",
+      "S-Download": "",
+      "Student's Tasks": "M.book: Page 347-365, 367-401 Presentation of Students Slides by lecturers",
+      "URLs": ""
+    },
+    {
+      "Session": "21",
+      "Topic": "GROUP PRESENTATION Part 3: (continue) 17. Pop Design and the Counterculture The Plastics age; Design goes Pop; Space Age visions and Radical Design; Eco-awareness and product morality Conclusion: Review, Q&A. GROUP PRESENTATION Part 3: (continue) 18. Rationalism versus Craft High-Tech, Craft Revival, and ergonomics; Radical Design reemerges; The electronics age Conclusion: Review, Q&A.",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO1, LO2, LO3",
+      "ITU": "T",
+      "Student Materials": "M.book: Page 403-433, 435-451 Presentation of Students Slides by lecturers",
+      "S-Download": "",
+      "Student's Tasks": "M.book: Page 403-433, 435-451 Presentation of Students Slides by lecturers",
+      "URLs": ""
+    },
+    {
+      "Session": "22",
+      "Topic": "GROUP PRESENTATION Part 3: (continue) 17. Pop Design and the Counterculture The Plastics age; Design goes Pop; Space Age visions and Radical Design; Eco-awareness and product morality Conclusion: Review, Q&A. GROUP PRESENTATION Part 3: (continue) 18. Rationalism versus Craft High-Tech, Craft Revival, and ergonomics; Radical Design reemerges; The electronics age Conclusion: Review, Q&A.",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO1, LO2, LO3",
+      "ITU": "T",
+      "Student Materials": "M.book: Page 403-433, 435-451 Presentation of Students Slides by lecturers",
+      "S-Download": "",
+      "Student's Tasks": "M.book: Page 403-433, 435-451 Presentation of Students Slides by lecturers",
+      "URLs": ""
+    },
+    {
+      "Session": "23",
+      "Topic": "GROUP PRESENTATION Part 4: History of Design from the Postmodernism until now 19. Postmodernism and Internationalism Memphis and Postmodernism; The Creative Salvage movement; Philippe Starck and designer hotels; The computer design revolution and the rise of the brand Conclusion: Review, Q&A. GROUP PRESENTATION Part 4: (continue) 20. Universal solutions versus creative indivisuality The rise of global design superstardom; The Apple factor and Smart Design; New Dutch design; Design follows fashion and Design Art; 3D printing, biomimicry, and upcyling Conclusion: Review, Q&A.",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO1, LO2, LO3",
+      "ITU": "T",
+      "Student Materials": "M.book: Page 453-471, 473-495 Presentation of Students Slides by lecturers",
+      "S-Download": "",
+      "Student's Tasks": "M.book: Page 453-471, 473-495 Presentation of Students Slides by lecturers",
+      "URLs": ""
+    },
+    {
+      "Session": "24",
+      "Topic": "GROUP PRESENTATION Part 4: History of Design from the Postmodernism until now 19. Postmodernism and Internationalism Memphis and Postmodernism; The Creative Salvage movement; Philippe Starck and designer hotels; The computer design revolution and the rise of the brand Conclusion: Review, Q&A. GROUP PRESENTATION Part 4: (continue) 20. Universal solutions versus creative indivisuality The rise of global design superstardom; The Apple factor and Smart Design; New Dutch design; Design follows fashion and Design Art; 3D printing, biomimicry, and upcyling Conclusion: Review, Q&A.",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO1, LO2, LO3",
+      "ITU": "T",
+      "Student Materials": "M.book: Page 453-471, 473-495 Presentation of Students Slides by lecturers",
+      "S-Download": "",
+      "Student's Tasks": "M.book: Page 453-471, 473-495 Presentation of Students Slides by lecturers",
+      "URLs": ""
+    },
+    {
+      "Session": "25",
+      "Topic": "FINAL REVIEWS; Q&A",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO1",
+      "ITU": "T, U",
+      "Student Materials": "M.book: Page 496-497 Slides by lecturers",
+      "S-Download": "",
+      "Student's Tasks": "M.book: Page 496-497 Slides by lecturers",
+      "URLs": ""
+    },
+    {
+      "Session": "26",
+      "Topic": "FINAL REVIEWS; Q&A",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO1",
+      "ITU": "T, U",
+      "Student Materials": "M.book: Page 496-497 Slides by lecturers",
+      "S-Download": "",
+      "Student's Tasks": "M.book: Page 496-497 Slides by lecturers",
+      "URLs": ""
+    },
+    {
+      "Session": "27",
+      "Topic": "FINAL REVIEWS; Q&A",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO1",
+      "ITU": "T, U",
+      "Student Materials": "M.book: Page 496-497 Slides by lecturers",
+      "S-Download": "",
+      "Student's Tasks": "M.book: Page 496-497 Slides by lecturers",
+      "URLs": ""
+    },
+    {
+      "Session": "28",
+      "Topic": "FINAL REVIEWS; Q&A",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO1",
+      "ITU": "T, U",
+      "Student Materials": "M.book: Page 496-497 Slides by lecturers",
+      "S-Download": "",
+      "Student's Tasks": "M.book: Page 496-497 Slides by lecturers",
+      "URLs": ""
+    },
+    {
+      "Session": "29",
+      "Topic": "FINAL REVIEWS; Q&A",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO1",
+      "ITU": "T, U",
+      "Student Materials": "M.book: Page 496-497 Slides by lecturers",
+      "S-Download": "",
+      "Student's Tasks": "M.book: Page 496-497 Slides by lecturers",
+      "URLs": ""
+    },
+    {
+      "Session": "30",
+      "Topic": "PROGRESS TEST 2 (in 30 minutes) FINAL REVIEWS; Q&A",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO1",
+      "ITU": "T, U",
+      "Student Materials": "M.book: Page 496-497 Slides by lecturers",
+      "S-Download": "",
+      "Student's Tasks": "M.book: Page 496-497 Slides by lecturers",
+      "URLs": ""
+    }
+  ],
+  "constructive_questions": [
+    {
+      "No.": "1",
+      "Session No": "4",
+      "Name": "QN3.1",
+      "Details": "What did the Romans do to equip their vast army to expand and defend their vast empire?"
+    },
+    {
+      "No.": "2",
+      "Session No": "5",
+      "Name": "QN4.1",
+      "Details": "What are the characteristics of the Mannerist, Baroque and Rococo styles?"
+    },
+    {
+      "No.": "3",
+      "Session No": "6",
+      "Name": "QN5.1",
+      "Details": "What are the typical design achievements of the Middle Ages?"
+    },
+    {
+      "No.": "4",
+      "Session No": "7",
+      "Name": "QN6.1",
+      "Details": "In the 18th century, what were the successful works of designers Thomas Chippendale, Thomas Sheraton, and Robert Adam?"
+    },
+    {
+      "No.": "5",
+      "Session No": "8",
+      "Name": "QN7.1",
+      "Details": "What are the achievements of the age of reason and the Industrial Revolution?"
+    },
+    {
+      "No.": "6",
+      "Session No": "9",
+      "Name": "QN8.1",
+      "Details": "What are the benefits of Armory practice and a new system of rationalized production?"
+    },
+    {
+      "No.": "7",
+      "Session No": "10",
+      "Name": "QN9.1",
+      "Details": "What are the new Industrial Age and the Great Exhibition?"
+    },
+    {
+      "No.": "8",
+      "Session No": "11",
+      "Name": "QN10.1",
+      "Details": "What were the winds of reform in 18th-century Europe?"
+    },
+    {
+      "No.": "9",
+      "Session No": "12",
+      "Name": "QN11.1",
+      "Details": "What is the formation and achievement of New Art?"
+    },
+    {
+      "No.": "10",
+      "Session No": "13",
+      "Name": "QN12.1",
+      "Details": "What are the formation and characteristics of Art Nouveau?"
+    },
+    {
+      "No.": "11",
+      "Session No": "14",
+      "Name": "QN15.1",
+      "Details": "Why is Bauhaus Weimar considered the cradle of design?"
+    },
+    {
+      "No.": "12",
+      "Session No": "15",
+      "Name": "QN16.1",
+      "Details": "What are the characteristics of Art Deco?"
+    },
+    {
+      "No.": "13",
+      "Session No": "16",
+      "Name": "QN17.1",
+      "Details": "What are the characteristics of Streamlining?"
+    },
+    {
+      "No.": "14",
+      "Session No": "17",
+      "Name": "QN19.1",
+      "Details": "What is Restyling, Planning Obsolete in Design?"
+    },
+    {
+      "No.": "15",
+      "Session No": "18",
+      "Name": "QN20.1",
+      "Details": "What’s Anthropometric Design? Introduction to\"Joe and Josephine\""
+    },
+    {
+      "No.": "16",
+      "Session No": "19",
+      "Name": "QN21.1",
+      "Details": "What is Organic design?"
+    },
+    {
+      "No.": "17",
+      "Session No": "20",
+      "Name": "QN22.1",
+      "Details": "What are the characteristics of the Italian Line?"
+    },
+    {
+      "No.": "18",
+      "Session No": "21",
+      "Name": "QN23.1",
+      "Details": "What are the characteristics of the Plastics design?"
+    },
+    {
+      "No.": "19",
+      "Session No": "22",
+      "Name": "QN24.1",
+      "Details": "What are the characteristics of the Age space in Design?"
+    },
+    {
+      "No.": "20",
+      "Session No": "23",
+      "Name": "QN25.1",
+      "Details": "What are the characteristics of Pop art?"
+    },
+    {
+      "No.": "21",
+      "Session No": "24",
+      "Name": "QN26.1",
+      "Details": "What is Ergonomics?"
+    },
+    {
+      "No.": "22",
+      "Session No": "25",
+      "Name": "QN27.1",
+      "Details": "What are the characteristics of Memphis?"
+    },
+    {
+      "No.": "23",
+      "Session No": "26",
+      "Name": "QN28.1",
+      "Details": "What are the characteristics of the Creative Salvage?"
+    },
+    {
+      "No.": "24",
+      "Session No": "27",
+      "Name": "QN29.1",
+      "Details": "What are the characteristics of Biomimicry?"
+    }
+  ],
+  "materials": [
+    {
+      "No.": "1",
+      "Material Description": "The Story of Design from the Paleolithic to the Present",
+      "Author": "Charlotte and Peter Fiell",
+      "Publisher": "The Monacelli Press",
+      "Published Date": "2016",
+      "Edition": "",
+      "ISBN": "9781580934701",
+      "Is Main Material": "True",
+      "Is Hard Copy": "True",
+      "Is Online": "False",
+      "Note": ""
+    },
+    {
+      "No.": "2",
+      "Material Description": "Graphic Design Referenced - A visual guide to the language, applications, and history of graphic design",
+      "Author": "Bryony Gomez - Palacio and Armin Vit",
+      "Publisher": "Rockport Publishers",
+      "Published Date": "2012",
+      "Edition": "",
+      "ISBN": "",
+      "Is Main Material": "False",
+      "Is Hard Copy": "True",
+      "Is Online": "False",
+      "Note": ""
+    }
+  ],
+  "source_path": "data/raw/syllabi/11285.html",
+  "id": "syllabus:11285"
+}

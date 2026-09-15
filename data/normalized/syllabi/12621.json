@@ -1,0 +1,274 @@
+{
+  "syllabus_id": 12621,
+  "subject_code": "FRS401c",
+  "subject_name": "Network Forensics_Điều tra mạng",
+  "syllabus_name": "Network Forensics_Điều tra mạng",
+  "credits": 3,
+  "degree_level": "Bachelor",
+  "time_allocation": "Study hour (150h) = 46h online + 3h offline + 1h final exam + 100h self-study",
+  "prerequisite": "",
+  "general_information": {
+    "Syllabus ID": "12621",
+    "Syllabus Name": "Network Forensics_Điều tra mạng",
+    "Course Name English": "Network Forensics",
+    "Subject Code": "FRS401c",
+    "Learning-Teaching Method": "Blended,Online,Lecture,Active learning, Discussion",
+    "NoCredit": "3",
+    "Degree Level": "Bachelor",
+    "Time Allocation": "Study hour (150h) = 46h online + 3h offline + 1h final exam + 100h self-study",
+    "Pre-Requisite": "",
+    "Description": "This course will introduce the student to the essential aspects of information security and network forensics. The student will be provided with the tools, techniques and industry accepted methodologies so that upon completion of the course the student will be able to describe key concepts of network security and forensics and how those concepts apply to themselves and their organization. The course is based on Courses 1, 2 and 6 of the SSCP Professional Training Certificate, the whole will show employers you have the IT security foundation to defend against cyber attacks – and puts you on a clear path to earning SSCP certification.",
+    "StudentTasks": "1. Complete three online courses 1, 2 ,6 to be allowed to take Final Exam 2. Final Exam included Final Theory Exam (TE): 100% 3. Students who complete all MOOCs before the course deadline will receive 1 bonus point; otherwise, no bonus point will be awarded. 4. Completion Criteria: Final TE Score >=4 & (Final TE Score + bonus) >= 5",
+    "Tools": "",
+    "Scoring Scale": "10",
+    "DecisionNo MM/dd/yyyy": "359/QĐ-ĐHFPT dated 04/09/2025",
+    "IsApproved": "True",
+    "Note": "",
+    "Is Scored": "True",
+    "MinAvgMarkToPass": "5",
+    "IsActive": "True",
+    "ApprovedDate": "4/9/2025"
+  },
+  "active": true,
+  "approved": true,
+  "decision": "359/QĐ-ĐHFPT dated 04/09/2025",
+  "description": "This course will introduce the student to the essential aspects of information security and network forensics. The student will be provided with the tools, techniques and industry accepted methodologies so that upon completion of the course the student will be able to describe key concepts of network security and forensics and how those concepts apply to themselves and their organization. The course is based on Courses 1, 2 and 6 of the SSCP Professional Training Certificate, the whole will show employers you have the IT security foundation to defend against cyber attacks – and puts you on a clear path to earning SSCP certification.",
+  "learning_outcomes": [
+    {
+      "No.": "1",
+      "CLO Name": "CLO1",
+      "CLO Details": "Understand the different access control systems and how they should be implemented to protect the system and data using the different levels of confidentiality, integrity, and availability. LO1.1 Describe how to implement Authentication mechanisms LO1.2 Identify and operate internetwork trust architectures LO1.3 Describe the process of administering identity management life cycle LO1.4 Implement the different types of access controls (Subject/Object based)"
+    },
+    {
+      "No.": "2",
+      "CLO Name": "CLO2",
+      "CLO Details": "Achieve basic security concepts and the application of those concepts in the day to day operation and administration of enterprise computer systems and the information that they host. LO2.1 Define Code of Ethics, describe the security concepts, Document and operate security controls\" LO2.2 Describe the asset management process LO2.3 Implement and assess compliance controls LO2.4 Describe the change management process LO2.5 Contribute to the security awareness training program and physical security operations"
+    },
+    {
+      "No.": "3",
+      "CLO Name": "CLO3",
+      "CLO Details": "Know concepts in endpoint device security, cloud infrastructure security, securing big data systems, securing virtual environments, and how an organization can protect itself from these attacks. LO3.1 Identify malicious activity, describe malicious code and the various countermeasures LO3.2 Describe the processes for operating endpoint device security, and mobile device management processes LO3.3 Describe the process for configuring cloud security LO3.4 Explain and summarize the process for securing big data systems and virtual environments"
+    }
+  ],
+  "assessments": [
+    {
+      "No.": "1",
+      "Category": "TE",
+      "Type": "Final exam",
+      "Part": "1",
+      "Weight": "100.0%",
+      "Completion Criteria": "4",
+      "Duration": "60'",
+      "CLO": "All LOs",
+      "Question Type": "Multiple choicesMarked by Computer",
+      "No Question": "60",
+      "Knowledge and Skill": "All studied courses. Each module of course contributes 3-5 questions.",
+      "Grading Guide": "by exam board, using computer",
+      "Note": "Customized from the quizzes of this specialization 1st Evaluation: For students who completed & got Coursera's specialization certificates) at week 13; 2nd Evaluation: For students who completed & got Coursera's specialization certificates) at week 14."
+    }
+  ],
+  "schedule": [
+    {
+      "Session": "1",
+      "Topic": "Specialization Introduction Access Controls - Implement Authentication Mechanisms - Signle factor, Multifactor Authentication - Single Sign-On Offline 1: Guide learning and review of the specialization",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO1.1",
+      "ITU": "",
+      "Student Materials": "",
+      "S-Download": "",
+      "Student's Tasks": "Complete Week 1, 2 of the course Access Controls All Students should participate in offline slot",
+      "URLs": ""
+    },
+    {
+      "Session": "2",
+      "Topic": "Access Controls - Operate Internetwork Trust Architectures - Administer Identity Management Life Cycle",
+      "Learning-Teaching Type": "Online",
+      "LO": "LO1.2, LO1.3",
+      "ITU": "",
+      "Student Materials": "",
+      "S-Download": "",
+      "Student's Tasks": "Complete Week 3, 4 of the course Access Controls",
+      "URLs": ""
+    },
+    {
+      "Session": "3",
+      "Topic": "Access Controls - Implement Access Controls - Case Study",
+      "Learning-Teaching Type": "Online",
+      "LO": "LO1.4, LO1",
+      "ITU": "",
+      "Student Materials": "",
+      "S-Download": "",
+      "Student's Tasks": "Complete Week 5, 6 of the course Access Controls",
+      "URLs": ""
+    },
+    {
+      "Session": "4",
+      "Topic": "Access Controls - Exam",
+      "Learning-Teaching Type": "Online",
+      "LO": "LO1",
+      "ITU": "",
+      "Student Materials": "",
+      "S-Download": "",
+      "Student's Tasks": "Complete Week 7 of the course Access Controls",
+      "URLs": ""
+    },
+    {
+      "Session": "5",
+      "Topic": "Security Operations and Administration - Understand and Comply with Code of Ethics and Security Concepts - Participate in Asset Management",
+      "Learning-Teaching Type": "Online",
+      "LO": "LO2.1, LO2.2",
+      "ITU": "",
+      "Student Materials": "",
+      "S-Download": "",
+      "Student's Tasks": "Complete Week 1, 2 of the course Security Operations and Administration",
+      "URLs": ""
+    },
+    {
+      "Session": "6",
+      "Topic": "Security Operations and Administration - Implement and Assess Compliance with Controls & Participate in Change Management Duties - Participate in Physical Security Operations & Security Awareness Training",
+      "Learning-Teaching Type": "Online",
+      "LO": "LO2.3, LO2.4, LO2.5",
+      "ITU": "",
+      "Student Materials": "",
+      "S-Download": "",
+      "Student's Tasks": "Complete Week 3, 4 of the course Security Operations and Administration",
+      "URLs": ""
+    },
+    {
+      "Session": "7",
+      "Topic": "Security Operations and Administration - Case Study - Exam",
+      "Learning-Teaching Type": "Online",
+      "LO": "LO2",
+      "ITU": "",
+      "Student Materials": "",
+      "S-Download": "",
+      "Student's Tasks": "Complete Week 5, 6 of the course Security Operations and Administration.",
+      "URLs": ""
+    },
+    {
+      "Session": "8",
+      "Topic": "Systems and Application Security - Identify and Analyze Malicious Code and Activity - Implement and Operate Endpoint Device Security",
+      "Learning-Teaching Type": "Online",
+      "LO": "LO1, LO2, LO3.1, LO3.2",
+      "ITU": "",
+      "Student Materials": "",
+      "S-Download": "",
+      "Student's Tasks": "Complete Week 1, 2 of the course Systems and Application Security",
+      "URLs": ""
+    },
+    {
+      "Session": "9",
+      "Topic": "Systems and Application Security - Operate and Configure Cloud Security - Secure Big Data Systems & Operate and Secure Virtual Environments",
+      "Learning-Teaching Type": "Online",
+      "LO": "LO3.3, LO3.4",
+      "ITU": "",
+      "Student Materials": "",
+      "S-Download": "",
+      "Student's Tasks": "Complete Week 3, 4 of the course Systems and Application Security",
+      "URLs": ""
+    },
+    {
+      "Session": "10",
+      "Topic": "Systems and Application Security - Case Study - Exam",
+      "Learning-Teaching Type": "Online",
+      "LO": "LO3",
+      "ITU": "",
+      "Student Materials": "",
+      "S-Download": "",
+      "Student's Tasks": "Complete Week 5, 6 of the Systems and Application Security",
+      "URLs": ""
+    },
+    {
+      "Session": "11",
+      "Topic": "Systems and Application Security (cont.) - Case Study - Exam",
+      "Learning-Teaching Type": "Online",
+      "LO": "LO3",
+      "ITU": "",
+      "Student Materials": "",
+      "S-Download": "",
+      "Student's Tasks": "Complete Week 5, 6 of the Systems and Application Security",
+      "URLs": ""
+    },
+    {
+      "Session": "12",
+      "Topic": "- Apply What You've Learned Course Review",
+      "Learning-Teaching Type": "Offline",
+      "LO": "All LOs",
+      "ITU": "TU",
+      "Student Materials": "",
+      "S-Download": "",
+      "Student's Tasks": "Review, Complete three course, Preparing for your Exam All Students should participate in offline slot Deadline of Coursera Completion: End of Friday of the week.",
+      "URLs": ""
+    }
+  ],
+  "constructive_questions": [],
+  "materials": [
+    {
+      "No.": "1",
+      "Material Description": "SPEC: (ISC)² Systems Security Certified Practitioner (SSCP)",
+      "Author": "",
+      "Publisher": "Coursera",
+      "Published Date": "",
+      "Edition": "",
+      "ISBN": "",
+      "Is Main Material": "True",
+      "Is Hard Copy": "False",
+      "Is Online": "True",
+      "Note": "https://www.coursera.org/professional-certificates/sscp-training"
+    },
+    {
+      "No.": "2",
+      "Material Description": "Help Articles",
+      "Author": "",
+      "Publisher": "Coursera",
+      "Published Date": "",
+      "Edition": "",
+      "ISBN": "",
+      "Is Main Material": "False",
+      "Is Hard Copy": "False",
+      "Is Online": "True",
+      "Note": "https://learner.coursera.help/hc/en-us/articles/208280036-Coursera-Code-of-Conduct"
+    },
+    {
+      "No.": "3",
+      "Material Description": "MOOC 1: Access Controls",
+      "Author": "",
+      "Publisher": "Coursera",
+      "Published Date": "",
+      "Edition": "",
+      "ISBN": "",
+      "Is Main Material": "True",
+      "Is Hard Copy": "False",
+      "Is Online": "True",
+      "Note": "https://www.coursera.org/learn/access-controls"
+    },
+    {
+      "No.": "4",
+      "Material Description": "MOOC 2: Security Operations and Administration",
+      "Author": "",
+      "Publisher": "Coursera",
+      "Published Date": "",
+      "Edition": "",
+      "ISBN": "",
+      "Is Main Material": "True",
+      "Is Hard Copy": "False",
+      "Is Online": "True",
+      "Note": "https://www.coursera.org/learn/security-operations"
+    },
+    {
+      "No.": "5",
+      "Material Description": "MOOC 3: Systems and Application Security",
+      "Author": "",
+      "Publisher": "Coursera",
+      "Published Date": "",
+      "Edition": "",
+      "ISBN": "",
+      "Is Main Material": "True",
+      "Is Hard Copy": "False",
+      "Is Online": "True",
+      "Note": "https://www.coursera.org/learn/systems-and-application-security"
+    }
+  ],
+  "source_path": "data/raw/syllabi/12621.html",
+  "id": "syllabus:12621"
+}

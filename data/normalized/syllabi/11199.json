@@ -1,0 +1,1313 @@
+{
+  "syllabus_id": 11199,
+  "subject_code": "DBS401",
+  "subject_name": "Database Security_An ninh cơ sở dữ liệu",
+  "syllabus_name": "Database Security_An ninh cơ sở dữ liệu",
+  "credits": 3,
+  "degree_level": "Bachelor",
+  "time_allocation": "Study hour (150h) = 45h (60 sessions) contact hours + 1h final exam + 104h self-study",
+  "prerequisite": "DBI202 and OSP201",
+  "general_information": {
+    "Syllabus ID": "11199",
+    "Syllabus Name": "Database Security_An ninh cơ sở dữ liệu",
+    "Course Name English": "Database Security",
+    "Subject Code": "DBS401",
+    "Learning-Teaching Method": "Lecture,Project based learning,Active learning,Social Constructivism,Practice, Discussion",
+    "NoCredit": "3",
+    "Degree Level": "Bachelor",
+    "Time Allocation": "Study hour (150h) = 45h (60 sessions) contact hours + 1h final exam + 104h self-study",
+    "Pre-Requisite": "DBI202 and OSP201",
+    "Description": "This course will introduce the student to the essential best practices in database security strategies. The student will be provided with the tools, techniques and industry accepted methodologies so that upon completion of the course the student will be able to describe key concepts database security and how to apply those concepts to securing database management systems within their orgaization.",
+    "StudentTasks": "- Students must attend at least 80% of contact slots in order to be accepted to the final examination. - Student is responsible to do all exercises, assignments and labs given by instructor in class or at home and submit on time - Use laptop in class only for learning purpose - Promptly access to the FU FLM at https://flm.fpt.edu.vn/ for up-to-date course information",
+    "Tools": "- Vmware Workstation - Mysql server, SQL server, Oracle Server",
+    "Scoring Scale": "10",
+    "DecisionNo MM/dd/yyyy": "358/QĐ-ĐHFPT dated 04/03/2024",
+    "IsApproved": "True",
+    "Note": "",
+    "Is Scored": "True",
+    "MinAvgMarkToPass": "5",
+    "IsActive": "True",
+    "ApprovedDate": "4/3/2024"
+  },
+  "active": true,
+  "approved": true,
+  "decision": "358/QĐ-ĐHFPT dated 04/03/2024",
+  "description": "This course will introduce the student to the essential best practices in database security strategies. The student will be provided with the tools, techniques and industry accepted methodologies so that upon completion of the course the student will be able to describe key concepts database security and how to apply those concepts to securing database management systems within their orgaization.",
+  "learning_outcomes": [
+    {
+      "No.": "1",
+      "CLO Name": "CLO1",
+      "CLO Details": "Understand the role of database and information systems security for enterprise and organization"
+    },
+    {
+      "No.": "2",
+      "CLO Name": "CLO2",
+      "CLO Details": "Understand Security Architecture and plan defines steps to reinstate a network after a disaster occurs"
+    },
+    {
+      "No.": "3",
+      "CLO Name": "CLO3",
+      "CLO Details": "Understand the steps of administrator must take into account prior to installation of a database Secure the installation and configuration of various database management systems"
+    },
+    {
+      "No.": "4",
+      "CLO Name": "CLO4",
+      "CLO Details": "Understand the different database management system models and applications and describe the architecture of Oracle, MySQL, and Microsoft SQL Server"
+    },
+    {
+      "No.": "5",
+      "CLO Name": "CLO5",
+      "CLO Details": "Understanding Secure the installation and configuration of MySQL server"
+    },
+    {
+      "No.": "6",
+      "CLO Name": "CLO6",
+      "CLO Details": "Understanding Secure the installation and configuration of Microsoft SQL server"
+    },
+    {
+      "No.": "7",
+      "CLO Name": "CLO7",
+      "CLO Details": "Understanding Secure the installation and configuration of Oracle"
+    },
+    {
+      "No.": "8",
+      "CLO Name": "CLO8",
+      "CLO Details": "Understanding Password, Profiles, Privileges, and Roles with SQL Server, MySQL, and Oracle"
+    },
+    {
+      "No.": "9",
+      "CLO Name": "CLO9",
+      "CLO Details": "Discover locate SQL vulnerabilities"
+    },
+    {
+      "No.": "10",
+      "CLO Name": "CLO10",
+      "CLO Details": "Experience the case studies of hacking SQL injection"
+    },
+    {
+      "No.": "11",
+      "CLO Name": "CLO11",
+      "CLO Details": "Understand common SQL statements and SQL constructs used to exploit weaknesses"
+    },
+    {
+      "No.": "12",
+      "CLO Name": "CLO12",
+      "CLO Details": "Perform SQL injection exploitation and identify defensive strategies against these exploits"
+    },
+    {
+      "No.": "13",
+      "CLO Name": "CLO13",
+      "CLO Details": "Understand of database auditing fundamentals"
+    },
+    {
+      "No.": "14",
+      "CLO Name": "CLO14",
+      "CLO Details": "Perform the auditing activities that are specific to database security auditing"
+    },
+    {
+      "No.": "15",
+      "CLO Name": "CLO15",
+      "CLO Details": "Understand the methodology used to perform a security test"
+    },
+    {
+      "No.": "16",
+      "CLO Name": "CLO16",
+      "CLO Details": "Understand the remediation"
+    }
+  ],
+  "assessments": [
+    {
+      "No.": "1",
+      "Category": "LAB",
+      "Type": "on-going",
+      "Part": "1",
+      "Weight": "20.0%",
+      "Completion Criteria": "4",
+      "Duration": "",
+      "CLO": "",
+      "Question Type": "",
+      "No Question": "",
+      "Knowledge and Skill": "",
+      "Grading Guide": "in class, by instructor",
+      "Note": ""
+    },
+    {
+      "No.": "2",
+      "Category": "Progress test 1",
+      "Type": "on-going",
+      "Part": "1",
+      "Weight": "10.0%",
+      "Completion Criteria": ">0",
+      "Duration": "10'-30'",
+      "CLO": "CLO5",
+      "Question Type": "Multiple choices Marked by Computer or a suitable format",
+      "No Question": "30",
+      "Knowledge and Skill": "- Chapter 1,2,3,4",
+      "Grading Guide": "in class, by instructor",
+      "Note": "Instruction and shedules for Progress tests must be presented in the Course Implementation Plan approved by director of the campus. Progress test must be taken right after the last lectures of required material. Instructor has resposibility to review the test for students after graded."
+    },
+    {
+      "No.": "3",
+      "Category": "Progress test 2",
+      "Type": "on-going",
+      "Part": "1",
+      "Weight": "10.0%",
+      "Completion Criteria": ">0",
+      "Duration": "10'-30'",
+      "CLO": "CLO9",
+      "Question Type": "Multiple choices Marked by Computer or a suitable format",
+      "No Question": "30",
+      "Knowledge and Skill": "- Chapter 5,6,7",
+      "Grading Guide": "in class, by instructor",
+      "Note": "Instruction and shedules for Progress tests must be presented in the Course Implementation Plan approved by director of the campus. Progress test must be taken right after the last lectures of required material. Instructor has resposibility to review the test for students after graded."
+    },
+    {
+      "No.": "4",
+      "Category": "Progress test 3",
+      "Type": "on-going",
+      "Part": "1",
+      "Weight": "10.0%",
+      "Completion Criteria": ">0",
+      "Duration": "10'-30'",
+      "CLO": "CLO15, CLO16",
+      "Question Type": "Multiple choices Marked by Computer or a suitable format",
+      "No Question": "30",
+      "Knowledge and Skill": "- Chapter 8,9,10",
+      "Grading Guide": "in class, by instructor",
+      "Note": "Instruction and shedules for Progress tests must be presented in the Course Implementation Plan approved by director of the campus."
+    },
+    {
+      "No.": "5",
+      "Category": "Project",
+      "Type": "on-going",
+      "Part": "1",
+      "Weight": "20.0%",
+      "Completion Criteria": "4",
+      "Duration": "From slot 2 to slot 29",
+      "CLO": "CLO1-CLO16",
+      "Question Type": "Project report and demo",
+      "No Question": "",
+      "Knowledge and Skill": "Each team gets a topic from a list by Instructor",
+      "Grading Guide": "Demo the product to the instructor - Slot 4: Introduction to the Project - Slot 7: Group and topic register - Slot 21: 1st Report the progress of Project - Slot 29: Final report the Project",
+      "Note": "preferable to be supervised both by exam board member as well as instructor"
+    },
+    {
+      "No.": "6",
+      "Category": "Final exam",
+      "Type": "Final exam",
+      "Part": "1",
+      "Weight": "30.0%",
+      "Completion Criteria": "4",
+      "Duration": "60'",
+      "CLO": "CLO1-CLO16",
+      "Question Type": "Multiple choices Marked by Computer",
+      "No Question": "50",
+      "Knowledge and Skill": "all studied chapters",
+      "Grading Guide": "by exam board, using computer",
+      "Note": ""
+    }
+  ],
+  "schedule": [
+    {
+      "Session": "1",
+      "Topic": "Course Introduction: - Database Security - Objectives - Tool",
+      "Learning-Teaching Type": "Offline",
+      "LO": "1. Establish relations Teacher - Student 2. Discuss about the teaching/learning method",
+      "ITU": "I",
+      "Student Materials": "",
+      "S-Download": "mat1",
+      "Student's Tasks": "",
+      "URLs": ""
+    },
+    {
+      "Session": "2",
+      "Topic": "Course Introduction: - Knowhow - Requirements - Project titles and Requirements",
+      "Learning-Teaching Type": "Offline",
+      "LO": "1. Establish relations Teacher - Student 2. Discuss about the teaching/learning method",
+      "ITU": "I",
+      "Student Materials": "",
+      "S-Download": "",
+      "Student's Tasks": "",
+      "URLs": ""
+    },
+    {
+      "Session": "3",
+      "Topic": "- Why Database Security? - Who Are We Securing Ourselves Against? - Malware",
+      "Learning-Teaching Type": "Offline",
+      "LO": "CLO1",
+      "ITU": "T",
+      "Student Materials": "Chapter 1, Main book",
+      "S-Download": "",
+      "Student's Tasks": "Preview lecture note Read the current chapter",
+      "URLs": ""
+    },
+    {
+      "Session": "4",
+      "Topic": "- Case Study #1: Locating Recent Vulnerabilities - Case Study #2: Legal Privacy Compliancy",
+      "Learning-Teaching Type": "Offline",
+      "LO": "CLO1",
+      "ITU": "T",
+      "Student Materials": "Chapter 1, Main book",
+      "S-Download": "",
+      "Student's Tasks": "Preview lecture note Read the current chapter",
+      "URLs": ""
+    },
+    {
+      "Session": "5",
+      "Topic": "- Security Architecture: A Never-Ending Cycle - Global Policies for the Database Environment",
+      "Learning-Teaching Type": "Offline",
+      "LO": "CLO2",
+      "ITU": "T",
+      "Student Materials": "Chapter 1, Main book",
+      "S-Download": "",
+      "Student's Tasks": "Preview lecture note",
+      "URLs": ""
+    },
+    {
+      "Session": "6",
+      "Topic": "- Case Study #3: Understanding the Risk that Users Pose",
+      "Learning-Teaching Type": "Offline",
+      "LO": "CLO2",
+      "ITU": "T",
+      "Student Materials": "Chapter 1, Main book",
+      "S-Download": "",
+      "Student's Tasks": "Preview lecture note",
+      "URLs": ""
+    },
+    {
+      "Session": "7",
+      "Topic": "- Database Defined - Database Structure Components - Database Models - Relationships - Database Types",
+      "Learning-Teaching Type": "Offline",
+      "LO": "CLO2, CLO3",
+      "ITU": "T",
+      "Student Materials": "Chapter 2, Main book",
+      "S-Download": "",
+      "Student's Tasks": "Preview lecture note",
+      "URLs": ""
+    },
+    {
+      "Session": "8",
+      "Topic": "- Case Study #1: Real World Examples - Project slot 1: Introduction to the Project",
+      "Learning-Teaching Type": "Offline",
+      "LO": "CLO2, CLO3",
+      "ITU": "T",
+      "Student Materials": "Chapter 2, Main book",
+      "S-Download": "",
+      "Student's Tasks": "Preview lecture note",
+      "URLs": ""
+    },
+    {
+      "Session": "9",
+      "Topic": "- Database Management Systems - Database Similarities",
+      "Learning-Teaching Type": "Offline",
+      "LO": "CLO4",
+      "ITU": "T",
+      "Student Materials": "Chapter 2, Main book",
+      "S-Download": "",
+      "Student's Tasks": "Preview lecture note",
+      "URLs": ""
+    },
+    {
+      "Session": "10",
+      "Topic": "- Case Study #2: Database Management System Vendors - Case Study #3: Understanding ACID-compliant Transactions - Case Study #4: Understanding Query Management",
+      "Learning-Teaching Type": "Offline",
+      "LO": "CLO4",
+      "ITU": "T",
+      "Student Materials": "Chapter 2, Main book",
+      "S-Download": "",
+      "Student's Tasks": "Preview lecture note",
+      "URLs": ""
+    },
+    {
+      "Session": "11",
+      "Topic": "- Oracle Architecture",
+      "Learning-Teaching Type": "Offline",
+      "LO": "CLO4",
+      "ITU": "T",
+      "Student Materials": "Chapter 2, Main book",
+      "S-Download": "",
+      "Student's Tasks": "Preview lecture note",
+      "URLs": ""
+    },
+    {
+      "Session": "12",
+      "Topic": "- MySQL Architecture - Microsoft SQL Server Architecture",
+      "Learning-Teaching Type": "Offline",
+      "LO": "CLO4",
+      "ITU": "T",
+      "Student Materials": "Chapter 2, Main book",
+      "S-Download": "",
+      "Student's Tasks": "Preview lecture note",
+      "URLs": ""
+    },
+    {
+      "Session": "13",
+      "Topic": "- Preinstallation Preparation - Installing on Windows - Configuration - Additional Security Suggestions",
+      "Learning-Teaching Type": "Offline",
+      "LO": "CLO5",
+      "ITU": "T",
+      "Student Materials": "Chapter 3, Main book",
+      "S-Download": "",
+      "Student's Tasks": "Preview lecture note",
+      "URLs": ""
+    },
+    {
+      "Session": "14",
+      "Topic": "- Case Study #1: My SQL Bugs - Case Study #2: My SQL Releases - Project slot 2: Group and topic register + Divide class into 3-5 groups + Group select the interesting topic",
+      "Learning-Teaching Type": "Offline",
+      "LO": "CLO5",
+      "ITU": "T",
+      "Student Materials": "Chapter 3, Main book",
+      "S-Download": "",
+      "Student's Tasks": "Preview lecture note",
+      "URLs": ""
+    },
+    {
+      "Session": "15",
+      "Topic": "- Preinstallation Preparation - Installing on UNIX - Configuration - Additional Security Suggestions",
+      "Learning-Teaching Type": "Offline",
+      "LO": "CLO5",
+      "ITU": "T",
+      "Student Materials": "Chapter 3, Main book",
+      "S-Download": "",
+      "Student's Tasks": "Preview lecture note",
+      "URLs": ""
+    },
+    {
+      "Session": "16",
+      "Topic": "- Case Study #3: UNIX MySQL Script - Case Study #4: Researching Changelog - Case Study #5: Implementing Security Measures",
+      "Learning-Teaching Type": "Offline",
+      "LO": "CLO5",
+      "ITU": "T",
+      "Student Materials": "Chapter 3, Main book",
+      "S-Download": "",
+      "Student's Tasks": "Preview lecture note",
+      "URLs": ""
+    },
+    {
+      "Session": "17",
+      "Topic": "Mysql server Installation Lab (Lab #1)",
+      "Learning-Teaching Type": "Offline",
+      "LO": "CLO5",
+      "ITU": "U",
+      "Student Materials": "",
+      "S-Download": "",
+      "Student's Tasks": "Preview lecture note",
+      "URLs": ""
+    },
+    {
+      "Session": "18",
+      "Topic": "Mysql server Installation Lab (Lab #1) (cont)",
+      "Learning-Teaching Type": "Offline",
+      "LO": "CLO5",
+      "ITU": "U",
+      "Student Materials": "",
+      "S-Download": "",
+      "Student's Tasks": "Preview lecture note",
+      "URLs": ""
+    },
+    {
+      "Session": "19",
+      "Topic": "- Planning for a Microsoft SQL Server Installation - Installation - Configuration - Additional Security Considerations for SQL Server",
+      "Learning-Teaching Type": "Offline",
+      "LO": "CLO6",
+      "ITU": "T",
+      "Student Materials": "Chapter 4, Main book",
+      "S-Download": "",
+      "Student's Tasks": "Preview lecture note",
+      "URLs": ""
+    },
+    {
+      "Session": "20",
+      "Topic": "- Case Study #1: Microsoft SQL Server Identify the Edition - Case Study #2: Microsoft SQL Server Community - Case Study #3: Implementing Security Measures",
+      "Learning-Teaching Type": "Offline",
+      "LO": "CLO6",
+      "ITU": "T",
+      "Student Materials": "Chapter 4, Main book",
+      "S-Download": "",
+      "Student's Tasks": "Preview lecture note",
+      "URLs": ""
+    },
+    {
+      "Session": "21",
+      "Topic": "SQL server Installation Lab (Lab #2)",
+      "Learning-Teaching Type": "Offline",
+      "LO": "CLO6",
+      "ITU": "U",
+      "Student Materials": "",
+      "S-Download": "",
+      "Student's Tasks": "Preview lecture note",
+      "URLs": ""
+    },
+    {
+      "Session": "22",
+      "Topic": "SQL server Installation Lab (Lab #2 (cont) Progress test 1",
+      "Learning-Teaching Type": "Offline",
+      "LO": "CLO6",
+      "ITU": "U",
+      "Student Materials": "",
+      "S-Download": "",
+      "Student's Tasks": "Preview lecture note",
+      "URLs": ""
+    },
+    {
+      "Session": "23",
+      "Topic": "- Planning for an Oracle Deployment - Installation on Windows - Configuration - Additional Security Considerations",
+      "Learning-Teaching Type": "Offline",
+      "LO": "CLO7",
+      "ITU": "T",
+      "Student Materials": "Chapter 5, Main book",
+      "S-Download": "",
+      "Student's Tasks": "Preview lecture note",
+      "URLs": ""
+    },
+    {
+      "Session": "24",
+      "Topic": "- Case Study #1: Estimating Required Hardware - Case Study #2: Oracle University - Case Study #3: Oracle Metalink - Case Study #4: Implementing Security Measures",
+      "Learning-Teaching Type": "Offline",
+      "LO": "CLO7",
+      "ITU": "T",
+      "Student Materials": "Chapter 5, Main book",
+      "S-Download": "",
+      "Student's Tasks": "Preview lecture note",
+      "URLs": ""
+    },
+    {
+      "Session": "25",
+      "Topic": "- Planning for an Oracle Deployment - Installation on UNIX-based Systems - Configuration - Additional Security Considerations",
+      "Learning-Teaching Type": "Offline",
+      "LO": "CLO7",
+      "ITU": "T",
+      "Student Materials": "Chapter 5, Main book",
+      "S-Download": "",
+      "Student's Tasks": "Preview lecture note",
+      "URLs": ""
+    },
+    {
+      "Session": "26",
+      "Topic": "- Case Study #1: Estimating Required Hardware - Case Study #2: Oracle University - Case Study #3: Oracle Metalink - Case Study #4: Implementing Security Measures",
+      "Learning-Teaching Type": "Offline",
+      "LO": "CLO7",
+      "ITU": "T",
+      "Student Materials": "Chapter 5, Main book",
+      "S-Download": "",
+      "Student's Tasks": "Preview lecture note",
+      "URLs": ""
+    },
+    {
+      "Session": "27",
+      "Topic": "Oracle server Installation Lab (Lab #3)",
+      "Learning-Teaching Type": "Offline",
+      "LO": "CLO7",
+      "ITU": "U",
+      "Student Materials": "",
+      "S-Download": "",
+      "Student's Tasks": "Preview lecture note",
+      "URLs": ""
+    },
+    {
+      "Session": "28",
+      "Topic": "Oracle server Installation Lab (Lab #3) (cont)",
+      "Learning-Teaching Type": "Offline",
+      "LO": "CLO7",
+      "ITU": "U",
+      "Student Materials": "",
+      "S-Download": "",
+      "Student's Tasks": "Preview lecture note",
+      "URLs": ""
+    },
+    {
+      "Session": "29",
+      "Topic": "- Authentication - Authorization",
+      "Learning-Teaching Type": "Offline",
+      "LO": "CLO8",
+      "ITU": "T",
+      "Student Materials": "Chapter 6, Main book",
+      "S-Download": "",
+      "Student's Tasks": "Preview lecture note",
+      "URLs": ""
+    },
+    {
+      "Session": "30",
+      "Topic": "- Case Study #1: Database Password Policies - Case Study #2: User Management Policies - Case Study #3: MySQL User Accounts",
+      "Learning-Teaching Type": "Offline",
+      "LO": "CLO8",
+      "ITU": "T",
+      "Student Materials": "Chapter 6, Main book",
+      "S-Download": "",
+      "Student's Tasks": "Preview lecture note",
+      "URLs": ""
+    },
+    {
+      "Session": "31",
+      "Topic": "Securing MySQL Environment Lab (Lab #4)",
+      "Learning-Teaching Type": "Offline",
+      "LO": "CLO8",
+      "ITU": "U",
+      "Student Materials": "",
+      "S-Download": "",
+      "Student's Tasks": "Preview lecture note",
+      "URLs": ""
+    },
+    {
+      "Session": "32",
+      "Topic": "Securing MySQL Environment Lab (Lab #4) (cont)",
+      "Learning-Teaching Type": "Offline",
+      "LO": "CLO8",
+      "ITU": "U",
+      "Student Materials": "",
+      "S-Download": "",
+      "Student's Tasks": "Preview lecture note",
+      "URLs": ""
+    },
+    {
+      "Session": "33",
+      "Topic": "- Inference",
+      "Learning-Teaching Type": "Offline",
+      "LO": "CLO8",
+      "ITU": "T",
+      "Student Materials": "Chapter 6, Main book",
+      "S-Download": "",
+      "Student's Tasks": "Preview lecture note",
+      "URLs": ""
+    },
+    {
+      "Session": "34",
+      "Topic": "- Case Study #4: Oracle, User Management, and PLSQL - Case Study #5: SQL, Users, Server Management Studio, and Transact-SQL",
+      "Learning-Teaching Type": "Offline",
+      "LO": "CLO8",
+      "ITU": "T",
+      "Student Materials": "Chapter 6, Main book",
+      "S-Download": "",
+      "Student's Tasks": "Preview lecture note",
+      "URLs": ""
+    },
+    {
+      "Session": "35",
+      "Topic": "Securing Oracle Environment Lab (Lab #5)",
+      "Learning-Teaching Type": "Offline",
+      "LO": "CLO8",
+      "ITU": "U",
+      "Student Materials": "",
+      "S-Download": "",
+      "Student's Tasks": "Preview lecture note",
+      "URLs": ""
+    },
+    {
+      "Session": "36",
+      "Topic": "Securing Oracle Environment Lab (Lab #5) (cont)",
+      "Learning-Teaching Type": "Offline",
+      "LO": "CLO8",
+      "ITU": "U",
+      "Student Materials": "",
+      "S-Download": "",
+      "Student's Tasks": "Preview lecture note",
+      "URLs": ""
+    },
+    {
+      "Session": "37",
+      "Topic": "- Understanding SQL Injections - Identifying Vulnerabilities",
+      "Learning-Teaching Type": "Offline",
+      "LO": "CLO9",
+      "ITU": "T",
+      "Student Materials": "Chapter 7, Main book",
+      "S-Download": "",
+      "Student's Tasks": "Preview lecture note",
+      "URLs": ""
+    },
+    {
+      "Session": "38",
+      "Topic": "- Case Study #1: Web Applications - Case Study #2: Source Code Analysis Tools - Case Study #3: The Data Retieval Process",
+      "Learning-Teaching Type": "Offline",
+      "LO": "CLO9",
+      "ITU": "T",
+      "Student Materials": "Chapter 7, Main book",
+      "S-Download": "",
+      "Student's Tasks": "Preview lecture note",
+      "URLs": ""
+    },
+    {
+      "Session": "39",
+      "Topic": "Test the sites for SQL injection vulnerability Lab (Lab #6)",
+      "Learning-Teaching Type": "Offline",
+      "LO": "CLO9",
+      "ITU": "U",
+      "Student Materials": "",
+      "S-Download": "",
+      "Student's Tasks": "Preview lecture note",
+      "URLs": ""
+    },
+    {
+      "Session": "40",
+      "Topic": "Test the sites for SQL injection vulnerability Lab (Lab #6) (cont)",
+      "Learning-Teaching Type": "Offline",
+      "LO": "CLO9",
+      "ITU": "U",
+      "Student Materials": "",
+      "S-Download": "",
+      "Student's Tasks": "Preview lecture note",
+      "URLs": ""
+    },
+    {
+      "Session": "41",
+      "Topic": "- Identifying Vulnerabilities",
+      "Learning-Teaching Type": "Offline",
+      "LO": "CLO9, CLO10",
+      "ITU": "T",
+      "Student Materials": "Chapter 7, Main book",
+      "S-Download": "",
+      "Student's Tasks": "Preview lecture note",
+      "URLs": ""
+    },
+    {
+      "Session": "42",
+      "Topic": "- Case Study #4: SQL Server SQL injections - Case Study #5: Oracle SQL Injections - Case Study #6: MySQL SQL Injections",
+      "Learning-Teaching Type": "Offline",
+      "LO": "CLO9, CLO10",
+      "ITU": "T",
+      "Student Materials": "Chapter 7, Main book",
+      "S-Download": "",
+      "Student's Tasks": "Preview lecture note",
+      "URLs": ""
+    },
+    {
+      "Session": "43",
+      "Topic": "SQL injection vulnerability Lab (Lab #7)",
+      "Learning-Teaching Type": "Offline",
+      "LO": "CLO9, CLO10",
+      "ITU": "U",
+      "Student Materials": "",
+      "S-Download": "",
+      "Student's Tasks": "Preview lecture note",
+      "URLs": ""
+    },
+    {
+      "Session": "44",
+      "Topic": "SQL injection vulnerability Lab (Lab #7) (cont) Progress test 2",
+      "Learning-Teaching Type": "Offline",
+      "LO": "CLO9, CLO10",
+      "ITU": "U",
+      "Student Materials": "",
+      "S-Download": "",
+      "Student's Tasks": "Preview lecture note",
+      "URLs": ""
+    },
+    {
+      "Session": "45",
+      "Topic": "- Exploitation and Information Gathering - Extracting the Real Data",
+      "Learning-Teaching Type": "Offline",
+      "LO": "CLO10, CLO11",
+      "ITU": "T",
+      "Student Materials": "Chapter 8, Main book",
+      "S-Download": "",
+      "Student's Tasks": "Review lecture note and exercises done",
+      "URLs": ""
+    },
+    {
+      "Session": "46",
+      "Topic": "- Case Study #1: Defending Against Web Application Exploitation - Case Study #2: Time Delays - Project slot 3: 1st Report the progress of Project",
+      "Learning-Teaching Type": "Offline",
+      "LO": "CLO10, CLO11",
+      "ITU": "T",
+      "Student Materials": "Chapter 8, Main book",
+      "S-Download": "",
+      "Student's Tasks": "Review lecture note and exercises done",
+      "URLs": ""
+    },
+    {
+      "Session": "47",
+      "Topic": "- Exploitation of Privileges and Passwords - Defending Against Exploitation",
+      "Learning-Teaching Type": "Offline",
+      "LO": "CLO12",
+      "ITU": "T",
+      "Student Materials": "Chapter 8, Main book",
+      "S-Download": "",
+      "Student's Tasks": "Preview lecture note",
+      "URLs": ""
+    },
+    {
+      "Session": "48",
+      "Topic": "- Case Study #3: Oracle Vulnerability - Case Study #4: Microsoft SQL Server Vulnerability - Case Study #5: MySQL Vulnerability",
+      "Learning-Teaching Type": "Offline",
+      "LO": "CLO12",
+      "ITU": "T",
+      "Student Materials": "Chapter 8, Main book",
+      "S-Download": "",
+      "Student's Tasks": "Preview lecture note",
+      "URLs": ""
+    },
+    {
+      "Session": "49",
+      "Topic": "Exploitation Awareness Lab (Lab #8)",
+      "Learning-Teaching Type": "Offline",
+      "LO": "CLO12",
+      "ITU": "U",
+      "Student Materials": "",
+      "S-Download": "",
+      "Student's Tasks": "Preview lecture note",
+      "URLs": ""
+    },
+    {
+      "Session": "50",
+      "Topic": "Exploitation Awareness Lab (Lab #8) (cont)",
+      "Learning-Teaching Type": "Offline",
+      "LO": "CLO12",
+      "ITU": "U",
+      "Student Materials": "",
+      "S-Download": "",
+      "Student's Tasks": "Preview lecture note",
+      "URLs": ""
+    },
+    {
+      "Session": "51",
+      "Topic": "- Security Auditing - Case Study #1: Auditing Organizations - Case Study #2: Internal Controls",
+      "Learning-Teaching Type": "Offline",
+      "LO": "CLO13, CLO14",
+      "ITU": "U",
+      "Student Materials": "Chapter 9, Main book",
+      "S-Download": "",
+      "Student's Tasks": "Preview lecture note",
+      "URLs": ""
+    },
+    {
+      "Session": "52",
+      "Topic": "Project slot 4: Final report the Project",
+      "Learning-Teaching Type": "Offline",
+      "LO": "CLO13, CLO14",
+      "ITU": "U",
+      "Student Materials": "Chapter 9, Main book",
+      "S-Download": "",
+      "Student's Tasks": "Preview lecture note",
+      "URLs": ""
+    },
+    {
+      "Session": "53",
+      "Topic": "- Database Auditing - Case Study #3: Database Auditing",
+      "Learning-Teaching Type": "Offline",
+      "LO": "CLO13, CLO14",
+      "ITU": "T",
+      "Student Materials": "Chapter 9, Main book",
+      "S-Download": "",
+      "Student's Tasks": "Preview lecture note",
+      "URLs": ""
+    },
+    {
+      "Session": "54",
+      "Topic": "- Case Study #4: Auditing Oracle - Case Study #5: Auditing MySQL - Case Study #6: Auditing Microsoft SQL Server",
+      "Learning-Teaching Type": "Offline",
+      "LO": "CLO13, CLO14",
+      "ITU": "T",
+      "Student Materials": "Chapter 9, Main book",
+      "S-Download": "",
+      "Student's Tasks": "Preview lecture note",
+      "URLs": ""
+    },
+    {
+      "Session": "55",
+      "Topic": "Creating and Implementing an Audit Lab (Lab #9)",
+      "Learning-Teaching Type": "Offline",
+      "LO": "CLO13, CLO14",
+      "ITU": "U",
+      "Student Materials": "",
+      "S-Download": "",
+      "Student's Tasks": "Preview lecture note",
+      "URLs": ""
+    },
+    {
+      "Session": "56",
+      "Topic": "Creating and Implementing an Audit Lab (Lab #9) (cont)",
+      "Learning-Teaching Type": "Offline",
+      "LO": "CLO13, CLO14",
+      "ITU": "U",
+      "Student Materials": "",
+      "S-Download": "",
+      "Student's Tasks": "Preview lecture note",
+      "URLs": ""
+    },
+    {
+      "Session": "57",
+      "Topic": "- Security Testing - Testing Methodology - Case Study #1: Database Security - Case Study #2: Passive Reconnaissance Tools",
+      "Learning-Teaching Type": "Offline",
+      "LO": "CLO15, CLO16",
+      "ITU": "T",
+      "Student Materials": "Chapter 10, Main book",
+      "S-Download": "",
+      "Student's Tasks": "Preview lecture note",
+      "URLs": ""
+    },
+    {
+      "Session": "58",
+      "Topic": "Case Study #3: Active Reconnaissance Tools - Case Study #4: Capturing Passwords - Case Study #5: SQL Server’s Security Template",
+      "Learning-Teaching Type": "Offline",
+      "LO": "CLO15, CLO16",
+      "ITU": "T",
+      "Student Materials": "Chapter 10, Main book",
+      "S-Download": "",
+      "Student's Tasks": "Preview lecture note",
+      "URLs": ""
+    },
+    {
+      "Session": "59",
+      "Topic": "Black Box & White Box Database Security Test Lab (Lab #10) Progress test 3",
+      "Learning-Teaching Type": "Offline",
+      "LO": "CLO15, CLO16",
+      "ITU": "U",
+      "Student Materials": "",
+      "S-Download": "",
+      "Student's Tasks": "Preview lecture note",
+      "URLs": ""
+    },
+    {
+      "Session": "60",
+      "Topic": "- MySQL - SQL - Oracle - Security Testing - Security Auditing - Database Security",
+      "Learning-Teaching Type": "Offline",
+      "LO": "CLO15, CLO16",
+      "ITU": "T",
+      "Student Materials": "",
+      "S-Download": "",
+      "Student's Tasks": "Prepare review questions",
+      "URLs": ""
+    }
+  ],
+  "constructive_questions": [
+    {
+      "No.": "1",
+      "Session No": "1",
+      "Name": "CQ1.1",
+      "Details": "What are three main items that are utilized in achieving security objectives in order to protect our database system?"
+    },
+    {
+      "No.": "2",
+      "Session No": "2",
+      "Name": "CQ1.2",
+      "Details": "What are six common errors that users make on a network? Give examples for each?"
+    },
+    {
+      "No.": "3",
+      "Session No": "3",
+      "Name": "CQ1.3",
+      "Details": "How many ways that the internet can be userd as a tool to compromise information security? What are they?"
+    },
+    {
+      "No.": "4",
+      "Session No": "4",
+      "Name": "CQ2.1",
+      "Details": "How many phase are there in the process of creating and maintaining a security architecture?"
+    },
+    {
+      "No.": "5",
+      "Session No": "5",
+      "Name": "CQ2.2",
+      "Details": "What are difference between an update and an upgrade?"
+    },
+    {
+      "No.": "6",
+      "Session No": "6",
+      "Name": "CQ2.3",
+      "Details": "Which backup media would be most appropriate for a large enterprise or network?"
+    },
+    {
+      "No.": "7",
+      "Session No": "7",
+      "Name": "CQ3.1",
+      "Details": "What is a database, a DBMS?"
+    },
+    {
+      "No.": "8",
+      "Session No": "8",
+      "Name": "CQ3.2",
+      "Details": "What are the common components with DBMSs? List the common components of a table."
+    },
+    {
+      "No.": "9",
+      "Session No": "9",
+      "Name": "CQ3.3",
+      "Details": "What are the advantages to using keys rather than specific table entries?"
+    },
+    {
+      "No.": "10",
+      "Session No": "10",
+      "Name": "CQ4.1",
+      "Details": "How many main database models are there? What are they?"
+    },
+    {
+      "No.": "11",
+      "Session No": "11",
+      "Name": "CQ4.2",
+      "Details": "How many relationship types? Give a brief explaination of each?"
+    },
+    {
+      "No.": "12",
+      "Session No": "12",
+      "Name": "CQ4.3",
+      "Details": "What are the three most prominent and fastest-growing RBDMSs?"
+    },
+    {
+      "No.": "13",
+      "Session No": "13",
+      "Name": "CQ5.1",
+      "Details": "How many main installation formats that can be used to install MySQL? What are they?"
+    },
+    {
+      "No.": "14",
+      "Session No": "14",
+      "Name": "CQ5.2",
+      "Details": "How many phase of manturity for release of MySQL are there? What are they?"
+    },
+    {
+      "No.": "15",
+      "Session No": "15",
+      "Name": "CQ5.3",
+      "Details": "What are the main goals of the milestone model?"
+    },
+    {
+      "No.": "16",
+      "Session No": "16",
+      "Name": "CQ6.1",
+      "Details": "What is the recommended version of MySQL to install for the first time?"
+    },
+    {
+      "No.": "17",
+      "Session No": "17",
+      "Name": "CQ6.2",
+      "Details": "How many ways are there to verify that a package has not been tampered with and is clean of Trojans?"
+    },
+    {
+      "No.": "18",
+      "Session No": "18",
+      "Name": "CQ6.3",
+      "Details": "How many practices are there to follow to ensure the protection of sensitive data?"
+    },
+    {
+      "No.": "19",
+      "Session No": "18",
+      "Name": "CQ6.4",
+      "Details": "What are four best practices for the protection of network connections?"
+    },
+    {
+      "No.": "20",
+      "Session No": "19",
+      "Name": "CQ7.1",
+      "Details": "What are decisions a network administrator should make prior to database installation?"
+    },
+    {
+      "No.": "21",
+      "Session No": "20",
+      "Name": "CQ7.2",
+      "Details": "How are editions of Microsoft SQL Server able to provide customization for specific network and environment scenarios?"
+    },
+    {
+      "No.": "22",
+      "Session No": "21",
+      "Name": "CQ7.3",
+      "Details": "Why is it better to install a unique username and password for each installed feautre, compared to one general username and password for all features?"
+    },
+    {
+      "No.": "23",
+      "Session No": "22",
+      "Name": "CQ8.1",
+      "Details": "What is Authentication Mode? Describe the steps that you would take to show an example of Authentication Mode when authienticating through Windows."
+    },
+    {
+      "No.": "24",
+      "Session No": "23",
+      "Name": "CQ8.2",
+      "Details": "Of the additional options and features available for Oracle, what are the security-specific applications?"
+    },
+    {
+      "No.": "25",
+      "Session No": "24",
+      "Name": "CQ8.3",
+      "Details": "What are benefits and drawbacks of offering an unrestricted, freely downloadable full version of Oracle DB to learners and developers?"
+    },
+    {
+      "No.": "26",
+      "Session No": "25",
+      "Name": "CQ9.1",
+      "Details": "What are two different password policies that can be enforced on an Oracle server?"
+    },
+    {
+      "No.": "27",
+      "Session No": "26",
+      "Name": "CQ9.2",
+      "Details": "What are three security practices to follow during installation of Oracle?"
+    },
+    {
+      "No.": "28",
+      "Session No": "27",
+      "Name": "CQ9.3",
+      "Details": "What are steps to create password policy and enforce it? Demo and test."
+    },
+    {
+      "No.": "29",
+      "Session No": "28",
+      "Name": "CQ10.1",
+      "Details": "What are steps to create password policy and enforce it? Demo and test. (cont)"
+    },
+    {
+      "No.": "30",
+      "Session No": "29",
+      "Name": "CQ10.2",
+      "Details": "What are difference between authentication and authorization?"
+    },
+    {
+      "No.": "31",
+      "Session No": "30",
+      "Name": "CQ10.3",
+      "Details": "What are difference between a login and a user account? Which is used for authentication?"
+    },
+    {
+      "No.": "32",
+      "Session No": "31",
+      "Name": "CQ11.1",
+      "Details": "What are two authentication methods? Explain them."
+    },
+    {
+      "No.": "33",
+      "Session No": "32",
+      "Name": "CQ11.2",
+      "Details": "What are different between the authentication modes of at least two of the three database vendors mentioned in the chapter (SQL Server, MySQL, Oracle)?"
+    },
+    {
+      "No.": "34",
+      "Session No": "33",
+      "Name": "CQ11.3",
+      "Details": "What are two written password policies that you find to be the most important? Explain why you chose those two."
+    },
+    {
+      "No.": "35",
+      "Session No": "34",
+      "Name": "CQ12.1",
+      "Details": "What are five best practices when adding and removing users?"
+    },
+    {
+      "No.": "36",
+      "Session No": "35",
+      "Name": "CQ12.2",
+      "Details": "What is the principle of least privilege? And how it should be applied within a database environment."
+    },
+    {
+      "No.": "37",
+      "Session No": "36",
+      "Name": "CQ12.3",
+      "Details": "What are three actions that can ben applied to a database environment to manage user access?"
+    },
+    {
+      "No.": "38",
+      "Session No": "37",
+      "Name": "CQ13.1",
+      "Details": "How many common strategies are there for execution of SQL Injection? What are they?"
+    },
+    {
+      "No.": "39",
+      "Session No": "38",
+      "Name": "CQ13.2",
+      "Details": "What are the challenges of typical conditions that create typical errors?"
+    },
+    {
+      "No.": "40",
+      "Session No": "39",
+      "Name": "CQ13.3",
+      "Details": "What are different between dynamic and static SQL statements? Provide an example to support your discussion."
+    },
+    {
+      "No.": "41",
+      "Session No": "40",
+      "Name": "CQ14.1",
+      "Details": "What is inferential testing? Explain it."
+    },
+    {
+      "No.": "42",
+      "Session No": "41",
+      "Name": "CQ14.2",
+      "Details": "What are some ways that HTTP data can be intercepted and changed?"
+    },
+    {
+      "No.": "43",
+      "Session No": "42",
+      "Name": "CQ14.3",
+      "Details": "Why is active testing as important as inferential testing when searching for SQL injection vulnerability?"
+    },
+    {
+      "No.": "44",
+      "Session No": "43",
+      "Name": "CQ15.1",
+      "Details": "What are some methods that source code analysis tools use to locate dangerous source code?"
+    },
+    {
+      "No.": "45",
+      "Session No": "44",
+      "Name": "CQ15.2",
+      "Details": "How is the common injection ' or '1'='1 can be used to test for SQL vulnerability? Demo."
+    },
+    {
+      "No.": "46",
+      "Session No": "45",
+      "Name": "CQ15.3",
+      "Details": "What are some ways that an intruder can identify the vendor of a DB? List and explain them."
+    },
+    {
+      "No.": "47",
+      "Session No": "46",
+      "Name": "CQ16.1",
+      "Details": "What are the constraints of the UNION statement? Provide some examples to support your answer."
+    },
+    {
+      "No.": "48",
+      "Session No": "47",
+      "Name": "CQ16.2",
+      "Details": "How to used UNION statement in conjunction with a SQL injection?"
+    },
+    {
+      "No.": "49",
+      "Session No": "48",
+      "Name": "CQ16.3",
+      "Details": "What is a conditional statement? Explain how it can help an intruder gather information from a system?"
+    },
+    {
+      "No.": "50",
+      "Session No": "49",
+      "Name": "CQ17.1",
+      "Details": "What are some ways that intruders can defeat web application filters? List and explain them."
+    },
+    {
+      "No.": "51",
+      "Session No": "50",
+      "Name": "CQ17.2",
+      "Details": "What are some ways that privileges can be escalated or obtained by an intruder from within the system?"
+    },
+    {
+      "No.": "52",
+      "Session No": "50",
+      "Name": "CQ17.3",
+      "Details": "How can the use of bond parameters help defend against web application exploitation?"
+    },
+    {
+      "No.": "53",
+      "Session No": "51",
+      "Name": "CQ17.4",
+      "Details": "What are purpose of an internal audit and an external audit?"
+    },
+    {
+      "No.": "54",
+      "Session No": "52",
+      "Name": "CQ18.1",
+      "Details": "Who might be included within an auditing team for both formal and informal audits?"
+    },
+    {
+      "No.": "55",
+      "Session No": "53",
+      "Name": "CQ18.2",
+      "Details": "What are the goals of an auditor? Provide some examples to support your response."
+    },
+    {
+      "No.": "56",
+      "Session No": "54",
+      "Name": "CQ18.3",
+      "Details": "Which documents that would likely be reviewd in the plainning and preparation phase of a formal external audit?"
+    },
+    {
+      "No.": "57",
+      "Session No": "55",
+      "Name": "CQ19.1",
+      "Details": "what is the different between a scope and perimeter?"
+    },
+    {
+      "No.": "58",
+      "Session No": "56",
+      "Name": "CQ19.2",
+      "Details": "Which are typical sections of information included within an audit report?"
+    },
+    {
+      "No.": "59",
+      "Session No": "56",
+      "Name": "CQ19.3",
+      "Details": "Which documents that would likely be reviewd in the plainning and preparation phase of a database-specific informal audit?"
+    },
+    {
+      "No.": "60",
+      "Session No": "57",
+      "Name": "CQ19.4",
+      "Details": "How is a security test differs from a security audit?"
+    },
+    {
+      "No.": "61",
+      "Session No": "57",
+      "Name": "CQ19.5",
+      "Details": "What are different characteristics of internal and external security tests?"
+    },
+    {
+      "No.": "62",
+      "Session No": "58",
+      "Name": "CQ20.1",
+      "Details": "How are different between the planning stage for a black-box test and a white-box test?"
+    },
+    {
+      "No.": "63",
+      "Session No": "58",
+      "Name": "CQ20.2",
+      "Details": "For what scenario is a security test a better fit than a securit audit?"
+    },
+    {
+      "No.": "64",
+      "Session No": "59",
+      "Name": "CQ20.3",
+      "Details": "What are benefits of a standardized security testing methodology?"
+    },
+    {
+      "No.": "65",
+      "Session No": "59",
+      "Name": "CQ20.4",
+      "Details": "What is the difference between information gathering for preparation of a security test and information gathering during a security test?"
+    },
+    {
+      "No.": "66",
+      "Session No": "60",
+      "Name": "CQ20.5",
+      "Details": "What are some ways an intruder can gain access to an infrastucture? List and explain them."
+    }
+  ],
+  "materials": [
+    {
+      "No.": "1",
+      "Material Description": "Database Security",
+      "Author": "Basta, Alfred and Zgola, Melissa",
+      "Publisher": "Course Technology, Cengage Learning",
+      "Published Date": "2012",
+      "Edition": "",
+      "ISBN": "978-1-4354-5390-6",
+      "Is Main Material": "True",
+      "Is Hard Copy": "True",
+      "Is Online": "False",
+      "Note": ""
+    },
+    {
+      "No.": "2",
+      "Material Description": "Open Source: Technology and Policy",
+      "Author": "Fadi P. Deek, James A. M. McHugh",
+      "Publisher": "Cambridge University Press",
+      "Published Date": "2008",
+      "Edition": "",
+      "ISBN": "9780521881036",
+      "Is Main Material": "False",
+      "Is Hard Copy": "False",
+      "Is Online": "True",
+      "Note": "https://library.books24x7.com/toc.aspx?bookid=13906"
+    },
+    {
+      "No.": "3",
+      "Material Description": "Security + Guide to Network Security Fundamentals",
+      "Author": "",
+      "Publisher": "Boston: Course Technology",
+      "Published Date": "2009",
+      "Edition": "",
+      "ISBN": "9781428340664",
+      "Is Main Material": "False",
+      "Is Hard Copy": "True",
+      "Is Online": "False",
+      "Note": ""
+    }
+  ],
+  "source_path": "data/raw/syllabi/11199.html",
+  "id": "syllabus:11199"
+}

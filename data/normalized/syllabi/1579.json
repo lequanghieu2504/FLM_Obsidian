@@ -1,0 +1,292 @@
+{
+  "syllabus_id": 1579,
+  "subject_code": "NWC203",
+  "subject_name": "Computer Networking_Mạng máy tính",
+  "syllabus_name": "Computer Networking",
+  "credits": 3,
+  "degree_level": "Bachelor",
+  "time_allocation": "Online: 60 hours+5 slot offline",
+  "prerequisite": "",
+  "general_information": {
+    "Syllabus ID": "1579",
+    "Syllabus Name": "Computer Networking",
+    "Course Name English": "",
+    "Subject Code": "NWC203",
+    "Learning-Teaching Method": "",
+    "NoCredit": "3",
+    "Degree Level": "Bachelor",
+    "Time Allocation": "Online: 60 hours+5 slot offline",
+    "Pre-Requisite": "",
+    "Description": "This course provide the basics of how data is sent and received in a network and how small computer networks are created, introduce a variety of concepts, practice activities and simulations that help build the learner’s skills and understanding of computer networking. You will learn how to set up a basic home network, configure devices for connectivity, understand how communication takes place on a network, and what minimal best practices should be implemented to secure the network. Learners will also be introduced to Cisco IOS® software used to manage Cisco routers and switches. Assessment scheme: 1. Complete the online course to be allowed to take Final Exam 2. Final Exam is included of Final Theory Exam (TE) & Final Practical Exam (PE): 100% 3. Student gets 0.25 bonus points for each course completed on time. The total bonus point is not greater than 1. 4. Completion Criteria: Final TE Score >=4 & Final PE Score >=4 & ((Final TE Score + Final PE Score)/2 + bonus) >= 5 5. In the case: (5 > Final TE Score >=4) & (5 > Final PE Score >=4) & ((Final TE Score + Final PE Score)/2 + bonus) < 5, the student can choose to take the resit of both TE & PE OR just either TE or PE.",
+    "StudentTasks": "1. Students must attend more than 80% of offline slots in order to be accepted to the final examination. 2. Student must get the certification of Cisco Networking Basics specialization from Coursera to be accepted to the final examination.",
+    "Tools": "- Internet",
+    "Scoring Scale": "10",
+    "DecisionNo MM/dd/yyyy": "365/QĐ-ĐHFPT dated 04/01/2021",
+    "IsApproved": "True",
+    "Note": "",
+    "Is Scored": "True",
+    "MinAvgMarkToPass": "5",
+    "IsActive": "True",
+    "ApprovedDate": "4/1/2021"
+  },
+  "active": true,
+  "approved": true,
+  "decision": "365/QĐ-ĐHFPT dated 04/01/2021",
+  "description": "This course provide the basics of how data is sent and received in a network and how small computer networks are created, introduce a variety of concepts, practice activities and simulations that help build the learner’s skills and understanding of computer networking. You will learn how to set up a basic home network, configure devices for connectivity, understand how communication takes place on a network, and what minimal best practices should be implemented to secure the network. Learners will also be introduced to Cisco IOS® software used to manage Cisco routers and switches. Assessment scheme: 1. Complete the online course to be allowed to take Final Exam 2. Final Exam is included of Final Theory Exam (TE) & Final Practical Exam (PE): 100% 3. Student gets 0.25 bonus points for each course completed on time. The total bonus point is not greater than 1. 4. Completion Criteria: Final TE Score >=4 & Final PE Score >=4 & ((Final TE Score + Final PE Score)/2 + bonus) >= 5 5. In the case: (5 > Final TE Score >=4) & (5 > Final PE Score >=4) & ((Final TE Score + Final PE Score)/2 + bonus) < 5, the student can choose to take the resit of both TE & PE OR just either TE or PE.",
+  "learning_outcomes": [
+    {
+      "No.": "1",
+      "CLO Name": "CLO1",
+      "CLO Details": "Explain basic terminology related to computer networks"
+    },
+    {
+      "No.": "2",
+      "CLO Name": "CLO2",
+      "CLO Details": "Describe network protocols and architecture"
+    },
+    {
+      "No.": "3",
+      "CLO Name": "CLO3",
+      "CLO Details": "Describe the features and functions of various devices installed in a typical simple computer networks"
+    },
+    {
+      "No.": "4",
+      "CLO Name": "CLO4",
+      "CLO Details": "Describe the network services and applications for file transfer, web access, email, remote access and instant messaging"
+    },
+    {
+      "No.": "5",
+      "CLO Name": "CLO5",
+      "CLO Details": "Use various tools to verify network operations"
+    },
+    {
+      "No.": "6",
+      "CLO Name": "CLO6",
+      "CLO Details": "Implement basic networks (simple peer-to-peer network, home network, LAN network...)"
+    },
+    {
+      "No.": "7",
+      "CLO Name": "CLO7",
+      "CLO Details": "Explain the functions of typical devices, softwares, tools … regarding the construction and operation of Cisco network"
+    }
+  ],
+  "assessments": [
+    {
+      "No.": "1",
+      "Category": "PE",
+      "Type": "Final exam",
+      "Part": "1",
+      "Weight": "50.0%",
+      "Completion Criteria": "4",
+      "Duration": "120'",
+      "CLO": "All LOs",
+      "Question Type": "",
+      "No Question": "N/A",
+      "Knowledge and Skill": "All studied courses.",
+      "Grading Guide": "By exam board",
+      "Note": "Customized from the exercises of this specialization"
+    },
+    {
+      "No.": "2",
+      "Category": "TE",
+      "Type": "Final exam",
+      "Part": "1",
+      "Weight": "50.0%",
+      "Completion Criteria": "4",
+      "Duration": "60'",
+      "CLO": "",
+      "Question Type": "Computer gradable",
+      "No Question": "50",
+      "Knowledge and Skill": "All studied courses. Each module of course contributes 2-3 questions.",
+      "Grading Guide": "by Exam Board",
+      "Note": "Customized from the quizzes of this specialization"
+    }
+  ],
+  "schedule": [
+    {
+      "Session": "1",
+      "Topic": "Internet Connection: How to Get Online? - Communicating in a connected world - Getting online",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO1",
+      "ITU": "",
+      "Student Materials": "",
+      "S-Download": "",
+      "Student's Tasks": "Complete Week 1, 2 of the course Internet Connection: How to Get Online?",
+      "URLs": ""
+    },
+    {
+      "Session": "2",
+      "Topic": "Internet Connection: How to Get Online? - Exploring networks with packet tracer - Building a simple peer-to-peer networking Course 1 Review",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO1, LO6",
+      "ITU": "",
+      "Student Materials": "",
+      "S-Download": "",
+      "Student's Tasks": "Complete Week 3, 4 of the course Internet Connection: How to Get Online? - Deadline of Course 1 Completion: End of Friday of the week. - All Students have to participate in offline slot",
+      "URLs": ""
+    },
+    {
+      "Session": "3",
+      "Topic": "Network Protocols and Architecture - Principles of communication - Network design and addressing",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO2",
+      "ITU": "",
+      "Student Materials": "",
+      "S-Download": "",
+      "Student's Tasks": "Complete Week 1, 2 of the course Network Protocols and Architecture",
+      "URLs": ""
+    },
+    {
+      "Session": "4",
+      "Topic": "Network Protocols and Architecture - Communication on the local area network",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO2",
+      "ITU": "",
+      "Student Materials": "",
+      "S-Download": "",
+      "Student's Tasks": "Complete Week 3 of the course Network Protocols and Architecture",
+      "URLs": ""
+    },
+    {
+      "Session": "5",
+      "Topic": "Network Protocols and Architecture - The Internet Protocol (IP) Course 2 Review",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO2",
+      "ITU": "",
+      "Student Materials": "",
+      "S-Download": "",
+      "Student's Tasks": "Complete Week 4 of the course Network Protocols and Architecture - Deadline of Course 2 Completion: End of Friday of the week. - All Students have to participate in offline slot",
+      "URLs": ""
+    },
+    {
+      "Session": "6",
+      "Topic": "Data Communications and Network Services - Obtain addressing information automatically - Limitation of IPv4 and transitioning to IPv6",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO4",
+      "ITU": "",
+      "Student Materials": "",
+      "S-Download": "",
+      "Student's Tasks": "Complete Week 1, 2 of the course Data Communications and Network Services",
+      "URLs": ""
+    },
+    {
+      "Session": "7",
+      "Topic": "Data Communications and Network Services - Transporting data effectively and efficiently - Common network services Course 3 Review (Week 7 or Week 8) 1st Evaluation (For students completed & got Coursera's specialization certificates) (Option)",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO4",
+      "ITU": "",
+      "Student Materials": "",
+      "S-Download": "",
+      "Student's Tasks": "Complete Week 3, 4 of the course Data Communications and Network Services - Deadline of Course 3 Completion: End of Friday of the week. - All Students have to participate in offline slot",
+      "URLs": ""
+    },
+    {
+      "Session": "8",
+      "Topic": "Home Networking Basics - Principles of communication - Network design and addressing",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO2, LO6",
+      "ITU": "",
+      "Student Materials": "",
+      "S-Download": "",
+      "Student's Tasks": "Complete Week 1, 2 of the course Home Networking Basics",
+      "URLs": ""
+    },
+    {
+      "Session": "9",
+      "Topic": "Home Networking Basics - Communication on the local area network - The Internet Protocol (IP) Course 4 Review",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO2, LO6",
+      "ITU": "",
+      "Student Materials": "",
+      "S-Download": "",
+      "Student's Tasks": "Complete Week 3, 4 of the course Home Networking Basics - Deadline of Course 4 Completion: End of Friday of the week. - All Students have to participate in offline slot",
+      "URLs": ""
+    },
+    {
+      "Session": "10",
+      "Topic": "Introduction to Cisco Networking - Module 1: Creating larger networks - Module 2: Using the Cisco IOS Common Line Interface",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO3, LO5, LO7",
+      "ITU": "",
+      "Student Materials": "",
+      "S-Download": "",
+      "Student's Tasks": "Complete Week 1, 2 of the course Introduction to Cisco Networking",
+      "URLs": ""
+    },
+    {
+      "Session": "11",
+      "Topic": "Introduction to Cisco Networking - Module 3: Building a small Cisco network",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO3, LO5, LO7",
+      "ITU": "",
+      "Student Materials": "",
+      "S-Download": "",
+      "Student's Tasks": "Complete Week 3 of the course Introduction to Cisco Networking",
+      "URLs": ""
+    },
+    {
+      "Session": "11",
+      "Topic": "Introduction to Cisco Networking - Module 4: Troubleshooting common network problems Course 5 Review",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO3, LO5, LO7",
+      "ITU": "",
+      "Student Materials": "",
+      "S-Download": "",
+      "Student's Tasks": "Complete Week 4 of the course Introduction to Cisco Networking - Deadline of Course 5 Completion: End of Friday of the week. - All Students have to participate in offline slot",
+      "URLs": ""
+    },
+    {
+      "Session": "12",
+      "Topic": "2nd Evaluation (For students completed & got Coursera's specialization certificates)",
+      "Learning-Teaching Type": "Offline",
+      "LO": "All LOs",
+      "ITU": "",
+      "Student Materials": "",
+      "S-Download": "",
+      "Student's Tasks": "- Do TE quizzes and PE assignments",
+      "URLs": ""
+    },
+    {
+      "Session": "13",
+      "Topic": "3rd Evaluation (For students completed & got Coursera's specialization certificates)",
+      "Learning-Teaching Type": "Offline",
+      "LO": "All LOs",
+      "ITU": "",
+      "Student Materials": "",
+      "S-Download": "",
+      "Student's Tasks": "- Do TE quizzes and PE assignments",
+      "URLs": ""
+    }
+  ],
+  "constructive_questions": [],
+  "materials": [
+    {
+      "No.": "1",
+      "Material Description": "https://www.coursera.org/specializations/networking-basics? - Internet Connection: How to Get Online?: https://www.coursera.org/learn/internet-connection-how-to-get-online?specialization=networking-basics - Network Protocols and Architecture: https://www.coursera.org/learn/network-protocols-architecture?specialization=networking-basics - Data Communications and Network Services: https://www.coursera.org/learn/data-communication-network-services?specialization=networking-basics - Home Networking Basics: https://www.coursera.org/learn/home-networking-basics?specialization=networking-basics - Introduction to Cisco Networking: https://www.coursera.org/learn/cisco-networking-introduction",
+      "Author": "",
+      "Publisher": "Coursera",
+      "Published Date": "",
+      "Edition": "",
+      "ISBN": "",
+      "Is Main Material": "False",
+      "Is Hard Copy": "False",
+      "Is Online": "True",
+      "Note": ""
+    },
+    {
+      "No.": "2",
+      "Material Description": "https://learner.coursera.help/hc/en-us/articles/208280036-Coursera-Code-of-Conduct",
+      "Author": "",
+      "Publisher": "Coursera",
+      "Published Date": "",
+      "Edition": "",
+      "ISBN": "",
+      "Is Main Material": "False",
+      "Is Hard Copy": "False",
+      "Is Online": "True",
+      "Note": ""
+    }
+  ],
+  "source_path": "data/raw/syllabi/1579.html",
+  "id": "syllabus:1579"
+}

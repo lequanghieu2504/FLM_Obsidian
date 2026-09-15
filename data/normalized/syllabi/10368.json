@@ -1,0 +1,1580 @@
+{
+  "syllabus_id": 10368,
+  "subject_code": "CSD201",
+  "subject_name": "Data Structures and Algorithms_Cấu trúc dữ liệu và giải thuật",
+  "syllabus_name": "Data Structures and Algorithm_Cấu trúc dữ liệu và giải thuật",
+  "credits": 3,
+  "degree_level": "Bachelor",
+  "time_allocation": "Study hour (150h) = 45h contact hours + 1h TE + 85' PE + 102.6h self-study",
+  "prerequisite": "PRO192",
+  "general_information": {
+    "Syllabus ID": "10368",
+    "Syllabus Name": "Data Structures and Algorithm_Cấu trúc dữ liệu và giải thuật",
+    "Course Name English": "Data Structures and Algorithm",
+    "Subject Code": "CSD201",
+    "Learning-Teaching Method": "Social Constructivism,In-class lecture,Inquiry-based Teaching",
+    "NoCredit": "3",
+    "Degree Level": "Bachelor",
+    "Time Allocation": "Study hour (150h) = 45h contact hours + 1h TE + 85' PE + 102.6h self-study",
+    "Pre-Requisite": "PRO192",
+    "Description": "Upon finishing the course, students can: 1) Knowledge: Understand (ABET e) - the connection between data structures and their algorithms, including an analysis of algorithms' complexity; - data structurre in the context of object-oriented program design; - how data structure are implemented in an OO programming language such as Java 2) Able to (ABET e) - organize and manipulate basic structures: array, linked list, tree, heap, hash - use algorithms for traversing, sorting, searching on studying structures - select a suitable algorithm to solve a practical problem 3) Able to (ABET k) - use JAVA programming language for solving some problems - use Eclipse tool for developing programs in JAVA - Implement some programs in JAVA to solve practical problems based on the studying algorithms 4) Others: (ABET i) - Improve study skills (academic reading, information searching, ...)",
+    "StudentTasks": "- Students must attend at least 80% of contact sessions in order to be accepted to the final examination. - Student is responsible to do all exercises given by instructor in class or at home and submit on time - Promptly access to the https://flm.fpt.edu.vn/ for up-to-date course information",
+    "Tools": "",
+    "Scoring Scale": "10",
+    "DecisionNo MM/dd/yyyy": "358/QĐ-ĐHFPT dated 04/03/2024",
+    "IsApproved": "True",
+    "Note": "",
+    "Is Scored": "True",
+    "MinAvgMarkToPass": "5",
+    "IsActive": "True",
+    "ApprovedDate": "4/3/2024"
+  },
+  "active": true,
+  "approved": true,
+  "decision": "358/QĐ-ĐHFPT dated 04/03/2024",
+  "description": "Upon finishing the course, students can: 1) Knowledge: Understand (ABET e) - the connection between data structures and their algorithms, including an analysis of algorithms' complexity; - data structurre in the context of object-oriented program design; - how data structure are implemented in an OO programming language such as Java 2) Able to (ABET e) - organize and manipulate basic structures: array, linked list, tree, heap, hash - use algorithms for traversing, sorting, searching on studying structures - select a suitable algorithm to solve a practical problem 3) Able to (ABET k) - use JAVA programming language for solving some problems - use Eclipse tool for developing programs in JAVA - Implement some programs in JAVA to solve practical problems based on the studying algorithms 4) Others: (ABET i) - Improve study skills (academic reading, information searching, ...)",
+  "learning_outcomes": [
+    {
+      "No.": "1",
+      "CLO Name": "CLO1",
+      "CLO Details": "Describe the list data structure and its’ different way of implementations. Implement the singly linked list. LO1.1 Demonstrate the list data structure with basic operations: insert, remove, edit, search, sort,... LO1.2 Explain two ways of implementing a list: using arrays and using linked lists. LO1.3 Write programs to implement the singly linked list with basic operations: add (last, first, before, after, at position), search, edit, remove, reverse, sort... ) LO1.4 Understand the doubly linked-list data structure with basic operations. LO1.5 Write code snippets which manipulate operations on doubly linked list, and use diagrams to illustrate the effect. LO1.6 Describe the circularly linked-list data structure with some basic operations like add, remove. LO1.7 Expain why the Java code library provides the ArrayList and LinkedList classes"
+    },
+    {
+      "No.": "2",
+      "CLO Name": "CLO2",
+      "CLO Details": "Define stack and queue. Describe basic operations and the use of these structures. LO2.1 Define stack and queue. LO2.2 List and demonstrate the operations common to stacks and queues. LO2.3 Describe specific tasks to which stacks and queues are suited. LO2.4 Apply stacks to a specific application. LO2.5 Apply queues to a specific application. LO2.6 Write programs to implement stack and queue in Java programming language. LO2.7 Define and explain the need of priority queue."
+    },
+    {
+      "No.": "3",
+      "CLO Name": "CLO3",
+      "CLO Details": "Describe about recursive definitions, algorithms, functions and their implementation and use. LO3.1 Describe the basic ideas of recursion and how to set up recursive systems that represent certain real-world phenomena. LO3.2 Know how to develop recursive algorithms and programs LO3.3 Write programs in Java using recursion to solve some problems, like creating the Fibonacci sequence. LO3.4 Analyse a recursive function to find out its’ ouput without running. LO3.5 Explain type of recursive functions, give examples and comparing them. LO3.6 Compare recursion with iteration, analyzes their pros and cons"
+    },
+    {
+      "No.": "4",
+      "CLO Name": "CLO4",
+      "CLO Details": "Explain about general tree, Binary Tree and Binary Search Tree (BST). Implement BST with basic operations. LO4.1 Define general tree, Binary Tree and Binary Search Tree (BST). LO4.2 Given a BST and a sequence of insert and delete operations on it, draw the resulted tree. LO4.3 Find the smallest and largest elements, number of nodes in a tree and its’ height. LO4.4 Write code to implement features of a binary search tree, such as insertion, deletion, searching, traversals, nodes and height calculation, rotation ... LO4.5 Derive the time complexities for the above operations on a binary search tree. LO4.6 Compare a binary search tree over other data structures that we have discussed in class. LO4.7 Identify applications where a binary search tree will be useful. LO4.8 Define balanced BST and explane simple balancing algorithm. LO4.9 Define AVL Tree and explain by examples the insertion and deletion operations in it. LO5.10 Define heap and explain its’ application."
+    },
+    {
+      "No.": "5",
+      "CLO Name": "CLO5",
+      "CLO Details": "Díscuss about graphs and their application. Implement a graph with some basic operations. LO5.1 Demonstrate graphs and their applications. Define an undirected graph and directed graph. LO5.2 Explain basic notions about a graph: vertex, edge, adjacent vertices, incident edge,... LO5.3 Know how to represent a graph using matrix and list LO5.4 Able to apply BFS and DFS to traverse a graph LO5.5 Write prorams to implement Graph with BFS and DFS traversals using Java LO5.6 Explain the shortest path problem and Dijkstra’ algorithm. LO5.7 Write program in Java to implement Dijkstra’s shortest path algorithm. LO5.8 Define the minimum spanning tree and using the Kruskal’s algorithm to find it. LO5.9 Define Euler cycle/path and the necessary and sufficient conditions for their existance. LO5.10 Explain the algorithm to find Euler path / circuit using Stack and implement it in Java lannguage. LO5.11 Define Halmilton cycle/path and able to determine them using backtracking algorithm. LO5.12 Demonstrate the graph coloring and can apply Sequential coloring algorithm to color a graph."
+    },
+    {
+      "No.": "6",
+      "CLO Name": "CLO6",
+      "CLO Details": "Explain the operation and performance of some basic and advanced sorting alggorithms LO6.1 Explain the operation and performance of selection sort applying to arrays. LO6.2 Explain the operation and performance of insertion sort applying to arrays. LO6.3 Explain the operation and performance of bubble sort applying to arrays. LO6.4 Explain the operation and performance of quick sort applying to arrays. LO6.5 Explain the operation and performance of merge sort applying to arrays. LO6.6 Explain the operation and performance of heap sort applying to arrays. LO6.7 Demonstrate the operation and performance of radix sort."
+    },
+    {
+      "No.": "7",
+      "CLO Name": "CLO7",
+      "CLO Details": "Explain about hashing and application LO7.1 Explain the concept of \"hash\". Define concepts hash function and hash table and their application. LO7.2 Demonstrate the types of hash functions: Division, Folding,... LO7.2 Explain the collision and collision-handling. LO7.3 Explain the open addressing method for collision-resolution: lear and quadratic probing. LO7.4 Explain the chaining method for collision-resolution: separate chaining and Coalesced chaining. LO7.5 Define perfect hash function and extendible hashing."
+    },
+    {
+      "No.": "8",
+      "CLO Name": "CLO8",
+      "CLO Details": "Describe the Text Processing problem and its’ application. Explain the Huffman, LZW and Run-length encoding Algorithms. LO8.1 Describe the Text Processing problem and its’ application. LO8.2 Explain the Brute Force Text Pattern-Matching algorithm LO8.3 Describe the main idea of The Knuth-Morris-Pratt Algorithm LO8.4 Explain The Huffman Coding Algorithm. LO8.5 Explain steps needed to use The Huffman Coding Algorithm for compressing a text file. LO8.6 Explain the LZW encoding algorithm. LO8.7 Explain the Run-length encoding algorithm."
+    }
+  ],
+  "assessments": [
+    {
+      "No.": "1",
+      "Category": "Progress test (PT)",
+      "Type": "quiz",
+      "Part": "2",
+      "Weight": "20.0%",
+      "Completion Criteria": ">0",
+      "Duration": "Option 1: 20'-40' Option 2 (For Constructivism Approach only): Follow lecturer's proposal",
+      "CLO": "",
+      "Question Type": "Option 1: essay or multiple choice Option 2 (For Constructivism Approach only): Follow lecturer's proposal",
+      "No Question": "Option 1: 15-30 if multiple choice Option 2 (For Constructivism Approach only): Follow lecturer's proposal",
+      "Knowledge and Skill": "PT 1 LO1 - LO4 PT 2 LO5 - LO8 Number of questions: 3-8 for each LOx",
+      "Grading Guide": "on paper or using computer",
+      "Note": "Progress test must be taken right after the last lectures of required material. Instructor has resposibility to review the test for students after graded."
+    },
+    {
+      "No.": "2",
+      "Category": "Assignment (AS)",
+      "Type": "on-going",
+      "Part": "2",
+      "Weight": "20.0%",
+      "Completion Criteria": ">0",
+      "Duration": "Option 1: at home Option 2 (For Constructivism Approach only): Follow lecturer's proposal",
+      "CLO": "",
+      "Question Type": "Option 1: a problem similar to real one Option 2 (For Constructivism Approach only): Follow lecturer's proposal",
+      "No Question": "Option 1: 1 Option 2 (For Constructivism Approach only): Follow lecturer's proposal",
+      "Knowledge and Skill": "AS1: LO1 - LO3 AS2: LO4-LO6",
+      "Grading Guide": "Individual or team work, guided by instructor, submission by a given deadline",
+      "Note": ""
+    },
+    {
+      "No.": "3",
+      "Category": "Practical Exam",
+      "Type": "practical exam",
+      "Part": "1",
+      "Weight": "30.0%",
+      "Completion Criteria": ">0",
+      "Duration": "85'",
+      "CLO": "",
+      "Question Type": "Preferable to be marked by scripts",
+      "No Question": "1-2 small problems",
+      "Knowledge and Skill": "problem(s) to solve by programming (LO1, LO2, LO4, LO6)",
+      "Grading Guide": "supervised by proctor(s) sent by exam board",
+      "Note": "Automatic or manual evaluating"
+    },
+    {
+      "No.": "4",
+      "Category": "Final exam",
+      "Type": "Final exam",
+      "Part": "1",
+      "Weight": "30.0%",
+      "Completion Criteria": "4",
+      "Duration": "60'",
+      "CLO": "",
+      "Question Type": "multiple choice",
+      "No Question": "50",
+      "Knowledge and Skill": "questions distribution: LO1.x: 5 - 8 LO2.x: 5 - 8 LO3.x: 3 - 7 LO4.x: 5 - 10 LO5.x: 5 - 8 LO6.x: 3 - 5 LO7.x: 3 - 5 LO8.x: 3 - 5 more than 70% new questions (for the current semester);",
+      "Grading Guide": "supervised by proctor(s) sent by exam board",
+      "Note": ""
+    }
+  ],
+  "schedule": [
+    {
+      "Session": "1",
+      "Topic": "Course Introduction 1.1. Using Arrays 1.2. Singly Linked Lists",
+      "Learning-Teaching Type": "Offline",
+      "LO": "CLO1",
+      "ITU": "IT",
+      "Student Materials": "Text book, slides, exercises and sample practical examples",
+      "S-Download": "CSD201",
+      "Student's Tasks": "Study just learned materials, do writing exercises and redo practical examples and do assignment 1",
+      "URLs": ""
+    },
+    {
+      "Session": "2",
+      "Topic": "1.3. Circularly Linked Lists 1.4. Doubly Linked Lists",
+      "Learning-Teaching Type": "Offline",
+      "LO": "CLO1",
+      "ITU": "IT",
+      "Student Materials": "Text book, slides, exercises and sample practical examples",
+      "S-Download": "CSD201",
+      "Student's Tasks": "Study just learned materials, do writing exercises and redo practical examples and do assignment 1",
+      "URLs": ""
+    },
+    {
+      "Session": "3",
+      "Topic": "Progress test and/or Review Exercises",
+      "Learning-Teaching Type": "Offline",
+      "LO": "CLO1",
+      "ITU": "U",
+      "Student Materials": "Text book, slides, exercises and sample practical examples",
+      "S-Download": "",
+      "Student's Tasks": "Study just learned materials, do writing exercises and redo practical examples and do assignment 1",
+      "URLs": ""
+    },
+    {
+      "Session": "4",
+      "Topic": "Guiding Exercises/Assignment",
+      "Learning-Teaching Type": "Offline",
+      "LO": "CLO1",
+      "ITU": "U",
+      "Student Materials": "Text book, slides, exercises and sample practical examples",
+      "S-Download": "",
+      "Student's Tasks": "Study just learned materials, do writing exercises and redo practical examples and do assignment 1",
+      "URLs": ""
+    },
+    {
+      "Session": "5",
+      "Topic": "2.1 Stacks",
+      "Learning-Teaching Type": "Offline",
+      "LO": "CLO2",
+      "ITU": "ITU",
+      "Student Materials": "Text book, slides, exercises and sample practical examples",
+      "S-Download": "",
+      "Student's Tasks": "Study just learned materials, do writing exercises and redo practical examples and do assignment 1",
+      "URLs": ""
+    },
+    {
+      "Session": "6",
+      "Topic": "Guiding Exercises/Assignment",
+      "Learning-Teaching Type": "Offline",
+      "LO": "CLO2",
+      "ITU": "ITU",
+      "Student Materials": "Text book, slides, exercises and sample practical examples",
+      "S-Download": "",
+      "Student's Tasks": "Study just learned materials, do writing exercises and redo practical examples and do assignment 1",
+      "URLs": ""
+    },
+    {
+      "Session": "7",
+      "Topic": "2.2 Queues 2.3 Double-Ended Queues (Deque)",
+      "Learning-Teaching Type": "Offline",
+      "LO": "CLO2",
+      "ITU": "T",
+      "Student Materials": "Text book, slides, exercises and sample practical examples",
+      "S-Download": "",
+      "Student's Tasks": "Study just learned materials, do writing exercises and redo practical examples and do assignment 1",
+      "URLs": ""
+    },
+    {
+      "Session": "8",
+      "Topic": "2.4 The Priority Queue",
+      "Learning-Teaching Type": "Offline",
+      "LO": "CLO2",
+      "ITU": "T",
+      "Student Materials": "Text book, slides, exercises and sample practical examples",
+      "S-Download": "",
+      "Student's Tasks": "Study just learned materials, do writing exercises and redo practical examples and do assignment 1",
+      "URLs": ""
+    },
+    {
+      "Session": "9",
+      "Topic": "Progress test and/or Review Exercises",
+      "Learning-Teaching Type": "Offline",
+      "LO": "CLO2",
+      "ITU": "U",
+      "Student Materials": "Text book, slides, exercises and sample practical examples",
+      "S-Download": "",
+      "Student's Tasks": "Study just learned materials, do writing exercises and redo practical examples and do assignment 1",
+      "URLs": ""
+    },
+    {
+      "Session": "10",
+      "Topic": "Guiding Exercises/Assignment",
+      "Learning-Teaching Type": "Offline",
+      "LO": "CLO2",
+      "ITU": "U",
+      "Student Materials": "Text book, slides, exercises and sample practical examples",
+      "S-Download": "",
+      "Student's Tasks": "Study just learned materials, do writing exercises and redo practical examples and do assignment 1",
+      "URLs": ""
+    },
+    {
+      "Session": "11",
+      "Topic": "3.1 Illustrative Examples 3.1.1 The Factorial Function 3.1.2 Binary Search 3.1.3 File Systems",
+      "Learning-Teaching Type": "Offline",
+      "LO": "CLO3",
+      "ITU": "IT",
+      "Student Materials": "Text book, slides, exercises and sample practical examples",
+      "S-Download": "",
+      "Student's Tasks": "Study just learned materials, do writing exercises and redo practical examples and do assignment 1",
+      "URLs": ""
+    },
+    {
+      "Session": "12",
+      "Topic": "3.2 Analyzing Recursive Algorithms 3.3 Further Examples of Recursion 3.3.1 Linear Recursion 3.3.2 Binary Recursion 3.3.3 Multiple Recursion 3.4 Designing Recursive Algorithms 3.5 Eliminating Tail Recursion",
+      "Learning-Teaching Type": "Offline",
+      "LO": "CLO3",
+      "ITU": "IT",
+      "Student Materials": "Text book, slides, exercises and sample practical examples",
+      "S-Download": "",
+      "Student's Tasks": "Study just learned materials, do writing exercises and redo practical examples and do assignment 1",
+      "URLs": ""
+    },
+    {
+      "Session": "13",
+      "Topic": "Progress test and/or Review Exercises",
+      "Learning-Teaching Type": "Offline",
+      "LO": "CLO3",
+      "ITU": "U",
+      "Student Materials": "Text book, slides, exercises and sample practical examples",
+      "S-Download": "",
+      "Student's Tasks": "Study just learned materials, do writing exercises and redo practical examples and do assignment 1",
+      "URLs": ""
+    },
+    {
+      "Session": "14",
+      "Topic": "Guiding Exercises/Assignment",
+      "Learning-Teaching Type": "Offline",
+      "LO": "CLO3",
+      "ITU": "U",
+      "Student Materials": "Text book, slides, exercises and sample practical examples",
+      "S-Download": "",
+      "Student's Tasks": "Study just learned materials, do writing exercises and redo practical examples and do assignment 1",
+      "URLs": ""
+    },
+    {
+      "Session": "15",
+      "Topic": "4.1 General Trees 4.1.1 Tree Definitions and Properties 4.1.2 The Tree Abstract Data Type",
+      "Learning-Teaching Type": "Offline",
+      "LO": "CLO4",
+      "ITU": "T",
+      "Student Materials": "Text book, slides, exercises and sample practical examples",
+      "S-Download": "",
+      "Student's Tasks": "Study just learned materials, do writing exercises and redo practical examples and do assignment 1",
+      "URLs": ""
+    },
+    {
+      "Session": "16",
+      "Topic": "4.2 Binary Trees 4.2.1 The Binary Tree Abstract Data Type 4.2.2 Properties of Binary Trees 4.3 Implementing Trees 4.4 Tree Traversal Algorithms",
+      "Learning-Teaching Type": "Offline",
+      "LO": "CLO4",
+      "ITU": "T",
+      "Student Materials": "Text book, slides, exercises and sample practical examples",
+      "S-Download": "",
+      "Student's Tasks": "Study just learned materials, do writing exercises and redo practical examples and do assignment 1",
+      "URLs": ""
+    },
+    {
+      "Session": "17",
+      "Topic": "Progress test and/or Review Exercises Assignment evaluation",
+      "Learning-Teaching Type": "Offline",
+      "LO": "CLO4",
+      "ITU": "U",
+      "Student Materials": "Text book, slides, exercises and sample practical examples",
+      "S-Download": "",
+      "Student's Tasks": "Study just learned materials, do writing exercises and redo practical examples and do assignment 1",
+      "URLs": ""
+    },
+    {
+      "Session": "18",
+      "Topic": "Guiding Exercises/Assignment",
+      "Learning-Teaching Type": "Offline",
+      "LO": "CLO4",
+      "ITU": "U",
+      "Student Materials": "Text book, slides, exercises and sample practical examples",
+      "S-Download": "",
+      "Student's Tasks": "Study just learned materials, do writing exercises and redo practical examples and do assignment 1",
+      "URLs": ""
+    },
+    {
+      "Session": "19",
+      "Topic": "4.5 Binary Search Trees 4.5.1 Searching Within a Binary Search Tree",
+      "Learning-Teaching Type": "Offline",
+      "LO": "CLO4",
+      "ITU": "T",
+      "Student Materials": "Text book, slides, exercises and sample practical examples",
+      "S-Download": "",
+      "Student's Tasks": "Study just learned materials, do writing exercises and redo practical examples and do assignment 1",
+      "URLs": ""
+    },
+    {
+      "Session": "20",
+      "Topic": "4.5.2 Insertions and Deletions",
+      "Learning-Teaching Type": "Offline",
+      "LO": "CLO4",
+      "ITU": "T",
+      "Student Materials": "Text book, slides, exercises and sample practical examples",
+      "S-Download": "",
+      "Student's Tasks": "Study just learned materials, do writing exercises and redo practical examples and do assignment 1",
+      "URLs": ""
+    },
+    {
+      "Session": "21",
+      "Topic": "Progress test and/or Review Exercises",
+      "Learning-Teaching Type": "Offline",
+      "LO": "CLO4",
+      "ITU": "U",
+      "Student Materials": "Text book, slides, exercises and sample practical examples",
+      "S-Download": "",
+      "Student's Tasks": "Study just learned materials, do writing exercises and redo practical examples and do assignment 1",
+      "URLs": ""
+    },
+    {
+      "Session": "22",
+      "Topic": "Guiding Exercises/Assignment",
+      "Learning-Teaching Type": "Offline",
+      "LO": "CLO4",
+      "ITU": "U",
+      "Student Materials": "Text book, slides, exercises and sample practical examples",
+      "S-Download": "",
+      "Student's Tasks": "Study just learned materials, do writing exercises and redo practical examples and do assignment 1",
+      "URLs": ""
+    },
+    {
+      "Session": "23",
+      "Topic": "4.6 Balanced Search Trees 4.7 AVL Trees",
+      "Learning-Teaching Type": "Offline",
+      "LO": "CLO4",
+      "ITU": "T",
+      "Student Materials": "Text book, slides, exercises and sample practical examples",
+      "S-Download": "",
+      "Student's Tasks": "Study just learned materials, do writing exercises and redo practical examples and do assignment 1",
+      "URLs": ""
+    },
+    {
+      "Session": "24",
+      "Topic": "4.8 Heaps",
+      "Learning-Teaching Type": "Offline",
+      "LO": "CLO4",
+      "ITU": "T",
+      "Student Materials": "Text book, slides, exercises and sample practical examples",
+      "S-Download": "",
+      "Student's Tasks": "Study just learned materials, do writing exercises and redo practical examples and do assignment 1",
+      "URLs": ""
+    },
+    {
+      "Session": "25",
+      "Topic": "Progress test and/or Review Exercises",
+      "Learning-Teaching Type": "Offline",
+      "LO": "CLO4",
+      "ITU": "U",
+      "Student Materials": "Text book, slides, exercises and sample practical examples",
+      "S-Download": "",
+      "Student's Tasks": "Study just learned materials, do writing exercises and redo practical examples and do assignment 1",
+      "URLs": ""
+    },
+    {
+      "Session": "26",
+      "Topic": "Guiding Exercises/Assignment",
+      "Learning-Teaching Type": "Offline",
+      "LO": "CLO4",
+      "ITU": "U",
+      "Student Materials": "Text book, slides, exercises and sample practical examples",
+      "S-Download": "",
+      "Student's Tasks": "Study just learned materials, do writing exercises and redo practical examples and do assignment 1",
+      "URLs": ""
+    },
+    {
+      "Session": "27",
+      "Topic": "Progress test 1 and review",
+      "Learning-Teaching Type": "Offline",
+      "LO": "CLO4",
+      "ITU": "U",
+      "Student Materials": "Text book, slides, exercises and sample practical examples",
+      "S-Download": "",
+      "Student's Tasks": "Study just learned materials, do writing exercises and redo practical examples and do assignment 2",
+      "URLs": ""
+    },
+    {
+      "Session": "28",
+      "Topic": "Review",
+      "Learning-Teaching Type": "Offline",
+      "LO": "CLO4",
+      "ITU": "U",
+      "Student Materials": "Text book, slides, exercises and sample practical examples",
+      "S-Download": "",
+      "Student's Tasks": "Study just learned materials, do writing exercises and redo practical examples and do assignment 2",
+      "URLs": ""
+    },
+    {
+      "Session": "29",
+      "Topic": "5.1 Graphs 5.2 Data Structures for Graphs 5.2.1 Edge List Structure 5.2.2 Adjacency List Structure 5.2.3 Adjacency Matrix Structure",
+      "Learning-Teaching Type": "Offline",
+      "LO": "CLO5",
+      "ITU": "IT",
+      "Student Materials": "Text book, slides, exercises and sample practical examples",
+      "S-Download": "",
+      "Student's Tasks": "Study just learned materials, do writing exercises and redo practical examples and do assignment 2",
+      "URLs": ""
+    },
+    {
+      "Session": "30",
+      "Topic": "5.3 Graph Traversals 5.3.1 Depth-First Search 5.3.3 Breadth-First Search",
+      "Learning-Teaching Type": "Offline",
+      "LO": "CLO5",
+      "ITU": "IT",
+      "Student Materials": "Text book, slides, exercises and sample practical examples",
+      "S-Download": "",
+      "Student's Tasks": "Study just learned materials, do writing exercises and redo practical examples and do assignment 2",
+      "URLs": ""
+    },
+    {
+      "Session": "31",
+      "Topic": "Progress test and/or Review Exercises",
+      "Learning-Teaching Type": "Offline",
+      "LO": "CLO5",
+      "ITU": "U",
+      "Student Materials": "Text book, slides, exercises and sample practical examples",
+      "S-Download": "",
+      "Student's Tasks": "Study just learned materials, do writing exercises and redo practical examples and do assignment 2",
+      "URLs": ""
+    },
+    {
+      "Session": "32",
+      "Topic": "Guiding Exercises/Assignment",
+      "Learning-Teaching Type": "Offline",
+      "LO": "CLO5",
+      "ITU": "U",
+      "Student Materials": "Text book, slides, exercises and sample practical examples",
+      "S-Download": "",
+      "Student's Tasks": "Study just learned materials, do writing exercises and redo practical examples and do assignment 2",
+      "URLs": ""
+    },
+    {
+      "Session": "33",
+      "Topic": "5.4 Shortest Paths 5.4.1 Weighted Graphs",
+      "Learning-Teaching Type": "Offline",
+      "LO": "CLO5",
+      "ITU": "T",
+      "Student Materials": "Text book, slides, exercises and sample practical examples",
+      "S-Download": "",
+      "Student's Tasks": "Study just learned materials, do writing exercises and redo practical examples and do assignment 2",
+      "URLs": ""
+    },
+    {
+      "Session": "34",
+      "Topic": "5.4.2 Dijkstra’s Algorithm",
+      "Learning-Teaching Type": "Offline",
+      "LO": "CLO5",
+      "ITU": "T",
+      "Student Materials": "Text book, slides, exercises and sample practical examples",
+      "S-Download": "",
+      "Student's Tasks": "Study just learned materials, do writing exercises and redo practical examples and do assignment 2",
+      "URLs": ""
+    },
+    {
+      "Session": "35",
+      "Topic": "Progress test and/or Review Exercises",
+      "Learning-Teaching Type": "Offline",
+      "LO": "CLO5",
+      "ITU": "U",
+      "Student Materials": "Text book, slides, exercises and sample practical examples",
+      "S-Download": "",
+      "Student's Tasks": "Study just learned materials, do writing exercises and redo practical examples and do assignment 2",
+      "URLs": ""
+    },
+    {
+      "Session": "36",
+      "Topic": "Guiding Exercises/Assignment",
+      "Learning-Teaching Type": "Offline",
+      "LO": "CLO5",
+      "ITU": "U",
+      "Student Materials": "Text book, slides, exercises and sample practical examples",
+      "S-Download": "",
+      "Student's Tasks": "Study just learned materials, do writing exercises and redo practical examples and do assignment 2",
+      "URLs": ""
+    },
+    {
+      "Session": "37",
+      "Topic": "5.5 Minimum Spanning Trees 5.5.1 Prim-Jarn´ık Algorithm",
+      "Learning-Teaching Type": "Offline",
+      "LO": "CLO5",
+      "ITU": "T",
+      "Student Materials": "Text book, slides, exercises and sample practical examples",
+      "S-Download": "",
+      "Student's Tasks": "Study just learned materials, do writing exercises and redo practical examples and do assignment 2",
+      "URLs": ""
+    },
+    {
+      "Session": "38",
+      "Topic": "5.5.2 Kruskal’s Algorithm 5.6. Euler's tour and Euler's cycle",
+      "Learning-Teaching Type": "Offline",
+      "LO": "CLO5",
+      "ITU": "T",
+      "Student Materials": "Text book, slides, exercises and sample practical examples",
+      "S-Download": "",
+      "Student's Tasks": "Study just learned materials, do writing exercises and redo practical examples and do assignment 2",
+      "URLs": ""
+    },
+    {
+      "Session": "39",
+      "Topic": "Progress test and/or Review Exercises",
+      "Learning-Teaching Type": "Offline",
+      "LO": "CLO5",
+      "ITU": "U",
+      "Student Materials": "Text book, slides, exercises and sample practical examples",
+      "S-Download": "",
+      "Student's Tasks": "Study just learned materials, do writing exercises and redo practical examples and do assignment 2",
+      "URLs": ""
+    },
+    {
+      "Session": "40",
+      "Topic": "Guiding Exercises/Assignment",
+      "Learning-Teaching Type": "Offline",
+      "LO": "CLO5",
+      "ITU": "U",
+      "Student Materials": "Text book, slides, exercises and sample practical examples",
+      "S-Download": "",
+      "Student's Tasks": "Study just learned materials, do writing exercises and redo practical examples and do assignment 2",
+      "URLs": ""
+    },
+    {
+      "Session": "41",
+      "Topic": "6.1 Selection-Sort 6.2 Insertion-Sort",
+      "Learning-Teaching Type": "Offline",
+      "LO": "CLO6",
+      "ITU": "IT",
+      "Student Materials": "Text book, slides, exercises and sample practical examples",
+      "S-Download": "",
+      "Student's Tasks": "Study just learned materials, do writing exercises and redo practical examples and do assignment 2",
+      "URLs": ""
+    },
+    {
+      "Session": "42",
+      "Topic": "6.3 Bubble-sort 6.4 Quick-Sort",
+      "Learning-Teaching Type": "Offline",
+      "LO": "CLO6",
+      "ITU": "IT",
+      "Student Materials": "Text book, slides, exercises and sample practical examples",
+      "S-Download": "",
+      "Student's Tasks": "Study just learned materials, do writing exercises and redo practical examples and do assignment 2",
+      "URLs": ""
+    },
+    {
+      "Session": "43",
+      "Topic": "Progress test and/or Review Exercises",
+      "Learning-Teaching Type": "Offline",
+      "LO": "CLO6",
+      "ITU": "U",
+      "Student Materials": "Text book, slides, exercises and sample practical examples",
+      "S-Download": "",
+      "Student's Tasks": "Study just learned materials, do writing exercises and redo practical examples and do assignment 2",
+      "URLs": ""
+    },
+    {
+      "Session": "44",
+      "Topic": "Guiding Exercises/Assignment",
+      "Learning-Teaching Type": "Offline",
+      "LO": "CLO6",
+      "ITU": "U",
+      "Student Materials": "Text book, slides, exercises and sample practical examples",
+      "S-Download": "",
+      "Student's Tasks": "Study just learned materials, do writing exercises and redo practical examples and do assignment 2",
+      "URLs": ""
+    },
+    {
+      "Session": "45",
+      "Topic": "6.5 Merge-Sort 6.6 Heap-Sort",
+      "Learning-Teaching Type": "Offline",
+      "LO": "CLO6",
+      "ITU": "T",
+      "Student Materials": "Text book, slides, exercises and sample practical examples",
+      "S-Download": "",
+      "Student's Tasks": "Study just learned materials, do writing exercises and redo practical examples and do assignment 2",
+      "URLs": ""
+    },
+    {
+      "Session": "46",
+      "Topic": "6.7 Linear-Time Sorting: Bucket-Sort and Radix-Sort 6.8 Comparing Sorting Algorithms",
+      "Learning-Teaching Type": "Offline",
+      "LO": "CLO6",
+      "ITU": "T",
+      "Student Materials": "Text book, slides, exercises and sample practical examples",
+      "S-Download": "",
+      "Student's Tasks": "Study just learned materials, do writing exercises and redo practical examples and do assignment 2",
+      "URLs": ""
+    },
+    {
+      "Session": "47",
+      "Topic": "Progress test and/or Review Exercises",
+      "Learning-Teaching Type": "Offline",
+      "LO": "CLO6",
+      "ITU": "U",
+      "Student Materials": "Text book, slides, exercises and sample practical examples",
+      "S-Download": "",
+      "Student's Tasks": "Study just learned materials, do writing exercises and redo practical examples and do assignment 2",
+      "URLs": ""
+    },
+    {
+      "Session": "48",
+      "Topic": "Guiding Exercises/Assignment",
+      "Learning-Teaching Type": "Offline",
+      "LO": "CLO6",
+      "ITU": "U",
+      "Student Materials": "Text book, slides, exercises and sample practical examples",
+      "S-Download": "",
+      "Student's Tasks": "Study just learned materials, do writing exercises and redo practical examples and do assignment 2",
+      "URLs": ""
+    },
+    {
+      "Session": "49",
+      "Topic": "7.1 Hash Tables 7.2 Hash Functions 7.3 Collision-Handling",
+      "Learning-Teaching Type": "Offline",
+      "LO": "CLO7",
+      "ITU": "IT",
+      "Student Materials": "Text book, slides, exercises and sample practical examples",
+      "S-Download": "",
+      "Student's Tasks": "Study just learned materials, do writing exercises and redo practical examples and do assignment 2",
+      "URLs": ""
+    },
+    {
+      "Session": "50",
+      "Topic": "7.4 Load Factors, Rehashing, and Efficiency 7.5 Java Hash Table Implementation",
+      "Learning-Teaching Type": "Offline",
+      "LO": "CLO7",
+      "ITU": "IT",
+      "Student Materials": "Text book, slides, exercises and sample practical examples",
+      "S-Download": "",
+      "Student's Tasks": "Study just learned materials, do writing exercises and redo practical examples and do assignment 2",
+      "URLs": ""
+    },
+    {
+      "Session": "51",
+      "Topic": "Progress test and/or Review Exercises",
+      "Learning-Teaching Type": "Offline",
+      "LO": "CLO7",
+      "ITU": "U",
+      "Student Materials": "Text book, slides, exercises and sample practical examples",
+      "S-Download": "",
+      "Student's Tasks": "Study just learned materials, do writing exercises and redo practical examples and do assignment 2",
+      "URLs": ""
+    },
+    {
+      "Session": "52",
+      "Topic": "Guiding Exercises/Assignment",
+      "Learning-Teaching Type": "Offline",
+      "LO": "CLO7",
+      "ITU": "U",
+      "Student Materials": "Text book, slides, exercises and sample practical examples",
+      "S-Download": "",
+      "Student's Tasks": "Study just learned materials, do writing exercises and redo practical examples and do assignment 2",
+      "URLs": ""
+    },
+    {
+      "Session": "53",
+      "Topic": "8.1 Abundance of Digitized Text 8.2 Pattern-Matching Algorithms 8.2.1 Brute Force 8.2.2 The Knuth-Morris-Pratt Algorithm",
+      "Learning-Teaching Type": "Offline",
+      "LO": "CLO8",
+      "ITU": "IT",
+      "Student Materials": "Text book, slides, exercises and sample practical examples",
+      "S-Download": "",
+      "Student's Tasks": "Study just learned materials, do writing exercises and redo practical examples and do assignment 2",
+      "URLs": ""
+    },
+    {
+      "Session": "54",
+      "Topic": "8.3 Text Compression 8.3.1 The Huffman Coding Algorithm 8.3.2 The LZW Algorithm 8.3.3 The Run-length Encoding Algorithm",
+      "Learning-Teaching Type": "Offline",
+      "LO": "CLO8",
+      "ITU": "IT",
+      "Student Materials": "Text book, slides, exercises and sample practical examples",
+      "S-Download": "",
+      "Student's Tasks": "Study just learned materials, do writing exercises and redo practical examples and do assignment 2",
+      "URLs": ""
+    },
+    {
+      "Session": "55",
+      "Topic": "Progress test and/or Review Exercises",
+      "Learning-Teaching Type": "Offline",
+      "LO": "CLO8",
+      "ITU": "U",
+      "Student Materials": "Text book, slides, exercises and sample practical examples",
+      "S-Download": "",
+      "Student's Tasks": "Study just learned materials, do writing exercises and redo practical examples and do assignment 2",
+      "URLs": ""
+    },
+    {
+      "Session": "56",
+      "Topic": "Progress test and/or Review Exercises",
+      "Learning-Teaching Type": "Offline",
+      "LO": "CLO8",
+      "ITU": "U",
+      "Student Materials": "Text book, slides, exercises and sample practical examples",
+      "S-Download": "",
+      "Student's Tasks": "Study just learned materials, do writing exercises and redo practical examples and do assignment 2",
+      "URLs": ""
+    },
+    {
+      "Session": "57",
+      "Topic": "Assignment evaluation",
+      "Learning-Teaching Type": "Offline",
+      "LO": "",
+      "ITU": "",
+      "Student Materials": "",
+      "S-Download": "",
+      "Student's Tasks": "",
+      "URLs": ""
+    },
+    {
+      "Session": "58",
+      "Topic": "Assignment evaluation",
+      "Learning-Teaching Type": "Offline",
+      "LO": "",
+      "ITU": "",
+      "Student Materials": "",
+      "S-Download": "",
+      "Student's Tasks": "",
+      "URLs": ""
+    },
+    {
+      "Session": "59",
+      "Topic": "Progress test 2 and review",
+      "Learning-Teaching Type": "Offline",
+      "LO": "",
+      "ITU": "",
+      "Student Materials": "",
+      "S-Download": "",
+      "Student's Tasks": "",
+      "URLs": ""
+    },
+    {
+      "Session": "60",
+      "Topic": "Review",
+      "Learning-Teaching Type": "Offline",
+      "LO": "",
+      "ITU": "",
+      "Student Materials": "",
+      "S-Download": "",
+      "Student's Tasks": "",
+      "URLs": ""
+    }
+  ],
+  "constructive_questions": [
+    {
+      "No.": "1",
+      "Session No": "1",
+      "Name": "CQ1.1",
+      "Details": "Please list the advantages of Linked List over Array?"
+    },
+    {
+      "No.": "2",
+      "Session No": "1",
+      "Name": "HCM_CQ1.1",
+      "Details": "How do you insert an element into an array?"
+    },
+    {
+      "No.": "3",
+      "Session No": "2",
+      "Name": "CQ1.2",
+      "Details": "What are the disadvantages of linked lists?"
+    },
+    {
+      "No.": "4",
+      "Session No": "2",
+      "Name": "HCM_CQ1.2",
+      "Details": "What are the disadvantages of using an array? List some cases that you think using an array is not optimal."
+    },
+    {
+      "No.": "5",
+      "Session No": "3",
+      "Name": "CQ1.3",
+      "Details": "What are difference between Single, Circularly and Doubly Linked List?"
+    },
+    {
+      "No.": "6",
+      "Session No": "3",
+      "Name": "HCM_CQ1.3",
+      "Details": "How does a linked list solve the problems of an array? (for inserting, deleting an element)"
+    },
+    {
+      "No.": "7",
+      "Session No": "4",
+      "Name": "CQ2.1",
+      "Details": "What is a stack?"
+    },
+    {
+      "No.": "8",
+      "Session No": "4",
+      "Name": "HCM_CQ2.1",
+      "Details": "What is a stack? In your daily lives, describe 3 situations in which the stack principle is used."
+    },
+    {
+      "No.": "9",
+      "Session No": "5",
+      "Name": "CQ2.2",
+      "Details": "What are the applications of the stack?"
+    },
+    {
+      "No.": "10",
+      "Session No": "5",
+      "Name": "HCM_CQ2.2",
+      "Details": "What are the applications of the stack in computer science/information technology?"
+    },
+    {
+      "No.": "11",
+      "Session No": "6",
+      "Name": "CQ2.3",
+      "Details": "What are the 3 primary methods for a stack?"
+    },
+    {
+      "No.": "12",
+      "Session No": "6",
+      "Name": "HCM_CQ2.3",
+      "Details": "What are the 3 primary methods for a stack?"
+    },
+    {
+      "No.": "13",
+      "Session No": "7",
+      "Name": "CQ3.1",
+      "Details": "What is a queue?"
+    },
+    {
+      "No.": "14",
+      "Session No": "7",
+      "Name": "HCM_CQ3.1",
+      "Details": "What is a queue? What would happen if there is no queue in a coffee shop?"
+    },
+    {
+      "No.": "15",
+      "Session No": "8",
+      "Name": "CQ3.2",
+      "Details": "What are difference between stack and queue?"
+    },
+    {
+      "No.": "16",
+      "Session No": "8",
+      "Name": "HCM_CQ3.2",
+      "Details": "What are difference between stack and queue?"
+    },
+    {
+      "No.": "17",
+      "Session No": "9",
+      "Name": "CQ3.3",
+      "Details": "What is a priority queue?"
+    },
+    {
+      "No.": "18",
+      "Session No": "9",
+      "Name": "HCM_CQ3.3",
+      "Details": "What is a priority queue? (hint: what happens if an ambulance uses a shared gate with other cars/vihicles in a hospital?"
+    },
+    {
+      "No.": "19",
+      "Session No": "10",
+      "Name": "CQ4.1",
+      "Details": "What is recursive?"
+    },
+    {
+      "No.": "20",
+      "Session No": "10",
+      "Name": "HCM_CQ4.1",
+      "Details": "What is recursive? What is/are recursive step(s) in Fibonacci number definition?"
+    },
+    {
+      "No.": "21",
+      "Session No": "11",
+      "Name": "CQ4.2",
+      "Details": "How many main parts does a recursive algorithm have?"
+    },
+    {
+      "No.": "22",
+      "Session No": "11",
+      "Name": "HCM_CQ4.2",
+      "Details": "How many main parts does a recursive algorithm have?"
+    },
+    {
+      "No.": "23",
+      "Session No": "12",
+      "Name": "CQ4.3",
+      "Details": "What are pro and cons of recursion?"
+    },
+    {
+      "No.": "24",
+      "Session No": "12",
+      "Name": "HCM_CQ4.3",
+      "Details": "What are pro and cons of recursion?"
+    },
+    {
+      "No.": "25",
+      "Session No": "13",
+      "Name": "CQ5.1",
+      "Details": "What are difference between Binary Tree and Binary Search Tree?"
+    },
+    {
+      "No.": "26",
+      "Session No": "13",
+      "Name": "HCM_CQ5.1",
+      "Details": "What are differences between a Binary Tree and a Binary Search Tree?"
+    },
+    {
+      "No.": "27",
+      "Session No": "14",
+      "Name": "CQ5.2",
+      "Details": "Which operation of tree is more efficient than array and linked list?"
+    },
+    {
+      "No.": "28",
+      "Session No": "14",
+      "Name": "HCM_CQ5.2",
+      "Details": "Which operation of tree is more efficient than array and linked list?"
+    },
+    {
+      "No.": "29",
+      "Session No": "15",
+      "Name": "CQ5.3",
+      "Details": "List the application of BT to specific problems?"
+    },
+    {
+      "No.": "30",
+      "Session No": "15",
+      "Name": "HCM_CQ5.3",
+      "Details": "List some applications/softwares/functions/systems using BST as the key element?"
+    },
+    {
+      "No.": "31",
+      "Session No": "16",
+      "Name": "CQ6.1",
+      "Details": "What is an AVL tree?"
+    },
+    {
+      "No.": "32",
+      "Session No": "16",
+      "Name": "HCM_CQ6.1",
+      "Details": "What will happen if you insert an ordered array into a BST?"
+    },
+    {
+      "No.": "33",
+      "Session No": "17",
+      "Name": "CQ6.2",
+      "Details": "What are difference between and Binary Search Tree and AVL Tree?"
+    },
+    {
+      "No.": "34",
+      "Session No": "17",
+      "Name": "HCM_CQ6.2",
+      "Details": "What are different between and Binary Search Tree and AVL Tree?"
+    },
+    {
+      "No.": "35",
+      "Session No": "18",
+      "Name": "CQ6.3",
+      "Details": "What is the complexity of a AVL tree search?"
+    },
+    {
+      "No.": "36",
+      "Session No": "18",
+      "Name": "HCM_CQ6.3",
+      "Details": "What is the complexity of a AVL tree for searching? Is an AVL different from a BST when searching an element?"
+    },
+    {
+      "No.": "37",
+      "Session No": "19",
+      "Name": "CQ7.1",
+      "Details": "What is heap?"
+    },
+    {
+      "No.": "38",
+      "Session No": "19",
+      "Name": "HCM_CQ7.1",
+      "Details": "What is a heap? What is the main difference between a min heap and a max heap?"
+    },
+    {
+      "No.": "39",
+      "Session No": "20",
+      "Name": "CQ7.2",
+      "Details": "What is the similarity and difference between binary tree, AVL tree and heap?"
+    },
+    {
+      "No.": "40",
+      "Session No": "20",
+      "Name": "HCM_CQ7.2",
+      "Details": "What are the similarities and differences between binary tree, AVL tree and heap?"
+    },
+    {
+      "No.": "41",
+      "Session No": "21",
+      "Name": "CQ7.3",
+      "Details": "How to calculate balance factor in AVL tree ?"
+    },
+    {
+      "No.": "42",
+      "Session No": "21",
+      "Name": "HCM_CQ7.3",
+      "Details": "How to calculate balance factor in AVL tree? Show the formula?"
+    },
+    {
+      "No.": "43",
+      "Session No": "22",
+      "Name": "CQ8.1",
+      "Details": "What is the relationship between the number of edges and the sum of degrees of all vertices in the graph?"
+    },
+    {
+      "No.": "44",
+      "Session No": "22",
+      "Name": "HCM_CQ8.1",
+      "Details": "What is the relationship between the number of edges and the sum of degrees of all vertices in the graph?"
+    },
+    {
+      "No.": "45",
+      "Session No": "23",
+      "Name": "CQ8.2",
+      "Details": "What is breadth-first search algorithm?"
+    },
+    {
+      "No.": "46",
+      "Session No": "23",
+      "Name": "HCM_CQ8.2",
+      "Details": "What is breadth-first search algorithm?"
+    },
+    {
+      "No.": "47",
+      "Session No": "24",
+      "Name": "CQ8.3",
+      "Details": "What is depth-first search algorithm?"
+    },
+    {
+      "No.": "48",
+      "Session No": "24",
+      "Name": "HCM_CQ8.3",
+      "Details": "What is depth-first search algorithm? Compare InOrder, PreOrder, PostOrder traversal methods?"
+    },
+    {
+      "No.": "49",
+      "Session No": "25",
+      "Name": "CQ9.1",
+      "Details": "What is pseudo-graph?"
+    },
+    {
+      "No.": "50",
+      "Session No": "25",
+      "Name": "HCM_CQ9.1",
+      "Details": "What is a connected-graph?"
+    },
+    {
+      "No.": "51",
+      "Session No": "26",
+      "Name": "CQ9.2",
+      "Details": "What is a complete graph?"
+    },
+    {
+      "No.": "52",
+      "Session No": "26",
+      "Name": "HCM_CQ9.2",
+      "Details": "What is a complete graph?"
+    },
+    {
+      "No.": "53",
+      "Session No": "27",
+      "Name": "CQ9.3",
+      "Details": "What is the formula for calculating the number of edges of a complete graph with n vertices?"
+    },
+    {
+      "No.": "54",
+      "Session No": "27",
+      "Name": "HCM_CQ9.3",
+      "Details": "What is the formula for calculating the number of edges of a complete graph with n vertices?"
+    },
+    {
+      "No.": "55",
+      "Session No": "28",
+      "Name": "CQ10.1",
+      "Details": "What is the difference between Dijkstra and Floy algorithms?"
+    },
+    {
+      "No.": "56",
+      "Session No": "28",
+      "Name": "HCM_CQ10.1",
+      "Details": "What is the difference between Dijkstra and Floy algorithms? (about the input/output and complexities)"
+    },
+    {
+      "No.": "57",
+      "Session No": "29",
+      "Name": "CQ10.2",
+      "Details": "How to descript the graph on Java?"
+    },
+    {
+      "No.": "58",
+      "Session No": "29",
+      "Name": "HCM_CQ10.2",
+      "Details": "How to use the graph structure on Java?"
+    },
+    {
+      "No.": "59",
+      "Session No": "30",
+      "Name": "CQ10.3",
+      "Details": "What are difference between BFS and DFS?"
+    },
+    {
+      "No.": "60",
+      "Session No": "30",
+      "Name": "HCM_CQ10.3",
+      "Details": "In a real application, such as GG maps, what happens when a user finds the way from A to B?"
+    },
+    {
+      "No.": "61",
+      "Session No": "31",
+      "Name": "CQ11.1",
+      "Details": "How to color the graph with the least number of colors?"
+    },
+    {
+      "No.": "62",
+      "Session No": "31",
+      "Name": "HCM_CQ11.1",
+      "Details": "How to color the graph with the least number of colors?"
+    },
+    {
+      "No.": "63",
+      "Session No": "32",
+      "Name": "CQ11.2",
+      "Details": "How to find the shortest path between any two vertices?"
+    },
+    {
+      "No.": "64",
+      "Session No": "32",
+      "Name": "HCM_CQ11.2",
+      "Details": "In a city map, What is the maximum degree of vertices?"
+    },
+    {
+      "No.": "65",
+      "Session No": "33",
+      "Name": "CQ11.3",
+      "Details": "What is Dijkstra's algorithm?"
+    },
+    {
+      "No.": "66",
+      "Session No": "33",
+      "Name": "HCM_CQ11.3",
+      "Details": "What is the key idea behind Dijkstra's algorithm?"
+    },
+    {
+      "No.": "67",
+      "Session No": "34",
+      "Name": "CQ12.1",
+      "Details": "What is the difference between Dijkstra and Floyd algorithms?"
+    },
+    {
+      "No.": "68",
+      "Session No": "34",
+      "Name": "HCM_CQ12.1",
+      "Details": "Is Floyd algorithm is the combination of n-time Dijkstra's algorithm?"
+    },
+    {
+      "No.": "69",
+      "Session No": "35",
+      "Name": "CQ12.2",
+      "Details": "How to know if graph has Euler cycle or not?"
+    },
+    {
+      "No.": "70",
+      "Session No": "35",
+      "Name": "HCM_CQ12.2",
+      "Details": "How to know if a graph has Euler cycle or not?"
+    },
+    {
+      "No.": "71",
+      "Session No": "36",
+      "Name": "CQ12.3",
+      "Details": "What is a minimum spanning tree?"
+    },
+    {
+      "No.": "72",
+      "Session No": "36",
+      "Name": "HCM_CQ12.3",
+      "Details": "What is a minimum spanning tree?"
+    },
+    {
+      "No.": "73",
+      "Session No": "37",
+      "Name": "CQ13.1",
+      "Details": "What are the similarities and differences of Kruskal and Prim Algorithm?"
+    },
+    {
+      "No.": "74",
+      "Session No": "37",
+      "Name": "HCM_CQ13.1",
+      "Details": "What are the similarities and differences of Kruskal and Prim Algorithm?"
+    },
+    {
+      "No.": "75",
+      "Session No": "38",
+      "Name": "CQ13.2",
+      "Details": "What is an Euler cycle?"
+    },
+    {
+      "No.": "76",
+      "Session No": "38",
+      "Name": "HCM_CQ13.2",
+      "Details": "What is different from Euler cycle to Hamilton cycle?"
+    },
+    {
+      "No.": "77",
+      "Session No": "39",
+      "Name": "CQ13.3",
+      "Details": "What is Hamilton cycle?"
+    },
+    {
+      "No.": "78",
+      "Session No": "39",
+      "Name": "HCM_CQ13.3",
+      "Details": "Are there any methods/algorithms to determine if a graph has Hamilton?"
+    },
+    {
+      "No.": "79",
+      "Session No": "40",
+      "Name": "CQ14.1",
+      "Details": "What is the complexity of the select, insert and bubble algorithm?"
+    },
+    {
+      "No.": "80",
+      "Session No": "40",
+      "Name": "HCM_CQ14.1",
+      "Details": "What is the complexity of the selection, insertion and bubble sort algorithms? How do you find your answer?"
+    },
+    {
+      "No.": "81",
+      "Session No": "41",
+      "Name": "CQ14.2",
+      "Details": "Which of the 3 algorithms for selection, insertion and bubble is faster? Why?"
+    },
+    {
+      "No.": "82",
+      "Session No": "41",
+      "Name": "HCM_CQ14.2",
+      "Details": "Which of the 3 algorithms for selection, insertion and bubble is faster? Why?"
+    },
+    {
+      "No.": "83",
+      "Session No": "42",
+      "Name": "CQ14.3",
+      "Details": "Which sorting algorithms do you know of, which can handle multithreading?"
+    },
+    {
+      "No.": "84",
+      "Session No": "42",
+      "Name": "HCM_CQ14.3",
+      "Details": "Among the sorting algorithms you know, which can handle multithread programming?"
+    },
+    {
+      "No.": "85",
+      "Session No": "43",
+      "Name": "CQ15.1",
+      "Details": "What is Quick sort?"
+    },
+    {
+      "No.": "86",
+      "Session No": "43",
+      "Name": "HCM_CQ15.1",
+      "Details": "What is Quick sort? What is the key idea behind this algorithm?"
+    },
+    {
+      "No.": "87",
+      "Session No": "44",
+      "Name": "CQ15.2",
+      "Details": "Can you list the names of the sorting algorithms that belong to the divide-and-conquer algorithm?"
+    },
+    {
+      "No.": "88",
+      "Session No": "44",
+      "Name": "HCM_CQ15.2",
+      "Details": "Can you list the names of the sorting algorithms that belong to the divide-and-conquer algorithm?"
+    },
+    {
+      "No.": "89",
+      "Session No": "45",
+      "Name": "CQ15.3",
+      "Details": "Which sorting algorithm needs more space to complete the classification?"
+    },
+    {
+      "No.": "90",
+      "Session No": "45",
+      "Name": "HCM_CQ15.3",
+      "Details": "Which sorting algorithm needs more space to complete the classification?"
+    },
+    {
+      "No.": "91",
+      "Session No": "46",
+      "Name": "CQ16.1",
+      "Details": "What is Merge sort?"
+    },
+    {
+      "No.": "92",
+      "Session No": "46",
+      "Name": "HCM_CQ16.1",
+      "Details": "What is Merge sort? How is this algorithm different from Quick sort?"
+    },
+    {
+      "No.": "93",
+      "Session No": "47",
+      "Name": "CQ16.2",
+      "Details": "Which algorithm for sorting is the fastest? Why? (Selection, Insertion, Bubble, Quick, Merge, Heap, Radix sort)"
+    },
+    {
+      "No.": "94",
+      "Session No": "47",
+      "Name": "HCM_CQ16.2",
+      "Details": "What are the main weaknesses of radix sort?"
+    },
+    {
+      "No.": "95",
+      "Session No": "48",
+      "Name": "CQ16.3",
+      "Details": "Which sorting algorithm is best for memory? Why? (Selection, Insertion, Bubble, Quick, Merge, Heap, Radix sort)"
+    },
+    {
+      "No.": "96",
+      "Session No": "48",
+      "Name": "HCM_CQ16.3",
+      "Details": "Which sorting algorithm is best for memory?"
+    },
+    {
+      "No.": "97",
+      "Session No": "49",
+      "Name": "CQ17.1",
+      "Details": "What are the advantages and disadvantages of hashing?"
+    },
+    {
+      "No.": "98",
+      "Session No": "49",
+      "Name": "HCM_CQ17.1",
+      "Details": "What are the advantages and disadvantages of hashing?"
+    },
+    {
+      "No.": "99",
+      "Session No": "50",
+      "Name": "CQ17.2",
+      "Details": "How to select hash functions?"
+    },
+    {
+      "No.": "100",
+      "Session No": "50",
+      "Name": "HCM_CQ17.2",
+      "Details": "How to select hash functions? List some principles to select/design a good hash function?"
+    },
+    {
+      "No.": "101",
+      "Session No": "51",
+      "Name": "CQ17.3",
+      "Details": "What is a perfect hash function?"
+    },
+    {
+      "No.": "102",
+      "Session No": "51",
+      "Name": "HCM_CQ17.3",
+      "Details": "What is a perfect hash function?"
+    },
+    {
+      "No.": "103",
+      "Session No": "52",
+      "Name": "CQ18.1",
+      "Details": "How many ways to resolve collisions in hashing?"
+    },
+    {
+      "No.": "104",
+      "Session No": "52",
+      "Name": "HCM_CQ18.1",
+      "Details": "How many ways to resolve collisions in hashing? Compare them in term of time and memory complexities?"
+    },
+    {
+      "No.": "105",
+      "Session No": "53",
+      "Name": "CQ18.2",
+      "Details": "What is the complexity of Brute-Force algorithm?"
+    },
+    {
+      "No.": "106",
+      "Session No": "53",
+      "Name": "HCM_CQ18.2",
+      "Details": "What is the complexity of Brute-Force algorithm in text pattern matching?"
+    },
+    {
+      "No.": "107",
+      "Session No": "54",
+      "Name": "CQ18.3",
+      "Details": "What is the complexity of Knuth-Morris-Pratt algorithm?"
+    },
+    {
+      "No.": "108",
+      "Session No": "54",
+      "Name": "HCM_CQ18.3",
+      "Details": "What is the complexity of Knuth-Morris-Pratt algorithm? What is the role of T[i] array?"
+    },
+    {
+      "No.": "109",
+      "Session No": "55",
+      "Name": "CQ19.1",
+      "Details": "What Is the difference in lossy vs lossless compression?"
+    },
+    {
+      "No.": "110",
+      "Session No": "55",
+      "Name": "HCM_CQ19.1",
+      "Details": "What Is the difference between lossy and lossless compression?"
+    },
+    {
+      "No.": "111",
+      "Session No": "56",
+      "Name": "CQ19.2",
+      "Details": "How to compare the efficiency of different data compression methods?"
+    },
+    {
+      "No.": "112",
+      "Session No": "56",
+      "Name": "HCM_CQ19.2",
+      "Details": "How to compare the efficiency of different data compression methods?"
+    },
+    {
+      "No.": "113",
+      "Session No": "57",
+      "Name": "CQ19.3",
+      "Details": "What is Huffman encoding?"
+    },
+    {
+      "No.": "114",
+      "Session No": "57",
+      "Name": "HCM_CQ19.3",
+      "Details": "What is Huffman encoding? What is the key idea of this method?"
+    },
+    {
+      "No.": "115",
+      "Session No": "58",
+      "Name": "CQ20.1",
+      "Details": "What is LZW encoding ?"
+    },
+    {
+      "No.": "116",
+      "Session No": "58",
+      "Name": "HCM_CQ20.1",
+      "Details": "What is LZW encoding ? How does this method differ from Huffman method?"
+    },
+    {
+      "No.": "117",
+      "Session No": "59",
+      "Name": "CQ20.2",
+      "Details": "What is Run-Length encoding ?"
+    },
+    {
+      "No.": "118",
+      "Session No": "59",
+      "Name": "HCM_CQ20.2",
+      "Details": "What is Run-Length encoding ? Do you think this algorithm is used to compress the cartoon movies?"
+    },
+    {
+      "No.": "119",
+      "Session No": "60",
+      "Name": "CQ20.3",
+      "Details": "What is the difference between Huffman and LZW coding techniques?"
+    },
+    {
+      "No.": "120",
+      "Session No": "60",
+      "Name": "HCM_CQ20.3",
+      "Details": "List some lossy compression methods? Explain why they are used even they cause information loss?"
+    }
+  ],
+  "materials": [
+    {
+      "No.": "1",
+      "Material Description": "Michaelt T. Goodrich, Roberto Tamassia, Michael H. Goldwasser: Data Structures and Algorithms in Java, 6th Edition, 2014",
+      "Author": "Michaelt T. Goodrich, Roberto Tamassia, Michael H. Goldwasser",
+      "Publisher": "Wiley",
+      "Published Date": "2014",
+      "Edition": "6th",
+      "ISBN": "978-1-118-77133-4",
+      "Is Main Material": "True",
+      "Is Hard Copy": "False",
+      "Is Online": "True",
+      "Note": "Sách online (Wiley platform)"
+    },
+    {
+      "No.": "2",
+      "Material Description": "FU slides (ppt)",
+      "Author": "",
+      "Publisher": "",
+      "Published Date": "",
+      "Edition": "",
+      "ISBN": "",
+      "Is Main Material": "False",
+      "Is Hard Copy": "False",
+      "Is Online": "False",
+      "Note": ""
+    },
+    {
+      "No.": "3",
+      "Material Description": "FU exercises (pdf)",
+      "Author": "",
+      "Publisher": "",
+      "Published Date": "",
+      "Edition": "",
+      "ISBN": "",
+      "Is Main Material": "False",
+      "Is Hard Copy": "False",
+      "Is Online": "False",
+      "Note": ""
+    },
+    {
+      "No.": "4",
+      "Material Description": "Code files for students (java files)",
+      "Author": "",
+      "Publisher": "",
+      "Published Date": "",
+      "Edition": "",
+      "ISBN": "",
+      "Is Main Material": "False",
+      "Is Hard Copy": "False",
+      "Is Online": "False",
+      "Note": ""
+    }
+  ],
+  "source_path": "data/raw/syllabi/10368.html",
+  "id": "syllabus:10368"
+}

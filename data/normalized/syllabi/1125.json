@@ -1,0 +1,745 @@
+{
+  "syllabus_id": 1125,
+  "subject_code": "CPP101b",
+  "subject_name": "Basic C++ Programming_Lập trình C++ cơ bản",
+  "syllabus_name": "Basic C++ Programming_Lập trình C++ cơ bản",
+  "credits": 3,
+  "degree_level": "Bachelor",
+  "time_allocation": "45 hours (3 credits): - 29 online sessions (1 session = 90 minutes) - 1 offline session for Course Introduction - 1 final exam includes Theoretical Exam (60 minutes) and Practical Exam (120 minutes)",
+  "prerequisite": "PRO201 DBI202",
+  "general_information": {
+    "Syllabus ID": "1125",
+    "Syllabus Name": "Basic C++ Programming_Lập trình C++ cơ bản",
+    "Course Name English": "",
+    "Subject Code": "CPP101b",
+    "Learning-Teaching Method": "",
+    "NoCredit": "3",
+    "Degree Level": "Bachelor",
+    "Time Allocation": "45 hours (3 credits): - 29 online sessions (1 session = 90 minutes) - 1 offline session for Course Introduction - 1 final exam includes Theoretical Exam (60 minutes) and Practical Exam (120 minutes)",
+    "Pre-Requisite": "PRO201 DBI202",
+    "Description": "Basic C ++ Programming is a course providing learners with the first basic programming skills to be able to program embedded applications. After completing the course, students are provided with knowledge and skills on basic concepts of C ++ programming language; Understand and use complex data structures of C ++; Be aware of functions and program organizations in C ++; Understand the concepts of object-oriented programming in C ++; Know how to work with and handle files in C ++",
+    "StudentTasks": "- Students should self-study all lessons on LMS in time - Pass all conditions before taking final exam in campus",
+    "Tools": "",
+    "Scoring Scale": "10",
+    "DecisionNo MM/dd/yyyy": "1049/QĐ-ĐHFPT dated 08/12/2019",
+    "IsApproved": "True",
+    "Note": "",
+    "Is Scored": "True",
+    "MinAvgMarkToPass": "5",
+    "IsActive": "True",
+    "ApprovedDate": "8/12/2019"
+  },
+  "active": true,
+  "approved": true,
+  "decision": "1049/QĐ-ĐHFPT dated 08/12/2019",
+  "description": "Basic C ++ Programming is a course providing learners with the first basic programming skills to be able to program embedded applications. After completing the course, students are provided with knowledge and skills on basic concepts of C ++ programming language; Understand and use complex data structures of C ++; Be aware of functions and program organizations in C ++; Understand the concepts of object-oriented programming in C ++; Know how to work with and handle files in C ++",
+  "learning_outcomes": [
+    {
+      "No.": "1",
+      "CLO Name": "CCPP101b_o1",
+      "CLO Details": "Know the history of C++"
+    },
+    {
+      "No.": "2",
+      "CLO Name": "CCPP101b_o2",
+      "CLO Details": "Understand the C ++ program structure"
+    },
+    {
+      "No.": "3",
+      "CLO Name": "CCPP101b_o3",
+      "CLO Details": "Know how to install tools for developing in C++"
+    },
+    {
+      "No.": "4",
+      "CLO Name": "CCPP101b_o4",
+      "CLO Details": "Understand the C ++ compilation process"
+    },
+    {
+      "No.": "5",
+      "CLO Name": "CCPP101b_o5",
+      "CLO Details": "Understand the role of Linker in C++"
+    },
+    {
+      "No.": "6",
+      "CLO Name": "CCPP101b_o6",
+      "CLO Details": "Present and use numeric data types"
+    },
+    {
+      "No.": "7",
+      "CLO Name": "CCPP101b_o7",
+      "CLO Details": "Present and use character data types"
+    },
+    {
+      "No.": "8",
+      "CLO Name": "CCPP101b_o8",
+      "CLO Details": "Present and use bool data types"
+    },
+    {
+      "No.": "9",
+      "CLO Name": "CCPP101b_o9",
+      "CLO Details": "Present and use enum data types"
+    },
+    {
+      "No.": "10",
+      "CLO Name": "CCPP101b_o10",
+      "CLO Details": "Know which data type should be used when programming"
+    },
+    {
+      "No.": "11",
+      "CLO Name": "CCPP101b_o11",
+      "CLO Details": "Know how to declare and use the variable in C++"
+    },
+    {
+      "No.": "12",
+      "CLO Name": "CCPP101b_o12",
+      "CLO Details": "Present and use constant variable"
+    },
+    {
+      "No.": "13",
+      "CLO Name": "CCPP101b_o13",
+      "CLO Details": "Present and use techniques to convert between data types"
+    },
+    {
+      "No.": "14",
+      "CLO Name": "CCPP101b_o14",
+      "CLO Details": "Present and use array data types"
+    },
+    {
+      "No.": "15",
+      "CLO Name": "CCPP101b_o15",
+      "CLO Details": "Present and use string data types"
+    },
+    {
+      "No.": "16",
+      "CLO Name": "CCPP101b_o16",
+      "CLO Details": "Present and use complex data types: struct"
+    },
+    {
+      "No.": "17",
+      "CLO Name": "CCPP101b_o17",
+      "CLO Details": "Present and use complex data types: unions"
+    },
+    {
+      "No.": "18",
+      "CLO Name": "CCPP101b_o18",
+      "CLO Details": "Present and use complex data types: enumerations"
+    },
+    {
+      "No.": "19",
+      "CLO Name": "CCPP101b_o19",
+      "CLO Details": "Present and use operators in C++"
+    },
+    {
+      "No.": "20",
+      "CLO Name": "CCPP101b_o20",
+      "CLO Details": "Present and use control structure: if"
+    },
+    {
+      "No.": "21",
+      "CLO Name": "CCPP101b_o21",
+      "CLO Details": "Present and use control structure: switch"
+    },
+    {
+      "No.": "22",
+      "CLO Name": "CCPP101b_o22",
+      "CLO Details": "Present and use conditional operators in C++"
+    },
+    {
+      "No.": "23",
+      "CLO Name": "CCPP101b_o23",
+      "CLO Details": "Present and use for loop structures in C++"
+    },
+    {
+      "No.": "24",
+      "CLO Name": "CCPP101b_o24",
+      "CLO Details": "Present and use while loop structures in C++"
+    },
+    {
+      "No.": "25",
+      "CLO Name": "CCPP101b_o25",
+      "CLO Details": "Present and use do-while loop structures in C++"
+    },
+    {
+      "No.": "26",
+      "CLO Name": "CCPP101b_o26",
+      "CLO Details": "Present and use nested loop structures in C++"
+    },
+    {
+      "No.": "27",
+      "CLO Name": "CCPP101b_o27",
+      "CLO Details": "Present and use function declaration and calling in C++"
+    },
+    {
+      "No.": "28",
+      "CLO Name": "CCPP101b_o28",
+      "CLO Details": "Present and use inline function in C++"
+    },
+    {
+      "No.": "29",
+      "CLO Name": "CCPP101b_o29",
+      "CLO Details": "Understand the concept of C++ Storage Classes"
+    },
+    {
+      "No.": "30",
+      "CLO Name": "CCPP101b_o30",
+      "CLO Details": "Understand and be able to use Class"
+    },
+    {
+      "No.": "31",
+      "CLO Name": "CCPP101b_o31",
+      "CLO Details": "Demonstrate and know how to define a class and initialize the class"
+    },
+    {
+      "No.": "32",
+      "CLO Name": "CCPP101b_o32",
+      "CLO Details": "Understand the concept of encapsulation in C++"
+    },
+    {
+      "No.": "33",
+      "CLO Name": "CCPP101b_o33",
+      "CLO Details": "Understand constant object in C++"
+    },
+    {
+      "No.": "34",
+      "CLO Name": "CCPP101b_o34",
+      "CLO Details": "Present and use pointers"
+    },
+    {
+      "No.": "35",
+      "CLO Name": "CCPP101b_o35",
+      "CLO Details": "Explain and use operator * (dereference operator)"
+    },
+    {
+      "No.": "36",
+      "CLO Name": "CCPP101b_o36",
+      "CLO Details": "Understand and use reference in C++"
+    },
+    {
+      "No.": "37",
+      "CLO Name": "CCPP101b_o37",
+      "CLO Details": "Understand memory management (allocation and release) in C++"
+    },
+    {
+      "No.": "38",
+      "CLO Name": "CCPP101b_o38",
+      "CLO Details": "Explain and know how to separate Header and Implementation Files"
+    },
+    {
+      "No.": "39",
+      "CLO Name": "CCPP101b_o39",
+      "CLO Details": "Understand and know how to construct class"
+    },
+    {
+      "No.": "40",
+      "CLO Name": "CCPP101b_o40",
+      "CLO Details": "Understand and know how to destroy class"
+    },
+    {
+      "No.": "41",
+      "CLO Name": "CCPP101b_o41",
+      "CLO Details": "Understand dynamic memory and class allocation in C++"
+    },
+    {
+      "No.": "42",
+      "CLO Name": "CCPP101b_o42",
+      "CLO Details": "Understand and utilize class scope in C++"
+    },
+    {
+      "No.": "43",
+      "CLO Name": "CCPP101b_o43",
+      "CLO Details": "Understand and utilize Encapsulation in C++"
+    },
+    {
+      "No.": "44",
+      "CLO Name": "CCPP101b_o44",
+      "CLO Details": "Understand and utilize namespace in C++"
+    },
+    {
+      "No.": "45",
+      "CLO Name": "CCPP101b_o45",
+      "CLO Details": "Understand and utilize Inheritance in C++"
+    },
+    {
+      "No.": "46",
+      "CLO Name": "CCPP101b_o46",
+      "CLO Details": "Understand the meaning of key word: protected"
+    },
+    {
+      "No.": "47",
+      "CLO Name": "CCPP101b_o47",
+      "CLO Details": "Understand and utilize: Friend Functions"
+    },
+    {
+      "No.": "48",
+      "CLO Name": "CCPP101b_o48",
+      "CLO Details": "Understand and utilize: Friend Classes"
+    },
+    {
+      "No.": "49",
+      "CLO Name": "CCPP101b_o49",
+      "CLO Details": "Understand and utilize virtual Function in C++"
+    },
+    {
+      "No.": "50",
+      "CLO Name": "CCPP101b_o50",
+      "CLO Details": "Understand the concept of virtual destructor"
+    },
+    {
+      "No.": "51",
+      "CLO Name": "CCPP101b_o51",
+      "CLO Details": "Explain and use abstract class in C++"
+    },
+    {
+      "No.": "52",
+      "CLO Name": "CCPP101b_o52",
+      "CLO Details": "Understand and utilize istream, ostream in C++"
+    },
+    {
+      "No.": "53",
+      "CLO Name": "CCPP101b_o53",
+      "CLO Details": "Understand and utilize filestreams"
+    },
+    {
+      "No.": "54",
+      "CLO Name": "CCPP101b_o54",
+      "CLO Details": "Explain and present Open Modes C++"
+    },
+    {
+      "No.": "55",
+      "CLO Name": "CCPP101b_o55",
+      "CLO Details": "Understand and know how to read and write to text file in C++"
+    },
+    {
+      "No.": "56",
+      "CLO Name": "CCPP101b_o56",
+      "CLO Details": "Understand and know how to read and write to binary file in C++"
+    },
+    {
+      "No.": "57",
+      "CLO Name": "CCPP101b_o57",
+      "CLO Details": "Understand and utilize: string stream"
+    },
+    {
+      "No.": "58",
+      "CLO Name": "CCPP101b_o58",
+      "CLO Details": "Understand how to work with Wide Characters"
+    },
+    {
+      "No.": "59",
+      "CLO Name": "CCPP101b_o59",
+      "CLO Details": "Understand and utilize: Write-Only and Read-Only String Streams"
+    }
+  ],
+  "assessments": [
+    {
+      "No.": "1",
+      "Category": "Assignment",
+      "Type": "on-going",
+      "Part": "4",
+      "Weight": "40.0%",
+      "Completion Criteria": ">0",
+      "Duration": "-",
+      "CLO": "",
+      "Question Type": "Practical",
+      "No Question": "1 topic/1 assignment",
+      "Knowledge and Skill": "The previous lessons",
+      "Grading Guide": "Practice and submit the result on LMS",
+      "Note": ""
+    },
+    {
+      "No.": "2",
+      "Category": "Q&A with mentor",
+      "Type": "on-going",
+      "Part": "1",
+      "Weight": "10.0%",
+      "Completion Criteria": ">0",
+      "Duration": "Within course duration",
+      "CLO": "All LOs",
+      "Question Type": "Q&A",
+      "No Question": "8 questions at least",
+      "Knowledge and Skill": "Everything related to the subject",
+      "Grading Guide": "Via facebook Hannah",
+      "Note": ""
+    },
+    {
+      "No.": "3",
+      "Category": "Quiz",
+      "Type": "on-going",
+      "Part": "1",
+      "Weight": "10.0%",
+      "Completion Criteria": ">0",
+      "Duration": "2 minutes/quiz question",
+      "CLO": "",
+      "Question Type": "Multiple choice",
+      "No Question": "",
+      "Knowledge and Skill": "Content of the lesson",
+      "Grading Guide": "Quiz on LMS",
+      "Note": "Quiz has 20 sections, including 16 quizes and 4 lab quizes. 1 average mark recorded only for all quiz sections"
+    },
+    {
+      "No.": "4",
+      "Category": "Final Exam",
+      "Type": "Final exam",
+      "Part": "1",
+      "Weight": "40.0%",
+      "Completion Criteria": "4",
+      "Duration": "180'",
+      "CLO": "",
+      "Question Type": "Theoretical test: Multiple choices",
+      "No Question": "40 questions, 1-3 assignments",
+      "Knowledge and Skill": "The whole course content",
+      "Grading Guide": "In campus",
+      "Note": ""
+    }
+  ],
+  "schedule": [
+    {
+      "Session": "1",
+      "Topic": "Offline session 1: Course Introduction",
+      "Learning-Teaching Type": "Offline",
+      "LO": "",
+      "ITU": "",
+      "Student Materials": "",
+      "S-Download": "",
+      "Student's Tasks": "",
+      "URLs": ""
+    },
+    {
+      "Session": "2",
+      "Topic": "Lesson 1 - Lịch sử phát triển C++ Quiz 1",
+      "Learning-Teaching Type": "Online",
+      "LO": "",
+      "ITU": "",
+      "Student Materials": "",
+      "S-Download": "",
+      "Student's Tasks": "",
+      "URLs": ""
+    },
+    {
+      "Session": "3",
+      "Topic": "Lesson 2 - Quá trình biên dịch trong C++ Quiz 2",
+      "Learning-Teaching Type": "Online",
+      "LO": "",
+      "ITU": "",
+      "Student Materials": "",
+      "S-Download": "",
+      "Student's Tasks": "",
+      "URLs": ""
+    },
+    {
+      "Session": "4",
+      "Topic": "Lesson 3 - Tổng quan về C++ Quiz 3",
+      "Learning-Teaching Type": "Online",
+      "LO": "",
+      "ITU": "",
+      "Student Materials": "",
+      "S-Download": "",
+      "Student's Tasks": "",
+      "URLs": ""
+    },
+    {
+      "Session": "5",
+      "Topic": "Lesson 4 - Các kiểu dữ liệu đơn giản trong C++ Quiz 4",
+      "Learning-Teaching Type": "Online",
+      "LO": "",
+      "ITU": "",
+      "Student Materials": "",
+      "S-Download": "",
+      "Student's Tasks": "",
+      "URLs": ""
+    },
+    {
+      "Session": "6",
+      "Topic": "Lesson 5 - Biến và hằng Quiz 5",
+      "Learning-Teaching Type": "Online",
+      "LO": "",
+      "ITU": "",
+      "Student Materials": "",
+      "S-Download": "",
+      "Student's Tasks": "",
+      "URLs": ""
+    },
+    {
+      "Session": "7",
+      "Topic": "Lesson 6 - Các kiểu dữ liệu phức tạp trong C++ Quiz 6",
+      "Learning-Teaching Type": "Online",
+      "LO": "",
+      "ITU": "",
+      "Student Materials": "",
+      "S-Download": "",
+      "Student's Tasks": "",
+      "URLs": ""
+    },
+    {
+      "Session": "8",
+      "Topic": "Lesson 7 - Toán tử trong C++ Lesson 8 - Cấu trúc rẽ nhánh trong C++ Quiz 7",
+      "Learning-Teaching Type": "Online",
+      "LO": "",
+      "ITU": "",
+      "Student Materials": "",
+      "S-Download": "",
+      "Student's Tasks": "",
+      "URLs": ""
+    },
+    {
+      "Session": "9",
+      "Topic": "Lesson 9 - Cấu trúc lệnh lặp Quiz 8",
+      "Learning-Teaching Type": "Online",
+      "LO": "",
+      "ITU": "",
+      "Student Materials": "",
+      "S-Download": "",
+      "Student's Tasks": "",
+      "URLs": ""
+    },
+    {
+      "Session": "10",
+      "Topic": "Lesson 10 - Mở đầu về hàm Quiz 9",
+      "Learning-Teaching Type": "Online",
+      "LO": "",
+      "ITU": "",
+      "Student Materials": "",
+      "S-Download": "",
+      "Student's Tasks": "",
+      "URLs": ""
+    },
+    {
+      "Session": "11",
+      "Topic": "Assignment 1",
+      "Learning-Teaching Type": "Online",
+      "LO": "",
+      "ITU": "",
+      "Student Materials": "",
+      "S-Download": "",
+      "Student's Tasks": "",
+      "URLs": ""
+    },
+    {
+      "Session": "12",
+      "Topic": "Lesson 11 - Mở đầu về đối tượng và lớp trong C++ Quiz 10",
+      "Learning-Teaching Type": "Online",
+      "LO": "",
+      "ITU": "",
+      "Student Materials": "",
+      "S-Download": "",
+      "Student's Tasks": "",
+      "URLs": ""
+    },
+    {
+      "Session": "13",
+      "Topic": "Lesson 12 - Đóng gói Quiz 11",
+      "Learning-Teaching Type": "Online",
+      "LO": "",
+      "ITU": "",
+      "Student Materials": "",
+      "S-Download": "",
+      "Student's Tasks": "",
+      "URLs": ""
+    },
+    {
+      "Session": "14",
+      "Topic": "Lesson 13 - Hằng đối tượng Quiz 12",
+      "Learning-Teaching Type": "Online",
+      "LO": "",
+      "ITU": "",
+      "Student Materials": "",
+      "S-Download": "",
+      "Student's Tasks": "",
+      "URLs": ""
+    },
+    {
+      "Session": "15",
+      "Topic": "Lesson 14 - Kiểu con trỏ Lesson 15 - Kiểu tham chiếu",
+      "Learning-Teaching Type": "Online",
+      "LO": "",
+      "ITU": "",
+      "Student Materials": "",
+      "S-Download": "",
+      "Student's Tasks": "",
+      "URLs": ""
+    },
+    {
+      "Session": "16",
+      "Topic": "Lesson 16 - Cấp phát và quản lý bộ nhớ trong C++ Quiz 13 Lab 1 and Lab Quiz 1",
+      "Learning-Teaching Type": "Online",
+      "LO": "",
+      "ITU": "",
+      "Student Materials": "",
+      "S-Download": "",
+      "Student's Tasks": "",
+      "URLs": ""
+    },
+    {
+      "Session": "17",
+      "Topic": "Assignment 2",
+      "Learning-Teaching Type": "Online",
+      "LO": "",
+      "ITU": "",
+      "Student Materials": "",
+      "S-Download": "",
+      "Student's Tasks": "",
+      "URLs": ""
+    },
+    {
+      "Session": "18",
+      "Topic": "Lesson 17 - Chia tách lớp Lesson 18 - Hàm khởi tạo và hàm hủy",
+      "Learning-Teaching Type": "Online",
+      "LO": "",
+      "ITU": "",
+      "Student Materials": "",
+      "S-Download": "",
+      "Student's Tasks": "",
+      "URLs": ""
+    },
+    {
+      "Session": "19",
+      "Topic": "Lesson 19 - Tầm vực trong lớp Quiz 14",
+      "Learning-Teaching Type": "Online",
+      "LO": "",
+      "ITU": "",
+      "Student Materials": "",
+      "S-Download": "",
+      "Student's Tasks": "",
+      "URLs": ""
+    },
+    {
+      "Session": "20",
+      "Topic": "Lab 2 and Lab Quiz 2",
+      "Learning-Teaching Type": "Online",
+      "LO": "",
+      "ITU": "",
+      "Student Materials": "",
+      "S-Download": "",
+      "Student's Tasks": "",
+      "URLs": ""
+    },
+    {
+      "Session": "21",
+      "Topic": "Lesson 20 - Kế thừa Lesson 21 - Đóng gói và từ chỉ định truy cập protected",
+      "Learning-Teaching Type": "Online",
+      "LO": "",
+      "ITU": "",
+      "Student Materials": "",
+      "S-Download": "",
+      "Student's Tasks": "",
+      "URLs": ""
+    },
+    {
+      "Session": "22",
+      "Topic": "Lesson 22 - Hàm ảo và lớp ảo Quiz 15",
+      "Learning-Teaching Type": "Online",
+      "LO": "",
+      "ITU": "",
+      "Student Materials": "",
+      "S-Download": "",
+      "Student's Tasks": "",
+      "URLs": ""
+    },
+    {
+      "Session": "23",
+      "Topic": "Lab 3 and Lab Quiz 3",
+      "Learning-Teaching Type": "Online",
+      "LO": "",
+      "ITU": "",
+      "Student Materials": "",
+      "S-Download": "",
+      "Student's Tasks": "",
+      "URLs": ""
+    },
+    {
+      "Session": "24",
+      "Topic": "Assignment 3",
+      "Learning-Teaching Type": "Online",
+      "LO": "",
+      "ITU": "",
+      "Student Materials": "",
+      "S-Download": "",
+      "Student's Tasks": "",
+      "URLs": ""
+    },
+    {
+      "Session": "25",
+      "Topic": "Lesson 23 - Mở đầu với streams và tệp dữ liệu Lesson 24 - Stream nhập xuất (Stream I/O",
+      "Learning-Teaching Type": "Online",
+      "LO": "",
+      "ITU": "",
+      "Student Materials": "",
+      "S-Download": "",
+      "Student's Tasks": "",
+      "URLs": ""
+    },
+    {
+      "Session": "26",
+      "Topic": "Lesson 25 - Thao tác với tệp (file)",
+      "Learning-Teaching Type": "Online",
+      "LO": "",
+      "ITU": "",
+      "Student Materials": "",
+      "S-Download": "",
+      "Student's Tasks": "",
+      "URLs": ""
+    },
+    {
+      "Session": "27",
+      "Topic": "Lesson 26 - Chuỗi Quiz 16",
+      "Learning-Teaching Type": "Online",
+      "LO": "",
+      "ITU": "",
+      "Student Materials": "",
+      "S-Download": "",
+      "Student's Tasks": "",
+      "URLs": ""
+    },
+    {
+      "Session": "28",
+      "Topic": "Lab 4 and Lab Quiz 4",
+      "Learning-Teaching Type": "Online",
+      "LO": "",
+      "ITU": "",
+      "Student Materials": "",
+      "S-Download": "",
+      "Student's Tasks": "",
+      "URLs": ""
+    },
+    {
+      "Session": "29",
+      "Topic": "Assignment 4",
+      "Learning-Teaching Type": "Online",
+      "LO": "",
+      "ITU": "",
+      "Student Materials": "",
+      "S-Download": "",
+      "Student's Tasks": "",
+      "URLs": ""
+    },
+    {
+      "Session": "30",
+      "Topic": "Course review Final Exam",
+      "Learning-Teaching Type": "Online",
+      "LO": "",
+      "ITU": "",
+      "Student Materials": "",
+      "S-Download": "",
+      "Student's Tasks": "",
+      "URLs": ""
+    }
+  ],
+  "constructive_questions": [],
+  "materials": [
+    {
+      "No.": "1",
+      "Material Description": "FU LMS course link: https://fu.funix.edu.vn/courses/course-v1:FUG+CPP101x_02_EN+2019_T9/info",
+      "Author": "",
+      "Publisher": "",
+      "Published Date": "",
+      "Edition": "",
+      "ISBN": "",
+      "Is Main Material": "True",
+      "Is Hard Copy": "False",
+      "Is Online": "True",
+      "Note": ""
+    }
+  ],
+  "source_path": "data/raw/syllabi/1125.html",
+  "id": "syllabus:1125"
+}

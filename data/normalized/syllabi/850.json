@@ -1,0 +1,699 @@
+{
+  "syllabus_id": 850,
+  "subject_code": "CEA201b",
+  "subject_name": "COMPUTER ORGANIZATION AND ARCHITECTURE",
+  "syllabus_name": "COMPUTER ORGANIZATION AND ARCHITECTURE",
+  "credits": 3,
+  "degree_level": "Bachelor",
+  "time_allocation": "45 hours (3 credits): - 25 online sessions - 4 offline sessions (90 minutes/session) - 1 final exam",
+  "prerequisite": "",
+  "general_information": {
+    "Syllabus ID": "850",
+    "Syllabus Name": "COMPUTER ORGANIZATION AND ARCHITECTURE",
+    "Course Name English": "",
+    "Subject Code": "CEA201b",
+    "Learning-Teaching Method": "",
+    "NoCredit": "3",
+    "Degree Level": "Bachelor",
+    "Time Allocation": "45 hours (3 credits): - 25 online sessions - 4 offline sessions (90 minutes/session) - 1 final exam",
+    "Pre-Requisite": "",
+    "Description": "After taking this course, the students should all be able to: G1. Know the concepts of information, coding, error correction, and multiplexing. Understand how to represent numbers in binary, hexadecimal, numbers with offset 2 and basic operations. G2. Knowing knowledge, basic logic operations. Understand the laws of Boolean algebra so that it can be used to reduce expressions and design of integrated logic circuits G3. Know the basic concepts in computer organization and architecture such as stored programs, script architectures (properties, functions, formats), storage and memory access, representation operands. Know how to use simulation software for program testing and debugging. G4. Understand concepts of assemblies to be able to write simple programs. Distinguish the difference between linguistic and high-level languages. G5. Knowing the concepts and knowledge in the memory system is decentralized: SRAM, DRAM, Flash, hard drive. Understand the basic concepts of cache like: + locality principle (locality of reference) when accessing memory + How to access the cache + size 1 block of data in the cache +cache hit, cache miss +conflict miss",
+    "StudentTasks": "- Students should self-study all lessons on LMS before the offline class - Take part in at least 4/4 offline sessions - Submit projects in order to unlock the next lessons",
+    "Tools": "",
+    "Scoring Scale": "10",
+    "DecisionNo MM/dd/yyyy": "",
+    "IsApproved": "True",
+    "Note": "",
+    "Is Scored": "True",
+    "MinAvgMarkToPass": "5",
+    "IsActive": "True",
+    "ApprovedDate": ""
+  },
+  "active": true,
+  "approved": true,
+  "decision": "",
+  "description": "After taking this course, the students should all be able to: G1. Know the concepts of information, coding, error correction, and multiplexing. Understand how to represent numbers in binary, hexadecimal, numbers with offset 2 and basic operations. G2. Knowing knowledge, basic logic operations. Understand the laws of Boolean algebra so that it can be used to reduce expressions and design of integrated logic circuits G3. Know the basic concepts in computer organization and architecture such as stored programs, script architectures (properties, functions, formats), storage and memory access, representation operands. Know how to use simulation software for program testing and debugging. G4. Understand concepts of assemblies to be able to write simple programs. Distinguish the difference between linguistic and high-level languages. G5. Knowing the concepts and knowledge in the memory system is decentralized: SRAM, DRAM, Flash, hard drive. Understand the basic concepts of cache like: + locality principle (locality of reference) when accessing memory + How to access the cache + size 1 block of data in the cache +cache hit, cache miss +conflict miss",
+  "learning_outcomes": [
+    {
+      "No.": "1",
+      "CLO Name": "CCEA201x_01",
+      "CLO Details": "Know the definition of information"
+    },
+    {
+      "No.": "2",
+      "CLO Name": "CCEA201x_02",
+      "CLO Details": "Know how to encode data"
+    },
+    {
+      "No.": "3",
+      "CLO Name": "CCEA201x_03",
+      "CLO Details": "Know how to represent binary numbers and algorithms"
+    },
+    {
+      "No.": "4",
+      "CLO Name": "CCEA201x_04",
+      "CLO Details": "Know how to represent hexadecimal numbers and algorithms"
+    },
+    {
+      "No.": "5",
+      "CLO Name": "CCEA201x_05",
+      "CLO Details": "Know how to quickly convert between binary and hexadecimal numbers"
+    },
+    {
+      "No.": "6",
+      "CLO Name": "CCEA201x_06",
+      "CLO Details": "Understand how to represent signed numbers with the two's complement and algorithms"
+    },
+    {
+      "No.": "7",
+      "CLO Name": "CCEA201x_07",
+      "CLO Details": "Know the error detection mechanisms"
+    },
+    {
+      "No.": "8",
+      "CLO Name": "CCEA201x_08",
+      "CLO Details": "Know the error correction mechanisms"
+    },
+    {
+      "No.": "9",
+      "CLO Name": "CCEA201x_09",
+      "CLO Details": "Knowledge of basic knowledge and logical algorithms"
+    },
+    {
+      "No.": "10",
+      "CLO Name": "CCEA201x_10",
+      "CLO Details": "Know how to represent the truth table"
+    },
+    {
+      "No.": "11",
+      "CLO Name": "CCEA201x_11",
+      "CLO Details": "Know how to represent in the logical expression form"
+    },
+    {
+      "No.": "12",
+      "CLO Name": "CCEA201x_12",
+      "CLO Details": "Know how to represent in the logical circuit form"
+    },
+    {
+      "No.": "13",
+      "CLO Name": "CCEA201x_13",
+      "CLO Details": "Understand Laws of logical algebra to convert and reduce expressions"
+    },
+    {
+      "No.": "14",
+      "CLO Name": "CCEA201x_14",
+      "CLO Details": "Comprehend how to design combinational logical circuits"
+    },
+    {
+      "No.": "15",
+      "CLO Name": "CCEA201x_15",
+      "CLO Details": "Know the basic operation of a multiplexer."
+    },
+    {
+      "No.": "16",
+      "CLO Name": "CCEA201x_16",
+      "CLO Details": "Be knowledgeable about basic concepts in computer organization and architecture"
+    },
+    {
+      "No.": "17",
+      "CLO Name": "CCEA201x_17",
+      "CLO Details": "Understand the concept of stored programs"
+    },
+    {
+      "No.": "18",
+      "CLO Name": "CCEA201x_18",
+      "CLO Details": "Know how to store data in the computer"
+    },
+    {
+      "No.": "19",
+      "CLO Name": "CCEA201x_19",
+      "CLO Details": "Be aware of computer instructions: Formats, functions, features"
+    },
+    {
+      "No.": "20",
+      "CLO Name": "CCEA201x_20",
+      "CLO Details": "Be aware of the concept of constant in computer"
+    },
+    {
+      "No.": "21",
+      "CLO Name": "CCEA201x_21",
+      "CLO Details": "Know how to access computer data"
+    },
+    {
+      "No.": "22",
+      "CLO Name": "CCEA201x_22",
+      "CLO Details": "Comprehend some special commands such as branch and jump"
+    },
+    {
+      "No.": "23",
+      "CLO Name": "CCEA201x_23",
+      "CLO Details": "Know how to use simulation software to test and debug programs"
+    },
+    {
+      "No.": "24",
+      "CLO Name": "CCEA201x_24",
+      "CLO Details": "Understand all basic concepts in assembly language"
+    },
+    {
+      "No.": "25",
+      "CLO Name": "CCEA201x_25",
+      "CLO Details": "Know the role of symbols and labels in programs"
+    },
+    {
+      "No.": "26",
+      "CLO Name": "CCEA201x_26",
+      "CLO Details": "Gain the knowledge of high-level languages, compiler and interpreter"
+    },
+    {
+      "No.": "27",
+      "CLO Name": "CCEA201x_27",
+      "CLO Details": "Can use the knowledge to write assembly programs"
+    },
+    {
+      "No.": "28",
+      "CLO Name": "CCEA201x_28",
+      "CLO Details": "Be knowledgeable about memory technology"
+    },
+    {
+      "No.": "29",
+      "CLO Name": "CCEA201x_29",
+      "CLO Details": "Be aware of the composition and how to access SRAM memory"
+    },
+    {
+      "No.": "30",
+      "CLO Name": "CCEA201x_30",
+      "CLO Details": "Be aware of the composition and how to access DRAM"
+    },
+    {
+      "No.": "31",
+      "CLO Name": "CCEA201x_31",
+      "CLO Details": "Know the composition and how to access a Flash memory"
+    },
+    {
+      "No.": "32",
+      "CLO Name": "CCEA201x_32",
+      "CLO Details": "Know the composition and how to access Hard drive"
+    },
+    {
+      "No.": "33",
+      "CLO Name": "CCEA201x_33",
+      "CLO Details": "Know how to organize a memory hierarchy - Understand the principle of allocating locations in memory"
+    },
+    {
+      "No.": "34",
+      "CLO Name": "CCEA201x_34",
+      "CLO Details": "Understand the principle of allocating locations in memory"
+    },
+    {
+      "No.": "35",
+      "CLO Name": "CCEA201x_35",
+      "CLO Details": "Know the meaning and how to operate cache"
+    },
+    {
+      "No.": "36",
+      "CLO Name": "CCEA201x_36",
+      "CLO Details": "Know the method of mapping data directly in cache"
+    },
+    {
+      "No.": "37",
+      "CLO Name": "CCEA201x_37",
+      "CLO Details": "Learn the significance of the size of a cache data block"
+    },
+    {
+      "No.": "38",
+      "CLO Name": "CCEA201x_38",
+      "CLO Details": "Know the cause of cache miss rate"
+    },
+    {
+      "No.": "39",
+      "CLO Name": "CCEA201x_39",
+      "CLO Details": "Know the strategy of writing data in cache and main memory"
+    }
+  ],
+  "assessments": [
+    {
+      "No.": "1",
+      "Category": "Final Exam",
+      "Type": "quiz",
+      "Part": "1",
+      "Weight": "40.0%",
+      "Completion Criteria": "4",
+      "Duration": "",
+      "CLO": "",
+      "Question Type": "Multiple choice",
+      "No Question": "",
+      "Knowledge and Skill": "",
+      "Grading Guide": "",
+      "Note": ""
+    },
+    {
+      "No.": "2",
+      "Category": "Progress Test",
+      "Type": "quiz",
+      "Part": "4",
+      "Weight": "20.0%",
+      "Completion Criteria": ">0",
+      "Duration": "",
+      "CLO": "",
+      "Question Type": "Multiple choice",
+      "No Question": "",
+      "Knowledge and Skill": "",
+      "Grading Guide": "",
+      "Note": ""
+    },
+    {
+      "No.": "3",
+      "Category": "Quiz",
+      "Type": "quiz",
+      "Part": "1",
+      "Weight": "10.0%",
+      "Completion Criteria": ">0",
+      "Duration": "",
+      "CLO": "",
+      "Question Type": "Multiple choice",
+      "No Question": "",
+      "Knowledge and Skill": "",
+      "Grading Guide": "",
+      "Note": ""
+    },
+    {
+      "No.": "4",
+      "Category": "Project",
+      "Type": "on-going",
+      "Part": "1",
+      "Weight": "20.0%",
+      "Completion Criteria": ">0",
+      "Duration": "",
+      "CLO": "",
+      "Question Type": "Project",
+      "No Question": "",
+      "Knowledge and Skill": "",
+      "Grading Guide": "",
+      "Note": ""
+    },
+    {
+      "No.": "5",
+      "Category": "Q&A with mentor",
+      "Type": "on-going",
+      "Part": "1",
+      "Weight": "10.0%",
+      "Completion Criteria": ">0",
+      "Duration": "",
+      "CLO": "",
+      "Question Type": "Q&A",
+      "No Question": "",
+      "Knowledge and Skill": "",
+      "Grading Guide": "",
+      "Note": ""
+    }
+  ],
+  "schedule": [
+    {
+      "Session": "1",
+      "Topic": "",
+      "Learning-Teaching Type": "Offline",
+      "LO": "",
+      "ITU": "",
+      "Student Materials": "",
+      "S-Download": "",
+      "Student's Tasks": "",
+      "URLs": ""
+    },
+    {
+      "Session": "2",
+      "Topic": "",
+      "Learning-Teaching Type": "Offline",
+      "LO": "",
+      "ITU": "",
+      "Student Materials": "",
+      "S-Download": "",
+      "Student's Tasks": "",
+      "URLs": ""
+    },
+    {
+      "Session": "3",
+      "Topic": "",
+      "Learning-Teaching Type": "Offline",
+      "LO": "",
+      "ITU": "",
+      "Student Materials": "",
+      "S-Download": "",
+      "Student's Tasks": "",
+      "URLs": ""
+    },
+    {
+      "Session": "4",
+      "Topic": "",
+      "Learning-Teaching Type": "Offline",
+      "LO": "",
+      "ITU": "",
+      "Student Materials": "",
+      "S-Download": "",
+      "Student's Tasks": "",
+      "URLs": ""
+    },
+    {
+      "Session": "5",
+      "Topic": "",
+      "Learning-Teaching Type": "Offline",
+      "LO": "",
+      "ITU": "",
+      "Student Materials": "",
+      "S-Download": "",
+      "Student's Tasks": "",
+      "URLs": ""
+    },
+    {
+      "Session": "6",
+      "Topic": "",
+      "Learning-Teaching Type": "Offline",
+      "LO": "",
+      "ITU": "",
+      "Student Materials": "",
+      "S-Download": "",
+      "Student's Tasks": "",
+      "URLs": ""
+    },
+    {
+      "Session": "7",
+      "Topic": "",
+      "Learning-Teaching Type": "Offline",
+      "LO": "",
+      "ITU": "",
+      "Student Materials": "",
+      "S-Download": "",
+      "Student's Tasks": "",
+      "URLs": ""
+    },
+    {
+      "Session": "8",
+      "Topic": "",
+      "Learning-Teaching Type": "Offline",
+      "LO": "",
+      "ITU": "",
+      "Student Materials": "",
+      "S-Download": "",
+      "Student's Tasks": "",
+      "URLs": ""
+    },
+    {
+      "Session": "9",
+      "Topic": "",
+      "Learning-Teaching Type": "Offline",
+      "LO": "",
+      "ITU": "",
+      "Student Materials": "",
+      "S-Download": "",
+      "Student's Tasks": "",
+      "URLs": ""
+    },
+    {
+      "Session": "10",
+      "Topic": "",
+      "Learning-Teaching Type": "Offline",
+      "LO": "",
+      "ITU": "",
+      "Student Materials": "",
+      "S-Download": "",
+      "Student's Tasks": "",
+      "URLs": ""
+    },
+    {
+      "Session": "11",
+      "Topic": "Offline session 1",
+      "Learning-Teaching Type": "Offline",
+      "LO": "",
+      "ITU": "",
+      "Student Materials": "",
+      "S-Download": "",
+      "Student's Tasks": "",
+      "URLs": ""
+    },
+    {
+      "Session": "12",
+      "Topic": "",
+      "Learning-Teaching Type": "Offline",
+      "LO": "",
+      "ITU": "",
+      "Student Materials": "",
+      "S-Download": "",
+      "Student's Tasks": "",
+      "URLs": ""
+    },
+    {
+      "Session": "13",
+      "Topic": "",
+      "Learning-Teaching Type": "Offline",
+      "LO": "",
+      "ITU": "",
+      "Student Materials": "",
+      "S-Download": "",
+      "Student's Tasks": "",
+      "URLs": ""
+    },
+    {
+      "Session": "14",
+      "Topic": "",
+      "Learning-Teaching Type": "Offline",
+      "LO": "",
+      "ITU": "",
+      "Student Materials": "",
+      "S-Download": "",
+      "Student's Tasks": "",
+      "URLs": ""
+    },
+    {
+      "Session": "15",
+      "Topic": "",
+      "Learning-Teaching Type": "Offline",
+      "LO": "",
+      "ITU": "",
+      "Student Materials": "",
+      "S-Download": "",
+      "Student's Tasks": "",
+      "URLs": ""
+    },
+    {
+      "Session": "16",
+      "Topic": "",
+      "Learning-Teaching Type": "Offline",
+      "LO": "",
+      "ITU": "",
+      "Student Materials": "",
+      "S-Download": "",
+      "Student's Tasks": "",
+      "URLs": ""
+    },
+    {
+      "Session": "17",
+      "Topic": "",
+      "Learning-Teaching Type": "Offline",
+      "LO": "",
+      "ITU": "",
+      "Student Materials": "",
+      "S-Download": "",
+      "Student's Tasks": "",
+      "URLs": ""
+    },
+    {
+      "Session": "18",
+      "Topic": "Offline session 2",
+      "Learning-Teaching Type": "Offline",
+      "LO": "",
+      "ITU": "",
+      "Student Materials": "",
+      "S-Download": "",
+      "Student's Tasks": "",
+      "URLs": ""
+    },
+    {
+      "Session": "19",
+      "Topic": "",
+      "Learning-Teaching Type": "Offline",
+      "LO": "",
+      "ITU": "",
+      "Student Materials": "",
+      "S-Download": "",
+      "Student's Tasks": "",
+      "URLs": ""
+    },
+    {
+      "Session": "20",
+      "Topic": "",
+      "Learning-Teaching Type": "Offline",
+      "LO": "",
+      "ITU": "",
+      "Student Materials": "",
+      "S-Download": "",
+      "Student's Tasks": "",
+      "URLs": ""
+    },
+    {
+      "Session": "21",
+      "Topic": "",
+      "Learning-Teaching Type": "Offline",
+      "LO": "",
+      "ITU": "",
+      "Student Materials": "",
+      "S-Download": "",
+      "Student's Tasks": "",
+      "URLs": ""
+    },
+    {
+      "Session": "22",
+      "Topic": "",
+      "Learning-Teaching Type": "Offline",
+      "LO": "",
+      "ITU": "",
+      "Student Materials": "",
+      "S-Download": "",
+      "Student's Tasks": "",
+      "URLs": ""
+    },
+    {
+      "Session": "23",
+      "Topic": "",
+      "Learning-Teaching Type": "Offline",
+      "LO": "",
+      "ITU": "",
+      "Student Materials": "",
+      "S-Download": "",
+      "Student's Tasks": "",
+      "URLs": ""
+    },
+    {
+      "Session": "24",
+      "Topic": "Offline session 3",
+      "Learning-Teaching Type": "Offline",
+      "LO": "",
+      "ITU": "",
+      "Student Materials": "",
+      "S-Download": "",
+      "Student's Tasks": "",
+      "URLs": ""
+    },
+    {
+      "Session": "25",
+      "Topic": "",
+      "Learning-Teaching Type": "Offline",
+      "LO": "",
+      "ITU": "",
+      "Student Materials": "",
+      "S-Download": "",
+      "Student's Tasks": "",
+      "URLs": ""
+    },
+    {
+      "Session": "26",
+      "Topic": "",
+      "Learning-Teaching Type": "Offline",
+      "LO": "",
+      "ITU": "",
+      "Student Materials": "",
+      "S-Download": "",
+      "Student's Tasks": "",
+      "URLs": ""
+    },
+    {
+      "Session": "27",
+      "Topic": "",
+      "Learning-Teaching Type": "Offline",
+      "LO": "",
+      "ITU": "",
+      "Student Materials": "",
+      "S-Download": "",
+      "Student's Tasks": "",
+      "URLs": ""
+    },
+    {
+      "Session": "28",
+      "Topic": "",
+      "Learning-Teaching Type": "Offline",
+      "LO": "",
+      "ITU": "",
+      "Student Materials": "",
+      "S-Download": "",
+      "Student's Tasks": "",
+      "URLs": ""
+    },
+    {
+      "Session": "29",
+      "Topic": "Offline session 4",
+      "Learning-Teaching Type": "Offline",
+      "LO": "",
+      "ITU": "",
+      "Student Materials": "",
+      "S-Download": "",
+      "Student's Tasks": "",
+      "URLs": ""
+    },
+    {
+      "Session": "30",
+      "Topic": "",
+      "Learning-Teaching Type": "Offline",
+      "LO": "",
+      "ITU": "",
+      "Student Materials": "",
+      "S-Download": "",
+      "Student's Tasks": "",
+      "URLs": ""
+    }
+  ],
+  "constructive_questions": [],
+  "materials": [
+    {
+      "No.": "1",
+      "Material Description": "https://courses.edx.org/courses/course-v1:MITx+6.004.1x_3+3T2016/course/",
+      "Author": "",
+      "Publisher": "",
+      "Published Date": "",
+      "Edition": "",
+      "ISBN": "",
+      "Is Main Material": "True",
+      "Is Hard Copy": "False",
+      "Is Online": "True",
+      "Note": ""
+    },
+    {
+      "No.": "2",
+      "Material Description": "https://courses.edx.org/courses/course-v1:MITx+6.004.2x_2+3T2016/course/",
+      "Author": "",
+      "Publisher": "",
+      "Published Date": "",
+      "Edition": "",
+      "ISBN": "",
+      "Is Main Material": "True",
+      "Is Hard Copy": "False",
+      "Is Online": "True",
+      "Note": ""
+    },
+    {
+      "No.": "3",
+      "Material Description": "https://computationstructures.org/lectures/info/info.html#1",
+      "Author": "",
+      "Publisher": "",
+      "Published Date": "",
+      "Edition": "",
+      "ISBN": "",
+      "Is Main Material": "False",
+      "Is Hard Copy": "False",
+      "Is Online": "True",
+      "Note": ""
+    },
+    {
+      "No.": "4",
+      "Material Description": "CEA201x_Offline guideline_SM2019.docx",
+      "Author": "",
+      "Publisher": "",
+      "Published Date": "",
+      "Edition": "",
+      "ISBN": "",
+      "Is Main Material": "False",
+      "Is Hard Copy": "False",
+      "Is Online": "True",
+      "Note": ""
+    }
+  ],
+  "source_path": "data/raw/syllabi/850.html",
+  "id": "syllabus:850"
+}

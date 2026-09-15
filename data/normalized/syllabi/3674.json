@@ -1,0 +1,346 @@
+{
+  "syllabus_id": 3674,
+  "subject_code": "PRU211c",
+  "subject_name": "(Combo .Net: Option 3) C# Programming and Unity",
+  "syllabus_name": "(Combo .Net: Option 3) C# Programming and Unity",
+  "credits": 3,
+  "degree_level": "Bachelor",
+  "time_allocation": "Online: 63 hours +4 slot offline",
+  "prerequisite": "",
+  "general_information": {
+    "Syllabus ID": "3674",
+    "Syllabus Name": "(Combo .Net: Option 3) C# Programming and Unity",
+    "Course Name English": "",
+    "Subject Code": "PRU211c",
+    "Learning-Teaching Method": "",
+    "NoCredit": "3",
+    "Degree Level": "Bachelor",
+    "Time Allocation": "Online: 63 hours +4 slot offline",
+    "Pre-Requisite": "",
+    "Description": "In this course, students will learn core programming concepts that apply to lots of programming languages, including C#. They will build their foundational C# and Unity knowledge by exploring C# and Unity topics. They will also learn how to apply that knowledge for developing and completing some their games.",
+    "StudentTasks": "1. Complete the online courses and get the two Coursera's course certificates to be allowed to take Final Exam 2. Final Exam is included of Final Theory Exam (TE) & Final Practical Exam (PE): 100% 3. Student gets 0.5 bonus points for each course completed on time. 4. Completion Criteria: Final TE Score >=4 & Final PE Score >=4 & ((Final TE Score + Final PE Score)/2 + bonus) >= 5 5. In the case: (5 > Final TE Score >=4) & (5 > Final PE Score >=4) & ((Final TE Score + Final PE Score)/2 + bonus) < 5, the student can choose to take the resit of both TE & PE OR just either TE or PE.",
+    "Tools": "- Internet",
+    "Scoring Scale": "10",
+    "DecisionNo MM/dd/yyyy": "870/QĐ-ĐHFPT dated 08/06/2021",
+    "IsApproved": "True",
+    "Note": "",
+    "Is Scored": "True",
+    "MinAvgMarkToPass": "5",
+    "IsActive": "True",
+    "ApprovedDate": "8/6/2021"
+  },
+  "active": true,
+  "approved": true,
+  "decision": "870/QĐ-ĐHFPT dated 08/06/2021",
+  "description": "In this course, students will learn core programming concepts that apply to lots of programming languages, including C#. They will build their foundational C# and Unity knowledge by exploring C# and Unity topics. They will also learn how to apply that knowledge for developing and completing some their games.",
+  "learning_outcomes": [
+    {
+      "No.": "1",
+      "CLO Name": "CLO1",
+      "CLO Details": "Know how to write your first C# console application and Unity script and know how to store data in programs"
+    },
+    {
+      "No.": "2",
+      "CLO Name": "CLO2",
+      "CLO Details": "Know how to use classes and objects to implement code"
+    },
+    {
+      "No.": "3",
+      "CLO Name": "CLO3",
+      "CLO Details": "Know the basics of Unity 2D games and know how to make decisions in code"
+    },
+    {
+      "No.": "4",
+      "CLO Name": "CLO4",
+      "CLO Details": "Know how to get and use player input in Unity games"
+    },
+    {
+      "No.": "5",
+      "CLO Name": "CLO5",
+      "CLO Details": "Know how to store lots of data in arrays and lists and use iteration (looping) to repeat actions in code"
+    },
+    {
+      "No.": "6",
+      "CLO Name": "CLO6",
+      "CLO Details": "Understand about abstraction and know how to use it to design and implement console application classes"
+    },
+    {
+      "No.": "7",
+      "CLO Name": "CLO7",
+      "CLO Details": "Know how to use abstraction to design and implement Unity classes"
+    },
+    {
+      "No.": "8",
+      "CLO Name": "CLO8",
+      "CLO Details": "Know how to add text output and sound effects to Unity games"
+    }
+  ],
+  "assessments": [
+    {
+      "No.": "1",
+      "Category": "PE",
+      "Type": "Final exam",
+      "Part": "1",
+      "Weight": "50.0%",
+      "Completion Criteria": "4",
+      "Duration": "120'",
+      "CLO": "All Los",
+      "Question Type": "",
+      "No Question": "",
+      "Knowledge and Skill": "The two studied courses.",
+      "Grading Guide": "by exam board, using computer",
+      "Note": "Customized from the Assignment of the two Coursera's courses"
+    },
+    {
+      "No.": "2",
+      "Category": "TE",
+      "Type": "Final exam",
+      "Part": "1",
+      "Weight": "50.0%",
+      "Completion Criteria": "4",
+      "Duration": "60'",
+      "CLO": "All Los",
+      "Question Type": "Multiple choices Marked by Computer",
+      "No Question": "50",
+      "Knowledge and Skill": "The two studied courses. Each module of course contributes 3-8 questions.",
+      "Grading Guide": "by exam board, using computer",
+      "Note": "Customized from the quizzes of the two Coursera's courses"
+    }
+  ],
+  "schedule": [
+    {
+      "Session": "1",
+      "Topic": "Starting to Program - Course Introduction - First C# console application and C# script in Unity - How to store and use information in C# programs",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO1",
+      "ITU": "ITU",
+      "Student Materials": "",
+      "S-Download": "",
+      "Student's Tasks": "Complete Week 1 of the course Introduction to C# Programming and Unity",
+      "URLs": ""
+    },
+    {
+      "Session": "2",
+      "Topic": "Classes and Objects - Introduction to Classes and Objects - Using a Class - Classes and Objects in Unity",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO1, LO2",
+      "ITU": "TU",
+      "Student Materials": "",
+      "S-Download": "",
+      "Student's Tasks": "Complete Week 2 of the course Introduction to C# Programming and Unity",
+      "URLs": ""
+    },
+    {
+      "Session": "3",
+      "Topic": "Unity 2D Basics and Selection - Using Unity to develop 2D games - How to make decisions in code OFFLINE: Course 1 Review",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO2, LO3",
+      "ITU": "TU",
+      "Student Materials": "",
+      "S-Download": "",
+      "Student's Tasks": "Study Week 3 of the course Introduction to C# Programming and Unity All Students should participate in review slot (if any question)",
+      "URLs": ""
+    },
+    {
+      "Session": "4",
+      "Topic": "Unity 2D Basics and Selection (cont.) - Using Unity to develop 2D games - How to make decisions in code",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO2, LO3",
+      "ITU": "TU",
+      "Student Materials": "",
+      "S-Download": "",
+      "Student's Tasks": "Complete Week 3 of the course Introduction to C# Programming and Unity",
+      "URLs": ""
+    },
+    {
+      "Session": "5",
+      "Topic": "Unity Input - How to process user input in Unity games OFFLINE: Course 1 Review",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO2, LO3, LO4",
+      "ITU": "TU",
+      "Student Materials": "",
+      "S-Download": "",
+      "Student's Tasks": "Complete Week 4 of the course Introduction to C# Programming and Unity - Deadline of Course 1 Completion: End of Friday of the week. All Students should participate in review slot (if any question)",
+      "URLs": ""
+    },
+    {
+      "Session": "6",
+      "Topic": "Arrays, Lists, and Iteration - Arrays - Lists - For Loops - Foreach Loops - While Loops",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO5",
+      "ITU": "ITU",
+      "Student Materials": "",
+      "S-Download": "",
+      "Student's Tasks": "Complete Week 1 of the course More C# Programming and Unity",
+      "URLs": ""
+    },
+    {
+      "Session": "7",
+      "Topic": "Abstraction and Console App Classes - Abstraction - Designing the Class - Fields and Properties - Constructor - Method (Week 7 or Week 8) 1st Evaluation (For students completed & got two Coursera's course certificates) (Option)",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO2, LO6",
+      "ITU": "TU",
+      "Student Materials": "",
+      "S-Download": "",
+      "Student's Tasks": "Study Week 2 of the course More C# Programming and Unity",
+      "URLs": ""
+    },
+    {
+      "Session": "8",
+      "Topic": "Abstraction and Console App Classes (cont.) - Abstraction - Designing the Class - Fields and Properties - Constructor - Method",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO2, LO6",
+      "ITU": "TU",
+      "Student Materials": "",
+      "S-Download": "",
+      "Student's Tasks": "Complete Week 2 of the course More C# Programming and Unity",
+      "URLs": ""
+    },
+    {
+      "Session": "9",
+      "Topic": "Methods and Unity Classes - Method Headers - Parameters and How They Work - Passing Objects as Parameters - Designing the Class - Using in a Game",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO2, LO6, LO7",
+      "ITU": "TU",
+      "Student Materials": "",
+      "S-Download": "",
+      "Student's Tasks": "Study Week 3 of the course More C# Programming and Unity",
+      "URLs": ""
+    },
+    {
+      "Session": "10",
+      "Topic": "Methods and Unity Classes (cont.) - Method Headers - Parameters and How They Work - Passing Objects as Parameters - Designing the Class - Using in a Game OFFLINE: Course 2 Review",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO2, LO6, LO7",
+      "ITU": "TU",
+      "Student Materials": "",
+      "S-Download": "",
+      "Student's Tasks": "Complete Week 3 of the course More C# Programming and Unity All Students should participate in review slot (if any question)",
+      "URLs": ""
+    },
+    {
+      "Session": "11",
+      "Topic": "Strings, Text IO, and AudioProject - The Char Data Type - String Basics, String Operations - Text Output, Text Input - Audio Basics - Adding an Audio Manager",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO4, LO7, LO8",
+      "ITU": "TU",
+      "Student Materials": "",
+      "S-Download": "",
+      "Student's Tasks": "Study Week 4 of the course More C# Programming and Unity",
+      "URLs": ""
+    },
+    {
+      "Session": "12",
+      "Topic": "Strings, Text IO, and AudioProject (cont.) - The Char Data Type - String Basics, String Operations - Text Output, Text Input - Audio Basics - Adding an Audio Manager OFFLINE: Course 2 Review",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO4, LO7, LO8",
+      "ITU": "TU",
+      "Student Materials": "",
+      "S-Download": "",
+      "Student's Tasks": "Complete Week 4 of the course More C# Programming and Unity - Deadline of Course 2 Completion: End of Friday of the week. All Students should participate in review slot (if any question)",
+      "URLs": ""
+    },
+    {
+      "Session": "13",
+      "Topic": "2nd Evaluation (For students completed & got two Coursera's course certificates)",
+      "Learning-Teaching Type": "Offline",
+      "LO": "All Los",
+      "ITU": "",
+      "Student Materials": "",
+      "S-Download": "",
+      "Student's Tasks": "- Do TE quizzes and PE assignments",
+      "URLs": ""
+    },
+    {
+      "Session": "14",
+      "Topic": "3rd Evaluation (For students completed & got two Coursera's course certificates)",
+      "Learning-Teaching Type": "Offline",
+      "LO": "All LOs",
+      "ITU": "",
+      "Student Materials": "",
+      "S-Download": "",
+      "Student's Tasks": "- Do TE quizzes and PE assignments",
+      "URLs": ""
+    }
+  ],
+  "constructive_questions": [
+    {
+      "No.": "1",
+      "Session No": "1",
+      "Name": "CQ1",
+      "Details": "Manipulate logical expressions and use logic for inference"
+    },
+    {
+      "No.": "2",
+      "Session No": "1",
+      "Name": "CQ2",
+      "Details": "Perform basic operations on sets, functions and sequences"
+    },
+    {
+      "No.": "3",
+      "Session No": "2",
+      "Name": "CQ1",
+      "Details": "Analyze basic algorithms written in pseudo codes and determine theirs complexities"
+    },
+    {
+      "No.": "4",
+      "Session No": "3",
+      "Name": "CQ1",
+      "Details": "Discuss applications of modular arithmetic and analyze algorithms on integers"
+    },
+    {
+      "No.": "5",
+      "Session No": "4",
+      "Name": "CQ1",
+      "Details": "Use induction and recursive definition to prove a statement or to describe an object, and write recursive algorithms"
+    },
+    {
+      "No.": "6",
+      "Session No": "4",
+      "Name": "CQ2",
+      "Details": "Solve counting problems"
+    },
+    {
+      "No.": "7",
+      "Session No": "4",
+      "Name": "CQ3",
+      "Details": "Analyze the structure of a graph and find shortest paths in a weighted graph"
+    },
+    {
+      "No.": "8",
+      "Session No": "4",
+      "Name": "CQ4",
+      "Details": "Analyze the structure of a tree and describe algorithms using trees"
+    }
+  ],
+  "materials": [
+    {
+      "No.": "1",
+      "Material Description": "https://www.coursera.org/specializations/programming-unity-game-development (2 first courses in 4 courses) - https://www.coursera.org/learn/introduction-programming-unity?specialization=programming-unity-game-development - https://www.coursera.org/learn/more-programming-unity?specialization=programming-unity-game-development",
+      "Author": "",
+      "Publisher": "Coursera",
+      "Published Date": "",
+      "Edition": "",
+      "ISBN": "",
+      "Is Main Material": "True",
+      "Is Hard Copy": "False",
+      "Is Online": "True",
+      "Note": ""
+    },
+    {
+      "No.": "2",
+      "Material Description": "https://learner.coursera.help/hc/en-us/articles/208280036-Coursera-Code-of-Conduct",
+      "Author": "",
+      "Publisher": "Coursera",
+      "Published Date": "",
+      "Edition": "",
+      "ISBN": "",
+      "Is Main Material": "False",
+      "Is Hard Copy": "False",
+      "Is Online": "True",
+      "Note": ""
+    }
+  ],
+  "source_path": "data/raw/syllabi/3674.html",
+  "id": "syllabus:3674"
+}

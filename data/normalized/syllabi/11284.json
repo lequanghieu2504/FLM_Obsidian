@@ -1,0 +1,834 @@
+{
+  "syllabus_id": 11284,
+  "subject_code": "AET102",
+  "subject_name": "Aesthetic_Mỹ học đại cương",
+  "syllabus_name": "Aesthetic _ Mỹ học đại cương",
+  "credits": 2,
+  "degree_level": "Bachelor",
+  "time_allocation": "Study hour (100h) = 22.5h contact hours + 1h final exam + 76.5h self-study",
+  "prerequisite": "None",
+  "general_information": {
+    "Syllabus ID": "11284",
+    "Syllabus Name": "Aesthetic _ Mỹ học đại cương",
+    "Course Name English": "Aesthetic",
+    "Subject Code": "AET102",
+    "Learning-Teaching Method": "Lecture,Social Constructivism,discussion,groupwork",
+    "NoCredit": "2",
+    "Degree Level": "Bachelor",
+    "Time Allocation": "Study hour (100h) = 22.5h contact hours + 1h final exam + 76.5h self-study",
+    "Pre-Requisite": "None",
+    "Description": "This course provides an introduction to aesthetic and the phylosophy of arts for students and provides them with the knowledge and skills to communicate their ideas and processes in a visual form more effectively. As a means of questioning and applying fundamental theories, concepts and techniques, students conduct research and produce practical projects. The course examines the basic elements of visual communication and how context shapes visual forms production and reception.",
+    "StudentTasks": "1. Class attendance is strongly encouraged. Attend at least 80% of class hours in order to be accepted to the final examination 2. Actively participate in class activities 3. Fulfill tasks given by instructor after class 4. Use their own laptop in class only for learning purpose 5. Read the textbook in advance 6. Access the course website (https://flm.fpt.edu.vn) for up-to-date information and material of the course.",
+    "Tools": "Internet",
+    "Scoring Scale": "10",
+    "DecisionNo MM/dd/yyyy": "358/QĐ-ĐHFPT dated 04/03/2024",
+    "IsApproved": "True",
+    "Note": "",
+    "Is Scored": "True",
+    "MinAvgMarkToPass": "5",
+    "IsActive": "True",
+    "ApprovedDate": "4/3/2024"
+  },
+  "active": true,
+  "approved": true,
+  "decision": "358/QĐ-ĐHFPT dated 04/03/2024",
+  "description": "This course provides an introduction to aesthetic and the phylosophy of arts for students and provides them with the knowledge and skills to communicate their ideas and processes in a visual form more effectively. As a means of questioning and applying fundamental theories, concepts and techniques, students conduct research and produce practical projects. The course examines the basic elements of visual communication and how context shapes visual forms production and reception.",
+  "learning_outcomes": [
+    {
+      "No.": "1",
+      "CLO Name": "CLO1",
+      "CLO Details": "(Basic Knowledge) Understand the way people thinking about Arts - Aesthetics."
+    },
+    {
+      "No.": "2",
+      "CLO Name": "CLO2",
+      "CLO Details": "(Research Skills) Understand the contexts of the main styles and movements in Art History, which related to important inventions in manufacture, significant events on the market, talented and pioneering Artist."
+    },
+    {
+      "No.": "3",
+      "CLO Name": "CLO3",
+      "CLO Details": "(Critical Thinking) Analyze the records of the past in Art and Phylosophy History."
+    },
+    {
+      "No.": "4",
+      "CLO Name": "CLO4",
+      "CLO Details": "(Communication Skills): Study optional cases in aesthetic history, organize and express the individual thoughts clearly and coherently both in orally (presentations) and writing (assignments/essays)."
+    },
+    {
+      "No.": "5",
+      "CLO Name": "CLO5",
+      "CLO Details": "Be aware of what is aesthetics and understand the stages of aesthetic awareness in history"
+    },
+    {
+      "No.": "6",
+      "CLO Name": "CLO6",
+      "CLO Details": "Evaluate manual and/or digital art works, media and materials appropriately to produce creative ways solutions for specific cultural and technical contexts."
+    },
+    {
+      "No.": "7",
+      "CLO Name": "CLO7",
+      "CLO Details": "Having a professional style in arts activity. Love to research in visual arts."
+    },
+    {
+      "No.": "8",
+      "CLO Name": "CLO8",
+      "CLO Details": "Students have a proficient in presentation and teamworks."
+    }
+  ],
+  "assessments": [
+    {
+      "No.": "1",
+      "Category": "Group Project",
+      "Type": "on-going",
+      "Part": "1",
+      "Weight": "20.0%",
+      "Completion Criteria": ">0",
+      "Duration": "Option 1: in class and homework; Option 2:(For Constructivism Approach only): Follow lecturer's proposal",
+      "CLO": "LO5, LO6, LO7, LO8",
+      "Question Type": "Option 1: Request: Each team needs to create a promotional product (video, presentation or art book is also recommended ).- Choose an ideas - Compose contents- Making video, presentation. or art book (3 weeks)Result: - video/presentation/art booko promoting any product- Present about video/presentation/art explain the psychological applications the group used in the video/presentation/art; Option 2:(For Constructivism Approach only): Follow lecturer's proposal",
+      "No Question": "Option 1:1; Option 2:(For Constructivism Approach only): Follow lecturer's proposal",
+      "Knowledge and Skill": "Option 1: Chapter 1-8 Option 2:(For Constructivism Approach only): Follow lecturer's proposal",
+      "Grading Guide": "Option 1: Presentation in class; Amount of work on environment Background (60%) and Presentation (25%), and ability to explain and answer questions from evaluator (15%). Option 2:(For Constructivism Approach only): Follow lecturer's proposal",
+      "Note": "Option 1: The trainer is the one who decides the group project subject. The mark will be given based on each student's performance, not on the whole group's. It means each student will get their own mark. Group size: 5-7 people Option 2:(For Constructivism Approach only): Follow lecturer's proposal"
+    },
+    {
+      "No.": "2",
+      "Category": "Participation",
+      "Type": "on-going",
+      "Part": "1",
+      "Weight": "10.0%",
+      "Completion Criteria": ">0",
+      "Duration": "Week 1- 5 \"in class",
+      "CLO": "LO1- LO8",
+      "Question Type": "practical exercises",
+      "No Question": "",
+      "Knowledge and Skill": "Scope of Knowledge and skills from studied topics",
+      "Grading Guide": "Class room",
+      "Note": "Based on class attitudes and participation"
+    },
+    {
+      "No.": "3",
+      "Category": "Progress test 1",
+      "Type": "on-going",
+      "Part": "1",
+      "Weight": "10.0%",
+      "Completion Criteria": ">0",
+      "Duration": "Option 1: Week 2 in class ; Option 2:(For Constructivism Approach only): Follow lecturer's proposal",
+      "CLO": "LO2, LO3, LO4",
+      "Question Type": "Option 1: practical exercises; Option 2:(For Constructivism Approach only): Follow lecturer's proposal",
+      "No Question": "Option 1: Multiple choice (< 20 questions) or essay (1-2 questions) Individual: 1; Option 2:(For Constructivism Approach only): Follow lecturer's proposal",
+      "Knowledge and Skill": "Option 1: Chapter 1-4 Option 2:(For Constructivism Approach only): Follow lecturer's proposal",
+      "Grading Guide": "Option 1: - Guided by instructor. \"Multiple choice (< 20 questions) or essay (1-2 questions) Individual: 45-60'\" - Student must finish progress test 1 and submit the result to the lecturer in class. Option 2:(For Constructivism Approach only): Follow lecturer's proposal",
+      "Note": "Option 1: The lecturer is the one who decides the individual assignment question. Option 2:(For Constructivism Approach only): Follow lecturer's proposal"
+    },
+    {
+      "No.": "4",
+      "Category": "Progress test 2",
+      "Type": "on-going",
+      "Part": "1",
+      "Weight": "10.0%",
+      "Completion Criteria": ">0",
+      "Duration": "Option 1: in class ; Option 2:(For Constructivism Approach only): Follow lecturer's proposal",
+      "CLO": "LO4, LO5",
+      "Question Type": "Option 1: practical exercises; Option 2:(For Constructivism Approach only): Follow lecturer's proposal",
+      "No Question": "Option 1: Multiple choice (< 20 questions) or essay (1-2 questions) Individual: 1; Option 2:(For Constructivism Approach only): Follow lecturer's proposal",
+      "Knowledge and Skill": "Option 1: Chapter 5-8 Option 2:(For Constructivism Approach only): Follow lecturer's proposal",
+      "Grading Guide": "Option 1:- Guided by instructor. \"Multiple choice (< 20 questions) or essay (1-2 questions) Individual: 45-60'\" - Student must finish progress test 2 and submit the result to the lecturer in class. Option 2:(For Constructivism Approach only): Follow lecturer's proposal",
+      "Note": "Option 1: The lecturer is the one who decides the individual assignment question. Option 2:(For Constructivism Approach only): Follow lecturer's proposal"
+    },
+    {
+      "No.": "5",
+      "Category": "Final exam",
+      "Type": "Final exam",
+      "Part": "1",
+      "Weight": "50.0%",
+      "Completion Criteria": "5",
+      "Duration": "60'",
+      "CLO": "LO1, LO2, LO3, LO4, LO5, LO6, LO7, LO8",
+      "Question Type": "Multiple choice",
+      "No Question": "50",
+      "Knowledge and Skill": "The question will cover the lectures, class discussions, activities, exercises, and textbook.",
+      "Grading Guide": "Exam room",
+      "Note": "\"Students are not allowed to use document/information in any form in exam room \""
+    }
+  ],
+  "schedule": [
+    {
+      "Session": "1",
+      "Topic": "Introduction: Aesthetics and the Philosophy of Art, An Extremely Brief History",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO1",
+      "ITU": "IT",
+      "Student Materials": "'Introduting Aesthetics and the philosophy of art Page 01. - Read Introduction - Read slides: Introduction and Chapter 1",
+      "S-Download": "AET102_Phần 1",
+      "Student's Tasks": "-Review Introduction Discussion. - Participate in class's activities: asks questions, answer questions. - Read the syllabus - Read main textbook",
+      "URLs": ""
+    },
+    {
+      "Session": "2",
+      "Topic": "Introduction: Aesthetics and the Philosophy of Art, An Extremely Brief History",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO1",
+      "ITU": "I, T",
+      "Student Materials": "I. On art and beauty II The ancient period. Page 01-08. - Read Introduction - Read slides: Introduction and Chapter 1",
+      "S-Download": "AET102_Phần 2",
+      "Student's Tasks": "-Review Introduction Discussion. - Participate in class's activities: asks questions, answer questions. - Read the syllabus - Read main textbook",
+      "URLs": ""
+    },
+    {
+      "Session": "3",
+      "Topic": "Introduction: Aesthetics and the Philosophy of Art, An Extremely Brief History",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO1",
+      "ITU": "I, T",
+      "Student Materials": "III. The Middle Ages IV. The modern period. Page 08-10. - Read Introduction - Read slides: Introduction and Chapter 1",
+      "S-Download": "",
+      "Student's Tasks": "-Review Introduction Discussion. - Participate in class's activities: asks questions, answer questions. - Read the syllabus - Read main textbook",
+      "URLs": ""
+    },
+    {
+      "Session": "4",
+      "Topic": "Chapter 1. Defining Art",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO1",
+      "ITU": "I, T",
+      "Student Materials": "I. Fountain (1917) II. On definitions III. Art as representation - Page 17-20. - Read chapter 1 - Read slides Chapter 1 and Chapter 2",
+      "S-Download": "",
+      "Student's Tasks": "-Review Introduction Discussion. - Participate in class's activities: asks questions, answer questions. - Read the syllabus - Read main textbook",
+      "URLs": ""
+    },
+    {
+      "Session": "5",
+      "Topic": "Chapter 1. Defining Art",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO1",
+      "ITU": "I, T",
+      "Student Materials": "IV. Art as form V. Art as expresions Page 22-28. - Read chapter 1 - Read slides Chapter 1 and Chapter 2",
+      "S-Download": "",
+      "Student's Tasks": "-Review Introduction Discussion. - Participate in class's activities: asks questions, answer questions. - Read the syllabus - Read main textbook",
+      "URLs": ""
+    },
+    {
+      "Session": "6",
+      "Topic": "Chapter 1. Defining Art",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO1",
+      "ITU": "I, T",
+      "Student Materials": "VI. Art and aesthetic function VII On not defining art Page 28- 33. - Read chapter 1 - Read slides Chapter 1 and Chapter 2",
+      "S-Download": "",
+      "Student's Tasks": "-Review Introduction Discussion. - Participate in class's activities: asks questions, answer questions. - Read the syllabus - Read main textbook",
+      "URLs": ""
+    },
+    {
+      "Session": "7",
+      "Topic": "Chapter 1. Defining Art",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO1",
+      "ITU": "I, T",
+      "Student Materials": "VIII Art and artworld IX Art and art history Page 35- 39. - Read chapter 1 - Read slides Chapter 1 and Chapter 2",
+      "S-Download": "",
+      "Student's Tasks": "-Review Introduction Discussion. - Participate in class's activities: asks questions, answer questions. - Read the syllabus - Read main textbook",
+      "URLs": ""
+    },
+    {
+      "Session": "8",
+      "Topic": "CHAPTER 2.Interpretation and Intention",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO2",
+      "ITU": "T,U",
+      "Student Materials": "I. 'Last Leaf' (2011) II. On Interpretation Page 47- 50. - Read chapter 2 - Read slides Chapter 2 and Chapter 3",
+      "S-Download": "",
+      "Student's Tasks": "-Review Introduction Discussion. - Participate in class's activities: asks questions, answer questions. - Read the syllabus - Read main textbook",
+      "URLs": ""
+    },
+    {
+      "Session": "9",
+      "Topic": "CHAPTER 2.Interpretation and Intention",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO2",
+      "ITU": "T,U",
+      "Student Materials": "III. The Romantics IV. Anti-intentionalím Page 51-54. - Read chapter 2 - Read slides Chapter 2 and Chapter 3",
+      "S-Download": "",
+      "Student's Tasks": "-Review Introduction Discussion. - Participate in class's activities: asks questions, answer questions. - Read the syllabus - Read main textbook",
+      "URLs": ""
+    },
+    {
+      "Session": "10",
+      "Topic": "CHAPTER 2.Interpretation and Intention",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO2",
+      "ITU": "T,U",
+      "Student Materials": "V. Post-structuralism VI. Intentionalism revisited Page 59-63. - Read chapter 2 - Read slides Chapter 2 and Chapter 3",
+      "S-Download": "",
+      "Student's Tasks": "-Review Introduction Discussion. - Participate in class's activities: asks questions, answer questions. - Read the syllabus - Read main textbook",
+      "URLs": ""
+    },
+    {
+      "Session": "11",
+      "Topic": "CHAPTER 2.Interpretation and Intention",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO2",
+      "ITU": "T,U",
+      "Student Materials": "VII. Hypothetical intentionalism VIII. The Patchwork theory Page 66-70. - Read chapter 2 - Read slides Chapter 2 and Chapter 3",
+      "S-Download": "",
+      "Student's Tasks": "-Review Introduction Discussion. - Participate in class's activities: asks questions, answer questions. - Read the syllabus - Read main textbook",
+      "URLs": ""
+    },
+    {
+      "Session": "12",
+      "Topic": "Progress test 1",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO2",
+      "ITU": "T,U",
+      "Student Materials": "",
+      "S-Download": "",
+      "Student's Tasks": "",
+      "URLs": ""
+    },
+    {
+      "Session": "13",
+      "Topic": "CHAPTER 3. Aesthetic properties and Evaluation",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO1- LO2",
+      "ITU": "U",
+      "Student Materials": "I. Black square (1915) II. On evaluation Page 77-80. - Read chapter 3 - Read slides Chapter 3 and Chapter 4",
+      "S-Download": "",
+      "Student's Tasks": "-Review Introduction Discussion. - Participate in class's activities: asks questions, answer questions. - Read the syllabus - Read main textbook",
+      "URLs": ""
+    },
+    {
+      "Session": "14",
+      "Topic": "CHAPTER 3. Aesthetic properties and Evaluation",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO3- LO8",
+      "ITU": "I, T",
+      "Student Materials": "III. The search for objective IV. Taste V. Aesthetic propoties Page 82- 84. - Read chapter 3 - Read slides Chapter 3 and Chapter 4",
+      "S-Download": "",
+      "Student's Tasks": "-Review Introduction Discussion. - Participate in class's activities: asks questions, answer questions. - Read the syllabus - Read main textbook",
+      "URLs": ""
+    },
+    {
+      "Session": "15",
+      "Topic": "CHAPTER 3. Aesthetic properties and Evaluation",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO3- LO8",
+      "ITU": "I, T",
+      "Student Materials": "VI. Contextualism VII. The value of art Page 89-98. - Read chapter 3 - Read slides Chapter 3 and Chapter 4",
+      "S-Download": "",
+      "Student's Tasks": "-Review Introduction Discussion. - Participate in class's activities: asks questions, answer questions. - Read the syllabus - Read main textbook",
+      "URLs": ""
+    },
+    {
+      "Session": "16",
+      "Topic": "CHAPTER 4, The Ontology of Art",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO4, LO5, LO6, LO7, LO8",
+      "ITU": "IT",
+      "Student Materials": "I. Alabama Tenant Farmer Wife (1936) and after Walker Evans: 4 (1981) II. On ontology Page 107- 110. - Read chapter 4 - Read slides Chapter 4 and Chapter 5",
+      "S-Download": "",
+      "Student's Tasks": "-Review Introduction Discussion. - Participate in class's activities: asks questions, answer questions. - Read the syllabus - Read main textbook",
+      "URLs": ""
+    },
+    {
+      "Session": "17",
+      "Topic": "CHAPTER 4, The Ontology of Art",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO4, LO5, LO6, LO7, LO8",
+      "ITU": "IT",
+      "Student Materials": "III. Artworks as physical objects IV.Singular and multipal artworks Page 113- 116. - Read chapter 4 - Read slides Chapter 4 and Chapter 5",
+      "S-Download": "",
+      "Student's Tasks": "-Review Introduction Discussion. - Participate in class's activities: asks questions, answer questions. - Read the syllabus - Read main textbook",
+      "URLs": ""
+    },
+    {
+      "Session": "18",
+      "Topic": "CHAPTER 4, The Ontology of Art",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO4, LO5, LO6, LO7, LO8",
+      "ITU": "IT",
+      "Student Materials": "V. Types and Tokens VI. Constructivism VII. Mental works and action types Page 119-126. - Read chapter 4 - Read slides Chapter 4 and Chapter 5",
+      "S-Download": "",
+      "Student's Tasks": "-Review Introduction Discussion. - Participate in class's activities: asks questions, answer questions. - Read the syllabus - Read main textbook",
+      "URLs": ""
+    },
+    {
+      "Session": "19",
+      "Topic": "CHAPTER 5. Emotions and the Arts",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO5, LO6, LO7, LO8",
+      "ITU": "IT",
+      "Student Materials": "I. The exorcist (1973) II On art and Page 135-138. - Read chapter 5 - Read slides Chapter 5 and Chapter 6",
+      "S-Download": "",
+      "Student's Tasks": "-Review Introduction Discussion. - Participate in class's activities: asks questions, answer questions. - Read the syllabus - Read main textbook",
+      "URLs": ""
+    },
+    {
+      "Session": "20",
+      "Topic": "CHAPTER 5. Emotions and the Arts",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO5",
+      "ITU": "IT",
+      "Student Materials": "III The paradox of fiction IV The problem of tragedy Page 144-152. - Read chapter 5 - Read slides Chapter 5 and Chapter 6",
+      "S-Download": "",
+      "Student's Tasks": "-Review Introduction Discussion. - Participate in class's activities: asks questions, answer questions. - Read the syllabus - Read main textbook",
+      "URLs": ""
+    },
+    {
+      "Session": "21",
+      "Topic": "CHAPTER 6. Art and Morality",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO6",
+      "ITU": "IT",
+      "Student Materials": "I Helena (2000) II On ethics and aesthetics Page 161-163. - Read chapter 6 - Read slides Chapter 6 and Chapter 7",
+      "S-Download": "",
+      "Student's Tasks": "-Review Introduction Discussion. - Participate in class's activities: asks questions, answer questions. - Read the syllabus - Read main textbook",
+      "URLs": ""
+    },
+    {
+      "Session": "22",
+      "Topic": "CHAPTER 6. Art and Morality",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO6",
+      "ITU": "IT",
+      "Student Materials": "III Radical moralism and autonomism IV Moderate moralism and autonomism Page 170-173. - Read chapter 6 - Read slides Chapter 6 and 7",
+      "S-Download": "",
+      "Student's Tasks": "-Review Introduction Discussion. - Participate in class's activities: asks questions, answer questions. - Read the syllabus - Read main textbook",
+      "URLs": ""
+    },
+    {
+      "Session": "23",
+      "Topic": "CHAPTER 6. Art and Morality",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO6",
+      "ITU": "IT",
+      "Student Materials": "V Arts funding anf cencorship Page179. - Read chapter 6 - Read slides Chapter 6 and 7",
+      "S-Download": "",
+      "Student's Tasks": "-Review Introduction Discussion. - Participate in class's activities: asks questions, answer questions. - Read the syllabus - Read main textbook",
+      "URLs": ""
+    },
+    {
+      "Session": "24",
+      "Topic": "CHAPTER 7 Art , Aesthetic and Identity",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO7",
+      "ITU": "IT",
+      "Student Materials": "I The Good Earth (1932) and The Good Earth (1937) II Artistic exclustion Page189-192. - Read chapter 7 - Read slides Chapter 7 and 8",
+      "S-Download": "",
+      "Student's Tasks": "-Review Introduction Discussion. - Participate in class's activities: asks questions, answer questions. - Read the syllabus - Read main textbook",
+      "URLs": ""
+    },
+    {
+      "Session": "25",
+      "Topic": "CHAPTER 7 Art , Aesthetic and Identity",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO7",
+      "ITU": "",
+      "Student Materials": "III Aesthetic exclustion IV Authenticity and appropriation Page197-202. -Read chapter 7 - Read slides Chapter 7 and 8",
+      "S-Download": "",
+      "Student's Tasks": "-Review Introduction Discussion. - Participate in class's activities: asks questions, answer questions. - Read the syllabus - Read main textbook",
+      "URLs": ""
+    },
+    {
+      "Session": "26",
+      "Topic": "CHAPTER 7 Art , Aesthetic and Identity",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO7",
+      "ITU": "IT",
+      "Student Materials": "V Our bodies, our selves Page207. - Read chapter 7 - Read slides Chapter 7 and 8",
+      "S-Download": "",
+      "Student's Tasks": "-Review Introduction Discussion. - Participate in class's activities: asks questions, answer questions. - Read the syllabus - Read main textbook",
+      "URLs": ""
+    },
+    {
+      "Session": "27",
+      "Topic": "Progress test 2",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO4, LO7, LO8",
+      "ITU": "TU",
+      "Student Materials": "",
+      "S-Download": "",
+      "Student's Tasks": "",
+      "URLs": ""
+    },
+    {
+      "Session": "28",
+      "Topic": "CHAPTER 8. Aesthetics Without Art",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO4, LO5, LO6, LO7, LO8",
+      "ITU": "TU",
+      "Student Materials": "I Mr Blobby II On beauty and nature II Natural aesthetic Page217-223. - Read chapter 7 - Read slides Chapter 7 and 8",
+      "S-Download": "",
+      "Student's Tasks": "-Review Introduction Discussion. - Participate in class's activities: asks questions, answer questions. - Read the syllabus - Read main textbook",
+      "URLs": ""
+    },
+    {
+      "Session": "29",
+      "Topic": "CHAPTER 8. Aesthetics Without Art",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO4, LO5, LO6, LO7, LO8",
+      "ITU": "TU",
+      "Student Materials": "IV Environmental aesthetics V Everyday aesthetics Page228- 233. - Read chapter 8 - Read slides Chapter 8",
+      "S-Download": "",
+      "Student's Tasks": "-Review Introduction Discussion. - Participate in class's activities: asks questions, answer questions. - Read the syllabus - Read main textbook",
+      "URLs": ""
+    },
+    {
+      "Session": "30",
+      "Topic": "COURSE REVIEW",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO1, LO2, LO3, LO4, LO5, LO6, LO7, LO8",
+      "ITU": "TU",
+      "Student Materials": "Review all chapters",
+      "S-Download": "",
+      "Student's Tasks": "Review all chapters",
+      "URLs": ""
+    }
+  ],
+  "constructive_questions": [
+    {
+      "No.": "1",
+      "Session No": "1",
+      "Name": "CQ1.1",
+      "Details": "Who discussed beauty in the ancient period?"
+    },
+    {
+      "No.": "2",
+      "Session No": "2",
+      "Name": "CQ2.1",
+      "Details": "Who discussed beauty in the medieval period?"
+    },
+    {
+      "No.": "3",
+      "Session No": "3",
+      "Name": "CQ3.1",
+      "Details": "Who discussed aesthetics in the modern period?"
+    },
+    {
+      "No.": "4",
+      "Session No": "4",
+      "Name": "CQ4.1",
+      "Details": "\"What is Art? If our current concept of art did not arise until the eighteenth century, is it unacceptably anachronistic to apply our term to pre-eighteenth- century ‘art’? Is it reasonable to use a work like the Mona Lisa (1503) to test our current definitions?"
+    },
+    {
+      "No.": "5",
+      "Session No": "5",
+      "Name": "CQ5.1",
+      "Details": "What is \"Art as representation\"? Art as form ?"
+    },
+    {
+      "No.": "6",
+      "Session No": "6",
+      "Name": "CQ6.1",
+      "Details": "What is \"Art as expression\" ? What is the Art and aesthetic function ?"
+    },
+    {
+      "No.": "7",
+      "Session No": "7",
+      "Name": "CQ7.1",
+      "Details": "Is ‘art’ something that needs to be defined? What happens if we are unable to settle on such a definition? Should a definition of art be expected to tell us anything about how art should be interpreted or evaluated? Why or why not?"
+    },
+    {
+      "No.": "8",
+      "Session No": "8",
+      "Name": "CQ8.1",
+      "Details": "What is \"On interpretation\"?"
+    },
+    {
+      "No.": "9",
+      "Session No": "8",
+      "Name": "CQ8.2",
+      "Details": "Why did identifying correct, reasonable, or meaningful interpretations of art become important during the Romantic period?"
+    },
+    {
+      "No.": "10",
+      "Session No": "8",
+      "Name": "CQ8.3",
+      "Details": "According to the group's point of view, how should the meaning of the work originate from the author's intention be viewed?"
+    },
+    {
+      "No.": "11",
+      "Session No": "9",
+      "Name": "CQ9.1",
+      "Details": "Some anti-intentionalists, like Wimsatt and Beardsley, have argued that meaning is determined centrally by what is in the text, what do you think about this?"
+    },
+    {
+      "No.": "12",
+      "Session No": "9",
+      "Name": "CQ9.2",
+      "Details": "It should be noted that although discussion in this chapter has centred primarily on literary works, much of what is said here applies to other sorts of artworks as well. What do you think about this?"
+    },
+    {
+      "No.": "13",
+      "Session No": "9",
+      "Name": "CQ9.3",
+      "Details": "Should different types of art be evaluated differently and what criteria are needed?"
+    },
+    {
+      "No.": "14",
+      "Session No": "10",
+      "Name": "CQ10.1",
+      "Details": "Read the case study in the textbook and discuss about the challenges of making judgments about a work based on the viewer's perspective?"
+    },
+    {
+      "No.": "15",
+      "Session No": "10",
+      "Name": "CQ10.2",
+      "Details": "What is Hypothetical intentionalists?"
+    },
+    {
+      "No.": "16",
+      "Session No": "10",
+      "Name": "CQ10.3",
+      "Details": "Gaut Interpreting the Arts: Gaut has suggested that each view has its merits and drawbacks, and that each perspective has a role to play in interpreting art. What do you think about this?"
+    },
+    {
+      "No.": "17",
+      "Session No": "11",
+      "Name": "CQ11.1",
+      "Details": "In general, since Pythagoras’s time, what we have seen are attempts to ground beauty, aesthetic properties and the value of art in something determinable so that we have at least some basis for disagreements about particular cases of art and beauty. Do you agree with this point of view and why?"
+    },
+    {
+      "No.": "18",
+      "Session No": "11",
+      "Name": "CQ11.2",
+      "Details": "After the Romantic period were there more theories about how to interpret a work of art? Provide evidence and analysis?"
+    },
+    {
+      "No.": "19",
+      "Session No": "11",
+      "Name": "CQ11.3",
+      "Details": "Who are the intentionalist arguments mentioned in this chapter?"
+    },
+    {
+      "No.": "20",
+      "Session No": "13",
+      "Name": "CQ13.1",
+      "Details": "Does beauty have an objective nature? Is taste simply subjective? Is there a right way to experience art?"
+    },
+    {
+      "No.": "21",
+      "Session No": "14",
+      "Name": "CQ14.1",
+      "Details": "What sorts of properties are aesthetic properties, and what do they depend on? The view that a work of art does not need to have any value but only needs to be beautiful or satisfy the viewer's emotions, what aestheticist's view does it remind of and how do you evaluate this view?"
+    },
+    {
+      "No.": "22",
+      "Session No": "15",
+      "Name": "CQ15.1",
+      "Details": "Does art have a unique sort of value – and if so, what kind of value is it? What all of these philosophers would seem to agree about is that artistic value is ultimately grounded – one way or another – in aesthetic value? Do you agree with this point of view? Please explain the yes or no answer using the works in this chapter? In general, since Pythagoras’s time, what we have seen are attempts to ground beauty, aesthetic properties and the value of art in something determinable so that we have at least some basis for disagreements about particular cases of art and beauty. Has this view changed much to this day?"
+    },
+    {
+      "No.": "23",
+      "Session No": "16",
+      "Name": "CQ16.1",
+      "Details": "What is the Ontology of Art?"
+    },
+    {
+      "No.": "24",
+      "Session No": "16",
+      "Name": "CQ16.2",
+      "Details": "What is the physical objects hypothesis ?"
+    },
+    {
+      "No.": "25",
+      "Session No": "17",
+      "Name": "CQ17.1",
+      "Details": "How to identify singular and multiple artworks in other arts types?"
+    },
+    {
+      "No.": "26",
+      "Session No": "17",
+      "Name": "CQ17.2",
+      "Details": "How differrence betwween Alabama Tenant Farmer Wife (1936) and After Walker Evans: 4 (1981)?"
+    },
+    {
+      "No.": "27",
+      "Session No": "18",
+      "Name": "CQ18.1",
+      "Details": "What is the structuralist view of the ontology of art?"
+    },
+    {
+      "No.": "28",
+      "Session No": "19",
+      "Name": "CQ19.1",
+      "Details": "What is tragedy ?"
+    },
+    {
+      "No.": "29",
+      "Session No": "19",
+      "Name": "CQ19.2",
+      "Details": "What is the emotion in art?"
+    },
+    {
+      "No.": "30",
+      "Session No": "20",
+      "Name": "CQ20.1",
+      "Details": "A work of art is a mental object. How do you think about that opinion?"
+    },
+    {
+      "No.": "31",
+      "Session No": "21",
+      "Name": "CQ21.1",
+      "Details": "Did Ancient philosophers address the issue of \"ethics in art\"? If so, what are their views?"
+    },
+    {
+      "No.": "32",
+      "Session No": "21",
+      "Name": "CQ21.2",
+      "Details": "How are ethical issues in art perceived by modern authors?"
+    },
+    {
+      "No.": "33",
+      "Session No": "22",
+      "Name": "CQ22.1",
+      "Details": "What are the concept of \"beauty\" and \"good\"?"
+    },
+    {
+      "No.": "34",
+      "Session No": "22",
+      "Name": "CQ22.2",
+      "Details": "What is the relationship between Aesthetics and Ethics? What is aesthetics? What criteria to evaluate Aesthetics? What is ethics? What are the criteria to evaluate morality?"
+    },
+    {
+      "No.": "35",
+      "Session No": "23",
+      "Name": "CQ23.1",
+      "Details": "How do Ethics - Aesthetics and Art interact with each other? Can ethics be considered a criterion for evaluating Aesthetics? Can morality be considered a criterion for evaluating Art?"
+    },
+    {
+      "No.": "36",
+      "Session No": "23",
+      "Name": "CQ23.2",
+      "Details": "What does Marco Evaristti's Helena (2000) reflect? In your opinion, should there be censorship of art?"
+    },
+    {
+      "No.": "37",
+      "Session No": "24",
+      "Name": "CQ24.1",
+      "Details": "Is there racism in art"
+    },
+    {
+      "No.": "38",
+      "Session No": "24",
+      "Name": "24.2",
+      "Details": "What do you think about: Western actors playing Asian characters, white actors playing black characters"
+    },
+    {
+      "No.": "39",
+      "Session No": "25",
+      "Name": "25.1",
+      "Details": "How do we perceive beauty"
+    },
+    {
+      "No.": "40",
+      "Session No": "25",
+      "Name": "25.2",
+      "Details": "Do knowledge and culture impact aesthetic perception"
+    },
+    {
+      "No.": "41",
+      "Session No": "26",
+      "Name": "26.1",
+      "Details": "Do non-Western cultures have aesthetic lives? Do non-Western arts influence Western art?"
+    },
+    {
+      "No.": "42",
+      "Session No": "26",
+      "Name": "26.2",
+      "Details": "Can the human body become a measure of beauty?"
+    },
+    {
+      "No.": "43",
+      "Session No": "28",
+      "Name": "28.1",
+      "Details": "In your opinion: Does nature have beauty? Based on what standards to evaluate the beauty of Blobby fish?"
+    },
+    {
+      "No.": "44",
+      "Session No": "28",
+      "Name": "28.2",
+      "Details": "Is it possible to rely on scientific awareness to perceive natural beauty?"
+    },
+    {
+      "No.": "45",
+      "Session No": "29",
+      "Name": "29.1",
+      "Details": "What do you think about Heghel's concept: there is no natural beauty, there is only beauty in art?"
+    },
+    {
+      "No.": "46",
+      "Session No": "29",
+      "Name": "29.2",
+      "Details": "The interaction between environmental beauty and natural beauty"
+    }
+  ],
+  "materials": [
+    {
+      "No.": "1",
+      "Material Description": "Introduting Aesthetics and the philosophy of art.",
+      "Author": "Darren Hudson Hick",
+      "Publisher": "Bloomsbury",
+      "Published Date": "2017",
+      "Edition": "2nd",
+      "ISBN": "9781350006904",
+      "Is Main Material": "True",
+      "Is Hard Copy": "True",
+      "Is Online": "False",
+      "Note": ""
+    },
+    {
+      "No.": "2",
+      "Material Description": "Ways of seeing",
+      "Author": "John Berger",
+      "Publisher": "British broadcasting corporation",
+      "Published Date": "1990",
+      "Edition": "1st",
+      "ISBN": "",
+      "Is Main Material": "False",
+      "Is Hard Copy": "True",
+      "Is Online": "False",
+      "Note": ""
+    },
+    {
+      "No.": "3",
+      "Material Description": "What is Aesthetics? (Philosophy of Art)",
+      "Author": "",
+      "Publisher": "",
+      "Published Date": "",
+      "Edition": "",
+      "ISBN": "",
+      "Is Main Material": "False",
+      "Is Hard Copy": "False",
+      "Is Online": "True",
+      "Note": ""
+    },
+    {
+      "No.": "4",
+      "Material Description": "Retrived from: https://ethics.org.au/ethics-explainer-aesthetics-what-makes-something-art/",
+      "Author": "",
+      "Publisher": "",
+      "Published Date": "",
+      "Edition": "",
+      "ISBN": "",
+      "Is Main Material": "False",
+      "Is Hard Copy": "False",
+      "Is Online": "True",
+      "Note": ""
+    },
+    {
+      "No.": "5",
+      "Material Description": "Aesthetics - (What is Art?)",
+      "Author": "",
+      "Publisher": "",
+      "Published Date": "",
+      "Edition": "",
+      "ISBN": "",
+      "Is Main Material": "False",
+      "Is Hard Copy": "False",
+      "Is Online": "True",
+      "Note": ""
+    }
+  ],
+  "source_path": "data/raw/syllabi/11284.html",
+  "id": "syllabus:11284"
+}

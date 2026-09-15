@@ -1,0 +1,1052 @@
+{
+  "syllabus_id": 13463,
+  "subject_code": "FIN307",
+  "subject_name": "Financial Taxation_Thuế doanh nghiệp",
+  "syllabus_name": "Financial Taxation_Thuế doanh nghiệp",
+  "credits": 3,
+  "degree_level": "Bachelor",
+  "time_allocation": "Study hour (150h) = 45h (60 sessions) contact hours + 1h final exam + 104h self-study",
+  "prerequisite": "ACC101",
+  "general_information": {
+    "Syllabus ID": "13463",
+    "Syllabus Name": "Financial Taxation_Thuế doanh nghiệp",
+    "Course Name English": "Financial Taxation",
+    "Subject Code": "FIN307",
+    "Learning-Teaching Method": "Lecture,Presenting,Social Constructivism,Offline",
+    "NoCredit": "3",
+    "Degree Level": "Bachelor",
+    "Time Allocation": "Study hour (150h) = 45h (60 sessions) contact hours + 1h final exam + 104h self-study",
+    "Pre-Requisite": "ACC101",
+    "Description": "The goal of this course is to provide students with fundamental knowledge of taxation as well as a framework for understanding how taxes influence company decisions. Topics to be covered include: Fundamentals of taxation, Personal Income Tax, Corporate Income Tax, Value Added Tax (VAT), Foreign Contractor Taxes, Excise Duty, Custom Duty, Other Taxes in Vietnam and International Taxation.",
+    "StudentTasks": "- Students must attend at least 80% of contact slots in order to be accepted to the final examination. - Student is responsible to do all exercises, assignments and labs given by instructor in class or at home and submit on time - Use laptop in class only for learning purpose - Read the textbook in advance - Promptly access to http://flm.fpt.edu.vn for up-to-date course information",
+    "Tools": "- Internet - Net-Challenge Simulation Software (CD accompany with the textbook)",
+    "Scoring Scale": "10",
+    "DecisionNo MM/dd/yyyy": "932/QĐ-ĐHFPT dated 08/22/2025",
+    "IsApproved": "True",
+    "Note": "",
+    "Is Scored": "True",
+    "MinAvgMarkToPass": "5",
+    "IsActive": "True",
+    "ApprovedDate": "8/22/2025"
+  },
+  "active": true,
+  "approved": true,
+  "decision": "932/QĐ-ĐHFPT dated 08/22/2025",
+  "description": "The goal of this course is to provide students with fundamental knowledge of taxation as well as a framework for understanding how taxes influence company decisions. Topics to be covered include: Fundamentals of taxation, Personal Income Tax, Corporate Income Tax, Value Added Tax (VAT), Foreign Contractor Taxes, Excise Duty, Custom Duty, Other Taxes in Vietnam and International Taxation.",
+  "learning_outcomes": [
+    {
+      "No.": "1",
+      "CLO Name": "CLO1",
+      "CLO Details": "Remembering the tax systems and Vietnamese legal framework for taxation."
+    },
+    {
+      "No.": "2",
+      "CLO Name": "CLO2",
+      "CLO Details": "Understanding the nature and function of the Vietnamese tax system in society."
+    },
+    {
+      "No.": "3",
+      "CLO Name": "CLO3",
+      "CLO Details": "Applying legal framework to compute the company's tax liabilities of companies."
+    },
+    {
+      "No.": "4",
+      "CLO Name": "CLO4",
+      "CLO Details": "Analyzing tax policies and potential tax advantages for various organizations."
+    },
+    {
+      "No.": "5",
+      "CLO Name": "CLO5",
+      "CLO Details": "Evaluating tax strategy of companies."
+    },
+    {
+      "No.": "6",
+      "CLO Name": "CLO6",
+      "CLO Details": "Developing a compliance mindset and an awareness of self-updating new tax prerequisites."
+    },
+    {
+      "No.": "7",
+      "CLO Name": "CLO7",
+      "CLO Details": "Creating an effective tax strategy for the company."
+    },
+    {
+      "No.": "8",
+      "CLO Name": "CLO8",
+      "CLO Details": "Show the ability of interpersonal communication in business context"
+    }
+  ],
+  "assessments": [
+    {
+      "No.": "1",
+      "Category": "Class Participation",
+      "Type": "on-going",
+      "Part": "1",
+      "Weight": "10.0%",
+      "Completion Criteria": ">0",
+      "Duration": "",
+      "CLO": "All LOs",
+      "Question Type": "",
+      "No Question": "",
+      "Knowledge and Skill": "",
+      "Grading Guide": "Classroom",
+      "Note": "Participation grade will be given based on students' preparation, quantity as well as quality of participation in classroom; quality of participation is demonstrated through asking relevant questions, making statements that add to and facilitate class discussion, and builds upon others’ comments."
+    },
+    {
+      "No.": "2",
+      "Category": "Group Assignment",
+      "Type": "on-going",
+      "Part": "1",
+      "Weight": "15.0%",
+      "Completion Criteria": ">0",
+      "Duration": "",
+      "CLO": "All LOs",
+      "Question Type": "Suggestion: Planning tax strategy for start-up",
+      "No Question": "Case study",
+      "Knowledge and Skill": "- Comprehensive reading, understanding issues, presenting problems, - Personal qualities: Individual responsibility, self-esteem, sociability, self-management, and integrity. - Cover all studied chapters - Any plagiarism will be resulted in a failure of assignment",
+      "Grading Guide": "Report and Presentation in class, graded by instructor",
+      "Note": "Duration should be 4 to 6 weeks"
+    },
+    {
+      "No.": "3",
+      "Category": "Quiz 1",
+      "Type": "on-going",
+      "Part": "1",
+      "Weight": "15.0%",
+      "Completion Criteria": ">0",
+      "Duration": "30-45 minutes",
+      "CLO": "LO1, LO2, LO3, LO4",
+      "Question Type": "Comprehensive multiplechoice and/or exercises Cover chapter 1, 2, 3",
+      "No Question": "- Multiple choice: 20 to 40 questions; - Problem solving: 1-3 questions.",
+      "Knowledge and Skill": "Integration of studied knowledge and skills of chapters 1, 2 and 3",
+      "Grading Guide": "in class, by instructor",
+      "Note": "- Quizzes will be given at various times during class (beginning, middle or end). - Progress test must be taken right after the last lectures of required material. - Instructor has resposibility to review the test for students after graded."
+    },
+    {
+      "No.": "4",
+      "Category": "Quiz 2",
+      "Type": "on-going",
+      "Part": "1",
+      "Weight": "15.0%",
+      "Completion Criteria": ">0",
+      "Duration": "30-45 minutes",
+      "CLO": "LO1, LO2, LO3, LO4",
+      "Question Type": "Comprehensive multiplechoice and/or exercises Cover chapter 4, 5, 6",
+      "No Question": "- Multiple choice: 20 to 40 questions; - Problem solving: 1-3 questions.",
+      "Knowledge and Skill": "Integration of studied knowledge and skills of chapters 4, 5 and 6",
+      "Grading Guide": "in class, by instructor",
+      "Note": "- Quizzes will be given at various times during class (beginning, middle or end). - Progress test must be taken right after the last lectures of required material. - Instructor has resposibility to review the test for students after graded."
+    },
+    {
+      "No.": "5",
+      "Category": "Quiz 3",
+      "Type": "on-going",
+      "Part": "1",
+      "Weight": "15.0%",
+      "Completion Criteria": ">0",
+      "Duration": "30-45 minutes",
+      "CLO": "LO1, LO2, LO3, LO4",
+      "Question Type": "Comprehensive multiplechoice and/or exercises Cover chapter 7, 8, 9",
+      "No Question": "- Multiple choice: 20 to 40 questions; - Problem solving: 1-3 questions.",
+      "Knowledge and Skill": "Integration of studied knowledge and skills of chapters 7, 8 and 9",
+      "Grading Guide": "in class, by instructor",
+      "Note": "- Quizzes will be given at various times during class (beginning, middle or end). - Progress test must be taken right after the last lectures of required material. - Instructor has resposibility to review the test for students after graded."
+    },
+    {
+      "No.": "6",
+      "Category": "Final exam",
+      "Type": "Final exam",
+      "Part": "1",
+      "Weight": "30.0%",
+      "Completion Criteria": "4",
+      "Duration": "60 minutes",
+      "CLO": "All LOs",
+      "Question Type": "Multiple choice questions (50). Multiple choice questions cover all chapters",
+      "No Question": "",
+      "Knowledge and Skill": "Integration of studied knowledge and skills of chapters covered in the subject",
+      "Grading Guide": "by exam board, using computer",
+      "Note": "The exam questions must be updated or different at least 70% to the previous ones."
+    }
+  ],
+  "schedule": [
+    {
+      "Session": "1",
+      "Topic": "Course Introduction",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO1",
+      "ITU": "I,T",
+      "Student Materials": "- Book - PowerPoint - Online Legal documents - Additional materials provided by instructor.",
+      "S-Download": "FIN307",
+      "Student's Tasks": "- Read syllabus - Preview textbook & Slide chater 1 - Preview legal documents of tax systems",
+      "URLs": ""
+    },
+    {
+      "Session": "2",
+      "Topic": "Chapter 1: An overview of taxation and the Vietnamese tax system 1.1. The overall functions and purpose of taxation 1.2. Characteristics off a good tax system 1.3. Principles of taxation 1.4. Tax avoidance and evasion",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO1",
+      "ITU": "I,T",
+      "Student Materials": "- Book - PowerPoint - Online Legal documents - Additional materials provided by instructor.",
+      "S-Download": "FIN307",
+      "Student's Tasks": "- Read textbook & Slide chater 1 - Search and Read legal documents of tax systems",
+      "URLs": ""
+    },
+    {
+      "Session": "3",
+      "Topic": "1.5. The overall structure off Vietnamese tax system 1.6. Systems of registration, the making of return and the payment of tax liabilities 1.7. Procedure relating to enquirities, appeals and duties 1.8. Transfer pricing 1.9. Tax penalties and fines",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO1, LO2, LO3, LO4",
+      "ITU": "I,T",
+      "Student Materials": "- Book - PowerPoint - Online Legal documents - Additional materials provided by instructor.",
+      "S-Download": "",
+      "Student's Tasks": "- Read textbook & Slide chater 1 - Search and Read legal documents of tax systems",
+      "URLs": ""
+    },
+    {
+      "Session": "4",
+      "Topic": "Chapter 2: Personal Income Tax 2.1. Overview of personal income tax 2.2. Scope of personal income tax",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO1, LO2, LO3",
+      "ITU": "I,T",
+      "Student Materials": "- Book - PowerPoint - Online Legal documents - Additional materials provided by instructor.",
+      "S-Download": "",
+      "Student's Tasks": "- Read textbook & Slide chater 2 - Search and Read legal documents of Personal Income Tax",
+      "URLs": ""
+    },
+    {
+      "Session": "5",
+      "Topic": "2.3. Incomes subject to personal income tax 2.4. The computation of personal income tax liabilities",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO1, LO2, LO3",
+      "ITU": "I,T",
+      "Student Materials": "- Book - PowerPoint - Online Legal documents - Additional materials provided by instructor.",
+      "S-Download": "",
+      "Student's Tasks": "- Read textbook & Slide chater 2 - Search and Read legal documents of Personal Income Tax",
+      "URLs": ""
+    },
+    {
+      "Session": "6",
+      "Topic": "2.5. Tax reduction and tax exemption 2.6. Tax declaration and payment",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO1, LO2, LO3, LO4",
+      "ITU": "I,T",
+      "Student Materials": "- Book - PowerPoint - Online Legal documents - Additional materials provided by instructor.",
+      "S-Download": "",
+      "Student's Tasks": "- Read textbook & Slide chater 2 - Search and Read legal documents of Personal Income Tax",
+      "URLs": ""
+    },
+    {
+      "Session": "7",
+      "Topic": "Chapter 2: Personal Income Tax (cont.) 2.7. Tax planning",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO3, LO4, LO5",
+      "ITU": "I,T",
+      "Student Materials": "- Book - PowerPoint - Online Legal documents - Additional materials provided by instructor.",
+      "S-Download": "",
+      "Student's Tasks": "- Read textbook & Slide chater 2 - Search and Read legal documents of Personal Income Tax",
+      "URLs": ""
+    },
+    {
+      "Session": "8",
+      "Topic": "Exercise Activities: Chapter 2",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO3, LO4, LO5",
+      "ITU": "U",
+      "Student Materials": "- Excesices chapter 2 in textbook - Constructivist questions - Additional questions provided by instructors.",
+      "S-Download": "",
+      "Student's Tasks": "- Search and Read legal documents of Personal Income Tax - Do exercises chapter 2 - Prepase case study related to Personal Income Tax",
+      "URLs": ""
+    },
+    {
+      "Session": "9",
+      "Topic": "Exercise Activities: Chapter 2",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO3, LO4, LO5",
+      "ITU": "U",
+      "Student Materials": "- Excesices chapter 2 in textbook - Constructivist questions - Additional questions provided by instructors.",
+      "S-Download": "",
+      "Student's Tasks": "- Search and Read legal documents of Personal Income Tax - Do exercises chapter 2 - Prepase case study related to Personal Income Tax",
+      "URLs": ""
+    },
+    {
+      "Session": "10",
+      "Topic": "Chapter 3: Corporate Income Tax 3.1. Overview of corporate income tax 3.2. Scope of corporate income tax",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO2, LO3, LO4",
+      "ITU": "I,T",
+      "Student Materials": "- Book - PowerPoint - Online Legal documents - Additional materials provided by instructor.",
+      "S-Download": "",
+      "Student's Tasks": "- Read textbook & Slide chater 3 - Search and Read legal documents of Corporate Income Tax",
+      "URLs": ""
+    },
+    {
+      "Session": "11",
+      "Topic": "3.3. The computation of corporate income tax 3.4. Taxable income and assessable income",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO2, LO3, LO4",
+      "ITU": "I,T",
+      "Student Materials": "- Book - PowerPoint - Online Legal documents - Additional materials provided by instructor.",
+      "S-Download": "",
+      "Student's Tasks": "- Read textbook & Slide chater 3 - Search and Read legal documents of Corporate Income Tax",
+      "URLs": ""
+    },
+    {
+      "Session": "12",
+      "Topic": "3.5. Exempt Incomes 3.6. Losses carried forward 3.7. Deduction of science and technology fund",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO2, LO3, LO4",
+      "ITU": "I,T",
+      "Student Materials": "- Book - PowerPoint - Online Legal documents - Additional materials provided by instructor.",
+      "S-Download": "",
+      "Student's Tasks": "- Read textbook & Slide chater 3 - Search and Read legal documents of Corporate Income Tax",
+      "URLs": ""
+    },
+    {
+      "Session": "13",
+      "Topic": "Chapter 3: Corporate Income Tax (cont.) 3.8. Tax rates 3.9. Tax incentives 3.10. Tax declaration and payment 3.11. The use of exemptions and reliefs in deferring and minimizing CIT liabilities",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO2, LO3, LO4",
+      "ITU": "I,T",
+      "Student Materials": "- Book - PowerPoint - Online Legal documents - Additional materials provided by instructor.",
+      "S-Download": "",
+      "Student's Tasks": "- Read textbook & Slide chater 3 - Search and Read legal documents of Corporate Income Tax",
+      "URLs": ""
+    },
+    {
+      "Session": "14",
+      "Topic": "Exercise Activities: Chapter 3",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO2, LO3, LO4",
+      "ITU": "I,T",
+      "Student Materials": "- Excesices chapter 3 in textbook - Constructivist questions - Additional questions provided by instructors.",
+      "S-Download": "",
+      "Student's Tasks": "- Search and Read legal documents of Corporate Income Tax - Do exercises chapter 3 - Prepase case study related to Corporate Income Tax",
+      "URLs": ""
+    },
+    {
+      "Session": "15",
+      "Topic": "Exercise Activities: Chapter 3",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO2, LO3, LO4",
+      "ITU": "I,T",
+      "Student Materials": "- Excesices chapter 3 in textbook - Constructivist questions - Additional questions provided by instructors.",
+      "S-Download": "",
+      "Student's Tasks": "- Search and Read legal documents of Corporate Income Tax - Do exercises chapter 3 - Prepase case study related to Corporate Income Tax",
+      "URLs": ""
+    },
+    {
+      "Session": "16",
+      "Topic": "Quiz 1 (chapter 1, 2, 3)",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO1, LO2, LO3, LO4",
+      "ITU": "U",
+      "Student Materials": "Question booklets provied by instructors",
+      "S-Download": "",
+      "Student's Tasks": "Do exercises, self-review chapter 1, 2, 3",
+      "URLs": ""
+    },
+    {
+      "Session": "17",
+      "Topic": "Chapter 4: Value added tax 4.1. Overview of VAT 4.2. Scope of VAT 4.3. Tax base 4.4. VAT Methods",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO2, LO3, LO4",
+      "ITU": "I,T",
+      "Student Materials": "- Book - PowerPoint - Online Legal documents - Additional materials provided by instructor.",
+      "S-Download": "",
+      "Student's Tasks": "- Read textbook & Slide chater 4 - Search and Read legal documents of VAT",
+      "URLs": ""
+    },
+    {
+      "Session": "18",
+      "Topic": "Group Assignment Release",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO2, LO3, LO4, LO5",
+      "ITU": "I,T",
+      "Student Materials": "Guidlines provided by Instructor",
+      "S-Download": "",
+      "Student's Tasks": "- Working in group",
+      "URLs": ""
+    },
+    {
+      "Session": "19",
+      "Topic": "Chapter 4: Value added tax (cont.) 4.5. Invoicing 4.6. Tax declaration and payment 4.7. Tax refund",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO2, LO3, LO4",
+      "ITU": "I,T",
+      "Student Materials": "- Book - PowerPoint - Online Legal documents - Additional materials provided by instructor.",
+      "S-Download": "",
+      "Student's Tasks": "- Read textbook & Slide chater 4 - Search and Read legal documents of VAT",
+      "URLs": ""
+    },
+    {
+      "Session": "20",
+      "Topic": "Exercise Activities: Chapter 4",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO3, LO4, LO5",
+      "ITU": "U",
+      "Student Materials": "- Excesices chapter 4 in textbook - Constructivist questions - Additional questions provided by instructors.",
+      "S-Download": "",
+      "Student's Tasks": "- Search and Read legal documents of VAT - Do exercise chapter 4 - Prepase case study related to VAT",
+      "URLs": ""
+    },
+    {
+      "Session": "21",
+      "Topic": "Exercise Activities: Chapter 4",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO3, LO4, LO5",
+      "ITU": "U",
+      "Student Materials": "- Excesices chapter 4 in textbook - Constructivist questions - Additional questions provided by instructors.",
+      "S-Download": "",
+      "Student's Tasks": "- Search and Read legal documents of VAT - Do exercise chapter 4 - Prepase case study related to VAT",
+      "URLs": ""
+    },
+    {
+      "Session": "22",
+      "Topic": "Chapter 5: Foreign contractor taxes 5.1. Overview of foreign contractor taxes",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO2, LO3, LO4",
+      "ITU": "I,T",
+      "Student Materials": "- Book - PowerPoint - Online Legal documents - Additional materials provided by instructor.",
+      "S-Download": "",
+      "Student's Tasks": "- Read textbook & Slide chater 5 - Search and Read legal documents of Foreign contractor taxes",
+      "URLs": ""
+    },
+    {
+      "Session": "23",
+      "Topic": "5.2. Scope of application 5.2.1. Taxpayers 5.2.2. Taxable objects",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO2, LO3, LO4",
+      "ITU": "I,T",
+      "Student Materials": "- Book - PowerPoint - Online Legal documents - Additional materials provided by instructor.",
+      "S-Download": "",
+      "Student's Tasks": "- Read textbook & Slide chater 5 - Search and Read legal documents of Foreign contractor taxes",
+      "URLs": ""
+    },
+    {
+      "Session": "24",
+      "Topic": "5.3. Computation of FCT 5.3.1. Declaration method",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO2, LO3, LO4",
+      "ITU": "I,T",
+      "Student Materials": "- Book - PowerPoint - Online Legal documents - Additional materials provided by instructor.",
+      "S-Download": "",
+      "Student's Tasks": "- Read textbook & Slide chater 5 - Search and Read legal documents of Foreign contractor taxes",
+      "URLs": ""
+    },
+    {
+      "Session": "25",
+      "Topic": "Chapter 5: Foreign contractor taxes (cont.) 5.3. Computation of FCT (cont.) 5.3.2. Direct method 5.3.3. Hybrid method",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO2, LO3, LO4",
+      "ITU": "I,T",
+      "Student Materials": "- Book - PowerPoint - Online Legal documents - Additional materials provided by instructor.",
+      "S-Download": "",
+      "Student's Tasks": "- Read textbook & Slide chater 5 - Search and Read legal documents of Foreign contractor taxes",
+      "URLs": ""
+    },
+    {
+      "Session": "26",
+      "Topic": "Exercise Activities: Chapter 5",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO3, LO4, LO5",
+      "ITU": "U",
+      "Student Materials": "- Excesices chapter 5 in textbook - Constructivist questions - Additional questions provided by instructors.",
+      "S-Download": "",
+      "Student's Tasks": "- Search and Read legal documents of Foreign contractor taxes - Do exercises chapter 5 - Prepase case study related to Foreign contractor taxes",
+      "URLs": ""
+    },
+    {
+      "Session": "27",
+      "Topic": "Exercise Activities: Chapter 5",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO3, LO4, LO5",
+      "ITU": "U",
+      "Student Materials": "- Excesices chapter 5 in textbook - Constructivist questions - Additional questions provided by instructors.",
+      "S-Download": "",
+      "Student's Tasks": "- Search and Read legal documents of Foreign contractor taxes - Do exercises chapter 5 - Prepase case study related to Foreign contractor taxes",
+      "URLs": ""
+    },
+    {
+      "Session": "28",
+      "Topic": "Chapter 6: Excise Duty 6.1. Overview of excise duty 6.2. Basic content of excise duty in Vietnam 6.2.1. Taxpayers",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO2, LO3, LO4",
+      "ITU": "I,T",
+      "Student Materials": "- Book - PowerPoint - Online Legal documents - Additional materials provided by instructor.",
+      "S-Download": "",
+      "Student's Tasks": "- Read textbook & Slide chater 6 - Search and Read legal documents of Excise Duty",
+      "URLs": ""
+    },
+    {
+      "Session": "29",
+      "Topic": "6.2.2. Excisable goods and services 6.2.3. Non-taxable transactions",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO2, LO3, LO4",
+      "ITU": "I,T",
+      "Student Materials": "- Book - PowerPoint - Online Legal documents - Additional materials provided by instructor.",
+      "S-Download": "",
+      "Student's Tasks": "- Read textbook & Slide chater 6 - Search and Read legal documents of Excise Duty",
+      "URLs": ""
+    },
+    {
+      "Session": "30",
+      "Topic": "6.2.4. Base price 6.2.5. Tax rates 6.2.6. Tax reductions",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO2, LO3, LO4",
+      "ITU": "I,T",
+      "Student Materials": "- Book - PowerPoint - Online Legal documents - Additional materials provided by instructor.",
+      "S-Download": "",
+      "Student's Tasks": "- Read textbook & Slide chater 6 - Search and Read legal documents of Excise Duty",
+      "URLs": ""
+    },
+    {
+      "Session": "31",
+      "Topic": "Chapter 6: Excise Duty (cont.) 6.2. Basic content of excise duty in Vietnam (cont.) 6.2.7. Tax calculations 6.2.8. Tax declaration and payment 6.2.9. Tax reduction and exemption",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO2, LO3, LO4",
+      "ITU": "I,T",
+      "Student Materials": "- Book - PowerPoint - Online Legal documents - Additional materials provided by instructor.",
+      "S-Download": "",
+      "Student's Tasks": "- Read textbook & Slide chater 6 - Search and Read legal documents of Excise Duty",
+      "URLs": ""
+    },
+    {
+      "Session": "32",
+      "Topic": "Exercise Activities: Chapter 6",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO3, LO4, LO5",
+      "ITU": "U",
+      "Student Materials": "- Excesices chapter 6 in textbook - Constructivist questions - Additional questions provided by instructors.",
+      "S-Download": "",
+      "Student's Tasks": "- Search and Read legal documents of Excise Duty - Do exercises chapter 6 - Prepase case study related to Excise Duty",
+      "URLs": ""
+    },
+    {
+      "Session": "33",
+      "Topic": "Exercise Activities: Chapter 6",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO3, LO4, LO5",
+      "ITU": "U",
+      "Student Materials": "- Excesices chapter 6 in textbook - Constructivist questions - Additional questions provided by instructors.",
+      "S-Download": "",
+      "Student's Tasks": "- Search and Read legal documents of Excise Duty - Do exercises chapter 6 - Prepase case study related to Excise Duty",
+      "URLs": ""
+    },
+    {
+      "Session": "34",
+      "Topic": "Quiz 2 (chapter 4, 5, 6)",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO1, LO2, LO3, LO4",
+      "ITU": "U",
+      "Student Materials": "Question booklets provied by instructors",
+      "S-Download": "",
+      "Student's Tasks": "Do exercises, self-review chapter 4, 5, 6",
+      "URLs": ""
+    },
+    {
+      "Session": "35",
+      "Topic": "Chapter 7: Custom Duty 7.1. Overview of custom duty 7.2. Basic content of custom duty in Vietnam 7.2.1. Taxpayers",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO2, LO3, LO4",
+      "ITU": "I,T",
+      "Student Materials": "- Book - PowerPoint - Online Legal documents - Additional materials provided by instructor.",
+      "S-Download": "",
+      "Student's Tasks": "- Read textbook & Slide chater 7 - Search and Read legal documents of Custom Duty",
+      "URLs": ""
+    },
+    {
+      "Session": "36",
+      "Topic": "7.2.2. Taxable goods 7.2.3. Non-taxable goods 7.2.4. Tax base and tax payable calculation method",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO2, LO3, LO4",
+      "ITU": "I,T",
+      "Student Materials": "- Book - PowerPoint - Online Legal documents - Additional materials provided by instructor.",
+      "S-Download": "",
+      "Student's Tasks": "- Read textbook & Slide chater 7 - Search and Read legal documents of Custom Duty",
+      "URLs": ""
+    },
+    {
+      "Session": "37",
+      "Topic": "Chapter 7: Custom Duty (cont.) 7.2. Basic content of custom duty in Vietnam (cont.) 7.2.4. Tax base and tax payable calculation method 7.2.5. Tax declaration and payment 7.2.6. Tax exemption, tax reduction and refund",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO2, LO3, LO4",
+      "ITU": "I,T",
+      "Student Materials": "- Book - PowerPoint - Online Legal documents - Additional materials provided by instructor.",
+      "S-Download": "",
+      "Student's Tasks": "- Read textbook & Slide chater 7 - Search and Read legal documents of Custom Duty",
+      "URLs": ""
+    },
+    {
+      "Session": "38",
+      "Topic": "Exercise Activities: Chapter 7",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO3, LO4, LO5",
+      "ITU": "U",
+      "Student Materials": "- Excesices chapter 7 in textbook - Constructivist questions - Additional questions provided by instructors.",
+      "S-Download": "",
+      "Student's Tasks": "- Search and Read legal documents of Custom Duty - Do exercises chapter 7 - Prepase case study related to Custom Duty",
+      "URLs": ""
+    },
+    {
+      "Session": "39",
+      "Topic": "Exercise Activities: Chapter 7",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO3, LO4, LO5",
+      "ITU": "U",
+      "Student Materials": "- Excesices chapter 7 in textbook - Constructivist questions - Additional questions provided by instructors.",
+      "S-Download": "",
+      "Student's Tasks": "- Search and Read legal documents of Custom Duty - Do exercises chapter 7 - Prepase case study related to Custom Duty",
+      "URLs": ""
+    },
+    {
+      "Session": "40",
+      "Topic": "Chapter 8: Other taxes in Vietnam 8.1. Agricultural land use tax",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO2, LO3, LO4",
+      "ITU": "I,T",
+      "Student Materials": "- Book - PowerPoint - Online Legal documents - Additional materials provided by instructor.",
+      "S-Download": "",
+      "Student's Tasks": "- Read textbook & Slide chater 8 - Search and Read legal documents of Agricultural land use tax",
+      "URLs": ""
+    },
+    {
+      "Session": "41",
+      "Topic": "8.2. Non-agricultural land use tax",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO2, LO3, LO4",
+      "ITU": "I,T",
+      "Student Materials": "- Book - PowerPoint - Online Legal documents - Additional materials provided by instructor.",
+      "S-Download": "",
+      "Student's Tasks": "- Read textbook & Slide chater 8 - Search and Read legal documents of Non-agricultural land use tax",
+      "URLs": ""
+    },
+    {
+      "Session": "42",
+      "Topic": "8.3. Severance tax",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO2, LO3, LO4",
+      "ITU": "I,T",
+      "Student Materials": "- Book - PowerPoint - Online Legal documents - Additional materials provided by instructor.",
+      "S-Download": "",
+      "Student's Tasks": "- Read textbook & Slide chater 8 - Search and Read legal documents of Severance tax",
+      "URLs": ""
+    },
+    {
+      "Session": "43",
+      "Topic": "Chapter 8: Other taxes in Vietnam (cont.) 8.4. Environmental protection tax",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO2, LO3, LO4",
+      "ITU": "I,T",
+      "Student Materials": "- Book - PowerPoint - Online Legal documents - Additional materials provided by instructor.",
+      "S-Download": "",
+      "Student's Tasks": "- Read textbook & Slide chater 8 - Search and Read legal documents of Environmental protection tax",
+      "URLs": ""
+    },
+    {
+      "Session": "44",
+      "Topic": "Exercise Activities: Chapter 8",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO3, LO4, LO5",
+      "ITU": "U",
+      "Student Materials": "- Excesices chapter 8 in textbook - Constructivist questions - Additional questions provided by instructors.",
+      "S-Download": "",
+      "Student's Tasks": "- Search and Read legal documents of Agricultural land use tax, Non-agricultural land use tax, Severance tax and Environmental protection tax - Do exercises chapter 8 - Prepase case study related to Agricultural land use tax, Non-agricultural land use tax, Severance tax and Environmental protection tax",
+      "URLs": ""
+    },
+    {
+      "Session": "45",
+      "Topic": "Exercise Activities: Chapter 8",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO3, LO4, LO5",
+      "ITU": "U",
+      "Student Materials": "- Excesices chapter 8 in textbook - Constructivist questions - Additional questions provided by instructors.",
+      "S-Download": "",
+      "Student's Tasks": "- Search and Read legal documents of Agricultural land use tax, Non-agricultural land use tax, Severance tax and Environmental protection tax - Do exercises chapter 8 - Prepase case study related to Agricultural land use tax, Non-agricultural land use tax, Severance tax and Environmental protection tax",
+      "URLs": ""
+    },
+    {
+      "Session": "46",
+      "Topic": "Chapter 9: International taxation 9.1. Double taxation 9.2. Tax treaties",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO2, LO3, LO4",
+      "ITU": "I,T",
+      "Student Materials": "- Book - PowerPoint - Online Legal documents - Additional materials provided by instructor.",
+      "S-Download": "",
+      "Student's Tasks": "- Read textbook & Slide chater 9 - Search and Read legal documents of International taxation",
+      "URLs": ""
+    },
+    {
+      "Session": "47",
+      "Topic": "9.2.1. Deduction method",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO2, LO3, LO4",
+      "ITU": "I,T",
+      "Student Materials": "- Book - PowerPoint - Online Legal documents - Additional materials provided by instructor.",
+      "S-Download": "",
+      "Student's Tasks": "- Read textbook & Slide chater 9 - Search and Read legal documents of International taxation",
+      "URLs": ""
+    },
+    {
+      "Session": "48",
+      "Topic": "9.2.2. Deduction of deemed tax method",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO3, LO4, LO5, LO6",
+      "ITU": "U",
+      "Student Materials": "- Book - PowerPoint - Online Legal documents - Additional materials provided by instructor.",
+      "S-Download": "",
+      "Student's Tasks": "- Read textbook & Slide chater 9 - Search and Read legal documents of International taxation",
+      "URLs": ""
+    },
+    {
+      "Session": "49",
+      "Topic": "Chapter 9: International taxation (cont.) 9.2. Tax treaties (cont.) 9.2.3. Indirect deduction method",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO2, LO3, LO4",
+      "ITU": "I,T",
+      "Student Materials": "- Book - PowerPoint - Online Legal documents - Additional materials provided by instructor.",
+      "S-Download": "",
+      "Student's Tasks": "- Read textbook & Slide chater 9 - Search and Read legal documents of International taxation",
+      "URLs": ""
+    },
+    {
+      "Session": "50",
+      "Topic": "Exercise Activities: Chapter 9",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO3, LO4, LO5",
+      "ITU": "U",
+      "Student Materials": "- Excesices chapter 9 in textbook - Constructivist questions - Additional questions provided by instructors.",
+      "S-Download": "",
+      "Student's Tasks": "- Search and Read legal documents of International taxation - Do exercises chapter 9 - Prepase case study related to International taxation",
+      "URLs": ""
+    },
+    {
+      "Session": "51",
+      "Topic": "Exercise Activities: Chapter 9",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO3, LO4, LO5",
+      "ITU": "U",
+      "Student Materials": "- Excesices chapter 9 in textbook - Constructivist questions - Additional questions provided by instructors.",
+      "S-Download": "",
+      "Student's Tasks": "- Search and Read legal documents of International taxation - Do exercises chapter 9 - Prepase case study related to International taxation",
+      "URLs": ""
+    },
+    {
+      "Session": "52",
+      "Topic": "Quiz 3 (chapter 7, 8, 9)",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO1, LO2, LO3, LO4",
+      "ITU": "U",
+      "Student Materials": "Question booklets provied by instructors",
+      "S-Download": "",
+      "Student's Tasks": "Do exercises, self-review chapter 7, 8, 9",
+      "URLs": ""
+    },
+    {
+      "Session": "53",
+      "Topic": "Tax insight from transfer pricing (optional) Course review",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO1, LO2, LO3, LO4, LO5",
+      "ITU": "I,T",
+      "Student Materials": "- Book - PowerPoint - Online Legal documents - Additional materials provided by instructor.",
+      "S-Download": "",
+      "Student's Tasks": "- Read reference book and additional materials provided by instructor",
+      "URLs": ""
+    },
+    {
+      "Session": "54",
+      "Topic": "Course review",
+      "Learning-Teaching Type": "Offline",
+      "LO": "All Los",
+      "ITU": "I,T",
+      "Student Materials": "- Book - PowerPoint - Online Legal documents - Additional materials provided by instructor.",
+      "S-Download": "",
+      "Student's Tasks": "- Seft-review",
+      "URLs": ""
+    },
+    {
+      "Session": "55",
+      "Topic": "Group Presentations and report submission",
+      "Learning-Teaching Type": "Offline",
+      "LO": "All Los",
+      "ITU": "U",
+      "Student Materials": "- Guidlines provided by Instructor - Groups' slide and report",
+      "S-Download": "",
+      "Student's Tasks": "- Working in group",
+      "URLs": ""
+    },
+    {
+      "Session": "56",
+      "Topic": "Group Presentations and report submission",
+      "Learning-Teaching Type": "Offline",
+      "LO": "All Los",
+      "ITU": "U",
+      "Student Materials": "- Guidlines provided by Instructor - Groups' slide and report",
+      "S-Download": "",
+      "Student's Tasks": "- Working in group",
+      "URLs": ""
+    },
+    {
+      "Session": "57",
+      "Topic": "Group Presentations and report submission",
+      "Learning-Teaching Type": "Offline",
+      "LO": "All Los",
+      "ITU": "U",
+      "Student Materials": "- Guidlines provided by Instructor - Groups' slide and report",
+      "S-Download": "",
+      "Student's Tasks": "- Working in group",
+      "URLs": ""
+    },
+    {
+      "Session": "58",
+      "Topic": "Group Presentations and report submission",
+      "Learning-Teaching Type": "Offline",
+      "LO": "All Los",
+      "ITU": "U",
+      "Student Materials": "- Guidlines provided by Instructor - Groups' slide and report",
+      "S-Download": "",
+      "Student's Tasks": "- Working in group",
+      "URLs": ""
+    },
+    {
+      "Session": "59",
+      "Topic": "Group Presentations and report submission",
+      "Learning-Teaching Type": "Offline",
+      "LO": "All Los",
+      "ITU": "U",
+      "Student Materials": "- Guidlines provided by Instructor - Groups' slide and report",
+      "S-Download": "",
+      "Student's Tasks": "- Working in group",
+      "URLs": ""
+    },
+    {
+      "Session": "60",
+      "Topic": "Group Presentations and report submission",
+      "Learning-Teaching Type": "Offline",
+      "LO": "All Los",
+      "ITU": "U",
+      "Student Materials": "- Guidlines provided by Instructor - Groups' slide and report",
+      "S-Download": "",
+      "Student's Tasks": "- Working in group",
+      "URLs": ""
+    }
+  ],
+  "constructive_questions": [
+    {
+      "No.": "1",
+      "Session No": "1",
+      "Name": "HN1",
+      "Details": "Explain and give examples about the similarities and differences between tax and fee."
+    },
+    {
+      "No.": "2",
+      "Session No": "1",
+      "Name": "HN2",
+      "Details": "Explain why globalization limits the role of taxes as a weapon to protect domestic production."
+    },
+    {
+      "No.": "3",
+      "Session No": "1",
+      "Name": "HN3",
+      "Details": "Discuss the taxation principles and give examples."
+    },
+    {
+      "No.": "4",
+      "Session No": "4",
+      "Name": "HN1",
+      "Details": "Outline in details four types of income that are subject to personal income tax."
+    },
+    {
+      "No.": "5",
+      "Session No": "4",
+      "Name": "HN2",
+      "Details": "State five types of income that are exempt from personal income tax. Explain why."
+    },
+    {
+      "No.": "6",
+      "Session No": "4",
+      "Name": "HN3",
+      "Details": "State the contents of family deductions. Explain the purpose and meaning of family deductions."
+    },
+    {
+      "No.": "7",
+      "Session No": "10",
+      "Name": "HN1",
+      "Details": "Which depreciation methods should be chosen to benefit the business? Explain with examples."
+    },
+    {
+      "No.": "8",
+      "Session No": "10",
+      "Name": "HN2",
+      "Details": "What does “an expense generating income” mean? Give some examples."
+    },
+    {
+      "No.": "9",
+      "Session No": "10",
+      "Name": "HN3",
+      "Details": "Why donations, in principle, are not deductible? Give examples of donations that are deductible and explain why."
+    },
+    {
+      "No.": "10",
+      "Session No": "17",
+      "Name": "HN1",
+      "Details": "What are the similarities and differences between 0% rate and non-taxable goods and services (exemption)?"
+    },
+    {
+      "No.": "11",
+      "Session No": "17",
+      "Name": "HN2",
+      "Details": "What are the strong points and weak points of credit method?"
+    },
+    {
+      "No.": "12",
+      "Session No": "17",
+      "Name": "HN3",
+      "Details": "What are the strengths and weaknesses of direct method?"
+    },
+    {
+      "No.": "13",
+      "Session No": "22",
+      "Name": "HN1",
+      "Details": "Determine the Foreign contractor taxes in the following case: Company D in Japan provides machines to a Vietnamese company which are delivered at Vietnam’s border gate under one-year warranty term."
+    },
+    {
+      "No.": "14",
+      "Session No": "22",
+      "Name": "HN2",
+      "Details": "Determine the Foreign contractor taxes in the following case: Company B in South Korea provides training services to employees of Company A in Vietnam including (1) online training; (ii) training in Vietnam by foreign experts assigned by company B; (3) training overseas (Company A’s employees are assigned to South Korea for training)."
+    },
+    {
+      "No.": "15",
+      "Session No": "22",
+      "Name": "HN3",
+      "Details": "Determine the Foreign contractor taxes in the following case: Company C in South Korea provides machines and equipment to a Vietnamese company which are delivered at Vietnam’s border gate and accompanied with installation services at the Vietnamese company’s site?"
+    },
+    {
+      "No.": "16",
+      "Session No": "28",
+      "Name": "HN1",
+      "Details": "Discuss the characteristics of excisable goods and services in Vietnam."
+    },
+    {
+      "No.": "17",
+      "Session No": "28",
+      "Name": "HN2",
+      "Details": "Discuss the characteristics of non-excisable transactions in Vietnam."
+    },
+    {
+      "No.": "18",
+      "Session No": "28",
+      "Name": "HN3",
+      "Details": "Why do excise duty rates apply to passenger cars vary, depending on the engine’s cylinder capacity?"
+    },
+    {
+      "No.": "19",
+      "Session No": "35",
+      "Name": "HN1",
+      "Details": "What are differences between specific taxes and ad valorem taxes."
+    },
+    {
+      "No.": "20",
+      "Session No": "35",
+      "Name": "HN2",
+      "Details": "What is the essence of the transaction value method in determining the base price for import duty? Discuss the purpose of import duty."
+    },
+    {
+      "No.": "21",
+      "Session No": "35",
+      "Name": "HN3",
+      "Details": "Is it possible for the transaction value method to be used between related parties? Explain why."
+    },
+    {
+      "No.": "22",
+      "Session No": "40",
+      "Name": "HN1",
+      "Details": "What are the similarities and differences between agricultural land use tax and non-agricultural land use tax?"
+    },
+    {
+      "No.": "23",
+      "Session No": "40",
+      "Name": "HN2",
+      "Details": "Why severance tax is considered a three-in-one state revenue?"
+    },
+    {
+      "No.": "24",
+      "Session No": "40",
+      "Name": "HN3",
+      "Details": "Why should the government impose environment fee instead of environment protection tax in some cases?"
+    },
+    {
+      "No.": "25",
+      "Session No": "46",
+      "Name": "HN1",
+      "Details": "What are the strengths and weaknesses of Deduction method for eliminating double taxation? Explain with example."
+    },
+    {
+      "No.": "26",
+      "Session No": "46",
+      "Name": "HN2",
+      "Details": "What are the strengths and weaknesses of Deduction of deemed tax method for eliminating double taxation? Explain with example."
+    },
+    {
+      "No.": "27",
+      "Session No": "46",
+      "Name": "HN3",
+      "Details": "What are the strengths and weaknesses of Indirect deduction method for eliminating double taxation? Explain with example."
+    }
+  ],
+  "materials": [
+    {
+      "No.": "1",
+      "Material Description": "Taxation, a university textbook",
+      "Author": "Le Xuan Truong, Asso Prof PhD & Nguyen Thi Thanh Hoai, PhD",
+      "Publisher": "Finance Publisher",
+      "Published Date": "2023",
+      "Edition": "",
+      "ISBN": "",
+      "Is Main Material": "True",
+      "Is Hard Copy": "True",
+      "Is Online": "False",
+      "Note": ""
+    },
+    {
+      "No.": "2",
+      "Material Description": "Legislative documents on Taxation",
+      "Author": "Ministry of Finance, Vietnam",
+      "Publisher": "",
+      "Published Date": "",
+      "Edition": "",
+      "ISBN": "",
+      "Is Main Material": "False",
+      "Is Hard Copy": "False",
+      "Is Online": "True",
+      "Note": "Suggested link: (1) Legal Normative Documents Portal: https://vbpl.vn/Pages/portal.aspx (2) Vietnam Government Portal: https://chinhphu.vn/he-thong-van-ban"
+    },
+    {
+      "No.": "3",
+      "Material Description": "Taxes and Business Strategy: A Planning Approach",
+      "Author": "Scholes, Wolfson, Erickson, Maydew and Shevlin",
+      "Publisher": "Cambridge Business Publishers",
+      "Published Date": "2020",
+      "Edition": "6th",
+      "ISBN": "9781618533210",
+      "Is Main Material": "False",
+      "Is Hard Copy": "True",
+      "Is Online": "False",
+      "Note": ""
+    },
+    {
+      "No.": "4",
+      "Material Description": "Hướng dẫn thực hành môn thuế",
+      "Author": "Học viện Tải chính",
+      "Publisher": "Finance Publisher",
+      "Published Date": "2018",
+      "Edition": "",
+      "ISBN": "",
+      "Is Main Material": "False",
+      "Is Hard Copy": "True",
+      "Is Online": "False",
+      "Note": ""
+    }
+  ],
+  "source_path": "data/raw/syllabi/13463.html",
+  "id": "syllabus:13463"
+}

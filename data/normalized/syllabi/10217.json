@@ -1,0 +1,1117 @@
+{
+  "syllabus_id": 10217,
+  "subject_code": "PRU211m",
+  "subject_name": "C# Programming and Unity_Lập trình C# và Unity",
+  "syllabus_name": "C# Programming and Unity _Lập trình C# và Unity",
+  "credits": 3,
+  "degree_level": "Bachelor",
+  "time_allocation": "Study hour (150h) = 45h contact hours + 1h final exam + 104h self-study",
+  "prerequisite": "PRO192",
+  "general_information": {
+    "Syllabus ID": "10217",
+    "Syllabus Name": "C# Programming and Unity _Lập trình C# và Unity",
+    "Course Name English": "C# Programming and Unity",
+    "Subject Code": "PRU211m",
+    "Learning-Teaching Method": "Social Constructivism,In-class lecture,Inquiry-based Teaching",
+    "NoCredit": "3",
+    "Degree Level": "Bachelor",
+    "Time Allocation": "Study hour (150h) = 45h contact hours + 1h final exam + 104h self-study",
+    "Pre-Requisite": "PRO192",
+    "Description": "This course based on the C# Programming for Unity Game Development Specialization at https://www.coursera.org/specializations/programming-unity-game-development. The course is all about starting to learn how to develop video games using the C# programming language and the Unity game engine on Windows or Mac. C# is a really good language for learning how to program and then programming professionally. Also, the Unity game engine is very popular with indie game developers; Unity games were downloaded 16,000,000,000 times in 2016! Finally, C# is one of the programming languages you can use in the Unity environment. This course doesn't assume students have any previous programming experience. Students will start at the very beginning and work our way up to building small games by the end of the course. Throughout the course student'll learn core programming concepts that apply to lots of programming languages, including C#, and also learn how to apply those concepts when you develop games.",
+    "StudentTasks": "- Students must attend more than 80% of contact slots in order to be accepted to the final examination. - Student is responsible to do all exercises, assignments and labs given by instructor in class or at home and submit on time - Use laptop in class only for learning purpose - Promptly access to the FU LMS at https://flm.fpt.edu.vn/ for up-to-date course information",
+    "Tools": "- Internet - C#",
+    "Scoring Scale": "10",
+    "DecisionNo MM/dd/yyyy": "808/QĐ-ĐHFPT dated 08/03/2023",
+    "IsApproved": "True",
+    "Note": "",
+    "Is Scored": "True",
+    "MinAvgMarkToPass": "5",
+    "IsActive": "True",
+    "ApprovedDate": "8/3/2023"
+  },
+  "active": true,
+  "approved": true,
+  "decision": "808/QĐ-ĐHFPT dated 08/03/2023",
+  "description": "This course based on the C# Programming for Unity Game Development Specialization at https://www.coursera.org/specializations/programming-unity-game-development. The course is all about starting to learn how to develop video games using the C# programming language and the Unity game engine on Windows or Mac. C# is a really good language for learning how to program and then programming professionally. Also, the Unity game engine is very popular with indie game developers; Unity games were downloaded 16,000,000,000 times in 2016! Finally, C# is one of the programming languages you can use in the Unity environment. This course doesn't assume students have any previous programming experience. Students will start at the very beginning and work our way up to building small games by the end of the course. Throughout the course student'll learn core programming concepts that apply to lots of programming languages, including C#, and also learn how to apply those concepts when you develop games.",
+  "learning_outcomes": [
+    {
+      "No.": "1",
+      "CLO Name": "CLO0",
+      "CLO Details": "Describe concepts of Unity"
+    },
+    {
+      "No.": "2",
+      "CLO Name": "CLO1",
+      "CLO Details": "Know how to write and run your C# console application"
+    },
+    {
+      "No.": "3",
+      "CLO Name": "CLO2",
+      "CLO Details": "How to write Unity script."
+    },
+    {
+      "No.": "4",
+      "CLO Name": "CLO3",
+      "CLO Details": "Know how to store data in programs"
+    },
+    {
+      "No.": "5",
+      "CLO Name": "CLO4",
+      "CLO Details": "Know how to use classes and objects to implement code"
+    },
+    {
+      "No.": "6",
+      "CLO Name": "CLO5",
+      "CLO Details": "Know the basics of Unity 2D games"
+    },
+    {
+      "No.": "7",
+      "CLO Name": "CLO6",
+      "CLO Details": "Know how to use decision structures in code"
+    },
+    {
+      "No.": "8",
+      "CLO Name": "CLO7",
+      "CLO Details": "Know how to get and use player input in Unity games"
+    },
+    {
+      "No.": "9",
+      "CLO Name": "CLO8",
+      "CLO Details": "Know how to store lots of data in arrays and lists and apply iteration (looping) to repeat actions in code"
+    },
+    {
+      "No.": "10",
+      "CLO Name": "CLO9",
+      "CLO Details": "Know abstraction and apply it to design and implement console application classes"
+    },
+    {
+      "No.": "11",
+      "CLO Name": "CLO10",
+      "CLO Details": "Apply abstraction to design and implement Unity classes"
+    },
+    {
+      "No.": "12",
+      "CLO Name": "CLO11",
+      "CLO Details": "Know how to add text output and sound effects to Unity games"
+    }
+  ],
+  "assessments": [
+    {
+      "No.": "1",
+      "Category": "Assignment",
+      "Type": "on-going",
+      "Part": "4",
+      "Weight": "40.0%",
+      "Completion Criteria": ">0",
+      "Duration": "Option 1: 5 days; Option 2 (For Constructivism Approach only): Follow lecturer's proposal",
+      "CLO": "",
+      "Question Type": "Option 1: Theory present or project; Option 2 (For Constructivism Approach only): Follow lecturer's proposal",
+      "No Question": "Option 1: N/A; Option 2 (For Constructivism Approach only): Follow lecturer's proposal",
+      "Knowledge and Skill": "technical aspect of studied topics",
+      "Grading Guide": "- Guided by instructor - Application or Theory - Work in group",
+      "Note": ""
+    },
+    {
+      "No.": "2",
+      "Category": "Quiz",
+      "Type": "on-going",
+      "Part": "4",
+      "Weight": "20.0%",
+      "Completion Criteria": ">0",
+      "Duration": "Option 1: 30'; ; Option 2 (For Constructivism Approach only): Follow lecturer's proposal",
+      "CLO": "",
+      "Question Type": "Option 1: Multiple choicesMarked by Computer; Option 2 (For Constructivism Approach only): Follow lecturer's proposal",
+      "No Question": "Option 1: 20; Option 2 (For Constructivism Approach only): Follow lecturer's proposal",
+      "Knowledge and Skill": "concepts, algorithms; all studied chapters",
+      "Grading Guide": "by exam board, using computer",
+      "Note": ""
+    },
+    {
+      "No.": "3",
+      "Category": "Final exam",
+      "Type": "Final exam",
+      "Part": "1",
+      "Weight": "40.0%",
+      "Completion Criteria": "4",
+      "Duration": "60'",
+      "CLO": "",
+      "Question Type": "Multiple choicesMarked by Computer",
+      "No Question": "50",
+      "Knowledge and Skill": "concepts, algorithms; all studied chapters",
+      "Grading Guide": "by exam board, using computer",
+      "Note": "The exam questions must be updated or different at least 70% to the previous ones."
+    }
+  ],
+  "schedule": [
+    {
+      "Session": "1",
+      "Topic": "Course Introduction",
+      "Learning-Teaching Type": "Offline",
+      "LO": "",
+      "ITU": "",
+      "Student Materials": "Slide, Video (Download toàn bộ tài nguyên ở đây: https://drive.google.com/drive/folders/1lEfLUo3-waiJhzq9fo9ZVpAMwXjxOA_t?usp=sharing)",
+      "S-Download": "",
+      "Student's Tasks": "Read Slide Watch Video Do quizzes and assignments (if any)",
+      "URLs": ""
+    },
+    {
+      "Session": "2",
+      "Topic": "Module 1: Starting to Program",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO01, LO02",
+      "ITU": "",
+      "Student Materials": "Slide, Video",
+      "S-Download": "",
+      "Student's Tasks": "Read Slide Watch Video Do quizzes and assignments (if any)",
+      "URLs": ""
+    },
+    {
+      "Session": "3",
+      "Topic": "Module 1: Starting to Program",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO01, LO02",
+      "ITU": "",
+      "Student Materials": "Slide, Video",
+      "S-Download": "",
+      "Student's Tasks": "Read Slide Watch Video Do quizzes and assignments (if any)",
+      "URLs": ""
+    },
+    {
+      "Session": "4",
+      "Topic": "Module 1: Starting to Program",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO01, LO02",
+      "ITU": "",
+      "Student Materials": "Slide, Video",
+      "S-Download": "",
+      "Student's Tasks": "Read Slide Watch Video Do quizzes and assignments (if any)",
+      "URLs": ""
+    },
+    {
+      "Session": "5",
+      "Topic": "Module 2: Data Types, Variables, and Constants",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO3",
+      "ITU": "",
+      "Student Materials": "Slide, Video",
+      "S-Download": "",
+      "Student's Tasks": "Read Slide Watch Video Do quizzes and assignments (if any)",
+      "URLs": ""
+    },
+    {
+      "Session": "6",
+      "Topic": "Module 2: Data Types, Variables, and Constants",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO3",
+      "ITU": "",
+      "Student Materials": "Slide, Video",
+      "S-Download": "",
+      "Student's Tasks": "Read Slide Watch Video Do quizzes and assignments (if any)",
+      "URLs": ""
+    },
+    {
+      "Session": "7",
+      "Topic": "Module 2: Data Types, Variables, and Constants",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO3",
+      "ITU": "",
+      "Student Materials": "Slide, Video",
+      "S-Download": "",
+      "Student's Tasks": "Read Slide Watch Video Do quizzes and assignments (if any)",
+      "URLs": ""
+    },
+    {
+      "Session": "8",
+      "Topic": "Module 2: Data Types, Variables, and Constants",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO3",
+      "ITU": "",
+      "Student Materials": "Slide, Video",
+      "S-Download": "",
+      "Student's Tasks": "Read Slide Watch Video Do quizzes and assignments (if any)",
+      "URLs": ""
+    },
+    {
+      "Session": "9",
+      "Topic": "Lab Exercise and Assignment introduction",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO3",
+      "ITU": "",
+      "Student Materials": "Slide, Video",
+      "S-Download": "",
+      "Student's Tasks": "Read Slide Watch Video Do quizzes and assignments (if any)",
+      "URLs": ""
+    },
+    {
+      "Session": "10",
+      "Topic": "Lab Exercise and Assignment introduction",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO3",
+      "ITU": "",
+      "Student Materials": "Slide, Video",
+      "S-Download": "",
+      "Student's Tasks": "Read Slide Watch Video Do quizzes and assignments (if any)",
+      "URLs": ""
+    },
+    {
+      "Session": "11",
+      "Topic": "Check Assignment 1",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO3",
+      "ITU": "",
+      "Student Materials": "Slide, Video",
+      "S-Download": "",
+      "Student's Tasks": "Presentation",
+      "URLs": ""
+    },
+    {
+      "Session": "12",
+      "Topic": "Check Assignment 1",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO3",
+      "ITU": "",
+      "Student Materials": "Slide, Video",
+      "S-Download": "",
+      "Student's Tasks": "Presentation",
+      "URLs": ""
+    },
+    {
+      "Session": "13",
+      "Topic": "Quiz 1",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO3",
+      "ITU": "",
+      "Student Materials": "",
+      "S-Download": "",
+      "Student's Tasks": "",
+      "URLs": ""
+    },
+    {
+      "Session": "14",
+      "Topic": "Module 3: Classes and Objects",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO.4",
+      "ITU": "",
+      "Student Materials": "Slide, Video",
+      "S-Download": "",
+      "Student's Tasks": "Read Slide Watch Video Do quizzes and assignments (if any)",
+      "URLs": ""
+    },
+    {
+      "Session": "15",
+      "Topic": "Module 3: Classes and Objects",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO.4",
+      "ITU": "",
+      "Student Materials": "Slide, Video",
+      "S-Download": "",
+      "Student's Tasks": "Read Slide Watch Video Do quizzes and assignments (if any)",
+      "URLs": ""
+    },
+    {
+      "Session": "16",
+      "Topic": "Module 3: Classes and Objects",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO.4",
+      "ITU": "",
+      "Student Materials": "Slide, Video",
+      "S-Download": "",
+      "Student's Tasks": "Read Slide Watch Video Do quizzes and assignments (if any)",
+      "URLs": ""
+    },
+    {
+      "Session": "17",
+      "Topic": "Module 4: Unity 2D Basics and Selection",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO.5, LO.6",
+      "ITU": "",
+      "Student Materials": "Slide, Video",
+      "S-Download": "",
+      "Student's Tasks": "Read Slide Watch Video Do quizzes and assignments (if any)",
+      "URLs": ""
+    },
+    {
+      "Session": "18",
+      "Topic": "Module 4: Unity 2D Basics and Selection",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO.5, LO.6",
+      "ITU": "",
+      "Student Materials": "Slide, Video",
+      "S-Download": "",
+      "Student's Tasks": "Read Slide Watch Video Do quizzes and assignments (if any)",
+      "URLs": ""
+    },
+    {
+      "Session": "19",
+      "Topic": "Module 4: Unity 2D Basics and Selection",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO.5, LO.6",
+      "ITU": "",
+      "Student Materials": "Slide, Video",
+      "S-Download": "",
+      "Student's Tasks": "Read Slide Watch Video Do quizzes and assignments (if any)",
+      "URLs": ""
+    },
+    {
+      "Session": "20",
+      "Topic": "Module 4: Unity 2D Basics and Selection",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO.5, LO.6",
+      "ITU": "",
+      "Student Materials": "Slide, Video",
+      "S-Download": "",
+      "Student's Tasks": "Read Slide Watch Video Do quizzes and assignments (if any)",
+      "URLs": ""
+    },
+    {
+      "Session": "21",
+      "Topic": "Module 4: Unity 2D Basics and Selection",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO.5, LO.6",
+      "ITU": "",
+      "Student Materials": "Slide, Video",
+      "S-Download": "",
+      "Student's Tasks": "Read Slide Watch Video Do quizzes and assignments (if any)",
+      "URLs": ""
+    },
+    {
+      "Session": "22",
+      "Topic": "Module 4: Unity 2D Basics and Selection",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO.5, LO.6",
+      "ITU": "",
+      "Student Materials": "Slide, Video",
+      "S-Download": "",
+      "Student's Tasks": "Read Slide Watch Video Do quizzes and assignments (if any)",
+      "URLs": ""
+    },
+    {
+      "Session": "23",
+      "Topic": "Lab Exercise and Assignment introduction",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO.5, LO.6",
+      "ITU": "",
+      "Student Materials": "Slide, Video",
+      "S-Download": "",
+      "Student's Tasks": "Read Slide Watch Video Do quizzes and assignments (if any)",
+      "URLs": ""
+    },
+    {
+      "Session": "24",
+      "Topic": "Lab Exercise and Assignment introduction",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO.5, LO.6",
+      "ITU": "",
+      "Student Materials": "Slide, Video",
+      "S-Download": "",
+      "Student's Tasks": "Read Slide Watch Video Do quizzes and assignments (if any)",
+      "URLs": ""
+    },
+    {
+      "Session": "25",
+      "Topic": "Check Assignment 2",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO.5, LO.6",
+      "ITU": "",
+      "Student Materials": "Slide, Video",
+      "S-Download": "",
+      "Student's Tasks": "Presentation",
+      "URLs": ""
+    },
+    {
+      "Session": "26",
+      "Topic": "Check Assignment 2",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO.5, LO.6",
+      "ITU": "",
+      "Student Materials": "Slide, Video",
+      "S-Download": "",
+      "Student's Tasks": "Presentation",
+      "URLs": ""
+    },
+    {
+      "Session": "27",
+      "Topic": "Quiz 2",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO.5, LO.6",
+      "ITU": "",
+      "Student Materials": "",
+      "S-Download": "",
+      "Student's Tasks": "",
+      "URLs": ""
+    },
+    {
+      "Session": "28",
+      "Topic": "Module 5: Unity Input",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO.7",
+      "ITU": "0",
+      "Student Materials": "Slide, Video",
+      "S-Download": "",
+      "Student's Tasks": "Read Slide Watch Video Do quizzes and assignments (if any)",
+      "URLs": ""
+    },
+    {
+      "Session": "29",
+      "Topic": "Module 5: Unity Input",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO.7",
+      "ITU": "0",
+      "Student Materials": "Slide, Video",
+      "S-Download": "",
+      "Student's Tasks": "Read Slide Watch Video Do quizzes and assignments (if any)",
+      "URLs": ""
+    },
+    {
+      "Session": "30",
+      "Topic": "Module 5: Unity Input",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO.7",
+      "ITU": "0",
+      "Student Materials": "Slide, Video",
+      "S-Download": "",
+      "Student's Tasks": "Read Slide Watch Video Do quizzes and assignments (if any)",
+      "URLs": ""
+    },
+    {
+      "Session": "31",
+      "Topic": "Module 6: Arrays, Lists, and Iteration",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO.8",
+      "ITU": "0",
+      "Student Materials": "Slide, Video",
+      "S-Download": "",
+      "Student's Tasks": "Read Slide Watch Video Do quizzes and assignments (if any)",
+      "URLs": ""
+    },
+    {
+      "Session": "32",
+      "Topic": "Module 6: Arrays, Lists, and Iteration",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO.8",
+      "ITU": "0",
+      "Student Materials": "Slide, Video",
+      "S-Download": "",
+      "Student's Tasks": "Read Slide Watch Video Do quizzes and assignments (if any)",
+      "URLs": ""
+    },
+    {
+      "Session": "33",
+      "Topic": "Module 6: Arrays, Lists, and Iteration",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO.8",
+      "ITU": "0",
+      "Student Materials": "Slide, Video",
+      "S-Download": "",
+      "Student's Tasks": "Read Slide Watch Video Do quizzes and assignments (if any)",
+      "URLs": ""
+    },
+    {
+      "Session": "34",
+      "Topic": "Module 6: Arrays, Lists, and Iteration",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO.8",
+      "ITU": "0",
+      "Student Materials": "Slide, Video",
+      "S-Download": "",
+      "Student's Tasks": "Read Slide Watch Video Do quizzes and assignments (if any)",
+      "URLs": ""
+    },
+    {
+      "Session": "35",
+      "Topic": "Module 6: Arrays, Lists, and Iteration",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO.8",
+      "ITU": "0",
+      "Student Materials": "Slide, Video",
+      "S-Download": "",
+      "Student's Tasks": "Read Slide Watch Video Do quizzes and assignments (if any)",
+      "URLs": ""
+    },
+    {
+      "Session": "36",
+      "Topic": "Module 6: Arrays, Lists, and Iteration",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO.8",
+      "ITU": "0",
+      "Student Materials": "Slide, Video",
+      "S-Download": "",
+      "Student's Tasks": "Read Slide Watch Video Do quizzes and assignments (if any)",
+      "URLs": ""
+    },
+    {
+      "Session": "37",
+      "Topic": "Lab Exercise and Assignment introduction",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO.8",
+      "ITU": "0",
+      "Student Materials": "Slide, Video",
+      "S-Download": "",
+      "Student's Tasks": "Read Slide Watch Video Do quizzes and assignments (if any)",
+      "URLs": ""
+    },
+    {
+      "Session": "38",
+      "Topic": "Lab Exercise and Assignment introduction",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO.8",
+      "ITU": "0",
+      "Student Materials": "Slide, Video",
+      "S-Download": "",
+      "Student's Tasks": "Read Slide Watch Video Do quizzes and assignments (if any)",
+      "URLs": ""
+    },
+    {
+      "Session": "39",
+      "Topic": "Check Assignment 3",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO.8",
+      "ITU": "0",
+      "Student Materials": "Slide, Video",
+      "S-Download": "",
+      "Student's Tasks": "Presentation",
+      "URLs": ""
+    },
+    {
+      "Session": "40",
+      "Topic": "Check Assignment 3",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO.8",
+      "ITU": "0",
+      "Student Materials": "Slide, Video",
+      "S-Download": "",
+      "Student's Tasks": "Presentation",
+      "URLs": ""
+    },
+    {
+      "Session": "41",
+      "Topic": "Quiz 3",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO.8",
+      "ITU": "",
+      "Student Materials": "",
+      "S-Download": "",
+      "Student's Tasks": "",
+      "URLs": ""
+    },
+    {
+      "Session": "42",
+      "Topic": "Module 7: Abstraction and Console App Classes",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO.9",
+      "ITU": "0",
+      "Student Materials": "Slide, Video",
+      "S-Download": "",
+      "Student's Tasks": "Read Slide Watch Video Do quizzes and assignments (if any)",
+      "URLs": ""
+    },
+    {
+      "Session": "43",
+      "Topic": "Module 7: Abstraction and Console App Classes",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO.9",
+      "ITU": "0",
+      "Student Materials": "Slide, Video",
+      "S-Download": "",
+      "Student's Tasks": "Read Slide Watch Video Do quizzes and assignments (if any)",
+      "URLs": ""
+    },
+    {
+      "Session": "44",
+      "Topic": "Module 7: Abstraction and Console App Classes",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO.9",
+      "ITU": "0",
+      "Student Materials": "Slide, Video",
+      "S-Download": "",
+      "Student's Tasks": "Read Slide Watch Video Do quizzes and assignments (if any)",
+      "URLs": ""
+    },
+    {
+      "Session": "45",
+      "Topic": "Module 8: Methods and Unity Classes",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO10",
+      "ITU": "0",
+      "Student Materials": "Slide, Video",
+      "S-Download": "",
+      "Student's Tasks": "Read Slide Watch Video Do quizzes and assignments (if any)",
+      "URLs": ""
+    },
+    {
+      "Session": "46",
+      "Topic": "Module 8: Methods and Unity Classes",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO10",
+      "ITU": "0",
+      "Student Materials": "Slide, Video",
+      "S-Download": "",
+      "Student's Tasks": "Read Slide Watch Video Do quizzes and assignments (if any)",
+      "URLs": ""
+    },
+    {
+      "Session": "47",
+      "Topic": "Module 8: Methods and Unity Classes",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO10",
+      "ITU": "0",
+      "Student Materials": "Slide, Video",
+      "S-Download": "",
+      "Student's Tasks": "Read Slide Watch Video Do quizzes and assignments (if any)",
+      "URLs": ""
+    },
+    {
+      "Session": "48",
+      "Topic": "Module 8: Methods and Unity Classes",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO10",
+      "ITU": "0",
+      "Student Materials": "Slide, Video",
+      "S-Download": "",
+      "Student's Tasks": "Read Slide Watch Video Do quizzes and assignments (if any)",
+      "URLs": ""
+    },
+    {
+      "Session": "49",
+      "Topic": "Module 9: Strings, Text IO, and Audio",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO11",
+      "ITU": "0",
+      "Student Materials": "Slide, Video",
+      "S-Download": "",
+      "Student's Tasks": "Read Slide Watch Video Do quizzes and assignments (if any)",
+      "URLs": ""
+    },
+    {
+      "Session": "50",
+      "Topic": "Module 9: Strings, Text IO, and Audio",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO11",
+      "ITU": "0",
+      "Student Materials": "Slide, Video",
+      "S-Download": "",
+      "Student's Tasks": "Read Slide Watch Video Do quizzes and assignments (if any)",
+      "URLs": ""
+    },
+    {
+      "Session": "51",
+      "Topic": "Module 9: Strings, Text IO, and Audio",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO11",
+      "ITU": "0",
+      "Student Materials": "Slide, Video",
+      "S-Download": "",
+      "Student's Tasks": "Read Slide Watch Video Do quizzes and assignments (if any)",
+      "URLs": ""
+    },
+    {
+      "Session": "52",
+      "Topic": "Module 9: Strings, Text IO, and Audio",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO11",
+      "ITU": "0",
+      "Student Materials": "Slide, Video",
+      "S-Download": "",
+      "Student's Tasks": "Read Slide Watch Video Do quizzes and assignments (if any)",
+      "URLs": ""
+    },
+    {
+      "Session": "53",
+      "Topic": "Module 9: Strings, Text IO, and Audio",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO11",
+      "ITU": "0",
+      "Student Materials": "Slide, Video",
+      "S-Download": "",
+      "Student's Tasks": "Read Slide Watch Video Do quizzes and assignments (if any)",
+      "URLs": ""
+    },
+    {
+      "Session": "54",
+      "Topic": "Module 9: Strings, Text IO, and Audio",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO11",
+      "ITU": "0",
+      "Student Materials": "Slide, Video",
+      "S-Download": "",
+      "Student's Tasks": "Read Slide Watch Video Do quizzes and assignments (if any)",
+      "URLs": ""
+    },
+    {
+      "Session": "55",
+      "Topic": "Lab Exercise and Assignment introduction",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO11",
+      "ITU": "0",
+      "Student Materials": "Slide, Video",
+      "S-Download": "",
+      "Student's Tasks": "Read Slide Watch Video Do quizzes and assignments (if any)",
+      "URLs": ""
+    },
+    {
+      "Session": "56",
+      "Topic": "Lab Exercise and Assignment introduction",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO11",
+      "ITU": "0",
+      "Student Materials": "Slide, Video",
+      "S-Download": "",
+      "Student's Tasks": "Read Slide Watch Video Do quizzes and assignments (if any)",
+      "URLs": ""
+    },
+    {
+      "Session": "57",
+      "Topic": "Check Assignment 4",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO11",
+      "ITU": "0",
+      "Student Materials": "Slide, Video",
+      "S-Download": "",
+      "Student's Tasks": "Presentation",
+      "URLs": ""
+    },
+    {
+      "Session": "58",
+      "Topic": "Check Assignment 4",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO11",
+      "ITU": "0",
+      "Student Materials": "Slide, Video",
+      "S-Download": "",
+      "Student's Tasks": "Presentation",
+      "URLs": ""
+    },
+    {
+      "Session": "59",
+      "Topic": "Quiz 4",
+      "Learning-Teaching Type": "Offline",
+      "LO": "",
+      "ITU": "",
+      "Student Materials": "",
+      "S-Download": "",
+      "Student's Tasks": "",
+      "URLs": ""
+    },
+    {
+      "Session": "60",
+      "Topic": "Review",
+      "Learning-Teaching Type": "Offline",
+      "LO": "",
+      "ITU": "",
+      "Student Materials": "",
+      "S-Download": "",
+      "Student's Tasks": "",
+      "URLs": ""
+    }
+  ],
+  "constructive_questions": [
+    {
+      "No.": "1",
+      "Session No": "4",
+      "Name": "CQ2.1",
+      "Details": "What is Unity IDE? What features does Unity have? What are the benefits of using Unity?"
+    },
+    {
+      "No.": "2",
+      "Session No": "5",
+      "Name": "CQ2.2",
+      "Details": "How can Unity be installed? How to install Unity and Visual Studio environment?"
+    },
+    {
+      "No.": "3",
+      "Session No": "6",
+      "Name": "CQ2.3",
+      "Details": "What tools are commonly used in Unity? Please list and demo its functions."
+    },
+    {
+      "No.": "4",
+      "Session No": "7",
+      "Name": "CQ3.1",
+      "Details": "What data types are there in the C# programming language? Write a program to demonstrate in Unity how to use those data types."
+    },
+    {
+      "No.": "5",
+      "Session No": "8",
+      "Name": "CQ3.2",
+      "Details": "What About Reference Types? Give some example."
+    },
+    {
+      "No.": "6",
+      "Session No": "9",
+      "Name": "CQ3.3",
+      "Details": "What are the command structures in C# programming? Let's illustrate it."
+    },
+    {
+      "No.": "7",
+      "Session No": "10",
+      "Name": "CQ4.1",
+      "Details": "What are classes and objects?"
+    },
+    {
+      "No.": "8",
+      "Session No": "11",
+      "Name": "CQ4.2",
+      "Details": "Why use class and Object? Give examples illustrating classes and objects in Unity."
+    },
+    {
+      "No.": "9",
+      "Session No": "12",
+      "Name": "CQ4.3",
+      "Details": "In Textbox (Page 88), how to display 3 post cards? Let's illustrate in Unity."
+    },
+    {
+      "No.": "10",
+      "Session No": "16",
+      "Name": "CQ6.1",
+      "Details": "In Unity, can you tell us the main functions in the Inspector? Give an illustrative example."
+    },
+    {
+      "No.": "11",
+      "Session No": "17",
+      "Name": "CQ6.2",
+      "Details": "What are prefabs? Why use Prefabs? Please give an illustrative example."
+    },
+    {
+      "No.": "12",
+      "Session No": "18",
+      "Name": "CQ6.3",
+      "Details": "Let's say we have an asset that is a circle, how can each iteration of the circle appear at different positions and double in size?"
+    },
+    {
+      "No.": "13",
+      "Session No": "19",
+      "Name": "CQ7.1",
+      "Details": "What is Rigidbody2D? Why must to use Rigidbody2D? Give an illustrative example."
+    },
+    {
+      "No.": "14",
+      "Session No": "20",
+      "Name": "CQ7.2",
+      "Details": "What are Colliders? Why use Colliders? Give an illustrative example."
+    },
+    {
+      "No.": "15",
+      "Session No": "21",
+      "Name": "CQ7.3",
+      "Details": "How to avoid the teddybear from going out of the game screen?"
+    },
+    {
+      "No.": "16",
+      "Session No": "25",
+      "Name": "CQ9.1",
+      "Details": "What are the main features in Input Manager? Give an illustrative example."
+    },
+    {
+      "No.": "17",
+      "Session No": "26",
+      "Name": "CQ9.2",
+      "Details": "What are the main features in Mouse Input? Give an illustrative example."
+    },
+    {
+      "No.": "18",
+      "Session No": "27",
+      "Name": "CQ9.3",
+      "Details": "What are the main features in Keyboard Input? Give an illustrative example."
+    },
+    {
+      "No.": "19",
+      "Session No": "28",
+      "Name": "CQ10.1",
+      "Details": "What are the main features in Mouse Input? Give an illustrative example."
+    },
+    {
+      "No.": "20",
+      "Session No": "29",
+      "Name": "CQ10.2",
+      "Details": "What are the main features in Gamepad Input? Give an illustrative example."
+    },
+    {
+      "No.": "21",
+      "Session No": "30",
+      "Name": "CQ10.3",
+      "Details": "An object with actions such as jumping, going forward, backward. In Unity, how do I handle these actions? Give an illustrative example."
+    },
+    {
+      "No.": "22",
+      "Session No": "31",
+      "Name": "CQ11.1",
+      "Details": "What is an array? How to declare and use arrays? How are arrays used in the game?"
+    },
+    {
+      "No.": "23",
+      "Session No": "32",
+      "Name": "CQ11.2",
+      "Details": "How can an array of objects be used? Give an illustrative example."
+    },
+    {
+      "No.": "24",
+      "Session No": "33",
+      "Name": "CQ11.3",
+      "Details": "How to use arrays in randomly generated cards problem?"
+    },
+    {
+      "No.": "25",
+      "Session No": "34",
+      "Name": "CQ12.1",
+      "Details": "In the teddy bear spawning project, how when the user left-click on the yellow teddy bear, how much will it all disappear, similar to the right-click on the blue or yellow teddy bear, it will automatically disappear?"
+    },
+    {
+      "No.": "26",
+      "Session No": "35",
+      "Name": "CQ12.2",
+      "Details": "Similar to CQ1, Is there a way to use tag to solve the problem?"
+    },
+    {
+      "No.": "27",
+      "Session No": "36",
+      "Name": "CQ12.3",
+      "Details": "Case study: Generate many random Pickups on the screen and 1 Teddybear, when the user clicks on any pickup, Teddybear will move to and take it. In case the Teddybear user does not move, the Pickup will not automatically generate until the user clicks again. Please tell me how do you handle that problem? Let's illustrate this case."
+    },
+    {
+      "No.": "28",
+      "Session No": "37",
+      "Name": "CQ13.1",
+      "Details": "What is the purpose of high-level class design? Give a example"
+    },
+    {
+      "No.": "29",
+      "Session No": "38",
+      "Name": "CQ13.2",
+      "Details": "How to implement fields in C#? Give a example"
+    },
+    {
+      "No.": "30",
+      "Session No": "39",
+      "Name": "CQ13.3",
+      "Details": "In Exercise 28, how do I implement the project using fields and properties?"
+    },
+    {
+      "No.": "31",
+      "Session No": "40",
+      "Name": "CQ14.1",
+      "Details": "How to implement properties in C#? Give a example"
+    },
+    {
+      "No.": "32",
+      "Session No": "41",
+      "Name": "CQ14.2",
+      "Details": "How to implement constructor and other methods in C#? Give a example"
+    },
+    {
+      "No.": "33",
+      "Session No": "42",
+      "Name": "CQ14.3",
+      "Details": "In Exercise 30, how do I create a program that eats an apple using a class?"
+    },
+    {
+      "No.": "34",
+      "Session No": "46",
+      "Name": "CQ16.1",
+      "Details": "In class, how to use methods effectively? What is information flow?"
+    },
+    {
+      "No.": "35",
+      "Session No": "47",
+      "Name": "CQ16.2",
+      "Details": "What is method header and method body? How to create and use it?"
+    },
+    {
+      "No.": "36",
+      "Session No": "48",
+      "Name": "CQ16.3",
+      "Details": "What is parameters and how they work? Give some example"
+    },
+    {
+      "No.": "37",
+      "Session No": "49",
+      "Name": "CQ17.1",
+      "Details": "What is StringBuilder? How to use StringBuilder effectively? Give an illustrative example."
+    },
+    {
+      "No.": "38",
+      "Session No": "50",
+      "Name": "CQ17.2",
+      "Details": "How to design and implement a class to represent a hand of cards? Programming illustrates this case."
+    },
+    {
+      "No.": "39",
+      "Session No": "51",
+      "Name": "CQ17.3",
+      "Details": "In one situation, there are many randomly generated circles on the screen, for each click, the score will be scored as +1. How to handle this with class and method?"
+    },
+    {
+      "No.": "40",
+      "Session No": "52",
+      "Name": "CQ18.1",
+      "Details": "How to start the user to enter the date of birth, read the value from the keyboard and display the message on the screen in Unity? Note the need to check the data."
+    },
+    {
+      "No.": "41",
+      "Session No": "53",
+      "Name": "CQ18.2",
+      "Details": "In the problem of fish eating teddy bears, how to create an effect when fish eat bears?"
+    },
+    {
+      "No.": "42",
+      "Session No": "54",
+      "Name": "CQ18.3",
+      "Details": "In any game, how to make sound on and off during gameplay?"
+    }
+  ],
+  "materials": [
+    {
+      "No.": "1",
+      "Material Description": "https://www.coursera.org/learn/introduction-programming-unity/home/welcome",
+      "Author": "",
+      "Publisher": "",
+      "Published Date": "",
+      "Edition": "",
+      "ISBN": "",
+      "Is Main Material": "True",
+      "Is Hard Copy": "False",
+      "Is Online": "True",
+      "Note": ""
+    },
+    {
+      "No.": "2",
+      "Material Description": "https://www.coursera.org/learn/more-programming-unity/home/welcome",
+      "Author": "",
+      "Publisher": "",
+      "Published Date": "",
+      "Edition": "",
+      "ISBN": "",
+      "Is Main Material": "True",
+      "Is Hard Copy": "False",
+      "Is Online": "True",
+      "Note": ""
+    },
+    {
+      "No.": "3",
+      "Material Description": "Beginning C# Programming with Unity Visual Studio Edition",
+      "Author": "A.T. Chamillard",
+      "Publisher": "",
+      "Published Date": "",
+      "Edition": "",
+      "ISBN": "",
+      "Is Main Material": "False",
+      "Is Hard Copy": "False",
+      "Is Online": "False",
+      "Note": "ebook"
+    },
+    {
+      "No.": "4",
+      "Material Description": "https://www.coursera.org/learn/csharp-class-development/home/welcome",
+      "Author": "",
+      "Publisher": "",
+      "Published Date": "",
+      "Edition": "",
+      "ISBN": "",
+      "Is Main Material": "True",
+      "Is Hard Copy": "False",
+      "Is Online": "True",
+      "Note": ""
+    }
+  ],
+  "source_path": "data/raw/syllabi/10217.html",
+  "id": "syllabus:10217"
+}

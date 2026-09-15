@@ -1,0 +1,296 @@
+{
+  "syllabus_id": 12622,
+  "subject_code": "IAR401c",
+  "subject_name": "Incident Response_Đối phó sự cố",
+  "syllabus_name": "Incident Response_Đối phó sự cố",
+  "credits": 3,
+  "degree_level": "Bachelor",
+  "time_allocation": "Study hour (150h) = 43 online + 3h offline + 104h self-study",
+  "prerequisite": "FRS401c or FRS401",
+  "general_information": {
+    "Syllabus ID": "12622",
+    "Syllabus Name": "Incident Response_Đối phó sự cố",
+    "Course Name English": "Incident Response",
+    "Subject Code": "IAR401c",
+    "Learning-Teaching Method": "Blended Learning, Student-centered theory, Active Learning",
+    "NoCredit": "3",
+    "Degree Level": "Bachelor",
+    "Time Allocation": "Study hour (150h) = 43 online + 3h offline + 104h self-study",
+    "Pre-Requisite": "FRS401c or FRS401",
+    "Description": "This course will introduce the student to the essential aspects of information assurance and incident response (IR). The student will be provided with the tools, techniques and industry accepted methodologies so that upon completion of the course the student will be able to describe key concepts of network security and IR and how those concepts apply to themselves and their organization. The course is based on Courses 3 and 5 of the SSCP Professional Training Certificate, the whole will show employers you have the IT security foundation to defend against cyber attacks – and puts you on a clear path to earning SSCP certification.",
+    "StudentTasks": "Student must get the certification of CertNexus Certified Ethical Emerging Technologist Professional Certificate (CertNexus) specialization from Coursera to be accepted to the final examination",
+    "Tools": "- Internet",
+    "Scoring Scale": "10",
+    "DecisionNo MM/dd/yyyy": "359/QĐ-ĐHFPT dated 04/09/2025",
+    "IsApproved": "True",
+    "Note": "1. Complete two online courses 3, 5 to be allowed to take Final Exam 2. Final Exam is the Final Theory Exam (TE): 100% 3. Students who complete all MOOCs before the course deadline will receive 1 bonus point; otherwise, no bonus point will be awarded. 4. Completion Criteria: Final TE Score >=4 & (Final TE Score + bonus) >= 5",
+    "Is Scored": "True",
+    "MinAvgMarkToPass": "5",
+    "IsActive": "True",
+    "ApprovedDate": "4/9/2025"
+  },
+  "active": true,
+  "approved": true,
+  "decision": "359/QĐ-ĐHFPT dated 04/09/2025",
+  "description": "This course will introduce the student to the essential aspects of information assurance and incident response (IR). The student will be provided with the tools, techniques and industry accepted methodologies so that upon completion of the course the student will be able to describe key concepts of network security and IR and how those concepts apply to themselves and their organization. The course is based on Courses 3 and 5 of the SSCP Professional Training Certificate, the whole will show employers you have the IT security foundation to defend against cyber attacks – and puts you on a clear path to earning SSCP certification.",
+  "learning_outcomes": [
+    {
+      "No.": "1",
+      "CLO Name": "CLO1",
+      "CLO Details": "Understand the risk management process"
+    },
+    {
+      "No.": "2",
+      "CLO Name": "CLO2",
+      "CLO Details": "Perform security assessment activities"
+    },
+    {
+      "No.": "3",
+      "CLO Name": "CLO3",
+      "CLO Details": "Describe processes for operating and maintaining monitoring systems"
+    },
+    {
+      "No.": "4",
+      "CLO Name": "CLO4",
+      "CLO Details": "Analyze and report monitoring results"
+    },
+    {
+      "No.": "5",
+      "CLO Name": "CLO5",
+      "CLO Details": "Understand the IR and recovery process"
+    },
+    {
+      "No.": "6",
+      "CLO Name": "CLO6",
+      "CLO Details": "Describe the supporting role in forensic investigations, BC and DRP processes"
+    },
+    {
+      "No.": "7",
+      "CLO Name": "CLO7",
+      "CLO Details": "Understand security issues related to networks"
+    },
+    {
+      "No.": "8",
+      "CLO Name": "CLO8",
+      "CLO Details": "Identify protective measures for telecommunication technologies and define processes for controlling network access"
+    },
+    {
+      "No.": "9",
+      "CLO Name": "CLO9",
+      "CLO Details": "Identify processes for managing LAN-based security and describe procedures for operating and configuring networked-based security devices"
+    },
+    {
+      "No.": "10",
+      "CLO Name": "CLO10",
+      "CLO Details": "Define procedures to implement and operate wireless technologies"
+    }
+  ],
+  "assessments": [
+    {
+      "No.": "1",
+      "Category": "TE",
+      "Type": "Final exam",
+      "Part": "1",
+      "Weight": "100.0%",
+      "Completion Criteria": "4",
+      "Duration": "60'",
+      "CLO": "CLO1, CLO2, CLO3, CLO4, CLO5, CLO6, CLO7, CLO8, CLO9, CLO10",
+      "Question Type": "Computer gradable",
+      "No Question": "60",
+      "Knowledge and Skill": "All studied courses. Each module of course contributes 3-5 questions.",
+      "Grading Guide": "by Exam Board",
+      "Note": "Customized from the quizzes of this specialization 1st Evaluation: For students who completed & got Coursera's specialization certificates) at week 13; 2nd Evaluation: For students who completed & got Coursera's specialization certificates) at week 14."
+    }
+  ],
+  "schedule": [
+    {
+      "Session": "1",
+      "Topic": "Specialization Introduction Identifying, Monitoring, and Analyzing Risk and Incident Response and Recovery - Understand the Risk Management Process",
+      "Learning-Teaching Type": "Offline",
+      "LO": "CLO1",
+      "ITU": "ITU",
+      "Student Materials": "MOOC 3",
+      "S-Download": "",
+      "Student's Tasks": "Complete Week 1 of the course Identifying, Monitoring, and Analyzing Risk and Incident Response and Recovery",
+      "URLs": ""
+    },
+    {
+      "Session": "2",
+      "Topic": "Identifying, Monitoring, and Analyzing Risk and Incident Response and Recovery - Perform Security Assessment Activities",
+      "Learning-Teaching Type": "Online",
+      "LO": "CLO2",
+      "ITU": "ITU",
+      "Student Materials": "MOOC 3",
+      "S-Download": "",
+      "Student's Tasks": "Complete Week 2 of the course Identifying, Monitoring, and Analyzing Risk and Incident Response and Recovery",
+      "URLs": ""
+    },
+    {
+      "Session": "3",
+      "Topic": "Identifying, Monitoring, and Analyzing Risk and Incident Response and Recovery - Operate and Maintain Monitoring Systems - Analyze and Report Monitoring Results",
+      "Learning-Teaching Type": "Online",
+      "LO": "CLO3, CLO4",
+      "ITU": "ITU",
+      "Student Materials": "MOOC 3",
+      "S-Download": "",
+      "Student's Tasks": "Complete Week 3 of the course Identifying, Monitoring, and Analyzing Risk and Incident Response and Recovery",
+      "URLs": ""
+    },
+    {
+      "Session": "4",
+      "Topic": "Identifying, Monitoring, and Analyzing Risk and Incident Response and Recovery - Incident Response and Recovery",
+      "Learning-Teaching Type": "Online",
+      "LO": "CLO5",
+      "ITU": "",
+      "Student Materials": "MOOC 3",
+      "S-Download": "",
+      "Student's Tasks": "Complete Week 4 of the course Identifying, Monitoring, and Analyzing Risk and Incident Response and Recovery.",
+      "URLs": ""
+    },
+    {
+      "Session": "5",
+      "Topic": "Identifying, Monitoring, and Analyzing Risk and Incident Response and Recovery - Understand and Support Forensic Investigations & Business Continuity and Disaster Recovery Plan",
+      "Learning-Teaching Type": "Online",
+      "LO": "CLO6",
+      "ITU": "ITU",
+      "Student Materials": "MOOC 3",
+      "S-Download": "",
+      "Student's Tasks": "Complete Week 5 of course Identifying, Monitoring, and Analyzing Risk and Incident Response and Recovery.",
+      "URLs": ""
+    },
+    {
+      "Session": "6",
+      "Topic": "Identifying, Monitoring, and Analyzing Risk and Incident Response and Recovery - Case Study - Exam Course 1 Review",
+      "Learning-Teaching Type": "Online",
+      "LO": "CLO1-CLO6",
+      "ITU": "TU",
+      "Student Materials": "MOOC 3",
+      "S-Download": "",
+      "Student's Tasks": "Complete Week 6, 7 of the course Identifying, Monitoring, and Analyzing Risk and Incident Response and Recovery. - Deadline of Course 1 Completion: End of Friday of the week. All Students should participate in review slot (if any question)",
+      "URLs": ""
+    },
+    {
+      "Session": "7",
+      "Topic": "Networks and Communications Security - Understand Security Issues Related to Networks",
+      "Learning-Teaching Type": "Online",
+      "LO": "CLO7",
+      "ITU": "ITU",
+      "Student Materials": "MOOC 5",
+      "S-Download": "",
+      "Student's Tasks": "Complete Week 1 of the course Networks and Communications Security",
+      "URLs": ""
+    },
+    {
+      "Session": "8",
+      "Topic": "Networks and Communications Security - Protect Telecommunications Technologies and Control Network Access",
+      "Learning-Teaching Type": "Online",
+      "LO": "CLO8",
+      "ITU": "ITU",
+      "Student Materials": "MOOC 5",
+      "S-Download": "",
+      "Student's Tasks": "Complete Week 2 of the course Networks and Communications Security",
+      "URLs": ""
+    },
+    {
+      "Session": "9",
+      "Topic": "Networks and Communications Security - Operate and Configure Network-Based Security Devices",
+      "Learning-Teaching Type": "Online",
+      "LO": "CLO9",
+      "ITU": "ITU",
+      "Student Materials": "MOOC 5",
+      "S-Download": "",
+      "Student's Tasks": "Complete Week 3 of the course Networks and Communications Security",
+      "URLs": ""
+    },
+    {
+      "Session": "10",
+      "Topic": "Networks and Communications Security - Manage LAN-Based Security and Implement and Operate Wireless Technologies",
+      "Learning-Teaching Type": "Online",
+      "LO": "CLO10",
+      "ITU": "ITU",
+      "Student Materials": "MOOC 5",
+      "S-Download": "",
+      "Student's Tasks": "Complete Week 4 of the course Networks and Communications Security",
+      "URLs": ""
+    },
+    {
+      "Session": "11",
+      "Topic": "Networks and Communications Security - Case Study - End-Of Course Assessment Course 2 Review",
+      "Learning-Teaching Type": "Online",
+      "LO": "CLO7-CLO10",
+      "ITU": "TU",
+      "Student Materials": "MOOC 5",
+      "S-Download": "",
+      "Student's Tasks": "Complete Week 5, 6 of the course Networks and Communications Security",
+      "URLs": ""
+    },
+    {
+      "Session": "12",
+      "Topic": "- Apply What You've Learned Course 1, 2 Review",
+      "Learning-Teaching Type": "Offline",
+      "LO": "All CLOs",
+      "ITU": "TU",
+      "Student Materials": "MOOC 3, MOOC 5",
+      "S-Download": "",
+      "Student's Tasks": "Review, Complete two courses, Preparing for your Exam. Deadline of Coursera Completion: End of Friday of the week.",
+      "URLs": ""
+    }
+  ],
+  "constructive_questions": [],
+  "materials": [
+    {
+      "No.": "1",
+      "Material Description": "MOOC 3: Identifying, Monitoring, and Analyzing Risk and Incident Response and Recovery",
+      "Author": "",
+      "Publisher": "Coursera",
+      "Published Date": "",
+      "Edition": "",
+      "ISBN": "",
+      "Is Main Material": "True",
+      "Is Hard Copy": "False",
+      "Is Online": "True",
+      "Note": "https://www.coursera.org/learn/incident-response-and-recovery"
+    },
+    {
+      "No.": "2",
+      "Material Description": "MOOC 5: Networks and Communications Security",
+      "Author": "",
+      "Publisher": "Coursera",
+      "Published Date": "",
+      "Edition": "",
+      "ISBN": "",
+      "Is Main Material": "True",
+      "Is Hard Copy": "False",
+      "Is Online": "True",
+      "Note": "https://www.coursera.org/learn/network-and-communications-security"
+    },
+    {
+      "No.": "3",
+      "Material Description": "Help Articles",
+      "Author": "",
+      "Publisher": "Coursera",
+      "Published Date": "",
+      "Edition": "",
+      "ISBN": "",
+      "Is Main Material": "False",
+      "Is Hard Copy": "False",
+      "Is Online": "True",
+      "Note": "https://learner.coursera.help/hc/en-us/articles/208280036-Coursera-Code-of-Conduct"
+    },
+    {
+      "No.": "4",
+      "Material Description": "SPEC: (ISC)² Systems Security Certified Practitioner (SSCP)",
+      "Author": "",
+      "Publisher": "Coursera",
+      "Published Date": "",
+      "Edition": "",
+      "ISBN": "",
+      "Is Main Material": "True",
+      "Is Hard Copy": "False",
+      "Is Online": "True",
+      "Note": "https://www.coursera.org/professional-certificates/sscp-training"
+    }
+  ],
+  "source_path": "data/raw/syllabi/12622.html",
+  "id": "syllabus:12622"
+}

@@ -1,0 +1,520 @@
+{
+  "syllabus_id": 1429,
+  "subject_code": "RES212",
+  "subject_name": "Wines, Beers, Spirits 1 (Nghiệp vụ pha chế đồ uống 1)",
+  "syllabus_name": "Wine, Beer, Spirits 1",
+  "credits": 3,
+  "degree_level": "Bachelor",
+  "time_allocation": "1 course = 30 sessions 1 session= 90 minutes",
+  "prerequisite": "FBM201",
+  "general_information": {
+    "Syllabus ID": "1429",
+    "Syllabus Name": "Wine, Beer, Spirits 1",
+    "Course Name English": "",
+    "Subject Code": "RES212",
+    "Learning-Teaching Method": "",
+    "NoCredit": "3",
+    "Degree Level": "Bachelor",
+    "Time Allocation": "1 course = 30 sessions 1 session= 90 minutes",
+    "Pre-Requisite": "FBM201",
+    "Description": "A study of the beverage service of the Hospitality Industry including spirits, wines, beers and mixology beverages. Topics include purchasing, resource control, beverage storage and issuing, bar stocks and sales control, bar customer care, safety and security, managing bar wastage, the law and sale of liquor.",
+    "StudentTasks": "- Class attendance is strongly encouraged. Attend more than 80% of class hours in order to be accepted to the final examination - Actively participate in class activities - Fulfill tasks given by instructor after class - Use their own laptop in class only for learning purpose - Read the textbook in advance - Access the course website (http://cms.fpt.edu.vn) for up-to-date information and material of the course, for online supports from teachers and other students and for practicing and assessment.",
+    "Tools": "- Internet",
+    "Scoring Scale": "10",
+    "DecisionNo MM/dd/yyyy": "",
+    "IsApproved": "True",
+    "Note": "",
+    "Is Scored": "True",
+    "MinAvgMarkToPass": "5",
+    "IsActive": "True",
+    "ApprovedDate": ""
+  },
+  "active": true,
+  "approved": true,
+  "decision": "",
+  "description": "A study of the beverage service of the Hospitality Industry including spirits, wines, beers and mixology beverages. Topics include purchasing, resource control, beverage storage and issuing, bar stocks and sales control, bar customer care, safety and security, managing bar wastage, the law and sale of liquor.",
+  "learning_outcomes": [
+    {
+      "No.": "1",
+      "CLO Name": "CLO1",
+      "CLO Details": "Develop general knowledge on the origins and development of the beverage industry."
+    },
+    {
+      "No.": "2",
+      "CLO Name": "CLO2",
+      "CLO Details": "Identify local laws and customer in Vietnam pertaining to the service and purchase of alcoholic beverages and liquor law liability"
+    },
+    {
+      "No.": "3",
+      "CLO Name": "CLO3",
+      "CLO Details": "Recognize equipment and glassware used for beverage preparation and service"
+    },
+    {
+      "No.": "4",
+      "CLO Name": "CLO4",
+      "CLO Details": "Assemble the hand tools and equipment needed to mix and serve drinks and prepare garnishes."
+    },
+    {
+      "No.": "5",
+      "CLO Name": "CLO5",
+      "CLO Details": "Explain the procedures for internal beverage control"
+    },
+    {
+      "No.": "6",
+      "CLO Name": "CLO6",
+      "CLO Details": "Explain the production processes for spirits, wine, beer, and other beverages"
+    },
+    {
+      "No.": "7",
+      "CLO Name": "CLO7",
+      "CLO Details": "Identify and provide the process of preparation, presentation, and service of alcoholic beverages."
+    },
+    {
+      "No.": "8",
+      "CLO Name": "CLO8",
+      "CLO Details": "Identify and present the knowledge of wines by grape and other fruit variety, country, growing region, and production process."
+    },
+    {
+      "No.": "9",
+      "CLO Name": "CLO9",
+      "CLO Details": "Explain how to create a workforce of the beverage business operations."
+    },
+    {
+      "No.": "10",
+      "CLO Name": "CLO10",
+      "CLO Details": "Explain the purpose of effective beverage receiving and storage practices and how to calculate an inventory turnover rate."
+    },
+    {
+      "No.": "11",
+      "CLO Name": "CLO11",
+      "CLO Details": "Interpret financial data and use decision-making skills and abilities in a variety of managerial and service positions."
+    }
+  ],
+  "assessments": [
+    {
+      "No.": "1",
+      "Category": "Class participation and preparation",
+      "Type": "on-going",
+      "Part": "1",
+      "Weight": "10.0%",
+      "Completion Criteria": "",
+      "Duration": "",
+      "CLO": "",
+      "Question Type": "",
+      "No Question": "1",
+      "Knowledge and Skill": "",
+      "Grading Guide": "",
+      "Note": "Instruction and shedules for Progress tests must be presented in the Course Implementation Plan approved by director of the campus. Progress test must be taken right after the last lectures of required material. Instructor has resposibility to review the test for students after graded."
+    },
+    {
+      "No.": "2",
+      "Category": "Group Assignment",
+      "Type": "on-going",
+      "Part": "1",
+      "Weight": "24.0%",
+      "Completion Criteria": "",
+      "Duration": "",
+      "CLO": "",
+      "Question Type": "",
+      "No Question": "1",
+      "Knowledge and Skill": "Based on topics of studied units",
+      "Grading Guide": "Group presentation in class room",
+      "Note": "All assignments should be typed and double-spaced with 11-point font, and must be submitted in soft copy. A deduction of 10% of the assignment mark will be applied for each day of late submission Evaluation will be based on both presentation and written report (reccommded 30%, 70% accordingly)"
+    },
+    {
+      "No.": "3",
+      "Category": "Individual Practice",
+      "Type": "on-going",
+      "Part": "1",
+      "Weight": "20.0%",
+      "Completion Criteria": "",
+      "Duration": "90'",
+      "CLO": "",
+      "Question Type": "Each student must be assessed through practical demonstration in a simulated workplace environment where beverage ingredients and equipment are provided. Competency is to be demonstrated by effectively preparing and serving beverage in accordance with the performance criteria and the range listed within the practical learning sessions.",
+      "No Question": "2",
+      "Knowledge and Skill": "Based on the practical learning sessions of the course.",
+      "Grading Guide": "Practical room",
+      "Note": "Practical assessment must ensure access to: fixtures and large equipment (bar service area, storage area for glassware and drinks…), small equipment (range of glassware, service trays and liners…), stock (liqueurs, wines, basic spirits, wide commercial range of non-alcoholic beverages)"
+    },
+    {
+      "No.": "4",
+      "Category": "Quiz",
+      "Type": "on-going",
+      "Part": "2",
+      "Weight": "16.0%",
+      "Completion Criteria": "",
+      "Duration": "90' in class",
+      "CLO": "",
+      "Question Type": "Multiple choice, exercises or essay questions",
+      "No Question": "30",
+      "Knowledge and Skill": "Quizzes will test for knowledge of subjects in the chapter assigned for that day.",
+      "Grading Guide": "Class room",
+      "Note": "These quizzes will be given at various times during class (beginning, middle or end). Total number of quizzes: 2"
+    },
+    {
+      "No.": "5",
+      "Category": "Final Exam",
+      "Type": "Final exam",
+      "Part": "1",
+      "Weight": "30.0%",
+      "Completion Criteria": "4",
+      "Duration": "60'",
+      "CLO": "",
+      "Question Type": "",
+      "No Question": "1",
+      "Knowledge and Skill": "The questions/ exercises will cover the lectures, class discussions, activities, exercises, and textbook.",
+      "Grading Guide": "Exam room",
+      "Note": "Not allow to use any document/information in any form in exam room"
+    }
+  ],
+  "schedule": [
+    {
+      "Session": "1",
+      "Topic": "Orientation and Chapter 1: The Beverage industry, Past and Present - Wine and religion - A brief history of beer - Distilled spirits in brief - Today’s beverage service industry - The tavern: pleasures and politics - Difference between making products and serving guests",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO1, LO2",
+      "ITU": "I, T",
+      "Student Materials": "",
+      "S-Download": "RES212",
+      "Student's Tasks": "",
+      "URLs": ""
+    },
+    {
+      "Session": "2",
+      "Topic": "Orientation and Chapter 1: The Beverage industry, Past and Present - Wine and religion - A brief history of beer - Distilled spirits in brief - Today’s beverage service industry - The tavern: pleasures and politics - Difference between making products and serving guests",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO1, LO2",
+      "ITU": "I, T",
+      "Student Materials": "",
+      "S-Download": "RES212",
+      "Student's Tasks": "",
+      "URLs": ""
+    },
+    {
+      "Session": "3",
+      "Topic": "Chapter 2: Responsible Alcohol service - Alcohol and human health - Alcohol and nutrition - Alcoholism and other drinking problems - Legal considerations - Solutions from a concerned industry",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO2",
+      "ITU": "I, T",
+      "Student Materials": "",
+      "S-Download": "",
+      "Student's Tasks": "",
+      "URLs": ""
+    },
+    {
+      "Session": "4",
+      "Topic": "Chapter 2: Responsible Alcohol service - Alcohol and human health - Alcohol and nutrition - Alcoholism and other drinking problems - Legal considerations - Solutions from a concerned industry",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO2",
+      "ITU": "I, T",
+      "Student Materials": "",
+      "S-Download": "",
+      "Student's Tasks": "",
+      "URLs": ""
+    },
+    {
+      "Session": "5",
+      "Topic": "Chapter 3: Creating and maintaining a bar business - Bar equipment - Location and market feasibility - Atmosphere and décor - Layout and design - The bar: size, shape, placement - Underbar and backbar equipment Practical Learning - Bar tools and small equipment - General equipment guidelines",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO3, LO4",
+      "ITU": "T,U",
+      "Student Materials": "",
+      "S-Download": "",
+      "Student's Tasks": "",
+      "URLs": ""
+    },
+    {
+      "Session": "6",
+      "Topic": "Chapter 3: Creating and maintaining a bar business - Bar equipment - Location and market feasibility - Atmosphere and décor - Layout and design - The bar: size, shape, placement - Underbar and backbar equipment Practical Learning - Bar tools and small equipment - General equipment guidelines",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO3, LO4",
+      "ITU": "T,U",
+      "Student Materials": "",
+      "S-Download": "",
+      "Student's Tasks": "",
+      "URLs": ""
+    },
+    {
+      "Session": "7",
+      "Topic": "Chapter 3: Creating and maintaining a bar business - Bar equipment - Location and market feasibility - Atmosphere and décor - Layout and design - The bar: size, shape, placement - Underbar and backbar equipment Practical Learning - Bar tools and small equipment - General equipment guidelines",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO3, LO4",
+      "ITU": "T,U",
+      "Student Materials": "",
+      "S-Download": "",
+      "Student's Tasks": "",
+      "URLs": ""
+    },
+    {
+      "Session": "8",
+      "Topic": "Chapter 4: Spirits - Types of alcoholic beverages - Selecting spirits for the bar - How spirits are made - Brown goods: whiskey and scotch - White goods: vodka, gin, rum, and tequila - Liqueurs, cordials, and more Practical Learning - The process of preparation, presentation, and service of a type of distilled spirit (whisky, brandy, gin, rum..)",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO4, LO5, LO6, LO7",
+      "ITU": "T,U",
+      "Student Materials": "",
+      "S-Download": "",
+      "Student's Tasks": "",
+      "URLs": ""
+    },
+    {
+      "Session": "9",
+      "Topic": "Chapter 4: Spirits - Types of alcoholic beverages - Selecting spirits for the bar - How spirits are made - Brown goods: whiskey and scotch - White goods: vodka, gin, rum, and tequila - Liqueurs, cordials, and more Practical Learning - The process of preparation, presentation, and service of a type of distilled spirit (whisky, brandy, gin, rum..)",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO4, LO5, LO6, LO7",
+      "ITU": "T,U",
+      "Student Materials": "",
+      "S-Download": "",
+      "Student's Tasks": "",
+      "URLs": ""
+    },
+    {
+      "Session": "10",
+      "Topic": "Chapter 5: Wine - Wine in the United States: a brief history - Types of wine & the grapes - How wines are made & named - Tasting wines - Serving wines Practical Learning - Reading wine labels - Distinguishing different types of wine",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO5, LO6, LO7, LO8",
+      "ITU": "T,U",
+      "Student Materials": "",
+      "S-Download": "",
+      "Student's Tasks": "",
+      "URLs": ""
+    },
+    {
+      "Session": "11",
+      "Topic": "Chapter 5: Wine - Wine in the United States: a brief history - Types of wine & the grapes - How wines are made & named - Tasting wines - Serving wines Practical Learning - Reading wine labels - Distinguishing different types of wine",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO5, LO6, LO7, LO8",
+      "ITU": "T,U",
+      "Student Materials": "",
+      "S-Download": "",
+      "Student's Tasks": "",
+      "URLs": ""
+    },
+    {
+      "Session": "12",
+      "Topic": "Chapter 5: Wine - Wine in the United States: a brief history - Types of wine & the grapes - How wines are made & named - Tasting wines - Serving wines Practical Learning - Reading wine labels - Distinguishing different types of wine",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO5, LO6, LO7, LO8",
+      "ITU": "T,U",
+      "Student Materials": "",
+      "S-Download": "",
+      "Student's Tasks": "",
+      "URLs": ""
+    },
+    {
+      "Session": "13",
+      "Topic": "Quiz 1 (chapter 1 -5) & Progress Group Assignment 2",
+      "Learning-Teaching Type": "Offline",
+      "LO": "",
+      "ITU": "",
+      "Student Materials": "",
+      "S-Download": "",
+      "Student's Tasks": "",
+      "URLs": ""
+    },
+    {
+      "Session": "14",
+      "Topic": "Chapter 6: Beer - A brief history of beer Types of beer Storing beer & serving beer Liquor supplies Service accessories Opening the “bank” & closing the bar Practical Learning - The process of preparation, presentation, and service of a type of beer",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO4, LO5, LO6, LO7",
+      "ITU": "T,U",
+      "Student Materials": "",
+      "S-Download": "",
+      "Student's Tasks": "",
+      "URLs": ""
+    },
+    {
+      "Session": "15",
+      "Topic": "Chapter 6: Beer - A brief history of beer Types of beer Storing beer & serving beer Liquor supplies Service accessories Opening the “bank” & closing the bar Practical Learning - The process of preparation, presentation, and service of a type of beer",
+      "Learning-Teaching Type": "Offline",
+      "LO": "",
+      "ITU": "",
+      "Student Materials": "",
+      "S-Download": "",
+      "Student's Tasks": "",
+      "URLs": ""
+    },
+    {
+      "Session": "16",
+      "Topic": "Chapter 7: Mixology - A brief history of mixology - Coffee drinks and hot libations the martini-Manhattan family - Sours and sweet-and-sour cocktails - Shooters and shots - Cream drinks & Tropical drinks - Blended and frozen drinks & Alcohol-free alternatives - Filling drink orders - Developing drink menus and specialty drinks Practical Learning - The process of preparation, presentation, and service of a type of cocktail.",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO4, LO5, LO6, LO7",
+      "ITU": "T,U",
+      "Student Materials": "",
+      "S-Download": "",
+      "Student's Tasks": "",
+      "URLs": ""
+    },
+    {
+      "Session": "17",
+      "Topic": "Chapter 7: Mixology - A brief history of mixology - Coffee drinks and hot libations the martini-Manhattan family - Sours and sweet-and-sour cocktails - Shooters and shots - Cream drinks & Tropical drinks - Blended and frozen drinks & Alcohol-free alternatives - Filling drink orders - Developing drink menus and specialty drinks Practical Learning - The process of preparation, presentation, and service of a type of cocktail.",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO4, LO5, LO6, LO7",
+      "ITU": "T,U",
+      "Student Materials": "",
+      "S-Download": "",
+      "Student's Tasks": "",
+      "URLs": ""
+    },
+    {
+      "Session": "18",
+      "Topic": "Chapter 7: Mixology - A brief history of mixology - Coffee drinks and hot libations the martini-Manhattan family - Sours and sweet-and-sour cocktails - Shooters and shots - Cream drinks & Tropical drinks - Blended and frozen drinks & Alcohol-free alternatives - Filling drink orders - Developing drink menus and specialty drinks Practical Learning - The process of preparation, presentation, and service of a type of cocktail.",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO4, LO5, LO6, LO7",
+      "ITU": "T,U",
+      "Student Materials": "",
+      "S-Download": "",
+      "Student's Tasks": "",
+      "URLs": ""
+    },
+    {
+      "Session": "19",
+      "Topic": "Individual practice 1 & 2",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO3, LO4, LO7, LO8",
+      "ITU": "",
+      "Student Materials": "",
+      "S-Download": "",
+      "Student's Tasks": "",
+      "URLs": ""
+    },
+    {
+      "Session": "20",
+      "Topic": "Individual practice 1 & 2",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO3, LO4, LO7, LO8",
+      "ITU": "",
+      "Student Materials": "",
+      "S-Download": "",
+      "Student's Tasks": "",
+      "URLs": ""
+    },
+    {
+      "Session": "21",
+      "Topic": "Individual practice 1 & 2",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO3, LO4, LO7, LO8",
+      "ITU": "",
+      "Student Materials": "",
+      "S-Download": "",
+      "Student's Tasks": "",
+      "URLs": ""
+    },
+    {
+      "Session": "22",
+      "Topic": "Progress Group Assignment 3",
+      "Learning-Teaching Type": "Offline",
+      "LO": "",
+      "ITU": "",
+      "Student Materials": "",
+      "S-Download": "",
+      "Student's Tasks": "",
+      "URLs": ""
+    },
+    {
+      "Session": "23",
+      "Topic": "Chapter 8: Employee management - Staff positions - Hiring and scheduling - Training the staff - Labor and employment laws - Compensation and benefits - Payroll taxes, benefits, and perquisites",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO9",
+      "ITU": "I,T",
+      "Student Materials": "",
+      "S-Download": "",
+      "Student's Tasks": "",
+      "URLs": ""
+    },
+    {
+      "Session": "24",
+      "Topic": "Chapter 9: Purchasing, receiving, storage, and inventory - Placing & Receiving the liquor order - Storage - Issuing liquor - Inventory - Purchasing bar supplies",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO10",
+      "ITU": "I,T",
+      "Student Materials": "",
+      "S-Download": "",
+      "Student's Tasks": "",
+      "URLs": ""
+    },
+    {
+      "Session": "25",
+      "Topic": "Chapter 9: Purchasing, receiving, storage, and inventory - Placing & Receiving the liquor order - Storage - Issuing liquor - Inventory - Purchasing bar supplies",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO10",
+      "ITU": "I,T",
+      "Student Materials": "",
+      "S-Download": "",
+      "Student's Tasks": "",
+      "URLs": ""
+    },
+    {
+      "Session": "26",
+      "Topic": "Chapter 10: Planning for profit & Managing your bar business - The control phase - Pricing for profit - Establishing product controls, beverage controls & cash controls - Technology at the bar creating a business plan - Marketing a bar business - Protecting and expanding your concept",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO11",
+      "ITU": "I,T",
+      "Student Materials": "",
+      "S-Download": "",
+      "Student's Tasks": "",
+      "URLs": ""
+    },
+    {
+      "Session": "27",
+      "Topic": "Chapter 10: Planning for profit & Managing your bar business - The control phase - Pricing for profit - Establishing product controls, beverage controls & cash controls - Technology at the bar creating a business plan - Marketing a bar business - Protecting and expanding your concept",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO11",
+      "ITU": "I,T",
+      "Student Materials": "",
+      "S-Download": "",
+      "Student's Tasks": "",
+      "URLs": ""
+    },
+    {
+      "Session": "28",
+      "Topic": "Quiz 2 (chapter 6 - 10) & Progress Group Assignment 4",
+      "Learning-Teaching Type": "Offline",
+      "LO": "",
+      "ITU": "",
+      "Student Materials": "",
+      "S-Download": "",
+      "Student's Tasks": "",
+      "URLs": ""
+    },
+    {
+      "Session": "29",
+      "Topic": "GROUP PRESENTATION AND REPORT SUBMISSION",
+      "Learning-Teaching Type": "Offline",
+      "LO": "",
+      "ITU": "",
+      "Student Materials": "",
+      "S-Download": "",
+      "Student's Tasks": "",
+      "URLs": ""
+    },
+    {
+      "Session": "30",
+      "Topic": "GROUP PRESENTATION AND REPORT SUBMISSION",
+      "Learning-Teaching Type": "Offline",
+      "LO": "",
+      "ITU": "",
+      "Student Materials": "",
+      "S-Download": "",
+      "Student's Tasks": "",
+      "URLs": ""
+    }
+  ],
+  "constructive_questions": [],
+  "materials": [
+    {
+      "No.": "1",
+      "Material Description": "The bar and beverage book",
+      "Author": "Costa, K., & Chris, T",
+      "Publisher": "John Wiley & Sons, Inc",
+      "Published Date": "2012",
+      "Edition": "5th",
+      "ISBN": "",
+      "Is Main Material": "True",
+      "Is Hard Copy": "True",
+      "Is Online": "False",
+      "Note": ""
+    }
+  ],
+  "source_path": "data/raw/syllabi/1429.html",
+  "id": "syllabus:1429"
+}

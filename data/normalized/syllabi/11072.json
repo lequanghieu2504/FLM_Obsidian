@@ -1,0 +1,1194 @@
+{
+  "syllabus_id": 11072,
+  "subject_code": "PRN231",
+  "subject_name": "Building Cross-Platform Back-End Application With .NET_Xây dựng ứng dụng back-end với .NET",
+  "syllabus_name": "Building Cross-Platform Back-End Application With .NET_Xây dựng ứng dụng back-end với With .NET",
+  "credits": 3,
+  "degree_level": "Bachelor",
+  "time_allocation": "Study hour (150h) = 49.5h contact hours + 1h final exam + 85' practical exam + 99.5h self-study",
+  "prerequisite": "PRN221 ( BUILDING CROSS-PLATFORM WEB APPLICATION WITH .NET )",
+  "general_information": {
+    "Syllabus ID": "11072",
+    "Syllabus Name": "Building Cross-Platform Back-End Application With .NET_Xây dựng ứng dụng back-end với With .NET",
+    "Course Name English": "Building Cross-Platform Back-End Application With .NET",
+    "Subject Code": "PRN231",
+    "Learning-Teaching Method": "Social Constructivism,In-class lecture,Inquiry-based Teaching",
+    "NoCredit": "3",
+    "Degree Level": "Bachelor",
+    "Time Allocation": "Study hour (150h) = 49.5h contact hours + 1h final exam + 85' practical exam + 99.5h self-study",
+    "Pre-Requisite": "PRN221 ( BUILDING CROSS-PLATFORM WEB APPLICATION WITH .NET )",
+    "Description": "Upon completion of this course students shoud: 1. Understand the followings: • Apply C# language for develop ASP.NET WEB API ( RESTful Service applications ) • Fundamental concepts of .NET Core Platform • Basic knowledge of ASP.NET WEB API on .NET Core • Basic knowledge of RESTful Service and Microservice architecture 2. Be able to: • Develop Cross - platform Back-end application can be used by Desktop or Web applications (Cross - platform) • Develop RESTful Service applications by ASP.NET Web API and Windows Communication Foundation (WCF) • Implement security in the ASP.NET WEB API • Implement sending Ajax request to ASP.NET WEB API • Implement security JWT in ASP.NET Core Web API • Develop Distributed applications based on Microservice architecture 3. Be able to work in team and present group's results",
+    "StudentTasks": "- Students must attend at least 80% of contact sessions in order to be accepted to the final examination. - Student is responsible to do all assigned exercises given by instructor in class or at home and submit on time - Use laptop in class only for learning purpose - Promptly access https://flm.fpt.edu.vn/ for up-to-date course information",
+    "Tools": "- Internet - Visual Studio.NET 2019 version 16.8.3 or later - Platform : .NET 5.0 or later",
+    "Scoring Scale": "10",
+    "DecisionNo MM/dd/yyyy": "358/QĐ-ĐHFPT dated 04/03/2024",
+    "IsApproved": "True",
+    "Note": "",
+    "Is Scored": "True",
+    "MinAvgMarkToPass": "5",
+    "IsActive": "True",
+    "ApprovedDate": "4/3/2024"
+  },
+  "active": true,
+  "approved": true,
+  "decision": "358/QĐ-ĐHFPT dated 04/03/2024",
+  "description": "Upon completion of this course students shoud: 1. Understand the followings: • Apply C# language for develop ASP.NET WEB API ( RESTful Service applications ) • Fundamental concepts of .NET Core Platform • Basic knowledge of ASP.NET WEB API on .NET Core • Basic knowledge of RESTful Service and Microservice architecture 2. Be able to: • Develop Cross - platform Back-end application can be used by Desktop or Web applications (Cross - platform) • Develop RESTful Service applications by ASP.NET Web API and Windows Communication Foundation (WCF) • Implement security in the ASP.NET WEB API • Implement sending Ajax request to ASP.NET WEB API • Implement security JWT in ASP.NET Core Web API • Develop Distributed applications based on Microservice architecture 3. Be able to work in team and present group's results",
+  "learning_outcomes": [
+    {
+      "No.": "1",
+      "CLO Name": "CLO1",
+      "CLO Details": "Describe about .NET Core Platform, and ASP.NET WEB API Architecture"
+    },
+    {
+      "No.": "2",
+      "CLO Name": "CLO2",
+      "CLO Details": "Demonstrate Models, ODATA, Entity Framework Core ,and Media Formatters & Content Negotiation"
+    },
+    {
+      "No.": "3",
+      "CLO Name": "CLO3",
+      "CLO Details": "Demonstrate about and Binding, Validation & Routing and sending AJAX Requests to ASP.NET Web API"
+    },
+    {
+      "No.": "4",
+      "CLO Name": "CLO4",
+      "CLO Details": "Demonstrate about implementing security in RESTful WebService, implementing RESTful Services by WCF, gRPC Services and introduction about Microservices architecture."
+    }
+  ],
+  "assessments": [
+    {
+      "No.": "1",
+      "Category": "Assignment",
+      "Type": "on-going",
+      "Part": "3",
+      "Weight": "10.0%",
+      "Completion Criteria": ">0",
+      "Duration": "16 slots",
+      "CLO": "LO1, LO2, LO3, LO4",
+      "Question Type": "",
+      "No Question": "N/A",
+      "Knowledge and Skill": "",
+      "Grading Guide": "",
+      "Note": "Asm1: LO1 Asm2: LO2 Asm3: LO3, LO4"
+    },
+    {
+      "No.": "2",
+      "Category": "Group Project",
+      "Type": "on-going",
+      "Part": "1",
+      "Weight": "25.0%",
+      "Completion Criteria": ">0",
+      "Duration": "30 slots",
+      "CLO": "LO1, LO2, LO3, LO4, LO5",
+      "Question Type": "",
+      "No Question": "N/A",
+      "Knowledge and Skill": "",
+      "Grading Guide": "",
+      "Note": ""
+    },
+    {
+      "No.": "3",
+      "Category": "Progress test",
+      "Type": "on-going",
+      "Part": "2",
+      "Weight": "10.0%",
+      "Completion Criteria": ">0",
+      "Duration": "30'",
+      "CLO": "LO1, LO2, LO3, LO4",
+      "Question Type": "Multiple choicesMarked by Computer or a suitable format",
+      "No Question": "20/each",
+      "Knowledge and Skill": "",
+      "Grading Guide": "",
+      "Note": "PT 1: LO1 - LO2 PT 2: LO3- LO4 Number of questions for each LOx: 3-8"
+    },
+    {
+      "No.": "4",
+      "Category": "Practical Exam",
+      "Type": "practical exam",
+      "Part": "1",
+      "Weight": "25.0%",
+      "Completion Criteria": ">0",
+      "Duration": "80'",
+      "CLO": "LO1, LO2, LO3, LO4, LO5",
+      "Question Type": "",
+      "No Question": "Manual evaluating",
+      "Knowledge and Skill": "",
+      "Grading Guide": "By exam board",
+      "Note": ""
+    },
+    {
+      "No.": "5",
+      "Category": "Final exam",
+      "Type": "Final exam",
+      "Part": "1",
+      "Weight": "30.0%",
+      "Completion Criteria": "4",
+      "Duration": "60'",
+      "CLO": "LO1, LO2, LO3, LO4, LO5",
+      "Question Type": "",
+      "No Question": "50",
+      "Knowledge and Skill": "All subjects in syllabus",
+      "Grading Guide": "",
+      "Note": "Questions distribution: LO1.x: 5 - 15, LO2.x: 5 - 15, LO3.x: 5 - 15, LO4.x: 5 - 15"
+    }
+  ],
+  "schedule": [
+    {
+      "Session": "1",
+      "Topic": "Course Introduction",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO1",
+      "ITU": "IT",
+      "Student Materials": "https://docs.microsoft.com/en-us/aspnet/core/ web-api/?view=aspnetcore-5.0 ----------------------------------- https://docs.microsoft.com/en-us/aspnet/web-api/",
+      "S-Download": "PRN231",
+      "Student's Tasks": "Study just learned materials, redo sample examples",
+      "URLs": ""
+    },
+    {
+      "Session": "2",
+      "Topic": "Course Introduction - Project Group",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO1",
+      "ITU": "IT",
+      "Student Materials": "https://docs.microsoft.com/en-us/aspnet/core/ web-api/?view=aspnetcore-5.0 ----------------------------------- https://docs.microsoft.com/en-us/aspnet/web-api/",
+      "S-Download": "PRN231",
+      "Student's Tasks": "Study just learned materials, redo sample examples",
+      "URLs": ""
+    },
+    {
+      "Session": "3",
+      "Topic": "Module 01 -Chapter 01: Introduction to ASP.NET Core and RESTful Service",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO1",
+      "ITU": "TU",
+      "Student Materials": "https://docs.microsoft.com/en-us/aspnet/core/ web-api/?view=aspnetcore-5.0 ----------------------------------- https://docs.microsoft.com/en-us/aspnet/web-api/",
+      "S-Download": "",
+      "Student's Tasks": "Study just learned materials, redo sample examples",
+      "URLs": ""
+    },
+    {
+      "Session": "4",
+      "Topic": "Module 01 -Chapter 01: Introduction to ASP.NET Core and RESTful Service",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO1",
+      "ITU": "TU",
+      "Student Materials": "https://docs.microsoft.com/en-us/aspnet/core/ web-api/?view=aspnetcore-5.0 ----------------------------------- https://docs.microsoft.com/en-us/aspnet/web-api/",
+      "S-Download": "",
+      "Student's Tasks": "Study just learned materials, redo sample examples",
+      "URLs": ""
+    },
+    {
+      "Session": "5",
+      "Topic": "Module 01 -Chapter 02: ASP.NET Core Web API and HTTP",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO1",
+      "ITU": "TU",
+      "Student Materials": "https://docs.microsoft.com/en-us/aspnet/core/ web-api/?view=aspnetcore-5.0 ----------------------------------- https://docs.microsoft.com/en-us/aspnet/web-api/",
+      "S-Download": "",
+      "Student's Tasks": "Study just learned materials, redo sample examples",
+      "URLs": ""
+    },
+    {
+      "Session": "6",
+      "Topic": "Module 01 -Chapter 02: ASP.NET Core Web API and HTTP",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO1",
+      "ITU": "TU",
+      "Student Materials": "https://docs.microsoft.com/en-us/aspnet/core/ web-api/?view=aspnetcore-5.0 ----------------------------------- https://docs.microsoft.com/en-us/aspnet/web-api/",
+      "S-Download": "",
+      "Student's Tasks": "Study just learned materials, redo sample examples",
+      "URLs": ""
+    },
+    {
+      "Session": "7",
+      "Topic": "Module 01 -Chapter 02: ASP.NET Core Web API and HTTP",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO1",
+      "ITU": "TU",
+      "Student Materials": "https://docs.microsoft.com/en-us/aspnet/core/ web-api/?view=aspnetcore-5.0 ----------------------------------- https://docs.microsoft.com/en-us/aspnet/web-api/",
+      "S-Download": "",
+      "Student's Tasks": "Study just learned materials, redo sample examples",
+      "URLs": ""
+    },
+    {
+      "Session": "8",
+      "Topic": "Module 02 -Chapter 03: Models in Web AP",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO1",
+      "ITU": "TU",
+      "Student Materials": "https://docs.microsoft.com/en-us/aspnet/core/ web-api/?view=aspnetcore-5.0 ----------------------------------- https://docs.microsoft.com/en-us/aspnet/web-api/",
+      "S-Download": "",
+      "Student's Tasks": "Study just learned materials, redo sample examples",
+      "URLs": ""
+    },
+    {
+      "Session": "9",
+      "Topic": "Module 02 -Chapter 03: Models in Web AP",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO1",
+      "ITU": "TU",
+      "Student Materials": "https://docs.microsoft.com/en-us/aspnet/core/ web-api/?view=aspnetcore-5.0 ----------------------------------- https://docs.microsoft.com/en-us/aspnet/web-api/",
+      "S-Download": "",
+      "Student's Tasks": "Study just learned materials, redo sample examples",
+      "URLs": ""
+    },
+    {
+      "Session": "10",
+      "Topic": "Module 02 -Chapter 03: Models in Web AP",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO1",
+      "ITU": "TU",
+      "Student Materials": "https://docs.microsoft.com/en-us/aspnet/core/ web-api/?view=aspnetcore-5.0 ----------------------------------- https://docs.microsoft.com/en-us/aspnet/web-api/",
+      "S-Download": "",
+      "Student's Tasks": "Study just learned materials, redo sample examples",
+      "URLs": ""
+    },
+    {
+      "Session": "11",
+      "Topic": "Guiding Assignment 01 - Building ASP.NET Web API with Desktop App / Web App",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO2",
+      "ITU": "TU",
+      "Student Materials": "https://docs.microsoft.com/en-us/aspnet/core/ web-api/?view=aspnetcore-5.0 ----------------------------------- https://docs.microsoft.com/en-us/aspnet/web-api/",
+      "S-Download": "",
+      "Student's Tasks": "Study just learned materials, redo sample examples , do Assignment 01 and Project Guide",
+      "URLs": ""
+    },
+    {
+      "Session": "12",
+      "Topic": "Guiding Assignment 01 - Building ASP.NET Web API with Desktop App / Web App",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO2",
+      "ITU": "TU",
+      "Student Materials": "https://docs.microsoft.com/en-us/aspnet/core/ web-api/?view=aspnetcore-5.0 ----------------------------------- https://docs.microsoft.com/en-us/aspnet/web-api/",
+      "S-Download": "",
+      "Student's Tasks": "Study just learned materials, redo sample examples , do Assignment 01 and Project Guide",
+      "URLs": ""
+    },
+    {
+      "Session": "13",
+      "Topic": "Project Assistant - 01",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO2",
+      "ITU": "TU",
+      "Student Materials": "https://docs.microsoft.com/en-us/aspnet/core/ web-api/?view=aspnetcore-5.0 ----------------------------------- https://docs.microsoft.com/en-us/aspnet/web-api/",
+      "S-Download": "",
+      "Student's Tasks": "Study just learned materials, redo sample examples , do Assignment 01 and Project Guide",
+      "URLs": ""
+    },
+    {
+      "Session": "14",
+      "Topic": "Project Assistant - 01",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO2",
+      "ITU": "TU",
+      "Student Materials": "https://docs.microsoft.com/en-us/aspnet/core/ web-api/?view=aspnetcore-5.0 ----------------------------------- https://docs.microsoft.com/en-us/aspnet/web-api/",
+      "S-Download": "",
+      "Student's Tasks": "Study just learned materials, redo sample examples , do Assignment 01 and Project Guide",
+      "URLs": ""
+    },
+    {
+      "Session": "15",
+      "Topic": "Module 02 -Chapter 04: Media Formatters and Content Negotiation",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO2",
+      "ITU": "TU",
+      "Student Materials": "https://docs.microsoft.com/en-us/aspnet/core/ web-api/?view=aspnetcore-5.0 ----------------------------------- https://docs.microsoft.com/en-us/aspnet/web-api/",
+      "S-Download": "",
+      "Student's Tasks": "Study just learned materials, redo sample examples , do Assignment 01 and Project Guide",
+      "URLs": ""
+    },
+    {
+      "Session": "16",
+      "Topic": "Module 02 -Chapter 04: Media Formatters and Content Negotiation",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO2",
+      "ITU": "TU",
+      "Student Materials": "https://docs.microsoft.com/en-us/aspnet/core/ web-api/?view=aspnetcore-5.0 ----------------------------------- https://docs.microsoft.com/en-us/aspnet/web-api/",
+      "S-Download": "",
+      "Student's Tasks": "Study just learned materials, redo sample examples , do Assignment 01 and Project Guide",
+      "URLs": ""
+    },
+    {
+      "Session": "17",
+      "Topic": "Module 02 -Chapter 04: Media Formatters and Content Negotiation",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO2",
+      "ITU": "TU",
+      "Student Materials": "https://docs.microsoft.com/en-us/aspnet/core/ web-api/?view=aspnetcore-5.0 ----------------------------------- https://docs.microsoft.com/en-us/aspnet/web-api/",
+      "S-Download": "",
+      "Student's Tasks": "Study just learned materials, redo sample examples , do Assignment 01 and Project Guide",
+      "URLs": ""
+    },
+    {
+      "Session": "18",
+      "Topic": "Module 02 -Chapter 04: Media Formatters and Content Negotiation",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO2",
+      "ITU": "TU",
+      "Student Materials": "https://docs.microsoft.com/en-us/aspnet/core/ web-api/?view=aspnetcore-5.0 ----------------------------------- https://docs.microsoft.com/en-us/aspnet/web-api/",
+      "S-Download": "",
+      "Student's Tasks": "Study just learned materials, redo sample examples , do Assignment 01 and Project Guide",
+      "URLs": ""
+    },
+    {
+      "Session": "19",
+      "Topic": "Module 02 -Chapter 05: OData in ASP.NET Core Web API",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO2",
+      "ITU": "TU",
+      "Student Materials": "https://docs.microsoft.com/en-us/aspnet/core/ web-api/?view=aspnetcore-5.0 ----------------------------------- https://docs.microsoft.com/en-us/aspnet/web-api/",
+      "S-Download": "",
+      "Student's Tasks": "Study just learned materials, redo sample examples , do Assignment 01 and Project Guide",
+      "URLs": ""
+    },
+    {
+      "Session": "20",
+      "Topic": "Module 02 -Chapter 05: OData in ASP.NET Core Web API",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO2",
+      "ITU": "TU",
+      "Student Materials": "https://docs.microsoft.com/en-us/aspnet/core/ web-api/?view=aspnetcore-5.0 ----------------------------------- https://docs.microsoft.com/en-us/aspnet/web-api/",
+      "S-Download": "",
+      "Student's Tasks": "Study just learned materials, redo sample examples , do Assignment 01 and Project Guide",
+      "URLs": ""
+    },
+    {
+      "Session": "21",
+      "Topic": "Module 02 -Chapter 05: OData in ASP.NET Core Web API",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO2",
+      "ITU": "TU",
+      "Student Materials": "https://docs.microsoft.com/en-us/aspnet/core/ web-api/?view=aspnetcore-5.0 ----------------------------------- https://docs.microsoft.com/en-us/aspnet/web-api/",
+      "S-Download": "",
+      "Student's Tasks": "Study just learned materials, redo sample examples , do Assignment 01 and Project Guide",
+      "URLs": ""
+    },
+    {
+      "Session": "22",
+      "Topic": "Module 02 -Chapter 05: OData in ASP.NET Core Web API",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO2",
+      "ITU": "TU",
+      "Student Materials": "https://docs.microsoft.com/en-us/aspnet/core/ web-api/?view=aspnetcore-5.0 ----------------------------------- https://docs.microsoft.com/en-us/aspnet/web-api/",
+      "S-Download": "",
+      "Student's Tasks": "Study just learned materials, redo sample examples , do Assignment 01 and Project Guide",
+      "URLs": ""
+    },
+    {
+      "Session": "23",
+      "Topic": "Module 02 -Chapter 05: OData in ASP.NET Core Web API",
+      "Learning-Teaching Type": "offline",
+      "LO": "CLO2",
+      "ITU": "TU",
+      "Student Materials": "https://docs.microsoft.com/en-us/aspnet/core/ web-api/?view=aspnetcore-5.0 ----------------------------------- https://docs.microsoft.com/en-us/aspnet/web-api/",
+      "S-Download": "",
+      "Student's Tasks": "Study just learned materials, redo sample examples , do Assignment 01 and Project Guide",
+      "URLs": ""
+    },
+    {
+      "Session": "24",
+      "Topic": "Module 02 -Chapter 05: OData in ASP.NET Core Web API",
+      "Learning-Teaching Type": "offline",
+      "LO": "CLO2",
+      "ITU": "TU",
+      "Student Materials": "https://docs.microsoft.com/en-us/aspnet/core/ web-api/?view=aspnetcore-5.0 ----------------------------------- https://docs.microsoft.com/en-us/aspnet/web-api/",
+      "S-Download": "",
+      "Student's Tasks": "Study just learned materials, redo sample examples , do Assignment 01 and Project Guide",
+      "URLs": ""
+    },
+    {
+      "Session": "25",
+      "Topic": "Guiding Assignment 02 - Building ASP.NET Web API with Entity Framework and Web App",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO2",
+      "ITU": "TU",
+      "Student Materials": "https://docs.microsoft.com/en-us/aspnet/core/ web-api/?view=aspnetcore-5.0 ----------------------------------- https://docs.microsoft.com/en-us/aspnet/web-api/",
+      "S-Download": "",
+      "Student's Tasks": "Study just learned materials, redo sample examples and do Assignment 02",
+      "URLs": ""
+    },
+    {
+      "Session": "26",
+      "Topic": "Progress Test 01",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO2",
+      "ITU": "TU",
+      "Student Materials": "https://docs.microsoft.com/en-us/aspnet/core/ web-api/?view=aspnetcore-5.0 ----------------------------------- https://docs.microsoft.com/en-us/aspnet/web-api/",
+      "S-Download": "",
+      "Student's Tasks": "Study just learned materials, redo sample examples and do Assignment 02",
+      "URLs": ""
+    },
+    {
+      "Session": "27",
+      "Topic": "Module 03 -Chapter 06: Binding, Validation and Routing",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO3",
+      "ITU": "TU",
+      "Student Materials": "https://docs.microsoft.com/en-us/aspnet/core/ web-api/?view=aspnetcore-5.0 ----------------------------------- https://docs.microsoft.com/en-us/aspnet/web-api/",
+      "S-Download": "",
+      "Student's Tasks": "Study just learned materials, redo sample examples and do Assignment 02",
+      "URLs": ""
+    },
+    {
+      "Session": "28",
+      "Topic": "Module 03 -Chapter 06: Binding, Validation and Routing",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO3",
+      "ITU": "TU",
+      "Student Materials": "https://docs.microsoft.com/en-us/aspnet/core/ web-api/?view=aspnetcore-5.0 ----------------------------------- https://docs.microsoft.com/en-us/aspnet/web-api/",
+      "S-Download": "",
+      "Student's Tasks": "Study just learned materials, redo sample examples and do Assignment 02",
+      "URLs": ""
+    },
+    {
+      "Session": "29",
+      "Topic": "Module 03 -Chapter 06: Binding, Validation and Routing",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO3",
+      "ITU": "TU",
+      "Student Materials": "https://docs.microsoft.com/en-us/aspnet/core/ web-api/?view=aspnetcore-5.0 ----------------------------------- https://docs.microsoft.com/en-us/aspnet/web-api/",
+      "S-Download": "",
+      "Student's Tasks": "Study just learned materials, redo sample examples and do Assignment 02",
+      "URLs": ""
+    },
+    {
+      "Session": "30",
+      "Topic": "Module 03 -Chapter 06: Binding, Validation and Routing",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO3",
+      "ITU": "TU",
+      "Student Materials": "https://docs.microsoft.com/en-us/aspnet/core/ web-api/?view=aspnetcore-5.0 ----------------------------------- https://docs.microsoft.com/en-us/aspnet/web-api/",
+      "S-Download": "",
+      "Student's Tasks": "Study just learned materials, redo sample examples and do Assignment 02",
+      "URLs": ""
+    },
+    {
+      "Session": "31",
+      "Topic": "Module 03 -Chapter 07: JavaScript Clients and ASP.NET Web API",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO3",
+      "ITU": "TU",
+      "Student Materials": "https://docs.microsoft.com/en-us/aspnet/core/ web-api/?view=aspnetcore-5.0 ----------------------------------- https://docs.microsoft.com/en-us/aspnet/web-api/",
+      "S-Download": "",
+      "Student's Tasks": "Study just learned materials, redo sample examples and do Assignment 02",
+      "URLs": ""
+    },
+    {
+      "Session": "32",
+      "Topic": "Module 03 -Chapter 07: JavaScript Clients and ASP.NET Web API",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO3",
+      "ITU": "TU",
+      "Student Materials": "https://docs.microsoft.com/en-us/aspnet/core/ web-api/?view=aspnetcore-5.0 ----------------------------------- https://docs.microsoft.com/en-us/aspnet/web-api/",
+      "S-Download": "",
+      "Student's Tasks": "Study just learned materials, redo sample examples and do Assignment 02",
+      "URLs": ""
+    },
+    {
+      "Session": "33",
+      "Topic": "Module 03 -Chapter 07: JavaScript Clients and ASP.NET Web API",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO3",
+      "ITU": "TU",
+      "Student Materials": "https://docs.microsoft.com/en-us/aspnet/core/ web-api/?view=aspnetcore-5.0 ----------------------------------- https://docs.microsoft.com/en-us/aspnet/web-api/",
+      "S-Download": "",
+      "Student's Tasks": "Study just learned materials, redo sample examples and do Assignment 02",
+      "URLs": ""
+    },
+    {
+      "Session": "34",
+      "Topic": "Module 03 -Chapter 07: JavaScript Clients and ASP.NET Web API",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO3",
+      "ITU": "TU",
+      "Student Materials": "https://docs.microsoft.com/en-us/aspnet/core/ web-api/?view=aspnetcore-5.0 ----------------------------------- https://docs.microsoft.com/en-us/aspnet/web-api/",
+      "S-Download": "",
+      "Student's Tasks": "Study just learned materials, redo sample examples and do Assignment 02",
+      "URLs": ""
+    },
+    {
+      "Session": "35",
+      "Topic": "Project Assistant - 02",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO3",
+      "ITU": "TU",
+      "Student Materials": "https://docs.microsoft.com/en-us/aspnet/core/ web-api/?view=aspnetcore-5.0 ----------------------------------- https://docs.microsoft.com/en-us/aspnet/web-api/",
+      "S-Download": "",
+      "Student's Tasks": "Study just learned materials, redo sample examples and do Assignment 02",
+      "URLs": ""
+    },
+    {
+      "Session": "36",
+      "Topic": "Project Assistant - 02",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO3",
+      "ITU": "TU",
+      "Student Materials": "https://docs.microsoft.com/en-us/aspnet/core/ web-api/?view=aspnetcore-5.0 ----------------------------------- https://docs.microsoft.com/en-us/aspnet/web-api/",
+      "S-Download": "",
+      "Student's Tasks": "Study just learned materials, redo sample examples and do Assignment 02",
+      "URLs": ""
+    },
+    {
+      "Session": "37",
+      "Topic": "Module 04 -Chapter 08: Implement security in RESTful WebService",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO4",
+      "ITU": "TU",
+      "Student Materials": "https://docs.microsoft.com/en-us /aspnet/core/web-api/?view=aspnetcore-5.0 ----------------------------------- https://docs.microsoft.com/en-us/aspnet/web-api/",
+      "S-Download": "",
+      "Student's Tasks": "Study just learned materials, redo sample examples and do Assignment 03 and Project Guide",
+      "URLs": ""
+    },
+    {
+      "Session": "38",
+      "Topic": "Module 04 -Chapter 08: Implement security in RESTful WebService",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO4",
+      "ITU": "TU",
+      "Student Materials": "https://docs.microsoft.com/en-us /aspnet/core/web-api/?view=aspnetcore-5.0 ----------------------------------- https://docs.microsoft.com/en-us/aspnet/web-api/",
+      "S-Download": "",
+      "Student's Tasks": "Study just learned materials, redo sample examples and do Assignment 03 and Project Guide",
+      "URLs": ""
+    },
+    {
+      "Session": "39",
+      "Topic": "Module 04 -Chapter 08: Implement security in RESTful WebService",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO4",
+      "ITU": "TU",
+      "Student Materials": "https://docs.microsoft.com/en-us /aspnet/core/web-api/?view=aspnetcore-5.0 ----------------------------------- https://docs.microsoft.com/en-us/aspnet/web-api/",
+      "S-Download": "",
+      "Student's Tasks": "Study just learned materials, redo sample examples and do Assignment 03 and Project Guide",
+      "URLs": ""
+    },
+    {
+      "Session": "40",
+      "Topic": "Module 04 -Chapter 08: Implement security in RESTful WebService",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO4",
+      "ITU": "TU",
+      "Student Materials": "https://docs.microsoft.com/en-us /aspnet/core/web-api/?view=aspnetcore-5.0 ----------------------------------- https://docs.microsoft.com/en-us/aspnet/web-api/",
+      "S-Download": "",
+      "Student's Tasks": "Study just learned materials, redo sample examples and do Assignment 03 and Project Guide",
+      "URLs": ""
+    },
+    {
+      "Session": "41",
+      "Topic": "Module 04 -Chapter 09: Building RESTful Service with Windows Communication Foundation (WCF)",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO4",
+      "ITU": "TU",
+      "Student Materials": "https://docs.microsoft.com/en-us/dotnet/framework/wcf/",
+      "S-Download": "",
+      "Student's Tasks": "Study just learned materials, redo sample examples and do Assignment 03 and Project Guide",
+      "URLs": ""
+    },
+    {
+      "Session": "42",
+      "Topic": "Module 04 -Chapter 09: Building RESTful Service with Windows Communication Foundation (WCF)",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO4",
+      "ITU": "TU",
+      "Student Materials": "https://docs.microsoft.com/en-us/dotnet/framework/wcf/",
+      "S-Download": "",
+      "Student's Tasks": "Study just learned materials, redo sample examples and do Assignment 03 and Project Guide",
+      "URLs": ""
+    },
+    {
+      "Session": "43",
+      "Topic": "Module 04 -Chapter 09: Building RESTful Service with Windows Communication Foundation (WCF)",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO4",
+      "ITU": "TU",
+      "Student Materials": "https://docs.microsoft.com/en-us/dotnet/framework/wcf/",
+      "S-Download": "",
+      "Student's Tasks": "Study just learned materials, redo sample examples and do Assignment 03 and Project Guide",
+      "URLs": ""
+    },
+    {
+      "Session": "44",
+      "Topic": "Module 04 -Chapter 09: Building RESTful Service with Windows Communication Foundation (WCF)",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO4",
+      "ITU": "TU",
+      "Student Materials": "https://docs.microsoft.com/en-us/dotnet/framework/wcf/",
+      "S-Download": "",
+      "Student's Tasks": "Study just learned materials, redo sample examples and do Assignment 03 and Project Guide",
+      "URLs": ""
+    },
+    {
+      "Session": "45",
+      "Topic": "Module 04 -Chapter 09: Building RESTful Service with Windows Communication Foundation (WCF)",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO4",
+      "ITU": "TU",
+      "Student Materials": "https://docs.microsoft.com/en-us/dotnet/framework/wcf/",
+      "S-Download": "",
+      "Student's Tasks": "Study just learned materials, redo sample examples and do Assignment 03 and Project Guide",
+      "URLs": ""
+    },
+    {
+      "Session": "46",
+      "Topic": "Module 04 -Chapter 09: Building RESTful Service with Windows Communication Foundation (WCF)",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO4",
+      "ITU": "TU",
+      "Student Materials": "https://docs.microsoft.com/en-us/dotnet/framework/wcf/",
+      "S-Download": "",
+      "Student's Tasks": "Study just learned materials, redo sample examples and do Assignment 03 and Project Guide",
+      "URLs": ""
+    },
+    {
+      "Session": "47",
+      "Topic": "Guiding Assignment 03 - Apply security, Ajax request with RESTful API and Web App",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO4",
+      "ITU": "TU",
+      "Student Materials": "https://docs.microsoft.com/en-us/dotnet/framework/wcf/",
+      "S-Download": "",
+      "Student's Tasks": "Study just learned materials, redo sample examples and do Assignment 03 and Project Guide",
+      "URLs": ""
+    },
+    {
+      "Session": "48",
+      "Topic": "Guiding Assignment 03 - Apply security, Ajax request with RESTful API and Web App",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO4",
+      "ITU": "TU",
+      "Student Materials": "https://docs.microsoft.com/en-us/dotnet/framework/wcf/",
+      "S-Download": "",
+      "Student's Tasks": "Study just learned materials, redo sample examples and do Assignment 03 and Project Guide",
+      "URLs": ""
+    },
+    {
+      "Session": "49",
+      "Topic": "Module 04 -Chapter 10: Introduction to gRPC Service",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO4",
+      "ITU": "TU",
+      "Student Materials": "https://docs.microsoft.com/en-us/ aspnet/core/grpc/?view=aspnetcore-5.0",
+      "S-Download": "",
+      "Student's Tasks": "Students prepare content according to topics given by lecturers then present and other groups will criticize",
+      "URLs": ""
+    },
+    {
+      "Session": "50",
+      "Topic": "Module 04 -Chapter 10: Introduction to gRPC Service",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO4",
+      "ITU": "TU",
+      "Student Materials": "https://docs.microsoft.com/en-us/ aspnet/core/grpc/?view=aspnetcore-5.0",
+      "S-Download": "",
+      "Student's Tasks": "Students prepare content according to topics given by lecturers then present and other groups will criticize",
+      "URLs": ""
+    },
+    {
+      "Session": "51",
+      "Topic": "Module 04 -Chapter 10: Introduction to gRPC Service",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO4",
+      "ITU": "TU",
+      "Student Materials": "https://docs.microsoft.com/en-us/ aspnet/core/grpc/?view=aspnetcore-5.0",
+      "S-Download": "",
+      "Student's Tasks": "Students prepare content according to topics given by lecturers then present and other groups will criticize",
+      "URLs": ""
+    },
+    {
+      "Session": "52",
+      "Topic": "Module 04 -Chapter 10: Introduction to gRPC Service",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO4",
+      "ITU": "TU",
+      "Student Materials": "https://docs.microsoft.com/en-us/ aspnet/core/grpc/?view=aspnetcore-5.0",
+      "S-Download": "",
+      "Student's Tasks": "Students prepare content according to topics given by lecturers then present and other groups will criticize",
+      "URLs": ""
+    },
+    {
+      "Session": "53",
+      "Topic": "Module 04 -Chapter 11: Introduction to Microservices architecture",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO4",
+      "ITU": "TU",
+      "Student Materials": "https://microservices.io/ ----------------------------------- https://dotnet.microsoft.com/learn/aspnet/microservices-architecture",
+      "S-Download": "",
+      "Student's Tasks": "Students prepare content according to topics given by lecturers then present and other groups will criticize",
+      "URLs": ""
+    },
+    {
+      "Session": "54",
+      "Topic": "Module 04 -Chapter 11: Introduction to Microservices architecture",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO4",
+      "ITU": "TU",
+      "Student Materials": "https://microservices.io/ ----------------------------------- https://dotnet.microsoft.com/learn/aspnet/microservices-architecture",
+      "S-Download": "",
+      "Student's Tasks": "Students prepare content according to topics given by lecturers then present and other groups will criticize",
+      "URLs": ""
+    },
+    {
+      "Session": "55",
+      "Topic": "Project Assistant - 03",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO4",
+      "ITU": "TU",
+      "Student Materials": "https://microservices.io/ ----------------------------------- https://dotnet.microsoft.com/learn/aspnet/microservices-architecture",
+      "S-Download": "",
+      "Student's Tasks": "Students prepare content according to topics given by lecturers then present and other groups will criticize",
+      "URLs": ""
+    },
+    {
+      "Session": "56",
+      "Topic": "Progress Test 02",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO4",
+      "ITU": "TU",
+      "Student Materials": "https://microservices.io/ ----------------------------------- https://dotnet.microsoft.com/learn/aspnet/microservices-architecture",
+      "S-Download": "",
+      "Student's Tasks": "Students prepare content according to topics given by lecturers then present and other groups will criticize",
+      "URLs": ""
+    },
+    {
+      "Session": "57",
+      "Topic": "Project Evaluation",
+      "Learning-Teaching Type": "Offline",
+      "LO": "",
+      "ITU": "",
+      "Student Materials": "",
+      "S-Download": "",
+      "Student's Tasks": "",
+      "URLs": ""
+    },
+    {
+      "Session": "58",
+      "Topic": "Project Evaluation",
+      "Learning-Teaching Type": "Offline",
+      "LO": "",
+      "ITU": "",
+      "Student Materials": "",
+      "S-Download": "",
+      "Student's Tasks": "",
+      "URLs": ""
+    },
+    {
+      "Session": "59",
+      "Topic": "Project Evaluation",
+      "Learning-Teaching Type": "Offline",
+      "LO": "",
+      "ITU": "",
+      "Student Materials": "",
+      "S-Download": "",
+      "Student's Tasks": "",
+      "URLs": ""
+    },
+    {
+      "Session": "60",
+      "Topic": "Project Evaluation",
+      "Learning-Teaching Type": "Offline",
+      "LO": "",
+      "ITU": "",
+      "Student Materials": "",
+      "S-Download": "",
+      "Student's Tasks": "",
+      "URLs": ""
+    },
+    {
+      "Session": "61",
+      "Topic": "Project Evaluation (Extra Time)",
+      "Learning-Teaching Type": "Offline",
+      "LO": "",
+      "ITU": "",
+      "Student Materials": "",
+      "S-Download": "",
+      "Student's Tasks": "",
+      "URLs": ""
+    },
+    {
+      "Session": "62",
+      "Topic": "Project Evaluation (Extra Time)",
+      "Learning-Teaching Type": "Offline",
+      "LO": "",
+      "ITU": "",
+      "Student Materials": "",
+      "S-Download": "",
+      "Student's Tasks": "",
+      "URLs": ""
+    },
+    {
+      "Session": "63",
+      "Topic": "Review (Extra Time)",
+      "Learning-Teaching Type": "Offline",
+      "LO": "All LOs",
+      "ITU": "",
+      "Student Materials": "",
+      "S-Download": "",
+      "Student's Tasks": "",
+      "URLs": ""
+    },
+    {
+      "Session": "64",
+      "Topic": "Review (Extra Time)",
+      "Learning-Teaching Type": "Offline",
+      "LO": "All LOs",
+      "ITU": "",
+      "Student Materials": "",
+      "S-Download": "",
+      "Student's Tasks": "",
+      "URLs": ""
+    },
+    {
+      "Session": "65",
+      "Topic": "Review (Extra Time)",
+      "Learning-Teaching Type": "Offline",
+      "LO": "All LOs",
+      "ITU": "",
+      "Student Materials": "",
+      "S-Download": "",
+      "Student's Tasks": "",
+      "URLs": ""
+    },
+    {
+      "Session": "66",
+      "Topic": "Review (Extra Time)",
+      "Learning-Teaching Type": "Offline",
+      "LO": "All LOs",
+      "ITU": "",
+      "Student Materials": "",
+      "S-Download": "",
+      "Student's Tasks": "",
+      "URLs": ""
+    }
+  ],
+  "constructive_questions": [
+    {
+      "No.": "1",
+      "Session No": "1",
+      "Name": "CQ1.1",
+      "Details": "What are the main functions and techniques applied in your PRN221 subject group project?"
+    },
+    {
+      "No.": "2",
+      "Session No": "2",
+      "Name": "CQ1.2",
+      "Details": "What techniques will be learned in PRN231, which are advanced, which are new to you?"
+    },
+    {
+      "No.": "3",
+      "Session No": "3",
+      "Name": "CQ1.3",
+      "Details": "What is RESTful Web Service, what are the basic characteristics to know?"
+    },
+    {
+      "No.": "4",
+      "Session No": "4",
+      "Name": "CQ2.1",
+      "Details": "What are the similarities and differences between RESTful Web Service and the services you have learned before? What is the use case?"
+    },
+    {
+      "No.": "5",
+      "Session No": "5",
+      "Name": "CQ2.2",
+      "Details": "What is ASP.NET Core Web API? What is the difference between ASP.NET Web API and ASP.NET Core?"
+    },
+    {
+      "No.": "6",
+      "Session No": "6",
+      "Name": "CQ2.3",
+      "Details": "What are the advantages and suitable situations to adopt ASP.NET Core Web API?"
+    },
+    {
+      "No.": "7",
+      "Session No": "7",
+      "Name": "CQ3.1",
+      "Details": "What are the basic steps to know when using ASP.NET Core Web API?"
+    },
+    {
+      "No.": "8",
+      "Session No": "8",
+      "Name": "CQ3.2",
+      "Details": "What is the role of model in web API?"
+    },
+    {
+      "No.": "9",
+      "Session No": "9",
+      "Name": "CQ3.3",
+      "Details": "What is ORM? What is EF Core? What are the advantages of using EF Core?"
+    },
+    {
+      "No.": "10",
+      "Session No": "16",
+      "Name": "CQ6.1",
+      "Details": "What are the commonly used data formats when storing and transmitting on a network? For example?"
+    },
+    {
+      "No.": "11",
+      "Session No": "17",
+      "Name": "CQ6.2",
+      "Details": "What are the similarities and differences between the data formats? What is the right use case for each data format?"
+    },
+    {
+      "No.": "12",
+      "Session No": "18",
+      "Name": "CQ6.3",
+      "Details": "In your opinion, which data format is the best? Why? Try drawing a data format of your own?"
+    },
+    {
+      "No.": "13",
+      "Session No": "19",
+      "Name": "CQ7.1",
+      "Details": "What is OData (Open Data Protocol)? What is the highlight of OData compared to traditional Data?"
+    },
+    {
+      "No.": "14",
+      "Session No": "20",
+      "Name": "CQ7.2",
+      "Details": "What are OData Feature Areas?"
+    },
+    {
+      "No.": "15",
+      "Session No": "21",
+      "Name": "CQ7.3",
+      "Details": "What is OData Protocol?"
+    },
+    {
+      "No.": "16",
+      "Session No": "22",
+      "Name": "CQ8.1",
+      "Details": "How does OData request?"
+    },
+    {
+      "No.": "17",
+      "Session No": "23",
+      "Name": "CQ8.2",
+      "Details": "How is OData modified?"
+    },
+    {
+      "No.": "18",
+      "Session No": "24",
+      "Name": "CQ8.3",
+      "Details": "What are the basic steps to remember when using OData in ASP.NET Core Web API?"
+    },
+    {
+      "No.": "19",
+      "Session No": "28",
+      "Name": "CQ10.1",
+      "Details": "What is Model Validation?"
+    },
+    {
+      "No.": "20",
+      "Session No": "29",
+      "Name": "CQ10.2",
+      "Details": "What is Routing in ASP.NET Core Web API, in which situations should it apply?"
+    },
+    {
+      "No.": "21",
+      "Session No": "30",
+      "Name": "CQ10.3",
+      "Details": "What are the basic points to remember when building ASP.NET Core Web API with Validation and Routing?"
+    },
+    {
+      "No.": "22",
+      "Session No": "31",
+      "Name": "CQ11.1",
+      "Details": "What is JavaScript?"
+    },
+    {
+      "No.": "23",
+      "Session No": "32",
+      "Name": "CQ11.2",
+      "Details": "How to use JavaScript in ASP Web API?"
+    },
+    {
+      "No.": "24",
+      "Session No": "33",
+      "Name": "CQ11.3",
+      "Details": "What is jQuery? How to use jQuery?"
+    },
+    {
+      "No.": "25",
+      "Session No": "37",
+      "Name": "CQ13.1",
+      "Details": "How to Implement security in RESTful WebService"
+    },
+    {
+      "No.": "26",
+      "Session No": "38",
+      "Name": "CQ13.2",
+      "Details": "Why does security matter?"
+    },
+    {
+      "No.": "27",
+      "Session No": "39",
+      "Name": "CQ13.3",
+      "Details": "How many type of scaling RESTful WebService? What are they?"
+    },
+    {
+      "No.": "28",
+      "Session No": "40",
+      "Name": "CQ14.1",
+      "Details": "What is Authentication vs Authorization? How to Implement Authentication vs Authorization in RESTful WebService?"
+    },
+    {
+      "No.": "29",
+      "Session No": "41",
+      "Name": "CQ14.2",
+      "Details": "What Is Windows Communication Foundation? Why do we need? its feature and architecture?"
+    },
+    {
+      "No.": "30",
+      "Session No": "42",
+      "Name": "CQ14.3",
+      "Details": "How many type of contracts in WCF? What are they?"
+    },
+    {
+      "No.": "31",
+      "Session No": "43",
+      "Name": "CQ15.1",
+      "Details": "How many type of binding? What are they?"
+    },
+    {
+      "No.": "32",
+      "Session No": "44",
+      "Name": "CQ15.2",
+      "Details": "How many ways are there to host WCF Service?"
+    },
+    {
+      "No.": "33",
+      "Session No": "45",
+      "Name": "CQ15.3",
+      "Details": "How to implement WCF and consume it from ASP.NET MVC?"
+    },
+    {
+      "No.": "34",
+      "Session No": "53",
+      "Name": "CQ18.1",
+      "Details": "What is gRPC? its benefits? Why do we need gRPC?"
+    },
+    {
+      "No.": "35",
+      "Session No": "54",
+      "Name": "CQ18.2",
+      "Details": "What is protobuf? roles of protobuf in gRPC? its architecture?"
+    },
+    {
+      "No.": "36",
+      "Session No": "54",
+      "Name": "CQ18.3",
+      "Details": "What is protobuf? roles of protobuf in gRPC? its architecture? its lifecycle?"
+    },
+    {
+      "No.": "37",
+      "Session No": "55",
+      "Name": "CQ19.1",
+      "Details": "What are different between gRPC and HTTP API?"
+    },
+    {
+      "No.": "38",
+      "Session No": "56",
+      "Name": "CQ19.2",
+      "Details": "What are Microservices? Their attribute? And What are their benefits?"
+    },
+    {
+      "No.": "39",
+      "Session No": "57",
+      "Name": "CQ19.3",
+      "Details": "How many type of communication in Microservices? What are they?"
+    }
+  ],
+  "materials": [
+    {
+      "No.": "1",
+      "Material Description": "Creating ASP.NET Core Web Applications",
+      "Author": "Dirk Strauss",
+      "Publisher": "Apress",
+      "Published Date": "2021",
+      "Edition": "1st",
+      "ISBN": "978-1-4842-6828-5",
+      "Is Main Material": "False",
+      "Is Hard Copy": "True",
+      "Is Online": "False",
+      "Note": ""
+    },
+    {
+      "No.": "2",
+      "Material Description": "Building RESTful Web services with .NET Core",
+      "Author": "Gaurav AroraaTadit Dash",
+      "Publisher": "Packt Publishing",
+      "Published Date": "2018",
+      "Edition": "1st",
+      "ISBN": "978-1-78829-157-6",
+      "Is Main Material": "False",
+      "Is Hard Copy": "True",
+      "Is Online": "False",
+      "Note": ""
+    },
+    {
+      "No.": "3",
+      "Material Description": "C# 9 and .NET 5 – Modern Cross-Platform Development - Fifth Edition",
+      "Author": "Mark J.Price",
+      "Publisher": "Packt",
+      "Published Date": "2021",
+      "Edition": "5th",
+      "ISBN": "978-1800568105",
+      "Is Main Material": "False",
+      "Is Hard Copy": "True",
+      "Is Online": "False",
+      "Note": ""
+    },
+    {
+      "No.": "4",
+      "Material Description": "Beginning Database Programming Using ASP.NET Core 3",
+      "Author": "Bipin Joshi",
+      "Publisher": "Apress",
+      "Published Date": "2019",
+      "Edition": "1st",
+      "ISBN": "978-1-4842-5509-4",
+      "Is Main Material": "False",
+      "Is Hard Copy": "True",
+      "Is Online": "False",
+      "Note": ""
+    },
+    {
+      "No.": "5",
+      "Material Description": "https://docs.microsoft.com/en-us/dotnet/core/introduction",
+      "Author": "Microsoft",
+      "Publisher": "Microsoft",
+      "Published Date": "N/A",
+      "Edition": "",
+      "ISBN": "",
+      "Is Main Material": "True",
+      "Is Hard Copy": "False",
+      "Is Online": "True",
+      "Note": ""
+    },
+    {
+      "No.": "6",
+      "Material Description": "Course slides (.pptx)",
+      "Author": "",
+      "Publisher": "",
+      "Published Date": "",
+      "Edition": "",
+      "ISBN": "",
+      "Is Main Material": "False",
+      "Is Hard Copy": "False",
+      "Is Online": "False",
+      "Note": "Bản mềm, tài liệu xây dựng bởi FU"
+    },
+    {
+      "No.": "7",
+      "Material Description": "Assignments and Hands-on Labs",
+      "Author": "",
+      "Publisher": "",
+      "Published Date": "",
+      "Edition": "",
+      "ISBN": "",
+      "Is Main Material": "False",
+      "Is Hard Copy": "False",
+      "Is Online": "False",
+      "Note": "Bản mềm, tài liệu xây dựng bởi FU"
+    }
+  ],
+  "source_path": "data/raw/syllabi/11072.html",
+  "id": "syllabus:11072"
+}

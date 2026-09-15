@@ -1,0 +1,307 @@
+{
+  "syllabus_id": 12653,
+  "subject_code": "EDT202c",
+  "subject_name": "Emerging Digital Technologies_Công nghệ số mới nổi",
+  "syllabus_name": "Emerging Digital Technologies_Công nghệ số mới nổi",
+  "credits": 3,
+  "degree_level": "Bachelor",
+  "time_allocation": "Study hour (150h) = 83h online + 3h offline + 1h final exam + 63h self-study",
+  "prerequisite": "",
+  "general_information": {
+    "Syllabus ID": "12653",
+    "Syllabus Name": "Emerging Digital Technologies_Công nghệ số mới nổi",
+    "Course Name English": "Emerging Digital Technologies",
+    "Subject Code": "EDT202c",
+    "Learning-Teaching Method": "Blended,Online,Active learning, Discussion",
+    "NoCredit": "3",
+    "Degree Level": "Bachelor",
+    "Time Allocation": "Study hour (150h) = 83h online + 3h offline + 1h final exam + 63h self-study",
+    "Pre-Requisite": "",
+    "Description": "This course is intended for researchers and business experts seeking state-of-the-art knowledge in advanced science and technology. The course covers details on Big Data (Hadoop, Spark, Storm), Smartphones, Smart Watches, Android, iOS, CPU/GPU/SoC, Mobile Communications (1G to 5G), Sensors, IoT, Wi-Fi, Bluetooth, LP-WAN, Cloud Computing, AR (Augmented Reality), Skype, YouTube, H.264/MPEG-4 AVC, MPEG-DASH, CDN, and Video Streaming Services. The Specialization includes projects on Big Data using IBM SPSS Statistics, AR applications, Cloud Computing using AWS (Amazon Web Service) EC2 (Elastic Compute Cloud), and Smartphone applications to analyze mobile communication, Wi-Fi, and Bluetooth networks.",
+    "StudentTasks": "1. Complete the online courses and get all course certifications to be allowed to take Final Exam 2. Final Exam included Final Theory Exam (TE): 100% 3. Students who complete all MOOCs before the course deadline will receive 1 bonus point; otherwise, no bonus point will be awarded. 4. Completion Criteria: Final TE Score >=4 & (Final TE Score + bonus) >= 5",
+    "Tools": "- Internet",
+    "Scoring Scale": "10",
+    "DecisionNo MM/dd/yyyy": "359/QĐ-ĐHFPT dated 04/09/2025",
+    "IsApproved": "True",
+    "Note": "",
+    "Is Scored": "True",
+    "MinAvgMarkToPass": "5",
+    "IsActive": "True",
+    "ApprovedDate": "4/9/2025"
+  },
+  "active": true,
+  "approved": true,
+  "decision": "359/QĐ-ĐHFPT dated 04/09/2025",
+  "description": "This course is intended for researchers and business experts seeking state-of-the-art knowledge in advanced science and technology. The course covers details on Big Data (Hadoop, Spark, Storm), Smartphones, Smart Watches, Android, iOS, CPU/GPU/SoC, Mobile Communications (1G to 5G), Sensors, IoT, Wi-Fi, Bluetooth, LP-WAN, Cloud Computing, AR (Augmented Reality), Skype, YouTube, H.264/MPEG-4 AVC, MPEG-DASH, CDN, and Video Streaming Services. The Specialization includes projects on Big Data using IBM SPSS Statistics, AR applications, Cloud Computing using AWS (Amazon Web Service) EC2 (Elastic Compute Cloud), and Smartphone applications to analyze mobile communication, Wi-Fi, and Bluetooth networks.",
+  "learning_outcomes": [
+    {
+      "No.": "1",
+      "CLO Name": "CLO1",
+      "CLO Details": "Know Emerging Technologies and how companies and individuals use these technologies in advantage of their works and lives"
+    },
+    {
+      "No.": "2",
+      "CLO Name": "CLO2",
+      "CLO Details": "Know how big data analysis is possible based on the world’s most popular three big data technologies Hadoop, Spark, and Storm"
+    },
+    {
+      "No.": "3",
+      "CLO Name": "CLO3",
+      "CLO Details": "Practice data analysis with one of the most famous and widely used big data statistical analysis systems in the world - the IBM SPSS Statistics"
+    },
+    {
+      "No.": "4",
+      "CLO Name": "CLO4",
+      "CLO Details": "Explain the core technology and components of the world’s most popular smartphones (i.e., the Samsung Galaxy Note8 and Apple iPhone X) and smart watches (i.e., Samsung Gear S3 and the Apple Watch Series 3), along with details of the iOS and Android smartphone OSs (Operating Systems) and mobile communications 1G to 5G"
+    },
+    {
+      "No.": "5",
+      "CLO Name": "CLO5",
+      "CLO Details": "Know the core technologies and platforms of IoT and Clouds, including the start-of-the-art IoT and wireless networks and Cloud technologies"
+    },
+    {
+      "No.": "6",
+      "CLO Name": "CLO6",
+      "CLO Details": "Analyze Bluetooth and W-Fi wireless networks and setup and use an EC2 (Elastic Compute Cloud) Virtual Computer in AWS (Amazon Web Service)"
+    },
+    {
+      "No.": "7",
+      "CLO Name": "CLO7",
+      "CLO Details": "Know the core technologies used in state-of-the-art AR, Skype, and YouTube video and multimedia products and services, including the advanced video and real-time multimedia delivery mechanisms based on H.264/MPEG-4 AVC, MPEG-DASH, CDN, and mobile CDN"
+    }
+  ],
+  "assessments": [
+    {
+      "No.": "1",
+      "Category": "TE",
+      "Type": "Final exam",
+      "Part": "1",
+      "Weight": "100.0%",
+      "Completion Criteria": "4",
+      "Duration": "60'",
+      "CLO": "All Los",
+      "Question Type": "Multiple choicesMarked by Computer",
+      "No Question": "50",
+      "Knowledge and Skill": "All studied courses. Each module of course contributes 3-5 questions.",
+      "Grading Guide": "by exam board, using computer",
+      "Note": "Customized from the quizzes of this specialization. 1st Evaluation: For students who completed & got Coursera's specialization certificates (Option at week 7 or 8); 2nd Evaluation: For students who completed & got Coursera's specialization certificates) at week 13; 3rd Evaluation: For students who completed & got Coursera's specialization certificates) at week 14."
+    }
+  ],
+  "schedule": [
+    {
+      "Session": "1",
+      "Topic": "Big Data Emerging Technologies - Big Data Rankings & Products - Big Data & Hadoop",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO1, LO2, LO3",
+      "ITU": "ITU",
+      "Student Materials": "",
+      "S-Download": "",
+      "Student's Tasks": "Complete Week 1, 2 of the course Big Data Emerging Technologies",
+      "URLs": ""
+    },
+    {
+      "Session": "2",
+      "Topic": "- Spark - Spark ML & Streaming - Storm",
+      "Learning-Teaching Type": "Online",
+      "LO": "LO1, LO2, LO3",
+      "ITU": "TU",
+      "Student Materials": "",
+      "S-Download": "",
+      "Student's Tasks": "Complete Week 3, 4, 5 of the course Big Data Emerging Technologies",
+      "URLs": ""
+    },
+    {
+      "Session": "3",
+      "Topic": "- IBM SPSS Statistics Project",
+      "Learning-Teaching Type": "Online",
+      "LO": "LO1, LO2, LO3",
+      "ITU": "TU",
+      "Student Materials": "",
+      "S-Download": "",
+      "Student's Tasks": "Study Week 6 of the course Big Data Emerging Technologies: IBM SPSS Statistics Project",
+      "URLs": ""
+    },
+    {
+      "Session": "4",
+      "Topic": "- IBM SPSS Statistics Project",
+      "Learning-Teaching Type": "Online",
+      "LO": "LO1, LO2, LO3",
+      "ITU": "I",
+      "Student Materials": "",
+      "S-Download": "",
+      "Student's Tasks": "Complete Week 6 of the course Big Data Emerging Technologies: IBM SPSS Statistics Project",
+      "URLs": ""
+    },
+    {
+      "Session": "5",
+      "Topic": "Smart Device & Mobile Emerging Technologies - Mobile Business Rankings & Analysis - Smart Devices",
+      "Learning-Teaching Type": "Online",
+      "LO": "LO1, LO4",
+      "ITU": "TU",
+      "Student Materials": "",
+      "S-Download": "",
+      "Student's Tasks": "Complete Week 1, 2 of the course Smart Device & Mobile Emerging Technologies",
+      "URLs": ""
+    },
+    {
+      "Session": "6",
+      "Topic": "- Mobile Communications - 4G & 5G Mobile Technology - Smartphone Oss",
+      "Learning-Teaching Type": "Online",
+      "LO": "LO1, LO4",
+      "ITU": "TU",
+      "Student Materials": "",
+      "S-Download": "",
+      "Student's Tasks": "Complete Week 3, 4, 5 of the course Smart Device & Mobile Emerging Technologies",
+      "URLs": ""
+    },
+    {
+      "Session": "7",
+      "Topic": "- Smartphone & Mobile Network Project",
+      "Learning-Teaching Type": "Online",
+      "LO": "LO1, LO4",
+      "ITU": "TU",
+      "Student Materials": "",
+      "S-Download": "",
+      "Student's Tasks": "Study Week 6 of the course Data Communications and Network Services: Smartphone & Mobile Network Project",
+      "URLs": ""
+    },
+    {
+      "Session": "8",
+      "Topic": "- Smartphone & Mobile Network Project",
+      "Learning-Teaching Type": "Online",
+      "LO": "LO1, LO4",
+      "ITU": "I",
+      "Student Materials": "",
+      "S-Download": "",
+      "Student's Tasks": "Complete Week 6 of the course Data Communications and Network Services: Smartphone & Mobile Network Project",
+      "URLs": ""
+    },
+    {
+      "Session": "9",
+      "Topic": "IoT (Internet of Things) Wireless & Cloud Computing Emerging Technologies - IoT Business & Products - IoT Architecture & Technologies - IoT Networks",
+      "Learning-Teaching Type": "Online",
+      "LO": "LO1, LO5, LO6",
+      "ITU": "TU",
+      "Student Materials": "",
+      "S-Download": "",
+      "Student's Tasks": "Complete Week 1, 2, 3 of the course IoT (Internet of Things) Wireless & Cloud Computing Emerging Technologies",
+      "URLs": ""
+    },
+    {
+      "Session": "10",
+      "Topic": "- Wi-Fi & Bluetooth - Cloud Technology - IoT Bluetooth & Wi-Fi and EC2 Cloud Projects",
+      "Learning-Teaching Type": "Offline,Online",
+      "LO": "LO1, LO5, LO6",
+      "ITU": "TU",
+      "Student Materials": "",
+      "S-Download": "",
+      "Student's Tasks": "Complete Week 4, 5, 6 of the course IoT (Internet of Things) Wireless & Cloud Computing Emerging Technologies",
+      "URLs": ""
+    },
+    {
+      "Session": "11",
+      "Topic": "AR (Augmented Reality) & Video Streaming Services Emerging Technologies - AR Applications, Products & Business - AR Technology - SIFT SURF FAST BRIEF ORB BRISK - Skype, YouTube & H.264/MPEG-4 AVC",
+      "Learning-Teaching Type": "Online",
+      "LO": "LO1, LO7",
+      "ITU": "TU",
+      "Student Materials": "",
+      "S-Download": "",
+      "Student's Tasks": "Complete Week 1, 2, 3, 4 of the course AR (Augmented Reality) & Video Streaming Services Emerging Technologies",
+      "URLs": ""
+    },
+    {
+      "Session": "12",
+      "Topic": "- Video Streaming & MPEG-DASH - CDN Video Streaming Technology - AR Smartphone Project Course Review",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO1, LO7",
+      "ITU": "TU",
+      "Student Materials": "",
+      "S-Download": "",
+      "Student's Tasks": "Complete Week 5, 6 of the course AR (Augmented Reality) & Video Streaming Services Emerging Technologies - Deadline of Coursera Completion: End of Friday of the week. All Students should participate in review slot (if any question)",
+      "URLs": ""
+    }
+  ],
+  "constructive_questions": [],
+  "materials": [
+    {
+      "No.": "1",
+      "Material Description": "Spec. Emerging Technologies: From Smartphones to IoT to Big Data Specialization",
+      "Author": "",
+      "Publisher": "Coursera",
+      "Published Date": "",
+      "Edition": "",
+      "ISBN": "",
+      "Is Main Material": "True",
+      "Is Hard Copy": "False",
+      "Is Online": "True",
+      "Note": "https://www.coursera.org/specializations/emerging-technologies"
+    },
+    {
+      "No.": "2",
+      "Material Description": "Help Articles",
+      "Author": "",
+      "Publisher": "Coursera",
+      "Published Date": "",
+      "Edition": "",
+      "ISBN": "",
+      "Is Main Material": "False",
+      "Is Hard Copy": "False",
+      "Is Online": "True",
+      "Note": "https://learner.coursera.help/hc/en-us/articles/208280036-Coursera-Code-of-Conduct"
+    },
+    {
+      "No.": "3",
+      "Material Description": "MOOC 1: Big Data Emerging Technologies",
+      "Author": "",
+      "Publisher": "",
+      "Published Date": "",
+      "Edition": "",
+      "ISBN": "",
+      "Is Main Material": "True",
+      "Is Hard Copy": "False",
+      "Is Online": "True",
+      "Note": "https://www.coursera.org/learn/big-data-emerging-technologies?specialization=emerging-technologies"
+    },
+    {
+      "No.": "4",
+      "Material Description": "MOOC 2: Smart Device & Mobile Emerging Technologies",
+      "Author": "",
+      "Publisher": "",
+      "Published Date": "",
+      "Edition": "",
+      "ISBN": "",
+      "Is Main Material": "True",
+      "Is Hard Copy": "False",
+      "Is Online": "True",
+      "Note": "https://www.coursera.org/learn/smart-device-mobile-emerging-technologies?specialization=emerging-technologies"
+    },
+    {
+      "No.": "5",
+      "Material Description": "MOOC 3: IoT (Internet of Things) Wireless & Cloud Computing Emerging Technologies",
+      "Author": "",
+      "Publisher": "",
+      "Published Date": "",
+      "Edition": "",
+      "ISBN": "",
+      "Is Main Material": "True",
+      "Is Hard Copy": "False",
+      "Is Online": "True",
+      "Note": "https://www.coursera.org/learn/iot-wireless-cloud-computing?specialization=emerging-technologies"
+    },
+    {
+      "No.": "6",
+      "Material Description": "MOOC 4: AR (Augmented Reality) & Video Streaming Services Emerging Technologies",
+      "Author": "",
+      "Publisher": "",
+      "Published Date": "",
+      "Edition": "",
+      "ISBN": "",
+      "Is Main Material": "True",
+      "Is Hard Copy": "False",
+      "Is Online": "True",
+      "Note": "https://www.coursera.org/learn/ar-technologies-video-streaming?specialization=emerging-technologies"
+    }
+  ],
+  "source_path": "data/raw/syllabi/12653.html",
+  "id": "syllabus:12653"
+}

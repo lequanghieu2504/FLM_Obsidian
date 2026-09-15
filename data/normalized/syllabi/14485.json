@@ -1,0 +1,1142 @@
+{
+  "syllabus_id": 14485,
+  "subject_code": "MKT202",
+  "subject_name": "Services Marketing Management_Quản trị Marketing dịch vụ",
+  "syllabus_name": "Services Marketing Management_Quản Trị Marketing Dịch Vụ",
+  "credits": 3,
+  "degree_level": "Bachelor in Business Administration",
+  "time_allocation": "Study hour (150h) = 45h (60 sessions) contact hours + 1h final exam + 104h self-study",
+  "prerequisite": "MKT101",
+  "general_information": {
+    "Syllabus ID": "14485",
+    "Syllabus Name": "Services Marketing Management_Quản Trị Marketing Dịch Vụ",
+    "Course Name English": "Services Marketing Management",
+    "Subject Code": "MKT202",
+    "Learning-Teaching Method": "Lecture, Presentation, Groupwork, Research-based learning, Project-based learning, Social Constructivism",
+    "NoCredit": "3",
+    "Degree Level": "Bachelor in Business Administration",
+    "Time Allocation": "Study hour (150h) = 45h (60 sessions) contact hours + 1h final exam + 104h self-study",
+    "Pre-Requisite": "MKT101",
+    "Description": "This course aims to equip students with the knowledge and skills to distinguish services from goods, manage the extended services marketing mix, evaluate strategies for enhanced service performance, improve service processes and quality, and make ethically responsible decisions in service business contexts. The course is designed for undergraduate Business Administration and Marketing students with foundational marketing knowledge. It covers service characteristics, consumer behavior, positioning, the extended marketing mix, service processes, customer experience, relationship management, service recovery, quality, digital services, and emerging technologies. Learning is supported through case studies, discussions, and individual and group assignments.",
+    "StudentTasks": "- Attend at least 80% of contact hours in order to be accepted to the final examination - Actively participate in class activities - Fulfil tasks given by intructor after class - Use their own laptop in class only for learning purpose - Read the textbook in advance - Access the course website (www.flm.fpt.edu.vn) for up-to-date information and material of the course, for online supports from teachers and other students and for practicing and assessment.",
+    "Tools": "- Generative AI tools (e.g., ChatGPT, Google Gemini, or Microsoft Copilot): For idea generation, scenario analysis, and feedback on proposed solutions. Students must verify AI-generated information and use these tools responsibly. - Google Trends: For exploring customer interests and service-related market trends. - Google Forms and Google Sheets: For collecting and analyzing customer feedback and survey data. - Canva Free: For creating service blueprints, customer journey maps, infographics, and presentations.",
+    "Scoring Scale": "10",
+    "DecisionNo MM/dd/yyyy": "1028/QĐ-ĐHFPT dated 08/21/2026",
+    "IsApproved": "True",
+    "Note": "",
+    "Is Scored": "True",
+    "MinAvgMarkToPass": "5",
+    "IsActive": "True",
+    "ApprovedDate": "8/21/2026"
+  },
+  "active": true,
+  "approved": true,
+  "decision": "1028/QĐ-ĐHFPT dated 08/21/2026",
+  "description": "This course aims to equip students with the knowledge and skills to distinguish services from goods, manage the extended services marketing mix, evaluate strategies for enhanced service performance, improve service processes and quality, and make ethically responsible decisions in service business contexts. The course is designed for undergraduate Business Administration and Marketing students with foundational marketing knowledge. It covers service characteristics, consumer behavior, positioning, the extended marketing mix, service processes, customer experience, relationship management, service recovery, quality, digital services, and emerging technologies. Learning is supported through case studies, discussions, and individual and group assignments.",
+  "learning_outcomes": [
+    {
+      "No.": "1",
+      "CLO Name": "CLO1",
+      "CLO Details": "To identify the differences between goods and services and the implications for marketing in service industries"
+    },
+    {
+      "No.": "2",
+      "CLO Name": "CLO2",
+      "CLO Details": "To manage the marketing mix in service industries"
+    },
+    {
+      "No.": "3",
+      "CLO Name": "CLO3",
+      "CLO Details": "To identify and discuss the different strategic options for enhanced service performance"
+    },
+    {
+      "No.": "4",
+      "CLO Name": "CLO4",
+      "CLO Details": "Understanding service process and management to improve service quality"
+    },
+    {
+      "No.": "5",
+      "CLO Name": "CLO5",
+      "CLO Details": "Demonstrate ethical awareness and reflection in business context"
+    }
+  ],
+  "assessments": [
+    {
+      "No.": "1",
+      "Category": "Class participation and preparation",
+      "Type": "on-going",
+      "Part": "1",
+      "Weight": "10.0%",
+      "Completion Criteria": ">0",
+      "Duration": "",
+      "CLO": "",
+      "Question Type": "Option 2 (For Constructivism Approach only): Follow lecturer's proposal",
+      "No Question": "Option 2 (For Constructivism Approach only): Follow lecturer's proposal",
+      "Knowledge and Skill": "",
+      "Grading Guide": "",
+      "Note": "Participation grade will be given based on students' preparation, and quantity as well as quality of participation in classroom; quality of participation is demonstrated through asking relevant questions, making statements that add to and facilitate class discussion, and builds upon others’ comments."
+    },
+    {
+      "No.": "2",
+      "Category": "Group assignment",
+      "Type": "on-going",
+      "Part": "1",
+      "Weight": "30.0%",
+      "Completion Criteria": ">0",
+      "Duration": "Option 2 (For Constructivism Approach only): Follow lecturer's proposal",
+      "CLO": "LO1, LO2, LO3, LO4, LO5",
+      "Question Type": "Option 1: A group of four or five students will choose to undertake a research project applying the theories of services marketing to a real-life service organisation which you are familiar with, for example, an airline, a bank, a hospital, tourist company, etc. Option 2 (For Constructivism Approach only): Follow lecturer's proposal",
+      "No Question": "Option 1: Maximum length of the group assignment should be 10 pages excluding appendices Option 2 (For Constructivism Approach only): Follow lecturer's proposal",
+      "Knowledge and Skill": "Based on topics of studied units",
+      "Grading Guide": "Group presentation in class room",
+      "Note": "All assignments should be typed and double-spaced with 11-point font, and must be submitted in both soft and hard copy. A deduction of 10% of the assignment mark will be applied for each day of late submission Evaluation will be based on both presentation and written report (reccommended 30%, 70% accordingly)"
+    },
+    {
+      "No.": "3",
+      "Category": "Individual assignment",
+      "Type": "on-going",
+      "Part": "1",
+      "Weight": "20.0%",
+      "Completion Criteria": ">0",
+      "Duration": "Option 2 (For Constructivism Approach only): Follow lecturer's proposal",
+      "CLO": "LO1, LO2, LO5",
+      "Question Type": "Option 1: Students prepare a service diary assignment of your 5 most satisfactory /dissatisfactory service encounters, with both profit and not-for-profit organisations Option 2 (For Constructivism Approach only): Follow lecturer's proposal",
+      "No Question": "Option 1: Maximum length of the individual assignment should be 5 pages excluding appendices. Option 2 (For Constructivism Approach only): Follow lecturer's proposal",
+      "Knowledge and Skill": "Based on topics of studied units",
+      "Grading Guide": "Individual assignment submitted in class",
+      "Note": "All assignments should be typed and double-spaced with 11-point font, and must be submitted in both soft and hard copy. A deduction of 10% of the assignment mark will be applied for each day of late submission"
+    },
+    {
+      "No.": "4",
+      "Category": "Quizzes",
+      "Type": "on-going",
+      "Part": "2",
+      "Weight": "10.0%",
+      "Completion Criteria": ">0",
+      "Duration": "Option 1: 30' each Option 2 (For Constructivism Approach only): Follow lecturer's proposal",
+      "CLO": "LO1, LO2, LO3, LO4",
+      "Question Type": "Option 1: Multiple choice questions, Case study exercises Option 2 (For Constructivism Approach only): Follow lecturer's proposal",
+      "No Question": "Option 1: Appx. 30 Option 2 (For Constructivism Approach only): Follow lecturer's proposal",
+      "Knowledge and Skill": "Quizzes will test for knowledge of subjects in the chapters assigned for that day.",
+      "Grading Guide": "Class room",
+      "Note": "These quizzes will be given at various times during class (beginning, middle or end). Total number of quizzes: 2"
+    },
+    {
+      "No.": "5",
+      "Category": "Final exam",
+      "Type": "Final exam",
+      "Part": "1",
+      "Weight": "30.0%",
+      "Completion Criteria": "4",
+      "Duration": "60'",
+      "CLO": "LO1, LO2, LO3, LO4",
+      "Question Type": "Multiple choice questions. Other types of questions may be included.",
+      "No Question": "50",
+      "Knowledge and Skill": "The question will cover the lectures, class discussions, activities, exercises, and textbook.",
+      "Grading Guide": "Exam room",
+      "Note": "Closed-book exam."
+    }
+  ],
+  "schedule": [
+    {
+      "Session": "1",
+      "Topic": "Course Introduction",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO1",
+      "ITU": "I,T",
+      "Student Materials": "",
+      "S-Download": "MKT202_Group and Indi ASM example",
+      "Student's Tasks": "",
+      "URLs": ""
+    },
+    {
+      "Session": "2",
+      "Topic": "Chapter 1: Introduction to Services Marketing - Why study service",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO1",
+      "ITU": "I,T",
+      "Student Materials": "",
+      "S-Download": "MKT202_AI use guide",
+      "Student's Tasks": "",
+      "URLs": ""
+    },
+    {
+      "Session": "3",
+      "Topic": "Chapter 1: Introduction to Services Marketing - What are services - Four broad category of services - a process perspective",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO1",
+      "ITU": "I,T",
+      "Student Materials": "",
+      "S-Download": "MKT202_Slides Chap 1-15",
+      "Student's Tasks": "",
+      "URLs": ""
+    },
+    {
+      "Session": "4",
+      "Topic": "Chapter 1: Introduction to Services Marketing - Service's marketing challenges - The extended marketing mix",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO1",
+      "ITU": "T,U",
+      "Student Materials": "",
+      "S-Download": "",
+      "Student's Tasks": "",
+      "URLs": ""
+    },
+    {
+      "Session": "5",
+      "Topic": "Chapter 2: Understanding Service Consumers - The Three-Stage Model of Service Consumption - Pre-purchase stage",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO1",
+      "ITU": "I,T",
+      "Student Materials": "",
+      "S-Download": "",
+      "Student's Tasks": "",
+      "URLs": ""
+    },
+    {
+      "Session": "6",
+      "Topic": "Chapter 2: Understanding Service Consumers - Service encounter stage",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO1",
+      "ITU": "I,T",
+      "Student Materials": "",
+      "S-Download": "",
+      "Student's Tasks": "",
+      "URLs": ""
+    },
+    {
+      "Session": "7",
+      "Topic": "Chapter 2: Understanding Service Consumers - Post-encounter stage",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO1",
+      "ITU": "T,U",
+      "Student Materials": "",
+      "S-Download": "",
+      "Student's Tasks": "",
+      "URLs": ""
+    },
+    {
+      "Session": "8",
+      "Topic": "Chapter 3: Positioning Services in Competitive Markets - Four focus strategy - Market segmentation",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO1",
+      "ITU": "I,T",
+      "Student Materials": "",
+      "S-Download": "",
+      "Student's Tasks": "",
+      "URLs": ""
+    },
+    {
+      "Session": "9",
+      "Topic": "Chapter 3: Positioning Services in Competitive Markets - Market positioning strategy - Using positioning map",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO1",
+      "ITU": "I,T",
+      "Student Materials": "",
+      "S-Download": "",
+      "Student's Tasks": "",
+      "URLs": ""
+    },
+    {
+      "Session": "10",
+      "Topic": "Chapter 3: Positioning Services in Competitive Markets - Case study analysis- company positioning strategy",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO1,LO5",
+      "ITU": "I,T,U",
+      "Student Materials": "",
+      "S-Download": "",
+      "Student's Tasks": "",
+      "URLs": ""
+    },
+    {
+      "Session": "11",
+      "Topic": "Chapter 4: Developing Service Products and Brands - The Flower of Service",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO2",
+      "ITU": "I,T",
+      "Student Materials": "",
+      "S-Download": "",
+      "Student's Tasks": "",
+      "URLs": ""
+    },
+    {
+      "Session": "12",
+      "Topic": "Chapter 4: Developing Service Products and Brands - Branding services",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO2",
+      "ITU": "I,T",
+      "Student Materials": "",
+      "S-Download": "",
+      "Student's Tasks": "",
+      "URLs": ""
+    },
+    {
+      "Session": "13",
+      "Topic": "Chapter 4: Developing Service Products and Brands - New Product development strategy",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO2",
+      "ITU": "T,U",
+      "Student Materials": "",
+      "S-Download": "",
+      "Student's Tasks": "",
+      "URLs": ""
+    },
+    {
+      "Session": "14",
+      "Topic": "Guidelines for Individual Assignment",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO2, LO5",
+      "ITU": "T,U",
+      "Student Materials": "",
+      "S-Download": "",
+      "Student's Tasks": "",
+      "URLs": ""
+    },
+    {
+      "Session": "15",
+      "Topic": "Guidelines for Group Assignment",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO2, LO5",
+      "ITU": "T,U",
+      "Student Materials": "",
+      "S-Download": "",
+      "Student's Tasks": "",
+      "URLs": ""
+    },
+    {
+      "Session": "16",
+      "Topic": "Chapter 5: Distributing Service Through Physical and Electronic Channels - What is being distributed? - How should a service be distributed?",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO2",
+      "ITU": "I,T",
+      "Student Materials": "",
+      "S-Download": "",
+      "Student's Tasks": "",
+      "URLs": ""
+    },
+    {
+      "Session": "17",
+      "Topic": "Chapter 5: Distributing Service Through Physical and Electronic Channels - Place decisions - Time decisions",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO2",
+      "ITU": "I,T",
+      "Student Materials": "",
+      "S-Download": "",
+      "Student's Tasks": "",
+      "URLs": ""
+    },
+    {
+      "Session": "18",
+      "Topic": "Chapter 5: Distributing Service Through Physical and Electronic Channels - Role of intermediaries",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO2",
+      "ITU": "T,U",
+      "Student Materials": "",
+      "S-Download": "",
+      "Student's Tasks": "",
+      "URLs": ""
+    },
+    {
+      "Session": "19",
+      "Topic": "Chapter 6: Setting Prices and Implementing Revenue Management - Pricing strategy stands on three foundations",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO2",
+      "ITU": "I,T",
+      "Student Materials": "",
+      "S-Download": "",
+      "Student's Tasks": "",
+      "URLs": ""
+    },
+    {
+      "Session": "20",
+      "Topic": "Chapter 6: Setting Prices and Implementing Revenue Management - Revenue Management - Designing rate fences",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO2",
+      "ITU": "I,T",
+      "Student Materials": "",
+      "S-Download": "",
+      "Student's Tasks": "",
+      "URLs": ""
+    },
+    {
+      "Session": "21",
+      "Topic": "Chapter 6: Setting Prices and Implementing Revenue Management - Fairness and ethical concerns in service pricing",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO2",
+      "ITU": "T,U",
+      "Student Materials": "",
+      "S-Download": "",
+      "Student's Tasks": "",
+      "URLs": ""
+    },
+    {
+      "Session": "22",
+      "Topic": "Chapter 7: Promoting Services and Educating Customers - Integrated Service Marketing Communications - Communication objectives",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO2",
+      "ITU": "I,T",
+      "Student Materials": "",
+      "S-Download": "",
+      "Student's Tasks": "",
+      "URLs": ""
+    },
+    {
+      "Session": "23",
+      "Topic": "Chapter 7: Promoting Services and Educating Customers - Crafting efective service communication message - Service marketing communications mix",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO2",
+      "ITU": "I,T",
+      "Student Materials": "",
+      "S-Download": "",
+      "Student's Tasks": "",
+      "URLs": ""
+    },
+    {
+      "Session": "24",
+      "Topic": "Chapter 7: Promoting Services and Educating Customers - Communication planning - Budgeting - Ethical issues",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO2",
+      "ITU": "T,U",
+      "Student Materials": "",
+      "S-Download": "",
+      "Student's Tasks": "",
+      "URLs": ""
+    },
+    {
+      "Session": "25",
+      "Topic": "Chapter 8: Designing Service Processes - What is a service process? - Flowcharting",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO3",
+      "ITU": "I,T",
+      "Student Materials": "",
+      "S-Download": "",
+      "Student's Tasks": "",
+      "URLs": ""
+    },
+    {
+      "Session": "26",
+      "Topic": "Chapter 8: Designing Service Processes - Service Blueprint - Customer participation",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO3",
+      "ITU": "I,T",
+      "Student Materials": "",
+      "S-Download": "",
+      "Student's Tasks": "",
+      "URLs": ""
+    },
+    {
+      "Session": "27",
+      "Topic": "Chapter 8: Designing Service Processes - Service process redesign - Self-service technologies - Service robots in the fronline",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO3",
+      "ITU": "T,U",
+      "Student Materials": "",
+      "S-Download": "",
+      "Student's Tasks": "",
+      "URLs": ""
+    },
+    {
+      "Session": "28",
+      "Topic": "Quiz 1: Chapter 1 - 8",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO2, LO3, LO4",
+      "ITU": "I,T,U",
+      "Student Materials": "",
+      "S-Download": "",
+      "Student's Tasks": "",
+      "URLs": ""
+    },
+    {
+      "Session": "29",
+      "Topic": "Chapter 9: Balancing Demand Against and Capacity - Understanding demand patterns - Managing Capacity",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO3",
+      "ITU": "I,T",
+      "Student Materials": "",
+      "S-Download": "",
+      "Student's Tasks": "",
+      "URLs": ""
+    },
+    {
+      "Session": "30",
+      "Topic": "Chapter 9: Balancing Demand Against and Capacity - Managing demand",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO4",
+      "ITU": "I,T",
+      "Student Materials": "",
+      "S-Download": "",
+      "Student's Tasks": "",
+      "URLs": ""
+    },
+    {
+      "Session": "31",
+      "Topic": "Chapter 9: Balancing Demand Against and Capacity - Waiting lines and Queuing systems - Reservation systems",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO4",
+      "ITU": "T,U",
+      "Student Materials": "",
+      "S-Download": "",
+      "Student's Tasks": "",
+      "URLs": ""
+    },
+    {
+      "Session": "32",
+      "Topic": "Chapter 10: Crafting the Service Environment - Servicescape - The purposes of service environments",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO4",
+      "ITU": "I,T",
+      "Student Materials": "",
+      "S-Download": "",
+      "Student's Tasks": "",
+      "URLs": ""
+    },
+    {
+      "Session": "33",
+      "Topic": "Chapter 10: Crafting the Service Environment - The theory behind consumer responses to service environment",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO4",
+      "ITU": "I,T",
+      "Student Materials": "",
+      "S-Download": "",
+      "Student's Tasks": "",
+      "URLs": ""
+    },
+    {
+      "Session": "34",
+      "Topic": "Chapter 10: Crafting the Service Environment - Dimensions of service environments - Servicescape design",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO4",
+      "ITU": "T,U",
+      "Student Materials": "",
+      "S-Download": "",
+      "Student's Tasks": "",
+      "URLs": ""
+    },
+    {
+      "Session": "35",
+      "Topic": "Chapter 11: Managing People for Service Advantage - Service employees - Front-line employees",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO4",
+      "ITU": "I,T",
+      "Student Materials": "",
+      "S-Download": "",
+      "Student's Tasks": "",
+      "URLs": ""
+    },
+    {
+      "Session": "36",
+      "Topic": "Chapter 11: Managing People for Service Advantage - Cycles of failure, mediocrity, and success",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO4",
+      "ITU": "I,T",
+      "Student Materials": "",
+      "S-Download": "",
+      "Student's Tasks": "",
+      "URLs": ""
+    },
+    {
+      "Session": "37",
+      "Topic": "Chapter 11: Managing People for Service Advantage - Human Resource Management - Service culture, climate, and leadership",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO4",
+      "ITU": "T,U",
+      "Student Materials": "",
+      "S-Download": "",
+      "Student's Tasks": "",
+      "URLs": ""
+    },
+    {
+      "Session": "38",
+      "Topic": "Chapter 12: Managing Relationships and Building Loyalty - Customer loyalty - Wheel of Loyalty",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO4",
+      "ITU": "I,T",
+      "Student Materials": "",
+      "S-Download": "",
+      "Student's Tasks": "",
+      "URLs": ""
+    },
+    {
+      "Session": "39",
+      "Topic": "Chapter 12: Managing Relationships and Building Loyalty - Building customer loyalty - Loyalty strategies",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO4",
+      "ITU": "I,T",
+      "Student Materials": "",
+      "S-Download": "",
+      "Student's Tasks": "",
+      "URLs": ""
+    },
+    {
+      "Session": "40",
+      "Topic": "Chapter 12: Managing Relationships and Building Loyalty - Customer Relationship Management (CRM)",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO4",
+      "ITU": "T,U",
+      "Student Materials": "",
+      "S-Download": "",
+      "Student's Tasks": "",
+      "URLs": ""
+    },
+    {
+      "Session": "41",
+      "Topic": "Chapter 13: Complaint Handling and Service Recovery - Customer complaining behavior - Customer responses to effective service recovery",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO4",
+      "ITU": "I,T",
+      "Student Materials": "",
+      "S-Download": "",
+      "Student's Tasks": "",
+      "URLs": ""
+    },
+    {
+      "Session": "42",
+      "Topic": "Chapter 13: Complaint Handling and Service Recovery - Service recovery",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO4",
+      "ITU": "I,T",
+      "Student Materials": "",
+      "S-Download": "",
+      "Student's Tasks": "",
+      "URLs": ""
+    },
+    {
+      "Session": "43",
+      "Topic": "Chapter 13: Complaint Handling and Service Recovery - Service guarantees",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO4",
+      "ITU": "T,U",
+      "Student Materials": "",
+      "S-Download": "",
+      "Student's Tasks": "",
+      "URLs": ""
+    },
+    {
+      "Session": "44",
+      "Topic": "Chapter 14: Improving Service Quality and Productivity - What is service quality? - Measuring service quality - Service quality tools",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO4",
+      "ITU": "I,T",
+      "Student Materials": "",
+      "S-Download": "",
+      "Student's Tasks": "",
+      "URLs": ""
+    },
+    {
+      "Session": "45",
+      "Topic": "Chapter 14: Improving Service Quality and Productivity - Productivity - Measuring productivity - Improving service productivity",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO4",
+      "ITU": "I,T",
+      "Student Materials": "",
+      "S-Download": "",
+      "Student's Tasks": "",
+      "URLs": ""
+    },
+    {
+      "Session": "46",
+      "Topic": "Chapter 14: Improving Service Quality and Productivity - Integration and systematic approaches to improving service quality and productivity",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO4",
+      "ITU": "T,U",
+      "Student Materials": "",
+      "S-Download": "",
+      "Student's Tasks": "",
+      "URLs": ""
+    },
+    {
+      "Session": "47",
+      "Topic": "Chapter 15: Build a World-class Service Organization - Customer satisfaction and corporate performance",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO4",
+      "ITU": "I,T",
+      "Student Materials": "",
+      "S-Download": "",
+      "Student's Tasks": "",
+      "URLs": ""
+    },
+    {
+      "Session": "48",
+      "Topic": "Chapter 15: Build a World-class Service Organization - Creating a world-class service organization",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO4",
+      "ITU": "I,T",
+      "Student Materials": "",
+      "S-Download": "",
+      "Student's Tasks": "",
+      "URLs": ""
+    },
+    {
+      "Session": "49",
+      "Topic": "Chapter 15: Build a World-class Service Organization - Cost-effective service excellence",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO4",
+      "ITU": "T,U",
+      "Student Materials": "",
+      "S-Download": "",
+      "Student's Tasks": "",
+      "URLs": ""
+    },
+    {
+      "Session": "50",
+      "Topic": "Submission of individual assignment",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO4",
+      "ITU": "I,T,U",
+      "Student Materials": "",
+      "S-Download": "",
+      "Student's Tasks": "",
+      "URLs": ""
+    },
+    {
+      "Session": "51",
+      "Topic": "Submission of group assignment report and powerpoint slides",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO1, LO2, LO3, LO4, LO5",
+      "ITU": "I,T",
+      "Student Materials": "",
+      "S-Download": "",
+      "Student's Tasks": "",
+      "URLs": ""
+    },
+    {
+      "Session": "52",
+      "Topic": "Quiz 2: Chapter 9 - 15",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO2, LO3, LO4",
+      "ITU": "I,T,U",
+      "Student Materials": "",
+      "S-Download": "",
+      "Student's Tasks": "",
+      "URLs": ""
+    },
+    {
+      "Session": "53",
+      "Topic": "GROUP PRESENTATION & COURSE REVIEW",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO1, LO2, LO3, LO4, LO5",
+      "ITU": "T,U",
+      "Student Materials": "",
+      "S-Download": "",
+      "Student's Tasks": "",
+      "URLs": ""
+    },
+    {
+      "Session": "54",
+      "Topic": "GROUP PRESENTATION & COURSE REVIEW",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO1, LO2, LO3, LO4, LO5",
+      "ITU": "T,U",
+      "Student Materials": "",
+      "S-Download": "",
+      "Student's Tasks": "",
+      "URLs": ""
+    },
+    {
+      "Session": "55",
+      "Topic": "GROUP PRESENTATION & COURSE REVIEW",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO1, LO2, LO3, LO4, LO5",
+      "ITU": "T,U",
+      "Student Materials": "",
+      "S-Download": "",
+      "Student's Tasks": "",
+      "URLs": ""
+    },
+    {
+      "Session": "56",
+      "Topic": "GROUP PRESENTATION & COURSE REVIEW",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO1, LO2, LO3, LO4, LO5",
+      "ITU": "T,U",
+      "Student Materials": "",
+      "S-Download": "",
+      "Student's Tasks": "",
+      "URLs": ""
+    },
+    {
+      "Session": "57",
+      "Topic": "GROUP PRESENTATION & COURSE REVIEW",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO1, LO2, LO3, LO4, LO5",
+      "ITU": "T,U",
+      "Student Materials": "",
+      "S-Download": "",
+      "Student's Tasks": "",
+      "URLs": ""
+    },
+    {
+      "Session": "58",
+      "Topic": "GROUP PRESENTATION & COURSE REVIEW",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO1, LO2, LO3, LO4, LO5",
+      "ITU": "T,U",
+      "Student Materials": "",
+      "S-Download": "",
+      "Student's Tasks": "",
+      "URLs": ""
+    },
+    {
+      "Session": "59",
+      "Topic": "GROUP PRESENTATION & COURSE REVIEW",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO1, LO2, LO3, LO4, LO5",
+      "ITU": "T,U",
+      "Student Materials": "",
+      "S-Download": "",
+      "Student's Tasks": "",
+      "URLs": ""
+    },
+    {
+      "Session": "60",
+      "Topic": "GROUP PRESENTATION & COURSE REVIEW",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO1, LO2, LO3, LO4, LO5",
+      "ITU": "T,U",
+      "Student Materials": "",
+      "S-Download": "",
+      "Student's Tasks": "",
+      "URLs": ""
+    }
+  ],
+  "constructive_questions": [
+    {
+      "No.": "1",
+      "Session No": "2",
+      "Name": "CT1",
+      "Details": "“A service is rented rather than owned”. What the statement means and use 2 examples to support your explanation?"
+    },
+    {
+      "No.": "2",
+      "Session No": "2",
+      "Name": "CT2",
+      "Details": "What are the four broad categories of services? Provide 2 examples for each of them."
+    },
+    {
+      "No.": "3",
+      "Session No": "3",
+      "Name": "CT1",
+      "Details": "How can you evaluate the alternative services in pre-purchase stage? Give examples"
+    },
+    {
+      "No.": "4",
+      "Session No": "4",
+      "Name": "CT1",
+      "Details": "What are high-contact services and low-contact services? give examples?"
+    },
+    {
+      "No.": "5",
+      "Session No": "5",
+      "Name": "CT1",
+      "Details": "How do the concepts of theater, role theory, and script theory help to provide insights into consumer behavior during the service encounter?"
+    },
+    {
+      "No.": "6",
+      "Session No": "6",
+      "Name": "CT1",
+      "Details": "What is service quality? How is it different from customer satisfaction? What are the five dimensions of service quality? How can you measure service quality?"
+    },
+    {
+      "No.": "7",
+      "Session No": "7",
+      "Name": "CT1",
+      "Details": "What are the most common bases used in segmentation? Provide examples for each of these bases"
+    },
+    {
+      "No.": "8",
+      "Session No": "8",
+      "Name": "CT1",
+      "Details": "Why business need clarify service market target"
+    },
+    {
+      "No.": "9",
+      "Session No": "8",
+      "Name": "CT2",
+      "Details": "What are the four focus strategies for services? illustrate them with examples"
+    },
+    {
+      "No.": "10",
+      "Session No": "11",
+      "Name": "CT1",
+      "Details": "Why do we need to understand The flower of Service?"
+    },
+    {
+      "No.": "11",
+      "Session No": "11",
+      "Name": "CT2",
+      "Details": "Describe the components of a service product. Explain how they are integrated in the context of an overnight hotel stay."
+    },
+    {
+      "No.": "12",
+      "Session No": "12",
+      "Name": "CT1",
+      "Details": "Describe the two roles of supplementary services. Explain the distinction between them. Give several examples of each, citing services that you have used recently."
+    },
+    {
+      "No.": "13",
+      "Session No": "13",
+      "Name": "CT1",
+      "Details": "Select a service firm that you believe is highly successful and has strong brand equity. How can the service firm build brand equity?"
+    },
+    {
+      "No.": "14",
+      "Session No": "14",
+      "Name": "CT1",
+      "Details": "What are the approaches the firms can take to create new services?"
+    },
+    {
+      "No.": "15",
+      "Session No": "15",
+      "Name": "CT1",
+      "Details": "What is difference between service distribution and good distribution?"
+    },
+    {
+      "No.": "16",
+      "Session No": "16",
+      "Name": "CT1",
+      "Details": "Where should a service facility be located? When should service be delivered?"
+    },
+    {
+      "No.": "17",
+      "Session No": "16",
+      "Name": "CT2",
+      "Details": "Why are we need to have intermediaries in service distribution?"
+    },
+    {
+      "No.": "18",
+      "Session No": "19",
+      "Name": "CT1",
+      "Details": "Why is the pricing of services more difficult than the pricing of goods? How can the pricing tripod be approached to service pricing be useful in setting a good pricing point for a particular service?"
+    },
+    {
+      "No.": "19",
+      "Session No": "19",
+      "Name": "CT2",
+      "Details": "What is best important factors in building price strategy."
+    },
+    {
+      "No.": "20",
+      "Session No": "19",
+      "Name": "CT3",
+      "Details": "Describe ethical concern in service price"
+    },
+    {
+      "No.": "21",
+      "Session No": "22",
+      "Name": "CT1",
+      "Details": "Explain marketing communication in satisfying customer"
+    },
+    {
+      "No.": "22",
+      "Session No": "22",
+      "Name": "CT2",
+      "Details": "Describe challenge of service communication."
+    },
+    {
+      "No.": "23",
+      "Session No": "24",
+      "Name": "CT1",
+      "Details": "What are the differences and similarities of the flowchart and bluepriting?"
+    },
+    {
+      "No.": "24",
+      "Session No": "25",
+      "Name": "CT1",
+      "Details": "What is role of using blueprinting to document and manage service process"
+    },
+    {
+      "No.": "25",
+      "Session No": "26",
+      "Name": "CT1",
+      "Details": "How can customer service processes be redesigned?"
+    },
+    {
+      "No.": "26",
+      "Session No": "26",
+      "Name": "CT2",
+      "Details": "Do you think service process redesign in post covid 19 stage"
+    },
+    {
+      "No.": "27",
+      "Session No": "27",
+      "Name": "CT1",
+      "Details": "What is meant by productive capacity in services? What actions can firms take to adjust capacity to match demand more closely?"
+    },
+    {
+      "No.": "28",
+      "Session No": "27",
+      "Name": "CT2",
+      "Details": "How can firms identify the factors that affect demand for their services? What actions can firms take to adjust demand to match capacity more closely?"
+    },
+    {
+      "No.": "29",
+      "Session No": "28",
+      "Name": "CT1",
+      "Details": "Explain how flexible capacity can be created in each of the following situations: (a) a local library, (b) an office-cleaning service."
+    },
+    {
+      "No.": "30",
+      "Session No": "30",
+      "Name": "CT1",
+      "Details": "What is the purpose of the service environment?"
+    },
+    {
+      "No.": "31",
+      "Session No": "31",
+      "Name": "CT1",
+      "Details": "Describe how Mehrabian-Russell Stimulus-Response Model and Russell’s Model of Affect explain consumer responses to a service environment."
+    },
+    {
+      "No.": "32",
+      "Session No": "31",
+      "Name": "CT2",
+      "Details": "What is the relationship or link between Russell’s Model of Affect and the servicescape model? What are the Key Dimensions of Service Environments?"
+    },
+    {
+      "No.": "33",
+      "Session No": "32",
+      "Name": "CT1",
+      "Details": "Why are service personnel so important for service firms?"
+    },
+    {
+      "No.": "34",
+      "Session No": "32",
+      "Name": "CT2",
+      "Details": "What are the key barriers for firms to break the Cycle of Failure and move into the Cycle of Success? How should an organization trapped in the Cycle of Mediocrity proceed?"
+    },
+    {
+      "No.": "35",
+      "Session No": "33",
+      "Name": "CT1",
+      "Details": "Describe the key components of the Service Talent Cycle?"
+    },
+    {
+      "No.": "36",
+      "Session No": "36",
+      "Name": "CT1",
+      "Details": "Why is customer loyalty an important driver of profitability for service firms?"
+    },
+    {
+      "No.": "37",
+      "Session No": "36",
+      "Name": "CT2",
+      "Details": "How do the various strategies in the Wheel of Loyalty relate to one another?"
+    },
+    {
+      "No.": "38",
+      "Session No": "37",
+      "Name": "CT1",
+      "Details": "What is tiering of services? Explain the rationale and strategic implications."
+    },
+    {
+      "No.": "39",
+      "Session No": "38",
+      "Name": "CT1",
+      "Details": "What is the CRM? What is the role of CRM in delivering a customer relationship strategy?"
+    },
+    {
+      "No.": "40",
+      "Session No": "39",
+      "Name": "CT1",
+      "Details": "What do customers expect the firm to do once they have made a complaint?"
+    },
+    {
+      "No.": "41",
+      "Session No": "40",
+      "Name": "CT1",
+      "Details": "What could a firm do to make it easy for dissatisfied customers to complain?"
+    },
+    {
+      "No.": "42",
+      "Session No": "41",
+      "Name": "CT1",
+      "Details": "How to design service guarantees?"
+    },
+    {
+      "No.": "43",
+      "Session No": "42",
+      "Name": "CT1",
+      "Details": "Think about the last time you experienced a less-than-satisfactory service experience. Did you complain? Why? If you did not complain, explain why not."
+    },
+    {
+      "No.": "44",
+      "Session No": "44",
+      "Name": "CT1",
+      "Details": "What are the relationships between service quality, productivity, and profitability?"
+    },
+    {
+      "No.": "45",
+      "Session No": "45",
+      "Name": "CT1",
+      "Details": "Identify the gaps that can occur in service quality and the steps that service marketers can take to prevent them."
+    },
+    {
+      "No.": "46",
+      "Session No": "46",
+      "Name": "CT1",
+      "Details": "What are tools to analyze and address service quality problems? Give examples"
+    },
+    {
+      "No.": "47",
+      "Session No": "46",
+      "Name": "CT2",
+      "Details": "How can you integrate all the tools in a nine-step approach to improve the quality and productivity of customer service processes"
+    }
+  ],
+  "materials": [
+    {
+      "No.": "1",
+      "Material Description": "Essentials of Services Marketing",
+      "Author": "Christopher Lovelock, Jochen Wirtz and Patricia Chew",
+      "Publisher": "Prentice Hall",
+      "Published Date": "2012",
+      "Edition": "2E",
+      "ISBN": "",
+      "Is Main Material": "True",
+      "Is Hard Copy": "True",
+      "Is Online": "False",
+      "Note": ""
+    },
+    {
+      "No.": "2",
+      "Material Description": "Essentials of Services Marketing",
+      "Author": "Jochen Wirtz, Patricia Chew and Christopher Lovelock",
+      "Publisher": "Pearson",
+      "Published Date": "2017",
+      "Edition": "3E",
+      "ISBN": "",
+      "Is Main Material": "True",
+      "Is Hard Copy": "True",
+      "Is Online": "False",
+      "Note": ""
+    },
+    {
+      "No.": "3",
+      "Material Description": "Essentials of Services Marketing",
+      "Author": "Jochen Wirtz, Patricia Chew and Christopher Lovelock",
+      "Publisher": "Pearson",
+      "Published Date": "2023",
+      "Edition": "4E",
+      "ISBN": "9781292425191",
+      "Is Main Material": "True",
+      "Is Hard Copy": "True",
+      "Is Online": "False",
+      "Note": "Chọn một trong 3 ấn bản. Ưu tiên mua ấn bản mới nhất"
+    },
+    {
+      "No.": "4",
+      "Material Description": "https://www.coursera.org/learn/generative-ai-prompt-engineering-for-everyone",
+      "Author": "",
+      "Publisher": "Coursera",
+      "Published Date": "",
+      "Edition": "",
+      "ISBN": "",
+      "Is Main Material": "False",
+      "Is Hard Copy": "False",
+      "Is Online": "True",
+      "Note": ""
+    }
+  ],
+  "source_path": "data/raw/syllabi/14485.html",
+  "id": "syllabus:14485"
+}

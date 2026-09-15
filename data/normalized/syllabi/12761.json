@@ -1,0 +1,310 @@
+{
+  "syllabus_id": 12761,
+  "subject_code": "FIN405c",
+  "subject_name": "Investment Portfolio_Quản lý danh mục đầu tư",
+  "syllabus_name": "Investment Portfolio_Quản lý danh mục đầu tư",
+  "credits": 3,
+  "degree_level": "Bachelor",
+  "time_allocation": "Online 49 hours+ 2 slots offline (optional)+ 108 hours self study",
+  "prerequisite": "FIN303",
+  "general_information": {
+    "Syllabus ID": "12761",
+    "Syllabus Name": "Investment Portfolio_Quản lý danh mục đầu tư",
+    "Course Name English": "Investment Portfolio",
+    "Subject Code": "FIN405c",
+    "Learning-Teaching Method": "Online",
+    "NoCredit": "3",
+    "Degree Level": "Bachelor",
+    "Time Allocation": "Online 49 hours+ 2 slots offline (optional)+ 108 hours self study",
+    "Pre-Requisite": "FIN303",
+    "Description": "-Students will learn the essential skills of portfolio management and personal investing, learn how to think about, discuss, and formulate solutions to common investor's questions, issues: how to meet their liabilities, how to decide where to invest, and how much risk to take on. Students will learn the theory and the real-world skills necessary to design, execute, and evaluate investment proposals that meet financial objectives. -Students will then learn how to construct optimal portfolios that manage risk effectively, and how to capitalize on understanding behavioral biases and irrational behavior in financial markets. Students will learn the best practices in portfolio management and performance evaluation as well as current investment strategies. By the end of Capstone Project, students will have mastered the analytical tools, quantitative skills, and practical knowledge necessary for long-term investment management success. Note: Students who complete all MOOCs before the course deadline will receive 1 bonus point; otherwise, no bonus point will be awarded.",
+    "StudentTasks": "1. Join the online course (spec.) when being invited by the admin. 2. Enroll in each MOOC of spec., regularly study MOOCs at least 5hrs/week by watching videos, reading materials, taking quizzes, doing assgnments... as required 3. Respect the Coursera Code of Conduct, at https://learner.coursera.help/hc/en-us/articles/208280036-Coursera-Code-of-Conduct 3. Keep online learning progress promptly. 4. Communicate and discuss in forum 5. Attend off-line sessions in the Campus (Optional) 6. Must complete all MOOCs of spec. with certification in order to take the Final Exam at Campus",
+    "Tools": "- Internet access",
+    "Scoring Scale": "10",
+    "DecisionNo MM/dd/yyyy": "359/QĐ-ĐHFPT dated 04/09/2025",
+    "IsApproved": "True",
+    "Note": "",
+    "Is Scored": "True",
+    "MinAvgMarkToPass": "5",
+    "IsActive": "True",
+    "ApprovedDate": "4/9/2025"
+  },
+  "active": true,
+  "approved": true,
+  "decision": "359/QĐ-ĐHFPT dated 04/09/2025",
+  "description": "-Students will learn the essential skills of portfolio management and personal investing, learn how to think about, discuss, and formulate solutions to common investor's questions, issues: how to meet their liabilities, how to decide where to invest, and how much risk to take on. Students will learn the theory and the real-world skills necessary to design, execute, and evaluate investment proposals that meet financial objectives. -Students will then learn how to construct optimal portfolios that manage risk effectively, and how to capitalize on understanding behavioral biases and irrational behavior in financial markets. Students will learn the best practices in portfolio management and performance evaluation as well as current investment strategies. By the end of Capstone Project, students will have mastered the analytical tools, quantitative skills, and practical knowledge necessary for long-term investment management success. Note: Students who complete all MOOCs before the course deadline will receive 1 bonus point; otherwise, no bonus point will be awarded.",
+  "learning_outcomes": [
+    {
+      "No.": "1",
+      "CLO Name": "CLO1",
+      "CLO Details": "Describe overview of global financial markets and instruments that characterize the investment opportunities available to today’s investor"
+    },
+    {
+      "No.": "2",
+      "CLO Name": "CLO2",
+      "CLO Details": "Discuss, and formulate solutions to common issues in investing: how to meet investor liabilities, how to decide where to invest, and how much risk to take on"
+    },
+    {
+      "No.": "3",
+      "CLO Name": "CLO3",
+      "CLO Details": "Apply concepts and the essential skills of portfolio management and personal investing"
+    },
+    {
+      "No.": "4",
+      "CLO Name": "CLO4",
+      "CLO Details": "Apply analytical tools, quantitative skills, and practical knowledge necessary for long-term investment management success"
+    },
+    {
+      "No.": "5",
+      "CLO Name": "CLO5",
+      "CLO Details": "Construct optimal portfolios that manage risk effectively"
+    }
+  ],
+  "assessments": [
+    {
+      "No.": "1",
+      "Category": "Final exam",
+      "Type": "Final exam",
+      "Part": "1",
+      "Weight": "100.0%",
+      "Completion Criteria": "4",
+      "Duration": "60'",
+      "CLO": "All LOs",
+      "Question Type": "Multiple choices",
+      "No Question": "50",
+      "Knowledge and Skill": "5 Courses",
+      "Grading Guide": "by exam board, using computer Marked by Computer",
+      "Note": "Final Result (FR) = min (10, TE + Bonus)"
+    }
+  ],
+  "schedule": [
+    {
+      "Session": "1",
+      "Topic": "Course 1 Global Financial Markets and Instruments Module 1: Introduction & Review of Elementary Finance Tools Module 2: Financial system & financial assets: fixed income securities Course Review - Offline (optional)",
+      "Learning-Teaching Type": "Online,Offline",
+      "LO": "LO1",
+      "ITU": "IT",
+      "Student Materials": "Videos, reading, quizzes",
+      "S-Download": "",
+      "Student's Tasks": "- Watch the videos - Read the materials - Do the quizzes - Participate in the offline class (optional)",
+      "URLs": ""
+    },
+    {
+      "Session": "2",
+      "Topic": "Course 1: Global Financial Markets and Instruments Module 3: Financial system & financial assets: equity securities and derivatives Module 4: Organization of financial markets and securities trading",
+      "Learning-Teaching Type": "Online",
+      "LO": "LO1",
+      "ITU": "IT",
+      "Student Materials": "Videos, reading, quizzes",
+      "S-Download": "",
+      "Student's Tasks": "- Watch the videos - Read the materials - Do the quizzes",
+      "URLs": ""
+    },
+    {
+      "Session": "3",
+      "Topic": "Course 2 Portfolio Selection and Risk Management Module 1- Introduction & Risk and Return Module 2: Portfolio construction and diversification Module 3: Mean-variance preferences",
+      "Learning-Teaching Type": "Online",
+      "LO": "LO1, LO2, LO3",
+      "ITU": "IT",
+      "Student Materials": "Videos, reading, quizzes",
+      "S-Download": "",
+      "Student's Tasks": "- Watch the videos - Read the materials - Do the quizzes",
+      "URLs": ""
+    },
+    {
+      "Session": "4",
+      "Topic": "Course 2 Portfolio Selection and Risk Management Module 4: Optimal capital allocation and portfolio choice Module 5: Equilibrium asset pricing models",
+      "Learning-Teaching Type": "Online",
+      "LO": "LO1, LO2, LO3",
+      "ITU": "IT",
+      "Student Materials": "Videos, reading, quizzes",
+      "S-Download": "",
+      "Student's Tasks": "- Watch the videos - Read the materials - Do the quizzes",
+      "URLs": ""
+    },
+    {
+      "Session": "5",
+      "Topic": "Course 2 Portfolio Selection and Risk Management Module 4: Optimal capital allocation and portfolio choice Module 5: Equilibrium asset pricing models",
+      "Learning-Teaching Type": "Online",
+      "LO": "LO1, LO2, LO3",
+      "ITU": "IT",
+      "Student Materials": "Videos, reading, quizzes",
+      "S-Download": "",
+      "Student's Tasks": "- Watch the videos - Read the materials - Do the quizzes",
+      "URLs": ""
+    },
+    {
+      "Session": "6",
+      "Topic": "Course 3 Biases and Portfolio Selection Module 1: Efficient markets hypothesis and limits of arbitrage Module 2: Biases and realistic preferences",
+      "Learning-Teaching Type": "Online",
+      "LO": "LO1, LO2",
+      "ITU": "IT",
+      "Student Materials": "Videos, reading, quizzes",
+      "S-Download": "",
+      "Student's Tasks": "- Watch the videos - Read the materials - Do the quizzes",
+      "URLs": ""
+    },
+    {
+      "Session": "7",
+      "Topic": "Course 3 Biases and Portfolio Selection Module 3: Inefficient markets Module 4: Applications: Investor behavior",
+      "Learning-Teaching Type": "Online",
+      "LO": "LO1, LO2",
+      "ITU": "IT",
+      "Student Materials": "Videos, reading, quizzes",
+      "S-Download": "",
+      "Student's Tasks": "- Watch the videos - Read the materials - Do the quizzes",
+      "URLs": ""
+    },
+    {
+      "Session": "8",
+      "Topic": "Course 3 Biases and Portfolio Selection Module 3: Inefficient markets Module 4: Applications: Investor behavior",
+      "Learning-Teaching Type": "Online",
+      "LO": "LO1, LO2",
+      "ITU": "IT",
+      "Student Materials": "Videos, reading, quizzes",
+      "S-Download": "",
+      "Student's Tasks": "- Watch the videos - Read the materials - Do the quizzes",
+      "URLs": ""
+    },
+    {
+      "Session": "9",
+      "Topic": "Course 4 Investment Strategies and Portfolio Analysis Module 1: Performance measurement and benchmarking Module 2: Active vs. passive investing: Risk-adjusted return measures",
+      "Learning-Teaching Type": "Online",
+      "LO": "LO2, LO3, LO4",
+      "ITU": "IT",
+      "Student Materials": "Videos, reading, quizzes",
+      "S-Download": "",
+      "Student's Tasks": "- Watch the videos - Read the materials - Do the quizzes",
+      "URLs": ""
+    },
+    {
+      "Session": "10",
+      "Topic": "Course 4 Investment Strategies and Portfolio Analysis Module 3: Performance evaluation: Style analysis and performance attribution",
+      "Learning-Teaching Type": "Online",
+      "LO": "LO2, LO3, LO4",
+      "ITU": "IT",
+      "Student Materials": "Videos, reading, quizzes",
+      "S-Download": "",
+      "Student's Tasks": "- Watch the videos - Read the materials - Do the quizzes",
+      "URLs": ""
+    },
+    {
+      "Session": "11",
+      "Topic": "Course 5 Capstone: Build a Winning Investment Portfolio Capstone Project 1:Developing Asset Allocation Strategies Capstone Project 2: Developing a Macro View / Tactical Portfolio Shifts Capstone Project 3: Behavioral Finance",
+      "Learning-Teaching Type": "Online",
+      "LO": "LO2, LO3, LO4, LO5",
+      "ITU": "IT",
+      "Student Materials": "Videos, reading, quizzes",
+      "S-Download": "",
+      "Student's Tasks": "- Watch the videos - Read the materials - Do the quizzes",
+      "URLs": ""
+    },
+    {
+      "Session": "12",
+      "Topic": "Course 5 Capstone: Build a Winning Investment Portfolio Capstone Project 4: Styles of Investing Capstone Project 5:Performance Evaluation Capstone Project 6: Sim Portfolio Evaluation (Peer Graded) Course review (optional) Deadline of Coursera completion: End of Friday of the week",
+      "Learning-Teaching Type": "Online,Offline",
+      "LO": "LO2, LO3, LO4, LO5",
+      "ITU": "IT",
+      "Student Materials": "Videos, reading, quizzes",
+      "S-Download": "",
+      "Student's Tasks": "- Watch the videos - Read the materials - Do the quizzes - Review - Offline (optional) - Deadline of Coursera completion: End of Friday of the week",
+      "URLs": ""
+    }
+  ],
+  "constructive_questions": [],
+  "materials": [
+    {
+      "No.": "1",
+      "Material Description": "https://www.coursera.org/specializations/investment-portolio-management#courses",
+      "Author": "",
+      "Publisher": "Coursera",
+      "Published Date": "",
+      "Edition": "",
+      "ISBN": "",
+      "Is Main Material": "True",
+      "Is Hard Copy": "False",
+      "Is Online": "True",
+      "Note": ""
+    },
+    {
+      "No.": "2",
+      "Material Description": "https://learner.coursera.help/hc/en-us/articles/208280036-Coursera-Code-of-Conduct",
+      "Author": "",
+      "Publisher": "",
+      "Published Date": "",
+      "Edition": "",
+      "ISBN": "",
+      "Is Main Material": "False",
+      "Is Hard Copy": "False",
+      "Is Online": "True",
+      "Note": ""
+    },
+    {
+      "No.": "3",
+      "Material Description": "https://www.coursera.org/learn/global-financial-markets-instruments",
+      "Author": "",
+      "Publisher": "Coursera",
+      "Published Date": "",
+      "Edition": "",
+      "ISBN": "",
+      "Is Main Material": "True",
+      "Is Hard Copy": "False",
+      "Is Online": "True",
+      "Note": "MOOC 1: Global Financial Markets and Instruments"
+    },
+    {
+      "No.": "4",
+      "Material Description": "https://www.coursera.org/learn/portfolio-selection-risk-management",
+      "Author": "",
+      "Publisher": "Coursera",
+      "Published Date": "",
+      "Edition": "",
+      "ISBN": "",
+      "Is Main Material": "True",
+      "Is Hard Copy": "False",
+      "Is Online": "True",
+      "Note": "MOOC 2: Portfolio Selection and Risk Management"
+    },
+    {
+      "No.": "5",
+      "Material Description": "https://www.coursera.org/learn/biases-portfolio-selection",
+      "Author": "",
+      "Publisher": "Coursera",
+      "Published Date": "",
+      "Edition": "",
+      "ISBN": "",
+      "Is Main Material": "True",
+      "Is Hard Copy": "False",
+      "Is Online": "True",
+      "Note": "MOOC 3: Biases and Portfolio Selection"
+    },
+    {
+      "No.": "6",
+      "Material Description": "https://www.coursera.org/learn/investment-strategies-portfolio-analysis",
+      "Author": "",
+      "Publisher": "Coursera",
+      "Published Date": "",
+      "Edition": "",
+      "ISBN": "",
+      "Is Main Material": "True",
+      "Is Hard Copy": "False",
+      "Is Online": "True",
+      "Note": "MOOC 4: Investment Strategies and Portfolio Analysis"
+    },
+    {
+      "No.": "7",
+      "Material Description": "https://www.coursera.org/learn/investment-portfolio-management-capstone",
+      "Author": "",
+      "Publisher": "Coursera",
+      "Published Date": "",
+      "Edition": "",
+      "ISBN": "",
+      "Is Main Material": "True",
+      "Is Hard Copy": "False",
+      "Is Online": "True",
+      "Note": "MOOC 5: Capstone: Build a Winning Investment Portfolio"
+    }
+  ],
+  "source_path": "data/raw/syllabi/12761.html",
+  "id": "syllabus:12761"
+}

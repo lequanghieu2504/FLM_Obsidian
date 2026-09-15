@@ -1,0 +1,907 @@
+{
+  "syllabus_id": 6192,
+  "subject_code": "WDT401",
+  "subject_name": "Web Design_Thiết kế Web",
+  "syllabus_name": "Web Design _ Thiết kế Web",
+  "credits": 3,
+  "degree_level": "Bachelor",
+  "time_allocation": "Study hour (150h) = 45h contact hours + 105h self-study",
+  "prerequisite": "WDL301 or WDL202",
+  "general_information": {
+    "Syllabus ID": "6192",
+    "Syllabus Name": "Web Design _ Thiết kế Web",
+    "Course Name English": "Web Design",
+    "Subject Code": "WDT401",
+    "Learning-Teaching Method": "Lecture,Practice,discussion,groupwork",
+    "NoCredit": "3",
+    "Degree Level": "Bachelor",
+    "Time Allocation": "Study hour (150h) = 45h contact hours + 105h self-study",
+    "Pre-Requisite": "WDL301 or WDL202",
+    "Description": "This course aims to provide technical knowledge and skills for student. Student will learn about web technologies such as HTML, CSS and Javascript. They have to practice to create website from the simple to a complex client-size or front-end web application. This is the advanced course of Web Design course, so student will continue their work in the end of the first course, and make an empirical version of last graphical design product in its project by applying web technologies. Beside the technologies, in this course student will learn about web design principles and approaches such as responsive web, and also understand techniques and tools to implement a website in a development processes. After this course, student can completely create a web themes includes images, icons, css(s), html(s) and javascript(s).",
+    "StudentTasks": "- Attendance >=80% - Actively participate in class activities - Fulfill tasks given by instructor after class - Use their own laptop in class only for learning purpose - Read the textbook in advance - Access the course website (www.fap.fpt.edu.vn) for up-to-date information and material of the course, for online supports from teachers and other students and for practicing and assessment. - Computer with graphic softwares for creating website layouts (Photoshop/ Illustrator/ Sketch, ...) and web development tool (Dreamweaver/ Sublime Text, ...) - Complete course's Portfolio with full contents of exercises and submit to the teacher 1 day after the course.",
+    "Tools": "",
+    "Scoring Scale": "10",
+    "DecisionNo MM/dd/yyyy": "703/QĐ-ĐH-FPT dated 08/17/2022",
+    "IsApproved": "True",
+    "Note": "",
+    "Is Scored": "True",
+    "MinAvgMarkToPass": "5",
+    "IsActive": "True",
+    "ApprovedDate": "8/17/2022"
+  },
+  "active": true,
+  "approved": true,
+  "decision": "703/QĐ-ĐH-FPT dated 08/17/2022",
+  "description": "This course aims to provide technical knowledge and skills for student. Student will learn about web technologies such as HTML, CSS and Javascript. They have to practice to create website from the simple to a complex client-size or front-end web application. This is the advanced course of Web Design course, so student will continue their work in the end of the first course, and make an empirical version of last graphical design product in its project by applying web technologies. Beside the technologies, in this course student will learn about web design principles and approaches such as responsive web, and also understand techniques and tools to implement a website in a development processes. After this course, student can completely create a web themes includes images, icons, css(s), html(s) and javascript(s).",
+  "learning_outcomes": [
+    {
+      "No.": "1",
+      "CLO Name": "CLO1",
+      "CLO Details": "Define responsive website"
+    },
+    {
+      "No.": "2",
+      "CLO Name": "CLO2",
+      "CLO Details": "Distinguish different devices' screen resolutions"
+    },
+    {
+      "No.": "3",
+      "CLO Name": "CLO3",
+      "CLO Details": "Explain the reasons of using grid systems in web design"
+    },
+    {
+      "No.": "4",
+      "CLO Name": "CLO4",
+      "CLO Details": "Apply grid systems to the web site interfaces in order to develop responsive web site"
+    },
+    {
+      "No.": "5",
+      "CLO Name": "CLO5",
+      "CLO Details": "List different image formats in web design"
+    },
+    {
+      "No.": "6",
+      "CLO Name": "CLO6",
+      "CLO Details": "Select appropriate image formats in web design"
+    },
+    {
+      "No.": "7",
+      "CLO Name": "CLO7",
+      "CLO Details": "List basic HTML tags for creating web themes (index page, content page, contact page, ...)"
+    },
+    {
+      "No.": "8",
+      "CLO Name": "CLO8",
+      "CLO Details": "List basic CSS for styling web elements (font, paragraph, heading, navigation, link, button, form, ...)"
+    },
+    {
+      "No.": "9",
+      "CLO Name": "CLO9",
+      "CLO Details": "Learn Bootstrap framework"
+    },
+    {
+      "No.": "10",
+      "CLO Name": "CLO10",
+      "CLO Details": "Develop the static website layouts to HTML pages (front-end phase)"
+    },
+    {
+      "No.": "11",
+      "CLO Name": "CLO11",
+      "CLO Details": "Design interaction for the website by using CSS and JavaScript Library (navigation, link HTML pages, gallery slide show, ...)"
+    },
+    {
+      "No.": "12",
+      "CLO Name": "CLO12",
+      "CLO Details": "Add media files (video, audio, ...) to the web site"
+    },
+    {
+      "No.": "13",
+      "CLO Name": "CLO13",
+      "CLO Details": "Apply Bootstrap to creating responsive, mobile-first web sites"
+    },
+    {
+      "No.": "14",
+      "CLO Name": "CLO14",
+      "CLO Details": "Test front-end version of the web site and fix errors"
+    },
+    {
+      "No.": "15",
+      "CLO Name": "CLO15",
+      "CLO Details": "Students have a proficient in presentation and teamworks. Having a professional working style."
+    }
+  ],
+  "assessments": [
+    {
+      "No.": "1",
+      "Category": "Class participation, preparation and pratising",
+      "Type": "on-going",
+      "Part": "1",
+      "Weight": "20.0%",
+      "Completion Criteria": ">0",
+      "Duration": "",
+      "CLO": "",
+      "Question Type": "",
+      "No Question": "",
+      "Knowledge and Skill": "",
+      "Grading Guide": "Participation grade will be given based on students' attendance, preparation, and quantity as well as quality of participation in classroom; quality of participation is demonstrated through asking relevant questions, making statements that add to and facilitate class discussion, and builds upon others’ comments. Teacher give marks on student's student's Class participation and preparation only after the Portfolio submission.",
+      "Note": ""
+    },
+    {
+      "No.": "2",
+      "Category": "Project phase 1",
+      "Type": "on-going",
+      "Part": "1",
+      "Weight": "20.0%",
+      "Completion Criteria": ">0",
+      "Duration": "1 week",
+      "CLO": "LO1, LO2, LO3, LO4, LO15",
+      "Question Type": "",
+      "No Question": "1",
+      "Knowledge and Skill": "Based on topics of units",
+      "Grading Guide": "Amount of work on Web Interface (60%) and Presentation (25%), and ability to explain and answer questions from evaluator (15%)",
+      "Note": "Student must deliver portfolio in time and present at class"
+    },
+    {
+      "No.": "3",
+      "Category": "Project phase 2",
+      "Type": "on-going",
+      "Part": "1",
+      "Weight": "30.0%",
+      "Completion Criteria": ">0",
+      "Duration": "2 weeks",
+      "CLO": "LO5, LO6, LO10, LO11, LO12, LO15",
+      "Question Type": "",
+      "No Question": "N/A",
+      "Knowledge and Skill": "Based on topics of units",
+      "Grading Guide": "Amount of work on Front-end version (60%) and Presentation (25%), and ability to explain and answer questions from evaluator (15%)",
+      "Note": "Student must deliver portfolio in time and present at class"
+    },
+    {
+      "No.": "4",
+      "Category": "Project phase 3",
+      "Type": "on-going",
+      "Part": "1",
+      "Weight": "30.0%",
+      "Completion Criteria": ">0",
+      "Duration": "2 week",
+      "CLO": "LO13, LO14, LO15",
+      "Question Type": "1",
+      "No Question": "No info",
+      "Knowledge and Skill": "Based on topics of units",
+      "Grading Guide": "Amount of work on Front-end version (60%) and Presentation (25%), and ability to explain and answer questions from evaluator (15%)",
+      "Note": "Student must deliver portfolio in time and present at class"
+    }
+  ],
+  "schedule": [
+    {
+      "Session": "1",
+      "Topic": "Chapter 1: Getting Started with HTML5, CSS3, and Responsive Web Design - Why smart phones are important? - Defining responsive web design",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO1, LO2, LO3, LO4",
+      "ITU": "I",
+      "Student Materials": "- Text Book ---> book? Page? - Online resource - Slide - Teacher's resource",
+      "S-Download": "WDT401",
+      "Student's Tasks": "- Gives examples of responsive web design - Explain why HTML, CSS is good for developing responsive website",
+      "URLs": ""
+    },
+    {
+      "Session": "2",
+      "Topic": "- Introduction to HTML5 and CSS3 (book ref Typography, beautiful web design)",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO1, LO2, LO3, LO4",
+      "ITU": "I",
+      "Student Materials": "- Text Book ---> book? Page? - Online resource - Slide - Teacher's resource",
+      "S-Download": "WDT401",
+      "Student's Tasks": "- Gives examples of responsive web design - Explain why HTML, CSS is good for developing responsive website",
+      "URLs": ""
+    },
+    {
+      "Session": "3",
+      "Topic": "Chapter 2: Basic HTML Tags",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO1, LO2, LO3, LO4",
+      "ITU": "I",
+      "Student Materials": "- Text Book ---> book? Page? - Online resource - Slide - Teacher's resource",
+      "S-Download": "",
+      "Student's Tasks": "- Explain Media queries modules and how this modules can help us target specific CSS styles depending on a device's display capabilities",
+      "URLs": ""
+    },
+    {
+      "Session": "4",
+      "Topic": "Chapter 2: Basic HTML Tags",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO1, LO2, LO3, LO4",
+      "ITU": "I",
+      "Student Materials": "- Text Book ---> book? Page? - Online resource - Slide - Teacher's resource",
+      "S-Download": "",
+      "Student's Tasks": "- Explain Media queries modules and how this modules can help us target specific CSS styles depending on a device's display capabilities",
+      "URLs": ""
+    },
+    {
+      "Session": "5",
+      "Topic": "Practice",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO1, LO2, LO3, LO4",
+      "ITU": "I",
+      "Student Materials": "- Text Book ---> book? Page? - Online resource - Slide - Teacher's resource",
+      "S-Download": "",
+      "Student's Tasks": "• Explain why proportional layouts are necessary for responsive design • Explain how to make images scale fluidly and how to serve different images to different screen sizes • Create a responsive layout from scratch using a CSS grid system",
+      "URLs": ""
+    },
+    {
+      "Session": "6",
+      "Topic": "Practice",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO1, LO2, LO3, LO4",
+      "ITU": "I",
+      "Student Materials": "- Text Book ---> book? Page? - Online resource - Slide - Teacher's resource",
+      "S-Download": "",
+      "Student's Tasks": "• Explain why proportional layouts are necessary for responsive design • Explain how to make images scale fluidly and how to serve different images to different screen sizes • Create a responsive layout from scratch using a CSS grid system",
+      "URLs": ""
+    },
+    {
+      "Session": "7",
+      "Topic": "Chapter 4: HTML5 for Responsive Designs - HTML5 New Elements - HTML5 Semantics",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO5, LO6, LO7",
+      "ITU": "T, U",
+      "Student Materials": "- Text Book ---> book? Page? - Online resource - Slide - Teacher's resource",
+      "S-Download": "",
+      "Student's Tasks": "• What parts of HTML5 can we use right now? • How to write HTML5 pages • The economies of using HTML5 • Obsolete HTML features • New semantic HTML5 elements • Embedding media • Responsive HTML5 and iFrame videos • Making a website available offline",
+      "URLs": ""
+    },
+    {
+      "Session": "8",
+      "Topic": "- HTML5 Style guide",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO5, LO6, LO7",
+      "ITU": "T, U",
+      "Student Materials": "- Text Book ---> book? Page? - Online resource - Slide - Teacher's resource",
+      "S-Download": "",
+      "Student's Tasks": "• What parts of HTML5 can we use right now? • How to write HTML5 pages • The economies of using HTML5 • Obsolete HTML features • New semantic HTML5 elements • Embedding media • Responsive HTML5 and iFrame videos • Making a website available offline",
+      "URLs": ""
+    },
+    {
+      "Session": "9",
+      "Topic": "- HTML Form",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO5, LO6, LO7",
+      "ITU": "T, U",
+      "Student Materials": "- Text Book ---> book? Page? - Online resource - Slide - Teacher's resource",
+      "S-Download": "",
+      "Student's Tasks": "• What parts of HTML5 can we use right now? • How to write HTML5 pages • The economies of using HTML5 • Obsolete HTML features • New semantic HTML5 elements • Embedding media • Responsive HTML5 and iFrame videos • Making a website available offline",
+      "URLs": ""
+    },
+    {
+      "Session": "10",
+      "Topic": "- HTML Media",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO5, LO6, LO7",
+      "ITU": "T, U",
+      "Student Materials": "- Text Book ---> book? Page? - Online resource - Slide - Teacher's resource",
+      "S-Download": "",
+      "Student's Tasks": "• What parts of HTML5 can we use right now? • How to write HTML5 pages • The economies of using HTML5 • Obsolete HTML features • New semantic HTML5 elements • Embedding media • Responsive HTML5 and iFrame videos • Making a website available offline",
+      "URLs": ""
+    },
+    {
+      "Session": "11",
+      "Topic": "Practice",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO5, LO6, LO7",
+      "ITU": "TU",
+      "Student Materials": "- Text Book ---> book? Page? - Online resource - Slide - Teacher's resource",
+      "S-Download": "",
+      "Student's Tasks": "• What parts of HTML5 can we use right now? • How to write HTML5 pages • The economies of using HTML5 • Obsolete HTML features • New semantic HTML5 elements • Embedding media • Responsive HTML5 and iFrame videos • Making a website available offline",
+      "URLs": ""
+    },
+    {
+      "Session": "12",
+      "Topic": "Practice",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO5, LO6, LO7",
+      "ITU": "TU",
+      "Student Materials": "- Text Book ---> book? Page? - Online resource - Slide - Teacher's resource",
+      "S-Download": "",
+      "Student's Tasks": "• What parts of HTML5 can we use right now? • How to write HTML5 pages • The economies of using HTML5 • Obsolete HTML features • New semantic HTML5 elements • Embedding media • Responsive HTML5 and iFrame videos • Making a website available offline",
+      "URLs": ""
+    },
+    {
+      "Session": "13",
+      "Topic": "Chapter 5: CSS3: Selectors, Typography, and Color Modes - CSS Introduction - CSS syntax",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO8, LO11",
+      "ITU": "T, U",
+      "Student Materials": "- Text Book ---> book? Page? - Online resource - Slide - Teacher's resource",
+      "S-Download": "",
+      "Student's Tasks": "• What CSS3 offers the frontend developer • Quick and handy CSS3 tricks (multiple columns and word wraps) • The anatomy of a CSS rule • What vendor-specific prefixes are and how to use them • New CSS3 selectors and how they work • Custom typography with @font-face • How to use RGB and HSL color modes with Alpha tranparency",
+      "URLs": ""
+    },
+    {
+      "Session": "14",
+      "Topic": "- Basic CSS for styling web elements - CSS3 Introduction",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO8, LO11",
+      "ITU": "T, U",
+      "Student Materials": "- Text Book ---> book? Page? - Online resource - Slide - Teacher's resource",
+      "S-Download": "",
+      "Student's Tasks": "• What CSS3 offers the frontend developer • Quick and handy CSS3 tricks (multiple columns and word wraps) • The anatomy of a CSS rule • What vendor-specific prefixes are and how to use them • New CSS3 selectors and how they work • Custom typography with @font-face • How to use RGB and HSL color modes with Alpha tranparency",
+      "URLs": ""
+    },
+    {
+      "Session": "15",
+      "Topic": "- New CSS3 selectors - CSS Responsive and grid",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO8, LO11",
+      "ITU": "T, U",
+      "Student Materials": "- Text Book ---> book? Page? - Online resource - Slide - Teacher's resource",
+      "S-Download": "",
+      "Student's Tasks": "• What CSS3 offers the frontend developer • Quick and handy CSS3 tricks (multiple columns and word wraps) • The anatomy of a CSS rule • What vendor-specific prefixes are and how to use them • New CSS3 selectors and how they work • Custom typography with @font-face • How to use RGB and HSL color modes with Alpha tranparency",
+      "URLs": ""
+    },
+    {
+      "Session": "16",
+      "Topic": "- CSS Examples",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO8, LO11",
+      "ITU": "T, U",
+      "Student Materials": "- Text Book ---> book? Page? - Online resource - Slide - Teacher's resource",
+      "S-Download": "",
+      "Student's Tasks": "• What CSS3 offers the frontend developer • Quick and handy CSS3 tricks (multiple columns and word wraps) • The anatomy of a CSS rule • What vendor-specific prefixes are and how to use them • New CSS3 selectors and how they work • Custom typography with @font-face • How to use RGB and HSL color modes with Alpha tranparency",
+      "URLs": ""
+    },
+    {
+      "Session": "17",
+      "Topic": "Practice",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO8, LO11",
+      "ITU": "TU",
+      "Student Materials": "- Text Book ---> book? Page? - Online resource - Slide - Teacher's resource",
+      "S-Download": "",
+      "Student's Tasks": "• What CSS3 offers the frontend developer • Quick and handy CSS3 tricks (multiple columns and word wraps) • The anatomy of a CSS rule • What vendor-specific prefixes are and how to use them • New CSS3 selectors and how they work • Custom typography with @font-face • How to use RGB and HSL color modes with Alpha tranparency",
+      "URLs": ""
+    },
+    {
+      "Session": "18",
+      "Topic": "Practice",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO8, LO11",
+      "ITU": "TU",
+      "Student Materials": "- Text Book ---> book? Page? - Online resource - Slide - Teacher's resource",
+      "S-Download": "",
+      "Student's Tasks": "• What CSS3 offers the frontend developer • Quick and handy CSS3 tricks (multiple columns and word wraps) • The anatomy of a CSS rule • What vendor-specific prefixes are and how to use them • New CSS3 selectors and how they work • Custom typography with @font-face • How to use RGB and HSL color modes with Alpha tranparency",
+      "URLs": ""
+    },
+    {
+      "Session": "19",
+      "Topic": "Practice",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO4, LO6, LO7, LO8, LO15",
+      "ITU": "U",
+      "Student Materials": "- Text Book ---> book? Page? - Online resource - Slide - Teacher's resource",
+      "S-Download": "",
+      "Student's Tasks": "Project phase 1 - Design web site interface by using graphic softwares - Teacher reviews layouts and gives comments.",
+      "URLs": ""
+    },
+    {
+      "Session": "20",
+      "Topic": "Practice",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO4, LO6, LO7, LO8, LO15",
+      "ITU": "U",
+      "Student Materials": "- Text Book ---> book? Page? - Online resource - Slide - Teacher's resource",
+      "S-Download": "",
+      "Student's Tasks": "Project phase 1 - Design web site interface by using graphic softwares - Teacher reviews layouts and gives comments.",
+      "URLs": ""
+    },
+    {
+      "Session": "21",
+      "Topic": "Practice",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO4, LO6, LO7, LO8, LO15",
+      "ITU": "U",
+      "Student Materials": "- Text Book ---> book? Page? - Online resource - Slide - Teacher's resource",
+      "S-Download": "",
+      "Student's Tasks": "Project phase 1 - Design web site interface by using graphic softwares - Teacher reviews layouts and gives comments.",
+      "URLs": ""
+    },
+    {
+      "Session": "22",
+      "Topic": "Practice",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO4, LO6, LO7, LO8, LO15",
+      "ITU": "U",
+      "Student Materials": "- Text Book ---> book? Page? - Online resource - Slide - Teacher's resource",
+      "S-Download": "",
+      "Student's Tasks": "Project phase 1 - Design web site interface by using graphic softwares - Teacher reviews layouts and gives comments.",
+      "URLs": ""
+    },
+    {
+      "Session": "23",
+      "Topic": "Practice",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO4, LO6, LO7, LO8, LO15",
+      "ITU": "U",
+      "Student Materials": "- Text Book ---> book? Page? - Online resource - Slide - Teacher's resource",
+      "S-Download": "",
+      "Student's Tasks": "Project phase 1 - Design web site interface by using graphic softwares - Teacher reviews layouts and gives comments.",
+      "URLs": ""
+    },
+    {
+      "Session": "24",
+      "Topic": "Practice",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO4, LO6, LO7, LO8, LO15",
+      "ITU": "U",
+      "Student Materials": "- Text Book ---> book? Page? - Online resource - Slide - Teacher's resource",
+      "S-Download": "",
+      "Student's Tasks": "Project phase 1 - Design web site interface by using graphic softwares - Teacher reviews layouts and gives comments.",
+      "URLs": ""
+    },
+    {
+      "Session": "25",
+      "Topic": "Chapter 6: CSS3 Transitions, Transformations, and Animations - CSS3 2D Transforms",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO7, LO8",
+      "ITU": "T, U",
+      "Student Materials": "- Text Book ---> book? Page? - Online resource - Slide - Teacher's resource",
+      "S-Download": "",
+      "Student's Tasks": "• What CSS3 transitions are and how we can use them • How to write a CSS3 transition and its shorthand syntax • CSS3 transition timing functions (ease, cubic-bezier, and so on) CSS3 Transitions, Transformations, and Animations • Fun transitions for responsive web sites • What CSS3 transformations are and how we can use them • Understanding different 2D transformations (scale, rotate, skew, translate, and so on)",
+      "URLs": ""
+    },
+    {
+      "Session": "26",
+      "Topic": "- CSS3 3D Transforms",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO7, LO8",
+      "ITU": "T, U",
+      "Student Materials": "- Text Book ---> book? Page? - Online resource - Slide - Teacher's resource",
+      "S-Download": "",
+      "Student's Tasks": "• What CSS3 transitions are and how we can use them • How to write a CSS3 transition and its shorthand syntax • CSS3 transition timing functions (ease, cubic-bezier, and so on) CSS3 Transitions, Transformations, and Animations • Fun transitions for responsive web sites • What CSS3 transformations are and how we can use them • Understanding different 2D transformations (scale, rotate, skew, translate, and so on)",
+      "URLs": ""
+    },
+    {
+      "Session": "27",
+      "Topic": "- CSS3 Transitions",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO7, LO8",
+      "ITU": "T, U",
+      "Student Materials": "- Text Book ---> book? Page? - Online resource - Slide - Teacher's resource",
+      "S-Download": "",
+      "Student's Tasks": "• What CSS3 transitions are and how we can use them • How to write a CSS3 transition and its shorthand syntax • CSS3 transition timing functions (ease, cubic-bezier, and so on) CSS3 Transitions, Transformations, and Animations • Fun transitions for responsive web sites • What CSS3 transformations are and how we can use them • Understanding different 2D transformations (scale, rotate, skew, translate, and so on)",
+      "URLs": ""
+    },
+    {
+      "Session": "28",
+      "Topic": "- CSS3 Animations",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO7, LO8",
+      "ITU": "T, U",
+      "Student Materials": "- Text Book ---> book? Page? - Online resource - Slide - Teacher's resource",
+      "S-Download": "",
+      "Student's Tasks": "• What CSS3 transitions are and how we can use them • How to write a CSS3 transition and its shorthand syntax • CSS3 transition timing functions (ease, cubic-bezier, and so on) CSS3 Transitions, Transformations, and Animations • Fun transitions for responsive web sites • What CSS3 transformations are and how we can use them • Understanding different 2D transformations (scale, rotate, skew, translate, and so on)",
+      "URLs": ""
+    },
+    {
+      "Session": "29",
+      "Topic": "Practice",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO7, LO8",
+      "ITU": "TU",
+      "Student Materials": "- Text Book ---> book? Page? - Online resource - Slide - Teacher's resource",
+      "S-Download": "",
+      "Student's Tasks": "• What CSS3 transitions are and how we can use them • How to write a CSS3 transition and its shorthand syntax • CSS3 transition timing functions (ease, cubic-bezier, and so on) CSS3 Transitions, Transformations, and Animations • Fun transitions for responsive web sites • What CSS3 transformations are and how we can use them • Understanding different 2D transformations (scale, rotate, skew, translate, and so on)",
+      "URLs": ""
+    },
+    {
+      "Session": "30",
+      "Topic": "Practice",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO7, LO8",
+      "ITU": "TU",
+      "Student Materials": "- Text Book ---> book? Page? - Online resource - Slide - Teacher's resource",
+      "S-Download": "",
+      "Student's Tasks": "• What CSS3 transitions are and how we can use them • How to write a CSS3 transition and its shorthand syntax • CSS3 transition timing functions (ease, cubic-bezier, and so on) CSS3 Transitions, Transformations, and Animations • Fun transitions for responsive web sites • What CSS3 transformations are and how we can use them • Understanding different 2D transformations (scale, rotate, skew, translate, and so on)",
+      "URLs": ""
+    },
+    {
+      "Session": "31",
+      "Topic": "Chapter 8: Conquer Forms with HTML5 and CSS3 - HMTL forms",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO7, LO8",
+      "ITU": "T, U",
+      "Student Materials": "- Text Book ---> book? Page? - Online resource - Slide - Teacher's resource",
+      "S-Download": "",
+      "Student's Tasks": "• Easily insert placeholder text into relevant form fields • Disable auto-completion of form fields where necessary • Set certain fields to be required before submission • Specify different input types such as e-mail, telephone number, and URL • Create number range sliders for easy value selection • Insert date and color pickers • Learn how we can use a regular expression to define an allowed form value • Add a polyfill to provide support for less capable browsers • Use CSS3 to easily and flexibly style an HTML5 form",
+      "URLs": ""
+    },
+    {
+      "Session": "32",
+      "Topic": "- Styling HTML forms with CSS",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO7, LO8",
+      "ITU": "T, U",
+      "Student Materials": "- Text Book ---> book? Page? - Online resource - Slide - Teacher's resource",
+      "S-Download": "",
+      "Student's Tasks": "• Easily insert placeholder text into relevant form fields • Disable auto-completion of form fields where necessary • Set certain fields to be required before submission • Specify different input types such as e-mail, telephone number, and URL • Create number range sliders for easy value selection • Insert date and color pickers • Learn how we can use a regular expression to define an allowed form value • Add a polyfill to provide support for less capable browsers • Use CSS3 to easily and flexibly style an HTML5 form",
+      "URLs": ""
+    },
+    {
+      "Session": "33",
+      "Topic": "- Creating a simple contact page with HTML and CSS",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO7, LO8",
+      "ITU": "T, U",
+      "Student Materials": "- Text Book ---> book? Page? - Online resource - Slide - Teacher's resource",
+      "S-Download": "",
+      "Student's Tasks": "• Easily insert placeholder text into relevant form fields • Disable auto-completion of form fields where necessary • Set certain fields to be required before submission • Specify different input types such as e-mail, telephone number, and URL • Create number range sliders for easy value selection • Insert date and color pickers • Learn how we can use a regular expression to define an allowed form value • Add a polyfill to provide support for less capable browsers • Use CSS3 to easily and flexibly style an HTML5 form",
+      "URLs": ""
+    },
+    {
+      "Session": "34",
+      "Topic": "- Creating a simple contact page with HTML and CSS",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO7, LO8",
+      "ITU": "T, U",
+      "Student Materials": "- Text Book ---> book? Page? - Online resource - Slide - Teacher's resource",
+      "S-Download": "",
+      "Student's Tasks": "• Easily insert placeholder text into relevant form fields • Disable auto-completion of form fields where necessary • Set certain fields to be required before submission • Specify different input types such as e-mail, telephone number, and URL • Create number range sliders for easy value selection • Insert date and color pickers • Learn how we can use a regular expression to define an allowed form value • Add a polyfill to provide support for less capable browsers • Use CSS3 to easily and flexibly style an HTML5 form",
+      "URLs": ""
+    },
+    {
+      "Session": "35",
+      "Topic": "Practice",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO7, LO8",
+      "ITU": "TU",
+      "Student Materials": "- Text Book ---> book? Page? - Online resource - Slide - Teacher's resource",
+      "S-Download": "",
+      "Student's Tasks": "• Easily insert placeholder text into relevant form fields • Disable auto-completion of form fields where necessary • Set certain fields to be required before submission • Specify different input types such as e-mail, telephone number, and URL • Create number range sliders for easy value selection • Insert date and color pickers • Learn how we can use a regular expression to define an allowed form value • Add a polyfill to provide support for less capable browsers • Use CSS3 to easily and flexibly style an HTML5 form",
+      "URLs": ""
+    },
+    {
+      "Session": "36",
+      "Topic": "Practice",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO7, LO8",
+      "ITU": "TU",
+      "Student Materials": "- Text Book ---> book? Page? - Online resource - Slide - Teacher's resource",
+      "S-Download": "",
+      "Student's Tasks": "• Easily insert placeholder text into relevant form fields • Disable auto-completion of form fields where necessary • Set certain fields to be required before submission • Specify different input types such as e-mail, telephone number, and URL • Create number range sliders for easy value selection • Insert date and color pickers • Learn how we can use a regular expression to define an allowed form value • Add a polyfill to provide support for less capable browsers • Use CSS3 to easily and flexibly style an HTML5 form",
+      "URLs": ""
+    },
+    {
+      "Session": "37",
+      "Topic": "Chapter 7: Bootstrap framework Bootstrap Grid basic",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO9, LO10",
+      "ITU": "T, U",
+      "Student Materials": "- Text Book ---> book? Page? - Online resource - Slide - Teacher's resource",
+      "S-Download": "",
+      "Student's Tasks": "Introduction to Bootstrap framework Bootstrap Grid basic Bootstrap Navbar",
+      "URLs": ""
+    },
+    {
+      "Session": "38",
+      "Topic": "Bootstrap Navbar",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO9, LO10",
+      "ITU": "T, U",
+      "Student Materials": "- Text Book ---> book? Page? - Online resource - Slide - Teacher's resource",
+      "S-Download": "",
+      "Student's Tasks": "Introduction to Bootstrap framework Bootstrap Grid basic Bootstrap Navbar",
+      "URLs": ""
+    },
+    {
+      "Session": "39",
+      "Topic": "Bootstrap Navbar",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO9, LO11",
+      "ITU": "T, U",
+      "Student Materials": "- Text Book ---> book? Page? - Online resource - Slide - Teacher's resource",
+      "S-Download": "",
+      "Student's Tasks": "Introduction to Bootstrap framework Bootstrap Grid basic Bootstrap Navbar",
+      "URLs": ""
+    },
+    {
+      "Session": "40",
+      "Topic": "Practice Bootstrap",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO9, LO10",
+      "ITU": "TU",
+      "Student Materials": "- Text Book ---> book? Page? - Online resource - Slide - Teacher's resource",
+      "S-Download": "",
+      "Student's Tasks": "Introduction to Bootstrap framework Bootstrap Grid basic Bootstrap Navbar",
+      "URLs": ""
+    },
+    {
+      "Session": "41",
+      "Topic": "Practice Bootstrap",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO9, LO11",
+      "ITU": "TU",
+      "Student Materials": "- Text Book ---> book? Page? - Online resource - Slide - Teacher's resource",
+      "S-Download": "",
+      "Student's Tasks": "Introduction to Bootstrap framework Bootstrap Grid basic Bootstrap Navbar",
+      "URLs": ""
+    },
+    {
+      "Session": "42",
+      "Topic": "Practice Bootstrap",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO9, LO10",
+      "ITU": "TU",
+      "Student Materials": "- Text Book ---> book? Page? - Online resource - Slide - Teacher's resource",
+      "S-Download": "",
+      "Student's Tasks": "Introduction to Bootstrap framework Bootstrap Grid basic Bootstrap Navbar",
+      "URLs": ""
+    },
+    {
+      "Session": "43",
+      "Topic": "Practice Bootstrap",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO9, LO10",
+      "ITU": "TU",
+      "Student Materials": "- Text Book ---> book? Page? - Online resource - Slide - Teacher's resource",
+      "S-Download": "",
+      "Student's Tasks": "Introduction to Bootstrap framework Bootstrap Grid basic Bootstrap Navbar",
+      "URLs": ""
+    },
+    {
+      "Session": "44",
+      "Topic": "Practice",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO9, LO10, LO11, LO15",
+      "ITU": "U",
+      "Student Materials": "- Text Book ---> book? Page? - Online resource - Slide - Teacher's resource",
+      "S-Download": "",
+      "Student's Tasks": "Project phase 2 Creating front-end version base on the web interface of Project phase 1",
+      "URLs": ""
+    },
+    {
+      "Session": "45",
+      "Topic": "Practice Bootstrap",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO9, LO10",
+      "ITU": "TU",
+      "Student Materials": "- Text Book ---> book? Page? - Online resource - Slide - Teacher's resource",
+      "S-Download": "",
+      "Student's Tasks": "Introduction to Bootstrap framework Bootstrap Grid basic Bootstrap Navbar",
+      "URLs": ""
+    },
+    {
+      "Session": "46",
+      "Topic": "Practice",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO9, LO10, LO11, LO15",
+      "ITU": "U",
+      "Student Materials": "- Text Book ---> book? Page? - Online resource - Slide - Teacher's resource",
+      "S-Download": "",
+      "Student's Tasks": "Project phase 2 Creating front-end version base on the web interface of Project phase 2",
+      "URLs": ""
+    },
+    {
+      "Session": "47",
+      "Topic": "Practice Bootstrap",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO9, LO10",
+      "ITU": "TU",
+      "Student Materials": "- Text Book ---> book? Page? - Online resource - Slide - Teacher's resource",
+      "S-Download": "",
+      "Student's Tasks": "Introduction to Bootstrap framework Bootstrap Grid basic Bootstrap Navbar",
+      "URLs": ""
+    },
+    {
+      "Session": "48",
+      "Topic": "Practice",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO9, LO10, LO11, LO15",
+      "ITU": "U",
+      "Student Materials": "- Text Book ---> book? Page? - Online resource - Slide - Teacher's resource",
+      "S-Download": "",
+      "Student's Tasks": "Project phase 2 Creating front-end version base on the web interface of Project phase 3",
+      "URLs": ""
+    },
+    {
+      "Session": "49",
+      "Topic": "Chapter 9: Solving Cross-browser Responsive Challenges - Web browser types",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO10, LO11, LO12, LO13, LO14",
+      "ITU": "T, U",
+      "Student Materials": "- Text Book ---> book? Page? - Online resource - Slide - Teacher's resource",
+      "S-Download": "",
+      "Student's Tasks": "• The fundamental difference between progressive enhancement and graceful degradation • How to make older versions of Internet Explorer responsive • How to use Modernizr to conditionally load CSS files • How to use Modernizr to conditionally load JavaScript polyfills • How to change long lists of navigation to select menus on small viewports • How to provide images for high resolution (retina) displays",
+      "URLs": ""
+    },
+    {
+      "Session": "50",
+      "Topic": "Chapter 9: Solving Cross-browser Responsive Challenges - Web browser types",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO10, LO11, LO12, LO13, LO14",
+      "ITU": "T, U",
+      "Student Materials": "- Text Book ---> book? Page? - Online resource - Slide - Teacher's resource",
+      "S-Download": "",
+      "Student's Tasks": "• The fundamental difference between progressive enhancement and graceful degradation • How to make older versions of Internet Explorer responsive • How to use Modernizr to conditionally load CSS files • How to use Modernizr to conditionally load JavaScript polyfills • How to change long lists of navigation to select menus on small viewports • How to provide images for high resolution (retina) displays",
+      "URLs": ""
+    },
+    {
+      "Session": "51",
+      "Topic": "Chapter 9: Solving Cross-browser Responsive Challenges - Web browser types",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO10, LO11, LO12, LO13, LO15",
+      "ITU": "TU",
+      "Student Materials": "- Text Book ---> book? Page? - Online resource - Slide - Teacher's resource",
+      "S-Download": "",
+      "Student's Tasks": "• The fundamental difference between progressive enhancement and graceful degradation • How to make older versions of Internet Explorer responsive • How to use Modernizr to conditionally load CSS files • How to use Modernizr to conditionally load JavaScript polyfills • How to change long lists of navigation to select menus on small viewports • How to provide images for high resolution (retina) displays",
+      "URLs": ""
+    },
+    {
+      "Session": "52",
+      "Topic": "- Solving cross-browser responsive challenges",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO10, LO11, LO12, LO13, LO14",
+      "ITU": "T, U",
+      "Student Materials": "- Text Book ---> book? Page? - Online resource - Slide - Teacher's resource",
+      "S-Download": "",
+      "Student's Tasks": "• The fundamental difference between progressive enhancement and graceful degradation • How to make older versions of Internet Explorer responsive • How to use Modernizr to conditionally load CSS files • How to use Modernizr to conditionally load JavaScript polyfills • How to change long lists of navigation to select menus on small viewports • How to provide images for high resolution (retina) displays",
+      "URLs": ""
+    },
+    {
+      "Session": "53",
+      "Topic": "- Solving cross-browser responsive challenges",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO10, LO11, LO12, LO13, LO15",
+      "ITU": "TU",
+      "Student Materials": "- Text Book ---> book? Page? - Online resource - Slide - Teacher's resource",
+      "S-Download": "",
+      "Student's Tasks": "• The fundamental difference between progressive enhancement and graceful degradation • How to make older versions of Internet Explorer responsive • How to use Modernizr to conditionally load CSS files • How to use Modernizr to conditionally load JavaScript polyfills • How to change long lists of navigation to select menus on small viewports • How to provide images for high resolution (retina) displays",
+      "URLs": ""
+    },
+    {
+      "Session": "54",
+      "Topic": "- Solving cross-browser responsive challenges",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO10, LO11, LO12, LO13, LO14",
+      "ITU": "T, U",
+      "Student Materials": "- Text Book ---> book? Page? - Online resource - Slide - Teacher's resource",
+      "S-Download": "",
+      "Student's Tasks": "• The fundamental difference between progressive enhancement and graceful degradation • How to make older versions of Internet Explorer responsive • How to use Modernizr to conditionally load CSS files • How to use Modernizr to conditionally load JavaScript polyfills • How to change long lists of navigation to select menus on small viewports • How to provide images for high resolution (retina) displays",
+      "URLs": ""
+    },
+    {
+      "Session": "55",
+      "Topic": "Practice",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO13, LO14, LO15",
+      "ITU": "U",
+      "Student Materials": "- Text Book ---> book? Page? - Online resource - Slide - Teacher's resource",
+      "S-Download": "",
+      "Student's Tasks": "Project phase 3: Completing front-end version after testing and fixing errors",
+      "URLs": ""
+    },
+    {
+      "Session": "56",
+      "Topic": "Practice",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO13, LO14, LO15",
+      "ITU": "U",
+      "Student Materials": "- Text Book ---> book? Page? - Online resource - Slide - Teacher's resource",
+      "S-Download": "",
+      "Student's Tasks": "Project phase 3: Completing front-end version after testing and fixing errors",
+      "URLs": ""
+    },
+    {
+      "Session": "57",
+      "Topic": "Practice",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO13, LO14, LO15",
+      "ITU": "U",
+      "Student Materials": "- Text Book ---> book? Page? - Online resource - Slide - Teacher's resource",
+      "S-Download": "",
+      "Student's Tasks": "Project phase 3: Completing front-end version after testing and fixing errors",
+      "URLs": ""
+    },
+    {
+      "Session": "58",
+      "Topic": "Practice",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO13, LO14, LO15",
+      "ITU": "U",
+      "Student Materials": "- Text Book ---> book? Page? - Online resource - Slide - Teacher's resource",
+      "S-Download": "",
+      "Student's Tasks": "Project phase 3: Completing front-end version after testing and fixing errors",
+      "URLs": ""
+    },
+    {
+      "Session": "59",
+      "Topic": "Practice",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO13, LO14, LO15",
+      "ITU": "U",
+      "Student Materials": "- Text Book ---> book? Page? - Online resource - Slide - Teacher's resource",
+      "S-Download": "",
+      "Student's Tasks": "Project phase 3: Completing front-end version after testing and fixing errors",
+      "URLs": ""
+    },
+    {
+      "Session": "60",
+      "Topic": "Practice",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO13, LO14, LO15",
+      "ITU": "U",
+      "Student Materials": "- Text Book ---> book? Page? - Online resource - Slide - Teacher's resource",
+      "S-Download": "",
+      "Student's Tasks": "Project phase 3: Completing front-end version after testing and fixing errors",
+      "URLs": ""
+    }
+  ],
+  "constructive_questions": [],
+  "materials": [
+    {
+      "No.": "1",
+      "Material Description": "www.w3schools.com",
+      "Author": "",
+      "Publisher": "",
+      "Published Date": "",
+      "Edition": "",
+      "ISBN": "",
+      "Is Main Material": "True",
+      "Is Hard Copy": "False",
+      "Is Online": "True",
+      "Note": ""
+    },
+    {
+      "No.": "2",
+      "Material Description": "Responsive Web Design with HTML5 and CSS3",
+      "Author": "Ben Frain",
+      "Publisher": "Packt Publishing",
+      "Published Date": "2017",
+      "Edition": "Second Edition",
+      "ISBN": "",
+      "Is Main Material": "False",
+      "Is Hard Copy": "True",
+      "Is Online": "False",
+      "Note": ""
+    },
+    {
+      "No.": "3",
+      "Material Description": "UX Pin ebook: https://www.uxpin.com/studio/ebooks/",
+      "Author": "",
+      "Publisher": "",
+      "Published Date": "",
+      "Edition": "",
+      "ISBN": "",
+      "Is Main Material": "False",
+      "Is Hard Copy": "False",
+      "Is Online": "True",
+      "Note": ""
+    },
+    {
+      "No.": "4",
+      "Material Description": "dribbble.com",
+      "Author": "",
+      "Publisher": "",
+      "Published Date": "",
+      "Edition": "",
+      "ISBN": "",
+      "Is Main Material": "False",
+      "Is Hard Copy": "False",
+      "Is Online": "True",
+      "Note": ""
+    },
+    {
+      "No.": "5",
+      "Material Description": "color.adobe.com",
+      "Author": "",
+      "Publisher": "",
+      "Published Date": "",
+      "Edition": "",
+      "ISBN": "",
+      "Is Main Material": "False",
+      "Is Hard Copy": "False",
+      "Is Online": "True",
+      "Note": ""
+    }
+  ],
+  "source_path": "data/raw/syllabi/6192.html",
+  "id": "syllabus:6192"
+}

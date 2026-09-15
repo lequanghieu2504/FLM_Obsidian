@@ -1,0 +1,281 @@
+{
+  "syllabus_id": 13769,
+  "subject_code": "SWE202c",
+  "subject_name": "Introduction to Software Engineering_Nhập môn kĩ thuật phần mềm",
+  "syllabus_name": "Introduction to Software Engineering_Nhập môn kỹ thuật phần mềm",
+  "credits": 3,
+  "degree_level": "Bachelor",
+  "time_allocation": "Study hour (150h) =82h online + 3h offline + 1h TE + 2h PE + 62 h self-study",
+  "prerequisite": "PRO192",
+  "general_information": {
+    "Syllabus ID": "13769",
+    "Syllabus Name": "Introduction to Software Engineering_Nhập môn kỹ thuật phần mềm",
+    "Course Name English": "Introduction to Software Engineering",
+    "Subject Code": "SWE202c",
+    "Learning-Teaching Method": "Online, Active learning, Inquiry-based Teaching",
+    "NoCredit": "3",
+    "Degree Level": "Bachelor",
+    "Time Allocation": "Study hour (150h) =82h online + 3h offline + 1h TE + 2h PE + 62 h self-study",
+    "Pre-Requisite": "PRO192",
+    "Description": "The course includes two parts: The first part introduces the use of Generative AI (GenAI) and Large Language Models (LLMs) in modern software development. Students will learn how AI-powered tools can accelerate the software engineering process, from analyzing requirements to generating code, writing tests, debugging, and producing technical documentation. The second part provides a comprehensive introduction to modern software engineering principles, methods, and practices. The course equips students with the foundational and advanced skills needed to design, develop, test, deploy, and maintain reliable software systems. Learners explore the full software development lifecycle (SDLC), including requirements engineering, architectural and object-oriented design, software construction, quality assurance, and DevOps practices. Emphasis is placed on practical, industry-relevant techniques such as version control, automated testing, API development, and iterative development using Agile. Through a combination of theoretical concepts, hands-on exercises, and real-world case studies, the course prepares students to work effectively in software engineering teams and build scalable, maintainable, and high-quality software products.",
+    "StudentTasks": "Student must get the certification of Software Engineering Specialization and Generative AI in Software Development course from Coursera to be accepted to the final examination",
+    "Tools": "",
+    "Scoring Scale": "10",
+    "DecisionNo MM/dd/yyyy": "1318/QĐ-ĐHFPT dated 11/27/2025",
+    "IsApproved": "True",
+    "Note": "1. Complete the online courses to be allowed to take Final Exam 2. Final Exam is included of Final Theory Exam (TE) & Final Practical Exam (PE): 100% 3. Students who complete all MOOCs before the course deadline will receive 1 bonus point; otherwise, no bonus point will be awarded. 4. Completion Criteria: Final TE Score >=4 & Final PE Score >=4 & FR >= 5 FR = min[10, (Final TE Score * weight of Final TE) + (Final PE Score * weight of Final PE) + bonus]",
+    "Is Scored": "True",
+    "MinAvgMarkToPass": "5",
+    "IsActive": "True",
+    "ApprovedDate": "11/27/2025"
+  },
+  "active": true,
+  "approved": true,
+  "decision": "1318/QĐ-ĐHFPT dated 11/27/2025",
+  "description": "The course includes two parts: The first part introduces the use of Generative AI (GenAI) and Large Language Models (LLMs) in modern software development. Students will learn how AI-powered tools can accelerate the software engineering process, from analyzing requirements to generating code, writing tests, debugging, and producing technical documentation. The second part provides a comprehensive introduction to modern software engineering principles, methods, and practices. The course equips students with the foundational and advanced skills needed to design, develop, test, deploy, and maintain reliable software systems. Learners explore the full software development lifecycle (SDLC), including requirements engineering, architectural and object-oriented design, software construction, quality assurance, and DevOps practices. Emphasis is placed on practical, industry-relevant techniques such as version control, automated testing, API development, and iterative development using Agile. Through a combination of theoretical concepts, hands-on exercises, and real-world case studies, the course prepares students to work effectively in software engineering teams and build scalable, maintainable, and high-quality software products.",
+  "learning_outcomes": [
+    {
+      "No.": "1",
+      "CLO Name": "CLO1",
+      "CLO Details": "Understand and apply Generative AI models across the software development lifecycle—including code generation, testing, debugging, and documentation—while evaluating output quality, integrating GenAI into development workflows, and ensuring ethical, security, and intellectual-property compliance in real-world projects."
+    },
+    {
+      "No.": "2",
+      "CLO Name": "CLO2",
+      "CLO Details": "understand software modeling principles and apply UML techniques to analyze requirements, design system structure and behavior, create and interpret UML diagrams, and evaluate models for accuracy, completeness, and consistency in real-world software projects."
+    },
+    {
+      "No.": "3",
+      "CLO Name": "CLO3",
+      "CLO Details": "implement software components following industry coding standards, apply testing techniques to ensure software correctness and reliability, and evaluate code quality through systematic debugging, verification, and validation activities in real-world software projects."
+    },
+    {
+      "No.": "4",
+      "CLO Name": "CLO4",
+      "CLO Details": "design software systems using appropriate design principles and patterns, plan and manage software projects effectively, coordinate team activities, monitor progress, and ensure project deliverables meet quality, schedule, and resource requirements in real-world settings"
+    }
+  ],
+  "assessments": [
+    {
+      "No.": "1",
+      "Category": "PE",
+      "Type": "Final exam",
+      "Part": "1",
+      "Weight": "50.0%",
+      "Completion Criteria": "4",
+      "Duration": "120'",
+      "CLO": "CLO1, CLO2, CLO3, CLO4",
+      "Question Type": "",
+      "No Question": "5",
+      "Knowledge and Skill": "All studied courses.",
+      "Grading Guide": "by Exam Board",
+      "Note": "Customized from the exercises of this specialization."
+    },
+    {
+      "No.": "2",
+      "Category": "TE",
+      "Type": "Final exam",
+      "Part": "1",
+      "Weight": "50.0%",
+      "Completion Criteria": "4",
+      "Duration": "60'",
+      "CLO": "CLO1, CLO2, CLO3, CLO4",
+      "Question Type": "Multiple choices,Marked by Computer",
+      "No Question": "50",
+      "Knowledge and Skill": "All studied courses. Each module of course contributes 2-3 questions.",
+      "Grading Guide": "by Exam Board,using computer",
+      "Note": "Customized from the quizzes of this specialization."
+    }
+  ],
+  "schedule": [
+    {
+      "Session": "1",
+      "Topic": "Offline 1: Introduction to the online course SWE202c. MOOC 1: Generative AI in Software Development Module 1: AI and building software",
+      "Learning-Teaching Type": "Offline,Online",
+      "LO": "CLO1",
+      "ITU": "ITU",
+      "Student Materials": "Course: Generative AI in Software Development https://www.coursera.org/learn/generative-ai-in-software-development",
+      "S-Download": "",
+      "Student's Tasks": "- See the syllabus of all 4 MOOCs - Participate in introduction slot (optional) - Watch the videos - Read the materials - Do all the quizzes. - Complete and submit all assignments.",
+      "URLs": ""
+    },
+    {
+      "Session": "2",
+      "Topic": "MOOC 1: Generative AI in Software Development Module 1: AI and building software (Cont.) Module 2: AI and Digital Transformation",
+      "Learning-Teaching Type": "Online",
+      "LO": "CLO1",
+      "ITU": "U",
+      "Student Materials": "Course: Generative AI in Software Development https://www.coursera.org/learn/generative-ai-in-software-development",
+      "S-Download": "",
+      "Student's Tasks": "- Watch all videos, read all materials in the MOOC - Finish quizzes, self-assessment, assignments and take part in discussion boards (if needed)",
+      "URLs": ""
+    },
+    {
+      "Session": "3",
+      "Topic": "MOOC 1: Generative AI in Software Development Module 3 : Final project and course wrap up",
+      "Learning-Teaching Type": "Online",
+      "LO": "CLO1",
+      "ITU": "U",
+      "Student Materials": "Course: Generative AI in Software Development https://www.coursera.org/learn/generative-ai-in-software-development",
+      "S-Download": "",
+      "Student's Tasks": "- Watch all videos, read all materials in the MOOC - Finish quizzes, self-assessment, assignments and take part in discussion boards (if needed)",
+      "URLs": ""
+    },
+    {
+      "Session": "4",
+      "Topic": "MOOC 2: Software Engineering: Modeling Software Systems using UML Module 1: Introduction to Software Engineering Module 2: Modeling Software Systems Using UML Module 3: Types of Relationships in Class Diagram",
+      "Learning-Teaching Type": "Online",
+      "LO": "CLO2",
+      "ITU": "U",
+      "Student Materials": "Course: Software Engineering: Modeling Software Systems using UML https://www.coursera.org/learn/software-engineering-modeling-software-systems-using-uml",
+      "S-Download": "",
+      "Student's Tasks": "- Watch all videos, read all materials in the MOOC - Finish quizzes, self-assessment, assignments and take part in discussion boards (if needed)",
+      "URLs": ""
+    },
+    {
+      "Session": "5",
+      "Topic": "MOOC 2: Software Engineering: Modeling Software Systems using UML Module 4 : System Requirements Capture and Domain Modeling Module 5: Use Case Modeling",
+      "Learning-Teaching Type": "Online",
+      "LO": "CLO2",
+      "ITU": "U",
+      "Student Materials": "Course: Software Engineering: Modeling Software Systems using UML https://www.coursera.org/learn/software-engineering-modeling-software-systems-using-uml",
+      "S-Download": "",
+      "Student's Tasks": "- Watch all videos, read all materials in the MOOC - Finish quizzes, self-assessment, assignments and take part in discussion boards (if needed)",
+      "URLs": ""
+    },
+    {
+      "Session": "6",
+      "Topic": "MOOC 2: Software Engineering: Modeling Software Systems using UML Module 6: Use Case Specification Module 7: Non-Functional Requirements",
+      "Learning-Teaching Type": "Online",
+      "LO": "CLO2",
+      "ITU": "U",
+      "Student Materials": "Course: Software Engineering: Modeling Software Systems using UML https://www.coursera.org/learn/software-engineering-modeling-software-systems-using-uml",
+      "S-Download": "",
+      "Student's Tasks": "- Watch all videos, read all materials in the MOOC - Finish quizzes, self-assessment, assignments and take part in discussion boards (if needed)",
+      "URLs": ""
+    },
+    {
+      "Session": "7",
+      "Topic": "MOOC 3: Software Engineering: Implementation and Testing Module 1: Introduction to Software Development Module 2: Software Development Processes Module 3: Implementation and Defensive Programming",
+      "Learning-Teaching Type": "Online",
+      "LO": "CLO3",
+      "ITU": "U",
+      "Student Materials": "Course: Software Engineering: Implementation and Testing https://www.coursera.org/learn/software-engineering-implementation-and-testing",
+      "S-Download": "",
+      "Student's Tasks": "- Watch all videos, read all materials in the MOOC - Finish quizzes, self-assessment, assignments and take part in discussion boards (if needed)",
+      "URLs": ""
+    },
+    {
+      "Session": "8",
+      "Topic": "MOOC 3: Software Engineering: Implementation and Testing Module 4: Debugging and Configuration Management Module 5: White Box Testing",
+      "Learning-Teaching Type": "Online",
+      "LO": "CLO3",
+      "ITU": "U",
+      "Student Materials": "Course: Software Engineering: Implementation and Testing https://www.coursera.org/learn/software-engineering-implementation-and-testing",
+      "S-Download": "",
+      "Student's Tasks": "- Watch all videos, read all materials in the MOOC - Finish quizzes, self-assessment, assignments and take part in discussion boards (if needed)",
+      "URLs": ""
+    },
+    {
+      "Session": "9",
+      "Topic": "MOOC 3 :Software Engineering: Implementation and Testing Module 6: Black Box Testing Module 7: Acceptance Testing",
+      "Learning-Teaching Type": "Online",
+      "LO": "CLO3",
+      "ITU": "U",
+      "Student Materials": "Course: Software Engineering: Implementation and Testing https://www.coursera.org/learn/software-engineering-implementation-and-testing",
+      "S-Download": "",
+      "Student's Tasks": "- Watch all videos, read all materials in the MOOC - Finish quizzes, self-assessment, assignments and take part in discussion boards (if needed)",
+      "URLs": ""
+    },
+    {
+      "Session": "10",
+      "Topic": "MOOC 4: Software Engineering: Software Design and Project Management Module 1: System Analysis and Design Module 2: State Machine Diagram",
+      "Learning-Teaching Type": "Online",
+      "LO": "CLO4",
+      "ITU": "U",
+      "Student Materials": "Course: Software Engineering: Software Design and Project Management https://www.coursera.org/learn/software-engineering-software-design-and-project-management",
+      "S-Download": "",
+      "Student's Tasks": "- Watch all videos, read all materials in the MOOC - Finish quizzes, self-assessment, assignments and take part in discussion boards (if needed)",
+      "URLs": ""
+    },
+    {
+      "Session": "11",
+      "Topic": "MOOC 4: Software Engineering: Software Design and Project Management Module 3: Design Patterns Module 4: More Design Patterns",
+      "Learning-Teaching Type": "Online",
+      "LO": "CLO4",
+      "ITU": "U",
+      "Student Materials": "Course: Software Engineering: Software Design and Project Management https://www.coursera.org/learn/software-engineering-software-design-and-project-management",
+      "S-Download": "",
+      "Student's Tasks": "- Watch all videos, read all materials in the MOOC - Finish quizzes, self-assessment, assignments and take part in discussion boards (if needed)",
+      "URLs": ""
+    },
+    {
+      "Session": "12",
+      "Topic": "MOOC 4: Software Engineering: Software Design and Project Management Module 5: Software Quality Assurance Module 6: Managing Software Development",
+      "Learning-Teaching Type": "Offline,Online",
+      "LO": "CLO4",
+      "ITU": "TU",
+      "Student Materials": "Course: Software Engineering: Software Design and Project Management https://www.coursera.org/learn/software-engineering-software-design-and-project-management",
+      "S-Download": "",
+      "Student's Tasks": "- Watch all videos, read all materials in the MOOC - Finish quizzes, self-assessment, assignments and take part in discussion boards (if needed) Deadline of Coursera completion: End of Friday of the week. All students should participate in review slot (if any question)",
+      "URLs": ""
+    }
+  ],
+  "constructive_questions": [],
+  "materials": [
+    {
+      "No.": "1",
+      "Material Description": "MOOC 01: Generative AI in Software Development",
+      "Author": "Amazon",
+      "Publisher": "Coursera",
+      "Published Date": "",
+      "Edition": "",
+      "ISBN": "",
+      "Is Main Material": "True",
+      "Is Hard Copy": "False",
+      "Is Online": "True",
+      "Note": "https://www.coursera.org/learn/generative-ai-in-software-development#modules"
+    },
+    {
+      "No.": "2",
+      "Material Description": "MOOC 02: Software Engineering: Modeling Software Systems using UML",
+      "Author": "Kenneth W T Leung",
+      "Publisher": "Coursera",
+      "Published Date": "",
+      "Edition": "",
+      "ISBN": "",
+      "Is Main Material": "True",
+      "Is Hard Copy": "False",
+      "Is Online": "True",
+      "Note": "https://www.coursera.org/learn/software-engineering-modeling-software-systems-using-uml?specialization=software-engineering"
+    },
+    {
+      "No.": "3",
+      "Material Description": "MOOC 03: Software Engineering: Implementation and Testing",
+      "Author": "Kenneth W T Leung",
+      "Publisher": "Coursera",
+      "Published Date": "",
+      "Edition": "",
+      "ISBN": "",
+      "Is Main Material": "True",
+      "Is Hard Copy": "False",
+      "Is Online": "True",
+      "Note": "https://www.coursera.org/learn/software-engineering-implementation-and-testing?specialization=software-engineering"
+    },
+    {
+      "No.": "4",
+      "Material Description": "MOOC 04: Software Engineering: Software Design and Project Management",
+      "Author": "Kenneth W T Leung",
+      "Publisher": "Coursera",
+      "Published Date": "",
+      "Edition": "",
+      "ISBN": "",
+      "Is Main Material": "True",
+      "Is Hard Copy": "False",
+      "Is Online": "True",
+      "Note": "https://www.coursera.org/learn/software-engineering-software-design-and-project-management?specialization=software-engineering"
+    }
+  ],
+  "source_path": "data/raw/syllabi/13769.html",
+  "id": "syllabus:13769"
+}

@@ -1,0 +1,574 @@
+{
+  "syllabus_id": 2249,
+  "subject_code": "MMP101",
+  "subject_name": "Media Psychology",
+  "syllabus_name": "MEDIA PSYCHOLOGY _Tâm lý học truyền thông",
+  "credits": 3,
+  "degree_level": "Nil",
+  "time_allocation": "30 sessions; 1 session= 90 minutes",
+  "prerequisite": "Nil",
+  "general_information": {
+    "Syllabus ID": "2249",
+    "Syllabus Name": "MEDIA PSYCHOLOGY _Tâm lý học truyền thông",
+    "Course Name English": "",
+    "Subject Code": "MMP101",
+    "Learning-Teaching Method": "",
+    "NoCredit": "3",
+    "Degree Level": "Nil",
+    "Time Allocation": "30 sessions; 1 session= 90 minutes",
+    "Pre-Requisite": "Nil",
+    "Description": "'-Objective: Understand and can be applied the cognitive psychology theories of mass comunication. -Description: This course will focus on a range of psychological theories, processes, and principles in the context of mass communication. Students will explore the application of these theories and principles to several prominent issues will be discussed. Such issues may include politics, sex, and violence, to lesser-studied topics, such as sports, music, emotion, and technology of various media. In addition, this course examines how our experiences with media affect the way we acquire knowledge about the world, and how this knowledge influences our attitudes and behavior. -Teaching method: Presentation, Disscussion, teamwork, critical thinking.",
+    "StudentTasks": "'<- Students must attend more than 80% of contact slots in order to be accepted to the final examination. - Student is responsible to do all exercises, assignments and labs given by instructor in class or at home and submit on time - Use laptop in class only for learning purpose - Promptly access to the FU CMS at http://cms.fpt.edu.vn for up-to-date course information>",
+    "Tools": "",
+    "Scoring Scale": "10",
+    "DecisionNo MM/dd/yyyy": "1293/QĐ-ĐHFPT dated 12/02/2020",
+    "IsApproved": "True",
+    "Note": "Assessment scheme: 1) On-going assessment: - Participation(1) 10% - Progress test (2): 20% - Individual assignment (1): 15% - Group project (1): 25% 2) Final exam: 30% Total 100% 3) Completion Criteria: Every on-going assessment component > 0; Final Exam Score >= 4 & Final Result >=5",
+    "Is Scored": "True",
+    "MinAvgMarkToPass": "5",
+    "IsActive": "True",
+    "ApprovedDate": "12/2/2020"
+  },
+  "active": true,
+  "approved": true,
+  "decision": "1293/QĐ-ĐHFPT dated 12/02/2020",
+  "description": "'-Objective: Understand and can be applied the cognitive psychology theories of mass comunication. -Description: This course will focus on a range of psychological theories, processes, and principles in the context of mass communication. Students will explore the application of these theories and principles to several prominent issues will be discussed. Such issues may include politics, sex, and violence, to lesser-studied topics, such as sports, music, emotion, and technology of various media. In addition, this course examines how our experiences with media affect the way we acquire knowledge about the world, and how this knowledge influences our attitudes and behavior. -Teaching method: Presentation, Disscussion, teamwork, critical thinking.",
+  "learning_outcomes": [
+    {
+      "No.": "1",
+      "CLO Name": "CLO1",
+      "CLO Details": "Understand the changing media landscape"
+    },
+    {
+      "No.": "2",
+      "CLO Name": "CLO2",
+      "CLO Details": "Explain the types of research methodologies that have been used to study media and Identify mass communication from a psychological perspective"
+    },
+    {
+      "No.": "3",
+      "CLO Name": "CLO3",
+      "CLO Details": "Explain and apply psychological theories used in mass communication's research"
+    },
+    {
+      "No.": "4",
+      "CLO Name": "CLO4",
+      "CLO Details": "Apply and create about psychological application in sport, music."
+    },
+    {
+      "No.": "5",
+      "CLO Name": "CLO5",
+      "CLO Details": "State and evaluate the issue of group portrayals in the media"
+    },
+    {
+      "No.": "6",
+      "CLO Name": "CLO6",
+      "CLO Details": "Analyse the world as created by advertising, including techniques of persuasion, the psychology of deceptive advertising, subliminal advertising, the emergence of advertising in new places"
+    },
+    {
+      "No.": "7",
+      "CLO Name": "CLO7",
+      "CLO Details": "Analyse how the media’s coverage of news affects our understanding of and attitudes to events in the world"
+    },
+    {
+      "No.": "8",
+      "CLO Name": "CLO8",
+      "CLO Details": "State how politicians manipulate media coverage to convey their own intended reality"
+    },
+    {
+      "No.": "9",
+      "CLO Name": "CLO9",
+      "CLO Details": "Explain media violence, including induced fear, modeling, catharsis, desensitization, and the cultivation of fear"
+    },
+    {
+      "No.": "10",
+      "CLO Name": "CLO10",
+      "CLO Details": "Understand and evaluate about effects of sex in the media to people."
+    },
+    {
+      "No.": "11",
+      "CLO Name": "CLO11",
+      "CLO Details": "Analyse Socially Positive Media and Understand responding to Media: Getting Our Two Cents In"
+    }
+  ],
+  "assessments": [
+    {
+      "No.": "1",
+      "Category": "Group Project",
+      "Type": "on-going",
+      "Part": "1",
+      "Weight": "25.0%",
+      "Completion Criteria": ">0",
+      "Duration": "Week 6-7",
+      "CLO": "LO1, LO2, LO3, LO4, LO5, LO6",
+      "Question Type": "Request: Each team needs to create a promotional product (video is recommended). - Choose an ideas - Compose contents - Making video (2 weeks) Result: - A video promoting any product - Present about video, explain the psychological applications the group used in the video.",
+      "No Question": "1",
+      "Knowledge and Skill": "Chapter 1-6",
+      "Grading Guide": "Class room/or outside",
+      "Note": "The trainer is the one who decides the group project subject. The mark will be given based on each student's performance, not on the whole group's. It means each student will get their own mark. Group size: 5-7 people"
+    },
+    {
+      "No.": "2",
+      "Category": "Individual Assignment",
+      "Type": "on-going",
+      "Part": "1",
+      "Weight": "15.0%",
+      "Completion Criteria": ">0",
+      "Duration": "Week 8-9",
+      "CLO": "LO7, LO8, LO9",
+      "Question Type": "Request example: From the content of chapter 7 & 8 students need to write an article analyzing a political issue, current events in a specific country.",
+      "No Question": "1",
+      "Knowledge and Skill": "Chapter 7-9",
+      "Grading Guide": "Class room/or outside",
+      "Note": "The trainer is the one who decides the individual assignment question."
+    },
+    {
+      "No.": "3",
+      "Category": "Participation",
+      "Type": "on-going",
+      "Part": "1",
+      "Weight": "10.0%",
+      "Completion Criteria": ">0",
+      "Duration": "Week 1- 10",
+      "CLO": "LO1, LO2, LO3, LO4, LO5, LO6, LO7, LO8, LO9, LO10",
+      "Question Type": "based on class attitudes and participation",
+      "No Question": "1",
+      "Knowledge and Skill": "",
+      "Grading Guide": "",
+      "Note": ""
+    },
+    {
+      "No.": "4",
+      "Category": "Progress test 1",
+      "Type": "on-going",
+      "Part": "1",
+      "Weight": "10.0%",
+      "Completion Criteria": ">0",
+      "Duration": "Week 3",
+      "CLO": "LO1, LO2, LO3, LO4",
+      "Question Type": "Test is based on the main content of the chapter.",
+      "No Question": "20 - 40",
+      "Knowledge and Skill": "Chapter 1-4",
+      "Grading Guide": "Multiple choice (< 20 questions) or essay (1-2 questions) Individual: 45-60'",
+      "Note": "The trainer is the one who decides the test progress questions."
+    },
+    {
+      "No.": "5",
+      "Category": "Progress test 2",
+      "Type": "on-going",
+      "Part": "1",
+      "Weight": "10.0%",
+      "Completion Criteria": ">0",
+      "Duration": "Week 10",
+      "CLO": "LO5, LO6, LO8, LO9, LO10",
+      "Question Type": "Test is based on the main content of the chapter",
+      "No Question": "20 - 40",
+      "Knowledge and Skill": "Chapter 5-11",
+      "Grading Guide": "Multiple choice (< 20 questions) or essay (1-2 questions) Individual: 45-60'",
+      "Note": "The trainer is the one who decides the individual assignment question."
+    },
+    {
+      "No.": "6",
+      "Category": "Final exam",
+      "Type": "Final exam",
+      "Part": "1",
+      "Weight": "30.0%",
+      "Completion Criteria": "4",
+      "Duration": "60'",
+      "CLO": "LO1, LO2, LO3, LO4, LO5, LO6, LO7, LO8, LO9, LO10",
+      "Question Type": "Multiple choice",
+      "No Question": "45",
+      "Knowledge and Skill": "The question will cover the lectures, class discussions, activities, exercises, and textbook.",
+      "Grading Guide": "Exam room",
+      "Note": "Students are not allowed to use document/information in any form in exam room"
+    }
+  ],
+  "schedule": [
+    {
+      "Session": "1",
+      "Topic": "Introduction. Chapter 1. Mass Communication in Our Wired Society: The Changing Media Landscape",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO1",
+      "ITU": "IT",
+      "Student Materials": "Download toàn bộ slide bài giảng tại đây: https://drive.google.com/drive/folders/16xjDuNF3Wgb7OJ3erDmsHNSmf8S4A4Fw?usp=sharing ' - Read Chapter 1 - Read slides: Chapter 1",
+      "S-Download": "",
+      "Student's Tasks": "Student: Review Chapter 1 Discussion. Teacher:Teacher's Presentation, Discussion, Exercises.",
+      "URLs": ""
+    },
+    {
+      "Session": "2",
+      "Topic": "Chapter 1. Mass Communication in Our Wired Society: The Changing Media Landscape",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO1",
+      "ITU": "IT",
+      "Student Materials": "' - Read Chapter 1 - Read slides: Chapter 1",
+      "S-Download": "",
+      "Student's Tasks": "Student: Review Chapter 2 Discussion. Teacher: Teacher's Presentation, Discussion, Exercises.",
+      "URLs": ""
+    },
+    {
+      "Session": "3",
+      "Topic": "Chapter 2. Research and Theory in Mass Communication: How Are Media Studied Scientifically",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO2",
+      "ITU": "IT",
+      "Student Materials": "' - Read Chapter 2 - Read slides: Chapter 2",
+      "S-Download": "",
+      "Student's Tasks": "Student: Review Chapter 2 Discussion. Teacher: Teacher's Presentation, Discussion, Exercises.",
+      "URLs": ""
+    },
+    {
+      "Session": "4",
+      "Topic": "Chapter 2. Research and Theory in Mass Communication: How Are Media Studied Scientifically (cont).",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO2",
+      "ITU": "IU",
+      "Student Materials": "' - Read Chapter 2 - Read slides: Chapter 2",
+      "S-Download": "",
+      "Student's Tasks": "student: Prepare slides Teacher: Teacher's Presentation, Discussion, Exercises.",
+      "URLs": ""
+    },
+    {
+      "Session": "5",
+      "Topic": "Chapter 3. The Psychology of Mass Communication",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO3",
+      "ITU": "TU",
+      "Student Materials": "' - Read Chapter 3 - Read slides: Chapter 3",
+      "S-Download": "",
+      "Student's Tasks": "Student: Review Chapter 3 Discussion. Teacher: Teacher's Presentation, Discussion, Exercises.",
+      "URLs": ""
+    },
+    {
+      "Session": "6",
+      "Topic": "Chapter 3. The Psychology of Mass Communication (cont)",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO3",
+      "ITU": "TU",
+      "Student Materials": "' - Read Chapter 3 - Read slides: Chapter 3",
+      "S-Download": "",
+      "Student's Tasks": "Student: Review Chapter 3 Discussion. Teacher: Teacher's Presentation, Discussion, Exercises.",
+      "URLs": ""
+    },
+    {
+      "Session": "7",
+      "Topic": "Chapter 4. Emotions and Media: Music and sports as Exemplars",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO4",
+      "ITU": "TU",
+      "Student Materials": "' - Read Chapter 4 - Read slides: Chapter 4",
+      "S-Download": "",
+      "Student's Tasks": "Student:Review Chapter 4 Discussion. Teacher: Teacher's Presentation, Discussion, Exercises.",
+      "URLs": ""
+    },
+    {
+      "Session": "8",
+      "Topic": "Chapter 4. Emotions and Media: Music and sports as Exemplars (cont)",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO4",
+      "ITU": "TU",
+      "Student Materials": "' - Read Chapter 4 - Read slides: Chapter 4",
+      "S-Download": "",
+      "Student's Tasks": "Student:Review Chapter 4 Discussion. Teacher:Teacher's Presentation, Discussion, Exercises.",
+      "URLs": ""
+    },
+    {
+      "Session": "9",
+      "Topic": "Progress test 1",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO1, LO2, LO3, LO4",
+      "ITU": "U",
+      "Student Materials": "' - Read Chapter 1- 4 - Read slides: Chapter 1- 4",
+      "S-Download": "",
+      "Student's Tasks": "student:Review Chapter 1- 4 Teacher:Teacher's Presentation, Discussion, Exercises.",
+      "URLs": ""
+    },
+    {
+      "Session": "10",
+      "Topic": "Chapter 5. Advertising: Baiting, Catching, and Reeling Us In",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO5",
+      "ITU": "IT",
+      "Student Materials": "' - Read Chapter 5 - Read slides: Chapter 5",
+      "S-Download": "",
+      "Student's Tasks": "Student:Review Chapter 5 Discussion. Teacher: Teacher's Presentation, Discussion, Exercises.",
+      "URLs": ""
+    },
+    {
+      "Session": "11",
+      "Topic": "Chapter 5. Advertising: Baiting, Catching, and Reeling Us In (cont) Discussion",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO5",
+      "ITU": "TU",
+      "Student Materials": "' - Read Chapter 5 - Read slides: Chapter 5",
+      "S-Download": "",
+      "Student's Tasks": "Student: Review Chapter 5 Discussion. Teacher: Teacher's Presentation, Discussion, Exercises.",
+      "URLs": ""
+    },
+    {
+      "Session": "12",
+      "Topic": "Chapter 6. Sports, Music, and Religion: Emotion to the Forefront",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO6",
+      "ITU": "IT",
+      "Student Materials": "' - Read Chapter 6 - Read slides: Chapter 6",
+      "S-Download": "",
+      "Student's Tasks": "Student:Review Chapter 6 Discussion. Teacher:Teacher's Presentation, Discussion, Exercises.",
+      "URLs": ""
+    },
+    {
+      "Session": "13",
+      "Topic": "Chapter 6. Advertising: Baiting, Catching, and Reeling Us In (cont)",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO6",
+      "ITU": "TU",
+      "Student Materials": "' - Read Chapter 6 - Read slides: Chapter 6",
+      "S-Download": "",
+      "Student's Tasks": "Student:Review Chapter 6 Discussion. Teacher: Teacher's Presentation, Discussion, Exercises.",
+      "URLs": ""
+    },
+    {
+      "Session": "14",
+      "Topic": "Group Project: Guide students to do Group project. Student divided into 5 - 7 group size. Prepare the project ideas and plan.",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO1, LO2, LO3, LO4, LO5, LO6",
+      "ITU": "IU",
+      "Student Materials": "' - Read the request of group project. - Read chapter 2-5 - Design a project plan",
+      "S-Download": "",
+      "Student's Tasks": "Student: Draff the idea of group project. Discussion. Discussion. Teacher:Teacher's Presentation, Discussion, Exercises.",
+      "URLs": ""
+    },
+    {
+      "Session": "15",
+      "Topic": "Group Project (continues): Proceed as a group project",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO1, LO2, LO3, LO4, LO5, LO6",
+      "ITU": "IU",
+      "Student Materials": "'The product is a media video",
+      "S-Download": "",
+      "Student's Tasks": "student:Discussion and working in group. Teacher:Teacher's Presentation, Discussion, Exercises. (indoor or outside).",
+      "URLs": ""
+    },
+    {
+      "Session": "16",
+      "Topic": "Group Project (continues): Proceed as a group project",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO1, LO2, LO3, LO4, LO5, LO6",
+      "ITU": "IU",
+      "Student Materials": "'The product is a media video",
+      "S-Download": "",
+      "Student's Tasks": "Student: Discussion and working in group. teacher:Teacher's Presentation, Discussion, Exercises. (indoor or outside).",
+      "URLs": ""
+    },
+    {
+      "Session": "17",
+      "Topic": "Group Project (continues): Presenting project results",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO1, LO2, LO3, LO4, LO5, LO6",
+      "ITU": "IU",
+      "Student Materials": "'A media video of group project A PPT to present about that product.",
+      "S-Download": "",
+      "Student's Tasks": "Student:Prepare slides and video,Discussion. Teacher:Teacher's Presentation, Discussion, Exercises.",
+      "URLs": ""
+    },
+    {
+      "Session": "18",
+      "Topic": "Chapter 7. News: Setting an Agenda About the World",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO7",
+      "ITU": "IU",
+      "Student Materials": "'- Read Chapter 7 - Read slides: Chapter 7",
+      "S-Download": "",
+      "Student's Tasks": "Student: Review Chapter 7 Discussion. Teacher:Teacher's Presentation, Discussion, Exercises.",
+      "URLs": ""
+    },
+    {
+      "Session": "19",
+      "Topic": "Chapter 7. News: Setting an Agenda About the World (cont)",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO7",
+      "ITU": "TU",
+      "Student Materials": "'- Read Chapter 7 - Read slides: Chapter 7",
+      "S-Download": "",
+      "Student's Tasks": "Student: Review Chapter 7 Discussion. Teacher:Teacher's Presentation, Discussion, Exercises.",
+      "URLs": ""
+    },
+    {
+      "Session": "20",
+      "Topic": "Chapter 8. Politics: Using News and Advertising to Win Elections",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO8",
+      "ITU": "IT",
+      "Student Materials": "' - Read Chapter 8 - Read slides: Chapter 8",
+      "S-Download": "",
+      "Student's Tasks": "Student:Review Chapter 8 Discussion. Teacher:Teacher's Presentation, Discussion, Exercises.",
+      "URLs": ""
+    },
+    {
+      "Session": "21",
+      "Topic": "Chapter 8. Politics: Using News and Advertising to Win Elections (cont)",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO8",
+      "ITU": "TU",
+      "Student Materials": "' - Read Chapter 8 - Read slides: Chapter 8",
+      "S-Download": "",
+      "Student's Tasks": "Studenta:Review Chapter 8 Discussion. Teacher:Teacher's Presentation, Discussion, Exercises.",
+      "URLs": ""
+    },
+    {
+      "Session": "22",
+      "Topic": "Chapter 9. Violence: Watching All That Mayhem Really Matters",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO9",
+      "ITU": "IT",
+      "Student Materials": "' - Read Chapter 9 - Read slides: Chapter 9",
+      "S-Download": "",
+      "Student's Tasks": "Student: Review Chapter 9 Discussion. Teacher:Teacher's Presentation, Discussion, Exercises.",
+      "URLs": ""
+    },
+    {
+      "Session": "23",
+      "Topic": "Chapter 9. Violence: Watching All That Mayhem Really Matters (cont)",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO9",
+      "ITU": "TU",
+      "Student Materials": "- Read Chapter 9 - Read slides: Chapter 9",
+      "S-Download": "",
+      "Student's Tasks": "Student:Review Chapter 9 Discussion. Teacher:Teacher's Presentation, Discussion, Exercises.",
+      "URLs": ""
+    },
+    {
+      "Session": "24",
+      "Topic": "Individual Assignment",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO7, LO8, LO9",
+      "ITU": "TU",
+      "Student Materials": "Read chapter 7-9 The product is an article",
+      "S-Download": "",
+      "Student's Tasks": "Student: Review Chapter 7-9 Teacher:Teacher's Presentation, Discussion, Exercises.",
+      "URLs": ""
+    },
+    {
+      "Session": "25",
+      "Topic": "Chapter 10. Sex: Is Tuning In Turning Us On?: Sexuality through a Media Lens",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO10",
+      "ITU": "IT",
+      "Student Materials": "' - Read Chapter 10 - Read slides: Chapter 10",
+      "S-Download": "",
+      "Student's Tasks": "Student:Review Chapter 10 Discussion Teacher:Teacher's Presentation, Discussion, Exercises.",
+      "URLs": ""
+    },
+    {
+      "Session": "26",
+      "Topic": "Chapter 10. Sex: Is Tuning In Turning Us On?: Sexuality through a Media Lens (cont)",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO10",
+      "ITU": "TU",
+      "Student Materials": "'- Read Chapter 10 - Read slides: Chapter 10",
+      "S-Download": "",
+      "Student's Tasks": "Student: Review Chapter 10 Discussion. Teacher:Teacher's Presentation, Discussion, Exercises.",
+      "URLs": ""
+    },
+    {
+      "Session": "27",
+      "Topic": "Chapter 11. Socially Positive Media: Teaching Good Things to Children (and the Rest of Us)",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO11",
+      "ITU": "IT",
+      "Student Materials": "- Read Chapter 11 - Read slides: Chapter 11",
+      "S-Download": "",
+      "Student's Tasks": "Student:Review Chapter 11 Discussion. Teacher:Teacher's Presentation, Discussion, Exercises.",
+      "URLs": ""
+    },
+    {
+      "Session": "28",
+      "Topic": "Progress test 2",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO5, LO6, LO7, LO8, LO9, LO10",
+      "ITU": "TU",
+      "Student Materials": "'Read chapter 5-11",
+      "S-Download": "",
+      "Student's Tasks": "Student: Review Chapter 5-11 Teacher:Teacher's Presentation, Discussion, Exercises.",
+      "URLs": ""
+    },
+    {
+      "Session": "29",
+      "Topic": "COURSE REVIEW",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO1, LO2, LO3, LO4, LO5, LO6, LO7, LO8, LO9, LO10, LO11",
+      "ITU": "TU",
+      "Student Materials": "Review all chapters",
+      "S-Download": "",
+      "Student's Tasks": "Student: Review all chapters Teacher:Teacher's Presentation, Discussion, Exercises.",
+      "URLs": ""
+    },
+    {
+      "Session": "30",
+      "Topic": "COURSE REVIEW",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO1, LO2, LO3, LO4, LO5, LO6, LO7, LO8, LO9, LO10, LO11",
+      "ITU": "TU",
+      "Student Materials": "Review all chapters",
+      "S-Download": "",
+      "Student's Tasks": "Student:Review all chapters Teacher:Teacher's Presentation, Discussion, Exercises.",
+      "URLs": ""
+    }
+  ],
+  "constructive_questions": [],
+  "materials": [
+    {
+      "No.": "1",
+      "Material Description": "A Cognitive Psychology of Mass Communication 7th, 2019",
+      "Author": "Richard Jackson Harris, Fred W. Sanborn",
+      "Publisher": "Routledge",
+      "Published Date": "",
+      "Edition": "7th",
+      "ISBN": "",
+      "Is Main Material": "True",
+      "Is Hard Copy": "True",
+      "Is Online": "False",
+      "Note": "7th, 2019"
+    },
+    {
+      "No.": "2",
+      "Material Description": "Psychology of the Media",
+      "Author": "",
+      "Publisher": "",
+      "Published Date": "",
+      "Edition": "",
+      "ISBN": "",
+      "Is Main Material": "False",
+      "Is Hard Copy": "True",
+      "Is Online": "False",
+      "Note": ""
+    },
+    {
+      "No.": "3",
+      "Material Description": "Media Psychology",
+      "Author": "",
+      "Publisher": "",
+      "Published Date": "",
+      "Edition": "",
+      "ISBN": "",
+      "Is Main Material": "False",
+      "Is Hard Copy": "True",
+      "Is Online": "False",
+      "Note": ""
+    },
+    {
+      "No.": "4",
+      "Material Description": "A Practical Guide To Advanced Networking, 6th, 2013",
+      "Author": "Richard Jackson Harris, Fred W. Sanborn",
+      "Publisher": "Pearson.",
+      "Published Date": "",
+      "Edition": "6th, 2013",
+      "ISBN": "978-0415537056",
+      "Is Main Material": "False",
+      "Is Hard Copy": "True",
+      "Is Online": "False",
+      "Note": ""
+    }
+  ],
+  "source_path": "data/raw/syllabi/2249.html",
+  "id": "syllabus:2249"
+}

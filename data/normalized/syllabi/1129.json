@@ -1,0 +1,365 @@
+{
+  "syllabus_id": 1129,
+  "subject_code": "IAD101b",
+  "subject_name": "Intro to Automotive Application Development_Giới thiệu về lập trình ứng dụng cho ôtô",
+  "syllabus_name": "Intro to Automotive Application Development_Giới thiệu về lập trình ứng dụng cho ô tô",
+  "credits": 1,
+  "degree_level": "Bachelor",
+  "time_allocation": "15 hours (1 credit): - 10 online sessions (1 session = 90 minutes) - 1 final exam includes Theoretical Exam (30 minutes)",
+  "prerequisite": "Introduction to Automotive Application Development",
+  "general_information": {
+    "Syllabus ID": "1129",
+    "Syllabus Name": "Intro to Automotive Application Development_Giới thiệu về lập trình ứng dụng cho ô tô",
+    "Course Name English": "",
+    "Subject Code": "IAD101b",
+    "Learning-Teaching Method": "",
+    "NoCredit": "1",
+    "Degree Level": "Bachelor",
+    "Time Allocation": "15 hours (1 credit): - 10 online sessions (1 session = 90 minutes) - 1 final exam includes Theoretical Exam (30 minutes)",
+    "Pre-Requisite": "Introduction to Automotive Application Development",
+    "Description": "The course is aim to equip lIn this course, you will become familiar with the industry and the components of an automotive system; overview of automotive software development; overview of automotive programming languages; operating system and car communication network; and the field's standards. Through this course, you get a complete picture of automotive application development and job opportunities in this strongly growing industry.earners to create convenient, fine user interface on auto. Qt is a popular framework to develop UI software application on automotive sysem. The student will learn about Principles of Qt framework; Techniques, tools and skills essentials to build UI with QML; Techniques to link UI in QML with functional logics in C++; How to use Qt framework for techniques in programming like Multithread, multi languages",
+    "StudentTasks": "- Students should self-study all lessons on LMS in time - Pass all conditions before taking final exam in campus",
+    "Tools": "",
+    "Scoring Scale": "10",
+    "DecisionNo MM/dd/yyyy": "1049/QĐ-ĐHFPT dated 08/12/2019",
+    "IsApproved": "True",
+    "Note": "",
+    "Is Scored": "True",
+    "MinAvgMarkToPass": "5",
+    "IsActive": "True",
+    "ApprovedDate": "8/12/2019"
+  },
+  "active": true,
+  "approved": true,
+  "decision": "1049/QĐ-ĐHFPT dated 08/12/2019",
+  "description": "The course is aim to equip lIn this course, you will become familiar with the industry and the components of an automotive system; overview of automotive software development; overview of automotive programming languages; operating system and car communication network; and the field's standards. Through this course, you get a complete picture of automotive application development and job opportunities in this strongly growing industry.earners to create convenient, fine user interface on auto. Qt is a popular framework to develop UI software application on automotive sysem. The student will learn about Principles of Qt framework; Techniques, tools and skills essentials to build UI with QML; Techniques to link UI in QML with functional logics in C++; How to use Qt framework for techniques in programming like Multithread, multi languages",
+  "learning_outcomes": [
+    {
+      "No.": "1",
+      "CLO Name": "CIAD101b_o1",
+      "CLO Details": "Be able to to present the general structure of the automotive system"
+    },
+    {
+      "No.": "2",
+      "CLO Name": "CIAD101b_o2",
+      "CLO Details": "Be able to to present the role of Body Electronics system"
+    },
+    {
+      "No.": "3",
+      "CLO Name": "CIAD101b_o3",
+      "CLO Details": "Be able to to present the role of Brake & Chassis system"
+    },
+    {
+      "No.": "4",
+      "CLO Name": "CIAD101b_o4",
+      "CLO Details": "Be able to to present the role of the Engine system"
+    },
+    {
+      "No.": "5",
+      "CLO Name": "CIAD101b_o5",
+      "CLO Details": "Be able to to present the role of Drive & Train system"
+    },
+    {
+      "No.": "6",
+      "CLO Name": "CIAD101b_o6",
+      "CLO Details": "Be able to to present the role of Infotainment"
+    },
+    {
+      "No.": "7",
+      "CLO Name": "CIAD101b_o7",
+      "CLO Details": "Be able to to present the role of the sensor system"
+    },
+    {
+      "No.": "8",
+      "CLO Name": "CIAD101b_o8",
+      "CLO Details": "Be able to to present the future trend of automotive technology"
+    },
+    {
+      "No.": "9",
+      "CLO Name": "CIAD101b_o9",
+      "CLO Details": "Be able to to present the role of automotive technology in the industrial revolution 4.0"
+    },
+    {
+      "No.": "10",
+      "CLO Name": "CIAD101b_o10",
+      "CLO Details": "Be able to to list the key areas in car software development"
+    },
+    {
+      "No.": "11",
+      "CLO Name": "CIAD101b_o11",
+      "CLO Details": "Be able to to present what smart cars are"
+    },
+    {
+      "No.": "12",
+      "CLO Name": "CIAD101b_o12",
+      "CLO Details": "Be able to to present some software systems on cars"
+    },
+    {
+      "No.": "13",
+      "CLO Name": "CIAD101b_o13",
+      "CLO Details": "Be able to to explain some keywords in automotive entertainment such as AVN, Media, Navigation"
+    },
+    {
+      "No.": "14",
+      "CLO Name": "CIAD101b_o14",
+      "CLO Details": "Be able to to present what kind of applications are classified as Vehicle Control"
+    },
+    {
+      "No.": "15",
+      "CLO Name": "CIAD101b_o15",
+      "CLO Details": "Be able to to present what kind of application that the Safety & Comfort is providing for current car technology such as lane control, object detection, ..."
+    },
+    {
+      "No.": "16",
+      "CLO Name": "CIAD101b_o16",
+      "CLO Details": "Be able to to present the current smart applications such as automatic parking assistance."
+    },
+    {
+      "No.": "17",
+      "CLO Name": "CIAD101b_o17",
+      "CLO Details": "Understand the growing communication connections in cars like Bluetooth, wifi, android auto, car play, telematic"
+    },
+    {
+      "No.": "18",
+      "CLO Name": "CIAD101b_o18",
+      "CLO Details": "Be able to to present the role of the C, C++ language in the automotive industry"
+    },
+    {
+      "No.": "19",
+      "CLO Name": "CIAD101b_o19",
+      "CLO Details": "Be able to to present the role of Qt in developing car entertainment systems"
+    },
+    {
+      "No.": "20",
+      "CLO Name": "CIAD101b_o20",
+      "CLO Details": "Be able to to present the new role of Android in the automotive industry"
+    },
+    {
+      "No.": "21",
+      "CLO Name": "CIAD101b_o21",
+      "CLO Details": "Be able to to present what V2X is"
+    },
+    {
+      "No.": "22",
+      "CLO Name": "CIAD101b_o22",
+      "CLO Details": "Be able to to present the common communication used in cars such as CAN, LIN, MOST"
+    },
+    {
+      "No.": "23",
+      "CLO Name": "CIAD101b_o23",
+      "CLO Details": "Be able to to present some popular operating systems for automotive application development"
+    },
+    {
+      "No.": "24",
+      "CLO Name": "CIAD101b_o24",
+      "CLO Details": "Be able to to present what ASPICE is"
+    },
+    {
+      "No.": "25",
+      "CLO Name": "CIAD101b_o25",
+      "CLO Details": "Be able to to present what AUTOSAR is"
+    },
+    {
+      "No.": "26",
+      "CLO Name": "CIAD101b_o26",
+      "CLO Details": "Be able to to present what ISO26262 is"
+    },
+    {
+      "No.": "27",
+      "CLO Name": "CIAD101b_o27",
+      "CLO Details": "Be able to to present what Misra C/C++ is"
+    }
+  ],
+  "assessments": [
+    {
+      "No.": "1",
+      "Category": "Assignment",
+      "Type": "on-going",
+      "Part": "2",
+      "Weight": "40.0%",
+      "Completion Criteria": ">0",
+      "Duration": "-",
+      "CLO": "",
+      "Question Type": "Multiple choice",
+      "No Question": "",
+      "Knowledge and Skill": "Content of the lesson",
+      "Grading Guide": "Multiple choices on LMS",
+      "Note": ""
+    },
+    {
+      "No.": "2",
+      "Category": "Q&A with mentor (8 questions required at least)",
+      "Type": "on-going",
+      "Part": "1",
+      "Weight": "10.0%",
+      "Completion Criteria": ">0",
+      "Duration": "Within course duration",
+      "CLO": "All LOs",
+      "Question Type": "Q&A",
+      "No Question": "3 questions at least",
+      "Knowledge and Skill": "Everything related to the subject",
+      "Grading Guide": "Via facebook Hannah",
+      "Note": ""
+    },
+    {
+      "No.": "3",
+      "Category": "Quiz",
+      "Type": "on-going",
+      "Part": "1",
+      "Weight": "10.0%",
+      "Completion Criteria": ">0",
+      "Duration": "2 minutes/quiz question",
+      "CLO": "",
+      "Question Type": "Multiple choice",
+      "No Question": "",
+      "Knowledge and Skill": "Content of the lesson",
+      "Grading Guide": "Quiz on LMS",
+      "Note": ""
+    },
+    {
+      "No.": "4",
+      "Category": "Final Exam",
+      "Type": "Final exam",
+      "Part": "1",
+      "Weight": "40.0%",
+      "Completion Criteria": "4",
+      "Duration": "180'",
+      "CLO": "",
+      "Question Type": "Theoretical test: Multiple choices",
+      "No Question": "20 questions",
+      "Knowledge and Skill": "The whole course content",
+      "Grading Guide": "In campus",
+      "Note": ""
+    }
+  ],
+  "schedule": [
+    {
+      "Session": "1",
+      "Topic": "Online session 1: Course Introduction",
+      "Learning-Teaching Type": "Offline",
+      "LO": "",
+      "ITU": "",
+      "Student Materials": "",
+      "S-Download": "",
+      "Student's Tasks": "",
+      "URLs": ""
+    },
+    {
+      "Session": "2",
+      "Topic": "Lesson 1. Overview of the automobile industry and automotive system Quiz 1",
+      "Learning-Teaching Type": "Online",
+      "LO": "",
+      "ITU": "",
+      "Student Materials": "",
+      "S-Download": "",
+      "Student's Tasks": "",
+      "URLs": ""
+    },
+    {
+      "Session": "3",
+      "Topic": "Lesson 2. Overview of software development on cars Quiz 2",
+      "Learning-Teaching Type": "Online",
+      "LO": "",
+      "ITU": "",
+      "Student Materials": "",
+      "S-Download": "",
+      "Student's Tasks": "",
+      "URLs": ""
+    },
+    {
+      "Session": "4",
+      "Topic": "Progress Test 1",
+      "Learning-Teaching Type": "Online",
+      "LO": "",
+      "ITU": "",
+      "Student Materials": "",
+      "S-Download": "",
+      "Student's Tasks": "",
+      "URLs": ""
+    },
+    {
+      "Session": "5",
+      "Topic": "Lesson 3: Overview of programming languages used in automotive application Quiz 3",
+      "Learning-Teaching Type": "Online",
+      "LO": "",
+      "ITU": "",
+      "Student Materials": "",
+      "S-Download": "",
+      "Student's Tasks": "",
+      "URLs": ""
+    },
+    {
+      "Session": "6",
+      "Topic": "Lesson 4. Operating system and verhicle bus Quiz 4",
+      "Learning-Teaching Type": "Online",
+      "LO": "",
+      "ITU": "",
+      "Student Materials": "",
+      "S-Download": "",
+      "Student's Tasks": "",
+      "URLs": ""
+    },
+    {
+      "Session": "7",
+      "Topic": "Lesson 5. The standards used in automotive software development Quiz 5",
+      "Learning-Teaching Type": "Online",
+      "LO": "",
+      "ITU": "",
+      "Student Materials": "",
+      "S-Download": "",
+      "Student's Tasks": "",
+      "URLs": ""
+    },
+    {
+      "Session": "8",
+      "Topic": "Progress Test 2",
+      "Learning-Teaching Type": "Online",
+      "LO": "",
+      "ITU": "",
+      "Student Materials": "",
+      "S-Download": "",
+      "Student's Tasks": "",
+      "URLs": ""
+    },
+    {
+      "Session": "9",
+      "Topic": "Course review",
+      "Learning-Teaching Type": "Online",
+      "LO": "",
+      "ITU": "",
+      "Student Materials": "",
+      "S-Download": "",
+      "Student's Tasks": "",
+      "URLs": ""
+    },
+    {
+      "Session": "10",
+      "Topic": "Course review",
+      "Learning-Teaching Type": "Online",
+      "LO": "",
+      "ITU": "",
+      "Student Materials": "",
+      "S-Download": "",
+      "Student's Tasks": "",
+      "URLs": ""
+    }
+  ],
+  "constructive_questions": [],
+  "materials": [
+    {
+      "No.": "1",
+      "Material Description": "FU LMS course link: https://fu.funix.edu.vn/courses/course-v1:FUG+IAD101x_01_EN+2019_T9/info",
+      "Author": "",
+      "Publisher": "",
+      "Published Date": "",
+      "Edition": "",
+      "ISBN": "",
+      "Is Main Material": "True",
+      "Is Hard Copy": "False",
+      "Is Online": "True",
+      "Note": ""
+    }
+  ],
+  "source_path": "data/raw/syllabi/1129.html",
+  "id": "syllabus:1129"
+}

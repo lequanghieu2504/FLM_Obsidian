@@ -1,0 +1,292 @@
+{
+  "syllabus_id": 12512,
+  "subject_code": "FIM302c",
+  "subject_name": "Financial modelling_Mô hình tài chính",
+  "syllabus_name": "Financial modelling_Mô hình tài chính",
+  "credits": 3,
+  "degree_level": "Bachelor",
+  "time_allocation": "Online 49 hours+ 2 slots offline (optional)+108 hours self study",
+  "prerequisite": "FIN303",
+  "general_information": {
+    "Syllabus ID": "12512",
+    "Syllabus Name": "Financial modelling_Mô hình tài chính",
+    "Course Name English": "Financial modelling",
+    "Subject Code": "FIM302c",
+    "Learning-Teaching Method": "Online,Lecture,Project based learning",
+    "NoCredit": "3",
+    "Degree Level": "Bachelor",
+    "Time Allocation": "Online 49 hours+ 2 slots offline (optional)+108 hours self study",
+    "Pre-Requisite": "FIN303",
+    "Description": "The Startup Valuation and Financial Analysis Specialization teaches two of the most often used methods to find the value of a startup. You’ll learn how to find the value of founder’s ownership before and after additional funding, how to read financial statements and make pro-forma statements, and how to determine the financial health and status of a startup and estimate future earnings and value. You’ll then use various investment criteria, such as Net Present Value (NPV) and Individual Rate of Return (IRR), to make a decision about whether and where to invest your money. Note: Students who complete all MOOCs before the course deadline will receive 1 bonus point; otherwise, no bonus point will be awarded.",
+    "StudentTasks": "1. Join the online course (spec.) when being invited by the admin. 2. Enroll in each MOOC of spec., regularly study MOOCs at least 5hrs/week by watching videos, reading materials, taking quizzes, doing assgnments... as required 3. Respect the Coursera Code of Conduct, at https://learner.coursera.help/hc/en-us/articles/208280036-Coursera-Code-of-Conduct 3. Keep online learning progress promptly (bonus will be awarded) 4. Communicate and discuss in forum 5. Attend off-line sessions in the Campus (Optional) 6. Must complete all MOOCs of spec. with certification in order to take the Final Exam at Campus",
+    "Tools": "- Internet access",
+    "Scoring Scale": "10",
+    "DecisionNo MM/dd/yyyy": "359/QĐ-ĐHFPT dated 04/09/2025",
+    "IsApproved": "True",
+    "Note": "",
+    "Is Scored": "True",
+    "MinAvgMarkToPass": "5",
+    "IsActive": "True",
+    "ApprovedDate": "4/9/2025"
+  },
+  "active": true,
+  "approved": true,
+  "decision": "359/QĐ-ĐHFPT dated 04/09/2025",
+  "description": "The Startup Valuation and Financial Analysis Specialization teaches two of the most often used methods to find the value of a startup. You’ll learn how to find the value of founder’s ownership before and after additional funding, how to read financial statements and make pro-forma statements, and how to determine the financial health and status of a startup and estimate future earnings and value. You’ll then use various investment criteria, such as Net Present Value (NPV) and Individual Rate of Return (IRR), to make a decision about whether and where to invest your money. Note: Students who complete all MOOCs before the course deadline will receive 1 bonus point; otherwise, no bonus point will be awarded.",
+  "learning_outcomes": [
+    {
+      "No.": "1",
+      "CLO Name": "CLO1",
+      "CLO Details": "Apply basic models (DCF model, comparative model) to value a startup"
+    },
+    {
+      "No.": "2",
+      "CLO Name": "CLO2",
+      "CLO Details": "Develop pro-forma financial statements and apply financial ratio to assess financial health and status of a start-up company"
+    },
+    {
+      "No.": "3",
+      "CLO Name": "CLO3",
+      "CLO Details": "Apply flexibly investment criterias and methods in terms of investment decision making."
+    },
+    {
+      "No.": "4",
+      "CLO Name": "CLO4",
+      "CLO Details": "Develop skills relating to problem solving, critical thinking and data analysis."
+    }
+  ],
+  "assessments": [
+    {
+      "No.": "1",
+      "Category": "Final exam",
+      "Type": "Final exam",
+      "Part": "1",
+      "Weight": "100.0%",
+      "Completion Criteria": "4",
+      "Duration": "60'",
+      "CLO": "LO1, LO2, LO3",
+      "Question Type": "Multiple choicesMarked by Computer",
+      "No Question": "50",
+      "Knowledge and Skill": "5 Courses",
+      "Grading Guide": "by exam board, using computer",
+      "Note": ""
+    }
+  ],
+  "schedule": [
+    {
+      "Session": "1",
+      "Topic": "Course 1: Valuation for Startups Using Discounted Cash Flows Approach Lesson 1: Time Value of Money Lesson 2:Time Value of Money (2) Course Review - Offline (optional)",
+      "Learning-Teaching Type": "Online,Offline",
+      "LO": "LO1",
+      "ITU": "IT",
+      "Student Materials": "Videos, reading, quizzes",
+      "S-Download": "",
+      "Student's Tasks": "- Watch the videos - Read the materials - Do the quizzes - Complete the practice peer-graded assignment - Participate in the offline class (optional)",
+      "URLs": ""
+    },
+    {
+      "Session": "2",
+      "Topic": "Course 1: Valuation for Startups Using Discounted Cash Flows Approach Lesson 3: DCF Approach Lesson 4: DCF Approach (2)",
+      "Learning-Teaching Type": "Online",
+      "LO": "LO1",
+      "ITU": "T",
+      "Student Materials": "Videos, reading, quizzes",
+      "S-Download": "",
+      "Student's Tasks": "- Watch the videos - Read the materials - Do the quizzes - Complete the peer-graded assignment - Answers any questions of Students within this course",
+      "URLs": ""
+    },
+    {
+      "Session": "3",
+      "Topic": "Course 2: Valuation for Startups Using Multiple Approach Lesson 1: Valuation Based on Comparable Firms Lesson 2: Pre & Post money valuation",
+      "Learning-Teaching Type": "Online",
+      "LO": "LO1",
+      "ITU": "IT",
+      "Student Materials": "Videos, reading, quizzes",
+      "S-Download": "",
+      "Student's Tasks": "- Watch the videos - Read the materials - Do the quizzes - Complete the peer-graded assignment",
+      "URLs": ""
+    },
+    {
+      "Session": "4",
+      "Topic": "Course 2: Valuation for Startups Using Multiple Approach Lesson 3: Financial Statements Lesson 2: Cash Flow Lesson 5: Case study",
+      "Learning-Teaching Type": "Online",
+      "LO": "LO1",
+      "ITU": "TU",
+      "Student Materials": "Videos, reading, quizzes",
+      "S-Download": "",
+      "Student's Tasks": "- Watch the videos - Read the materials - Do the quizzes - Complete the peer-graded assignment - See all videos, read all materials in the modules",
+      "URLs": ""
+    },
+    {
+      "Session": "5",
+      "Topic": "Course 3: Financial analysis for startups Lesson 1: Financial Ratio Analysis Lesson 2: Long-term Financial Planning",
+      "Learning-Teaching Type": "Online",
+      "LO": "LO2",
+      "ITU": "T",
+      "Student Materials": "Videos, reading, quizzes",
+      "S-Download": "",
+      "Student's Tasks": "- Watch the videos - Read the materials - Do the quizzes - Complete the peer-graded assignment",
+      "URLs": ""
+    },
+    {
+      "Session": "6",
+      "Topic": "Course 3: Financial analysis for startups Lesson 3: Pro Forma Statements Lesson 4: Planning for growth at Ysom Inc.",
+      "Learning-Teaching Type": "Online",
+      "LO": "LO2",
+      "ITU": "T",
+      "Student Materials": "Videos, reading, quizzes",
+      "S-Download": "",
+      "Student's Tasks": "- Watch the videos - Read the materials - Do the quizzes - Complete the peer-graded assignment",
+      "URLs": ""
+    },
+    {
+      "Session": "7",
+      "Topic": "Course 3: Financial analysis for startups Lesson 3: Pro Forma Statements Lesson 4: Planning for growth at Ysom Inc.",
+      "Learning-Teaching Type": "Online",
+      "LO": "LO2",
+      "ITU": "U",
+      "Student Materials": "Videos, reading, quizzes",
+      "S-Download": "",
+      "Student's Tasks": "- Watch the videos - Read the materials - Do the quizzes - Complete the peer-graded assignment",
+      "URLs": ""
+    },
+    {
+      "Session": "8",
+      "Topic": "Course 4: Apply investment decision rules for startups Lesson 1: Capital budgeting techniques Lesson 2: Project analysis",
+      "Learning-Teaching Type": "Online",
+      "LO": "LO3",
+      "ITU": "T",
+      "Student Materials": "Videos, reading, quizzes",
+      "S-Download": "",
+      "Student's Tasks": "- Watch the videos - Read the materials - Do the quizzes - Complete the peer-graded assignment",
+      "URLs": ""
+    },
+    {
+      "Session": "9",
+      "Topic": "Course 4: Apply investment decision rules for startups Lesson 3: Issues in capital budgeting Lesson 4: Real options in business",
+      "Learning-Teaching Type": "Online",
+      "LO": "LO3",
+      "ITU": "T",
+      "Student Materials": "Videos, reading, quizzes",
+      "S-Download": "",
+      "Student's Tasks": "- Watch the videos - Read the materials - Do the quizzes - Complete the peer-graded assignment",
+      "URLs": ""
+    },
+    {
+      "Session": "10",
+      "Topic": "Course 5: Valuation and Financial Analysis For Startups Capstone Lesson 1: Introduction to Capstone Project Lesson 2: Capstone Project 1 Lesson 3: Cápstone Project 2",
+      "Learning-Teaching Type": "Online",
+      "LO": "LO1, LO2, LO3",
+      "ITU": "T",
+      "Student Materials": "Videos, reading, quizzes",
+      "S-Download": "",
+      "Student's Tasks": "- Watch the videos - Read the materials - Do the quizzes - Complete the peer-graded assignment",
+      "URLs": ""
+    },
+    {
+      "Session": "11",
+      "Topic": "Valuation and Financial Analysis For Startups Capstone Lesson 4: Capstone Project 3 Lesson 5: Capstone Project 4",
+      "Learning-Teaching Type": "Online",
+      "LO": "LO1, LO2, LO3",
+      "ITU": "T",
+      "Student Materials": "Videos, reading, quizzes",
+      "S-Download": "",
+      "Student's Tasks": "- Watch the videos - Read the materials - Do the quizzes - Complete the peer-graded assignment",
+      "URLs": ""
+    },
+    {
+      "Session": "12",
+      "Topic": "-Review - Offline (optional) -Deadline of Coursera completion: End of Friday of the week",
+      "Learning-Teaching Type": "Online,Offline",
+      "LO": "LO1,LO2,LO3",
+      "ITU": "U",
+      "Student Materials": "",
+      "S-Download": "",
+      "Student's Tasks": "- Review - Offline (optional) - Deadline of Coursera completion: End of Friday of the week",
+      "URLs": ""
+    }
+  ],
+  "constructive_questions": [],
+  "materials": [
+    {
+      "No.": "1",
+      "Material Description": "https://www.coursera.org/specializations/startup-valuation",
+      "Author": "",
+      "Publisher": "Coursera",
+      "Published Date": "",
+      "Edition": "",
+      "ISBN": "",
+      "Is Main Material": "True",
+      "Is Hard Copy": "False",
+      "Is Online": "True",
+      "Note": "Spec: Valuation and Financial Analysis For Startups Specialization"
+    },
+    {
+      "No.": "2",
+      "Material Description": "https://www.coursera.org/learn/valuation-for-startups-project",
+      "Author": "",
+      "Publisher": "Coursera",
+      "Published Date": "",
+      "Edition": "",
+      "ISBN": "",
+      "Is Main Material": "True",
+      "Is Hard Copy": "False",
+      "Is Online": "True",
+      "Note": "MOOC 5: Valuation and Financial Analysis For Startups Capstone"
+    },
+    {
+      "No.": "3",
+      "Material Description": "https://www.coursera.org/learn/capital-budgeting",
+      "Author": "",
+      "Publisher": "Coursera",
+      "Published Date": "",
+      "Edition": "",
+      "ISBN": "",
+      "Is Main Material": "True",
+      "Is Hard Copy": "False",
+      "Is Online": "True",
+      "Note": "MOOC 4: Applying Investment Decision Rules for Startups"
+    },
+    {
+      "No.": "4",
+      "Material Description": "https://www.coursera.org/learn/financial-ratios",
+      "Author": "",
+      "Publisher": "Coursera",
+      "Published Date": "",
+      "Edition": "",
+      "ISBN": "",
+      "Is Main Material": "True",
+      "Is Hard Copy": "False",
+      "Is Online": "True",
+      "Note": "MOOC 3: Financial Analysis for Startups"
+    },
+    {
+      "No.": "5",
+      "Material Description": "https://www.coursera.org/learn/valuation-multiples",
+      "Author": "",
+      "Publisher": "Coursera",
+      "Published Date": "",
+      "Edition": "",
+      "ISBN": "",
+      "Is Main Material": "True",
+      "Is Hard Copy": "False",
+      "Is Online": "True",
+      "Note": "MOOC 2: Valuation for Startups Using Multiple Approach"
+    },
+    {
+      "No.": "6",
+      "Material Description": "https://www.coursera.org/learn/discounted-cash-flow",
+      "Author": "",
+      "Publisher": "Coursera",
+      "Published Date": "",
+      "Edition": "",
+      "ISBN": "",
+      "Is Main Material": "True",
+      "Is Hard Copy": "False",
+      "Is Online": "True",
+      "Note": "MOOC 1: https://www.coursera.org/learn/discounted-cash-flow"
+    }
+  ],
+  "source_path": "data/raw/syllabi/12512.html",
+  "id": "syllabus:12512"
+}

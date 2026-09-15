@@ -1,0 +1,243 @@
+{
+  "syllabus_id": 2210,
+  "subject_code": "ENS411c",
+  "subject_name": "Academic Listening and Speaking 1 - Nghe Nói học thuật 1",
+  "syllabus_name": "Academic Listening and Speaking 1 - Nghe Nói học thuật 1",
+  "credits": 3,
+  "degree_level": "Bachelor",
+  "time_allocation": "Online study + 4.5 hrs offline + PE (Interview 7-10 mins/student)",
+  "prerequisite": "",
+  "general_information": {
+    "Syllabus ID": "2210",
+    "Syllabus Name": "Academic Listening and Speaking 1 - Nghe Nói học thuật 1",
+    "Course Name English": "",
+    "Subject Code": "ENS411c",
+    "Learning-Teaching Method": "",
+    "NoCredit": "3",
+    "Degree Level": "Bachelor",
+    "Time Allocation": "Online study + 4.5 hrs offline + PE (Interview 7-10 mins/student)",
+    "Pre-Requisite": "",
+    "Description": "This module aims at improving students' listening comprehension and speaking skills. Listening to class lectures and practice of note taking benefit studens in enhancing listening skills. In addition, discussion and presentation tasks offer students opportunities to practice speaking and improve their presentation skills. 1) Ongoing assessment: Student gets 0.5 bonus points for each course completed on time. The total bonus point is not greater than 1. 2) Practical Exam (PE) 3) Final Result (FR) =min (10, PE+ Bonus) 4) Completion Criteria: PE>=4 and FR>=5",
+    "StudentTasks": "1. Join the online course (spec.) when being invited by the admin. 2. Enroll in each MOOC of spec., regularly study MOOCs at least 5hrs/week by watching videos, reading materials, taking quizzes, doing assgnments... as required 3. Respect the Coursera Code of Conduct, at https://learner.coursera.help/hc/en-us/articles/208280036-Coursera-Code-of-Conduct 3. Keep online learning progress promptly (bonus will be awarded) 4. Communicate and discuss in forum 5. Attend off-line sessions in the Campus (optional) 6. Must complete all required MOOCs with certification in order to take the Final Exam at Campus",
+    "Tools": "- Internet",
+    "Scoring Scale": "10",
+    "DecisionNo MM/dd/yyyy": "1114/QĐ-ĐHFPT dated 10/26/2020",
+    "IsApproved": "True",
+    "Note": "",
+    "Is Scored": "True",
+    "MinAvgMarkToPass": "5",
+    "IsActive": "True",
+    "ApprovedDate": "10/26/2020"
+  },
+  "active": true,
+  "approved": true,
+  "decision": "1114/QĐ-ĐHFPT dated 10/26/2020",
+  "description": "This module aims at improving students' listening comprehension and speaking skills. Listening to class lectures and practice of note taking benefit studens in enhancing listening skills. In addition, discussion and presentation tasks offer students opportunities to practice speaking and improve their presentation skills. 1) Ongoing assessment: Student gets 0.5 bonus points for each course completed on time. The total bonus point is not greater than 1. 2) Practical Exam (PE) 3) Final Result (FR) =min (10, PE+ Bonus) 4) Completion Criteria: PE>=4 and FR>=5",
+  "learning_outcomes": [
+    {
+      "No.": "1",
+      "CLO Name": "CLO1",
+      "CLO Details": "Know how and use note-taking techniques in listening to lectures"
+    },
+    {
+      "No.": "2",
+      "CLO Name": "CLO2",
+      "CLO Details": "Explain complex ideas vividly and accessibly, design clear and compelling presentation slides, convey passion for a topic while maintaining professional credibility, and speak dynamically from notes and/or a manuscript."
+    }
+  ],
+  "assessments": [
+    {
+      "No.": "1",
+      "Category": "Final exam",
+      "Type": "Final exam",
+      "Part": "1",
+      "Weight": "100.0%",
+      "Completion Criteria": "4",
+      "Duration": "7-10 minutes/ student",
+      "CLO": "All Los",
+      "Question Type": "interview",
+      "No Question": "1",
+      "Knowledge and Skill": "All course content",
+      "Grading Guide": "Teacher(s) interview students to check their understanding and utilization of language acquired from the spec. There should be 4-7 questions covering topics in the spec.",
+      "Note": ""
+    }
+  ],
+  "schedule": [
+    {
+      "Session": "1",
+      "Topic": "Introduction to the online course",
+      "Learning-Teaching Type": "Offline",
+      "LO": "",
+      "ITU": "",
+      "Student Materials": "Off-line 1.5 hours",
+      "S-Download": "",
+      "Student's Tasks": "Enroll to the spec on Coursera for FPT University Platform",
+      "URLs": ""
+    },
+    {
+      "Session": "2",
+      "Topic": "MOOC 1 (Course 1): - Week 1: Welcome - Week 1: What is Academic Listening and Why is It Important?",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO1",
+      "ITU": "",
+      "Student Materials": "Online",
+      "S-Download": "",
+      "Student's Tasks": "- Watch all videos, and read all materials in the module - Finish: Practice Exercises and Quiz - Complete assignments",
+      "URLs": ""
+    },
+    {
+      "Session": "3",
+      "Topic": "MOOC1 (Course 1): Week 2: Identifying Topic and Purpose",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO1",
+      "ITU": "",
+      "Student Materials": "Online",
+      "S-Download": "",
+      "Student's Tasks": "- Watch all videos, and read all materials in the module - Finish: Practice Exercises and quiz. - Complete assignments",
+      "URLs": ""
+    },
+    {
+      "Session": "4",
+      "Topic": "MOOC1 (Course 1): Week 3: Identifying Main Ideas and Details",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO1",
+      "ITU": "",
+      "Student Materials": "Online",
+      "S-Download": "",
+      "Student's Tasks": "- Watch all videos, and read all materials in the module - Finish: Practice Exercises and Quiz. - Complete assignments",
+      "URLs": ""
+    },
+    {
+      "Session": "5",
+      "Topic": "MOOC1 (Course 1): Week 4: Identifying Stance and Speaker Attitude",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO1",
+      "ITU": "",
+      "Student Materials": "Online Deadline of Course 1 Completion: End of Friday of the week.",
+      "S-Download": "",
+      "Student's Tasks": "- Watch all videos, and read all materials in the module - Finish: Practice Exercises and Quiz. - Complete assignments",
+      "URLs": ""
+    },
+    {
+      "Session": "6",
+      "Topic": "Review MOOC1",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO1",
+      "ITU": "",
+      "Student Materials": "Off-line 1.5 hours",
+      "S-Download": "",
+      "Student's Tasks": "- All Students should participate in review slot(if any question)",
+      "URLs": ""
+    },
+    {
+      "Session": "7",
+      "Topic": "MOOC 2 (Course 2): Week 1: Presentation Introductions",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO2",
+      "ITU": "",
+      "Student Materials": "Online",
+      "S-Download": "",
+      "Student's Tasks": "- Watch all videos, and read all materials in the module - Finish: Practice Exercises and Quiz - Complete assignment",
+      "URLs": ""
+    },
+    {
+      "Session": "8",
+      "Topic": "MOOC 2 (Course 2): Week 2: What to Include in a Speech",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO2",
+      "ITU": "",
+      "Student Materials": "Online",
+      "S-Download": "",
+      "Student's Tasks": "- Watch all videos, and read all materials in the module - Finish: Practice Exercises and quiz. - Complete assignment.",
+      "URLs": ""
+    },
+    {
+      "Session": "9",
+      "Topic": "MOOC 2 (Course 2): Week 3: Preparing to Present",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO2",
+      "ITU": "",
+      "Student Materials": "Online",
+      "S-Download": "",
+      "Student's Tasks": "- Watch all videos, and read all materials in the module - Finish: Practice Exercises and Quiz - Complete assignment",
+      "URLs": ""
+    },
+    {
+      "Session": "10",
+      "Topic": "MOOC 2 (Course 2): Week 4: Other Tips for Presenting",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO2",
+      "ITU": "",
+      "Student Materials": "Online Deadline of Course 2 Completion: End of Friday of the week.",
+      "S-Download": "",
+      "Student's Tasks": "- Watch all videos, and read all materials in the module - Finish: Practice Exercises and Quiz - Complete assignment.",
+      "URLs": ""
+    },
+    {
+      "Session": "11",
+      "Topic": "Review MOOC 2",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO2",
+      "ITU": "",
+      "Student Materials": "Off-line 1.5 hours",
+      "S-Download": "",
+      "Student's Tasks": "- All Students should participate in review slot(if any question)",
+      "URLs": ""
+    },
+    {
+      "Session": "12",
+      "Topic": "Practical Exam (PE): Interview (For students who have completed spec and earned certificate in time)",
+      "Learning-Teaching Type": "Offline",
+      "LO": "All LOs",
+      "ITU": "",
+      "Student Materials": "",
+      "S-Download": "",
+      "Student's Tasks": "",
+      "URLs": ""
+    }
+  ],
+  "constructive_questions": [],
+  "materials": [
+    {
+      "No.": "1",
+      "Material Description": "Online Spec. Learn English: Advanced Academic Listening and Speaking Specialization https://www.coursera.org/specializations/speaklistenenglish",
+      "Author": "",
+      "Publisher": "",
+      "Published Date": "",
+      "Edition": "",
+      "ISBN": "",
+      "Is Main Material": "False",
+      "Is Hard Copy": "False",
+      "Is Online": "True",
+      "Note": ""
+    },
+    {
+      "No.": "2",
+      "Material Description": "MOOC1: Academic Listening and Note-taking https://www.coursera.org/learn/note-taking",
+      "Author": "",
+      "Publisher": "",
+      "Published Date": "",
+      "Edition": "",
+      "ISBN": "",
+      "Is Main Material": "False",
+      "Is Hard Copy": "False",
+      "Is Online": "True",
+      "Note": ""
+    },
+    {
+      "No.": "3",
+      "Material Description": "MOOC2: Presentation: Speaking so that People listen https://www.coursera.org/learn/presentations-speaking-so-that-people-listen",
+      "Author": "",
+      "Publisher": "",
+      "Published Date": "",
+      "Edition": "",
+      "ISBN": "",
+      "Is Main Material": "False",
+      "Is Hard Copy": "False",
+      "Is Online": "True",
+      "Note": ""
+    }
+  ],
+  "source_path": "data/raw/syllabi/2210.html",
+  "id": "syllabus:2210"
+}

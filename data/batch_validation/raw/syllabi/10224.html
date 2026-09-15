@@ -1,0 +1,3296 @@
+<!DOCTYPE html><html lang="en"><head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin="">
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700&amp;family=Source+Sans+Pro:wght@300;400;600;700&amp;display=swap" rel="stylesheet">
+    <link href="/Content/bootstrap.min.css" rel="stylesheet">
+    <link href="/fonts/css/Bootstrap-select-v1.13.14.css" rel="stylesheet">
+    <link href="/Content/common.css" rel="stylesheet">
+    <link href="/fonts/css/font-awesome.min.css" rel="stylesheet">
+    <link href="/Content/toastr.min.css" rel="stylesheet">
+    <script src="/Scripts/jquery-1.10.2.min.js"></script>
+    <script src="/Scripts/popper.js"></script>
+    <script src="/Scripts/bootstrap.min.js"></script>
+    <script src="/Scripts/Bootstrap-select-v1.13.14.js"></script>
+    <script src="/Scripts/jquery.validate.min.js"></script>
+    <script src="/Scripts/toastr.min.js"></script>
+    <link href="/fonts/css/font-awesome.min.css" rel="stylesheet">
+    <script src="/Scripts/jquery-ui.min.js"></script>
+    <link href="/Content/jquery-ui.css" rel="stylesheet">
+    <script>
+        var a = 'Student';
+        if (!a) {
+            window.location.replace('/Login');
+        }
+    </script>
+    <title id="pageTitle">T University Learning Materials •</title>
+    <style>
+        h1 {
+            font-size: 2em;
+        }
+
+        h2 {
+            font-size: 1.5em;
+        }
+
+        .btn-light {
+            border: 1px solid #d9cfcf;
+        }
+
+        /*.btn{
+            color:white;
+            font-weight:bold;
+        }*/
+
+
+        * {
+            font-family: 'Inter', 'Source Sans Pro', 'Segoe UI', 'Tahoma', 'Arial', 'Helvetica', sans-serif;
+            font-size: 16px;
+            font-weight: 400;
+            line-height: 1.5em;
+        }
+
+        body {
+            background: #fafafa;
+            padding: 0;
+        }
+
+
+
+        #sidebar a,
+        #sidebar a:hover,
+        #sidebar a:focus {
+            color: inherit;
+            text-decoration: none;
+            transition: all 0.3s;
+        }
+
+
+        #sidebar.sb-active {
+            margin-left: -300px;
+        }
+
+        .wrapper {
+            display: flex;
+            text-decoration: none;
+            transition: all 0.3s;
+            margin-top: -75px;
+            width: 100%;
+        }
+
+        /* Mobile wrapper fix */
+        @media (max-width: 768px) {
+            .wrapper {
+                margin-top: 0;
+            }
+        }
+
+        .btn-default {
+            background-color: #F2994A;
+            color: white;
+            font-weight: bold;
+        }
+
+        .btn-default:hover {
+            background-color: #fd7e14;
+        }
+
+        input,
+        select {
+            font-size: inherit !important;
+            /*height: 33.5px !important;*/
+        }
+
+
+        .tbl-data {
+            border: 1px solid rgba(0, 0, 0, .05);
+        }
+
+        .tbl-data th {
+            font-weight: bold;
+            background-color: #F2994A !important;
+            color: white;
+        }
+
+        .tbl-data input[type=checkbox] {
+            width: 20px;
+        }
+
+        .tbl-detail tr td {
+            padding: 4px 5px 4px 5px;
+            border: 1px solid rgba(0, 0, 0, .05);
+        }
+
+        .tbl-checkbox label {
+            position: relative;
+            top: -11px;
+            left: 2px;
+        }
+
+        .max-with-fit {
+            max-width: fit-content;
+        }
+
+        textarea {
+            font-size: inherit !important;
+        }
+
+        #sidebar {
+            min-width: 300px;
+            max-width: 300px;
+            margin-top: 85px;
+            margin-left: 10px;
+            color: #fff;
+            transition: all 0.3s;
+            overflow-y: scroll;
+            height: 800px;
+            border-radius: 5px;
+            background-color: #F2994A;
+        }
+
+        /* Mobile Responsive Styles */
+        @media (max-width: 1200px) {
+            #sidebar {
+                min-width: 260px;
+                max-width: 260px;
+            }
+        }
+
+        @media (max-width: 992px) {
+            h1 {
+                font-size: 1.6em;
+            }
+
+            .page-title {
+                position: static !important;
+                width: 100%;
+                text-align: center;
+                margin: 8px 0 0 0;
+                left: 0 !important;
+                transform: none !important;
+            }
+
+            #btn-home {
+                height: 36px;
+                min-width: 70px;
+                max-width: 100px;
+                padding: 6px 10px;
+                gap: 5px;
+            }
+
+            #btn-home span {
+                font-size: 13px;
+                line-height: 1;
+            }
+
+            #btn-home i {
+                font-size: 14px;
+                line-height: 1;
+            }
+
+            #language {
+                width: 110px !important;
+                height: 32px !important;
+            }
+
+            #ProfileImage {
+                width: 40px !important;
+                height: 40px !important;
+            }
+
+            #sidebar {
+                position: fixed;
+                top: 97px;
+                left: 0;
+                height: calc(100vh - 97px);
+                z-index: 1030;
+                margin-left: 0;
+                margin-top: 0;
+            }
+
+            #content {
+                height: auto;
+                margin-top: 97px;
+                padding: 10px;
+            }
+
+            .wrapper {
+                margin-top: 0;
+            }
+        }
+
+        @media (max-width: 768px) {
+            h1 {
+                font-size: 1.3em;
+            }
+
+            .page-title {
+                position: static !important;
+                width: 100%;
+                text-align: center;
+                margin: 6px 0 0 0;
+                left: 0 !important;
+                transform: none !important;
+            }
+
+            .navbar .container-fluid {
+                flex-direction: row !important;
+                justify-content: space-between !important;
+                align-items: center !important;
+            }
+
+            #language {
+                width: 100px !important;
+                height: 30px !important;
+                font-size: 12px !important;
+            }
+
+            #ProfileImage {
+                width: 35px !important;
+                height: 35px !important;
+            }
+
+            .dropdown-arrow {
+                right: -12px !important;
+                font-size: 10px !important;
+            }
+
+            #btn-home {
+                height: 34px;
+                min-width: 60px;
+                max-width: 90px;
+                padding: 5px 8px;
+                gap: 4px;
+            }
+
+            #btn-home span {
+                font-size: 12px;
+                line-height: 1;
+            }
+
+            #btn-home i {
+                font-size: 13px;
+                line-height: 1;
+            }
+
+            /* Make long tables scrollable on small screens */
+            #content table {
+                display: block;
+                width: 100%;
+                overflow-x: auto;
+                -webkit-overflow-scrolling: touch;
+                white-space: nowrap;
+            }
+
+            #sidebar {
+                display: none !important;
+            }
+
+            #btn-home {
+                height: 35px;
+                width: 70px;
+                padding: 5px;
+            }
+
+            #btn-home span {
+                font-size: 12px;
+            }
+
+            #btn-home i {
+                font-size: 14px;
+            }
+
+            .navbar-toggler {
+                display: block;
+            }
+
+            .navbar-nav {
+                flex-direction: column;
+            }
+        }
+
+        @media (max-width: 576px) {
+            h1 {
+                font-size: 1.1em;
+            }
+
+            .page-title {
+                font-size: 1.1em !important;
+                margin: 4px 0 0 0;
+            }
+
+            .navbar .container-fluid {
+                flex-direction: row !important;
+                justify-content: space-between !important;
+                align-items: center !important;
+            }
+
+            #language {
+                width: 90px !important;
+                height: 28px !important;
+                font-size: 11px !important;
+            }
+
+            #ProfileImage {
+                width: 30px !important;
+                height: 30px !important;
+            }
+
+            .dropdown-arrow {
+                right: -10px !important;
+                font-size: 9px !important;
+            }
+
+            #btn-home {
+                height: 30px;
+                min-width: 50px;
+                max-width: 80px;
+                padding: 4px 6px;
+                gap: 3px;
+            }
+
+            #btn-home span {
+                font-size: 11px;
+                line-height: 1;
+            }
+
+            #btn-home i {
+                font-size: 12px;
+                line-height: 1;
+            }
+
+            .navbar {
+                padding: 0.25rem 0.5rem;
+                height: 85px !important;
+            }
+
+            /* Ensure navbar elements are always visible */
+            .navbar .container-fluid {
+                display: flex;
+                justify-content: space-between;
+                align-items: center;
+                flex-wrap: nowrap;
+            }
+
+            .navbar .d-flex {
+                flex-shrink: 0;
+            }
+
+            #content {
+                padding: 5px;
+                margin-top: 85px !important;
+            }
+
+            #sidebar {
+                top: 85px !important;
+                height: calc(100vh - 85px) !important;
+            }
+        }
+
+        #sidebar::-webkit-scrollbar {
+            width: 0;
+        }
+
+        #sidebar p {
+            padding: 15px;
+            background: #F2994A;
+            font-weight: bold;
+            font-size: 20px;
+        }
+
+        #sidebar ul.components {
+            padding: 20px 0;
+        }
+
+
+        #sidebar ul li a {
+            padding: 10px;
+            font-size: 1em;
+            display: block;
+            background-color: #f4a158;
+        }
+
+        #sidebar ul li a:hover {
+            background: #d06e17;
+        }
+
+        #sidebar ul li.sb-active>a,
+        a[aria-expanded="true"] {
+            color: #fff;
+        }
+
+        a[data-toggle="collapse"] {
+            position: relative;
+        }
+
+        #navbarSupportedContent .dropdown-toggle::after {
+            display: block;
+            position: absolute;
+            top: 50%;
+            right: -15%;
+            transform: translateY(-50%);
+        }
+
+        .dropdown-toggle::after {
+            display: none !important;
+        }
+
+        /* Custom dropdown arrow */
+        .dropdown-toggle .dropdown-arrow {
+            position: absolute;
+            right: -15px;
+            top: 50%;
+            transform: translateY(-50%);
+            color: white;
+            font-size: 12px;
+        }
+
+        #sidebar ul ul a {
+            font-size: 0.9em !important;
+            padding-left: 30px !important;
+            background: #d29a68;
+        }
+
+        #content {
+            width: 100%;
+            padding: 20px;
+            transition: all 0.3s;
+            margin-top: 90px;
+        }
+
+        #ui-datepicker-div {
+            width: fit-content;
+        }
+
+        .mat-2 {
+            position: relative;
+            left: -30px;
+        }
+
+        table {
+            /* Set "my-sec-counter" to 0 */
+            counter-reset: my-sec-counter;
+        }
+
+        .counter::before {
+            /* Increment "my-sec-counter" by 1 */
+            counter-increment: my-sec-counter;
+            content: counter(my-sec-counter);
+        }
+
+        .menu-btn:focus {
+            outline: none;
+            box-shadow: none;
+        }
+
+        .required-field:after {
+            content: "    *";
+            color: red;
+            font-size: 20px;
+        }
+
+        .table .thead-dark th {
+            color: #fff;
+            background-color: #F2994A;
+            border-color: #fff;
+        }
+
+        .dropdown-toggle::after {
+            right: 20px;
+        }
+
+        #btn-home {
+            padding: 8px 12px;
+            background-color: #28a745;
+            color: white;
+            font-weight: bold;
+            min-width: 80px;
+            max-width: 120px;
+            height: 40px;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            white-space: nowrap;
+            transition: all 0.3s ease;
+            gap: 6px;
+        }
+
+        #btn-home:hover {
+            background-color: #218838;
+            transform: translateY(-1px);
+        }
+
+        #btn-home span {
+            font-size: 15px;
+            line-height: 1;
+        }
+
+        #btn-home i {
+            font-size: 16px;
+            line-height: 1;
+        }
+
+        label[class=error] {
+            color: red
+        }
+
+        #lbtnSignOut {
+            color: #08c
+        }
+
+        #lbtnSignOut:hover {
+            text-decoration: underline;
+            cursor: pointer;
+        }
+
+        /* Navbar responsive improvements */
+        .navbar .container-fluid {
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+            flex-wrap: nowrap;
+        }
+
+        .navbar .d-flex {
+            flex-shrink: 0;
+        }
+
+        /* Mobile navbar improvements */
+        @media (max-width: 768px) {
+            .navbar .container-fluid {
+                padding: 0.5rem;
+            }
+
+            .navbar .d-flex:first-child {
+                flex: 0 0 auto;
+            }
+
+            .navbar .d-flex:last-child {
+                flex: 0 0 auto;
+            }
+
+            /* Dropdown menu mobile positioning */
+            .dropdown-menu {
+                right: 0 !important;
+                left: auto !important;
+                max-width: 90vw !important;
+                min-width: 200px !important;
+            }
+        }
+    </style>
+
+</head>
+
+<body style="">
+
+    <nav class="navbar navbar-expand-lg px-0 pb-2 m-0 nav-fix" style="background-color: #F2994A ; color: white; height:97px;" aria-label="Main navigation">
+        <div class="container-fluid p-0">
+            <!-- Left side: Menu button and Home button -->
+            <div class="d-flex align-items-center">
+                <button type="button" id="sidebarCollapse" class="menu-btn btn " style="background-color: rgb(242, 153, 74); display: none;">
+                    <img class="img-home" src="/Images/menu1.png" alt="Alternate Text" style="width:35px">
+                </button>
+
+                <a id="btn-home" class="btn btn-success btn-lg ml-2" href="/Home">
+                    <i class="fa fa-home fa-lg" aria-hidden="true"></i>
+                    <span style="font-weight:bold;">Home</span>
+                </a>
+            </div>
+
+            <!-- Center: Title -->
+            <h1 class="text-center page-title mx-auto" style="position: absolute; left: 50%; transform: translateX(-50%);" aria-label="Page title">
+                FPT University Learning Materials</h1>
+
+            <!-- Right side: Language and Profile -->
+            <div class="d-flex align-items-center">
+                <!-- Language Selector -->
+                <div class="mr-3">
+                    <select id="language" style="z-index: 1; width: 130px;height:34.5px" class="form-control" aria-label="Select language">
+                        <option value="en">English</option>
+                        <option value="vi">Vietnamese</option>
+                    </select>
+                </div>
+
+                <!-- User Profile Dropdown -->
+                <div class="dropdown">
+                    <button class="btn btn-link nav-link dropdown-toggle p-0 position-relative" id="navbarDropdown" type="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false" aria-label="User profile menu">
+                        <img id="ProfileImage" class="rounded-circle" width="50" height="50" alt="User profile" src="/Images/avatar_reviewer.jpg">
+                        <i class="fa fa-chevron-down dropdown-arrow"></i>
+                    </button>
+                    <div class="dropdown-menu dropdown-menu-right" aria-labelledby="navbarDropdown" style="right: 0; left: auto; max-width: 90vw;">
+                        <div id="pnlProfile">
+                            <span class="dropdown-item">
+                                Name:
+                                <span id="lblName" style="font-weight: bold">lequanghieu2504@gmail.com</span>
+                            </span>
+                            <span class="dropdown-item">
+                                <span id="pnlEmail">
+                                    Email:
+                                    <span id="lblEmail" style="font-weight: bold">lequanghieu2504@gmail.com</span>
+                                </span>
+                            </span>
+                            <span class="dropdown-item">
+                                User's role:
+                                <span id="lblRole" style="font-weight: bold">Student</span>
+                            </span>
+                            <span class="dropdown-item">
+                                Education level:
+                                <span id="lblEduLevel" style="font-weight: bold">FPTU</span>
+                            </span>
+                            <div class="dropdown-item ">
+                                <button id="lbtnSignOut" class="btn btn-link p-0 text-left" style="color: #08c; text-decoration: none;" onclick="lbtnSignOut_Click">
+                                    Sign out
+                                    FLM
+                                </button>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </nav>
+
+    <div class="wrapper">
+        <nav id="sidebar" class="sb-active" style="padding-bottom: 60px;" aria-label="Main navigation">
+            <ul class="lisst-unstyled components p-0" id="panelHeadFeatures" style="display: none;">
+                <li>
+                    <a href="#pageSubmenu2" data-toggle="collapse" aria-expanded="false" class="dropdown-toggle">
+                        -
+                        Curriculum
+                    </a>
+                    <ul class="collapse list-unstyled" id="pageSubmenu2">
+                        <li>
+                            <a href="/gui/curriculum/CurHomepage.aspx">+ Search</a>
+                        </li>
+                        <li>
+                            <a href="/gui/curriculum/AddCurri.aspx">+ Add New Curriculum</a>
+                        </li>
+                        <li>
+                            <a href="/gui/PLO/AddPLO.aspx">+ Add New PLO</a>
+                        </li>
+                        
+                        <li>
+                            <a href="/gui/curriculum/CurSubHomepage.aspx">+ Curriculum Subjects Management</a>
+                            
+                            
+                        </li><li>
+                            <a href="/gui/assignedCurriculum/AssignCurriculumManagement.aspx">
+                                + Assign Curriculum
+                                Management
+                            </a>
+                        </li>
+                    </ul>
+                </li>
+                <li>
+                    <a href="#pageSubmenu3" data-toggle="collapse" aria-expanded="false" class="dropdown-toggle">
+                        -
+                        Curriculum Subject
+                    </a>
+                    <ul class="collapse list-unstyled" id="pageSubmenu3">
+                        <li>
+                            <a href="/gui/curriculum/CurSubHomepage.aspx">+ Manage</a>
+                        </li>
+                        <li>
+                            <a href="/gui/curriculum/AddCurri.aspx">+ Add Curriculum</a>
+                        </li>
+                    </ul>
+                </li>
+                <li>
+                    <a href="#pageSubmenu4" data-toggle="collapse" aria-expanded="false" class="dropdown-toggle">
+                        -
+                        Syllabus
+                    </a>
+                    <ul class="collapse list-unstyled" id="pageSubmenu4">
+                        <li>
+                            <a href="/gui/syllabus/SyllabusManagement.aspx">+ Search</a>
+                        </li>
+                        <li>
+                            <a href="/gui/assignedSyllabus/AssignedSyllabusManagement">
+                                + Assigned Syllabus
+                                Management
+                            </a>
+                        </li>
+                        <li>
+                            <a id="hpImportSyl" href="/gui/syllabus/ImportSyllabus.aspx">
+                                + Import syllabus from Excel
+                                file
+                            </a>
+                        </li>
+                    </ul>
+                </li>
+                <li>
+                    <a href="#pageSubmenu5" data-toggle="collapse" aria-expanded="false" class="dropdown-toggle">
+                        -
+                        Required Knowledge and Skills
+                    </a>
+                    <ul class="collapse list-unstyled" id="pageSubmenu5">
+                        <li>
+                            <a href="/gui/subjectGroup/SubCurGroupManagement.aspx">+ Curriculum Subject Grouping</a>
+                        </li>
+                        <li>
+                            <a id="HyperLink2" href="/gui/subjectGroup/SubjectGroupManagent.aspx">
+                                + Subject Group
+                                Management
+                            </a>
+                        </li>
+                    </ul>
+                </li>
+                <li>
+                    <a href="#pageSubmenu6" data-toggle="collapse" aria-expanded="false" class="dropdown-toggle">
+                        -
+                        Assessment Type
+                    </a>
+                    <ul class="collapse list-unstyled" id="pageSubmenu6">
+                        <li>
+                            <a href="/gui/assessmentType/AssessmentTypeHomepage.aspx">+ Manage</a>
+                        </li>
+                        <li>
+                            <a id="hpLinkAddAst" href="/gui/assessmentType/AddAst.aspx">+ Add New Assessment Type</a>
+                        </li>
+                    </ul>
+                </li>
+                <li>
+                    <a href="#pageSubmenu7" data-toggle="collapse" aria-expanded="false" class="dropdown-toggle">
+                        -
+                        Subject
+                    </a>
+                    <ul class="collapse list-unstyled" id="pageSubmenu7">
+                        <li>
+                            <a href="/gui/subject/SubjectHomepage.aspx">+ Manage</a>
+                        </li>
+                        <li>
+                            <a id="hpLinkAddSub" href="/gui/subject/AddSub.aspx">+ Add New Subject</a>
+                        </li>
+                        <li>
+                            <a id="hpLinkImportSub" href="/gui/subject/ImportSubject.aspx">+ Import Subjects</a>
+                        </li>
+                    </ul>
+                </li>
+                <li>
+                    <a href="#pageSubmenu8" data-toggle="collapse" aria-expanded="false" class="dropdown-toggle">
+                        -
+                        User
+                    </a>
+                    <ul class="collapse list-unstyled" id="pageSubmenu8">
+                        <li>
+                            <a href="/gui/user/UserManagement.aspx">+ Search</a>
+                        </li>
+                        <li>
+                            <a id="hpLinkAddUser" href="/gui/user/AddUser.aspx">+ Add New User</a>
+                        </li>
+                    </ul>
+                </li>
+                <li>
+                    <a href="#pageSubmenu9" data-toggle="collapse" aria-expanded="false" class="dropdown-toggle">
+                        -
+                        Tools
+                    </a>
+                    <ul class="collapse list-unstyled" id="pageSubmenu9">
+                        <li>
+                            <a id="HyperLink3" href="/gui/tool/UpdateCurWithNewSyl.aspx">
+                                + Update curriculums with new
+                                syllabus version
+                            </a>
+                        </li>
+                        <li>
+                            <a id="HyperLink4" href="/gui/tool/SubjectReporting.aspx">+ Subject Reporting</a>
+                        </li>
+                        <li>
+                            <a id="hpExportTextBookToOrder" href="/gui/tool/ExportTextbookToOrder.aspx">
+                                + Export
+                                Textbook to Order
+                            </a>
+                        </li>
+                        <li>
+                            <a id="HyperLink6" href="/gui/tool/ExportGradingStructure.aspx">
+                                + Export Grading
+                                Structure
+                            </a>
+                        </li>
+                        <li>
+                            <a id="HyperLink7" href="/gui/tool/ExportMaterialsOfCur.aspx">
+                                + Export Materials of
+                                Curriculum
+                            </a>
+                        </li>
+                        <li>
+                            <a id="hpSyllabusReporting" href="/gui/tool/SyllabusReporting.aspx">
+                                + Syllabus
+                                Reporting
+                            </a>
+                        </li>
+                        <li>
+                            <a id="hpCurriculumReporting" href="/gui/tool/CurriculumReporting.aspx">
+                                + Curriculum
+                                Reporting
+                            </a>
+                        </li>
+                        <li>
+                            <a id="hpMaterialReporting" href="/gui/tool/MaterialReporting.aspx">
+                                + Material
+                                Reporting
+                            </a>
+                        </li>
+                        <li>
+                            <a id="hpLOReporting" href="/gui/tool/LOReporting.aspx">+ CLO Reporting</a>
+                        </li>
+                        <li>
+                            <a id="hpScheduleReporting" href="/gui/tool/ScheduleReporting.aspx">
+                                + Schedule
+                                Reporting
+                            </a>
+                        </li>
+                        <li>
+                            <a id="hpFinalCheck" href="/gui/tool/FinalCheck.aspx">+ Final Check</a>
+                        </li>
+                    </ul>
+                </li>
+                <li>
+                    <a href="#pageSubmenu10" data-toggle="collapse" aria-expanded="false" class="dropdown-toggle">
+                        -
+                        Campus
+                    </a>
+                    <ul class="collapse list-unstyled" id="pageSubmenu10">
+                        <li>
+                            <a href="/gui/campus/CampusManagement.aspx">+ Manage</a>
+                        </li>
+                        <li>
+                            <a id="hpLinkAddCampus" cssclass="auto-style-1" href="/gui/campus/AddCampus.aspx">
+                                + Add New
+                                Campus
+                            </a>
+                        </li>
+                    </ul>
+                </li>
+                <li>
+                    <a href="/gui/reportSemester/DownloadReportFile.aspx">- Download report file</a>
+                </li>
+                <li>
+                    <a href="/gui/tool/CurriculumOfSubject.aspx">- Show Curriculum of a Subject</a>
+                </li>
+                <li>
+                    <a href="/gui/tool/AllPrequisiteSubject.aspx">- Show Learning Path of a Subject</a>
+                </li>
+                <li>
+                    <a href="/gui/tool/AllCorollarySubject.aspx">- A subject is the pre-requisite of</a>
+                </li>
+                <li>
+                    <a href="#pageSubmenu11" data-toggle="collapse" aria-expanded="false" class="dropdown-toggle">
+                        -
+                        Decision
+                    </a>
+                    <ul class="collapse list-unstyled" id="pageSubmenu11">
+                        <li>
+                            <a href="/decision">+ Manage</a>
+                        </li>
+                        <li>
+                            <a href="/decision/Create">+ Add New Campus</a>
+                        </li>
+                        <li>
+                            <a href="/decision/ImportDecision">+ Import Decision from Excel file</a>
+
+                        </li>
+                        
+                        
+                        
+                    </ul>
+                </li>
+                <li>
+                    <a href="#pageSubmenu12" data-toggle="collapse" aria-expanded="false" class="dropdown-toggle">
+                        -
+                        Learning &amp; Teaching method
+                    </a>
+                    <ul class="collapse list-unstyled" id="pageSubmenu12">
+                        <li>
+                            <a href="/LTMethod">+ Manage</a>
+                        </li>
+                        <li>
+                            <a href="/LTMethod/Create">+ Add New Learnig &amp; Teaching method</a>
+                        </li>
+
+
+                    </ul>
+                </li>
+                <li>
+                    <a href="#pageSubmenu13" data-toggle="collapse" aria-expanded="false" class="dropdown-toggle">
+                        -
+                        SemesterPlan
+                    </a>
+                    <ul class="collapse list-unstyled" id="pageSubmenu13">
+                        <li>
+                            <a href="/SemesterPlans">+ Manage</a>
+                        </li>
+                        <li>
+                            <a href="/SemesterPlans/Create">+ Add new SemesterPlans</a>
+                        </li>
+
+                    </ul>
+                </li>
+                <li>
+                    <a href="/syllabusPlan">- Syllabus Plans Management</a>
+                </li>
+                <li>
+                    <a href="/CurriculumPlan">- Curriculum Plans Management</a>
+                </li>
+
+
+            </ul>
+            <ul class="lisst-unstyled components p-0" id="panelStaffFeatures" style="display: none;">
+                <li>
+                    <a href="#pageSubmenu14" data-toggle="collapse" aria-expanded="false" class="dropdown-toggle">
+                        -
+                        Curriculum
+                    </a>
+                    <ul class="collapse list-unstyled" id="pageSubmenu14">
+                        <li>
+                            <a href="/gui/curriculum/CurHomepage.aspx">+ Search</a>
+                        </li>
+                        <li>
+                            <a href="/gui/curriculum/AddCurri.aspx">+ Add New Curriculum</a>
+                        </li>
+                        <li>
+                            <a href="/gui/PLO/AddPLO.aspx">+ Add New PLO</a>
+                        </li>
+                        
+                        <li visible="False" runat="server">
+                            <a href="/gui/assignedCurriculum/MyCurriculums.aspx">+ My Curriculums</a>
+                        </li>
+                        <li>
+                            <a href="/gui/curriculum/CurSubHomepage.aspx">+ Curriculum Subjects Management</a>
+                        </li>
+                        <li>
+                            <a href="/gui/assignedCurriculum/AssignCurriculumManagement.aspx">
+                                + Assign Curriculum
+                                Management
+                            </a>
+                        </li>
+                    </ul>
+                </li>
+                <li>
+                    <a href="#pageSubmenu15" data-toggle="collapse" aria-expanded="false" class="dropdown-toggle">
+                        -
+                        Curriculum Subject
+                    </a>
+                    <ul class="collapse list-unstyled" id="pageSubmenu15">
+                        <li>
+                            <a href="/gui/curriculum/CurSubHomepage.aspx">+ Manage</a>
+                        </li>
+                        <li>
+                            <a href="/gui/curriculum/AddCurri.aspx">+ Add Curriculum</a>
+                        </li>
+                    </ul>
+                </li>
+                <li>
+                    <a href="#pageSubmenu16" data-toggle="collapse" aria-expanded="false" class="dropdown-toggle">
+                        -
+                        Syllabus
+                    </a>
+                    <ul class="collapse list-unstyled" id="pageSubmenu16">
+                        <li>
+                            <a href="/gui/syllabus/SyllabusManagement.aspx">+ Search</a>
+                        </li>
+                        <li>
+                            <a href="/gui/assignedSyllabus/AssignedSyllabusManagement">
+                                + Assigned Syllabus
+                                Management
+                            </a>
+                        </li>
+                        <li>
+                            <a id="HyperLink1" href="/gui/syllabus/ImportSyllabus.aspx">
+                                + Import syllabus from Excel
+                                file
+                            </a>
+                        </li>
+                    </ul>
+                </li>
+                <li>
+                    <a href="#pageSubmenu17" data-toggle="collapse" aria-expanded="false" class="dropdown-toggle">
+                        -
+                        Required Knowledge and Skills
+                    </a>
+                    <ul class="collapse list-unstyled" id="pageSubmenu17">
+                        <li>
+                            <a href="/gui/subjectGroup/SubCurGroupManagement.aspx">+ Curriculum Subject Grouping</a>
+                        </li>
+                        <li>
+                            <a id="HyperLink5" href="/gui/subjectGroup/SubjectGroupManagent.aspx">
+                                + Subject Group
+                                Management
+                            </a>
+                        </li>
+                    </ul>
+                </li>
+                <li>
+                    <a href="#pageSubmenu18" data-toggle="collapse" aria-expanded="false" class="dropdown-toggle">
+                        -
+                        Assessment Type
+                    </a>
+                    <ul class="collapse list-unstyled" id="pageSubmenu18">
+                        <li>
+                            <a href="/gui/assessmentType/AssessmentTypeHomepage.aspx">+ Manage</a>
+                        </li>
+                        <li>
+                            <a id="HyperLink8" href="/gui/assessmentType/AddAst.aspx">+ Add New Assessment Type</a>
+                        </li>
+                    </ul>
+                </li>
+                <li>
+                    <a href="#pageSubmenu19" data-toggle="collapse" aria-expanded="false" class="dropdown-toggle">
+                        -
+                        Subject
+                    </a>
+                    <ul class="collapse list-unstyled" id="pageSubmenu19">
+                        <li>
+                            <a href="/gui/subject/SubjectHomepage.aspx">+ Manage</a>
+                        </li>
+                        <li>
+                            <a id="HyperLink9" href="/gui/subject/AddSub.aspx">+ Add New Subject</a>
+                        </li>
+                        <li>
+                            <a id="HyperLink10" href="/gui/subject/ImportSubject.aspx">+ Import Subjects</a>
+                        </li>
+                    </ul>
+                </li>
+
+                <li>
+                    <a href="#pageSubmenu20" data-toggle="collapse" aria-expanded="false" class="dropdown-toggle">
+                        -
+                        Tools
+                    </a>
+                    <ul class="collapse list-unstyled" id="pageSubmenu20">
+                        <li>
+                            <a href="/gui/tool/AllTools.aspx">+ Manage</a>
+                        </li>
+                        <li>
+                            <a id="HyperLink12" href="/gui/tool/UpdateCurWithNewSyl.aspx">
+                                + Update curriculums with new
+                                syllabus version
+                            </a>
+                        </li>
+                        <li>
+                            <a id="HyperLink13" href="/gui/tool/SubjectReporting.aspx">+ Subject Reporting</a>
+                        </li>
+                        <li>
+                            <a id="HyperLink14" href="/gui/tool/ExportTextbookToOrder.aspx">
+                                + Export Textbook to
+                                Order
+                            </a>
+                        </li>
+                        <li>
+                            <a id="HyperLink15" href="/gui/tool/ExportGradingStructure.aspx">
+                                + Export Grading
+                                Structure
+                            </a>
+                        </li>
+                        <li>
+                            <a id="HyperLink16" href="/gui/tool/ExportMaterialsOfCur.aspx">
+                                + Export Materials of
+                                Curriculum
+                            </a>
+                        </li>
+                        <li>
+                            <a id="HyperLink17" href="/gui/tool/SyllabusReporting.aspx">+ Syllabus Reporting</a>
+                        </li>
+                        <li>
+                            <a id="HyperLink18" href="/gui/tool/CurriculumReporting.aspx">+ Curriculum Reporting</a>
+                        </li>
+                        <li>
+                            <a id="HyperLink19" href="/gui/tool/MaterialReporting.aspx">+ Material Reporting</a>
+                        </li>
+                        <li>
+                            <a id="HyperLink20" href="/gui/tool/LOReporting.aspx">+ CLO Reporting</a>
+                        </li>
+                        <li>
+                            <a id="HyperLink21" href="/gui/tool/ScheduleReporting.aspx">+ Schedule Reporting</a>
+                        </li>
+                        <li>
+                            <a id="HyperLink22" href="/gui/tool/FinalCheck.aspx">+ Final Check</a>
+                        </li>
+                    </ul>
+                </li>
+
+                <li>
+                    <a href="/gui/reportSemester/DownloadReportFile.aspx">- Download report file</a>
+                </li>
+                <li>
+                    <a href="/gui/tool/CurriculumOfSubject.aspx">- Show Curriculum of a Subject</a>
+                </li>
+                <li>
+                    <a href="/gui/tool/AllPrequisiteSubject.aspx">- Show Learning Path of a Subject</a>
+                </li>
+                <li>
+                    <a href="/gui/tool/AllCorollarySubject.aspx">- A subject is the pre-requisite of</a>
+                </li>
+                <li>
+                    <a href="#pageSubmenu21" data-toggle="collapse" aria-expanded="false" class="dropdown-toggle">
+                        -
+                        Decision
+                    </a>
+                    <ul class="collapse list-unstyled" id="pageSubmenu21">
+                        <li>
+                            <a href="/decision">+ Manage</a>
+                        </li>
+                        <li>
+                            <a href="/decision/Create">+ Add New Campus</a>
+                        </li>
+                        <li>
+                            <a href="/decision/ImportDecision">+ Import Decision from Excel file</a>
+
+                        </li>
+                        
+                        
+                        
+                    </ul>
+                </li>
+                <li>
+                    <a href="#pageSubmenu22" data-toggle="collapse" aria-expanded="false" class="dropdown-toggle">
+                        -
+                        Learning &amp; Teaching method
+                    </a>
+                    <ul class="collapse list-unstyled" id="pageSubmenu22">
+                        <li>
+                            <a href="/LTMethod">+ Manage</a>
+                        </li>
+                        <li>
+                            <a href="/LTMethod/Create">+ Add New Learnig &amp; Teaching Method</a>
+                        </li>
+
+
+                    </ul>
+                </li>
+                <li>
+                    <a href="#pageSubmenu23" data-toggle="collapse" aria-expanded="false" class="dropdown-toggle">
+                        -
+                        SemesterPlan
+                    </a>
+                    <ul class="collapse list-unstyled" id="pageSubmenu23">
+                        <li>
+                            <a href="/SemesterPlans">+ Manage</a>
+                        </li>
+                        <li>
+                            <a href="/SemesterPlans/Create">+ Add new SemesterPlans</a>
+                        </li>
+
+                    </ul>
+                </li>
+                <li>
+                    <a href="/Template/Guideline_Using_FLM_ver2.0.pdf" target="_blank">- View FLM guideline</a>
+                </li>
+            </ul>
+        </nav>
+        <div id="content" class="p-2">
+
+            <div class="mx-3">
+                
+
+<style type="text/css">
+    .auto-style2 {
+        width: 155px;
+    }
+
+    .auto-style3 {
+        width: 155px;
+        height: 24px;
+    }
+
+    #gvSubs,
+    #table-detail,
+    #gvMaterial,
+    #gvLO,
+    #gvSchedule,
+    #gvAssessment,
+    #gvCQ {
+        border: 1px solid rgba(0, 0, 0, .05);
+    }
+
+    #gvSubs th,
+    #gvMaterial th,
+    #gvLO th,
+    #gvSchedule th,
+    #gvAssessment th,
+    #gvCQ th {
+        font-weight: bold;
+        background-color: #F2994A;
+        color: white;
+    }
+
+    .table-detail tr td {
+        padding: 6px 10px 6px 10px;
+    }
+</style>
+
+<div>
+    <h1 class="mb-4">Syllabus Details</h1>
+
+
+        <table id="table-detail" class="tbl-detail" cellspacing="0" rules="all" border="1" style="border-collapse: collapse; width: 100%;">
+            <tbody><tr>
+                <td class="auto-style2" align="right" style="text-align: right;">Syllabus ID:</td>
+                <td>10224</td>
+            </tr>
+            <tr>
+                <td class="auto-style3" align="right" style="text-align: right;">Syllabus Name:</td>
+                <td><b>AI with Tensorflow_AI với Tensorflow</b></td>
+            </tr>
+            <tr>
+                <td class="auto-style3 text-right">Course Name English:</td>
+                <td><b>AI with Tensorflow</b></td>
+            </tr>
+            <tr>
+                <td class="auto-style2" align="right" style="text-align: right;">Subject Code:</td>
+                <td><b>AIT301</b></td>
+            </tr>
+            <tr>
+                <td class="auto-style2" align="right" style="text-align: right;">Learning-Teaching Method:</td>
+                <td>In-class lecture,Inquiry-based Teaching, active learning</td>
+            </tr>
+            <tr>
+                <td class="auto-style2" align="right" style="text-align: right;">NoCredit:</td>
+                <td>3</td>
+            </tr>
+            <tr>
+                <td class="auto-style2" align="right" style="text-align: right;">Degree Level:</td>
+                <td>Bachelor</td>
+            </tr>
+            <tr>
+                <td class="auto-style2" align="right" style="text-align: right;">Time Allocation:</td>
+                <td>Study hour (150h) = 45h contact hours + 1h final exam + 104h self-study</td>
+            </tr>
+            <tr>
+                <td class="auto-style2" align="right" style="text-align: right;">Pre-Requisite:</td>
+                <td>MAD101, CSD201, MAS291, PRP201c</td>
+            </tr>
+            <tr>
+                <td class="auto-style2" align="right" style="text-align: right;">Description:</td>
+                <td>The developing of cloud computing, big data, open source software, and improved algorithms kicked Artificial Intelligence (AI) into the mainstream of focus in technologies nowadays. AI technologies are fundamentally changing the ways we work, live, and manage businesses. This course is designed to present to student the coherent body of ideas and methods which were contributed to the development of Artificial Intelligence discipline. Student will be acquaint with the basic programs in the field and their underlying theory and will explore this through problem-solving paradigms, logic and theorem proving, language and image understanding, search and control methods and learning. This course aims to create following results on students:
+<br>
+<br>1. Graduates will have ability to work with Tensor Flow machine learning library as a framework in developing AI their applications
+<br>   MO-1a: An ability to build models by plugging together building blocks with the user-friendly Keras sequential API.
+<br>   MO-1b: An ability to build models then write the forward and backward pass, create custom layers, activations, and training loops by using a define-by-run interface for customization and advanced research from Keras functional and subclassing APIs.
+<br>2. Graduates will have a broad understanding of the fundamental theories, concepts, and applications of Artificial Intelligence.
+<br>   MO-2a: An ability to apply knowledge of Artificial Intelligence appropriate to the discipline.
+<br>   MO-2b: An ability to analyze a problem and identify and define the AI requirements appropriate to its solution.
+<br>   MO-2c: An ability to design, implement, and evaluate an AI system to meet desired needs.
+<br>3. Graduates will be prepared for careers in Artificial Intelligence field.
+<br>   MO-3a: An ability to use current methodologies, techniques, skills, and tools necessary for AI practice. 
+<br>4. Graduates will communicate effectively, both orally and in writing of Artificial Intelligence-related works.
+<br>   MO-4a: An ability to communicate effectively in AI-related works.
+<br>   MO-4b: An ability to discuss about how to control and to manage APIs of Tensor Flow library effectively.</td>
+            </tr>
+            <tr>
+                <td class="auto-style2" align="right" style="text-align: right;">StudentTasks:</td>
+                <td>- Students must attend more than 80% of contact slots in order to be accepted to the final examination.
+<br>- Student is responsible to do all exercises given by instructor in class or at home and submit on time
+<br>- use laptop in the class for learning purpose only
+<br>- Constantly follow announcements on intranet/LMS athttps://flm.fpt.edu.vn/ for up-to-date course information regarding assignment submission and feedback on assignments</td>
+            </tr>
+            <tr>
+                <td class="auto-style2" align="right" style="text-align: right;">Tools:</td>
+                <td>- TensorFlow
+<br>- Internet</td>
+            </tr>
+                <tr>
+                    <td class="auto-style2" align="right" style="text-align: right;">Scoring Scale:</td>
+                    <td>10</td>
+        </tr>
+            <tr>
+                <td class="auto-style2" align="right" style="text-align: right;">DecisionNo MM/dd/yyyy:</td>
+                <td>808/QĐ-ĐHFPT dated 08/03/2023</td>
+            </tr>
+            <tr>
+                <td class="auto-style2" align="right" style="text-align: right;">IsApproved:</td>
+                <td><b>True</b></td>
+            </tr>
+            <tr>
+                <td class="auto-style2" align="right" style="text-align: right;">Note:</td>
+                <td></td>
+            </tr>
+            <tr>
+                <td class="auto-style2" align="right" style="text-align: right;">Is Scored:</td>
+                <td><b>True</b></td>
+            </tr>
+                <tr>
+                    <td class="auto-style3" align="right" style="text-align: right;">MinAvgMarkToPass:
+                    </td>
+                    <td>
+                        5
+            </td>
+        </tr>
+            <tr>
+                <td class="auto-style3" align="right" style="text-align: right;">IsActive:</td>
+                <td>True</td>
+            </tr>
+            <tr>
+                <td class="auto-style2" align="right" style="text-align: right;">ApprovedDate:</td>
+                <td>8/3/2023</td>
+            </tr>
+        </tbody></table>
+        <br>
+        <!-- Materials Section -->
+        <label style="color: #23ac68;">12 material(s)</label>
+        <br>
+            <table id="gvMaterial" class="table table-striped tbl-data">
+                <thead>
+                    <tr>
+                        <th style="width: 3%; text-align: center;">No.</th>
+                        <th>Material Description</th>
+                        <th>Author</th>
+                        <th>Publisher</th>
+                        <th>Published Date</th>
+                        <th>Edition</th>
+                        <th>ISBN</th>
+                        <th>Is Main Material</th>
+                        <th>Is Hard Copy</th>
+                        <th>Is Online</th>
+                        <th>Note</th>
+                    </tr>
+                </thead>
+                <tbody>
+                        <tr>
+                            <td style="text-align: center;">1</td>
+                            <td>Artificial Intelligence: A Modern Approach</td>
+                            <td>Stuart Russell and Peter Norvig</td>
+                            <td>Pearson Education</td>
+                            <td>2009</td>
+                            <td>3rd</td>
+                            <td>978-0136042594                                                                                      </td>
+                            <td>True</td>
+                            <td>True</td>
+                            <td>False</td>
+                            <td></td>
+                        </tr>
+                        <tr>
+                            <td style="text-align: center;">2</td>
+                            <td>Essentials of Artificial Intelligence</td>
+                            <td>M.Ginsberg</td>
+                            <td>Morgan Kaufmann</td>
+                            <td>1993</td>
+                            <td></td>
+                            <td>978-1558603349                                                                                      </td>
+                            <td>False</td>
+                            <td>True</td>
+                            <td>False</td>
+                            <td></td>
+                        </tr>
+                        <tr>
+                            <td style="text-align: center;">3</td>
+                            <td>Artificial Intelligence By Example: Develop machine intelligence from scratch using real artificial intelligence use cases</td>
+                            <td>Denis Rothman</td>
+                            <td>Puckt Publishing</td>
+                            <td>2018</td>
+                            <td></td>
+                            <td>978-1788990547                                                                                      </td>
+                            <td>False</td>
+                            <td>True</td>
+                            <td>False</td>
+                            <td></td>
+                        </tr>
+                        <tr>
+                            <td style="text-align: center;">4</td>
+                            <td>Tensor Flow Tutorials: https://www.tensorflow.org/tutorials/</td>
+                            <td></td>
+                            <td></td>
+                            <td></td>
+                            <td></td>
+                            <td>                                                                                                    </td>
+                            <td>False</td>
+                            <td>False</td>
+                            <td>True</td>
+                            <td></td>
+                        </tr>
+                        <tr>
+                            <td style="text-align: center;">5</td>
+                            <td>Artificial Intelligent Tutorial: https://www.javatpoint.com/ai-resolution-in-first-order-logic</td>
+                            <td></td>
+                            <td></td>
+                            <td></td>
+                            <td></td>
+                            <td>                                                                                                    </td>
+                            <td>False</td>
+                            <td>False</td>
+                            <td>True</td>
+                            <td></td>
+                        </tr>
+                        <tr>
+                            <td style="text-align: center;">6</td>
+                            <td>Machines Who Think</td>
+                            <td>McCorduck, Pamela</td>
+                            <td>Routledge</td>
+                            <td>2004</td>
+                            <td>2nd</td>
+                            <td>1-56881-205-1                                                                                       </td>
+                            <td>False</td>
+                            <td>True</td>
+                            <td>False</td>
+                            <td></td>
+                        </tr>
+                        <tr>
+                            <td style="text-align: center;">7</td>
+                            <td>Machine Learning
+<br>http://www.cs.cmu.edu/~tom/mlbook.html
+<br>Slides: http://www.cs.cmu.edu/~tom/mlbook-chapter-slides.html</td>
+                            <td>Tom Mitchell</td>
+                            <td>McGraw Hill.</td>
+                            <td>1997</td>
+                            <td></td>
+                            <td>                                                                                                    </td>
+                            <td>False</td>
+                            <td>False</td>
+                            <td>True</td>
+                            <td></td>
+                        </tr>
+                        <tr>
+                            <td style="text-align: center;">8</td>
+                            <td>Gödel, Escher, Bach: An Eternal Golden Braid</td>
+                            <td>Douglas Hofstadter</td>
+                            <td>Basic Books</td>
+                            <td>1999</td>
+                            <td></td>
+                            <td>978-0-465-02656-2                                                                                   </td>
+                            <td>False</td>
+                            <td>True</td>
+                            <td>False</td>
+                            <td></td>
+                        </tr>
+                        <tr>
+                            <td style="text-align: center;">9</td>
+                            <td>Is it an Agent, or just a Program?: A Taxonomy for Autonomous Agents; Proceedings of the Third International Workshop on Agent Theories, Architectures, and Languages</td>
+                            <td>Stan Franklin and Art Graesser</td>
+                            <td>Springer-Verlag</td>
+                            <td>1996</td>
+                            <td></td>
+                            <td>                                                                                                    </td>
+                            <td>False</td>
+                            <td>False</td>
+                            <td>True</td>
+                            <td></td>
+                        </tr>
+                        <tr>
+                            <td style="text-align: center;">10</td>
+                            <td>Introduction: Hybrid intelligent adaptive systems. International Journal of Intelligent Systems, Vol.6, (1998) 453–454.</td>
+                            <td>N. Kasabov</td>
+                            <td></td>
+                            <td>1998</td>
+                            <td></td>
+                            <td>                                                                                                    </td>
+                            <td>False</td>
+                            <td>False</td>
+                            <td>True</td>
+                            <td></td>
+                        </tr>
+                        <tr>
+                            <td style="text-align: center;">11</td>
+                            <td>Multiagent systems</td>
+                            <td>Weiss, G.</td>
+                            <td>Cambridge, MA: The MIT Press</td>
+                            <td>2013</td>
+                            <td>2nd</td>
+                            <td>9780262018890                                                                                       </td>
+                            <td>False</td>
+                            <td>True</td>
+                            <td>False</td>
+                            <td></td>
+                        </tr>
+                        <tr>
+                            <td style="text-align: center;">12</td>
+                            <td>Neural Network Projects with Python</td>
+                            <td>James Loy</td>
+                            <td>Packt Publishing</td>
+                            <td>2019</td>
+                            <td></td>
+                            <td>9781789138900                                                                                       </td>
+                            <td>False</td>
+                            <td>True</td>
+                            <td>False</td>
+                            <td></td>
+                        </tr>
+                </tbody>
+            </table>
+        <br>
+        <!-- LOs Section -->
+        <label style="color: #23ac68;">10 LO(s)</label>
+            <table id="gvLO" class="table table-striped tbl-data">
+                <thead>
+                    <tr>
+                        <th style="width: 3%; text-align: center;">No.</th>
+                        <th style="width: 5%;">CLO Name</th>
+                        <th>CLO Details</th>
+                    </tr>
+                </thead>
+                <tbody>
+                        <tr>
+                            <td style="text-align: center;">1</td>
+                            <td>CLO1</td>
+                            <td>Demonstrate working knowledge in Tensor Flow in order to write simple AI programs and explore more sophisticated Tensor Flow code on their own</td>
+                        </tr>
+                        <tr>
+                            <td style="text-align: center;">2</td>
+                            <td>CLO2</td>
+                            <td>Understand about Artificial Intelligence, its history and concepts such as Fuzzy Logic, Intelligent Agents, Machine Learning…</td>
+                        </tr>
+                        <tr>
+                            <td style="text-align: center;">3</td>
+                            <td>CLO3</td>
+                            <td>Understand different types of AI agents. </td>
+                        </tr>
+                        <tr>
+                            <td style="text-align: center;">4</td>
+                            <td>CLO4</td>
+                            <td>Know various AI search algorithms (uninformed, informed, constraint satisfaction, genetic algorithms)</td>
+                        </tr>
+                        <tr>
+                            <td style="text-align: center;">5</td>
+                            <td>CLO5</td>
+                            <td>Understand the fundamentals of knowledge representation (logic-based, frame-based, semantic nets), inference and theorem proving</td>
+                        </tr>
+                        <tr>
+                            <td style="text-align: center;">6</td>
+                            <td>CLO6</td>
+                            <td>Know how to build simple knowledge-based systems</td>
+                        </tr>
+                        <tr>
+                            <td style="text-align: center;">7</td>
+                            <td>CLO7</td>
+                            <td>Know some popular applications of Artificial Intelligence</td>
+                        </tr>
+                        <tr>
+                            <td style="text-align: center;">8</td>
+                            <td>CLO8</td>
+                            <td>Demonstrate working knowledge of reasoning in the presence of incomplete and/or uncertain information</td>
+                        </tr>
+                        <tr>
+                            <td style="text-align: center;">9</td>
+                            <td>CLO9</td>
+                            <td>Ability to apply knowledge representation, reasoning, and machine learning techniques to real-world problems </td>
+                        </tr>
+                        <tr>
+                            <td style="text-align: center;">10</td>
+                            <td>CLO10</td>
+                            <td>Ability to carry out works related to AI  independently or collaborated with others and communicate effectively in a TensorFlow AI-related project setting.</td>
+                        </tr>
+                </tbody>
+            </table>
+        <a href="/CLOMapping/View?syllabusID=10224" target="_blank">View mapping of CLOs to PLOs</a>
+        <br>
+        <br>
+        <!-- Download Buttons & Schedule Section (student: no teacher materials / T-download) -->
+        <button class="margin-bot-10 btn btn-primary btn-blue ml-1 fs-inherit" id="btnDownloadAllStudentMaterial">
+            Download All Student Material
+        </button>
+        <label style="color: #23ac68;">
+        </label>
+            <table id="gvSchedule" class="auto-style2 table table-striped tbl-data" style="width: 100%;">
+                <thead>
+                    <tr>
+                        <th>Session</th>
+                        <th>Topic</th>
+                        <th>Learning-Teaching Type</th>
+                        <th>LO</th>
+                        <th>ITU</th>
+                        <th>Student Materials</th>
+                        <th>S-Download</th>
+                        <th>Student's Tasks</th>
+                        <th>URLs</th>
+                    </tr>
+                </thead>
+                <tbody>
+                        <tr>
+                            <td>1</td>
+                            <td>Chapter 1: Introduction</td>
+                            <td>Offline</td>
+                            <td>LO2;
+<br>LO3</td>
+                            <td>T</td>
+                            <td class="product">Read Textbook on Chapter 1 in advance</td>
+                            <td>
+                                        <a href="/download/4020/S/1_AIT301.zip" class="ContainSLink">AIT301</a>
+
+                            </td>
+                            <td>Do practice in class following teacher requests</td>
+                            <td>
+                            </td>
+                        </tr>
+                        <tr>
+                            <td>2</td>
+                            <td>Chapter 1: Introduction</td>
+                            <td>Offline</td>
+                            <td>LO2;
+<br>LO3</td>
+                            <td>T</td>
+                            <td class="product">Read Textbook on Chapter 1 in advance</td>
+                            <td>
+                                        <a href="/download/4020/S/2_AIT301.zip" class="ContainSLink">AIT301</a>
+
+                            </td>
+                            <td>Do practice in class following teacher requests</td>
+                            <td>
+                            </td>
+                        </tr>
+                        <tr>
+                            <td>3</td>
+                            <td>Chapter 2: Intelligent Agents</td>
+                            <td>Offline</td>
+                            <td>LO2;
+<br>LO3</td>
+                            <td>T</td>
+                            <td class="product">Read Textbook on Chapter 2 in advance</td>
+                            <td>
+
+                            </td>
+                            <td>Do practice in class following teacher requests</td>
+                            <td>
+                            </td>
+                        </tr>
+                        <tr>
+                            <td>4</td>
+                            <td>Chapter 2: Intelligent Agents</td>
+                            <td>Offline</td>
+                            <td>LO2;
+<br>LO3</td>
+                            <td>T</td>
+                            <td class="product">Read Textbook on Chapter 2 in advance</td>
+                            <td>
+
+                            </td>
+                            <td>Do practice in class following teacher requests</td>
+                            <td>
+                            </td>
+                        </tr>
+                        <tr>
+                            <td>5</td>
+                            <td>Chapter 3: Problem Solving and Search</td>
+                            <td>Offline</td>
+                            <td>LO4</td>
+                            <td>T</td>
+                            <td class="product">Read Textbook on Chapter 3 in advance
+<br>Read slide in advance</td>
+                            <td>
+
+                            </td>
+                            <td>Do practice in class following teacher requests</td>
+                            <td>
+                            </td>
+                        </tr>
+                        <tr>
+                            <td>6</td>
+                            <td>Chapter 3: Problem Solving and Search</td>
+                            <td>Offline</td>
+                            <td>LO4</td>
+                            <td>T</td>
+                            <td class="product">Read Textbook on Chapter 3 in advance
+<br>Read slide in advance</td>
+                            <td>
+
+                            </td>
+                            <td>Do practice in class following teacher requests</td>
+                            <td>
+                            </td>
+                        </tr>
+                        <tr>
+                            <td>7</td>
+                            <td>Chapter 3: Problem Solving and Search</td>
+                            <td>Offline</td>
+                            <td>LO4</td>
+                            <td>T</td>
+                            <td class="product">Read Textbook on Chapter 3 in advance
+<br>Read slide in advance</td>
+                            <td>
+
+                            </td>
+                            <td>Do practice in class following teacher requests</td>
+                            <td>
+                            </td>
+                        </tr>
+                        <tr>
+                            <td>8</td>
+                            <td>Chapter 3: Problem Solving and Search</td>
+                            <td>Offline</td>
+                            <td>LO4</td>
+                            <td>T</td>
+                            <td class="product">Read Textbook on Chapter 3 in advance
+<br>Read slide in advance</td>
+                            <td>
+
+                            </td>
+                            <td>Do practice in class following teacher requests</td>
+                            <td>
+                            </td>
+                        </tr>
+                        <tr>
+                            <td>9</td>
+                            <td>Chapter 4: Beyond Classical Search</td>
+                            <td>Offline</td>
+                            <td>LO4</td>
+                            <td>T</td>
+                            <td class="product">Read Textbook on Chapter 4 in advance
+<br>Read slide in advance</td>
+                            <td>
+
+                            </td>
+                            <td>Do practice in class following teacher requests</td>
+                            <td>
+                            </td>
+                        </tr>
+                        <tr>
+                            <td>10</td>
+                            <td>Chapter 4: Beyond Classical Search</td>
+                            <td>Offline</td>
+                            <td>LO4</td>
+                            <td>T</td>
+                            <td class="product">Read Textbook on Chapter 4 in advance
+<br>Read slide in advance</td>
+                            <td>
+
+                            </td>
+                            <td>Do practice in class following teacher requests</td>
+                            <td>
+                            </td>
+                        </tr>
+                        <tr>
+                            <td>11</td>
+                            <td>Chapter 4: Beyond Classical Search 
+<br>
+<br>Project Introduction:
+<br>-First Project : AI Application - Natural Language Processing with Tensor Flow
+<br>-Second Project: AI Application - Handwritten Text Recognition System with Tensor Flow
+<br>-Third Project: AI Application - Simple Autonomous car with Tensor Flow</td>
+                            <td>Offline</td>
+                            <td>LO1; LO4; LO7; LO8; LO9; LO10</td>
+                            <td>ITU</td>
+                            <td class="product">Read Textbook on Chapter 4 in advance
+<br>Read slide in advance
+<br>Collect team or join a team
+<br>Investigate about project requirement</td>
+                            <td>
+
+                            </td>
+                            <td>-Select one of three project type and Select a project topic
+<br>-Perform project work in a group</td>
+                            <td>
+                            </td>
+                        </tr>
+                        <tr>
+                            <td>12</td>
+                            <td>Chapter 4: Beyond Classical Search 
+<br>
+<br>Project Introduction:
+<br>-First Project : AI Application - Natural Language Processing with Tensor Flow
+<br>-Second Project: AI Application - Handwritten Text Recognition System with Tensor Flow
+<br>-Third Project: AI Application - Simple Autonomous car with Tensor Flow</td>
+                            <td>Offline</td>
+                            <td>LO1; LO4; LO7; LO8; LO9; LO10</td>
+                            <td>ITU</td>
+                            <td class="product">Read Textbook on Chapter 4 in advance
+<br>Read slide in advance
+<br>Collect team or join a team
+<br>Investigate about project requirement</td>
+                            <td>
+
+                            </td>
+                            <td>-Select one of three project type and Select a project topic
+<br>-Perform project work in a group</td>
+                            <td>
+                            </td>
+                        </tr>
+                        <tr>
+                            <td>13</td>
+                            <td>Chapter 5: Constraint Satisfaction Problem
+<br>
+<br>Project guidance</td>
+                            <td>Offline</td>
+                            <td>LO1; LO4; LO5; LO8; LO9; LO10</td>
+                            <td>IT</td>
+                            <td class="product">Read Textbook on Chapter 5 in advance
+<br>Read slide in advance
+<br>Prepare project progress report</td>
+                            <td>
+
+                            </td>
+                            <td>Do practice in class following teacher requests
+<br>Perform project work in a group</td>
+                            <td>
+                            </td>
+                        </tr>
+                        <tr>
+                            <td>14</td>
+                            <td>Chapter 5: Constraint Satisfaction Problem
+<br>
+<br>Project guidance</td>
+                            <td>Offline</td>
+                            <td>LO1; LO4; LO5; LO8; LO9; LO10</td>
+                            <td>IT</td>
+                            <td class="product">Read Textbook on Chapter 5 in advance
+<br>Read slide in advance
+<br>Prepare project progress report</td>
+                            <td>
+
+                            </td>
+                            <td>Do practice in class following teacher requests
+<br>Perform project work in a group</td>
+                            <td>
+                            </td>
+                        </tr>
+                        <tr>
+                            <td>15</td>
+                            <td>Chapter 6: Game Playing
+<br>
+<br>Project guidance</td>
+                            <td>Offline</td>
+                            <td>LO1; LO4; LO5; LO8; LO9; LO10</td>
+                            <td>IT</td>
+                            <td class="product">Read Textbook on Chapter 6 in advance
+<br>Read slide in advance
+<br>Prepare project progress report</td>
+                            <td>
+
+                            </td>
+                            <td>Do practice in class following teacher requests
+<br>Perform project work in a group</td>
+                            <td>
+                            </td>
+                        </tr>
+                        <tr>
+                            <td>16</td>
+                            <td>Chapter 6: Game Playing
+<br>
+<br>Project guidance</td>
+                            <td>Offline</td>
+                            <td>LO1; LO4; LO5; LO8; LO9; LO10</td>
+                            <td>IT</td>
+                            <td class="product">Read Textbook on Chapter 6 in advance
+<br>Read slide in advance
+<br>Prepare project progress report</td>
+                            <td>
+
+                            </td>
+                            <td>Do practice in class following teacher requests
+<br>Perform project work in a group</td>
+                            <td>
+                            </td>
+                        </tr>
+                        <tr>
+                            <td>17</td>
+                            <td>Chapter 7: Logical Agents</td>
+                            <td>Offline</td>
+                            <td>LO5</td>
+                            <td>T</td>
+                            <td class="product">Read Textbook on Chapter 7 in advance
+<br>Read slide in advance</td>
+                            <td>
+
+                            </td>
+                            <td>Do practice in class following teacher requests</td>
+                            <td>
+                            </td>
+                        </tr>
+                        <tr>
+                            <td>18</td>
+                            <td>Chapter 7: Logical Agents</td>
+                            <td>Offline</td>
+                            <td>LO5</td>
+                            <td>T</td>
+                            <td class="product">Read Textbook on Chapter 7 in advance
+<br>Read slide in advance</td>
+                            <td>
+
+                            </td>
+                            <td>Do practice in class following teacher requests</td>
+                            <td>
+                            </td>
+                        </tr>
+                        <tr>
+                            <td>19</td>
+                            <td>Project guidance</td>
+                            <td>Offline</td>
+                            <td>LO1; LO8; LO9; LO10</td>
+                            <td>IU</td>
+                            <td class="product">Review Chapters from 1-7
+<br>Prepare project progress report</td>
+                            <td>
+
+                            </td>
+                            <td>Complete quizes and submit
+<br>Perform project work in a group</td>
+                            <td>
+                            </td>
+                        </tr>
+                        <tr>
+                            <td>20</td>
+                            <td>Progress Test 1 (chapter 1-7 )
+<br>
+<br>Project guidance</td>
+                            <td>Offline</td>
+                            <td>LO1; LO8; LO9; LO10</td>
+                            <td>IU</td>
+                            <td class="product">Review Chapters from 1-7
+<br>Prepare project progress report</td>
+                            <td>
+
+                            </td>
+                            <td>Complete quizes and submit
+<br>Perform project work in a group</td>
+                            <td>
+                            </td>
+                        </tr>
+                        <tr>
+                            <td>21</td>
+                            <td>Chapter 8: First-Order Logic</td>
+                            <td>Offline</td>
+                            <td>LO5</td>
+                            <td>T</td>
+                            <td class="product">Read Textbook on Chapter 8 in advance
+<br>Read slide in advance</td>
+                            <td>
+
+                            </td>
+                            <td>Do practice in class following teacher requests</td>
+                            <td>
+                            </td>
+                        </tr>
+                        <tr>
+                            <td>22</td>
+                            <td>Chapter 8: First-Order Logic</td>
+                            <td>Offline</td>
+                            <td>LO5</td>
+                            <td>T</td>
+                            <td class="product">Read Textbook on Chapter 8 in advance
+<br>Read slide in advance</td>
+                            <td>
+
+                            </td>
+                            <td>Do practice in class following teacher requests</td>
+                            <td>
+                            </td>
+                        </tr>
+                        <tr>
+                            <td>23</td>
+                            <td>Chapter 8: First-Order Logic 
+<br>
+<br>Project guidance</td>
+                            <td>Offline</td>
+                            <td>LO1; LO5; LO8; LO9; LO10</td>
+                            <td>IT</td>
+                            <td class="product">Read Textbook on Chapter 8 in advance
+<br>Read slide in advance
+<br>Prepare project progress report</td>
+                            <td>
+
+                            </td>
+                            <td>Do practice in class following teacher requests
+<br>Perform project work in a group</td>
+                            <td>
+                            </td>
+                        </tr>
+                        <tr>
+                            <td>24</td>
+                            <td>Chapter 8: First-Order Logic 
+<br>
+<br>Project guidance</td>
+                            <td>Offline</td>
+                            <td>LO1; LO5; LO8; LO9; LO10</td>
+                            <td>IT</td>
+                            <td class="product">Read Textbook on Chapter 8 in advance
+<br>Read slide in advance
+<br>Prepare project progress report</td>
+                            <td>
+
+                            </td>
+                            <td>Do practice in class following teacher requests
+<br>Perform project work in a group</td>
+                            <td>
+                            </td>
+                        </tr>
+                        <tr>
+                            <td>25</td>
+                            <td>Chapter 9: Inference in First-Order Logic
+<br>
+<br>Project guidance</td>
+                            <td>Offline</td>
+                            <td>LO1; LO5; LO8; LO9; LO10</td>
+                            <td>IT</td>
+                            <td class="product">Read Textbook on Chapter 9 in advance
+<br>Read slide in advance
+<br>Prepare project progress report</td>
+                            <td>
+
+                            </td>
+                            <td>Do practice in class following teacher requests
+<br>Perform project work in a group</td>
+                            <td>
+                            </td>
+                        </tr>
+                        <tr>
+                            <td>26</td>
+                            <td>Chapter 9: Inference in First-Order Logic
+<br>
+<br>Project guidance</td>
+                            <td>Offline</td>
+                            <td>LO1; LO5; LO8; LO9; LO10</td>
+                            <td>IT</td>
+                            <td class="product">Read Textbook on Chapter 9 in advance
+<br>Read slide in advance
+<br>Prepare project progress report</td>
+                            <td>
+
+                            </td>
+                            <td>Do practice in class following teacher requests
+<br>Perform project work in a group</td>
+                            <td>
+                            </td>
+                        </tr>
+                        <tr>
+                            <td>27</td>
+                            <td>Chapter 13: Uncertainty
+<br>
+<br>Project guidance</td>
+                            <td>Offline</td>
+                            <td>LO1; LO6; LO8; LO9; LO10</td>
+                            <td>IT</td>
+                            <td class="product">Read Textbook on Chapter 13 in advance
+<br>Read slide in advance
+<br>Prepare project progress report</td>
+                            <td>
+
+                            </td>
+                            <td>Do practice in class following teacher requests
+<br>Perform project work in a group</td>
+                            <td>
+                            </td>
+                        </tr>
+                        <tr>
+                            <td>28</td>
+                            <td>Chapter 13: Uncertainty
+<br>
+<br>Project guidance</td>
+                            <td>Offline</td>
+                            <td>LO1; LO6; LO8; LO9; LO10</td>
+                            <td>IT</td>
+                            <td class="product">Read Textbook on Chapter 13 in advance
+<br>Read slide in advance
+<br>Prepare project progress report</td>
+                            <td>
+
+                            </td>
+                            <td>Do practice in class following teacher requests
+<br>Perform project work in a group</td>
+                            <td>
+                            </td>
+                        </tr>
+                        <tr>
+                            <td>29</td>
+                            <td>Chapter 14: Bayesian Networks and Inference in Bayesian Networks</td>
+                            <td>Offline</td>
+                            <td>LO6</td>
+                            <td>T</td>
+                            <td class="product">Read Textbook on Chapter 14 in advance
+<br>Read slide in advance</td>
+                            <td>
+
+                            </td>
+                            <td>Do practice in class following teacher requests</td>
+                            <td>
+                            </td>
+                        </tr>
+                        <tr>
+                            <td>30</td>
+                            <td>Chapter 14: Bayesian Networks and Inference in Bayesian Networks</td>
+                            <td>Offline</td>
+                            <td>LO6</td>
+                            <td>T</td>
+                            <td class="product">Read Textbook on Chapter 14 in advance
+<br>Read slide in advance</td>
+                            <td>
+
+                            </td>
+                            <td>Do practice in class following teacher requests</td>
+                            <td>
+                            </td>
+                        </tr>
+                        <tr>
+                            <td>31</td>
+                            <td>Chapter 14: Bayesian Networks and Inference in Bayesian Networks 
+<br>
+<br>Project guidance</td>
+                            <td>Offline</td>
+                            <td>LO1; LO6; LO8; LO9; LO10</td>
+                            <td>IT</td>
+                            <td class="product">Read Textbook on Chapter 14 in advance
+<br>Read slide in advance
+<br>Prepare project progress report</td>
+                            <td>
+
+                            </td>
+                            <td>Do practice in class following teacher requests
+<br>Perform project work in a group</td>
+                            <td>
+                            </td>
+                        </tr>
+                        <tr>
+                            <td>32</td>
+                            <td>Chapter 14: Bayesian Networks and Inference in Bayesian Networks 
+<br>
+<br>Project guidance</td>
+                            <td>Offline</td>
+                            <td>LO1; LO6; LO8; LO9; LO10</td>
+                            <td>IT</td>
+                            <td class="product">Read Textbook on Chapter 14 in advance
+<br>Read slide in advance
+<br>Prepare project progress report</td>
+                            <td>
+
+                            </td>
+                            <td>Do practice in class following teacher requests
+<br>Perform project work in a group</td>
+                            <td>
+                            </td>
+                        </tr>
+                        <tr>
+                            <td>33</td>
+                            <td>Chapter 15: Temporal Probability models and Speech Recognition</td>
+                            <td>Offline</td>
+                            <td>LO6</td>
+                            <td>T</td>
+                            <td class="product">Read Textbook on Chapter 15 in advance
+<br>Read slide in advance</td>
+                            <td>
+
+                            </td>
+                            <td>Do practice in class following teacher requests</td>
+                            <td>
+                            </td>
+                        </tr>
+                        <tr>
+                            <td>34</td>
+                            <td>Chapter 15: Temporal Probability models and Speech Recognition</td>
+                            <td>Offline</td>
+                            <td>LO6</td>
+                            <td>T</td>
+                            <td class="product">Read Textbook on Chapter 15 in advance
+<br>Read slide in advance</td>
+                            <td>
+
+                            </td>
+                            <td>Do practice in class following teacher requests</td>
+                            <td>
+                            </td>
+                        </tr>
+                        <tr>
+                            <td>35</td>
+                            <td>Progress Test 2 (chapter 8-14)
+<br>
+<br>Project guidance</td>
+                            <td>Offline</td>
+                            <td>LO1; LO8; LO9; LO10</td>
+                            <td>IU</td>
+                            <td class="product">Review Chapters from 8-14
+<br>Prepare project progress report</td>
+                            <td>
+
+                            </td>
+                            <td>Complete quizes and submit
+<br>Perform project work in a group</td>
+                            <td>
+                            </td>
+                        </tr>
+                        <tr>
+                            <td>36</td>
+                            <td>Project guidance</td>
+                            <td>Offline</td>
+                            <td>LO1; LO8; LO9; LO10</td>
+                            <td>IU</td>
+                            <td class="product">Review Chapters from 8-14
+<br>Prepare project progress report</td>
+                            <td>
+
+                            </td>
+                            <td>Complete quizes and submit
+<br>Perform project work in a group</td>
+                            <td>
+                            </td>
+                        </tr>
+                        <tr>
+                            <td>37</td>
+                            <td>Chapter 16: Rational Decisions
+<br>
+<br>Project guidance</td>
+                            <td>Offline</td>
+                            <td>LO1; LO6; LO8; LO9; LO10</td>
+                            <td>IT</td>
+                            <td class="product">Read Textbook on Chapter 16,17 in advance
+<br>Read slide in advance
+<br>Prepare project progress report</td>
+                            <td>
+
+                            </td>
+                            <td>Do practice in class following teacher requests
+<br>Perform project work in a group</td>
+                            <td>
+                            </td>
+                        </tr>
+                        <tr>
+                            <td>38</td>
+                            <td>Chapter 16: Rational Decisions
+<br>
+<br>Project guidance</td>
+                            <td>Offline</td>
+                            <td>LO1; LO6; LO8; LO9; LO10</td>
+                            <td>IT</td>
+                            <td class="product">Read Textbook on Chapter 16,17 in advance
+<br>Read slide in advance
+<br>Prepare project progress report</td>
+                            <td>
+
+                            </td>
+                            <td>Do practice in class following teacher requests
+<br>Perform project work in a group</td>
+                            <td>
+                            </td>
+                        </tr>
+                        <tr>
+                            <td>39</td>
+                            <td>Chapter 18: Learning from Observations
+<br>
+<br>Project guidance</td>
+                            <td>Offline</td>
+                            <td>LO1; LO2; LO5; LO8; LO9; LO10</td>
+                            <td>IT</td>
+                            <td class="product">Read Textbook on Chapter 18 in advance
+<br>Read slide in advance
+<br>Prepare project progress report</td>
+                            <td>
+
+                            </td>
+                            <td>Do practice in class following teacher requests
+<br>Perform project work in a group</td>
+                            <td>
+                            </td>
+                        </tr>
+                        <tr>
+                            <td>40</td>
+                            <td>Chapter 18: Learning from Observations
+<br>
+<br>Project guidance</td>
+                            <td>Offline</td>
+                            <td>LO1; LO2; LO5; LO8; LO9; LO10</td>
+                            <td>IT</td>
+                            <td class="product">Read Textbook on Chapter 18 in advance
+<br>Read slide in advance
+<br>Prepare project progress report</td>
+                            <td>
+
+                            </td>
+                            <td>Do practice in class following teacher requests
+<br>Perform project work in a group</td>
+                            <td>
+                            </td>
+                        </tr>
+                        <tr>
+                            <td>41</td>
+                            <td>Chapter 20: Statistical Learning and Neural Network
+<br>
+<br>Project guidance</td>
+                            <td>Offline</td>
+                            <td>LO1; LO2; LO5; LO8; LO9; LO10</td>
+                            <td>IT</td>
+                            <td class="product">Read Textbook on Chapter 20 in advance
+<br>Read slide in advance
+<br>Prepare project progress report</td>
+                            <td>
+
+                            </td>
+                            <td>Do practice in class following teacher requests
+<br>Perform project work in a group</td>
+                            <td>
+                            </td>
+                        </tr>
+                        <tr>
+                            <td>42</td>
+                            <td>Chapter 20: Statistical Learning and Neural Network
+<br>
+<br>Project guidance</td>
+                            <td>Offline</td>
+                            <td>LO1; LO2; LO5; LO8; LO9; LO10</td>
+                            <td>IT</td>
+                            <td class="product">Read Textbook on Chapter 20 in advance
+<br>Read slide in advance
+<br>Prepare project progress report</td>
+                            <td>
+
+                            </td>
+                            <td>Do practice in class following teacher requests
+<br>Perform project work in a group</td>
+                            <td>
+                            </td>
+                        </tr>
+                        <tr>
+                            <td>43</td>
+                            <td>Chapter 22: Communication and Language</td>
+                            <td>Offline</td>
+                            <td>LO7</td>
+                            <td>T</td>
+                            <td class="product">Read Textbook on Chapter 22 in advance
+<br>Read slide in advance</td>
+                            <td>
+
+                            </td>
+                            <td>Do practice in class following teacher requests</td>
+                            <td>
+                            </td>
+                        </tr>
+                        <tr>
+                            <td>44</td>
+                            <td>Chapter 22: Communication and Language</td>
+                            <td>Offline</td>
+                            <td>LO7</td>
+                            <td>T</td>
+                            <td class="product">Read Textbook on Chapter 22 in advance
+<br>Read slide in advance</td>
+                            <td>
+
+                            </td>
+                            <td>Do practice in class following teacher requests</td>
+                            <td>
+                            </td>
+                        </tr>
+                        <tr>
+                            <td>45</td>
+                            <td>Chapter 24: Computer Vision - Perception</td>
+                            <td>Offline</td>
+                            <td>LO7</td>
+                            <td>T</td>
+                            <td class="product">Read Textbook on Chapter 22 in advance
+<br>Read slide in advance</td>
+                            <td>
+
+                            </td>
+                            <td>Do practice in class following teacher requests</td>
+                            <td>
+                            </td>
+                        </tr>
+                        <tr>
+                            <td>46</td>
+                            <td>Chapter 24: Computer Vision - Perception</td>
+                            <td>Offline</td>
+                            <td>LO7</td>
+                            <td>T</td>
+                            <td class="product">Read Textbook on Chapter 22 in advance
+<br>Read slide in advance</td>
+                            <td>
+
+                            </td>
+                            <td>Do practice in class following teacher requests</td>
+                            <td>
+                            </td>
+                        </tr>
+                        <tr>
+                            <td>47</td>
+                            <td>Chapter 25: Robotics
+<br>
+<br>Progress Test 3 (chapter 15-22)</td>
+                            <td>Offline</td>
+                            <td>LO7</td>
+                            <td>TU</td>
+                            <td class="product">Read Textbook on Chapter 22 in advance
+<br>Read slide in advance
+<br>Review Chapters from 15-21</td>
+                            <td>
+
+                            </td>
+                            <td>Do practice in class following teacher requests
+<br>Complete quizes and submit</td>
+                            <td>
+                            </td>
+                        </tr>
+                        <tr>
+                            <td>48</td>
+                            <td>Chapter 25: Robotics</td>
+                            <td>Offline</td>
+                            <td>LO7</td>
+                            <td>TU</td>
+                            <td class="product">Read Textbook on Chapter 22 in advance
+<br>Read slide in advance
+<br>Review Chapters from 15-21</td>
+                            <td>
+
+                            </td>
+                            <td>Do practice in class following teacher requests
+<br>Complete quizes and submit</td>
+                            <td>
+                            </td>
+                        </tr>
+                        <tr>
+                            <td>49</td>
+                            <td>Chapter 21: Reinforcement Learning</td>
+                            <td>Offline</td>
+                            <td>LO2; LO6</td>
+                            <td>T</td>
+                            <td class="product">Read Textbook on Chapter 21 in advance</td>
+                            <td>
+
+                            </td>
+                            <td>Do practice in class following teacher requests</td>
+                            <td>
+                            </td>
+                        </tr>
+                        <tr>
+                            <td>50</td>
+                            <td>Chapter 21: Reinforcement Learning</td>
+                            <td>Offline</td>
+                            <td>LO2; LO6</td>
+                            <td>T</td>
+                            <td class="product">Read Textbook on Chapter 21 in advance</td>
+                            <td>
+
+                            </td>
+                            <td>Do practice in class following teacher requests</td>
+                            <td>
+                            </td>
+                        </tr>
+                        <tr>
+                            <td>51</td>
+                            <td>Chapter 27: AI Future and Conclusion</td>
+                            <td>Offline</td>
+                            <td>LO2</td>
+                            <td>T</td>
+                            <td class="product">Read Textbook on Chapter 27 in advance</td>
+                            <td>
+
+                            </td>
+                            <td>Do practice in class following teacher requests</td>
+                            <td>
+                            </td>
+                        </tr>
+                        <tr>
+                            <td>52</td>
+                            <td>Chapter 27: AI Future and Conclusion</td>
+                            <td>Offline</td>
+                            <td>LO2</td>
+                            <td>T</td>
+                            <td class="product">Read Textbook on Chapter 27 in advance</td>
+                            <td>
+
+                            </td>
+                            <td>Do practice in class following teacher requests</td>
+                            <td>
+                            </td>
+                        </tr>
+                        <tr>
+                            <td>53</td>
+                            <td>Project guidance</td>
+                            <td>Offline</td>
+                            <td>LO1; LO8; LO9; LO10</td>
+                            <td>I</td>
+                            <td class="product">Prepare project progress report</td>
+                            <td>
+
+                            </td>
+                            <td>Perform project work in a group</td>
+                            <td>
+                            </td>
+                        </tr>
+                        <tr>
+                            <td>54</td>
+                            <td>Project guidance</td>
+                            <td>Offline</td>
+                            <td>LO1; LO8; LO9; LO10</td>
+                            <td>I</td>
+                            <td class="product">Prepare project progress report</td>
+                            <td>
+
+                            </td>
+                            <td>Perform project work in a group</td>
+                            <td>
+                            </td>
+                        </tr>
+                        <tr>
+                            <td>55</td>
+                            <td>Evaluate Projects of Student groups</td>
+                            <td>Offline</td>
+                            <td>LO1; LO7; LO8; LO9; LO10</td>
+                            <td>U</td>
+                            <td class="product">Present final project report</td>
+                            <td>
+
+                            </td>
+                            <td></td>
+                            <td>
+                            </td>
+                        </tr>
+                        <tr>
+                            <td>56</td>
+                            <td>Evaluate Projects of Student groups</td>
+                            <td>Offline</td>
+                            <td>LO1; LO7; LO8; LO9; LO10</td>
+                            <td>U</td>
+                            <td class="product">Present final project report</td>
+                            <td>
+
+                            </td>
+                            <td></td>
+                            <td>
+                            </td>
+                        </tr>
+                        <tr>
+                            <td>57</td>
+                            <td>Evaluate Projects of Student groups</td>
+                            <td>Offline</td>
+                            <td>LO1; LO7; LO8; LO9; LO10</td>
+                            <td>U</td>
+                            <td class="product">Present final project report</td>
+                            <td>
+
+                            </td>
+                            <td></td>
+                            <td>
+                            </td>
+                        </tr>
+                        <tr>
+                            <td>58</td>
+                            <td>Evaluate Projects of Student groups</td>
+                            <td>Offline</td>
+                            <td>LO1; LO7; LO8; LO9; LO10</td>
+                            <td>U</td>
+                            <td class="product">Present final project report</td>
+                            <td>
+
+                            </td>
+                            <td></td>
+                            <td>
+                            </td>
+                        </tr>
+                        <tr>
+                            <td>59</td>
+                            <td>Evaluate Projects of Student groups</td>
+                            <td>Offline</td>
+                            <td>LO1; LO7; LO8; LO9; LO10</td>
+                            <td>U</td>
+                            <td class="product">Present final project report</td>
+                            <td>
+
+                            </td>
+                            <td></td>
+                            <td>
+                            </td>
+                        </tr>
+                        <tr>
+                            <td>60</td>
+                            <td>Evaluate Projects of Student groups</td>
+                            <td>Offline</td>
+                            <td>LO1; LO7; LO8; LO9; LO10</td>
+                            <td>U</td>
+                            <td class="product">Present final project report</td>
+                            <td>
+
+                            </td>
+                            <td></td>
+                            <td>
+                            </td>
+                        </tr>
+                </tbody>
+            </table>
+        <br>
+        <!-- Constructivist Questions Section -->
+        <label style="color: #23ac68;">60 Constructive question(s)</label>
+            <table id="gvCQ" class="table table-striped">
+                <thead>
+                    <tr>
+                        <th style="width: 3%; text-align: center;">No.</th>
+                        <th style="width: 7%; text-align: center;">Session No</th>
+                        <th style="width: 15%;">Name</th>
+                        <th style="width: 75%;">Details</th>
+                    </tr>
+                </thead>
+                <tbody>
+                        <tr>
+                            <td style="text-align: center;">1</td>
+                            <td style="text-align: center;">1</td>
+                            <td>CQ1.1</td>
+                            <td>How is the development history of Tensorflow?</td>
+                        </tr>
+                        <tr>
+                            <td style="text-align: center;">2</td>
+                            <td style="text-align: center;">2</td>
+                            <td>CQ1.2</td>
+                            <td>Why is TensorFlow used to implement AI algorithms?</td>
+                        </tr>
+                        <tr>
+                            <td style="text-align: center;">3</td>
+                            <td style="text-align: center;">3</td>
+                            <td>CQ1.3</td>
+                            <td>Which platform are used to deploy TensorFlow-based AI algorithms? Why do we often use them?</td>
+                        </tr>
+                        <tr>
+                            <td style="text-align: center;">4</td>
+                            <td style="text-align: center;">4</td>
+                            <td>CQ2.1</td>
+                            <td>How is the development of AI?</td>
+                        </tr>
+                        <tr>
+                            <td style="text-align: center;">5</td>
+                            <td style="text-align: center;">5</td>
+                            <td>CQ2.2</td>
+                            <td>What fields of life is AI recently applied for? How is the performance of AI in current life?</td>
+                        </tr>
+                        <tr>
+                            <td style="text-align: center;">6</td>
+                            <td style="text-align: center;">6</td>
+                            <td>CQ2.3</td>
+                            <td>Why or why not will AI replace human in future?</td>
+                        </tr>
+                        <tr>
+                            <td style="text-align: center;">7</td>
+                            <td style="text-align: center;">7</td>
+                            <td>CQ3.1</td>
+                            <td>What are intelligent agents?</td>
+                        </tr>
+                        <tr>
+                            <td style="text-align: center;">8</td>
+                            <td style="text-align: center;">8</td>
+                            <td>CQ3.2</td>
+                            <td>What are difference and similarlity between uninformed search strategies and informed search strategies?</td>
+                        </tr>
+                        <tr>
+                            <td style="text-align: center;">9</td>
+                            <td style="text-align: center;">9</td>
+                            <td>CQ3.3</td>
+                            <td>How are breadth-first search, uniform-cost search, depth-first search different from each other?</td>
+                        </tr>
+                        <tr>
+                            <td style="text-align: center;">10</td>
+                            <td style="text-align: center;">10</td>
+                            <td>CQ4.1</td>
+                            <td>How does informed search work in general?</td>
+                        </tr>
+                        <tr>
+                            <td style="text-align: center;">11</td>
+                            <td style="text-align: center;">11</td>
+                            <td>CQ4.2</td>
+                            <td>How are greedy search, A* search applied in our life?</td>
+                        </tr>
+                        <tr>
+                            <td style="text-align: center;">12</td>
+                            <td style="text-align: center;">12</td>
+                            <td>CQ4.3</td>
+                            <td>What are heuristic functions?</td>
+                        </tr>
+                        <tr>
+                            <td style="text-align: center;">13</td>
+                            <td style="text-align: center;">13</td>
+                            <td>CQ5.1</td>
+                            <td>Why do we deal with the problems with constraints?</td>
+                        </tr>
+                        <tr>
+                            <td style="text-align: center;">14</td>
+                            <td style="text-align: center;">14</td>
+                            <td>CQ5.2</td>
+                            <td>How do constraint satisfication problems exist in our life?</td>
+                        </tr>
+                        <tr>
+                            <td style="text-align: center;">15</td>
+                            <td style="text-align: center;">15</td>
+                            <td>CQ5.3</td>
+                            <td>How is backtracking search different from local search?</td>
+                        </tr>
+                        <tr>
+                            <td style="text-align: center;">16</td>
+                            <td style="text-align: center;">16</td>
+                            <td>CQ6.1</td>
+                            <td>What are logical agents?</td>
+                        </tr>
+                        <tr>
+                            <td style="text-align: center;">17</td>
+                            <td style="text-align: center;">17</td>
+                            <td>CQ6.2</td>
+                            <td>How does a propositional logic work?</td>
+                        </tr>
+                        <tr>
+                            <td style="text-align: center;">18</td>
+                            <td style="text-align: center;">18</td>
+                            <td>CQ6.3</td>
+                            <td>How is forward chaining different from backward chaining?</td>
+                        </tr>
+                        <tr>
+                            <td style="text-align: center;">19</td>
+                            <td style="text-align: center;">19</td>
+                            <td>CQ7.1</td>
+                            <td>How is first-order logic represented?</td>
+                        </tr>
+                        <tr>
+                            <td style="text-align: center;">20</td>
+                            <td style="text-align: center;">20</td>
+                            <td>CQ7.2</td>
+                            <td>How is first-order logic applied in our life?</td>
+                        </tr>
+                        <tr>
+                            <td style="text-align: center;">21</td>
+                            <td style="text-align: center;">21</td>
+                            <td>CQ7.3</td>
+                            <td>How to use first-order logic?</td>
+                        </tr>
+                        <tr>
+                            <td style="text-align: center;">22</td>
+                            <td style="text-align: center;">22</td>
+                            <td>CQ8.1</td>
+                            <td>How is inference in first-order logic different from that in propositional logic?</td>
+                        </tr>
+                        <tr>
+                            <td style="text-align: center;">23</td>
+                            <td style="text-align: center;">23</td>
+                            <td>CQ8.2</td>
+                            <td>Why or why not can we replace first-order inference by propositional one?</td>
+                        </tr>
+                        <tr>
+                            <td style="text-align: center;">24</td>
+                            <td style="text-align: center;">24</td>
+                            <td>CQ8.3</td>
+                            <td>How does unification play in first-order logic?</td>
+                        </tr>
+                        <tr>
+                            <td style="text-align: center;">25</td>
+                            <td style="text-align: center;">25</td>
+                            <td>CQ9.1</td>
+                            <td>How is forward chaining in first-order logic diffrerent from that in propositional logic?</td>
+                        </tr>
+                        <tr>
+                            <td style="text-align: center;">26</td>
+                            <td style="text-align: center;">26</td>
+                            <td>CQ9.2</td>
+                            <td>How is backward chaining in first-order logic diffrerent from that in propositional logic?</td>
+                        </tr>
+                        <tr>
+                            <td style="text-align: center;">27</td>
+                            <td style="text-align: center;">27</td>
+                            <td>CQ9.3</td>
+                            <td>How is resolution in first-order logic diffrerent from that in propositional logic?</td>
+                        </tr>
+                        <tr>
+                            <td style="text-align: center;">28</td>
+                            <td style="text-align: center;">28</td>
+                            <td>CQ10.1</td>
+                            <td>Why do we use the term of uncertainty in dealing the problems?</td>
+                        </tr>
+                        <tr>
+                            <td style="text-align: center;">29</td>
+                            <td style="text-align: center;">29</td>
+                            <td>CQ10.2</td>
+                            <td>How does uncertainty affect AI programs?</td>
+                        </tr>
+                        <tr>
+                            <td style="text-align: center;">30</td>
+                            <td style="text-align: center;">30</td>
+                            <td>CQ10.3</td>
+                            <td>How is Bayes' rule used in our life?</td>
+                        </tr>
+                        <tr>
+                            <td style="text-align: center;">31</td>
+                            <td style="text-align: center;">31</td>
+                            <td>CQ11.1</td>
+                            <td>How is network called Bayesian Network?</td>
+                        </tr>
+                        <tr>
+                            <td style="text-align: center;">32</td>
+                            <td style="text-align: center;">32</td>
+                            <td>CQ11.2</td>
+                            <td>How to determine exact inference in Bayesian networks?</td>
+                        </tr>
+                        <tr>
+                            <td style="text-align: center;">33</td>
+                            <td style="text-align: center;">33</td>
+                            <td>CQ11.3</td>
+                            <td>How to determine approximate inference in Bayesian networks?</td>
+                        </tr>
+                        <tr>
+                            <td style="text-align: center;">34</td>
+                            <td style="text-align: center;">34</td>
+                            <td>CQ12.1</td>
+                            <td>What are Hidden Markov models applied for?</td>
+                        </tr>
+                        <tr>
+                            <td style="text-align: center;">35</td>
+                            <td style="text-align: center;">35</td>
+                            <td>CQ12.2</td>
+                            <td>What are Kalman filters applied for?</td>
+                        </tr>
+                        <tr>
+                            <td style="text-align: center;">36</td>
+                            <td style="text-align: center;">36</td>
+                            <td>CQ12.3</td>
+                            <td>How are Hidden Markov models and Dynamic Bayesian Networks applied in speech regconition?</td>
+                        </tr>
+                        <tr>
+                            <td style="text-align: center;">37</td>
+                            <td style="text-align: center;">37</td>
+                            <td>CQ13.1</td>
+                            <td>What are rational preferences?</td>
+                        </tr>
+                        <tr>
+                            <td style="text-align: center;">38</td>
+                            <td style="text-align: center;">38</td>
+                            <td>CQ13.2</td>
+                            <td>Why is utility theory used to support  making decisions?</td>
+                        </tr>
+                        <tr>
+                            <td style="text-align: center;">39</td>
+                            <td style="text-align: center;">39</td>
+                            <td>CQ13.3</td>
+                            <td>How do decision networks work?</td>
+                        </tr>
+                        <tr>
+                            <td style="text-align: center;">40</td>
+                            <td style="text-align: center;">40</td>
+                            <td>CQ14.1</td>
+                            <td>How do learning decision trees work?</td>
+                        </tr>
+                        <tr>
+                            <td style="text-align: center;">41</td>
+                            <td style="text-align: center;">41</td>
+                            <td>CQ14.2</td>
+                            <td>How to evaluate and select the best hypothesis?</td>
+                        </tr>
+                        <tr>
+                            <td style="text-align: center;">42</td>
+                            <td style="text-align: center;">42</td>
+                            <td>CQ14.3</td>
+                            <td>How are regression and classification implemented in tensorflow?</td>
+                        </tr>
+                        <tr>
+                            <td style="text-align: center;">43</td>
+                            <td style="text-align: center;">43</td>
+                            <td>CQ15.1</td>
+                            <td>How to implement the function of text classification using Tensorflow?</td>
+                        </tr>
+                        <tr>
+                            <td style="text-align: center;">44</td>
+                            <td style="text-align: center;">44</td>
+                            <td>CQ15.2</td>
+                            <td>How to implement the function of information rextraction using Tensorflow?</td>
+                        </tr>
+                        <tr>
+                            <td style="text-align: center;">45</td>
+                            <td style="text-align: center;">45</td>
+                            <td>CQ15.3</td>
+                            <td>How to implement the function of speech recognition using Tensorflow?</td>
+                        </tr>
+                        <tr>
+                            <td style="text-align: center;">46</td>
+                            <td style="text-align: center;">46</td>
+                            <td>CQ16.1</td>
+                            <td>Why is the step of preprocessing important in computer vision?</td>
+                        </tr>
+                        <tr>
+                            <td style="text-align: center;">47</td>
+                            <td style="text-align: center;">47</td>
+                            <td>CQ16.2</td>
+                            <td>How to implement object recognition using Tensorflow?</td>
+                        </tr>
+                        <tr>
+                            <td style="text-align: center;">48</td>
+                            <td style="text-align: center;">48</td>
+                            <td>CQ16.3</td>
+                            <td>Why or why not does computer vision play an important role in our life?</td>
+                        </tr>
+                        <tr>
+                            <td style="text-align: center;">49</td>
+                            <td style="text-align: center;">49</td>
+                            <td>CQ17.1</td>
+                            <td>What is robotic perception?</td>
+                        </tr>
+                        <tr>
+                            <td style="text-align: center;">50</td>
+                            <td style="text-align: center;">50</td>
+                            <td>CQ17.2</td>
+                            <td>How is the function of moving implemented?</td>
+                        </tr>
+                        <tr>
+                            <td style="text-align: center;">51</td>
+                            <td style="text-align: center;">51</td>
+                            <td>CQ17.3</td>
+                            <td>Why or why not does robotics play an important role in our life?</td>
+                        </tr>
+                        <tr>
+                            <td style="text-align: center;">52</td>
+                            <td style="text-align: center;">52</td>
+                            <td>CQ18.1</td>
+                            <td>Why or why not can passive reinforcement learning be replaced by active reinforcement learning?</td>
+                        </tr>
+                        <tr>
+                            <td style="text-align: center;">53</td>
+                            <td style="text-align: center;">53</td>
+                            <td>CQ18.2</td>
+                            <td>What is generalization in reinforcement learning?</td>
+                        </tr>
+                        <tr>
+                            <td style="text-align: center;">54</td>
+                            <td style="text-align: center;">54</td>
+                            <td>CQ18.3</td>
+                            <td>How is reinforcement learning applied in our life?</td>
+                        </tr>
+                        <tr>
+                            <td style="text-align: center;">55</td>
+                            <td style="text-align: center;">55</td>
+                            <td>CQ19.1</td>
+                            <td>For project evaluation</td>
+                        </tr>
+                        <tr>
+                            <td style="text-align: center;">56</td>
+                            <td style="text-align: center;">56</td>
+                            <td>CQ19.2</td>
+                            <td>for project evaluation</td>
+                        </tr>
+                        <tr>
+                            <td style="text-align: center;">57</td>
+                            <td style="text-align: center;">57</td>
+                            <td>CQ19.3</td>
+                            <td>For project evaluation</td>
+                        </tr>
+                        <tr>
+                            <td style="text-align: center;">58</td>
+                            <td style="text-align: center;">58</td>
+                            <td>CQ20.1</td>
+                            <td>For project evaluation</td>
+                        </tr>
+                        <tr>
+                            <td style="text-align: center;">59</td>
+                            <td style="text-align: center;">59</td>
+                            <td>CQ20.2</td>
+                            <td>for project evaluation</td>
+                        </tr>
+                        <tr>
+                            <td style="text-align: center;">60</td>
+                            <td style="text-align: center;">60</td>
+                            <td>CQ20.3</td>
+                            <td>For project evaluation</td>
+                        </tr>
+                </tbody>
+            </table>
+        <br>
+        <!-- Assessments Section -->
+        <label style="color: #23ac68;">3 assessment(s)</label>
+            <table id="gvAssessment" class="table table-striped tbl-data">
+                <thead>
+                    <tr>
+                        <th style="width: 3%; text-align: center;">No.</th>
+                        <th>Category</th>
+                        <th>Type</th>
+                        <th>Part</th>
+                        <th>Weight</th>
+                        <th>Completion Criteria</th>
+                        <th>Duration</th>
+                        <th>CLO</th>
+                        <th>Question Type</th>
+                        <th>No Question</th>
+                        <th>Knowledge and Skill</th>
+                        <th>Grading Guide</th>
+                        <th>Note</th>
+                    </tr>
+                </thead>
+                <tbody>
+                        <tr>
+                            <td style="text-align: center;">1</td>
+                            <td>Progress Test</td>
+                            <td>
+
+                                on-going
+                            </td>
+                            <td>3</td>
+                            <td>
+30.0%                            </td>
+                            <td>
+&gt;0                            </td>
+                            <td>20-30'</td>
+                            <td>All Los</td>
+                            <td>MC or a suitable format</td>
+                            <td>25-30</td>
+                            <td>Chapters introduced ( 1-7, 8-14, 15-21)</td>
+                            <td>by instructor, and by 
+<br>suitable means (computer, paper, oral...)</td>
+                            <td>Instruction and shedules for Progress tests must be presented in the  Course Implementation Plan approved by director of the campus. 
+<br>
+<br>Progress test must be taken right after the last lectures of required material. 
+<br>
+<br>Instructor has resposibility to review the test for students after graded.</td>
+                        </tr>
+                        <tr>
+                            <td style="text-align: center;">2</td>
+                            <td>Project</td>
+                            <td>
+
+                                on-going
+                            </td>
+                            <td>1</td>
+                            <td>
+30.0%                            </td>
+                            <td>
+&gt;0                            </td>
+                            <td></td>
+                            <td>LO1; LO7; LO8; LO9; LO10</td>
+                            <td>Project</td>
+                            <td></td>
+                            <td>Student will work in group to create one of three simple AI projects by applying Tensor Flow including Natural Language Processing, Handwriting Text Recognition, Autonomous Car and etc... </td>
+                            <td>guided by instructor 
+<br>in class, completed by group of students at home, submmited by deadline</td>
+                            <td>The project will be evaluated at the end of the course in a walkthrough defense session</td>
+                        </tr>
+                        <tr>
+                            <td style="text-align: center;">3</td>
+                            <td>Final exam</td>
+                            <td>
+
+                                Final exam
+                            </td>
+                            <td>1</td>
+                            <td>
+40.0%                            </td>
+                            <td>
+4                            </td>
+                            <td>60'</td>
+                            <td>All Los</td>
+                            <td>Computer gradable.
+<br>
+<br>
+<br></td>
+                            <td>50</td>
+                            <td>All studied chapters  
+<br>5-7 questions/a full chapter
+<br>More than 70% new questions (for the current semester);
+<br></td>
+                            <td>by Exam Board</td>
+                            <td>~10% of questions is ABET a2-objective oriented and cover LO1;LO8;LO9;LO10</td>
+                        </tr>
+                </tbody>
+            </table>
+        <br>
+</div>
+
+<script src="/bundles/customjs"></script>
+<script>
+    $(document).ready(() => {
+        if ($("tbody tr a.ContainSLink").toArray().length == 0) {
+            $("#btnDownloadAllStudentMaterial").prop("disabled", true);
+        } else {
+            $("#btnDownloadAllStudentMaterial").prop("disabled", false);
+        }
+    });
+
+    function downloadLoop(i, urls) {
+        setTimeout(() => {
+            urls[i].click();
+            i++;
+            if (i < urls.length) {
+                downloadLoop(i, urls);
+            }
+        }, 10456);
+    }
+
+    $('#btnDownloadAllStudentMaterial').on('click', function (e) {
+        e.preventDefault();
+        var downloadLinks = $("tbody tr a.ContainSLink").toArray();
+        var result = confirm("Do you want to download all materials??");
+        if (result) {
+            downloadLoop(0, downloadLinks);
+        }
+    });
+
+    if (window.history.replaceState) {
+        window.history.replaceState(null, null, window.location.href);
+    }
+</script>
+
+            </div>
+        </div>
+    </div>
+
+    <script>
+        $('#language').change(function () {
+            $.ajax({
+                url: '/Language', // comma here instead of semicolon
+                data: { language: $(this).val() },
+                success: function () {
+                    window.location.reload();
+                }
+
+            });
+        });
+        (function loadLanguage() {
+            let dt = JSON.stringify({
+                'ssName': 'language'
+            });
+            $.ajax({
+                contentType: 'application/json; charset=utf-8',
+                dataType: 'json',
+                type: 'POST',
+                url: '/ajax/getCookie/',
+                data: dt
+            }).done(function (data) {
+                $('#language').val(data);
+            })
+        })();
+
+        function showToastRedirectPage(type, mess) {
+            window.localStorage.setItem('typeToast', type);
+            window.localStorage.setItem('messToast', mess);
+        }
+
+        $(document).ready(function () {
+            // Animated title effect - Marquee style
+            function animateTitle() {
+                const title = document.getElementById('pageTitle');
+                const originalText = 'FPT University Learning Materials';
+                const separator = ' • ';
+                const fullText = originalText + separator + originalText + separator;
+
+                let position = 0;
+                let animationId;
+                const speed = 300; // milliseconds between each character shift
+                const maxPosition = originalText.length + separator.length;
+
+                function updateTitle() {
+                    const displayText = fullText.substring(position, position + originalText.length);
+                    title.textContent = displayText;
+
+                    position++;
+                    if (position >= maxPosition) {
+                        position = 0;
+                    }
+
+                    // Continue animation
+                    animationId = setTimeout(updateTitle, speed);
+                }
+
+                // Check if user prefers reduced motion
+                if (window.matchMedia && window.matchMedia('(prefers-reduced-motion: reduce)').matches) {
+                    // Don't animate if user prefers reduced motion
+                    title.textContent = originalText;
+                    return;
+                }
+
+                // Start the animation
+                updateTitle();
+
+                // Pause animation when tab is not visible (performance optimization)
+                document.addEventListener('visibilitychange', function () {
+                    if (document.hidden) {
+                        clearTimeout(animationId);
+                    } else {
+                        updateTitle();
+                    }
+                });
+            }
+
+            // Start title animation
+            animateTitle();
+
+            toastr.options = {
+                "closeButton": true,
+                "newestOnTop": false,
+                "progressBar": true,
+                "positionClass": "toast-top-right",
+                "preventDuplicates": false,
+                "onclick": null,
+                "showDuration": "300",
+                "hideDuration": "1000",
+                "timeOut": "5000",
+                "extendedTimeOut": "1000",
+                "showEasing": "swing",
+                "hideEasing": "linear",
+                "showMethod": "fadeIn",
+                "hideMethod": "fadeOut"
+            }
+
+
+            if (window.localStorage.getItem('typeToast') == 1) {
+                toastr.success(window.localStorage.getItem('messToast'));
+                window.localStorage.setItem('typeToast', 0);
+            }
+            if (window.localStorage.getItem('typeToast') == 2) {
+                toastr.error(window.localStorage.getItem('messToast'));
+                window.localStorage.setItem('typeToast', 0);
+            }
+
+            $(".preventDefault").click(function (event) {
+                event.preventDefault();
+            });
+            $.get("/ajax/permission", function (data) {
+                loadData(data)
+            })
+
+            $('#sidebarCollapse').on('click', function () {
+                $('#sidebar').toggleClass('sb-active');
+            });
+
+        });
+        function loadData(data) {
+            if (typeof (data) != 'string') {
+                $("#lblRole").html(data[0]);
+                $("#lblName").html(data[1]);
+                $("#lblEmail").html(data[2]);
+                $("#lblEduLevel").html(data[4]);
+                if (data[0] == 'Syl Reviewer' || data[0] == 'Syl Designer') {
+                    data[3] = data[3].replace('~', '..');
+                    $("#pnlEmail").css({ display: 'none' });
+                } else {
+                    $("#pnlEmail").css({ display: '' });
+                }
+                $("#ProfileImage").attr({ src: data[3] });
+                //Why index is 4???
+                //if (data[4]) {
+                //    $("#pnlEmail").css({ display: 'none' });
+                //} else {
+                //    $("#lblEmail").html(data[2]);
+                //}
+                if (data[0] === "Head") {
+                    $("#panelStaffFeatures").css({ display: 'none' });
+                } else if (data[0] === "Staff") {
+                    $("#panelHeadFeatures").css({ display: 'none' });
+                } else {
+                    $("#panelStaffFeatures").css({ display: 'none' });
+                    $("#panelHeadFeatures").css({ display: 'none' });
+                    $("#sidebarCollapse").css({ display: 'none' });
+                }
+            } else {
+                window.location.replace(data);
+            }
+        }
+        $('#lbtnSignOut').click(() => {
+            // Check if user is logged in with FEID
+            var isLoginWithFEID = true;
+
+            if (isLoginWithFEID) {
+                // For FEID users, redirect to proper logout endpoint
+                // This will clear all authentication and redirect to regular login
+                window.location.href = '/Home/LogoutWithFEId';
+            } else {
+                // For regular users, use AJAX signout
+                $.get("/ajax/signOut", function (data) {
+                    window.location.replace('/Home/Login');
+                })
+            }
+        })
+        $('#lbtnAlumni').click(() => {
+            $.get("/UserAlumni/StudentAlumni", function (data) {
+
+            })
+        })
+
+        // Handle button clicks for accessibility
+        $('#lbtnSignOut').on('keydown', function (e) {
+            if (e.key === 'Enter' || e.key === ' ') {
+                e.preventDefault();
+                $(this).click();
+            }
+        });
+
+        $('#lbtnAlumni').on('keydown', function (e) {
+            if (e.key === 'Enter' || e.key === ' ') {
+                e.preventDefault();
+                $(this).click();
+            }
+        });
+
+    </script>
+<script type="module" src="https://static.cloudflareinsights.com/beacon.min.js/v31edd6df95cf4e85bb4c19e7a9bdbcba1788362987495" integrity="sha512-iIg7k2xntmwu6/uSb5tpc/hySgZc4eoL31yB29W6tJFo2akwjPWcEqnCEdJvGexCL0KEQwVYv5BlowfhVz26hg==" data-cf-beacon="{&quot;version&quot;:&quot;2024.11.0&quot;,&quot;token&quot;:&quot;56c6dd7e4ecf4947aa540f48289e45af&quot;,&quot;spa&quot;:2}" crossorigin="anonymous"></script>
+
+
+
+</body></html>

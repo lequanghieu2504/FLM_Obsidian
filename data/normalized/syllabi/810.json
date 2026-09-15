@@ -1,0 +1,480 @@
+{
+  "syllabus_id": 810,
+  "subject_code": "ENW101",
+  "subject_name": "Writing 1",
+  "syllabus_name": "Writing 1",
+  "credits": 3,
+  "degree_level": "Bachelor in English Language",
+  "time_allocation": "1 course = 30 sessions 1 session= 90 minutes",
+  "prerequisite": "Passed ENT10x or equivalent",
+  "general_information": {
+    "Syllabus ID": "810",
+    "Syllabus Name": "Writing 1",
+    "Course Name English": "",
+    "Subject Code": "ENW101",
+    "Learning-Teaching Method": "",
+    "NoCredit": "3",
+    "Degree Level": "Bachelor in English Language",
+    "Time Allocation": "1 course = 30 sessions 1 session= 90 minutes",
+    "Pre-Requisite": "Passed ENT10x or equivalent",
+    "Description": "The course is designed to develop and sharpen learners' academic and professional writing skills and strategies in English. Each unit guides the student through the structured writing process with plenty of full colour illustrations, examples, and exercises to engage the student and build confidence. This course aims at providing students understanding and skills from writing sentences to a full paragraph.",
+    "StudentTasks": "- Attend more than 80% of contact hours in order to be accepted to the final examination - Actively participate in class activities - Fulfill tasks given by instructor after class - Use their own laptop in class only for learning purpose - Read the textbook in advance - Access the course website (www.cms.fpt.edu.vn) for up-to-date information and material of the course, for online supports from teachers and other students and for practicing and assessment.",
+    "Tools": "",
+    "Scoring Scale": "10",
+    "DecisionNo MM/dd/yyyy": "1043/QĐ-ĐHFPT dated 08/10/2018",
+    "IsApproved": "True",
+    "Note": "",
+    "Is Scored": "True",
+    "MinAvgMarkToPass": "5",
+    "IsActive": "True",
+    "ApprovedDate": "8/10/2018"
+  },
+  "active": true,
+  "approved": true,
+  "decision": "1043/QĐ-ĐHFPT dated 08/10/2018",
+  "description": "The course is designed to develop and sharpen learners' academic and professional writing skills and strategies in English. Each unit guides the student through the structured writing process with plenty of full colour illustrations, examples, and exercises to engage the student and build confidence. This course aims at providing students understanding and skills from writing sentences to a full paragraph.",
+  "learning_outcomes": [
+    {
+      "No.": "1",
+      "CLO Name": "CLO1",
+      "CLO Details": "Demonstrate the ability to write main idea sentences and supporting detailed sentences"
+    },
+    {
+      "No.": "2",
+      "CLO Name": "CLO2",
+      "CLO Details": "Know how to describe places and personal items with correct sentence structure and vocabulary"
+    },
+    {
+      "No.": "3",
+      "CLO Name": "CLO3",
+      "CLO Details": "Explain tasks"
+    },
+    {
+      "No.": "4",
+      "CLO Name": "CLO4",
+      "CLO Details": "Narrate the past events"
+    },
+    {
+      "No.": "5",
+      "CLO Name": "CLO5",
+      "CLO Details": "Explain changes"
+    },
+    {
+      "No.": "6",
+      "CLO Name": "CLO6",
+      "CLO Details": "Explain opinions"
+    }
+  ],
+  "assessments": [
+    {
+      "No.": "1",
+      "Category": "Progress Test",
+      "Type": "on-going",
+      "Part": "2",
+      "Weight": "20.0%",
+      "Completion Criteria": ">0",
+      "Duration": "20",
+      "CLO": "LO1, LO2, LO3, LO4, LO5, LO6",
+      "Question Type": "",
+      "No Question": "Write a parapraph based on the contents covered Length: ~150 words Time: 20'",
+      "Knowledge and Skill": "Test the acquainted knowledge which student obtained in the delivered units. Content based on topics of studied units",
+      "Grading Guide": "Paper test sheets",
+      "Note": "Teacher is allowed to select which unit content (topic or learning outcome) to focus on each examination session."
+    },
+    {
+      "No.": "2",
+      "Category": "Project/Assignment",
+      "Type": "on-going",
+      "Part": "5",
+      "Weight": "50.0%",
+      "Completion Criteria": ">0",
+      "Duration": "",
+      "CLO": "",
+      "Question Type": "",
+      "No Question": "",
+      "Knowledge and Skill": "",
+      "Grading Guide": "",
+      "Note": "Teachers give topics, start and finish time for each Project/Assignment by themself."
+    },
+    {
+      "No.": "3",
+      "Category": "Final exam",
+      "Type": "Final exam",
+      "Part": "1",
+      "Weight": "30.0%",
+      "Completion Criteria": "4",
+      "Duration": "40",
+      "CLO": "LO1, LO2, LO3, LO4, LO5, LO6",
+      "Question Type": "Time duration: 40 mins Writing a paragraph about 150 words Based on topics of studied units",
+      "No Question": "",
+      "Knowledge and Skill": "",
+      "Grading Guide": "Exam room",
+      "Note": "Not allow to use any document/information in any form in exam room"
+    }
+  ],
+  "schedule": [
+    {
+      "Session": "1",
+      "Topic": "Course Introduction Unit 1 - Writing Process Step 1 Stimulating Ideas - Writing Process Step 2 Brainstorming and Outlining",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO1",
+      "ITU": "I, T, U",
+      "Student Materials": "Coursebook, PPT presentation, other teaching resources provided",
+      "S-Download": "",
+      "Student's Tasks": "Lecture, Exercises, group/pair work, Class discussion",
+      "URLs": ""
+    },
+    {
+      "Session": "2",
+      "Topic": "Unit 1 (Cont. ) - Writing Process Step 3 Developing Your Ideas - Writing Process Step 4 Editing Your Writing",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO1",
+      "ITU": "T, U",
+      "Student Materials": "Coursebook, PPT presentation, other teaching resources provided",
+      "S-Download": "",
+      "Student's Tasks": "Lecture, Exercises, group/pair work, Class discussion",
+      "URLs": ""
+    },
+    {
+      "Session": "3",
+      "Topic": "Unit 1 (Cont. ) Review Putting It All Together Timed Writing Preparing for Academic Success",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO1",
+      "ITU": "T, U",
+      "Student Materials": "Coursebook, PPT presentation, other teaching resources provided",
+      "S-Download": "",
+      "Student's Tasks": "Lecture, Exercises, group/pair work, Class discussion",
+      "URLs": ""
+    },
+    {
+      "Session": "4",
+      "Topic": "Unit 2 - Writing Process Step 1 Stimulating Ideas - Writing Process Step 2 Brainstorming and Outlining",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO2",
+      "ITU": "I, T, U",
+      "Student Materials": "Coursebook, PPT presentation, other teaching resources provided",
+      "S-Download": "",
+      "Student's Tasks": "Lecture, Exercises, group/pair work, Class discussion",
+      "URLs": ""
+    },
+    {
+      "Session": "5",
+      "Topic": "Unit 2 (Cont. ) - Writing Process Step 3 Developing Your Ideas - Writing Process Step 4 Editing Your Writing",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO2",
+      "ITU": "T, U",
+      "Student Materials": "Coursebook, PPT presentation, other teaching resources provided",
+      "S-Download": "",
+      "Student's Tasks": "Lecture, Exercises, group/pair work, Class discussion",
+      "URLs": ""
+    },
+    {
+      "Session": "6",
+      "Topic": "Unit 2 (Cont. ) Review Putting It All Together Timed Writing Preparing for Academic Success",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO2",
+      "ITU": "T, U",
+      "Student Materials": "Coursebook, PPT presentation, other teaching resources provided",
+      "S-Download": "",
+      "Student's Tasks": "Lecture, Exercises, group/pair work, Class discussion",
+      "URLs": ""
+    },
+    {
+      "Session": "7",
+      "Topic": "Unit 3 - Writing Process Step 1 Stimulating Ideas - Writing Process Step 2 Brainstorming and Outlining",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO3",
+      "ITU": "I, T, U",
+      "Student Materials": "Coursebook, PPT presentation, other teaching resources provided",
+      "S-Download": "",
+      "Student's Tasks": "Lecture, Exercises, group/pair work, Class discussion",
+      "URLs": ""
+    },
+    {
+      "Session": "8",
+      "Topic": "Unit 3 (Cont. ) - Writing Process Step 3 Developing Your Ideas - Writing Process Step 4 Editing Your Writing",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO3",
+      "ITU": "T, U",
+      "Student Materials": "Coursebook, PPT presentation, other teaching resources provided",
+      "S-Download": "",
+      "Student's Tasks": "Lecture, Exercises, group/pair work, Class discussion",
+      "URLs": ""
+    },
+    {
+      "Session": "9",
+      "Topic": "Unit 3 (Cont. ) Review Putting It All Together",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO3",
+      "ITU": "T, U",
+      "Student Materials": "Coursebook, PPT presentation, other teaching resources provided",
+      "S-Download": "",
+      "Student's Tasks": "Lecture, Exercises, group/pair work, Class discussion",
+      "URLs": ""
+    },
+    {
+      "Session": "10",
+      "Topic": "Unit 3 (Cont. ) Timed Writing Preparing for Academic Success",
+      "Learning-Teaching Type": "Offline",
+      "LO": "",
+      "ITU": "",
+      "Student Materials": "Coursebook, PPT presentation, other teaching resources provided",
+      "S-Download": "",
+      "Student's Tasks": "Lecture, Exercises, group/pair work, Class discussion",
+      "URLs": ""
+    },
+    {
+      "Session": "11",
+      "Topic": "Unit 4 - Writing Process Step 1 Stimulating Ideas - Writing Process Step 2 Brainstorming and Outlining",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO4",
+      "ITU": "I, T, U",
+      "Student Materials": "Coursebook, PPT presentation, other teaching resources provided",
+      "S-Download": "",
+      "Student's Tasks": "Lecture, Exercises, group/pair work, Class discussion",
+      "URLs": ""
+    },
+    {
+      "Session": "12",
+      "Topic": "Unit 4 (Cont. ) - Writing Process Step 3 Developing Your Ideas - Writing Process Step 4 Editing Your Writing",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO4",
+      "ITU": "T, U",
+      "Student Materials": "Coursebook, PPT presentation, other teaching resources provided",
+      "S-Download": "",
+      "Student's Tasks": "Lecture, Exercises, group/pair work, Class discussion",
+      "URLs": ""
+    },
+    {
+      "Session": "13",
+      "Topic": "Unit 4 (Cont. ) Review Putting It All Together Timed Writing Preparing for Academic Success",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO4",
+      "ITU": "T, U",
+      "Student Materials": "Coursebook, PPT presentation, other teaching resources provided",
+      "S-Download": "",
+      "Student's Tasks": "Lecture, Exercises, group/pair work, Class discussion",
+      "URLs": ""
+    },
+    {
+      "Session": "14",
+      "Topic": "Review Units 1-4 Progress Test 1",
+      "Learning-Teaching Type": "Offline",
+      "LO": "",
+      "ITU": "",
+      "Student Materials": "Coursebook, PPT presentation, other teaching resources provided, testsheets",
+      "S-Download": "",
+      "Student's Tasks": "Lecture, Exercises, group/pair work, Class discussion",
+      "URLs": ""
+    },
+    {
+      "Session": "15",
+      "Topic": "Unit 5 - Writing Process Step 1 Stimulating Ideas - Writing Process Step 2 Brainstorming and Outlining",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO5",
+      "ITU": "I, T, U",
+      "Student Materials": "Coursebook, PPT presentation, other teaching resources provided",
+      "S-Download": "",
+      "Student's Tasks": "Lecture, Exercises, group/pair work, Class discussion",
+      "URLs": ""
+    },
+    {
+      "Session": "16",
+      "Topic": "Unit 5 (Cont. ) - Writing Process Step 3 Developing Your Ideas - Writing Process Step 4 Editing Your Writing",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO5",
+      "ITU": "T, U",
+      "Student Materials": "Coursebook, PPT presentation, other teaching resources provided",
+      "S-Download": "",
+      "Student's Tasks": "Lecture, Exercises, group/pair work, Class discussion",
+      "URLs": ""
+    },
+    {
+      "Session": "17",
+      "Topic": "Unit 5 (Cont. ) Review Putting It All Together Timed Writing Preparing for Academic Success",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO5",
+      "ITU": "T, U",
+      "Student Materials": "Coursebook, PPT presentation, other teaching resources provided",
+      "S-Download": "",
+      "Student's Tasks": "Lecture, Exercises, group/pair work, Class discussion",
+      "URLs": ""
+    },
+    {
+      "Session": "18",
+      "Topic": "Unit 6 - Writing Process Step 1 Stimulating Ideas - Writing Process Step 2 Brainstorming and Outlining",
+      "Learning-Teaching Type": "Offline",
+      "LO": "",
+      "ITU": "",
+      "Student Materials": "Coursebook, PPT presentation, other teaching resources provided",
+      "S-Download": "",
+      "Student's Tasks": "Lecture, Exercises, group/pair work, Class discussion",
+      "URLs": ""
+    },
+    {
+      "Session": "19",
+      "Topic": "Unit 6 (cont.) - Writing Process Step 3 Developing Your Ideas - Writing Process Step 4 Editing Your Writing",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO6",
+      "ITU": "I, T, U",
+      "Student Materials": "Coursebook, PPT presentation, other teaching resources provided",
+      "S-Download": "",
+      "Student's Tasks": "Lecture, Exercises, group/pair work, Class discussion",
+      "URLs": ""
+    },
+    {
+      "Session": "20",
+      "Topic": "Unit 6 (Cont. ) Review Putting It All Together",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO6",
+      "ITU": "T, U",
+      "Student Materials": "Coursebook, PPT presentation, other teaching resources provided",
+      "S-Download": "",
+      "Student's Tasks": "Lecture, Exercises, group/pair work, Class discussion",
+      "URLs": ""
+    },
+    {
+      "Session": "21",
+      "Topic": "Unit 6 (Cont. ) Timed Writing Preparing for Academic Success",
+      "Learning-Teaching Type": "Offline",
+      "LO": "",
+      "ITU": "",
+      "Student Materials": "Coursebook, PPT presentation, other teaching resources provided",
+      "S-Download": "",
+      "Student's Tasks": "Lecture, Exercises, group/pair work, Class discussion",
+      "URLs": ""
+    },
+    {
+      "Session": "22",
+      "Topic": "Unit 7 - Writing Process Step 1 Stimulating Ideas - Writing Process Step 2 Brainstorming and Outlining",
+      "Learning-Teaching Type": "Offline",
+      "LO": "",
+      "ITU": "",
+      "Student Materials": "Coursebook, PPT presentation, other teaching resources provided",
+      "S-Download": "",
+      "Student's Tasks": "Lecture, Exercises, group/pair work, Class discussion",
+      "URLs": ""
+    },
+    {
+      "Session": "23",
+      "Topic": "Unit 7 (cont.) - Writing Process Step 3 Developing Your Ideas - Writing Process Step 4 Editing Your Writing",
+      "Learning-Teaching Type": "Offline",
+      "LO": "",
+      "ITU": "",
+      "Student Materials": "Coursebook, PPT presentation, other teaching resources provided",
+      "S-Download": "",
+      "Student's Tasks": "Lecture, Exercises, group/pair work, Class discussion",
+      "URLs": ""
+    },
+    {
+      "Session": "24",
+      "Topic": "Unit 7 (Cont. ) Review Putting It All Together Timed Writing Preparing for Academic Success",
+      "Learning-Teaching Type": "Offline",
+      "LO": "",
+      "ITU": "",
+      "Student Materials": "Coursebook, PPT presentation, other teaching resources provided",
+      "S-Download": "",
+      "Student's Tasks": "Lecture, Exercises, group/pair work, Class discussion",
+      "URLs": ""
+    },
+    {
+      "Session": "25",
+      "Topic": "Unit 8 - Writing Process Step 1 Stimulating Ideas - Writing Process Step 2 Brainstorming and Outlining",
+      "Learning-Teaching Type": "Offline",
+      "LO": "",
+      "ITU": "",
+      "Student Materials": "Coursebook, PPT presentation, other teaching resources provided",
+      "S-Download": "",
+      "Student's Tasks": "Lecture, Exercises, group/pair work, Class discussion",
+      "URLs": ""
+    },
+    {
+      "Session": "26",
+      "Topic": "Unit 8 (cont.) - Writing Process Step 3 Developing Your Ideas - Writing Process Step 4 Editing Your Writing",
+      "Learning-Teaching Type": "Offline",
+      "LO": "",
+      "ITU": "",
+      "Student Materials": "Coursebook, PPT presentation, other teaching resources provided",
+      "S-Download": "",
+      "Student's Tasks": "Lecture, Exercises, group/pair work, Class discussion",
+      "URLs": ""
+    },
+    {
+      "Session": "27",
+      "Topic": "Unit 8 (Cont. ) Review Putting It All Together",
+      "Learning-Teaching Type": "Offline",
+      "LO": "",
+      "ITU": "",
+      "Student Materials": "Coursebook, PPT presentation, other teaching resources provided",
+      "S-Download": "",
+      "Student's Tasks": "Lecture, Exercises, group/pair work, Class discussion",
+      "URLs": ""
+    },
+    {
+      "Session": "28",
+      "Topic": "Unit 8 (Cont. ) Timed Writing Preparing for Academic Success",
+      "Learning-Teaching Type": "Offline",
+      "LO": "",
+      "ITU": "",
+      "Student Materials": "Coursebook, PPT presentation, other teaching resources provided",
+      "S-Download": "",
+      "Student's Tasks": "Lecture, Exercises, group/pair work, Class discussion",
+      "URLs": ""
+    },
+    {
+      "Session": "29",
+      "Topic": "Review Units 5-8 Progress Test 2",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO1, LO2, LO3, LO4, LO5, LO6",
+      "ITU": "",
+      "Student Materials": "Worksheets, Coursebook, additional materials, test sheets",
+      "S-Download": "",
+      "Student's Tasks": "Exercises, group/pair work",
+      "URLs": ""
+    }
+  ],
+  "constructive_questions": [],
+  "materials": [
+    {
+      "No.": "1",
+      "Material Description": "Effective Academic Writing Introductory",
+      "Author": "Alice Savage & Patricia Mayer",
+      "Publisher": "Oxford University Press",
+      "Published Date": "2012",
+      "Edition": "2nd",
+      "ISBN": "978-0-19432-345-1",
+      "Is Main Material": "True",
+      "Is Hard Copy": "True",
+      "Is Online": "False",
+      "Note": ""
+    },
+    {
+      "No.": "2",
+      "Material Description": "Academic writing from paragraph to essay",
+      "Author": "L. A. Rumisek D. E. Zemach",
+      "Publisher": "Macmillan",
+      "Published Date": "2005",
+      "Edition": "",
+      "ISBN": "978-1-40508-606-6",
+      "Is Main Material": "True",
+      "Is Hard Copy": "True",
+      "Is Online": "False",
+      "Note": ""
+    },
+    {
+      "No.": "3",
+      "Material Description": "Writing Academic English",
+      "Author": "Alice Oshima & Ann Hogue",
+      "Publisher": "Pearson Longman",
+      "Published Date": "2006",
+      "Edition": "4th",
+      "ISBN": "978-0-13152-359-3",
+      "Is Main Material": "False",
+      "Is Hard Copy": "True",
+      "Is Online": "False",
+      "Note": ""
+    }
+  ],
+  "source_path": "data/raw/syllabi/810.html",
+  "id": "syllabus:810"
+}

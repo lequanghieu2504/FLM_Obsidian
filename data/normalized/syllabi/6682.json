@@ -1,0 +1,958 @@
+{
+  "syllabus_id": 6682,
+  "subject_code": "IMT301",
+  "subject_name": "Image Processing with TensorFlow_Xử lý ảnh với Tensorflow",
+  "syllabus_name": "Image Processing Technology_Công nghệ xử lý ảnh",
+  "credits": 3,
+  "degree_level": "Bachelor",
+  "time_allocation": "Study hour (150h) = 45h contact hours + 1h final exam + 104h self-study",
+  "prerequisite": "MAD101, MAS291, CSI104",
+  "general_information": {
+    "Syllabus ID": "6682",
+    "Syllabus Name": "Image Processing Technology_Công nghệ xử lý ảnh",
+    "Course Name English": "",
+    "Subject Code": "IMT301",
+    "Learning-Teaching Method": "",
+    "NoCredit": "3",
+    "Degree Level": "Bachelor",
+    "Time Allocation": "Study hour (150h) = 45h contact hours + 1h final exam + 104h self-study",
+    "Pre-Requisite": "MAD101, MAS291, CSI104",
+    "Description": "Upon finishing the course, students must acquire: 1. the following knowledge: (ABET a1) • Fundamental concepts of Digital Image Processing. • Basic image processing operation. 2. the following skills: (ABET a2) • Image analysis algorithms. • Current applications in the field of digital image processing. • Fundamental concepts and basic functions in Tensorflow. • Using Tensorflow in image processing",
+    "StudentTasks": "- Students must attend more than 80% of contact slots in order to be accepted to the final examination. - Student is responsible to do all exercises given by instructor in class or at home and submit on time - Use laptop in the class for learning purpose only - Constantly follow announcements on intranet/CMS at http://cms.fpt.edu.vn for up-to-date course information regarding assignment submission and feedback on assignments",
+    "Tools": "Tensorflow",
+    "Scoring Scale": "10",
+    "DecisionNo MM/dd/yyyy": "703/QĐ-ĐH-FPT dated 08/17/2022",
+    "IsApproved": "True",
+    "Note": "",
+    "Is Scored": "True",
+    "MinAvgMarkToPass": "5",
+    "IsActive": "True",
+    "ApprovedDate": "8/17/2022"
+  },
+  "active": true,
+  "approved": true,
+  "decision": "703/QĐ-ĐH-FPT dated 08/17/2022",
+  "description": "Upon finishing the course, students must acquire: 1. the following knowledge: (ABET a1) • Fundamental concepts of Digital Image Processing. • Basic image processing operation. 2. the following skills: (ABET a2) • Image analysis algorithms. • Current applications in the field of digital image processing. • Fundamental concepts and basic functions in Tensorflow. • Using Tensorflow in image processing",
+  "learning_outcomes": [
+    {
+      "No.": "1",
+      "CLO Name": "CLO1",
+      "CLO Details": "Explain how digital images are represented and manipulated in a computer, including reading and writing from storage, and displaying."
+    },
+    {
+      "No.": "2",
+      "CLO Name": "CLO2",
+      "CLO Details": "Write a program which implements fundamental image processing algorithms."
+    },
+    {
+      "No.": "3",
+      "CLO Name": "CLO3",
+      "CLO Details": "Be conversant with the mathematical description of image processing techniques and know how to go from the equations to code."
+    },
+    {
+      "No.": "4",
+      "CLO Name": "CLO4",
+      "CLO Details": "An ability to apply knowledge and identify the computing requirements appropriate for its solution."
+    },
+    {
+      "No.": "5",
+      "CLO Name": "CLO5",
+      "CLO Details": "An ability to design, implement and evaluate a computer-based system, process, component or program to meet desired needs."
+    },
+    {
+      "No.": "6",
+      "CLO Name": "CLO6",
+      "CLO Details": "An ability to apply mathematical foundations, algorithmic principles and computer science theory to the modeling and design of computer based systems in the way that demonstrates comprehension of the tradeoffs involved in design choices."
+    },
+    {
+      "No.": "7",
+      "CLO Name": "CLO7",
+      "CLO Details": "An ability to use all the main functions of Tensorflow and understand how to apply them to process a problem in image processing."
+    },
+    {
+      "No.": "8",
+      "CLO Name": "CLO8",
+      "CLO Details": "An ability to understand the advantages and disvantages of Tensorflow in comparison with other image processing's frameworks (OpenCV, Keras, etc...)."
+    }
+  ],
+  "assessments": [
+    {
+      "No.": "1",
+      "Category": "Labworks",
+      "Type": "on-going",
+      "Part": "3",
+      "Weight": "30.0%",
+      "Completion Criteria": ">0",
+      "Duration": "",
+      "CLO": "All Los",
+      "Question Type": "Open",
+      "No Question": "5--10",
+      "Knowledge and Skill": "Chapters introduced",
+      "Grading Guide": "guided by instructor in class, completed by student at home, submmited by deadline",
+      "Note": ""
+    },
+    {
+      "No.": "2",
+      "Category": "Progress Test",
+      "Type": "on-going",
+      "Part": "3",
+      "Weight": "30.0%",
+      "Completion Criteria": ">0",
+      "Duration": "20-30'",
+      "CLO": "All Los",
+      "Question Type": "MC or a suitable format",
+      "No Question": "10-15",
+      "Knowledge and Skill": "Chapters introduced",
+      "Grading Guide": "by instructor, and by suitable means (computer, paper, oral...)",
+      "Note": "Instruction and shedules for Progress tests must be presented in the Course Implementation Plan approved by director of the campus. Progress test must be taken right after the last lectures of required material. Instructor has resposibility to review the test for students after graded."
+    },
+    {
+      "No.": "3",
+      "Category": "Final exam",
+      "Type": "Final exam",
+      "Part": "1",
+      "Weight": "40.0%",
+      "Completion Criteria": "4",
+      "Duration": "60'",
+      "CLO": "All Los",
+      "Question Type": "Computer gradable.",
+      "No Question": "50",
+      "Knowledge and Skill": "All studied chapters 5-7 questions/a full chapter More than 70% new questions (for the current semester);",
+      "Grading Guide": "by Exam Board",
+      "Note": "~10% of questions is ABET a2-objective oriented"
+    }
+  ],
+  "schedule": [
+    {
+      "Session": "1",
+      "Topic": "Continuous Image Characterization: -Introduction -Constinuous Image Mathematical Characterization",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO1",
+      "ITU": "I",
+      "Student Materials": "Textbook Part 1 (Chapter 1, 2, 3)",
+      "S-Download": "IMT301",
+      "Student's Tasks": "Labwork 1 (LO1, LO2, LO3.1, LO3.2, LO3.3)",
+      "URLs": ""
+    },
+    {
+      "Session": "2",
+      "Topic": "Continuous Image Characterization: -Introduction -Constinuous Image Mathematical Characterization",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO1",
+      "ITU": "I",
+      "Student Materials": "Textbook Part 1 (Chapter 1, 2, 3)",
+      "S-Download": "IMT301",
+      "Student's Tasks": "Labwork 1 (LO1, LO2, LO3.1, LO3.2, LO3.3)",
+      "URLs": ""
+    },
+    {
+      "Session": "3",
+      "Topic": "-Psychophysical Vision Properties",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO1",
+      "ITU": "TU",
+      "Student Materials": "Textbook Part 1 (Chapter 1, 2, 3)",
+      "S-Download": "",
+      "Student's Tasks": "Labwork 1 (LO1, LO2, LO3.1, LO3.2, LO3.3)",
+      "URLs": ""
+    },
+    {
+      "Session": "4",
+      "Topic": "-Psychophysical Vision Properties",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO1",
+      "ITU": "TU",
+      "Student Materials": "Textbook Part 1 (Chapter 1, 2, 3)",
+      "S-Download": "",
+      "Student's Tasks": "Labwork 1 (LO1, LO2, LO3.1, LO3.2, LO3.3)",
+      "URLs": ""
+    },
+    {
+      "Session": "5",
+      "Topic": "-Photometry and Colorimetry",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO1",
+      "ITU": "IT",
+      "Student Materials": "Textbook Part 1 (Chapter 1, 2, 3)",
+      "S-Download": "",
+      "Student's Tasks": "Labwork 1 (LO1, LO2, LO3.1, LO3.2, LO3.3)",
+      "URLs": ""
+    },
+    {
+      "Session": "6",
+      "Topic": "-Photometry and Colorimetry",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO1",
+      "ITU": "IT",
+      "Student Materials": "Textbook Part 1 (Chapter 1, 2, 3)",
+      "S-Download": "",
+      "Student's Tasks": "Labwork 1 (LO1, LO2, LO3.1, LO3.2, LO3.3)",
+      "URLs": ""
+    },
+    {
+      "Session": "7",
+      "Topic": "Digital Image Characterization -Image Sampling and Reconstruction",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO2",
+      "ITU": "TU",
+      "Student Materials": "Textbook Part 2 - Chapter (4, 5)",
+      "S-Download": "",
+      "Student's Tasks": "Labwork 1 (LO1, LO2, LO3.1, LO3.2, LO3.3)",
+      "URLs": ""
+    },
+    {
+      "Session": "8",
+      "Topic": "Digital Image Characterization -Image Sampling and Reconstruction",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO2",
+      "ITU": "TU",
+      "Student Materials": "Textbook Part 2 - Chapter (4, 5)",
+      "S-Download": "",
+      "Student's Tasks": "Labwork 1 (LO1, LO2, LO3.1, LO3.2, LO3.3)",
+      "URLs": ""
+    },
+    {
+      "Session": "9",
+      "Topic": "-Image Quantization",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO2",
+      "ITU": "TU",
+      "Student Materials": "Textbook Part 2 - Chapter (4, 5)",
+      "S-Download": "",
+      "Student's Tasks": "Labwork 1 (LO1, LO2, LO3.1, LO3.2, LO3.3)",
+      "URLs": ""
+    },
+    {
+      "Session": "10",
+      "Topic": "-Image Quantization",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO2",
+      "ITU": "TU",
+      "Student Materials": "Textbook Part 2 - Chapter (4, 5)",
+      "S-Download": "",
+      "Student's Tasks": "Labwork 1 (LO1, LO2, LO3.1, LO3.2, LO3.3)",
+      "URLs": ""
+    },
+    {
+      "Session": "11",
+      "Topic": "-Haar Transform",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO2",
+      "ITU": "TU",
+      "Student Materials": "Textbook Part 2 - Chapter (4, 5)",
+      "S-Download": "",
+      "Student's Tasks": "Labwork 1 (LO1, LO2, LO3.1, LO3.2, LO3.3)",
+      "URLs": ""
+    },
+    {
+      "Session": "12",
+      "Topic": "-Haar Transform",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO2",
+      "ITU": "TU",
+      "Student Materials": "Textbook Part 2 - Chapter (4, 5)",
+      "S-Download": "",
+      "Student's Tasks": "Labwork 1 (LO1, LO2, LO3.1, LO3.2, LO3.3)",
+      "URLs": ""
+    },
+    {
+      "Session": "13",
+      "Topic": "-Hadamard Transform",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO2, LO3.2",
+      "ITU": "TU",
+      "Student Materials": "Textbook Part 2 - Chapter (4, 5)",
+      "S-Download": "",
+      "Student's Tasks": "Labwork 1 (LO1, LO2, LO3.1, LO3.2, LO3.3)",
+      "URLs": ""
+    },
+    {
+      "Session": "14",
+      "Topic": "-Hadamard Transform",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO2, LO3.2",
+      "ITU": "TU",
+      "Student Materials": "Textbook Part 2 - Chapter (4, 5)",
+      "S-Download": "",
+      "Student's Tasks": "Labwork 1 (LO1, LO2, LO3.1, LO3.2, LO3.3)",
+      "URLs": ""
+    },
+    {
+      "Session": "15",
+      "Topic": "Discrete Two-Dimentional Processing: -Discrete Image Mathematical Characterization",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO3",
+      "ITU": "TU",
+      "Student Materials": "Textbook Part 3 (Chapter 6, 7, 8, 9)",
+      "S-Download": "",
+      "Student's Tasks": "Labwork 1 (LO1, LO2, LO3.1, LO3.2, LO3.3)",
+      "URLs": ""
+    },
+    {
+      "Session": "16",
+      "Topic": "Discrete Two-Dimentional Processing: -Discrete Image Mathematical Characterization",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO3",
+      "ITU": "TU",
+      "Student Materials": "Textbook Part 3 (Chapter 6, 7, 8, 9)",
+      "S-Download": "",
+      "Student's Tasks": "Labwork 1 (LO1, LO2, LO3.1, LO3.2, LO3.3)",
+      "URLs": ""
+    },
+    {
+      "Session": "17",
+      "Topic": "-Superposition and Convolution",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO3",
+      "ITU": "TU",
+      "Student Materials": "Textbook Part 3 (Chapter 6, 7, 8, 9)",
+      "S-Download": "",
+      "Student's Tasks": "Labwork 1 (LO1, LO2, LO3.1, LO3.2, LO3.3)",
+      "URLs": ""
+    },
+    {
+      "Session": "18",
+      "Topic": "-Superposition and Convolution",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO3",
+      "ITU": "TU",
+      "Student Materials": "Textbook Part 3 (Chapter 6, 7, 8, 9)",
+      "S-Download": "",
+      "Student's Tasks": "Labwork 1 (LO1, LO2, LO3.1, LO3.2, LO3.3)",
+      "URLs": ""
+    },
+    {
+      "Session": "19",
+      "Topic": "-Unitary Transforms",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO3",
+      "ITU": "TU",
+      "Student Materials": "Textbook Part 3 (Chapter 6, 7, 8, 9)",
+      "S-Download": "",
+      "Student's Tasks": "Labwork 2 (LO3.4, LO4, LO5)",
+      "URLs": ""
+    },
+    {
+      "Session": "20",
+      "Topic": "-Unitary Transforms",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO3",
+      "ITU": "TU",
+      "Student Materials": "Textbook Part 3 (Chapter 6, 7, 8, 9)",
+      "S-Download": "",
+      "Student's Tasks": "Labwork 2 (LO3.4, LO4, LO5)",
+      "URLs": ""
+    },
+    {
+      "Session": "21",
+      "Topic": "Progress Test 1 -Linear Processing Techniques",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO3",
+      "ITU": "TU",
+      "Student Materials": "Textbook Part 3 (Chapter 6, 7, 8, 9)",
+      "S-Download": "",
+      "Student's Tasks": "Labwork 2 (LO3.4, LO4, LO5)",
+      "URLs": ""
+    },
+    {
+      "Session": "22",
+      "Topic": "-Linear Processing Techniques",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO3",
+      "ITU": "TU",
+      "Student Materials": "Textbook Part 3 (Chapter 6, 7, 8, 9)",
+      "S-Download": "",
+      "Student's Tasks": "Labwork 2 (LO3.4, LO4, LO5)",
+      "URLs": ""
+    },
+    {
+      "Session": "23",
+      "Topic": "Image Improvement -Image Enhancement",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO4",
+      "ITU": "TU",
+      "Student Materials": "Textbook Part 4: Chapter 10, 11, 12, 13)",
+      "S-Download": "",
+      "Student's Tasks": "Labwork 2 (LO3.4, LO4, LO5)",
+      "URLs": ""
+    },
+    {
+      "Session": "24",
+      "Topic": "Image Improvement -Image Enhancement",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO4",
+      "ITU": "TU",
+      "Student Materials": "Textbook Part 4: Chapter 10, 11, 12, 13)",
+      "S-Download": "",
+      "Student's Tasks": "Labwork 2 (LO3.4, LO4, LO5)",
+      "URLs": ""
+    },
+    {
+      "Session": "25",
+      "Topic": "-Image Restoration Models",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO4",
+      "ITU": "TU",
+      "Student Materials": "Textbook Part 4: Chapter 10, 11, 12, 13)",
+      "S-Download": "",
+      "Student's Tasks": "Labwork 2 (LO3.4, LO4, LO5)",
+      "URLs": ""
+    },
+    {
+      "Session": "26",
+      "Topic": "-Image Restoration Models",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO4",
+      "ITU": "TU",
+      "Student Materials": "Textbook Part 4: Chapter 10, 11, 12, 13)",
+      "S-Download": "",
+      "Student's Tasks": "Labwork 2 (LO3.4, LO4, LO5)",
+      "URLs": ""
+    },
+    {
+      "Session": "27",
+      "Topic": "-Image Restoration Techniques",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO4",
+      "ITU": "TU",
+      "Student Materials": "Textbook Part 4: Chapter 10, 11, 12, 13)",
+      "S-Download": "",
+      "Student's Tasks": "Labwork 2 (LO3.4, LO4, LO5)",
+      "URLs": ""
+    },
+    {
+      "Session": "28",
+      "Topic": "-Image Restoration Techniques",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO4",
+      "ITU": "TU",
+      "Student Materials": "Textbook Part 4: Chapter 10, 11, 12, 13)",
+      "S-Download": "",
+      "Student's Tasks": "Labwork 2 (LO3.4, LO4, LO5)",
+      "URLs": ""
+    },
+    {
+      "Session": "29",
+      "Topic": "-Geometrical Image Modification -Use of motion for segmentation",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO4",
+      "ITU": "TU",
+      "Student Materials": "Textbook Part 4: Chapter 10, 11, 12, 13)",
+      "S-Download": "",
+      "Student's Tasks": "Labwork 2 (LO3.4, LO4, LO5)",
+      "URLs": ""
+    },
+    {
+      "Session": "30",
+      "Topic": "-Geometrical Image Modification -Use of motion for segmentation",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO4",
+      "ITU": "TU",
+      "Student Materials": "Textbook Part 4: Chapter 10, 11, 12, 13)",
+      "S-Download": "",
+      "Student's Tasks": "Labwork 2 (LO3.4, LO4, LO5)",
+      "URLs": ""
+    },
+    {
+      "Session": "31",
+      "Topic": "Overview of Tensorflow -Why Tensorflow?",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO5",
+      "ITU": "TU",
+      "Student Materials": "Textbook: Tensor Flow for Dummies Chapter 1, 2",
+      "S-Download": "",
+      "Student's Tasks": "Labwork 2 (LO3.4, LO4, LO5)",
+      "URLs": ""
+    },
+    {
+      "Session": "32",
+      "Topic": "Overview of Tensorflow -Why Tensorflow?",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO5",
+      "ITU": "TU",
+      "Student Materials": "Textbook: Tensor Flow for Dummies Chapter 1, 2",
+      "S-Download": "",
+      "Student's Tasks": "Labwork 2 (LO3.4, LO4, LO5)",
+      "URLs": ""
+    },
+    {
+      "Session": "33",
+      "Topic": "-Graphs and Sessions",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO5",
+      "ITU": "TU",
+      "Student Materials": "Textbook: Tensor Flow for Dummies Chapter 1, 2",
+      "S-Download": "",
+      "Student's Tasks": "Labwork 2 (LO3.4, LO4, LO5)",
+      "URLs": ""
+    },
+    {
+      "Session": "34",
+      "Topic": "-Graphs and Sessions",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO5",
+      "ITU": "TU",
+      "Student Materials": "Textbook: Tensor Flow for Dummies Chapter 1, 2",
+      "S-Download": "",
+      "Student's Tasks": "Labwork 2 (LO3.4, LO4, LO5)",
+      "URLs": ""
+    },
+    {
+      "Session": "35",
+      "Topic": "Creating Tensors and Operations -Basic operations, constants, variables",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO6",
+      "ITU": "IT",
+      "Student Materials": "Textbook: Tensor Flow for Dummies Chapter 3",
+      "S-Download": "",
+      "Student's Tasks": "Labwork 3 (LO6, LO7, LO8)",
+      "URLs": ""
+    },
+    {
+      "Session": "36",
+      "Topic": "Creating Tensors and Operations -Basic operations, constants, variables",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO6",
+      "ITU": "IT",
+      "Student Materials": "Textbook: Tensor Flow for Dummies Chapter 3",
+      "S-Download": "",
+      "Student's Tasks": "Labwork 3 (LO6, LO7, LO8)",
+      "URLs": ""
+    },
+    {
+      "Session": "37",
+      "Topic": "-Control dependencies",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO6",
+      "ITU": "TU",
+      "Student Materials": "Textbook: Tensor Flow for Dummies Chapter 3",
+      "S-Download": "",
+      "Student's Tasks": "Labwork 3 (LO6, LO7, LO8)",
+      "URLs": ""
+    },
+    {
+      "Session": "38",
+      "Topic": "-Control dependencies",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO6",
+      "ITU": "TU",
+      "Student Materials": "Textbook: Tensor Flow for Dummies Chapter 3",
+      "S-Download": "",
+      "Student's Tasks": "Labwork 3 (LO6, LO7, LO8)",
+      "URLs": ""
+    },
+    {
+      "Session": "39",
+      "Topic": "-Data pipeline",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO6",
+      "ITU": "TU",
+      "Student Materials": "Textbook: Tensor Flow for Dummies Chapter 3",
+      "S-Download": "",
+      "Student's Tasks": "Labwork 3 (LO6, LO7, LO8)",
+      "URLs": ""
+    },
+    {
+      "Session": "40",
+      "Topic": "-Data pipeline",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO6",
+      "ITU": "TU",
+      "Student Materials": "Textbook: Tensor Flow for Dummies Chapter 3",
+      "S-Download": "",
+      "Student's Tasks": "Labwork 3 (LO6, LO7, LO8)",
+      "URLs": ""
+    },
+    {
+      "Session": "41",
+      "Topic": "Progress Test 2 -TensorBoard",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO6",
+      "ITU": "TU",
+      "Student Materials": "Textbook: Tensor Flow for Dummies Chapter 3",
+      "S-Download": "",
+      "Student's Tasks": "Labwork 3 (LO6, LO7, LO8)",
+      "URLs": ""
+    },
+    {
+      "Session": "42",
+      "Topic": "-TensorBoard",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO6",
+      "ITU": "TU",
+      "Student Materials": "Textbook: Tensor Flow for Dummies Chapter 3",
+      "S-Download": "",
+      "Student's Tasks": "Labwork 3 (LO6, LO7, LO8)",
+      "URLs": ""
+    },
+    {
+      "Session": "43",
+      "Topic": "Executing Graphs in Session -Forming Graphs",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO7",
+      "ITU": "TU",
+      "Student Materials": "Textbook: Tensor Flow for Dummies Chapter 4",
+      "S-Download": "",
+      "Student's Tasks": "Labwork 3 (LO6, LO7, LO8)",
+      "URLs": ""
+    },
+    {
+      "Session": "44",
+      "Topic": "Executing Graphs in Session -Forming Graphs",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO7",
+      "ITU": "TU",
+      "Student Materials": "Textbook: Tensor Flow for Dummies Chapter 4",
+      "S-Download": "",
+      "Student's Tasks": "Labwork 3 (LO6, LO7, LO8)",
+      "URLs": ""
+    },
+    {
+      "Session": "45",
+      "Topic": "-Creating and Running Session",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO7",
+      "ITU": "TU",
+      "Student Materials": "Textbook: Tensor Flow for Dummies Chapter 4",
+      "S-Download": "",
+      "Student's Tasks": "Labwork 3 (LO6, LO7, LO8)",
+      "URLs": ""
+    },
+    {
+      "Session": "46",
+      "Topic": "-Creating and Running Session",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO7",
+      "ITU": "TU",
+      "Student Materials": "Textbook: Tensor Flow for Dummies Chapter 4",
+      "S-Download": "",
+      "Student's Tasks": "Labwork 3 (LO6, LO7, LO8)",
+      "URLs": ""
+    },
+    {
+      "Session": "47",
+      "Topic": "Training -Formulating the Model",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO8",
+      "ITU": "TU",
+      "Student Materials": "Textbook: Tensor Flow for Dummies Chapter 5",
+      "S-Download": "",
+      "Student's Tasks": "Labwork 3 (LO6, LO7, LO8)",
+      "URLs": ""
+    },
+    {
+      "Session": "48",
+      "Topic": "Training -Formulating the Model",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO8",
+      "ITU": "TU",
+      "Student Materials": "Textbook: Tensor Flow for Dummies Chapter 5",
+      "S-Download": "",
+      "Student's Tasks": "Labwork 3 (LO6, LO7, LO8)",
+      "URLs": ""
+    },
+    {
+      "Session": "49",
+      "Topic": "-Determining Loss",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO8",
+      "ITU": "TU",
+      "Student Materials": "Textbook: Tensor Flow for Dummies Chapter 5",
+      "S-Download": "",
+      "Student's Tasks": "Labwork 3 (LO6, LO7, LO8)",
+      "URLs": ""
+    },
+    {
+      "Session": "50",
+      "Topic": "-Determining Loss",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO8",
+      "ITU": "TU",
+      "Student Materials": "Textbook: Tensor Flow for Dummies Chapter 5",
+      "S-Download": "",
+      "Student's Tasks": "Labwork 3 (LO6, LO7, LO8)",
+      "URLs": ""
+    },
+    {
+      "Session": "51",
+      "Topic": "-Minimizing Loss with Optimization",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO8",
+      "ITU": "TU",
+      "Student Materials": "Textbook: Tensor Flow for Dummies Chapter 5",
+      "S-Download": "",
+      "Student's Tasks": "Labwork 3 (LO6, LO7, LO8)",
+      "URLs": ""
+    },
+    {
+      "Session": "52",
+      "Topic": "-Minimizing Loss with Optimization",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO8",
+      "ITU": "TU",
+      "Student Materials": "Textbook: Tensor Flow for Dummies Chapter 5",
+      "S-Download": "",
+      "Student's Tasks": "Labwork 3 (LO6, LO7, LO8)",
+      "URLs": ""
+    },
+    {
+      "Session": "53",
+      "Topic": "Classifying Images with Convolutional Neurol Networks (CNNs) -Filter Images",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO7",
+      "ITU": "TU",
+      "Student Materials": "Textbook: Tensor Flow for Dummies Chapter 8",
+      "S-Download": "",
+      "Student's Tasks": "Labwork 3 (LO6, LO7, LO8)",
+      "URLs": ""
+    },
+    {
+      "Session": "54",
+      "Topic": "Classifying Images with Convolutional Neurol Networks (CNNs) -Filter Images",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO7",
+      "ITU": "TU",
+      "Student Materials": "Textbook: Tensor Flow for Dummies Chapter 8",
+      "S-Download": "",
+      "Student's Tasks": "Labwork 3 (LO6, LO7, LO8)",
+      "URLs": ""
+    },
+    {
+      "Session": "55",
+      "Topic": "-Convolutional Neural Networks",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO7",
+      "ITU": "TU",
+      "Student Materials": "Textbook: Tensor Flow for Dummies Chapter 8",
+      "S-Download": "",
+      "Student's Tasks": "Labwork 3 (LO6, LO7, LO8)",
+      "URLs": ""
+    },
+    {
+      "Session": "56",
+      "Topic": "-Convolutional Neural Networks",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO7",
+      "ITU": "TU",
+      "Student Materials": "Textbook: Tensor Flow for Dummies Chapter 8",
+      "S-Download": "",
+      "Student's Tasks": "Labwork 3 (LO6, LO7, LO8)",
+      "URLs": ""
+    },
+    {
+      "Session": "57",
+      "Topic": "-Putting Theory into Practice",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO7",
+      "ITU": "TU",
+      "Student Materials": "Textbook: Tensor Flow for Dummies Chapter 8",
+      "S-Download": "",
+      "Student's Tasks": "Labwork 3 (LO6, LO7, LO8)",
+      "URLs": ""
+    },
+    {
+      "Session": "58",
+      "Topic": "-Putting Theory into Practice",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO7",
+      "ITU": "TU",
+      "Student Materials": "Textbook: Tensor Flow for Dummies Chapter 8",
+      "S-Download": "",
+      "Student's Tasks": "Labwork 3 (LO6, LO7, LO8)",
+      "URLs": ""
+    },
+    {
+      "Session": "59",
+      "Topic": "Progress Test 3 -Putting Theory into Practice",
+      "Learning-Teaching Type": "Offline",
+      "LO": "",
+      "ITU": "TU",
+      "Student Materials": "Textbook: Tensor Flow for Dummies Chapter 8",
+      "S-Download": "",
+      "Student's Tasks": "Labwork 3 (LO6, LO7, LO8)",
+      "URLs": ""
+    },
+    {
+      "Session": "60",
+      "Topic": "-Putting Theory into Practice",
+      "Learning-Teaching Type": "Offline",
+      "LO": "",
+      "ITU": "TU",
+      "Student Materials": "Textbook: Tensor Flow for Dummies Chapter 8",
+      "S-Download": "",
+      "Student's Tasks": "Labwork 3 (LO6, LO7, LO8)",
+      "URLs": ""
+    }
+  ],
+  "constructive_questions": [
+    {
+      "No.": "1",
+      "Session No": "1",
+      "Name": "CQ1",
+      "Details": "Manipulate logical expressions and use logic for inference"
+    },
+    {
+      "No.": "2",
+      "Session No": "1",
+      "Name": "CQ2",
+      "Details": "Perform basic operations on sets, functions and sequences"
+    },
+    {
+      "No.": "3",
+      "Session No": "2",
+      "Name": "CQ1",
+      "Details": "Analyze basic algorithms written in pseudo codes and determine theirs complexities"
+    },
+    {
+      "No.": "4",
+      "Session No": "3",
+      "Name": "CQ1",
+      "Details": "Discuss applications of modular arithmetic and analyze algorithms on integers"
+    },
+    {
+      "No.": "5",
+      "Session No": "4",
+      "Name": "CQ1",
+      "Details": "Use induction and recursive definition to prove a statement or to describe an object, and write recursive algorithms"
+    },
+    {
+      "No.": "6",
+      "Session No": "4",
+      "Name": "CQ2",
+      "Details": "Solve counting problems"
+    },
+    {
+      "No.": "7",
+      "Session No": "4",
+      "Name": "CQ3",
+      "Details": "Analyze the structure of a graph and find shortest paths in a weighted graph"
+    },
+    {
+      "No.": "8",
+      "Session No": "4",
+      "Name": "CQ4",
+      "Details": "Analyze the structure of a tree and describe algorithms using trees"
+    }
+  ],
+  "materials": [
+    {
+      "No.": "1",
+      "Material Description": "Digital Image Processing",
+      "Author": "R.C.Gonzalez & P.Wintz",
+      "Publisher": "Addison Wesley",
+      "Published Date": "1987",
+      "Edition": "2nd",
+      "ISBN": "978-0201110265",
+      "Is Main Material": "True",
+      "Is Hard Copy": "True",
+      "Is Online": "False",
+      "Note": ""
+    },
+    {
+      "No.": "2",
+      "Material Description": "Tensorflow for Dummies",
+      "Author": "Mathew Scarpino",
+      "Publisher": "For Dummies",
+      "Published Date": "2018",
+      "Edition": "1st",
+      "ISBN": "978-1119466215",
+      "Is Main Material": "False",
+      "Is Hard Copy": "True",
+      "Is Online": "False",
+      "Note": ""
+    },
+    {
+      "No.": "3",
+      "Material Description": "https://www.tensorflow.org/tutorials/images/image_recognition",
+      "Author": "",
+      "Publisher": "",
+      "Published Date": "",
+      "Edition": "",
+      "ISBN": "",
+      "Is Main Material": "False",
+      "Is Hard Copy": "False",
+      "Is Online": "True",
+      "Note": ""
+    },
+    {
+      "No.": "4",
+      "Material Description": "For teachers only: - Instructor' solution manuals, appendixes; sections' dependencies and Testbank (problems and solutions);",
+      "Author": "",
+      "Publisher": "",
+      "Published Date": "",
+      "Edition": "",
+      "ISBN": "",
+      "Is Main Material": "False",
+      "Is Hard Copy": "False",
+      "Is Online": "False",
+      "Note": ""
+    },
+    {
+      "No.": "5",
+      "Material Description": "Digital Image Processing",
+      "Author": "W. K. Pratt",
+      "Publisher": "Wiley-Interscience",
+      "Published Date": "2012",
+      "Edition": "College edition",
+      "ISBN": "978-1118254622",
+      "Is Main Material": "False",
+      "Is Hard Copy": "True",
+      "Is Online": "False",
+      "Note": ""
+    },
+    {
+      "No.": "6",
+      "Material Description": "Robot Vision",
+      "Author": "B.K.P.Horn",
+      "Publisher": "Berthold Horn",
+      "Published Date": "1986",
+      "Edition": "1986 Edition",
+      "ISBN": "9780262081597",
+      "Is Main Material": "False",
+      "Is Hard Copy": "True",
+      "Is Online": "False",
+      "Note": ""
+    },
+    {
+      "No.": "7",
+      "Material Description": "Computer Vision",
+      "Author": "D.H.Ballard & C.M.Brown",
+      "Publisher": "Prentice Hall",
+      "Published Date": "1982",
+      "Edition": "1st",
+      "ISBN": "978-0131653160",
+      "Is Main Material": "False",
+      "Is Hard Copy": "True",
+      "Is Online": "False",
+      "Note": ""
+    },
+    {
+      "No.": "8",
+      "Material Description": "Syntactic Pattern Recognition: An introduction",
+      "Author": "R.C.Gonzalez and M.G.Thomason",
+      "Publisher": "Addison-Wesley",
+      "Published Date": "1978",
+      "Edition": "",
+      "ISBN": "",
+      "Is Main Material": "False",
+      "Is Hard Copy": "True",
+      "Is Online": "False",
+      "Note": ""
+    },
+    {
+      "No.": "9",
+      "Material Description": "Pattern Recognition: A Statistical Approach",
+      "Author": "P.A. Devijver and J. Kittle",
+      "Publisher": "Prentice Hall",
+      "Published Date": "1982",
+      "Edition": "1st",
+      "ISBN": "978-0136542360",
+      "Is Main Material": "False",
+      "Is Hard Copy": "True",
+      "Is Online": "False",
+      "Note": ""
+    }
+  ],
+  "source_path": "data/raw/syllabi/6682.html",
+  "id": "syllabus:6682"
+}

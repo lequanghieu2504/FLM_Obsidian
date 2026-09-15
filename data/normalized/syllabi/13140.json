@@ -1,0 +1,1339 @@
+{
+  "syllabus_id": 13140,
+  "subject_code": "MAS202",
+  "subject_name": "Applied Statistics for Business_Thống kê ứng dụng trong kinh doanh",
+  "syllabus_name": "Applied Statistics for Business_Thống kê ứng dụng trong kinh doanh",
+  "credits": 3,
+  "degree_level": "Bachelor",
+  "time_allocation": "Study hour (150h) = 45 contact hours (60 sessions) + 1 hour final exam + 104 hours self-study",
+  "prerequisite": "None",
+  "general_information": {
+    "Syllabus ID": "13140",
+    "Syllabus Name": "Applied Statistics for Business_Thống kê ứng dụng trong kinh doanh",
+    "Course Name English": "",
+    "Subject Code": "MAS202",
+    "Learning-Teaching Method": "Lecture,Practice",
+    "NoCredit": "3",
+    "Degree Level": "Bachelor",
+    "Time Allocation": "Study hour (150h) = 45 contact hours (60 sessions) + 1 hour final exam + 104 hours self-study",
+    "Pre-Requisite": "None",
+    "Description": "The course focuses on data summaries and descriptive statistics; introduction to a statistical computer package; probability: distributions, expectation, variance, covariance, portfolios, central limit theorem; statistical inference of univariance data; Statistical inference for bivariate data: inference for intrinsically linear simple regression models. This course will have a business focus. Teaching method is flexible. Lecturers and tutors can mix between traditional teaching method with project-based learning, problem-based learning and flipped classroom.",
+    "StudentTasks": "- Students must attend at least 80% of contact slots in order to be accepted to the final examination. - Student is responsible for doing all exercises, and assignments given by instructors in class or at home and submitting them on time - Use a laptop in class only for learning purposes - Promptly access to the course websites for up-to-date course information",
+    "Tools": "- Textbook and all learning materials provided - Internet and a statistical computer package",
+    "Scoring Scale": "10",
+    "DecisionNo MM/dd/yyyy": "932/QĐ-ĐHFPT dated 08/22/2025",
+    "IsApproved": "True",
+    "Note": "",
+    "Is Scored": "True",
+    "MinAvgMarkToPass": "5",
+    "IsActive": "True",
+    "ApprovedDate": "8/22/2025"
+  },
+  "active": true,
+  "approved": true,
+  "decision": "932/QĐ-ĐHFPT dated 08/22/2025",
+  "description": "The course focuses on data summaries and descriptive statistics; introduction to a statistical computer package; probability: distributions, expectation, variance, covariance, portfolios, central limit theorem; statistical inference of univariance data; Statistical inference for bivariate data: inference for intrinsically linear simple regression models. This course will have a business focus. Teaching method is flexible. Lecturers and tutors can mix between traditional teaching method with project-based learning, problem-based learning and flipped classroom.",
+  "learning_outcomes": [
+    {
+      "No.": "1",
+      "CLO Name": "LO1",
+      "CLO Details": "Discuss the DCOVA framework. CLO1.1. Defining variables: categorical and numerical types, discrete and continuous variables, identify the measurement scales. CLO1.2. Collecting data: population and sample, statistic and parameter, sampling methods, types of survey errors, data cleaning. CLO1.3. Organizing variables by using Summary table, Contingency table, Ordered array, Frequency distribution, Multidimensional tables. CLO1.4. Visualizing variables by using Charts, pitfalls in visualizing variables. CLO1.5. Analysing data: describe the properties of Central tendency, variation and shape of distribution, boxplot, covariance and coefficient of correlation."
+    },
+    {
+      "No.": "2",
+      "CLO Name": "CLO2",
+      "CLO Details": "Discuss the basic probability rules. CLO2.1. Understand basic probability concepts: Events, Sample spaces, Simple probability, Joint probability, Marginal probability, General addition rule. CLO2.2. Understand Conditional probability, Multiplication rule and Determine if two events are independent. CLO2.3. Use Bayes' theorem to revise probabilities and apply counting rules."
+    },
+    {
+      "No.": "3",
+      "CLO Name": "CLO3",
+      "CLO Details": "Describe the distribution of a variable. CLO3.1. Discrete probability distributions, Expected value, Variance and Standard deviation of a discrete variable, Binomial and Poisson distribution, Covariance of a probability distribution and its application in Finance. CLO3.2. Compute the probabilities from the normal/uniform distribution and use the normal distribution to solve business problems. CLO3.3. Use the normal probability plot to determine whether a set of data is approximately normally distributed."
+    },
+    {
+      "No.": "4",
+      "CLO Name": "CLO4",
+      "CLO Details": "Discuss the sampling distributions and Central limit theorem. CLO4.1. Learn about the concept of the sampling distribution. CLO4.2. Describe Sampling distribution of the mean and the Central limit theorem. CLO4.3. Describe sampling distribution of the propotion."
+    },
+    {
+      "No.": "5",
+      "CLO Name": "CLO5",
+      "CLO Details": "Construct and interpret confidence interval estimates for a population parameter/ difference of population parameters. CLO5.1. Construct a confidence interval for the population mean/difference of two population means and interpret its meaning; determine the size of the sample to improve the estimation. CLO5.2. Construct a confidence interval for the population proportion/difference of two population pproportions and interpret its meaning; determine the size of the sample to improve the estimation."
+    },
+    {
+      "No.": "6",
+      "CLO Name": "CLO6",
+      "CLO Details": "Verify a claim about a population parameter/ differnce of population parameters by using hypothesis testing. CLO6.1. Formulate the two hypotheses; identify critical values, test statistic and compute P-value for a test of hypotheses on population mean/difference of two population means. CLO6.2. Formulate the two hypotheses; identify critical values, test statistic and compute P-value for a test of hypotheses on population proportion/difference of two population proportions. CLO6.3. Identify type of errors in testing hypotheses. CLO6.4. F-test for the ratio of two variances."
+    },
+    {
+      "No.": "7",
+      "CLO Name": "CLO7",
+      "CLO Details": "ANOVA analysis. CLO7.1. Use the one-way ANOVA to test for differences among the means of several groups. CLO7.2. Use the two-way ANOVA and interpret the interaction effect."
+    },
+    {
+      "No.": "8",
+      "CLO Name": "CLO8",
+      "CLO Details": "Regression Analysis. CLO8.1. Discuss about Simple linear/Multiple regression models, determine the simple linear regression equation, understand the meaning of the regression coefficients. CLO8.2. Compute various sums of squares for a set of data pairs, coefficient of determination, standard error of estimate, use residual analysis to visually evaluate the assumptions of regression. CLO8.3. Determine the existence of a significant linear relationship by testing for the Slope and Correlation coefficient. CLO8.4. Evaluate the overall multiple regression model: the coefficient of multiple determination, the adjusted r square, the overall F test."
+    },
+    {
+      "No.": "9",
+      "CLO Name": "CLO9",
+      "CLO Details": "Be able to present a decision making for a business problem. CLO9.1. Be able to work in a team or individually in making business decisions based on Statistical analysis/ Statistical package (Excel). CLO9.2. Understand of being ethical when conducting statistical analysis."
+    }
+  ],
+  "assessments": [
+    {
+      "No.": "1",
+      "Category": "Assignment",
+      "Type": "on-going",
+      "Part": "2",
+      "Weight": "20.0%",
+      "Completion Criteria": ">0",
+      "Duration": "3 hours",
+      "CLO": "LO1, LO2, LO3, LO4, LO5, LO6",
+      "Question Type": "OP1: Comprehensive exercises // OP2: (For Constructivism Approach only): Follow lecturer's proposal",
+      "No Question": "Problem solving of 5-10 questions",
+      "Knowledge and Skill": "Assignment 1 covers Chapters 1, 2, 3, 4, 5; Assignment 2 covers Chapters 6, 7, 8, 9.",
+      "Grading Guide": "Each assignment is divided into two parts: the take-home component counts for no more than 50% of the total grade, and the in-class component counts for at least 50% (this may take the form of a presentation, essay, problem-solving, etc.).",
+      "Note": "Assignment 1: LO1, LO2, LO3 Assignment 2: LO3, LO4, LO5, LO6"
+    },
+    {
+      "No.": "2",
+      "Category": "Computer Project",
+      "Type": "on-going",
+      "Part": "1",
+      "Weight": "15.0%",
+      "Completion Criteria": ">0",
+      "Duration": "5 hours",
+      "CLO": "LO5, LO6, LO7, LO8, LO9",
+      "Question Type": "OP1: Analysis, reports and presentation // OP2: (For Constructivism Approach only): Follow lecturer's proposal",
+      "No Question": "Open",
+      "Knowledge and Skill": "Cover all Chapters 8, 9, 10, 11, 13, 14",
+      "Grading Guide": "OP1: Groups of students are required to collect secondary data (topics may be suggested by instructor), form their own questions, and apply learned knowledge and methods of inferential statistics to analyze data and make conclusions about the populations. Groups are expected to use a statistical software to perform the analysis and present their results to other groups in class. The work (slides, source files, etc.) accounts for up to 50% of the grade, while presentation skills and the ability to answer questions account for at least 50%. OP2: (For Constructivism Approach only): Follow lecturer's proposal",
+      "Note": ""
+    },
+    {
+      "No.": "3",
+      "Category": "Quizzes",
+      "Type": "on-going",
+      "Part": "3",
+      "Weight": "30.0%",
+      "Completion Criteria": ">0",
+      "Duration": "30'",
+      "CLO": "LO1, LO2, LO3, LO4, LO5, LO6, LO7, LO8",
+      "Question Type": "OP1: Multiple choices or written questions.Marked by Computer or a suitable format // OP2: (For Constructivism Approach only): Follow lecturer's proposal",
+      "No Question": "10 to 30",
+      "Knowledge and Skill": "- Integration of studied knowledge and skills of chapters assigned- Quiz 1: cover chapter 1, 2, 3, 4, 5- Quiz 2: cover chapters 6, 7, 8, 9- Quiz 3: cover chapters 10, 11, 13, 14",
+      "Grading Guide": "In class, by instructor",
+      "Note": "Instruction and shedules for Progress tests must be presented in the Course Implementation Plan approved by director of the campus. Progress test must be taken right after the last lectures of required material. Instructor has responsibility to review the test for students after graded. Quiz 1: LO1, LO2, LO3 Quiz 2: LO3, LO4, LO5, LO6 Quiz 3: LO5, LO6, LO7, LO8"
+    },
+    {
+      "No.": "4",
+      "Category": "Final exam",
+      "Type": "Final exam",
+      "Part": "1",
+      "Weight": "35.0%",
+      "Completion Criteria": "4",
+      "Duration": "60'",
+      "CLO": "All LOs",
+      "Question Type": "- Multiple choice. Marked by Computer",
+      "No Question": "50 MCQ",
+      "Knowledge and Skill": "All topics, knowledge, skills covered in the classes",
+      "Grading Guide": "By exam board",
+      "Note": "The exam questions must be updated or different at least 70% to the previous ones."
+    }
+  ],
+  "schedule": [
+    {
+      "Session": "1",
+      "Topic": "Course Introduction First things first Chapter 1 Defining and collecting data 1.1 Defining variables 1.2 Collecting data",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO1",
+      "ITU": "I,T",
+      "Student Materials": "- Read syllabus - Read Chapter 0 and 1 - Read slides: Chapter 0 and 1",
+      "S-Download": "",
+      "Student's Tasks": "Review and do excersies in Chapter 0 and 1. Additional reading following chapter",
+      "URLs": ""
+    },
+    {
+      "Session": "2",
+      "Topic": "1.3 Types of sampling methods 1.4 Data cleaning 1.5 Other data processing tasks 1.6 Types of survey errors",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO1",
+      "ITU": "I,T",
+      "Student Materials": "- Read Chapter 0 and 1 - Read slides: Chapter 0 and 1",
+      "S-Download": "MAS202",
+      "Student's Tasks": "Review and do excersies in Chapter 0 and 1. Additional reading following chapter",
+      "URLs": ""
+    },
+    {
+      "Session": "3",
+      "Topic": "Chapter 2 Organizing and Visualizing variables 2.1 & 2.2 Organizing catergorical variables and numerical variables 2.3, 2.4 Visualizing categorical and numerical variables",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO1",
+      "ITU": "T",
+      "Student Materials": "- Read slides Chapter 2 - Read Chapter 2",
+      "S-Download": "",
+      "Student's Tasks": "Review and do excersies in Chapter 2. Additional reading following chapter",
+      "URLs": ""
+    },
+    {
+      "Session": "4",
+      "Topic": "2.5 Visualizing Two Numerical Variables 2.6 & 2.7 Organizing and visualizing a mix of variables 2.8 Filtering and Querying data 2.9 Pitfalls in Organizing and visualizing variables",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO1",
+      "ITU": "T",
+      "Student Materials": "Read slides Chapter 2 - Read Chapter 2",
+      "S-Download": "",
+      "Student's Tasks": "Review and do excersies in Chapter 2. Additional reading following chapter",
+      "URLs": ""
+    },
+    {
+      "Session": "5",
+      "Topic": "Chapter 3 Numerical descriptive measure 3.1 Measures of Central tendency 3.2 Measures of Variation and Shape 3.3 Exploring numerical variables",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO1",
+      "ITU": "IT",
+      "Student Materials": "Read slide: Chapter 3",
+      "S-Download": "",
+      "Student's Tasks": "Review and do excercises Chapter 3",
+      "URLs": ""
+    },
+    {
+      "Session": "6",
+      "Topic": "3.4 Numerical descriptive measures for a population 3.5 The covariance and the coefficient of corelation 3.6 Descriptive statistics: Pitfalls and ethical issues",
+      "Learning-Teaching Type": "Offline",
+      "LO": "",
+      "ITU": "IT",
+      "Student Materials": "Read slide: Chapter 3",
+      "S-Download": "",
+      "Student's Tasks": "Review and do excercises Chapter 3",
+      "URLs": ""
+    },
+    {
+      "Session": "7",
+      "Topic": "Tutorial: Solve questions and problems for chapter 0 - 3 Introduce to a statistical package (Excel)",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO1",
+      "ITU": "U",
+      "Student Materials": "Read Chapter 0+1+2+3",
+      "S-Download": "",
+      "Student's Tasks": "Review and do excercises Chapter 0 - 3. Additional reading following chapter",
+      "URLs": ""
+    },
+    {
+      "Session": "8",
+      "Topic": "Tutorial: Solve questions and problems for chapter 0 - 3 Introduce to a statistical package (Excel) (cont. )",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO1",
+      "ITU": "U",
+      "Student Materials": "Read Chapter 0+1+2+3",
+      "S-Download": "",
+      "Student's Tasks": "Review and do excercises Chapter 0 - 3. Additional reading following chapter",
+      "URLs": ""
+    },
+    {
+      "Session": "9",
+      "Topic": "Group project release Homework exercises release Chapter 4 Basic probability 4.1 Basic probability concepts 4.2 Conditional probability",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO2",
+      "ITU": "ITU",
+      "Student Materials": "- Review Chapter 0, 1, 2, 3 - Read slides Chapter 4 - Read Chapter 4",
+      "S-Download": "",
+      "Student's Tasks": "Review and do excercises Chapter 4",
+      "URLs": ""
+    },
+    {
+      "Session": "10",
+      "Topic": "4.3 Ethical issues and probability 4.4 Bayes's Theorem 4.5 Counting rules",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO2",
+      "ITU": "ITU",
+      "Student Materials": "Review Chapter 0, 1, 2, 3 - Read slides Chapter 4 - Read Chapter 4",
+      "S-Download": "",
+      "Student's Tasks": "Review and do excercises Chapter 4",
+      "URLs": ""
+    },
+    {
+      "Session": "11",
+      "Topic": "Tutorial: Review chapter 4 Solve questions and problems for chapter 4 Guide to use a statistical package (Excel) (cont. )",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO2",
+      "ITU": "U",
+      "Student Materials": "Read chapter 4",
+      "S-Download": "",
+      "Student's Tasks": "Review and do excercises Chapter 4. Additional reading following chapter",
+      "URLs": ""
+    },
+    {
+      "Session": "12",
+      "Topic": "Tutorial: Review chapter 4 Solve questions and problems for chapter 4 Guide to use a statistical package (Excel)",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO2",
+      "ITU": "U",
+      "Student Materials": "Read chapter 4",
+      "S-Download": "",
+      "Student's Tasks": "Review and do excercises Chapter 4. Additional reading following chapter",
+      "URLs": ""
+    },
+    {
+      "Session": "13",
+      "Topic": "Chapter 5 Discrete probability distribution 5.1 The probability distribution for a discrete variable 5.2 Binomial distribution",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO3",
+      "ITU": "ITU",
+      "Student Materials": "- Read chapter 5 - Read slides: Chapter 5",
+      "S-Download": "",
+      "Student's Tasks": "Review and do excercises Chapter 5",
+      "URLs": ""
+    },
+    {
+      "Session": "14",
+      "Topic": "5.3 Poisson distribution 5.4 Covariance of a probability distribution and its application in Finance",
+      "Learning-Teaching Type": "Offline",
+      "LO": "",
+      "ITU": "ITU",
+      "Student Materials": "Read chapter 5 - Read slides: Chapter 5",
+      "S-Download": "",
+      "Student's Tasks": "Review and do excercises Chapter 5",
+      "URLs": ""
+    },
+    {
+      "Session": "15",
+      "Topic": "Tutorial: Solve chapter 5's questions and problems Guide to use a statistical package (Excel)",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO3",
+      "ITU": "U",
+      "Student Materials": "- Read slides Chapter 5 - Read Chapter 5",
+      "S-Download": "",
+      "Student's Tasks": "Review and do excercises Chapter 5. Additional reading following chapter",
+      "URLs": ""
+    },
+    {
+      "Session": "16",
+      "Topic": "Tutorial: Solve chapter 5's questions and problems Guide to use a statistical package (Excel) (cont. )",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO3",
+      "ITU": "U",
+      "Student Materials": "Read slides Chapter 5",
+      "S-Download": "",
+      "Student's Tasks": "Review and do excercises Chapter 5. Additional reading following chapter",
+      "URLs": ""
+    },
+    {
+      "Session": "17",
+      "Topic": "Quiz 1 (Chapter 1+2+3+4+5) Chapter 6 The normal distribution and other continuous distributions 6.1 Continuous probability distributions",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO1",
+      "ITU": "ITU",
+      "Student Materials": "- Review Chapter 0-5 - Read slides Chapter 6 - Read Chapter 6",
+      "S-Download": "",
+      "Student's Tasks": "Review and do excercises Chapter 6",
+      "URLs": ""
+    },
+    {
+      "Session": "18",
+      "Topic": "6.2 The normal distribution",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO2",
+      "ITU": "ITU",
+      "Student Materials": "Read slides Chapter 6 - Read Chapter 6",
+      "S-Download": "",
+      "Student's Tasks": "Review and do excercises Chapter 6",
+      "URLs": ""
+    },
+    {
+      "Session": "19",
+      "Topic": "6.3 Evaluating normality 6.4 The uniform distribution",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO3",
+      "ITU": "U",
+      "Student Materials": "Read Chapter 6",
+      "S-Download": "",
+      "Student's Tasks": "Review and do excercises Chapter 6. Additional reading following chapter",
+      "URLs": ""
+    },
+    {
+      "Session": "20",
+      "Topic": "Tutorial Solve questions and problems for chapter 6 Guide to use a statistical package (Excel)",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO3",
+      "ITU": "U",
+      "Student Materials": "Read slides Chapter 6 - Read Chapter 6",
+      "S-Download": "",
+      "Student's Tasks": "Review and do excercises Chapter 6. Additional reading following chapter",
+      "URLs": ""
+    },
+    {
+      "Session": "21",
+      "Topic": "Chapter 7 Sampling distribution 7.1 Sampling dítributions 7.2 Sampling distribution of the mean",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO4",
+      "ITU": "IT",
+      "Student Materials": "- Read slides Chapter 7 - Read Chapter 7",
+      "S-Download": "",
+      "Student's Tasks": "Review and do excercises Chapter 7",
+      "URLs": ""
+    },
+    {
+      "Session": "22",
+      "Topic": "7.3 Sampling distribution of the proportion",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO4",
+      "ITU": "IT",
+      "Student Materials": "Read slides Chapter 7",
+      "S-Download": "",
+      "Student's Tasks": "Review and do excercises Chapter 7",
+      "URLs": ""
+    },
+    {
+      "Session": "23",
+      "Topic": "Tutorial Solve questions and problems for chapter 6 Guide to use a statistical package (Excel)",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO4",
+      "ITU": "U",
+      "Student Materials": "Read Chapter 7",
+      "S-Download": "",
+      "Student's Tasks": "Review and do excercises Chapter 7. Additional reading following chapter",
+      "URLs": ""
+    },
+    {
+      "Session": "24",
+      "Topic": "Tutorial Solve questions and problems for chapter 7 Guide to use a statistical package (Excel)",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO4",
+      "ITU": "U",
+      "Student Materials": "Read slides Chapter 7",
+      "S-Download": "",
+      "Student's Tasks": "Review and do excercises Chapter 7. Additional reading following chapter",
+      "URLs": ""
+    },
+    {
+      "Session": "25",
+      "Topic": "Chapter 8 Confidence interval estimation 8.1, 8.2 & 8.3 Confidence interval estimate for the mean and proportion",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO5",
+      "ITU": "IT",
+      "Student Materials": "- Read chapter 8 - Read slides: Chapter 8",
+      "S-Download": "",
+      "Student's Tasks": "Review and do excercises Chapter 8",
+      "URLs": ""
+    },
+    {
+      "Session": "26",
+      "Topic": "8.4 Determining sample size 8.5 Confidence interval estimation and ethical issues",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO5",
+      "ITU": "IT",
+      "Student Materials": "Read chapter 8",
+      "S-Download": "",
+      "Student's Tasks": "Review and do excercises Chapter 8",
+      "URLs": ""
+    },
+    {
+      "Session": "27",
+      "Topic": "Tutorial Solve question and problems of chapter 8 Guide to use a statistical package (Excel)",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO5",
+      "ITU": "U",
+      "Student Materials": "Read Chapter 8",
+      "S-Download": "",
+      "Student's Tasks": "Review and do excercises Chapter 8. Additional reading following chapter and prepare for Mid-term exam",
+      "URLs": ""
+    },
+    {
+      "Session": "28",
+      "Topic": "Tutorial Solve question and problems of chapter 8 Guide to use a statistical package (Excel)(cont. )",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO5",
+      "ITU": "U",
+      "Student Materials": "Read Chapter 8",
+      "S-Download": "",
+      "Student's Tasks": "Review and do excercises Chapter 8. Additional reading following chapter and prepare for Mid-term exam",
+      "URLs": ""
+    },
+    {
+      "Session": "29",
+      "Topic": "Chapter 9 Fundamental of hypothesis testing: one-sample tests 9.1 Fundamentals of hypothesis testing",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO6",
+      "ITU": "IT",
+      "Student Materials": "Read textbook and slides: Chapter 9",
+      "S-Download": "",
+      "Student's Tasks": "Review and do excercises Chapter 9",
+      "URLs": ""
+    },
+    {
+      "Session": "30",
+      "Topic": "9.2 T-test of hypothesis for the mean 9.3 One-tail tests",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO6",
+      "ITU": "IT",
+      "Student Materials": "Read textbook and slides: Chapter 9",
+      "S-Download": "",
+      "Student's Tasks": "Review and do excercises Chapter 9",
+      "URLs": ""
+    },
+    {
+      "Session": "31",
+      "Topic": "9.4 Z-test of hypothesis for the proportion",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO6",
+      "ITU": "U",
+      "Student Materials": "Read Chapter 9",
+      "S-Download": "",
+      "Student's Tasks": "Review and do excercises Chapter 9. Additional reading following chapter",
+      "URLs": ""
+    },
+    {
+      "Session": "32",
+      "Topic": "9.5 Potential hypothesis- testing pitfalls and ethical issues",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO6",
+      "ITU": "U",
+      "Student Materials": "Read Chapter 9",
+      "S-Download": "",
+      "Student's Tasks": "Review and do excercises Chapter 9. Additional reading following chapter",
+      "URLs": ""
+    },
+    {
+      "Session": "33",
+      "Topic": "Tutorial: Solve questions and problems for chapter 9 Guide to use a statistical package (Excel)",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO6",
+      "ITU": "",
+      "Student Materials": "Read Chapter 9",
+      "S-Download": "",
+      "Student's Tasks": "",
+      "URLs": ""
+    },
+    {
+      "Session": "34",
+      "Topic": "Tutorial: Solve questions and problems for chapter 9 Guide to use a statistical package (Excel) (cont. )",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO6",
+      "ITU": "",
+      "Student Materials": "Read Chapter 9",
+      "S-Download": "",
+      "Student's Tasks": "",
+      "URLs": ""
+    },
+    {
+      "Session": "35",
+      "Topic": "Quiz 2 (Chapter 6+7+8+9)",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO3, LO4, LO5, LO6",
+      "ITU": "ITU",
+      "Student Materials": "Review chapters 6, 7, 8, 9",
+      "S-Download": "",
+      "Student's Tasks": "Review and do excercises Chapter 10",
+      "URLs": ""
+    },
+    {
+      "Session": "36",
+      "Topic": "Chapter 10 Two-sample tests 10.1 & 10.2 Comparing the means of two populations",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO5",
+      "ITU": "ITU",
+      "Student Materials": "Read slides Chapter 10 -Read Chapter 10",
+      "S-Download": "",
+      "Student's Tasks": "Review and do excercises Chapter 10",
+      "URLs": ""
+    },
+    {
+      "Session": "37",
+      "Topic": "10.3 Comparing the proportions of two independent populations 10.4 F-test for the ratio of two variance",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO6",
+      "ITU": "TU",
+      "Student Materials": "- Read slides Chapter 10 - Read Chapter 10",
+      "S-Download": "",
+      "Student's Tasks": "Review and do excercises Chapter 10. Additional reading following chapter",
+      "URLs": ""
+    },
+    {
+      "Session": "38",
+      "Topic": "Tutorial Solve questions and problems for chapter 10 Guide to use a statistical package (Excel)",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO5, LO6, LO7, LO8",
+      "ITU": "TU",
+      "Student Materials": "Read Chapter 10",
+      "S-Download": "",
+      "Student's Tasks": "Review and do excercises Chapter 10. Additional reading following chapter",
+      "URLs": ""
+    },
+    {
+      "Session": "39",
+      "Topic": "Chapter 11 Analysis of Variance 11.1 The completely randomized design: One-way ANOVA",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO7",
+      "ITU": "IT",
+      "Student Materials": "- Read chapter 11 - Read slides: Chapter 11",
+      "S-Download": "",
+      "Student's Tasks": "Review and do excercises Chapter 11",
+      "URLs": ""
+    },
+    {
+      "Session": "40",
+      "Topic": "11.2 The Factorial design: Two-way ANOVA (Excel)",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO7",
+      "ITU": "IT",
+      "Student Materials": "",
+      "S-Download": "",
+      "Student's Tasks": "Review and do excercises Chapter 11",
+      "URLs": ""
+    },
+    {
+      "Session": "41",
+      "Topic": "Tutorial Solve questions and problems for chapter 11 Guide to use a statistical package (Excel)",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO7",
+      "ITU": "U",
+      "Student Materials": "Read Chapter 11",
+      "S-Download": "",
+      "Student's Tasks": "Review and do excercises Chapter 11. Additional reading following chapter",
+      "URLs": ""
+    },
+    {
+      "Session": "42",
+      "Topic": "Tutorial Solve questions and problems for chapter 11 Guide to use a statistical package (Excel) (cont.)",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO7",
+      "ITU": "U",
+      "Student Materials": "Read Chapter 11",
+      "S-Download": "",
+      "Student's Tasks": "Review and do excercises Chapter 11. Additional reading following chapter",
+      "URLs": ""
+    },
+    {
+      "Session": "43",
+      "Topic": "Chapter 13 Simple Linear Regression 13.1 Simple linear regression models",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO8",
+      "ITU": "IT",
+      "Student Materials": "- Read Chapter 13 - Read Slides 13",
+      "S-Download": "",
+      "Student's Tasks": "Review and do excercises Chapter 13",
+      "URLs": ""
+    },
+    {
+      "Session": "44",
+      "Topic": "13.2 Determining the simple linear regression equation 13.3 Measures of variation",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO8",
+      "ITU": "IT",
+      "Student Materials": "Read Chapter 13",
+      "S-Download": "",
+      "Student's Tasks": "Review and do excercises Chapter 11. Additional reading following chapter",
+      "URLs": ""
+    },
+    {
+      "Session": "45",
+      "Topic": "13.4 Assumptions of Regression 13.5 Residual analysis",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO8",
+      "ITU": "IT",
+      "Student Materials": "- Read Chapter 13 - Read Slides 13",
+      "S-Download": "",
+      "Student's Tasks": "Review and do excercises Chapter 13",
+      "URLs": ""
+    },
+    {
+      "Session": "46",
+      "Topic": "13.7 Inference about the slope and correlation coefficient 13.9 Potential pitfalls in regression",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO8",
+      "ITU": "IT",
+      "Student Materials": "Read Chapter 13",
+      "S-Download": "",
+      "Student's Tasks": "Review and do excercises Chapter 13",
+      "URLs": ""
+    },
+    {
+      "Session": "47",
+      "Topic": "Tutorial Solve questions and problems for chapter 13 Guide to use a statistical package (Excel)",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO8",
+      "ITU": "U",
+      "Student Materials": "Read Chapter 13",
+      "S-Download": "",
+      "Student's Tasks": "Review and do excercises Chapter 13. Additional reading following chapter",
+      "URLs": ""
+    },
+    {
+      "Session": "48",
+      "Topic": "Tutorial Solve questions and problems for chapter 13 Guide to use a statistical package (Excel) (cont.)",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO8",
+      "ITU": "U",
+      "Student Materials": "Read Chapter 13",
+      "S-Download": "",
+      "Student's Tasks": "Review and do excercises Chapter 13. Additional reading following chapter",
+      "URLs": ""
+    },
+    {
+      "Session": "49",
+      "Topic": "Chapter 14 Introduction to multiple regression 14.1 Developing a multiple regression model 14.2 R-square, Adjusted R-square and the overall F test",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO8",
+      "ITU": "U",
+      "Student Materials": "Read Chapter 14",
+      "S-Download": "",
+      "Student's Tasks": "Review and do excercises Chapter 14",
+      "URLs": ""
+    },
+    {
+      "Session": "50",
+      "Topic": "Tutorial Solve questions and problems for chapter 14",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO8",
+      "ITU": "U",
+      "Student Materials": "Read Chapter 14",
+      "S-Download": "",
+      "Student's Tasks": "Review and do excercises Chapter 14",
+      "URLs": ""
+    },
+    {
+      "Session": "51",
+      "Topic": "Quiz 3 (Chapter 10+11+13+14)",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO5, LO6, LO7, LO8",
+      "ITU": "",
+      "Student Materials": "Review Chapters 10, 11, 13, 14",
+      "S-Download": "",
+      "Student's Tasks": "",
+      "URLs": ""
+    },
+    {
+      "Session": "52",
+      "Topic": "Quiz 3 (Chapter 10+11+13+14) (review)",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO5, LO6, LO7, LO8",
+      "ITU": "",
+      "Student Materials": "Review Chapters 10, 11, 13, 14",
+      "S-Download": "",
+      "Student's Tasks": "",
+      "URLs": ""
+    },
+    {
+      "Session": "53",
+      "Topic": "Group project submission",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO1, LO2, LO3, LO4, LO5, LO6, LO7, LO8, LO9",
+      "ITU": "U",
+      "Student Materials": "",
+      "S-Download": "",
+      "Student's Tasks": "",
+      "URLs": ""
+    },
+    {
+      "Session": "54",
+      "Topic": "Group project submission (cont.)",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO1, LO2, LO3, LO4, LO5, LO6, LO7, LO8, LO9",
+      "ITU": "U",
+      "Student Materials": "",
+      "S-Download": "",
+      "Student's Tasks": "",
+      "URLs": ""
+    },
+    {
+      "Session": "55",
+      "Topic": "Group project presentation",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO1, LO2, LO3, LO4, LO5, LO6, LO7, LO8, LO9",
+      "ITU": "U",
+      "Student Materials": "Textbook, slides and assignment reports",
+      "S-Download": "",
+      "Student's Tasks": "Prepare for presentation and Q&A",
+      "URLs": ""
+    },
+    {
+      "Session": "56",
+      "Topic": "Group project presentation (cont.)",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO1, LO2, LO3, LO4, LO5, LO6, LO7, LO8, LO9",
+      "ITU": "U",
+      "Student Materials": "Textbook, slides and assignment reports",
+      "S-Download": "",
+      "Student's Tasks": "",
+      "URLs": ""
+    },
+    {
+      "Session": "57",
+      "Topic": "Group project presentation (Cont.)",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO1, LO2, LO3, LO4, LO5, LO6, LO7, LO8",
+      "ITU": "U",
+      "Student Materials": "Textbook, slides and assignment reports",
+      "S-Download": "",
+      "Student's Tasks": "Prepare for presentation and Q&A",
+      "URLs": ""
+    },
+    {
+      "Session": "58",
+      "Topic": "Revision and Wrap-up",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO1, LO2, LO3, LO4, LO5, LO6, LO7, LO8",
+      "ITU": "U",
+      "Student Materials": "Review all chapters and prepare for Q&A",
+      "S-Download": "",
+      "Student's Tasks": "Review all chapters",
+      "URLs": ""
+    },
+    {
+      "Session": "59",
+      "Topic": "Revision and Wrap-up (Cont.)",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO1, LO2, LO3, LO4, LO5, LO6, LO7, LO8",
+      "ITU": "U",
+      "Student Materials": "Review all chapters and prepare for Q&A",
+      "S-Download": "",
+      "Student's Tasks": "Review all chapters",
+      "URLs": ""
+    },
+    {
+      "Session": "60",
+      "Topic": "Revision and Wrap-up (cont.)",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO1, LO2, LO3, LO4, LO5, LO6, LO7, LO8",
+      "ITU": "U",
+      "Student Materials": "Review all chapters and prepare for Q&A",
+      "S-Download": "",
+      "Student's Tasks": "",
+      "URLs": ""
+    }
+  ],
+  "constructive_questions": [
+    {
+      "No.": "1",
+      "Session No": "1",
+      "Name": "CQ1_HCM",
+      "Details": "Compare the difference between variables and data."
+    },
+    {
+      "No.": "2",
+      "Session No": "2",
+      "Name": "CQ1_HCM",
+      "Details": "Which of the types of sampling methods is a representation of the population?"
+    },
+    {
+      "No.": "3",
+      "Session No": "3",
+      "Name": "CQ1_HCM",
+      "Details": "Suppose that we have data on the gender of students. What graph should we use for plotting?"
+    },
+    {
+      "No.": "4",
+      "Session No": "3",
+      "Name": "CQ2_HCM",
+      "Details": "What is the difference between a time-series plot and a scatter plot?"
+    },
+    {
+      "No.": "5",
+      "Session No": "4",
+      "Name": "CQ1_HCM",
+      "Details": "How do you construct a stem and leaf display? Give an illustrative example."
+    },
+    {
+      "No.": "6",
+      "Session No": "5",
+      "Name": "CQ1_HCM",
+      "Details": "List some methods of measures of central tendency. What are the formulas?"
+    },
+    {
+      "No.": "7",
+      "Session No": "6",
+      "Name": "CQ1_HCM",
+      "Details": "what is the coefficient of correlation? How do you calculate its?"
+    },
+    {
+      "No.": "8",
+      "Session No": "6",
+      "Name": "CQ2_HCM",
+      "Details": "What is meant by the property of variation?"
+    },
+    {
+      "No.": "9",
+      "Session No": "7",
+      "Name": "CQ1_HCM",
+      "Details": "Why do we use statistical software? Which statistical software should I use?"
+    },
+    {
+      "No.": "10",
+      "Session No": "8",
+      "Name": "CQ1_HCM",
+      "Details": "Using the grading data in FAP to analyze the relationship between quiz scores and final scores."
+    },
+    {
+      "No.": "11",
+      "Session No": "9",
+      "Name": "CQ1_HCM",
+      "Details": "How do you calculate the probability of an event? Give an example."
+    },
+    {
+      "No.": "12",
+      "Session No": "9",
+      "Name": "CQ2_HCM",
+      "Details": "How can you use the general addition rule to find the probability of occurrence of event A or B?"
+    },
+    {
+      "No.": "13",
+      "Session No": "10",
+      "Name": "CQ1_HCM",
+      "Details": "List some applications of Bayesian theory in reality."
+    },
+    {
+      "No.": "14",
+      "Session No": "11",
+      "Name": "CQ1_HCM",
+      "Details": "What are examples of dependent events? How do you check the independence of two events?"
+    },
+    {
+      "No.": "15",
+      "Session No": "12",
+      "Name": "CQ1_HCM",
+      "Details": "What is a combination in MATH? How many ways do you select x objects from n objects?"
+    },
+    {
+      "No.": "16",
+      "Session No": "12",
+      "Name": "CQ2_HCM",
+      "Details": "How can you use Bayes’ theorem?"
+    },
+    {
+      "No.": "17",
+      "Session No": "13",
+      "Name": "CQ1_HCM",
+      "Details": "Compare the difference between discrete and continuous variables. Give some examples of discrete and continuous variables."
+    },
+    {
+      "No.": "18",
+      "Session No": "14",
+      "Name": "CQ1_HCM",
+      "Details": "Give some examples of using the Poisson model in reality."
+    },
+    {
+      "No.": "19",
+      "Session No": "15",
+      "Name": "CQ1_HCM",
+      "Details": "What are the four properties that must be present in order to use the binomial distribution?"
+    },
+    {
+      "No.": "20",
+      "Session No": "15",
+      "Name": "CQ2_HCM",
+      "Details": "What is the meaning of the expected value of a variable?"
+    },
+    {
+      "No.": "21",
+      "Session No": "16",
+      "Name": "CQ1_HCM",
+      "Details": "What is the meaning of the expected value of a variable?"
+    },
+    {
+      "No.": "22",
+      "Session No": "17",
+      "Name": "CQ1_HCM",
+      "Details": "Give some examples of a common continuous probability distribution."
+    },
+    {
+      "No.": "23",
+      "Session No": "18",
+      "Name": "CQ1_HCM",
+      "Details": "What are the properties of a normal distribution?"
+    },
+    {
+      "No.": "24",
+      "Session No": "18",
+      "Name": "CQ2_HCM",
+      "Details": "How does the shape of the normal distribution differ from the shapes of the uniform and exponential distributions?"
+    },
+    {
+      "No.": "25",
+      "Session No": "19",
+      "Name": "CQ1_HCM",
+      "Details": "What is the shape of a uniform distribution? How do you calculate the mean and variance values?"
+    },
+    {
+      "No.": "26",
+      "Session No": "20",
+      "Name": "CQ1_HCM",
+      "Details": "How do you find the area between two values under the normal curve?"
+    },
+    {
+      "No.": "27",
+      "Session No": "21",
+      "Name": "CQ1_HCM",
+      "Details": "Why is the sample mean an unbiased estimator of the population mean?"
+    },
+    {
+      "No.": "28",
+      "Session No": "21",
+      "Name": "CQ2_HCM",
+      "Details": "How do you find the area between two values under the normal curve?"
+    },
+    {
+      "No.": "29",
+      "Session No": "22",
+      "Name": "CQ1_HCM",
+      "Details": "Under what circumstances does the sampling distribution of the proportion approximately follow the normal distribution?"
+    },
+    {
+      "No.": "30",
+      "Session No": "23",
+      "Name": "CQ1_HCM",
+      "Details": "Why does the standard error of the mean decrease as the sample size, n, increases?"
+    },
+    {
+      "No.": "31",
+      "Session No": "24",
+      "Name": "CQ1_HCM",
+      "Details": "What is the difference between a population distribution and a sampling distribution?"
+    },
+    {
+      "No.": "32",
+      "Session No": "24",
+      "Name": "CQ2_HCM",
+      "Details": "Why does the standard error of the mean decrease as the sample size, n, increases?"
+    },
+    {
+      "No.": "33",
+      "Session No": "25",
+      "Name": "CQ1_HCM",
+      "Details": "Why can you never really have 100% confidence of correctly estimating the population characteristic of interest?"
+    },
+    {
+      "No.": "34",
+      "Session No": "26",
+      "Name": "CQ1_HCM",
+      "Details": "When should you use the t distribution to develop the confidence interval estimate for the mean?"
+    },
+    {
+      "No.": "35",
+      "Session No": "27",
+      "Name": "CQ1_HCM",
+      "Details": "Why is it true that for a given sample size, n, an increase in confidence is achieved by widening (and making less precise) the confidence interval?"
+    },
+    {
+      "No.": "36",
+      "Session No": "27",
+      "Name": "CQ2_HCM",
+      "Details": "Why does the sampling distribution of the mean follow a normal distribution for a large enough sample size, even though the population may not be normally distributed?"
+    },
+    {
+      "No.": "37",
+      "Session No": "28",
+      "Name": "CQ1_HCM",
+      "Details": "Why is the sample size needed to determine the proportion smaller when the population proportion is 0.20 than when the population proportion is 0.50?"
+    },
+    {
+      "No.": "38",
+      "Session No": "29",
+      "Name": "CQ1_HCM",
+      "Details": "What is the difference between a null hypothesis, H0, and an alternative hypothesis, H1?"
+    },
+    {
+      "No.": "39",
+      "Session No": "30",
+      "Name": "CQ1_HCM",
+      "Details": "When do you use the T-test for testing a hypothesis?"
+    },
+    {
+      "No.": "40",
+      "Session No": "30",
+      "Name": "CQ2_HCM",
+      "Details": "Why can you never really have 100% confidence of correctly estimating the population characteristic of interest?"
+    },
+    {
+      "No.": "41",
+      "Session No": "31",
+      "Name": "CQ1_HCM",
+      "Details": "How do you calculate the p-value approach to the Z-test of hypothesis for the proportion?"
+    },
+    {
+      "No.": "42",
+      "Session No": "32",
+      "Name": "CQ1_HCM",
+      "Details": "What is the difference between a Type I error and a Type II error?"
+    },
+    {
+      "No.": "43",
+      "Session No": "33",
+      "Name": "CQ1_HCM",
+      "Details": "What is meant by a p-value?"
+    },
+    {
+      "No.": "44",
+      "Session No": "34",
+      "Name": "CQ1_HCM",
+      "Details": "What is the difference between a null hypothesis, H0, and an alternative hypothesis, H1?"
+    },
+    {
+      "No.": "45",
+      "Session No": "34",
+      "Name": "CQ2_HCM",
+      "Details": "What is the difference between a one-tailed test and a two-tailed test"
+    },
+    {
+      "No.": "46",
+      "Session No": "35",
+      "Name": "CQ1_HCM",
+      "Details": "How can a confidence interval estimate for the population mean provide conclusions for the corresponding two-tail hypothesis test for the population mean?"
+    },
+    {
+      "No.": "47",
+      "Session No": "36",
+      "Name": "CQ1_HCM",
+      "Details": "Under what conditions should you use the pooled-variance t test to examine possible differences in the means of two independent populations?"
+    },
+    {
+      "No.": "48",
+      "Session No": "37",
+      "Name": "CQ1_HCM",
+      "Details": "What is meant by a p-value?"
+    },
+    {
+      "No.": "49",
+      "Session No": "37",
+      "Name": "CQ2_HCM",
+      "Details": "Under what conditions should you use the F test to examine possible differences in the variances of two independent populations?"
+    },
+    {
+      "No.": "50",
+      "Session No": "38",
+      "Name": "CQ1_HCM",
+      "Details": "When you have two independent populations, explain the similarities and differences between the test of hypothesis for the difference between the means and the confidence interval estimate for the difference between the means"
+    },
+    {
+      "No.": "51",
+      "Session No": "39",
+      "Name": "CQ1_HCM",
+      "Details": "In a one-way ANOVA, what is the difference between the among-groups variance MSA and the within-groups variance MSW?"
+    },
+    {
+      "No.": "52",
+      "Session No": "39",
+      "Name": "CQ2_HCM",
+      "Details": "If you have samples of n1 and n2, in performing the pooled-variance t test, how many degrees of freedom do you have?"
+    },
+    {
+      "No.": "53",
+      "Session No": "40",
+      "Name": "CQ1_HCM",
+      "Details": "How can you determine whether there is an interaction in the two-factor factorial design?"
+    },
+    {
+      "No.": "54",
+      "Session No": "41",
+      "Name": "CQ1_HCM",
+      "Details": "What are the assumptions of ANOVA?"
+    },
+    {
+      "No.": "55",
+      "Session No": "42",
+      "Name": "CQ1_HCM",
+      "Details": "What is the difference between the one-way ANOVA F test and the Levene test?"
+    },
+    {
+      "No.": "56",
+      "Session No": "42",
+      "Name": "CQ2_HCM",
+      "Details": "How can you determine whether there is an interaction in the two-factor factorial design?"
+    },
+    {
+      "No.": "57",
+      "Session No": "43",
+      "Name": "CQ1_HCM",
+      "Details": "What is the interpretation of the Y intercept and the slope in the simple linear regression equation?"
+    },
+    {
+      "No.": "58",
+      "Session No": "44",
+      "Name": "CQ1_HCM",
+      "Details": "What is the interpretation of the coefficient of determination?"
+    },
+    {
+      "No.": "59",
+      "Session No": "45",
+      "Name": "CQ1_HCM",
+      "Details": "What are the assumptions of regression analysis?"
+    },
+    {
+      "No.": "60",
+      "Session No": "46",
+      "Name": "CQ1_HCM",
+      "Details": "How is the slope of the regression line associated with correlation coefficient?"
+    },
+    {
+      "No.": "61",
+      "Session No": "47",
+      "Name": "CQ1_HCM",
+      "Details": "When and how do you use the Durbin-Watson statistic?"
+    },
+    {
+      "No.": "62",
+      "Session No": "48",
+      "Name": "CQ1_HCM",
+      "Details": "How do you evaluate the assumptions of regression analysis?"
+    },
+    {
+      "No.": "63",
+      "Session No": "48",
+      "Name": "CQ2_HCM",
+      "Details": "What is the interpretation of the Y intercept and the slope in the simple linear regression equation?"
+    },
+    {
+      "No.": "64",
+      "Session No": "49",
+      "Name": "CQ1_HCM",
+      "Details": "What is the difference between r2 and adjusted r2?"
+    },
+    {
+      "No.": "65",
+      "Session No": "50",
+      "Name": "CQ1_HCM",
+      "Details": "When do you use multiple regression for analysis? Give an example."
+    },
+    {
+      "No.": "66",
+      "Session No": "51",
+      "Name": "CQ1_HCM",
+      "Details": "How do the coefficients of partial determination differ from the coefficient of multiple determination?"
+    },
+    {
+      "No.": "67",
+      "Session No": "51",
+      "Name": "CQ2_HCM",
+      "Details": "What are the assumptions of regression analysis?"
+    },
+    {
+      "No.": "68",
+      "Session No": "52",
+      "Name": "CQ1_HCM",
+      "Details": "When do you use logistic regression?"
+    },
+    {
+      "No.": "69",
+      "Session No": "53",
+      "Name": "CQ1_HCM",
+      "Details": "Using the Wage dataset (education on wages) from 54 to 60. How was this data collected? Is the sample representative of the population?"
+    },
+    {
+      "No.": "70",
+      "Session No": "54",
+      "Name": "CQ1_HCM",
+      "Details": "Is the data Missing Values of the data? How do you find them? How do you deal with them?"
+    },
+    {
+      "No.": "71",
+      "Session No": "54",
+      "Name": "CQ2_HCM",
+      "Details": "Why should you always carry out a residual analysis as part of a regression model?"
+    },
+    {
+      "No.": "72",
+      "Session No": "55",
+      "Name": "CQ1_HCM",
+      "Details": "Classify the following variable: nearc4, educ, age, black, wage, IQ, married, exper, lwage, and expersq."
+    },
+    {
+      "No.": "73",
+      "Session No": "56",
+      "Name": "CQ1_HCM",
+      "Details": "Use F-test to test the difference between the means wage by variable black at a 5% significance level. What are assumptions for the test?"
+    },
+    {
+      "No.": "74",
+      "Session No": "57",
+      "Name": "CQ1_HCM",
+      "Details": "Run regression equation of educ on wage, interpret the slope and the intercept for the output."
+    },
+    {
+      "No.": "75",
+      "Session No": "57",
+      "Name": "CQ2_HCM",
+      "Details": "What is the difference between r2 and adjusted r2?"
+    },
+    {
+      "No.": "76",
+      "Session No": "58",
+      "Name": "CQ1_HCM",
+      "Details": "Run regression of educ on lwage. Find the coefficient of determination and explain its meaning."
+    },
+    {
+      "No.": "77",
+      "Session No": "59",
+      "Name": "CQ1_HCM",
+      "Details": "Suppose that you train two models: educ on wage and educ on lwage. Which model is better? Why?"
+    },
+    {
+      "No.": "78",
+      "Session No": "60",
+      "Name": "CQ1_HCM",
+      "Details": "You are interested in studying factors affecting wages. Which models should you recommend?"
+    },
+    {
+      "No.": "79",
+      "Session No": "60",
+      "Name": "CQ2_HCM",
+      "Details": "What is the difference between least squares regression and logistic regression?"
+    }
+  ],
+  "materials": [
+    {
+      "No.": "1",
+      "Material Description": "Basic business statistics: concepts and applications",
+      "Author": "Mark L.Berenson, David M.Levine, Kathryn A.Szabat, David F.Stephan",
+      "Publisher": "Pearson",
+      "Published Date": "2019",
+      "Edition": "14th",
+      "ISBN": "9781292265032",
+      "Is Main Material": "True",
+      "Is Hard Copy": "True",
+      "Is Online": "False",
+      "Note": ""
+    },
+    {
+      "No.": "2",
+      "Material Description": "'- PowerPoint Slides",
+      "Author": "",
+      "Publisher": "",
+      "Published Date": "",
+      "Edition": "",
+      "ISBN": "",
+      "Is Main Material": "False",
+      "Is Hard Copy": "False",
+      "Is Online": "False",
+      "Note": ""
+    },
+    {
+      "No.": "3",
+      "Material Description": "'- Instructor's Resource Manual",
+      "Author": "",
+      "Publisher": "",
+      "Published Date": "",
+      "Edition": "",
+      "ISBN": "",
+      "Is Main Material": "False",
+      "Is Hard Copy": "False",
+      "Is Online": "False",
+      "Note": ""
+    },
+    {
+      "No.": "4",
+      "Material Description": "- Test bank (Test gen and Doc. file)",
+      "Author": "",
+      "Publisher": "",
+      "Published Date": "",
+      "Edition": "",
+      "ISBN": "",
+      "Is Main Material": "False",
+      "Is Hard Copy": "False",
+      "Is Online": "False",
+      "Note": ""
+    }
+  ],
+  "source_path": "data/raw/syllabi/13140.html",
+  "id": "syllabus:13140"
+}

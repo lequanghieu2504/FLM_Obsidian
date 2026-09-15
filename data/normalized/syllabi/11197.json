@@ -1,0 +1,1523 @@
+{
+  "syllabus_id": 11197,
+  "subject_code": "HOD401",
+  "subject_name": "Ethical Hacking and Offensive Security_Thâm nhập thử và phòng thủ",
+  "syllabus_name": "Ethical Hacking and Offensive Security_Thâm nhập thử và phòng thủ",
+  "credits": 3,
+  "degree_level": "Bachelor",
+  "time_allocation": "45h (60 sessions) contact hours + 1h final exam + 104h self-study",
+  "prerequisite": "ITE303 or ITE302c, OSP201",
+  "general_information": {
+    "Syllabus ID": "11197",
+    "Syllabus Name": "Ethical Hacking and Offensive Security_Thâm nhập thử và phòng thủ",
+    "Course Name English": "Ethical Hacking and Offensive Security",
+    "Subject Code": "HOD401",
+    "Learning-Teaching Method": "Lecture,Project based learning,Active learning,Social Constructivism,Practice, Discussion",
+    "NoCredit": "3",
+    "Degree Level": "Bachelor",
+    "Time Allocation": "45h (60 sessions) contact hours + 1h final exam + 104h self-study",
+    "Pre-Requisite": "ITE303 or ITE302c, OSP201",
+    "Description": "This course is an introduction to the fundamentals of ethical hacking. Students will learn how hackers attack computers and networks, and how to protect Windows and Linux systems. Legal restrictions and ethical guidelines will be taught and enforced. Students will perform many hands-on labs, both attacking and defending, using port scans, footprinting, buffer overflow exploits, SQL injection, privilege escalation, Trojans, and backdoors.",
+    "StudentTasks": "Students must attend at least 80% of contact sessions in order to be accepted to the final examination. - Students are responsible to do all exercises, assignments and labs given by instructor in class or at home and submit on time - Use laptop in class only for learning purpose - Promptly access to the https://flm.fpt.edu.vn/ for up-to-date course information",
+    "Tools": "Internet, basic tools for ethical hacking (VMWare, Kali Linux, Wireshark, Nmap, …)",
+    "Scoring Scale": "10",
+    "DecisionNo MM/dd/yyyy": "358/QĐ-ĐHFPT dated 04/03/2024",
+    "IsApproved": "True",
+    "Note": "a) Ongoing assessment (OA): - 01 Midterm Test (20%) - Participation in Discussions (10%) - 15 Labs (40%) b) Final examination (FE): 30% d) Completion criteria: - Every on-going assessment component >0; - Average Lab Score >= 4; Final Exam Score >=4 & Final Result >=5",
+    "Is Scored": "True",
+    "MinAvgMarkToPass": "5",
+    "IsActive": "True",
+    "ApprovedDate": "4/3/2024"
+  },
+  "active": true,
+  "approved": true,
+  "decision": "358/QĐ-ĐHFPT dated 04/03/2024",
+  "description": "This course is an introduction to the fundamentals of ethical hacking. Students will learn how hackers attack computers and networks, and how to protect Windows and Linux systems. Legal restrictions and ethical guidelines will be taught and enforced. Students will perform many hands-on labs, both attacking and defending, using port scans, footprinting, buffer overflow exploits, SQL injection, privilege escalation, Trojans, and backdoors.",
+  "learning_outcomes": [
+    {
+      "No.": "1",
+      "CLO Name": "CLO1",
+      "CLO Details": "Determine what an ethical hacker can and cannot do legally, and evaluate credentials and roles of penetration testers."
+    },
+    {
+      "No.": "2",
+      "CLO Name": "CLO2",
+      "CLO Details": "Perform reconnaissance on a target network using a variety of scanning and probing techniques ."
+    },
+    {
+      "No.": "3",
+      "CLO Name": "CLO3",
+      "CLO Details": "Enumerate and classify Microsoft and Linux Operating Systems vulnerabilities."
+    },
+    {
+      "No.": "4",
+      "CLO Name": "CLO4",
+      "CLO Details": "Take control of Web Servers and wireless networks, and protect them."
+    },
+    {
+      "No.": "5",
+      "CLO Name": "CLO5",
+      "CLO Details": "Evaluate and select cryptography and hashing methods, and perform attacks against them."
+    },
+    {
+      "No.": "6",
+      "CLO Name": "CLO6",
+      "CLO Details": "Select and implement security devices, including routers, firewalls, Intrusion Detection Systems, and honeypots"
+    }
+  ],
+  "assessments": [
+    {
+      "No.": "1",
+      "Category": "Labs",
+      "Type": "on-going",
+      "Part": "15",
+      "Weight": "40.0%",
+      "Completion Criteria": "4",
+      "Duration": "60-90'/each in class",
+      "CLO": "",
+      "Question Type": "practical exercises",
+      "No Question": "N/A",
+      "Knowledge and Skill": "technical aspect of studied topics",
+      "Grading Guide": "Guided by instructor - 15 Lab-Projects are arranged relevant to the chapter theory - Student must finish labs and submit the results to the lecturer in class. - An average point of all labs could be evaluated and published to students at the end of the semesters",
+      "Note": ""
+    },
+    {
+      "No.": "2",
+      "Category": "Midterm test",
+      "Type": "on-going",
+      "Part": "1",
+      "Weight": "20.0%",
+      "Completion Criteria": ">0",
+      "Duration": "30-40'",
+      "CLO": "",
+      "Question Type": "Multiple choices or a suitable format",
+      "No Question": "20-25",
+      "Knowledge and Skill": "cover Chapters 1-7",
+      "Grading Guide": "in class, by instructor",
+      "Note": "Instruction and schedules for Progress Tests must be presented in the Course Implementation Plan approved by director of the campus. The test must be taken right after the last lectures of required material. Instructor has responsibility to review the test for students after graded."
+    },
+    {
+      "No.": "3",
+      "Category": "Participation in Discussions",
+      "Type": "on-going",
+      "Part": "1",
+      "Weight": "10.0%",
+      "Completion Criteria": ">0",
+      "Duration": "",
+      "CLO": "",
+      "Question Type": "",
+      "No Question": "N/A",
+      "Knowledge and Skill": "",
+      "Grading Guide": "",
+      "Note": ""
+    },
+    {
+      "No.": "4",
+      "Category": "Final Exam",
+      "Type": "Final exam",
+      "Part": "1",
+      "Weight": "30.0%",
+      "Completion Criteria": "4",
+      "Duration": "60'",
+      "CLO": "",
+      "Question Type": "Multiple choices",
+      "No Question": "40-50",
+      "Knowledge and Skill": "concepts, algorithms; all studied Chapters",
+      "Grading Guide": "by exam board,",
+      "Note": "The exam questions must be updated or different at least 70% to the previous ones."
+    }
+  ],
+  "schedule": [
+    {
+      "Session": "1",
+      "Topic": "Course introduction Chapter 1. Ethical Hacking Overview 1.1 Introduction to Ethical Hacking",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO1",
+      "ITU": "I T",
+      "Student Materials": "Syllabus, textbook, resources Chapter 1, chapter slides,",
+      "S-Download": "mat",
+      "Student's Tasks": "Introduce the course, teaching and learning materials Give an overview of Ethical Hacking Read, explore the chapter and Review the lesson",
+      "URLs": ""
+    },
+    {
+      "Session": "2",
+      "Topic": "Chapter 1. Ethical Hacking Overview (cont.) 1.2 What You Can Do Legally 1.3 What You Cannot Do Legally",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO1",
+      "ITU": "I T",
+      "Student Materials": "Syllabus, textbook, resources Chapter 1, chapter slides,",
+      "S-Download": "",
+      "Student's Tasks": "Introduce the course, teaching and learning materials Give an overview of Ethical Hacking Read, explore the chapter and Review the lesson",
+      "URLs": ""
+    },
+    {
+      "Session": "3",
+      "Topic": "Chapter 2. TCP/IP Concepts Review 2.1 Overview of TCP/IP",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO2",
+      "ITU": "T",
+      "Student Materials": "Chapter 2, chapter slides,",
+      "S-Download": "",
+      "Student's Tasks": "Review TCP/IP concepts Read, explore the chapter and Review the lesson",
+      "URLs": ""
+    },
+    {
+      "Session": "4",
+      "Topic": "Chapter 2. TCP/IP Concepts Review (cont.) 2.2 IP Addressing 2.3 Overview of Numbering Systems",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO2",
+      "ITU": "T",
+      "Student Materials": "Chapter 2, chapter slides,",
+      "S-Download": "",
+      "Student's Tasks": "Review TCP/IP concepts Read, explore the chapter and Review the lesson",
+      "URLs": ""
+    },
+    {
+      "Session": "5",
+      "Topic": "Chapter 3. Network and Computer Attacks 3.1 Malware (Viruses, Macro Viruses, Worms, Trojans, Spyware, Adware) 3.2 Protecting Against Malware Attacks",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO2",
+      "ITU": "T",
+      "Student Materials": "Chapter 3, chapter slides,",
+      "S-Download": "",
+      "Student's Tasks": "Discuss about Network and Computer Attacks Read, explore the chapter and Review Lecture 3",
+      "URLs": ""
+    },
+    {
+      "Session": "6",
+      "Topic": "Chapter 3. Network and Computer Attacks (cont.) 3.3 Intruder Attacks on Networks and Computers 3.4 Addressing Physical Security",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO1, LO2",
+      "ITU": "T",
+      "Student Materials": "Chapter 3, chapter slides,",
+      "S-Download": "",
+      "Student's Tasks": "Discuss about Network and Computer Attacks Read, explore the chapter and Review Lecture 3",
+      "URLs": ""
+    },
+    {
+      "Session": "7",
+      "Topic": "Chapter 4. Footprinting and Social Engineering 4.1 Using Web Tools for Footprinting 4.2 Conducting Competitive Intelligence",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO1, LO2",
+      "ITU": "TU",
+      "Student Materials": "Chapter 4, chapter slides,",
+      "S-Download": "",
+      "Student's Tasks": "Introduce Footprinting and Social Engineering Read the chapter, pracice and Review the lesson",
+      "URLs": ""
+    },
+    {
+      "Session": "8",
+      "Topic": "Chapter 4. Footprinting and Social Engineering (cont.) 4.3 Using Domain Name System Zone Transfers 4.4 Introduction to Social Engineering (Shoulder Surfing, Dumpster Diving, Piggybacking, Phishing)",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO1, LO2",
+      "ITU": "TU",
+      "Student Materials": "Chapter 4, chapter slides,",
+      "S-Download": "",
+      "Student's Tasks": "Introduce Footprinting and Social Engineering Read the chapter, pracice and Review the lesson",
+      "URLs": ""
+    },
+    {
+      "Session": "9",
+      "Topic": "Lab-Project 1: HTTP Basic Authentication",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO1, LO2",
+      "ITU": "U",
+      "Student Materials": "Chapter Slides, Lab Manual",
+      "S-Download": "",
+      "Student's Tasks": "Practice and Review Lab 1",
+      "URLs": ""
+    },
+    {
+      "Session": "10",
+      "Topic": "Lab-Project 1: HTTP Basic Authentication (cont.)",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO1, LO2",
+      "ITU": "U",
+      "Student Materials": "Chapter Slides, Lab Manual",
+      "S-Download": "",
+      "Student's Tasks": "Practice and Review Lab 1",
+      "URLs": ""
+    },
+    {
+      "Session": "11",
+      "Topic": "Lab-Project 2: Creating Infectious Media with the Social Engineering Toolkit",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO1, LO2",
+      "ITU": "U",
+      "Student Materials": "Chapter Slides, Lab Manual",
+      "S-Download": "",
+      "Student's Tasks": "Practice and Review Lab 2",
+      "URLs": ""
+    },
+    {
+      "Session": "12",
+      "Topic": "Lab-Project 2: Creating Infectious Media with the Social Engineering Toolkit (cont.)",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO1, LO2",
+      "ITU": "U",
+      "Student Materials": "Chapter Slides, Lab Manual",
+      "S-Download": "",
+      "Student's Tasks": "Practice and Review Lab 2",
+      "URLs": ""
+    },
+    {
+      "Session": "13",
+      "Topic": "Chapter 5. Port Scanning 5.1 Introduction to Port Scanning 5.2 Using Port-Scanning Tools",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO1, LO2",
+      "ITU": "TU",
+      "Student Materials": "Chapter 5, chapter slides,",
+      "S-Download": "",
+      "Student's Tasks": "Introduce Footprinting and Social Engineering Read the chapter,Practice and Review the lesson",
+      "URLs": ""
+    },
+    {
+      "Session": "14",
+      "Topic": "Chapter 5. Port Scanning (cont.) 5.3 Conducting Ping Sweeps 5.4 Understanding Scripting",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO1, LO2",
+      "ITU": "TU",
+      "Student Materials": "Chapter 5, chapter slides,",
+      "S-Download": "",
+      "Student's Tasks": "Introduce Footprinting and Social Engineering Read the chapter,Practice and Review the lesson",
+      "URLs": ""
+    },
+    {
+      "Session": "15",
+      "Topic": "Lab-Project 3: Analyzing a Port Scan",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO1, LO2",
+      "ITU": "U",
+      "Student Materials": "Chapter Slides, Lab Manual",
+      "S-Download": "",
+      "Student's Tasks": "Practice and Review Lab 3",
+      "URLs": ""
+    },
+    {
+      "Session": "16",
+      "Topic": "Lab-Project 3: Analyzing a Port Scan (cont.)",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO1, LO2",
+      "ITU": "U",
+      "Student Materials": "Chapter Slides, Lab Manual",
+      "S-Download": "",
+      "Student's Tasks": "Practice and Review Lab 3",
+      "URLs": ""
+    },
+    {
+      "Session": "17",
+      "Topic": "Chapter 6. Enumeration 6.1 Introduction to Enumeration 6.2 Enumerating Windows Operating Systems",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO3",
+      "ITU": "T",
+      "Student Materials": "Chapter 6, chapter slides,",
+      "S-Download": "Ch6_10",
+      "Student's Tasks": "Explain how to Enumerate Windows and Linux vulnerabilities Read the chapter Review the lesson",
+      "URLs": ""
+    },
+    {
+      "Session": "18",
+      "Topic": "Chapter 6. Enumeration (cont.) 6.3 Enumerating the NetWare Operating System 6.4 Enumerating the *nix Operating System",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO3",
+      "ITU": "T",
+      "Student Materials": "Chapter 6, chapter slides,",
+      "S-Download": "",
+      "Student's Tasks": "Explain how to Enumerate Windows and Linux vulnerabilities Read the chapter Review the lesson",
+      "URLs": ""
+    },
+    {
+      "Session": "19",
+      "Topic": "Lab-Project 4: Windows DoS with IPv6 Router Advertisement Packets",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO3",
+      "ITU": "U",
+      "Student Materials": "Chapter Slides, Lab Manual",
+      "S-Download": "",
+      "Student's Tasks": "Practice and Review Lab 4",
+      "URLs": ""
+    },
+    {
+      "Session": "20",
+      "Topic": "Lab-Project 4: Windows DoS with IPv6 Router Advertisement Packets (cont.)",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO3",
+      "ITU": "U",
+      "Student Materials": "Chapter Slides, Lab Manual",
+      "S-Download": "",
+      "Student's Tasks": "Practice and Review Lab 4",
+      "URLs": ""
+    },
+    {
+      "Session": "21",
+      "Topic": "Lab-Project 5: C Programming on Linux (Crashing the hello2 Program With a Long Name--Buffer Overflow)",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO3",
+      "ITU": "U",
+      "Student Materials": "Chapter Slides, Lab Manual",
+      "S-Download": "",
+      "Student's Tasks": "Practice and Review Lab 5",
+      "URLs": ""
+    },
+    {
+      "Session": "22",
+      "Topic": "Lab-Project 5: C Programming on Linux (Crashing the hello2 Program With a Long Name--Buffer Overflow) (cont.)",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO3",
+      "ITU": "U",
+      "Student Materials": "Chapter Slides, Lab Manual",
+      "S-Download": "",
+      "Student's Tasks": "Practice and Review Lab 5",
+      "URLs": ""
+    },
+    {
+      "Session": "23",
+      "Topic": "Chapter 7. Programming for Security Professionals 7.1 Programming Fundamentals 7.2 Anatomy of a C Program",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO3",
+      "ITU": "TU",
+      "Student Materials": "Chapter 7, chapter slides,",
+      "S-Download": "",
+      "Student's Tasks": "Review programming concepts to be used by Security Professionals Read the chapter Review the lesson",
+      "URLs": ""
+    },
+    {
+      "Session": "24",
+      "Topic": "Chapter 7. Programming for Security Professionals (cont.) 7.3 Creating a Web Page with HTML 7.4 Understanding Perl 7.5 Components of Object-Oriented Programming",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO3",
+      "ITU": "TU",
+      "Student Materials": "Chapter 7, chapter slides,",
+      "S-Download": "",
+      "Student's Tasks": "Review programming concepts to be used by Security Professionals Read the chapter Review the lesson",
+      "URLs": ""
+    },
+    {
+      "Session": "25",
+      "Topic": "Lab-Project 6: TCP Handshake with scapy",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO3",
+      "ITU": "U",
+      "Student Materials": "Chapter Slides, Lab Manual",
+      "S-Download": "",
+      "Student's Tasks": "Practice and Review Lab 6",
+      "URLs": ""
+    },
+    {
+      "Session": "26",
+      "Topic": "Lab-Project 6: TCP Handshake with scapy (cont.)",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO3",
+      "ITU": "U",
+      "Student Materials": "Chapter Slides, Lab Manual",
+      "S-Download": "",
+      "Student's Tasks": "Practice and Review Lab 6",
+      "URLs": ""
+    },
+    {
+      "Session": "27",
+      "Topic": "Lab-Project 7: ARP Spoofing with scapy",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO3",
+      "ITU": "U",
+      "Student Materials": "Chapter Slides, Lab Manual",
+      "S-Download": "",
+      "Student's Tasks": "Practice and Review Lab 7",
+      "URLs": ""
+    },
+    {
+      "Session": "28",
+      "Topic": "Lab-Project 7: ARP Spoofing with scapy (cont.)",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO3",
+      "ITU": "U",
+      "Student Materials": "Chapter Slides, Lab Manual",
+      "S-Download": "",
+      "Student's Tasks": "Practice and Review Lab 7",
+      "URLs": ""
+    },
+    {
+      "Session": "29",
+      "Topic": "Review for Midterm",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO1, LO2, LO3",
+      "ITU": "",
+      "Student Materials": "Chapters 1-7",
+      "S-Download": "",
+      "Student's Tasks": "Review, discuss, Q&A",
+      "URLs": ""
+    },
+    {
+      "Session": "30",
+      "Topic": "Midterm Test",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO1, LO2, LO3",
+      "ITU": "",
+      "Student Materials": "",
+      "S-Download": "",
+      "Student's Tasks": "",
+      "URLs": ""
+    },
+    {
+      "Session": "31",
+      "Topic": "Chapter 8. Desktop and Server OS Vulnerabilities 8.1 Windows OS Vulnerabilities (Null Sessions, SQL Server, Buffer Overflows, Passwords and Authentication, …) 8.4 Tools for Identifying Vulnerabilities in Windows",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO3",
+      "ITU": "T",
+      "Student Materials": "Chapter 8, chapter slides,",
+      "S-Download": "",
+      "Student's Tasks": "Classify Desktop and Server OS Vulnerabilities Read the chapter Review the lesson",
+      "URLs": ""
+    },
+    {
+      "Session": "32",
+      "Topic": "Chapter 8. Desktop and Server OS Vulnerabilities (cont.) 8.5 Best Practices for Hardening Windows Systems 8.6 Linux OS Vulnerabilities",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO3",
+      "ITU": "T",
+      "Student Materials": "Chapter 8, chapter slides,",
+      "S-Download": "",
+      "Student's Tasks": "Classify Desktop and Server OS Vulnerabilities Read the chapter Review the lesson",
+      "URLs": ""
+    },
+    {
+      "Session": "33",
+      "Topic": "Lab-Project 8: Cracking Linux Password Hashes with Hashcat",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO3",
+      "ITU": "U",
+      "Student Materials": "Chapter Slides, Lab Manual",
+      "S-Download": "",
+      "Student's Tasks": "Practice and Review Lab 8",
+      "URLs": ""
+    },
+    {
+      "Session": "34",
+      "Topic": "Lab-Project 8: Cracking Linux Password Hashes with Hashcat (cont.)",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO3",
+      "ITU": "U",
+      "Student Materials": "Chapter Slides, Lab Manual",
+      "S-Download": "",
+      "Student's Tasks": "Practice and Review Lab 8",
+      "URLs": ""
+    },
+    {
+      "Session": "35",
+      "Topic": "Chapter 9. Embedded Operating Systems: The Hidden Threat 9.1 Introduction to Embedded Operating Systems",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO3",
+      "ITU": "T",
+      "Student Materials": "Chapter 9, chapter slides,",
+      "S-Download": "",
+      "Student's Tasks": "Discuss Threat and Vulnerabilities Embedded Oss Read the chapter Review the lesson",
+      "URLs": ""
+    },
+    {
+      "Session": "36",
+      "Topic": "Chapter 9. Embedded Operating Systems: The Hidden Threat (cont.) 9.2 Windows and Other Embedded Operating Systems 9.3 Vulnerabilities of Embedded Oss",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO3",
+      "ITU": "T",
+      "Student Materials": "Chapter 9, chapter slides,",
+      "S-Download": "",
+      "Student's Tasks": "Discuss Threat and Vulnerabilities Embedded Oss Read the chapter Review the lesson",
+      "URLs": ""
+    },
+    {
+      "Session": "37",
+      "Topic": "Chapter 10. Hacking Web Servers 10.1 Understanding Web Applications 10.2 Understanding Web Application Vulnerabilities",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO4",
+      "ITU": "T",
+      "Student Materials": "Chapter 10, chapter slides,",
+      "S-Download": "",
+      "Student's Tasks": "Give lecture on Hacking Web Servers Read the chapter Review the lesson",
+      "URLs": ""
+    },
+    {
+      "Session": "38",
+      "Topic": "Chapter 10. Hacking Web Servers (cont.) 10.3 Tools for Web Attackers and Security Testers",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO4",
+      "ITU": "T",
+      "Student Materials": "Chapter 10, chapter slides,",
+      "S-Download": "",
+      "Student's Tasks": "Give lecture on Hacking Web Servers Read the chapter Review the lesson",
+      "URLs": ""
+    },
+    {
+      "Session": "39",
+      "Topic": "Lab-Project 9: PicoCTF",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO4",
+      "ITU": "U",
+      "Student Materials": "Chapter Slides, Lab Manual",
+      "S-Download": "",
+      "Student's Tasks": "Practice and Review Lab 9",
+      "URLs": ""
+    },
+    {
+      "Session": "40",
+      "Topic": "Lab-Project 9: PicoCTF (cont.)",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO4",
+      "ITU": "U",
+      "Student Materials": "Chapter Slides, Lab Manual",
+      "S-Download": "",
+      "Student's Tasks": "Practice and Review Lab 9",
+      "URLs": ""
+    },
+    {
+      "Session": "41",
+      "Topic": "Lab-Project 10: Attacking Apache with the OWASP HTTP DoS Tool",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO4",
+      "ITU": "U",
+      "Student Materials": "Chapter Slides, Lab Manual",
+      "S-Download": "",
+      "Student's Tasks": "Practice and Review Lab 10",
+      "URLs": ""
+    },
+    {
+      "Session": "42",
+      "Topic": "Lab-Project 10: Attacking Apache with the OWASP HTTP DoS Tool (cont.)",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO4",
+      "ITU": "U",
+      "Student Materials": "Chapter Slides, Lab Manual",
+      "S-Download": "",
+      "Student's Tasks": "Practice and Review Lab 10",
+      "URLs": ""
+    },
+    {
+      "Session": "43",
+      "Topic": "Chapter 11. Hacking Wireless Networks 11.1 Understanding Wireless Technology 11.2 Understanding Wireless Technology (802.11, additional IEEE 802.11 Projects)",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO4",
+      "ITU": "T",
+      "Student Materials": "Chapter 11, chapter slides,",
+      "S-Download": "Ch11_13",
+      "Student's Tasks": "Give lecture on Hacking Wireless Networks Read the chapter Review the lesson",
+      "URLs": ""
+    },
+    {
+      "Session": "44",
+      "Topic": "Chapter 11. Hacking Wireless Networks (cont.) 11.3 Understanding Authentication 11.4 Understanding Wardriving 11.5 Understanding Wireless Hacking",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO4",
+      "ITU": "T",
+      "Student Materials": "Chapter 11, chapter slides,",
+      "S-Download": "",
+      "Student's Tasks": "Give lecture on Hacking Wireless Networks Read the chapter Review the lesson",
+      "URLs": ""
+    },
+    {
+      "Session": "45",
+      "Topic": "Lab-Project 11: yesman--Scanner Honeypot with scapy",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO4",
+      "ITU": "U",
+      "Student Materials": "Chapter Slides, Lab Manual",
+      "S-Download": "",
+      "Student's Tasks": "Practice and Review Lab 11",
+      "URLs": ""
+    },
+    {
+      "Session": "46",
+      "Topic": "Lab-Project 11: yesman--Scanner Honeypot with scapy (cont.)",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO4",
+      "ITU": "U",
+      "Student Materials": "Chapter Slides, Lab Manual",
+      "S-Download": "",
+      "Student's Tasks": "Practice and Review Lab 11",
+      "URLs": ""
+    },
+    {
+      "Session": "47",
+      "Topic": "Lab-Project 12: Cracking Windows Passwords with Cain and Abel",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO4",
+      "ITU": "U",
+      "Student Materials": "Chapter Slides, Lab Manual",
+      "S-Download": "",
+      "Student's Tasks": "Practice and Review Lab 12",
+      "URLs": ""
+    },
+    {
+      "Session": "48",
+      "Topic": "Lab-Project 12: Cracking Windows Passwords with Cain and Abel (cont.)",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO4",
+      "ITU": "U",
+      "Student Materials": "Chapter Slides, Lab Manual",
+      "S-Download": "",
+      "Student's Tasks": "Practice and Review Lab 12",
+      "URLs": ""
+    },
+    {
+      "Session": "49",
+      "Topic": "Chapter 12. Cryptography 12.1 Understanding Cryptography Basics 12.2 Understanding Symmetric and Asymmetric Algorithms",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO5",
+      "ITU": "T",
+      "Student Materials": "Chapter 12, chapter slides,",
+      "S-Download": "",
+      "Student's Tasks": "Review Cryptography basics and explain Cryptography Attacks Read the chapter Review the lesson",
+      "URLs": ""
+    },
+    {
+      "Session": "50",
+      "Topic": "Chapter 12. Cryptography (cont.) 12.3 Components of PKI 12.4 Understanding Cryptography Attacks",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO5",
+      "ITU": "T",
+      "Student Materials": "Chapter 12, chapter slides,",
+      "S-Download": "",
+      "Student's Tasks": "Review Cryptography basics and explain Cryptography Attacks Read the chapter Review the lesson",
+      "URLs": ""
+    },
+    {
+      "Session": "51",
+      "Topic": "Chapter 13 Network. Protection Systems 13.1 Understanding Routers 13.2 Understanding Firewalls",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO6",
+      "ITU": "TU",
+      "Student Materials": "Chapter 13, chapter slides,",
+      "S-Download": "",
+      "Student's Tasks": "Explain some Network. Protection Systems Read the chapter, discuss, Q&A Review the lesson",
+      "URLs": ""
+    },
+    {
+      "Session": "52",
+      "Topic": "Chapter 13 Network. Protection Systems (cont.) 13.3 Understanding Intrusion Detection and Prevention Systems 13.3 Understanding Honeypots",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO6",
+      "ITU": "TU",
+      "Student Materials": "Chapter 13, chapter slides,",
+      "S-Download": "",
+      "Student's Tasks": "Explain some Network. Protection Systems Read the chapter, discuss, Q&A Review the lesson",
+      "URLs": ""
+    },
+    {
+      "Session": "53",
+      "Topic": "LAB-Project 13: Exploiting SQL with Havij and Input Filtering",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO6",
+      "ITU": "U",
+      "Student Materials": "Chapter Slides, Lab Manual",
+      "S-Download": "",
+      "Student's Tasks": "Practice and Review Lab 13",
+      "URLs": ""
+    },
+    {
+      "Session": "54",
+      "Topic": "LAB-Project 13: Exploiting SQL with Havij and Input Filtering (cont.)",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO6",
+      "ITU": "U",
+      "Student Materials": "Chapter Slides, Lab Manual",
+      "S-Download": "",
+      "Student's Tasks": "Practice and Review Lab 13",
+      "URLs": ""
+    },
+    {
+      "Session": "55",
+      "Topic": "LAB-Project 14: Hijacking HTTPS Sessions with SSLstrip",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO6",
+      "ITU": "U",
+      "Student Materials": "Chapter Slides, Lab Manual",
+      "S-Download": "",
+      "Student's Tasks": "Practice and Review Lab 14",
+      "URLs": ""
+    },
+    {
+      "Session": "56",
+      "Topic": "LAB-Project 14: Hijacking HTTPS Sessions with SSLstrip (cont.)",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO6",
+      "ITU": "U",
+      "Student Materials": "Chapter Slides, Lab Manual",
+      "S-Download": "",
+      "Student's Tasks": "Practice and Review Lab 14",
+      "URLs": ""
+    },
+    {
+      "Session": "57",
+      "Topic": "LAB-Project 15: WPA/WPA2 Decryption",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO6",
+      "ITU": "U",
+      "Student Materials": "Chapter Slides, Lab Manual",
+      "S-Download": "",
+      "Student's Tasks": "Practice and Review Lab 15",
+      "URLs": ""
+    },
+    {
+      "Session": "58",
+      "Topic": "LAB-Project 15: WPA/WPA2 Decryption (cont.)",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO6",
+      "ITU": "U",
+      "Student Materials": "Chapter Slides, Lab Manual",
+      "S-Download": "",
+      "Student's Tasks": "Practice and Review Lab 15",
+      "URLs": ""
+    },
+    {
+      "Session": "59",
+      "Topic": "Course Review",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO1 - LO6",
+      "ITU": "",
+      "Student Materials": "Textbook",
+      "S-Download": "",
+      "Student's Tasks": "review and prepare to FE",
+      "URLs": ""
+    },
+    {
+      "Session": "60",
+      "Topic": "Course Review (cont.)",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO1 - LO6",
+      "ITU": "",
+      "Student Materials": "Textbook",
+      "S-Download": "",
+      "Student's Tasks": "review and prepare to FE",
+      "URLs": ""
+    },
+    {
+      "Session": "61",
+      "Topic": "Final Exam",
+      "Learning-Teaching Type": "",
+      "LO": "LO1, LO2, LO3, LO4, LO5, LO6",
+      "ITU": "",
+      "Student Materials": "",
+      "S-Download": "",
+      "Student's Tasks": "",
+      "URLs": ""
+    }
+  ],
+  "constructive_questions": [
+    {
+      "No.": "1",
+      "Session No": "1",
+      "Name": "CQ1",
+      "Details": "Why is Ethical Hacking necessary?"
+    },
+    {
+      "No.": "2",
+      "Session No": "1",
+      "Name": "CQ2",
+      "Details": "What can an attacker see on the target system?"
+    },
+    {
+      "No.": "3",
+      "Session No": "1",
+      "Name": "CQ3",
+      "Details": "What can intruder do with that information?"
+    },
+    {
+      "No.": "4",
+      "Session No": "2",
+      "Name": "CQ1",
+      "Details": "Why is Ethical Hacking necessary? (cont.)"
+    },
+    {
+      "No.": "5",
+      "Session No": "2",
+      "Name": "CQ2",
+      "Details": "What can an attacker see on the target system? (cont.)"
+    },
+    {
+      "No.": "6",
+      "Session No": "2",
+      "Name": "CQ3",
+      "Details": "What can intruder do with that information? (cont.)"
+    },
+    {
+      "No.": "7",
+      "Session No": "3",
+      "Name": "CQ1",
+      "Details": "Why TCP/IP is the primary suite for today?"
+    },
+    {
+      "No.": "8",
+      "Session No": "3",
+      "Name": "CQ2",
+      "Details": "What are the differences between TCP/IP and OSI model?"
+    },
+    {
+      "No.": "9",
+      "Session No": "3",
+      "Name": "CQ3",
+      "Details": "Why subnetting can waste host IP addresses?"
+    },
+    {
+      "No.": "10",
+      "Session No": "3",
+      "Name": "CQ4",
+      "Details": "How could the above problem be solved?"
+    },
+    {
+      "No.": "11",
+      "Session No": "4",
+      "Name": "CQ1",
+      "Details": "Why TCP/IP is the primary suite for today? (cont.)"
+    },
+    {
+      "No.": "12",
+      "Session No": "4",
+      "Name": "CQ2",
+      "Details": "What are the differences between TCP/IP and OSI model? (cont.)"
+    },
+    {
+      "No.": "13",
+      "Session No": "4",
+      "Name": "CQ3",
+      "Details": "Why subnetting can waste host IP addresses? (cont.)"
+    },
+    {
+      "No.": "14",
+      "Session No": "4",
+      "Name": "CQ4",
+      "Details": "How could the above problem be solved? (cont.)"
+    },
+    {
+      "No.": "15",
+      "Session No": "5",
+      "Name": "CQ1",
+      "Details": "What are the differences between virus, worm and trojan?"
+    },
+    {
+      "No.": "16",
+      "Session No": "5",
+      "Name": "CQ2",
+      "Details": "How can you prevent malware?"
+    },
+    {
+      "No.": "17",
+      "Session No": "6",
+      "Name": "CQ1",
+      "Details": "What are the differences between virus, worm and trojan? (cont.)"
+    },
+    {
+      "No.": "18",
+      "Session No": "6",
+      "Name": "CQ2",
+      "Details": "How can you prevent malware? (cont.)"
+    },
+    {
+      "No.": "19",
+      "Session No": "7",
+      "Name": "CQ1",
+      "Details": "What is footprinting and how does it work?"
+    },
+    {
+      "No.": "20",
+      "Session No": "7",
+      "Name": "CQ2",
+      "Details": "How do you start footprinting?"
+    },
+    {
+      "No.": "21",
+      "Session No": "7",
+      "Name": "CQ3",
+      "Details": "Why is Social Engineering effective?"
+    },
+    {
+      "No.": "22",
+      "Session No": "7",
+      "Name": "CQ4",
+      "Details": "What types of social engineering exist?"
+    },
+    {
+      "No.": "23",
+      "Session No": "8",
+      "Name": "CQ1",
+      "Details": "What is footprinting and how does it work? (cont.)"
+    },
+    {
+      "No.": "24",
+      "Session No": "8",
+      "Name": "CQ2",
+      "Details": "How do you start footprinting? (cont.)"
+    },
+    {
+      "No.": "25",
+      "Session No": "8",
+      "Name": "CQ3",
+      "Details": "Why is Social Engineering effective? (cont.)"
+    },
+    {
+      "No.": "26",
+      "Session No": "8",
+      "Name": "CQ4",
+      "Details": "What types of social engineering exist? (cont.)"
+    },
+    {
+      "No.": "27",
+      "Session No": "9",
+      "Name": "CQ1",
+      "Details": "How does HTTP basic authentication work?"
+    },
+    {
+      "No.": "28",
+      "Session No": "9",
+      "Name": "CQ2",
+      "Details": "How to hack HTTP basic authentication?"
+    },
+    {
+      "No.": "29",
+      "Session No": "10",
+      "Name": "CQ1",
+      "Details": "How does HTTP basic authentication work? (cont.)"
+    },
+    {
+      "No.": "30",
+      "Session No": "10",
+      "Name": "CQ2",
+      "Details": "How to hack HTTP basic authentication? (cont.)"
+    },
+    {
+      "No.": "31",
+      "Session No": "13",
+      "Name": "CQ1",
+      "Details": "What is port scanning used for?"
+    },
+    {
+      "No.": "32",
+      "Session No": "13",
+      "Name": "CQ2",
+      "Details": "What types of port scanning are used?"
+    },
+    {
+      "No.": "33",
+      "Session No": "13",
+      "Name": "CQ3",
+      "Details": "What are ping sweeps used for?"
+    },
+    {
+      "No.": "34",
+      "Session No": "14",
+      "Name": "CQ1",
+      "Details": "What is port scanning used for? (cont.)"
+    },
+    {
+      "No.": "35",
+      "Session No": "14",
+      "Name": "CQ2",
+      "Details": "What types of port scanning are used? (cont.)"
+    },
+    {
+      "No.": "36",
+      "Session No": "14",
+      "Name": "CQ3",
+      "Details": "What are ping sweeps used for? (cont.)"
+    },
+    {
+      "No.": "37",
+      "Session No": "15",
+      "Name": "CQ1",
+      "Details": "How does nmap scan ports?"
+    },
+    {
+      "No.": "38",
+      "Session No": "15",
+      "Name": "CQ2",
+      "Details": "How is the Xmas port scan used?"
+    },
+    {
+      "No.": "39",
+      "Session No": "16",
+      "Name": "CQ1",
+      "Details": "How does nmap scan ports? (cont.)"
+    },
+    {
+      "No.": "40",
+      "Session No": "16",
+      "Name": "CQ2",
+      "Details": "How is the Xmas port scan used? (cont.)"
+    },
+    {
+      "No.": "41",
+      "Session No": "17",
+      "Name": "CQ1",
+      "Details": "How does enumeration ethical hacking work?"
+    },
+    {
+      "No.": "42",
+      "Session No": "17",
+      "Name": "CQ2",
+      "Details": "What type of information can be gathered with enumeration?"
+    },
+    {
+      "No.": "43",
+      "Session No": "18",
+      "Name": "CQ1",
+      "Details": "How does enumeration ethical hacking work? (cont.)"
+    },
+    {
+      "No.": "44",
+      "Session No": "18",
+      "Name": "CQ2",
+      "Details": "What type of information can be gathered with enumeration? (cont.)"
+    },
+    {
+      "No.": "45",
+      "Session No": "25",
+      "Name": "CQ1",
+      "Details": "What is the three-way handshake and how does it work?"
+    },
+    {
+      "No.": "46",
+      "Session No": "25",
+      "Name": "CQ2",
+      "Details": "What causes a TCP flood?"
+    },
+    {
+      "No.": "47",
+      "Session No": "26",
+      "Name": "CQ1",
+      "Details": "What is the three-way handshake and how does it work? (cont.)"
+    },
+    {
+      "No.": "48",
+      "Session No": "26",
+      "Name": "CQ2",
+      "Details": "What causes a TCP flood? (cont.)"
+    },
+    {
+      "No.": "49",
+      "Session No": "27",
+      "Name": "CQ1",
+      "Details": "How does ARP spoofing work?"
+    },
+    {
+      "No.": "50",
+      "Session No": "27",
+      "Name": "CQ2",
+      "Details": "How does ARP spoofing for a MITM attack happen?"
+    },
+    {
+      "No.": "51",
+      "Session No": "28",
+      "Name": "CQ1",
+      "Details": "How does ARP spoofing work? (cont.)"
+    },
+    {
+      "No.": "52",
+      "Session No": "28",
+      "Name": "CQ2",
+      "Details": "How does ARP spoofing for a MITM attack happen? (cont.)"
+    },
+    {
+      "No.": "53",
+      "Session No": "31",
+      "Name": "CQ1",
+      "Details": "What are vulnerabilities in Windows OS?"
+    },
+    {
+      "No.": "54",
+      "Session No": "31",
+      "Name": "CQ2",
+      "Details": "How do you identify OS vulnerabilites?"
+    },
+    {
+      "No.": "55",
+      "Session No": "32",
+      "Name": "CQ1",
+      "Details": "What are vulnerabilities in Windows OS? (cont.)"
+    },
+    {
+      "No.": "56",
+      "Session No": "32",
+      "Name": "CQ2",
+      "Details": "How do you identify OS vulnerabilites? (cont.)"
+    },
+    {
+      "No.": "57",
+      "Session No": "35",
+      "Name": "CQ1",
+      "Details": "What are embedded operating systems and Where are they used?"
+    },
+    {
+      "No.": "58",
+      "Session No": "35",
+      "Name": "CQ2",
+      "Details": "How do you identify vulnerabilities of embedded operating systems?"
+    },
+    {
+      "No.": "59",
+      "Session No": "36",
+      "Name": "CQ1",
+      "Details": "What are embedded operating systems and Where are they used? (cont.)"
+    },
+    {
+      "No.": "60",
+      "Session No": "36",
+      "Name": "CQ2",
+      "Details": "How do you identify vulnerabilities of embedded operating systems? (cont.)"
+    },
+    {
+      "No.": "61",
+      "Session No": "37",
+      "Name": "CQ1",
+      "Details": "How does a web server work?"
+    },
+    {
+      "No.": "62",
+      "Session No": "37",
+      "Name": "CQ2",
+      "Details": "How do you identify Web Server vulnerabilities?"
+    },
+    {
+      "No.": "63",
+      "Session No": "37",
+      "Name": "CQ3",
+      "Details": "What methodology do hackers follow to attack a web server?"
+    },
+    {
+      "No.": "64",
+      "Session No": "38",
+      "Name": "CQ1",
+      "Details": "How does a web server work? (cont.)"
+    },
+    {
+      "No.": "65",
+      "Session No": "38",
+      "Name": "CQ2",
+      "Details": "How do you identify Web Server vulnerabilities? (cont.)"
+    },
+    {
+      "No.": "66",
+      "Session No": "38",
+      "Name": "CQ3",
+      "Details": "What methodology do hackers follow to attack a web server? (cont.)"
+    },
+    {
+      "No.": "67",
+      "Session No": "41",
+      "Name": "CQ1",
+      "Details": "What is OWASP used for?"
+    },
+    {
+      "No.": "68",
+      "Session No": "41",
+      "Name": "CQ2",
+      "Details": "Why is OWASP necessary?"
+    },
+    {
+      "No.": "69",
+      "Session No": "42",
+      "Name": "CQ1",
+      "Details": "What is OWASP used for? (cont.)"
+    },
+    {
+      "No.": "70",
+      "Session No": "42",
+      "Name": "CQ2",
+      "Details": "Why is OWASP necessary? (cont.)"
+    },
+    {
+      "No.": "71",
+      "Session No": "43",
+      "Name": "CQ1",
+      "Details": "How are wireless networks attacked?"
+    },
+    {
+      "No.": "72",
+      "Session No": "43",
+      "Name": "CQ2",
+      "Details": "What wireless hacking and tools are used by hackers and security professionals?"
+    },
+    {
+      "No.": "73",
+      "Session No": "44",
+      "Name": "CQ1",
+      "Details": "How are wireless networks attacked? (cont.)"
+    },
+    {
+      "No.": "74",
+      "Session No": "44",
+      "Name": "CQ2",
+      "Details": "What wireless hacking and tools are used by hackers and security professionals? (cont.)"
+    },
+    {
+      "No.": "75",
+      "Session No": "45",
+      "Name": "CQ1",
+      "Details": "How does honeypot work?"
+    },
+    {
+      "No.": "76",
+      "Session No": "45",
+      "Name": "CQ2",
+      "Details": "How can honeypot protect against cyber attacks?"
+    },
+    {
+      "No.": "77",
+      "Session No": "46",
+      "Name": "CQ1",
+      "Details": "How does honeypot work? (cont.)"
+    },
+    {
+      "No.": "78",
+      "Session No": "46",
+      "Name": "CQ2",
+      "Details": "How can honeypot protect against cyber attacks? (cont.)"
+    },
+    {
+      "No.": "79",
+      "Session No": "47",
+      "Name": "CQ1",
+      "Details": "How are Windows password stored and hashed?"
+    },
+    {
+      "No.": "80",
+      "Session No": "47",
+      "Name": "CQ2",
+      "Details": "How can Windows password be attacked?"
+    },
+    {
+      "No.": "81",
+      "Session No": "48",
+      "Name": "CQ1",
+      "Details": "How are Windows password stored and hashed? (cont.)"
+    },
+    {
+      "No.": "82",
+      "Session No": "48",
+      "Name": "CQ2",
+      "Details": "How can Windows password be attacked? (cont.)"
+    },
+    {
+      "No.": "83",
+      "Session No": "49",
+      "Name": "CQ1",
+      "Details": "What are the differences between symmetric and asymmetric crytography?"
+    },
+    {
+      "No.": "84",
+      "Session No": "49",
+      "Name": "CQ2",
+      "Details": "How can attacks occur on crytographic algorithms?"
+    },
+    {
+      "No.": "85",
+      "Session No": "50",
+      "Name": "CQ1",
+      "Details": "What are the differences between symmetric and asymmetric crytography? (cont.)"
+    },
+    {
+      "No.": "86",
+      "Session No": "50",
+      "Name": "CQ2",
+      "Details": "How can attacks occur on crytographic algorithms? (cont.)"
+    },
+    {
+      "No.": "87",
+      "Session No": "51",
+      "Name": "CQ1",
+      "Details": "Why do we need firewalls in network systems?"
+    },
+    {
+      "No.": "88",
+      "Session No": "51",
+      "Name": "CQ2",
+      "Details": "What are the differences between IDS and IPS?"
+    },
+    {
+      "No.": "89",
+      "Session No": "51",
+      "Name": "CQ3",
+      "Details": "Why do we need honeypot?"
+    },
+    {
+      "No.": "90",
+      "Session No": "52",
+      "Name": "CQ1",
+      "Details": "Why do we need firewalls in network systems? (cont.)"
+    },
+    {
+      "No.": "91",
+      "Session No": "52",
+      "Name": "CQ2",
+      "Details": "What are the differences between IDS and IPS? (cont.)"
+    },
+    {
+      "No.": "92",
+      "Session No": "52",
+      "Name": "CQ3",
+      "Details": "Why do we need honeypot? (cont.)"
+    },
+    {
+      "No.": "93",
+      "Session No": "53",
+      "Name": "CQ1",
+      "Details": "How does SQL injection work?"
+    },
+    {
+      "No.": "94",
+      "Session No": "53",
+      "Name": "CQ2",
+      "Details": "How can you prevent SQL injection?"
+    },
+    {
+      "No.": "95",
+      "Session No": "54",
+      "Name": "CQ1",
+      "Details": "How does SQL injection work? (cont.)"
+    },
+    {
+      "No.": "96",
+      "Session No": "54",
+      "Name": "CQ2",
+      "Details": "How can you prevent SQL injection? (cont.)"
+    },
+    {
+      "No.": "97",
+      "Session No": "55",
+      "Name": "CQ1",
+      "Details": "How does an Hijacking HTTPS Session attack work?"
+    },
+    {
+      "No.": "98",
+      "Session No": "55",
+      "Name": "CQ2",
+      "Details": "How can you prevent an Hijacking HTTPS Session attack?"
+    },
+    {
+      "No.": "99",
+      "Session No": "56",
+      "Name": "CQ1",
+      "Details": "How does an Hijacking HTTPS Session attack work? (cont.)"
+    },
+    {
+      "No.": "100",
+      "Session No": "56",
+      "Name": "CQ2",
+      "Details": "How can you prevent an Hijacking HTTPS Session attack? (cont.)"
+    },
+    {
+      "No.": "101",
+      "Session No": "57",
+      "Name": "CQ1",
+      "Details": "Which standard ensures authentication of devices in WLAN?"
+    },
+    {
+      "No.": "102",
+      "Session No": "57",
+      "Name": "CQ2",
+      "Details": "What are the differences between WPA and WPA2?"
+    },
+    {
+      "No.": "103",
+      "Session No": "57",
+      "Name": "CQ3",
+      "Details": "How to attack WPA and WPA2?"
+    },
+    {
+      "No.": "104",
+      "Session No": "58",
+      "Name": "CQ1",
+      "Details": "Which standard ensures authentication of devices in WLAN? (cont.)"
+    },
+    {
+      "No.": "105",
+      "Session No": "58",
+      "Name": "CQ2",
+      "Details": "What are the differences between WPA and WPA2? (cont.)"
+    },
+    {
+      "No.": "106",
+      "Session No": "58",
+      "Name": "CQ3",
+      "Details": "How to attack WPA and WPA2? (cont.)"
+    }
+  ],
+  "materials": [
+    {
+      "No.": "1",
+      "Material Description": "Hands-On Ethical Hacking and Network Defense (online http://library.books24x7.com/toc.aspx?bookid=80730).",
+      "Author": "Michael T. Simpson, Kent Backman, James Corley",
+      "Publisher": "Course Technology, Cengage Learning",
+      "Published Date": "2013",
+      "Edition": "2nd",
+      "ISBN": "",
+      "Is Main Material": "True",
+      "Is Hard Copy": "False",
+      "Is Online": "True",
+      "Note": ""
+    },
+    {
+      "No.": "2",
+      "Material Description": "https://samsclass.info/123/123_S17.shtml",
+      "Author": "",
+      "Publisher": "",
+      "Published Date": "",
+      "Edition": "",
+      "ISBN": "",
+      "Is Main Material": "False",
+      "Is Hard Copy": "False",
+      "Is Online": "True",
+      "Note": ""
+    },
+    {
+      "No.": "3",
+      "Material Description": "Hacker Techniques, Tools, and Incident Handling",
+      "Author": "Sean-Philip Oriyano, Michael Gregg",
+      "Publisher": "Jones & Bartlett Learning",
+      "Published Date": "2013",
+      "Edition": "2nd",
+      "ISBN": "",
+      "Is Main Material": "False",
+      "Is Hard Copy": "True",
+      "Is Online": "False",
+      "Note": ""
+    },
+    {
+      "No.": "4",
+      "Material Description": "CEH v12 Certified Ethical Hacker Study Guide with 750 Practice Test Questions",
+      "Author": "Ric Messier",
+      "Publisher": "Sybex",
+      "Published Date": "2023",
+      "Edition": "1st",
+      "ISBN": "",
+      "Is Main Material": "False",
+      "Is Hard Copy": "True",
+      "Is Online": "False",
+      "Note": ""
+    },
+    {
+      "No.": "5",
+      "Material Description": "Hacking Exposed 7: Network Security Secrets and Solutions",
+      "Author": "Stuart McClure, Joel Scambray, George Kurtz",
+      "Publisher": "McGraw-Hill Education",
+      "Published Date": "2012",
+      "Edition": "7th",
+      "ISBN": "",
+      "Is Main Material": "False",
+      "Is Hard Copy": "True",
+      "Is Online": "False",
+      "Note": ""
+    },
+    {
+      "No.": "6",
+      "Material Description": "Lecture slides, Lab Manual",
+      "Author": "",
+      "Publisher": "",
+      "Published Date": "",
+      "Edition": "",
+      "ISBN": "",
+      "Is Main Material": "False",
+      "Is Hard Copy": "False",
+      "Is Online": "False",
+      "Note": ""
+    }
+  ],
+  "source_path": "data/raw/syllabi/11197.html",
+  "id": "syllabus:11197"
+}

@@ -1,0 +1,529 @@
+{
+  "syllabus_id": 1073,
+  "subject_code": "PRO201",
+  "subject_name": "Front-end Web Development",
+  "syllabus_name": "FRONT-END WEB DEVELOPMENT",
+  "credits": 3,
+  "degree_level": "Bachelor",
+  "time_allocation": "Contact hours: 1 session=90' Lectures: 15 sessions Tutorials: 15 sessions",
+  "prerequisite": "PRF192",
+  "general_information": {
+    "Syllabus ID": "1073",
+    "Syllabus Name": "FRONT-END WEB DEVELOPMENT",
+    "Course Name English": "",
+    "Subject Code": "PRO201",
+    "Learning-Teaching Method": "",
+    "NoCredit": "3",
+    "Degree Level": "Bachelor",
+    "Time Allocation": "Contact hours: 1 session=90' Lectures: 15 sessions Tutorials: 15 sessions",
+    "Pre-Requisite": "PRF192",
+    "Description": "This course introduces: - The Hypertext Markup Language for creating webpages. - The Cascading Style Sheets for customizing the way data are presented in browsers. - The client-site Javascript for creating dynamic web pages.",
+    "StudentTasks": "- Students must attend more than 80% of contact sessions - Student is responsible to do all exercises given by instructor in class or at home and submit on time - Promptly access to the FU CMS at cmshn.fpt.edu.vn for up-to-date course information",
+    "Tools": "- Internet - Notepad, Dreamweaver for creating web pages. - Browsers: The newest Google Chrome/ FireFox version",
+    "Scoring Scale": "10",
+    "DecisionNo MM/dd/yyyy": "333/QĐ-ĐHFPT dated 04/12/2017",
+    "IsApproved": "True",
+    "Note": "",
+    "Is Scored": "True",
+    "MinAvgMarkToPass": "5",
+    "IsActive": "True",
+    "ApprovedDate": "4/12/2017"
+  },
+  "active": true,
+  "approved": true,
+  "decision": "333/QĐ-ĐHFPT dated 04/12/2017",
+  "description": "This course introduces: - The Hypertext Markup Language for creating webpages. - The Cascading Style Sheets for customizing the way data are presented in browsers. - The client-site Javascript for creating dynamic web pages.",
+  "learning_outcomes": [
+    {
+      "No.": "1",
+      "CLO Name": "CLO1.1",
+      "CLO Details": "Understand the concepts of HTML, CSS, JavaScript"
+    },
+    {
+      "No.": "2",
+      "CLO Name": "CLO1.2",
+      "CLO Details": "Understand Web page structure."
+    },
+    {
+      "No.": "3",
+      "CLO Name": "CLO1.3",
+      "CLO Details": "Understand Web site structure."
+    },
+    {
+      "No.": "4",
+      "CLO Name": "CLO1.4",
+      "CLO Details": "Understand The way a Web page is presented in browsers."
+    },
+    {
+      "No.": "5",
+      "CLO Name": "CLO2.1",
+      "CLO Details": "Create static web pages using HTML."
+    },
+    {
+      "No.": "6",
+      "CLO Name": "CLO2.2",
+      "CLO Details": "Customize data formats when they are presented in browsers."
+    },
+    {
+      "No.": "7",
+      "CLO Name": "CLO2.3",
+      "CLO Details": "Create dynamic client-side Web pages using Javascript."
+    },
+    {
+      "No.": "8",
+      "CLO Name": "CLO3",
+      "CLO Details": "Improve study skills (academic reading, information searching, ...)"
+    }
+  ],
+  "assessments": [
+    {
+      "No.": "1",
+      "Category": "Progress test",
+      "Type": "quiz",
+      "Part": "3",
+      "Weight": "10.0%",
+      "Completion Criteria": ">0",
+      "Duration": "10-30 min per each",
+      "CLO": "",
+      "Question Type": "MC or a suitable format",
+      "No Question": "At least 2/chapter",
+      "Knowledge and Skill": "Current chapter(s) Each Progess Test covers at least 01 Chapter and at most 04 Chapters, and overall they must cover all learned Chapters of the course.",
+      "Grading Guide": "CMS, EOS or Writing",
+      "Note": "Instruction and shedules for Progress tests must be presented in the Course Implementation Plan approved by director of the campus. Progress test must be taken right after the last lectures of required material. Instructor has resposibility to review the test for students after graded."
+    },
+    {
+      "No.": "2",
+      "Category": "Individual project",
+      "Type": "on-going",
+      "Part": "1",
+      "Weight": "30.0%",
+      "Completion Criteria": ">0",
+      "Duration": "From slot8 to slot27",
+      "CLO": "",
+      "Question Type": "Website GUI design project",
+      "No Question": "1 problem",
+      "Knowledge and Skill": "Web GUI design using HTML, CSS and JavaScript",
+      "Grading Guide": "Demo the product to the instructor",
+      "Note": "preferable to be supervised both by exam board member as well as instructor"
+    },
+    {
+      "No.": "3",
+      "Category": "Lab",
+      "Type": "on-going",
+      "Part": "10",
+      "Weight": "20.0%",
+      "Completion Criteria": ">0",
+      "Duration": "at home",
+      "CLO": "",
+      "Question Type": "a problem similar to real one",
+      "No Question": "",
+      "Knowledge and Skill": "studied chapter(s) related knowkedge and skills",
+      "Grading Guide": "by instructor",
+      "Note": ""
+    },
+    {
+      "No.": "4",
+      "Category": "Final exam",
+      "Type": "Final exam",
+      "Part": "1",
+      "Weight": "40.0%",
+      "Completion Criteria": "4",
+      "Duration": "60'",
+      "CLO": "",
+      "Question Type": "Computer gradable",
+      "No Question": "50",
+      "Knowledge and Skill": "HTML: 40% CSS: 30% JavaScript: 30%",
+      "Grading Guide": "by exam board",
+      "Note": ""
+    }
+  ],
+  "schedule": [
+    {
+      "Session": "1",
+      "Topic": "Topic 1:Introduction to FEWD and the role of HTML/CSS/JS - Introduction to front-end web development - The evolution of Dynamic Websites - The role of HTML/CSS/JS",
+      "Learning-Teaching Type": "Offline",
+      "LO": "",
+      "ITU": "",
+      "Student Materials": "http://www.w3schools.com/html/default.asp",
+      "S-Download": "",
+      "Student's Tasks": "Read textbook, exercises done",
+      "URLs": ""
+    },
+    {
+      "Session": "2",
+      "Topic": "Topic 2:Introduction to HTML and Working with HTML Elements and Attributes - Introduction to HTML and basic formatting tag - Basic attributes of tag",
+      "Learning-Teaching Type": "Offline",
+      "LO": "",
+      "ITU": "",
+      "Student Materials": "http://www.w3schools.com/html/default.asp",
+      "S-Download": "",
+      "Student's Tasks": "Read textbook, exercises done",
+      "URLs": ""
+    },
+    {
+      "Session": "3",
+      "Topic": "Topic 2:Introduction HTML and Working with HTML Elements and Attributes - image tag - hyperlink tag - guide the lab 1",
+      "Learning-Teaching Type": "Offline",
+      "LO": "",
+      "ITU": "",
+      "Student Materials": "http://www.w3schools.com/html/default.asp",
+      "S-Download": "",
+      "Student's Tasks": "Read textbook, exercises done",
+      "URLs": ""
+    },
+    {
+      "Session": "4",
+      "Topic": "Topic 3:Using Lists and Tables - Unordered list - Ordered list - Description list",
+      "Learning-Teaching Type": "Offline",
+      "LO": "",
+      "ITU": "",
+      "Student Materials": "http://www.w3schools.com/html/default.asp",
+      "S-Download": "",
+      "Student's Tasks": "Read textbook, exercises done",
+      "URLs": ""
+    },
+    {
+      "Session": "5",
+      "Topic": "Topic 3:Using Lists and Tables - HTML table - guide the lab 2",
+      "Learning-Teaching Type": "Offline",
+      "LO": "",
+      "ITU": "",
+      "Student Materials": "http://www.w3schools.com/html/default.asp",
+      "S-Download": "",
+      "Student's Tasks": "Read textbook, exercises done",
+      "URLs": ""
+    },
+    {
+      "Session": "6",
+      "Topic": "Topic 4: Working with Forms and Iframes - Iframe syntax - Iframe set width,height - The target frame -",
+      "Learning-Teaching Type": "Offline",
+      "LO": "",
+      "ITU": "",
+      "Student Materials": "http://www.w3schools.com/html/default.asp",
+      "S-Download": "",
+      "Student's Tasks": "Read textbook, exercises done",
+      "URLs": ""
+    },
+    {
+      "Session": "7",
+      "Topic": "Topicr 4: working with Forms and Iframes - Form and Controls - Guide the lab 3",
+      "Learning-Teaching Type": "Offline",
+      "LO": "",
+      "ITU": "",
+      "Student Materials": "http://www.w3schools.com/html/default.asp",
+      "S-Download": "",
+      "Student's Tasks": "Read textbook, exercises done",
+      "URLs": ""
+    },
+    {
+      "Session": "8",
+      "Topic": "Topic 5:HTML Layout and RWD - HTML layout - Introduction to Project",
+      "Learning-Teaching Type": "Offline",
+      "LO": "",
+      "ITU": "",
+      "Student Materials": "http://www.w3schools.com/html/default.asp",
+      "S-Download": "",
+      "Student's Tasks": "Read textbook, exercises done",
+      "URLs": ""
+    },
+    {
+      "Session": "9",
+      "Topic": "Topic 5:HTML Layout and RWD - Responsive Web Design - progress test 1(HTML)",
+      "Learning-Teaching Type": "Offline",
+      "LO": "",
+      "ITU": "",
+      "Student Materials": "http://www.w3schools.com/html/default.asp",
+      "S-Download": "",
+      "Student's Tasks": "Doing exercises, project",
+      "URLs": ""
+    },
+    {
+      "Session": "10",
+      "Topic": "Topic 6: Introduction to CSS + text and font properties - Introduction to CSS - Working with CSS - CSS selector",
+      "Learning-Teaching Type": "Offline",
+      "LO": "",
+      "ITU": "",
+      "Student Materials": "http://www.w3schools.com/css/default.asp",
+      "S-Download": "",
+      "Student's Tasks": "Doing exercises, project",
+      "URLs": ""
+    },
+    {
+      "Session": "11",
+      "Topic": "Topic 6: Introduction to CSS + text and font properties - Text and font properties - Guide the lab 4",
+      "Learning-Teaching Type": "Offline",
+      "LO": "",
+      "ITU": "",
+      "Student Materials": "http://www.w3schools.com/css/default.asp",
+      "S-Download": "",
+      "Student's Tasks": "Doing exercises, project",
+      "URLs": ""
+    },
+    {
+      "Session": "12",
+      "Topic": "Topic 7: CSS Color and Layout properties - Color and background properties - Border and Box properties",
+      "Learning-Teaching Type": "Offline",
+      "LO": "",
+      "ITU": "",
+      "Student Materials": "http://www.w3schools.com/css/default.asp",
+      "S-Download": "",
+      "Student's Tasks": "Doing exercises, project",
+      "URLs": ""
+    },
+    {
+      "Session": "13",
+      "Topic": "Topic 8: Advance CSS properties - Positioning, floating properties - Pseudo class, Pseudo element - table and list properties",
+      "Learning-Teaching Type": "Offline",
+      "LO": "",
+      "ITU": "",
+      "Student Materials": "http://www.w3schools.com/css/default.asp",
+      "S-Download": "",
+      "Student's Tasks": "Doing exercises, project",
+      "URLs": ""
+    },
+    {
+      "Session": "14",
+      "Topic": "Topic 8: Advance CSS properties - User interface properties +scrollbar property +cursor property +zoom property - guide the lab 5 - Progress test 2(CSS)",
+      "Learning-Teaching Type": "Offline",
+      "LO": "",
+      "ITU": "",
+      "Student Materials": "http://www.w3schools.com/css/default.asp",
+      "S-Download": "",
+      "Student's Tasks": "Doing exercises, project",
+      "URLs": ""
+    },
+    {
+      "Session": "15",
+      "Topic": "the project assistance",
+      "Learning-Teaching Type": "Offline",
+      "LO": "",
+      "ITU": "",
+      "Student Materials": "",
+      "S-Download": "",
+      "Student's Tasks": "Doing the project",
+      "URLs": ""
+    },
+    {
+      "Session": "16",
+      "Topic": "Topic 9:Introduction to JS And JS Fundamentals -Introduction to JavaScript language -Explain variables and data type -Explain operators - Guide the project",
+      "Learning-Teaching Type": "Offline",
+      "LO": "",
+      "ITU": "",
+      "Student Materials": "http://www.w3schools.com/js/default.asp",
+      "S-Download": "",
+      "Student's Tasks": "Doing exercises, project",
+      "URLs": ""
+    },
+    {
+      "Session": "17",
+      "Topic": "Topic 9:Introduction to JS And JS Fundamentals - if+switch case statements - loop statements - guide the lab 6",
+      "Learning-Teaching Type": "Offline",
+      "LO": "",
+      "ITU": "",
+      "Student Materials": "http://www.w3schools.com/js/default.asp",
+      "S-Download": "",
+      "Student's Tasks": "Doing exercises, project",
+      "URLs": ""
+    },
+    {
+      "Session": "18",
+      "Topic": "Topic 10: Functions and Objects - User- defined funtions - User-defined Objects",
+      "Learning-Teaching Type": "Offline",
+      "LO": "",
+      "ITU": "",
+      "Student Materials": "http://www.w3schools.com/js/default.asp",
+      "S-Download": "",
+      "Student's Tasks": "Doing exercises, project",
+      "URLs": ""
+    },
+    {
+      "Session": "19",
+      "Topic": "Topic 10: Functions and Objects - String object - Date object - Math object",
+      "Learning-Teaching Type": "Offline",
+      "LO": "",
+      "ITU": "",
+      "Student Materials": "http://www.w3schools.com/js/default.asp",
+      "S-Download": "",
+      "Student's Tasks": "Doing exercises, project",
+      "URLs": ""
+    },
+    {
+      "Session": "20",
+      "Topic": "Topic 10: Functions and Objects - Array object - guide the lab 7",
+      "Learning-Teaching Type": "Offline",
+      "LO": "",
+      "ITU": "",
+      "Student Materials": "http://www.w3schools.com/js/default.asp",
+      "S-Download": "",
+      "Student's Tasks": "Doing exercises, project",
+      "URLs": ""
+    },
+    {
+      "Session": "21",
+      "Topic": "Topic 11: Events - Event and Event handler - Key, Mouse, focus, onload,… event",
+      "Learning-Teaching Type": "Offline",
+      "LO": "",
+      "ITU": "",
+      "Student Materials": "http://www.w3schools.com/js/default.asp",
+      "S-Download": "",
+      "Student's Tasks": "Doing exercises, project",
+      "URLs": ""
+    },
+    {
+      "Session": "22",
+      "Topic": "Topic 11: Events - onchange event - guide the lab 8",
+      "Learning-Teaching Type": "Offline",
+      "LO": "",
+      "ITU": "",
+      "Student Materials": "http://www.w3schools.com/js/default.asp",
+      "S-Download": "",
+      "Student's Tasks": "Doing exercises, project",
+      "URLs": ""
+    },
+    {
+      "Session": "23",
+      "Topic": "Topic 12: Regualer Expression and JS Form Validation - Describe regular expression - JS Form Validation",
+      "Learning-Teaching Type": "Offline",
+      "LO": "",
+      "ITU": "",
+      "Student Materials": "http://www.w3schools.com/js/default.asp",
+      "S-Download": "",
+      "Student's Tasks": "Doing exercises, project",
+      "URLs": ""
+    },
+    {
+      "Session": "24",
+      "Topic": "Topic 12: Regualer Expression and JS Form Validation - JS Form Validation (cont) - guide the lab 9",
+      "Learning-Teaching Type": "Offline",
+      "LO": "",
+      "ITU": "",
+      "Student Materials": "http://www.w3schools.com/js/default.asp",
+      "S-Download": "",
+      "Student's Tasks": "Doing exercises, project",
+      "URLs": ""
+    },
+    {
+      "Session": "25",
+      "Topic": "Topic 13: JS Browser BOM - Introduction to BOM - Window Object - Document Object",
+      "Learning-Teaching Type": "Offline",
+      "LO": "",
+      "ITU": "",
+      "Student Materials": "http://www.w3schools.com/js/default.asp",
+      "S-Download": "",
+      "Student's Tasks": "Doing exercises, project",
+      "URLs": ""
+    },
+    {
+      "Session": "26",
+      "Topic": "Topic 13: JS Browser BOM - History Object - Navigator Object - Location Object -Progress Test 3 (JavaScript) - Guide the lab 10",
+      "Learning-Teaching Type": "Offline",
+      "LO": "",
+      "ITU": "",
+      "Student Materials": "http://www.w3schools.com/js/default.asp",
+      "S-Download": "",
+      "Student's Tasks": "Doing the project",
+      "URLs": ""
+    },
+    {
+      "Session": "27",
+      "Topic": "the project assistance",
+      "Learning-Teaching Type": "Offline",
+      "LO": "",
+      "ITU": "",
+      "Student Materials": "",
+      "S-Download": "",
+      "Student's Tasks": "Doing the project",
+      "URLs": ""
+    },
+    {
+      "Session": "28",
+      "Topic": "Evalue the project",
+      "Learning-Teaching Type": "Offline",
+      "LO": "",
+      "ITU": "",
+      "Student Materials": "",
+      "S-Download": "",
+      "Student's Tasks": "",
+      "URLs": ""
+    },
+    {
+      "Session": "29",
+      "Topic": "Evalue the project",
+      "Learning-Teaching Type": "Offline",
+      "LO": "",
+      "ITU": "",
+      "Student Materials": "",
+      "S-Download": "",
+      "Student's Tasks": "",
+      "URLs": ""
+    },
+    {
+      "Session": "30",
+      "Topic": "Evalue the project",
+      "Learning-Teaching Type": "Offline",
+      "LO": "",
+      "ITU": "",
+      "Student Materials": "",
+      "S-Download": "",
+      "Student's Tasks": "",
+      "URLs": ""
+    }
+  ],
+  "constructive_questions": [],
+  "materials": [
+    {
+      "No.": "1",
+      "Material Description": "http://www.w3schools.com/html/default.asp",
+      "Author": "",
+      "Publisher": "",
+      "Published Date": "",
+      "Edition": "",
+      "ISBN": "",
+      "Is Main Material": "True",
+      "Is Hard Copy": "False",
+      "Is Online": "True",
+      "Note": ""
+    },
+    {
+      "No.": "2",
+      "Material Description": "http://www.w3schools.com/css/default.asp",
+      "Author": "",
+      "Publisher": "",
+      "Published Date": "",
+      "Edition": "",
+      "ISBN": "",
+      "Is Main Material": "True",
+      "Is Hard Copy": "False",
+      "Is Online": "True",
+      "Note": ""
+    },
+    {
+      "No.": "3",
+      "Material Description": "http://www.w3schools.com/js/default.asp",
+      "Author": "",
+      "Publisher": "",
+      "Published Date": "",
+      "Edition": "",
+      "ISBN": "",
+      "Is Main Material": "True",
+      "Is Hard Copy": "False",
+      "Is Online": "True",
+      "Note": ""
+    },
+    {
+      "No.": "4",
+      "Material Description": "FU CMS at http://cms.fpt.edu.vn .",
+      "Author": "",
+      "Publisher": "",
+      "Published Date": "",
+      "Edition": "",
+      "ISBN": "",
+      "Is Main Material": "False",
+      "Is Hard Copy": "False",
+      "Is Online": "True",
+      "Note": ""
+    }
+  ],
+  "source_path": "data/raw/syllabi/1073.html",
+  "id": "syllabus:1073"
+}

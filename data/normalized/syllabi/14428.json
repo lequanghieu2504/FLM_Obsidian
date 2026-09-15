@@ -1,0 +1,1210 @@
+{
+  "syllabus_id": 14428,
+  "subject_code": "NWC204",
+  "subject_name": "Computer Networking_Mạng máy tính",
+  "syllabus_name": "Computer Networking_Mạng máy tính",
+  "credits": 3,
+  "degree_level": "Bachelor",
+  "time_allocation": "45 hours of contact learning (60 sessions) + 1.4 hours of Practical Examination (PE) + 1 hour of Final Examination (FE) + 102.6 hours of self-study.",
+  "prerequisite": "",
+  "general_information": {
+    "Syllabus ID": "14428",
+    "Syllabus Name": "Computer Networking_Mạng máy tính",
+    "Course Name English": "Computer Networking",
+    "Subject Code": "NWC204",
+    "Learning-Teaching Method": "Lecture,Active learning,Offline",
+    "NoCredit": "3",
+    "Degree Level": "Bachelor",
+    "Time Allocation": "45 hours of contact learning (60 sessions) + 1.4 hours of Practical Examination (PE) + 1 hour of Final Examination (FE) + 102.6 hours of self-study.",
+    "Pre-Requisite": "",
+    "Description": "This course is based on the first course in the CCNA curriculum. It introduces the network architectures, models, protocols, and components that enable communication among users, devices, applications, and data across modern computer networks and the Internet. Key topics include Ethernet fundamentals, IP addressing, basic network operations, and introductory network security. By the end of the course, students will be able to build and configure simple local area networks (LANs), develop appropriate IP addressing schemes, apply basic security measures, configure routers and switches, verify network connectivity, and troubleshoot common network problems. The course includes an individual Practical Examination (PE) that assesses each student’s ability to apply these skills independently. During the examination, students are required to design or complete a small network, calculate and configure IP addresses, perform basic router and switch configurations, secure network devices, verify connectivity, and identify and correct common configuration errors. The course is organized into a series of modules, each of which represents an integrated unit of learning. Every module includes instructional content, practical activities, and assessments aligned with a defined set of competencies. The scope and duration of each module vary according to the level of knowledge and practical skill required. Some modules provide foundational knowledge that supports later learning and prepares students for concepts covered in the CCNA certification examination, even where the foundational content is not assessed directly.",
+    "StudentTasks": "- Students must attend at least 80% of contact sessions in order to be accepted to the final examination. - Students are responsible to do all exercises, assignments and labs given by instructor in class or at home and submit on time - Use laptop in class only for learning purpose - Promptly access to the https://flm.fpt.edu.vn/ for up-to-date course information - Students must complete all assignments on the Cisco Networking Academy (https://www.netacad.com/) with a result of at least 75%.",
+    "Tools": "Baseline Equipment Bundle: - 2 x ISR4221/K9 Routers - 2 x WS-C2960+24TC-L Catalyst switches - 1 wireless router (generic brand) with WPA2 support - Ethernet patch cables - PCs - Internet connection for lab and study PCs - Optional equipment for connecting to a WLAN + 1 printer or integrated printer/scanner/copier for the class to share + Smartphones and tablets are desirable for use with the labs Software: - Cisco IOS versions: + Routers: Version 15.0 or higher, IP Base feature set + Switches: Version 15.0 or higher, lanbaseK9 feature set - Packet Tracer, the most recent version. - Open-source server software: + For various services and protocols, such as Telnet, SSH, HTTP, DHCP, FTP, TFTP, etc. - Tera Term source SSH client software for lab PCs. - Oracle VirtualBox, most recent version. - Wireshark, the most recent version.",
+    "Scoring Scale": "10",
+    "DecisionNo MM/dd/yyyy": "968/QĐ-ĐHFPT dated 08/07/2026",
+    "IsApproved": "True",
+    "Note": "",
+    "Is Scored": "True",
+    "MinAvgMarkToPass": "5",
+    "IsActive": "True",
+    "ApprovedDate": "8/7/2026"
+  },
+  "active": true,
+  "approved": true,
+  "decision": "968/QĐ-ĐHFPT dated 08/07/2026",
+  "description": "This course is based on the first course in the CCNA curriculum. It introduces the network architectures, models, protocols, and components that enable communication among users, devices, applications, and data across modern computer networks and the Internet. Key topics include Ethernet fundamentals, IP addressing, basic network operations, and introductory network security. By the end of the course, students will be able to build and configure simple local area networks (LANs), develop appropriate IP addressing schemes, apply basic security measures, configure routers and switches, verify network connectivity, and troubleshoot common network problems. The course includes an individual Practical Examination (PE) that assesses each student’s ability to apply these skills independently. During the examination, students are required to design or complete a small network, calculate and configure IP addresses, perform basic router and switch configurations, secure network devices, verify connectivity, and identify and correct common configuration errors. The course is organized into a series of modules, each of which represents an integrated unit of learning. Every module includes instructional content, practical activities, and assessments aligned with a defined set of competencies. The scope and duration of each module vary according to the level of knowledge and practical skill required. Some modules provide foundational knowledge that supports later learning and prepares students for concepts covered in the CCNA certification examination, even where the foundational content is not assessed directly.",
+  "learning_outcomes": [
+    {
+      "No.": "1",
+      "CLO Name": "CLO1",
+      "CLO Details": "Describe the evolution of network technologies and explain how layered protocols enable communication and support end-user applications."
+    },
+    {
+      "No.": "2",
+      "CLO Name": "CLO10",
+      "CLO Details": "Students use AI and digital tools to collaborate, design, and present small network projects. The approach blends dialogue-based assessment with self-directed learning."
+    },
+    {
+      "No.": "3",
+      "CLO Name": "CLO2",
+      "CLO Details": "Apply Ethernet and switching concepts to explain and configure technologies that support efficient and reliable data transfer."
+    },
+    {
+      "No.": "4",
+      "CLO Name": "CLO3",
+      "CLO Details": "Configure switches, routers, and end devices with IP addressing and security settings to establish basic network connectivity."
+    },
+    {
+      "No.": "5",
+      "CLO Name": "CLO4",
+      "CLO Details": "Explain how physical, data link, network, and transport layers interact to enable reliable and structured data communication."
+    },
+    {
+      "No.": "6",
+      "CLO Name": "CLO5",
+      "CLO Details": "Design and implement IPv4 and IPv6 addressing schemes by calculating subnets and applying efficient address configurations in networks."
+    },
+    {
+      "No.": "7",
+      "CLO Name": "CLO6",
+      "CLO Details": "Use diagnostic tools and techniques to test and troubleshoot network connectivity, including ICMP utilities and AI-assisted methods."
+    },
+    {
+      "No.": "8",
+      "CLO Name": "CLO7",
+      "CLO Details": "Implement basic security measures by applying device hardening and configuration techniques to protect network devices and communications."
+    },
+    {
+      "No.": "9",
+      "CLO Name": "CLO8",
+      "CLO Details": "Design and implement a small network topology with routers, switches, and end devices, considering performance and scalability."
+    },
+    {
+      "No.": "10",
+      "CLO Name": "CLO9",
+      "CLO Details": "Utilize AI tools to analyze, configure, monitor, and troubleshoot networks, enhancing learning, efficiency, and network management capabilities."
+    }
+  ],
+  "assessments": [
+    {
+      "No.": "1",
+      "Category": "Lab",
+      "Type": "on-going",
+      "Part": "2",
+      "Weight": "20.0%",
+      "Completion Criteria": ">0",
+      "Duration": "120–180 minutes/lab",
+      "CLO": "CLO1 - CLO9",
+      "Question Type": "Practice hands-on; Dialogue-based assessment with self-directed learning.",
+      "No Question": "",
+      "Knowledge and Skill": "technical aspect of studied topics",
+      "Grading Guide": "Two assessed Lab packages are conducted under instructor guidance. Students must complete the assigned individual or group tasks, submit the required configuration files and evidence, and respond to dialogue-based questions used to verify understanding.",
+      "Note": "The lab report content can be obtained from the lab manual, or created by the instructor to align with the chapters."
+    },
+    {
+      "No.": "2",
+      "Category": "Midterm Progress Test",
+      "Type": "on-going",
+      "Part": "1",
+      "Weight": "10.0%",
+      "Completion Criteria": ">0",
+      "Duration": "60 minutes/each",
+      "CLO": "CLO1 - CLO9",
+      "Question Type": "Multiple choices; Marked by Computer or a suitable format",
+      "No Question": "50",
+      "Knowledge and Skill": "Module 1 to Module 10",
+      "Grading Guide": "In class, by instructor",
+      "Note": "Instruction and schedules for Progress Tests must be presented in the Course Implementation Plan approved by director of the campus. Progress test must be taken right after the last lectures of required material. Instructor has responsibility to review the test for students after graded."
+    },
+    {
+      "No.": "3",
+      "Category": "Project",
+      "Type": "on-going",
+      "Part": "1",
+      "Weight": "20.0%",
+      "Completion Criteria": ">0",
+      "Duration": "Conducted during assigned sessions",
+      "CLO": "CLO3, CLO5, CLO6, CLO7, CLO8, CLO9 and CLO10",
+      "Question Type": "Practice hands-on; Dialogue-based assessment with self-directed learning.",
+      "No Question": "",
+      "Knowledge and Skill": "Design, configure, secure, verify, document, and present a basic small network. Students may use approved AI tools to support planning, configuration review, troubleshooting, and documentation, but must verify all AI-generated outputs and explain their final technical decisions",
+      "Grading Guide": "Students work in groups under instructor supervision. Assessment evidence must include the network topology, addressing plan, configuration artifacts, testing results, troubleshooting records, presentation or demonstration, and individual dialogue-based assessment. Individual scores may be adjusted according to demonstrated contribution and technical understanding",
+      "Note": "The project content must incorporate the lab manuals from Modules 13 to 16, or instructor-created materials that align with those modules."
+    },
+    {
+      "No.": "4",
+      "Category": "Practical Exam",
+      "Type": "Final exam",
+      "Part": "1",
+      "Weight": "20.0%",
+      "Completion Criteria": "4",
+      "Duration": "85 minutes/each",
+      "CLO": "CLO2, CLO3, CLO5, CLO6, CLO7 and CLO8",
+      "Question Type": "Hands-on practical configuration and troubleshooting tasks in a network simulation environment",
+      "No Question": "One integrated scenario consisting of several task groups",
+      "Knowledge and Skill": "Interpret or complete a basic network topology. Calculate IPv4 subnets and assign IPv4 addresses correctly. onfigure basic IPv6 addressing when included in the approved PE blueprint. Configure switches, routers and end devices. Configure default gateways and router interfaces. Apply basic device security, including passwords, encrypted secrets, banners, SSH or login protection when required. Verify connectivity using show commands, ping, tracert/traceroute or equivalent utilities. Identify and correct common addressing, interface, gateway, VLAN, routing or security configuration errors.",
+      "Grading Guide": "Exam room",
+      "Note": "The PE question bank should contain multiple equivalent variants. Network numbers, host requirements, device names and planted configuration errors should be randomized to reduce copying while maintaining equivalent difficulty."
+    },
+    {
+      "No.": "5",
+      "Category": "Theoretical Exam",
+      "Type": "Final exam",
+      "Part": "1",
+      "Weight": "30.0%",
+      "Completion Criteria": "4",
+      "Duration": "60 minutes/each",
+      "CLO": "CLO1-CLO8",
+      "Question Type": "Discipline and communication skills",
+      "No Question": "50",
+      "Knowledge and Skill": "Theoretical concepts and applied reasoning from Modules 1–16, with emphasis on protocol models, Ethernet, network and transport layers, IPv4 and IPv6 addressing, subnetting, address resolution, ICMP, application services, basic network security, small-network operation, and troubleshooting methodology.",
+      "Grading Guide": "Exam room",
+      "Note": "The exam questions must be updated"
+    }
+  ],
+  "schedule": [
+    {
+      "Session": "1",
+      "Topic": "Course overview 1. Networking Today 1.1 Networks Affect Our Lives 1.2 Network Components 1.3 Network Representations and Topologies 1.4 Common Types of Networks",
+      "Learning-Teaching Type": "Offline",
+      "LO": "CLO1, CLO9",
+      "ITU": "T",
+      "Student Materials": "Module 1: Networking Today",
+      "S-Download": "",
+      "Student's Tasks": "Read Module 1",
+      "URLs": ""
+    },
+    {
+      "Session": "2",
+      "Topic": "1.5 Internet Connections 1.6 Reliable Networks 1.7 Network Trends 1.8 Network Security 1.9 The IT Professional 1.10 Integrate AI Tools for Explaining Concepts",
+      "Learning-Teaching Type": "Offline",
+      "LO": "CLO1, CLO9",
+      "ITU": "T",
+      "Student Materials": "Module 1: Networking Today",
+      "S-Download": "",
+      "Student's Tasks": "Read Module 1",
+      "URLs": ""
+    },
+    {
+      "Session": "3",
+      "Topic": "2. Basic Switch and End Device Configuration 2.1 Cisco IOS Access 2.2 IOS Navigation 2.3 The Command Structure 2.4 Basic Device Configuration",
+      "Learning-Teaching Type": "Offline",
+      "LO": "CLO2, CLO3, CLO9",
+      "ITU": "T",
+      "Student Materials": "Module 2: Basic Switch and End Device Configuration",
+      "S-Download": "",
+      "Student's Tasks": "Read Module 2",
+      "URLs": ""
+    },
+    {
+      "Session": "4",
+      "Topic": "2.5 Save Configurations 2.6 Ports and Addresses 2.7 Configure IP Addressing 2.8 Verify Connectivity 2.9 Integrate AI Tools for Explaining Concepts (Self Learning)",
+      "Learning-Teaching Type": "Offline",
+      "LO": "CLO2, CLO3, CLO9",
+      "ITU": "T",
+      "Student Materials": "Module 2: Basic Switch and End Device Configuration",
+      "S-Download": "",
+      "Student's Tasks": "Read Module 2",
+      "URLs": ""
+    },
+    {
+      "Session": "5",
+      "Topic": "Lab 1.1: Basic Switch and End Device Configuration - Navigate the IOS by Using Tera Term for Console Connectivity - Basic Switch and End Device Configuration - Use AI Tools for Configuration and Troubleshooting",
+      "Learning-Teaching Type": "Offline",
+      "LO": "CLO2, CLO3, CLO9",
+      "ITU": "U",
+      "Student Materials": "2.3.8 Lab Manual (or 2.3.7 Packet Tracer) 2.9.2 Lab Manual (or 2.9.1 Packet Tracer)",
+      "S-Download": "",
+      "Student's Tasks": "Practice Lab 1.1",
+      "URLs": ""
+    },
+    {
+      "Session": "6",
+      "Topic": "Lab 1.1 (continue)",
+      "Learning-Teaching Type": "Offline",
+      "LO": "CLO2, CLO3, CLO9",
+      "ITU": "U",
+      "Student Materials": "2.3.8 Lab Manual (or 2.3.7 Packet Tracer) 2.9.2 Lab Manual (or 2.9.1 Packet Tracer)",
+      "S-Download": "",
+      "Student's Tasks": "Practice Lab 1.1",
+      "URLs": ""
+    },
+    {
+      "Session": "7",
+      "Topic": "3. Protocols and Models 3.1 The Rules 3.2 Protocols 3.3 Protocol Suites 3.4 Standards Organizations",
+      "Learning-Teaching Type": "Offline",
+      "LO": "CLO1, CLO9",
+      "ITU": "T",
+      "Student Materials": "Module 3: Protocols and Models",
+      "S-Download": "",
+      "Student's Tasks": "Read Module 3",
+      "URLs": ""
+    },
+    {
+      "Session": "8",
+      "Topic": "3.5 Reference Models 3.6 Data Encapsulation 3.7 Data Access 3.8 Integrate AI Tools for Explaining Concepts (Self Learning)",
+      "Learning-Teaching Type": "Offline",
+      "LO": "CLO1, CLO9",
+      "ITU": "T",
+      "Student Materials": "Module 3: Protocols and Models",
+      "S-Download": "",
+      "Student's Tasks": "Read Module 3",
+      "URLs": ""
+    },
+    {
+      "Session": "9",
+      "Topic": "Lab 1.2 (Dialogue-based Assessment & Self Learning) - Design a Communications System - Research Networking Standards - Install Wireshark - Integrate AI Tools for Explaining Concepts",
+      "Learning-Teaching Type": "Offline",
+      "LO": "CLO1, CLO9",
+      "ITU": "U",
+      "Student Materials": "3.0.3 Lab Manual 3.4.4 Lab Manual 3.7.9 Lab Manual 3.7.10 Lab Manual",
+      "S-Download": "",
+      "Student's Tasks": "Practice Lab 1.2",
+      "URLs": ""
+    },
+    {
+      "Session": "10",
+      "Topic": "Lab 1.2 (continue)",
+      "Learning-Teaching Type": "Offline",
+      "LO": "CLO1, CLO9",
+      "ITU": "U",
+      "Student Materials": "3.0.3 Lab Manual 3.4.4 Lab Manual 3.7.9 Lab Manual 3.7.10 Lab Manual",
+      "S-Download": "",
+      "Student's Tasks": "Practice Lab 1.2",
+      "URLs": ""
+    },
+    {
+      "Session": "11",
+      "Topic": "4. Physical Layer 4.1 Purpose of the Physical Layer 4.2 Physical Layer Characteristics 4.3 Copper Cabling",
+      "Learning-Teaching Type": "Offline",
+      "LO": "CLO4, CLO9",
+      "ITU": "T",
+      "Student Materials": "Module 4: Physical Layer",
+      "S-Download": "",
+      "Student's Tasks": "Student: Read Module 4",
+      "URLs": ""
+    },
+    {
+      "Session": "12",
+      "Topic": "4.4 UTP Cabling 4.5 Fiber-Optic Cabling 4.6 Wireless Media 4.7 Integrate AI Tools for Explaining Concepts (Self Learning)",
+      "Learning-Teaching Type": "Offline",
+      "LO": "CLO4, CLO9",
+      "ITU": "T",
+      "Student Materials": "Module 4: Physical Layer",
+      "S-Download": "",
+      "Student's Tasks": "Student: Read Module 4",
+      "URLs": ""
+    },
+    {
+      "Session": "13",
+      "Topic": "Lab 1.3 (Dialogue-based Assessment & Self Learning) - View Wired and Wireless NIC Information - Integrate AI Tools for Explaining Concepts",
+      "Learning-Teaching Type": "Offline",
+      "LO": "CLO4, CLO9",
+      "ITU": "U",
+      "Student Materials": "4.6.5 Packet Tracer 4.6.6 Lab Manual",
+      "S-Download": "",
+      "Student's Tasks": "Practice Lab 1.3",
+      "URLs": ""
+    },
+    {
+      "Session": "14",
+      "Topic": "Lab 1.3 (continue)",
+      "Learning-Teaching Type": "Offline",
+      "LO": "CLO4, CLO9",
+      "ITU": "U",
+      "Student Materials": "4.6.5 Packet Tracer 4.6.6 Lab Manual",
+      "S-Download": "",
+      "Student's Tasks": "Practice Lab 1.3",
+      "URLs": ""
+    },
+    {
+      "Session": "15",
+      "Topic": "5. Data Link Layer 5.1 Purpose of the Data Link Layer",
+      "Learning-Teaching Type": "Offline",
+      "LO": "CLO2, CLO4, CLO9",
+      "ITU": "T",
+      "Student Materials": "Module 6: Data Link Layer",
+      "S-Download": "",
+      "Student's Tasks": "Student: Read Module 6",
+      "URLs": ""
+    },
+    {
+      "Session": "16",
+      "Topic": "5.2 Topologies 5.3 Data Link Frame 5.4 Integrate AI Tools for Explaining Concepts (Self Learning)",
+      "Learning-Teaching Type": "Offline",
+      "LO": "CLO2, CLO4, CLO9",
+      "ITU": "T",
+      "Student Materials": "Module 6: Data Link Layer",
+      "S-Download": "",
+      "Student's Tasks": "Student: Read Module 6",
+      "URLs": ""
+    },
+    {
+      "Session": "17",
+      "Topic": "6. Ethernet Switching 6.1 Ethernet Frame 6.2 Ethernet MAC Address",
+      "Learning-Teaching Type": "Offline",
+      "LO": "CLO2, CLO4, CLO9",
+      "ITU": "T",
+      "Student Materials": "Module 7: Ethernet Switching",
+      "S-Download": "",
+      "Student's Tasks": "Student: Read Module 7",
+      "URLs": ""
+    },
+    {
+      "Session": "18",
+      "Topic": "6.3 The MAC Address Table 6.4 Switch Speeds and Forwarding Methods 6.5 Integrate AI Tools for Explaining Concepts (Self Learning)",
+      "Learning-Teaching Type": "Offline",
+      "LO": "CLO2, CLO4, CLO9",
+      "ITU": "T",
+      "Student Materials": "Module 7: Ethernet Switching",
+      "S-Download": "",
+      "Student's Tasks": "Student: Read Module 7",
+      "URLs": ""
+    },
+    {
+      "Session": "19",
+      "Topic": "Lab 1.4 (Dialogue-based Assessment & Self Learning) - Use Wireshark to Examine Ethernet Frames - View Network Device MAC Addresses - View the Switch MAC Address Table - Use AI Tools for Analyzing Captured Packets",
+      "Learning-Teaching Type": "Offline",
+      "LO": "CLO2, CLO4, CLO9",
+      "ITU": "U",
+      "Student Materials": "7.1.6 Lab Manual 7.2.7 Lab Manual 7.3.7 Lab Manual",
+      "S-Download": "",
+      "Student's Tasks": "Practice Lab 1.4",
+      "URLs": ""
+    },
+    {
+      "Session": "20",
+      "Topic": "Lab 1.4 (continue)",
+      "Learning-Teaching Type": "Offline",
+      "LO": "CLO2, CLO4, CLO9",
+      "ITU": "U",
+      "Student Materials": "7.1.6 Lab Manual 7.2.7 Lab Manual 7.3.7 Lab Manual",
+      "S-Download": "",
+      "Student's Tasks": "Practice Lab 1.4",
+      "URLs": ""
+    },
+    {
+      "Session": "21",
+      "Topic": "7. Network Layer 7.1 Network Layer Characteristics 7.2 IPv4 Packet",
+      "Learning-Teaching Type": "Offline",
+      "LO": "CLO4, CLO9",
+      "ITU": "T",
+      "Student Materials": "Module 8: Network Layer",
+      "S-Download": "",
+      "Student's Tasks": "Read Module 8",
+      "URLs": ""
+    },
+    {
+      "Session": "22",
+      "Topic": "7.3 IPv6 Packet 7.4 How a Host Routes 7.5 Router Routing Tables 7.6 Integrate AI Tools for Explaining Concepts (Self Learning)",
+      "Learning-Teaching Type": "Offline",
+      "LO": "CLO4, CLO9",
+      "ITU": "T",
+      "Student Materials": "Module 8: Network Layer",
+      "S-Download": "",
+      "Student's Tasks": "Read Module 8",
+      "URLs": ""
+    },
+    {
+      "Session": "23",
+      "Topic": "Review Modules 1-7",
+      "Learning-Teaching Type": "Offline",
+      "LO": "CLO1-4",
+      "ITU": "",
+      "Student Materials": "",
+      "S-Download": "",
+      "Student's Tasks": "Review",
+      "URLs": ""
+    },
+    {
+      "Session": "24",
+      "Topic": "8. Address Resolution 8.1 MAC and IP",
+      "Learning-Teaching Type": "Offline",
+      "LO": "CLO4, CLO9",
+      "ITU": "T",
+      "Student Materials": "Module 9: Address Resolution",
+      "S-Download": "",
+      "Student's Tasks": "Read Module 9",
+      "URLs": ""
+    },
+    {
+      "Session": "25",
+      "Topic": "8.2 ARP 8.3 Neighbor Discovery 8.4 Integrate AI Tools for Explaining Concepts (Self Learning)",
+      "Learning-Teaching Type": "Offline",
+      "LO": "CLO4, CLO9",
+      "ITU": "T",
+      "Student Materials": "Module 9: Address Resolution",
+      "S-Download": "",
+      "Student's Tasks": "Read Module 9",
+      "URLs": ""
+    },
+    {
+      "Session": "26",
+      "Topic": "9. Basic Router Configuration 9.1 Configure Initial Router Settings",
+      "Learning-Teaching Type": "Offline",
+      "LO": "CLO3, CLO8, CLO9",
+      "ITU": "T",
+      "Student Materials": "Module 10: Basic Router Configuration",
+      "S-Download": "",
+      "Student's Tasks": "Read Module 10",
+      "URLs": ""
+    },
+    {
+      "Session": "27",
+      "Topic": "9.2 Configure Interfaces 9.4 Configure the Default Gateway 9.5 Integrate AI Tools for Explaining Concepts (Self Learning)",
+      "Learning-Teaching Type": "Offline",
+      "LO": "CLO3, CLO8, CLO9",
+      "ITU": "T",
+      "Student Materials": "Module 10: Basic Router Configuration",
+      "S-Download": "",
+      "Student's Tasks": "Read Module 10",
+      "URLs": ""
+    },
+    {
+      "Session": "28",
+      "Topic": "Lab 2.1: Build a Switch and Router Network - Build a Switch and Router Network - Use AI Tools for Configuration and Troubleshooting",
+      "Learning-Teaching Type": "Offline",
+      "LO": "CLO3, CLO8, CLO9",
+      "ITU": "U",
+      "Student Materials": "10.4.4 Lab Manual",
+      "S-Download": "",
+      "Student's Tasks": "Practice Lab 2.1",
+      "URLs": ""
+    },
+    {
+      "Session": "29",
+      "Topic": "Lab 2.1 (continue)",
+      "Learning-Teaching Type": "Offline",
+      "LO": "CLO3, CLO8, CLO9",
+      "ITU": "U",
+      "Student Materials": "10.4.4 Lab Manual",
+      "S-Download": "",
+      "Student's Tasks": "Practice Lab 2.1",
+      "URLs": ""
+    },
+    {
+      "Session": "30",
+      "Topic": "10. IPv4 Addressing 10.1 IPv4 Address Structure 10.2 IPv4 Unicast, Broadcast, and Multicast 10.3 Types of IPv4 Addresses 10.4 Network Segmentation",
+      "Learning-Teaching Type": "Offline",
+      "LO": "CLO5, CLO9",
+      "ITU": "T",
+      "Student Materials": "Module 11: IPv4 Addressing",
+      "S-Download": "",
+      "Student's Tasks": "Read Module 11",
+      "URLs": ""
+    },
+    {
+      "Session": "31",
+      "Topic": "10.5 Subnet an IPv4 10.6 Subnet a /16 and /8 Prefix 10.7 Subnet to Meet Requirements 10.8 Variable Length Subnet Masking 10.9 Structured Design 10.10 Integrate AI Tools for Explaining Concepts (Self Learning)",
+      "Learning-Teaching Type": "Offline",
+      "LO": "CLO5, CLO9",
+      "ITU": "T",
+      "Student Materials": "Module 11: IPv4 Addressing",
+      "S-Download": "",
+      "Student's Tasks": "Read Module 11",
+      "URLs": ""
+    },
+    {
+      "Session": "32",
+      "Topic": "Lab 2.2 (Dialogue-based Assessment & Self Learning) - Calculate IPv4 Subnets - Design and Implement a VLSM Addressing Scheme - Use AI Tools for Calculating IPv4 Subnets",
+      "Learning-Teaching Type": "Offline",
+      "LO": "CLO5, CLO9",
+      "ITU": "U",
+      "Student Materials": "11.6.6 Lab Manual 11.10.2 Lab Manual",
+      "S-Download": "",
+      "Student's Tasks": "Practice Lab 2.2",
+      "URLs": ""
+    },
+    {
+      "Session": "33",
+      "Topic": "Lab 2.2 (continue)",
+      "Learning-Teaching Type": "Offline",
+      "LO": "CLO5, CLO9",
+      "ITU": "U",
+      "Student Materials": "11.6.6 Lab Manual 11.10.2 Lab Manual",
+      "S-Download": "",
+      "Student's Tasks": "Practice Lab 2.2",
+      "URLs": ""
+    },
+    {
+      "Session": "34",
+      "Topic": "Midterm Progress Test",
+      "Learning-Teaching Type": "Offline",
+      "LO": "CLO1 - CLO9",
+      "ITU": "",
+      "Student Materials": "",
+      "S-Download": "",
+      "Student's Tasks": "Review",
+      "URLs": ""
+    },
+    {
+      "Session": "35",
+      "Topic": "11. IPv6 Addressing 11.1 IPv6 Addressing 11.2 IPv4 Issues 11.3 IPv6 Addressing 11.4 IPv6 Address Types",
+      "Learning-Teaching Type": "Offline",
+      "LO": "CLO5, CLO9",
+      "ITU": "T",
+      "Student Materials": "Module 12: IPv6 Addressing",
+      "S-Download": "",
+      "Student's Tasks": "Read Module 12",
+      "URLs": ""
+    },
+    {
+      "Session": "36",
+      "Topic": "11.5 GUA and LLA Static Configuration 11.6 Dynamic Addressing for IPv6 GUAs 11.7 Dynamic Addressing for IPv6 LLAs 11.8 IPv6 Multicast Addresses 11.9 Subnet an IPv6 Network 11.10 Integrate AI Tools for Explaining Concepts (Self Learning)",
+      "Learning-Teaching Type": "Offline",
+      "LO": "CLO5, CLO9",
+      "ITU": "T",
+      "Student Materials": "Module 12: IPv6 Addressing",
+      "S-Download": "",
+      "Student's Tasks": "Read Module 12",
+      "URLs": ""
+    },
+    {
+      "Session": "37",
+      "Topic": "12. ICMP 12.1 ICMP Messages",
+      "Learning-Teaching Type": "Offline",
+      "LO": "CLO6, CLO9",
+      "ITU": "T",
+      "Student Materials": "Module 13: ICMP",
+      "S-Download": "",
+      "Student's Tasks": "Read Module 13",
+      "URLs": ""
+    },
+    {
+      "Session": "38",
+      "Topic": "12.2 Ping and Traceroute Testing 12.3 Integrate AI Tools for Explaining Concepts (Self Learning)",
+      "Learning-Teaching Type": "Offline",
+      "LO": "CLO6, CLO9",
+      "ITU": "T",
+      "Student Materials": "Module 13: ICMP",
+      "S-Download": "",
+      "Student's Tasks": "Read Module 13",
+      "URLs": ""
+    },
+    {
+      "Session": "39",
+      "Topic": "Lab 2.3: Use Ping and Traceroute to Test Network Connectivity - Use Ping and Traceroute to Test Network Connectivity - Use AI Tools for Configuration and Troubleshooting",
+      "Learning-Teaching Type": "Offline",
+      "LO": "CLO6, CLO9",
+      "ITU": "U",
+      "Student Materials": "13.3.2 Lab Manual (or 13.2.7 Packet Tracer, 13.3.1 Packet Tracer)",
+      "S-Download": "",
+      "Student's Tasks": "Practice Lab 2.3",
+      "URLs": ""
+    },
+    {
+      "Session": "40",
+      "Topic": "Lab 2.3 (continue)",
+      "Learning-Teaching Type": "Offline",
+      "LO": "CLO6, CLO9",
+      "ITU": "U",
+      "Student Materials": "13.3.2 Lab Manual (or 13.2.7 Packet Tracer, 13.3.1 Packet Tracer)",
+      "S-Download": "",
+      "Student's Tasks": "Practice Lab 2.3",
+      "URLs": ""
+    },
+    {
+      "Session": "41",
+      "Topic": "13.Transport Layer 13.1 Transportation of Data 13.2 TCP Overview 13.3 UDP Overview",
+      "Learning-Teaching Type": "Offline",
+      "LO": "CLO1, CLO4, CLO9",
+      "ITU": "T",
+      "Student Materials": "Module 14: Transport Layer",
+      "S-Download": "",
+      "Student's Tasks": "Read Module 14",
+      "URLs": ""
+    },
+    {
+      "Session": "42",
+      "Topic": "13.4 Port Numbers 13.5 TCP Communication Process 13.6 Reliability and Flow Control . 13.7 UDP Communication 13.8 Integrate AI Tools for Explaining Concepts (Self Learning)",
+      "Learning-Teaching Type": "Offline",
+      "LO": "CLO1, CLO4, CLO9",
+      "ITU": "T",
+      "Student Materials": "Module 14: Transport Layer",
+      "S-Download": "",
+      "Student's Tasks": "Read Module 14",
+      "URLs": ""
+    },
+    {
+      "Session": "43",
+      "Topic": "Project: Design and Implement a Basic Small Network with AI Assistance - Divide student groups",
+      "Learning-Teaching Type": "Offline",
+      "LO": "CLO7-10",
+      "ITU": "U",
+      "Student Materials": "15.4.8 Lab Manual 16.2.6 Lab Manual 16.4.7 Lab Manual (or 16.4.6 Packet Tracer) 16.5.2 Lab Manual (or 16.5.1 Packet Tracer) 17.4.6 Lab Manual 17.7.6 Lab Manual (or 17.7.7 Packet Tracer) 17.8.1 Lab Manual (or 17.8.2 Packet Tracer)",
+      "S-Download": "",
+      "Student's Tasks": "Practice and Review Project",
+      "URLs": ""
+    },
+    {
+      "Session": "44",
+      "Topic": "Project: Design and Implement a Basic Small Network with AI Assistance (continue) - Work on group and report project progress - Dialogue-based Assessment & Self Learning",
+      "Learning-Teaching Type": "Offline",
+      "LO": "CLO7-10",
+      "ITU": "U",
+      "Student Materials": "15.4.8 Lab Manual 16.2.6 Lab Manual 16.4.7 Lab Manual (or 16.4.6 Packet Tracer) 16.5.2 Lab Manual (or 16.5.1 Packet Tracer) 17.4.6 Lab Manual 17.7.6 Lab Manual (or 17.7.7 Packet Tracer) 17.8.1 Lab Manual (or 17.8.2 Packet Tracer)",
+      "S-Download": "",
+      "Student's Tasks": "Practice and Review Project",
+      "URLs": ""
+    },
+    {
+      "Session": "45",
+      "Topic": "14. Application Layer 14.1 Application, Presentation, and Session 14.2 Peer-to-Peer",
+      "Learning-Teaching Type": "Offline",
+      "LO": "CLO1, CLO4, CLO9",
+      "ITU": "T",
+      "Student Materials": "Module 15: Application Layer",
+      "S-Download": "",
+      "Student's Tasks": "Read Module 15",
+      "URLs": ""
+    },
+    {
+      "Session": "46",
+      "Topic": "14.3 Web and Email Protocols 14.4 IP Addressing Services 14.5 File Sharing Services 14.6 Integrate AI Tools for Explaining Concepts (Self Learning)",
+      "Learning-Teaching Type": "Offline",
+      "LO": "CLO1, CLO4, CLO9",
+      "ITU": "T",
+      "Student Materials": "Module 15: Application Layer",
+      "S-Download": "",
+      "Student's Tasks": "Read Module 15",
+      "URLs": ""
+    },
+    {
+      "Session": "47",
+      "Topic": "Project: Design and Implement a Basic Small Network with AI Assistance (continue) - Work on group and report project progress - Dialogue-based Assessment & Self Learning",
+      "Learning-Teaching Type": "Offline",
+      "LO": "CLO7-10",
+      "ITU": "U",
+      "Student Materials": "15.4.8 Lab Manual 16.2.6 Lab Manual 16.4.7 Lab Manual (or 16.4.6 Packet Tracer) 16.5.2 Lab Manual (or 16.5.1 Packet Tracer) 17.4.6 Lab Manual 17.7.6 Lab Manual (or 17.7.7 Packet Tracer) 17.8.1 Lab Manual (or 17.8.2 Packet Tracer)",
+      "S-Download": "",
+      "Student's Tasks": "Practice and Review Project",
+      "URLs": ""
+    },
+    {
+      "Session": "48",
+      "Topic": "Project: Design and Implement a Basic Small Network with AI Assistance (continue) - Work on group and report project progress - Dialogue-based Assessment & Self Learning",
+      "Learning-Teaching Type": "Offline",
+      "LO": "CLO7-10",
+      "ITU": "U",
+      "Student Materials": "15.4.8 Lab Manual 16.2.6 Lab Manual 16.4.7 Lab Manual (or 16.4.6 Packet Tracer) 16.5.2 Lab Manual (or 16.5.1 Packet Tracer) 17.4.6 Lab Manual 17.7.6 Lab Manual (or 17.7.7 Packet Tracer) 17.8.1 Lab Manual (or 17.8.2 Packet Tracer)",
+      "S-Download": "",
+      "Student's Tasks": "Practice and Review Project",
+      "URLs": ""
+    },
+    {
+      "Session": "49",
+      "Topic": "15. Network Security Fundamentals 15.1 Security Threats and Vulnerabilities 15.2 Network Attacks",
+      "Learning-Teaching Type": "Offline",
+      "LO": "CLO7, CLO9",
+      "ITU": "T",
+      "Student Materials": "Module 16: Network Security Fundamentals",
+      "S-Download": "",
+      "Student's Tasks": "Read Module 16",
+      "URLs": ""
+    },
+    {
+      "Session": "50",
+      "Topic": "15.3 Network Attack Mitigation 15.4 Device Security 15.5 Integrate AI Tools for Explaining Concepts (Self Learning)",
+      "Learning-Teaching Type": "Offline",
+      "LO": "CLO7, CLO10",
+      "ITU": "T",
+      "Student Materials": "Module 16: Network Security Fundamentals",
+      "S-Download": "",
+      "Student's Tasks": "Read Module 16",
+      "URLs": ""
+    },
+    {
+      "Session": "51",
+      "Topic": "Project: Design and Implement a Basic Small Network with AI Assistance (continue) - Work on group and report project progress - Dialogue-based Assessment & Self Learning",
+      "Learning-Teaching Type": "Offline",
+      "LO": "CLO3, CLO5, CLO6, CLO7, CLO8, CLO9 and CLO10",
+      "ITU": "U",
+      "Student Materials": "15.4.8 Lab Manual 16.2.6 Lab Manual 16.4.7 Lab Manual (or 16.4.6 Packet Tracer) 16.5.2 Lab Manual (or 16.5.1 Packet Tracer) 17.4.6 Lab Manual 17.7.6 Lab Manual (or 17.7.7 Packet Tracer) 17.8.1 Lab Manual (or 17.8.2 Packet Tracer)",
+      "S-Download": "",
+      "Student's Tasks": "Practice and Review Project",
+      "URLs": ""
+    },
+    {
+      "Session": "52",
+      "Topic": "Project: Design and Implement a Basic Small Network with AI Assistance (continue) - Work on group and report project progress - Dialogue-based Assessment & Self Learning",
+      "Learning-Teaching Type": "Offline",
+      "LO": "CLO3, CLO5, CLO6, CLO7, CLO8, CLO9 and CLO10",
+      "ITU": "U",
+      "Student Materials": "15.4.8 Lab Manual 16.2.6 Lab Manual 16.4.7 Lab Manual (or 16.4.6 Packet Tracer) 16.5.2 Lab Manual (or 16.5.1 Packet Tracer) 17.4.6 Lab Manual 17.7.6 Lab Manual (or 17.7.7 Packet Tracer) 17.8.1 Lab Manual (or 17.8.2 Packet Tracer)",
+      "S-Download": "",
+      "Student's Tasks": "Practice and Review Project",
+      "URLs": ""
+    },
+    {
+      "Session": "53",
+      "Topic": "Review Modules 8-15",
+      "Learning-Teaching Type": "Offline",
+      "LO": "CLO5-CLO10",
+      "ITU": "",
+      "Student Materials": "",
+      "S-Download": "",
+      "Student's Tasks": "Review",
+      "URLs": ""
+    },
+    {
+      "Session": "54",
+      "Topic": "16. Build a Small Network 16.1 Devices in a Small Network 16.2 Small Network Applications and Protocols 16.3 Scale to Larger Networks",
+      "Learning-Teaching Type": "Offline",
+      "LO": "CLO8, CLO9",
+      "ITU": "T",
+      "Student Materials": "Module 17: Build a Small Network",
+      "S-Download": "",
+      "Student's Tasks": "Read Module 17",
+      "URLs": ""
+    },
+    {
+      "Session": "55",
+      "Topic": "16.4 Verify Connectivity 16.5 Host and IOS Commands 16.6 Troubleshooting Methodologies 16.7 Troubleshooting Scenarios 16.8 Integrate AI Tools for Explaining Concepts (Self Learning)",
+      "Learning-Teaching Type": "Offline",
+      "LO": "CLO8, CLO9",
+      "ITU": "T",
+      "Student Materials": "Module 17: Build a Small Network",
+      "S-Download": "",
+      "Student's Tasks": "Read Module 17",
+      "URLs": ""
+    },
+    {
+      "Session": "56",
+      "Topic": "Project: Design and Implement a Basic Small Network with AI Assistance (continue) - Work on group and report project progress - Dialogue-based Assessment & Self Learning",
+      "Learning-Teaching Type": "Offline",
+      "LO": "CLO3, CLO5, CLO6, CLO7, CLO8, CLO9 and CLO10",
+      "ITU": "U",
+      "Student Materials": "15.4.8 Lab Manual 16.2.6 Lab Manual 16.4.7 Lab Manual (or 16.4.6 Packet Tracer) 16.5.2 Lab Manual (or 16.5.1 Packet Tracer) 17.4.6 Lab Manual 17.7.6 Lab Manual (or 17.7.7 Packet Tracer) 17.8.1 Lab Manual (or 17.8.2 Packet Tracer)",
+      "S-Download": "",
+      "Student's Tasks": "Practice and Review Project",
+      "URLs": ""
+    },
+    {
+      "Session": "57",
+      "Topic": "Project: Design and Implement a Basic Small Network with AI Assistance (continue) - Work on group and report project progress - Dialogue-based Assessment & Self Learning",
+      "Learning-Teaching Type": "Offline",
+      "LO": "CLO3, CLO5, CLO6, CLO7, CLO8, CLO9 and CLO10",
+      "ITU": "U",
+      "Student Materials": "15.4.8 Lab Manual 16.2.6 Lab Manual 16.4.7 Lab Manual (or 16.4.6 Packet Tracer) 16.5.2 Lab Manual (or 16.5.1 Packet Tracer) 17.4.6 Lab Manual 17.7.6 Lab Manual (or 17.7.7 Packet Tracer) 17.8.1 Lab Manual (or 17.8.2 Packet Tracer)",
+      "S-Download": "",
+      "Student's Tasks": "Practice and Review Project",
+      "URLs": ""
+    },
+    {
+      "Session": "58",
+      "Topic": "Review",
+      "Learning-Teaching Type": "Offline",
+      "LO": "CLO1-CLO10",
+      "ITU": "T",
+      "Student Materials": "Textbook, slides",
+      "S-Download": "",
+      "Student's Tasks": "Review",
+      "URLs": ""
+    },
+    {
+      "Session": "59",
+      "Topic": "Review",
+      "Learning-Teaching Type": "Offline",
+      "LO": "CLO1-CLO10",
+      "ITU": "T",
+      "Student Materials": "Textbook, slides",
+      "S-Download": "",
+      "Student's Tasks": "Review",
+      "URLs": ""
+    },
+    {
+      "Session": "60",
+      "Topic": "Review",
+      "Learning-Teaching Type": "Offline",
+      "LO": "CLO1-CLO11",
+      "ITU": "T",
+      "Student Materials": "Textbook, slides",
+      "S-Download": "",
+      "Student's Tasks": "Review",
+      "URLs": ""
+    }
+  ],
+  "constructive_questions": [
+    {
+      "No.": "1",
+      "Session No": "1",
+      "Name": "CQ1.1",
+      "Details": "What is the Internet?"
+    },
+    {
+      "No.": "2",
+      "Session No": "1",
+      "Name": "CQ1.2",
+      "Details": "How can computers in network talk together?"
+    },
+    {
+      "No.": "3",
+      "Session No": "2",
+      "Name": "CQ1.3",
+      "Details": "Why do we need a reliable networks?"
+    },
+    {
+      "No.": "4",
+      "Session No": "3",
+      "Name": "CQ1.4",
+      "Details": "What is the Cisco IOS?"
+    },
+    {
+      "No.": "5",
+      "Session No": "4",
+      "Name": "CQ2.1",
+      "Details": "How to write the correct command in Cisco IOS?"
+    },
+    {
+      "No.": "6",
+      "Session No": "5",
+      "Name": "CQ2.2",
+      "Details": "What should we do when implement basic network with switches and end devices?"
+    },
+    {
+      "No.": "7",
+      "Session No": "7",
+      "Name": "CQ3.1",
+      "Details": "Explain why protocols are necessary in network communication."
+    },
+    {
+      "No.": "8",
+      "Session No": "8",
+      "Name": "CQ3.2",
+      "Details": "Explain how the TCP/IP model and the OSI model are used to facilitate standardization in the communication process."
+    },
+    {
+      "No.": "9",
+      "Session No": "10",
+      "Name": "CQ4.1",
+      "Details": "What are the purpose and functions of the physical layer in the network?"
+    },
+    {
+      "No.": "10",
+      "Session No": "11",
+      "Name": "CQ4.2",
+      "Details": "Constrast and compare between copper and fiber optic capling"
+    },
+    {
+      "No.": "11",
+      "Session No": "12",
+      "Name": "CQ4.3",
+      "Details": "While trying to solve a network issue, a technician made multiple changes to the current router configuration file. The changes did not solve the problem and were not saved. What action can the technician take to discard the changes and work with the file in NVRAM?"
+    },
+    {
+      "No.": "12",
+      "Session No": "13",
+      "Name": "CQ5.1",
+      "Details": "How does UTP cable used in Ethernet networks?"
+    },
+    {
+      "No.": "13",
+      "Session No": "14",
+      "Name": "CQ5.2",
+      "Details": "How to connect devices using wired and wireless media"
+    },
+    {
+      "No.": "14",
+      "Session No": "17",
+      "Name": "CQ6.1",
+      "Details": "How does MAC protocol in the data link layer supports communication across networks?"
+    },
+    {
+      "No.": "15",
+      "Session No": "18",
+      "Name": "CQ6.2",
+      "Details": "Compare and constrast the characteristics of media access control methods on WAN and LAN technologies"
+    },
+    {
+      "No.": "16",
+      "Session No": "19",
+      "Name": "CQ7.1",
+      "Details": "What is the Frame?"
+    },
+    {
+      "No.": "17",
+      "Session No": "20",
+      "Name": "CQ7.2",
+      "Details": "How to detect and fix when receive an error frame on transmission?"
+    },
+    {
+      "No.": "18",
+      "Session No": "21",
+      "Name": "CQ7.3",
+      "Details": "How does Ethernet works in a switched network?"
+    },
+    {
+      "No.": "19",
+      "Session No": "23",
+      "Name": "CQ8.1",
+      "Details": "Why do we need use IP protocol for reliable communications?"
+    },
+    {
+      "No.": "20",
+      "Session No": "24",
+      "Name": "CQ8.2",
+      "Details": "How does the network devices use routing tables to direct packets to a destination networks?"
+    },
+    {
+      "No.": "21",
+      "Session No": "25",
+      "Name": "CQ9.1",
+      "Details": "How can ARP enable communication on a network?"
+    },
+    {
+      "No.": "22",
+      "Session No": "26",
+      "Name": "CQ9.2",
+      "Details": "How does Neighbor Discovery operate on a network?"
+    },
+    {
+      "No.": "23",
+      "Session No": "27",
+      "Name": "CQ9.3",
+      "Details": "Compare the roles of the ARP address and the IP address"
+    },
+    {
+      "No.": "24",
+      "Session No": "28",
+      "Name": "CQ10.1",
+      "Details": "How do two computers connect over the outside network?"
+    },
+    {
+      "No.": "25",
+      "Session No": "29",
+      "Name": "CQ10.2",
+      "Details": "How does the way of the router device forward packets?"
+    },
+    {
+      "No.": "26",
+      "Session No": "31",
+      "Name": "CQ11.1",
+      "Details": "Progress Test 2"
+    },
+    {
+      "No.": "27",
+      "Session No": "32",
+      "Name": "CQ11.2",
+      "Details": "Compare and constrast the characteristics and uses of the unicast, broadcast and multicast IPv4 address"
+    },
+    {
+      "No.": "28",
+      "Session No": "33",
+      "Name": "CQ11.3",
+      "Details": "how many are there type of the IPv4 address? How to use it?"
+    },
+    {
+      "No.": "29",
+      "Session No": "34",
+      "Name": "CQ12.1",
+      "Details": "What is the structure of an IPv4 address?"
+    },
+    {
+      "No.": "30",
+      "Session No": "35",
+      "Name": "CQ12.2",
+      "Details": "A company has plan to deploy a network with more departments. How can we calculate IPv4 address to optimize in this case?"
+    },
+    {
+      "No.": "31",
+      "Session No": "37",
+      "Name": "CQ13.1",
+      "Details": "What happens do we use IPv4 in nowadays?"
+    },
+    {
+      "No.": "32",
+      "Session No": "38",
+      "Name": "CQ13.2",
+      "Details": "Compare types of IPv6 network addresses"
+    },
+    {
+      "No.": "33",
+      "Session No": "39",
+      "Name": "CQ13.3",
+      "Details": "How to configure IPv6 address on Cisco devices?"
+    },
+    {
+      "No.": "34",
+      "Session No": "40",
+      "Name": "CQ14.1",
+      "Details": "What is ICMP?"
+    },
+    {
+      "No.": "35",
+      "Session No": "41",
+      "Name": "CQ14.2",
+      "Details": "How to test network connectivity using ICMP?"
+    },
+    {
+      "No.": "36",
+      "Session No": "42",
+      "Name": "CQ14.3",
+      "Details": "Which other tools can we use to test network connectivity? How does it works(Do lab 7)?"
+    },
+    {
+      "No.": "37",
+      "Session No": "43",
+      "Name": "CQ15.1",
+      "Details": "What characteristics are there in the Transport Layer?"
+    },
+    {
+      "No.": "38",
+      "Session No": "44",
+      "Name": "CQ15.2",
+      "Details": "Compare between TCP and UDP? Which protocol do you like to implement?"
+    },
+    {
+      "No.": "39",
+      "Session No": "45",
+      "Name": "CQ15.3",
+      "Details": "How does TCP session establishment and termination processes facilitate reliable communication?"
+    },
+    {
+      "No.": "40",
+      "Session No": "46",
+      "Name": "CQ16.1",
+      "Details": "What is the functions of the Application Layer to provide network services to end users?"
+    },
+    {
+      "No.": "41",
+      "Session No": "47",
+      "Name": "CQ16.2",
+      "Details": "How does end-user application operate in a peer-to-peer network?"
+    },
+    {
+      "No.": "42",
+      "Session No": "48",
+      "Name": "CQ16.3",
+      "Details": "List of services operate in Application Layer? How does it works? Do lab 8"
+    },
+    {
+      "No.": "43",
+      "Session No": "49",
+      "Name": "CQ17.1",
+      "Details": "Why basic security measure are necessary on network devices?"
+    },
+    {
+      "No.": "44",
+      "Session No": "50",
+      "Name": "CQ17.2",
+      "Details": "How to detect vulnerabilities on the network and technical mitigation?"
+    },
+    {
+      "No.": "45",
+      "Session No": "51",
+      "Name": "CQ17.3",
+      "Details": "Why do we need to mitigate security threats on a network devices?"
+    },
+    {
+      "No.": "46",
+      "Session No": "52",
+      "Name": "CQ18.1",
+      "Details": "What is one of the most effective security tools available for protecting users from external threats?"
+    },
+    {
+      "No.": "47",
+      "Session No": "53",
+      "Name": "CQ18.2",
+      "Details": "What type of attack may involve the use of tools such as nslookup and fping?"
+    },
+    {
+      "No.": "48",
+      "Session No": "54",
+      "Name": "CQ18.3",
+      "Details": "Which component is designed to protect against unauthorized communications to and from a computer?"
+    },
+    {
+      "No.": "49",
+      "Session No": "55",
+      "Name": "CQ19.1",
+      "Details": "Which type of network threat is intended to prevent authorized users from accessing resources?"
+    },
+    {
+      "No.": "50",
+      "Session No": "57",
+      "Name": "CQ19.2",
+      "Details": "Which element of scaling a network involves identifying the physical and logical topologies?"
+    },
+    {
+      "No.": "51",
+      "Session No": "58",
+      "Name": "CQ20.1",
+      "Details": "A small company has only one router as the exit point to its ISP. Which solution could be adopted to maintain connectivity if the router itself, or its connection to the ISP, fails?"
+    },
+    {
+      "No.": "52",
+      "Session No": "59",
+      "Name": "CQ20.2",
+      "Details": "What mechanism can be implemented in a small network to help minimize network latency for real-time streaming applications?"
+    }
+  ],
+  "materials": [
+    {
+      "No.": "1",
+      "Material Description": "31 Packet Tracer activities",
+      "Author": "Cisco",
+      "Publisher": "Cisco",
+      "Published Date": "",
+      "Edition": "",
+      "ISBN": "",
+      "Is Main Material": "False",
+      "Is Hard Copy": "False",
+      "Is Online": "False",
+      "Note": ""
+    },
+    {
+      "No.": "2",
+      "Material Description": "CCNA: Introduction to Networks Slides",
+      "Author": "Cisco",
+      "Publisher": "Cisco",
+      "Published Date": "",
+      "Edition": "",
+      "ISBN": "",
+      "Is Main Material": "True",
+      "Is Hard Copy": "False",
+      "Is Online": "True",
+      "Note": ""
+    },
+    {
+      "No.": "3",
+      "Material Description": "E-Learning Content: 17 modules",
+      "Author": "Cisco",
+      "Publisher": "Cisco",
+      "Published Date": "",
+      "Edition": "",
+      "ISBN": "",
+      "Is Main Material": "True",
+      "Is Hard Copy": "False",
+      "Is Online": "True",
+      "Note": ""
+    },
+    {
+      "No.": "4",
+      "Material Description": "Labs: 24 hands-on and paper-based labs.",
+      "Author": "Cisco",
+      "Publisher": "Cisco",
+      "Published Date": "",
+      "Edition": "",
+      "ISBN": "",
+      "Is Main Material": "False",
+      "Is Hard Copy": "False",
+      "Is Online": "True",
+      "Note": ""
+    },
+    {
+      "No.": "5",
+      "Material Description": "Videos: 36 videos",
+      "Author": "Cisco",
+      "Publisher": "Cisco",
+      "Published Date": "",
+      "Edition": "",
+      "ISBN": "",
+      "Is Main Material": "True",
+      "Is Hard Copy": "False",
+      "Is Online": "True",
+      "Note": ""
+    }
+  ],
+  "source_path": "data/raw/syllabi/14428.html",
+  "id": "syllabus:14428"
+}

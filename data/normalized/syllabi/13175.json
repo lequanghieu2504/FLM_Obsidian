@@ -1,0 +1,253 @@
+{
+  "syllabus_id": 13175,
+  "subject_code": "PRN292c",
+  "subject_name": "Lập trình C# & .NET",
+  "syllabus_name": "C# và .NET",
+  "credits": 3,
+  "degree_level": "Bachelor",
+  "time_allocation": "Online: 45 hours + 3 offline",
+  "prerequisite": "PRO192 & DBI201",
+  "general_information": {
+    "Syllabus ID": "13175",
+    "Syllabus Name": "C# và .NET",
+    "Course Name English": "C# and .NET",
+    "Subject Code": "PRN292c",
+    "Learning-Teaching Method": "Online",
+    "NoCredit": "3",
+    "Degree Level": "Bachelor",
+    "Time Allocation": "Online: 45 hours + 3 offline",
+    "Pre-Requisite": "PRO192 & DBI201",
+    "Description": "This course covers technical skills to design and develop high-quality object-oriented software systems using the C# programming language and students will learn how to develop video games using the C# programming language and the Unity game engine on Windows or Mac",
+    "StudentTasks": "Students complete the online courses MOOC1-MOOC3 (see details in the Materials page) and get certifications for MOOC1-MOOC3 to be allowed to take Final Exam",
+    "Tools": "- Internet - Visual Studio 2022 and MS SQL Server 2016 or later",
+    "Scoring Scale": "10",
+    "DecisionNo MM/dd/yyyy": "932/QĐ-ĐHFPT dated 08/22/2025",
+    "IsApproved": "True",
+    "Note": "1. Students complete the online courses MOOC1-MOOC3 (see details in the Materials sheet) and get certifications for MOOC1 - MOOC3 to be allowed to take Final Exam 2. Final Exam: 100% 3. Bonus 1 point when complete the courses before deadline 4. Completion Criteria: Final TE Score + bonus >= 5",
+    "Is Scored": "True",
+    "MinAvgMarkToPass": "5",
+    "IsActive": "True",
+    "ApprovedDate": "8/22/2025"
+  },
+  "active": true,
+  "approved": true,
+  "decision": "932/QĐ-ĐHFPT dated 08/22/2025",
+  "description": "This course covers technical skills to design and develop high-quality object-oriented software systems using the C# programming language and students will learn how to develop video games using the C# programming language and the Unity game engine on Windows or Mac",
+  "learning_outcomes": [
+    {
+      "No.": "1",
+      "CLO Name": "CLO1",
+      "CLO Details": "Understand and using OOP in C# .NET"
+    },
+    {
+      "No.": "2",
+      "CLO Name": "CLO2",
+      "CLO Details": "Understand and using LINQ & Generic collection in C# .NET"
+    },
+    {
+      "No.": "3",
+      "CLO Name": "CLO3",
+      "CLO Details": "Be able to apply OOP and LINQ to devlop a project by C#.NET"
+    },
+    {
+      "No.": "4",
+      "CLO Name": "CLO4",
+      "CLO Details": "Understand game programming with Unity"
+    }
+  ],
+  "assessments": [
+    {
+      "No.": "1",
+      "Category": "TE",
+      "Type": "Final exam",
+      "Part": "1",
+      "Weight": "100.0%",
+      "Completion Criteria": "4",
+      "Duration": "60'",
+      "CLO": "All Los",
+      "Question Type": "Multiple choices Marked by Computer",
+      "No Question": "50",
+      "Knowledge and Skill": "All studied courses. Each module of course contributes 10-20 questions.",
+      "Grading Guide": "by exam board",
+      "Note": "Customized from the quizzes of the courses"
+    }
+  ],
+  "schedule": [
+    {
+      "Session": "1",
+      "Topic": "Course Introduction Basics of C# programming -Object-oriented (OO) programming -Classes, objects, properties, static and non-static members -Control statements, and the difference between call by value and call by reference.",
+      "Learning-Teaching Type": "Offline,Online",
+      "LO": "LO1",
+      "ITU": "ITU",
+      "Student Materials": "MOOC1",
+      "S-Download": "",
+      "Student's Tasks": "- Enroll to the Spec on Coursera for FPT University Platform. - Watch all videos, read all materials in the module. - Finish quiz and assignement. - All Students should participate in review slot (if any question).",
+      "URLs": ""
+    },
+    {
+      "Session": "2",
+      "Topic": "Basics of C# programming -Main concepts of object-oriented programming including data encapsulation, inheritance, abstract classes, interface, and polymorphism. -The exception handling techniques using language-defined exceptions and user-defined exceptions.",
+      "Learning-Teaching Type": "Online",
+      "LO": "LO1",
+      "ITU": "ITU",
+      "Student Materials": "MOOC1",
+      "S-Download": "",
+      "Student's Tasks": "- Enroll to the Spec on Coursera for FPT University Platform. - Watch all videos, read all materials in the module. - Finish quiz and assignement. - All Students should participate in review slot (if any question).",
+      "URLs": ""
+    },
+    {
+      "Session": "3",
+      "Topic": "Basics of C# programming -One-dimensional arrays, multi-dimensional arrays, and jagged arrays. -The generic data collections: List , Dictionary , SortedList , Stack , Queue , etc. -LINQ language and how to use it to query data from a data source.",
+      "Learning-Teaching Type": "Online",
+      "LO": "LO1, LO2",
+      "ITU": "ITU",
+      "Student Materials": "MOOC2",
+      "S-Download": "",
+      "Student's Tasks": "- Enroll to the Spec on Coursera for FPT University Platform. - Watch all videos, read all materials in the module. - Finish quiz and assignement. - All Students should participate in review slot (if any question).",
+      "URLs": ""
+    },
+    {
+      "Session": "4",
+      "Topic": "Project : Create C# App Inheritance, Composition, and Aggregation -Create a C# Base Class called Employee. -Inherit from a C# Base Class called Employee to create a Manager. -Add a C# list of Employees to the Manager. -Add a Car C# class to demonstrate Aggregation with the Manager. -Combine the Manager, Car and Employee into one C# application to demonstrate C# Class Re-use.",
+      "Learning-Teaching Type": "Online",
+      "LO": "LO3",
+      "ITU": "ITU",
+      "Student Materials": "MOOC2",
+      "S-Download": "",
+      "Student's Tasks": "- Enroll to the Spec on Coursera for FPT University Platform. - Watch all videos, read all materials in the module. - Finish quiz and assignement. - All Students should participate in review slot (if any question).",
+      "URLs": ""
+    },
+    {
+      "Session": "5",
+      "Topic": "Introduction to C# Programming and Unity -Write your first C# console application and Unity script -Learn how we store data in the programs",
+      "Learning-Teaching Type": "Offline,Online",
+      "LO": "LO4",
+      "ITU": "ITU",
+      "Student Materials": "MOOC3",
+      "S-Download": "",
+      "Student's Tasks": "- Enroll to the Spec on Coursera for FPT University Platform. - Watch all videos, read all materials in the module. - Finish quiz and assignement. - All Students should participate in review slot (if any question).",
+      "URLs": ""
+    },
+    {
+      "Session": "6",
+      "Topic": "Introduction to C# Programming and Unity -Write your first C# console application and Unity script -Learn how we store data in the programs",
+      "Learning-Teaching Type": "Online",
+      "LO": "LO4",
+      "ITU": "ITU",
+      "Student Materials": "MOOC3",
+      "S-Download": "",
+      "Student's Tasks": "- Enroll to the Spec on Coursera for FPT University Platform. - Watch all videos, read all materials in the module. - Finish quiz and assignement. - All Students should participate in review slot (if any question).",
+      "URLs": ""
+    },
+    {
+      "Session": "7",
+      "Topic": "Introduction to C# Programming and Unity -Use classes and objects to implement code",
+      "Learning-Teaching Type": "Online",
+      "LO": "LO4",
+      "ITU": "ITU",
+      "Student Materials": "MOOC3",
+      "S-Download": "",
+      "Student's Tasks": "- Enroll to the Spec on Coursera for FPT University Platform. - Watch all videos, read all materials in the module. - Finish quiz and assignement. - All Students should participate in review slot (if any question).",
+      "URLs": ""
+    },
+    {
+      "Session": "8",
+      "Topic": "Introduction to C# Programming and Unity -Use classes and objects to implement code",
+      "Learning-Teaching Type": "Online",
+      "LO": "LO4",
+      "ITU": "ITU",
+      "Student Materials": "MOOC3",
+      "S-Download": "",
+      "Student's Tasks": "- Enroll to the Spec on Coursera for FPT University Platform. - Watch all videos, read all materials in the module. - Finish quiz and assignement. - All Students should participate in review slot (if any question).",
+      "URLs": ""
+    },
+    {
+      "Session": "9",
+      "Topic": "Introduction to C# Programming and Unity -Learn the basics of Unity 2D games",
+      "Learning-Teaching Type": "Online",
+      "LO": "LO4",
+      "ITU": "ITU",
+      "Student Materials": "MOOC3",
+      "S-Download": "",
+      "Student's Tasks": "- Enroll to the Spec on Coursera for FPT University Platform. - Watch all videos, read all materials in the module. - Finish quiz and assignement. - All Students should participate in review slot (if any question).",
+      "URLs": ""
+    },
+    {
+      "Session": "10",
+      "Topic": "Introduction to C# Programming and Unity -Learn the basics of Unity 2D games",
+      "Learning-Teaching Type": "Online",
+      "LO": "LO4",
+      "ITU": "ITU",
+      "Student Materials": "MOOC3",
+      "S-Download": "",
+      "Student's Tasks": "- Enroll to the Spec on Coursera for FPT University Platform. - Watch all videos, read all materials in the module. - Finish quiz and assignement. - All Students should participate in review slot (if any question).",
+      "URLs": ""
+    },
+    {
+      "Session": "11",
+      "Topic": "Introduction to C# Programming and Unity -Get and use player input in your Unity games",
+      "Learning-Teaching Type": "Online",
+      "LO": "LO4",
+      "ITU": "ITU",
+      "Student Materials": "MOOC3",
+      "S-Download": "",
+      "Student's Tasks": "- Enroll to the Spec on Coursera for FPT University Platform. - Watch all videos, read all materials in the module. - Finish quiz and assignement. - All Students should participate in review slot (if any question).",
+      "URLs": ""
+    },
+    {
+      "Session": "12",
+      "Topic": "Introduction to C# Programming and Unity -Get and use player input in your Unity games",
+      "Learning-Teaching Type": "Offline,Online",
+      "LO": "LO4",
+      "ITU": "ITU",
+      "Student Materials": "MOOC3",
+      "S-Download": "",
+      "Student's Tasks": "- Enroll to the Spec on Coursera for FPT University Platform. - Watch all videos, read all materials in the module. - Finish quiz and assignement. - All Students should participate in review slot (if any question). -All Students should participate in review slot (if any question) - Deadline of Course Completion: End of Friday of the 12th week.",
+      "URLs": ""
+    }
+  ],
+  "constructive_questions": [],
+  "materials": [
+    {
+      "No.": "1",
+      "Material Description": "https://www.coursera.org/learn/introduction-programming-unity#syllabus",
+      "Author": "",
+      "Publisher": "Coursera",
+      "Published Date": "",
+      "Edition": "",
+      "ISBN": "",
+      "Is Main Material": "True",
+      "Is Hard Copy": "False",
+      "Is Online": "True",
+      "Note": "MOOC3"
+    },
+    {
+      "No.": "2",
+      "Material Description": "https://www.coursera.org/learn/oo-development-using-c-sharp",
+      "Author": "",
+      "Publisher": "Coursera",
+      "Published Date": "",
+      "Edition": "",
+      "ISBN": "",
+      "Is Main Material": "True",
+      "Is Hard Copy": "False",
+      "Is Online": "True",
+      "Note": "MOOC1"
+    },
+    {
+      "No.": "3",
+      "Material Description": "https://www.coursera.org/projects/create-csharp-app-inheritance-composition-aggregation",
+      "Author": "",
+      "Publisher": "Coursera",
+      "Published Date": "",
+      "Edition": "",
+      "ISBN": "",
+      "Is Main Material": "True",
+      "Is Hard Copy": "False",
+      "Is Online": "True",
+      "Note": "MOOC2"
+    }
+  ],
+  "source_path": "data/raw/syllabi/13175.html",
+  "id": "syllabus:13175"
+}

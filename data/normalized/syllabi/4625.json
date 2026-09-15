@@ -1,0 +1,555 @@
+{
+  "syllabus_id": 4625,
+  "subject_code": "BDP302b",
+  "subject_name": "Smart Contract_Hợp đồng thông minh",
+  "syllabus_name": "Smart Contract_Hợp đồng thông minh",
+  "credits": 3,
+  "degree_level": "Bachelor",
+  "time_allocation": "45 hours (3 credits): - 30 online sessions (1 session = 90 minutes) - 1 final exam includes Theoretical Exam (60 minutes) and Practical Exam (120 minutes)",
+  "prerequisite": "BDP301b",
+  "general_information": {
+    "Syllabus ID": "4625",
+    "Syllabus Name": "Smart Contract_Hợp đồng thông minh",
+    "Course Name English": "",
+    "Subject Code": "BDP302b",
+    "Learning-Teaching Method": "",
+    "NoCredit": "3",
+    "Degree Level": "Bachelor",
+    "Time Allocation": "45 hours (3 credits): - 30 online sessions (1 session = 90 minutes) - 1 final exam includes Theoretical Exam (60 minutes) and Practical Exam (120 minutes)",
+    "Pre-Requisite": "BDP301b",
+    "Description": "After learning the basic concepts in the first course, this Smart Contract course knowledge and skills about smart contacts, including roles, architecture and basic mechanism of smart contract concept in blockchain; the fundamental of Solidity programing languageto build smart contract in Ethereum Virtual Machine; how to build and apply smart contracts in blockchain, best practices in evaluating alternative smart contract solutions in blockchain",
+    "StudentTasks": "- Students should self-study all lessons on LMS in time - Pass all conditions before taking final exam in campus",
+    "Tools": "",
+    "Scoring Scale": "10",
+    "DecisionNo MM/dd/yyyy": "1293/QĐ-ĐHFPT dated 12/02/2020",
+    "IsApproved": "True",
+    "Note": "",
+    "Is Scored": "True",
+    "MinAvgMarkToPass": "5",
+    "IsActive": "True",
+    "ApprovedDate": "12/2/2020"
+  },
+  "active": true,
+  "approved": true,
+  "decision": "1293/QĐ-ĐHFPT dated 12/02/2020",
+  "description": "After learning the basic concepts in the first course, this Smart Contract course knowledge and skills about smart contacts, including roles, architecture and basic mechanism of smart contract concept in blockchain; the fundamental of Solidity programing languageto build smart contract in Ethereum Virtual Machine; how to build and apply smart contracts in blockchain, best practices in evaluating alternative smart contract solutions in blockchain",
+  "learning_outcomes": [
+    {
+      "No.": "1",
+      "CLO Name": "CBDP302b_o1",
+      "CLO Details": "Understand the roles, applications of smart contract in blockchain"
+    },
+    {
+      "No.": "2",
+      "CLO Name": "CBDP302b_o2",
+      "CLO Details": "Understand definition of smart contract"
+    },
+    {
+      "No.": "3",
+      "CLO Name": "CBDP302b_o3",
+      "CLO Details": "Understand the address of a smart contracts and list of compilation artifacts of smart contracts"
+    },
+    {
+      "No.": "4",
+      "CLO Name": "CBDP302b_o4",
+      "CLO Details": "Understand the process to deploy smart contracts"
+    },
+    {
+      "No.": "5",
+      "CLO Name": "CBDP302b_o5",
+      "CLO Details": "Know the basics structure of Solidity"
+    },
+    {
+      "No.": "6",
+      "CLO Name": "CBDP302b_o6",
+      "CLO Details": "Understand the basic data type and operator of Solidity"
+    },
+    {
+      "No.": "7",
+      "CLO Name": "CBDP302b_o7",
+      "CLO Details": "Understand the important data structures in Solidity: address, mapping and message"
+    },
+    {
+      "No.": "8",
+      "CLO Name": "CBDP302b_o8",
+      "CLO Details": "Understand syntax and usage of arrays, enum, struct in Solidity"
+    },
+    {
+      "No.": "9",
+      "CLO Name": "CBDP302b_o9",
+      "CLO Details": "Understand the usage of function modifiers, the \"require\" clause and \"assert\" declaration in Solidity"
+    },
+    {
+      "No.": "10",
+      "CLO Name": "CBDP302b_o10",
+      "CLO Details": "Understand the method for developing smart contracts"
+    },
+    {
+      "No.": "11",
+      "CLO Name": "CBDP302b_o11",
+      "CLO Details": "Understand the Time elements in building smart contracts"
+    },
+    {
+      "No.": "12",
+      "CLO Name": "CBDP302b_o12",
+      "CLO Details": "Understand 'reverting' a transaction based on problem-specific validation and using a revert declaration,"
+    },
+    {
+      "No.": "13",
+      "CLO Name": "CBDP302b_o13",
+      "CLO Details": "Understand how to use Events to communicate with client"
+    },
+    {
+      "No.": "14",
+      "CLO Name": "CBDP302b_o14",
+      "CLO Details": "Know the best practices in evaluating smart contract"
+    },
+    {
+      "No.": "15",
+      "CLO Name": "CBDP302b_o15",
+      "CLO Details": "Know the best practices in designing smart contract"
+    },
+    {
+      "No.": "16",
+      "CLO Name": "CBDP302b_o16",
+      "CLO Details": "Know the best practices in using Remix IDE"
+    },
+    {
+      "No.": "17",
+      "CLO Name": "CBDP302b_o17",
+      "CLO Details": "Practice basic programing with Solidity"
+    },
+    {
+      "No.": "18",
+      "CLO Name": "CBDP302b_o18",
+      "CLO Details": "Design, build and deploy smart contracts in Ethereum"
+    }
+  ],
+  "assessments": [
+    {
+      "No.": "1",
+      "Category": "Assignment",
+      "Type": "on-going",
+      "Part": "3",
+      "Weight": "30.0%",
+      "Completion Criteria": ">0",
+      "Duration": "",
+      "CLO": "",
+      "Question Type": "Practical",
+      "No Question": "1 topic/1 assignment",
+      "Knowledge and Skill": "The previous lessons",
+      "Grading Guide": "Practice and submit the result on LMS",
+      "Note": "Assignment 1: 5% Assignment 2: 5% Assignment 3: 20%"
+    },
+    {
+      "No.": "2",
+      "Category": "Progress test",
+      "Type": "on-going",
+      "Part": "4",
+      "Weight": "10.0%",
+      "Completion Criteria": ">0",
+      "Duration": "1.5 minutes/question",
+      "CLO": "",
+      "Question Type": "Multiple choice",
+      "No Question": "",
+      "Knowledge and Skill": "Content of the lesson",
+      "Grading Guide": "Multiple choice on LMS",
+      "Note": ""
+    },
+    {
+      "No.": "3",
+      "Category": "Q&A with mentor",
+      "Type": "on-going",
+      "Part": "1",
+      "Weight": "10.0%",
+      "Completion Criteria": "10",
+      "Duration": "Within course duration",
+      "CLO": "All LOs",
+      "Question Type": "Q&A",
+      "No Question": "2 questions at least",
+      "Knowledge and Skill": "Everything related to the subject",
+      "Grading Guide": "Via facebook Hannah",
+      "Note": ""
+    },
+    {
+      "No.": "4",
+      "Category": "Quiz",
+      "Type": "on-going",
+      "Part": "1",
+      "Weight": "10.0%",
+      "Completion Criteria": "10",
+      "Duration": "2 minutes/quiz question",
+      "CLO": "",
+      "Question Type": "Multiple choice",
+      "No Question": "Depend on teachers",
+      "Knowledge and Skill": "Content of the lesson",
+      "Grading Guide": "Quiz on LMS",
+      "Note": ""
+    },
+    {
+      "No.": "5",
+      "Category": "Final Exam",
+      "Type": "Final exam",
+      "Part": "2",
+      "Weight": "40.0%",
+      "Completion Criteria": "4",
+      "Duration": "180'",
+      "CLO": "",
+      "Question Type": "Theoretical test: Multiple choices",
+      "No Question": "40 questions, 1-3 assignments",
+      "Knowledge and Skill": "The whole course content",
+      "Grading Guide": "In campus",
+      "Note": ""
+    }
+  ],
+  "schedule": [
+    {
+      "Session": "1",
+      "Topic": "Online session 1: Course Introduction",
+      "Learning-Teaching Type": "Online",
+      "LO": "",
+      "ITU": "",
+      "Student Materials": "",
+      "S-Download": "",
+      "Student's Tasks": "",
+      "URLs": ""
+    },
+    {
+      "Session": "2",
+      "Topic": "Lesson 1: Why Smart Contracts? Quiz 1",
+      "Learning-Teaching Type": "Online",
+      "LO": "",
+      "ITU": "",
+      "Student Materials": "",
+      "S-Download": "",
+      "Student's Tasks": "",
+      "URLs": ""
+    },
+    {
+      "Session": "3",
+      "Topic": "Lesson 2: Smart Contracts Defined Quiz 2",
+      "Learning-Teaching Type": "Online",
+      "LO": "",
+      "ITU": "",
+      "Student Materials": "",
+      "S-Download": "",
+      "Student's Tasks": "",
+      "URLs": ""
+    },
+    {
+      "Session": "4",
+      "Topic": "Lesson 3: Processing Smart Contracts Quiz 3",
+      "Learning-Teaching Type": "Online",
+      "LO": "",
+      "ITU": "",
+      "Student Materials": "",
+      "S-Download": "",
+      "Student's Tasks": "",
+      "URLs": ""
+    },
+    {
+      "Session": "5",
+      "Topic": "Lesson 4: Deploying Smart Contracts Quiz 4",
+      "Learning-Teaching Type": "Online",
+      "LO": "",
+      "ITU": "",
+      "Student Materials": "",
+      "S-Download": "",
+      "Student's Tasks": "",
+      "URLs": ""
+    },
+    {
+      "Session": "6",
+      "Topic": "Progress Test 1",
+      "Learning-Teaching Type": "Online",
+      "LO": "",
+      "ITU": "",
+      "Student Materials": "",
+      "S-Download": "",
+      "Student's Tasks": "",
+      "URLs": ""
+    },
+    {
+      "Session": "7",
+      "Topic": "Lesson 5: Structure Quiz 5",
+      "Learning-Teaching Type": "Online",
+      "LO": "",
+      "ITU": "",
+      "Student Materials": "",
+      "S-Download": "",
+      "Student's Tasks": "",
+      "URLs": ""
+    },
+    {
+      "Session": "8",
+      "Topic": "Lesson 6: Basic Data Types & Statements Quiz 6",
+      "Learning-Teaching Type": "Online",
+      "LO": "",
+      "ITU": "",
+      "Student Materials": "",
+      "S-Download": "",
+      "Student's Tasks": "",
+      "URLs": ""
+    },
+    {
+      "Session": "9",
+      "Topic": "Lesson 7: Specific Data Types Quiz 7",
+      "Learning-Teaching Type": "Online",
+      "LO": "",
+      "ITU": "",
+      "Student Materials": "",
+      "S-Download": "",
+      "Student's Tasks": "",
+      "URLs": ""
+    },
+    {
+      "Session": "10",
+      "Topic": "Lesson 8: Data Structures Quiz 8",
+      "Learning-Teaching Type": "Online",
+      "LO": "",
+      "ITU": "",
+      "Student Materials": "",
+      "S-Download": "",
+      "Student's Tasks": "",
+      "URLs": ""
+    },
+    {
+      "Session": "11",
+      "Topic": "Lesson 9: Access Modifiers & Applications Quiz 9",
+      "Learning-Teaching Type": "Online",
+      "LO": "",
+      "ITU": "",
+      "Student Materials": "",
+      "S-Download": "",
+      "Student's Tasks": "",
+      "URLs": ""
+    },
+    {
+      "Session": "12",
+      "Topic": "Progress Test 2",
+      "Learning-Teaching Type": "Online",
+      "LO": "",
+      "ITU": "",
+      "Student Materials": "",
+      "S-Download": "",
+      "Student's Tasks": "",
+      "URLs": ""
+    },
+    {
+      "Session": "13",
+      "Topic": "Lesson 10: Developing Smart Contracts Quiz 10",
+      "Learning-Teaching Type": "Online",
+      "LO": "",
+      "ITU": "",
+      "Student Materials": "",
+      "S-Download": "",
+      "Student's Tasks": "",
+      "URLs": ""
+    },
+    {
+      "Session": "14",
+      "Topic": "Lesson 11: Time Elements Quiz 11",
+      "Learning-Teaching Type": "Online",
+      "LO": "",
+      "ITU": "",
+      "Student Materials": "",
+      "S-Download": "",
+      "Student's Tasks": "",
+      "URLs": ""
+    },
+    {
+      "Session": "15",
+      "Topic": "Lesson 12: Validation & Test Quiz 12",
+      "Learning-Teaching Type": "Online",
+      "LO": "",
+      "ITU": "",
+      "Student Materials": "",
+      "S-Download": "",
+      "Student's Tasks": "",
+      "URLs": ""
+    },
+    {
+      "Session": "16",
+      "Topic": "Lesson 13: Client Applications Quiz 13",
+      "Learning-Teaching Type": "Online",
+      "LO": "",
+      "ITU": "",
+      "Student Materials": "",
+      "S-Download": "",
+      "Student's Tasks": "",
+      "URLs": ""
+    },
+    {
+      "Session": "17",
+      "Topic": "Progress Test 3",
+      "Learning-Teaching Type": "Online",
+      "LO": "",
+      "ITU": "",
+      "Student Materials": "",
+      "S-Download": "",
+      "Student's Tasks": "",
+      "URLs": ""
+    },
+    {
+      "Session": "18",
+      "Topic": "Lesson 14: Best Practices Quiz 14",
+      "Learning-Teaching Type": "Online",
+      "LO": "",
+      "ITU": "",
+      "Student Materials": "",
+      "S-Download": "",
+      "Student's Tasks": "",
+      "URLs": ""
+    },
+    {
+      "Session": "19",
+      "Topic": "Assignment 1: Design and Develop a Smart Contract",
+      "Learning-Teaching Type": "Online",
+      "LO": "",
+      "ITU": "",
+      "Student Materials": "",
+      "S-Download": "",
+      "Student's Tasks": "",
+      "URLs": ""
+    },
+    {
+      "Session": "20",
+      "Topic": "Assignment 1: Design and Develop a Smart Contract",
+      "Learning-Teaching Type": "Online",
+      "LO": "",
+      "ITU": "",
+      "Student Materials": "",
+      "S-Download": "",
+      "Student's Tasks": "",
+      "URLs": ""
+    },
+    {
+      "Session": "21",
+      "Topic": "Assignment 1: Design and Develop a Smart Contract",
+      "Learning-Teaching Type": "Online",
+      "LO": "",
+      "ITU": "",
+      "Student Materials": "",
+      "S-Download": "",
+      "Student's Tasks": "",
+      "URLs": ""
+    },
+    {
+      "Session": "22",
+      "Topic": "Assignment 2: Develop a project using Smart contract",
+      "Learning-Teaching Type": "Online",
+      "LO": "",
+      "ITU": "",
+      "Student Materials": "",
+      "S-Download": "",
+      "Student's Tasks": "",
+      "URLs": ""
+    },
+    {
+      "Session": "23",
+      "Topic": "Assignment 2: Develop a project using Smart contract",
+      "Learning-Teaching Type": "Online",
+      "LO": "",
+      "ITU": "",
+      "Student Materials": "",
+      "S-Download": "",
+      "Student's Tasks": "",
+      "URLs": ""
+    },
+    {
+      "Session": "24",
+      "Topic": "Assignment 2: Develop a project using Smart contract",
+      "Learning-Teaching Type": "Online",
+      "LO": "",
+      "ITU": "",
+      "Student Materials": "",
+      "S-Download": "",
+      "Student's Tasks": "",
+      "URLs": ""
+    },
+    {
+      "Session": "25",
+      "Topic": "Assignment 2: Develop a project using Smart contract",
+      "Learning-Teaching Type": "Online",
+      "LO": "",
+      "ITU": "",
+      "Student Materials": "",
+      "S-Download": "",
+      "Student's Tasks": "",
+      "URLs": ""
+    },
+    {
+      "Session": "26",
+      "Topic": "Assignment 2: Develop a project using Smart contract",
+      "Learning-Teaching Type": "Online",
+      "LO": "",
+      "ITU": "",
+      "Student Materials": "",
+      "S-Download": "",
+      "Student's Tasks": "",
+      "URLs": ""
+    },
+    {
+      "Session": "27",
+      "Topic": "Assignment 2: Develop a project using Smart contract",
+      "Learning-Teaching Type": "Online",
+      "LO": "",
+      "ITU": "",
+      "Student Materials": "",
+      "S-Download": "",
+      "Student's Tasks": "",
+      "URLs": ""
+    },
+    {
+      "Session": "28",
+      "Topic": "Course review",
+      "Learning-Teaching Type": "Online",
+      "LO": "",
+      "ITU": "",
+      "Student Materials": "",
+      "S-Download": "",
+      "Student's Tasks": "",
+      "URLs": ""
+    },
+    {
+      "Session": "29",
+      "Topic": "Course review",
+      "Learning-Teaching Type": "Online",
+      "LO": "",
+      "ITU": "",
+      "Student Materials": "",
+      "S-Download": "",
+      "Student's Tasks": "",
+      "URLs": ""
+    },
+    {
+      "Session": "30",
+      "Topic": "Course review",
+      "Learning-Teaching Type": "Online",
+      "LO": "",
+      "ITU": "",
+      "Student Materials": "",
+      "S-Download": "",
+      "Student's Tasks": "",
+      "URLs": ""
+    }
+  ],
+  "constructive_questions": [],
+  "materials": [
+    {
+      "No.": "1",
+      "Material Description": "FU LMS Course Link:https://fu.funix.edu.vn/courses/course-v1:FUG+BDP302x_01_EN+2019_T9/course/",
+      "Author": "",
+      "Publisher": "",
+      "Published Date": "",
+      "Edition": "",
+      "ISBN": "",
+      "Is Main Material": "True",
+      "Is Hard Copy": "True",
+      "Is Online": "False",
+      "Note": ""
+    }
+  ],
+  "source_path": "data/raw/syllabi/4625.html",
+  "id": "syllabus:4625"
+}

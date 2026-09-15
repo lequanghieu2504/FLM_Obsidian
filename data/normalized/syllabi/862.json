@@ -1,0 +1,552 @@
+{
+  "syllabus_id": 862,
+  "subject_code": "CRY302",
+  "subject_name": "Introduction to Applied Cryptography",
+  "syllabus_name": "Introduction to Applied Cryptography",
+  "credits": 3,
+  "degree_level": "Bachelor",
+  "time_allocation": "30 sessions; 1 session = 90' Lectures: 12; Tutorials/Lab: 18",
+  "prerequisite": "MAD101",
+  "general_information": {
+    "Syllabus ID": "862",
+    "Syllabus Name": "Introduction to Applied Cryptography",
+    "Course Name English": "",
+    "Subject Code": "CRY302",
+    "Learning-Teaching Method": "",
+    "NoCredit": "3",
+    "Degree Level": "Bachelor",
+    "Time Allocation": "30 sessions; 1 session = 90' Lectures: 12; Tutorials/Lab: 18",
+    "Pre-Requisite": "MAD101",
+    "Description": "This course is an introduction to applied cryptography and its relationship to secure systems. Students will learn making, breaking codes and ciphers. They can have a good understanding of major concepts in applied cryptography: plain text, encryption, cipher text, block ciphers, decryption, public-key cryptosystems, hash functions, digital signatures, authentication, key management, and cryptographic protocols as a part of securing digital systems. Assessment structure: a) Ongoing assessment (OA): 02 Progress Tests: 20% Participation in discussions: 10% 10 Labs 30% b) Final exam: 40% c) Completion criteria: Every on-going assessment component >0, Average Lab Score >= 4, Final Exam Score >=4 & Final Result >=5",
+    "StudentTasks": "Students must attend more than 80% of contact sessions in order to be accepted to the final examination. - Students are responsible to do all exercises, assignments and labs given by instructor in class or at home and submit on time - Use laptop in class only for learning purpose - Promptly access to the http://cms.fpt.edu.vn for up-to-date course information",
+    "Tools": "Internet, Cryptool, Sage, OpenSSL, Maple",
+    "Scoring Scale": "10",
+    "DecisionNo MM/dd/yyyy": "841/QĐ-ĐHFPT dated 08/21/2017",
+    "IsApproved": "True",
+    "Note": "",
+    "Is Scored": "True",
+    "MinAvgMarkToPass": "5",
+    "IsActive": "True",
+    "ApprovedDate": "8/21/2017"
+  },
+  "active": true,
+  "approved": true,
+  "decision": "841/QĐ-ĐHFPT dated 08/21/2017",
+  "description": "This course is an introduction to applied cryptography and its relationship to secure systems. Students will learn making, breaking codes and ciphers. They can have a good understanding of major concepts in applied cryptography: plain text, encryption, cipher text, block ciphers, decryption, public-key cryptosystems, hash functions, digital signatures, authentication, key management, and cryptographic protocols as a part of securing digital systems. Assessment structure: a) Ongoing assessment (OA): 02 Progress Tests: 20% Participation in discussions: 10% 10 Labs 30% b) Final exam: 40% c) Completion criteria: Every on-going assessment component >0, Average Lab Score >= 4, Final Exam Score >=4 & Final Result >=5",
+  "learning_outcomes": [
+    {
+      "No.": "1",
+      "CLO Name": "CLO1",
+      "CLO Details": "Describe the key security requirements of confidentiality, integrity, availability, and different types of security threats and attacks."
+    },
+    {
+      "No.": "2",
+      "CLO Name": "CLO2",
+      "CLO Details": "Understand the main concepts of symmetric cryptography via classical symmetric (Caesar-type, Hill, Vigenère, Vernam, …) ciphers."
+    },
+    {
+      "No.": "3",
+      "CLO Name": "CLO3",
+      "CLO Details": "Understand the main concepts of modern symmetric cryptography (stream, block, Feistel-type ciphers, DES)."
+    },
+    {
+      "No.": "4",
+      "CLO Name": "CLO4",
+      "CLO Details": "Understand the general structure of Advanced Encryption Standard (AES) and the four transformations used in AES."
+    },
+    {
+      "No.": "5",
+      "CLO Name": "CLO5",
+      "CLO Details": "Analyze the security of multiple encryption schemes and explain the meet-in-the-middle attack."
+    },
+    {
+      "No.": "6",
+      "CLO Name": "CLO6",
+      "CLO Details": "Understand requirements for pseudorandom number generators and how they can be constructed by using block cipher."
+    },
+    {
+      "No.": "7",
+      "CLO Name": "CLO7",
+      "CLO Details": "Understand the basic principles of public-key cryptosystems (RSA, ElGamal, Diffie-Hellman)"
+    },
+    {
+      "No.": "8",
+      "CLO Name": "CLO8",
+      "CLO Details": "Understand the basic structure of cryptographic hash functions."
+    },
+    {
+      "No.": "9",
+      "CLO Name": "CLO9",
+      "CLO Details": "Understand the basic principles of message authentication and requirements."
+    },
+    {
+      "No.": "10",
+      "CLO Name": "CLO10",
+      "CLO Details": "Understand the basic digital signature schemes and algorithms (Elgamal, RSA-PSS)."
+    }
+  ],
+  "assessments": [
+    {
+      "No.": "1",
+      "Category": "Lab",
+      "Type": "on-going",
+      "Part": "10",
+      "Weight": "30.0%",
+      "Completion Criteria": "4",
+      "Duration": "60-90'/each in class",
+      "CLO": "",
+      "Question Type": "practical exercises",
+      "No Question": "N/A",
+      "Knowledge and Skill": "technical aspect of studied topics",
+      "Grading Guide": "Guided by instructor 10 Labs are arranged relevant to the chapter theory; Student must finish labs and submit the results to the lecturer in class; An average point of all labs could be evaluated and published to students at the end of the semester",
+      "Note": ""
+    },
+    {
+      "No.": "2",
+      "Category": "Participation in discussions",
+      "Type": "on-going",
+      "Part": "1",
+      "Weight": "10.0%",
+      "Completion Criteria": ">0",
+      "Duration": "",
+      "CLO": "",
+      "Question Type": "",
+      "No Question": "N/A",
+      "Knowledge and Skill": "",
+      "Grading Guide": "",
+      "Note": ""
+    },
+    {
+      "No.": "3",
+      "Category": "Progress Test",
+      "Type": "on-going",
+      "Part": "2",
+      "Weight": "20.0%",
+      "Completion Criteria": ">0",
+      "Duration": "30'/each",
+      "CLO": "",
+      "Question Type": "MC or a suitable format",
+      "No Question": "15-20",
+      "Knowledge and Skill": "Test 1: cover Chapters 1, 2, 3 Test 2: cover Chapters 5, 6, 7, 9, 10",
+      "Grading Guide": "in class, by instructor",
+      "Note": "Instruction and schedules for Progress Tests must be presented in the Course Implementation Plan approved by director of the campus. The test must be taken right after the last lectures of required material. Instructor has responsibility to review the test for students after graded."
+    },
+    {
+      "No.": "4",
+      "Category": "Final Exam",
+      "Type": "Final exam",
+      "Part": "1",
+      "Weight": "40.0%",
+      "Completion Criteria": "4",
+      "Duration": "60'",
+      "CLO": "",
+      "Question Type": "MC",
+      "No Question": "50",
+      "Knowledge and Skill": "concepts, algorithms;all studied Chapters",
+      "Grading Guide": "by exam board,",
+      "Note": "The exam questions must be updated or different at least 70% to the previous ones."
+    }
+  ],
+  "schedule": [
+    {
+      "Session": "1",
+      "Topic": "Introduction to the course Chapter 1. Overview 1.1 Computer Security Concepts",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO1",
+      "ITU": "IT",
+      "Student Materials": "Syllabus, Textbook, Lab Manual, Slides Textbook Chapter 1 Chapter slides",
+      "S-Download": "Ch1_5",
+      "Student's Tasks": "Introduce course, teaching and learning materials, tools; Explain main security concepts Study and Review Chapter 1",
+      "URLs": ""
+    },
+    {
+      "Session": "2",
+      "Topic": "1.2 The OSI Security Architecture 1.3 Security Attacks 1.4 Security Services",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO1",
+      "ITU": "T",
+      "Student Materials": "",
+      "S-Download": "",
+      "Student's Tasks": "",
+      "URLs": ""
+    },
+    {
+      "Session": "3",
+      "Topic": "1.5 Security Mechanisms 1.6 A Model for Network Security 1.8 Review Questions, Problems",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO1",
+      "ITU": "T",
+      "Student Materials": "",
+      "S-Download": "",
+      "Student's Tasks": "",
+      "URLs": ""
+    },
+    {
+      "Session": "4",
+      "Topic": "Chapter 2. Classical Encryption Techniques 2.1 Symmetric Cipher Model 2.2 Substitution Techniques 2.3 Transposition Techniques",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO2",
+      "ITU": "T",
+      "Student Materials": "Textbook Chapter 2 Chapter slides",
+      "S-Download": "",
+      "Student's Tasks": "Explain Classical Encryption Techniques Study and Review Chapter 2",
+      "URLs": ""
+    },
+    {
+      "Session": "5",
+      "Topic": "2.4 Rotor Machines 2.5 Steganography 2.7 Review Questions, Problems",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO2",
+      "ITU": "T",
+      "Student Materials": "",
+      "S-Download": "",
+      "Student's Tasks": "",
+      "URLs": ""
+    },
+    {
+      "Session": "6",
+      "Topic": "Lab 1: Classical symmetric cipher",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO2",
+      "ITU": "U",
+      "Student Materials": "Chapter slides; Lab Manual",
+      "S-Download": "",
+      "Student's Tasks": "Guide, Practice and Review Lab 1",
+      "URLs": ""
+    },
+    {
+      "Session": "7",
+      "Topic": "Chapter 3. Block Ciphers and the DES 3.1 Traditional Block Cipher Structure 3.2 The Data Encryption Standard (DES) 3.4 The Strength of DES 3.5 Block Cipher Design Principles Recommended Reading 1: Chapter 4. Finite Fields Arithmetic",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO3",
+      "ITU": "T I",
+      "Student Materials": "Textbook Chapter 3 Chapter slides",
+      "S-Download": "",
+      "Student's Tasks": "Explain Block Ciphers and the DES Study and Review Chapter 3 Read recommended document",
+      "URLs": ""
+    },
+    {
+      "Session": "8",
+      "Topic": "Lab 2: DES",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO3",
+      "ITU": "U",
+      "Student Materials": "Chapter slides; Lab Manual",
+      "S-Download": "",
+      "Student's Tasks": "Guide, Practice and Review Lab 2",
+      "URLs": ""
+    },
+    {
+      "Session": "9",
+      "Topic": "Review Chapters 1, 2, 3 (Guiding Problems) Progress Test 1 (30’) – Chapters 1, 2, 3",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO1, LO2, LO3",
+      "ITU": "",
+      "Student Materials": "Textbook Chapter 1, 2, 3 and slides",
+      "S-Download": "",
+      "Student's Tasks": "Review question and problems in Chapter 1, 2, 3",
+      "URLs": ""
+    },
+    {
+      "Session": "10",
+      "Topic": "Chapter 5. Advanced Encryption Standard 5.2 AES Structure 5.3 AES Transformation Functions 5.4 AES Key Expansion",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO4",
+      "ITU": "T",
+      "Student Materials": "Textbook Chapter 5 Chapter slides",
+      "S-Download": "",
+      "Student's Tasks": "Explain Advanced Encryption Standard Study and Review Chapter 5",
+      "URLs": ""
+    },
+    {
+      "Session": "11",
+      "Topic": "5.6 AES Implementation 5.8 Review Questions, and Problems",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO4",
+      "ITU": "U",
+      "Student Materials": "",
+      "S-Download": "",
+      "Student's Tasks": "",
+      "URLs": ""
+    },
+    {
+      "Session": "12",
+      "Topic": "Lab 3: Polynomials with Coefficients in GF(2^8), Simplified AES",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO4",
+      "ITU": "U",
+      "Student Materials": "Chapter slides; Lab Manual",
+      "S-Download": "",
+      "Student's Tasks": "Guide, Practice and Review Lab 3",
+      "URLs": ""
+    },
+    {
+      "Session": "13",
+      "Topic": "Chapter 6. Block Cipher Operation 6.1 Multiple Encryption and Triple DES 6.2 Electronic Code Book 6.3 Cipher Block Chaining Mode 6.4 Cipher Feedback Mode",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO5",
+      "ITU": "T",
+      "Student Materials": "Textbook Chapter 6 Chapter slides",
+      "S-Download": "Ch6_10",
+      "Student's Tasks": "Explain Block Cipher Operation Study and Review Chapter 6",
+      "URLs": ""
+    },
+    {
+      "Session": "14",
+      "Topic": "6.5 Output Feedback Mode 6.6 Counter Mode 6.7 XTS-AES Mode for Block-Oriented Storage Devices 6.9 Review Questions, and Problems",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO5",
+      "ITU": "TU",
+      "Student Materials": "",
+      "S-Download": "",
+      "Student's Tasks": "",
+      "URLs": ""
+    },
+    {
+      "Session": "15",
+      "Topic": "Lab 4: Block Cipher Operation, 3DES",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO5",
+      "ITU": "U",
+      "Student Materials": "Chapter slides; Lab Manual",
+      "S-Download": "",
+      "Student's Tasks": "Guide, Practice and Review Lab 4",
+      "URLs": ""
+    },
+    {
+      "Session": "16",
+      "Topic": "Chapter 7. Pseudorandom Number Generation (PRNG) and Stream Ciphers 7.1 Principles of PRNG 7.2 Pseudorandom Number Generators 7.3 PRNG Using a Block Cipher 7.4 Stream Ciphers",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO6",
+      "ITU": "T",
+      "Student Materials": "Textbook Chapter 7 Chapter slides",
+      "S-Download": "",
+      "Student's Tasks": "Explain about PRNG and Stream Ciphers Study and Review Chapter 7",
+      "URLs": ""
+    },
+    {
+      "Session": "17",
+      "Topic": "7.5 RC4 7.6 True Random Number Generators 7.8 Review Questions, and Problems",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO6",
+      "ITU": "TU",
+      "Student Materials": "",
+      "S-Download": "",
+      "Student's Tasks": "",
+      "URLs": ""
+    },
+    {
+      "Session": "18",
+      "Topic": "Lab 5: PRNG (Blum Blum Shub and Linear Congruential)",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO6",
+      "ITU": "U",
+      "Student Materials": "Chapter slides; Lab Manual",
+      "S-Download": "",
+      "Student's Tasks": "Guide, Practice and Review Lab 5",
+      "URLs": ""
+    },
+    {
+      "Session": "19",
+      "Topic": "Chapter 9: Public-Key Cryptosystems 9.1 Principles of Public-Key Cryptosystems 9.2 The RSA Algorithm 9.4 Review Questions, and Problems Recommended Reading 2: Chapter 8. Advanced Number Theory (Euler’s Theorem, Primality Test, Chinese Remainder Theorem, Discrete Logarithms)",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO7",
+      "ITU": "T I",
+      "Student Materials": "Textbook Chapter 9 Chapter slides",
+      "S-Download": "",
+      "Student's Tasks": "Explain public key, RSA Study and Review Chapter 9 Read recommended document",
+      "URLs": ""
+    },
+    {
+      "Session": "20",
+      "Topic": "Lab 6: RSA",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO7",
+      "ITU": "U",
+      "Student Materials": "Chapter slides; Lab Manual",
+      "S-Download": "",
+      "Student's Tasks": "Guide, Practice and Review Lab 6",
+      "URLs": ""
+    },
+    {
+      "Session": "21",
+      "Topic": "Chapter 10 10.1 Diffie-Hellman Key Exchange 10.2 Elgamal Cryptographic System Recommended Reading 3: Elliptic Curve Cryptography (10.3, 10.4)",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO7",
+      "ITU": "IT",
+      "Student Materials": "Textbook Chapter 10 Chapter slides",
+      "S-Download": "",
+      "Student's Tasks": "Explain Diffie-Hellman Key Exchange, Elgamal Cryptosystem Study and Review Chapter 10 Read recommended document",
+      "URLs": ""
+    },
+    {
+      "Session": "22",
+      "Topic": "Lab 7: Diffie-Hellman Key Exchange, Elgamal Cryptosystem",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO7",
+      "ITU": "U",
+      "Student Materials": "Chapter slides; Lab Manual",
+      "S-Download": "",
+      "Student's Tasks": "Guide, Practice and Review Lab 7",
+      "URLs": ""
+    },
+    {
+      "Session": "23",
+      "Topic": "Review Chapters 5, 6, 7, 9, 10 (Guiding Problems) Progress Test 2 (30’) – Chapters 5, 6, 7, 9, 10",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO7",
+      "ITU": "",
+      "Student Materials": "Textbook Chapter 5, 6, 7, 9, 10 and slides",
+      "S-Download": "",
+      "Student's Tasks": "Review question and problems in Chapter 5, 6, 7, 9, 10",
+      "URLs": ""
+    },
+    {
+      "Session": "24",
+      "Topic": "Chapter 11: Secure Hash Algorithm 11.1 Applications of Cryptographic Hash Function 11.3 Requirements and Security 11.5 Secure Hash Algorithm (SHA) 11.8 Review Questions, and Problems",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO8",
+      "ITU": "T",
+      "Student Materials": "Textbook Chapter 11 Chapter slides",
+      "S-Download": "Ch11_13",
+      "Student's Tasks": "Explain Hash Algorithm ans its applications Study and Review Chapter 11",
+      "URLs": ""
+    },
+    {
+      "Session": "25",
+      "Topic": "Lab 8: MASH",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO8",
+      "ITU": "U",
+      "Student Materials": "Chapter slides; Lab Manual",
+      "S-Download": "",
+      "Student's Tasks": "Guide, Practice and Review Lab 8",
+      "URLs": ""
+    },
+    {
+      "Session": "26",
+      "Topic": "Chapter 12. Message Authentication Codes (MAC) 12.1 Message Authentication Requirements 12.2 Message Authentication Functions 12.3 Requirements for MACs 12.4 Security of MACs 12.5 MACs Based on Hash Functions: HMAC 12.11 Review Questions, and Problems",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO9",
+      "ITU": "T",
+      "Student Materials": "Textbook Chapter 12 Chapter slides",
+      "S-Download": "",
+      "Student's Tasks": "Explain MACs Study and Review Chapter 12",
+      "URLs": ""
+    },
+    {
+      "Session": "27",
+      "Topic": "Lab 9: HMAC",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO9",
+      "ITU": "U",
+      "Student Materials": "Chapter slides; Lab Manual",
+      "S-Download": "",
+      "Student's Tasks": "Guide, Practice and Review Lab 9",
+      "URLs": ""
+    },
+    {
+      "Session": "28",
+      "Topic": "Chapter 13: Digital Signatures 13.2 Elgamal Digital Signature Scheme 13.4 NIST Digital Signature Algorithm 13.6 RSA-PSS Digital Signature Algorithm Recommended Reading 4: Key Management and Distribution, Public-Key Infrastructure (PKI), X.509 Certificates (Chapter 14), Needham-Schroeder; Kerberos (15.2, 15.3)",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO10",
+      "ITU": "T",
+      "Student Materials": "Textbook Chapter 13 Chapter slides",
+      "S-Download": "",
+      "Student's Tasks": "Explain Digital Signatures Study and Review Chapter 13 Read recommended document",
+      "URLs": ""
+    },
+    {
+      "Session": "29",
+      "Topic": "Lab 10: DSA",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO10",
+      "ITU": "U",
+      "Student Materials": "Chapter slides; Lab Manual",
+      "S-Download": "",
+      "Student's Tasks": "Guide, Practice and Review Lab 10",
+      "URLs": ""
+    },
+    {
+      "Session": "30",
+      "Topic": "Course Review",
+      "Learning-Teaching Type": "Offline",
+      "LO": "",
+      "ITU": "",
+      "Student Materials": "Textbook",
+      "S-Download": "",
+      "Student's Tasks": "Review and Prepare to FE",
+      "URLs": ""
+    }
+  ],
+  "constructive_questions": [],
+  "materials": [
+    {
+      "No.": "1",
+      "Material Description": "Cryptography Made Simple",
+      "Author": "Nigel Smart",
+      "Publisher": "Springer",
+      "Published Date": "2016",
+      "Edition": "",
+      "ISBN": "",
+      "Is Main Material": "False",
+      "Is Hard Copy": "False",
+      "Is Online": "False",
+      "Note": ""
+    },
+    {
+      "No.": "2",
+      "Material Description": "Introduction to Cryptography with Open-Source Software",
+      "Author": "Alasdair McAndrew",
+      "Publisher": "CRC Press",
+      "Published Date": "2011",
+      "Edition": "",
+      "ISBN": "",
+      "Is Main Material": "False",
+      "Is Hard Copy": "False",
+      "Is Online": "False",
+      "Note": ""
+    },
+    {
+      "No.": "3",
+      "Material Description": "Applied Cryptography: Protocols, Algorithms and Source Code in C",
+      "Author": "Bruce Schneier",
+      "Publisher": "John Wiley & Sons",
+      "Published Date": "2015",
+      "Edition": "20th",
+      "ISBN": "",
+      "Is Main Material": "False",
+      "Is Hard Copy": "False",
+      "Is Online": "False",
+      "Note": ""
+    },
+    {
+      "No.": "4",
+      "Material Description": "Everyday Cryptography: Fundamental Principles and Applications",
+      "Author": "Keith Martin",
+      "Publisher": "Oxford University Press",
+      "Published Date": "2012",
+      "Edition": "",
+      "ISBN": "",
+      "Is Main Material": "False",
+      "Is Hard Copy": "False",
+      "Is Online": "False",
+      "Note": ""
+    },
+    {
+      "No.": "5",
+      "Material Description": "Lecture slides, Lab manual, supplementary material",
+      "Author": "",
+      "Publisher": "",
+      "Published Date": "",
+      "Edition": "",
+      "ISBN": "",
+      "Is Main Material": "False",
+      "Is Hard Copy": "False",
+      "Is Online": "False",
+      "Note": ""
+    }
+  ],
+  "source_path": "data/raw/syllabi/862.html",
+  "id": "syllabus:862"
+}

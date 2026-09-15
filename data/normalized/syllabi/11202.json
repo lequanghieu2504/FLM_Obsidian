@@ -1,0 +1,1752 @@
+{
+  "syllabus_id": 11202,
+  "subject_code": "SPM401",
+  "subject_name": "Security Project Management_Quản trị dự án an toàn thông tin",
+  "syllabus_name": "Security Project Management_Quản trị dự án an toàn thông tin",
+  "credits": 3,
+  "degree_level": "Bachelor",
+  "time_allocation": "45h (60 sessions) contact hours + 1h final exam + 104h self-study",
+  "prerequisite": "IAP301",
+  "general_information": {
+    "Syllabus ID": "11202",
+    "Syllabus Name": "Security Project Management_Quản trị dự án an toàn thông tin",
+    "Course Name English": "Security Project Management",
+    "Subject Code": "SPM401",
+    "Learning-Teaching Method": "Lecture,Active learning,Social Constructivism,Presentation, Discussion",
+    "NoCredit": "3",
+    "Degree Level": "Bachelor",
+    "Time Allocation": "45h (60 sessions) contact hours + 1h final exam + 104h self-study",
+    "Pre-Requisite": "IAP301",
+    "Description": "This course focuses on the managerial aspects of information assurance which is commonly known as a process – a continuous series (or chain) of projects. Topics covered include access control models, information assurance governance, and information assurance program assessment and metrics. Coverage on the foundational and technical components of information assurance is included to reinforce key concepts. Students will learn how to properly manage security projects by going through the well-established project management, systems analysis and design practices, with special attention to the unique requirements found in security projects. Students will learn also basic skills and knowledge for a preparation of successful Capstone Projects.",
+    "StudentTasks": "- Students must attend at least 80% of contact sessions in order to be accepted to the final examination. - Students are responsible to do all exercises, assignments and labs given by instructor in class or at home and submit in time - Use laptop in class only for learning purpose - Promptly access to the FPTU LMS at https://flm.fpt.edu.vn/",
+    "Tools": "Internet access, MS Office 2007 or higher, Adobe PDF reader.",
+    "Scoring Scale": "10",
+    "DecisionNo MM/dd/yyyy": "358/QĐ-ĐHFPT dated 04/03/2024",
+    "IsApproved": "True",
+    "Note": "",
+    "Is Scored": "True",
+    "MinAvgMarkToPass": "5",
+    "IsActive": "True",
+    "ApprovedDate": "4/3/2024"
+  },
+  "active": true,
+  "approved": true,
+  "decision": "358/QĐ-ĐHFPT dated 04/03/2024",
+  "description": "This course focuses on the managerial aspects of information assurance which is commonly known as a process – a continuous series (or chain) of projects. Topics covered include access control models, information assurance governance, and information assurance program assessment and metrics. Coverage on the foundational and technical components of information assurance is included to reinforce key concepts. Students will learn how to properly manage security projects by going through the well-established project management, systems analysis and design practices, with special attention to the unique requirements found in security projects. Students will learn also basic skills and knowledge for a preparation of successful Capstone Projects.",
+  "learning_outcomes": [
+    {
+      "No.": "1",
+      "CLO Name": "CLO1",
+      "CLO Details": "Identify and describe basic project management practices and techniques; understand the significance of the project manager’s role in the success of a security project."
+    },
+    {
+      "No.": "2",
+      "CLO Name": "CLO2",
+      "CLO Details": "Understand the importance, benefits, desired outcomes of security governance and the principal components of security system implementation planning."
+    },
+    {
+      "No.": "3",
+      "CLO Name": "CLO3",
+      "CLO Details": "Understand three major types of security policy and the process of developing, implementing, and maintaining various types of information security policies."
+    },
+    {
+      "No.": "4",
+      "CLO Name": "CLO4",
+      "CLO Details": "Understand the role of project management in security and how to plan, staff and manage an organization’s information security program."
+    },
+    {
+      "No.": "5",
+      "CLO Name": "CLO5",
+      "CLO Details": "Apply risk management methods and tools to a security project."
+    },
+    {
+      "No.": "6",
+      "CLO Name": "CLO6",
+      "CLO Details": "Recommend a security management model and explain how it can be customized to meet the needs of a particular organization."
+    },
+    {
+      "No.": "7",
+      "CLO Name": "CLO7",
+      "CLO Details": "Describe the key components and identify suitable strategies for the implementation of a security performance measurement program."
+    },
+    {
+      "No.": "8",
+      "CLO Name": "CLO8",
+      "CLO Details": "Describe the major components of incident response, disaster recovery and business continuity; define the components of crisis management and business resumption."
+    },
+    {
+      "No.": "9",
+      "CLO Name": "CLO9",
+      "CLO Details": "Identify the skills and requirements for security positions; discuss and implement security constraints on the general hiring processes."
+    },
+    {
+      "No.": "10",
+      "CLO Name": "CLO10",
+      "CLO Details": "Identify common control approaches and describe the types of intrusion detection and prevention systems and the strategies on which they are based."
+    }
+  ],
+  "assessments": [
+    {
+      "No.": "1",
+      "Category": "Group Project Presentation",
+      "Type": "on-going",
+      "Part": "1",
+      "Weight": "20.0%",
+      "Completion Criteria": ">0",
+      "Duration": "Option 1: 15’-20’/each; Option 2 (For Constructivism Approach only): Follow lecturer's proposal",
+      "CLO": "",
+      "Question Type": "Option 1: a chosen Security Project; Option 2 (For Constructivism Approach only): Follow lecturer's proposal",
+      "No Question": "Option 1: N/A; Option 2 (For Constructivism Approach only): Follow lecturer's proposal",
+      "Knowledge and Skill": "",
+      "Grading Guide": "Team-present the chosen project",
+      "Note": ""
+    },
+    {
+      "No.": "2",
+      "Category": "Group Reports",
+      "Type": "on-going",
+      "Part": "6",
+      "Weight": "30.0%",
+      "Completion Criteria": ">0",
+      "Duration": "Option 1: 60-90'; Option 2 (For Constructivism Approach only): Follow lecturer's proposal",
+      "CLO": "",
+      "Question Type": "Option 1: 06 parts of a chosen Security Project; Option 2 (For Constructivism Approach only): Follow lecturer's proposal",
+      "No Question": "Option 1: N/A; Option 2 (For Constructivism Approach only): Follow lecturer's proposal",
+      "Knowledge and Skill": "technical aspect of studied topics",
+      "Grading Guide": "Guided by instructor - 06 Reports are arranged relevant to the chosen Project - Student must work in groups and submit the results to the lecturer in class. - An average point of all reports could be evaluated and published to students at the end of the semester",
+      "Note": ""
+    },
+    {
+      "No.": "3",
+      "Category": "Midterm Progress Test",
+      "Type": "on-going",
+      "Part": "1",
+      "Weight": "10.0%",
+      "Completion Criteria": ">0",
+      "Duration": "Option 1: 30'-40'; Option 2 (For Constructivism Approach only): Follow lecturer's proposal",
+      "CLO": "",
+      "Question Type": "Option 1: Multiple choices; Option 2 (For Constructivism Approach only): Follow lecturer's proposal",
+      "No Question": "Option 1: 20-25; Option 2 (For Constructivism Approach only): Follow lecturer's proposal",
+      "Knowledge and Skill": "cover Lectures 1-5",
+      "Grading Guide": "in class, by instructor",
+      "Note": "Instruction and schedules for Progress Test must be presented in the Course Implementation Plan approved by director of the campus. The test must be taken right after the last lectures of required material. Instructor has responsibility to review the test for students after graded."
+    },
+    {
+      "No.": "4",
+      "Category": "Participation in Discussions",
+      "Type": "on-going",
+      "Part": "1",
+      "Weight": "10.0%",
+      "Completion Criteria": ">0",
+      "Duration": "",
+      "CLO": "",
+      "Question Type": "",
+      "No Question": "",
+      "Knowledge and Skill": "",
+      "Grading Guide": "",
+      "Note": ""
+    },
+    {
+      "No.": "5",
+      "Category": "Final Exam",
+      "Type": "Final exam",
+      "Part": "1",
+      "Weight": "30.0%",
+      "Completion Criteria": "4",
+      "Duration": "60'",
+      "CLO": "LO1, LO2, LO3, LO4, LO5, LO6, LO7, LO8, LO9, LO10",
+      "Question Type": "Multiple choices Marked by Computer",
+      "No Question": "40-50",
+      "Knowledge and Skill": "concepts, algorithms; all studied Chapters",
+      "Grading Guide": "by exam board, using computer",
+      "Note": "The exam questions must be updated or different at least 70% to the previous ones."
+    }
+  ],
+  "schedule": [
+    {
+      "Session": "1",
+      "Topic": "\"Lecture 1. Introduction to the Security Project Management 1.1 Security Project Management 1.2 Technical Aspects of Implementation",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO1",
+      "ITU": "T",
+      "Student Materials": "\"Syllabus Chapter 10 ref. [5], Ch.1 Textbook Lecture Slides Ch. 1, 2, 7 ref. [3], Ch.5 ref.[1], Ch.3, 11 ref.[4]\"",
+      "S-Download": "mat",
+      "Student's Tasks": "\"Read Ch.10 ref. [5], Ch.1 Textbook Ch. 1, 2, 7 ref. [3] Ch.5 ref.[1], Ch.3, 11 ref.[4] Study and Review Lecture 1\"",
+      "URLs": ""
+    },
+    {
+      "Session": "2",
+      "Topic": "\"Lecture 1. Introduction to the Security Project Management 1.3 Nontechnical Aspects of Implementation",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO1",
+      "ITU": "T",
+      "Student Materials": "\"Syllabus Chapter 10 ref. [5], Ch.1 Textbook Lecture Slides Ch. 1, 2, 7 ref. [3], Ch.5 ref.[1], Ch.3, 11 ref.[4]\"",
+      "S-Download": "",
+      "Student's Tasks": "\"Read Ch.10 ref. [5], Ch.1 Textbook Ch. 1, 2, 7 ref. [3] Ch.5 ref.[1], Ch.3, 11 ref.[4] Study and Review Lecture 1\"",
+      "URLs": ""
+    },
+    {
+      "Session": "3",
+      "Topic": "\"Lecture 1. Introduction to the Security Project Management 1.4 ISS Certification and Accreditation 1.5 Class Discussion: Six Ps in Security Management\"",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO1",
+      "ITU": "T",
+      "Student Materials": "\"Syllabus Chapter 10 ref. [5], Ch.1 Textbook Lecture Slides Ch. 1, 2, 7 ref. [3], Ch.5 ref.[1], Ch.3, 11 ref.[4]\"",
+      "S-Download": "",
+      "Student's Tasks": "\"Read Ch.10 ref. [5], Ch.1 Textbook Ch. 1, 2, 7 ref. [3] Ch.5 ref.[1], Ch.3, 11 ref.[4] Study and Review Lecture 1\"",
+      "URLs": ""
+    },
+    {
+      "Session": "4",
+      "Topic": "\"Lecture 1. Introduction to the Security Project Management (cont.) 1.4 ISS Certification and Accreditation 1.5 Class Discussion: Six Ps in Security Management\"",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO1",
+      "ITU": "T",
+      "Student Materials": "\"Syllabus Chapter 10 ref. [5], Ch.1 Textbook Lecture Slides Ch. 1, 2, 7 ref. [3], Ch.5 ref.[1], Ch.3, 11 ref.[4]\"",
+      "S-Download": "",
+      "Student's Tasks": "\"Read Ch.10 ref. [5], Ch.1 Textbook Ch. 1, 2, 7 ref. [3] Ch.5 ref.[1], Ch.3, 11 ref.[4] Study and Review Lecture 1\"",
+      "URLs": ""
+    },
+    {
+      "Session": "5",
+      "Topic": "Guide: Capstone Project Document for IA Specific Purposes",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO1",
+      "ITU": "U",
+      "Student Materials": "Lecture Slides Materials of IAT491",
+      "S-Download": "",
+      "Student's Tasks": "Study and Review Capstone Project Document",
+      "URLs": ""
+    },
+    {
+      "Session": "6",
+      "Topic": "Guide: Capstone Project Document for IA Specific Purposes (cont.)",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO1",
+      "ITU": "U",
+      "Student Materials": "Lecture Slides Materials of IAT491",
+      "S-Download": "",
+      "Student's Tasks": "Study and Review Capstone Project Document",
+      "URLs": ""
+    },
+    {
+      "Session": "7",
+      "Topic": "Review and Discussion: The IA Integrated Model",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO1",
+      "ITU": "U",
+      "Student Materials": "Lecture Slides Materials of IAT491",
+      "S-Download": "",
+      "Student's Tasks": "Review Discussion",
+      "URLs": ""
+    },
+    {
+      "Session": "8",
+      "Topic": "Review and Discussion: The IA Integrated Model (cont.)",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO1",
+      "ITU": "U",
+      "Student Materials": "Lecture Slides Materials of IAT491",
+      "S-Download": "",
+      "Student's Tasks": "Review Discussion",
+      "URLs": ""
+    },
+    {
+      "Session": "9",
+      "Topic": "Guide – Working in Groups: Security Trends",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO2",
+      "ITU": "U",
+      "Student Materials": "Lecture Slides, ref. [2], Ch. 3, 5 ref. [3] and Internet Sources Materials of IAT491",
+      "S-Download": "",
+      "Student's Tasks": "Discuss, Form Teams with Team Leaders, Choose a Security Project Theme",
+      "URLs": ""
+    },
+    {
+      "Session": "10",
+      "Topic": "Guide – Working in Groups: Security Trends (cont.)",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO2",
+      "ITU": "U",
+      "Student Materials": "Lecture Slides, ref. [2], Ch. 3, 5 ref. [3] and Internet Sources Materials of IAT491",
+      "S-Download": "",
+      "Student's Tasks": "Discuss, Form Teams with Team Leaders, Choose a Security Project Theme",
+      "URLs": ""
+    },
+    {
+      "Session": "11",
+      "Topic": "Lecture 2. Governance and Strategic Planning for Security 2.1 The Role of Planning 2.2 Strategic Planning",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO2",
+      "ITU": "T",
+      "Student Materials": "Chapter 3 Textbook Lecture Slides Ch. 6 ref. [3]",
+      "S-Download": "",
+      "Student's Tasks": "Read Chapter 3 Textbook Ch. 6 ref. [3] Study and Review Lecture 2",
+      "URLs": ""
+    },
+    {
+      "Session": "12",
+      "Topic": "Lecture 2. Governance and Strategic Planning for Security 2.3 Security Governance 2.4 Planning for Security Implementation",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO2",
+      "ITU": "T",
+      "Student Materials": "Chapter 3 Textbook Lecture Slides Ch. 6 ref. [3]",
+      "S-Download": "",
+      "Student's Tasks": "Read Chapter 3 Textbook Ch. 6 ref. [3] Study and Review Lecture 2",
+      "URLs": ""
+    },
+    {
+      "Session": "13",
+      "Topic": "Group Report 1: A Chosen Theme for a Security Project",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO2",
+      "ITU": "U",
+      "Student Materials": "Lecture Slides, ref. [2], Ch. 3, 5 ref. [3] and Internet Sources Materials of IAT491",
+      "S-Download": "",
+      "Student's Tasks": "Team-Work and Submit Report 1 for Chosen Project",
+      "URLs": ""
+    },
+    {
+      "Session": "14",
+      "Topic": "Group Report 1: A Chosen Theme for a Security Project (cont.)",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO2",
+      "ITU": "U",
+      "Student Materials": "Lecture Slides, ref. [2], Ch. 3, 5 ref. [3] and Internet Sources Materials of IAT491",
+      "S-Download": "",
+      "Student's Tasks": "Team-Work and Submit Report 1 for Chosen Project",
+      "URLs": ""
+    },
+    {
+      "Session": "15",
+      "Topic": "Lecture 3. Security Policy 3.1 Why Policy? 3.2 Enterprise Security Policy 3.3 Issue-Specific Security Policy",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO3",
+      "ITU": "T",
+      "Student Materials": "Chapter 4 Textbook Lecture Slides Ch. 13 ref. [3]",
+      "S-Download": "",
+      "Student's Tasks": "Read Chapter 4 Textbook Ch. 13 ref. [3] Study and Review Lecture 3",
+      "URLs": ""
+    },
+    {
+      "Session": "16",
+      "Topic": "Lecture 3. Security Policy 3.4 System-specific Security Policy 3.5 Guidelines for Effective Policy Development and Implementation 3.6 A Final Note on Policy",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO3",
+      "ITU": "T",
+      "Student Materials": "Chapter 4 Textbook Lecture Slides Ch. 13 ref. [3]",
+      "S-Download": "",
+      "Student's Tasks": "Read Chapter 4 Textbook Ch. 13 ref. [3] Study and Review Lecture 3",
+      "URLs": ""
+    },
+    {
+      "Session": "17",
+      "Topic": "Review and Discussion: Information Assurance Policy Implementation",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO3",
+      "ITU": "U",
+      "Student Materials": "Lecture Slides Materials from IAP301",
+      "S-Download": "",
+      "Student's Tasks": "Review Discussion",
+      "URLs": ""
+    },
+    {
+      "Session": "18",
+      "Topic": "Review and Discussion: Information Assurance Policy Implementation (cont.)",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO3",
+      "ITU": "U",
+      "Student Materials": "Lecture Slides Materials from IAP301",
+      "S-Download": "",
+      "Student's Tasks": "Review Discussion",
+      "URLs": ""
+    },
+    {
+      "Session": "19",
+      "Topic": "Lecture 4. Developing the Security Program 4.1 Organizing For Security 4.2 Placing Information Security within an Organization",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO4",
+      "ITU": "T",
+      "Student Materials": "Chapter 5 Textbook Lecture Slides Ch. 3 ref. [3]",
+      "S-Download": "",
+      "Student's Tasks": "Read Chapter 5 Textbook Ch. 3 ref. [3] Study and Review Lecture 4",
+      "URLs": ""
+    },
+    {
+      "Session": "20",
+      "Topic": "Lecture 4. Developing the Security Program 4.3 Components of the Security Program, Security Roles and Titles 4.4 Implementing Security Education, Training and Awareness Programs 4.5 Project Management in Information Assurance",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO4",
+      "ITU": "T",
+      "Student Materials": "Chapter 5 Textbook Lecture Slides Ch. 3 ref. [3]",
+      "S-Download": "",
+      "Student's Tasks": "Read Chapter 5 Textbook Ch. 3 ref. [3] Study and Review Lecture 4",
+      "URLs": ""
+    },
+    {
+      "Session": "21",
+      "Topic": "Group Discussion: Security Project Management Plan",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO4",
+      "ITU": "U",
+      "Student Materials": "Lecture Slides Materials of IAT491",
+      "S-Download": "",
+      "Student's Tasks": "Discuss in Groups",
+      "URLs": ""
+    },
+    {
+      "Session": "22",
+      "Topic": "Group Discussion: Security Project Management Plan (cont.)",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO4",
+      "ITU": "U",
+      "Student Materials": "Lecture Slides Materials of IAT491",
+      "S-Download": "",
+      "Student's Tasks": "Discuss in Groups",
+      "URLs": ""
+    },
+    {
+      "Session": "23",
+      "Topic": "Group Report 2: Security Project Management Plan",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO4",
+      "ITU": "U",
+      "Student Materials": "Lecture Slides Materials of IAT491",
+      "S-Download": "",
+      "Student's Tasks": "Team-Work and Submit Report 2 for Chosen Project",
+      "URLs": ""
+    },
+    {
+      "Session": "24",
+      "Topic": "Group Report 2: Security Project Management Plan (cont.)",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO4",
+      "ITU": "U",
+      "Student Materials": "Lecture Slides Materials of IAT491",
+      "S-Download": "",
+      "Student's Tasks": "Team-Work and Submit Report 2 for Chosen Project",
+      "URLs": ""
+    },
+    {
+      "Session": "25",
+      "Topic": "\"Lecture 5. Risk Management: Identifying, Assessing and Controlling Risk 5.1 Risk Management – a Review 5.2 Risk Identification \"",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO5",
+      "ITU": "T",
+      "Student Materials": "\"Chapters 6, 7 Textbook Lecture Slides Ch. 10 ref. [3]\"",
+      "S-Download": "",
+      "Student's Tasks": "\"Read Chapters 6, 7 Textbook Ch. 10 ref. [3] Study and Review Lecture 5\"",
+      "URLs": ""
+    },
+    {
+      "Session": "26",
+      "Topic": "\"Lecture 5. Risk Management: Identifying, Assessing and Controlling Risk 5.3 Risk Assessment and Risk Appetite\"",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO5",
+      "ITU": "T",
+      "Student Materials": "\"Chapters 6, 7 Textbook Lecture Slides Ch. 10 ref. [3]\"",
+      "S-Download": "",
+      "Student's Tasks": "\"Read Chapters 6, 7 Textbook Ch. 10 ref. [3] Study and Review Lecture 5\"",
+      "URLs": ""
+    },
+    {
+      "Session": "27",
+      "Topic": "\"Lecture 5. Risk Management: Identifying, Assessing and Controlling Risk 5.4 Risk Control and Managing Risk\"",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO5",
+      "ITU": "T",
+      "Student Materials": "\"Chapters 6, 7 Textbook Lecture Slides Ch. 10 ref. [3]\"",
+      "S-Download": "",
+      "Student's Tasks": "\"Read Chapters 6, 7 Textbook Ch. 10 ref. [3] Study and Review Lecture 5\"",
+      "URLs": ""
+    },
+    {
+      "Session": "28",
+      "Topic": "\"Lecture 5. Risk Management: Identifying, Assessing and Controlling Risk 5.5 Recommended Risk Control Practices\"",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO5",
+      "ITU": "T",
+      "Student Materials": "\"Chapters 6, 7 Textbook Lecture Slides Ch. 10 ref. [3]\"",
+      "S-Download": "",
+      "Student's Tasks": "\"Read Chapters 6, 7 Textbook Ch. 10 ref. [3] Study and Review Lecture 5\"",
+      "URLs": ""
+    },
+    {
+      "Session": "29",
+      "Topic": "Review and Discussion: Security Management and Risk Management",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO5",
+      "ITU": "U",
+      "Student Materials": "Lecture Slides, Ch. 1, ref. [2] and Internet Sources Materials of IAA202",
+      "S-Download": "",
+      "Student's Tasks": "Review Discussion",
+      "URLs": ""
+    },
+    {
+      "Session": "30",
+      "Topic": "Review and Discussion: Security Management and Risk Management (cont.)",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO5",
+      "ITU": "U",
+      "Student Materials": "Lecture Slides, Ch. 1, ref. [2] and Internet Sources Materials of IAA202",
+      "S-Download": "",
+      "Student's Tasks": "Review Discussion",
+      "URLs": ""
+    },
+    {
+      "Session": "31",
+      "Topic": "Group Discussion: Security Project Risk Assessment",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO5",
+      "ITU": "U",
+      "Student Materials": "Lecture Slides Materials of IAT491",
+      "S-Download": "",
+      "Student's Tasks": "Discuss in Groups",
+      "URLs": ""
+    },
+    {
+      "Session": "32",
+      "Topic": "Group Discussion: Security Project Risk Assessment (cont.)",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO5",
+      "ITU": "U",
+      "Student Materials": "Lecture Slides Materials of IAT491",
+      "S-Download": "",
+      "Student's Tasks": "Discuss in Groups",
+      "URLs": ""
+    },
+    {
+      "Session": "33",
+      "Topic": "Group Report 3: Security Project Risk Assessment",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO5",
+      "ITU": "U",
+      "Student Materials": "Lecture Slides Materials of IAT491",
+      "S-Download": "",
+      "Student's Tasks": "Team-Work and Submit Report 3 for Chosen Project",
+      "URLs": ""
+    },
+    {
+      "Session": "34",
+      "Topic": "Group Report 3: Security Project Risk Assessment (cont.)",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO5",
+      "ITU": "U",
+      "Student Materials": "Lecture Slides Materials of IAT491",
+      "S-Download": "",
+      "Student's Tasks": "Team-Work and Submit Report 3 for Chosen Project",
+      "URLs": ""
+    },
+    {
+      "Session": "35",
+      "Topic": "Review for Midterm Midterm Progress Test",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO1, LO2, LO3, LO4, LO5",
+      "ITU": "U",
+      "Student Materials": "Lecture Slides 1-5 Progress Test Guide",
+      "S-Download": "",
+      "Student's Tasks": "",
+      "URLs": ""
+    },
+    {
+      "Session": "36",
+      "Topic": "Review for Midterm Midterm Progress Test (cont.)",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO1, LO2, LO3, LO4, LO5",
+      "ITU": "U",
+      "Student Materials": "Lecture Slides 1-5 Progress Test Guide",
+      "S-Download": "",
+      "Student's Tasks": "",
+      "URLs": ""
+    },
+    {
+      "Session": "37",
+      "Topic": "Group Discussion: Security Project Risk Management Plan",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO5",
+      "ITU": "U",
+      "Student Materials": "Lecture Slides Materials of IAT491",
+      "S-Download": "",
+      "Student's Tasks": "Discuss in Groups",
+      "URLs": ""
+    },
+    {
+      "Session": "38",
+      "Topic": "Group Discussion: Security Project Risk Management Plan (cont.)",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO5",
+      "ITU": "U",
+      "Student Materials": "Lecture Slides Materials of IAT491",
+      "S-Download": "",
+      "Student's Tasks": "Discuss in Groups",
+      "URLs": ""
+    },
+    {
+      "Session": "39",
+      "Topic": "Group Report 4: Security Project Risk Management Plan",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO5",
+      "ITU": "U",
+      "Student Materials": "Lecture Slides Materials of IAT491",
+      "S-Download": "",
+      "Student's Tasks": "Team-Work and Submit Report 4 for Chosen Project",
+      "URLs": ""
+    },
+    {
+      "Session": "40",
+      "Topic": "Group Report 4: Security Project Risk Management Plan (cont.)",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO5",
+      "ITU": "U",
+      "Student Materials": "Lecture Slides Materials of IAT491",
+      "S-Download": "",
+      "Student's Tasks": "Team-Work and Submit Report 4 for Chosen Project",
+      "URLs": ""
+    },
+    {
+      "Session": "41",
+      "Topic": "Lecture 6. Security Management Models 6.1 Introduction to Blueprints, Frameworks and Security Models 6.2 Access Control Models",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO6",
+      "ITU": "T",
+      "Student Materials": "Chapter 8 Textbook Lecture Slides Ch. 10 ref. [3]",
+      "S-Download": "",
+      "Student's Tasks": "Read Chapter 8 Textbook Ch. 10 ref. [3] Study and Review Lecture 6",
+      "URLs": ""
+    },
+    {
+      "Session": "42",
+      "Topic": "Lecture 6. Security Management Models 6.3 Security Architecture Models 6.4 Academic Access Control Models 6.5 Other Security Management Models",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO6",
+      "ITU": "T",
+      "Student Materials": "Chapter 8 Textbook Lecture Slides Ch. 10 ref. [3]",
+      "S-Download": "",
+      "Student's Tasks": "Read Chapter 8 Textbook Ch. 10 ref. [3] Study and Review Lecture 6",
+      "URLs": ""
+    },
+    {
+      "Session": "43",
+      "Topic": "Group Discussion: Development and Implementation Plan",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO6",
+      "ITU": "U",
+      "Student Materials": "Lecture Slides Materials of IAT491",
+      "S-Download": "",
+      "Student's Tasks": "Discuss in Groups",
+      "URLs": ""
+    },
+    {
+      "Session": "44",
+      "Topic": "Group Discussion: Development and Implementation Plan (cont.)",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO6",
+      "ITU": "U",
+      "Student Materials": "Lecture Slides Materials of IAT491",
+      "S-Download": "",
+      "Student's Tasks": "Discuss in Groups",
+      "URLs": ""
+    },
+    {
+      "Session": "45",
+      "Topic": "Lecture 7. Security Management Practices 7.1 Introduction To Security Practices 7.2 Performance Measurement in Security Management",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO7",
+      "ITU": "T",
+      "Student Materials": "Chapter 9 Textbook Lecture Slides",
+      "S-Download": "",
+      "Student's Tasks": "Read Chapter 9 Textbook Study and Review Lecture 7",
+      "URLs": ""
+    },
+    {
+      "Session": "46",
+      "Topic": "Lecture 7. Security Management Practices 7.3 Trends In Certification and Accreditation",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO7",
+      "ITU": "T",
+      "Student Materials": "Chapter 9 Textbook Lecture Slides",
+      "S-Download": "",
+      "Student's Tasks": "Read Chapter 9 Textbook Study and Review Lecture 7",
+      "URLs": ""
+    },
+    {
+      "Session": "47",
+      "Topic": "Lecture 8. Review and Discussion: Planning for Contingencies 8.1 Incident Response 8.2 Disaster Recovery",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO8",
+      "ITU": "T",
+      "Student Materials": "Chapter 10 Textbook Lecture Slides Ch. 13 ref. [3] Materials of IAR401",
+      "S-Download": "",
+      "Student's Tasks": "Read Chapter 10 Textbook Ch. 13 ref. [3] Study and Review Lecture 8",
+      "URLs": ""
+    },
+    {
+      "Session": "48",
+      "Topic": "Lecture 8. Review and Discussion: Planning for Contingencies 8.3 Business Continuity, Business Resumption and Testing Contingency Plans 8.4 Managing Investigations in the Organization",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO8",
+      "ITU": "T",
+      "Student Materials": "Chapter 10 Textbook Lecture Slides Ch. 13 ref. [3] Materials of IAR401",
+      "S-Download": "",
+      "Student's Tasks": "Read Chapter 10 Textbook Ch. 13 ref. [3] Study and Review Lecture 8",
+      "URLs": ""
+    },
+    {
+      "Session": "49",
+      "Topic": "Lecture 9. Review and Discussion: Personnel and Security 9.1 Introduction to Personnel and Security",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO9",
+      "ITU": "T",
+      "Student Materials": "Chapter 11 Textbook Lecture Slides Ch. 11 ref. [3] Materials of IAP301",
+      "S-Download": "",
+      "Student's Tasks": "Read Chapter 11 Textbook Ch. 11 ref. [3] Study and Review Lecture 9",
+      "URLs": ""
+    },
+    {
+      "Session": "50",
+      "Topic": "Lecture 9. Review and Discussion: Personnel and Security 9.2 Information Security Professional Credentials 9.3 Employment Policies and Practices",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO9",
+      "ITU": "T",
+      "Student Materials": "Chapter 11 Textbook Lecture Slides Ch. 11 ref. [3] Materials of IAP301",
+      "S-Download": "",
+      "Student's Tasks": "Read Chapter 11 Textbook Ch. 11 ref. [3] Study and Review Lecture 9",
+      "URLs": ""
+    },
+    {
+      "Session": "51",
+      "Topic": "Group Report 5: Development and Implementation Plan",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO6, LO7, LO8, LO9",
+      "ITU": "U",
+      "Student Materials": "Lecture Slides Materials of IAT491",
+      "S-Download": "",
+      "Student's Tasks": "Team-Work and Submit Report 5 for Chosen Project",
+      "URLs": ""
+    },
+    {
+      "Session": "52",
+      "Topic": "Group Report 5: Development and Implementation Plan (cont.)",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO6, LO7, LO8, LO9",
+      "ITU": "U",
+      "Student Materials": "Lecture Slides Materials of IAT491",
+      "S-Download": "",
+      "Student's Tasks": "Team-Work and Submit Report 5 for Chosen Project",
+      "URLs": ""
+    },
+    {
+      "Session": "53",
+      "Topic": "Lecture 10. Review and Discussion: Protection Mechanisms 10.1 Introduction to Protection Mechanisms 10.2 Managing Network Security",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO10",
+      "ITU": "T",
+      "Student Materials": "Chapter 12 Textbook Lecture Slides Ch. 12 ref. [5], Ch. 12 ref. [4], Ch. 11 ref. [3] Materials of FRS401",
+      "S-Download": "",
+      "Student's Tasks": "Chapter 12 Textbook Ch. 12 ref. [5], Ch. 12 ref. [4], Ch. 11 ref. [3] Study and Review Lecture 10",
+      "URLs": ""
+    },
+    {
+      "Session": "54",
+      "Topic": "Lecture 10. Review and Discussion: Protection Mechanisms 10.2 Managing Network Security (cont.) 10.3 Cryptography",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO10",
+      "ITU": "T",
+      "Student Materials": "Chapter 12 Textbook Lecture Slides Ch. 12 ref. [5], Ch. 12 ref. [4], Ch. 11 ref. [3] Materials of FRS401",
+      "S-Download": "",
+      "Student's Tasks": "Chapter 12 Textbook Ch. 12 ref. [5], Ch. 12 ref. [4], Ch. 11 ref. [3] Study and Review Lecture 10",
+      "URLs": ""
+    },
+    {
+      "Session": "55",
+      "Topic": "Group Report 6: Validating Documentation",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO5, LO6, LO7, LO8, LO9, LO10",
+      "ITU": "U",
+      "Student Materials": "Lecture Slides Materials of IAT491",
+      "S-Download": "",
+      "Student's Tasks": "Team-Work and Submit Report 6 for Chosen Project",
+      "URLs": ""
+    },
+    {
+      "Session": "56",
+      "Topic": "Group Report 6: Validating Documentation (cont.)",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO5, LO6, LO7, LO8, LO9, LO10",
+      "ITU": "U",
+      "Student Materials": "Lecture Slides Materials of IAT491",
+      "S-Download": "",
+      "Student's Tasks": "Team-Work and Submit Report 6 for Chosen Project",
+      "URLs": ""
+    },
+    {
+      "Session": "57",
+      "Topic": "Group Project Presentation",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO1, LO2, LO3, LO4, LO5, LO6, LO7, LO8, LO9, LO10",
+      "ITU": "U",
+      "Student Materials": "Security Project Presentation Materials",
+      "S-Download": "",
+      "Student's Tasks": "Team-present the Chosen Project",
+      "URLs": ""
+    },
+    {
+      "Session": "58",
+      "Topic": "Group Project Presentation (cont.)",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO1, LO2, LO3, LO4, LO5, LO6, LO7, LO8, LO9, LO10",
+      "ITU": "U",
+      "Student Materials": "Security Project Presentation Materials",
+      "S-Download": "",
+      "Student's Tasks": "Team-present the Chosen Project",
+      "URLs": ""
+    },
+    {
+      "Session": "59",
+      "Topic": "Course Review",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO1, LO2, LO3, LO4, LO5, LO6, LO7, LO8, LO9, LO10",
+      "ITU": "U",
+      "Student Materials": "All Lecture Slides",
+      "S-Download": "",
+      "Student's Tasks": "Review the course",
+      "URLs": ""
+    },
+    {
+      "Session": "60",
+      "Topic": "Course Review (cont.)",
+      "Learning-Teaching Type": "Offline",
+      "LO": "LO1, LO2, LO3, LO4, LO5, LO6, LO7, LO8, LO9, LO10",
+      "ITU": "U",
+      "Student Materials": "All Lecture Slides",
+      "S-Download": "",
+      "Student's Tasks": "Review the course",
+      "URLs": ""
+    }
+  ],
+  "constructive_questions": [
+    {
+      "No.": "1",
+      "Session No": "1",
+      "Name": "CQ1",
+      "Details": "QN1: How to form the information security blueprint ?"
+    },
+    {
+      "No.": "2",
+      "Session No": "1",
+      "Name": "CQ2",
+      "Details": "QN2: What's projectitis ?"
+    },
+    {
+      "No.": "3",
+      "Session No": "1",
+      "Name": "CQ3",
+      "Details": "QN3: What stands for RFP ?"
+    },
+    {
+      "No.": "4",
+      "Session No": "1",
+      "Name": "CQ4",
+      "Details": "QN4: What's a gap analysis ?"
+    },
+    {
+      "No.": "5",
+      "Session No": "1",
+      "Name": "CQ5",
+      "Details": "QN5: In each working group how can you find three key terms and explain their meaning ?"
+    },
+    {
+      "No.": "6",
+      "Session No": "2",
+      "Name": "CQ1",
+      "Details": "QN1: How to form the information security blueprint ? (cont.)"
+    },
+    {
+      "No.": "7",
+      "Session No": "2",
+      "Name": "CQ2",
+      "Details": "QN2: What's projectitis ? (cont.)"
+    },
+    {
+      "No.": "8",
+      "Session No": "2",
+      "Name": "CQ3",
+      "Details": "QN3: What stands for RFP ? (cont.)"
+    },
+    {
+      "No.": "9",
+      "Session No": "2",
+      "Name": "CQ4",
+      "Details": "QN4: What's a gap analysis ? (cont.)"
+    },
+    {
+      "No.": "10",
+      "Session No": "2",
+      "Name": "CQ5",
+      "Details": "QN5: In each working group how can you find three key terms and explain their meaning ? (cont.)"
+    },
+    {
+      "No.": "11",
+      "Session No": "3",
+      "Name": "CQ1",
+      "Details": "QN1: What stands for WBS ?"
+    },
+    {
+      "No.": "12",
+      "Session No": "3",
+      "Name": "CQ2",
+      "Details": "QN2: What's clickbait ?"
+    },
+    {
+      "No.": "13",
+      "Session No": "3",
+      "Name": "CQ3",
+      "Details": "QN3: What's a polymorphic threat ?"
+    },
+    {
+      "No.": "14",
+      "Session No": "3",
+      "Name": "CQ4",
+      "Details": "QN4: In each working group how can you find three key terms and explain their meaning ?"
+    },
+    {
+      "No.": "15",
+      "Session No": "4",
+      "Name": "CQ1",
+      "Details": "QN1: What stands for WBS ? (cont.)"
+    },
+    {
+      "No.": "16",
+      "Session No": "4",
+      "Name": "CQ2",
+      "Details": "QN2: What's clickbait ? (cont.)"
+    },
+    {
+      "No.": "17",
+      "Session No": "4",
+      "Name": "CQ3",
+      "Details": "QN3: What's a polymorphic threat ? (cont.)"
+    },
+    {
+      "No.": "18",
+      "Session No": "4",
+      "Name": "CQ4",
+      "Details": "QN4: In each working group how can you find three key terms and explain their meaning ? (cont.)"
+    },
+    {
+      "No.": "19",
+      "Session No": "5",
+      "Name": "CQ1",
+      "Details": "QN1: What's a direct changeover ?"
+    },
+    {
+      "No.": "20",
+      "Session No": "5",
+      "Name": "CQ2",
+      "Details": "QN2: What's the Bull’s-Eye Model ?"
+    },
+    {
+      "No.": "21",
+      "Session No": "5",
+      "Name": "CQ3",
+      "Details": "QN3: What stands for RMF ?"
+    },
+    {
+      "No.": "22",
+      "Session No": "5",
+      "Name": "CQ4",
+      "Details": "QN4: In each working group how can you find three key terms and explain their meaning ?"
+    },
+    {
+      "No.": "23",
+      "Session No": "6",
+      "Name": "CQ1",
+      "Details": "QN1: What's a direct changeover ? (cont.)"
+    },
+    {
+      "No.": "24",
+      "Session No": "6",
+      "Name": "CQ2",
+      "Details": "QN2: What's the Bull’s-Eye Model ? (cont.)"
+    },
+    {
+      "No.": "25",
+      "Session No": "6",
+      "Name": "CQ3",
+      "Details": "QN3: What stands for RMF ? (cont.)"
+    },
+    {
+      "No.": "26",
+      "Session No": "6",
+      "Name": "CQ4",
+      "Details": "QN4: In each working group how can you find three key terms and explain their meaning ? (cont.)"
+    },
+    {
+      "No.": "27",
+      "Session No": "7",
+      "Name": "CQ1",
+      "Details": "QN1: What are the four phases of NIACAP ?"
+    },
+    {
+      "No.": "28",
+      "Session No": "7",
+      "Name": "CQ2",
+      "Details": "QN2: What are McCumber's dimensions and the CNSS security model ?"
+    },
+    {
+      "No.": "29",
+      "Session No": "7",
+      "Name": "CQ3",
+      "Details": "QN3: What does accountability mean ?"
+    },
+    {
+      "No.": "30",
+      "Session No": "7",
+      "Name": "CQ4",
+      "Details": "QN4: In each working group how can you find three key terms and explain their meaning ?"
+    },
+    {
+      "No.": "31",
+      "Session No": "8",
+      "Name": "CQ1",
+      "Details": "QN1: What are the four phases of NIACAP ? (cont.)"
+    },
+    {
+      "No.": "32",
+      "Session No": "8",
+      "Name": "CQ2",
+      "Details": "QN2: What are McCumber's dimensions and the CNSS security model ? (cont.)"
+    },
+    {
+      "No.": "33",
+      "Session No": "8",
+      "Name": "CQ3",
+      "Details": "QN3: What does accountability mean ? (cont.)"
+    },
+    {
+      "No.": "34",
+      "Session No": "8",
+      "Name": "CQ4",
+      "Details": "QN4: In each working group how can you find three key terms and explain their meaning ? (cont.)"
+    },
+    {
+      "No.": "35",
+      "Session No": "9",
+      "Name": "CQ1",
+      "Details": "QN1: What are the twelve Categories of Threats to Security ?"
+    },
+    {
+      "No.": "36",
+      "Session No": "9",
+      "Name": "CQ2",
+      "Details": "QN2: What are the ten Most Critical Web Application Security Risks according to OWASP ?"
+    },
+    {
+      "No.": "37",
+      "Session No": "9",
+      "Name": "CQ3",
+      "Details": "QN3: What are the Deadly Sins of Software Security ?"
+    },
+    {
+      "No.": "38",
+      "Session No": "9",
+      "Name": "CQ4",
+      "Details": "QN4: In each working group how can you find three key terms and explain their meaning ?"
+    },
+    {
+      "No.": "39",
+      "Session No": "10",
+      "Name": "CQ1",
+      "Details": "QN1: What are the twelve Categories of Threats to Security ? (cont.)"
+    },
+    {
+      "No.": "40",
+      "Session No": "10",
+      "Name": "CQ2",
+      "Details": "QN2: What are the ten Most Critical Web Application Security Risks according to OWASP ? (cont.)"
+    },
+    {
+      "No.": "41",
+      "Session No": "10",
+      "Name": "CQ3",
+      "Details": "QN3: What are the Deadly Sins of Software Security ? (cont.)"
+    },
+    {
+      "No.": "42",
+      "Session No": "10",
+      "Name": "CQ4",
+      "Details": "QN4: In each working group how can you find three key terms and explain their meaning ? (cont.)"
+    },
+    {
+      "No.": "43",
+      "Session No": "11",
+      "Name": "CQ1",
+      "Details": "QN1: The meaning of stakeholder?"
+    },
+    {
+      "No.": "44",
+      "Session No": "11",
+      "Name": "CQ2",
+      "Details": "QN2: How can you describe various roles involved in Security ?"
+    },
+    {
+      "No.": "45",
+      "Session No": "11",
+      "Name": "CQ3",
+      "Details": "QN3: What's SecSDLC ?"
+    },
+    {
+      "No.": "46",
+      "Session No": "11",
+      "Name": "CQ4",
+      "Details": "QN4: In each working group how can you find three key terms and explain their meaning ?"
+    },
+    {
+      "No.": "47",
+      "Session No": "12",
+      "Name": "CQ1",
+      "Details": "QN1: The meaning of stakeholder? (cont.)"
+    },
+    {
+      "No.": "48",
+      "Session No": "12",
+      "Name": "CQ2",
+      "Details": "QN2: How can you describe various roles involved in Security ? (cont.)"
+    },
+    {
+      "No.": "49",
+      "Session No": "12",
+      "Name": "CQ3",
+      "Details": "QN3: What's SecSDLC ? (cont.)"
+    },
+    {
+      "No.": "50",
+      "Session No": "12",
+      "Name": "CQ4",
+      "Details": "QN4: In each working group how can you find three key terms and explain their meaning ? (cont.)"
+    },
+    {
+      "No.": "51",
+      "Session No": "13",
+      "Name": "CQ1",
+      "Details": "QN1: How can you describe the Six Ps in Security Management ?"
+    },
+    {
+      "No.": "52",
+      "Session No": "14",
+      "Name": "CQ1",
+      "Details": "QN1: How can you describe the Six Ps in Security Management ? (cont.)"
+    },
+    {
+      "No.": "53",
+      "Session No": "15",
+      "Name": "CQ1",
+      "Details": "QN1: How can you describe spheres of Security ?"
+    },
+    {
+      "No.": "54",
+      "Session No": "15",
+      "Name": "CQ2",
+      "Details": "QN2: How can you explain main phases of the SDLC (Systems Development Life Cycle) during a policy development project ?"
+    },
+    {
+      "No.": "55",
+      "Session No": "15",
+      "Name": "CQ3",
+      "Details": "QN3: How can you describe three general causes of unethical and illegal behavior, such as an employee failing to follow policy ?"
+    },
+    {
+      "No.": "56",
+      "Session No": "15",
+      "Name": "CQ4",
+      "Details": "QN4: In each working group how can you find three key terms and explain their meaning ?"
+    },
+    {
+      "No.": "57",
+      "Session No": "16",
+      "Name": "CQ1",
+      "Details": "QN1: How can you describe spheres of Security ? (cont.)"
+    },
+    {
+      "No.": "58",
+      "Session No": "16",
+      "Name": "CQ2",
+      "Details": "QN2: How can you explain main phases of the SDLC (Systems Development Life Cycle) during a policy development project ? (cont.)"
+    },
+    {
+      "No.": "59",
+      "Session No": "16",
+      "Name": "CQ3",
+      "Details": "QN3: How can you describe three general causes of unethical and illegal behavior, such as an employee failing to follow policy ? (cont.)"
+    },
+    {
+      "No.": "60",
+      "Session No": "16",
+      "Name": "CQ4",
+      "Details": "QN4: In each working group how can you find three key terms and explain their meaning ? (cont.)"
+    },
+    {
+      "No.": "61",
+      "Session No": "19",
+      "Name": "CQ1",
+      "Details": "QN1: How can you explain functions needed to implement the Security Program ?"
+    },
+    {
+      "No.": "62",
+      "Session No": "19",
+      "Name": "CQ2",
+      "Details": "QN2: How can you describe the PMBOK knowledge areas ?"
+    },
+    {
+      "No.": "63",
+      "Session No": "19",
+      "Name": "CQ3",
+      "Details": "QN3: How can you describe some commonly used project management tools ?"
+    },
+    {
+      "No.": "64",
+      "Session No": "19",
+      "Name": "CQ4",
+      "Details": "QN4: In each working group how can you find three key terms and explain their meaning ?"
+    },
+    {
+      "No.": "65",
+      "Session No": "20",
+      "Name": "CQ1",
+      "Details": "QN1: How can you explain functions needed to implement the Security Program ? (cont.)"
+    },
+    {
+      "No.": "66",
+      "Session No": "20",
+      "Name": "CQ2",
+      "Details": "QN2: How can you describe the PMBOK knowledge areas ? (cont.)"
+    },
+    {
+      "No.": "67",
+      "Session No": "20",
+      "Name": "CQ3",
+      "Details": "QN3: How can you describe some commonly used project management tools ? (cont.)"
+    },
+    {
+      "No.": "68",
+      "Session No": "20",
+      "Name": "CQ4",
+      "Details": "QN4: In each working group how can you find three key terms and explain their meaning ? (cont.)"
+    },
+    {
+      "No.": "69",
+      "Session No": "25",
+      "Name": "CQ1",
+      "Details": "QN1: How can you describe the RM framework and the RM process ?"
+    },
+    {
+      "No.": "70",
+      "Session No": "25",
+      "Name": "CQ2",
+      "Details": "QN2: What's assessment ?"
+    },
+    {
+      "No.": "71",
+      "Session No": "25",
+      "Name": "CQ3",
+      "Details": "QN3: What's a TVA worksheet ?"
+    },
+    {
+      "No.": "72",
+      "Session No": "25",
+      "Name": "CQ4",
+      "Details": "QN4: In each working group how can you find three key terms and explain their meaning ?"
+    },
+    {
+      "No.": "73",
+      "Session No": "26",
+      "Name": "CQ1",
+      "Details": "QN1: How can you describe the RM framework and the RM process ? (cont.)"
+    },
+    {
+      "No.": "74",
+      "Session No": "26",
+      "Name": "CQ2",
+      "Details": "QN2: What's assessment ? (cont.)"
+    },
+    {
+      "No.": "75",
+      "Session No": "26",
+      "Name": "CQ3",
+      "Details": "QN3: What's a TVA worksheet ? (cont.)"
+    },
+    {
+      "No.": "76",
+      "Session No": "26",
+      "Name": "CQ4",
+      "Details": "QN4: In each working group how can you find three key terms and explain their meaning ? (cont.)"
+    },
+    {
+      "No.": "77",
+      "Session No": "27",
+      "Name": "CQ1",
+      "Details": "QN1: What are the five basic strategies to treat the risks ?"
+    },
+    {
+      "No.": "78",
+      "Session No": "27",
+      "Name": "CQ2",
+      "Details": "QN2: Which elements should a typical SLA (Service Level Agreement) contain ?"
+    },
+    {
+      "No.": "79",
+      "Session No": "27",
+      "Name": "CQ3",
+      "Details": "QN3: What's a residual risk ?"
+    },
+    {
+      "No.": "80",
+      "Session No": "27",
+      "Name": "CQ4",
+      "Details": "QN4: In each working group how can you find three key terms and explain their meaning ?"
+    },
+    {
+      "No.": "81",
+      "Session No": "28",
+      "Name": "CQ1",
+      "Details": "QN1: What are the five basic strategies to treat the risks ? (cont.)"
+    },
+    {
+      "No.": "82",
+      "Session No": "28",
+      "Name": "CQ2",
+      "Details": "QN2: Which elements should a typical SLA (Service Level Agreement) contain ? (cont.)"
+    },
+    {
+      "No.": "83",
+      "Session No": "28",
+      "Name": "CQ3",
+      "Details": "QN3: What's a residual risk ? (cont.)"
+    },
+    {
+      "No.": "84",
+      "Session No": "28",
+      "Name": "CQ4",
+      "Details": "QN4: In each working group how can you find three key terms and explain their meaning ? (cont.)"
+    },
+    {
+      "No.": "85",
+      "Session No": "29",
+      "Name": "CQ1",
+      "Details": "QN1: Which questions are focused to develop weighting criteria for information assets ?"
+    },
+    {
+      "No.": "86",
+      "Session No": "30",
+      "Name": "CQ1",
+      "Details": "QN1: Which questions are focused to develop weighting criteria for information assets ? (cont.)"
+    },
+    {
+      "No.": "87",
+      "Session No": "31",
+      "Name": "CQ1",
+      "Details": "QN1: How can you explain the Delphi technique ?"
+    },
+    {
+      "No.": "88",
+      "Session No": "32",
+      "Name": "CQ1",
+      "Details": "QN1: How can you explain the Delphi technique ? (cont.)"
+    },
+    {
+      "No.": "89",
+      "Session No": "33",
+      "Name": "CQ1",
+      "Details": "QN1: How can you explain the Risk Treatment Cycle ?"
+    },
+    {
+      "No.": "90",
+      "Session No": "34",
+      "Name": "CQ1",
+      "Details": "QN1: How can you explain the Risk Treatment Cycle ? (cont.)"
+    },
+    {
+      "No.": "91",
+      "Session No": "41",
+      "Name": "CQ1",
+      "Details": "QN1: How can you describe major security management models ?"
+    },
+    {
+      "No.": "92",
+      "Session No": "41",
+      "Name": "CQ2",
+      "Details": "QN2: How can you explain the most common security architecture model ?"
+    },
+    {
+      "No.": "93",
+      "Session No": "41",
+      "Name": "CQ3",
+      "Details": "QN3: Which are common academic access control models ?"
+    },
+    {
+      "No.": "94",
+      "Session No": "41",
+      "Name": "CQ4",
+      "Details": "QN4: In each working group how can you find three key terms and explain their meaning ?"
+    },
+    {
+      "No.": "95",
+      "Session No": "42",
+      "Name": "CQ1",
+      "Details": "QN1: How can you describe major security management models ? (cont.)"
+    },
+    {
+      "No.": "96",
+      "Session No": "42",
+      "Name": "CQ2",
+      "Details": "QN2: How can you explain the most common security architecture model ? (cont.)"
+    },
+    {
+      "No.": "97",
+      "Session No": "42",
+      "Name": "CQ3",
+      "Details": "QN3: Which are common academic access control models ? (cont.)"
+    },
+    {
+      "No.": "98",
+      "Session No": "42",
+      "Name": "CQ4",
+      "Details": "QN4: In each working group how can you find three key terms and explain their meaning ? (cont.)"
+    },
+    {
+      "No.": "99",
+      "Session No": "43",
+      "Name": "CQ1",
+      "Details": "QN1: How can you describe NIST Cybersecurity Framework ?"
+    },
+    {
+      "No.": "100",
+      "Session No": "44",
+      "Name": "CQ1",
+      "Details": "QN1: How can you describe NIST Cybersecurity Framework ?"
+    },
+    {
+      "No.": "101",
+      "Session No": "45",
+      "Name": "CQ1",
+      "Details": "QN1: How can you describe the common types of background checks in hiring process ?"
+    },
+    {
+      "No.": "102",
+      "Session No": "45",
+      "Name": "CQ2",
+      "Details": "QN2: What are the two commonly used categories of terms describing security practices ?"
+    },
+    {
+      "No.": "103",
+      "Session No": "45",
+      "Name": "CQ3",
+      "Details": "QN3: Which questions should be considered in choosing recommended practices for your organization ?"
+    },
+    {
+      "No.": "104",
+      "Session No": "45",
+      "Name": "CQ4",
+      "Details": "QN4: In each working group how can you find three key terms and explain their meaning ?"
+    },
+    {
+      "No.": "105",
+      "Session No": "46",
+      "Name": "CQ1",
+      "Details": "QN1: How can you describe the common types of background checks in hiring process ? (cont.)"
+    },
+    {
+      "No.": "106",
+      "Session No": "46",
+      "Name": "CQ2",
+      "Details": "QN2: What are the two commonly used categories of terms describing security practices ? (cont.)"
+    },
+    {
+      "No.": "107",
+      "Session No": "46",
+      "Name": "CQ3",
+      "Details": "QN3: Which questions should be considered in choosing recommended practices for your organization ? (cont.)"
+    },
+    {
+      "No.": "108",
+      "Session No": "46",
+      "Name": "CQ4",
+      "Details": "QN4: In each working group how can you find three key terms and explain their meaning ? (cont.)"
+    },
+    {
+      "No.": "109",
+      "Session No": "47",
+      "Name": "CQ1",
+      "Details": "QN1: What's CP (Contingency Planning) and what are the four major components of CP ?"
+    },
+    {
+      "No.": "110",
+      "Session No": "47",
+      "Name": "CQ2",
+      "Details": "QN2: Which are the seven NIST recommendations in developing a CP document ?"
+    },
+    {
+      "No.": "111",
+      "Session No": "47",
+      "Name": "CQ3",
+      "Details": "QN3: How can you describe CP hierarchies and CP life cycle ?"
+    },
+    {
+      "No.": "112",
+      "Session No": "47",
+      "Name": "CQ4",
+      "Details": "QN4: In each working group how can you find three key terms and explain their meaning ?"
+    },
+    {
+      "No.": "113",
+      "Session No": "48",
+      "Name": "CQ1",
+      "Details": "QN1: What's CP (Contingency Planning) and what are the four major components of CP ? (cont.)"
+    },
+    {
+      "No.": "114",
+      "Session No": "48",
+      "Name": "CQ2",
+      "Details": "QN2: Which are the seven NIST recommendations in developing a CP document ? (cont.)"
+    },
+    {
+      "No.": "115",
+      "Session No": "48",
+      "Name": "CQ3",
+      "Details": "QN3: How can you describe CP hierarchies and CP life cycle ? (cont.)"
+    },
+    {
+      "No.": "116",
+      "Session No": "48",
+      "Name": "CQ4",
+      "Details": "QN4: In each working group how can you find three key terms and explain their meaning ? (cont.)"
+    },
+    {
+      "No.": "117",
+      "Session No": "49",
+      "Name": "CQ1",
+      "Details": "QN1: How can you describe three areas in the Schwartz et al. classification of Security positions ?"
+    },
+    {
+      "No.": "118",
+      "Session No": "49",
+      "Name": "CQ2",
+      "Details": "QN2: With understanding various secirity position how can you write your own CV for a best application ?"
+    },
+    {
+      "No.": "119",
+      "Session No": "49",
+      "Name": "CQ3",
+      "Details": "QN3: What are the six key principles that CISOs should follow to shape their careers ?"
+    },
+    {
+      "No.": "120",
+      "Session No": "49",
+      "Name": "CQ4",
+      "Details": "QN4: In each working group how can you find three key terms and explain their meaning ?"
+    },
+    {
+      "No.": "121",
+      "Session No": "50",
+      "Name": "CQ1",
+      "Details": "QN1: How can you describe three areas in the Schwartz et al. classification of Security positions ? (cont.)"
+    },
+    {
+      "No.": "122",
+      "Session No": "50",
+      "Name": "CQ2",
+      "Details": "QN2: With understanding various secirity position how can you write your own CV for a best application ? (cont.)"
+    },
+    {
+      "No.": "123",
+      "Session No": "50",
+      "Name": "CQ3",
+      "Details": "QN3: What are the six key principles that CISOs should follow to shape their careers ? (cont.)"
+    },
+    {
+      "No.": "124",
+      "Session No": "50",
+      "Name": "CQ4",
+      "Details": "QN4: In each working group how can you find three key terms and explain their meaning ? (cont.)"
+    },
+    {
+      "No.": "125",
+      "Session No": "51",
+      "Name": "CQ1",
+      "Details": "QN1: How can you list and describe major Security Professional Credentials ?"
+    },
+    {
+      "No.": "126",
+      "Session No": "52",
+      "Name": "CQ1",
+      "Details": "QN1: How can you list and describe major Security Professional Credentials ? (cont.)"
+    },
+    {
+      "No.": "127",
+      "Session No": "53",
+      "Name": "CQ1",
+      "Details": "QN1: How do you think technical controls alone can secure an IT environment ?"
+    },
+    {
+      "No.": "128",
+      "Session No": "53",
+      "Name": "CQ2",
+      "Details": "QN2: How to get strong authentication ?"
+    },
+    {
+      "No.": "129",
+      "Session No": "53",
+      "Name": "CQ3",
+      "Details": "QN3: The meaning of Cryptology ?"
+    },
+    {
+      "No.": "130",
+      "Session No": "53",
+      "Name": "CQ4",
+      "Details": "QN4: In each working group how do you find three key terms and explain their meaning ?"
+    },
+    {
+      "No.": "131",
+      "Session No": "54",
+      "Name": "CQ1",
+      "Details": "QN1: How do you think technical controls alone can secure an IT environment ? (cont.)"
+    },
+    {
+      "No.": "132",
+      "Session No": "54",
+      "Name": "CQ2",
+      "Details": "QN2: How to get strong authentication ? (cont.)"
+    },
+    {
+      "No.": "133",
+      "Session No": "54",
+      "Name": "CQ3",
+      "Details": "QN3: The meaning of Cryptology ? (cont.)"
+    },
+    {
+      "No.": "134",
+      "Session No": "54",
+      "Name": "CQ4",
+      "Details": "QN4: In each working group how do you find three key terms and explain their meaning ? (cont.)"
+    },
+    {
+      "No.": "135",
+      "Session No": "55",
+      "Name": "CQ1",
+      "Details": "QN1: What are the three criteria biometric technologies are evaluated on ?"
+    },
+    {
+      "No.": "136",
+      "Session No": "56",
+      "Name": "CQ1",
+      "Details": "QN1: What are the three criteria biometric technologies are evaluated on ? (cont.)"
+    },
+    {
+      "No.": "137",
+      "Session No": "59",
+      "Name": "CQ1",
+      "Details": "QN1: How do you describe a signature- based IDPS ?"
+    },
+    {
+      "No.": "138",
+      "Session No": "60",
+      "Name": "CQ1",
+      "Details": "QN1: How do you describe a signature- based IDPS ? (cont.)"
+    }
+  ],
+  "materials": [
+    {
+      "No.": "1",
+      "Material Description": "Management of Information Security",
+      "Author": "Michael E. Whitman, Herbert J. Mattord",
+      "Publisher": "Cengage Learning",
+      "Published Date": "2017",
+      "Edition": "5th",
+      "ISBN": "978-1305501256",
+      "Is Main Material": "True",
+      "Is Hard Copy": "True",
+      "Is Online": "False",
+      "Note": ""
+    },
+    {
+      "No.": "2",
+      "Material Description": "Practical Information Security Management: A Complete Guide to Planning and Implementation",
+      "Author": "Tony Campbell",
+      "Publisher": "Apress",
+      "Published Date": "2016",
+      "Edition": "",
+      "ISBN": "",
+      "Is Main Material": "False",
+      "Is Hard Copy": "True",
+      "Is Online": "False",
+      "Note": ""
+    },
+    {
+      "No.": "3",
+      "Material Description": "Fernando Maymi, CISSP Exam Guide",
+      "Author": "Shon Harris",
+      "Publisher": "McGraw-Hill Education",
+      "Published Date": "2016",
+      "Edition": "7th",
+      "ISBN": "",
+      "Is Main Material": "False",
+      "Is Hard Copy": "True",
+      "Is Online": "False",
+      "Note": ""
+    },
+    {
+      "No.": "4",
+      "Material Description": "IT Security Project Management Handbook",
+      "Author": "Susan Snedaker, Syngress",
+      "Publisher": "Syngress, Elsevier",
+      "Published Date": "2006",
+      "Edition": "",
+      "ISBN": "",
+      "Is Main Material": "False",
+      "Is Hard Copy": "True",
+      "Is Online": "False",
+      "Note": ""
+    },
+    {
+      "No.": "5",
+      "Material Description": "Systems Analysis and Design, 11th Edition",
+      "Author": "Scott Tilley, Harry J. Rosenblatt",
+      "Publisher": "Cengage Learning",
+      "Published Date": "2017",
+      "Edition": "11th",
+      "ISBN": "",
+      "Is Main Material": "False",
+      "Is Hard Copy": "True",
+      "Is Online": "False",
+      "Note": ""
+    },
+    {
+      "No.": "6",
+      "Material Description": "Principles of Information Security",
+      "Author": "Michael E. Whitman, Herbert J. Mattord",
+      "Publisher": "Cengage Learning",
+      "Published Date": "2018",
+      "Edition": "6th",
+      "ISBN": "",
+      "Is Main Material": "False",
+      "Is Hard Copy": "True",
+      "Is Online": "False",
+      "Note": ""
+    },
+    {
+      "No.": "7",
+      "Material Description": "Lecture slides, supplementary materials.",
+      "Author": "",
+      "Publisher": "",
+      "Published Date": "",
+      "Edition": "",
+      "ISBN": "",
+      "Is Main Material": "False",
+      "Is Hard Copy": "False",
+      "Is Online": "False",
+      "Note": ""
+    }
+  ],
+  "source_path": "data/raw/syllabi/11202.html",
+  "id": "syllabus:11202"
+}
