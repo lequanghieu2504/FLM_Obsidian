@@ -781,7 +781,6 @@ class _ChatMessageTile extends StatelessWidget {
                   ],
                 ),
                 const SizedBox(height: 8),
-
                 SelectableText(
                   message.text,
                   style: TextStyle(
@@ -792,72 +791,6 @@ class _ChatMessageTile extends StatelessWidget {
                         : const Color(0xFF0F172A),
                   ),
                 ),
-
-                // Sources References Accordion / Chips
-                if (message.sources.isNotEmpty) ...[
-                  const Divider(height: 24),
-                  const Row(
-                    children: [
-                      Icon(
-                        Icons.library_books_rounded,
-                        size: 14,
-                        color: AppColors.primaryViolet,
-                      ),
-                      SizedBox(width: 6),
-                      Text(
-                        'Retrieved Context Sources',
-                        style: TextStyle(
-                          fontSize: 12,
-                          fontWeight: FontWeight.w600,
-                          color: Color(0xFF94A3B8),
-                        ),
-                      ),
-                    ],
-                  ),
-                  const SizedBox(height: 8),
-                  Wrap(
-                    spacing: 8,
-                    runSpacing: 8,
-                    children: [
-                      for (final source in message.sources)
-                        Container(
-                          padding: const EdgeInsets.symmetric(
-                            horizontal: 10,
-                            vertical: 6,
-                          ),
-                          decoration: BoxDecoration(
-                            color: isDark
-                                ? AppColors.darkBackground
-                                : AppColors.lightBackground,
-                            borderRadius: BorderRadius.circular(8),
-                            border: Border.all(
-                              color: isDark
-                                  ? AppColors.darkBorder
-                                  : AppColors.lightBorder,
-                            ),
-                          ),
-                          child: Row(
-                            mainAxisSize: MainAxisSize.min,
-                            children: [
-                              BadgeTag(
-                                label: source.subjectCode,
-                                style: BadgeStyle.cyan,
-                                fontSize: 10,
-                              ),
-                              const SizedBox(width: 6),
-                              Text(
-                                source.section,
-                                style: const TextStyle(
-                                  fontSize: 11,
-                                  fontWeight: FontWeight.w500,
-                                ),
-                              ),
-                            ],
-                          ),
-                        ),
-                    ],
-                  ),
-                ],
               ],
             ),
           ),

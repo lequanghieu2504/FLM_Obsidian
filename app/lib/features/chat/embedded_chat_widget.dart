@@ -483,32 +483,6 @@ class _EmbeddedMessageBubble extends StatelessWidget {
                   : const Color(0xFF0F172A),
             ),
           ),
-          if (message.sources.isNotEmpty) ...[
-            const SizedBox(height: 8),
-            Wrap(
-              spacing: 4,
-              runSpacing: 4,
-              children: [
-                for (final src in message.sources.take(3))
-                  Container(
-                    padding: const EdgeInsets.symmetric(
-                      horizontal: 6,
-                      vertical: 2,
-                    ),
-                    decoration: BoxDecoration(
-                      color: isDark
-                          ? AppColors.darkBackground
-                          : AppColors.lightBackground,
-                      borderRadius: BorderRadius.circular(6),
-                    ),
-                    child: Text(
-                      '${src.subjectCode} • ${src.section}',
-                      style: const TextStyle(fontSize: 10),
-                    ),
-                  ),
-              ],
-            ),
-          ],
         ],
       ),
     );

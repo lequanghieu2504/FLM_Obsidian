@@ -7,7 +7,6 @@ import 'core/widgets/ambient_background.dart';
 import 'features/chat/chat_page.dart';
 import 'features/graph/graph_page.dart';
 import 'features/home/home_page.dart';
-import 'features/search/search_page.dart';
 import 'features/settings/settings_page.dart';
 import 'features/subjects/subjects_page.dart';
 
@@ -45,7 +44,6 @@ class _AppShellState extends ConsumerState<AppShell> {
     final pages = const [
       HomePage(),
       SubjectsPage(),
-      SearchPage(),
       GraphPage(),
       ChatPage(),
       SettingsPage(),
@@ -185,16 +183,10 @@ class _AppShellState extends ConsumerState<AppShell> {
                           onTap: () => setState(() => selectedIndex = 1),
                         ),
                         _NavItem(
-                          icon: Icons.manage_search_rounded,
-                          label: 'Search Chunks',
-                          isSelected: selectedIndex == 2,
-                          onTap: () => setState(() => selectedIndex = 2),
-                        ),
-                        _NavItem(
                           icon: Icons.hub_rounded,
                           label: 'Knowledge Graph',
-                          isSelected: selectedIndex == 3,
-                          onTap: () => setState(() => selectedIndex = 3),
+                          isSelected: selectedIndex == 2,
+                          onTap: () => setState(() => selectedIndex = 2),
                         ),
                         const SizedBox(height: 16),
                         const Padding(
@@ -212,15 +204,15 @@ class _AppShellState extends ConsumerState<AppShell> {
                         _NavItem(
                           icon: Icons.auto_awesome_rounded,
                           label: 'AI Chat (BYOK)',
-                          isSelected: selectedIndex == 4,
-                          onTap: () => setState(() => selectedIndex = 4),
+                          isSelected: selectedIndex == 3,
+                          onTap: () => setState(() => selectedIndex = 3),
                           badgeText: 'RAG',
                         ),
                         _NavItem(
                           icon: Icons.tune_rounded,
                           label: 'Settings & Keys',
-                          isSelected: selectedIndex == 5,
-                          onTap: () => setState(() => selectedIndex = 5),
+                          isSelected: selectedIndex == 4,
+                          onTap: () => setState(() => selectedIndex = 4),
                         ),
                       ],
                     ),
