@@ -23,6 +23,20 @@ def retrieve(db: sqlite3.Connection, query: str) -> RetrieveResponse:
         session_number=session_number,
         limit=6,
     )
+    if subject_code and intent == "prerequisite":
+        reverse_results = search_chunks(
+            db,
+            query=subject_code,
+            subject_code=None,
+            section="prerequisite",
+            limit=6,
+        )
+        existing_keys = {(r.subject_code, r.section, r.syllabus_id) for r in results}
+        for item in reverse_results:
+            key = (item.subject_code, item.section, item.syllabus_id)
+            if key not in existing_keys:
+                results.append(item)
+                existing_keys.add(key)
     return RetrieveResponse(query=query, subject_code=subject_code, intent=intent, results=results)
 
 
@@ -33,17 +47,17 @@ def _detect_subject(query: str) -> str | None:
 
 def _detect_intent(query: str) -> str | None:
     lower = query.lower()
-    if "prerequisite" in lower or "pre-requisite" in lower:
+    if any(k in lower for k in ("prerequisite", "pre-requisite", "tiên quyết", "tien quyet", "tiên-quyết", "rớt", "rot", "bị khóa", "bi khoa", "học trước", "hoc truoc", "môn trước", "mon truoc", "điều kiện", "dieu kien")):
         return "prerequisite"
-    if "tín chỉ" in lower or "tin chi" in lower or "credit" in lower:
+    if any(k in lower for k in ("tín chỉ", "tin chi", "credit", "số tín", "so tin", "mấy tín", "may tin")):
         return "general_information"
-    if any(token in lower for token in ("assessment", "final", "thi", "cuối kỳ", "cuoi ky", "grade", "%")):
+    if any(k in lower for k in ("assessment", "final", "thi", "cuối kỳ", "cuoi ky", "grade", "%", "điểm", "diem", "tính điểm", "tinh diem", "trọng số", "trong so", "đánh giá", "danh gia")):
         return "assessment"
-    if "outcome" in lower or "clo" in lower:
+    if any(k in lower for k in ("outcome", "clo", "mục tiêu", "muc tieu", "chuẩn đầu ra", "chuan dau ra")):
         return "learning_outcomes"
-    if "schedule" in lower or "session" in lower or "hiragana" in lower or "buổi" in lower or "buoi" in lower:
+    if any(k in lower for k in ("schedule", "session", "hiragana", "buổi", "buoi", "lịch trình", "lich trinh", "nội dung", "noi dung", "chương trình", "chuong trinh")):
         return "schedule"
-    if "material" in lower or "book" in lower:
+    if any(k in lower for k in ("material", "book", "sách", "sach", "tài liệu", "tai lieu", "giáo trình", "giao trinh")):
         return "materials"
     return None
 

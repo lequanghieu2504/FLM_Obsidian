@@ -5,6 +5,7 @@ import '../services/key_storage_service.dart';
 import '../services/llm_service.dart';
 import '../services/retrieval_service.dart';
 import 'graph_repository.dart';
+import 'chat_history_repository.dart';
 import 'knowledge_database.dart';
 import 'search_repository.dart';
 import 'subject_repository.dart';
@@ -29,3 +30,8 @@ final graphRepositoryProvider = Provider(
 );
 final keyStorageServiceProvider = Provider((ref) => KeyStorageService());
 final llmServiceProvider = Provider((ref) => OpenAICompatibleLlmService());
+final chatHistoryRepositoryProvider = Provider((ref) {
+  final repository = ChatHistoryRepository();
+  ref.onDispose(repository.close);
+  return repository;
+});

@@ -72,6 +72,24 @@ def test_retrieve_prerequisite_mixed_case():
     assert response.intent == "prerequisite"
 
 
+def test_retrieve_vietnamese_intents():
+    with connect() as db:
+        res_credits = retrieve(db, "môn PRM393 có mấy tín chỉ")
+        assert res_credits.subject_code == "PRM393"
+        assert res_credits.intent == "general_information"
+
+        res_grade = retrieve(db, "cách tính điểm môn SWP391")
+        assert res_grade.subject_code == "SWP391"
+        assert res_grade.intent == "assessment"
+
+        res_prereq = retrieve(
+            db,
+            "nếu rớt môn SWE201c thì các kỳ sau sẽ không được học những môn nào",
+        )
+        assert res_prereq.subject_code == "SWE201C"
+        assert res_prereq.intent == "prerequisite"
+
+
 def test_graph_subject():
     response = graph_for_subject("JPD111")
     assert any(node.label == "JPD111" for node in response.nodes)
