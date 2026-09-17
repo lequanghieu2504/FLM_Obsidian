@@ -326,24 +326,19 @@ class _ChatPageState extends ConsumerState<ChatPage> {
                             mainAxisSize: MainAxisSize.min,
                             children: [
                               Container(
-                                padding: const EdgeInsets.all(18),
+                                padding: const EdgeInsets.all(16),
                                 decoration: BoxDecoration(
-                                  gradient: AppColors.crystalGradient,
+                                  color: isDark
+                                      ? const Color(0xFF1E2638)
+                                      : const Color(0xFFE2E8F0),
                                   shape: BoxShape.circle,
-                                  boxShadow: [
-                                    BoxShadow(
-                                      color: AppColors.primaryViolet.withValues(
-                                        alpha: 0.35,
-                                      ),
-                                      blurRadius: 18,
-                                      offset: const Offset(0, 4),
-                                    ),
-                                  ],
                                 ),
-                                child: const Icon(
+                                child: Icon(
                                   Icons.auto_awesome_rounded,
-                                  size: 36,
-                                  color: Colors.white,
+                                  size: 32,
+                                  color: isDark
+                                      ? const Color(0xFF38BDF8)
+                                      : const Color(0xFF0284C7),
                                 ),
                               ),
                               const SizedBox(height: 16),
@@ -430,7 +425,7 @@ class _ChatPageState extends ConsumerState<ChatPage> {
                   const SizedBox(height: 8),
                   const LinearProgressIndicator(
                     backgroundColor: Colors.transparent,
-                    color: AppColors.primaryViolet,
+                    color: AppColors.primaryIndigo,
                   ),
                 ],
 
@@ -506,7 +501,7 @@ class _ChatPageState extends ConsumerState<ChatPage> {
                 const Icon(
                   Icons.tips_and_updates_rounded,
                   size: 15,
-                  color: AppColors.primaryViolet,
+                  color: AppColors.primaryIndigo,
                 ),
                 const SizedBox(width: 4),
                 Text(
@@ -662,13 +657,13 @@ class _PromptChip extends StatelessWidget {
       skipTraversal: true,
       child: GlassCard(
         padding: const EdgeInsets.symmetric(horizontal: 14, vertical: 10),
-        borderRadius: 20,
+        borderRadius: 16,
         hoverable: true,
         onTap: onTap,
         child: Row(
           mainAxisSize: MainAxisSize.min,
           children: [
-            Icon(icon, size: 16, color: AppColors.primaryViolet),
+            Icon(icon, size: 16, color: AppColors.primaryIndigo),
             const SizedBox(width: 8),
             Text(
               label,
@@ -697,22 +692,15 @@ class _ChatMessageTile extends StatelessWidget {
         children: [
           Flexible(
             child: Container(
-              padding: const EdgeInsets.symmetric(horizontal: 18, vertical: 14),
+              padding: const EdgeInsets.symmetric(horizontal: 16, vertical: 12),
               decoration: BoxDecoration(
-                gradient: AppColors.primaryGradient,
+                color: isDark ? const Color(0xFF2563EB) : const Color(0xFF1D4ED8),
                 borderRadius: const BorderRadius.only(
-                  topLeft: Radius.circular(18),
-                  topRight: Radius.circular(18),
-                  bottomLeft: Radius.circular(18),
+                  topLeft: Radius.circular(14),
+                  topRight: Radius.circular(14),
+                  bottomLeft: Radius.circular(14),
                   bottomRight: Radius.circular(4),
                 ),
-                boxShadow: [
-                  BoxShadow(
-                    color: AppColors.primaryViolet.withValues(alpha: 0.35),
-                    blurRadius: 12,
-                    offset: const Offset(0, 4),
-                  ),
-                ],
               ),
               child: SelectableText(
                 message.text,
@@ -728,14 +716,14 @@ class _ChatMessageTile extends StatelessWidget {
           const SizedBox(width: 10),
           Container(
             padding: const EdgeInsets.all(8),
-            decoration: const BoxDecoration(
-              color: AppColors.primaryViolet,
+            decoration: BoxDecoration(
+              color: isDark ? const Color(0xFF1E2638) : const Color(0xFFE2E8F0),
               shape: BoxShape.circle,
             ),
-            child: const Icon(
+            child: Icon(
               Icons.person_rounded,
               size: 16,
-              color: Colors.white,
+              color: isDark ? const Color(0xFF94A3B8) : const Color(0xFF64748B),
             ),
           ),
         ],
@@ -749,39 +737,32 @@ class _ChatMessageTile extends StatelessWidget {
         Container(
           padding: const EdgeInsets.all(8),
           decoration: BoxDecoration(
-            gradient: AppColors.cyanGradient,
+            color: isDark ? const Color(0xFF1E2638) : const Color(0xFFE2E8F0),
             shape: BoxShape.circle,
-            boxShadow: [
-              BoxShadow(
-                color: AppColors.primaryCyan.withValues(alpha: 0.35),
-                blurRadius: 10,
-                offset: const Offset(0, 3),
-              ),
-            ],
           ),
-          child: const Icon(
+          child: Icon(
             Icons.auto_awesome_rounded,
             size: 16,
-            color: Colors.white,
+            color: isDark ? const Color(0xFF38BDF8) : const Color(0xFF0284C7),
           ),
         ),
         const SizedBox(width: 12),
         Expanded(
           child: GlassCard(
             padding: const EdgeInsets.all(18),
-            borderRadius: 18,
+            borderRadius: 14,
             child: Column(
               crossAxisAlignment: CrossAxisAlignment.start,
               children: [
                 Row(
                   mainAxisAlignment: MainAxisAlignment.spaceBetween,
                   children: [
-                    const Text(
+                    Text(
                       'FLM Assistant',
                       style: TextStyle(
                         fontSize: 13,
                         fontWeight: FontWeight.bold,
-                        color: AppColors.primaryCyan,
+                        color: isDark ? const Color(0xFF38BDF8) : const Color(0xFF0284C7),
                       ),
                     ),
                     IconButton(
