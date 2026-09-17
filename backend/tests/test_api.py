@@ -93,3 +93,15 @@ def test_retrieve_vietnamese_intents():
 def test_graph_subject():
     response = graph_for_subject("JPD111")
     assert any(node.label == "JPD111" for node in response.nodes)
+
+
+def test_prerequisite_graph_is_directed_and_reaches_jpd326_chain():
+    response = graph_for_subject("JPD326", depth=3)
+    edges = {(edge.source, edge.target) for edge in response.edges}
+
+    assert ("subject:JPD133", "subject:OJT202") in edges
+    assert ("subject:OJT202", "subject:JPD316") in edges
+    assert ("subject:JPD316", "subject:JPD326") in edges
+    assert all(edge.type == "REQUIRES_PREREQUISITE" for edge in response.edges)
+    assert next(node for node in response.nodes if node.label == "JPD326").name
+    assert all(node.label != "AIP490" for node in response.nodes)

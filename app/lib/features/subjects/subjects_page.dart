@@ -222,15 +222,17 @@ class _SubjectsPageState extends ConsumerState<SubjectsPage> {
                                 Container(
                                   padding: const EdgeInsets.all(6),
                                   decoration: BoxDecoration(
-                                    color: AppColors.primaryViolet.withValues(
-                                      alpha: 0.15,
-                                    ),
+                                    color: isDark
+                                        ? const Color(0xFF1E2638)
+                                        : const Color(0xFFE2E8F0),
                                     shape: BoxShape.circle,
                                   ),
-                                  child: const Icon(
+                                  child: Icon(
                                     Icons.arrow_forward_ios_rounded,
-                                    size: 14,
-                                    color: AppColors.primaryViolet,
+                                    size: 13,
+                                    color: isDark
+                                        ? const Color(0xFF94A3B8)
+                                        : const Color(0xFF64748B),
                                   ),
                                 ),
                               ],

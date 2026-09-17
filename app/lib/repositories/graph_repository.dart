@@ -11,8 +11,13 @@ class GraphRepository {
     return KnowledgeGraph.fromJson(json as Map<String, dynamic>);
   }
 
-  Future<KnowledgeGraph> subjectGraph(String subjectCode) async {
-    final json = await apiClient.getJson('/api/graph/subject/$subjectCode');
+  Future<KnowledgeGraph> subjectGraph(
+    String subjectCode, {
+    int depth = 3,
+  }) async {
+    final json = await apiClient.getJson('/api/graph/subject/$subjectCode', {
+      'depth': depth,
+    });
     return KnowledgeGraph.fromJson(json as Map<String, dynamic>);
   }
 }

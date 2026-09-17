@@ -19,19 +19,26 @@ class KnowledgeGraph {
 }
 
 class GraphNode {
-  const GraphNode({required this.id, required this.type, required this.label});
+  const GraphNode({
+    required this.id,
+    required this.type,
+    required this.label,
+    this.name,
+  });
 
   factory GraphNode.fromJson(Map<String, dynamic> json) {
     return GraphNode(
       id: json['id'] as String? ?? '',
       type: json['type'] as String? ?? '',
       label: json['label'] as String? ?? '',
+      name: json['name'] as String?,
     );
   }
 
   final String id;
   final String type;
   final String label;
+  final String? name;
 }
 
 class GraphEdge {

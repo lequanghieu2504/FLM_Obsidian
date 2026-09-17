@@ -1,15 +1,23 @@
-// ignore_for_file: deprecated_member_use
 import 'dart:math' as math;
 
 import 'package:flutter/material.dart';
 import 'package:flutter_riverpod/flutter_riverpod.dart';
 
 import '../../core/theme/app_theme.dart';
-import '../../core/widgets/badge_tag.dart';
 import '../../core/widgets/glass_card.dart';
 import '../../models/graph.dart';
 import '../../repositories/providers.dart';
 import '../syllabus/syllabus_detail_page.dart';
+
+enum _GraphScope { prerequisites, dependents, both }
+
+Matrix4 _viewportTransform(double scale, double dx, double dy) {
+  return Matrix4.identity()
+    ..setEntry(0, 0, scale)
+    ..setEntry(1, 1, scale)
+    ..setEntry(0, 3, dx)
+    ..setEntry(1, 3, dy);
+}
 
 class GraphPage extends ConsumerStatefulWidget {
   const GraphPage({super.key});
@@ -19,96 +27,123 @@ class GraphPage extends ConsumerStatefulWidget {
 }
 
 class _GraphPageState extends ConsumerState<GraphPage> {
-  final controller = TextEditingController(text: 'JPD111');
-  late Future<KnowledgeGraph> graph = _loadSubject();
-  GraphNode? selected;
+  final searchController = TextEditingController(text: 'JPD326');
   final transformationController = TransformationController();
+  final canvasKey = GlobalKey();
+  late Future<KnowledgeGraph> graph = _loadSubject('JPD326');
+  String rootCode = 'JPD326';
+  String? selectedId = 'subject:JPD326';
+  _GraphScope scope = _GraphScope.both;
+  _HierarchicalLayout? currentLayout;
 
-  Future<KnowledgeGraph> _loadSubject() {
-    return ref
-        .read(graphRepositoryProvider)
-        .subjectGraph(controller.text.trim());
-  }
+  Future<KnowledgeGraph> _loadSubject(String code) =>
+      ref.read(graphRepositoryProvider).subjectGraph(code, depth: 3);
 
   @override
   void dispose() {
-    controller.dispose();
+    searchController.dispose();
     transformationController.dispose();
     super.dispose();
   }
 
-  void _triggerLoad() {
+  void _search() {
+    final code = searchController.text.trim().toUpperCase().replaceAll(' ', '');
+    if (code.isEmpty) return;
+    searchController.text = code;
     setState(() {
-      selected = null;
-      graph = _loadSubject();
+      rootCode = code;
+      selectedId = 'subject:$code';
+      scope = _GraphScope.both;
+      currentLayout = null;
+      graph = _loadSubject(code);
     });
+  }
+
+  void _reset() {
+    setState(() {
+      scope = _GraphScope.both;
+      selectedId = 'subject:$rootCode';
+      currentLayout = null;
+    });
+  }
+
+  Size? get _viewportSize {
+    final box = canvasKey.currentContext?.findRenderObject() as RenderBox?;
+    return box?.hasSize == true ? box!.size : null;
+  }
+
+  void _fitToScreen() {
+    WidgetsBinding.instance.addPostFrameCallback((_) {
+      final layout = currentLayout;
+      final viewport = _viewportSize;
+      if (!mounted || layout == null || viewport == null) return;
+      final scale =
+          (math.min(
+                    viewport.width / layout.size.width,
+                    viewport.height / layout.size.height,
+                  ) *
+                  0.9)
+              .clamp(0.25, 1.25);
+      final dx = (viewport.width - layout.size.width * scale) / 2;
+      final dy = (viewport.height - layout.size.height * scale) / 2;
+      transformationController.value = _viewportTransform(scale, dx, dy);
+    });
+  }
+
+  void _centerSelected() {
+    final layout = currentLayout;
+    final viewport = _viewportSize;
+    final center = layout?.centers[selectedId];
+    if (layout == null || viewport == null || center == null) return;
+    final scale = transformationController.value.getMaxScaleOnAxis().clamp(
+      0.25,
+      4.0,
+    );
+    transformationController.value = _viewportTransform(
+      scale,
+      viewport.width / 2 - center.dx * scale,
+      viewport.height / 2 - center.dy * scale,
+    );
+  }
+
+  void _zoom(double factor) {
+    final viewport = _viewportSize;
+    if (viewport == null) return;
+    final oldScale = transformationController.value.getMaxScaleOnAxis();
+    final newScale = (oldScale * factor).clamp(0.25, 4.0);
+    final sceneCenter = transformationController.toScene(
+      Offset(viewport.width / 2, viewport.height / 2),
+    );
+    transformationController.value = _viewportTransform(
+      newScale,
+      viewport.width / 2 - sceneCenter.dx * newScale,
+      viewport.height / 2 - sceneCenter.dy * newScale,
+    );
   }
 
   @override
   Widget build(BuildContext context) {
     final isDark = Theme.of(context).brightness == Brightness.dark;
-
     return Padding(
-      padding: const EdgeInsets.all(28),
+      padding: const EdgeInsets.all(24),
       child: Column(
         crossAxisAlignment: CrossAxisAlignment.start,
         children: [
-          // Header section
-          Row(
-            children: [
-              Expanded(
-                child: Column(
-                  crossAxisAlignment: CrossAxisAlignment.start,
-                  children: [
-                    const Text(
-                      'Knowledge Graph Visualizer',
-                      style: TextStyle(
-                        fontSize: 24,
-                        fontWeight: FontWeight.bold,
-                        letterSpacing: -0.5,
-                      ),
-                    ),
-                    const SizedBox(height: 4),
-                    Text(
-                      'Interactive 2D graph view of subject relations, prerequisites, and learning concepts.',
-                      style: TextStyle(
-                        fontSize: 13,
-                        color: isDark
-                            ? const Color(0xFF94A3B8)
-                            : const Color(0xFF64748B),
-                      ),
-                    ),
-                  ],
-                ),
-              ),
-              // Search Input Row
-              SizedBox(
-                width: 220,
-                child: TextField(
-                  controller: controller,
-                  decoration: const InputDecoration(
-                    prefixIcon: Icon(Icons.hub_rounded),
-                    hintText: 'Subject code...',
-                    contentPadding: EdgeInsets.symmetric(
-                      horizontal: 12,
-                      vertical: 10,
-                    ),
-                  ),
-                  onSubmitted: (_) => _triggerLoad(),
-                ),
-              ),
-              const SizedBox(width: 10),
-              FilledButton.icon(
-                onPressed: _triggerLoad,
-                icon: const Icon(Icons.manage_search_rounded, size: 18),
-                label: const Text('Render Graph'),
-              ),
-            ],
+          const Text(
+            'Prerequisite Graph',
+            style: TextStyle(fontSize: 24, fontWeight: FontWeight.bold),
           ),
-
+          const SizedBox(height: 4),
+          Text(
+            'A → B means A must be passed before B.',
+            style: TextStyle(
+              fontSize: 13,
+              color: isDark ? const Color(0xFF94A3B8) : const Color(0xFF64748B),
+            ),
+          ),
           const SizedBox(height: 16),
-
-          // Main Graph Canvas Area + Side Inspector
+          _buildControls(),
+          const SizedBox(height: 14),
           Expanded(
             child: FutureBuilder<KnowledgeGraph>(
               future: graph,
@@ -118,263 +153,42 @@ class _GraphPageState extends ConsumerState<GraphPage> {
                 }
                 if (snapshot.hasError) {
                   return Center(
-                    child: GlassCard(
-                      child: Text(
-                        'Backend Error: ${snapshot.error}',
-                        style: const TextStyle(color: AppColors.accentRose),
-                      ),
+                    child: Text(
+                      'Could not load graph: ${snapshot.error}',
+                      style: const TextStyle(color: AppColors.accentRose),
                     ),
                   );
                 }
-                final data = snapshot.data;
-                if (data == null || data.nodes.isEmpty) {
+                final fullGraph = snapshot.data;
+                if (fullGraph == null || fullGraph.nodes.isEmpty) {
                   return Center(
-                    child: GlassCard(
-                      child: Column(
-                        mainAxisSize: MainAxisSize.min,
-                        children: [
-                          const Icon(
-                            Icons.bubble_chart_outlined,
-                            size: 48,
-                            color: Color(0xFF64748B),
-                          ),
-                          const SizedBox(height: 12),
-                          Text(
-                            'No graph data found for "${controller.text}".',
-                            style: const TextStyle(
-                              fontSize: 15,
-                              fontWeight: FontWeight.w500,
-                            ),
-                          ),
-                        ],
-                      ),
-                    ),
+                    child: Text('No dependency data found for $rootCode.'),
                   );
                 }
-
-                return Stack(
+                final visibleGraph = _visibleGraph(fullGraph);
+                final selected =
+                    _nodeById(fullGraph, selectedId) ??
+                    _nodeById(fullGraph, 'subject:$rootCode');
+                return Row(
+                  crossAxisAlignment: CrossAxisAlignment.stretch,
                   children: [
-                    // Canvas Grid View
-                    ClipRRect(
-                      borderRadius: BorderRadius.circular(20),
-                      child: Container(
-                        decoration: BoxDecoration(
-                          color: isDark
-                              ? const Color(0xFF060911)
-                              : const Color(0xFFF1F5F9),
-                          borderRadius: BorderRadius.circular(20),
-                          border: Border.all(
-                            color: isDark
-                                ? AppColors.darkBorder
-                                : AppColors.lightBorder,
-                          ),
-                        ),
-                        child: Stack(
-                          children: [
-                            // Custom Painter Canvas with InteractiveViewer
-                            Positioned.fill(
-                              child: _GraphCanvas(
-                                graph: data,
-                                selected: selected,
-                                transformationController:
-                                    transformationController,
-                                onSelected: (node) =>
-                                    setState(() => selected = node),
-                              ),
-                            ),
-
-                            // Floating Toolbar Top Left (Legend)
-                            Positioned(
-                              top: 16,
-                              left: 16,
-                              child: GlassCard(
-                                padding: const EdgeInsets.symmetric(
-                                  horizontal: 14,
-                                  vertical: 10,
-                                ),
-                                borderRadius: 12,
-                                child: Row(
-                                  children: [
-                                    _LegendDot(
-                                      color: AppColors.primaryViolet,
-                                      label:
-                                          'Subject (${data.nodes.where((n) => n.type == "Subject").length})',
-                                    ),
-                                    const SizedBox(width: 16),
-                                    _LegendDot(
-                                      color: AppColors.primaryCyan,
-                                      label:
-                                          'Concept/Chunk (${data.nodes.where((n) => n.type != "Subject").length})',
-                                    ),
-                                  ],
-                                ),
-                              ),
-                            ),
-
-                            // Zoom Controls Bottom Right
-                            Positioned(
-                              bottom: 16,
-                              right: selected != null ? 310 : 16,
-                              child: GlassCard(
-                                padding: const EdgeInsets.all(6),
-                                borderRadius: 12,
-                                child: Column(
-                                  children: [
-                                    IconButton(
-                                      tooltip: 'Zoom In',
-                                      icon: const Icon(
-                                        Icons.add_rounded,
-                                        size: 20,
-                                      ),
-                                      onPressed: () {
-                                        transformationController.value =
-                                            Matrix4.copy(
-                                              transformationController.value,
-                                            )..scale(1.2);
-                                      },
-                                    ),
-                                    IconButton(
-                                      tooltip: 'Zoom Out',
-                                      icon: const Icon(
-                                        Icons.remove_rounded,
-                                        size: 20,
-                                      ),
-                                      onPressed: () {
-                                        transformationController.value =
-                                            Matrix4.copy(
-                                              transformationController.value,
-                                            )..scale(0.8);
-                                      },
-                                    ),
-                                    IconButton(
-                                      tooltip: 'Reset Canvas View',
-                                      icon: const Icon(
-                                        Icons.center_focus_strong_rounded,
-                                        size: 20,
-                                      ),
-                                      onPressed: () {
-                                        transformationController.value =
-                                            Matrix4.identity();
-                                      },
-                                    ),
-                                  ],
-                                ),
-                              ),
-                            ),
-                          ],
-                        ),
+                    Expanded(
+                      child: _buildCanvas(visibleGraph, selected, isDark),
+                    ),
+                    const SizedBox(width: 14),
+                    SizedBox(
+                      width: 300,
+                      child: _SubjectPanel(
+                        graph: fullGraph,
+                        node: selected,
+                        onSelect: (id) {
+                          setState(() => selectedId = id);
+                          WidgetsBinding.instance.addPostFrameCallback(
+                            (_) => _centerSelected(),
+                          );
+                        },
                       ),
                     ),
-
-                    // Side Inspector Panel (Slides out when a node is clicked)
-                    if (selected != null)
-                      Positioned(
-                        top: 16,
-                        bottom: 16,
-                        right: 16,
-                        width: 280,
-                        child: GlassCard(
-                          padding: const EdgeInsets.all(20),
-                          child: Column(
-                            crossAxisAlignment: CrossAxisAlignment.start,
-                            children: [
-                              Row(
-                                mainAxisAlignment:
-                                    MainAxisAlignment.spaceBetween,
-                                children: [
-                                  BadgeTag(
-                                    label: selected!.type,
-                                    style: selected!.type == 'Subject'
-                                        ? BadgeStyle.primary
-                                        : BadgeStyle.cyan,
-                                  ),
-                                  IconButton(
-                                    icon: const Icon(
-                                      Icons.close_rounded,
-                                      size: 18,
-                                    ),
-                                    onPressed: () =>
-                                        setState(() => selected = null),
-                                  ),
-                                ],
-                              ),
-                              const SizedBox(height: 16),
-                              Text(
-                                selected!.label,
-                                style: const TextStyle(
-                                  fontSize: 18,
-                                  fontWeight: FontWeight.bold,
-                                ),
-                              ),
-                              const SizedBox(height: 6),
-                              Text(
-                                'Node ID: ${selected!.id}',
-                                style: const TextStyle(
-                                  fontSize: 11,
-                                  fontFamily: 'monospace',
-                                  color: Color(0xFF94A3B8),
-                                ),
-                              ),
-                              const Divider(height: 24),
-                              const Text(
-                                'Connections:',
-                                style: TextStyle(
-                                  fontSize: 12,
-                                  fontWeight: FontWeight.w600,
-                                  color: Color(0xFF94A3B8),
-                                ),
-                              ),
-                              const SizedBox(height: 8),
-                              Expanded(
-                                child: ListView(
-                                  children: [
-                                    for (final edge in data.edges.where(
-                                      (e) =>
-                                          e.source == selected!.id ||
-                                          e.target == selected!.id,
-                                    ))
-                                      ListTile(
-                                        dense: true,
-                                        contentPadding: EdgeInsets.zero,
-                                        leading: const Icon(
-                                          Icons.arrow_right_alt_rounded,
-                                          size: 18,
-                                        ),
-                                        title: Text(
-                                          edge.source == selected!.id
-                                              ? '-> ${edge.target}'
-                                              : '<- ${edge.source}',
-                                          style: const TextStyle(fontSize: 12),
-                                        ),
-                                      ),
-                                  ],
-                                ),
-                              ),
-                              const SizedBox(height: 16),
-                              if (selected!.type == 'Subject')
-                                SizedBox(
-                                  width: double.infinity,
-                                  child: FilledButton.icon(
-                                    onPressed: () {
-                                      Navigator.of(context).push(
-                                        MaterialPageRoute(
-                                          builder: (_) => SyllabusDetailPage(
-                                            subjectCode: selected!.label,
-                                          ),
-                                        ),
-                                      );
-                                    },
-                                    icon: const Icon(
-                                      Icons.open_in_new_rounded,
-                                      size: 16,
-                                    ),
-                                    label: const Text('Open Subject Detail'),
-                                  ),
-                                ),
-                            ],
-                          ),
-                        ),
-                      ),
                   ],
                 );
               },
@@ -384,29 +198,146 @@ class _GraphPageState extends ConsumerState<GraphPage> {
       ),
     );
   }
-}
 
-class _LegendDot extends StatelessWidget {
-  const _LegendDot({required this.color, required this.label});
-
-  final Color color;
-  final String label;
-
-  @override
-  Widget build(BuildContext context) {
-    return Row(
+  Widget _buildControls() {
+    return Wrap(
+      spacing: 10,
+      runSpacing: 10,
+      crossAxisAlignment: WrapCrossAlignment.center,
       children: [
-        Container(
-          width: 10,
-          height: 10,
-          decoration: BoxDecoration(color: color, shape: BoxShape.circle),
+        SizedBox(
+          width: 250,
+          child: TextField(
+            controller: searchController,
+            textCapitalization: TextCapitalization.characters,
+            decoration: const InputDecoration(
+              prefixIcon: Icon(Icons.search_rounded),
+              hintText: 'Search subject code',
+              isDense: true,
+            ),
+            onSubmitted: (_) => _search(),
+          ),
         ),
-        const SizedBox(width: 6),
-        Text(
-          label,
-          style: const TextStyle(fontSize: 12, fontWeight: FontWeight.w500),
+        FilledButton.icon(
+          onPressed: _search,
+          icon: const Icon(Icons.account_tree_outlined, size: 18),
+          label: const Text('Load'),
+        ),
+        SegmentedButton<_GraphScope>(
+          segments: const [
+            ButtonSegment(
+              value: _GraphScope.prerequisites,
+              label: Text('Show prerequisites'),
+            ),
+            ButtonSegment(
+              value: _GraphScope.dependents,
+              label: Text('Show dependents'),
+            ),
+            ButtonSegment(value: _GraphScope.both, label: Text('Show both')),
+          ],
+          selected: {scope},
+          onSelectionChanged: (value) {
+            setState(() {
+              scope = value.first;
+              currentLayout = null;
+            });
+          },
+        ),
+        OutlinedButton.icon(
+          onPressed: _reset,
+          icon: const Icon(Icons.restart_alt_rounded, size: 18),
+          label: const Text('Reset'),
         ),
       ],
+    );
+  }
+
+  Widget _buildCanvas(
+    KnowledgeGraph visibleGraph,
+    GraphNode? selected,
+    bool isDark,
+  ) {
+    return Container(
+      key: canvasKey,
+      clipBehavior: Clip.antiAlias,
+      decoration: BoxDecoration(
+        color: isDark ? const Color(0xFF070A12) : const Color(0xFFF8FAFC),
+        borderRadius: BorderRadius.circular(16),
+        border: Border.all(
+          color: isDark ? AppColors.darkBorder : AppColors.lightBorder,
+        ),
+      ),
+      child: Stack(
+        children: [
+          Positioned.fill(
+            child: _GraphCanvas(
+              graph: visibleGraph,
+              selectedId: selected?.id,
+              rootId: 'subject:$rootCode',
+              transformationController: transformationController,
+              onLayout: (layout) {
+                final firstLayout = currentLayout == null;
+                currentLayout = layout;
+                if (firstLayout) _fitToScreen();
+              },
+              onSelected: (node) => setState(() => selectedId = node.id),
+            ),
+          ),
+          Positioned(left: 12, top: 12, child: const _Legend()),
+          Positioned(
+            right: 12,
+            bottom: 12,
+            child: GlassCard(
+              padding: const EdgeInsets.all(4),
+              borderRadius: 12,
+              child: Row(
+                mainAxisSize: MainAxisSize.min,
+                children: [
+                  IconButton(
+                    tooltip: 'Zoom out',
+                    onPressed: () => _zoom(0.8),
+                    icon: const Icon(Icons.remove_rounded),
+                  ),
+                  IconButton(
+                    tooltip: 'Zoom in',
+                    onPressed: () => _zoom(1.25),
+                    icon: const Icon(Icons.add_rounded),
+                  ),
+                  IconButton(
+                    tooltip: 'Fit to screen',
+                    onPressed: _fitToScreen,
+                    icon: const Icon(Icons.fit_screen_rounded),
+                  ),
+                  IconButton(
+                    tooltip: 'Center selected node',
+                    onPressed: _centerSelected,
+                    icon: const Icon(Icons.center_focus_strong_rounded),
+                  ),
+                ],
+              ),
+            ),
+          ),
+        ],
+      ),
+    );
+  }
+
+  KnowledgeGraph _visibleGraph(KnowledgeGraph source) {
+    final root = 'subject:$rootCode';
+    final ids = <String>{root};
+    if (scope != _GraphScope.dependents) {
+      ids.addAll(_walk(source, root, upstream: true));
+    }
+    if (scope != _GraphScope.prerequisites) {
+      ids.addAll(_walk(source, root, upstream: false));
+    }
+    return KnowledgeGraph(
+      nodes: source.nodes.where((node) => ids.contains(node.id)).toList(),
+      edges: source.edges
+          .where(
+            (edge) => ids.contains(edge.source) && ids.contains(edge.target),
+          )
+          .toList(),
     );
   }
 }
@@ -414,42 +345,45 @@ class _LegendDot extends StatelessWidget {
 class _GraphCanvas extends StatelessWidget {
   const _GraphCanvas({
     required this.graph,
-    required this.selected,
+    required this.selectedId,
+    required this.rootId,
     required this.transformationController,
+    required this.onLayout,
     required this.onSelected,
   });
 
   final KnowledgeGraph graph;
-  final GraphNode? selected;
+  final String? selectedId;
+  final String rootId;
   final TransformationController transformationController;
+  final ValueChanged<_HierarchicalLayout> onLayout;
   final ValueChanged<GraphNode> onSelected;
 
   @override
   Widget build(BuildContext context) {
-    final layout = _GraphLayout(graph);
-    final isDark = Theme.of(context).brightness == Brightness.dark;
-
+    final layout = _HierarchicalLayout(graph, rootId: rootId);
+    WidgetsBinding.instance.addPostFrameCallback((_) => onLayout(layout));
     return GestureDetector(
+      behavior: HitTestBehavior.translucent,
       onTapUp: (details) {
         final box = context.findRenderObject() as RenderBox;
         final local = box.globalToLocal(details.globalPosition);
-        final transformedPoint = transformationController.toScene(local);
-        final node = layout.hitTest(transformedPoint);
-        if (node != null) {
-          onSelected(node);
-        }
+        final node = layout.hitTest(transformationController.toScene(local));
+        if (node != null) onSelected(node);
       },
       child: InteractiveViewer(
         transformationController: transformationController,
-        minScale: 0.3,
-        maxScale: 4.0,
-        boundaryMargin: const EdgeInsets.all(1000),
+        constrained: false,
+        minScale: 0.25,
+        maxScale: 4,
+        boundaryMargin: const EdgeInsets.all(800),
         child: CustomPaint(
-          size: const Size(1400, 900),
+          size: layout.size,
           painter: _GraphPainter(
             layout: layout,
-            selected: selected,
-            isDark: isDark,
+            selectedId: selectedId,
+            rootId: rootId,
+            isDark: Theme.of(context).brightness == Brightness.dark,
           ),
         ),
       ),
@@ -457,31 +391,52 @@ class _GraphCanvas extends StatelessWidget {
   }
 }
 
-class _GraphLayout {
-  _GraphLayout(this.graph) {
-    final count = math.max(graph.nodes.length, 1);
-    const center = Offset(700, 450);
-    const radius = 320.0;
-    for (var i = 0; i < graph.nodes.length; i++) {
-      final node = graph.nodes[i];
-      final angle = (2 * math.pi * i) / count;
-      final r = node.type == 'Subject' ? radius * 0.85 : radius * 0.55;
-      positions[node.id] = Offset(
-        center.dx + math.cos(angle) * r,
-        center.dy + math.sin(angle) * r,
-      );
+class _HierarchicalLayout {
+  _HierarchicalLayout(this.graph, {required this.rootId}) {
+    final ranks = _topologicalRanks(graph);
+    final layers = <int, List<GraphNode>>{};
+    for (final node in graph.nodes) {
+      final rank = ranks[node.id] ?? 0;
+      layers.putIfAbsent(rank, () => []).add(node);
+    }
+    for (final nodes in layers.values) {
+      nodes.sort((a, b) => a.label.compareTo(b.label));
+    }
+    final minRank = layers.keys.reduce(math.min);
+    final maxRank = layers.keys.reduce(math.max);
+    final tallest = layers.values.fold<int>(
+      1,
+      (value, nodes) => math.max(value, nodes.length),
+    );
+    size = Size(
+      120 + (maxRank - minRank + 1) * 230,
+      math.max(420, 100 + tallest * 82),
+    );
+    for (final entry in layers.entries) {
+      final x = 60 + (entry.key - minRank) * 230.0;
+      final totalHeight = (entry.value.length - 1) * 82.0;
+      final startY = size.height / 2 - totalHeight / 2;
+      for (var i = 0; i < entry.value.length; i++) {
+        centers[entry.value[i].id] = Offset(x + 70, startY + i * 82);
+      }
     }
   }
 
+  static const nodeSize = Size(140, 52);
   final KnowledgeGraph graph;
-  final positions = <String, Offset>{};
+  final String rootId;
+  final centers = <String, Offset>{};
+  late final Size size;
+
+  Rect rectFor(String id) => Rect.fromCenter(
+    center: centers[id]!,
+    width: nodeSize.width,
+    height: nodeSize.height,
+  );
 
   GraphNode? hitTest(Offset point) {
     for (final node in graph.nodes.reversed) {
-      final position = positions[node.id];
-      if (position != null && (position - point).distance <= 32) {
-        return node;
-      }
+      if (rectFor(node.id).contains(point)) return node;
     }
     return null;
   }
@@ -490,124 +445,399 @@ class _GraphLayout {
 class _GraphPainter extends CustomPainter {
   const _GraphPainter({
     required this.layout,
-    required this.selected,
+    required this.selectedId,
+    required this.rootId,
     required this.isDark,
   });
 
-  final _GraphLayout layout;
-  final GraphNode? selected;
+  final _HierarchicalLayout layout;
+  final String? selectedId;
+  final String rootId;
   final bool isDark;
 
   @override
   void paint(Canvas canvas, Size size) {
-    // Draw background grid lines
-    final gridPaint = Paint()
-      ..color = isDark
-          ? const Color(0xFF1E293B).withValues(alpha: 0.4)
-          : const Color(0xFFE2E8F0).withValues(alpha: 0.7)
-      ..strokeWidth = 1;
-
-    const step = 40.0;
-    for (double x = 0; x < size.width; x += step) {
-      canvas.drawLine(Offset(x, 0), Offset(x, size.height), gridPaint);
-    }
-    for (double y = 0; y < size.height; y += step) {
-      canvas.drawLine(Offset(0, y), Offset(size.width, y), gridPaint);
-    }
-
-    // Draw Edges
-    final edgePaint = Paint()
-      ..color = isDark
-          ? const Color(0xFF64748B).withValues(alpha: 0.4)
-          : const Color(0xFF94A3B8).withValues(alpha: 0.5)
-      ..strokeWidth = 1.5;
-
+    final ancestors = selectedId == null
+        ? <String>{}
+        : _walk(layout.graph, selectedId!, upstream: true);
+    final descendants = selectedId == null
+        ? <String>{}
+        : _walk(layout.graph, selectedId!, upstream: false);
     for (final edge in layout.graph.edges) {
-      final source = layout.positions[edge.source];
-      final target = layout.positions[edge.target];
-      if (source != null && target != null) {
-        canvas.drawLine(source, target, edgePaint);
-      }
+      final sourceRect = layout.rectFor(edge.source);
+      final targetRect = layout.rectFor(edge.target);
+      final start = Offset(sourceRect.right, sourceRect.center.dy);
+      final end = Offset(targetRect.left, targetRect.center.dy);
+      final highlighted =
+          selectedId != null &&
+          ((ancestors.contains(edge.source) &&
+                  (ancestors.contains(edge.target) ||
+                      edge.target == selectedId)) ||
+              (descendants.contains(edge.target) &&
+                  (descendants.contains(edge.source) ||
+                      edge.source == selectedId)));
+      final color = highlighted
+          ? AppColors.primaryCyan
+          : isDark
+          ? const Color(0xFF64748B)
+          : const Color(0xFF94A3B8);
+      _drawArrow(canvas, start, end, color, highlighted ? 2.4 : 1.5);
     }
-
-    // Draw Nodes
     for (final node in layout.graph.nodes) {
-      final position = layout.positions[node.id]!;
-      final isSelected = node.id == selected?.id;
-
-      final baseColor = node.type == 'Subject'
+      final rect = layout.rectFor(node.id);
+      final selected = node.id == selectedId;
+      final upstream = ancestors.contains(node.id);
+      final downstream = descendants.contains(node.id);
+      final fill = selected
           ? AppColors.primaryViolet
-          : AppColors.primaryCyan;
-
-      // Glow / Selection Ring
-      if (isSelected) {
-        final selectionGlow = Paint()
-          ..color = AppColors.primaryCyan.withValues(alpha: 0.4)
-          ..maskFilter = const MaskFilter.blur(BlurStyle.normal, 8);
-        canvas.drawCircle(position, 34, selectionGlow);
-
-        final selectionBorder = Paint()
-          ..color = AppColors.primaryCyan
-          ..style = PaintingStyle.stroke
-          ..strokeWidth = 2.5;
-        canvas.drawCircle(position, 32, selectionBorder);
+          : upstream
+          ? const Color(0xFFF59E0B)
+          : downstream
+          ? AppColors.primaryCyan
+          : node.id == rootId
+          ? AppColors.primaryViolet.withValues(alpha: 0.72)
+          : isDark
+          ? const Color(0xFF172033)
+          : Colors.white;
+      final border = selected
+          ? const Color(0xFFC4B5FD)
+          : upstream
+          ? const Color(0xFFFBBF24)
+          : downstream
+          ? const Color(0xFF22D3EE)
+          : const Color(0xFF64748B);
+      if (selected) {
+        canvas.drawRRect(
+          RRect.fromRectAndRadius(rect.inflate(6), const Radius.circular(16)),
+          Paint()
+            ..color = AppColors.primaryViolet.withValues(alpha: 0.3)
+            ..maskFilter = const MaskFilter.blur(BlurStyle.normal, 8),
+        );
       }
-
-      // Node Body Circle
-      final fill = Paint()
-        ..shader = RadialGradient(
-          colors: [baseColor.withValues(alpha: 0.9), baseColor],
-        ).createShader(Rect.fromCircle(center: position, radius: 24));
-
-      canvas.drawCircle(position, isSelected ? 26 : 22, fill);
-
-      // Node Label Box
-      final textSpan = TextSpan(
-        text: node.label,
-        style: TextStyle(
-          color: isDark ? Colors.white : Colors.black,
-          fontSize: 12,
-          fontWeight: isSelected ? FontWeight.bold : FontWeight.w600,
-        ),
-      );
-      final textPainter = TextPainter(
-        text: textSpan,
-        textDirection: TextDirection.ltr,
-      )..layout(maxWidth: 140);
-
-      final labelBg = Paint()
-        ..color = isDark
-            ? const Color(0xFF0F172A).withValues(alpha: 0.85)
-            : Colors.white.withValues(alpha: 0.9)
-        ..style = PaintingStyle.fill;
-
-      final textRect = RRect.fromRectAndRadius(
-        Rect.fromLTWH(
-          position.dx + 30,
-          position.dy - 10,
-          textPainter.width + 12,
-          textPainter.height + 6,
-        ),
-        const Radius.circular(6),
-      );
-
-      canvas.drawRRect(textRect, labelBg);
+      final rounded = RRect.fromRectAndRadius(rect, const Radius.circular(13));
+      canvas.drawRRect(rounded, Paint()..color = fill);
       canvas.drawRRect(
-        textRect,
+        rounded,
         Paint()
-          ..color = isDark ? const Color(0xFF1E293B) : const Color(0xFFE2E8F0)
+          ..color = border
           ..style = PaintingStyle.stroke
-          ..strokeWidth = 1,
+          ..strokeWidth = selected ? 2.5 : 1.5,
       );
-
-      textPainter.paint(canvas, position + const Offset(36, -7));
+      final painter = TextPainter(
+        text: TextSpan(
+          text: node.label,
+          style: TextStyle(
+            color: selected || upstream || downstream || node.id == rootId
+                ? Colors.white
+                : isDark
+                ? const Color(0xFFF1F5F9)
+                : const Color(0xFF0F172A),
+            fontSize: 14,
+            fontWeight: FontWeight.w700,
+          ),
+        ),
+        textDirection: TextDirection.ltr,
+      )..layout(maxWidth: rect.width - 20);
+      painter.paint(
+        canvas,
+        Offset(
+          rect.center.dx - painter.width / 2,
+          rect.center.dy - painter.height / 2,
+        ),
+      );
     }
+  }
+
+  void _drawArrow(
+    Canvas canvas,
+    Offset start,
+    Offset end,
+    Color color,
+    double width,
+  ) {
+    final midX = (start.dx + end.dx) / 2;
+    final path = Path()
+      ..moveTo(start.dx, start.dy)
+      ..cubicTo(midX, start.dy, midX, end.dy, end.dx, end.dy);
+    canvas.drawPath(
+      path,
+      Paint()
+        ..color = color
+        ..style = PaintingStyle.stroke
+        ..strokeWidth = width,
+    );
+    const arrow = 9.0;
+    final arrowPath = Path()
+      ..moveTo(end.dx, end.dy)
+      ..lineTo(end.dx - arrow, end.dy - arrow * 0.6)
+      ..lineTo(end.dx - arrow, end.dy + arrow * 0.6)
+      ..close();
+    canvas.drawPath(arrowPath, Paint()..color = color);
   }
 
   @override
-  bool shouldRepaint(covariant _GraphPainter oldDelegate) {
-    return oldDelegate.layout != layout ||
-        oldDelegate.selected != selected ||
-        oldDelegate.isDark != isDark;
+  bool shouldRepaint(covariant _GraphPainter oldDelegate) =>
+      oldDelegate.layout.graph != layout.graph ||
+      oldDelegate.selectedId != selectedId ||
+      oldDelegate.isDark != isDark;
+}
+
+class _SubjectPanel extends StatelessWidget {
+  const _SubjectPanel({
+    required this.graph,
+    required this.node,
+    required this.onSelect,
+  });
+
+  final KnowledgeGraph graph;
+  final GraphNode? node;
+  final ValueChanged<String> onSelect;
+
+  @override
+  Widget build(BuildContext context) {
+    if (node == null) {
+      return const GlassCard(child: Center(child: Text('Select a subject')));
+    }
+    final prerequisites =
+        graph.edges
+            .where((edge) => edge.target == node!.id)
+            .map((edge) => _nodeById(graph, edge.source))
+            .whereType<GraphNode>()
+            .toList()
+          ..sort((a, b) => a.label.compareTo(b.label));
+    final dependents =
+        graph.edges
+            .where((edge) => edge.source == node!.id)
+            .map((edge) => _nodeById(graph, edge.target))
+            .whereType<GraphNode>()
+            .toList()
+          ..sort((a, b) => a.label.compareTo(b.label));
+    return GlassCard(
+      padding: const EdgeInsets.all(18),
+      child: Column(
+        crossAxisAlignment: CrossAxisAlignment.start,
+        children: [
+          const Text(
+            'SUBJECT DETAILS',
+            style: TextStyle(
+              fontSize: 11,
+              fontWeight: FontWeight.w800,
+              letterSpacing: 1.1,
+              color: Color(0xFF94A3B8),
+            ),
+          ),
+          const SizedBox(height: 12),
+          Text(
+            node!.label,
+            style: const TextStyle(fontSize: 22, fontWeight: FontWeight.bold),
+          ),
+          const SizedBox(height: 6),
+          Text(
+            node!.name?.trim().isNotEmpty == true
+                ? node!.name!
+                : 'Subject name unavailable',
+            style: const TextStyle(fontSize: 13, color: Color(0xFF94A3B8)),
+          ),
+          const Divider(height: 28),
+          Expanded(
+            child: ListView(
+              children: [
+                _RelationList(
+                  title: 'Direct prerequisites',
+                  emptyLabel: 'No direct prerequisites',
+                  nodes: prerequisites,
+                  color: const Color(0xFFF59E0B),
+                  icon: Icons.arrow_back_rounded,
+                  onSelect: onSelect,
+                ),
+                const SizedBox(height: 22),
+                _RelationList(
+                  title: 'Dependents / unlocked',
+                  emptyLabel: 'No direct dependents',
+                  nodes: dependents,
+                  color: AppColors.primaryCyan,
+                  icon: Icons.arrow_forward_rounded,
+                  onSelect: onSelect,
+                ),
+              ],
+            ),
+          ),
+          const SizedBox(height: 12),
+          SizedBox(
+            width: double.infinity,
+            child: OutlinedButton.icon(
+              onPressed: () => Navigator.of(context).push(
+                MaterialPageRoute(
+                  builder: (_) => SyllabusDetailPage(subjectCode: node!.label),
+                ),
+              ),
+              icon: const Icon(Icons.open_in_new_rounded, size: 16),
+              label: const Text('Open subject'),
+            ),
+          ),
+        ],
+      ),
+    );
   }
+}
+
+class _RelationList extends StatelessWidget {
+  const _RelationList({
+    required this.title,
+    required this.emptyLabel,
+    required this.nodes,
+    required this.color,
+    required this.icon,
+    required this.onSelect,
+  });
+  final String title;
+  final String emptyLabel;
+  final List<GraphNode> nodes;
+  final Color color;
+  final IconData icon;
+  final ValueChanged<String> onSelect;
+
+  @override
+  Widget build(BuildContext context) {
+    return Column(
+      crossAxisAlignment: CrossAxisAlignment.start,
+      children: [
+        Text(
+          '$title (${nodes.length})',
+          style: const TextStyle(fontSize: 13, fontWeight: FontWeight.w700),
+        ),
+        const SizedBox(height: 8),
+        if (nodes.isEmpty)
+          Text(
+            emptyLabel,
+            style: const TextStyle(fontSize: 12, color: Color(0xFF94A3B8)),
+          ),
+        for (final item in nodes)
+          ListTile(
+            dense: true,
+            contentPadding: EdgeInsets.zero,
+            minLeadingWidth: 24,
+            leading: Icon(icon, size: 17, color: color),
+            title: Text(item.label, style: const TextStyle(fontSize: 13)),
+            subtitle: item.name == null
+                ? null
+                : Text(
+                    item.name!,
+                    maxLines: 1,
+                    overflow: TextOverflow.ellipsis,
+                    style: const TextStyle(fontSize: 11),
+                  ),
+            onTap: () => onSelect(item.id),
+          ),
+      ],
+    );
+  }
+}
+
+class _Legend extends StatelessWidget {
+  const _Legend();
+
+  @override
+  Widget build(BuildContext context) {
+    return GlassCard(
+      padding: const EdgeInsets.symmetric(horizontal: 12, vertical: 9),
+      borderRadius: 10,
+      child: const Row(
+        mainAxisSize: MainAxisSize.min,
+        children: [
+          _LegendItem(color: AppColors.primaryViolet, label: 'Selected'),
+          SizedBox(width: 14),
+          _LegendItem(color: Color(0xFFF59E0B), label: 'Prerequisite'),
+          SizedBox(width: 14),
+          _LegendItem(color: AppColors.primaryCyan, label: 'Dependent'),
+        ],
+      ),
+    );
+  }
+}
+
+class _LegendItem extends StatelessWidget {
+  const _LegendItem({required this.color, required this.label});
+  final Color color;
+  final String label;
+
+  @override
+  Widget build(BuildContext context) {
+    return Row(
+      children: [
+        Container(
+          width: 9,
+          height: 9,
+          decoration: BoxDecoration(
+            color: color,
+            borderRadius: BorderRadius.circular(3),
+          ),
+        ),
+        const SizedBox(width: 5),
+        Text(label, style: const TextStyle(fontSize: 11)),
+      ],
+    );
+  }
+}
+
+GraphNode? _nodeById(KnowledgeGraph graph, String? id) {
+  if (id == null) return null;
+  for (final node in graph.nodes) {
+    if (node.id == id) return node;
+  }
+  return null;
+}
+
+Set<String> _walk(
+  KnowledgeGraph graph,
+  String start, {
+  required bool upstream,
+}) {
+  final visited = <String>{};
+  final queue = <String>[start];
+  while (queue.isNotEmpty) {
+    final current = queue.removeAt(0);
+    for (final edge in graph.edges) {
+      final matches = upstream
+          ? edge.target == current
+          : edge.source == current;
+      if (!matches) continue;
+      final next = upstream ? edge.source : edge.target;
+      if (visited.add(next)) queue.add(next);
+    }
+  }
+  visited.remove(start);
+  return visited;
+}
+
+Map<String, int> _topologicalRanks(KnowledgeGraph graph) {
+  final indegree = {for (final node in graph.nodes) node.id: 0};
+  final outgoing = <String, List<String>>{};
+  for (final edge in graph.edges) {
+    if (!indegree.containsKey(edge.source) ||
+        !indegree.containsKey(edge.target)) {
+      continue;
+    }
+    outgoing.putIfAbsent(edge.source, () => []).add(edge.target);
+    indegree[edge.target] = indegree[edge.target]! + 1;
+  }
+  final ranks = {for (final node in graph.nodes) node.id: 0};
+  final queue =
+      indegree.entries
+          .where((entry) => entry.value == 0)
+          .map((entry) => entry.key)
+          .toList()
+        ..sort();
+  while (queue.isNotEmpty) {
+    final current = queue.removeAt(0);
+    for (final target in outgoing[current] ?? const <String>[]) {
+      ranks[target] = math.max(ranks[target]!, ranks[current]! + 1);
+      indegree[target] = indegree[target]! - 1;
+      if (indegree[target] == 0) {
+        queue.add(target);
+        queue.sort();
+      }
+    }
+  }
+  return ranks;
 }

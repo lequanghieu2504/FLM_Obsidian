@@ -6,6 +6,7 @@ import '../../core/widgets/badge_tag.dart';
 import '../../core/widgets/glass_card.dart';
 import '../../models/subject.dart';
 import '../../repositories/providers.dart';
+import '../chat/embedded_chat_widget.dart';
 
 class SyllabusDetailPage extends ConsumerWidget {
   const SyllabusDetailPage({required this.subjectCode, super.key});
@@ -75,7 +76,7 @@ class SyllabusDetailPage extends ConsumerWidget {
 
           final syllabus = detail.syllabi.first;
 
-          return ListView(
+          final detailView = ListView(
             padding: const EdgeInsets.all(28),
             children: [
               // Hero Subject Banner Card
@@ -136,7 +137,7 @@ class SyllabusDetailPage extends ConsumerWidget {
                 _SectionCard(
                   title: 'Course Description',
                   icon: Icons.description_rounded,
-                  iconColor: AppColors.primaryViolet,
+                  iconColor: AppColors.primaryIndigo,
                   child: Text(
                     syllabus.description,
                     style: const TextStyle(
@@ -184,10 +185,31 @@ class SyllabusDetailPage extends ConsumerWidget {
               _RecordSection(
                 title: 'Textbooks & Learning Materials',
                 icon: Icons.collections_bookmark_rounded,
-                iconColor: AppColors.primaryViolet,
+                iconColor: AppColors.primaryIndigo,
                 records: detail.materials,
               ),
             ],
+          );
+
+          return LayoutBuilder(
+            builder: (context, constraints) {
+              if (constraints.maxWidth < 700) {
+                return detailView;
+              }
+              return Row(
+                crossAxisAlignment: CrossAxisAlignment.stretch,
+                children: [
+                  Expanded(
+                    flex: 7,
+                    child: detailView,
+                  ),
+                  Expanded(
+                    flex: 3,
+                    child: EmbeddedChatWidget(subjectCode: subjectCode),
+                  ),
+                ],
+              );
+            },
           );
         },
       ),
@@ -295,6 +317,8 @@ class _RecordSection extends StatelessWidget {
 
   @override
   Widget build(BuildContext context) {
+    final isDark = Theme.of(context).brightness == Brightness.dark;
+
     return _SectionCard(
       title: title,
       icon: icon,
@@ -311,10 +335,14 @@ class _RecordSection extends StatelessWidget {
                     margin: const EdgeInsets.only(bottom: 10),
                     padding: const EdgeInsets.all(12),
                     decoration: BoxDecoration(
-                      color: AppColors.primaryViolet.withValues(alpha: 0.05),
+                      color: isDark
+                          ? const Color(0xFF131722)
+                          : const Color(0xFFF8FAFC),
                       borderRadius: BorderRadius.circular(10),
                       border: Border.all(
-                        color: AppColors.primaryViolet.withValues(alpha: 0.2),
+                        color: isDark
+                            ? const Color(0xFF1E2638)
+                            : const Color(0xFFE2E8F0),
                       ),
                     ),
                     child: Column(

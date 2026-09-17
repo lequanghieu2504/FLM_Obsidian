@@ -12,7 +12,12 @@ from ..schemas.graph import GraphEdge, GraphNode, GraphResponse
 @lru_cache(maxsize=1)
 def load_graph() -> GraphResponse:
     nodes = [
-        GraphNode(id=item["id"], type=item["type"], label=item["label"])
+        GraphNode(
+            id=item["id"],
+            type=item["type"],
+            label=item["label"],
+            name=item.get("properties", {}).get("name"),
+        )
         for item in _read_jsonl(GRAPH_NODES)
     ]
     edges = [
@@ -44,7 +49,33 @@ def graph_for_subject(subject_code: str, depth: int = 1) -> GraphResponse:
         (node.id for node in graph.nodes if node.type == "Subject" and node.label.upper() == normalized),
         f"subject:{subject_code}",
     )
-    return graph_for_entity(subject_id, depth=depth)
+    prerequisite_edges = [
+        edge
+        for edge in graph.edges
+        if edge.type == "REQUIRES_PREREQUISITE"
+        and edge.source.startswith("subject:")
+        and edge.target.startswith("subject:")
+    ]
+    selected = {subject_id}
+    for upstream in (True, False):
+        frontier = {subject_id}
+        for _ in range(max(depth, 1)):
+            next_frontier: set[str] = set()
+            for edge in prerequisite_edges:
+                if upstream and edge.target in frontier:
+                    next_frontier.add(edge.source)
+                elif not upstream and edge.source in frontier:
+                    next_frontier.add(edge.target)
+            selected.update(next_frontier)
+            frontier = next_frontier
+    return GraphResponse(
+        nodes=[node for node in graph.nodes if node.id in selected],
+        edges=[
+            edge
+            for edge in prerequisite_edges
+            if edge.source in selected and edge.target in selected
+        ],
+    )
 
 
 def _read_jsonl(path: Path) -> list[dict[str, Any]]:

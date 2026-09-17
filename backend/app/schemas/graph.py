@@ -7,6 +7,7 @@ class GraphNode(BaseModel):
     id: str
     type: str
     label: str
+    name: str | None = None
 
 
 class GraphEdge(BaseModel):
