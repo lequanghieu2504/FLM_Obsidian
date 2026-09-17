@@ -1,63 +1,63 @@
 import 'package:flutter/material.dart';
 
 class AppColors {
-  // Cosmic Obsidian Dark Palette
-  static const darkBackground = Color(0xFF06070E);
-  static const darkSidebar = Color(0xFF0C0E1A);
-  static const darkCard = Color(0xFF101426);
-  static const darkSurfaceHover = Color(0xFF181E38);
-  static const darkBorder = Color(0xFF1E2647);
-  static const darkGlassBorder = Color(0x2B8B5CF6);
+  // Clean Minimalist Dark Palette
+  static const darkBackground = Color(0xFF090A0F);
+  static const darkSidebar = Color(0xFF0D0F18);
+  static const darkCard = Color(0xFF131722);
+  static const darkSurfaceHover = Color(0xFF1A2030);
+  static const darkBorder = Color(0xFF1E2638);
+  static const darkGlassBorder = Color(0x1F6366F1);
 
-  // Studio Light Palette
+  // Clean Minimalist Light Palette
   static const lightBackground = Color(0xFFF8FAFC);
   static const lightSidebar = Color(0xFFFFFFFF);
   static const lightCard = Color(0xFFFFFFFF);
   static const lightSurfaceHover = Color(0xFFF1F5F9);
-  static const lightBorder = Color(0xE2E8F0FF);
-  static const lightGlassBorder = Color(0x1F000000);
+  static const lightBorder = Color(0xFFE2E8F0);
+  static const lightGlassBorder = Color(0x0F000000);
 
-  // Accent Neon Colors
+  // Minimalist Accents (Muted, professional)
   static const primaryIndigo = Color(0xFF6366F1);
-  static const primaryViolet = Color(0xFFA855F7);
-  static const primaryCyan = Color(0xFF06B6D4);
+  static const primaryViolet = Color(0xFF8B5CF6);
+  static const primaryCyan = Color(0xFF0EA5E9);
   static const accentEmerald = Color(0xFF10B981);
   static const accentAmber = Color(0xFFF59E0B);
-  static const accentRose = Color(0xFFF43F5E);
+  static const accentRose = Color(0xFFEF4444);
 
-  // Gradients
+  // Clean Soft Gradients
   static const primaryGradient = LinearGradient(
-    colors: [primaryViolet, primaryIndigo],
+    colors: [Color(0xFF6366F1), Color(0xFF4F46E5)],
     begin: Alignment.topLeft,
     end: Alignment.bottomRight,
   );
 
   static const cyanGradient = LinearGradient(
-    colors: [primaryCyan, primaryIndigo],
+    colors: [Color(0xFF0EA5E9), Color(0xFF0284C7)],
     begin: Alignment.topLeft,
     end: Alignment.bottomRight,
   );
 
   static const emeraldGradient = LinearGradient(
-    colors: [accentEmerald, primaryCyan],
+    colors: [Color(0xFF10B981), Color(0xFF059669)],
     begin: Alignment.topLeft,
     end: Alignment.bottomRight,
   );
 
   static const crystalGradient = LinearGradient(
-    colors: [Color(0xFFA855F7), Color(0xFFEC4899), Color(0xFF3B82F6)],
+    colors: [Color(0xFF6366F1), Color(0xFF8B5CF6)],
     begin: Alignment.topLeft,
     end: Alignment.bottomRight,
   );
 
   static const heroGradientDark = LinearGradient(
-    colors: [Color(0xFF1E1B4B), Color(0xFF0F172A), Color(0xFF0C0E1A)],
+    colors: [Color(0xFF131722), Color(0xFF0D0F18)],
     begin: Alignment.topLeft,
     end: Alignment.bottomRight,
   );
 
   static const heroGradientLight = LinearGradient(
-    colors: [Color(0xFFEEF2FF), Color(0xFFF8FAFC)],
+    colors: [Color(0xFFF1F5F9), Color(0xFFFFFFFF)],
     begin: Alignment.topLeft,
     end: Alignment.bottomRight,
   );
