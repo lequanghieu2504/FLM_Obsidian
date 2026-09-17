@@ -27,12 +27,12 @@ class GraphPage extends ConsumerStatefulWidget {
 }
 
 class _GraphPageState extends ConsumerState<GraphPage> {
-  final searchController = TextEditingController(text: 'JPD326');
+  final searchController = TextEditingController(text: 'PRM391');
   final transformationController = TransformationController();
   final canvasKey = GlobalKey();
-  late Future<KnowledgeGraph> graph = _loadSubject('JPD326');
-  String rootCode = 'JPD326';
-  String? selectedId = 'subject:JPD326';
+  late Future<KnowledgeGraph> graph = _loadSubject('PRM391');
+  String rootCode = 'PRM391';
+  String? selectedId = 'subject:PRM391';
   _GraphScope scope = _GraphScope.both;
   _HierarchicalLayout? currentLayout;
 
