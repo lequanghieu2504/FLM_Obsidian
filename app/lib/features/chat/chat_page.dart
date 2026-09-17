@@ -31,7 +31,6 @@ class ChatPage extends ConsumerStatefulWidget {
 class _ChatPageState extends ConsumerState<ChatPage> {
   final controller = TextEditingController();
   final scrollController = ScrollController();
-  final focusNode = FocusNode();
   bool loading = false;
   final List<ChatMessage> messages = [];
   List<Conversation> conversations = [];
@@ -40,7 +39,6 @@ class _ChatPageState extends ConsumerState<ChatPage> {
 
   void _selectPromptTemplate(String template) {
     controller.text = template;
-    focusNode.requestFocus();
     controller.selection = TextSelection.collapsed(
       offset: controller.text.length,
     );
@@ -129,7 +127,6 @@ class _ChatPageState extends ConsumerState<ChatPage> {
   void dispose() {
     controller.dispose();
     scrollController.dispose();
-    focusNode.dispose();
     super.dispose();
   }
 
@@ -455,9 +452,12 @@ class _ChatPageState extends ConsumerState<ChatPage> {
                       Expanded(
                         child: TextField(
                           controller: controller,
-                          focusNode: focusNode,
+                          keyboardType: TextInputType.multiline,
+                          minLines: 1,
+                          maxLines: 4,
                           decoration: const InputDecoration(
-                            hintText: 'Nhập câu hỏi của bạn về môn học, syllabus, tín chỉ, điểm số...',
+                            hintText:
+                                'Nhập câu hỏi của bạn về môn học, syllabus, tín chỉ, điểm số...',
                             border: InputBorder.none,
                             enabledBorder: InputBorder.none,
                             focusedBorder: InputBorder.none,
@@ -525,29 +525,40 @@ class _ChatPageState extends ConsumerState<ChatPage> {
           for (final suggestion in suggestions) ...[
             Padding(
               padding: const EdgeInsets.only(right: 8),
-              child: ActionChip(
-                elevation: 0,
-                padding: const EdgeInsets.symmetric(horizontal: 8, vertical: 4),
-                label: Text(
-                  suggestion,
-                  style: TextStyle(
-                    fontSize: 12,
-                    fontWeight: FontWeight.w500,
-                    color: isDark
-                        ? const Color(0xFFE2E8F0)
-                        : const Color(0xFF334155),
+              child: Focus(
+                canRequestFocus: false,
+                skipTraversal: true,
+                child: InkWell(
+                  onTap: loading ? null : () => _selectPromptTemplate(suggestion),
+                  borderRadius: BorderRadius.circular(16),
+                  child: Container(
+                    padding: const EdgeInsets.symmetric(
+                      horizontal: 10,
+                      vertical: 6,
+                    ),
+                    decoration: BoxDecoration(
+                      color: isDark
+                          ? AppColors.darkCard
+                          : AppColors.lightCard,
+                      borderRadius: BorderRadius.circular(16),
+                      border: Border.all(
+                        color: isDark
+                            ? AppColors.darkBorder
+                            : AppColors.lightBorder,
+                      ),
+                    ),
+                    child: Text(
+                      suggestion,
+                      style: TextStyle(
+                        fontSize: 12,
+                        fontWeight: FontWeight.w500,
+                        color: isDark
+                            ? const Color(0xFFE2E8F0)
+                            : const Color(0xFF334155),
+                      ),
+                    ),
                   ),
                 ),
-                backgroundColor: isDark
-                    ? AppColors.darkCard
-                    : AppColors.lightCard,
-                side: BorderSide(
-                  color: isDark ? AppColors.darkBorder : AppColors.lightBorder,
-                ),
-                shape: RoundedRectangleBorder(
-                  borderRadius: BorderRadius.circular(16),
-                ),
-                onPressed: loading ? null : () => _selectPromptTemplate(suggestion),
               ),
             ),
           ],
@@ -646,21 +657,25 @@ class _PromptChip extends StatelessWidget {
 
   @override
   Widget build(BuildContext context) {
-    return GlassCard(
-      padding: const EdgeInsets.symmetric(horizontal: 14, vertical: 10),
-      borderRadius: 20,
-      hoverable: true,
-      onTap: onTap,
-      child: Row(
-        mainAxisSize: MainAxisSize.min,
-        children: [
-          Icon(icon, size: 16, color: AppColors.primaryViolet),
-          const SizedBox(width: 8),
-          Text(
-            label,
-            style: const TextStyle(fontSize: 12, fontWeight: FontWeight.w500),
-          ),
-        ],
+    return Focus(
+      canRequestFocus: false,
+      skipTraversal: true,
+      child: GlassCard(
+        padding: const EdgeInsets.symmetric(horizontal: 14, vertical: 10),
+        borderRadius: 20,
+        hoverable: true,
+        onTap: onTap,
+        child: Row(
+          mainAxisSize: MainAxisSize.min,
+          children: [
+            Icon(icon, size: 16, color: AppColors.primaryViolet),
+            const SizedBox(width: 8),
+            Text(
+              label,
+              style: const TextStyle(fontSize: 12, fontWeight: FontWeight.w500),
+            ),
+          ],
+        ),
       ),
     );
   }
