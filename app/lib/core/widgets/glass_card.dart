@@ -34,13 +34,19 @@ class _GlassCardState extends State<GlassCard> {
   @override
   Widget build(BuildContext context) {
     final isDark = Theme.of(context).brightness == Brightness.dark;
-    final defaultBg = isDark ? AppColors.darkCard : AppColors.lightCard;
+    final defaultBg = isDark
+        ? (isHovered && widget.hoverable
+              ? AppColors.darkSurfaceHover
+              : AppColors.darkCard)
+        : (isHovered && widget.hoverable
+              ? AppColors.lightSurfaceHover
+              : AppColors.lightCard);
     final defaultBorder = isDark
         ? (isHovered && widget.hoverable
-              ? AppColors.primaryViolet.withValues(alpha: 0.6)
+              ? AppColors.primaryIndigo.withValues(alpha: 0.4)
               : AppColors.darkBorder)
         : (isHovered && widget.hoverable
-              ? AppColors.primaryViolet.withValues(alpha: 0.5)
+              ? AppColors.primaryIndigo.withValues(alpha: 0.3)
               : AppColors.lightBorder);
 
     return MouseRegion(
@@ -50,8 +56,8 @@ class _GlassCardState extends State<GlassCard> {
           ? SystemMouseCursors.click
           : SystemMouseCursors.basic,
       child: AnimatedContainer(
-        duration: const Duration(milliseconds: 220),
-        curve: Curves.easeOutCubic,
+        duration: const Duration(milliseconds: 180),
+        curve: Curves.easeInOut,
         decoration: BoxDecoration(
           color: widget.gradient == null
               ? (widget.backgroundColor ?? defaultBg)
@@ -60,30 +66,15 @@ class _GlassCardState extends State<GlassCard> {
           borderRadius: BorderRadius.circular(widget.borderRadius),
           border: Border.all(
             color: widget.borderColor ?? defaultBorder,
-            width: isHovered && widget.hoverable ? 1.5 : 1,
+            width: 1,
           ),
-          boxShadow: isHovered && widget.hoverable
-              ? [
-                  BoxShadow(
-                    color: AppColors.primaryViolet.withValues(
-                      alpha: isDark ? 0.22 : 0.12,
-                    ),
-                    blurRadius: 20,
-                    offset: const Offset(0, 6),
-                  ),
-                  BoxShadow(
-                    color: AppColors.primaryCyan.withValues(
-                      alpha: isDark ? 0.12 : 0.05,
-                    ),
-                    blurRadius: 30,
-                    offset: const Offset(0, 10),
-                  ),
-                ]
+          boxShadow: isDark
+              ? null
               : [
                   BoxShadow(
-                    color: Colors.black.withValues(alpha: isDark ? 0.35 : 0.04),
-                    blurRadius: 12,
-                    offset: const Offset(0, 3),
+                    color: Colors.black.withValues(alpha: 0.03),
+                    blurRadius: 6,
+                    offset: const Offset(0, 2),
                   ),
                 ],
         ),
@@ -93,8 +84,8 @@ class _GlassCardState extends State<GlassCard> {
           child: InkWell(
             onTap: widget.onTap,
             borderRadius: BorderRadius.circular(widget.borderRadius),
-            splashColor: AppColors.primaryViolet.withValues(alpha: 0.12),
-            highlightColor: AppColors.primaryViolet.withValues(alpha: 0.06),
+            splashColor: AppColors.primaryIndigo.withValues(alpha: 0.08),
+            highlightColor: AppColors.primaryIndigo.withValues(alpha: 0.04),
             child: Padding(padding: widget.padding, child: widget.child),
           ),
         ),
