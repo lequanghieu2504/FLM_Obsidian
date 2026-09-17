@@ -41,17 +41,9 @@ class _ChatPageState extends ConsumerState<ChatPage> {
   void _selectPromptTemplate(String template) {
     controller.text = template;
     focusNode.requestFocus();
-    final placeholderIndex = template.indexOf('...');
-    if (placeholderIndex != -1) {
-      controller.selection = TextSelection(
-        baseOffset: placeholderIndex,
-        extentOffset: placeholderIndex + 3,
-      );
-    } else {
-      controller.selection = TextSelection.fromPosition(
-        TextPosition(offset: template.length),
-      );
-    }
+    controller.selection = TextSelection.collapsed(
+      offset: controller.text.length,
+    );
   }
 
   @override
