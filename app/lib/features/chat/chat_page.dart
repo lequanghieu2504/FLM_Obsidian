@@ -30,12 +30,29 @@ class ChatPage extends ConsumerStatefulWidget {
 
 class _ChatPageState extends ConsumerState<ChatPage> {
   final controller = TextEditingController();
-  final ScrollController scrollController = ScrollController();
+  final scrollController = ScrollController();
+  final focusNode = FocusNode();
   bool loading = false;
   final List<ChatMessage> messages = [];
   List<Conversation> conversations = [];
   String? selectedConversationId;
   bool historyLoading = true;
+
+  void _selectPromptTemplate(String template) {
+    controller.text = template;
+    focusNode.requestFocus();
+    final placeholderIndex = template.indexOf('...');
+    if (placeholderIndex != -1) {
+      controller.selection = TextSelection(
+        baseOffset: placeholderIndex,
+        extentOffset: placeholderIndex + 3,
+      );
+    } else {
+      controller.selection = TextSelection.fromPosition(
+        TextPosition(offset: template.length),
+      );
+    }
+  }
 
   @override
   void initState() {
@@ -120,6 +137,7 @@ class _ChatPageState extends ConsumerState<ChatPage> {
   void dispose() {
     controller.dispose();
     scrollController.dispose();
+    focusNode.dispose();
     super.dispose();
   }
 
@@ -365,36 +383,41 @@ class _ChatPageState extends ConsumerState<ChatPage> {
                                 children: [
                                   _PromptChip(
                                     icon: Icons.numbers_rounded,
-                                    label: 'Môn PRM393 có mấy tín chỉ?',
-                                    onTap: () =>
-                                        _ask('Môn PRM393 có mấy tín chỉ?'),
+                                    label: 'Môn ... có mấy tín chỉ?',
+                                    onTap: () => _selectPromptTemplate(
+                                      'Môn ... có mấy tín chỉ?',
+                                    ),
                                   ),
                                   _PromptChip(
                                     icon: Icons.calculate_rounded,
-                                    label: 'Cách tính điểm môn SWP391 như thế nào?',
-                                    onTap: () => _ask(
-                                      'Cách tính điểm môn SWP391 như thế nào?',
+                                    label:
+                                        'Cách tính điểm môn ... như thế nào?',
+                                    onTap: () => _selectPromptTemplate(
+                                      'Cách tính điểm môn ... như thế nào?',
                                     ),
                                   ),
                                   _PromptChip(
                                     icon: Icons.link_rounded,
-                                    label: 'Môn PRN212 có yêu cầu điều kiện tiên quyết gì không?',
-                                    onTap: () => _ask(
-                                      'Môn PRN212 có yêu cầu điều kiện tiên quyết gì không?',
+                                    label:
+                                        'Môn ... có yêu cầu điều kiện tiên quyết gì không?',
+                                    onTap: () => _selectPromptTemplate(
+                                      'Môn ... có yêu cầu điều kiện tiên quyết gì không?',
                                     ),
                                   ),
                                   _PromptChip(
                                     icon: Icons.warning_amber_rounded,
-                                    label: 'Nếu rớt môn SWE201c thì các kỳ sau sẽ không được học những môn nào?',
-                                    onTap: () => _ask(
-                                      'Nếu rớt môn SWE201c thì các kỳ sau sẽ không được học những môn nào?',
+                                    label:
+                                        'Nếu rớt môn ... thì các kỳ sau sẽ không được học những môn nào?',
+                                    onTap: () => _selectPromptTemplate(
+                                      'Nếu rớt môn ... thì các kỳ sau sẽ không được học những môn nào?',
                                     ),
                                   ),
                                   _PromptChip(
                                     icon: Icons.menu_book_rounded,
-                                    label: 'Nội dung học môn JPD111 gồm những phần nào?',
-                                    onTap: () => _ask(
-                                      'Nội dung học môn JPD111 gồm những phần nào?',
+                                    label:
+                                        'Nội dung học môn ... gồm những phần nào?',
+                                    onTap: () => _selectPromptTemplate(
+                                      'Nội dung học môn ... gồm những phần nào?',
                                     ),
                                   ),
                                 ],
@@ -440,6 +463,7 @@ class _ChatPageState extends ConsumerState<ChatPage> {
                       Expanded(
                         child: TextField(
                           controller: controller,
+                          focusNode: focusNode,
                           decoration: const InputDecoration(
                             hintText: 'Nhập câu hỏi của bạn về môn học, syllabus, tín chỉ, điểm số...',
                             border: InputBorder.none,
@@ -469,11 +493,11 @@ class _ChatPageState extends ConsumerState<ChatPage> {
 
   Widget _buildQuickSuggestionsBar(BuildContext context) {
     final suggestions = [
-      'Môn PRM393 có mấy tín chỉ?',
-      'Cách tính điểm môn SWP391?',
-      'Điều kiện tiên quyết môn PRN212?',
-      'Nếu rớt môn SWE201c sẽ bị khóa môn nào?',
-      'Nội dung học môn JPD111?',
+      'Môn ... có mấy tín chỉ?',
+      'Cách tính điểm môn ...?',
+      'Điều kiện tiên quyết môn ...?',
+      'Nếu rớt môn ... sẽ bị khóa môn nào?',
+      'Nội dung học môn ...?',
     ];
 
     final isDark = Theme.of(context).brightness == Brightness.dark;
@@ -531,7 +555,7 @@ class _ChatPageState extends ConsumerState<ChatPage> {
                 shape: RoundedRectangleBorder(
                   borderRadius: BorderRadius.circular(16),
                 ),
-                onPressed: loading ? null : () => _ask(suggestion),
+                onPressed: loading ? null : () => _selectPromptTemplate(suggestion),
               ),
             ),
           ],

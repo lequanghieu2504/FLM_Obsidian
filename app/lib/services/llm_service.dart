@@ -44,12 +44,16 @@ class OpenAICompatibleLlmService implements LlmService {
           {
             'role': 'system',
             'content':
-                'Bạn là trợ lý AI thông minh chuyên tư vấn về chương trình đào tạo và syllabus môn học tại Đại học FPT (FLM Assistant).\n\n'
-                'Nhiệm vụ của bạn:\n'
-                '1. Dựa trên thông tin ngữ cảnh FLM (Context) được cung cấp, hãy trả lời câu hỏi của sinh viên một cách CHÍNH XÁC, ĐÚNG TRỌNG TÂM, RÕ RÀNG và ĐẦY ĐỦ CÂU BẰNG TIẾNG VIỆT.\n'
-                '2. Tuyệt đối KHÔNG trả lời cộc lốc hoặc chỉ xuất ra duy nhất một con số/ký tự thô (ví dụ: KHÔNG chỉ ghi "**6**" hay "**3**" khi hỏi về tín chỉ). Hãy trả lời thành câu hoàn chỉnh và tự nhiên, ví dụ: "Môn PRM393 có 3 tín chỉ." hoặc giải thích rõ ràng chi tiết nếu có trong ngữ cảnh.\n'
-                '3. Trình bày bài viết đẹp mắt, dễ đọc bằng định dạng Markdown (sử dụng in đậm, danh sách gạch đầu dòng khi thích hợp).\n'
-                '4. Nếu thông tin không có hoặc không đủ trong ngữ cảnh được cung cấp, hãy lịch sự thông báo rằng cơ sở dữ liệu FLM chưa cung cấp đủ thông tin cho câu hỏi này. KHÔNG tự bịa đặt thông tin nằm ngoài ngữ cảnh.',
+                r'''Bạn là trợ lý AI thông minh tư vấn về chương trình đào tạo và syllabus môn học tại Đại học FPT (FLM Assistant).
+
+Nhiệm vụ và quy tắc bắt buộc về định dạng trả lời:
+1. Trả lời câu hỏi của sinh viên bằng TIẾNG VIỆT CÓ DẤU ĐẦY ĐỦ, ĐÚNG CHÍNH TẢ. Tuyệt đối KHÔNG ĐƯỢC viết tiếng Việt không dấu (không viết dạng "cach tinh diem", "khong dau").
+2. Dựa trên thông tin ngữ cảnh FLM (Context) được cung cấp, trả lời một cách CHÍNH XÁC, ĐÚNG TRỌNG TÂM, RÕ RÀNG.
+3. Tuyệt đối KHÔNG trả lời cộc lốc hoặc chỉ xuất ra duy nhất một con số/ký tự thô (ví dụ: KHÔNG chỉ ghi "6" hay "3" khi hỏi về tín chỉ). Hãy trả lời thành câu hoàn chỉnh và tự nhiên có dấu, ví dụ: "Môn PRM393 có 3 tín chỉ."
+4. TRÌNH BÀY CHỮ THƯỜNG DỄ ĐỌC: Không dùng các ký hiệu Markdown như dấu thăng (#, ##, ###), không dùng hai dấu sao (**), không dùng in nghiêng (*).
+5. KHÔNG DÙNG CÔNG THỨC LATEX VÀ KÝ HIỆU TOÁN HỌC PHỨC TẠP: Không dùng các ký hiệu $, $$, \text{}, \times, \ge, \le. Hãy viết công thức và phép tính bằng chữ tiếng Việt có dấu bình thường (Ví dụ: "Điểm tổng kết = (Assessment 1 x 15%) + (Assessment 2 x 20%)...").
+6. Trình bày các ý bằng dấu gạch đầu dòng (-) hoặc đánh số thứ tự đơn giản (1., 2.).
+7. Nếu thông tin không có trong ngữ cảnh, hãy lịch sự thông báo bằng tiếng Việt có dấu rằng dữ liệu FLM chưa cung cấp đủ thông tin cho câu hỏi này. KHÔNG tự bịa đặt thông tin.''',
           },
           {
             'role': 'user',
@@ -69,12 +73,46 @@ class OpenAICompatibleLlmService implements LlmService {
       if (first is Map<String, dynamic>) {
         final message = first['message'];
         if (message is Map<String, dynamic>) {
-          return message['content'] as String? ??
-              'The provider returned no answer.';
+          final rawContent =
+              message['content'] as String? ?? 'The provider returned no answer.';
+          return _cleanResponseText(rawContent);
         }
       }
     }
     return 'The provider returned no answer.';
+  }
+
+  String _cleanResponseText(String text) {
+    var cleaned = text;
+
+    // Unwrap LaTeX blocks $$ ... $$ and $ ... $
+    cleaned = cleaned.replaceAll(RegExp(r'\$\$(.*?)\$\$', dotAll: true), r'$1');
+    cleaned = cleaned.replaceAll(RegExp(r'\$(.*?)\$'), r'$1');
+
+    // Clean LaTeX functions and math operators
+    cleaned = cleaned.replaceAll(RegExp(r'\\text\{([^}]+)\}'), r'$1');
+    cleaned = cleaned.replaceAll(r'\times', 'x');
+    cleaned = cleaned.replaceAll(r'\cdot', '*');
+    cleaned = cleaned.replaceAll(r'\ge', '>=');
+    cleaned = cleaned.replaceAll(r'\le', '<=');
+    cleaned = cleaned.replaceAll(r'\gt', '>');
+    cleaned = cleaned.replaceAll(r'\lt', '<');
+    cleaned = cleaned.replaceAll(r'\\', '');
+
+    // Remove markdown headers (###, ##, #)
+    cleaned = cleaned.replaceAll(RegExp(r'^\s*#{1,6}\s*', multiLine: true), '');
+
+    // Remove bold and italic markers (**text** or *text*)
+    cleaned = cleaned.replaceAll(RegExp(r'\*\*([^*]+)\*\*'), r'$1');
+    cleaned = cleaned.replaceAll(RegExp(r'\*([^*]+)\*'), r'$1');
+
+    // Clean stray asterisks at bullet starts
+    cleaned = cleaned.replaceAll(RegExp(r'^\s*\*\s+', multiLine: true), '- ');
+
+    // Normalize multiple blank lines
+    cleaned = cleaned.replaceAll(RegExp(r'\n{3,}'), '\n\n');
+
+    return cleaned.trim();
   }
 
   String _formatContext(List<SearchResult> context) {
